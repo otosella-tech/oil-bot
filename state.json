@@ -1,5 +1,8 @@
 {
- "price_base": {},
+ "price_base": {
+  "WTI": 74.75,
+  "Brent": 79.51
+ },
  "seen": [
   "2d807671bfa4e76d",
   "9edf78d6d8202048",
@@ -115,7 +118,23 @@
   "24fca0bd30613427",
   "d077aec8b83fb3b7",
   "978ba11d4dcef504",
-  "ad7531736675cb87"
+  "ad7531736675cb87",
+  "aead724ddf765d4d",
+  "eusrussianlngimportshitrecordhighaheadof2027ban",
+  "28cc09180c6043f6",
+  "crudeoilhigherearningskickofftohighlightweek",
+  "50c560f8e145a65b",
+  "thestockmarketrallynowhingesmoreonaithanoil",
+  "395c7ab86f46f7dd",
+  "oilpricesjumpandsharesslipasusandirancarryoutairstrikes",
+  "c9cf40a12865980b",
+  "oilpricesrisefollowingthelatestfightinginthemiddleeastasaist",
+  "a70f251955598087",
+  "floridagaspricesclimbpalmbeachcountyleadsstatewithhighestpri",
+  "280f7801dceddab0",
+  "oilcouldspiketo125ifusiranconflictreturnstohotwareconomistsa",
+  "6a21faabf715c226",
+  "mechanicsaysfordperfectedtheoilchangeafter2022rangercomesint"
  ],
  "releases_done": {},
  "last_digest": "2026-07-13",
