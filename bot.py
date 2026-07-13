@@ -5,6 +5,7 @@
 התראות לפני/אחרי פרסומי נתונים, וסיכום יומי.
 """
 
+import html
 import json
 import os
 import re
@@ -112,18 +113,33 @@ def send(text):
 # ============ מחירים ============
 
 
+def price_from_stooq(sym):
+    csv = http_get(f"https://stooq.com/q/l/?s={sym}&f=sd2t2ohlcv&h&e=csv")
+    row = csv.strip().splitlines()[1].split(",")
+    return float(row[6])  # עמודת Close
+
+
+def price_from_yahoo(sym):
+    url = (f"https://query1.finance.yahoo.com/v8/finance/chart/"
+           f"{urllib.parse.quote(sym)}?range=1d&interval=15m")
+    data = json.loads(http_get(url))
+    return float(data["chart"]["result"][0]["meta"]["regularMarketPrice"])
+
+
 def get_prices():
-    """מחירי נפט מ-stooq (חינמי, בלי מפתח). מחזיר {'WTI': מחיר, 'Brent': מחיר}."""
+    """מחירי נפט משני מקורות חינמיים — אם אחד נופל השני מחליף."""
     out = {}
-    for sym, name in (("cl.f", "WTI"), ("cb.f", "Brent")):
-        try:
-            csv = http_get(f"https://stooq.com/q/l/?s={sym}&f=sd2t2ohlcv&h&e=csv")
-            row = csv.strip().splitlines()[1].split(",")
-            price = float(row[6])  # עמודת Close
-            if price > 0:
-                out[name] = price
-        except Exception as e:
-            print(f"שגיאת מחיר {name}:", e)
+    symbols = {"WTI": ("cl.f", "CL=F"), "Brent": ("cb.f", "BZ=F")}
+    for name, (stooq_sym, yahoo_sym) in symbols.items():
+        for fetch, sym in ((price_from_stooq, stooq_sym),
+                           (price_from_yahoo, yahoo_sym)):
+            try:
+                price = fetch(sym)
+                if price > 0:
+                    out[name] = price
+                    break
+            except Exception as e:
+                print(f"שגיאת מחיר {name} ({sym}):", e)
     return out
 
 
@@ -157,7 +173,7 @@ def parse_rss(xml_text):
         t = re.search(r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", block, re.S)
         l = re.search(r"<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</link>", block, re.S)
         if t and l:
-            title = re.sub(r"\s+", " ", t.group(1)).strip()
+            title = html.unescape(re.sub(r"\s+", " ", t.group(1)).strip())
             items.append((title, l.group(1).strip()))
     return items
 
@@ -169,6 +185,16 @@ def score_title(title):
 
 def item_id(title, link):
     return hashlib.md5((title + link).encode()).hexdigest()[:16]
+
+
+def norm_title(title):
+    """נרמול כותרת לזיהוי אותה ידיעה ממקורות שונים."""
+    t = re.sub(r"\s*-\s*[^-]+$", "", title)  # הסרת שם המקור בסוף
+    return re.sub(r"[^a-z0-9]", "", t.lower())[:60]
+
+
+def linkify(title, link):
+    return f'<a href="{html.escape(link, quote=True)}">{html.escape(title)}</a>'
 
 
 def fetch_all_news():
@@ -184,14 +210,17 @@ def fetch_all_news():
 def check_critical_news(state, items):
     seen = state.setdefault("seen", [])
     alerts = []
+    batch_titles = set()
     for title, link in items:
         iid = item_id(title, link)
-        if iid in seen:
+        nt = norm_title(title)
+        if iid in seen or nt in seen or nt in batch_titles:
             continue
         score = score_title(title)
         if score >= NEWS_SCORE_THRESHOLD:
-            alerts.append(f"🚨 <b>חדשות נפט</b>\n{title}\n{link}")
-        seen.append(iid)
+            alerts.append(f"🚨 <b>חדשות נפט</b>\n{linkify(title, link)}")
+            batch_titles.add(nt)
+        seen += [iid, nt]
     state["seen"] = seen[-MAX_SEEN:]
     return alerts[:5]  # מקסימום 5 התראות בריצה כדי לא להציף
 
@@ -259,15 +288,16 @@ def build_digest(state, prices, items, now_il, now_et):
     scored = sorted(((score_title(t), t, l) for t, l in items), reverse=True)
     top, used = [], set()
     for s, t, l in scored:
-        if s > 0 and l not in used:
+        nt = norm_title(t)
+        if s > 0 and nt not in used:
             top.append((s, t, l))
-            used.add(l)
+            used.add(nt)
         if len(top) == 5:
             break
     if top:
         lines += ["", "<b>כותרות בולטות:</b>"]
         for _, t, l in top:
-            lines.append(f"• {t}\n  {l}")
+            lines.append(f"• {linkify(t, l)}")
 
     lines += ["", "<b>פרסומים צפויים היום:</b>", upcoming_releases_text(now_et)]
     return "\n".join(lines)
