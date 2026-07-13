@@ -66,7 +66,7 @@ DATA_RELEASES = [
     (4, 15, 30, "דוח פוזיציות ספקולנטים (CFTC COT)"),
 ]
 
-RUN_INTERVAL_MIN = 35  # חלון זיהוי אירועים (קצת יותר מ-30 בגלל עיכובי תזמון)
+PRE_WINDOW_MIN = 35  # כמה דקות מראש להתריע לפני פרסום נתונים
 
 # ============ עזרים ============
 
@@ -328,6 +328,63 @@ def format_news(title, link, state):
             f"💡 {impact_rule(title)}")
 
 
+def batch_hebrew(titles, state):
+    """תרגום מקבץ + שקלול נטו בקריאת מודל אחת. מחזיר (נטו, [כותרות]) או None."""
+    joined = "\n".join(f"{i+1}. {t}" for i, t in enumerate(titles))
+    prompt = (
+        "אתה אנליסט שוקי נפט. לפניך כמה כותרות חדשות שהגיעו יחד.\n"
+        "1. שקלל אותן וכתוב שורה תחתונה אחת: לאן המכלול מושך את מחיר "
+        "חוזי הנפט נטו (עלייה/ירידה/מנוגד-תנודתיות) ולמה. פתח בחץ ⬆️ או ⬇️ או ↕️.\n"
+        "2. תרגם כל כותרת לעברית קצרה.\n"
+        'החזר JSON בלבד: {"net": "...", "items": ["...", "..."]}\n'
+        f"הכותרות:\n{joined}")
+    resp = llm_call(prompt, state)
+    if not resp:
+        return None
+    data = extract_json(resp)
+    if (data and data.get("net") and isinstance(data.get("items"), list)
+            and len(data["items"]) == len(titles)):
+        return data["net"].strip(), [str(x).strip() for x in data["items"]]
+    return None
+
+
+def rule_net(titles):
+    """שקלול כיוון מבוסס חוקים כשאין מודל."""
+    up = down = 0
+    for t in titles:
+        imp = impact_rule(t)
+        if imp.startswith(("⬆️", "📈")):
+            up += 1
+        elif imp.startswith(("⬇️", "📉")):
+            down += 1
+    if up and not down:
+        return "⬆️ כל הידיעות מושכות לכיוון עליית מחיר"
+    if down and not up:
+        return "⬇️ כל הידיעות מושכות לכיוון ירידת מחיר"
+    if up and down:
+        return f"↕️ אותות מנוגדים ({up} לעלייה, {down} לירידה) — צפויה תנודתיות"
+    return "⚠️ אירועים רלוונטיים לשוק — כיוון לא חד-משמעי"
+
+
+def format_news_batch(items, state):
+    """הודעה משוקללת אחת לכמה ידיעות שהגיעו באותה ריצה."""
+    titles = [t for t, _ in items]
+    heb = batch_hebrew(titles, state)
+    lines = [f"🚨 <b>מקבץ חדשות נפט ({len(items)} ידיעות)</b>"]
+    if heb:
+        net, he_titles = heb
+        lines.append(f"⚖️ <b>שורה תחתונה:</b> {html.escape(net)}")
+        lines.append("")
+        for (_, link), he_t in zip(items, he_titles):
+            lines.append(f"• {linkify(he_t, link)}")
+    else:
+        lines.append(f"⚖️ <b>שורה תחתונה:</b> {rule_net(titles)}")
+        lines.append("")
+        for t, link in items:
+            lines.append(f"• {linkify(t, link)}\n  💡 {impact_rule(t)}")
+    return "\n".join(lines)
+
+
 def fetch_all_news():
     items = []
     for url in RSS_FEEDS:
@@ -339,8 +396,9 @@ def fetch_all_news():
 
 
 def check_critical_news(state, items):
+    """מחזיר הודעות: ידיעה בודדת כפוש רגיל, כמה ידיעות כהודעה משוקללת אחת."""
     seen = state.setdefault("seen", [])
-    alerts = []
+    fresh = []
     batch_titles = set()
     for title, link in items:
         iid = item_id(title, link)
@@ -348,18 +406,22 @@ def check_critical_news(state, items):
         if iid in seen or nt in seen or nt in batch_titles:
             continue
         score = score_title(title)
-        if score >= NEWS_SCORE_THRESHOLD and len(alerts) < 5:
-            alerts.append(format_news(title, link, state))
+        if score >= NEWS_SCORE_THRESHOLD and len(fresh) < 6:
+            fresh.append((title, link))
             batch_titles.add(nt)
         seen += [iid, nt]
     state["seen"] = seen[-MAX_SEEN:]
-    return alerts  # מקסימום 5 התראות בריצה כדי לא להציף
+    if not fresh:
+        return []
+    if len(fresh) == 1:
+        return [format_news(fresh[0][0], fresh[0][1], state)]
+    return [format_news_batch(fresh, state)]
 
 
 # ============ פרסומי נתונים מתוזמנים ============
 
 
-def check_data_releases(state, now_et):
+def check_data_releases(state, now_et, post_window):
     """התראה לפני ואחרי כל פרסום נתונים קבוע."""
     msgs = []
     done = state.setdefault("releases_done", {})
@@ -371,11 +433,11 @@ def check_data_releases(state, now_et):
         delta_min = (event - now_et).total_seconds() / 60
         key_pre = f"{today_key}|{name}|pre"
         key_post = f"{today_key}|{name}|post"
-        if 0 < delta_min <= RUN_INTERVAL_MIN and key_pre not in done:
+        if 0 < delta_min <= PRE_WINDOW_MIN and key_pre not in done:
             msgs.append(f"⏰ <b>בקרוב ({int(delta_min)} דק'):</b> {name}\n"
                         f"צפויה תנודתיות סביב הפרסום.")
             done[key_pre] = 1
-        elif -RUN_INTERVAL_MIN <= delta_min <= 0 and key_post not in done:
+        elif -post_window <= delta_min <= 0 and key_post not in done:
             msgs.append(f"📊 <b>פורסם עכשיו:</b> {name}\n"
                         f"שווה לבדוק את המספרים מול הצפי — הפתעה במלאים "
                         f"(ירידה=חיובי למחיר, עלייה=שלילי) מזיזה את השוק מיד.")
@@ -458,12 +520,25 @@ def should_send_digest(state, now_il):
 # ============ ראשי ============
 
 
+def minutes_since_last_run(state, now_il):
+    """חלון אחורה לזיהוי אירועים — לפי הזמן שעבר מהריצה הקודמת בפועל."""
+    try:
+        last = datetime.fromisoformat(state["last_run"])
+        gap = (now_il - last).total_seconds() / 60
+        return max(6.0, min(gap + 3, 120.0))
+    except Exception:
+        return 35.0
+
+
 def main():
     state = load_state()
     now_il = datetime.now(TZ_IL)
     now_et = datetime.now(TZ_ET)
     print("ריצה:", now_il.isoformat())
     print("מודל שפה:", "פעיל" if GEMINI_API_KEY else "כבוי (ניתוח מבוסס חוקים)")
+
+    post_window = minutes_since_last_run(state, now_il)
+    state["last_run"] = now_il.isoformat()
 
     prices = get_prices()
     items = fetch_all_news()
@@ -472,7 +547,7 @@ def main():
     out = []
     out += check_price_alerts(state, prices)
     out += check_critical_news(state, items)
-    out += check_data_releases(state, now_et)
+    out += check_data_releases(state, now_et, post_window)
     if should_send_digest(state, now_il):
         out.append(build_digest(state, prices, items, now_il, now_et))
 
