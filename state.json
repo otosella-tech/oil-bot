@@ -482,7 +482,11 @@
   "6a485dbef98ad396",
   "oilpricessharplyupafteriranescalation",
   "3cf950b641ad8fd0",
-  "bpsignalsstrongersecondquarteroiltradingresultslowernetdebt"
+  "bpsignalsstrongersecondquarteroiltradingresultslowernetdebt",
+  "adb3cddfda71a1a6",
+  "bpflagsboostfromoilpricesrefiningmarginsasnetdebtfalls",
+  "74dde950fb68d957",
+  "oilpricesextendrunhigherasusirantensionsintensify"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -494,5 +498,5 @@
   "date": "2026-07-14",
   "count": 9
  },
- "last_run": "2026-07-14T12:20:36.179636+03:00"
+ "last_run": "2026-07-14T12:25:16.883020+03:00"
 }
