@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "0e24cb1e36171ebb",
-  "oilgainsover4astrumpsaysusreinstatingirannavalblockade",
   "02264275fb4832b6",
   "oiltankerstockbenefitsfromstraitofhormuzclosure",
   "838ed66487487316",
@@ -603,7 +601,9 @@
   "74288e2b28e6302e",
   "crudeoilpricesriseasusiranhostilitiescontinue",
   "1231daacd1866023",
-  "oiljumpsastrumpclaimsnewhormuzblockadeoniran"
+  "oiljumpsastrumpclaimsnewhormuzblockadeoniran",
+  "e363e7f111d75808",
+  "oilsettlesoffhighsastrumpdrops20hormuzfeeplan"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -615,7 +615,7 @@
   "date": "2026-07-14",
   "count": 60
  },
- "last_run": "2026-07-14T22:40:35.357310+03:00",
+ "last_run": "2026-07-14T22:45:26.651800+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -736,6 +736,10 @@
   {
    "d": "2026-07-14",
    "t": "Oil jumps as Trump claims new Hormuz blockade on Iran - Axios"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Oil Settles Off Highs as Trump Drops 20% Hormuz Fee Plan - WSJ"
   }
  ]
 }
