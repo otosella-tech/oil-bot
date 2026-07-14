@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "3fc36cfa2a90380d",
-  "00423ddc27ddee9e",
-  "aefb61fcebc99fba",
-  "b5b1e01e792a3fa8",
   "d05d63b2bfe14b95",
   "cfdcf8e543500fa4",
   "2eaa6950641d3330",
@@ -603,7 +599,11 @@
   "a43db77bae3b636f",
   "oilpricessurgeafteriranandustradestrikes",
   "1796ef6e004511d6",
-  "nigeriasoilproductionrose25000bpdto156mbpdinjuneopec"
+  "nigeriasoilproductionrose25000bpdto156mbpdinjuneopec",
+  "410850da0533d845",
+  "goldreboundsasusinflationdropsbutcrudeoilleaps",
+  "eee9efd47d3881f7",
+  "gasolinepricessurgeacrossillinoisasoilmarketsreacttointernat"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -615,5 +615,5 @@
   "date": "2026-07-14",
   "count": 34
  },
- "last_run": "2026-07-14T17:30:45.184188+03:00"
+ "last_run": "2026-07-14T17:35:19.578052+03:00"
 }
