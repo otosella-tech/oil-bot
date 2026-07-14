@@ -1,13 +1,9 @@
 {
  "price_base": {
-  "WTI": 80.34,
+  "WTI": 78.73,
   "Brent": 85.42
  },
  "seen": [
-  "60380455c1bee234",
-  "aaa5c98deb02c8ae",
-  "7bdb7e810f3b0745",
-  "bd18d04e223358fd",
   "172abe91d9d2bcb5",
   "bd9ece279cd4ddbe",
   "df74601128f66169",
@@ -603,7 +599,11 @@
   "054fffa2223c2ede",
   "venezuelasoilrevivalfacesacriticalservicesbottleneck",
   "c21c2f4e73996857",
-  "southamericancrudereachesgermanrefineryviapolandafterrussiah"
+  "southamericancrudereachesgermanrefineryviapolandafterrussiah",
+  "4b6a17b9d640e0a4",
+  "nigeriasdangotebeginspricinglocalfuelsalesindollarscitingcru",
+  "51d43067b6febf74",
+  "coolinginflationeasespressureonfedasoilpricesjumpasusandiran"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,7 +613,7 @@
  },
  "llm": {
   "date": "2026-07-14",
-  "count": 35
+  "count": 36
  },
- "last_run": "2026-07-14T18:00:52.205413+03:00"
+ "last_run": "2026-07-14T18:05:26.073126+03:00"
 }
