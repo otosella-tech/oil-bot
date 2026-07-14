@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "76a736b60e958417",
-  "8ffa3d53dee6facf",
-  "a200a3eb7581ac45",
-  "f83c3ad888b43858",
   "036859bc6e57aef8",
   "d5aebe188da53dfc",
   "fc52362426117e83",
@@ -603,7 +599,11 @@
   "4477874f59aa25cd",
   "ifugandascourtswillnotapplythelawenglandshighcourtmust",
   "1944962f1244ef9f",
-  "oiljumpsabove87asrussiaukraineblackseaattacksescalate"
+  "oiljumpsabove87asrussiaukraineblackseaattacksescalate",
+  "687ccefebf689365",
+  "oilpricesrise2asusblockadeoniranstokessupplyfears",
+  "bf4c4300e3bc20ff",
+  "thecrudeoilassayforjohansverdruphasbeenupdated"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,7 +613,13 @@
  },
  "llm": {
   "date": "2026-07-14",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-07-14T18:15:23.253675+03:00"
+ "last_run": "2026-07-14T18:20:36.665203+03:00",
+ "sent_stories": [
+  {
+   "d": "2026-07-14",
+   "t": "Oil prices rise 2% as US blockade on Iran stokes supply fears - Reuters"
+  }
+ ]
 }
