@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "9e62f474726ad8e8",
-  "eiacrudeoilinventoriesinusseerarebuild",
-  "162438cdf1e1a3fd",
-  "trumpsaysiranceasefireisovercrudeoilpricesriseandsomebayarea",
   "38675cb518df6a16",
   "mouagreementastepforwardtosupportgrowthandadvancetheproposed",
   "f4492e495449accd",
@@ -603,7 +599,11 @@
   "bb9d2210de3d1009",
   "azerbaijanacceleratesmiddlecorridorpushwithcentralasiatraded",
   "b64ab592e95f48e8",
-  "oilpricedipsfromhighaftertrumpchangesplansforshippingfees"
+  "oilpricedipsfromhighaftertrumpchangesplansforshippingfees",
+  "7758e22efde48757",
+  "ppiandcrudeoilinventorieshighlightwednesdayseconomiccalendar",
+  "239967843a475d9e",
+  "oilrisesmorethanadollarperbarrelasuslaunchesfreshstrikesagai"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -615,7 +615,7 @@
   "date": "2026-07-14",
   "count": 60
  },
- "last_run": "2026-07-14T21:00:47.550337+03:00",
+ "last_run": "2026-07-14T21:05:18.913341+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -684,6 +684,10 @@
   {
    "d": "2026-07-14",
    "t": "Trump backtracks on 20% Strait of Hormuz tolls that violate maritime law and risked oil shock - Cronkite News"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Oil rises more than a dollar per barrel as US launches fresh strikes against Iran - Reuters"
   }
  ]
 }
