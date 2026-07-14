@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "24fca0bd30613427",
-  "d077aec8b83fb3b7",
-  "978ba11d4dcef504",
-  "ad7531736675cb87",
   "aead724ddf765d4d",
   "eusrussianlngimportshitrecordhighaheadof2027ban",
   "28cc09180c6043f6",
@@ -603,7 +599,11 @@
   "e68767e520914174",
   "trumpbacktrackson20tollforshippinginhormuzstraitoilpricesrem",
   "ab0d6c78e8307713",
-  "keystonepipelinesystemsoperatortopay269mpenaltyoverkansasoil"
+  "keystonepipelinesystemsoperatortopay269mpenaltyoverkansasoil",
+  "e8e4e8c184cc4bb8",
+  "brentoilstructurechangestoreflectmountingsupplyriskasiranten",
+  "a54fbcc900b3947a",
+  "electrifyingoilandgasoperationscapstoneupgradingmicroturbine"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-14",
-  "count": 51
+  "count": 53
  },
- "last_run": "2026-07-14T19:50:38.795337+03:00",
+ "last_run": "2026-07-14T19:55:23.212110+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -648,6 +648,10 @@
   {
    "d": "2026-07-14",
    "t": "Trump Backtracks on 20% Toll for Shipping in Hormuz Strait. Oil Prices Remain Elevated. - Barron's"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Brent oil structure changes to reflect mounting supply risk as Iran tensions flare - Reuters"
   }
  ]
 }
