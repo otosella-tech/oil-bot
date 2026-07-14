@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "395c7ab86f46f7dd",
-  "oilpricesjumpandsharesslipasusandirancarryoutairstrikes",
-  "c9cf40a12865980b",
-  "oilpricesrisefollowingthelatestfightinginthemiddleeastasaist",
   "a70f251955598087",
   "floridagaspricesclimbpalmbeachcountyleadsstatewithhighestpri",
   "280f7801dceddab0",
@@ -603,7 +599,11 @@
   "4c6d6c38a24f8acf",
   "oilpricesoffhighsaftertrumpabandons20protectionfeeonstraitof",
   "1ee2e19dba9a5389",
-  "ceatresearchersunveilhiddenmechanicsbehindoilwateremulsions"
+  "ceatresearchersunveilhiddenmechanicsbehindoilwateremulsions",
+  "c30b233c0b409955",
+  "oilpriceshitaonemonthhighafterceasefirecollapse",
+  "ec13d5d3ccd21a4e",
+  "trumpbacksawayfromplanstochargefeesinthestraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-14",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-07-14T20:10:34.476688+03:00",
+ "last_run": "2026-07-14T20:15:24.527020+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -660,6 +660,10 @@
   {
    "d": "2026-07-14",
    "t": "Oil prices off highs after Trump abandons 20% protection fee on Strait of Hormuz traffic - CNBC"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Trump backs away from plans to charge fees in the Strait of Hormuz - PBS"
   }
  ]
 }
