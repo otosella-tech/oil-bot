@@ -4,12 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "172abe91d9d2bcb5",
-  "bd9ece279cd4ddbe",
-  "df74601128f66169",
-  "5551f386d00ed520",
-  "9bdfe6286b05bafd",
-  "cbec64c70c427c64",
   "76a736b60e958417",
   "8ffa3d53dee6facf",
   "a200a3eb7581ac45",
@@ -603,7 +597,13 @@
   "4b6a17b9d640e0a4",
   "nigeriasdangotebeginspricinglocalfuelsalesindollarscitingcru",
   "51d43067b6febf74",
-  "coolinginflationeasespressureonfedasoilpricesjumpasusandiran"
+  "coolinginflationeasespressureonfedasoilpricesjumpasusandiran",
+  "4fbce580616f2fc3",
+  "africaslargestoilrefineryswitchestothedollarforitsnewpricing",
+  "4477874f59aa25cd",
+  "ifugandascourtswillnotapplythelawenglandshighcourtmust",
+  "1944962f1244ef9f",
+  "oiljumpsabove87asrussiaukraineblackseaattacksescalate"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,7 +613,7 @@
  },
  "llm": {
   "date": "2026-07-14",
-  "count": 36
+  "count": 37
  },
- "last_run": "2026-07-14T18:05:26.073126+03:00"
+ "last_run": "2026-07-14T18:10:39.574119+03:00"
 }
