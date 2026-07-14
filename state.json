@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "90d2cc70e4da2cdc",
-  "stockindexessplitaschipstocksfalloilsurges",
   "2016bafa583e984f",
   "opecmonthlyreportuaecrudeoiloutputsurges80injunedowngradesgl",
   "ed3b457110e8bfca",
@@ -603,7 +601,9 @@
   "2570c460f7fb6097",
   "texasportceoseesusoilexportsholdingaboveprewarlevels",
   "36c5acecfdc0bbd4",
-  "ussupportingeffortstoreviveiraqsyriacrudeoilpipelineusoffici"
+  "ussupportingeffortstoreviveiraqsyriacrudeoilpipelineusoffici",
+  "d12a1ef9d1d819a3",
+  "couldgeothermalenergyrescuegermanysfadingcoaltowns"
  ],
  "releases_done": {
   "2026-07-14|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-14",
   "count": 60
  },
- "last_run": "2026-07-14T23:55:16.418973+03:00",
+ "last_run": "2026-07-15T00:00:46.452863+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
