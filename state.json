@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "4547f7671a9dcbf7",
-  "crudeoilfindsatollboothwhereitsceasefireusedtobe",
   "9c03a98f185f1375",
   "crudeoilfuturessurgeover5asstraitofhormuzclosurefearsreignit",
   "90d2cc70e4da2cdc",
@@ -603,7 +601,9 @@
   "4ceb2377b880867b",
   "pricesatcanadianpumpsrisingagainasoilclimbsto4weekhighs",
   "1e6a8f9424f7d7f0",
-  "oilpricesclimbto85asusiranattacksintensifyhormuztrafficstall"
+  "oilpricesclimbto85asusiranattacksintensifyhormuztrafficstall",
+  "2570c460f7fb6097",
+  "texasportceoseesusoilexportsholdingaboveprewarlevels"
  ],
  "releases_done": {
   "2026-07-14|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-14",
   "count": 60
  },
- "last_run": "2026-07-14T23:45:21.130480+03:00",
+ "last_run": "2026-07-14T23:50:37.539948+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -751,6 +751,10 @@
   {
    "d": "2026-07-14",
    "t": "Oil prices climb to $85 as US-Iran attacks intensify, Hormuz traffic stalls - Al-Monitor"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Texas Port CEO Sees US Oil Exports Holding Above Prewar Levels - Bloomberg.com"
   }
  ]
 }
