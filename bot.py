@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-בוט עדכוני נפט — רץ כל 30 דקות דרך GitHub Actions.
+בוט עדכוני נפט — רץ כל 5 דקות דרך GitHub Actions.
 שולח לערוץ טלגרם: חדשות קריטיות עם ניתוח בעברית, תנועות מחיר חדות,
 התראות לפני/אחרי פרסומי נתונים, וסיכום יומי.
 """
@@ -27,7 +27,9 @@ TZ_ET = ZoneInfo("America/New_York")
 
 DIGEST_HOUR_IL = 8          # שעת הסיכום היומי (שעון ישראל)
 PRICE_ALERT_PCT = 2.0       # אחוז תנועה שמצדיק התראה
-NEWS_SCORE_THRESHOLD = 4    # ציון מינימלי לחדשות קריטיות
+NEWS_SCORE_THRESHOLD = 4    # ציון מינימלי לחדשות קריטיות (סינון ראשוני)
+IMPACT_MIN = 7              # ציון השפעה 0-10 מהמודל שנדרש לשליחת פוש
+MEMORY_DAYS = 3             # כמה ימים לזכור סיפורים שנשלחו (נגד חזרות)
 MAX_SEEN = 600              # כמה כתבות לזכור למניעת כפילויות
 MAX_LLM_PER_DAY = 60        # תקרת קריאות יומית למודל השפה (בתוך המכסה החינמית)
 
@@ -36,9 +38,17 @@ GEMINI_MODELS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.0-flash"]
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state.json")
 
 RSS_FEEDS = [
-    "https://oilprice.com/rss/main",
-    "https://news.google.com/rss/search?q=crude+oil+OR+OPEC+OR+%22oil+prices%22&hl=en-US&gl=US&ceid=US:en",
+    ("https://oilprice.com/rss/main", "OilPrice.com"),
+    ("https://news.google.com/rss/search?q=crude+oil+OR+OPEC+OR+%22oil+prices%22&hl=en-US&gl=US&ceid=US:en", ""),
 ]
+
+# מקורות מובילים — מקבלים בונוס ניקוד ומשקל מלא אצל השופט
+TIER1_SOURCES = (
+    "reuters", "bloomberg", "wall street journal", "wsj", "financial times",
+    "cnbc", "marketwatch", "associated press", "ap news", "yahoo finance",
+    "oilprice.com", "investing.com", "s&p global", "platts", "argus",
+    "barron", "new york times", "washington post", "bbc", "cnn",
+)
 
 # מילות מפתח וניקוד — כותרת שצוברת מספיק נקודות נחשבת קריטית
 KEYWORDS = {
@@ -56,6 +66,10 @@ KEYWORDS = {
     "strategic petroleum": 4, "force majeure": 5,
     # שוק
     "surge": 3, "plunge": 3, "soar": 3, "crash": 3, "spike": 3,
+    # רעש — פרשנות וניתוח, לא אירועים (ניקוד שלילי)
+    "analysis": -4, "outlook": -4, "forecast": -4, "prediction": -4,
+    "week ahead": -5, "explainer": -5, "opinion": -5, "what to watch": -4,
+    "here's": -3, "why ": -2, "how ": -2, "could ": -2, "preview": -4,
 }
 
 # לוח פרסומי נתונים קבועים (שעון ניו יורק): (יום בשבוע 0=שני, שעה, דקה, שם)
@@ -283,22 +297,34 @@ def check_price_alerts(state, prices):
 # ============ חדשות ============
 
 
-def parse_rss(xml_text):
-    """חילוץ כותרות ולינקים מ-RSS בלי ספריות חיצוניות."""
+def parse_rss(xml_text, default_source=""):
+    """חילוץ כותרות, לינקים ומקור מ-RSS בלי ספריות חיצוניות."""
     items = []
     for m in re.finditer(r"<item>(.*?)</item>", xml_text, re.S):
         block = m.group(1)
         t = re.search(r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", block, re.S)
         l = re.search(r"<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</link>", block, re.S)
+        s = re.search(r"<source[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</source>", block, re.S)
         if t and l:
             title = html.unescape(re.sub(r"\s+", " ", t.group(1)).strip())
-            items.append((title, l.group(1).strip()))
+            source = html.unescape(s.group(1).strip()) if s else default_source
+            items.append((title, l.group(1).strip(), source))
     return items
 
 
 def score_title(title):
     low = title.lower()
     return sum(pts for kw, pts in KEYWORDS.items() if kw in low)
+
+
+def source_bonus(source):
+    """בונוס למקור מוביל, קנס קטן למקור אלמוני."""
+    if not source:
+        return 0
+    low = source.lower()
+    if any(t1 in low for t1 in TIER1_SOURCES):
+        return 2
+    return -1
 
 
 def item_id(title, link):
@@ -315,17 +341,58 @@ def linkify(title, link):
     return f'<a href="{html.escape(link, quote=True)}">{html.escape(title)}</a>'
 
 
-def format_news(title, link, state):
-    """בניית הודעת חדשות: עברית + ניתוח אם יש מודל, אחרת חוקים."""
-    heb = hebrewize(title, state)
-    if heb:
-        he_title, impact = heb
-        return (f"🚨 <b>חדשות נפט</b>\n"
-                f"{linkify(he_title, link)}\n"
-                f"💡 {html.escape(impact)}")
-    return (f"🚨 <b>חדשות נפט</b>\n"
-            f"{linkify(title, link)}\n"
-            f"💡 {impact_rule(title)}")
+def story_memory(state):
+    """סיפורים שנשלחו בימים האחרונים — לחסימת חזרות אצל השופט."""
+    today = datetime.now(TZ_IL).date()
+    mem = state.setdefault("sent_stories", [])
+    mem[:] = [e for e in mem
+              if (today - datetime.strptime(e["d"], "%Y-%m-%d").date()).days
+              <= MEMORY_DAYS]
+    return mem
+
+
+def remember_stories(state, items):
+    today = datetime.now(TZ_IL).strftime("%Y-%m-%d")
+    mem = state.setdefault("sent_stories", [])
+    for title, _, _ in items:
+        mem.append({"d": today, "t": title})
+
+
+def llm_impact_filter(items, state):
+    """שופט השפעה: מדרג כל מועמדת 0-10 לפי חשיבות, אמינות המקור,
+    וזיכרון סיפורים שכבר נשלחו. אם המודל לא זמין — מחזיר את כולן."""
+    if not GEMINI_API_KEY or not items:
+        return items
+    recent = [e["t"] for e in story_memory(state)][-15:]
+    recent_txt = ("\n".join(f"- {t}" for t in recent)) if recent else "(אין)"
+    joined = "\n".join(f"{i+1}. [{s or 'מקור לא ידוע'}] {t}"
+                       for i, (t, _, s) in enumerate(items))
+    prompt = (
+        "אתה סוחר חוזי נפט. דרג כל כותרת מ-0 עד 10: עד כמה זהו אירוע חדש "
+        "שצפוי להזיז את מחיר חוזי הנפט באופן מיידי.\n"
+        "10 = אירוע דרמטי חדש (סגירת מצרי הורמוז, החלטת אופ\"ק מפתיעה).\n"
+        "0-4 = פרשנות, ניתוח, תחזית, סקירה, או לא קשור.\n"
+        "שקלל את המקור (בסוגריים המרובעים): סוכנות או כלי תקשורת מוביל — "
+        "משקל מלא; מקור קטן או לא מוכר — הורד 2-3 נקודות, אלא אם האירוע "
+        "דרמטי במיוחד.\n"
+        "אלה סיפורים שכבר נשלחו לערוץ בימים האחרונים. כותרת שהיא חזרה, "
+        "עדכון שולי או זווית חדשה על אחד מהם — דרג 0-4:\n"
+        f"{recent_txt}\n"
+        'החזר JSON בלבד: {"scores": [מספר לכל כותרת לפי הסדר]}\n'
+        f"הכותרות:\n{joined}")
+    resp = llm_call(prompt, state)
+    if not resp:
+        return items
+    data = extract_json(resp)
+    try:
+        scores = [float(x) for x in data["scores"]]
+        if len(scores) != len(items):
+            return items
+    except Exception:
+        return items
+    kept = [it for it, s in zip(items, scores) if s >= IMPACT_MIN]
+    print(f"שופט השפעה: {len(items)} מועמדות ← {len(kept)} עברו (ציונים: {scores})")
+    return kept
 
 
 def batch_hebrew(titles, state):
@@ -366,30 +433,44 @@ def rule_net(titles):
     return "⚠️ אירועים רלוונטיים לשוק — כיוון לא חד-משמעי"
 
 
+def format_news(title, link, source, state):
+    """בניית הודעת חדשות: עברית + ניתוח אם יש מודל, אחרת חוקים."""
+    src_line = f"\n📰 {html.escape(source)}" if source else ""
+    heb = hebrewize(title, state)
+    if heb:
+        he_title, impact = heb
+        return (f"🚨 <b>חדשות נפט</b>\n"
+                f"{linkify(he_title, link)}\n"
+                f"💡 {html.escape(impact)}{src_line}")
+    return (f"🚨 <b>חדשות נפט</b>\n"
+            f"{linkify(title, link)}\n"
+            f"💡 {impact_rule(title)}{src_line}")
+
+
 def format_news_batch(items, state):
     """הודעה משוקללת אחת לכמה ידיעות שהגיעו באותה ריצה."""
-    titles = [t for t, _ in items]
+    titles = [t for t, _, _ in items]
     heb = batch_hebrew(titles, state)
     lines = [f"🚨 <b>מקבץ חדשות נפט ({len(items)} ידיעות)</b>"]
     if heb:
         net, he_titles = heb
         lines.append(f"⚖️ <b>שורה תחתונה:</b> {html.escape(net)}")
         lines.append("")
-        for (_, link), he_t in zip(items, he_titles):
+        for (_, link, _), he_t in zip(items, he_titles):
             lines.append(f"• {linkify(he_t, link)}")
     else:
         lines.append(f"⚖️ <b>שורה תחתונה:</b> {rule_net(titles)}")
         lines.append("")
-        for t, link in items:
+        for t, link, _ in items:
             lines.append(f"• {linkify(t, link)}\n  💡 {impact_rule(t)}")
     return "\n".join(lines)
 
 
 def fetch_all_news():
     items = []
-    for url in RSS_FEEDS:
+    for url, default_source in RSS_FEEDS:
         try:
-            items.extend(parse_rss(http_get(url)))
+            items.extend(parse_rss(http_get(url), default_source))
         except Exception as e:
             print("שגיאת פיד:", url, e)
     return items
@@ -400,21 +481,23 @@ def check_critical_news(state, items):
     seen = state.setdefault("seen", [])
     fresh = []
     batch_titles = set()
-    for title, link in items:
+    for title, link, source in items:
         iid = item_id(title, link)
         nt = norm_title(title)
         if iid in seen or nt in seen or nt in batch_titles:
             continue
-        score = score_title(title)
+        score = score_title(title) + source_bonus(source)
         if score >= NEWS_SCORE_THRESHOLD and len(fresh) < 6:
-            fresh.append((title, link))
+            fresh.append((title, link, source))
             batch_titles.add(nt)
         seen += [iid, nt]
     state["seen"] = seen[-MAX_SEEN:]
+    fresh = llm_impact_filter(fresh, state)
     if not fresh:
         return []
+    remember_stories(state, fresh)
     if len(fresh) == 1:
-        return [format_news(fresh[0][0], fresh[0][1], state)]
+        return [format_news(fresh[0][0], fresh[0][1], fresh[0][2], state)]
     return [format_news_batch(fresh, state)]
 
 
@@ -479,7 +562,8 @@ def build_digest(state, prices, items, now_il, now_et):
                 lines.append(f"🛢 {name}: {p:.2f} דולר")
     state["digest_prices"] = dict(prices) or ref
 
-    scored = sorted(((score_title(t), t, l) for t, l in items), reverse=True)
+    scored = sorted(((score_title(t) + source_bonus(s), t, l)
+                     for t, l, s in items), reverse=True)
     top, used = [], set()
     for s, t, l in scored:
         nt = norm_title(t)
