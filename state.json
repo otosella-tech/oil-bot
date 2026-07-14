@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "280f7801dceddab0",
-  "oilcouldspiketo125ifusiranconflictreturnstohotwareconomistsa",
-  "6a21faabf715c226",
-  "mechanicsaysfordperfectedtheoilchangeafter2022rangercomesint",
   "87b763f31b7c9358",
   "oilpricesjumpandworldsharesaremixedasusandirancarryoutairstr",
   "79c017ee3145b0d7",
@@ -603,7 +599,11 @@
   "ec13d5d3ccd21a4e",
   "trumpbacksawayfromplanstochargefeesinthestraitofhormuz",
   "d63499f4da9bf460",
-  "dowfallsover100pointsfollowinginflationdatacrudeoilgains"
+  "dowfallsover100pointsfollowinginflationdatacrudeoilgains",
+  "cfde506507e6b1f9",
+  "koreasthirstforcanadiancrudeispoisedtooutlastiranwar",
+  "bef6274bdff8cd8d",
+  "trumpretreatsfromshippingtollinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-14",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-07-14T20:20:42.322801+03:00",
+ "last_run": "2026-07-14T20:25:17.421790+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -664,6 +664,14 @@
   {
    "d": "2026-07-14",
    "t": "Trump backs away from plans to charge fees in the Strait of Hormuz - PBS"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Korea’s Thirst for Canadian Crude Is Poised to Outlast Iran War - Bloomberg.com"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Trump retreats from shipping toll in Strait of Hormuz - The Washington Post"
   }
  ]
 }
