@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "28cc09180c6043f6",
-  "crudeoilhigherearningskickofftohighlightweek",
-  "50c560f8e145a65b",
-  "thestockmarketrallynowhingesmoreonaithanoil",
   "395c7ab86f46f7dd",
   "oilpricesjumpandsharesslipasusandirancarryoutairstrikes",
   "c9cf40a12865980b",
@@ -603,7 +599,11 @@
   "a54fbcc900b3947a",
   "electrifyingoilandgasoperationscapstoneupgradingmicroturbine",
   "7993eb341b79bfc2",
-  "iraqneedsafairsharewithinopecsaysprimeminister"
+  "iraqneedsafairsharewithinopecsaysprimeminister",
+  "4c6d6c38a24f8acf",
+  "oilpricesoffhighsaftertrumpabandons20protectionfeeonstraitof",
+  "1ee2e19dba9a5389",
+  "ceatresearchersunveilhiddenmechanicsbehindoilwateremulsions"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-14",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-07-14T20:05:21.894204+03:00",
+ "last_run": "2026-07-14T20:10:34.476688+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -656,6 +656,10 @@
   {
    "d": "2026-07-14",
    "t": "Iraq needs a fair share within OPEC, says prime minister - Reuters"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Oil prices off highs after Trump abandons 20% protection fee on Strait of Hormuz traffic - CNBC"
   }
  ]
 }
