@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "7636f1015fe0e9d0",
-  "270abfbeb9fa098c",
   "0abca9b6655daffa",
   "69b2b822ef320e94",
   "7b4d65f9fa575717",
@@ -603,7 +601,9 @@
   "ae416fea56f31401",
   "newsfromtheoilpatchustopsworldcrudeproductionfor8thyear",
   "6c4484d8b0591b25",
-  "oilpricesclimbasusiranattacksintensifyhormuztrafficstallsal"
+  "oilpricesclimbasusiranattacksintensifyhormuztrafficstallsal",
+  "5866173446d6f937",
+  "oilsoversupplynarrativejustdied"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -615,7 +615,7 @@
   "date": "2026-07-14",
   "count": 45
  },
- "last_run": "2026-07-14T18:55:19.676124+03:00",
+ "last_run": "2026-07-14T19:00:45.910397+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
