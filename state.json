@@ -506,7 +506,13 @@
   "9e884792fcae55a1",
   "usstockfuturesloweraheadofcpidata",
   "152a1a89fde45157",
-  "brentcrudeoilfuturessurge39to8656wticrudeoilfuturesjump22to8"
+  "brentcrudeoilfuturessurge39to8656wticrudeoilfuturesjump22to8",
+  "9230dee8924d096b",
+  "theworldnolongerhasanoilproblemithasagasolineproblem",
+  "c381f51416e297fc",
+  "trumps20hormuztolljoltsmarketsasasiaadaptstooilshock",
+  "9877d64e8d8ecdd7",
+  "brentwticrudeoilfuturesjumpearlytuesdayasusairstrikesoniranc"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -516,7 +522,7 @@
  },
  "llm": {
   "date": "2026-07-14",
-  "count": 13
+  "count": 14
  },
- "last_run": "2026-07-14T13:00:49.592962+03:00"
+ "last_run": "2026-07-14T13:05:17.117119+03:00"
 }
