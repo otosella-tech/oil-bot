@@ -4,14 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "263286408a3d897f",
-  "oilpricesriseastrumpvowstoreinstatehormuzstraitblockadecharg",
-  "595d3ff940be13f6",
-  "oiljumpsmorethan7aftertrumpreimposesiranblockade",
-  "07c542e93adffa81",
-  "oilpricesleapandstocksfallastrumpreinstateshormuzblockadeoni",
-  "e58eb47b40f5a05b",
-  "iranshipped57mbarrelsofcrudeoilbetweenusblockades",
   "4eaa258d6069df9f",
   "nigeriasoiloutputhithighestlevelsince2020injuneregulatorsays",
   "011a6002cac38764",
@@ -603,7 +595,15 @@
   "7f3a896eb85255c6",
   "oilparesgainsastrumpbacksoff20feeforhormuzshipments",
   "2801da5dc395b8a4",
-  "iraqsoillifelinehasbeensavedbutforhowlong"
+  "iraqsoillifelinehasbeensavedbutforhowlong",
+  "766f6aefa04448aa",
+  "brazilsoilindustryweighsfreshlegalchallengetoexporttax",
+  "1a9dd8c126de7e71",
+  "measuretoliftbanonuscrudeoilexportsclearsohiohouse",
+  "945f52e3bd26b252",
+  "newrussiaoilsanctionsbilltargetschinaindiafortariffs",
+  "cf59db29d51a976d",
+  "bkvvscaliforniaresourceswhichusoilandgasproducerstockstockis"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -615,7 +615,7 @@
   "date": "2026-07-14",
   "count": 60
  },
- "last_run": "2026-07-14T22:05:16.228864+03:00",
+ "last_run": "2026-07-14T22:10:36.476103+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -708,6 +708,10 @@
   {
    "d": "2026-07-14",
    "t": "Oil Pares Gains as Trump Backs Off 20% Fee for Hormuz Shipments - Hart Energy"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "New Russia Oil Sanctions Bill Targets China, India for Tariffs - Bloomberg.com"
   }
  ]
 }
