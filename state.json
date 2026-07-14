@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "4eaa258d6069df9f",
-  "nigeriasoiloutputhithighestlevelsince2020injuneregulatorsays",
-  "011a6002cac38764",
-  "wallstreetmixedandoilpricesjumpafteriranandtheustradeanother",
   "7d3c9ddae679f80c",
   "oilvolatilityiscreatingawinwintradestrategy",
   "5bcd27bfcebe56f2",
@@ -603,7 +599,11 @@
   "945f52e3bd26b252",
   "newrussiaoilsanctionsbilltargetschinaindiafortariffs",
   "cf59db29d51a976d",
-  "bkvvscaliforniaresourceswhichusoilandgasproducerstockstockis"
+  "bkvvscaliforniaresourceswhichusoilandgasproducerstockstockis",
+  "07c542e93adffa81",
+  "oilpricesleapandstocksfallastrumpreinstateshormuzblockadeoni",
+  "d0a426a8c62dc7b6",
+  "augustwticrudeoilcontractclosesup120or15settlesat7934perbarr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -615,7 +615,7 @@
   "date": "2026-07-14",
   "count": 60
  },
- "last_run": "2026-07-14T22:10:36.476103+03:00",
+ "last_run": "2026-07-14T22:15:21.677039+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -712,6 +712,10 @@
   {
    "d": "2026-07-14",
    "t": "New Russia Oil Sanctions Bill Targets China, India for Tariffs - Bloomberg.com"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Oil prices leap and stocks fall as Trump reinstates Hormuz blockade on Iranian shipping - The Guardian"
   }
  ]
 }
