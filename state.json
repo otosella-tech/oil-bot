@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "aead724ddf765d4d",
-  "eusrussianlngimportshitrecordhighaheadof2027ban",
   "28cc09180c6043f6",
   "crudeoilhigherearningskickofftohighlightweek",
   "50c560f8e145a65b",
@@ -603,7 +601,9 @@
   "e8e4e8c184cc4bb8",
   "brentoilstructurechangestoreflectmountingsupplyriskasiranten",
   "a54fbcc900b3947a",
-  "electrifyingoilandgasoperationscapstoneupgradingmicroturbine"
+  "electrifyingoilandgasoperationscapstoneupgradingmicroturbine",
+  "7993eb341b79bfc2",
+  "iraqneedsafairsharewithinopecsaysprimeminister"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-14",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-07-14T19:55:23.212110+03:00",
+ "last_run": "2026-07-14T20:00:46.160315+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -652,6 +652,10 @@
   {
    "d": "2026-07-14",
    "t": "Brent oil structure changes to reflect mounting supply risk as Iran tensions flare - Reuters"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Iraq needs a fair share within OPEC, says prime minister - Reuters"
   }
  ]
 }
