@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "023ebf7729f4e7f0",
-  "66a167586d8426e0",
-  "d3890c88e473599e",
-  "13592288e2743f23",
   "60380455c1bee234",
   "aaa5c98deb02c8ae",
   "7bdb7e810f3b0745",
@@ -603,7 +599,11 @@
   "2941894707d1d49c",
   "uscrudeoutputhitsnewhighin2025",
   "3fa9aa5252eab66b",
-  "egpcceoreviewsagroudcrudeoilstorageupgrades"
+  "egpcceoreviewsagroudcrudeoilstorageupgrades",
+  "054fffa2223c2ede",
+  "venezuelasoilrevivalfacesacriticalservicesbottleneck",
+  "c21c2f4e73996857",
+  "southamericancrudereachesgermanrefineryviapolandafterrussiah"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,7 +613,7 @@
  },
  "llm": {
   "date": "2026-07-14",
-  "count": 34
+  "count": 35
  },
- "last_run": "2026-07-14T17:55:18.557180+03:00"
+ "last_run": "2026-07-14T18:00:52.205413+03:00"
 }
