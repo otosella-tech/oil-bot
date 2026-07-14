@@ -4,12 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "546dab26fd29ad08",
-  "257427a3c842b1c5",
-  "f4296b4710162dd8",
-  "5d44d497fcf1ed78",
-  "a460d316379edd24",
-  "c05862ac8be55475",
   "3fc36cfa2a90380d",
   "00423ddc27ddee9e",
   "aefb61fcebc99fba",
@@ -603,7 +597,13 @@
   "7c17c4b23b829f25",
   "currentpriceofoilasofjuly92026",
   "b43cf36202a6cf2a",
-  "keystonepipelineoperatorsagreetopaynearly27millionover2022oi"
+  "keystonepipelineoperatorsagreetopaynearly27millionover2022oi",
+  "d0dc9cce64a57575",
+  "oiljumpsabove87asrussia",
+  "a43db77bae3b636f",
+  "oilpricessurgeafteriranandustradestrikes",
+  "1796ef6e004511d6",
+  "nigeriasoilproductionrose25000bpdto156mbpdinjuneopec"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,7 +613,7 @@
  },
  "llm": {
   "date": "2026-07-14",
-  "count": 33
+  "count": 34
  },
- "last_run": "2026-07-14T17:25:21.200542+03:00"
+ "last_run": "2026-07-14T17:30:45.184188+03:00"
 }
