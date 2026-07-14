@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "38675cb518df6a16",
-  "mouagreementastepforwardtosupportgrowthandadvancetheproposed",
-  "f4492e495449accd",
-  "ieachiefslamseuropesslowelectrificationasenergycrisisdeepens",
   "181512dfbb0e832a",
   "oilstocksinusstrategicpetroleumreservefallby3millionbarrelst",
   "62a529a601f42561",
@@ -603,7 +599,11 @@
   "7758e22efde48757",
   "ppiandcrudeoilinventorieshighlightwednesdayseconomiccalendar",
   "239967843a475d9e",
-  "oilrisesmorethanadollarperbarrelasuslaunchesfreshstrikesagai"
+  "oilrisesmorethanadollarperbarrelasuslaunchesfreshstrikesagai",
+  "2f160a826b2c5595",
+  "oilhitsonemonthhighasusiranattacksdeepensupplydisruption",
+  "a694868adfe2c564",
+  "globaloilpricesontracktonotchbacktobackriseremaintetheredtot"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -615,7 +615,7 @@
   "date": "2026-07-14",
   "count": 60
  },
- "last_run": "2026-07-14T21:15:25.937944+03:00",
+ "last_run": "2026-07-14T21:20:35.989438+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -688,6 +688,14 @@
   {
    "d": "2026-07-14",
    "t": "Oil rises more than a dollar per barrel as US launches fresh strikes against Iran - Reuters"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Oil hits one-month high as US-Iran attacks deepen supply disruption - Reuters"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Global oil prices on track to notch back-to-back rise, remain ‘tethered to the Hormuz narrative’ - MarketWatch"
   }
  ]
 }
