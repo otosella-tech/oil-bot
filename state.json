@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "8cd98b8a5d28f5b1",
-  "crudeoilsurgesover5twinveepowercatssharesjump",
   "4547f7671a9dcbf7",
   "crudeoilfindsatollboothwhereitsceasefireusedtobe",
   "9c03a98f185f1375",
@@ -603,7 +601,9 @@
   "847205d7db3df345",
   "q2wastewatchnewmexicooilandgasspillcountsdropbuttoxicwastevo",
   "4ceb2377b880867b",
-  "pricesatcanadianpumpsrisingagainasoilclimbsto4weekhighs"
+  "pricesatcanadianpumpsrisingagainasoilclimbsto4weekhighs",
+  "1e6a8f9424f7d7f0",
+  "oilpricesclimbto85asusiranattacksintensifyhormuztrafficstall"
  ],
  "releases_done": {
   "2026-07-14|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-14",
   "count": 60
  },
- "last_run": "2026-07-14T23:15:20.935032+03:00",
+ "last_run": "2026-07-14T23:20:36.825952+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -746,6 +746,10 @@
   {
    "d": "2026-07-14",
    "t": "Trump’s Hormuz Toll Could Upend Global Energy Trade"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Oil prices climb to $85 as US-Iran attacks intensify, Hormuz traffic stalls - Al-Monitor"
   }
  ]
 }
