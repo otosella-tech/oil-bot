@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "67a513179bda71e9",
-  "dubaiisalreadyplanningforthenextstraitofhormuzcrisis",
-  "e276f5dd75ff4514",
-  "iraqsoillifelinehasbeensavedbutforhowlong",
   "1a9dd8c126de7e71",
   "measuretoliftbanonuscrudeoilexportsclearsohiohouse",
   "263286408a3d897f",
@@ -603,7 +599,11 @@
   "596c86befb81402e",
   "trumpmeetswithiraqprimeministeratwhitehousevowsalotofdeals",
   "3794a22c4f0a820c",
-  "russiahastheoilitnolongerhasthegasolinesorussiansarelearning"
+  "russiahastheoilitnolongerhasthegasolinesorussiansarelearning",
+  "9b85846eaf35d2cc",
+  "trumpscrapshormuztollplanasus",
+  "7f3a896eb85255c6",
+  "oilparesgainsastrumpbacksoff20feeforhormuzshipments"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -615,7 +615,7 @@
   "date": "2026-07-14",
   "count": 60
  },
- "last_run": "2026-07-14T21:55:17.243854+03:00",
+ "last_run": "2026-07-14T22:00:45.472319+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -700,6 +700,14 @@
   {
    "d": "2026-07-14",
    "t": "Trump’s Hormuz brinkmanship is worsening a global fuel crunch - The Economist"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Trump Scraps Hormuz Toll Plan as U.S.-Iran Conflict Deepens"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Oil Pares Gains as Trump Backs Off 20% Fee for Hormuz Shipments - Hart Energy"
   }
  ]
 }
