@@ -606,7 +606,8 @@
   "oilpricesclimbto85asusiranattacksintensifyhormuztrafficstall"
  ],
  "releases_done": {
-  "2026-07-14|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
+  "2026-07-14|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
+  "2026-07-14|דוח מלאים של מכון הנפט האמריקאי (API)|post": 1
  },
  "last_digest": "2026-07-14",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-07-14",
   "count": 60
  },
- "last_run": "2026-07-14T23:25:19.997134+03:00",
+ "last_run": "2026-07-14T23:30:46.307868+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
