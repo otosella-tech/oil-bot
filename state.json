@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "496a787cd61507e1",
-  "ustotakeoverstraitofhormuzcharge20percentfeeforcargoshippedt",
-  "1cf8c33c30f6cbc7",
-  "nigeriaposts74monthcrudeoutputrecord",
   "00380a099dccf04e",
   "augustwticrudeoilcontractclosesup673or94settlesat7814perbarr",
   "80c57f2cba21db00",
@@ -603,7 +599,11 @@
   "9e9b05d22460a113",
   "americanenergysnapshotwhygasolinepricesdontalwaysmoveinlocks",
   "3f8ded10296b6f3d",
-  "ussupportsiraqsyriapipelinethatwouldbypasshormuz"
+  "ussupportsiraqsyriapipelinethatwouldbypasshormuz",
+  "b8c398420c7a759a",
+  "shippingstockssetupamidtrumpsflipfloponhormuztoll",
+  "e6a2af686752fdfd",
+  "crudeoilpriceforecastbullishbreakoutsignalspointhigher"
  ],
  "releases_done": {
   "2026-07-14|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-07-15T00:20:34.636222+03:00",
+ "last_run": "2026-07-15T00:25:17.719561+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -767,6 +767,10 @@
   {
    "d": "2026-07-15",
    "t": "U.S. supports Iraq-Syria pipeline that would bypass Hormuz - Transport Topics"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Shipping Stocks Set Up Amid Trump's Flip-Flop On Hormuz Toll - Investor's Business Daily"
   }
  ]
 }
