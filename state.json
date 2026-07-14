@@ -4,12 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "62a529a601f42561",
-  "uaeplanstobuildnewportsoilhubsingulfofomantobypassstraitofho",
-  "90e5da0eab7fb557",
-  "crudeoilpricesclimbfollowingthelatestfightinginthemiddleeast",
-  "5f7a5394e7cedf80",
-  "uaecrudeoutputsurgedinjuneafteropecexitupdate",
   "7fbc8ccd3cfd62cd",
   "oilpricesriseduetotensionsinthestraitofhormuz",
   "aabbe70ebb13be8a",
@@ -603,7 +597,13 @@
   "a694868adfe2c564",
   "globaloilpricesontracktonotchbacktobackriseremaintetheredtot",
   "3487e915abfcd862",
-  "trumpsaysuswillbedoingalotofdealswithiraqtakingalotofoilout"
+  "trumpsaysuswillbedoingalotofdealswithiraqtakingalotofoilout",
+  "73ccc074fa2809c4",
+  "trumpshormuzbrinkmanshipisworseningaglobalfuelcrunch",
+  "b2c6ab8302c105ac",
+  "crudeoilpricesclimbasusirantrucecollapses",
+  "ac50416e474ec368",
+  "cpofuturesriseonstrongercrudegainsinvegoilcomplexdespitefirm"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -615,7 +615,7 @@
   "date": "2026-07-14",
   "count": 60
  },
- "last_run": "2026-07-14T21:25:18.140215+03:00",
+ "last_run": "2026-07-14T21:30:44.103869+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -696,6 +696,10 @@
   {
    "d": "2026-07-14",
    "t": "Global oil prices on track to notch back-to-back rise, remain ‘tethered to the Hormuz narrative’ - MarketWatch"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "Trump’s Hormuz brinkmanship is worsening a global fuel crunch - The Economist"
   }
  ]
 }
