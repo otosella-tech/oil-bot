@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "036859bc6e57aef8",
-  "d5aebe188da53dfc",
   "fc52362426117e83",
   "293adfbace31ae50",
   "7d8d396137b1214a",
@@ -603,7 +601,9 @@
   "687ccefebf689365",
   "oilpricesrise2asusblockadeoniranstokessupplyfears",
   "bf4c4300e3bc20ff",
-  "thecrudeoilassayforjohansverdruphasbeenupdated"
+  "thecrudeoilassayforjohansverdruphasbeenupdated",
+  "915a528b0e8dc109",
+  "usgasolinepricesriseforfirsttimesincemayasiranceasefirecolla"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,13 +613,17 @@
  },
  "llm": {
   "date": "2026-07-14",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-07-14T18:25:20.137844+03:00",
+ "last_run": "2026-07-14T18:30:40.041716+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
    "t": "Oil prices rise 2% as US blockade on Iran stokes supply fears - Reuters"
+  },
+  {
+   "d": "2026-07-14",
+   "t": "U.S. Gasoline Prices Rise for First Time Since May as Iran Ceasefire Collapses"
   }
  ]
 }
