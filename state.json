@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "46bad35c1af74d2d",
-  "oilrisesamidescalatingmideastconflict",
   "99b99a0d3c59bedf",
   "crudeoilfuturesaug6clmainusbrentlastdayfinanc",
   "d2675e30f464327f",
@@ -603,7 +601,9 @@
   "939dc0964a44f3c9",
   "chinaslashesoilrefiningaftercrudeimportscollapse",
   "cc208f0057f5b4a3",
-  "chinabluntediranwaroilshockbutcanitdothesameforfuels"
+  "chinabluntediranwaroilshockbutcanitdothesameforfuels",
+  "3babbeda1c6fb9ca",
+  "trumpshormuztollplansbringoilsupplyrisksbackinspotlight"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-07-15T09:00:47.831856+03:00",
+ "last_run": "2026-07-15T09:05:18.494923+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
