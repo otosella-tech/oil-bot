@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "a3554d17aee9e7b4",
-  "whytheuaeistakingabiggerpieceofamericaslngcrownjewel",
-  "369be863d489097f",
-  "rekindledusiranconflictsendscrudefutureshigher",
   "642023e9649d243a",
   "crudeoilfloorbeingestablishedheresaysdowjonesenergyscinquegr",
   "6b5d5e5fd693494a",
@@ -603,7 +599,11 @@
   "76eeefa0ffc72e9e",
   "oiltankercaptaindidntknowhewashaulingcocaineforcartelsheresh",
   "761c1b91fc92991b",
-  "americaextendsitsleadoverrussiaandsaudiarabiainoiloutput"
+  "americaextendsitsleadoverrussiaandsaudiarabiainoiloutput",
+  "0295a3a6eff21292",
+  "texasportexpectsuscrudeexportboosttoendure",
+  "7225573d7d518d8d",
+  "oilfuturescrudegrindshigherashormuzblockadeinfocus"
  ],
  "releases_done": {
   "2026-07-14|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-07-15T05:45:21.927789+03:00",
+ "last_run": "2026-07-15T05:50:33.874020+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -807,6 +807,10 @@
   {
    "d": "2026-07-15",
    "t": "America extends its lead over Russia and Saudi Arabia in oil output - Oil & Gas 360"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Oil futures: Crude grinds higher as Hormuz blockade in focus - Quantum Commodity Intelligence"
   }
  ]
 }
