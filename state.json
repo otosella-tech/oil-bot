@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "76c67bab2d1704af",
-  "straitofhormuztensionsweighonchinesestocksasoilsurges",
-  "524ec2c319dfc525",
-  "featuretrumpdrainsamericasemergencyoilreserveascanadasupplie",
   "a4a4ccfa79d2fd68",
   "oiltraderscalltrumpshormuzbluffattheirperil",
   "9e884792fcae55a1",
@@ -603,7 +599,11 @@
   "b1d0745806b22542",
   "usblockadesiranianportslaunchesdozensofstrikesastrumpseeksco",
   "f79ef8995c2012e1",
-  "stockssteadyasoilsurgeoffsetsasmllifttotech"
+  "stockssteadyasoilsurgeoffsetsasmllifttotech",
+  "a0d5437c85f78abc",
+  "imourgesshippersnottoriskstraitofhormuztransits",
+  "b6676a05bb2b115b",
+  "dieselsurges22centsgulfcoastfleetshithardestbycrudevolatilit"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T15:25:16.994951+03:00",
+ "last_run": "2026-07-15T15:30:42.618798+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -968,6 +968,10 @@
   {
    "d": "2026-07-15",
    "t": "Stocks steady as oil surge offsets ASML lift to tech - Reuters"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "IMO Urges Shippers Not to Risk Strait of Hormuz Transits"
   }
  ]
 }
