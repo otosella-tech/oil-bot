@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "9230dee8924d096b",
-  "theworldnolongerhasanoilproblemithasagasolineproblem",
   "c381f51416e297fc",
   "trumps20hormuztolljoltsmarketsasasiaadaptstooilshock",
   "9877d64e8d8ecdd7",
@@ -603,7 +601,9 @@
   "26de1660a878abe2",
   "oilpricesriseasiranthreatenstoblockenergyexports",
   "874f97ad8a84de5d",
-  "couldtheustakecontrolofiranssouthernislands"
+  "couldtheustakecontrolofiranssouthernislands",
+  "2980a1e22a3196e4",
+  "uslaunchesnewdaylightattacksoniranuppingpressurealongsidenav"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T15:40:35.164266+03:00",
+ "last_run": "2026-07-15T15:45:20.440792+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -972,6 +972,10 @@
   {
    "d": "2026-07-15",
    "t": "IMO Urges Shippers Not to Risk Strait of Hormuz Transits"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "U.S. launches new daylight attacks on Iran, upping pressure alongside naval blockade - NBC News"
   }
  ]
 }
