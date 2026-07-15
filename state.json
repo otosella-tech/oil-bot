@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "39acdbb98bf0dad5",
-  "usbeginsnewiranstrikesasoilpricesrise",
   "cf7fda621eec773e",
   "brentcrudeoilpricejumps11astrumpmovestocontrolstraitofhormuz",
   "6cf4eaf78f5109ed",
@@ -603,7 +601,9 @@
   "58a21ae8860b6f94",
   "iranlinkedvesselspassthroughhormuzbeatsusblockade",
   "6c685031f81d30c0",
-  "oilsurgesmorethan9aftertrumpreimposesiranblockade"
+  "oilsurgesmorethan9aftertrumpreimposesiranblockade",
+  "47f172a70acf0424",
+  "oilpushesabove85asusreservebufferdepleteswillcrudehit100"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 35
  },
- "last_run": "2026-07-15T07:00:44.273312+03:00",
+ "last_run": "2026-07-15T07:05:23.191059+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
