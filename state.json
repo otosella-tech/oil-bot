@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "2265d6f266966fc9",
-  "alljapanrelatedoiltankerstransitedoutofstraitofhormuz",
-  "571d5f16a81cdda2",
-  "bpsetforfurtherboostfromoilpricesbutbracesfor740mwritedown",
   "4f4702ee206225bd",
   "oilpriceshitafourweekhighfollowingnewattacks",
   "90b3159a95e5baa4",
@@ -603,7 +599,11 @@
   "5bc538ca6fbdc0b6",
   "currentpriceofoilasofjuly152026",
   "072c74597f054e9b",
-  "oilpricesclimbforfourthdayasiranthreatensnewenergychokepoint"
+  "oilpricesclimbforfourthdayasiranthreatensnewenergychokepoint",
+  "b74876a9858359f1",
+  "ukraineintensifiesattacksonrussiantankersintheblacksea",
+  "61b5d58d1ed7e31e",
+  "theoilmarketisiransbestfriendandiranknowsiteconomist"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T13:55:18.578870+03:00",
+ "last_run": "2026-07-15T14:00:47.221591+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -932,6 +932,14 @@
   {
    "d": "2026-07-15",
    "t": "Oil Prices Climb for Fourth Day as Iran Threatens New Energy Chokepoints"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Ukraine Intensifies Attacks on Russian Tankers in the Black Sea"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "The oil market is Iran's 'best friend', and Iran knows it: Economist - CNBC"
   }
  ]
 }
