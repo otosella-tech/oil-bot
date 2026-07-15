@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "294c629939a32dd7",
-  "oilpriceshit1monthhighasusiranattacksdimstraitofhormuzoutloo",
   "fd1f020e333d1058",
   "oilextendsgainsasmideasttensionsandhormuztollprospectsraises",
   "322937dc71f61478",
@@ -603,7 +601,9 @@
   "3fdd3cc228b6f2a8",
   "oilpricesriseashostilitiesworseninthemiddleeast",
   "b387ec200befc39b",
-  "chinascrudeoilimportscrashtodecadelowashormuzcrisisbites"
+  "chinascrudeoilimportscrashtodecadelowashormuzcrisisbites",
+  "336121e53f99ecfe",
+  "oilpriceshavejumped12sincefridayaswarrisksreturn"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-07-15T07:50:32.080617+03:00",
+ "last_run": "2026-07-15T07:55:18.481551+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -844,6 +844,10 @@
   {
    "d": "2026-07-15",
    "t": "Trump threatens to bomb bridges and power plants unless Iran resumes talks - BBC"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Oil Prices Have Jumped 12% Since Friday as War Risks Return - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
