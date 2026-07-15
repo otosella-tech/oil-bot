@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "e6dc9267b4b33796",
-  "oiltops85abarrelastrumpreinstatesnavalblockadeoniran",
   "e42bd78001f70024",
   "commoditycornercrudeoilsurgesover2onstraitofhormuztensions",
   "cf9510dabd39c2fb",
@@ -603,7 +601,9 @@
   "8315762dfef82a3d",
   "russianoilcompaniesstruggletofindbuyers",
   "98549033d2ef972a",
-  "theoilmarketsrealriskhasmovednorthfromhormuz"
+  "theoilmarketsrealriskhasmovednorthfromhormuz",
+  "274a30f45be4d4b5",
+  "asianoilrefinersscoopupuscrudeasiranwarintensifies"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T10:10:33.369413+03:00",
+ "last_run": "2026-07-15T10:15:22.827292+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -892,6 +892,10 @@
   {
    "d": "2026-07-15",
    "t": "The Oil market’s real risk has moved north from Hormuz - FXStreet"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Asian Oil Refiners Scoop Up US Crude as Iran War Intensifies - Energy Connects"
   }
  ]
 }
