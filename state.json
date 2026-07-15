@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "2ddb44ba11d9bd8a",
-  "chinasjunecrudeoilimportsfall413fromayearearlier",
   "8bcf493e040c2ac0",
   "oilextendsgainsafterlatestusstrikestechsuffersmorelosses",
   "a5815888b4fecceb",
@@ -603,7 +601,9 @@
   "e3a38b033280949e",
   "oilpricesrise2ashostilitiesworseninthemiddleeast",
   "87a20e50cdfaa25e",
-  "usgasolinepricescouldhit4pergallonwithindays"
+  "usgasolinepricescouldhit4pergallonwithindays",
+  "664f953f524c71f8",
+  "brentcrudeoilfromceasefiretocrossfirewhatsnext"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T11:55:18.591085+03:00",
+ "last_run": "2026-07-15T12:00:44.474105+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
