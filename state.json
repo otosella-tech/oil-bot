@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "a0d64ea61f90f00b",
-  "oilbackabove85abarrelusstockfuturesmixed",
-  "6b978c9ff7062ccb",
-  "bpseesfurtheroiltradinggainsasiranconflictfuelsvolatility",
   "e68ebcae2be2adc4",
   "chinah12026airqualityreviewevrelatedoilcutsemergeasanewdrive",
   "bf618c9235c15fae",
@@ -603,7 +599,11 @@
   "96da8058b2591e84",
   "crudeoilemotionsarerunninghigh",
   "946de27addee7a89",
-  "tehranthreatenstohaltallmideastenergyexportsafterusreimposes"
+  "tehranthreatenstohaltallmideastenergyexportsafterusreimposes",
+  "be31fa8c5fa4cf92",
+  "worldsharesaremixedandoilpricesclimbasiranthreatenstoblockmi",
+  "a3787d3168c204a8",
+  "brentcrudeoilfuturesclimb06to8522wticrudeoilfuturesrise06to7"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T13:15:22.087666+03:00",
+ "last_run": "2026-07-15T13:20:35.256303+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
