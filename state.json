@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "2c71005b57899d76",
-  "keystonepipelinesystemsoperatoragreestopaya269mpenaltyoveram",
   "028725763458eeb3",
   "usequitymarketsdeclinedonthe13thasrisingcrudeoilpricesandren",
   "39acdbb98bf0dad5",
@@ -603,7 +601,9 @@
   "be01aea4d8e38039",
   "goldslipsasoilrallykeepsinflationrateoutlookoninvestorsradar",
   "8f0763d76ff9c390",
-  "hownewsomscomplexhistorywiththeoilindustrycouldaffectapresid"
+  "hownewsomscomplexhistorywiththeoilindustrycouldaffectapresid",
+  "58a21ae8860b6f94",
+  "iranlinkedvesselspassthroughhormuzbeatsusblockade"
  ],
  "releases_done": {
   "2026-07-14|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-07-15T06:40:33.583603+03:00",
+ "last_run": "2026-07-15T06:45:20.032513+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -831,6 +831,10 @@
   {
    "d": "2026-07-15",
    "t": "Rupee finds support from cooling Fed hike bets, unrelenting crude surge a drag - Reuters"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Iran-linked vessels pass through Hormuz, beats US blockade - The Jerusalem Post"
   }
  ]
 }
