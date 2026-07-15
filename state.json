@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "1cc3ac45e7ee589c",
-  "whatsdrivingchinassharpdeclineinoilimports",
-  "a1f2b9b28dc341b4",
-  "dangoteendsnairapricingforrefinedoilproductsinnigeria",
   "cb1f3ee1322c32cc",
   "oilsoars32astrumpswearstheusistakingoverthestraitofhormuzpro",
   "33bf78fb4f72a7a5",
@@ -603,7 +599,11 @@
   "2ffe0045400c74f4",
   "wtioilholdsbelow80amidmiddleeasttension",
   "2b779c7535f7441f",
-  "crudeoilinventoriesfalllessthanexpectedimpactingmarketsentim"
+  "crudeoilinventoriesfalllessthanexpectedimpactingmarketsentim",
+  "7b121a04b8006e00",
+  "oilhits87perbarrelagainafterlatestusstrikesoniranandloomingb",
+  "c26c64b671ef4c31",
+  "explainerwhyiranianhouthithreatstoredseashippingmattermorefo"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T17:50:34.137692+03:00",
+ "last_run": "2026-07-15T17:55:19.840921+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1019,6 +1019,10 @@
   {
    "d": "2026-07-15",
    "t": "Oil supertankers increasingly bear brunt in Hormuz attacks - Transport Topics"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Oil hits $87 per barrel again after latest U.S. strikes on Iran and looming blockade - NBC News"
   }
  ]
 }
