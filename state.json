@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "fd1f020e333d1058",
-  "oilextendsgainsasmideasttensionsandhormuztollprospectsraises",
-  "322937dc71f61478",
-  "oilhitsonemonthhighasusiranstepupattacksinstraitofhormuz",
   "4d81e76b21b69f61",
   "chinascrudeoilimportsplungetolowestinnearlyadecade",
   "5cd55f1da19f0f7a",
@@ -603,19 +599,23 @@
   "b387ec200befc39b",
   "chinascrudeoilimportscrashtodecadelowashormuzcrisisbites",
   "336121e53f99ecfe",
-  "oilpriceshavejumped12sincefridayaswarrisksreturn"
+  "oilpriceshavejumped12sincefridayaswarrisksreturn",
+  "294c629939a32dd7",
+  "oilpriceshit1monthhighasusiranattacksdimstraitofhormuzoutloo",
+  "bb528bc471708a5a",
+  "carlylesjeffcurriewatchgasolineanddieselpricesnotjustcrudeoi"
  ],
  "releases_done": {},
- "last_digest": "2026-07-14",
+ "last_digest": "2026-07-15",
  "digest_prices": {
-  "WTI": 80.34,
-  "Brent": 85.63
+  "WTI": 79.76,
+  "Brent": 85.48
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 42
+  "count": 49
  },
- "last_run": "2026-07-15T07:55:18.481551+03:00",
+ "last_run": "2026-07-15T08:00:46.636046+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
