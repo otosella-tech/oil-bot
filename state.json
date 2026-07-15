@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "f856954cb1a43daa",
-  "brentcrudeoilisupby502",
   "a03c354ee71d5e2f",
   "bpflags1billionimpairmentfortransitionbusinessesoiltradingre",
   "90fa8ccb8e8aab9a",
@@ -603,7 +601,9 @@
   "b02dbebd15693f5b",
   "japantradechiefsayshormuzisofflimitsashostilitiesreignite",
   "33018d8fc37fe3c4",
-  "thepriceofoilshootsupwardastrumpdemandstollsinthestraitofhor"
+  "thepriceofoilshootsupwardastrumpdemandstollsinthestraitofhor",
+  "eae4506e4d758933",
+  "usaoilgasworkforcedropsfrommaytojune"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T16:45:27.680351+03:00",
+ "last_run": "2026-07-15T16:50:37.058167+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
