@@ -4,8 +4,6 @@
   "Brent": 83.61
  },
  "seen": [
-  "054fffa2223c2ede",
-  "venezuelasoilrevivalfacesacriticalservicesbottleneck",
   "c21c2f4e73996857",
   "southamericancrudereachesgermanrefineryviapolandafterrussiah",
   "4b6a17b9d640e0a4",
@@ -603,7 +601,9 @@
   "78b5b22baa1704b5",
   "eiauscrudeinventoriesdown17millionbbl",
   "c3d15b0a898e6fc0",
-  "usreimposesblockadeandstepsupstrikesasiranthreatenstohaltall"
+  "usreimposesblockadeandstepsupstrikesasiranthreatenstohaltall",
+  "65c8fb2989136370",
+  "chinasnextmovemaydecidewhetheroilpricessoar"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T20:20:38.746038+03:00",
+ "last_run": "2026-07-15T20:25:20.960454+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1059,6 +1059,10 @@
   {
    "d": "2026-07-15",
    "t": "U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region - PBS"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "China’s Next Move May Decide Whether Oil Prices Soar - The New York Times"
   }
  ]
 }
