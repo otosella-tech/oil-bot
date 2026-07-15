@@ -4,12 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "693a6ef41bbb55f0",
-  "oilpricesspikeasusreinstatesnavalblockadeinstraitofhormuz",
-  "30dcaa28cfd7ce1f",
-  "oilhitsfourweekhighasusiranconflictescalatesbyreuters",
-  "4d730813591f5faa",
-  "usattacksiranandtehranretaliatesacrossthemiddleeastthreateni",
   "f50a2c21c3f0fbb0",
   "evenifinflationcooledinjuneexpertssaypricepressureisntover",
   "7d2db9ec35077841",
@@ -603,7 +597,13 @@
   "55e2958bc320d52f",
   "agoodtradethatdidntwork",
   "4f9a7cea3ebde6b4",
-  "thepushtobypassthestraitofhormuz"
+  "thepushtobypassthestraitofhormuz",
+  "97dd26d82c94b95e",
+  "oilpricejumpsasusiranclashesraiseoddsofinterestraterises",
+  "dd0fc38934901ef3",
+  "chinatapsdeeperintooilinventoriesdespitebiggestdropinrefinin",
+  "e191ec8fa306f8da",
+  "crudeoilbecomesmoreexpensiveduetoconcernsaboutsupplyviathest"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T17:10:37.133699+03:00",
+ "last_run": "2026-07-15T17:15:26.949992+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1006,6 +1006,10 @@
   {
    "d": "2026-07-15",
    "t": "The push to bypass the Strait of Hormuz - Axios"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Crude oil becomes more expensive due to concerns about supply via the Strait of Hormuz - marketscreener.com"
   }
  ]
 }
