@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "35033f00250663dd",
-  "crudeoilpricesdeclineinjune2026opecreporthighlightsnewsandst",
   "76c3fc39c953783a",
   "crudeoilhits4weekhigh",
   "d5547c7c6a5116de",
@@ -603,7 +601,9 @@
   "8cbd0d71cece0efa",
   "usbacksiraqsyriaoilpipelinetobypassthestraitofhormuz",
   "de660f0cc5d72029",
-  "whattrumpsnewiranblockadecouldmeanforoilprices"
+  "whattrumpsnewiranblockadecouldmeanforoilprices",
+  "5191070bf6259528",
+  "theusleadstheworldinoilproductiondoesthataffectgasprices"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T11:30:42.049888+03:00",
+ "last_run": "2026-07-15T11:35:20.836979+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
