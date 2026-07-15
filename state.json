@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "2b4bf720da9f99ba",
-  "oilholdsgainsaftertrumpreinstatesblockadeoniranianships",
   "cb02f69793ed0a70",
   "chinascrudeoilimportscrashtodecadelowashormuzcrisisbites",
   "f87c4fdd904c6573",
@@ -603,7 +601,9 @@
   "240b573f5ca1e973",
   "brentcrudeoilpricejumps11astrumpmovestocontrolstraitofhormuz",
   "66a89ba172ff2012",
-  "iranguardshormuzshutuntilusendsaggression"
+  "iranguardshormuzshutuntilusendsaggression",
+  "95c5b6abc735f32d",
+  "trumpthreatenstobombbridgesandpowerplantsunlessiranresumesta"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-07-15T07:35:18.418537+03:00",
+ "last_run": "2026-07-15T07:40:33.266550+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -840,6 +840,10 @@
   {
    "d": "2026-07-15",
    "t": "Iran Guards: Hormuz shut until US ends 'aggression' - euractiv.com"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Trump threatens to bomb bridges and power plants unless Iran resumes talks - BBC"
   }
  ]
 }
