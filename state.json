@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "173cc356bf875c8d",
-  "oilhits87asbattleforstraitofhormuzalarmsenergymarkets",
-  "4304bf76c7fcd9d8",
-  "uaesaysiranianmissilesstruckoiltankersinstraitofhormuzonesai",
   "f856954cb1a43daa",
   "brentcrudeoilisupby502",
   "a03c354ee71d5e2f",
@@ -603,7 +599,11 @@
   "5d26848a77188c25",
   "japantradechiefsayshormuzisoff",
   "bf3e60ed68618677",
-  "treasuryyieldsareflatastradersweighencouraginginflationdatav"
+  "treasuryyieldsareflatastradersweighencouraginginflationdatav",
+  "b02dbebd15693f5b",
+  "japantradechiefsayshormuzisofflimitsashostilitiesreignite",
+  "33018d8fc37fe3c4",
+  "thepriceofoilshootsupwardastrumpdemandstollsinthestraitofhor"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T16:35:18.954380+03:00",
+ "last_run": "2026-07-15T16:40:39.570815+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -988,6 +988,14 @@
   {
    "d": "2026-07-15",
    "t": "Japan Trade Chief Says Hormuz Is Off-Limits as Hostilities Reignite"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Japan Trade Chief Says Hormuz Is Off-Limits as Hostilities Reignite - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "The price of oil shoots upward as Trump demands tolls in the Strait of Hormuz - Fortune"
   }
  ]
 }
