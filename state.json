@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "a100d36026bfb0b2",
-  "occidentalpetroleumstockfacesanewtestfromoilandshippingdisru",
-  "1469a835ed814596",
-  "middleeastconflictcauseslargestoilsupplydisruptionbrentcrude",
   "2b4bf720da9f99ba",
   "oilholdsgainsaftertrumpreinstatesblockadeoniranianships",
   "cb02f69793ed0a70",
@@ -603,7 +599,11 @@
   "f1f1fa2be40cfa37",
   "chinascrudeoilimportsplungetoneardecadelow",
   "557b4bf18ed56c1d",
-  "oilinventorydeclineswithwticrudeat7992"
+  "oilinventorydeclineswithwticrudeat7992",
+  "240b573f5ca1e973",
+  "brentcrudeoilpricejumps11astrumpmovestocontrolstraitofhormuz",
+  "66a89ba172ff2012",
+  "iranguardshormuzshutuntilusendsaggression"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-07-15T07:25:17.857767+03:00",
+ "last_run": "2026-07-15T07:30:41.482903+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -832,6 +832,14 @@
   {
    "d": "2026-07-15",
    "t": "Iran-linked vessels pass through Hormuz, beats US blockade - The Jerusalem Post"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Brent Crude Oil Price Jumps 11% as Trump Moves to Control Strait of Hormuz - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Iran Guards: Hormuz shut until US ends 'aggression' - euractiv.com"
   }
  ]
 }
