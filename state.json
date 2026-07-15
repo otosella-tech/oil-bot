@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "cc208f0057f5b4a3",
-  "chinabluntediranwaroilshockbutcanitdothesameforfuels",
   "3babbeda1c6fb9ca",
   "trumpshormuztollplansbringoilsupplyrisksbackinspotlight",
   "b3307bf7085dd10e",
@@ -603,7 +601,9 @@
   "5cd55f1da19f0f7a",
   "oilpricesriseasuspreparestoreinstatehormuzstraitblockadechar",
   "07d7687b307751b7",
-  "chinasjuneoilimportshitnear10yearlowamidiranwar"
+  "chinasjuneoilimportshitnear10yearlowamidiranwar",
+  "a79895aa52a1fdc0",
+  "willoilpricesriseastheusirantrucefraystheanswerlieswithchina"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-07-15T08:50:32.843029+03:00",
+ "last_run": "2026-07-15T08:55:16.644383+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -860,6 +860,10 @@
   {
    "d": "2026-07-15",
    "t": "China's June oil imports hit near 10-year low amid Iran war - Reuters"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China. - The New York Times"
   }
  ]
 }
