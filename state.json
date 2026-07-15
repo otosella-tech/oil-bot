@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "6a485dbef98ad396",
-  "oilpricessharplyupafteriranescalation",
   "3cf950b641ad8fd0",
   "bpsignalsstrongersecondquarteroiltradingresultslowernetdebt",
   "adb3cddfda71a1a6",
@@ -603,7 +601,9 @@
   "72f432e736b567f4",
   "goldslipsasrisingoilpricesreviveinflationconcerns",
   "f6ad459240455c04",
-  "spartalaunchesfueloilarbitrageanalyticsbringingtransparencyt"
+  "spartalaunchesfueloilarbitrageanalyticsbringingtransparencyt",
+  "ad6c07cad2e82431",
+  "oilextendsgainsastrumpwarnsoffreshiranstrikessupplyriskspers"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T14:30:41.015700+03:00",
+ "last_run": "2026-07-15T14:35:18.055210+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -948,6 +948,10 @@
   {
    "d": "2026-07-15",
    "t": "Gold, Silver Futures Fall Pre-Bell as Escalation of Strikes Between US, Iran Sends Crude Oil Higher, Lifting Inflation Concerns - marketscreener.com"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Oil extends gains as Trump warns of fresh Iran strikes, supply risks persist - Investing.com"
   }
  ]
 }
