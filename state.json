@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "d9c64f096d523d95",
-  "iranexportsmorethan80millionbarrelsofoilin26days",
   "f75ec81f3d275536",
   "marketsturncautiousasrenewedusiranconflictrevivescrudeoilcon",
   "255e94678950adc1",
@@ -603,7 +601,9 @@
   "45dcefef6d08973e",
   "wticrudeoilpriceforecastoilnear80asusirantensionsoffsetopecs",
   "1d97ae7a03b16b86",
-  "iearaisesconcernsovereumethanerulesimpactonoilimports"
+  "iearaisesconcernsovereumethanerulesimpactonoilimports",
+  "9fc048da1e29c992",
+  "chinasrefineryrunscrashtopandemiclowsascrudeimportscollapse"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T09:35:18.416901+03:00",
+ "last_run": "2026-07-15T09:40:32.434227+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -876,6 +876,10 @@
   {
    "d": "2026-07-15",
    "t": "WTI Crude Oil Price Forecast: Oil Near $80 as US-Iran Tensions Offset OPEC+ Supply Increase - FXLeaders"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "China’s Refinery Runs Crash to Pandemic Lows as Crude Imports Collapse"
   }
  ]
 }
