@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "f87c4fdd904c6573",
-  "oilpriceshavejumped12sincefridayaswarrisksreturn",
   "294c629939a32dd7",
   "oilpriceshit1monthhighasusiranattacksdimstraitofhormuzoutloo",
   "fd1f020e333d1058",
@@ -603,7 +601,9 @@
   "95c5b6abc735f32d",
   "trumpthreatenstobombbridgesandpowerplantsunlessiranresumesta",
   "3fdd3cc228b6f2a8",
-  "oilpricesriseashostilitiesworseninthemiddleeast"
+  "oilpricesriseashostilitiesworseninthemiddleeast",
+  "b387ec200befc39b",
+  "chinascrudeoilimportscrashtodecadelowashormuzcrisisbites"
  ],
  "releases_done": {},
  "last_digest": "2026-07-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 39
+  "count": 40
  },
- "last_run": "2026-07-15T07:45:23.398796+03:00",
+ "last_run": "2026-07-15T07:50:32.080617+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
