@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "82e97865514b62c5",
-  "oilpricestodaycrudesurgestoonemonthhighasusiranconflictescal",
   "4724565087335e2f",
   "crudeoilsoarsmorethan9astrumpreimposeshormuzblockaderesumesm",
   "d9c64f096d523d95",
@@ -603,7 +601,9 @@
   "a4fa7b49fb99920d",
   "oilrisesafteranotherroundofusstrikesagainstirannavalblockade",
   "829d3ce1d115aa4c",
-  "theoilshockisntoverithasjustchangedshapeandstockmarketinvest"
+  "theoilshockisntoverithasjustchangedshapeandstockmarketinvest",
+  "45dcefef6d08973e",
+  "wticrudeoilpriceforecastoilnear80asusirantensionsoffsetopecs"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T09:10:35.728715+03:00",
+ "last_run": "2026-07-15T09:15:21.246464+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -872,6 +872,10 @@
   {
    "d": "2026-07-15",
    "t": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports - CNBC"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "WTI Crude Oil Price Forecast: Oil Near $80 as US-Iran Tensions Offset OPEC+ Supply Increase - FXLeaders"
   }
  ]
 }
