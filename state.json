@@ -4,10 +4,6 @@
   "Brent": 83.61
  },
  "seen": [
-  "4bcda6165c2874a6",
-  "ukraineuncoversrussianoilsanctionsevasionschemeinvolvingindi",
-  "84d70e84f96c6dff",
-  "gaspricesstayhighevenasoilcostsdrophereswhy",
   "109264a834c01c6e",
   "ieawarnseumethanelawcouldlimitblocsoilsupplyoptions",
   "97a8715919d94f59",
@@ -603,7 +599,11 @@
   "18ee7882792e055b",
   "pjmauctioncomesup68gigawattsshortasdatacentersdevourpower",
   "24d7f6441ee48914",
-  "oilshippingflightsdisruptionsarebackasusiranwarreignites"
+  "oilshippingflightsdisruptionsarebackasusiranwarreignites",
+  "4dfec02623afc083",
+  "crudeoilmoveslowerusproducerpricesfall03injune",
+  "3a73c7cbb15eb639",
+  "gtvoicewesternmediaoutletsmisleadbyavoidingrealcauseofoilvol"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T19:05:18.416659+03:00",
+ "last_run": "2026-07-15T19:10:35.114160+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
