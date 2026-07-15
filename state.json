@@ -4,10 +4,6 @@
   "Brent": 83.61
  },
  "seen": [
-  "4b47cfd3e288fd5d",
-  "presidentdonaldtrumpjustdeclaredtheceasefireisoverhereswhatt",
-  "941ec817d0fee754",
-  "oilpricesrisetohighestlevelinamonthasnewusblockadelooms",
   "257fe90dd7b03ef0",
   "angolasupstreamreformprogramandinvestmentpipelineexaminedinc",
   "8c50a7e7a5fc3fb3",
@@ -603,7 +599,11 @@
   "5ce6b0c87739bd50",
   "useiacrudeoilinventories17mlnbarrelsinlatestweekfromprevious",
   "d33f1d21cc550157",
-  "russiasoilexportsurgerunsintoa135millionbarreltrafficjam"
+  "russiasoilexportsurgerunsintoa135millionbarreltrafficjam",
+  "a0c49b86bbcbe6cc",
+  "oillittlechangedafterusreimposesnavalblockadeoniranlaunchesm",
+  "483758629c0088ca",
+  "risingoilpricesboostinvestmentinoilandgasmacklemsays"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T18:10:37.226919+03:00",
+ "last_run": "2026-07-15T18:15:22.696700+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1031,6 +1031,10 @@
   {
    "d": "2026-07-15",
    "t": "Russia's Oil Export Surge Runs Into a 135 Million-Barrel Traffic Jam - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Oil little changed after U.S. reimposes naval blockade on Iran, launches more airstrikes - CNBC"
   }
  ]
 }
