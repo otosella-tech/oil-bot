@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "14b516062c827468",
-  "only40ofsyriasoilandgaswellsoperatingenabbaladi",
   "76c67bab2d1704af",
   "straitofhormuztensionsweighonchinesestocksasoilsurges",
   "524ec2c319dfc525",
@@ -603,7 +601,9 @@
   "eb53cb1f979475a9",
   "trumpsnewiranblockadecouldhitoilpricesharder",
   "b1d0745806b22542",
-  "usblockadesiranianportslaunchesdozensofstrikesastrumpseeksco"
+  "usblockadesiranianportslaunchesdozensofstrikesastrumpseeksco",
+  "f79ef8995c2012e1",
+  "stockssteadyasoilsurgeoffsetsasmllifttotech"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T15:20:35.964269+03:00",
+ "last_run": "2026-07-15T15:25:16.994951+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -964,6 +964,10 @@
   {
    "d": "2026-07-15",
    "t": "U.S. blockades Iranian ports, launches dozens of strikes as Trump seeks control of Strait of Hormuz - CBS News"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Stocks steady as oil surge offsets ASML lift to tech - Reuters"
   }
  ]
 }
