@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "99b99a0d3c59bedf",
-  "crudeoilfuturesaug6clmainusbrentlastdayfinanc",
-  "d2675e30f464327f",
-  "opeclowersoildemandgrowthforecastsfor2026",
   "82e97865514b62c5",
   "oilpricestodaycrudesurgestoonemonthhighasusiranconflictescal",
   "4724565087335e2f",
@@ -603,7 +599,11 @@
   "cc208f0057f5b4a3",
   "chinabluntediranwaroilshockbutcanitdothesameforfuels",
   "3babbeda1c6fb9ca",
-  "trumpshormuztollplansbringoilsupplyrisksbackinspotlight"
+  "trumpshormuztollplansbringoilsupplyrisksbackinspotlight",
+  "a4fa7b49fb99920d",
+  "oilrisesafteranotherroundofusstrikesagainstirannavalblockade",
+  "829d3ce1d115aa4c",
+  "theoilshockisntoverithasjustchangedshapeandstockmarketinvest"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T09:05:18.494923+03:00",
+ "last_run": "2026-07-15T09:10:35.728715+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -868,6 +868,10 @@
   {
    "d": "2026-07-15",
    "t": "China blunted Iran war oil shock, but can it do the same for fuels? - Reuters"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports - CNBC"
   }
  ]
 }
