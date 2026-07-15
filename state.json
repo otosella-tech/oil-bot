@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "4f4702ee206225bd",
-  "oilpriceshitafourweekhighfollowingnewattacks",
   "90b3159a95e5baa4",
   "spotmideastcrudepricesstrengthenafteriranattacksuaetankers",
   "4eda8d9f7adbe7da",
@@ -603,7 +601,9 @@
   "b74876a9858359f1",
   "ukraineintensifiesattacksonrussiantankersintheblacksea",
   "61b5d58d1ed7e31e",
-  "theoilmarketisiransbestfriendandiranknowsiteconomist"
+  "theoilmarketisiransbestfriendandiranknowsiteconomist",
+  "901a9e4dbeceaa23",
+  "theusismaxingoutitsstrategicoilreservesastrumpvowstocontrolt"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T14:00:47.221591+03:00",
+ "last_run": "2026-07-15T14:05:16.675206+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -940,6 +940,10 @@
   {
    "d": "2026-07-15",
    "t": "The oil market is Iran's 'best friend', and Iran knows it: Economist - CNBC"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz - MarketWatch"
   }
  ]
 }
