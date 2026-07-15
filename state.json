@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "d5547c7c6a5116de",
-  "oilsurgedragsbitcoinbelowkeylevel",
   "2ddb44ba11d9bd8a",
   "chinasjunecrudeoilimportsfall413fromayearearlier",
   "8bcf493e040c2ac0",
@@ -603,7 +601,9 @@
   "5191070bf6259528",
   "theusleadstheworldinoilproductiondoesthataffectgasprices",
   "e3a38b033280949e",
-  "oilpricesrise2ashostilitiesworseninthemiddleeast"
+  "oilpricesrise2ashostilitiesworseninthemiddleeast",
+  "87a20e50cdfaa25e",
+  "usgasolinepricescouldhit4pergallonwithindays"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T11:40:36.524017+03:00",
+ "last_run": "2026-07-15T11:45:23.313650+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
