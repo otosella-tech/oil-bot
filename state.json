@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "93b30d59f83e5e77",
-  "uscrudejumpsabove80asiranceasefirefracturestrumpshormuztollp",
   "033517dff8cb6a67",
   "keystonepipelineoperatoragreestopay269mpenaltyfor2022oilspil",
   "afcf4a3af09cf361",
@@ -603,7 +601,9 @@
   "c99b5560d4715d81",
   "diamondbackenergyfangisamongsttheoversoldnasdaqstocksamidoil",
   "55a3cda2c50b4456",
-  "viperenergyvnomcompletesriverbendoilandgasixacquisition"
+  "viperenergyvnomcompletesriverbendoilandgasixacquisition",
+  "c4b0a1961420c9f7",
+  "japantoreceivefirstmexicancrudecargosincestartofiranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T12:55:18.595974+03:00",
+ "last_run": "2026-07-15T13:00:47.747526+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -924,6 +924,10 @@
   {
    "d": "2026-07-15",
    "t": "Ohio gas prices expected to rise amid US-Iran tensions, experts warn drivers - WCPO 9 Cincinnati"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Japan to receive first Mexican crude cargo since start of Iran war - Reuters"
   }
  ]
 }
