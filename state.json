@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "74dacdbae3cd105f",
-  "brazilextends12crudeoilexporttaxfor60days",
-  "aec983d51d0415ad",
-  "usgrainoilseedreviewsoybeanssoyoildrawsupportfromsurgeincrud",
   "8ef0eeb1ebc6c90e",
   "canmortgageratessurvivehawkishfedtalkduringinflationweek",
   "b981f87607be7c4a",
@@ -603,7 +599,11 @@
   "24067b15ff0c22c9",
   "trumpscrapsthreatof20feeonhormuzcargoasusresumesblockadeofir",
   "24452b5e4612bdbd",
-  "newrussiaoilsanctionsbillaimstariffsatchinaindia"
+  "newrussiaoilsanctionsbillaimstariffsatchinaindia",
+  "61db621da08f6651",
+  "oilrisesamidiransattacksonshippinginstraitofhormuz",
+  "08eff3bbe5488b69",
+  "crudeoilpipelinebetweeniraqsyriatoberevivedwithusassistance"
  ],
  "releases_done": {
   "2026-07-14|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-07-15T04:25:16.667254+03:00",
+ "last_run": "2026-07-15T04:30:40.491031+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -791,6 +791,14 @@
   {
    "d": "2026-07-15",
    "t": "Oil up 9% to one-month high as US says it will blockade entire Iranian coastline, all vessels - Reuters"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Oil Rises Amid Iran’s Attacks on Shipping in Strait of Hormuz - WSJ"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Crude oil pipeline between Iraq, Syria to be revived with US assistance - The Jerusalem Post"
   }
  ]
 }
