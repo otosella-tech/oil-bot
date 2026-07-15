@@ -4,8 +4,6 @@
   "Brent": 83.61
  },
  "seen": [
-  "51d43067b6febf74",
-  "coolinginflationeasespressureonfedasoilpricesjumpasusandiran",
   "4fbce580616f2fc3",
   "africaslargestoilrefineryswitchestothedollarforitsnewpricing",
   "4477874f59aa25cd",
@@ -603,7 +601,9 @@
   "a5018ceb13292d84",
   "criticaldataforindiaslargestnuclearplantexposedinmassivebrea",
   "c895394269434a6a",
-  "straitofhormuzoilflowsfalltowardprepeacedeallevelsaswarreign"
+  "straitofhormuzoilflowsfalltowardprepeacedeallevelsaswarreign",
+  "c40393dee3e90af9",
+  "supertankersincreasinglybearbruntinhormuzshipattacks"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T20:35:21.054336+03:00",
+ "last_run": "2026-07-15T20:40:36.805342+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1067,6 +1067,10 @@
   {
    "d": "2026-07-15",
    "t": "Strait of Hormuz oil flows fall toward pre-peace deal levels as war reignites - Yahoo! Finance Canada"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Supertankers Increasingly Bear Brunt in Hormuz Ship Attacks - gCaptain"
   }
  ]
 }
