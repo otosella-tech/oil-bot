@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "f383502065734ce9",
-  "iranshipped6billionworthofoilproductsbeforeusblockadewasrein",
   "ba096448f0f15fc9",
   "gasinfloridarisesasusiranpeacedealover",
   "43699200f959d918",
@@ -603,7 +601,9 @@
   "753214f3a0c3b31e",
   "ussaysmorethan8millionbarrelsofoiltransitedhormuzsundaywithm",
   "f8c75831e0780ec6",
-  "usbacksrevivalofiraqsyriacrudeoilpipelineinmultibilliondolla"
+  "usbacksrevivalofiraqsyriacrudeoilpipelineinmultibilliondolla",
+  "54c359a3aaad3f99",
+  "oilup9toonemonthhighasussaysitwillblockadeentireiraniancoast"
  ],
  "releases_done": {
   "2026-07-14|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-07-15T03:45:18.708875+03:00",
+ "last_run": "2026-07-15T03:50:32.012186+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -787,6 +787,10 @@
   {
    "d": "2026-07-15",
    "t": "US backs revival of Iraq-Syria crude oil pipeline in multibillion-dollar infrastructure push - Crypto Briefing"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Oil up 9% to one-month high as US says it will blockade entire Iranian coastline, all vessels - Reuters"
   }
  ]
 }
