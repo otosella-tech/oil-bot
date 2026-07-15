@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "753214f3a0c3b31e",
-  "ussaysmorethan8millionbarrelsofoiltransitedhormuzsundaywithm",
   "7f360bbfe8420dda",
   "crudeoilpricessharplyhigheronescalationofusiranhostilities",
   "54c359a3aaad3f99",
@@ -603,7 +601,9 @@
   "53faaefbc5105c3b",
   "crudeoiletfsshippingstockssurgeamidmiddleeasttensions",
   "cd6c96ec6fd7882c",
-  "oilpriceshitaonemonthhighafterceasefirecollapsewbal"
+  "oilpriceshitaonemonthhighafterceasefirecollapsewbal",
+  "9f5c67728db61446",
+  "gaspricesexpectedtorisewithrenewedusiranwar"
  ],
  "releases_done": {
   "2026-07-14|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-15",
-  "count": 14
+  "count": 15
  },
- "last_run": "2026-07-15T03:15:19.758289+03:00",
+ "last_run": "2026-07-15T03:20:32.914389+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
