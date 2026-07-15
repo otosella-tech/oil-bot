@@ -4,8 +4,6 @@
   "Brent": 83.61
  },
  "seen": [
-  "1796ef6e004511d6",
-  "nigeriasoilproductionrose25000bpdto156mbpdinjuneopec",
   "410850da0533d845",
   "goldreboundsasusinflationdropsbutcrudeoilleaps",
   "eee9efd47d3881f7",
@@ -603,7 +601,9 @@
   "7c17c4b23b829f25",
   "currentpriceofoilasofjuly92026",
   "6b28bdd99f7651da",
-  "usexportsofcrudeoilandpetroleumproductsreachedrecordinapril"
+  "usexportsofcrudeoilandpetroleumproductsreachedrecordinapril",
+  "f90667120a7914b9",
+  "focusonmarketsandtollsatthestraitofhormuznysearcaspy"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T20:00:49.267577+03:00",
+ "last_run": "2026-07-15T20:05:18.765312+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1051,6 +1051,10 @@
   {
    "d": "2026-07-15",
    "t": "Five Ways China Is Shielding Itself as the Hormuz Cease-Fire Collapses"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Focus On Markets And Tolls At The Strait Of Hormuz (NYSEARCA:SPY) - Seeking Alpha"
   }
  ]
 }
