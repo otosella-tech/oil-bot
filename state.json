@@ -4,12 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "3cf950b641ad8fd0",
-  "bpsignalsstrongersecondquarteroiltradingresultslowernetdebt",
-  "adb3cddfda71a1a6",
-  "bpflagsboostfromoilpricesrefiningmarginsasnetdebtfalls",
-  "74dde950fb68d957",
-  "oilpricesextendrunhigherasusirantensionsintensify",
   "5c5a570c522c3fbb",
   "chinacutssaudicrudeordersashormuzrisksanddiscountsreshapetra",
   "1806a163550d3b73",
@@ -603,7 +597,13 @@
   "f6ad459240455c04",
   "spartalaunchesfueloilarbitrageanalyticsbringingtransparencyt",
   "ad6c07cad2e82431",
-  "oilextendsgainsastrumpwarnsoffreshiranstrikessupplyriskspers"
+  "oilextendsgainsastrumpwarnsoffreshiranstrikessupplyriskspers",
+  "826e3d3d1d284f68",
+  "despitefallingoilpricestheresnowa73chanceofaninterestratehik",
+  "c2a16ee3426b2b22",
+  "oilclimbsforathirddayastrumpwarnsoffurtheractionagainstiran",
+  "7a7a01b63fdfb741",
+  "trkiyeseeksinterimdealasiraqoilpipelineagreementnearsexpirat"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T14:55:17.190775+03:00",
+ "last_run": "2026-07-15T15:00:49.419031+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -952,6 +952,14 @@
   {
    "d": "2026-07-15",
    "t": "Oil extends gains as Trump warns of fresh Iran strikes, supply risks persist - Investing.com"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Oil climbs for a third day as Trump warns of further action against Iran - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Türkiye Seeks Interim Deal as Iraq Oil Pipeline Agreement Nears Expiration - Pipeline Technology Journal"
   }
  ]
 }
