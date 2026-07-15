@@ -4,10 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "90b3159a95e5baa4",
-  "spotmideastcrudepricesstrengthenafteriranattacksuaetankers",
-  "4eda8d9f7adbe7da",
-  "ishormuzopentrumpstollthreatintensifiesrushtobypassthestrait",
   "048582a6e6795a4e",
   "oilpricesextendrunhigherasfightingflaresinthemiddleeast",
   "122479c79812dfb1",
@@ -603,7 +599,11 @@
   "61b5d58d1ed7e31e",
   "theoilmarketisiransbestfriendandiranknowsiteconomist",
   "901a9e4dbeceaa23",
-  "theusismaxingoutitsstrategicoilreservesastrumpvowstocontrolt"
+  "theusismaxingoutitsstrategicoilreservesastrumpvowstocontrolt",
+  "6a9517cd33412e98",
+  "goldsilverfuturesfallprebellasescalationofstrikesbetweenusir",
+  "642023e9649d243a",
+  "crudeoilfloorbeingestablishedheresaysdowjonesenergyscinquegr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T14:10:35.182474+03:00",
+ "last_run": "2026-07-15T14:15:20.351395+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -944,6 +944,10 @@
   {
    "d": "2026-07-15",
    "t": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz - MarketWatch"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Gold, Silver Futures Fall Pre-Bell as Escalation of Strikes Between US, Iran Sends Crude Oil Higher, Lifting Inflation Concerns - marketscreener.com"
   }
  ]
 }
