@@ -4,8 +4,6 @@
   "Brent": 83.61
  },
  "seen": [
-  "687ccefebf689365",
-  "oilpricesrise2asusblockadeoniranstokessupplyfears",
   "bf4c4300e3bc20ff",
   "thecrudeoilassayforjohansverdruphasbeenupdated",
   "915a528b0e8dc109",
@@ -603,7 +601,9 @@
   "04a10c2066c0f825",
   "chinaexpandsenergyandtradepartnershipsincentralasia",
   "3907b9dbc7ffb0bb",
-  "oilpricesrisetohighestlevelinamonthasnewusblockadelooms"
+  "oilpricesrisetohighestlevelinamonthasnewusblockadelooms",
+  "443c9f6b152f046f",
+  "whitehouseweighsjonesactwaiverextensionashormuzconflictreign"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T21:00:46.518556+03:00",
+ "last_run": "2026-07-15T21:05:17.029843+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1075,6 +1075,10 @@
   {
    "d": "2026-07-15",
    "t": "The war in Iran is accelerating oil’s flight from Hormuz - Decode39"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "White House Weighs Jones Act Waiver Extension As Hormuz Conflict Reignites - gCaptain"
   }
  ]
 }
