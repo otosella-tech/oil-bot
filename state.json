@@ -4,14 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "e8e4e8c184cc4bb8",
-  "brentoilstructurechangestoreflectmountingsupplyriskasiranten",
-  "a54fbcc900b3947a",
-  "electrifyingoilandgasoperationscapstoneupgradingmicroturbine",
-  "7993eb341b79bfc2",
-  "iraqneedsafairsharewithinopecsaysprimeminister",
-  "4c6d6c38a24f8acf",
-  "oilpricesoffhighsaftertrumpabandons20protectionfeeonstraitof",
   "1ee2e19dba9a5389",
   "ceatresearchersunveilhiddenmechanicsbehindoilwateremulsions",
   "c30b233c0b409955",
@@ -603,7 +595,15 @@
   "a17576d53447b2d0",
   "whyfuelisgettingmoreexpensiveitgoesfarbeyondthestraitofhormu",
   "df096b0feff16842",
-  "oiltops85asusintensifiesstrikesoniran"
+  "oiltops85asusintensifiesstrikesoniran",
+  "1e568e8e8e728c5f",
+  "usstocksrisefollowingstrongprofitreportsevenasoilpriceskeepc",
+  "60dc90d8d47797a2",
+  "usreimposesblockadeandstepsupstrikesasiranthreatenstohaltmid",
+  "3c504556161b0202",
+  "iranwarwhatisthestraitofhormuzandwhydoesitmatter",
+  "947ab8a97778624c",
+  "crudeoilnaturalgaspricesbegintosurgeinalaskaasiraniantension"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T23:15:20.859385+03:00",
+ "last_run": "2026-07-15T23:20:35.844210+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1099,6 +1099,18 @@
   {
    "d": "2026-07-15",
    "t": "Oil tops $85 as U.S. intensifies strikes on Iran - World Oil"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "U.S. reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports - NBC News"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Iran war: What is the Strait of Hormuz and why does it matter? - BBC"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Crude oil, natural gas prices begin to surge in Alaska as Iranian tensions flare - Alaska's News Source"
   }
  ]
 }
