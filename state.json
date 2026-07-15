@@ -4,10 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "067b3b72f8620f2b",
-  "oregonisoneofonlyfourstateswithaweekoverweekdeclineintheaver",
-  "073401045affee07",
-  "usconsumerpricesdropinjuneasenergycoststumble",
   "5da94752191e3509",
   "analystsseeweeklydeclineinuscrudeoilstockpiles",
   "7fc412afd9c0afe4",
@@ -603,7 +599,11 @@
   "61379138c7e039c3",
   "fiveoilandgasstocksreadyforahormuzspikeandahawkishfed",
   "593d9504f3d89ac8",
-  "whyoilpricesandgaspricescanmoveindifferentdirectionsmidlandr"
+  "whyoilpricesandgaspricescanmoveindifferentdirectionsmidlandr",
+  "7f8b7649cf516305",
+  "goldedgeshighersilverslipsasoilkeepsinflationriskalivekitcop",
+  "d842e487e8dd5e78",
+  "oilpricesreachmonthlyhighduetotensionsinhormuz"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-07-16T00:30:42.153607+03:00",
+ "last_run": "2026-07-16T00:35:18.109986+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1119,6 +1119,10 @@
   {
    "d": "2026-07-16",
    "t": "Five Oil and Gas Stocks Ready for a Hormuz Spike and a Hawkish Fed"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Oil prices reach monthly high due to tensions in Hormuz - Inspenet"
   }
  ]
 }
