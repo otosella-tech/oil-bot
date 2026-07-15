@@ -4,8 +4,6 @@
   "Brent": 85.42
  },
  "seen": [
-  "8bcf493e040c2ac0",
-  "oilextendsgainsafterlatestusstrikestechsuffersmorelosses",
   "a5815888b4fecceb",
   "chinacutcrudeimportstodampoilpriceshocksandeasedpressureongl",
   "9e8e517bf5ab0a7f",
@@ -603,7 +601,9 @@
   "87a20e50cdfaa25e",
   "usgasolinepricescouldhit4pergallonwithindays",
   "664f953f524c71f8",
-  "brentcrudeoilfromceasefiretocrossfirewhatsnext"
+  "brentcrudeoilfromceasefiretocrossfirewhatsnext",
+  "ac84caa8032f33d1",
+  "gaspricesingeorgiaincreaseafterusiranceasefirebreaksdownatla"
  ],
  "releases_done": {},
  "last_digest": "2026-07-15",
@@ -615,7 +615,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T12:00:44.474105+03:00",
+ "last_run": "2026-07-15T12:05:19.636066+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -904,6 +904,10 @@
   {
    "d": "2026-07-15",
    "t": "U.S. Backs Iraq-Syria Oil Pipeline to Bypass the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Gas prices in Georgia increase after U.S.-Iran ceasefire breaks down - Atlanta Journal-Constitution"
   }
  ]
 }
