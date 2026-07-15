@@ -4,8 +4,6 @@
   "Brent": 83.61
  },
  "seen": [
-  "5866173446d6f937",
-  "oilsoversupplynarrativejustdied",
   "eeccdd1629a13f7b",
   "oilpricesrise2toonemonthhighasusblockadeoniranstokessupplyfe",
   "e72db904c4a39ad1",
@@ -603,7 +601,9 @@
   "518bd3aa597682d8",
   "russiaseeksmoregasolinefromindiaafterukraineattacksrefinerie",
   "c4465ce763752d94",
-  "afterhormuzhereswhytheredseaisnowtheworldsmostvulnerableship"
+  "afterhormuzhereswhytheredseaisnowtheworldsmostvulnerableship",
+  "f266753f4cf80db9",
+  "trumpsstraitofhormuzblockadesqueezesdrivers"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T21:50:36.005238+03:00",
+ "last_run": "2026-07-15T21:55:16.812749+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1083,6 +1083,10 @@
   {
    "d": "2026-07-15",
    "t": "Russia seeks more gasoline from India after Ukraine attacks refineries, sources say - Reuters"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Trump's Strait of Hormuz blockade squeezes drivers - Yahoo Finance Australia"
   }
  ]
 }
