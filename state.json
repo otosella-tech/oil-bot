@@ -4,12 +4,6 @@
   "Brent": 83.61
  },
  "seen": [
-  "e6e14f6b20231c04",
-  "oilpricesjumpaftertrumpsthreatsonstraitofhormuz",
-  "54104c497f21d7e0",
-  "oilfuturesextendgainsonrenewedmiddleeastfighting",
-  "564e3d35d254bb20",
-  "oilpricessoarover85asfightingflaresinmiddleeast",
   "4b47cfd3e288fd5d",
   "presidentdonaldtrumpjustdeclaredtheceasefireisoverhereswhatt",
   "941ec817d0fee754",
@@ -603,7 +597,13 @@
   "0f4f846cc5d61d0f",
   "russiasoilexportsurgerunsintoa135million",
   "1e846d5d2725ebc8",
-  "gaspricesclimbasusirantensionsrattleoilmarkets"
+  "gaspricesclimbasusirantensionsrattleoilmarkets",
+  "828d9e4b41d37944",
+  "newsreleasesabcconstructionmaterialscostsfallwithoilpricesin",
+  "5ce6b0c87739bd50",
+  "useiacrudeoilinventories17mlnbarrelsinlatestweekfromprevious",
+  "d33f1d21cc550157",
+  "russiasoilexportsurgerunsintoa135millionbarreltrafficjam"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-15",
   "count": 60
  },
- "last_run": "2026-07-15T18:05:16.841496+03:00",
+ "last_run": "2026-07-15T18:10:37.226919+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1027,6 +1027,10 @@
   {
    "d": "2026-07-15",
    "t": "Russia’s Oil Export Surge Runs Into a 135 Million-Barrel Traffic Jam"
+  },
+  {
+   "d": "2026-07-15",
+   "t": "Russia's Oil Export Surge Runs Into a 135 Million-Barrel Traffic Jam - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
