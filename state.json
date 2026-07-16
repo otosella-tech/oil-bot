@@ -4,10 +4,6 @@
   "Brent": 84.29
  },
  "seen": [
-  "6b2f8e39fbef7979",
-  "currentpriceofoilasofjuly142026",
-  "d87c14c3f9716653",
-  "opeccutsdemandforecastagainastheoilmarketstartslookingpastho",
   "3075b411e2f7d1e9",
   "oilpricessettleatpreiranwarlevelsascrudeoutputgrows",
   "09d7bee3de22f682",
@@ -603,7 +599,11 @@
   "c772d704719d8559",
   "indiaurgesshipownerstoavoiddeployingnationalsonhormuzvoyages",
   "f7763db614b6d6bc",
-  "chinareducedoilimportsandreshapedglobalfuelmarkets"
+  "chinareducedoilimportsandreshapedglobalfuelmarkets",
+  "2f2bb505202a077b",
+  "ukrainehits2sanctionedrussiantankerswithnavaldrones",
+  "d31949b9ec5d00e9",
+  "saudiarabiaslicescrudeoilpricesbutisitenough"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 51
+  "count": 52
  },
- "last_run": "2026-07-16T12:30:45.414422+03:00",
+ "last_run": "2026-07-16T12:35:17.444698+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
