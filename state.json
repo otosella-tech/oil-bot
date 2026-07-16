@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 78.95,
+  "WTI": 80.61,
   "Brent": 84.29
  },
  "seen": [
-  "ac84caa8032f33d1",
-  "gaspricesingeorgiaincreaseafterusiranceasefirebreaksdownatla",
   "1cac83b9c5bea396",
   "japanrefinerstodiversifycrudesourcesexploresupportforhormuzb",
   "01f39656033ec83c",
@@ -603,7 +601,9 @@
   "de660f0cc5d72029",
   "whattrumpsnewiranblockadecouldmeanforoilprices",
   "e026aed8eaad979b",
-  "americashormuzbrinkmanshipisworseningaglobalfuelcrunch"
+  "americashormuzbrinkmanshipisworseningaglobalfuelcrunch",
+  "750087b69cea4893",
+  "omanicrudeoilpricereaches7636abarrelfananews"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T15:40:38.065649+03:00",
+ "last_run": "2026-07-16T15:45:20.718754+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
