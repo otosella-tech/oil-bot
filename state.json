@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "2600a736cb94f0c6",
-  "americabarelyusesopecoilwhyareoilandgaspricessohigh",
   "44f4861633710d87",
   "shellfidadvanceslngregasificationinthebahamas",
   "64e7ba86f689b233",
@@ -603,7 +601,9 @@
   "97a8715919d94f59",
   "currentpriceofoilasofjuly132026",
   "d33f1d21cc550157",
-  "russiasoilexportsurgerunsintoa135millionbarreltrafficjam"
+  "russiasoilexportsurgerunsintoa135millionbarreltrafficjam",
+  "04487d60df8e5df1",
+  "analysischinasoilimportslumppointstoadeeperdemandreset"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 12
  },
- "last_run": "2026-07-17T02:30:31.617997+03:00",
+ "last_run": "2026-07-17T02:35:16.015144+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
