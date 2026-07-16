@@ -4,14 +4,6 @@
   "Brent": 84.29
  },
  "seen": [
-  "240b573f5ca1e973",
-  "brentcrudeoilpricejumps11astrumpmovestocontrolstraitofhormuz",
-  "66a89ba172ff2012",
-  "iranguardshormuzshutuntilusendsaggression",
-  "95c5b6abc735f32d",
-  "trumpthreatenstobombbridgesandpowerplantsunlessiranresumesta",
-  "3fdd3cc228b6f2a8",
-  "oilpricesriseashostilitiesworseninthemiddleeast",
   "b387ec200befc39b",
   "chinascrudeoilimportscrashtodecadelowashormuzcrisisbites",
   "336121e53f99ecfe",
@@ -603,7 +595,15 @@
   "b62198a9a611254b",
   "oileasesastradersweighusiranconflictrisks",
   "2df017b4eb7327d5",
-  "oilsteadiesaftergainsbutusirantensionsremainhigh"
+  "oilsteadiesaftergainsbutusirantensionsremainhigh",
+  "4c88bc908e848c4e",
+  "oilstockstowatchasbrentcrudetests85nearthestraitofhormuz",
+  "d9fbfe0a666caa9a",
+  "crudeoilloadingsuspendediniraqafterdroneincident",
+  "a4571697b75edb9a",
+  "iraqsuspendscrudeoilflowsafterdronecrashesintotankersendingt",
+  "9b27d36e9b4fff13",
+  "usstocksstallasairallyfacesfreshscrutinymarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 57
+  "count": 58
  },
- "last_run": "2026-07-16T13:30:40.208466+03:00",
+ "last_run": "2026-07-16T13:35:18.864955+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
