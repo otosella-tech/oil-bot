@@ -4,10 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "eb53cb1f979475a9",
-  "trumpsnewiranblockadecouldhitoilpricesharder",
-  "b1d0745806b22542",
-  "usblockadesiranianportslaunchesdozensofstrikesastrumpseeksco",
   "f79ef8995c2012e1",
   "stockssteadyasoilsurgeoffsetsasmllifttotech",
   "a0d5437c85f78abc",
@@ -603,7 +599,11 @@
   "80bef404d4890c42",
   "asthestrategicpetroleumreservehitsa40yearlowitstimetoscrapit",
   "61deb2346fe7f768",
-  "goldandsilverpriceshitnew8monthlowsasdollaroilrise"
+  "goldandsilverpriceshitnew8monthlowsasdollaroilrise",
+  "0b89ae4efb3c9088",
+  "dieselhits5agallonagainup33sincethestartofiranwar",
+  "470ec11326c2a99f",
+  "crudeoilwatchesthehouthisaimatthelastexportroutethatstillwor"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T18:35:19.354308+03:00",
+ "last_run": "2026-07-16T18:40:28.260149+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1236,6 +1236,10 @@
   {
    "d": "2026-07-16",
    "t": "Oil ticks lower after three-day rally as Iran conflict keeps supply risks elevated - Investing.com"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Diesel Hits $5 a Gallon Again, Up 33% Since the Start of Iran War - The Seattle Times"
   }
  ]
 }
