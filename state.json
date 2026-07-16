@@ -4,8 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "d14efad147c44cd6",
-  "oiltankerstockssetupamidtrumpsflipfloponhormuztoll",
   "27f3b8e7f08ed857",
   "irannotasingledropofoilorgaswilldepartregionifuscontinuesevi",
   "f8f04c1db12d40ec",
@@ -603,7 +601,9 @@
   "db9c47fc6f473f57",
   "americasrenewednavalblockadeleavesiranrunningoutofoptions",
   "5fcbff99324c5d5b",
-  "canadatiesnewwestcoastpipelinetooilsandsexpansion"
+  "canadatiesnewwestcoastpipelinetooilsandsexpansion",
+  "08be84d9c442624a",
+  "oileasesastraderslockingainsassessiranescalation"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-07-16T09:45:19.738453+03:00",
+ "last_run": "2026-07-16T09:50:32.327595+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1156,6 +1156,10 @@
   {
    "d": "2026-07-16",
    "t": "Canada Ties New West Coast Pipeline to Oil Sands Expansion - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Oil eases as traders lock in gains, assess Iran escalation - Reuters"
   }
  ]
 }
