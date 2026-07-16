@@ -4,12 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "266dc3e77212c98c",
-  "oilpricesrise1ashostilitiesworseninthemiddleeast",
-  "96da8058b2591e84",
-  "crudeoilemotionsarerunninghigh",
-  "946de27addee7a89",
-  "tehranthreatenstohaltallmideastenergyexportsafterusreimposes",
   "be31fa8c5fa4cf92",
   "worldsharesaremixedandoilpricesclimbasiranthreatenstoblockmi",
   "a3787d3168c204a8",
@@ -603,7 +597,13 @@
   "360860d54c3e9ed1",
   "theundisputedglobaloilsuperpower",
   "0ee384c75e908fbe",
-  "oilabove85asriskstomiddleeastcrudeflowsmount"
+  "oilabove85asriskstomiddleeastcrudeflowsmount",
+  "cccbaeffb1710e64",
+  "usstockmarkettodaywallstreetfuturesedgeloweraschipstocksretr",
+  "86d7c40626379c85",
+  "usstockstodayaistocksdropagaincrudeoilpricescontinuetoclimb",
+  "c58cd81357c87e5c",
+  "syriaseizeshezbollahdronesandmissileshiddeninoiltanker"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T17:05:18.255980+03:00",
+ "last_run": "2026-07-16T17:10:36.469737+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-07-16",
    "t": "Oil futures: Crude edges up as market eyes Hormuz - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Syria seizes Hezbollah drones and missiles hidden in oil tanker - The Jerusalem Post"
   }
  ]
 }
