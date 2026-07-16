@@ -4,8 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "f8f04c1db12d40ec",
-  "usdriversmaysoonseepumppricesclimbbackupto4",
   "28e76765b739e3a7",
   "bangladeshsnuclearpowerplayisatestforemergingeconomies",
   "1bd9c0ae0c503ae4",
@@ -603,7 +601,9 @@
   "08be84d9c442624a",
   "oileasesastraderslockingainsassessiranescalation",
   "48edf0d5c5277ed2",
-  "currentpriceofoilasofjuly82026"
+  "currentpriceofoilasofjuly82026",
+  "ce3f660f9a608cf7",
+  "eiareportsadropinuscrudeoilstocks"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 37
  },
- "last_run": "2026-07-16T10:00:49.789397+03:00",
+ "last_run": "2026-07-16T10:05:19.082745+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
