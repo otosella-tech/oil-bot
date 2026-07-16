@@ -4,10 +4,6 @@
   "Brent": 84.29
  },
  "seen": [
-  "7225573d7d518d8d",
-  "oilfuturescrudegrindshigherashormuzblockadeinfocus",
-  "7381c4e508d2ffe1",
-  "oilrisesasuscontinuestostriketehranreinstatesblockadeofirani",
   "6b2f8e39fbef7979",
   "currentpriceofoilasofjuly142026",
   "d87c14c3f9716653",
@@ -603,7 +599,11 @@
   "9ddf0ee2085d08d1",
   "hormuztrafficfallsafterusreimposesblockadeoniranianports",
   "8bf6a39ac00508ec",
-  "americaextendsitsleadoverrussiaandsaudiarabiainoiloutput"
+  "americaextendsitsleadoverrussiaandsaudiarabiainoiloutput",
+  "c772d704719d8559",
+  "indiaurgesshipownerstoavoiddeployingnationalsonhormuzvoyages",
+  "f7763db614b6d6bc",
+  "chinareducedoilimportsandreshapedglobalfuelmarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 50
+  "count": 51
  },
- "last_run": "2026-07-16T12:25:18.576929+03:00",
+ "last_run": "2026-07-16T12:30:45.414422+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
