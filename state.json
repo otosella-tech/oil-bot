@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "2e27aa4791d99838",
-  "asianoilrefinersscoopupusacrude",
   "0360d44157710250",
   "danwaltershownewsomshistorywithoilindustrycouldaffectapresid",
   "cf35582e571068cf",
@@ -603,7 +601,9 @@
   "7bea665368e53dd0",
   "eniceobigoilbetsonsoutheastasiaandlatinamerica",
   "52190a781fe74e02",
-  "windfallprofitstaxesinnameonlyamericanenterpriseinstitute"
+  "windfallprofitstaxesinnameonlyamericanenterpriseinstitute",
+  "db1e093a03f02fa0",
+  "oilpipelinesaroundthestraitofhormuzwontendthethreatiranposes"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T22:15:21.770911+03:00",
+ "last_run": "2026-07-16T22:20:26.874046+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-07-16",
    "t": "Ukraine Hit Two Large Russia-Linked Oil Tankers in Black Sea - gCaptain"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Oil pipelines around the Strait of Hormuz won't end the threat Iran poses to Middle East crude exports - CNBC"
   }
  ]
 }
