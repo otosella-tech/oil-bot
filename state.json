@@ -4,8 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "1c5ec770bd9679a1",
-  "newussanctionsbilltargetsrussiasoilexportsandshadowfleet",
   "f89957bf22af9872",
   "dangoterefineryeyespricingproductsindollarsovernaira",
   "79c017ee3145b0d7",
@@ -603,7 +601,9 @@
   "78afafe6d9276be6",
   "opinionhowtrumpbecametheaccidentalgreenpresident",
   "162017f1f6b5bc0c",
-  "profitmarginssurgeforoilrefiners"
+  "profitmarginssurgeforoilrefiners",
+  "03ddb2ddb4375f33",
+  "greenpeacesayssatelliteimagesshow100squarekilometersofoilpol"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T20:50:27.104878+03:00",
+ "last_run": "2026-07-16T20:55:18.575733+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
