@@ -4,8 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "f00e925f7d474e4c",
-  "canadatiesnewwestcoastpipelinetooilsandsexpansion",
   "97c4b39bf278ac44",
   "brentcrudeoilpricesurgetopenergystockstowatchinjuly2026",
   "fc7e10f9e2dfc097",
@@ -603,7 +601,9 @@
   "480f7a1521d89298",
   "usshowsstronginterestiniraqioil",
   "112e493ea99c038f",
-  "howchinasoilfortresscouldreshapetheglobalenergyorder"
+  "howchinasoilfortresscouldreshapetheglobalenergyorder",
+  "ab340b4cd73f0ae0",
+  "oilpricesriseasuslaunchesnewiranairstrikeswhiletrumpabandons"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-07-16T09:35:17.220592+03:00",
+ "last_run": "2026-07-16T09:40:34.366038+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1148,6 +1148,10 @@
   {
    "d": "2026-07-16",
    "t": "U.S. Strikes Iran-Linked Tanker Near Kharg Island"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee - CNBC"
   }
  ]
 }
