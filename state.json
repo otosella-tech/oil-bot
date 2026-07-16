@@ -4,8 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "c4b0a1961420c9f7",
-  "japantoreceivefirstmexicancrudecargosincestartofiranwar",
   "266dc3e77212c98c",
   "oilpricesrise1ashostilitiesworseninthemiddleeast",
   "96da8058b2591e84",
@@ -603,7 +601,9 @@
   "ffb4dc94a07bc74f",
   "oilfuturescrudeedgesupasmarketeyeshormuz",
   "360860d54c3e9ed1",
-  "theundisputedglobaloilsuperpower"
+  "theundisputedglobaloilsuperpower",
+  "0ee384c75e908fbe",
+  "oilabove85asriskstomiddleeastcrudeflowsmount"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T17:00:48.743755+03:00",
+ "last_run": "2026-07-16T17:05:18.255980+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
