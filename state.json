@@ -4,14 +4,6 @@
   "Brent": 84.29
  },
  "seen": [
-  "6cbc54ea08e97f46",
-  "saudiarabiaboostsyanbuoilexportsashouthithreatsgrow",
-  "4e1327ca131e4890",
-  "oilpricetodaycrudetops85abarrelasusrestoresstraitofhormuzblo",
-  "5cd55f1da19f0f7a",
-  "oilpricesriseasuspreparestoreinstatehormuzstraitblockadechar",
-  "07d7687b307751b7",
-  "chinasjuneoilimportshitnear10yearlowamidiranwar",
   "a79895aa52a1fdc0",
   "willoilpricesriseastheusirantrucefraystheanswerlieswithchina",
   "939dc0964a44f3c9",
@@ -603,7 +595,15 @@
   "cf10e83a2d525f90",
   "firmerasiafxoildipofferlittlecomforttorupeeasndfmaturitiespi",
   "551c4556fbf07894",
-  "daniellesmithwantstodoublealbertaoilproductioncanshebringbac"
+  "daniellesmithwantstodoublealbertaoilproductioncanshebringbac",
+  "44bb7855c3973c88",
+  "oilpriceseaseafterrecentrallyasirantensionskeepsupplyconcern",
+  "dfed64a22683d0c3",
+  "golddeclinesfurtherasrisingoilpricescloudthefederalreserveou",
+  "32e8bea0ee2f2850",
+  "russiasanctionsbillsparksfearsofbroadeningtrumpstariffpowers",
+  "2c4a85697bf8a4e7",
+  "trumpofferedsaudiarabiatheoilshockitcannotendorse"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-07-16T14:00:49.041673+03:00",
+ "last_run": "2026-07-16T14:05:18.281401+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
