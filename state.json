@@ -4,8 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "cfe838eaf210cb7f",
-  "digitalizationpayingoffforrompetrolspetromidiarefinery",
   "596c86befb81402e",
   "trumpmeetswithiraqprimeministeratwhitehousevowsalotofdeals",
   "3794a22c4f0a820c",
@@ -603,7 +601,9 @@
   "942645aa59527ec8",
   "asiastockssetforchoppystartoiltickshighermarketswrap",
   "73ccc074fa2809c4",
-  "trumpshormuzbrinkmanshipisworseningaglobalfuelcrunch"
+  "trumpshormuzbrinkmanshipisworseningaglobalfuelcrunch",
+  "2d8e8d3bbf2c9f84",
+  "oilrisesamidprospectsofescalatingmideastconflict"
  ],
  "releases_done": {
   "2026-07-15|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-16",
   "count": 12
  },
- "last_run": "2026-07-16T04:25:18.857060+03:00",
+ "last_run": "2026-07-16T04:30:40.725970+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
