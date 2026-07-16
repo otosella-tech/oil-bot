@@ -4,8 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "b8fee2e4df1a23a4",
-  "americahasroomfor714millionbarrelsofoil",
   "5d26848a77188c25",
   "japantradechiefsayshormuzisoff",
   "bf3e60ed68618677",
@@ -603,7 +601,9 @@
   "a85a5d801762f8cb",
   "mexicoships1mmbofisthmuscrudetojapan",
   "8a70e87c52de17e8",
-  "eveningupdateforcrudeoil16072026"
+  "eveningupdateforcrudeoil16072026",
+  "bd493420f57ed791",
+  "neweiaanalysistheunitedstatesproducedmorecrudeoilin2025thana"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T20:05:20.148573+03:00",
+ "last_run": "2026-07-16T20:10:28.589035+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
