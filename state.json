@@ -4,8 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "78e7c2ac72b6d2df",
-  "oiltraderswarnmarketisclosetorunningonemptyashormuzshutsagai",
   "afe338b84752e010",
   "yourwednesdayjuly15guidefivethingstodointheoilcity",
   "1c7f788190a1af68",
@@ -603,7 +601,9 @@
   "6555fd5792a0fa16",
   "divisionofoilgasandminingimplementsupdatedoilandgasbondingru",
   "e56ef66b61f6445b",
-  "petroleummarketsrespondedtodisruptionsinthemiddleeastinthese"
+  "petroleummarketsrespondedtodisruptionsinthemiddleeastinthese",
+  "3f7b0b9a15d63fd6",
+  "turningoiltofuelhasneverbeenmoreprofitableasrefiningmarginss"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T19:45:21.754030+03:00",
+ "last_run": "2026-07-16T19:50:30.171655+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-07-16",
    "t": "US-Iran ceasefire collapse drives crude oil prices higher this week - Crypto Briefing"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Turning Oil to Fuel Has Never Been More Profitable as Refining Margins Surge - Bloomberg.com"
   }
  ]
 }
