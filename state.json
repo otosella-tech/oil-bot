@@ -4,8 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "b8c398420c7a759a",
-  "shippingstockssetupamidtrumpsflipfloponhormuztoll",
   "e6a2af686752fdfd",
   "crudeoilpriceforecastbullishbreakoutsignalspointhigher",
   "60bd9477ae3b9ad5",
@@ -603,7 +601,9 @@
   "7f360bbfe8420dda",
   "crudeoilpricessharplyhigheronescalationofusiranhostilities",
   "2ebe0919baa158af",
-  "usstrikesiran"
+  "usstrikesiran",
+  "a923b7ad18b4fd56",
+  "appliedcomputingwantstogiveoilandgasoperatorsanaimodelforthe"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 30
  },
- "last_run": "2026-07-16T09:05:18.941148+03:00",
+ "last_run": "2026-07-16T09:10:36.194655+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
