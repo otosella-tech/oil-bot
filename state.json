@@ -4,8 +4,6 @@
   "Brent": 84.29
  },
  "seen": [
-  "cc208f0057f5b4a3",
-  "chinabluntediranwaroilshockbutcanitdothesameforfuels",
   "3babbeda1c6fb9ca",
   "trumpshormuztollplansbringoilsupplyrisksbackinspotlight",
   "a4fa7b49fb99920d",
@@ -603,7 +601,9 @@
   "6ff6f8bdef1cc2de",
   "oilpricesremainskewedtotheupsideheadingintotheweekendasusira",
   "cd74b4b4de623341",
-  "papermillwasthesourceofmaineriveroilspill"
+  "papermillwasthesourceofmaineriveroilspill",
+  "b5efb39e3ce8e534",
+  "theiranwarexposestheglobaleconomysfaultlines"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T14:10:38.327143+03:00",
+ "last_run": "2026-07-16T14:15:24.375928+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1184,6 +1184,10 @@
   {
    "d": "2026-07-16",
    "t": "Oil Steadies After Gains But U.S.-Iran Tensions Remain High - WSJ"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "The Iran war exposes the global economy’s fault lines - PubAffairs Bruxelles"
   }
  ]
 }
