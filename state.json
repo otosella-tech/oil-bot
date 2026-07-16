@@ -4,8 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "874f97ad8a84de5d",
-  "couldtheustakecontrolofiranssouthernislands",
   "2980a1e22a3196e4",
   "uslaunchesnewdaylightattacksoniranuppingpressurealongsidenav",
   "9230dee8924d096b",
@@ -603,7 +601,9 @@
   "b387ec200befc39b",
   "chinascrudeoilimportscrashtodecadelowashormuzcrisisbites",
   "50aa28af983ee285",
-  "thepowervacuumcreatingnewtraderoutesacrosseurasia"
+  "thepowervacuumcreatingnewtraderoutesacrosseurasia",
+  "a2e77ca6b7cbf45b",
+  "chevronwillexplorecreatingstraitofhormuzalternativeforiraqio"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T19:10:26.714166+03:00",
+ "last_run": "2026-07-16T19:15:21.245798+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1248,6 +1248,10 @@
   {
    "d": "2026-07-16",
    "t": "China's Crude Oil Imports Crash to Decade Low as Hormuz Crisis Bites - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Chevron Will Explore Creating Strait of Hormuz Alternative for Iraqi Oil - WSJ"
   }
  ]
 }
