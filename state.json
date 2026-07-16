@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "18ee7882792e055b",
-  "pjmauctioncomesup68gigawattsshortasdatacentersdevourpower",
   "24d7f6441ee48914",
   "oilshippingflightsdisruptionsarebackasusiranwarreignites",
   "4dfec02623afc083",
@@ -603,7 +601,9 @@
   "4eb886efa54ecc28",
   "watchhowtheiranwarisrewiringtheoilmarket",
   "027f0ac2fa8795f0",
-  "iranwarnewstodayusexpandsbombingattackspresidentdonaldtrumps"
+  "iranwarnewstodayusexpandsbombingattackspresidentdonaldtrumps",
+  "3a845564498776d6",
+  "russiastrugglestosellalltheoilitsbeingforcedtoexport"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-17",
-  "count": 9
+  "count": 11
  },
- "last_run": "2026-07-17T01:00:34.131481+03:00",
+ "last_run": "2026-07-17T01:05:21.786820+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1324,6 +1324,10 @@
   {
    "d": "2026-07-17",
    "t": "Iran war news today: US expands bombing attacks; President Donald Trump says peace deal still possible - ABC7 Los Angeles"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Russia Struggles to Sell All the Oil It's Being Forced to Export - Bloomberg.com"
   }
  ]
 }
