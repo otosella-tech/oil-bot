@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "5ce6b0c87739bd50",
-  "useiacrudeoilinventories17mlnbarrelsinlatestweekfromprevious",
   "d33f1d21cc550157",
   "russiasoilexportsurgerunsintoa135millionbarreltrafficjam",
   "a0c49b86bbcbe6cc",
@@ -603,7 +601,9 @@
   "0080cbdffe4b0927",
   "chevronmovesclosertoiraqsbiggestoilprizeandahormuzexitstrate",
   "be7184e1600e44ef",
-  "ieapredictsfirstdecreaseinglobaloildemandsince2020"
+  "ieapredictsfirstdecreaseinglobaloildemandsince2020",
+  "fe4adfb509a3565c",
+  "crudeoilpriceforecastcanbullspushabovekeyresistance"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-17T00:05:20.001277+03:00",
+ "last_run": "2026-07-17T00:10:26.329435+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
