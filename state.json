@@ -4,14 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "53faaefbc5105c3b",
-  "crudeoiletfsshippingstockssurgeamidmiddleeasttensions",
-  "cd6c96ec6fd7882c",
-  "oilpriceshitaonemonthhighafterceasefirecollapsewbal",
-  "9f5c67728db61446",
-  "gaspricesexpectedtorisewithrenewedusiranwar",
-  "753214f3a0c3b31e",
-  "ussaysmorethan8millionbarrelsofoiltransitedhormuzsundaywithm",
   "f8c75831e0780ec6",
   "usbacksrevivalofiraqsyriacrudeoilpipelineinmultibilliondolla",
   "54c359a3aaad3f99",
@@ -603,7 +595,15 @@
   "e678e6a68c511c00",
   "revisedusrussiasanctionsbillsparkstariffconcerns",
   "7b91a0ecfe4e22dc",
-  "thiscaliforniaoilpipelinewasdormantfor11yearstrumpreopenedit"
+  "thiscaliforniaoilpipelinewasdormantfor11yearstrumpreopenedit",
+  "42444a345ef52d66",
+  "totalenergiesexpectshighersecondquarterprofitonwarrelatedpri",
+  "132d2355b254c241",
+  "hsbcupgradesindianequitiestoneutraloneasingoilpricesreturnof",
+  "1d276e1ccda00951",
+  "uscentcomstrikesiranaskuwaitinterceptsiranianmissilesdrones",
+  "47b1190d177e6475",
+  "crudeoilfuturesriseonstrongspotdemand"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 42
+  "count": 43
  },
- "last_run": "2026-07-16T10:50:40.856409+03:00",
+ "last_run": "2026-07-16T10:55:18.749830+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
