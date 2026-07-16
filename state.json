@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "1e846d5d2725ebc8",
-  "gaspricesclimbasusirantensionsrattleoilmarkets",
   "828d9e4b41d37944",
   "newsreleasesabcconstructionmaterialscostsfallwithoilpricesin",
   "5ce6b0c87739bd50",
@@ -603,7 +601,9 @@
   "9476f2de3139b318",
   "chevronandiraqseektobypassstraitofhormuzwithsyriapipeline",
   "8fa99119688b2a16",
-  "oilsettleslowerbutremainsnearonemonthhighonusirantension"
+  "oilsettleslowerbutremainsnearonemonthhighonusirantension",
+  "0080cbdffe4b0927",
+  "chevronmovesclosertoiraqsbiggestoilprizeandahormuzexitstrate"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T23:40:27.304168+03:00",
+ "last_run": "2026-07-16T23:45:24.447719+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1296,6 +1296,10 @@
   {
    "d": "2026-07-16",
    "t": "Oil settles lower, but remains near one-month high on U.S.-Iran tension - Reuters"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Chevron Moves Closer to Iraq's Biggest Oil Prize—and a Hormuz Exit Strategy"
   }
  ]
 }
