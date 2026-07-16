@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "24d7f6441ee48914",
-  "oilshippingflightsdisruptionsarebackasusiranwarreignites",
   "4dfec02623afc083",
   "crudeoilmoveslowerusproducerpricesfall03injune",
   "3a73c7cbb15eb639",
@@ -603,7 +601,9 @@
   "027f0ac2fa8795f0",
   "iranwarnewstodayusexpandsbombingattackspresidentdonaldtrumps",
   "3a845564498776d6",
-  "russiastrugglestosellalltheoilitsbeingforcedtoexport"
+  "russiastrugglestosellalltheoilitsbeingforcedtoexport",
+  "2dcf0bf6a30d3d4c",
+  "gaspricesclimbascrudeoilapproaches80perbarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 11
  },
- "last_run": "2026-07-17T01:05:21.786820+03:00",
+ "last_run": "2026-07-17T01:10:26.272692+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
