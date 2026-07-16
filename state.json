@@ -4,12 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "3f2b1d98d390d331",
-  "theavocadooilboomhasafraudproblemnewstudysuggests",
-  "3a845564498776d6",
-  "russiastrugglestosellalltheoilitsbeingforcedtoexport",
-  "4a7e1350e4f565c3",
-  "counteringillegalrefiningofcrudeoilsecurityforcesdestroyprim",
   "18ee7882792e055b",
   "pjmauctioncomesup68gigawattsshortasdatacentersdevourpower",
   "24d7f6441ee48914",
@@ -603,7 +597,13 @@
   "9dee4515db9b5a27",
   "uscrudeoilstockpilespostweeklywithdrawal",
   "837fe181bf22cb4e",
-  "southkoreasecures74ofseptembercrudeoilneeds"
+  "southkoreasecures74ofseptembercrudeoilneeds",
+  "c91dae00dad78a35",
+  "indiasouthafricatoboosttheirstrategicpetroleumreserves",
+  "4eb886efa54ecc28",
+  "watchhowtheiranwarisrewiringtheoilmarket",
+  "027f0ac2fa8795f0",
+  "iranwarnewstodayusexpandsbombingattackspresidentdonaldtrumps"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-17",
-  "count": 7
+  "count": 9
  },
- "last_run": "2026-07-17T00:55:42.710347+03:00",
+ "last_run": "2026-07-17T01:00:34.131481+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1312,6 +1312,18 @@
   {
    "d": "2026-07-17",
    "t": "Why the Strait of Hormuz Is Losing Importance - Bloomberg.com"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "India, South Africa To Boost Their Strategic Petroleum Reserves"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Watch How The Iran War Is Rewiring the Oil Market - Bloomberg.com"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Iran war news today: US expands bombing attacks; President Donald Trump says peace deal still possible - ABC7 Los Angeles"
   }
  ]
 }
