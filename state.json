@@ -4,8 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "8fdc3fde842d856f",
-  "currentpriceofoilasofjuly72026",
   "092cfc1fa22ba2f5",
   "golddipsasmideasttensionsfuelinflationworriescloudrateoutloo",
   "c06e45c3c04569fe",
@@ -603,7 +601,9 @@
   "188d37a7f1aee1d6",
   "irantellshouthistocloseredseaoilrouteifushitspowernetworksou",
   "01f39656033ec83c",
-  "chinarefineriesseeklessfueloilastheyoptforcheapercrudesource"
+  "chinarefineriesseeklessfueloilastheyoptforcheapercrudesource",
+  "642023e9649d243a",
+  "crudeoilfloorbeingestablishedheresaysdowjonesenergyscinquegr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T17:35:22.111047+03:00",
+ "last_run": "2026-07-16T17:40:35.524329+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
