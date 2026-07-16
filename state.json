@@ -4,8 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "9364fe48af5f14a5",
-  "eitherforeveryoneorfornooneiranturnsoilintoaweaponagain",
   "78e7c2ac72b6d2df",
   "oiltraderswarnmarketisclosetorunningonemptyashormuzshutsagai",
   "afe338b84752e010",
@@ -603,7 +601,9 @@
   "b32073e359364311",
   "usiranceasefirecollapsedrivescrudeoilpriceshigherthisweek",
   "6555fd5792a0fa16",
-  "divisionofoilgasandminingimplementsupdatedoilandgasbondingru"
+  "divisionofoilgasandminingimplementsupdatedoilandgasbondingru",
+  "e56ef66b61f6445b",
+  "petroleummarketsrespondedtodisruptionsinthemiddleeastinthese"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T19:30:34.701136+03:00",
+ "last_run": "2026-07-16T19:35:19.945768+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
