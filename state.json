@@ -4,10 +4,6 @@
   "Brent": 84.29
  },
  "seen": [
-  "87a20e50cdfaa25e",
-  "usgasolinepricescouldhit4pergallonwithindays",
-  "664f953f524c71f8",
-  "brentcrudeoilfromceasefiretocrossfirewhatsnext",
   "ac84caa8032f33d1",
   "gaspricesingeorgiaincreaseafterusiranceasefirebreaksdownatla",
   "1cac83b9c5bea396",
@@ -603,7 +599,11 @@
   "d2603e4ba748bbb2",
   "oilpricesteadiesaftergainsashormuzshipattacksthreatensupply",
   "df58a9e0a371052f",
-  "opiniontrumptheaccidentalgreenpresident"
+  "opiniontrumptheaccidentalgreenpresident",
+  "de660f0cc5d72029",
+  "whattrumpsnewiranblockadecouldmeanforoilprices",
+  "e026aed8eaad979b",
+  "americashormuzbrinkmanshipisworseningaglobalfuelcrunch"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T15:30:45.988506+03:00",
+ "last_run": "2026-07-16T15:35:17.701607+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1212,6 +1212,10 @@
   {
    "d": "2026-07-16",
    "t": "Oil Price Steadies After Gains as Hormuz Ship Attacks Threaten Supply - Bloomberg.com"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "America’s Hormuz brinkmanship is worsening a global fuel crunch - The Economist"
   }
  ]
 }
