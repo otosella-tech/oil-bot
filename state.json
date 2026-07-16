@@ -4,12 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "9230dee8924d096b",
-  "theworldnolongerhasanoilproblemithasagasolineproblem",
-  "cc1a275dd156bce3",
-  "washingtonbacksreconstructionofiraqsyriacrudeoilpipelinewith",
-  "e56ef66b61f6445b",
-  "petroleummarketsrespondedtodisruptionsinthemiddleeastinthese",
   "9364fe48af5f14a5",
   "eitherforeveryoneorfornooneiranturnsoilintoaweaponagain",
   "78e7c2ac72b6d2df",
@@ -603,7 +597,13 @@
   "a2e77ca6b7cbf45b",
   "chevronwillexplorecreatingstraitofhormuzalternativeforiraqio",
   "8de3bc6456202f3d",
-  "aaaarkansasgaspricesrise8centsasstraitofhormuzinstabilitypus"
+  "aaaarkansasgaspricesrise8centsasstraitofhormuzinstabilitypus",
+  "26d8c3b5f4c7fdec",
+  "iraqshutsdownkhormorgasfieldamidsecuritythreats",
+  "b32073e359364311",
+  "usiranceasefirecollapsedrivescrudeoilpriceshigherthisweek",
+  "6555fd5792a0fa16",
+  "divisionofoilgasandminingimplementsupdatedoilandgasbondingru"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T19:25:18.360487+03:00",
+ "last_run": "2026-07-16T19:30:34.701136+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1256,6 +1256,14 @@
   {
    "d": "2026-07-16",
    "t": "AAA: Arkansas gas prices rise 8 cents as Strait of Hormuz instability pushes crude oil higher - K8 News | Jonesboro, Arkansas"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Iraq Shuts Down Khor Mor Gas Field Amid Security Threats"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "US-Iran ceasefire collapse drives crude oil prices higher this week - Crypto Briefing"
   }
  ]
 }
