@@ -4,10 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "777e66c262040b5a",
-  "crudeoiltradingalertoilpricescontinuetorisesupportedbycoolin",
-  "85238de8a25246bd",
-  "iranwillexerciseitssovereigntyoverthestraitofhormuzwhateveri",
   "76eeefa0ffc72e9e",
   "oiltankercaptaindidntknowhewashaulingcocaineforcartelsheresh",
   "761c1b91fc92991b",
@@ -603,7 +599,11 @@
   "bff5893c8f657259",
   "oilslipsafterthreedayrallyasiranconflictkeepssupplyriskselev",
   "1836add590c6f932",
-  "oilstockpilesrunningdangerouslylowashormuzshutsagaintradersw"
+  "oilstockpilesrunningdangerouslylowashormuzshutsagaintradersw",
+  "44e64d252b300cba",
+  "oilcompaniesaremakingbillionsintheuscallstotaxtheirwindfalla",
+  "08eff3bbe5488b69",
+  "crudeoilpipelinebetweeniraqsyriatoberevivedwithusassistance"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 47
+  "count": 48
  },
- "last_run": "2026-07-16T12:00:49.922333+03:00",
+ "last_run": "2026-07-16T12:05:19.338164+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
