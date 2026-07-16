@@ -4,10 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "08eff3bbe5488b69",
-  "crudeoilpipelinebetweeniraqsyriatoberevivedwithusassistance",
-  "fa3be7933d697339",
-  "eumovestodelaymethanerulepenaltiesforoilandgasimports",
   "777e66c262040b5a",
   "crudeoiltradingalertoilpricescontinuetorisesupportedbycoolin",
   "85238de8a25246bd",
@@ -603,7 +599,11 @@
   "9df9044d98b7fdd6",
   "marketoutlookbeyondthechokepointhowthemiddleeastconflictistr",
   "f29a359c7440eeb9",
-  "asianstocksfallaskospihitbyselloffinchipsmarketswrap"
+  "asianstocksfallaskospihitbyselloffinchipsmarketswrap",
+  "bff5893c8f657259",
+  "oilslipsafterthreedayrallyasiranconflictkeepssupplyriskselev",
+  "1836add590c6f932",
+  "oilstockpilesrunningdangerouslylowashormuzshutsagaintradersw"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 46
+  "count": 47
  },
- "last_run": "2026-07-16T11:55:17.883082+03:00",
+ "last_run": "2026-07-16T12:00:49.922333+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
