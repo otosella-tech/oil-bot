@@ -4,10 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "5f33e468a78195fb",
-  "ohiogaspricesexpectedtoriseamidusirantensionsexpertswarndriv",
-  "c99b5560d4715d81",
-  "diamondbackenergyfangisamongsttheoversoldnasdaqstocksamidoil",
   "55a3cda2c50b4456",
   "viperenergyvnomcompletesriverbendoilandgasixacquisition",
   "c4b0a1961420c9f7",
@@ -603,7 +599,11 @@
   "0766631e23e515e0",
   "whataretankbottoms",
   "218001d3e339aaa9",
-  "newucdavisstudyconfirmsavocadooilfraudhasmovedintochipsmayon"
+  "newucdavisstudyconfirmsavocadooilfraudhasmovedintochipsmayon",
+  "5047c4b3d8605370",
+  "chinascriticalmineralsgripputs65trillionofglobalindustryatri",
+  "ffb4dc94a07bc74f",
+  "oilfuturescrudeedgesupasmarketeyeshormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T16:25:21.548694+03:00",
+ "last_run": "2026-07-16T16:30:43.039762+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-07-16",
    "t": "Strait of Hormuz Tanker Traffic Erodes Further as Oil Prices Rise - The New York Times"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Oil futures: Crude edges up as market eyes Hormuz - Quantum Commodity Intelligence"
   }
  ]
 }
