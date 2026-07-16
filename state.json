@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "d33f1d21cc550157",
-  "russiasoilexportsurgerunsintoa135millionbarreltrafficjam",
   "a0c49b86bbcbe6cc",
   "oillittlechangedafterusreimposesnavalblockadeoniranlaunchesm",
   "483758629c0088ca",
@@ -603,7 +601,9 @@
   "be7184e1600e44ef",
   "ieapredictsfirstdecreaseinglobaloildemandsince2020",
   "fe4adfb509a3565c",
-  "crudeoilpriceforecastcanbullspushabovekeyresistance"
+  "crudeoilpriceforecastcanbullspushabovekeyresistance",
+  "b3242a649ece0570",
+  "howtheiranwarisrewiringtheoilmarket"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -612,10 +612,10 @@
   "Brent": 84.5
  },
  "llm": {
-  "date": "2026-07-16",
-  "count": 60
+  "date": "2026-07-17",
+  "count": 2
  },
- "last_run": "2026-07-17T00:10:26.329435+03:00",
+ "last_run": "2026-07-17T00:15:23.839524+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1300,6 +1300,10 @@
   {
    "d": "2026-07-16",
    "t": "Chevron Moves Closer to Iraq's Biggest Oil Prize—and a Hormuz Exit Strategy"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "How The Iran War Is Rewiring the Oil Market - Bloomberg.com"
   }
  ]
 }
