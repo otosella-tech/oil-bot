@@ -4,8 +4,6 @@
   "Brent": 84.29
  },
  "seen": [
-  "8f0763d76ff9c390",
-  "hownewsomscomplexhistorywiththeoilindustrycouldaffectapresid",
   "58a21ae8860b6f94",
   "iranlinkedvesselspassthroughhormuzbeatsusblockade",
   "6c685031f81d30c0",
@@ -603,7 +601,9 @@
   "d6f158c9e220303c",
   "chipmakersweighonstocksoiledgeshigher",
   "a28b2a07470964c8",
-  "brentcrudeoilfuturesfall1to8407wticrudeoilfuturesslide05to79"
+  "brentcrudeoilfuturesfall1to8407wticrudeoilfuturesslide05to79",
+  "1851c5917722137c",
+  "totalenergiesforecastsstrongersecondquarterearningsbutshares"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 55
  },
- "last_run": "2026-07-16T13:00:52.658145+03:00",
+ "last_run": "2026-07-16T13:05:20.833331+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
