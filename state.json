@@ -4,10 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "2b779c7535f7441f",
-  "crudeoilinventoriesfalllessthanexpectedimpactingmarketsentim",
-  "7b121a04b8006e00",
-  "oilhits87perbarrelagainafterlatestusstrikesoniranandloomingb",
   "c26c64b671ef4c31",
   "explainerwhyiranianhouthithreatstoredseashippingmattermorefo",
   "0f4f846cc5d61d0f",
@@ -603,7 +599,11 @@
   "4a5617b477178559",
   "yemenshouthisthreatennewoilshockascivilwarreignites",
   "c87df5e11329739e",
-  "palworldhowtofarmcrudeoil10update"
+  "palworldhowtofarmcrudeoil10update",
+  "3099b36b87b50134",
+  "texasgaspricesjump13centsinaweekascrudeoilnears80perbarrelho",
+  "0b99e6fc41ece7a9",
+  "syriainterceptsadvancedweaponsboundforhezbollahfromiraq"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T23:05:18.961997+03:00",
+ "last_run": "2026-07-16T23:10:26.580241+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
