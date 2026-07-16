@@ -4,8 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "3f8ded10296b6f3d",
-  "ussupportsiraqsyriapipelinethatwouldbypasshormuz",
   "b8c398420c7a759a",
   "shippingstockssetupamidtrumpsflipfloponhormuztoll",
   "e6a2af686752fdfd",
@@ -603,7 +601,9 @@
   "1a22bcf3c2611c51",
   "uscrudeoilgasolineinventoriesstillfalling",
   "7f360bbfe8420dda",
-  "crudeoilpricessharplyhigheronescalationofusiranhostilities"
+  "crudeoilpricessharplyhigheronescalationofusiranhostilities",
+  "2ebe0919baa158af",
+  "usstrikesiran"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-07-16T08:45:24.550515+03:00",
+ "last_run": "2026-07-16T08:50:35.536783+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1144,6 +1144,10 @@
   {
    "d": "2026-07-16",
    "t": "US supporting efforts to revive Iraq-Syria crude oil pipeline, US official says - Reuters"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "U.S. Strikes Iran-Linked Tanker Near Kharg Island"
   }
  ]
 }
