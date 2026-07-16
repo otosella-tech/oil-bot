@@ -4,8 +4,6 @@
   "Brent": 84.29
  },
  "seen": [
-  "3151d0e94983b2bf",
-  "daxfuturesunderpressurecrudeoilhigher",
   "7a156f2a825b649a",
   "crudeoilfuturesrallygatherspaceasusiranconflictdeepens",
   "ab473fa7630a77c2",
@@ -603,7 +601,9 @@
   "bb528bc471708a5a",
   "carlylesjeffcurriewatchgasolineanddieselpricesnotjustcrudeoi",
   "50d739aae56220df",
-  "liveupdateslatestfromisraeliranandmiddleeast"
+  "liveupdateslatestfromisraeliranandmiddleeast",
+  "7be455dcb1b594bc",
+  "howtrumpsoriginaloilguyboostedusisraeltiesandplayeddownrisks"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T15:00:46.004885+03:00",
+ "last_run": "2026-07-16T15:05:20.472120+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
