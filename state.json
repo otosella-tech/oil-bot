@@ -4,12 +4,6 @@
   "Brent": 84.29
  },
  "seen": [
-  "9fc048da1e29c992",
-  "chinasrefineryrunscrashtopandemiclowsascrudeimportscollapse",
-  "86c4853e1aed32f9",
-  "iraqpmpressesforfairopecshareamidwashingtoninvestmentpush",
-  "d541e3a080939269",
-  "iranlinkedvesselstransithormuzbeforeusblockade",
   "eccb166b1ffbf3e8",
   "canadiandollargainsasoilrallyweighsonusdcad",
   "660d733100ffdf5f",
@@ -603,7 +597,13 @@
   "0f5ac4d1bf8b93f0",
   "goldremainsintheredasoildriveninflationfearskeepfedoutlookca",
   "644a70f79d001b8e",
-  "hormuzclosurethreatensrenewedoilsupplycrunch"
+  "hormuzclosurethreatensrenewedoilsupplycrunch",
+  "8b70051bdc518805",
+  "crudeoilpricesrisefor4thsessionamidescalatingusiranwarbrentl",
+  "def0a0fd65969f34",
+  "crudeoilcarriermarketoverviewkeytrendsandinsightsonleadingco",
+  "73eb9dbaa6312b30",
+  "forecastupdateforcrudeoil16072026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T14:35:18.468607+03:00",
+ "last_run": "2026-07-16T14:40:37.855680+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-07-16",
    "t": "Hormuz closure threatens renewed oil supply crunch - Financial Times"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Crude oil prices rise for 4th session amid escalating US-Iran war; Brent likely to hit $110/bbl, says Goldman Sachs - livemint.com"
   }
  ]
 }
