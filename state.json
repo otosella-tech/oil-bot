@@ -4,10 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "89f4a315604f7dbc",
-  "trumpscrapsthreatof20feeonhormuzcargoasuspreparestoresumeblo",
-  "9e9b05d22460a113",
-  "americanenergysnapshotwhygasolinepricesdontalwaysmoveinlocks",
   "3f8ded10296b6f3d",
   "ussupportsiraqsyriapipelinethatwouldbypasshormuz",
   "b8c398420c7a759a",
@@ -603,7 +599,11 @@
   "b7081339308c59bb",
   "oilpricesturnlowerastradersweighimpactofrenewedusstrikesonir",
   "5cb301501d782728",
-  "ussupportingeffortstoreviveiraqsyriacrudeoilpipelineusoffici"
+  "ussupportingeffortstoreviveiraqsyriacrudeoilpipelineusoffici",
+  "1a22bcf3c2611c51",
+  "uscrudeoilgasolineinventoriesstillfalling",
+  "7f360bbfe8420dda",
+  "crudeoilpricessharplyhigheronescalationofusiranhostilities"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 28
  },
- "last_run": "2026-07-16T08:40:36.644589+03:00",
+ "last_run": "2026-07-16T08:45:24.550515+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
