@@ -4,12 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "ff64ae881e13eaf1",
-  "phillips66psxinvestorsshouldbraceforvolatilityamidcheapvalua",
-  "7349bc9647caa7b2",
-  "oilisntjustacommodityitsalsoanincomeopportunity",
-  "55e2958bc320d52f",
-  "agoodtradethatdidntwork",
   "4f9a7cea3ebde6b4",
   "thepushtobypassthestraitofhormuz",
   "97dd26d82c94b95e",
@@ -603,7 +597,13 @@
   "61c7373ead604543",
   "governmenttakescontrolofbritishsteelcitingnationalinterest",
   "476b80917840196b",
-  "whyoilpricesandgaspricescanmoveindifferentdirections"
+  "whyoilpricesandgaspricescanmoveindifferentdirections",
+  "ef372d6de59a7a17",
+  "totalenergiesexpectsmoreprofitsfromtheriseinoilprices",
+  "1d0d92d8d12e99c2",
+  "oilpricesriseduetotensionsbetweentheusandiran",
+  "a2522c00bbc3bcd6",
+  "ukrainehittwolargerussialinkedoiltankersinblacksea"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T21:10:28.341263+03:00",
+ "last_run": "2026-07-16T21:15:21.691221+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1272,6 +1272,10 @@
   {
    "d": "2026-07-16",
    "t": "Will Iran Target Another Maritime Chokepoint? The Bab El-Mandeb Strait Is Under Threat - Time Magazine"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Ukraine Hit Two Large Russia-Linked Oil Tankers in Black Sea - gCaptain"
   }
  ]
 }
