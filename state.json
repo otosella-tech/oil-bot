@@ -4,12 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "072c74597f054e9b",
-  "oilpricesclimbforfourthdayasiranthreatensnewenergychokepoint",
-  "b74876a9858359f1",
-  "ukraineintensifiesattacksonrussiantankersintheblacksea",
-  "61b5d58d1ed7e31e",
-  "theoilmarketisiransbestfriendandiranknowsiteconomist",
   "901a9e4dbeceaa23",
   "theusismaxingoutitsstrategicoilreservesastrumpvowstocontrolt",
   "6a9517cd33412e98",
@@ -603,7 +597,13 @@
   "4fae334a97b49e61",
   "goldfalls2asescalatingmiddleeasttensionsreinforceusratehikeb",
   "9cf6f6137ea79664",
-  "crudeoilpriceforecastoilhoversnearmajormovingaverages"
+  "crudeoilpriceforecastoilhoversnearmajormovingaverages",
+  "5bc538ca6fbdc0b6",
+  "currentpriceofoilasofjuly152026",
+  "ecac4428de1c0c00",
+  "iraqpausesbasrahoilloadingsafterdroneattackontanker",
+  "04a08c887e0ee795",
+  "southsudanreformstargetnewinvestmentpushasaecbacksoilsectorr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T17:20:36.322296+03:00",
+ "last_run": "2026-07-16T17:25:19.858421+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1228,6 +1228,10 @@
   {
    "d": "2026-07-16",
    "t": "Syria seizes Hezbollah drones and missiles hidden in oil tanker - The Jerusalem Post"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Iraq Pauses Basrah Oil Loadings After Drone Attack on Tanker - Bloomberg.com"
   }
  ]
 }
