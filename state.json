@@ -4,8 +4,6 @@
   "Brent": 84.29
  },
  "seen": [
-  "761c1b91fc92991b",
-  "americaextendsitsleadoverrussiaandsaudiarabiainoiloutput",
   "0295a3a6eff21292",
   "texasportexpectsuscrudeexportboosttoendure",
   "7225573d7d518d8d",
@@ -603,7 +601,9 @@
   "08eff3bbe5488b69",
   "crudeoilpipelinebetweeniraqsyriatoberevivedwithusassistance",
   "5ca688aab3b376bc",
-  "currentpriceofoilasofjuly62026"
+  "currentpriceofoilasofjuly62026",
+  "9ddf0ee2085d08d1",
+  "hormuztrafficfallsafterusreimposesblockadeoniranianports"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 48
+  "count": 49
  },
- "last_run": "2026-07-16T12:15:21.317991+03:00",
+ "last_run": "2026-07-16T12:20:37.175383+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
