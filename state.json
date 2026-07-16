@@ -4,10 +4,6 @@
   "Brent": 85.99
  },
  "seen": [
-  "092cfc1fa22ba2f5",
-  "golddipsasmideasttensionsfuelinflationworriescloudrateoutloo",
-  "c06e45c3c04569fe",
-  "oilpricesextendrallyasmiddleeasttensionskeepsupplyconcernsin",
   "72f432e736b567f4",
   "goldslipsasrisingoilpricesreviveinflationconcerns",
   "f6ad459240455c04",
@@ -603,7 +599,11 @@
   "01f39656033ec83c",
   "chinarefineriesseeklessfueloilastheyoptforcheapercrudesource",
   "642023e9649d243a",
-  "crudeoilfloorbeingestablishedheresaysdowjonesenergyscinquegr"
+  "crudeoilfloorbeingestablishedheresaysdowjonesenergyscinquegr",
+  "c476a7053e8025fc",
+  "oiltickslowerafterthreedayrallyasiranconflictkeepssupplyrisk",
+  "8fdc3fde842d856f",
+  "currentpriceofoilasofjuly72026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T17:40:35.524329+03:00",
+ "last_run": "2026-07-16T17:45:24.913000+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1232,6 +1232,10 @@
   {
    "d": "2026-07-16",
    "t": "Iraq Pauses Basrah Oil Loadings After Drone Attack on Tanker - Bloomberg.com"
+  },
+  {
+   "d": "2026-07-16",
+   "t": "Oil ticks lower after three-day rally as Iran conflict keeps supply risks elevated - Investing.com"
   }
  ]
 }
