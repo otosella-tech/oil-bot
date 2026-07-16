@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 80.67,
+  "WTI": 78.95,
   "Brent": 84.29
  },
  "seen": [
-  "0295a3a6eff21292",
-  "texasportexpectsuscrudeexportboosttoendure",
   "7225573d7d518d8d",
   "oilfuturescrudegrindshigherashormuzblockadeinfocus",
   "7381c4e508d2ffe1",
@@ -603,7 +601,9 @@
   "5ca688aab3b376bc",
   "currentpriceofoilasofjuly62026",
   "9ddf0ee2085d08d1",
-  "hormuztrafficfallsafterusreimposesblockadeoniranianports"
+  "hormuztrafficfallsafterusreimposesblockadeoniranianports",
+  "8bf6a39ac00508ec",
+  "americaextendsitsleadoverrussiaandsaudiarabiainoiloutput"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 49
+  "count": 50
  },
- "last_run": "2026-07-16T12:20:37.175383+03:00",
+ "last_run": "2026-07-16T12:25:18.576929+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
