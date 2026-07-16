@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "828d9e4b41d37944",
-  "newsreleasesabcconstructionmaterialscostsfallwithoilpricesin",
   "5ce6b0c87739bd50",
   "useiacrudeoilinventories17mlnbarrelsinlatestweekfromprevious",
   "d33f1d21cc550157",
@@ -603,7 +601,9 @@
   "8fa99119688b2a16",
   "oilsettleslowerbutremainsnearonemonthhighonusirantension",
   "0080cbdffe4b0927",
-  "chevronmovesclosertoiraqsbiggestoilprizeandahormuzexitstrate"
+  "chevronmovesclosertoiraqsbiggestoilprizeandahormuzexitstrate",
+  "be7184e1600e44ef",
+  "ieapredictsfirstdecreaseinglobaloildemandsince2020"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-16",
   "count": 60
  },
- "last_run": "2026-07-16T23:55:16.108065+03:00",
+ "last_run": "2026-07-17T00:00:36.595770+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
