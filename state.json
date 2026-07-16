@@ -4,10 +4,6 @@
   "Brent": 86.05
  },
  "seen": [
-  "2570c460f7fb6097",
-  "texasportceoseesusoilexportsholdingaboveprewarlevels",
-  "36c5acecfdc0bbd4",
-  "ussupportingeffortstoreviveiraqsyriacrudeoilpipelineusoffici",
   "d12a1ef9d1d819a3",
   "couldgeothermalenergyrescuegermanysfadingcoaltowns",
   "8aa70a13d27bd211",
@@ -603,7 +599,11 @@
   "688a5cadd060facd",
   "hairoilandscalpoilarenotthesamethingandusingthewrongonecanba",
   "3e4c3a9e09e4cf7f",
-  "goldslipsasoildriveninflationfearskeepfedoutlookinfocus"
+  "goldslipsasoildriveninflationfearskeepfedoutlookinfocus",
+  "6c09891b9dbf4ae4",
+  "usstrikesexpandintonortherniranasitdisablesshiptryingtorunbl",
+  "098a0c6195632125",
+  "iranstankerattackssqueezethehormuzoilshuttlingtrade"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-16",
-  "count": 25
+  "count": 26
  },
- "last_run": "2026-07-16T08:30:41.466401+03:00",
+ "last_run": "2026-07-16T08:35:16.911898+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
