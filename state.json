@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "c772d704719d8559",
-  "indiaurgesshipownerstoavoiddeployingnationalsonhormuzvoyages",
   "f7763db614b6d6bc",
   "chinareducedoilimportsandreshapedglobalfuelmarkets",
   "2f2bb505202a077b",
@@ -603,7 +601,9 @@
   "07db5b3ce5f2f5d7",
   "oilcompaniesaremakingbillionsintheuscallstotaxtheirwindfalla",
   "08eff3bbe5488b69",
-  "crudeoilpipelinebetweeniraqsyriatoberevivedwithusassistance"
+  "crudeoilpipelinebetweeniraqsyriatoberevivedwithusassistance",
+  "8bf6a39ac00508ec",
+  "americaextendsitsleadoverrussiaandsaudiarabiainoiloutput"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T20:35:15.305752+03:00",
+ "last_run": "2026-07-17T20:40:25.494908+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1443,6 +1443,10 @@
   {
    "d": "2026-07-17",
    "t": "Crude oil pipeline between Iraq, Syria to be revived with US assistance - The Jerusalem Post"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "America Extends Its Lead Over Russia and Saudi Arabia in Oil Output - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
