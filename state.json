@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "51d37afaf03d7bbd",
-  "uaeoiloutputsurgesto3818millionbpdinjune2026afteropecexitnew",
   "80467fe63f538e21",
   "pakistanpayshighestspotlngpriceinfouryearsasqatarsupplyfalte",
   "8280efec0496b6d2",
@@ -603,7 +601,9 @@
   "61c6c3ac615534ef",
   "cmewticrudeoilfuturesclimbedtoafiveweekhigh",
   "cc2b37fdde1e8024",
-  "mexicancrudeoilarrivesinjapanafter70dayvoyage"
+  "mexicancrudeoilarrivesinjapanafter70dayvoyage",
+  "225edae5e3c7445a",
+  "oilmarketsarepricingconflictagain"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T23:35:17.857265+03:00",
+ "last_run": "2026-07-17T23:40:26.491775+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
