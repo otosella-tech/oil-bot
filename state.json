@@ -4,8 +4,6 @@
   "Brent": 85.97
  },
  "seen": [
-  "6d96f3a0242df5ce",
-  "oilpricesjumpfollowingthelatestfightinginthemiddleeastwhilea",
   "e678e6a68c511c00",
   "revisedusrussiasanctionsbillsparkstariffconcerns",
   "7b91a0ecfe4e22dc",
@@ -603,7 +601,9 @@
   "e4a7ef150dce432c",
   "whyitsessentialfortheustoimportandexportenergy",
   "92087cd7ab53dc08",
-  "fightingnewoilblocksinthecongobasininterviewwithactivistpasc"
+  "fightingnewoilblocksinthecongobasininterviewwithactivistpasc",
+  "964ad143418b7ed5",
+  "bigtimeoilpricehikesloominthethirdweekofjulyastheunitedstate"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T19:00:39.146829+03:00",
+ "last_run": "2026-07-17T19:05:21.253068+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1408,6 +1408,10 @@
   {
    "d": "2026-07-17",
    "t": "Crude Oil Prices Soar as the US and Iran Escalate Attacks - Barchart.com"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Big-time oil price hikes loom in the third week of July as the United States and Iran battled over the vital Strait of Hormuz in the renewed Middle East war, the Department of Energy said. | via ANC 24/7 Link to full story in the comment section. - facebook.com"
   }
  ]
 }
