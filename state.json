@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "9df9044d98b7fdd6",
-  "marketoutlookbeyondthechokepointhowthemiddleeastconflictistr",
   "f29a359c7440eeb9",
   "asianstocksfallaskospihitbyselloffinchipsmarketswrap",
   "bff5893c8f657259",
@@ -603,7 +601,9 @@
   "82365c483a83b48f",
   "californiamattershownewsomscomplexhistorywiththeoilindustryc",
   "0f8846e5d4b8dd0e",
-  "uscrudeoilinventoriesreducedasmiddleeastwarresumes"
+  "uscrudeoilinventoriesreducedasmiddleeastwarresumes",
+  "882d1494b86e511f",
+  "thecheaperoilgetsthemoreusiranwarcouldescalatesaysexpert"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T20:10:25.628776+03:00",
+ "last_run": "2026-07-17T20:15:20.812612+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1419,6 +1419,10 @@
   {
    "d": "2026-07-17",
    "t": "Oil heads for weekly gain on renewed US-Iran hostilities and threat of Red Sea closure - Reuters"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "The cheaper oil gets, the more U.S.-Iran war could escalate, says expert - BNN Bloomberg"
   }
  ]
 }
