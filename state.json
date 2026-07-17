@@ -4,10 +4,6 @@
   "Brent": 85.97
  },
  "seen": [
-  "08be84d9c442624a",
-  "oileasesastraderslockingainsassessiranescalation",
-  "48edf0d5c5277ed2",
-  "currentpriceofoilasofjuly82026",
   "ce3f660f9a608cf7",
   "eiareportsadropinuscrudeoilstocks",
   "17b7b1d69f8ffe9e",
@@ -603,7 +599,11 @@
   "200f1bd6026bc549",
   "fxweekly",
   "3e8d86aa3f5f3f88",
-  "austrianenergygiantunlocks195millionbarreloildiscoveryinafri"
+  "austrianenergygiantunlocks195millionbarreloildiscoveryinafri",
+  "f7deddcbc903324b",
+  "crudeoilgoldforecastkeylevelstowatch",
+  "967565803570126a",
+  "chineseshipbuilderssnapupmoresupertankerordersamidiranwartur"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T18:05:18.962882+03:00",
+ "last_run": "2026-07-17T18:10:24.205464+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1396,6 +1396,10 @@
   {
    "d": "2026-07-17",
    "t": "US-Iran Conflict Escalates, International Oil Prices Surge Over 3%: WTI Crude Breaks $81, Strait of Hormuz Shipping Blocked - TradingKey"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Chinese shipbuilders snap up more supertanker orders amid Iran war turmoil - South China Morning Post"
   }
  ]
 }
