@@ -4,10 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "6140d6ec8f0349b8",
-  "whatspectroscopictechniquesareusedinmodernoilrefining",
-  "051c8a8f3717bfb4",
-  "engiebrasilraises17binlatestshareoffering",
   "412909c30c084d74",
   "wticrudeoilfuturespausedasusirantensionescalated",
   "78b5b22baa1704b5",
@@ -603,7 +599,11 @@
   "6b28bdd99f7651da",
   "usexportsofcrudeoilandpetroleumproductsreachedrecordinapril",
   "ac834a23350f1806",
-  "globalenergysecurityatriskifstraitofhormuzdoesnotopeninweeks"
+  "globalenergysecurityatriskifstraitofhormuzdoesnotopeninweeks",
+  "0122dafc8317c43c",
+  "oilfuturessettlelowerinchoppytrade",
+  "4cea2dcc32c9257c",
+  "oilheadsforweeklysurgeasusiranstrikesstokesupplyfears"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-17",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-07-17T03:55:17.996542+03:00",
+ "last_run": "2026-07-17T04:00:32.654056+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1340,6 +1340,10 @@
   {
    "d": "2026-07-17",
    "t": "Global energy security at risk if Strait of Hormuz does not open in weeks, IEA chief says - Reuters"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Oil heads for weekly surge as US-Iran strikes stoke supply fears - Investing.com"
   }
  ]
 }
