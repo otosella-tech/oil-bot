@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "80467fe63f538e21",
-  "pakistanpayshighestspotlngpriceinfouryearsasqatarsupplyfalte",
   "8280efec0496b6d2",
   "thebestenergystocksrightnowastwomajorconflictskeepoilpricese",
   "0f5ac4d1bf8b93f0",
@@ -603,7 +601,9 @@
   "cc2b37fdde1e8024",
   "mexicancrudeoilarrivesinjapanafter70dayvoyage",
   "225edae5e3c7445a",
-  "oilmarketsarepricingconflictagain"
+  "oilmarketsarepricingconflictagain",
+  "2dc30f57c8a79d99",
+  "usequityindexesdropaschipmakersheadforbearmarketcrudeoilsurg"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T23:50:23.056943+03:00",
+ "last_run": "2026-07-17T23:55:42.556783+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1481,6 +1481,10 @@
   {
    "d": "2026-07-17",
    "t": "Western oil companies see 'fantastic' future in Iraq, sign agreements - Reuters"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "US Equity Indexes Drop as Chipmakers Head for Bear Market, Crude Oil Surges After Iran Expands Attack in Middle East - marketscreener.com"
   }
  ]
 }
