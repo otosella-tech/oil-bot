@@ -4,12 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "f266753f4cf80db9",
-  "trumpsstraitofhormuzblockadesqueezesdrivers",
-  "c63f1bfc56cf092b",
-  "world",
-  "140ed005c46be1bb",
-  "augustwticrudeoilcontractclosesup026or03settlesat7960perbarr",
   "c32e325db082e718",
   "worldfirstfloatingwindtechnologytohelppoweroilrigs",
   "8f51edcaab9b3f4f",
@@ -603,7 +597,13 @@
   "2386e7d3f3125640",
   "oiltraderswarnmarketisclosetorunningonemptyashormuzshutsagai",
   "f1e0bcb01cbaa389",
-  "backtosquareonefivequestionsfortheecb"
+  "backtosquareonefivequestionsfortheecb",
+  "96f70155abed1523",
+  "oilpricessetforbiggestweeklysurgesinceaprilasiranwarescalate",
+  "86be3b670deeebda",
+  "explainerchinasoilimportshaveplungedduringtheiranwarhowmuchw",
+  "5e07b8b42d0eaa54",
+  "asiansharessinkwithtokyodownnearly5asslumpingaistocksdragwor"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-17",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-07-17T08:40:25.601886+03:00",
+ "last_run": "2026-07-17T08:45:19.637573+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1348,6 +1348,14 @@
   {
    "d": "2026-07-17",
    "t": "Oil traders warn market is close to running on empty as Hormuz shuts again - Financial Times"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Explainer: China's oil imports have plunged during the Iran war. How much will they recover? - Reuters"
   }
  ]
 }
