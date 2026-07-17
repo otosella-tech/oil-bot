@@ -4,10 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "61379138c7e039c3",
-  "fiveoilandgasstocksreadyforahormuzspikeandahawkishfed",
-  "593d9504f3d89ac8",
-  "whyoilpricesandgaspricescanmoveindifferentdirectionsmidlandr",
   "7f8b7649cf516305",
   "goldedgeshighersilverslipsasoilkeepsinflationriskalivekitcop",
   "d842e487e8dd5e78",
@@ -603,7 +599,11 @@
   "04197e16548a1b5f",
   "nationalaveragegaspricenears4agallonaaasays",
   "d03230a907e42ebf",
-  "brentcrudeoilsetforhighestweeklygainsinceapriloniran"
+  "brentcrudeoilsetforhighestweeklygainsinceapriloniran",
+  "be7e9f77698082fd",
+  "oilheadedfor10weeklygainonescalatingusiranattacks",
+  "86d3b76eef1d6dce",
+  "oilpricessubduedbutheadingforweeklysurgeasusiranexchangestri"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-17",
-  "count": 41
+  "count": 42
  },
- "last_run": "2026-07-17T12:20:24.639848+03:00",
+ "last_run": "2026-07-17T12:25:19.607708+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
