@@ -4,10 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "f29a359c7440eeb9",
-  "asianstocksfallaskospihitbyselloffinchipsmarketswrap",
-  "bff5893c8f657259",
-  "oilslipsafterthreedayrallyasiranconflictkeepssupplyriskselev",
   "1836add590c6f932",
   "oilstockpilesrunningdangerouslylowashormuzshutsagaintradersw",
   "44e64d252b300cba",
@@ -603,7 +599,11 @@
   "0f8846e5d4b8dd0e",
   "uscrudeoilinventoriesreducedasmiddleeastwarresumes",
   "882d1494b86e511f",
-  "thecheaperoilgetsthemoreusiranwarcouldescalatesaysexpert"
+  "thecheaperoilgetsthemoreusiranwarcouldescalatesaysexpert",
+  "7543b2f71a506ba2",
+  "eiaslashesoilpriceforecast14afterusirandealreopensstraitofho",
+  "1ee5f62dd91f71c4",
+  "usequityindexesdropamiddeclinesingrowthsectorssurgeincrudeoi"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T20:15:20.812612+03:00",
+ "last_run": "2026-07-17T20:20:27.097692+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1423,6 +1423,14 @@
   {
    "d": "2026-07-17",
    "t": "The cheaper oil gets, the more U.S.-Iran war could escalate, says expert - BNN Bloomberg"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "EIA slashes oil price forecast 14% after U.S.-Iran deal reopens Strait of Hormuz - MarketScale"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "US Equity Indexes Drop Amid Declines in Growth Sectors, Surge in Crude Oil as Washington-Tehran Widen Strikes - marketscreener.com"
   }
  ]
 }
