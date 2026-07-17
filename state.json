@@ -605,7 +605,9 @@
   "3efe2d39a430ab39",
   "oilmarketsignoremountingrisksattheirownperil"
  ],
- "releases_done": {},
+ "releases_done": {
+  "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1
+ },
  "last_digest": "2026-07-17",
  "digest_prices": {
   "WTI": 79.13,
@@ -615,7 +617,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T19:20:25.311468+03:00",
+ "last_run": "2026-07-17T19:25:21.188305+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
