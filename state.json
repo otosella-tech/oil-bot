@@ -4,10 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "def0a0fd65969f34",
-  "crudeoilcarriermarketoverviewkeytrendsandinsightsonleadingco",
-  "73eb9dbaa6312b30",
-  "forecastupdateforcrudeoil16072026",
   "50b1a373dfbcaf64",
   "kuwaitcrudeoilpricefallsbynearly3perbarrelfananews",
   "829d3ce1d115aa4c",
@@ -603,7 +599,11 @@
   "3502168b53ed8194",
   "usfirmssignenergyandotherdealswithiraqaftertrumptoutsitsoil",
   "8280efec0496b6d2",
-  "thebestenergystocksrightnowastwomajorconflictskeepoilpricese"
+  "thebestenergystocksrightnowastwomajorconflictskeepoilpricese",
+  "53ff932de7ef6251",
+  "blmannouncesseptember2026saleofoilandgasleasesinohio",
+  "205be7c3ec2fdb55",
+  "whitehouseweighsanotherjonesactwaiverextension"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-18",
   "count": 2
  },
- "last_run": "2026-07-18T00:50:26.895657+03:00",
+ "last_run": "2026-07-18T00:55:18.158091+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
