@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "1e568e8e8e728c5f",
-  "usstocksrisefollowingstrongprofitreportsevenasoilpriceskeepc",
   "60dc90d8d47797a2",
   "usreimposesblockadeandstepsupstrikesasiranthreatenstohaltmid",
   "3c504556161b0202",
@@ -603,7 +601,9 @@
   "ed96d61966e471ff",
   "highcpopricessetforextendedrun",
   "40af9b2b95947f4b",
-  "oilpricesriseasusiranhostilitiesthreatensupplythroughstraito"
+  "oilpricesriseasusiranhostilitiesthreatensupplythroughstraito",
+  "79c017ee3145b0d7",
+  "uscrudeoilstockpilespostunexpectedbuild"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 36
  },
- "last_run": "2026-07-17T11:20:26.502836+03:00",
+ "last_run": "2026-07-17T11:25:18.463979+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
