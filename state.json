@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "60dc90d8d47797a2",
-  "usreimposesblockadeandstepsupstrikesasiranthreatenstohaltmid",
   "3c504556161b0202",
   "iranwarwhatisthestraitofhormuzandwhydoesitmatter",
   "947ab8a97778624c",
@@ -603,7 +601,9 @@
   "40af9b2b95947f4b",
   "oilpricesriseasusiranhostilitiesthreatensupplythroughstraito",
   "79c017ee3145b0d7",
-  "uscrudeoilstockpilespostunexpectedbuild"
+  "uscrudeoilstockpilespostunexpectedbuild",
+  "e7a4596c4d0b0f46",
+  "iran"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-17",
-  "count": 36
+  "count": 37
  },
- "last_run": "2026-07-17T11:25:18.463979+03:00",
+ "last_run": "2026-07-17T11:30:28.151679+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
