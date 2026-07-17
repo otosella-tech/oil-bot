@@ -4,10 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "1836add590c6f932",
-  "oilstockpilesrunningdangerouslylowashormuzshutsagaintradersw",
-  "44e64d252b300cba",
-  "oilcompaniesaremakingbillionsintheuscallstotaxtheirwindfalla",
   "08eff3bbe5488b69",
   "crudeoilpipelinebetweeniraqsyriatoberevivedwithusassistance",
   "5ca688aab3b376bc",
@@ -603,7 +599,11 @@
   "7543b2f71a506ba2",
   "eiaslashesoilpriceforecast14afterusirandealreopensstraitofho",
   "1ee5f62dd91f71c4",
-  "usequityindexesdropamiddeclinesingrowthsectorssurgeincrudeoi"
+  "usequityindexesdropamiddeclinesingrowthsectorssurgeincrudeoi",
+  "c6d87a6e1dfd5967",
+  "dangoterefineryraises25billioninprivateplacementexecutivesay",
+  "281b5517ae346cf9",
+  "globalreleaseofoilreservesavertedasianeconomicslowdownjapanf"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T20:20:27.097692+03:00",
+ "last_run": "2026-07-17T20:25:17.405834+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1431,6 +1431,10 @@
   {
    "d": "2026-07-17",
    "t": "US Equity Indexes Drop Amid Declines in Growth Sectors, Surge in Crude Oil as Washington-Tehran Widen Strikes - marketscreener.com"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Dangote Refinery raises $2.5 billion in private placement, executive says - Reuters"
   }
  ]
 }
