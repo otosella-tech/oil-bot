@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "d9fbfe0a666caa9a",
-  "crudeoilloadingsuspendediniraqafterdroneincident",
   "a4571697b75edb9a",
   "iraqsuspendscrudeoilflowsafterdronecrashesintotankersendingt",
   "9b27d36e9b4fff13",
@@ -603,7 +601,9 @@
   "0b63bb3c7fe45699",
   "escalationofusiranhostilitiespushescrudeoilsharplyhigher",
   "98e85fdbcaf2a638",
-  "alaskaregulatorsfinenorthslopeoilfieldoperatorforunauthorize"
+  "alaskaregulatorsfinenorthslopeoilfieldoperatorforunauthorize",
+  "c4bec3a5b545378d",
+  "ustargetsiraninfrastructureasconflictescalatespushingoilpric"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T22:35:15.961392+03:00",
+ "last_run": "2026-07-17T22:40:24.630761+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1465,6 +1465,10 @@
   {
    "d": "2026-07-17",
    "t": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "US targets Iran infrastructure as conflict escalates, pushing oil prices higher - Yahoo Finance"
   }
  ]
 }
