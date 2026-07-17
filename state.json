@@ -4,8 +4,6 @@
   "Brent": 85.97
  },
  "seen": [
-  "c72e0e0c29380bec",
-  "currencycheckrupeeopensflatat9625amidelevatedcrudeoilprices",
   "bf8f817efde5eb62",
   "changingoilinyourcarwillcostalotmorehereswhy",
   "1e84283242f72007",
@@ -603,7 +601,9 @@
   "2c48d97e78a758d2",
   "yourfridayjuly17guidefivethingstodointheoilcity",
   "e922bb68344eb078",
-  "hedgingcostshaveplungedtoafiveyearlowyetoilpricesarelighting"
+  "hedgingcostshaveplungedtoafiveyearlowyetoilpricesarelighting",
+  "3f992f39f6a5f9d2",
+  "yourgasbilljustgotmoreexpensiveintexas"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 56
  },
- "last_run": "2026-07-17T16:10:25.486036+03:00",
+ "last_run": "2026-07-17T16:15:21.166564+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
