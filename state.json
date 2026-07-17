@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "410850da0533d845",
-  "goldreboundsasusinflationdropsbutcrudeoilleaps",
   "3248208e3d5c6858",
   "indiasoilshockproblemwhyelectricvehiclesarethesolution",
   "f5fc48969ebbbb94",
@@ -603,7 +601,9 @@
   "d59c6f22cc6e5e7b",
   "chinasoilimportshaveplungedduringtheiranwarhowmuchwilltheyre",
   "947ab8a97778624c",
-  "crudeoilnaturalgaspricesbegintosurgeinalaskaasiraniantension"
+  "crudeoilnaturalgaspricesbegintosurgeinalaskaasiraniantension",
+  "4f8a9634d480ba2d",
+  "fuelpricesiranisnttheonlyconflictvexingtheoilmarket"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-17",
-  "count": 39
+  "count": 40
  },
- "last_run": "2026-07-17T11:40:30.045462+03:00",
+ "last_run": "2026-07-17T11:45:21.119310+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
