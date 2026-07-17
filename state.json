@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "bb528bc471708a5a",
-  "carlylesjeffcurriewatchgasolineanddieselpricesnotjustcrudeoi",
   "50d739aae56220df",
   "liveupdateslatestfromisraeliranandmiddleeast",
   "7be455dcb1b594bc",
@@ -603,7 +601,9 @@
   "4857bb16d807a0da",
   "usequitiesdowincextendedlossesfalling406pointsamidrisingcrud",
   "2f4ede7e4a5f6dec",
-  "asusstrikesbridgesiniranittargetsawaterdesalinationplantinku"
+  "asusstrikesbridgesiniranittargetsawaterdesalinationplantinku",
+  "0321e7aee123ad06",
+  "iraqsignsdealswithwesternoilfirmsincludingtorevivesyriapipel"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 4
+  "count": 5
  },
- "last_run": "2026-07-18T01:25:19.436902+03:00",
+ "last_run": "2026-07-18T01:30:31.850534+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
