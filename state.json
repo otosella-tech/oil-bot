@@ -4,8 +4,6 @@
   "Brent": 85.97
  },
  "seen": [
-  "132d2355b254c241",
-  "hsbcupgradesindianequitiestoneutraloneasingoilpricesreturnof",
   "1d276e1ccda00951",
   "uscentcomstrikesiranaskuwaitinterceptsiranianmissilesdrones",
   "47b1190d177e6475",
@@ -603,7 +601,9 @@
   "3efe2d39a430ab39",
   "oilmarketsignoremountingrisksattheirownperil",
   "4bead833fbea0c69",
-  "carsoacquirestotalenergies30inblock30kandiscovery"
+  "carsoacquirestotalenergies30inblock30kandiscovery",
+  "46d6cb240dbffb47",
+  "surgingcrudeoilliftssugarprices"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T19:35:19.871760+03:00",
+ "last_run": "2026-07-17T19:38:19.742229+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
