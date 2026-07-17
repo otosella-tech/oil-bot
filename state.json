@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "412909c30c084d74",
-  "wticrudeoilfuturespausedasusirantensionescalated",
   "78b5b22baa1704b5",
   "eiauscrudeinventoriesdown17millionbbl",
   "c3d15b0a898e6fc0",
@@ -603,7 +601,9 @@
   "0122dafc8317c43c",
   "oilfuturessettlelowerinchoppytrade",
   "4cea2dcc32c9257c",
-  "oilheadsforweeklysurgeasusiranstrikesstokesupplyfears"
+  "oilheadsforweeklysurgeasusiranstrikesstokesupplyfears",
+  "9696c74593010baf",
+  "oilpriceslumpatendq2failstodentprofitsatmajorvietnameseenerg"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 20
  },
- "last_run": "2026-07-17T04:10:28.657071+03:00",
+ "last_run": "2026-07-17T04:15:21.128839+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
