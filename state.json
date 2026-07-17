@@ -4,8 +4,6 @@
   "Brent": 85.97
  },
  "seen": [
-  "39a22bbb6ccd3574",
-  "chinasoilfortresswillreshapetheglobalorder",
   "e568e8cd19656879",
   "totalenergiesexpectshigherq2profitafterwarrelatedoilgasrally",
   "480f7a1521d89298",
@@ -603,7 +601,9 @@
   "88230af402cb0831",
   "oilpricesriseafterkuwaitsaysiranattackedwaterdesalinationand",
   "0da92496db49c7a8",
-  "conocophillipsjoinsbpiniraqasbaghdadseeksmoreusenergyinvestm"
+  "conocophillipsjoinsbpiniraqasbaghdadseeksmoreusenergyinvestm",
+  "27c89992c7f7fd4c",
+  "usiranconflictescalatesinternationaloilpricessurgeover3wticr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T17:20:24.723653+03:00",
+ "last_run": "2026-07-17T17:25:18.573143+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1392,6 +1392,10 @@
   {
    "d": "2026-07-17",
    "t": "ConocoPhillips joins BP in Iraq as Baghdad seeks more US energy investment - Reuters"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "US-Iran Conflict Escalates, International Oil Prices Surge Over 3%: WTI Crude Breaks $81, Strait of Hormuz Shipping Blocked - TradingKey"
   }
  ]
 }
