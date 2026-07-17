@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "65c8fb2989136370",
-  "chinasnextmovemaydecidewhetheroilpricessoar",
   "a5018ceb13292d84",
   "criticaldataforindiaslargestnuclearplantexposedinmassivebrea",
   "c895394269434a6a",
@@ -603,7 +601,9 @@
   "825ba8d4edfd4c14",
   "thebrinternationaltradereportjuly2026",
   "347ea4a68d49217c",
-  "theoilmarketabsorbedthewarshockbutbuffersarerunninglowanalys"
+  "theoilmarketabsorbedthewarshockbutbuffersarerunninglowanalys",
+  "6baf48434c130f6b",
+  "oilrisesonintensifyingusiranhostilitiesandthreatofredseaclos"
  ],
  "releases_done": {},
  "last_digest": "2026-07-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-17",
-  "count": 20
+  "count": 21
  },
- "last_run": "2026-07-17T04:55:20.040089+03:00",
+ "last_run": "2026-07-17T05:00:34.021831+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
