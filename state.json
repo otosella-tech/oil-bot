@@ -4,12 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "08eff3bbe5488b69",
-  "crudeoilpipelinebetweeniraqsyriatoberevivedwithusassistance",
-  "5ca688aab3b376bc",
-  "currentpriceofoilasofjuly62026",
-  "9ddf0ee2085d08d1",
-  "hormuztrafficfallsafterusreimposesblockadeoniranianports",
   "8bf6a39ac00508ec",
   "americaextendsitsleadoverrussiaandsaudiarabiainoiloutput",
   "c772d704719d8559",
@@ -603,7 +597,13 @@
   "c6d87a6e1dfd5967",
   "dangoterefineryraises25billioninprivateplacementexecutivesay",
   "281b5517ae346cf9",
-  "globalreleaseofoilreservesavertedasianeconomicslowdownjapanf"
+  "globalreleaseofoilreservesavertedasianeconomicslowdownjapanf",
+  "b083266fdfbcfbf4",
+  "bpconocophillipspartneriniraqsgiantoilfield",
+  "0becb143b0600f13",
+  "usoildrillingpicksupasbrentgains4",
+  "07db5b3ce5f2f5d7",
+  "oilcompaniesaremakingbillionsintheuscallstotaxtheirwindfalla"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T20:25:17.405834+03:00",
+ "last_run": "2026-07-17T20:30:31.658386+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1435,6 +1435,10 @@
   {
    "d": "2026-07-17",
    "t": "Dangote Refinery raises $2.5 billion in private placement, executive says - Reuters"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "BP, ConocoPhillips Partner In Iraq’s Giant Oilfield"
   }
  ]
 }
