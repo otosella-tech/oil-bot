@@ -4,8 +4,6 @@
   "Brent": 85.97
  },
  "seen": [
-  "2d8e8d3bbf2c9f84",
-  "oilrisesamidprospectsofescalatingmideastconflict",
   "3f5775d01fb71895",
   "crudeoiltradingalertoilpriceshavereboundedtoanearlyonemonthh",
   "2f9441ae900d09e1",
@@ -603,7 +601,9 @@
   "ca15a5196bd35b6e",
   "conocophillipsreachesagreementsupportingredevelopmentofprodu",
   "5d563a263e8537e0",
-  "guestcolumnafterdecadesofoilandgasthegulfmaybeconfrontingoff"
+  "guestcolumnafterdecadesofoilandgasthegulfmaybeconfrontingoff",
+  "5e1edc16fb90ad60",
+  "southkoreabetsonredsearouteashormuzdisruptionspersist"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-17",
-  "count": 47
+  "count": 48
  },
- "last_run": "2026-07-17T14:25:18.986053+03:00",
+ "last_run": "2026-07-17T14:30:30.875940+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
