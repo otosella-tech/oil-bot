@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "5329b82cb644ec64",
-  "theusoilreserveisata40yearlowbutthegovernmentsaystheresstill",
   "280d1d8364f14b90",
   "americasoilrefinerscouldmorethantripleprofitsasiranwarsparks",
   "bdce548e70edd4a0",
@@ -603,7 +601,9 @@
   "7f1e7fddcfc23a9d",
   "libyadeclaresmajoroildiscoverycommercialasproductionrevivalg",
   "0ba24294ac8cb155",
-  "gaspriceswillstayhigherforlongerevenifoilfalls"
+  "gaspriceswillstayhigherforlongerevenifoilfalls",
+  "f2bb17ea642f1c53",
+  "moreoildoesnotmeanmorefuel"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 43
  },
- "last_run": "2026-07-17T12:35:15.974339+03:00",
+ "last_run": "2026-07-17T12:40:25.135591+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
