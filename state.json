@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "3cbbefa3ca482e8c",
-  "crudeoilloadingsuspendedatalliraqiterminalsafterdroneinciden",
   "d6f158c9e220303c",
   "chipmakersweighonstocksoiledgeshigher",
   "a28b2a07470964c8",
@@ -603,7 +601,9 @@
   "3a87d069094a636a",
   "currentpriceofoilasofjuly162026",
   "71c97ab8e367a4a5",
-  "oiltankersfaceworstcasescenarioinhormuzasiranstepsupattackso"
+  "oiltankersfaceworstcasescenarioinhormuzasiranstepsupattackso",
+  "40b9c4c71853ca59",
+  "indiaproposesstrictervehicleemissionrulestocutoilconsumption"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T21:25:18.721230+03:00",
+ "last_run": "2026-07-17T21:30:33.422027+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
