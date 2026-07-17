@@ -4,8 +4,6 @@
   "Brent": 85.97
  },
  "seen": [
-  "47b1190d177e6475",
-  "crudeoilfuturesriseonstrongspotdemand",
   "bddfc2a1de7a3132",
   "russianoffensivecampaignassessmentjuly152026",
   "8678e5cac9699793",
@@ -603,7 +601,9 @@
   "46d6cb240dbffb47",
   "surgingcrudeoilliftssugarprices",
   "85b2208c977ee7d1",
-  "jeffcurrieillusionofoilabundanceisgone"
+  "jeffcurrieillusionofoilabundanceisgone",
+  "36cd2166e0969f43",
+  "higherthannormalamountsofblacktarcoverpartsofthesouthcoastof"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T19:45:20.584793+03:00",
+ "last_run": "2026-07-17T19:50:23.898524+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
