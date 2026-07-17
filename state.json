@@ -1,15 +1,9 @@
 {
  "price_base": {
   "WTI": 80.51,
-  "Brent": 85.97
+  "Brent": 87.73
  },
  "seen": [
-  "8678e5cac9699793",
-  "indiahikesdieselandjetfuelexporttax",
-  "9199b08ef1663bcc",
-  "crudedrawslowsdistillatessurgeamidhormuztensions",
-  "fb3d83ad23b3d89e",
-  "goldextendslossesasoildriveninflationfearskeepfedoutlookinfo",
   "be72fc0f3cfa7c4a",
   "simultaneousdisruptionsrattleglobaloilmarkets",
   "9df9044d98b7fdd6",
@@ -603,7 +597,13 @@
   "36cd2166e0969f43",
   "higherthannormalamountsofblacktarcoverpartsofthesouthcoastof",
   "f736fb4191ae5f81",
-  "crudeoilsurges4travelerspostsupbeatq2results"
+  "crudeoilsurges4travelerspostsupbeatq2results",
+  "eda416de7895d8d6",
+  "oilheadsforweeklygainonrenewedusiranhostilitiesandthreatofre",
+  "5910be675ac0bf1a",
+  "nationalgaspricesclimbto394pergallonasoilnears80abarrel",
+  "82365c483a83b48f",
+  "californiamattershownewsomscomplexhistorywiththeoilindustryc"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T20:00:35.441811+03:00",
+ "last_run": "2026-07-17T20:05:20.169986+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1415,6 +1415,10 @@
   {
    "d": "2026-07-17",
    "t": "Big-time oil price hikes loom in the third week of July as the United States and Iran battled over the vital Strait of Hormuz in the renewed Middle East war, the Department of Energy said. | via ANC 24/7 Link to full story in the comment section. - facebook.com"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Oil heads for weekly gain on renewed US-Iran hostilities and threat of Red Sea closure - Reuters"
   }
  ]
 }
