@@ -4,10 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "1851c5917722137c",
-  "totalenergiesforecastsstrongersecondquarterearningsbutshares",
-  "04f2d4d84f3836aa",
-  "thenextoilrallymaydependonchinanotthemiddleeast",
   "82d323ee449ae8c8",
   "oilpricestodayjuly162026crudeoilpriceeasesto848afterearlyral",
   "c9d2b852ced21e88",
@@ -603,7 +599,11 @@
   "bb398064e02254da",
   "fallingrussiandieselexportstightenglobaldistillatemarkets",
   "6a2e3183a16813af",
-  "augustwticrudeoilcontractclosesup354or45settlesat8249perbarr"
+  "augustwticrudeoilcontractclosesup354or45settlesat8249perbarr",
+  "5cb301501d782728",
+  "ussupportingeffortstoreviveiraqsyriacrudeoilpipelineusoffici",
+  "4236c98f76078016",
+  "whyoilpricesareabouttosurge"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T21:55:18.200460+03:00",
+ "last_run": "2026-07-17T22:00:36.826273+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1456,6 +1456,10 @@
   {
    "d": "2026-07-17",
    "t": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says - CNBC"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "US supporting efforts to revive Iraq-Syria crude oil pipeline, US official says - Reuters"
   }
  ]
 }
