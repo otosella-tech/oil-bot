@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "8f51edcaab9b3f4f",
-  "usmovestowardrenewingjonesactshippingwaiver",
   "debab42f80b694f1",
   "stocksriseonwallstreetasoilpricesswing",
   "1ba087f7cfa54192",
@@ -603,7 +601,9 @@
   "5e07b8b42d0eaa54",
   "asiansharessinkwithtokyodownnearly5asslumpingaistocksdragwor",
   "6aaa539721023251",
-  "sinopec"
+  "sinopec",
+  "c9c6a6f1de36d2e0",
+  "rupeeflatascentralbankinterventionhaltsslideoilpricesremaink"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 34
  },
- "last_run": "2026-07-17T09:55:15.753899+03:00",
+ "last_run": "2026-07-17T10:00:32.932166+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
