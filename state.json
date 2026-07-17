@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "d842e487e8dd5e78",
-  "oilpricesreachmonthlyhighduetotensionsinhormuz",
   "5329b82cb644ec64",
   "theusoilreserveisata40yearlowbutthegovernmentsaystheresstill",
   "280d1d8364f14b90",
@@ -603,7 +601,9 @@
   "86d3b76eef1d6dce",
   "oilpricessubduedbutheadingforweeklysurgeasusiranexchangestri",
   "7f1e7fddcfc23a9d",
-  "libyadeclaresmajoroildiscoverycommercialasproductionrevivalg"
+  "libyadeclaresmajoroildiscoverycommercialasproductionrevivalg",
+  "0ba24294ac8cb155",
+  "gaspriceswillstayhigherforlongerevenifoilfalls"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 43
  },
- "last_run": "2026-07-17T12:30:34.397873+03:00",
+ "last_run": "2026-07-17T12:35:15.974339+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
