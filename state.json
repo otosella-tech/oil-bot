@@ -4,14 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "cf10e83a2d525f90",
-  "firmerasiafxoildipofferlittlecomforttorupeeasndfmaturitiespi",
-  "551c4556fbf07894",
-  "daniellesmithwantstodoublealbertaoilproductioncanshebringbac",
-  "44bb7855c3973c88",
-  "oilpriceseaseafterrecentrallyasirantensionskeepsupplyconcern",
-  "dfed64a22683d0c3",
-  "golddeclinesfurtherasrisingoilpricescloudthefederalreserveou",
   "32e8bea0ee2f2850",
   "russiasanctionsbillsparksfearsofbroadeningtrumpstariffpowers",
   "2c4a85697bf8a4e7",
@@ -603,7 +595,15 @@
   "58f873ec5e5de382",
   "usoilfirmssigndealswithiraqtodevelopalternativeshippingroute",
   "a6bfaf6965879571",
-  "colombiasnewgovernmentpreparesfossilfuelcomeback"
+  "colombiasnewgovernmentpreparesfossilfuelcomeback",
+  "2985d17d66e7b1aa",
+  "oilsettlesuponrenewedusiranhostilitiesandthreatofredseaclosu",
+  "f53749e2bd688184",
+  "crudeoilforecastwticlosestheweekabove80dollars",
+  "9e490e6875a67d7d",
+  "15moiltheftconspiracy6defendantspleadguiltyintexasnewmexicoc",
+  "6f2b532c5b2f5ee1",
+  "westernoilcompaniesseefantasticfutureiniraqsignagreements"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T23:00:35.031202+03:00",
+ "last_run": "2026-07-17T23:05:18.502993+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1473,6 +1473,14 @@
   {
    "d": "2026-07-17",
    "t": "Iraq, Syria sign deal in Washington to revive crude oil pipeline - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure - Reuters"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Western oil companies see 'fantastic' future in Iraq, sign agreements - Reuters"
   }
  ]
 }
