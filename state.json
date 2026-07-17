@@ -4,10 +4,6 @@
   "Brent": 85.97
  },
  "seen": [
-  "2ebe0919baa158af",
-  "usstrikesiran",
-  "a923b7ad18b4fd56",
-  "appliedcomputingwantstogiveoilandgasoperatorsanaimodelforthe",
   "39a22bbb6ccd3574",
   "chinasoilfortresswillreshapetheglobalorder",
   "e568e8cd19656879",
@@ -603,7 +599,11 @@
   "e81f57c423a4fb47",
   "usexpandsiranstrikesastehranretaliatesacrossthegulf",
   "1a22bcf3c2611c51",
-  "uscrudeoilgasolineinventoriesstillfalling"
+  "uscrudeoilgasolineinventoriesstillfalling",
+  "88230af402cb0831",
+  "oilpricesriseafterkuwaitsaysiranattackedwaterdesalinationand",
+  "0da92496db49c7a8",
+  "conocophillipsjoinsbpiniraqasbaghdadseeksmoreusenergyinvestm"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T17:10:27.951039+03:00",
+ "last_run": "2026-07-17T17:15:23.460730+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1384,6 +1384,14 @@
   {
    "d": "2026-07-17",
    "t": "U.S. Expands Iran Strikes as Tehran Retaliates Across the Gulf"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Oil prices rise after Kuwait says Iran attacked water desalination and power plant - CNBC"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "ConocoPhillips joins BP in Iraq as Baghdad seeks more US energy investment - Reuters"
   }
  ]
 }
