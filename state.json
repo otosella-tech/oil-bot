@@ -4,10 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "3a87d069094a636a",
-  "currentpriceofoilasofjuly162026",
-  "a2cefd83df1afab0",
-  "crudeoilhaseveryreasontospikesowhatsholdingitback",
   "4d3d0828a8841a61",
   "kazakhstanskaztransoilboostsfirsthalfoilpipelinevolumes",
   "2b0d1f65d947eb3f",
@@ -603,7 +599,11 @@
   "5fa568950962cf06",
   "howlongcanoilmarketsabsorbthehormuzshock",
   "fa68cf8a8fd9e9ef",
-  "expertsassessimpactrenewedfightinginmideastmayhaveoncaliforn"
+  "expertsassessimpactrenewedfightinginmideastmayhaveoncaliforn",
+  "fa8f7462a0fd13c2",
+  "usbeginsstrikingiranianinfrastructureoilpricesrise",
+  "041aaf6818f5d6df",
+  "gaspricestakesharpturnupthisweek"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T21:10:26.257906+03:00",
+ "last_run": "2026-07-17T21:15:22.119520+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
