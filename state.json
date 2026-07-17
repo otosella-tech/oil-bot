@@ -4,8 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "518bd3aa597682d8",
-  "russiaseeksmoregasolinefromindiaafterukraineattacksrefinerie",
   "c4465ce763752d94",
   "afterhormuzhereswhytheredseaisnowtheworldsmostvulnerableship",
   "f266753f4cf80db9",
@@ -603,7 +601,9 @@
   "391c1457feea5f8a",
   "crudeoilfuturessep6clmainusbrentlastdayfinanc",
   "8705729b0e81e24c",
-  "oilpricesup160726"
+  "oilpricesup160726",
+  "2386e7d3f3125640",
+  "oiltraderswarnmarketisclosetorunningonemptyashormuzshutsagai"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-17",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-07-17T08:25:19.021327+03:00",
+ "last_run": "2026-07-17T08:30:33.448358+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1344,6 +1344,10 @@
   {
    "d": "2026-07-17",
    "t": "Oil heads for weekly surge as US-Iran strikes stoke supply fears - Investing.com"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Oil traders warn market is close to running on empty as Hormuz shuts again - Financial Times"
   }
  ]
 }
