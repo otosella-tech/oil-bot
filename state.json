@@ -4,12 +4,6 @@
   "Brent": 84.27
  },
  "seen": [
-  "a040ef0c0673bdc0",
-  "nigeriacrudeoiloutputreaches156millionbpdhighestsinceapril20",
-  "3673b8c09d64a732",
-  "cftctoblockcmesplanfor247crudeoilfuturestrading",
-  "434787546ef60996",
-  "oilpricesmakesmallgainonsmallerusinventorydraw",
   "b64ab592e95f48e8",
   "oilpricedipsfromhighaftertrumpchangesplansforshippingfees",
   "9e6f89bf163c42b1",
@@ -603,7 +597,13 @@
   "602faa56329b3fc0",
   "brentwticrudeoilfuturesjumpprebellasiranstrikesusbasesinmidd",
   "f97de6a4b0d8d1ea",
-  "iransthreatextendsbeyondthestraitofhormuz"
+  "iransthreatextendsbeyondthestraitofhormuz",
+  "54b074bb2ff8fc60",
+  "gaspricesclimbascrudeoilapproaches80perbarrelkwkt",
+  "2c48bb9010ada535",
+  "aschineseeconomyslowsexpertssaytherewillbeproblemsforbeijing",
+  "6616b506dbb7e64a",
+  "7cheapdividendsupto139forasecondoilspike"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-17",
-  "count": 44
+  "count": 45
  },
- "last_run": "2026-07-17T13:10:26.060864+03:00",
+ "last_run": "2026-07-17T13:15:22.245216+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
