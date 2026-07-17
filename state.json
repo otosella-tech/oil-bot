@@ -4,10 +4,6 @@
   "Brent": 85.97
  },
  "seen": [
-  "17b7b1d69f8ffe9e",
-  "crudeoilfuturessettledat7960up026or033",
-  "87d703fec3b74a97",
-  "ieawarnsworldhasjustweekstoavoidhormuzeconomicshock",
   "5ce6d387babe3f54",
   "russiastrugglestodelivercrudeoilamid135millionbarrelbackloga",
   "a35810fefb4a80cf",
@@ -603,7 +599,11 @@
   "967565803570126a",
   "chineseshipbuilderssnapupmoresupertankerordersamidiranwartur",
   "3595e47423c93fdc",
-  "thethreattosaudiarabiasmainoilexportrouteisgrowing"
+  "thethreattosaudiarabiasmainoilexportrouteisgrowing",
+  "e27de553c9d08d38",
+  "crudeoilpricessoarastheusandiranescalateattacks",
+  "527fad1ab10e4534",
+  "crudeoilpriceanalysiscrudeoiltests50dayemaasmiddleeastrisksr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T18:40:25.446478+03:00",
+ "last_run": "2026-07-17T18:45:23.628649+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1404,6 +1404,10 @@
   {
    "d": "2026-07-17",
    "t": "The Threat to Saudi Arabia’s Main Oil-Export Route Is Growing - WSJ"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "Crude Oil Prices Soar as the US and Iran Escalate Attacks - Barchart.com"
   }
  ]
 }
