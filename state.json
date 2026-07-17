@@ -4,8 +4,6 @@
   "Brent": 85.97
  },
  "seen": [
-  "1a22bcf3c2611c51",
-  "uscrudeoilgasolineinventoriesstillfalling",
   "7f360bbfe8420dda",
   "crudeoilpricessharplyhigheronescalationofusiranhostilities",
   "2ebe0919baa158af",
@@ -603,7 +601,9 @@
   "157420e2f6010440",
   "nigerialaunches500millionagriculturefund",
   "4b964838025e56e2",
-  "oilfuturescrudeextendsfirmweeklygainsashostilitiescontinue"
+  "oilfuturescrudeextendsfirmweeklygainsashostilitiescontinue",
+  "e81f57c423a4fb47",
+  "usexpandsiranstrikesastehranretaliatesacrossthegulf"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -615,7 +615,7 @@
   "date": "2026-07-17",
   "count": 60
  },
- "last_run": "2026-07-17T16:55:18.633383+03:00",
+ "last_run": "2026-07-17T17:00:35.918831+03:00",
  "sent_stories": [
   {
    "d": "2026-07-14",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-07-17",
    "t": "Iran Expands Oil Chokepoint Threat as Houthis Eye Red Sea Shipping"
+  },
+  {
+   "d": "2026-07-17",
+   "t": "U.S. Expands Iran Strikes as Tehran Retaliates Across the Gulf"
   }
  ]
 }
