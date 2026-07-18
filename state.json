@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "ca596ae3f0be3e45",
-  "propelledbyescalatedfightinginirangasolinepricesarerisingsha",
   "16b90d3ebfb4877d",
   "yourthursdayjuly16guidefivethingstodointheoilcity",
   "0766631e23e515e0",
@@ -603,7 +601,9 @@
   "a78b3776a1159fa6",
   "eastboundi70closedat23rdstreetinkansascityaftersemitruckspil",
   "8cb368843628caec",
-  "usdollarweeklydeclinecrudeoilweeklysurgebasemetalsdomesticma"
+  "usdollarweeklydeclinecrudeoilweeklysurgebasemetalsdomesticma",
+  "c24b51a109eb59cd",
+  "usandiranattackinfrastructureraisingfearsofescalation"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 11
+  "count": 12
  },
- "last_run": "2026-07-18T06:00:29.329502+03:00",
+ "last_run": "2026-07-18T06:05:18.694054+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
