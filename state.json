@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "f1b933f7760dc56b",
-  "uscrudeinventoriesfall17millionbarrelsasirantensionsrattlema",
   "09925f7e20824097",
   "internationalseawaysibdstockofthedayrisesbuthikedtankerrates",
   "9dee4515db9b5a27",
@@ -603,7 +601,9 @@
   "c5b5a1c064cf0e98",
   "usmilitarylaunchesnewairstrikestopunishiranfordeathsofustroo",
   "e32931ce20ee8e36",
-  "europesheatwaveisbecominganenergycrisis"
+  "europesheatwaveisbecominganenergycrisis",
+  "cc6c5d1cb65a1d15",
+  "westmorelandhazmatcalledafterreportedoilspillinalleghenyrive"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -615,7 +615,7 @@
   "date": "2026-07-19",
   "count": 5
  },
- "last_run": "2026-07-19T02:00:28.125538+03:00",
+ "last_run": "2026-07-19T02:05:16.760505+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
