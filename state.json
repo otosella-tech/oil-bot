@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "9cf6f6137ea79664",
-  "crudeoilpriceforecastoilhoversnearmajormovingaverages",
   "5bc538ca6fbdc0b6",
   "currentpriceofoilasofjuly152026",
   "ecac4428de1c0c00",
@@ -603,7 +601,9 @@
   "b7eb4be1e62f4822",
   "usirantensionsreigniteoilmarketsbrentcrudesurgesnearly16fort",
   "d6bf0a13822b8034",
-  "volatilitycrisisasoilsupplyanddieselpricesshiftoverpastfortn"
+  "volatilitycrisisasoilsupplyanddieselpricesshiftoverpastfortn",
+  "2330f12eadf56af2",
+  "oilpricesup170726"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -615,7 +615,7 @@
   "date": "2026-07-18",
   "count": 22
  },
- "last_run": "2026-07-18T10:00:33.272474+03:00",
+ "last_run": "2026-07-18T10:05:16.955548+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
