@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "837fe181bf22cb4e",
-  "southkoreasecures74ofseptembercrudeoilneeds",
   "c91dae00dad78a35",
   "indiasouthafricatoboosttheirstrategicpetroleumreserves",
   "4eb886efa54ecc28",
@@ -603,7 +601,9 @@
   "6cd2624861839e14",
   "thestreetsaysdiamondbackenergyisworth230itsownmidcycleoilpri",
   "d6585713998d7131",
-  "howtobuildacrudeoilfarminpalworld"
+  "howtobuildacrudeoilfarminpalworld",
+  "9dee4515db9b5a27",
+  "uscrudeoilstockpilespostweeklywithdrawal"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -615,7 +615,7 @@
   "date": "2026-07-19",
   "count": 5
  },
- "last_run": "2026-07-19T02:20:25.054318+03:00",
+ "last_run": "2026-07-19T02:26:33.859127+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
