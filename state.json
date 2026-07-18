@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "9476f2de3139b318",
-  "chevronandiraqseektobypassstraitofhormuzwithsyriapipeline",
   "8fa99119688b2a16",
   "oilsettleslowerbutremainsnearonemonthhighonusirantension",
   "0080cbdffe4b0927",
@@ -603,7 +601,9 @@
   "eba33b889d735322",
   "russiaswariskillingblackseaecosystemsoukrainecripplesitsshad",
   "3099b36b87b50134",
-  "texasgaspricesjump13centsinaweekascrudeoilnears80perbarrelho"
+  "texasgaspricesjump13centsinaweekascrudeoilnears80perbarrelho",
+  "2dada26666c484d6",
+  "uaesexitfromopecreducedthegroupsshareofcrudeoilproductionand"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 48
+  "count": 49
  },
- "last_run": "2026-07-18T22:55:19.315086+03:00",
+ "last_run": "2026-07-18T23:01:50.015910+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
