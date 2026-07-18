@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "4accb69088567837",
-  "aistocksslumpagainwhileoilpriceskeeprisingpittsburghpost",
   "80bef404d4890c42",
   "asthestrategicpetroleumreservehitsa40yearlowitstimetoscrapit",
   "61deb2346fe7f768",
@@ -603,7 +601,9 @@
   "bce6c77175b25ad3",
   "oilpricessurgestocksslideaftertrumpsaysiranceasefireisover",
   "9c4f6022db0e1561",
-  "usandirantradestrikesoverstraitofhormuzkuwaitsuffersinfrastr"
+  "usandirantradestrikesoverstraitofhormuzkuwaitsuffersinfrastr",
+  "415098ff56141255",
+  "nycrudeoilreclaims80forfirsttimeinamonthasusirantensionsesca"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 26
+  "count": 27
  },
- "last_run": "2026-07-18T15:05:15.802691+03:00",
+ "last_run": "2026-07-18T15:11:23.830237+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
