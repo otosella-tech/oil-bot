@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "5956c8d966885455",
-  "nasdaqhitbychippullbackcrudeoilpricesedginghigher",
   "3a592e8968ea0275",
   "willirantargetanothermaritimechokepointthebabelmandebstraiti",
   "be2965f21ea6475d",
@@ -603,7 +601,9 @@
   "4686700b7244710e",
   "desalinationplantsavitalsourceofmideastdrinkingwatercomeunde",
   "642023e9649d243a",
-  "crudeoilfloorbeingestablishedheresaysdowjonesenergyscinquegr"
+  "crudeoilfloorbeingestablishedheresaysdowjonesenergyscinquegr",
+  "df79e9a2a7ea26cc",
+  "uscrudeinventoriesdeclineby17millionbarrelsasmiddleeasttensi"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -615,7 +615,7 @@
   "date": "2026-07-18",
   "count": 34
  },
- "last_run": "2026-07-18T18:40:19.429971+03:00",
+ "last_run": "2026-07-18T18:46:04.945182+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
