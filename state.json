@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "88f1ccd9bd6a54ed",
-  "japanandaseanplaythelonggameonenergyandsupplychainresilience",
   "d82a471f4be37113",
   "thecushinghubinoklahomasawaslightreturnofcrudeoilstocks",
   "4accb69088567837",
@@ -603,7 +601,9 @@
   "8fdc3fde842d856f",
   "currentpriceofoilasofjuly72026",
   "1e9e8e17719899ab",
-  "burnhamexpectedtoreversebanonnewoilandgasdrilling"
+  "burnhamexpectedtoreversebanonnewoilandgasdrilling",
+  "bce6c77175b25ad3",
+  "oilpricessurgestocksslideaftertrumpsaysiranceasefireisover"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 23
+  "count": 25
  },
- "last_run": "2026-07-18T14:35:17.085470+03:00",
+ "last_run": "2026-07-18T14:41:33.843342+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
@@ -1360,6 +1360,10 @@
   {
    "d": "2026-07-18",
    "t": "Oil prices jump after Trump says Iran ceasefire ‘over’ - The Hill"
+  },
+  {
+   "d": "2026-07-18",
+   "t": "Oil prices surge, stocks slide after Trump says Iran ceasefire is ‘over’ - NBC News"
   }
  ]
 }
