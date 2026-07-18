@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "8fa99119688b2a16",
-  "oilsettleslowerbutremainsnearonemonthhighonusirantension",
   "0080cbdffe4b0927",
   "chevronmovesclosertoiraqsbiggestoilprizeandahormuzexitstrate",
   "be7184e1600e44ef",
@@ -603,7 +601,9 @@
   "3099b36b87b50134",
   "texasgaspricesjump13centsinaweekascrudeoilnears80perbarrelho",
   "2dada26666c484d6",
-  "uaesexitfromopecreducedthegroupsshareofcrudeoilproductionand"
+  "uaesexitfromopecreducedthegroupsshareofcrudeoilproductionand",
+  "b416d614035f18bb",
+  "iraqlookstosyriaforasolutiontothestraitofhormuzdilemma"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-07-18T23:10:19.318911+03:00",
+ "last_run": "2026-07-18T23:15:21.489485+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
@@ -1384,6 +1384,10 @@
   {
    "d": "2026-07-18",
    "t": "Russia's war is killing Black Sea ecosystem—so Ukraine cripples its shadow fleet without spilling the oil - Euromaidan Press"
+  },
+  {
+   "d": "2026-07-18",
+   "t": "Iraq Looks to Syria for a Solution to the Strait of Hormuz Dilemma - الحرة"
   }
  ]
 }
