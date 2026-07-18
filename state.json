@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "3a592e8968ea0275",
-  "willirantargetanothermaritimechokepointthebabelmandebstraiti",
   "be2965f21ea6475d",
   "eusetstargettodoubleelectrificationratecutoilgasuse",
   "78afafe6d9276be6",
@@ -603,7 +601,9 @@
   "642023e9649d243a",
   "crudeoilfloorbeingestablishedheresaysdowjonesenergyscinquegr",
   "df79e9a2a7ea26cc",
-  "uscrudeinventoriesdeclineby17millionbarrelsasmiddleeasttensi"
+  "uscrudeinventoriesdeclineby17millionbarrelsasmiddleeasttensi",
+  "89aad2c6802b7c51",
+  "uscrudeoilfallsbelow70resuminglossesafterattackoncargoshipne"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 34
+  "count": 35
  },
- "last_run": "2026-07-18T19:05:15.241609+03:00",
+ "last_run": "2026-07-18T19:10:20.125890+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
