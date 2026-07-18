@@ -605,12 +605,7 @@
   "c24b51a109eb59cd",
   "usandiranattackinfrastructureraisingfearsofescalation"
  ],
- "releases_done": {
-  "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
-  "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|post": 1,
-  "2026-07-17|דוח פוזיציות ספקולנטים (CFTC COT)|pre": 1,
-  "2026-07-17|דוח פוזיציות ספקולנטים (CFTC COT)|post": 1
- },
+ "releases_done": {},
  "last_digest": "2026-07-17",
  "digest_prices": {
   "WTI": 79.13,
@@ -620,7 +615,7 @@
   "date": "2026-07-18",
   "count": 12
  },
- "last_run": "2026-07-18T06:55:17.258571+03:00",
+ "last_run": "2026-07-18T07:00:30.329980+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
