@@ -4,12 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "de660f0cc5d72029",
-  "whattrumpsnewiranblockadecouldmeanforoilprices",
-  "e026aed8eaad979b",
-  "americashormuzbrinkmanshipisworseningaglobalfuelcrunch",
-  "750087b69cea4893",
-  "omanicrudeoilpricereaches7636abarrelfananews",
   "0c26ef3057b14ef0",
   "straitofhormuztankertrafficerodesfurtherasoilpricesrise",
   "ca596ae3f0be3e45",
@@ -603,7 +597,13 @@
   "e78b7de50c9b0ee7",
   "crudeoilpostsbiggestweeklygaininmonthsaspricesheadtoward100p",
   "c055eb4e5f36b603",
-  "southkoreareliesonredseaandyanbuportforcrudeoilafterstraitof"
+  "southkoreareliesonredseaandyanbuportforcrudeoilafterstraitof",
+  "8fa92994d0c32d67",
+  "cushingcrudeoilstoragefallsbelow20millionbarrelseiareportsti",
+  "934bf7ca2e8ac24a",
+  "iranoilshipmentssurgeamidrenewedusblockadeandstraitofhormuzt",
+  "a78b3776a1159fa6",
+  "eastboundi70closedat23rdstreetinkansascityaftersemitruckspil"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 9
+  "count": 11
  },
- "last_run": "2026-07-18T04:00:29.346644+03:00",
+ "last_run": "2026-07-18T04:05:16.724965+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
@@ -1357,6 +1357,10 @@
   {
    "d": "2026-07-18",
    "t": "Reopening Hormuz Strait Easier Than Restoring Confidence, Naval Analyst Tallis Says - Radio Free Europe/Radio Liberty"
+  },
+  {
+   "d": "2026-07-18",
+   "t": "Iran Oil Shipments Surge Amid Renewed U.S. Blockade and Strait of Hormuz Tensions - News and Statistics - IndexBox"
   }
  ]
 }
