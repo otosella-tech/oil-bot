@@ -4,10 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "142406e566b8898f",
-  "rigcountnolongerareliablebellwetherforriskinoilandgasservice",
-  "e8f5f5428bbcbbf3",
-  "usreviewingcrudestoragelimitsaftercushingokinventorydrainedb",
   "815cdcc4d86c261c",
   "oilfuturescrudemovessidewaysasmarketeyeshormuz",
   "6c87137c9caef76d",
@@ -603,7 +599,11 @@
   "d11f2855ddf1f683",
   "globalcrudeoilpricessurgearound16amidusiranconflict",
   "330f18e7511bfabe",
-  "currentpriceofoilasofjuly12026"
+  "currentpriceofoilasofjuly12026",
+  "7b0734642364c254",
+  "usmilitarysays2troopsaredeadand1ismissingafteriranattacksaba",
+  "8796ac90ca0b9737",
+  "dollarstrengthsparkslongliquidationincrudeoilfutures"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-07-18T21:10:41.950206+03:00",
+ "last_run": "2026-07-18T21:15:21.041548+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
@@ -1376,6 +1376,10 @@
   {
    "d": "2026-07-18",
    "t": "Iran says it is suspending commitments to interim deal with US as the two exchange attacks - ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "d": "2026-07-18",
+   "t": "US military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan - ABC7 Bay Area"
   }
  ]
 }
