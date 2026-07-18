@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "04a08c887e0ee795",
-  "southsudanreformstargetnewinvestmentpushasaecbacksoilsectorr",
   "ba965b55b752cb3d",
   "sixdefendantspleadguiltytoconspiracytostealcrudeoilintheperm",
   "1a715b33049bf9e0",
@@ -603,7 +601,9 @@
   "9153d560428888df",
   "wticrudeoilfuturesclimbedtoafiveweekhigh",
   "e8792ac02500dc28",
-  "burnhamtoannounceplansfornewnorthseaoilandgasdrilling"
+  "burnhamtoannounceplansfornewnorthseaoilandgasdrilling",
+  "5bc538ca6fbdc0b6",
+  "currentpriceofoilasofjuly152026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -615,7 +615,7 @@
   "date": "2026-07-18",
   "count": 22
  },
- "last_run": "2026-07-18T10:10:21.069880+03:00",
+ "last_run": "2026-07-18T10:15:19.653571+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
