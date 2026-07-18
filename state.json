@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "d82a471f4be37113",
-  "thecushinghubinoklahomasawaslightreturnofcrudeoilstocks",
   "4accb69088567837",
   "aistocksslumpagainwhileoilpriceskeeprisingpittsburghpost",
   "80bef404d4890c42",
@@ -603,7 +601,9 @@
   "1e9e8e17719899ab",
   "burnhamexpectedtoreversebanonnewoilandgasdrilling",
   "bce6c77175b25ad3",
-  "oilpricessurgestocksslideaftertrumpsaysiranceasefireisover"
+  "oilpricessurgestocksslideaftertrumpsaysiranceasefireisover",
+  "9c4f6022db0e1561",
+  "usandirantradestrikesoverstraitofhormuzkuwaitsuffersinfrastr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 25
+  "count": 26
  },
- "last_run": "2026-07-18T14:46:07.466204+03:00",
+ "last_run": "2026-07-18T14:50:20.400606+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
