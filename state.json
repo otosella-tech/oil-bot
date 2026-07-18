@@ -4,10 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "d2603e4ba748bbb2",
-  "oilpricesteadiesaftergainsashormuzshipattacksthreatensupply",
-  "df58a9e0a371052f",
-  "opiniontrumptheaccidentalgreenpresident",
   "de660f0cc5d72029",
   "whattrumpsnewiranblockadecouldmeanforoilprices",
   "e026aed8eaad979b",
@@ -603,7 +599,11 @@
   "e81a0ce6ac6a9c11",
   "withindustrywaryofarcticrefugealaskasowngovernmentplansalone",
   "45db0b12850422d6",
-  "straitofhormuztransitsdropasusandiranescalateattacksacrossgu"
+  "straitofhormuztransitsdropasusandiranescalateattacksacrossgu",
+  "e78b7de50c9b0ee7",
+  "crudeoilpostsbiggestweeklygaininmonthsaspricesheadtoward100p",
+  "c055eb4e5f36b603",
+  "southkoreareliesonredseaandyanbuportforcrudeoilafterstraitof"
  ],
  "releases_done": {
   "2026-07-17|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 8
+  "count": 9
  },
- "last_run": "2026-07-18T03:45:19.608768+03:00",
+ "last_run": "2026-07-18T03:50:23.132396+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
