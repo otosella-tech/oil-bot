@@ -4,10 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "52190a781fe74e02",
-  "windfallprofitstaxesinnameonlyamericanenterpriseinstitute",
-  "db1e093a03f02fa0",
-  "oilpipelinesaroundthestraitofhormuzwontendthethreatiranposes",
   "8796ac90ca0b9737",
   "dollarstrengthsparkslongliquidationincrudeoilfutures",
   "142406e566b8898f",
@@ -603,7 +599,11 @@
   "285811e22105bb40",
   "thousandsoftruckshauliraqsoilthroughsyriainsignofhormuzlegac",
   "2116a1791b749729",
-  "ukrainedronestargetrussianwarehousesandoilsites"
+  "ukrainedronestargetrussianwarehousesandoilsites",
+  "522273f967b5a98b",
+  "iraqsyriasigndealtoreviveoilpipelinetomediterranean",
+  "d11f2855ddf1f683",
+  "globalcrudeoilpricessurgearound16amidusiranconflict"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 42
+  "count": 43
  },
- "last_run": "2026-07-18T21:00:31.125039+03:00",
+ "last_run": "2026-07-18T21:06:15.649529+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
