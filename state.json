@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "0766631e23e515e0",
-  "whataretankbottoms",
   "218001d3e339aaa9",
   "newucdavisstudyconfirmsavocadooilfraudhasmovedintochipsmayon",
   "5047c4b3d8605370",
@@ -603,7 +601,9 @@
   "c24b51a109eb59cd",
   "usandiranattackinfrastructureraisingfearsofescalation",
   "01fa3268aac4993b",
-  "yoursaturdayjuly18guidefivethingstodointheoilcity"
+  "yoursaturdayjuly18guidefivethingstodointheoilcity",
+  "325df916b0a8954d",
+  "oilwildcatterwhocrackedalaskalookstovenezuelaforrepeatsucces"
  ],
  "releases_done": {},
  "last_digest": "2026-07-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-18",
-  "count": 12
+  "count": 13
  },
- "last_run": "2026-07-18T07:20:21.497033+03:00",
+ "last_run": "2026-07-18T07:25:16.070196+03:00",
  "sent_stories": [
   {
    "d": "2026-07-15",
