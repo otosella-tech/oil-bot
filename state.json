@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "9a2e331539c0b62c",
-  "oilpricesheadingforweeklysurgeasusiranexchangestrikes",
   "d92cbe0c3b208606",
   "chinaseekslong",
   "92cb16ffa71e32b5",
@@ -603,7 +601,9 @@
   "9aa8e3c4f913fa7f",
   "kazakhstancondemnsreporteddroneattacksonoiltankersusingblack",
   "4bdca7303328bda6",
-  "iranrushedbillionsinoilexportsbeforeusreimposedblockadewsjco"
+  "iranrushedbillionsinoilexportsbeforeusreimposedblockadewsjco",
+  "f00ad1be50fad075",
+  "ventureglobalvgsoarsasgeopoliticaltensionsfuelnaturalgasrall"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -612,199 +612,11 @@
   "Brent": 88.1
  },
  "llm": {
-  "date": "2026-07-19",
-  "count": 46
+  "date": "2026-07-20",
+  "count": 2
  },
- "last_run": "2026-07-20T00:15:17.570105+03:00",
+ "last_run": "2026-07-20T00:20:18.022525+03:00",
  "sent_stories": [
-  {
-   "d": "2026-07-16",
-   "t": "Five Oil and Gas Stocks Ready for a Hormuz Spike and a Hawkish Fed"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil prices reach monthly high due to tensions in Hormuz - Inspenet"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "America’s oil refiners could more than triple profits as Iran war sparks massive boom - MarketWatch"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "U.S. Strikes Iran Again as Brent Slips Despite Escalating Conflict"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "United warns of nearly $6 billion fuel hit as oil-price surge weighs on outlook - Reuters"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "US launches more Iran strikes, hits oil tanker trying to break Hormuz blockade - South China Morning Post"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil prices turn lower as traders weigh impact of renewed US strikes on Iran - Reuters"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "US supporting efforts to revive Iraq-Syria crude oil pipeline, US official says - Reuters"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "U.S. Strikes Iran-Linked Tanker Near Kharg Island"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee - CNBC"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Canada Ties New West Coast Pipeline to Oil Sands Expansion - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil eases as traders lock in gains, assess Iran escalation - Reuters"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil prices jump after Trump says Iran ceasefire ‘over’ - The Hill"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Russian Offensive Campaign Assessment, July 15, 2026 - Institute for the Study of War"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Crude oil loading suspended at all Iraqi terminals after drone incident – Reuters - FXStreet"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "TotalEnergies Sees Stronger Q2 Profit as Refining and Oil Trading Surge"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil eases as traders weigh US-Iran conflict risks - Reuters"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil Steadies After Gains But U.S.-Iran Tensions Remain High - WSJ"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "The Iran war exposes the global economy’s fault lines - PubAffairs Bruxelles"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "UAE Oil Output Surges to 3.818 Million bpd in June 2026 After OPEC Exit - News and Statistics - IndexBox"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Hormuz closure threatens renewed oil supply crunch - Financial Times"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Crude oil prices rise for 4th session amid escalating US-Iran war; Brent likely to hit $110/bbl, says Goldman Sachs - livemint.com"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Strait of Hormuz: US fires at tanker as new Iran blockade begins - BBC"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Asian LNG Spot Prices Jump 10% as Hormuz Crisis Reignites Supply Fears"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil Price Steadies After Gains as Hormuz Ship Attacks Threaten Supply - Bloomberg.com"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "America’s Hormuz brinkmanship is worsening a global fuel crunch - The Economist"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Strait of Hormuz Tanker Traffic Erodes Further as Oil Prices Rise - The New York Times"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil futures: Crude edges up as market eyes Hormuz - Quantum Commodity Intelligence"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Syria seizes Hezbollah drones and missiles hidden in oil tanker - The Jerusalem Post"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Iraq Pauses Basrah Oil Loadings After Drone Attack on Tanker - Bloomberg.com"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil ticks lower after three-day rally as Iran conflict keeps supply risks elevated - Investing.com"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Diesel Hits $5 a Gallon Again, Up 33% Since the Start of Iran War - The Seattle Times"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Iran Instructs Houthis to Prepare Red Sea Shipping Attacks"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "China's Crude Oil Imports Crash to Decade Low as Hormuz Crisis Bites - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Chevron Will Explore Creating Strait of Hormuz Alternative for Iraqi Oil - WSJ"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "AAA: Arkansas gas prices rise 8 cents as Strait of Hormuz instability pushes crude oil higher - K8 News | Jonesboro, Arkansas"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Iraq Shuts Down Khor Mor Gas Field Amid Security Threats"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "US-Iran ceasefire collapse drives crude oil prices higher this week - Crypto Briefing"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Turning Oil to Fuel Has Never Been More Profitable as Refining Margins Surge - Bloomberg.com"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Will Iran Target Another Maritime Chokepoint? The Bab El-Mandeb Strait Is Under Threat - Time Magazine"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Ukraine Hit Two Large Russia-Linked Oil Tankers in Black Sea - gCaptain"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil pipelines around the Strait of Hormuz won't end the threat Iran poses to Middle East crude exports - CNBC"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil futures: Crude moves sideways as market eyes Hormuz - Quantum Commodity Intelligence"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Yemen's Houthis Threaten New Oil Shock as Civil War Reignites"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline - Financial Times"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Oil settles lower, but remains near one-month high on U.S.-Iran tension - Reuters"
-  },
-  {
-   "d": "2026-07-16",
-   "t": "Chevron Moves Closer to Iraq's Biggest Oil Prize—and a Hormuz Exit Strategy"
-  },
   {
    "d": "2026-07-17",
    "t": "How The Iran War Is Rewiring the Oil Market - Bloomberg.com"
@@ -1068,6 +880,10 @@
   {
    "d": "2026-07-19",
    "t": "S&P 500 Braces for Potential Impact from 16% Surge in Oil Amid Iran Concerns and Inflation Risks - TechStock²"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Venture Global (VG) Soars as Geopolitical Tensions Fuel Natural Gas Rally - Yahoo Finance UK"
   }
  ]
 }
