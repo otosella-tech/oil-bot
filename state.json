@@ -4,10 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "04197e16548a1b5f",
-  "nationalaveragegaspricenears4agallonaaasays",
-  "d03230a907e42ebf",
-  "brentcrudeoilsetforhighestweeklygainsinceapriloniran",
   "be7e9f77698082fd",
   "oilheadedfor10weeklygainonescalatingusiranattacks",
   "86d3b76eef1d6dce",
@@ -603,7 +599,11 @@
   "947ab8a97778624c",
   "crudeoilnaturalgaspricesbegintosurgeinalaskaasiraniantension",
   "3b48d4dd59bb5b73",
-  "oilvolatilityhistoricriseduetoglobaltension"
+  "oilvolatilityhistoricriseduetoglobaltension",
+  "9174f460a6c64fd1",
+  "iraqusink48dealsduringpmsvisitmainlyinoilsectordailysabah",
+  "084a803ff6e8136c",
+  "eiareports17millionbarreluscrudedrawasoiltraderswatchgeopoli"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-19",
   "count": 37
  },
- "last_run": "2026-07-19T17:11:30.937130+03:00",
+ "last_run": "2026-07-19T17:16:35.299367+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
