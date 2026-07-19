@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "ac11c785ff4b9ee4",
-  "stockssinkaschiproutdeepensoilsetforweeklygain",
   "d14ea2590f082b67",
   "pakistanplansfreshlngpurchasesamidstraitofhormuzshutdown",
   "ed96d61966e471ff",
@@ -603,7 +601,9 @@
   "f3dd8c543d385f50",
   "indiaboughtrecord514billionworthofrussiancrudeoilinjune",
   "1c7d3e174f4e2518",
-  "weeklyforexforecastdollaryengoldandoilinfocus"
+  "weeklyforexforecastdollaryengoldandoilinfocus",
+  "7743ee2c72b4ac4d",
+  "sbuhitsshadowfleettanker3oildepotsinrussia"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 30
+  "count": 31
  },
- "last_run": "2026-07-19T14:55:17.804803+03:00",
+ "last_run": "2026-07-19T15:01:35.313270+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
