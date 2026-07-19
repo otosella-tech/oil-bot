@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "7c17c4b23b829f25",
-  "currentpriceofoilasofjuly92026",
   "6b28bdd99f7651da",
   "usexportsofcrudeoilandpetroleumproductsreachedrecordinapril",
   "ac834a23350f1806",
@@ -603,7 +601,9 @@
   "b1b1e433eea5b5bf",
   "iranrushedout6blnofoilduringbrieftrucewithuswsj",
   "a2c3b2ca3c9f489e",
-  "currentpriceofoilasofjuly102026"
+  "currentpriceofoilasofjuly102026",
+  "d661e02c93327ac5",
+  "usmilitarylaunchesnewairstrikestoswiftlypunishiranfordeathso"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 19
+  "count": 20
  },
- "last_run": "2026-07-19T09:40:19.818999+03:00",
+ "last_run": "2026-07-19T09:48:05.814935+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
