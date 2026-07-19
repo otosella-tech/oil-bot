@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "4c4fd37206fbaf3b",
-  "usmilitaryboardsoiltankeringulfofoman",
   "012ae745a5010e15",
   "thedailyconsumersinretreattsmcearningscanthelpoiloiloil",
   "d759815989b72112",
@@ -603,7 +601,9 @@
   "b42812b328a024e6",
   "iranboostscrudeexportsduringtrucechannelsoiltochinachosunbiz",
   "59fe1555723b045f",
-  "uscrudeoilfuturesarepinballingbetween7790and8125traderswaitf"
+  "uscrudeoilfuturesarepinballingbetween7790and8125traderswaitf",
+  "55264311a2506962",
+  "oilpricesriseasusandiranreachdealtohaltattacksusoilabove70pe"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-07-19T06:45:21.014260+03:00",
+ "last_run": "2026-07-19T06:50:21.230609+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
@@ -1044,6 +1044,10 @@
   {
    "d": "2026-07-19",
    "t": "US military launches new airstrikes to punish Iran for deaths of US troops - WUSA9"
+  },
+  {
+   "d": "2026-07-19",
+   "t": "Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again - CNBC"
   }
  ]
 }
