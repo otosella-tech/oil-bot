@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "f97de6a4b0d8d1ea",
-  "iransthreatextendsbeyondthestraitofhormuz",
   "54b074bb2ff8fc60",
   "gaspricesclimbascrudeoilapproaches80perbarrelkwkt",
   "2c48bb9010ada535",
@@ -603,7 +601,9 @@
   "efb74c7222fde02f",
   "currentpriceofoilasofjuly172026",
   "9207e0166eb07edc",
-  "brentcrudejumps46whatsdrivingoilpriceshigher"
+  "brentcrudejumps46whatsdrivingoilpriceshigher",
+  "6bdd66d24615df81",
+  "iraqussignoilagreementsduringpmsvisit"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-19",
   "count": 39
  },
- "last_run": "2026-07-19T19:10:20.133304+03:00",
+ "last_run": "2026-07-19T19:15:20.560661+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
