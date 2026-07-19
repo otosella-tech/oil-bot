@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "f2bb17ea642f1c53",
-  "moreoildoesnotmeanmorefuel",
   "5329b82cb644ec64",
   "theusoilreserveisata40yearlowbutthegovernmentsaystheresstill",
   "efb74c7222fde02f",
@@ -603,7 +601,9 @@
   "b6642f8017377950",
   "energystoragekeytoavoidingthenextenergycrisis",
   "d01e1d85f29ec316",
-  "hormuzclosureexposesafricasenergydependenceoniranandchina"
+  "hormuzclosureexposesafricasenergydependenceoniranandchina",
+  "0ba24294ac8cb155",
+  "gaspriceswillstayhigherforlongerevenifoilfalls"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-19",
   "count": 38
  },
- "last_run": "2026-07-19T18:00:29.776996+03:00",
+ "last_run": "2026-07-19T18:05:16.245010+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
