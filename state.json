@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "10cdb53e76d41772",
-  "oilrisesonrenewedusiranhostilitiesandthreatofredseaclosure",
   "ca15a5196bd35b6e",
   "conocophillipsreachesagreementsupportingredevelopmentofprodu",
   "5d563a263e8537e0",
@@ -603,7 +601,9 @@
   "bdc543a034c7bc10",
   "pairsinfocuswticrudeoilgoldsilvercac40naturalgasusdcadnasdaq",
   "42f98928b07ee3f8",
-  "burnhamtomaintainbanonnorthseaexplorationlicences"
+  "burnhamtomaintainbanonnorthseaexplorationlicences",
+  "e6ac4fc1142862b4",
+  "revolutionaryguardnotasingledropofoilorgaswillpassthroughthe"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 41
+  "count": 42
  },
- "last_run": "2026-07-19T20:41:31.328149+03:00",
+ "last_run": "2026-07-19T20:46:34.323401+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
