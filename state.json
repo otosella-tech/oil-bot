@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "33eb265f4c45d69f",
-  "wticrudeoilfuturesjump2to8049brentcrudeoilfuturesadvance17to",
   "602faa56329b3fc0",
   "brentwticrudeoilfuturesjumpprebellasiranstrikesusbasesinmidd",
   "f97de6a4b0d8d1ea",
@@ -603,7 +601,9 @@
   "89b8c34c52c8687f",
   "wticrudeoilholdsabove80amidmiddleeaststrain",
   "bf96172cf66e7a36",
-  "caspianpipelineconsortiumoilloadingssuspendedafterdroneattac"
+  "caspianpipelineconsortiumoilloadingssuspendedafterdroneattac",
+  "efb74c7222fde02f",
+  "currentpriceofoilasofjuly172026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-19",
   "count": 39
  },
- "last_run": "2026-07-19T18:25:15.496585+03:00",
+ "last_run": "2026-07-19T18:31:52.056543+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
