@@ -4,10 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "651a83fd69d3dca9",
-  "stocksdropondeepeningsemiconductorroutoilsetforweeklygain",
-  "092939d545a2cb29",
-  "japanslnggiantweighsusipotoaccelerateglobalexpansion",
   "8b75d4ed21988047",
   "rupeelogssharpestweeklydropinnineasoilpricejumpstings",
   "c4270831e82ad6a6",
@@ -603,7 +599,11 @@
   "ba0a18081e38d6bf",
   "cushingcrudeoilinventoriesdipimpactingpricesandstoragecapaci",
   "c2fb797c4215d030",
-  "cpccaspianpipelineconsortiumsuspendsoilloadingsafterdroneatt"
+  "cpccaspianpipelineconsortiumsuspendsoilloadingsafterdroneatt",
+  "2d164cf93cbc5b46",
+  "iransaysitissuspendingcommitmentstointerimdealwithusastheyex",
+  "e78f55286dbb4772",
+  "cpcandformosatokeeppricesatpumpsunchanged"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 40
+  "count": 41
  },
- "last_run": "2026-07-19T20:00:25.821952+03:00",
+ "last_run": "2026-07-19T20:05:15.086949+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
