@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "2dcf0bf6a30d3d4c",
-  "gaspricesclimbascrudeoilapproaches80perbarrel",
   "61f6547c75849c79",
   "crudeoilwatchestheregioncatchfireandstillcannotclearitsceili",
   "4c4fd37206fbaf3b",
@@ -603,7 +601,9 @@
   "a9592d9cac552432",
   "iransmuggles6bofoiltochinaduringbrieftrucewithcryptoplayinga",
   "fbe7f62ba3374aa8",
-  "iranexports70mbarrelsofoiltochinaduringbriefusblockadelift"
+  "iranexports70mbarrelsofoiltochinaduringbriefusblockadelift",
+  "b42812b328a024e6",
+  "iranboostscrudeexportsduringtrucechannelsoiltochinachosunbiz"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -615,7 +615,7 @@
   "date": "2026-07-19",
   "count": 6
  },
- "last_run": "2026-07-19T05:25:18.146002+03:00",
+ "last_run": "2026-07-19T05:31:43.062474+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
