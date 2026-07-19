@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "97a8715919d94f59",
-  "currentpriceofoilasofjuly132026",
   "d33f1d21cc550157",
   "russiasoilexportsurgerunsintoa135millionbarreltrafficjam",
   "04487d60df8e5df1",
@@ -603,7 +601,9 @@
   "17a8358b3e4ef2f3",
   "chinacouldbeabouttoremoveoilsbiggestsafetynet",
   "a26ee5af6fd3f723",
-  "usmilitarylaunchesnewairstrikestoswiftlypunishiranforattacko"
+  "usmilitarylaunchesnewairstrikestoswiftlypunishiranforattacko",
+  "94f72533f1ee64f4",
+  "usiranconflictreignitesoilmarketpanicdieselsurgespast5hedgef"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 11
+  "count": 12
  },
- "last_run": "2026-07-19T07:45:22.782112+03:00",
+ "last_run": "2026-07-19T07:50:20.767017+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
