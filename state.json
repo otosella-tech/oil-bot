@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "79c017ee3145b0d7",
-  "uscrudeoilstockpilespostunexpectedbuild",
   "e7a4596c4d0b0f46",
   "iran",
   "eac35ecec97fa72a",
@@ -603,7 +601,9 @@
   "ea3352ea205baf6e",
   "zelenskyysaysukrainestruck3oildepotsfuelfacilityinrussiassta",
   "7479ceaf855b3fc6",
-  "iranshipped70millionbarrelsofoilduringustruce"
+  "iranshipped70millionbarrelsofoilduringustruce",
+  "eebe614ab1c39864",
+  "parliamentcommitteeapprovesapprovesegascheironmediterraneana"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-19",
   "count": 33
  },
- "last_run": "2026-07-19T15:55:16.351368+03:00",
+ "last_run": "2026-07-19T16:01:54.525647+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
