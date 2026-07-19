@@ -4,12 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "5e07b8b42d0eaa54",
-  "asiansharessinkwithtokyodownnearly5asslumpingaistocksdragwor",
-  "6aaa539721023251",
-  "sinopec",
-  "c9c6a6f1de36d2e0",
-  "rupeeflatascentralbankinterventionhaltsslideoilpricesremaink",
   "412472460053a80a",
   "stocksslumponchipselloffoilsetforweeklygain",
   "ac11c785ff4b9ee4",
@@ -603,7 +597,13 @@
   "fe0a78656e6b77fb",
   "navysaysantioiltheftoperationsliftcrudeoutputaboveopecquota",
   "e01caa12c832ca09",
-  "howwilltheecbrespondtothelatestriseinoilprices"
+  "howwilltheecbrespondtothelatestriseinoilprices",
+  "bd81bfc579572619",
+  "dronestrikeshitrussianfuelhubsinstavropolkraiandpowergridino",
+  "7c17c4b23b829f25",
+  "currentpriceofoilasofjuly92026",
+  "f3dd8c543d385f50",
+  "indiaboughtrecord514billionworthofrussiancrudeoilinjune"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 29
+  "count": 30
  },
- "last_run": "2026-07-19T14:20:19.512666+03:00",
+ "last_run": "2026-07-19T14:25:19.614912+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
