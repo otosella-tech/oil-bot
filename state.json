@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "144ea30409f5bea8",
-  "weekendreadsresourcewarscrudepricingandempires",
   "35cd5dc9ccd08212",
   "redseashutdownriskloomsasusirantensionsthreatenanotheroilsur",
   "9a2e331539c0b62c",
@@ -603,7 +601,9 @@
   "4b905eb6323caafc",
   "whataremineralrightsthecompleteguidetoowningleasingandsellin",
   "43144c2a34b94f1f",
-  "ukrainianoilproducerwinsus109mincourtcaseagainstrussia"
+  "ukrainianoilproducerwinsus109mincourtcaseagainstrussia",
+  "9aa8e3c4f913fa7f",
+  "kazakhstancondemnsreporteddroneattacksonoiltankersusingblack"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 45
+  "count": 46
  },
- "last_run": "2026-07-19T23:05:14.888492+03:00",
+ "last_run": "2026-07-19T23:10:19.465284+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
