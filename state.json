@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "12e45555fd9b8d2b",
-  "oilpricesriseasuncertaintyaroundredseagrowstradeonprediction",
   "391c1457feea5f8a",
   "crudeoilfuturessep6clmainusbrentlastdayfinanc",
   "8705729b0e81e24c",
@@ -603,7 +601,9 @@
   "f3295e7a39d89889",
   "ushailsplantorestoreiraqisyrianoilpipeline",
   "dcd5a1acb10c769c",
-  "caspianpipelineconsortiumsays2oiltankersattackedbydronesnear"
+  "caspianpipelineconsortiumsays2oiltankersattackedbydronesnear",
+  "d7e26327f192efca",
+  "howindiaisweatheringtheenergyshock"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-19",
   "count": 26
  },
- "last_run": "2026-07-19T13:20:20.457430+03:00",
+ "last_run": "2026-07-19T13:25:43.263312+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
