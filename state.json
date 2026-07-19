@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "0cac9f6b057ece20",
-  "oilrisesonintensifyingusiranhostilitiesthreatofredseaclosure",
   "12e45555fd9b8d2b",
   "oilpricesriseasuncertaintyaroundredseagrowstradeonprediction",
   "391c1457feea5f8a",
@@ -603,7 +601,9 @@
   "bbfde11846f44f6f",
   "ukrainessecurityservicestrikesmajorrussianshadowfleettankerw",
   "f3295e7a39d89889",
-  "ushailsplantorestoreiraqisyrianoilpipeline"
+  "ushailsplantorestoreiraqisyrianoilpipeline",
+  "dcd5a1acb10c769c",
+  "caspianpipelineconsortiumsays2oiltankersattackedbydronesnear"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-07-19T13:10:22.772698+03:00",
+ "last_run": "2026-07-19T13:15:31.732420+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
@@ -1052,6 +1052,10 @@
   {
    "d": "2026-07-19",
    "t": "U.S. military launches new airstrikes to 'swiftly punish' Iran for attack on Jordan that killed American troops - Fortune"
+  },
+  {
+   "d": "2026-07-19",
+   "t": "Caspian Pipeline Consortium says 2 oil tankers attacked by drones near its Black Sea terminal - Anadolu Ajansı"
   }
  ]
 }
