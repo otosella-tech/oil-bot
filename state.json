@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "5d563a263e8537e0",
-  "guestcolumnafterdecadesofoilandgasthegulfmaybeconfrontingoff",
   "5e1edc16fb90ad60",
   "southkoreabetsonredsearouteashormuzdisruptionspersist",
   "541bfd7c931484fe",
@@ -603,7 +601,9 @@
   "e6ac4fc1142862b4",
   "revolutionaryguardnotasingledropofoilorgaswillpassthroughthe",
   "d8af5ebcaed78210",
-  "theworldislookingaheadtowardapostiranoilmarketthatoffsetsmos"
+  "theworldislookingaheadtowardapostiranoilmarketthatoffsetsmos",
+  "c4387ca305a79dbf",
+  "sp500bracesforpotentialimpactfrom16surgeinoilamidiranconcern"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-07-19T21:00:26.022407+03:00",
+ "last_run": "2026-07-19T21:06:52.216701+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
@@ -1064,6 +1064,10 @@
   {
    "d": "2026-07-19",
    "t": "Iran attacks Kuwait oil and water plants to pressure US after infrastructure hit - The Jerusalem Post"
+  },
+  {
+   "d": "2026-07-19",
+   "t": "S&P 500 Braces for Potential Impact from 16% Surge in Oil Amid Iran Concerns and Inflation Risks - TechStock²"
   }
  ]
 }
