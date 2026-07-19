@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "d759815989b72112",
-  "chinacouldbeabouttoremoveoilsbiggestsafetynet",
   "9701ea8d7630518a",
   "clarksvillecontinuestohavethelowestgaspricesintennesseeaaare",
   "1ae54277ad869289",
@@ -603,7 +601,9 @@
   "55264311a2506962",
   "oilpricesriseasusandiranreachdealtohaltattacksusoilabove70pe",
   "c8f5eecba8c11b32",
-  "yoursundayjuly19guidethreethingstodointheoilcity"
+  "yoursundayjuly19guidethreethingstodointheoilcity",
+  "7a2def7ba2d067b6",
+  "iranexports6billionoiltochinaamidussanctionsrelief"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 8
+  "count": 9
  },
- "last_run": "2026-07-19T07:11:27.304211+03:00",
+ "last_run": "2026-07-19T07:16:59.609563+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
