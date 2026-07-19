@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "027f0ac2fa8795f0",
-  "iranwarnewstodayusexpandsbombingattackspresidentdonaldtrumps",
   "3a845564498776d6",
   "russiastrugglestosellalltheoilitsbeingforcedtoexport",
   "2dcf0bf6a30d3d4c",
@@ -603,7 +601,9 @@
   "ace31f2edbbc147e",
   "howoilpriceshocksredrawthemapofconflict",
   "3c8222b7701ba66c",
-  "oilsillusionofabundancewhyexxonandchevronareprimedfora2026su"
+  "oilsillusionofabundancewhyexxonandchevronareprimedfora2026su",
+  "a9592d9cac552432",
+  "iransmuggles6bofoiltochinaduringbrieftrucewithcryptoplayinga"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 5
+  "count": 6
  },
- "last_run": "2026-07-19T04:35:18.188202+03:00",
+ "last_run": "2026-07-19T04:40:22.153649+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
