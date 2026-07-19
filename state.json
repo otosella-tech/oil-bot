@@ -4,8 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "5a7777646b1f6f3d",
-  "watchoiljeffreycurriesayscrudesillusionofabundanceisgone",
   "de26537aa8f9dfbb",
   "slumpingaistocksdragwallstreetloweroilpricesjumpasuslaunches",
   "1a9dd8c126de7e71",
@@ -603,7 +601,9 @@
   "dedd799e7d70a6d9",
   "crudeoilpricesextendrallyabove90asmiddleeastconflictintensif",
   "e00758174540b4eb",
-  "didscientistsjustsolvethebiggestmysteryholdingbacksolid"
+  "didscientistsjustsolvethebiggestmysteryholdingbacksolid",
+  "800aaad20fb8f7ae",
+  "straitofhormuzclosurewhycrudeoilpriceshaventspiralledoutofco"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-20",
-  "count": 3
+  "count": 5
  },
- "last_run": "2026-07-20T02:10:17.295261+03:00",
+ "last_run": "2026-07-20T02:15:20.525003+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -884,6 +884,10 @@
   {
    "d": "2026-07-20",
    "t": "Venture Global (VG) Soars as Geopolitical Tensions Fuel Natural Gas Rally - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Strait of Hormuz closure: Why crude oil prices haven’t spiralled out of control amid US-Iran conflict - The Times of India"
   }
  ]
 }
