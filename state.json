@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "4f8a9634d480ba2d",
-  "fuelpricesiranisnttheonlyconflictvexingtheoilmarket",
   "3fcb1f17aa7d2117",
   "goldontrackforbiggestweeklylossinsixasiranwarfansinflationwo",
   "04197e16548a1b5f",
@@ -603,7 +601,9 @@
   "3989f22340a17add",
   "iransshadowfleetrushed6billionofoiltochinaduringbriefustruce",
   "a469f577ef3901f3",
-  "chinasoilimportshaveplungedduringtheiranwarhowmuchwilltheyre"
+  "chinasoilimportshaveplungedduringtheiranwarhowmuchwilltheyre",
+  "947ab8a97778624c",
+  "crudeoilnaturalgaspricesbegintosurgeinalaskaasiraniantension"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 36
+  "count": 37
  },
- "last_run": "2026-07-19T17:02:07.625498+03:00",
+ "last_run": "2026-07-19T17:05:16.207301+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
