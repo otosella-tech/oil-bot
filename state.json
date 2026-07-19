@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "1ae54277ad869289",
-  "sulfurpricestripleamidsupplycrisispotentialcrudeoilimpact",
   "97a8715919d94f59",
   "currentpriceofoilasofjuly132026",
   "d33f1d21cc550157",
@@ -603,7 +601,9 @@
   "7a2def7ba2d067b6",
   "iranexports6billionoiltochinaamidussanctionsrelief",
   "17a8358b3e4ef2f3",
-  "chinacouldbeabouttoremoveoilsbiggestsafetynet"
+  "chinacouldbeabouttoremoveoilsbiggestsafetynet",
+  "a26ee5af6fd3f723",
+  "usmilitarylaunchesnewairstrikestoswiftlypunishiranforattacko"
  ],
  "releases_done": {},
  "last_digest": "2026-07-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-19",
-  "count": 9
+  "count": 11
  },
- "last_run": "2026-07-19T07:22:41.444125+03:00",
+ "last_run": "2026-07-19T07:25:46.101342+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
@@ -1048,6 +1048,10 @@
   {
    "d": "2026-07-19",
    "t": "Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again - CNBC"
+  },
+  {
+   "d": "2026-07-19",
+   "t": "U.S. military launches new airstrikes to 'swiftly punish' Iran for attack on Jordan that killed American troops - Fortune"
   }
  ]
 }
