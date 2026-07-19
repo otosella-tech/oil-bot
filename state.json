@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "3fcb1f17aa7d2117",
-  "goldontrackforbiggestweeklylossinsixasiranwarfansinflationwo",
   "04197e16548a1b5f",
   "nationalaveragegaspricenears4agallonaaasays",
   "d03230a907e42ebf",
@@ -603,7 +601,9 @@
   "a469f577ef3901f3",
   "chinasoilimportshaveplungedduringtheiranwarhowmuchwilltheyre",
   "947ab8a97778624c",
-  "crudeoilnaturalgaspricesbegintosurgeinalaskaasiraniantension"
+  "crudeoilnaturalgaspricesbegintosurgeinalaskaasiraniantension",
+  "3b48d4dd59bb5b73",
+  "oilvolatilityhistoricriseduetoglobaltension"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-19",
   "count": 37
  },
- "last_run": "2026-07-19T17:05:16.207301+03:00",
+ "last_run": "2026-07-19T17:11:30.937130+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
