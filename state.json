@@ -4,8 +4,6 @@
   "Brent": 87.73
  },
  "seen": [
-  "a2c3b2ca3c9f489e",
-  "currentpriceofoilasofjuly102026",
   "93796e454f6244e6",
   "oilrisesamidescalatingsupplydisruptionconcerns",
   "7c17c4b23b829f25",
@@ -603,7 +601,9 @@
   "64e7ba86f689b233",
   "theunitedstatesproducedmorecrudeoilthananyothercountryin2025",
   "788dc43e9b32f932",
-  "brentandwticrudeoilpricestarget100asanalystswarnofaforeverwa"
+  "brentandwticrudeoilpricestarget100asanalystswarnofaforeverwa",
+  "b1b1e433eea5b5bf",
+  "iranrushedout6blnofoilduringbrieftrucewithuswsj"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-19",
   "count": 19
  },
- "last_run": "2026-07-19T08:50:20.681654+03:00",
+ "last_run": "2026-07-19T08:55:16.445983+03:00",
  "sent_stories": [
   {
    "d": "2026-07-16",
