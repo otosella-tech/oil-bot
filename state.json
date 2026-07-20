@@ -1,15 +1,9 @@
 {
  "price_base": {
   "WTI": 80.37,
-  "Brent": 88.72
+  "Brent": 86.65
  },
  "seen": [
-  "8796ac90ca0b9737",
-  "dollarstrengthsparkslongliquidationincrudeoilfutures",
-  "758f7a016668d7dc",
-  "oileventuallycomingtodelta",
-  "6d81e0f402265564",
-  "canadaunveilsnewpipelinetocutrelianceonusoilroutes",
   "a2e77ca6b7cbf45b",
   "chevronwillexplorecreatingstraitofhormuzalternativeforiraqio",
   "98e4e03c873da965",
@@ -603,7 +597,13 @@
   "3c17d79f4c717f18",
   "crudeoiltops90asusiranclashesescalate",
   "043cdf7c2d764166",
-  "futuresriseamidirannewsbigearningsdue"
+  "futuresriseamidirannewsbigearningsdue",
+  "8ccfbd8157d895f9",
+  "usiranwargaspricesover4asubswarnseconomicgravitywillcatchcon",
+  "eece9df510f90393",
+  "oilgeopoliticalshockstightencrudeanddieselmarketsrabobank",
+  "ddc648618dacbb63",
+  "usgasolinetops4agallonasmiddleeastconflictdrivesoilmarketfea"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T14:40:18.455202+03:00",
+ "last_run": "2026-07-20T14:45:19.223439+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1056,6 +1056,10 @@
   {
    "d": "2026-07-20",
    "t": "Oil Climbed Above $90 Before Paring Gains as U.S.-Iran Attacks Escalate - WSJ"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "US-Iran war: Gas prices over $4 as UBS warns 'economic gravity' will catch consumers - Fortune"
   }
  ]
 }
