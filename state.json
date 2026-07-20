@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "3b48d4dd59bb5b73",
-  "oilvolatilityhistoricriseduetoglobaltension",
-  "9174f460a6c64fd1",
-  "iraqusink48dealsduringpmsvisitmainlyinoilsectordailysabah",
   "084a803ff6e8136c",
   "eiareports17millionbarreluscrudedrawasoiltraderswatchgeopoli",
   "0e645a94dcc5fb07",
@@ -603,7 +599,11 @@
   "b00efe651e61eb7b",
   "euwaivespenaltiesforoilandgasfirmsthatbreachmethanelaw",
   "96aed65562655966",
-  "iranshouthialliesdeclaremaritimeembargoagainstsaudiarabiaesc"
+  "iranshouthialliesdeclaremaritimeembargoagainstsaudiarabiaesc",
+  "30472e852187d6dd",
+  "wallstreetsteadiesasaistocksrecoversomeoflastweekssharplosse",
+  "3fde5ed465945c3c",
+  "iran2oiltankersinstraitofhormuzhaveexploded"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T18:40:19.460248+03:00",
+ "last_run": "2026-07-20T18:45:24.101134+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1164,6 +1164,10 @@
   {
    "d": "2026-07-20",
    "t": "Iran's Houthi allies declare maritime embargo against Saudi Arabia, escalating threat to oil market - CNBC"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Iran: 2 oil tankers in Strait of Hormuz have exploded - The Hill"
   }
  ]
 }
