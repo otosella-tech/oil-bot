@@ -4,12 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "1a22bcf3c2611c51",
-  "uscrudeoilgasolineinventoriesstillfalling",
-  "88230af402cb0831",
-  "oilpricesriseafterkuwaitsaysiranattackedwaterdesalinationand",
-  "0da92496db49c7a8",
-  "conocophillipsjoinsbpiniraqasbaghdadseeksmoreusenergyinvestm",
   "27c89992c7f7fd4c",
   "usiranconflictescalatesinternationaloilpricessurgeover3wticr",
   "c6f8aaa5d9a30774",
@@ -603,7 +597,13 @@
   "fdab31296ae1293f",
   "indiafxtraderseyeoilpricesrbidefencebondsbullsawaitindexdeci",
   "12ae9b73a5afbb4a",
-  "crudeoiltradingalertgeopoliticaltensionsdriveoilpricestogapu"
+  "crudeoiltradingalertgeopoliticaltensionsdriveoilpricestogapu",
+  "e81f57c423a4fb47",
+  "usexpandsiranstrikesastehranretaliatesacrossthegulf",
+  "bd241f7960015106",
+  "brentcrudeoiltops90asusiranintensifyattacks",
+  "a593a0faa29bd3af",
+  "todaysmarketrecapoilpricesriseabove90aisemiconductorscontinu"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-20",
-  "count": 11
+  "count": 12
  },
- "last_run": "2026-07-20T04:45:20.399263+03:00",
+ "last_run": "2026-07-20T04:55:16.857409+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
