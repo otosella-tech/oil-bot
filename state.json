@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "31c1b9ab081a1319",
-  "europewassupposedtorunoutofjetfuelbyjuneitdidnt",
-  "fdab31296ae1293f",
-  "indiafxtraderseyeoilpricesrbidefencebondsbullsawaitindexdeci",
   "12ae9b73a5afbb4a",
   "crudeoiltradingalertgeopoliticaltensionsdriveoilpricestogapu",
   "e81f57c423a4fb47",
@@ -603,7 +599,11 @@
   "60b07e922ddb8f3f",
   "crudeoilspendsmondaysellingthewarthenbuystherevengepost",
   "e3d239662b6f7759",
-  "yemenannouncesresumptionofoilexportsafternearly4yearsuspensi"
+  "yemenannouncesresumptionofoilexportsafternearly4yearsuspensi",
+  "4aadb47a7ce55e2b",
+  "caagainsuestrumpadministrationovercentralcoastoilpipelineper",
+  "a55d49abb1d67d32",
+  "usgaspriceshit4agallonasconflictwithiranescalates"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T23:40:20.125700+03:00",
+ "last_run": "2026-07-20T23:45:19.120652+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
