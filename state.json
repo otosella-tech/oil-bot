@@ -4,14 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "2a458899711ad12e",
-  "canadianoilrefineryshutdowncouldcrimpussupply",
-  "58f873ec5e5de382",
-  "usoilfirmssigndealswithiraqtodevelopalternativeshippingroute",
-  "a6bfaf6965879571",
-  "colombiasnewgovernmentpreparesfossilfuelcomeback",
-  "2985d17d66e7b1aa",
-  "oilsettlesuponrenewedusiranhostilitiesandthreatofredseaclosu",
   "f53749e2bd688184",
   "crudeoilforecastwticlosestheweekabove80dollars",
   "9e490e6875a67d7d",
@@ -603,7 +595,15 @@
   "fb4ac5e740dae5ed",
   "asiashareshesitantasoilclimbsearningsloombyreuters",
   "0cc9ff76de211dd1",
-  "iranoilexportssurgeafterblockadeeased"
+  "iranoilexportssurgeafterblockadeeased",
+  "c5d742004b098e76",
+  "gulfoilexportsbrieflyrecoveredtopre",
+  "0da067e62f5d365f",
+  "hdfcbankdragsindiansharesdownhigheroilalsoweighs",
+  "0b63bb3c7fe45699",
+  "escalationofusiranhostilitiespushescrudeoilsharplyhigher",
+  "b84cc524d9154fc4",
+  "stockmarketstumbleinearlytradedraggedbyhdfcbankspikeincrudeo"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-20",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-07-20T08:41:39.925866+03:00",
+ "last_run": "2026-07-20T08:48:21.037665+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -924,6 +924,10 @@
   {
    "d": "2026-07-20",
    "t": "Iran oil exports surge after blockade eased - 동아일보"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Gulf Oil Exports Briefly Recovered to Pre-War Levels Before Latest Escalation"
   }
  ]
 }
