@@ -4,8 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "9e490e6875a67d7d",
-  "15moiltheftconspiracy6defendantspleadguiltyintexasnewmexicoc",
   "6f2b532c5b2f5ee1",
   "westernoilcompaniesseefantasticfutureiniraqsignagreements",
   "1b9c70e300b42284",
@@ -603,7 +601,9 @@
   "b84cc524d9154fc4",
   "stockmarketstumbleinearlytradedraggedbyhdfcbankspikeincrudeo",
   "a6bfaf6965879571",
-  "colombiasnewgovernmentpreparesfossilfuelcomeback"
+  "colombiasnewgovernmentpreparesfossilfuelcomeback",
+  "bbb50148d8ff1615",
+  "gulfoilexportsbrieflyrecoveredtoprewarlevelsbeforelatestesca"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-20",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-07-20T08:50:20.870796+03:00",
+ "last_run": "2026-07-20T08:56:44.591175+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -928,6 +928,10 @@
   {
    "d": "2026-07-20",
    "t": "Gulf Oil Exports Briefly Recovered to Pre-War Levels Before Latest Escalation"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Gulf Oil Exports Briefly Recovered to Pre-War Levels Before Latest Escalation - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
