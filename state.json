@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "89b8c34c52c8687f",
-  "wticrudeoilholdsabove80amidmiddleeaststrain",
   "bf96172cf66e7a36",
   "caspianpipelineconsortiumoilloadingssuspendedafterdroneattac",
   "efb74c7222fde02f",
@@ -603,7 +601,9 @@
   "eefc668f5af0f67a",
   "crudeoilpriceswhipsawonirandiplomacyhopeshouthithreat",
   "cbaf66b7214ccbdd",
-  "pesofallsasusiranclashespushupoil"
+  "pesofallsasusiranclashespushupoil",
+  "6be2ea7da972531f",
+  "theoilshockisntover"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T19:20:20.928208+03:00",
+ "last_run": "2026-07-20T19:25:15.124772+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
