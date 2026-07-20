@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "fe2fd3dae644b6db",
-  "warstariffsandoiltensionswhynothingcanstoptheglobaleconomyfo",
-  "67eee3ef570194ee",
-  "crudeoilpriceshavefallentoprewarlevelsbutgaspriceshaventwhat",
   "e026aed8eaad979b",
   "americashormuzbrinkmanshipisworseningaglobalfuelcrunch",
   "322471d6ec317abc",
@@ -603,7 +599,11 @@
   "ea5cccea43036016",
   "cpcsuspendsoilloadingsfollowingattackontankerafterbriefresum",
   "a042d98fb2e27b54",
-  "oileasesafteriransaysuscontactscontinuethroughmediatorsal"
+  "oileasesafteriransaysuscontactscontinuethroughmediatorsal",
+  "2d744bf969706e43",
+  "top20companiesintheglobalcedarwoodoilmarketsize",
+  "fe2ffde62e4d51b3",
+  "straitofhormuzsharplyraisesoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T12:50:17.036182+03:00",
+ "last_run": "2026-07-20T12:55:14.974423+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1004,6 +1004,10 @@
   {
    "d": "2026-07-20",
    "t": "CPC suspends oil loadings following attack on tanker, after brief resumption - Reuters"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Strait of Hormuz sharply raises oil prices - Inspenet"
   }
  ]
 }
