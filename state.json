@@ -4,10 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "f7deddcbc903324b",
-  "crudeoilgoldforecastkeylevelstowatch",
-  "967565803570126a",
-  "chineseshipbuilderssnapupmoresupertankerordersamidiranwartur",
   "3595e47423c93fdc",
   "thethreattosaudiarabiasmainoilexportrouteisgrowing",
   "e27de553c9d08d38",
@@ -603,7 +599,11 @@
   "2da7d1c9a3aa6c67",
   "oilpricesjump3asusiranconflictintensifiesbrentcrudetops90per",
   "e7492130c2173b73",
-  "trump"
+  "trump",
+  "1fb98eac0e0f81b9",
+  "asusiranfightingliftsgaspricesbigoilbanks30millionanhourinex",
+  "e02fcc1425eb0bfc",
+  "oilpricetodayjuly20crudeoiljumps3crosses90asusandiranexchang"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-20",
-  "count": 14
+  "count": 15
  },
- "last_run": "2026-07-20T05:10:20.590381+03:00",
+ "last_run": "2026-07-20T05:15:21.448452+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
