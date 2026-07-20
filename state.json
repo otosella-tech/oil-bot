@@ -4,12 +4,6 @@
   "Brent": 86.65
  },
  "seen": [
-  "50557dd53aaae38d",
-  "whatisamicrogridhowtheyworkandwhytheyresuddenlyeverywhere",
-  "820b7bb68bdecbd0",
-  "iranrushedout6billionofoilduringbrieftrucewithus",
-  "7ee1643283953411",
-  "whyiranianhouthithreatstoredseashippingmattermoreforoilnow",
   "95c9c54b0c52589d",
   "internationaloilfirmshaltproductioniniraqskurdistanamidusira",
   "0c4e7c87f5d9f8be",
@@ -603,7 +597,13 @@
   "66b95210d70d0f55",
   "floridagaspricesincreasedby19centslastweek",
   "3099b36b87b50134",
-  "texasgaspricesjump13centsinaweekascrudeoilnears80perbarrelho"
+  "texasgaspricesjump13centsinaweekascrudeoilnears80perbarrelho",
+  "383a541b4934af4b",
+  "oilrallycoolsasiranhintsdiplomacywithusisstillalive",
+  "5e8c19b9173f046b",
+  "canadaunveilsnewpipelinetocutrelianceonusoilroutes",
+  "89aad2c6802b7c51",
+  "uscrudeoilfallsbelow70resuminglossesafterattackoncargoshipne"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T15:10:18.245380+03:00",
+ "last_run": "2026-07-20T15:15:17.927178+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1068,6 +1068,14 @@
   {
    "d": "2026-07-20",
    "t": "India’s Crude Oil Import Bill Soars 60% as Iran War Drives Prices Higher"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman - CNBC"
   }
  ]
 }
