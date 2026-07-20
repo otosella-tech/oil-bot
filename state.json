@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "6635e0eeb7a39fae",
-  "oilnewscrudeoilfuturesgaphigherashormuztrafficdriesup",
   "6b28bdd99f7651da",
   "usexportsofcrudeoilandpetroleumproductsreachedrecordinapril",
   "a03723848444e3e7",
@@ -603,7 +601,9 @@
   "a442509cd6f63536",
   "wallstreetholdssteadierasaistocksrecoversomeoflastweekssharp",
   "2417f6c54551d2ae",
-  "whytheeustillcantagreeonitsnextroundofrussiasanctions"
+  "whytheeustillcantagreeonitsnextroundofrussiasanctions",
+  "bb3e080156957a29",
+  "ashouthisdeclareredseablockadeonsaudiarabiaoilmarketsbracefo"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T23:00:26.526763+03:00",
+ "last_run": "2026-07-20T23:05:17.165967+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
