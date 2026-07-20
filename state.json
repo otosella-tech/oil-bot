@@ -4,8 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "4b964838025e56e2",
-  "oilfuturescrudeextendsfirmweeklygainsashostilitiescontinue",
   "e81f57c423a4fb47",
   "usexpandsiranstrikesastehranretaliatesacrossthegulf",
   "1a22bcf3c2611c51",
@@ -603,7 +601,9 @@
   "e6eb0ccb86f09010",
   "tradingkeydailymarketbriefingoilpricesriseabove90aisemicondu",
   "31c1b9ab081a1319",
-  "europewassupposedtorunoutofjetfuelbyjuneitdidnt"
+  "europewassupposedtorunoutofjetfuelbyjuneitdidnt",
+  "fdab31296ae1293f",
+  "indiafxtraderseyeoilpricesrbidefencebondsbullsawaitindexdeci"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 11
  },
- "last_run": "2026-07-20T04:35:17.856683+03:00",
+ "last_run": "2026-07-20T04:40:27.967852+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
