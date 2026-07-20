@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "936cf58a1a213f1a",
-  "videotheoilcrisismaydependonchinahereswhy",
   "64e7ba86f689b233",
   "theunitedstatesproducedmorecrudeoilthananyothercountryin2025",
   "788dc43e9b32f932",
@@ -603,7 +601,9 @@
   "77aa271a03d3e324",
   "europefacesdieselcrunchasinventoriesheadtowardmultiyearlows",
   "97a8715919d94f59",
-  "currentpriceofoilasofjuly132026"
+  "currentpriceofoilasofjuly132026",
+  "c2e4fd4176765b13",
+  "iranshouthialliesinyemendeclaremaritimeembargoagainstsaudiar"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T16:20:20.011538+03:00",
+ "last_run": "2026-07-20T16:25:16.823634+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1116,6 +1116,10 @@
   {
    "d": "2026-07-20",
    "t": "Europe Faces Diesel Crunch as Inventories Head Toward Multi-Year Lows - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Iran's Houthi allies in Yemen declare maritime embargo against Saudi Arabia - CNBC"
   }
  ]
 }
