@@ -4,8 +4,6 @@
   "Brent": 86.65
  },
  "seen": [
-  "eba33b889d735322",
-  "russiaswariskillingblackseaecosystemsoukrainecripplesitsshad",
   "3099b36b87b50134",
   "texasgaspricesjump13centsinaweekascrudeoilnears80perbarrelho",
   "2dada26666c484d6",
@@ -603,7 +601,9 @@
   "4968e9e7b13fd91e",
   "usiranwarpushesoilpricesabove90usgasolineabove4pergallonagai",
   "75dee91d6c98b88c",
-  "crudeoilfuturesrise25onfirmdemandglobalcues"
+  "crudeoilfuturesrise25onfirmdemandglobalcues",
+  "e36b92b7f3b9d03f",
+  "indiascrudeoilimportbillsoars60asiranwardrivespriceshigher"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T14:55:13.582907+03:00",
+ "last_run": "2026-07-20T15:00:30.247084+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1064,6 +1064,10 @@
   {
    "d": "2026-07-20",
    "t": "US-Iran war pushes oil prices above $90, US gasoline above $4 per gallon again - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "India’s Crude Oil Import Bill Soars 60% as Iran War Drives Prices Higher"
   }
  ]
 }
