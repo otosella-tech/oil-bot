@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "7743ee2c72b4ac4d",
-  "sbuhitsshadowfleettanker3oildepotsinrussia",
   "ce572e23c5d1fbde",
   "iranattackskuwaitoilandwaterplantstopressureusafterinfrastru",
   "ea3352ea205baf6e",
@@ -603,7 +601,9 @@
   "70c798c48f6c15d6",
   "us",
   "7c17c4b23b829f25",
-  "currentpriceofoilasofjuly92026"
+  "currentpriceofoilasofjuly92026",
+  "a6276f5d75629e3d",
+  "nationalaverageforgasclimbsbackto4agallon"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T18:05:17.087689+03:00",
+ "last_run": "2026-07-20T18:10:23.104858+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
