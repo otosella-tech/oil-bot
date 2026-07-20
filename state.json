@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "4d941d776cb6c46f",
-  "q1earningswestasiatensionscrudeoiltodrivemarketmovementthisw",
   "12b32178f2f83026",
   "ieaurgesrestorationofstraitofhormuzoilflowstosafeguardenergy",
   "fad48b190a5a5692",
@@ -603,7 +601,9 @@
   "a90ce049e9907e25",
   "oilelectriccashfuelstexasgopcampaigns",
   "64e7ba86f689b233",
-  "theunitedstatesproducedmorecrudeoilthananyothercountryin2025"
+  "theunitedstatesproducedmorecrudeoilthananyothercountryin2025",
+  "a2c3b2ca3c9f489e",
+  "currentpriceofoilasofjuly102026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T16:35:15.335505+03:00",
+ "last_run": "2026-07-20T16:40:23.691823+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
