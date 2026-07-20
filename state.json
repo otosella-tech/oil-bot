@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "9207e0166eb07edc",
-  "brentcrudejumps46whatsdrivingoilpriceshigher",
-  "6bdd66d24615df81",
-  "iraqussignoilagreementsduringpmsvisit",
   "4d40ceb9db3dbe36",
   "chinasjunerefinedoilproductexportsdrop18butrisefrommaythechi",
   "ba0a18081e38d6bf",
@@ -603,7 +599,11 @@
   "5e87d3e17db05a0d",
   "houthisdeclarenavalblockadeonsaudiarabiaasredseacrisisdeepen",
   "30688f5f9d612392",
-  "oilpricesturnlowerafteriransaysustalkscouldbepursuedbasedonn"
+  "oilpricesturnlowerafteriransaysustalkscouldbepursuedbasedonn",
+  "efb74c7222fde02f",
+  "currentpriceofoilasofjuly172026",
+  "b5bfa4a763694e09",
+  "sugarpricesslipondollarstrengthandcrudeoilweakness"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T19:30:24.238329+03:00",
+ "last_run": "2026-07-20T19:35:17.840384+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
