@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "f00ad1be50fad075",
-  "ventureglobalvgsoarsasgeopoliticaltensionsfuelnaturalgasrall",
   "1b66e8cc0706319c",
   "oilpricescross90abarrelasusiranconflictwidens",
   "14941f83716940f6",
@@ -603,7 +601,9 @@
   "2c45b5b995ca0a9e",
   "russiasfinancialcrisiscastsashadowovercentralasiasnuclearfut",
   "9ec28b68bf8a8144",
-  "adpemploymentdataandoilinventoriesamongeconomicdataduetuesda"
+  "adpemploymentdataandoilinventoriesamongeconomicdataduetuesda",
+  "9b9cd24d137fd3cd",
+  "nygaspricesclimbasoilmarketuncertaintypushescostshigher"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T21:10:25.369581+03:00",
+ "last_run": "2026-07-20T21:15:18.782885+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
