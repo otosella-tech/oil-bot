@@ -4,8 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "325ffe51fa92f4c8",
-  "goldmansendsafreshwarningtotheoilmarket",
   "0b63bb3c7fe45699",
   "escalationofusiranhostilitiespushescrudeoilsharplyhigher",
   "98e85fdbcaf2a638",
@@ -603,7 +601,9 @@
   "4c5feb93ee2d2cf9",
   "chinasjunefueloilexportsforbunkersup55frommaydatashows",
   "3c452804e1bc627a",
-  "oilbackabove90asiranhitstankers"
+  "oilbackabove90asiranhitstankers",
+  "921a71d2ef19d535",
+  "floridadriversseesharpspikeingasprices"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 33
  },
- "last_run": "2026-07-20T08:27:16.111484+03:00",
+ "last_run": "2026-07-20T08:33:00.692749+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
