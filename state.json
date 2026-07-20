@@ -4,8 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "4236c98f76078016",
-  "whyoilpricesareabouttosurge",
   "f9a81fb1f36d3d4a",
   "texasupstreamenergysectorpostsjunejobgains",
   "b3d69ee6320bbced",
@@ -603,7 +601,9 @@
   "5211c996409d9966",
   "usstrikesiranforninthdayiransaystwooiltankersinstraitofhormu",
   "40b9c4c71853ca59",
-  "indiaproposesstrictervehicleemissionrulestocutoilconsumption"
+  "indiaproposesstrictervehicleemissionrulestocutoilconsumption",
+  "09ef400ca0c62c80",
+  "sensexfallsonhigheroilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 31
  },
- "last_run": "2026-07-20T08:10:19.802835+03:00",
+ "last_run": "2026-07-20T08:17:23.310146+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
