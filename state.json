@@ -4,8 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "b3d69ee6320bbced",
-  "iraqandsyriasignagreementtorestoreoilpipelinethatwouldprovid",
   "325ffe51fa92f4c8",
   "goldmansendsafreshwarningtotheoilmarket",
   "0b63bb3c7fe45699",
@@ -603,7 +601,9 @@
   "09ef400ca0c62c80",
   "sensexfallsonhigheroilprices",
   "4c5feb93ee2d2cf9",
-  "chinasjunefueloilexportsforbunkersup55frommaydatashows"
+  "chinasjunefueloilexportsforbunkersup55frommaydatashows",
+  "3c452804e1bc627a",
+  "oilbackabove90asiranhitstankers"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-20",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-07-20T08:20:20.033697+03:00",
+ "last_run": "2026-07-20T08:27:16.111484+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -916,6 +916,10 @@
   {
    "d": "2026-07-20",
    "t": "US strikes Iran for ninth day; Iran says two oil tankers in Strait of Hormuz exploded and immobilised - Reuters"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Oil back above $90 as Iran hits tankers - Financial Times"
   }
  ]
 }
