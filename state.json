@@ -4,12 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "2330f12eadf56af2",
-  "oilpricesup170726",
-  "9153d560428888df",
-  "wticrudeoilfuturesclimbedtoafiveweekhigh",
-  "e8792ac02500dc28",
-  "burnhamtoannounceplansfornewnorthseaoilandgasdrilling",
   "5bc538ca6fbdc0b6",
   "currentpriceofoilasofjuly152026",
   "3116437b3510c5fe",
@@ -603,7 +597,13 @@
   "48edf0d5c5277ed2",
   "currentpriceofoilasofjuly82026",
   "03deb73b69eb56c1",
-  "blmseeksinputfornovember2026saleofoilandgasleasesinnewmexico"
+  "blmseeksinputfornovember2026saleofoilandgasleasesinnewmexico",
+  "c108c1b7d38d84c7",
+  "gaspriceuptostartnewweekoilnears85perbarrel",
+  "e3cd0ce68bc0abfb",
+  "oilpricesjumpafterausofficialsayswashingtonisplanningforawid",
+  "c8a6b1b0d9c54498",
+  "crudeoilfuturesriseonspotdemand"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-20",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-07-20T11:55:18.454720+03:00",
+ "last_run": "2026-07-20T12:00:48.842939+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -980,6 +980,10 @@
   {
    "d": "2026-07-20",
    "t": "Oil prices surpass 90 dollars a barrel after fresh attacks in US-Iran war - Yahoo News Canada"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Oil prices jump after a US official says Washington is planning for a wider war with Iran - investingLive"
   }
  ]
 }
