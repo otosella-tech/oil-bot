@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "e026aed8eaad979b",
-  "americashormuzbrinkmanshipisworseningaglobalfuelcrunch",
-  "322471d6ec317abc",
-  "usfirmssign60bindealswithiraqthearkansasdemocrat",
   "f77e8002ee827b6e",
   "syriaandiraqsigntwomemorandaofunderstandingtorevivekirkukban",
   "e4bc44a85fcf2017",
@@ -603,7 +599,11 @@
   "2d744bf969706e43",
   "top20companiesintheglobalcedarwoodoilmarketsize",
   "fe2ffde62e4d51b3",
-  "straitofhormuzsharplyraisesoilprices"
+  "straitofhormuzsharplyraisesoilprices",
+  "5b28ae8d462326ca",
+  "oilreversesasiraniancommentsinterpretedaschanceforfreshnegot",
+  "bcd08af6e81f3cd6",
+  "oiltouches90asiranhitstankers"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T12:55:14.974423+03:00",
+ "last_run": "2026-07-20T13:00:32.413659+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1008,6 +1008,14 @@
   {
    "d": "2026-07-20",
    "t": "Strait of Hormuz sharply raises oil prices - Inspenet"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Oil reverses as Iranian comments interpreted as chance for fresh negotiations - Reuters"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Oil touches $90 as Iran hits tankers - Financial Times"
   }
  ]
 }
