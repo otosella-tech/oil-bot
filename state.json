@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "ce572e23c5d1fbde",
-  "iranattackskuwaitoilandwaterplantstopressureusafterinfrastru",
   "ea3352ea205baf6e",
   "zelenskyysaysukrainestruck3oildepotsfuelfacilityinrussiassta",
   "7479ceaf855b3fc6",
@@ -603,7 +601,9 @@
   "7c17c4b23b829f25",
   "currentpriceofoilasofjuly92026",
   "a6276f5d75629e3d",
-  "nationalaverageforgasclimbsbackto4agallon"
+  "nationalaverageforgasclimbsbackto4agallon",
+  "ced0d6f96c3bb688",
+  "usaveragegaspricerisesabove4agallonagain"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T18:10:23.104858+03:00",
+ "last_run": "2026-07-20T18:15:19.846118+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
