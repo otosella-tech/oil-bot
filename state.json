@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "b42812b328a024e6",
-  "iranboostscrudeexportsduringtrucechannelsoiltochinachosunbiz",
   "59fe1555723b045f",
   "uscrudeoilfuturesarepinballingbetween7790and8125traderswaitf",
   "55264311a2506962",
@@ -603,7 +601,9 @@
   "69957df8a3a2fd4e",
   "yourmondayjuly20guidefivethingstodointheoilcity",
   "6b126b6586282b0b",
-  "magnoliaoilgastobuywildfireenergyin406billiondeal"
+  "magnoliaoilgastobuywildfireenergyin406billiondeal",
+  "c185996bfe94cf91",
+  "oilsteadiesashopesofrenewedusirannegotiationsoffsethouthithr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T15:35:16.930705+03:00",
+ "last_run": "2026-07-20T15:40:20.450746+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1092,6 +1092,10 @@
   {
    "d": "2026-07-20",
    "t": "Drone attacks tanker near Russia's Novorossiysk, oil loading suspended - Українська правда"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Oil steadies as hopes of renewed US-Iran negotiations offset Houthi threat - Reuters"
   }
  ]
 }
