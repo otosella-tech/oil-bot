@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "e6ac4fc1142862b4",
-  "revolutionaryguardnotasingledropofoilorgaswillpassthroughthe",
   "d8af5ebcaed78210",
   "theworldislookingaheadtowardapostiranoilmarketthatoffsetsmos",
   "c4387ca305a79dbf",
@@ -603,7 +601,9 @@
   "e8621a57105ddaa0",
   "yemensiranianbackedhouthissaytheywillblocksaudishippingatred",
   "5a7ff0826ce5a58c",
-  "gaspricesrisingagainasiranwarescalates"
+  "gaspricesrisingagainasiranwarescalates",
+  "baba70918f39bab0",
+  "cpcoilloadingssuspendedagainafterdroneattackontankernelsa"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T20:10:19.262452+03:00",
+ "last_run": "2026-07-20T20:15:19.479156+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1188,6 +1188,10 @@
   {
    "d": "2026-07-20",
    "t": "Gas Prices Rising Again As Iran War Escalates - iHeart"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "CPC oil loadings suspended again after drone attack on tanker Nelsa - Reuters"
   }
  ]
 }
