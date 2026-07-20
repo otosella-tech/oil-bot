@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "b6642f8017377950",
-  "energystoragekeytoavoidingthenextenergycrisis",
   "d01e1d85f29ec316",
   "hormuzclosureexposesafricasenergydependenceoniranandchina",
   "0ba24294ac8cb155",
@@ -603,7 +601,9 @@
   "f23b41755ba73d45",
   "freshthreattoglobaloilsupplysaudiarabiascrudeexportsatriskas",
   "bc5a72342a95c48d",
-  "newukprimeministersettobacknorthseaoilandgasprojects"
+  "newukprimeministersettobacknorthseaoilandgasprojects",
+  "837606d9f988e6a2",
+  "oiltankerappearstohaltinhormuzafterirantargetsvessels"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T19:00:32.433527+03:00",
+ "last_run": "2026-07-20T19:05:15.246021+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1168,6 +1168,10 @@
   {
    "d": "2026-07-20",
    "t": "Iran: 2 oil tankers in Strait of Hormuz have exploded - The Hill"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Oil Tanker Appears to Halt in Hormuz After Iran Targets Vessels - gCaptain"
   }
  ]
 }
