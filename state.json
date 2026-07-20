@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "f3dd8c543d385f50",
-  "indiaboughtrecord514billionworthofrussiancrudeoilinjune",
-  "1c7d3e174f4e2518",
-  "weeklyforexforecastdollaryengoldandoilinfocus",
   "7743ee2c72b4ac4d",
   "sbuhitsshadowfleettanker3oildepotsinrussia",
   "ce572e23c5d1fbde",
@@ -603,7 +599,11 @@
   "924b01b3636c0d8a",
   "campaignerfightsoildrillingplansasecondtime",
   "5fda26174a4c5ba3",
-  "hormuzdisruptionsindiascrudeoilimportsfromrussiaremainnearal"
+  "hormuzdisruptionsindiascrudeoilimportsfromrussiaremainnearal",
+  "70c798c48f6c15d6",
+  "us",
+  "7c17c4b23b829f25",
+  "currentpriceofoilasofjuly92026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T17:55:18.271854+03:00",
+ "last_run": "2026-07-20T18:00:32.167334+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1152,6 +1152,10 @@
   {
    "d": "2026-07-20",
    "t": "Hormuz disruptions: India’s crude oil imports from Russia remain near all-time high in July despite no sa - The Times of India"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "U.S.-Iran Conflict Enters Dangerous New Phase With Fresh Missile Exchanges"
   }
  ]
 }
