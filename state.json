@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "65c8fb2989136370",
-  "chinasnextmovemaydecidewhetheroilpricessoar",
-  "d2a819813dcc911f",
-  "oilpriceseaseafteriransaysmilitaryoperationsagainstisraelare",
   "d87c14c3f9716653",
   "opeccutsdemandforecastagainastheoilmarketstartslookingpastho",
   "bcb318ad5e9fe5b9",
@@ -603,7 +599,11 @@
   "020743ea6476e873",
   "presidenttrumpjustreimposedtheiranblockadehereswhatthatmeans",
   "690c8159f52bcae9",
-  "crudeoilmarkethasalreadyuseditssparetire"
+  "crudeoilmarkethasalreadyuseditssparetire",
+  "4a8930d76fd83bf0",
+  "oileasesafteriransaysuscontactscontinuethroughmediators",
+  "d251723ddf0e35a4",
+  "ryanairprofitstumbleasjetfuelcostssoar"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T12:30:21.257824+03:00",
+ "last_run": "2026-07-20T12:35:15.446087+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -992,6 +992,10 @@
   {
    "d": "2026-07-20",
    "t": "Oil reverses as Iran raises hopes of fresh negotiations - Reuters"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Ryanair profits tumble as jet fuel costs soar - BBC"
   }
  ]
 }
