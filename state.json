@@ -4,10 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "3a87d069094a636a",
-  "currentpriceofoilasofjuly162026",
-  "71c97ab8e367a4a5",
-  "oiltankersfaceworstcasescenarioinhormuzasiranstepsupattackso",
   "40b9c4c71853ca59",
   "indiaproposesstrictervehicleemissionrulestocutoilconsumption",
   "bb398064e02254da",
@@ -603,7 +599,11 @@
   "b35723982884bac5",
   "gaspricesarecreepingcloseto4afteroilslatestsurge",
   "5fa568950962cf06",
-  "howlongcanoilmarketsabsorbthehormuzshock"
+  "howlongcanoilmarketsabsorbthehormuzshock",
+  "0201444ad534b446",
+  "crudeoilat100perbarrelisbackontheagendakpler",
+  "f8337ac16b3d8131",
+  "oilreboundseenpressuringasiancurrenciesmufgsaysindianrupeehi"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 23
  },
- "last_run": "2026-07-20T07:45:17.639338+03:00",
+ "last_run": "2026-07-20T07:50:18.397109+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
