@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "94f72533f1ee64f4",
-  "usiranconflictreignitesoilmarketpanicdieselsurgespast5hedgef",
-  "97a8715919d94f59",
-  "currentpriceofoilasofjuly132026",
   "46521fb4bfa60d1f",
   "didiransecretlyship70millionbarrelsofoiltochinareportclaims6",
   "bf6f65ceb87b9394",
@@ -603,7 +599,11 @@
   "2213d369ed24ea85",
   "5thingstoknowbeforethestockmarketopensonmonday",
   "06b9e89e08b0126e",
-  "oilspillweaksciencefifthcircuittightenscausationinruffinvbp"
+  "oilspillweaksciencefifthcircuittightenscausationinruffinvbp",
+  "1395c00297610424",
+  "europefacesdieselcrunchasinventoriesheadtowardmulti",
+  "2be8ff283df95835",
+  "iranshouthialliesinyemendeclaremaritimeembargoofsaudiarabia"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T16:10:17.695089+03:00",
+ "last_run": "2026-07-20T16:15:21.911920+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1100,6 +1100,14 @@
   {
    "d": "2026-07-20",
    "t": "Oil touches $90 after Iran hits tankers - Financial Times"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Europe Faces Diesel Crunch as Inventories Head Toward Multi-Year Lows"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Iran's Houthi allies in Yemen declare maritime embargo of Saudi Arabia - CNBC"
   }
  ]
 }
