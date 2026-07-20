@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "a03723848444e3e7",
-  "brentcrudeoilpricesextendrallyabove90asmiddleeastconflictint",
   "e6eb0ccb86f09010",
   "tradingkeydailymarketbriefingoilpricesriseabove90aisemicondu",
   "31c1b9ab081a1319",
@@ -603,7 +601,9 @@
   "bb3e080156957a29",
   "ashouthisdeclareredseablockadeonsaudiarabiaoilmarketsbracefo",
   "34ab33e91d8322cd",
-  "gaspricesclimbabove350inaustinandsanantoniosanantonioexpress"
+  "gaspricesclimbabove350inaustinandsanantoniosanantonioexpress",
+  "60b07e922ddb8f3f",
+  "crudeoilspendsmondaysellingthewarthenbuystherevengepost"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T23:25:16.325266+03:00",
+ "last_run": "2026-07-20T23:30:22.845490+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
