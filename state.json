@@ -4,12 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "328cae0bc9ee9e06",
-  "whattoexpectaftertheusreimposesnavalblockadeoniransports",
-  "1b8a2096fb9ada1a",
-  "brentcrudehits88asiranextendswarfromhormuztokuwaitdrinkingwa",
-  "ab6502656d8c9d5b",
-  "burnhamriskslabourbacklashifhereversesbanonnewoilandgasdrill",
   "2ee01ac05a744f7a",
   "usscientiststapseawatertobreakchinasrareearthmonopoly",
   "16645eff13523e14",
@@ -603,7 +597,13 @@
   "93aad462ad1abe84",
   "oilcushionthinsasuscrudesupplyfallsto45yearlow",
   "c06c95e771962f7a",
-  "rupeehitstwomonthlowoilpricesremainfocalpoint"
+  "rupeehitstwomonthlowoilpricesremainfocalpoint",
+  "eefb3b3a94fe4a77",
+  "whyoilpriceshaventgonecrazydespite5monthsofusiranwar",
+  "68cf9d81f1e23882",
+  "ryanairprofitsdropasiranwarputsoffpassengersandliftsfuelcost",
+  "832e651f19a7404b",
+  "crudeoilpriceshit90ashormuzcrisisdeepens"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T13:55:14.722019+03:00",
+ "last_run": "2026-07-20T14:00:31.486831+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1036,6 +1036,18 @@
   {
    "d": "2026-07-20",
    "t": "European shares pare losses to trade flat as Iran diplomatic hopes cool oil - Investing.com"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs - BBC"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Crude oil prices hit $90 as Hormuz crisis deepens - Business News Nigeria"
   }
  ]
 }
