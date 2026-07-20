@@ -4,8 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "3f992f39f6a5f9d2",
-  "yourgasbilljustgotmoreexpensiveintexas",
   "59ae5de057e4b8a4",
   "oilrisesmorethan2asusirantensionsremainhigh",
   "2dc3d8ce32fd7b73",
@@ -603,7 +601,9 @@
   "c8711f3693a79c0d",
   "brentoiltops90asusiranintensifyattacksinmiddleeast",
   "8c80698419ac4b39",
-  "oilpricessurgebrentcrosses90asusiranconflictworsens"
+  "oilpricessurgebrentcrosses90asusiranconflictworsens",
+  "ebf0d239c9f3d858",
+  "escalatingusiranconflictsendsoilpriceshigherasworldbracesfor"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 9
  },
- "last_run": "2026-07-20T03:25:19.467399+03:00",
+ "last_run": "2026-07-20T03:30:27.380313+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
