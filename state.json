@@ -4,8 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "bd4570a30d37148b",
-  "aistockssellofffurtherasoilpriceskeepclimbing",
   "020db1baa8605d2e",
   "bpconocophillipsjoinononeofiraqsoldestoilfields",
   "157420e2f6010440",
@@ -603,7 +601,9 @@
   "6635e0eeb7a39fae",
   "oilnewscrudeoilfuturesgaphigherashormuztrafficdriesup",
   "6b28bdd99f7651da",
-  "usexportsofcrudeoilandpetroleumproductsreachedrecordinapril"
+  "usexportsofcrudeoilandpetroleumproductsreachedrecordinapril",
+  "a03723848444e3e7",
+  "brentcrudeoilpricesextendrallyabove90asmiddleeastconflictint"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 11
  },
- "last_run": "2026-07-20T04:05:20.323132+03:00",
+ "last_run": "2026-07-20T04:20:24.262058+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
