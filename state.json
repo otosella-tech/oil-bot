@@ -4,10 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "1b9c70e300b42284",
-  "theselloffforaistarsworsenswhileoilpriceskeepjumping",
-  "15c45a9563faa45c",
-  "aistockskeepfallingwhileoilpriceskeepclimbing",
   "4853fbea856223a2",
   "refineryshortagescreatenewfuelcrisis",
   "61c6c3ac615534ef",
@@ -603,7 +599,11 @@
   "bbb50148d8ff1615",
   "gulfoilexportsbrieflyrecoveredtoprewarlevelsbeforelatestesca",
   "60367744e5901a71",
-  "hormuzcrisisimpactindiascrudeimportssurge60inapriljunenetoil"
+  "hormuzcrisisimpactindiascrudeimportssurge60inapriljunenetoil",
+  "bab66d1e2d22ac0b",
+  "brentrisesabove90onescalatingusiranconflicthormuzsupplyconce",
+  "282374fec1e93eae",
+  "tickerparamountagreesonmergerdelayusoilfirmsseeknewgulftrade"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-20",
-  "count": 41
+  "count": 42
  },
- "last_run": "2026-07-20T09:05:17.067272+03:00",
+ "last_run": "2026-07-20T09:11:55.225308+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
