@@ -4,10 +4,6 @@
   "Brent": 86.65
  },
  "seen": [
-  "e32931ce20ee8e36",
-  "europesheatwaveisbecominganenergycrisis",
-  "cc6c5d1cb65a1d15",
-  "westmorelandhazmatcalledafterreportedoilspillinalleghenyrive",
   "6cd2624861839e14",
   "thestreetsaysdiamondbackenergyisworth230itsownmidcycleoilpri",
   "d6585713998d7131",
@@ -603,7 +599,11 @@
   "5217af345ab210cb",
   "oilpricegainseaseafteriranpointstomediational",
   "6dded55e9a800d43",
-  "forecastupdateforcrudeoil20072026"
+  "forecastupdateforcrudeoil20072026",
+  "e19f2b1f03a998c4",
+  "gaspriceshitaverageof4agallonamidrenewedusiranattacks",
+  "f75c913fefb71ff3",
+  "caspianpipelinewarnsofoilflowdisruptionsafterdroneattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T15:20:18.206895+03:00",
+ "last_run": "2026-07-20T15:25:16.805604+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1080,6 +1080,14 @@
   {
    "d": "2026-07-20",
    "t": "Iran Rushed Out $6 Billion of Oil During Brief Truce With U.S. - WSJ"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Gas prices hit average of $4 a gallon amid renewed US-Iran attacks - KPAX News"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Caspian Pipeline warns of oil flow disruptions after drone attacks - Crypto Briefing"
   }
  ]
 }
