@@ -4,12 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "2ee01ac05a744f7a",
-  "usscientiststapseawatertobreakchinasrareearthmonopoly",
-  "16645eff13523e14",
-  "sixdefendantspleadguiltytoconspiracytostealcrudeoilintheperm",
-  "b387ec200befc39b",
-  "chinascrudeoilimportscrashtodecadelowashormuzcrisisbites",
   "ed3b457110e8bfca",
   "uscrudeoilproductinventoriesfallevenashormuztrafficbeginstof",
   "8b3347e24c3e5f82",
@@ -603,7 +597,13 @@
   "68cf9d81f1e23882",
   "ryanairprofitsdropasiranwarputsoffpassengersandliftsfuelcost",
   "832e651f19a7404b",
-  "crudeoilpriceshit90ashormuzcrisisdeepens"
+  "crudeoilpriceshit90ashormuzcrisisdeepens",
+  "73699d76091eb56a",
+  "usexpandsiranoffensiveasdiplomatsclaimtalksongoing",
+  "4fc9a54f42b7bf98",
+  "oilhits90perbarrelasusiranwarescalates",
+  "67eee3ef570194ee",
+  "crudeoilpriceshavefallentoprewarlevelsbutgaspriceshaventwhat"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T14:00:31.486831+03:00",
+ "last_run": "2026-07-20T14:05:16.344151+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1048,6 +1048,10 @@
   {
    "d": "2026-07-20",
    "t": "Crude oil prices hit $90 as Hormuz crisis deepens - Business News Nigeria"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Oil hits $90 per barrel as US-Iran war escalates - Yahoo"
   }
  ]
 }
