@@ -4,10 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "e27148acf795bcf3",
-  "newjerseybetsbigonsmallnuclearreactors",
-  "5fa568950962cf06",
-  "howlongcanoilmarketsabsorbthehormuzshock",
   "fa68cf8a8fd9e9ef",
   "expertsassessimpactrenewedfightinginmideastmayhaveoncaliforn",
   "fa8f7462a0fd13c2",
@@ -603,7 +599,11 @@
   "0becb143b0600f13",
   "usoildrillingpicksupasbrentgains4",
   "cc0b516a4150d527",
-  "brentbreaches90asmiddleeastrisksmountwithusirantensionsonthe"
+  "brentbreaches90asmiddleeastrisksmountwithusirantensionsonthe",
+  "b215084b8d8681b1",
+  "gaspricesarecreepingcloseto4againafteroilslatestsurge",
+  "8bf6a39ac00508ec",
+  "americaextendsitsleadoverrussiaandsaudiarabiainoiloutput"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-20",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-07-20T07:26:57.957485+03:00",
+ "last_run": "2026-07-20T07:33:22.984701+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -904,6 +904,10 @@
   {
    "d": "2026-07-20",
    "t": "US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price pass $90 a barrel - The Guardian"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "America Extends Its Lead Over Russia and Saudi Arabia in Oil Output - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
