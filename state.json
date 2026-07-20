@@ -4,8 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "020db1baa8605d2e",
-  "bpconocophillipsjoinononeofiraqsoldestoilfields",
   "157420e2f6010440",
   "nigerialaunches500millionagriculturefund",
   "4b964838025e56e2",
@@ -603,7 +601,9 @@
   "6b28bdd99f7651da",
   "usexportsofcrudeoilandpetroleumproductsreachedrecordinapril",
   "a03723848444e3e7",
-  "brentcrudeoilpricesextendrallyabove90asmiddleeastconflictint"
+  "brentcrudeoilpricesextendrallyabove90asmiddleeastconflictint",
+  "e6eb0ccb86f09010",
+  "tradingkeydailymarketbriefingoilpricesriseabove90aisemicondu"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 11
  },
- "last_run": "2026-07-20T04:20:24.262058+03:00",
+ "last_run": "2026-07-20T04:25:17.458543+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
