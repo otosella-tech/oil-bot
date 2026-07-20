@@ -1,13 +1,9 @@
 {
  "price_base": {
-  "WTI": 82.08,
+  "WTI": 80.37,
   "Brent": 88.72
  },
  "seen": [
-  "330f18e7511bfabe",
-  "currentpriceofoilasofjuly12026",
-  "7b0734642364c254",
-  "usmilitarysays2troopsaredeadand1ismissingafteriranattacksaba",
   "8796ac90ca0b9737",
   "dollarstrengthsparkslongliquidationincrudeoilfutures",
   "758f7a016668d7dc",
@@ -603,7 +599,11 @@
   "cd42f9de8ca62684",
   "oilclimbedabove90beforeparinggainsasusiranattacksescalate",
   "d5542f1a9dd0cb71",
-  "stockmarkettodaydowsp500nasdaqfuturesedgeupasoilturnslowerin"
+  "stockmarkettodaydowsp500nasdaqfuturesedgeupasoilturnslowerin",
+  "3c17d79f4c717f18",
+  "crudeoiltops90asusiranclashesescalate",
+  "043cdf7c2d764166",
+  "futuresriseamidirannewsbigearningsdue"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T14:35:16.203854+03:00",
+ "last_run": "2026-07-20T14:40:18.455202+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
