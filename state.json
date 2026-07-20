@@ -4,8 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "82365c483a83b48f",
-  "californiamattershownewsomscomplexhistorywiththeoilindustryc",
   "0f8846e5d4b8dd0e",
   "uscrudeoilinventoriesreducedasmiddleeastwarresumes",
   "882d1494b86e511f",
@@ -603,7 +601,9 @@
   "2889ddd80c07c6c4",
   "crudeoilpriceextendsitsrallyanalysis20072026",
   "e7a6221f6467c30d",
-  "palmoilrisestrackingdalianrivaloilscrudeoilprices"
+  "palmoilrisestrackingdalianrivaloilscrudeoilprices",
+  "3803acc38cbca3a1",
+  "oilhitsonemonthhighasmideastwarkeepsinvestorsonedge"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 16
  },
- "last_run": "2026-07-20T06:30:24.383322+03:00",
+ "last_run": "2026-07-20T06:35:16.494986+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
