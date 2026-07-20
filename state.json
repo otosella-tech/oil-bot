@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "bd81bfc579572619",
-  "dronestrikeshitrussianfuelhubsinstavropolkraiandpowergridino",
-  "7c17c4b23b829f25",
-  "currentpriceofoilasofjuly92026",
   "f3dd8c543d385f50",
   "indiaboughtrecord514billionworthofrussiancrudeoilinjune",
   "1c7d3e174f4e2518",
@@ -603,7 +599,11 @@
   "356b0128ced233f5",
   "crudeoilpriceanalysiscrudeoilstallsat50dayemaasmiddleeastnoi",
   "7fa339b02b3a348a",
-  "futurespointhigheraswallstreeteyesbigtechearningsandoilretre"
+  "futurespointhigheraswallstreeteyesbigtechearningsandoilretre",
+  "924b01b3636c0d8a",
+  "campaignerfightsoildrillingplansasecondtime",
+  "5fda26174a4c5ba3",
+  "hormuzdisruptionsindiascrudeoilimportsfromrussiaremainnearal"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T17:50:18.605555+03:00",
+ "last_run": "2026-07-20T17:55:18.271854+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1148,6 +1148,10 @@
   {
    "d": "2026-07-20",
    "t": "New Ceasefire Hopes Add $550 Billion to US Stocks as Oil Retreats - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Hormuz disruptions: India’s crude oil imports from Russia remain near all-time high in July despite no sa - The Times of India"
   }
  ]
 }
