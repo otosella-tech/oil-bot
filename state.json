@@ -4,8 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "5cb301501d782728",
-  "ussupportingeffortstoreviveiraqsyriacrudeoilpipelineusoffici",
   "4236c98f76078016",
   "whyoilpricesareabouttosurge",
   "f9a81fb1f36d3d4a",
@@ -603,19 +601,21 @@
   "71c97ab8e367a4a5",
   "oiltankersfaceworstcasescenarioinhormuzasiranstepsupattackso",
   "5211c996409d9966",
-  "usstrikesiranforninthdayiransaystwooiltankersinstraitofhormu"
+  "usstrikesiranforninthdayiransaystwooiltankersinstraitofhormu",
+  "40b9c4c71853ca59",
+  "indiaproposesstrictervehicleemissionrulestocutoilconsumption"
  ],
  "releases_done": {},
- "last_digest": "2026-07-19",
+ "last_digest": "2026-07-20",
  "digest_prices": {
-  "WTI": 81.78,
-  "Brent": 88.1
+  "WTI": 83.56,
+  "Brent": 90.27
  },
  "llm": {
   "date": "2026-07-20",
-  "count": 25
+  "count": 31
  },
- "last_run": "2026-07-20T07:56:34.372459+03:00",
+ "last_run": "2026-07-20T08:00:29.625201+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
