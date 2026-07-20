@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "bdc543a034c7bc10",
-  "pairsinfocuswticrudeoilgoldsilvercac40naturalgasusdcadnasdaq",
-  "42f98928b07ee3f8",
-  "burnhamtomaintainbanonnorthseaexplorationlicences",
   "e6ac4fc1142862b4",
   "revolutionaryguardnotasingledropofoilorgaswillpassthroughthe",
   "d8af5ebcaed78210",
@@ -603,7 +599,11 @@
   "b1095be04854e466",
   "yemenshouthisdeclarenavalblockadeofsaudiarabiawhattoknow",
   "f2d5329205f0163a",
-  "nigeriatargetsrecord3millionbpdoiloutputby2030"
+  "nigeriatargetsrecord3millionbpdoiloutputby2030",
+  "e8621a57105ddaa0",
+  "yemensiranianbackedhouthissaytheywillblocksaudishippingatred",
+  "5a7ff0826ce5a58c",
+  "gaspricesrisingagainasiranwarescalates"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T20:05:17.713810+03:00",
+ "last_run": "2026-07-20T20:10:19.262452+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1180,6 +1180,14 @@
   {
    "d": "2026-07-20",
    "t": "Oil stocks in US Strategic Petroleum Reserve fall by 5.1 million barrels to lowest level since 1983 - Reuters"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Yemen's Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway - The Washington Post"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Gas Prices Rising Again As Iran War Escalates - iHeart"
   }
  ]
 }
