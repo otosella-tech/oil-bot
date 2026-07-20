@@ -4,8 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "5910be675ac0bf1a",
-  "nationalgaspricesclimbto394pergallonasoilnears80abarrel",
   "82365c483a83b48f",
   "californiamattershownewsomscomplexhistorywiththeoilindustryc",
   "0f8846e5d4b8dd0e",
@@ -603,7 +601,9 @@
   "33d815022eb6910e",
   "ferrycapsizesoffguyana66peoplestillmissing",
   "2889ddd80c07c6c4",
-  "crudeoilpriceextendsitsrallyanalysis20072026"
+  "crudeoilpriceextendsitsrallyanalysis20072026",
+  "e7a6221f6467c30d",
+  "palmoilrisestrackingdalianrivaloilscrudeoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 16
  },
- "last_run": "2026-07-20T06:10:19.580773+03:00",
+ "last_run": "2026-07-20T06:15:22.733187+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
