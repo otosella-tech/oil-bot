@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "bbfde11846f44f6f",
-  "ukrainessecurityservicestrikesmajorrussianshadowfleettankerw",
-  "f3295e7a39d89889",
-  "ushailsplantorestoreiraqisyrianoilpipeline",
   "dcd5a1acb10c769c",
   "caspianpipelineconsortiumsays2oiltankersattackedbydronesnear",
   "d7e26327f192efca",
@@ -603,7 +599,11 @@
   "fc4ea3ce6c0c4dbc",
   "gaspricessnapbackto4astrumpsirantruceunravels",
   "0c76b2e959a18ab7",
-  "oilanalystwarnsofviolentrepricingasusoilreservesfalltoalevel"
+  "oilanalystwarnsofviolentrepricingasusoilreservesfalltoalevel",
+  "e9e7a57e6a579361",
+  "oiltransferactivityingulfofomanslowsfollowingshipattacksdata",
+  "82b6bed06336bc4f",
+  "goldlittlechangedasinvestorsweighusirandevelopmentsfedsignal"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T17:20:20.622746+03:00",
+ "last_run": "2026-07-20T17:25:19.846152+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1136,6 +1136,14 @@
   {
    "d": "2026-07-20",
    "t": "Oil Analyst Warns of ‘Violent Repricing’ as US Oil Reserves Fall to a Level Not Seen Since the Reagan Administration - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Oil transfer activity in Gulf of Oman slows following ship attacks, data shows - Reuters"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Gold little changed as investors weigh US-Iran developments, Fed signals - Reuters"
   }
  ]
 }
