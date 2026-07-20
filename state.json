@@ -4,12 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "45c5bd89d031a110",
-  "bangladeshs1265billionnuclearbetfacesitsbiggesttestyet",
-  "f6294f6a65d3746f",
-  "biggaininoilrigsinoklahomaandtheus",
-  "8f762feb889c469d",
-  "blmseeksinputforjanuary2027saleofoilandgasleasesinwyoming",
   "e81a0ce6ac6a9c11",
   "withindustrywaryofarcticrefugealaskasowngovernmentplansalone",
   "45db0b12850422d6",
@@ -603,7 +597,13 @@
   "f8e61321239b9c57",
   "brentcrudetops90asusiranconflictflaresup",
   "53f8902dc61062b5",
-  "chinaenergyandemissionstrendsjune2026snapshot"
+  "chinaenergyandemissionstrendsjune2026snapshot",
+  "cacfd2fb5d54274e",
+  "opecisinastruggleforitssurvivalitcouldmean40oil",
+  "adeb53fa15351d68",
+  "brenttops91asussayshormuzoilflowscontinue",
+  "0d06fa20fd5b7001",
+  "crudeoilpricessurgeabove91asusiranconflictraisesglobalsupply"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-20",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-07-20T10:30:21.979836+03:00",
+ "last_run": "2026-07-20T10:36:00.423602+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -952,6 +952,18 @@
   {
    "d": "2026-07-20",
    "t": "Brent oil tops US$90 as US, Iran expand strikes in the Middle East - mediaselangor.com"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "OPEC is in a struggle for its survival. It could mean $40 oil - CNN"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Brent tops $91 as US says Hormuz oil flows continue - Oil & Gas Middle East"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Crude Oil Prices Surge Above $91 as US-Iran Conflict Raises Global Supply Concerns - India Infoline"
   }
  ]
 }
