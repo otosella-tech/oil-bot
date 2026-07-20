@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "599ca93966473478",
-  "baghdadbetsonsyriaandturkeypipelinestosecureoilexports",
   "6635e0eeb7a39fae",
   "oilnewscrudeoilfuturesgaphigherashormuztrafficdriesup",
   "6b28bdd99f7651da",
@@ -603,7 +601,9 @@
   "ad477bb4cca866f9",
   "chevronshutsinusgulfplatforminpreparationfordevelopingtropic",
   "a442509cd6f63536",
-  "wallstreetholdssteadierasaistocksrecoversomeoflastweekssharp"
+  "wallstreetholdssteadierasaistocksrecoversomeoflastweekssharp",
+  "2417f6c54551d2ae",
+  "whytheeustillcantagreeonitsnextroundofrussiasanctions"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T22:55:15.587826+03:00",
+ "last_run": "2026-07-20T23:00:26.526763+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-07-20",
    "t": "Gold edges down as US-Iran escalation lifts oil prices, rate hike bets - Reuters"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Why the EU Still Can’t Agree on Its Next Round of Russia Sanctions"
   }
  ]
 }
