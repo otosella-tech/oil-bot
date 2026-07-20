@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "1d16a62d37e93bde",
-  "weeklypairsinfocus19thto24thjuly2026charts",
-  "fe0a78656e6b77fb",
-  "navysaysantioiltheftoperationsliftcrudeoutputaboveopecquota",
   "e01caa12c832ca09",
   "howwilltheecbrespondtothelatestriseinoilprices",
   "bd81bfc579572619",
@@ -603,7 +599,11 @@
   "69f58f97e10e783f",
   "blmtoholdseptsaleofoilandgasleasesinwaynenationalforest",
   "586fc0f28098f20a",
-  "dowjonesfuturesriseoilpricesswingonirannewsgoogleteslaearnin"
+  "dowjonesfuturesriseoilpricesswingonirannewsgoogleteslaearnin",
+  "4f21051be259dc27",
+  "newceasefirehopesadd550billiontousstocksasoilretreats",
+  "356b0128ced233f5",
+  "crudeoilpriceanalysiscrudeoilstallsat50dayemaasmiddleeastnoi"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T17:40:21.566043+03:00",
+ "last_run": "2026-07-20T17:45:18.809767+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1144,6 +1144,10 @@
   {
    "d": "2026-07-20",
    "t": "Gold little changed as investors weigh US-Iran developments, Fed signals - Reuters"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "New Ceasefire Hopes Add $550 Billion to US Stocks as Oil Retreats - Yahoo Finance"
   }
  ]
 }
