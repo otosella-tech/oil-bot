@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "d6bf0a13822b8034",
-  "volatilitycrisisasoilsupplyanddieselpricesshiftoverpastfortn",
   "2330f12eadf56af2",
   "oilpricesup170726",
   "9153d560428888df",
@@ -603,7 +601,9 @@
   "5ca688aab3b376bc",
   "currentpriceofoilasofjuly62026",
   "48edf0d5c5277ed2",
-  "currentpriceofoilasofjuly82026"
+  "currentpriceofoilasofjuly82026",
+  "03deb73b69eb56c1",
+  "blmseeksinputfornovember2026saleofoilandgasleasesinnewmexico"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 57
  },
- "last_run": "2026-07-20T11:50:20.478377+03:00",
+ "last_run": "2026-07-20T11:55:18.454720+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
