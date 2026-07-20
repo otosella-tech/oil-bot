@@ -4,12 +4,6 @@
   "Brent": 90.65
  },
  "seen": [
-  "07db5b3ce5f2f5d7",
-  "oilcompaniesaremakingbillionsintheuscallstotaxtheirwindfalla",
-  "08eff3bbe5488b69",
-  "crudeoilpipelinebetweeniraqsyriatoberevivedwithusassistance",
-  "8bf6a39ac00508ec",
-  "americaextendsitsleadoverrussiaandsaudiarabiainoiloutput",
   "e27148acf795bcf3",
   "newjerseybetsbigonsmallnuclearreactors",
   "5fa568950962cf06",
@@ -603,7 +597,13 @@
   "6ee3d179fd382e94",
   "fewtankersenterhormuztoloadoillngfloatingstoragerisesdatasho",
   "f79e75c9757966bc",
-  "oilaboveusd90weighsonglobalmarketsrupeeopensweakerat9641"
+  "oilaboveusd90weighsonglobalmarketsrupeeopensweakerat9641",
+  "b083266fdfbcfbf4",
+  "bpconocophillipspartneriniraqsgiantoilfield",
+  "0becb143b0600f13",
+  "usoildrillingpicksupasbrentgains4",
+  "cc0b516a4150d527",
+  "brentbreaches90asmiddleeastrisksmountwithusirantensionsonthe"
  ],
  "releases_done": {},
  "last_digest": "2026-07-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-20",
-  "count": 19
+  "count": 20
  },
- "last_run": "2026-07-20T07:21:46.572661+03:00",
+ "last_run": "2026-07-20T07:26:57.957485+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
