@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "d8af5ebcaed78210",
-  "theworldislookingaheadtowardapostiranoilmarketthatoffsetsmos",
   "c4387ca305a79dbf",
   "sp500bracesforpotentialimpactfrom16surgeinoilamidiranconcern",
   "fc75beb510c4d4ba",
@@ -603,7 +601,9 @@
   "5a7ff0826ce5a58c",
   "gaspricesrisingagainasiranwarescalates",
   "baba70918f39bab0",
-  "cpcoilloadingssuspendedagainafterdroneattackontankernelsa"
+  "cpcoilloadingssuspendedagainafterdroneattackontankernelsa",
+  "c6d4a2f81c89bfd0",
+  "oilpricesturnoneverydiplomaticsignal"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T20:20:18.532428+03:00",
+ "last_run": "2026-07-20T20:25:21.287675+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
