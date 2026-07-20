@@ -4,12 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "8e51503e3a2c7514",
-  "currentpriceofoilasofjune302026",
-  "1c9a60caaa6e3cde",
-  "foodtanksweeklynewsrounduprighttorepairwonschoolenrollmentbo",
-  "8fdc3fde842d856f",
-  "currentpriceofoilasofjuly72026",
   "1e9e8e17719899ab",
   "burnhamexpectedtoreversebanonnewoilandgasdrilling",
   "bce6c77175b25ad3",
@@ -603,7 +597,13 @@
   "7e7e020999e2bac0",
   "rptgulfcrudeexportsjumpinjulybutshipmentsslowingonrenewedhos",
   "b63a5aee492a0ec1",
-  "debunkingmisinformationfromtheoilbulls"
+  "debunkingmisinformationfromtheoilbulls",
+  "e7329beb7e237f48",
+  "forgetcrudewarpushesrefinerstothebrink",
+  "5af393fc801b9222",
+  "crudegivesupgainsonusiranpeacehopes",
+  "0aa5217964cf0123",
+  "globalcrudeoilpricesclimbabove90onescalatingusirantensions"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T12:10:17.905764+03:00",
+ "last_run": "2026-07-20T12:15:19.193588+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -984,6 +984,10 @@
   {
    "d": "2026-07-20",
    "t": "Oil prices jump after a US official says Washington is planning for a wider war with Iran - investingLive"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Forget crude. War pushes refiners to the brink - Reuters"
   }
  ]
 }
