@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "339f9859b045abd6",
-  "gaspricesstarttoriseinsouthwestafterendofceasefire",
-  "3e12665dc9632fd2",
-  "wtiandbrentpushupwardextendingyeartodategains",
   "a2487065f2687a19",
   "syriaandiraqsignusbackeddealtorevivestrategicoilpipeline",
   "8b563be2317e49ab",
@@ -603,7 +599,11 @@
   "6fcd75639e91a54d",
   "crudeoilhitsonemonthhighamidrenewedusiranfighting",
   "8c2ba907de8fc47e",
-  "fightingnewoilblocksinthecongobasininterviewwithactivistpasc"
+  "fightingnewoilblocksinthecongobasininterviewwithactivistpasc",
+  "6286aecf56a896d2",
+  "newsfromtheoilpatchpricesproductionlaunchascushingstoragerea",
+  "0a6f8052ebbf5c23",
+  "tankerscarryingkazakhcrudetargetedoffrussiasnovorossiyskport"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T17:00:35.454531+03:00",
+ "last_run": "2026-07-20T17:05:17.000824+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
@@ -1124,6 +1124,10 @@
   {
    "d": "2026-07-20",
    "t": "Gas Prices Top $4 a Gallon Again After U.S. and Iran Trade More Strikes - Barron's"
+  },
+  {
+   "d": "2026-07-20",
+   "t": "Tankers Carrying Kazakh Crude Targeted Off Russia’s Novorossiysk Port - UNITED24 Media"
   }
  ]
 }
