@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "1b66e8cc0706319c",
-  "oilpricescross90abarrelasusiranconflictwidens",
-  "14941f83716940f6",
-  "brentcrudeoiltops90asiranwarescalatesstraitofhormuztensionsr",
   "dedd799e7d70a6d9",
   "crudeoilpricesextendrallyabove90asmiddleeastconflictintensif",
   "e00758174540b4eb",
@@ -603,7 +599,11 @@
   "9ec28b68bf8a8144",
   "adpemploymentdataandoilinventoriesamongeconomicdataduetuesda",
   "9b9cd24d137fd3cd",
-  "nygaspricesclimbasoilmarketuncertaintypushescostshigher"
+  "nygaspricesclimbasoilmarketuncertaintypushescostshigher",
+  "dfd486e6b52339c6",
+  "phoenixenergysurpasses50000barrelsofoilperday",
+  "61039e7970a72c4e",
+  "augustwticrudeoilcontractclosesup074or09settlesat8323perbarr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-20",
   "count": 60
  },
- "last_run": "2026-07-20T21:35:17.143947+03:00",
+ "last_run": "2026-07-20T21:40:19.892344+03:00",
  "sent_stories": [
   {
    "d": "2026-07-17",
