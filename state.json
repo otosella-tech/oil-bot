@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "12ae9b73a5afbb4a",
-  "crudeoiltradingalertgeopoliticaltensionsdriveoilpricestogapu",
-  "e81f57c423a4fb47",
-  "usexpandsiranstrikesastehranretaliatesacrossthegulf",
   "bd241f7960015106",
   "brentcrudeoiltops90asusiranintensifyattacks",
   "a593a0faa29bd3af",
@@ -603,7 +599,11 @@
   "4aadb47a7ce55e2b",
   "caagainsuestrumpadministrationovercentralcoastoilpipelineper",
   "a55d49abb1d67d32",
-  "usgaspriceshit4agallonasconflictwithiranescalates"
+  "usgaspriceshit4agallonasconflictwithiranescalates",
+  "ba775f15734c18e8",
+  "oilmarketlosesitssafetynetasiranconflictreignites",
+  "6b41af4978bd0c3b",
+  "usequityindexesfallcrudeoilrisesaftertrumpwarnsmorestrikeson"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -612,191 +612,11 @@
   "Brent": 90.27
  },
  "llm": {
-  "date": "2026-07-20",
-  "count": 60
+  "date": "2026-07-21",
+  "count": 2
  },
- "last_run": "2026-07-20T23:55:19.771279+03:00",
+ "last_run": "2026-07-21T00:00:33.275895+03:00",
  "sent_stories": [
-  {
-   "d": "2026-07-17",
-   "t": "How The Iran War Is Rewiring the Oil Market - Bloomberg.com"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Oil little changed after U.S. reimposes naval blockade on Iran, launches more airstrikes - CNBC"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Why the Strait of Hormuz Is Losing Importance - Bloomberg.com"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "India, South Africa To Boost Their Strategic Petroleum Reserves"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Watch How The Iran War Is Rewiring the Oil Market - Bloomberg.com"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Iran war news today: US expands bombing attacks; President Donald Trump says peace deal still possible - ABC7 Los Angeles"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Russia Struggles to Sell All the Oil It's Being Forced to Export - Bloomberg.com"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Decline in oil and gas production cuts into county's budget - KSJD"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Oil pipelines bypassing Strait of Hormuz would not end threat to Middle East crude exports - Seeking Alpha"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Global energy security at risk if Strait of Hormuz does not open in weeks, IEA chief says - Reuters"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Oil heads for weekly surge as US-Iran strikes stoke supply fears - Investing.com"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Oil traders warn market is close to running on empty as Hormuz shuts again - Financial Times"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Explainer: China's oil imports have plunged during the Iran war. How much will they recover? - Reuters"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Red Sea shutdown risk looms as US-Iran tensions threaten another oil surge - South China Morning Post"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Oil prices heading for weekly surge as U.S., Iran exchange strikes - Investing.com"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "China Seeks Long-Term LNG Deals Beyond the Strait of Hormuz"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Oil Rises More Than 2% As U.S.-Iran Tensions Remain High - WSJ"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Baghdad Bets on Syria and Turkey Pipelines to Secure Oil Exports"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Iran Expands Oil Chokepoint Threat as Houthis Eye Red Sea Shipping"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "U.S. Expands Iran Strikes as Tehran Retaliates Across the Gulf"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Oil prices rise after Kuwait says Iran attacked water desalination and power plant - CNBC"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "ConocoPhillips joins BP in Iraq as Baghdad seeks more US energy investment - Reuters"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "US-Iran Conflict Escalates, International Oil Prices Surge Over 3%: WTI Crude Breaks $81, Strait of Hormuz Shipping Blocked - TradingKey"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Chinese shipbuilders snap up more supertanker orders amid Iran war turmoil - South China Morning Post"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "The Threat to Saudi Arabia’s Main Oil-Export Route Is Growing - WSJ"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Crude Oil Prices Soar as the US and Iran Escalate Attacks - Barchart.com"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Big-time oil price hikes loom in the third week of July as the United States and Iran battled over the vital Strait of Hormuz in the renewed Middle East war, the Department of Energy said. | via ANC 24/7 Link to full story in the comment section. - facebook.com"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Oil heads for weekly gain on renewed US-Iran hostilities and threat of Red Sea closure - Reuters"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "The cheaper oil gets, the more U.S.-Iran war could escalate, says expert - BNN Bloomberg"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "EIA slashes oil price forecast 14% after U.S.-Iran deal reopens Strait of Hormuz - MarketScale"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "US Equity Indexes Drop Amid Declines in Growth Sectors, Surge in Crude Oil as Washington-Tehran Widen Strikes - marketscreener.com"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Dangote Refinery raises $2.5 billion in private placement, executive says - Reuters"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "BP, ConocoPhillips Partner In Iraq’s Giant Oilfield"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Crude oil pipeline between Iraq, Syria to be revived with US assistance - The Jerusalem Post"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "America Extends Its Lead Over Russia and Saudi Arabia in Oil Output - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "How long can oil markets absorb the Hormuz shock? - Financial Times"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says - CNBC"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "US supporting efforts to revive Iraq-Syria crude oil pipeline, US official says - Reuters"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz - CNBC"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "US targets Iran infrastructure as conflict escalates, pushing oil prices higher - Yahoo Finance"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Iraq, Syria sign deal in Washington to revive crude oil pipeline - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure - Reuters"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "Western oil companies see 'fantastic' future in Iraq, sign agreements - Reuters"
-  },
-  {
-   "d": "2026-07-17",
-   "t": "US Equity Indexes Drop as Chipmakers Head for Bear Market, Crude Oil Surges After Iran Expands Attack in Middle East - marketscreener.com"
-  },
   {
    "d": "2026-07-18",
    "t": "Iraq, Syria ink deal in US to revive crude oil pipeline that could bypass Strait of Hormuz - TRT World"
@@ -1224,6 +1044,14 @@
   {
    "d": "2026-07-20",
    "t": "Why the EU Still Can’t Agree on Its Next Round of Russia Sanctions"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Oil Market Loses Its Safety Net as Iran Conflict Reignites"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "US Equity Indexes Fall, Crude Oil Rises After Trump Warns More Strikes on Iran Amid Risk to Saudi Arabian Supplies - marketscreener.com"
   }
  ]
 }
