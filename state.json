@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "30688f5f9d612392",
-  "oilpricesturnlowerafteriransaysustalkscouldbepursuedbasedonn",
   "efb74c7222fde02f",
   "currentpriceofoilasofjuly172026",
   "b5bfa4a763694e09",
@@ -603,7 +601,9 @@
   "3511294c3c6bf067",
   "houthisblockadeofbabelmandebstraitcouldjeopardizejapansvital",
   "e476f8f9323d0651",
-  "oilpriceseaseasmarketsassessmiddleeastconflictandhouthishipp"
+  "oilpriceseaseasmarketsassessmiddleeastconflictandhouthishipp",
+  "9b1df890c0c38419",
+  "astheusiranwarheatsupagainthesepartsofthestockmarketandecono"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T22:30:21.007769+03:00",
+ "last_run": "2026-07-21T22:35:13.488201+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-07-21",
    "t": "India Pulls Back From Iraqi Oil as Hormuz Turns Too Dangerous"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected - CNBC"
   }
  ]
 }
