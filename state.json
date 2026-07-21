@@ -4,12 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "932bbed304e32ada",
-  "crudepriceshitonemonthhigh",
-  "70f684c6bea5382b",
-  "oilpriceserasegainsafteriransaysustalkscouldbepursuedbasedon",
-  "d587aa01841e6ed7",
-  "oilcushionthinsasuscrudesupplyfallsto45yearlowcl1comcommodit",
   "1aa5588695de2437",
   "dontgettrappedgoldoilandeurusdpreecbgameplan",
   "03870f972e6eb1f2",
@@ -603,7 +597,13 @@
   "efd668f006a10855",
   "currentpriceofoilasofjuly202026",
   "47175fc2a4a876df",
-  "oilshockreturnsasusgaspricestop4onnewhormuzstandoff"
+  "oilshockreturnsasusgaspricestop4onnewhormuzstandoff",
+  "c1bde54acaa81484",
+  "freshstraitofhormuzattacksdeepenglobaloilsecurityfearssaysie",
+  "27404a116a830cdc",
+  "volatilityrocksenergymarketsafterbrentcrudeoilhits90dollarsa",
+  "d2c890cffcc7b589",
+  "chinacutsiraniancrudeoilimportsby40amiduspressure"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 58
+  "count": 59
  },
- "last_run": "2026-07-21T15:20:17.702306+03:00",
+ "last_run": "2026-07-21T15:25:14.062551+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
