@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "0cc9ff76de211dd1",
-  "iranoilexportssurgeafterblockadeeased",
   "c5d742004b098e76",
   "gulfoilexportsbrieflyrecoveredtopre",
   "0da067e62f5d365f",
@@ -603,7 +601,9 @@
   "1cc57a1cb8765a22",
   "inflationfearsarebackinthespotlightasthemiddleeastconflictke",
   "645b0bc915dfd296",
-  "morningbidoiltrumpsai"
+  "morningbidoiltrumpsai",
+  "c19a611b18b12342",
+  "oilpricesup200726"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 19
  },
- "last_run": "2026-07-21T07:40:18.108030+03:00",
+ "last_run": "2026-07-21T07:45:16.585571+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
