@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "89aad2c6802b7c51",
-  "uscrudeoilfallsbelow70resuminglossesafterattackoncargoshipne",
-  "820b7bb68bdecbd0",
-  "iranrushedout6billionofoilduringbrieftrucewithus",
   "5217af345ab210cb",
   "oilpricegainseaseafteriranpointstomediational",
   "6dded55e9a800d43",
@@ -603,7 +599,11 @@
   "ac072a4803de6a63",
   "goldandsilverrisewithcrudeoilasiranwarescalatesaitechdebthit",
   "7f23386bc99f13d4",
-  "aistocksgathermorestrengthevenasbrentoilspricetops90thenews"
+  "aistocksgathermorestrengthevenasbrentoilspricetops90thenews",
+  "5b74a3dd3ac74f1b",
+  "oilbuyersbatteredbytheiranwarenergycrisisracetobuildbuffers",
+  "241ec450e1e0d649",
+  "usgaspricesbackuptoaverageof4agallonagainasusiranlaunchattac"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T17:05:15.565612+03:00",
+ "last_run": "2026-07-21T17:10:16.426539+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1172,6 +1172,14 @@
   {
    "d": "2026-07-21",
    "t": "Gold and Silver Rise with Crude Oil as Iran War Escalates, AI Tech Debt Hits Headlines - BullionVault"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Oil Buyers Battered by the Iran War Energy Crisis Race to Build Buffers - The New York Times"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "US gas prices back up to average of $4 a gallon again as US, Iran launch attacks - Hot Springs Sentinel Record"
   }
  ]
 }
