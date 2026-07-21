@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "b215084b8d8681b1",
-  "gaspricesarecreepingcloseto4againafteroilslatestsurge",
   "8bf6a39ac00508ec",
   "americaextendsitsleadoverrussiaandsaudiarabiainoiloutput",
   "e27148acf795bcf3",
@@ -603,7 +601,9 @@
   "acda3620273ea565",
   "plattsinvitesfeedbackonglobalcrudeoilmarketparitypricesmetho",
   "7e2abb81e4626083",
-  "oilpricesdipasmediationeffortsoffsetusiranstrikes"
+  "oilpricesdipasmediationeffortsoffsetusiranstrikes",
+  "919fe5c2d1d6a6ea",
+  "oiledgesloweramidhopesofnewusiranceasefire"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 13
+  "count": 15
  },
- "last_run": "2026-07-21T04:25:15.089049+03:00",
+ "last_run": "2026-07-21T04:30:23.767941+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1064,6 +1064,10 @@
   {
    "d": "2026-07-21",
    "t": "Oil prices dip as mediation efforts offset US-Iran strikes - Reuters"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Oil Edges Lower Amid Hopes of New U.S.-Iran Ceasefire - WSJ"
   }
  ]
 }
