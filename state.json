@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "586fc0f28098f20a",
-  "dowjonesfuturesriseoilpricesswingonirannewsgoogleteslaearnin",
-  "4f21051be259dc27",
-  "newceasefirehopesadd550billiontousstocksasoilretreats",
   "356b0128ced233f5",
   "crudeoilpriceanalysiscrudeoilstallsat50dayemaasmiddleeastnoi",
   "7fa339b02b3a348a",
@@ -603,7 +599,11 @@
   "0f75802f49246822",
   "twosaudicrudetankersturnaroundafterhouthithreats",
   "8762700ed397d5dd",
-  "oilfirmsknewfordecadesofmethanesdangertoplanetdocumentssugge"
+  "oilfirmsknewfordecadesofmethanesdangertoplanetdocumentssugge",
+  "e7c6c6ff2934e5c6",
+  "oilpricesrisemorethan2onfreshattacksbyusandiran",
+  "68526edf732e44b9",
+  "oiltankersforcedtoturnbacktakelongerrouteafteriranproxythrea"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T20:30:21.198607+03:00",
+ "last_run": "2026-07-21T20:35:13.458039+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1224,6 +1224,14 @@
   {
    "d": "2026-07-21",
    "t": "Two Saudi Crude Tankers Turn Around After Houthi Threats - Marine News Magazine"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Oil prices rise more than 2% on fresh attacks by US and Iran - CNBC"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Oil tankers forced to turn back, take longer route after Iran proxy threatens another critical choke point - New York Post"
   }
  ]
 }
