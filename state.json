@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "2d744bf969706e43",
-  "top20companiesintheglobalcedarwoodoilmarketsize",
   "fe2ffde62e4d51b3",
   "straitofhormuzsharplyraisesoilprices",
   "5b28ae8d462326ca",
@@ -603,7 +601,9 @@
   "5c2b9c767ac844f1",
   "iransaysitattackedamazoninfrastructureinbahrain",
   "b63a5aee492a0ec1",
-  "debunkingmisinformationfromtheoilbulls"
+  "debunkingmisinformationfromtheoilbulls",
+  "2f7c440f7f4b41f5",
+  "ieasayssubstantialemergencyoilstocksremainafterrecordrelease"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 51
  },
- "last_run": "2026-07-21T14:50:16.942936+03:00",
+ "last_run": "2026-07-21T14:55:14.653982+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
