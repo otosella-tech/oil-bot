@@ -4,12 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "9dee4515db9b5a27",
-  "uscrudeoilstockpilespostweeklywithdrawal",
-  "69957df8a3a2fd4e",
-  "yourmondayjuly20guidefivethingstodointheoilcity",
-  "6b126b6586282b0b",
-  "magnoliaoilgastobuywildfireenergyin406billiondeal",
   "c185996bfe94cf91",
   "oilsteadiesashopesofrenewedusirannegotiationsoffsethouthithr",
   "b3f5be50b674610d",
@@ -603,7 +597,13 @@
   "9f7ed75d206b2314",
   "wtibrentcrudeoilandforecastsforecastsmiddleeastriskdrivesral",
   "bcae4e27f9ad4738",
-  "treasuryyieldshittwomonthhighasoilsparksinflationrisk"
+  "treasuryyieldshittwomonthhighasoilsparksinflationrisk",
+  "faff72c2477a261e",
+  "saudiarabiascrudeoilexportsfalltorecordlowinmay",
+  "44d2869591bcec8f",
+  "saudicondemnshouthiblockadehowwilltherestoftheworldbeimpacte",
+  "b2f3909b77057d54",
+  "northeastohiogaspricesedgehigherasnationalaveragereaches4per"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T17:40:16.670118+03:00",
+ "last_run": "2026-07-21T17:45:20.193938+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1188,6 +1188,10 @@
   {
    "d": "2026-07-21",
    "t": "Iran Rushed Out $6 Billion of Oil During Brief Truce With U.S. - WSJ"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Saudi Arabia’s crude oil exports fall to record low in May - Investing.com"
   }
  ]
 }
