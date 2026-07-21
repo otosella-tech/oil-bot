@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "4aadb47a7ce55e2b",
-  "caagainsuestrumpadministrationovercentralcoastoilpipelineper",
   "a55d49abb1d67d32",
   "usgaspriceshit4agallonasconflictwithiranescalates",
   "ba775f15734c18e8",
@@ -603,7 +601,9 @@
   "20b0eb8bbca2d0b0",
   "oilfuturesextendrallyoncontinuedusiranstrikes",
   "223fc345681fa3d7",
-  "dollarsshareofoiltradesdeclinesrapidlyover90days"
+  "dollarsshareofoiltradesdeclinesrapidlyover90days",
+  "48dac131c79c90bb",
+  "californiabeachalertfollowscrudeoilclumpsthatleftsurferheadt"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-22",
   "count": 7
  },
- "last_run": "2026-07-22T02:50:14.274894+03:00",
+ "last_run": "2026-07-22T02:55:13.291582+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
