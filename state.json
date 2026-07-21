@@ -4,12 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "6dded55e9a800d43",
-  "forecastupdateforcrudeoil20072026",
-  "e19f2b1f03a998c4",
-  "gaspriceshitaverageof4agallonamidrenewedusiranattacks",
-  "f75c913fefb71ff3",
-  "caspianpipelinewarnsofoilflowdisruptionsafterdroneattacks",
   "e32931ce20ee8e36",
   "europesheatwaveisbecominganenergycrisis",
   "80b72d733bfac241",
@@ -603,7 +597,13 @@
   "241ec450e1e0d649",
   "usgaspricesbackuptoaverageof4agallonagainasusiranlaunchattac",
   "169a381c46539c23",
-  "canadiandollarandbusinessoutlooklooniedowncrudeoilrisesafter"
+  "canadiandollarandbusinessoutlooklooniedowncrudeoilrisesafter",
+  "eb4135bf9484ec1a",
+  "twotankerscarryingsaudicrudemakeuturnsinredseaafterhouthiwar",
+  "820b7bb68bdecbd0",
+  "iranrushedout6billionofoilduringbrieftrucewithus",
+  "bcaea2f7b67d379e",
+  "koreasayscrudesecurethroughseptemberredseaornot"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T17:15:19.125671+03:00",
+ "last_run": "2026-07-21T17:20:16.065410+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1180,6 +1180,14 @@
   {
    "d": "2026-07-21",
    "t": "US gas prices back up to average of $4 a gallon again as US, Iran launch attacks - Hot Springs Sentinel Record"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Two tankers carrying Saudi crude make U-turns in Red Sea after Houthi warning - Reuters"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Iran Rushed Out $6 Billion of Oil During Brief Truce With U.S. - WSJ"
   }
  ]
 }
