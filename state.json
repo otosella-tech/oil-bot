@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "9b9cd24d137fd3cd",
-  "nygaspricesclimbasoilmarketuncertaintypushescostshigher",
   "dfd486e6b52339c6",
   "phoenixenergysurpasses50000barrelsofoilperday",
   "61039e7970a72c4e",
@@ -603,7 +601,9 @@
   "77bc6b8154272744",
   "oilsettlesabove90abarrelforthefirsttimesinceearlyjune",
   "723b7f259c8c3480",
-  "twosaudioiltankersmakeuturnsafterhouthiwarninginredsea"
+  "twosaudioiltankersmakeuturnsafterhouthiwarninginredsea",
+  "85906327107bb68f",
+  "oilpricesreachafiveweekhighduetousiranattackandhouthiblockad"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T23:39:13.938660+03:00",
+ "last_run": "2026-07-21T23:40:16.838884+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1287,6 +1287,10 @@
   {
    "d": "2026-07-21",
    "t": "Two Saudi oil tankers make U-turns after Houthi Warning in Red Sea - Marine News Magazine"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Oil prices reach a five-week high due to US-Iran attack and Houthi blockade - Marine News Magazine"
   }
  ]
 }
