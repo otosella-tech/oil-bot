@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "c6d4a2f81c89bfd0",
-  "oilpricesturnoneverydiplomaticsignal",
-  "3663392be0ca42ad",
-  "newzealandoilexplorersrushtosecureoffshorepermitsbeforeelect",
   "40513e682e006c9d",
   "eveningupdateforcrudeoil20072026",
   "f8a9be2c6088b858",
@@ -603,7 +599,11 @@
   "f639892c5fe244c8",
   "hormuzonaknifeedgeshippingpaysthepriceastheiranusceasefireun",
   "eae1a9f67e14893c",
-  "iraqsoilministersaysusenergydealsworthabout200billionbyreute"
+  "iraqsoilministersaysusenergydealsworthabout200billionbyreute",
+  "fbee1056b490b8bf",
+  "middleeastconflictdrivesbrentcrudeabove100amidoilsupplyfears",
+  "3390f6f29a00f7d9",
+  "hegsethcaineappearbeforesenateasiranwarescalates"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T23:20:15.475134+03:00",
+ "last_run": "2026-07-21T23:25:13.107071+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1274,6 +1274,10 @@
   {
    "d": "2026-07-21",
    "t": "Iraq’s oil minister says US energy deals worth about $200 billion By Reuters - Investing.com"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Hegseth, Caine appear before Senate as Iran war escalates - The Washington Post"
   }
  ]
 }
