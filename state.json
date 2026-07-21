@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "14fcbb9bc42d3657",
-  "crudeoilhitsgoldbutcomextradingmostbullishsincerecordpricepe",
   "d1f5938677ba5687",
   "oilmarketsonedgeashouthirebelsthreatenshippinginthemiddleeas",
   "0e3e0ef9d96dbe18",
@@ -603,7 +601,9 @@
   "f41b609d31ee0c5a",
   "oilpricesrisetofiveweekhighonusiranattackshouthiblockadethre",
   "d3e5712ae199cdb8",
-  "risingcrudeoilpricessupportsugar"
+  "risingcrudeoilpricessupportsugar",
+  "eba9e024195cf390",
+  "cpcstopsacceptingkazakhoilduetoattacksontankerssourcessay"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T19:35:13.359122+03:00",
+ "last_run": "2026-07-21T19:40:16.731334+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-07-21",
    "t": "Oil prices rise to five-week high on US-Iran attacks, Houthi blockade threat - Reuters"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "CPC stops accepting Kazakh oil due to attacks on tankers, sources say - Reuters"
   }
  ]
 }
