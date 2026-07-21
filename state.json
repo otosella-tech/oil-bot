@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "87db800e772fc632",
-  "chinaslngbuyingspreetightensglobalgasmarket",
-  "5021afb88ad54e83",
-  "georgiagaspricesjump20centsasrisingcrudeoilcostspushpumppric",
   "e2b6b13ac9ce81b6",
   "europeansharesparelossestotradeflatasirandiplomatichopescool",
   "93aad462ad1abe84",
@@ -603,7 +599,11 @@
   "c23cc70ec3498a95",
   "iranwarlookbeyondstockstounderstandstateofeconomyexpertssay",
   "e995e2e3b8181f15",
-  "yourtuesdayjuly21guidefivethingstodointheoilcity"
+  "yourtuesdayjuly21guidefivethingstodointheoilcity",
+  "288b7aa9b1ecfeb1",
+  "icecottonedgeshigheronweatherconcernsstrongercrudeoil",
+  "d4941fd8efe243ee",
+  "chinacutsiranianoilpurchasesby40bessentsays"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T15:45:19.035841+03:00",
+ "last_run": "2026-07-21T15:50:16.932724+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1112,6 +1112,10 @@
   {
    "d": "2026-07-21",
    "t": "Iran war: Look beyond stocks to understand state of economy, experts say - Al Jazeera"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "China cuts Iranian oil purchases by 40%, Bessentsays - Investing.com"
   }
  ]
 }
