@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "c2e4fd4176765b13",
-  "iranshouthialliesinyemendeclaremaritimeembargoagainstsaudiar",
-  "18e4f8db1cc95eec",
-  "oilmarketsonedgeashouthirebelsintensifythreatstoshippinginth",
   "d2258474f909c6b3",
   "chinasjunegulfcrudeimportsplungeamidslumpindemandhigherprice",
   "0a5ccd3dfb5482d5",
@@ -603,7 +599,11 @@
   "1a25b8baeba42590",
   "indiabecameworldstoplong",
   "c69195119d882a56",
-  "chartofthedaywticrudeoilgoesbullishtradetrend"
+  "chartofthedaywticrudeoilgoesbullishtradetrend",
+  "40da127b57879a58",
+  "crudeoilpricesrallyonglobalsupplyrisks",
+  "97a8715919d94f59",
+  "currentpriceofoilasofjuly132026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T18:30:24.900450+03:00",
+ "last_run": "2026-07-21T18:35:13.932390+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
