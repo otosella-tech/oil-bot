@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "a542547cffce8eeb",
-  "crudeoilbackontherise",
   "a6c5d6786b7c85d0",
   "usequityindexesmixedcrudeoilclimbsafteriransallythreatenssau",
   "f545db17b77e7b4c",
@@ -603,7 +601,9 @@
   "5fac34b9247d14f5",
   "whoownsamericasrefiningadvantage",
   "d4978e9ee40b0340",
-  "ahouthiblockadecouldworsenanalreadyfragileoilmarket"
+  "ahouthiblockadecouldworsenanalreadyfragileoilmarket",
+  "2fe4fc6d78f4ba85",
+  "straitofhormuztrafficatastandstillasfearsforglobaloilsupplyg"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 1
+  "count": 2
  },
- "last_run": "2026-07-22T00:40:16.867689+03:00",
+ "last_run": "2026-07-22T00:45:13.906278+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
