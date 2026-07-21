@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "6e3190f2c18687eb",
-  "magnoliaoilagreestobuywildfireenergyin41bdeal",
   "69f58f97e10e783f",
   "blmtoholdseptsaleofoilandgasleasesinwaynenationalforest",
   "586fc0f28098f20a",
@@ -603,7 +601,9 @@
   "494e00cec238db2f",
   "oilrefinersetfcrakhitsnew52weekhigh",
   "93aa27fc1615ae36",
-  "howtogetcrudeoilpalworld10palworldguide"
+  "howtogetcrudeoilpalworld10palworldguide",
+  "0f75802f49246822",
+  "twosaudicrudetankersturnaroundafterhouthithreats"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T20:20:16.849189+03:00",
+ "last_run": "2026-07-21T20:25:15.482611+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-07-21",
    "t": "CPC stops accepting Kazakh oil due to attacks on tankers, sources say - Reuters"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Two Saudi Crude Tankers Turn Around After Houthi Threats - Marine News Magazine"
   }
  ]
 }
