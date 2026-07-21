@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "0a5ccd3dfb5482d5",
-  "gaspricestop4agallonagainafterusandirantrademorestrikes",
   "a90ce049e9907e25",
   "oilelectriccashfuelstexasgopcampaigns",
   "64e7ba86f689b233",
@@ -603,7 +601,9 @@
   "97a8715919d94f59",
   "currentpriceofoilasofjuly132026",
   "5e15a65f262f97ce",
-  "aistocksgathermorestrengthevenasbrentoilspricenears92"
+  "aistocksgathermorestrengthevenasbrentoilspricenears92",
+  "fbe7224de2721278",
+  "houthithreatsignitenewoilpricesurge"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T18:54:05.373044+03:00",
+ "last_run": "2026-07-21T18:55:15.563589+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1204,6 +1204,10 @@
   {
    "d": "2026-07-21",
    "t": "Houthis Force Saudi Oil Tankers To U-Turn in Red Sea"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Houthi Threats Ignite New Oil Price Surge"
   }
  ]
 }
