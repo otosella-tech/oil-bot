@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "1aa5588695de2437",
-  "dontgettrappedgoldoilandeurusdpreecbgameplan",
   "03870f972e6eb1f2",
   "morningbusinessreportoilpricessurgeasgascostsriseandstockssl",
   "07211780d9d4d814",
@@ -603,7 +601,9 @@
   "27404a116a830cdc",
   "volatilityrocksenergymarketsafterbrentcrudeoilhits90dollarsa",
   "d2c890cffcc7b589",
-  "chinacutsiraniancrudeoilimportsby40amiduspressure"
+  "chinacutsiraniancrudeoilimportsby40amiduspressure",
+  "ed3901ca9cc7590d",
+  "saudicrudeflowfromredseahitrecordbeforehouthiwarning"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-07-21T15:35:16.597115+03:00",
+ "last_run": "2026-07-21T15:40:16.954313+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1104,6 +1104,10 @@
   {
    "d": "2026-07-21",
    "t": "Oil Shock Returns as U.S. Gas Prices Top $4 on New Hormuz Standoff - La Voce di New York"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Saudi Crude Flow From Red Sea Hit Record Before Houthi Warning - Bloomberg.com"
   }
  ]
 }
