@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "bc5a72342a95c48d",
-  "newukprimeministersettobacknorthseaoilandgasprojects",
   "837606d9f988e6a2",
   "oiltankerappearstohaltinhormuzafterirantargetsvessels",
   "eefc668f5af0f67a",
@@ -603,7 +601,9 @@
   "dba8a83a1aca7b2b",
   "indiapullsbackfromiraqioilashormuzturnstoodangerous",
   "8eacfcb5b761ac3e",
-  "crudeoilsurges23msharesgainafterq2results"
+  "crudeoilsurges23msharesgainafterq2results",
+  "5e0763bd9b2af8c0",
+  "augustwticrudeoilcontractclosesup168or2settlesat8491perbarre"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T21:35:13.625987+03:00",
+ "last_run": "2026-07-21T21:40:17.288562+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
