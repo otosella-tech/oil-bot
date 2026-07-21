@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "c5d742004b098e76",
-  "gulfoilexportsbrieflyrecoveredtopre",
-  "0da067e62f5d365f",
-  "hdfcbankdragsindiansharesdownhigheroilalsoweighs",
   "0b63bb3c7fe45699",
   "escalationofusiranhostilitiespushescrudeoilsharplyhigher",
   "b84cc524d9154fc4",
@@ -603,7 +599,11 @@
   "645b0bc915dfd296",
   "morningbidoiltrumpsai",
   "c19a611b18b12342",
-  "oilpricesup200726"
+  "oilpricesup200726",
+  "dccbba3f77470540",
+  "oilpricesdipasmediationeffortsoffsetusiranstrikesbyreuters",
+  "b949075ce6045e26",
+  "albertasaskatchewancouldmakestrongcaseformeetingusoildemandh"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 19
+  "count": 20
  },
- "last_run": "2026-07-21T07:50:18.286334+03:00",
+ "last_run": "2026-07-21T07:55:13.311459+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
