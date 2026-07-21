@@ -4,12 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "b083266fdfbcfbf4",
-  "bpconocophillipspartneriniraqsgiantoilfield",
-  "0becb143b0600f13",
-  "usoildrillingpicksupasbrentgains4",
-  "cc0b516a4150d527",
-  "brentbreaches90asmiddleeastrisksmountwithusirantensionsonthe",
   "b215084b8d8681b1",
   "gaspricesarecreepingcloseto4againafteroilslatestsurge",
   "8bf6a39ac00508ec",
@@ -603,7 +597,13 @@
   "06216c95a10c2ba3",
   "lobbyingupdate1680000ofoccidentalpetroleumcorporationlobbyin",
   "e0b8e9349dc061c1",
-  "globaloilpricessettleatonemonthhighdespitenewiranceasefirepr"
+  "globaloilpricessettleatonemonthhighdespitenewiranceasefirepr",
+  "11539f2bd5b7046d",
+  "turnmeloosewillcrudeoilpipelinecapacitykeepupwithwesterncana",
+  "acda3620273ea565",
+  "plattsinvitesfeedbackonglobalcrudeoilmarketparitypricesmetho",
+  "7e2abb81e4626083",
+  "oilpricesdipasmediationeffortsoffsetusiranstrikes"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-07-21T04:05:16.448460+03:00",
+ "last_run": "2026-07-21T04:10:18.083981+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1060,6 +1060,10 @@
   {
    "d": "2026-07-21",
    "t": "Shipping traffic falls sharply in Strait of Hormuz as Iran war escalates - ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Oil prices dip as mediation efforts offset US-Iran strikes - Reuters"
   }
  ]
 }
