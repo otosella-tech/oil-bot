@@ -4,10 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "3a87d069094a636a",
-  "currentpriceofoilasofjuly162026",
-  "71c97ab8e367a4a5",
-  "oiltankersfaceworstcasescenarioinhormuzasiranstepsupattackso",
   "5211c996409d9966",
   "usstrikesiranforninthdayiransaystwooiltankersinstraitofhormu",
   "40b9c4c71853ca59",
@@ -603,7 +599,11 @@
   "cf02fb79997d147b",
   "shipsshunstraitofhormuzasrenewedfightingstrainskeyoilcorrido",
   "0201444ad534b446",
-  "crudeoilat100perbarrelisbackontheagendakpler"
+  "crudeoilat100perbarrelisbackontheagendakpler",
+  "92107b4b8a66b21b",
+  "indianrupeehitbyoilworriesoutlookbearishdespiterbispurredinf",
+  "5429022663fde631",
+  "oilpricetodayjuly21crudeoildipsbelow90onhopesof10dayceasefir"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 16
+  "count": 17
  },
- "last_run": "2026-07-21T05:55:14.072860+03:00",
+ "last_run": "2026-07-21T06:00:28.201086+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
