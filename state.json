@@ -4,20 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "26a18bffa0ae39e8",
-  "topprofessorexplainswhywticrudeoilpricecouldsurgesoon",
-  "0d8844883a676164",
-  "forextoday2007crudeoilrisesasmiddle",
-  "f8e61321239b9c57",
-  "brentcrudetops90asusiranconflictflaresup",
-  "53f8902dc61062b5",
-  "chinaenergyandemissionstrendsjune2026snapshot",
-  "cacfd2fb5d54274e",
-  "opecisinastruggleforitssurvivalitcouldmean40oil",
-  "adeb53fa15351d68",
-  "brenttops91asussayshormuzoilflowscontinue",
-  "0d06fa20fd5b7001",
-  "crudeoilpricessurgeabove91asusiranconflictraisesglobalsupply",
   "5108aef60ce5d030",
   "notadropiranthreatweighsonasx",
   "307bbb78e3a82ec2",
@@ -603,7 +589,21 @@
   "4228fa550e7a256a",
   "iranwarupdatefivethingstoknowaftertheresumptionofhostilities",
   "f35af75957472a32",
-  "oilpriceseaseasmediatorsproposeusiranceasefire"
+  "oilpriceseaseasmediatorsproposeusiranceasefire",
+  "b185c9daa6281233",
+  "iransaysusstruckunfinishednuclearplantwarnsofsafetyrisk",
+  "d025cc3254d9eff0",
+  "tradetensionsfedrateoutlookpushoilpriceslower",
+  "e277239efdc33ecd",
+  "rupeefirmsasoilretreatstradersgaugeflowmomentumunderrbimeasu",
+  "3b90045b39e61f84",
+  "newwarningonoilgoldmansachssayscrudepricescouldcross120ifstr",
+  "bea5d885b2a93d0f",
+  "oilpricesdipastradersweighusiranconflicthouthisaudiblockade",
+  "8e4d1b79b00e7dd1",
+  "exxonmobilxomisproducingmoreoilwithfewerworkers",
+  "63054e44d9a60eca",
+  "oilpriceseaseasmediatorsproposeusiranceasefirebyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-07-21T10:20:19.973633+03:00",
+ "last_run": "2026-07-21T11:10:17.295275+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1088,6 +1088,10 @@
   {
    "d": "2026-07-21",
    "t": "Iran War update: Five things to know after the resumption of hostilities - CNBC"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Iran Says U.S. Struck Unfinished Nuclear Plant, Warns of Safety Risk"
   }
  ]
 }
