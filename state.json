@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "616dd5e88f2544bb",
-  "caspianpipelineconsortiumsaysoiltankerattackedbydronesnearit",
-  "efd668f006a10855",
-  "currentpriceofoilasofjuly202026",
   "6049d24873c5b2f3",
   "volatilityrocksenergymarketsafterbrentcrudeoilhits90dollarsa",
   "0fe9f8cb21477f90",
@@ -603,7 +599,11 @@
   "07cb5b53ddbde32c",
   "middleeastconflictsendsdowjonesdjiato3weeklowascrudeoilsurge",
   "b04fd081ce504fcb",
-  "oilpricesfall1aftermediatorsproposeusiranceasefireeuronextma"
+  "oilpricesfall1aftermediatorsproposeusiranceasefireeuronextma",
+  "b62b64d1d4d9d026",
+  "howtogetcrudeoilpalworld10",
+  "82b8d0e75beddd06",
+  "fourdronestrikesinfourdayshittankerscarryingkazakhstansoil"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-07-21T15:10:15.489818+03:00",
+ "last_run": "2026-07-21T15:15:18.135217+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1096,6 +1096,10 @@
   {
    "d": "2026-07-21",
    "t": "Oil Prices Top $90 as Kuwaiti Tanker Hit in Strait of Hormuz"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Four drone strikes in four days hit tankers carrying Kazakhstan's oil - Euronews.com"
   }
  ]
 }
