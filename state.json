@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "f93c5df909b40629",
-  "europeansharesedgeloweraheadofecbmeetingustechearningsoiljum",
   "de85f824198331fe",
   "oilpricestop90asstraitofhormuztensionsboostenergystockswhile",
   "c7f42a18cdf1544a",
@@ -603,7 +601,9 @@
   "28bd76244ae57922",
   "adnocapproves62billiongasprojectinabudhabi",
   "4061358e3c6de7c7",
-  "whytheiranwarhasntcausedaglobaloilcrisisyet"
+  "whytheiranwarhasntcausedaglobaloilcrisisyet",
+  "e870fec44b5c96e7",
+  "usstrikesiranandhouthisthreatensaudiarabiashippingasmediator"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 41
+  "count": 42
  },
- "last_run": "2026-07-21T11:50:17.169529+03:00",
+ "last_run": "2026-07-21T11:55:14.851712+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
