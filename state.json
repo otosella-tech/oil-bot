@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "db62d4c31376d8da",
-  "oxeaadvancesexpansionofbaycitychemicalcomplex",
-  "f23b41755ba73d45",
-  "freshthreattoglobaloilsupplysaudiarabiascrudeexportsatriskas",
   "bc5a72342a95c48d",
   "newukprimeministersettobacknorthseaoilandgasprojects",
   "837606d9f988e6a2",
@@ -603,7 +599,11 @@
   "d7e7aafbd921842a",
   "oilpricestop90asusstrikesiranfor10thnight",
   "9dd5b9229d48081b",
-  "sugarpricessettlehigheroncrudeoilstrength"
+  "sugarpricessettlehigheroncrudeoilstrength",
+  "dba8a83a1aca7b2b",
+  "indiapullsbackfromiraqioilashormuzturnstoodangerous",
+  "8eacfcb5b761ac3e",
+  "crudeoilsurges23msharesgainafterq2results"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T21:30:31.739151+03:00",
+ "last_run": "2026-07-21T21:35:13.625987+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1252,6 +1252,10 @@
   {
    "d": "2026-07-21",
    "t": "Oil prices top $90 as U.S. strikes Iran for 10th night - Transport Topics"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "India Pulls Back From Iraqi Oil as Hormuz Turns Too Dangerous"
   }
  ]
 }
