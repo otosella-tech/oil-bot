@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "3c452804e1bc627a",
-  "oilbackabove90asiranhitstankers",
   "921a71d2ef19d535",
   "floridadriversseesharpspikeingasprices",
   "1a6dac43adae9f9e",
@@ -603,7 +601,9 @@
   "c9dd7b566dca10c7",
   "palmfallsonweakerdalianrivalscrudeoil",
   "a896eba9f684d25b",
-  "thegeopoliticsofoilhaveshiftedundertrumpsecdougburgum"
+  "thegeopoliticsofoilhaveshiftedundertrumpsecdougburgum",
+  "90c7f2611457e92d",
+  "crudeoilpricesretreatfromonemonthhighamidusiranwartensionsbr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-07-21T06:40:18.549086+03:00",
+ "last_run": "2026-07-21T06:45:18.187909+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1068,6 +1068,10 @@
   {
    "d": "2026-07-21",
    "t": "Oil Edges Lower Amid Hopes of New U.S.-Iran Ceasefire - WSJ"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Crude oil prices retreat from one-month high amid US-Iran war tensions; Brent at $88 per barrel - livemint.com"
   }
  ]
 }
