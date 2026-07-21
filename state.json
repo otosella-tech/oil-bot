@@ -4,12 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "924b01b3636c0d8a",
-  "campaignerfightsoildrillingplansasecondtime",
-  "5fda26174a4c5ba3",
-  "hormuzdisruptionsindiascrudeoilimportsfromrussiaremainnearal",
-  "70c798c48f6c15d6",
-  "us",
   "7c17c4b23b829f25",
   "currentpriceofoilasofjuly92026",
   "a6276f5d75629e3d",
@@ -603,7 +597,13 @@
   "5620604d346ab0c3",
   "analystsseedeclineinuscrudeoilinventories",
   "9c0224b40e0a07e3",
-  "equitiesgainwithchipmakersoilrisesto5weekhigh"
+  "equitiesgainwithchipmakersoilrisesto5weekhigh",
+  "5377ea3088d78a3e",
+  "asianrefinerslooktosuezcanaltomovesaudioilamidhouthishipping",
+  "7341332a0dd217b0",
+  "houthithreatsforceoiltankeruturnsasiranchokeshormuz",
+  "df7507e7f325e213",
+  "africasbiggestoilproduceradvances196biddersas13oilblocksfail"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T20:40:19.128167+03:00",
+ "last_run": "2026-07-21T20:45:17.323197+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1232,6 +1232,14 @@
   {
    "d": "2026-07-21",
    "t": "Oil tankers forced to turn back, take longer route after Iran proxy threatens another critical choke point - New York Post"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats - Reuters"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Houthi Threats Force Oil Tanker U-Turns as Iran Chokes Hormuz - Bloomberg.com"
   }
  ]
 }
