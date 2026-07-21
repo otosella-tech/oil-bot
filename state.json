@@ -4,12 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "0b63bb3c7fe45699",
-  "escalationofusiranhostilitiespushescrudeoilsharplyhigher",
-  "b84cc524d9154fc4",
-  "stockmarketstumbleinearlytradedraggedbyhdfcbankspikeincrudeo",
-  "a6bfaf6965879571",
-  "colombiasnewgovernmentpreparesfossilfuelcomeback",
   "bbb50148d8ff1615",
   "gulfoilexportsbrieflyrecoveredtoprewarlevelsbeforelatestesca",
   "60367744e5901a71",
@@ -603,7 +597,13 @@
   "dccbba3f77470540",
   "oilpricesdipasmediationeffortsoffsetusiranstrikesbyreuters",
   "b949075ce6045e26",
-  "albertasaskatchewancouldmakestrongcaseformeetingusoildemandh"
+  "albertasaskatchewancouldmakestrongcaseformeetingusoildemandh",
+  "3642a98ec0eb3c29",
+  "usgaspricesbackuptoanaverageof4agallonagainastheusandiranlau",
+  "1fd5b7090891c9df",
+  "iranscrudeoilospsforaugust2026",
+  "a2fd432d9c6c51b3",
+  "skoreascrudeoilsupplystabledespiteuncertaintiesindustryminis"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-07-21T08:05:14.989130+03:00",
+ "last_run": "2026-07-21T08:10:17.817632+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1072,6 +1072,10 @@
   {
    "d": "2026-07-21",
    "t": "Crude oil prices retreat from one-month high amid US-Iran war tensions; Brent at $88 per barrel - livemint.com"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks - Times Republican"
   }
  ]
 }
