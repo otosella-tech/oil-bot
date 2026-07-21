@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "cd42f9de8ca62684",
-  "oilclimbedabove90beforeparinggainsasusiranattacksescalate",
   "d5542f1a9dd0cb71",
   "stockmarkettodaydowsp500nasdaqfuturesedgeupasoilturnslowerin",
   "3c17d79f4c717f18",
@@ -603,7 +601,9 @@
   "0fe02dce82cf0b28",
   "indianrefinershaltiraqoilloadingsashormuzrisksescalate",
   "f85658e5f5bbf8c5",
-  "oilfuturescrudehigherassupplythreatsoffsetdiplomaticefforts"
+  "oilfuturescrudehigherassupplythreatsoffsetdiplomaticefforts",
+  "b463ed05ce57695f",
+  "fourcrudedealsaresettomarket300000barrelsmonthlyforvivakor"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T16:15:19.089055+03:00",
+ "last_run": "2026-07-21T16:20:15.441677+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
