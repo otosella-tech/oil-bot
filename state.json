@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "d854d632e0d7da9a",
-  "forgetcrudewarpushesrefinerstothebrinkreuters",
   "a5b8f89f8fe51970",
   "globaloilpricecrosses90abarrelasusiranconflictwidens",
   "ce1ac4d4e766aede",
@@ -603,7 +601,9 @@
   "307bbb78e3a82ec2",
   "gaspriceshit4againafteroilsoarsmorethan15inaweek",
   "4f004dfc0fbb198b",
-  "usstrikesfor10thconsecutivenightasiranattackstankerinthestra"
+  "usstrikesfor10thconsecutivenightasiranattackstankerinthestra",
+  "0c693357b5e40710",
+  "statedepartmentannouncesiraqsyriacrudeoilpipeline"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 40
+  "count": 41
  },
- "last_run": "2026-07-21T11:35:15.082808+03:00",
+ "last_run": "2026-07-21T11:40:17.508408+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
