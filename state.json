@@ -4,14 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "7c17c4b23b829f25",
-  "currentpriceofoilasofjuly92026",
-  "a6276f5d75629e3d",
-  "nationalaverageforgasclimbsbackto4agallon",
-  "ced0d6f96c3bb688",
-  "usaveragegaspricerisesabove4agallonagain",
-  "6a66e76d434cd5b2",
-  "africaslargestoilproducersaysitisontracktodoubleoutputto3mil",
   "777c1ba92ca7356e",
   "futuresriseoilswingsamidirannewsbigearningsdue",
   "3336f27942116956",
@@ -603,7 +595,15 @@
   "7341332a0dd217b0",
   "houthithreatsforceoiltankeruturnsasiranchokeshormuz",
   "df7507e7f325e213",
-  "africasbiggestoilproduceradvances196biddersas13oilblocksfail"
+  "africasbiggestoilproduceradvances196biddersas13oilblocksfail",
+  "d4806879f7b5a848",
+  "ussayschinahasslashediranianoilpurchasesby40",
+  "6653d7d857365648",
+  "nationalaveragepriceofgasclimbsabove4dieselsurpasses5nationa",
+  "3763f0a6c45c6c5d",
+  "refinerselbowtraderstotakealargersliceofvenezuelasoil",
+  "a5ea49fa7b18c3b8",
+  "ieawarnsmideastconflictputsoilgasroutesatrisk"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T20:50:14.974706+03:00",
+ "last_run": "2026-07-21T20:55:14.849662+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1240,6 +1240,10 @@
   {
    "d": "2026-07-21",
    "t": "Houthi Threats Force Oil Tanker U-Turns as Iran Chokes Hormuz - Bloomberg.com"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "U.S. Says China Has Slashed Iranian Oil Purchases by 40%"
   }
  ]
 }
