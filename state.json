@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "307bbb78e3a82ec2",
-  "gaspriceshit4againafteroilsoarsmorethan15inaweek",
   "94a11dd0278035a2",
   "withindustrywaryofarcticrefugealaskasowngovernmentplansalone",
   "1094bfa7025e8b0c",
@@ -603,7 +601,9 @@
   "63054e44d9a60eca",
   "oilpriceseaseasmediatorsproposeusiranceasefirebyreuters",
   "e83eb5ebdf3da034",
-  "withrenewedconflictbetweentheusandirandepletingbufferinvento"
+  "withrenewedconflictbetweentheusandirandepletingbufferinvento",
+  "b623bac977cc5ef4",
+  "uslaunches10throundofstrikesasiransaysitisinfullscalewar"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 38
+  "count": 39
  },
- "last_run": "2026-07-21T11:25:14.600767+03:00",
+ "last_run": "2026-07-21T11:30:22.111693+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
