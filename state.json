@@ -4,12 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "6c8dbfda0c4ec4d5",
-  "averagegaspricesintheushit4again",
-  "66b95210d70d0f55",
-  "floridagaspricesincreasedby19centslastweek",
-  "3099b36b87b50134",
-  "texasgaspricesjump13centsinaweekascrudeoilnears80perbarrelho",
   "383a541b4934af4b",
   "oilrallycoolsasiranhintsdiplomacywithusisstillalive",
   "5e8c19b9173f046b",
@@ -603,7 +597,13 @@
   "458e46bffef90f5e",
   "ubscutsdiamondbackenergystockpricetargetonloweroildeck",
   "d7490ff4ce711762",
-  "indiascrudeoilimportbillsoars60asiranwardrivespriceshigher"
+  "indiascrudeoilimportbillsoars60asiranwardrivespriceshigher",
+  "445bd17f8f00210d",
+  "trumpvowstehranwillpayasusstrikesiranfor10thconsecutivenight",
+  "ca2bdd58346b1d1a",
+  "indiascrudeoilimportsdown12injunebyinvestingcom",
+  "4968e9e7b13fd91e",
+  "usiranwarpushesoilpricesabove90usgasolineabove4pergallonagai"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T16:55:13.801513+03:00",
+ "last_run": "2026-07-21T17:00:28.867685+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1160,6 +1160,14 @@
   {
    "d": "2026-07-21",
    "t": "India's Crude Oil Import Bill Soars 60% as Iran War Drives Prices Higher - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Trump Vows Tehran Will 'Pay' As U.S. Strikes Iran for 10th Consecutive Night"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "US-Iran war pushes oil prices above $90, US gasoline above $4 per gallon again - Yahoo Finance"
   }
  ]
 }
