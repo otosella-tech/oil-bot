@@ -4,12 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "c185996bfe94cf91",
-  "oilsteadiesashopesofrenewedusirannegotiationsoffsethouthithr",
-  "b3f5be50b674610d",
-  "gastops4againoilhits82hereswhythefedhasabigproblem",
-  "ee8e266ff174cf2a",
-  "oiltouches90afteriranhitstankers",
   "ce5fb40485a8d438",
   "angolatoutsapostoileconomyevenashighcrudepricespoweritsrebou",
   "4c9a656cd5ac0494",
@@ -603,7 +597,13 @@
   "44d2869591bcec8f",
   "saudicondemnshouthiblockadehowwilltherestoftheworldbeimpacte",
   "b2f3909b77057d54",
-  "northeastohiogaspricesedgehigherasnationalaveragereaches4per"
+  "northeastohiogaspricesedgehigherasnationalaveragereaches4per",
+  "fad9a4c77041e8d8",
+  "vivakorexpandscrudeoilmarketingplatformbeyond700millioninann",
+  "9dee4515db9b5a27",
+  "uscrudeoilstockpilespostweeklywithdrawal",
+  "b22b6915cc0319b0",
+  "ieawarnsmideasthostilitiesareincreasingoilsupplyconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T17:45:20.193938+03:00",
+ "last_run": "2026-07-21T17:50:16.444834+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1192,6 +1192,10 @@
   {
    "d": "2026-07-21",
    "t": "Saudi Arabia’s crude oil exports fall to record low in May - Investing.com"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "IEA Warns Mideast Hostilities Are Increasing Oil Supply Concerns - Bloomberg.com"
   }
  ]
 }
