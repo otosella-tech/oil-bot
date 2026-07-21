@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "75dee91d6c98b88c",
-  "crudeoilfuturesrise25onfirmdemandglobalcues",
-  "e36b92b7f3b9d03f",
-  "indiascrudeoilimportbillsoars60asiranwardrivespriceshigher",
   "41b5ffa2a690ef21",
   "oilclimbsamdtakesstagegoogleotherbigearningsontap",
   "6c8dbfda0c4ec4d5",
@@ -603,7 +599,11 @@
   "346493415ed83f16",
   "exclusivekazakhstanwarnsheadofkashaganoperatoritmayprosecute",
   "5688c4345332d505",
-  "aistocksgathermorestrengthevenasbrentoilspricetops90"
+  "aistocksgathermorestrengthevenasbrentoilspricetops90",
+  "9abbeebed7b37d87",
+  "oilpricesrise2onfreshattacksbyusandiran",
+  "458e46bffef90f5e",
+  "ubscutsdiamondbackenergystockpricetargetonloweroildeck"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T16:45:15.739939+03:00",
+ "last_run": "2026-07-21T16:50:18.126220+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1152,6 +1152,10 @@
   {
    "d": "2026-07-21",
    "t": "EXCLUSIVE: Kazakhstan warns head of Kashagan operator it may prosecute over failure to pay fine - Reuters"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Oil prices rise 2% on fresh attacks by US and Iran - CNBC"
   }
  ]
 }
