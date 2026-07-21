@@ -1,13 +1,9 @@
 {
  "price_base": {
   "WTI": 82.0,
-  "Brent": 88.53
+  "Brent": 90.35
  },
  "seen": [
-  "020743ea6476e873",
-  "presidenttrumpjustreimposedtheiranblockadehereswhatthatmeans",
-  "690c8159f52bcae9",
-  "crudeoilmarkethasalreadyuseditssparetire",
   "4a8930d76fd83bf0",
   "oileasesafteriransaysuscontactscontinuethroughmediators",
   "d251723ddf0e35a4",
@@ -603,7 +599,11 @@
   "5d683932124db970",
   "brentcrudeclimbsto8993asoilsrippleeffectsreachcryptomarkets",
   "2ec121fda588bc76",
-  "ieasaysmembershavereleased290millionbarrelsofoilsincemarch11"
+  "ieasaysmembershavereleased290millionbarrelsofoilsincemarch11",
+  "e9f275b722e0757e",
+  "amidusiranwarhouthirebelsthreatentoblockadeanotherkeystrait",
+  "c916a27dc3916b84",
+  "saudiarabiascrudeoilexportsdropinmaybyinvestingcom"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 49
+  "count": 50
  },
- "last_run": "2026-07-21T14:15:16.207170+03:00",
+ "last_run": "2026-07-21T14:20:17.607755+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
