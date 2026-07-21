@@ -4,12 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "a5e433aa5341cda1",
-  "tankersfearhormuztransitasiranstopsvessels",
-  "ea5cccea43036016",
-  "cpcsuspendsoilloadingsfollowingattackontankerafterbriefresum",
-  "a042d98fb2e27b54",
-  "oileasesafteriransaysuscontactscontinuethroughmediatorsal",
   "2d744bf969706e43",
   "top20companiesintheglobalcedarwoodoilmarketsize",
   "fe2ffde62e4d51b3",
@@ -603,7 +597,13 @@
   "0d8efb0eb817234b",
   "thehouthisjustannouncedablockadeonsaudiarabiawhatdoesitmeanf",
   "73841c369597fd60",
-  "ukscraps5vatonelectricity"
+  "ukscraps5vatonelectricity",
+  "965362059fd7477d",
+  "southkoreasayscrudeoilsupplystabledespiteuncertaintiesfanane",
+  "5c2b9c767ac844f1",
+  "iransaysitattackedamazoninfrastructureinbahrain",
+  "b63a5aee492a0ec1",
+  "debunkingmisinformationfromtheoilbulls"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 50
+  "count": 51
  },
- "last_run": "2026-07-21T14:35:15.243735+03:00",
+ "last_run": "2026-07-21T14:40:16.328219+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
