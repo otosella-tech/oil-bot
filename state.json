@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "dfd486e6b52339c6",
-  "phoenixenergysurpasses50000barrelsofoilperday",
   "61039e7970a72c4e",
   "augustwticrudeoilcontractclosesup074or09settlesat8323perbarr",
   "620732e7b6f3e2ea",
@@ -603,7 +601,9 @@
   "723b7f259c8c3480",
   "twosaudioiltankersmakeuturnsafterhouthiwarninginredsea",
   "85906327107bb68f",
-  "oilpricesreachafiveweekhighduetousiranattackandhouthiblockad"
+  "oilpricesreachafiveweekhighduetousiranattackandhouthiblockad",
+  "d0d352f5bba85cb8",
+  "canadianfinancialcloselooniedowncrudeoilclimbs"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T23:50:15.542750+03:00",
+ "last_run": "2026-07-21T23:55:15.904957+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
