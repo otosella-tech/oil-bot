@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "8025ad565ef3a2fc",
-  "oilpricesretreatafterbrentbrieflytops90onrenewedmiddleeastte",
-  "69fa38335727ed08",
-  "oilpricesspikeabove90abarrelcomment",
   "fd01a531461f01a4",
   "hownewsomscomplexhistorywiththeoilindustrycouldaffectapresid",
   "cd42f9de8ca62684",
@@ -603,7 +599,11 @@
   "eefb3b3a94fe4a77",
   "whyoilpriceshaventgonecrazydespite5monthsofusiranwar",
   "05d7e2f248a48d77",
-  "ieamembersrelease290millionbarrelsofoilsincemarch"
+  "ieamembersrelease290millionbarrelsofoilsincemarch",
+  "391a8ed526e0adb1",
+  "oilpricesrisenearly2onfreshattacksbyusandiran",
+  "0fe02dce82cf0b28",
+  "indianrefinershaltiraqoilloadingsashormuzrisksescalate"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T16:05:13.211064+03:00",
+ "last_run": "2026-07-21T16:10:19.886147+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1136,6 +1136,14 @@
   {
    "d": "2026-07-21",
    "t": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Oil prices rise nearly 2% on fresh attacks by US and Iran - Reuters"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Indian Refiners Halt Iraq Oil Loadings as Hormuz Risks Escalate - Bloomberg.com"
   }
  ]
 }
