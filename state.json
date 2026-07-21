@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "b1095be04854e466",
-  "yemenshouthisdeclarenavalblockadeofsaudiarabiawhattoknow",
-  "f2d5329205f0163a",
-  "nigeriatargetsrecord3millionbpdoiloutputby2030",
   "e8621a57105ddaa0",
   "yemensiranianbackedhouthissaytheywillblocksaudishippingatred",
   "5a7ff0826ce5a58c",
@@ -603,7 +599,11 @@
   "c6ccfe7926b04273",
   "houthiblockadecouldworsenanalreadyfragileoilmarket",
   "638b679454adbf79",
-  "energybriefsnewthreatsinoiltankermovements"
+  "energybriefsnewthreatsinoiltankermovements",
+  "f198d8cf57d344c8",
+  "iraqsoilministersaysusenergydealsworthabout200billion",
+  "e3e337e01526c757",
+  "ieasaysalternativesuppliescontinuetosupportoilmarketsdespite"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T23:05:14.318886+03:00",
+ "last_run": "2026-07-21T23:10:18.531883+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1262,6 +1262,10 @@
   {
    "d": "2026-07-21",
    "t": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected - CNBC"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Iraq's oil minister says US energy deals worth about $200 billion - Reuters"
   }
  ]
 }
