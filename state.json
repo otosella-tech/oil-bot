@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "ce5fb40485a8d438",
-  "angolatoutsapostoileconomyevenashighcrudepricespoweritsrebou",
   "4c9a656cd5ac0494",
   "oileasesonirancommentsinlightweekfordatanationalnewsusnews",
   "2213d369ed24ea85",
@@ -603,7 +601,9 @@
   "9dee4515db9b5a27",
   "uscrudeoilstockpilespostweeklywithdrawal",
   "b22b6915cc0319b0",
-  "ieawarnsmideasthostilitiesareincreasingoilsupplyconcerns"
+  "ieawarnsmideasthostilitiesareincreasingoilsupplyconcerns",
+  "2b80cc823b52a7f4",
+  "indianrefinerscometotherescueofrussiasoilexporters"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T17:50:16.444834+03:00",
+ "last_run": "2026-07-21T17:55:16.890072+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-07-21",
    "t": "IEA Warns Mideast Hostilities Are Increasing Oil Supply Concerns - Bloomberg.com"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Indian Refiners Come to the Rescue of Russia’s Oil Exporters - Bloomberg.com"
   }
  ]
 }
