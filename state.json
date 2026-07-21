@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "3e12665dc9632fd2",
-  "wtiandbrentpushupwardextendingyeartodategains",
-  "4cab09dd1003d326",
-  "usgasolinepricesclimbbackabove4pergallon",
   "14fcbb9bc42d3657",
   "crudeoilhitsgoldbutcomextradingmostbullishsincerecordpricepe",
   "d1f5938677ba5687",
@@ -603,7 +599,11 @@
   "7fbc1dfbf92a0cb2",
   "wtioilralliesasmarketsfearfurthermiddleeastescalation",
   "f206ece163f54d73",
-  "crudeoilanalysisbrenttargets100asrefiningmarginhitsrecord"
+  "crudeoilanalysisbrenttargets100asrefiningmarginhitsrecord",
+  "f41b609d31ee0c5a",
+  "oilpricesrisetofiveweekhighonusiranattackshouthiblockadethre",
+  "d3e5712ae199cdb8",
+  "risingcrudeoilpricessupportsugar"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T19:30:24.823442+03:00",
+ "last_run": "2026-07-21T19:35:13.359122+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1212,6 +1212,10 @@
   {
    "d": "2026-07-21",
    "t": "Oil prices resist the US-Iran war - Inspenet"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Oil prices rise to five-week high on US-Iran attacks, Houthi blockade threat - Reuters"
   }
  ]
 }
