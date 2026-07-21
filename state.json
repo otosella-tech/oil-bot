@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "1a6dac43adae9f9e",
-  "chinacutscrudeimportsandrefineryrunssqueezingglobaloilsuppli",
   "02a5ecd00747ddbb",
   "ryanairprofithitbyrisingoilpricesforcingfarestimulus",
   "fb4ac5e740dae5ed",
@@ -603,7 +601,9 @@
   "90c7f2611457e92d",
   "crudeoilpricesretreatfromonemonthhighamidusiranwartensionsbr",
   "8c235c6fde50bae2",
-  "oilpriceforecastredseasupplyriskscouldpushcrudeoilto120"
+  "oilpriceforecastredseasupplyriskscouldpushcrudeoilto120",
+  "b6f80dbee0d9242b",
+  "watchbrouhardonoilpricesthemarketisexhausted"
  ],
  "releases_done": {},
  "last_digest": "2026-07-20",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 19
  },
- "last_run": "2026-07-21T07:15:18.572802+03:00",
+ "last_run": "2026-07-21T07:20:17.493936+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
