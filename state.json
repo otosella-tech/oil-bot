@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "67eee3ef570194ee",
-  "crudeoilpriceshavefallentoprewarlevelsbutgaspriceshaventwhat",
-  "db91e25968df0730",
-  "oilmarketsonedgeasshippingdwindlesingulf",
   "8025ad565ef3a2fc",
   "oilpricesretreatafterbrentbrieflytops90onrenewedmiddleeastte",
   "69fa38335727ed08",
@@ -603,7 +599,11 @@
   "aa44e6f768945b7c",
   "crudeoilpricesrise2onfreshattacksbyusandiran",
   "5f938141efd4f334",
-  "wtioilforecastmiddleeasttensionskeepcrudeabove84despiteopecs"
+  "wtioilforecastmiddleeasttensionskeepcrudeabove84despiteopecs",
+  "eefb3b3a94fe4a77",
+  "whyoilpriceshaventgonecrazydespite5monthsofusiranwar",
+  "05d7e2f248a48d77",
+  "ieamembersrelease290millionbarrelsofoilsincemarch"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T16:00:31.405599+03:00",
+ "last_run": "2026-07-21T16:05:13.211064+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1132,6 +1132,10 @@
   {
    "d": "2026-07-21",
    "t": "WTI Oil Forecast: Middle East Tensions Keep Crude Above $84 Despite OPEC+ Supply Increase - FXLeaders"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters"
   }
  ]
 }
