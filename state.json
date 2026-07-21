@@ -4,12 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "bbb50148d8ff1615",
-  "gulfoilexportsbrieflyrecoveredtoprewarlevelsbeforelatestesca",
-  "60367744e5901a71",
-  "hormuzcrisisimpactindiascrudeimportssurge60inapriljunenetoil",
-  "bab66d1e2d22ac0b",
-  "brentrisesabove90onescalatingusiranconflicthormuzsupplyconce",
   "282374fec1e93eae",
   "tickerparamountagreesonmergerdelayusoilfirmsseeknewgulftrade",
   "e0cf065135b46203",
@@ -603,7 +597,13 @@
   "1fd5b7090891c9df",
   "iranscrudeoilospsforaugust2026",
   "a2fd432d9c6c51b3",
-  "skoreascrudeoilsupplystabledespiteuncertaintiesindustryminis"
+  "skoreascrudeoilsupplystabledespiteuncertaintiesindustryminis",
+  "ab5f7245f170444a",
+  "opecsupcomingaugustmeetingfuelconsiderationsduetohormuzvolat",
+  "8b8ed04f9b814661",
+  "thecommoditiesfeedoilstabilisesdespitehouthisredseathreat",
+  "c76ad2856c7fac67",
+  "120crudeoilscareisbackindiahasplentyatstake"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-07-21T08:10:17.817632+03:00",
+ "last_run": "2026-07-21T08:15:17.871861+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1076,6 +1076,10 @@
   {
    "d": "2026-07-21",
    "t": "US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks - Times Republican"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "OPEC+’s Upcoming August Meeting: Fuel Considerations due to Hormuz Volatility - Modern Diplomacy"
   }
  ]
 }
