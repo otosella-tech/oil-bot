@@ -4,12 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "eece9df510f90393",
-  "oilgeopoliticalshockstightencrudeanddieselmarketsrabobank",
-  "ddc648618dacbb63",
-  "usgasolinetops4agallonasmiddleeastconflictdrivesoilmarketfea",
-  "4968e9e7b13fd91e",
-  "usiranwarpushesoilpricesabove90usgasolineabove4pergallonagai",
   "75dee91d6c98b88c",
   "crudeoilfuturesrise25onfirmdemandglobalcues",
   "e36b92b7f3b9d03f",
@@ -603,7 +597,13 @@
   "aa35490f2cf17d0e",
   "asiasoilbuyersfaceus100perbarrelriskashouthisthreatensaudibl",
   "6104ad2a9c6f1c5c",
-  "oilpricesriseover2onfreshattacksbyusandiran"
+  "oilpricesriseover2onfreshattacksbyusandiran",
+  "4524dae83aa68608",
+  "vivakoraddscrudeoilmarketingdealsworth289millionannually",
+  "346493415ed83f16",
+  "exclusivekazakhstanwarnsheadofkashaganoperatoritmayprosecute",
+  "5688c4345332d505",
+  "aistocksgathermorestrengthevenasbrentoilspricetops90"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T16:40:18.910392+03:00",
+ "last_run": "2026-07-21T16:45:15.739939+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1148,6 +1148,10 @@
   {
    "d": "2026-07-21",
    "t": "Oil prices rise over 2% on fresh attacks by US and Iran - Reuters"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "EXCLUSIVE: Kazakhstan warns head of Kashagan operator it may prosecute over failure to pay fine - Reuters"
   }
  ]
 }
