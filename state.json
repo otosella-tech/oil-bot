@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "2417f6c54551d2ae",
-  "whytheeustillcantagreeonitsnextroundofrussiasanctions",
   "bb3e080156957a29",
   "ashouthisdeclareredseablockadeonsaudiarabiaoilmarketsbracefo",
   "34ab33e91d8322cd",
@@ -603,7 +601,9 @@
   "52fa0d9e7de629c8",
   "ieawarnsofrisktoenergysuppliesfromescalationofiranconflict",
   "cc7bd66333945b79",
-  "hegsethcainefacebipartisanscrutinyasiranwarescalates"
+  "hegsethcainefacebipartisanscrutinyasiranwarescalates",
+  "8914e58e810c42de",
+  "hegsethfacesbipartisanscrutinyasiranwarescalates"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 4
+  "count": 5
  },
- "last_run": "2026-07-22T01:10:15.035129+03:00",
+ "last_run": "2026-07-22T01:15:14.897626+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
