@@ -4,8 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "8d3fd71d3e149c3a",
-  "goldedgesdownasusiranescalationliftsoilpricesratehikebets",
   "354f7e9807f448cf",
   "sp500forecastchipbouncetests50daymaasoilpullsback",
   "ad477bb4cca866f9",
@@ -603,7 +601,9 @@
   "9179624f157db91b",
   "theoilmarketismuchmorevulnerablethantrumpbelieves",
   "de62b2e8e745e664",
-  "iranexported6billionworthofoiltochinaduringtruceviashiptoshi"
+  "iranexported6billionworthofoiltochinaduringtruceviashiptoshi",
+  "f545db17b77e7b4c",
+  "oilpricesriseaftertrumpsaysiranwillpayforkillingusservicemem"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 2
+  "count": 3
  },
- "last_run": "2026-07-22T00:50:16.096999+03:00",
+ "last_run": "2026-07-22T00:55:14.215829+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
