@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "03870f972e6eb1f2",
-  "morningbusinessreportoilpricessurgeasgascostsriseandstockssl",
-  "07211780d9d4d814",
-  "hormuzbottleneckoilcreepstoward90withthreatof150peak",
   "87db800e772fc632",
   "chinaslngbuyingspreetightensglobalgasmarket",
   "5021afb88ad54e83",
@@ -603,7 +599,11 @@
   "d2c890cffcc7b589",
   "chinacutsiraniancrudeoilimportsby40amiduspressure",
   "ed3901ca9cc7590d",
-  "saudicrudeflowfromredseahitrecordbeforehouthiwarning"
+  "saudicrudeflowfromredseahitrecordbeforehouthiwarning",
+  "c23cc70ec3498a95",
+  "iranwarlookbeyondstockstounderstandstateofeconomyexpertssay",
+  "e995e2e3b8181f15",
+  "yourtuesdayjuly21guidefivethingstodointheoilcity"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T15:40:16.954313+03:00",
+ "last_run": "2026-07-21T15:45:19.035841+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1108,6 +1108,10 @@
   {
    "d": "2026-07-21",
    "t": "Saudi Crude Flow From Red Sea Hit Record Before Houthi Warning - Bloomberg.com"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Iran war: Look beyond stocks to understand state of economy, experts say - Al Jazeera"
   }
  ]
 }
