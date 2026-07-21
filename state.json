@@ -4,10 +4,6 @@
   "Brent": 90.35
  },
  "seen": [
-  "777c1ba92ca7356e",
-  "futuresriseoilswingsamidirannewsbigearningsdue",
-  "3336f27942116956",
-  "listingsmortgageratesandthepriceofoilnumberstoknow",
   "f49a4abdde8eb049",
   "dronestrikehaltsexportsatstrategicblackseaoilterminal",
   "d18b62b4076d8afc",
@@ -603,7 +599,11 @@
   "3763f0a6c45c6c5d",
   "refinerselbowtraderstotakealargersliceofvenezuelasoil",
   "a5ea49fa7b18c3b8",
-  "ieawarnsmideastconflictputsoilgasroutesatrisk"
+  "ieawarnsmideastconflictputsoilgasroutesatrisk",
+  "b68a47b2432561d6",
+  "insidewashingtonsquietbidtobreakchinasgriponiraq",
+  "e29f3ed7ed4f0a01",
+  "saudiarabiaslamshouthiblockadehowwillrestoftheworldbeimpacte"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -615,7 +615,7 @@
   "date": "2026-07-21",
   "count": 60
  },
- "last_run": "2026-07-21T20:55:14.849662+03:00",
+ "last_run": "2026-07-21T21:00:27.111714+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
@@ -1244,6 +1244,10 @@
   {
    "d": "2026-07-21",
    "t": "U.S. Says China Has Slashed Iranian Oil Purchases by 40%"
+  },
+  {
+   "d": "2026-07-21",
+   "t": "Inside Washington’s Quiet Bid to Break China’s Grip on Iraq"
   }
  ]
 }
