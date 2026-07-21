@@ -4,8 +4,6 @@
   "Brent": 88.53
  },
  "seen": [
-  "7c53c4259fa5f4a3",
-  "oilpricesextendgainsonescalatingmiddleeasthostilities",
   "773ae295711352b3",
   "oilholdsnear90abarrelusstockfuturesedgehigher",
   "71895e1a8de1df73",
@@ -603,7 +601,9 @@
   "24689e86f017e6cd",
   "rupeestrengthensasoilpricesslipontrucehopes",
   "b6a54dd1a55e3ce3",
-  "indianoilcorpcancelsiraqoilliftingamidattackssourcessay"
+  "indianoilcorpcancelsiraqoilliftingamidattackssourcessay",
+  "6372ea713b92bfe5",
+  "oilpricescouldsurpass120perbarrelifdisruptionsinstraitofhorm"
  ],
  "releases_done": {},
  "last_digest": "2026-07-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-21",
-  "count": 43
+  "count": 44
  },
- "last_run": "2026-07-21T12:30:24.211116+03:00",
+ "last_run": "2026-07-21T12:35:15.136605+03:00",
  "sent_stories": [
   {
    "d": "2026-07-18",
