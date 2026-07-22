@@ -4,10 +4,6 @@
   "Brent": 93.89
  },
  "seen": [
-  "5620604d346ab0c3",
-  "analystsseedeclineinuscrudeoilinventories",
-  "9c0224b40e0a07e3",
-  "equitiesgainwithchipmakersoilrisesto5weekhigh",
   "5377ea3088d78a3e",
   "asianrefinerslooktosuezcanaltomovesaudioilamidhouthishipping",
   "7341332a0dd217b0",
@@ -603,7 +599,11 @@
   "11539f2bd5b7046d",
   "turnmeloosewillcrudeoilpipelinecapacitykeepupwithwesterncana",
   "d69c602bbe4f306f",
-  "goldmansachsforecasts120brentcrudeoilbyq42026amidglobalinsta"
+  "goldmansachsforecasts120brentcrudeoilbyq42026amidglobalinsta",
+  "aba7a0bbb0e182eb",
+  "globaloilpricessettleat6weekhighaftertopping95abarrelashopes",
+  "ba2d2c4ba9cc24b2",
+  "houthithreatsignitenewoilpricesurge"
  ],
  "releases_done": {
   "2026-07-22|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-22",
   "count": 60
  },
- "last_run": "2026-07-22T23:20:16.545333+03:00",
+ "last_run": "2026-07-22T23:25:15.465995+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
@@ -1355,6 +1355,14 @@
   {
    "d": "2026-07-22",
    "t": "Africa’s Richest Man Proposes To Build 700,000 Bpd Oil Refinery In Kenya"
+  },
+  {
+   "d": "2026-07-22",
+   "t": "Global oil prices settle at 6-week high after topping $95 a barrel, as hopes dim for de-escalation of Iran war - MarketWatch"
+  },
+  {
+   "d": "2026-07-22",
+   "t": "Houthi Threats Ignite New Oil Price Surge - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
