@@ -4,12 +4,6 @@
   "Brent": 93.89
  },
  "seen": [
-  "c23cc70ec3498a95",
-  "iranwarlookbeyondstockstounderstandstateofeconomyexpertssay",
-  "e995e2e3b8181f15",
-  "yourtuesdayjuly21guidefivethingstodointheoilcity",
-  "288b7aa9b1ecfeb1",
-  "icecottonedgeshigheronweatherconcernsstrongercrudeoil",
   "d4941fd8efe243ee",
   "chinacutsiranianoilpurchasesby40bessentsays",
   "fb8ddc5bb03f518a",
@@ -603,7 +597,13 @@
   "7cfe5146703c07fc",
   "houthisdeploymissilesanddronestoattackshipsinsouthernredsean",
   "5cccbc75155f5136",
-  "indiascentralbanksold6billioninmaytodefendoilhitrupeedatasho"
+  "indiascentralbanksold6billioninmaytodefendoilhitrupeedatasho",
+  "24faeb7b2cbaa510",
+  "chinaholdskeystopostwaroilpriceslplfinancialcommentaries",
+  "933dc8ace2d80e3c",
+  "fujairahdataoilproductstocksdropforfirsttimeinfiveweeks",
+  "7dca0b27f34df8dd",
+  "trumpthreatenstodestroybridgespowerplantseverytimeiranattack"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-07-22T16:40:15.432087+03:00",
+ "last_run": "2026-07-22T16:45:20.570128+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
