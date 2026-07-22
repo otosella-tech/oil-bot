@@ -4,8 +4,6 @@
   "Brent": 92.65
  },
  "seen": [
-  "8bada9e5cb355e13",
-  "nasdaqlosesearlygainsasfearspersistoveroilpricesai",
   "c77853b68ee8fa52",
   "halliburtonsecuresiraqcontractforbinumarandsindbadfielddevel",
   "09d1cfaa035390ed",
@@ -603,7 +601,9 @@
   "e23cad19a1bb0988",
   "threatstoglobalcrudesuppliespushpriceshigher",
   "721f34917e205939",
-  "theclosingbellaistocksleadwallstreethigherevenasbrentoilspri"
+  "theclosingbellaistocksleadwallstreethigherevenasbrentoilspri",
+  "5189f882e4c4d52b",
+  "usgaspricesbackuptoanaverageof4agallonagain"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-22",
   "count": 10
  },
- "last_run": "2026-07-22T05:35:11.697434+03:00",
+ "last_run": "2026-07-22T05:40:15.911981+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
