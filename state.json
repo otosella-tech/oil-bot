@@ -4,8 +4,6 @@
   "Brent": 92.65
  },
  "seen": [
-  "ab5f7245f170444a",
-  "opecsupcomingaugustmeetingfuelconsiderationsduetohormuzvolat",
   "8b8ed04f9b814661",
   "thecommoditiesfeedoilstabilisesdespitehouthisredseathreat",
   "c76ad2856c7fac67",
@@ -603,7 +601,9 @@
   "7208a1118e48670e",
   "surgingoilpricespushjapansimportbilltoanunprecedentedhigh",
   "e81bd455a7818d13",
-  "analysismideastwarescalationthreatensrecoveryinglobaloilrefi"
+  "analysismideastwarescalationthreatensrecoveryinglobaloilrefi",
+  "3b6c350bd9d2e692",
+  "thesteepenerwasbuiltonabarrelofoil"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -615,7 +615,7 @@
   "date": "2026-07-22",
   "count": 33
  },
- "last_run": "2026-07-22T10:35:14.575758+03:00",
+ "last_run": "2026-07-22T10:40:18.530937+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
