@@ -4,14 +4,6 @@
   "Brent": 93.89
  },
  "seen": [
-  "6ea833fd38be65ea",
-  "crudeoilfuturessurgeover2amidrisingtensionsinthemidd",
-  "cca462b7bba8e380",
-  "oilfuturescrudehigherassupplythreatoffsetdiplomaticefforts",
-  "1a25b8baeba42590",
-  "indiabecameworldstoplong",
-  "c69195119d882a56",
-  "chartofthedaywticrudeoilgoesbullishtradetrend",
   "40da127b57879a58",
   "crudeoilpricesrallyonglobalsupplyrisks",
   "97a8715919d94f59",
@@ -603,7 +595,15 @@
   "8907b60e3e49d939",
   "eiauscrudeinventoriesup2millionbbl",
   "5aab18218ffa2fb9",
-  "oilpriceshockscouldraisethecostofhivmedicinesbyupto44unitaid"
+  "oilpriceshockscouldraisethecostofhivmedicinesbyupto44unitaid",
+  "90177cb5929b1d1b",
+  "oilsurgespast95asusdownplaysirandiplomacyand2ndkeytraderoute",
+  "69819ac9ac5ec1e9",
+  "greenssuetoblockstreamlinedwaterpermitforoilandgaspipelines",
+  "3f6aac303f349160",
+  "ushassmuggledupto500millionbarrelsofoilthroughgulfofomanhegs",
+  "ec9fbf168db7f5ac",
+  "usirantensionspersistbrentcruderisesabove95abarrelforfirstti"
  ],
  "releases_done": {
   "2026-07-22|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-22",
   "count": 60
  },
- "last_run": "2026-07-22T20:15:17.344768+03:00",
+ "last_run": "2026-07-22T20:20:14.455604+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
@@ -1327,6 +1327,10 @@
   {
    "d": "2026-07-22",
    "t": "Oil prices jump on Mideast war, stock markets diverge - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-22",
+   "t": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted - NBC News"
   }
  ]
 }
