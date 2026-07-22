@@ -4,8 +4,6 @@
   "Brent": 92.65
  },
  "seen": [
-  "4f1e7f13234e60ab",
-  "whyindiacoulddominatethesustainableaviationfuelmarket",
   "01ddd9e2e607b964",
   "shippingtrafficfallssharplyinstraitofhormuzasiranwarescalate",
   "90f70225c8c1bb89",
@@ -603,7 +601,9 @@
   "4f400085d2fe94b8",
   "goldmansachswarnscrudeoilpricesmaysurpass120",
   "fd9f313910c0cbde",
-  "goldholdsgainastradersweighimpactofoilrisksonrates"
+  "goldholdsgainastradersweighimpactofoilrisksonrates",
+  "a3268073704a739f",
+  "indianrupeereboundbetsvanishassoaringcrudebluntsinflows"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 9
+  "count": 10
  },
- "last_run": "2026-07-22T04:35:12.458748+03:00",
+ "last_run": "2026-07-22T04:40:16.097789+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
