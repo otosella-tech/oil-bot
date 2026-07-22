@@ -4,8 +4,6 @@
   "Brent": 92.65
  },
  "seen": [
-  "abab70c6fe7edb15",
-  "withtheus",
   "1acbe642fbb6abcc",
   "withtheusirandealcollapsinghowexposedareoilmarketsrightnow",
   "083fbd6fac3b65ad",
@@ -603,7 +601,9 @@
   "8743298c240d7aa5",
   "elliottwaveanalysiswticrudeoilcl5swingrallyfromjulylowfavors",
   "9f4b08e6455c0966",
-  "whattoexpectfromiranandtheoilpricefortherestof2026"
+  "whattoexpectfromiranandtheoilpricefortherestof2026",
+  "98a41c070298af7e",
+  "oilpricesclimbasus"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 11
+  "count": 12
  },
- "last_run": "2026-07-22T06:05:12.832865+03:00",
+ "last_run": "2026-07-22T06:10:15.736468+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
