@@ -4,8 +4,6 @@
   "Brent": 84.56
  },
  "seen": [
-  "cf6dfe628f61e23c",
-  "winnersandlosersintheoilshock",
   "d140dd1e90372827",
   "ieaexecutivedirectorstatementonoilmarkets",
   "412b85ddd92c05c9",
@@ -603,7 +601,9 @@
   "794a513fc460f9c1",
   "funfactsaboutoilwellsontheoklahomastatecapitolgrounds",
   "a11b8648365b7241",
-  "oilclimbsover3tonearsixweekhighasconflictthreatenskeyoiltran"
+  "oilclimbsover3tonearsixweekhighasconflictthreatenskeyoiltran",
+  "5bc538ca6fbdc0b6",
+  "currentpriceofoilasofjuly152026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -615,7 +615,7 @@
   "date": "2026-07-22",
   "count": 48
  },
- "last_run": "2026-07-22T15:15:18.742259+03:00",
+ "last_run": "2026-07-22T15:20:16.856641+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
