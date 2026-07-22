@@ -4,8 +4,6 @@
   "Brent": 94.69
  },
  "seen": [
-  "f7a578689b143f82",
-  "maurelpromactivityforthefirsthalfof2026",
   "a93bab4f99d60cee",
   "koreascrudeoilsupplystabledespiteuncertaintiesindustryminist",
   "2f2d69d31c3dc4f4",
@@ -603,7 +601,9 @@
   "777f3c544da78e76",
   "southbowbridgerprojecttargetscushingbutcouldfaceenvironmenta",
   "49f24f7ffb091994",
-  "goldmanwarnsoilcouldhit120asmiddleeastwardragson"
+  "goldmanwarnsoilcouldhit120asmiddleeastwardragson",
+  "eab0f75bace526bb",
+  "oilpricesjump4asrubiosaysirannotseriousaboutpeacetalks"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-07-22T11:20:15.651731+03:00",
+ "last_run": "2026-07-22T11:25:13.561413+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-07-22",
    "t": "U.S.-Iran Conflict Threatens Long-Term Energy Shock Across Asia"
+  },
+  {
+   "d": "2026-07-22",
+   "t": "Oil prices jump 4% as Rubio says Iran 'not serious' about peace talks - CNBC"
   }
  ]
 }
