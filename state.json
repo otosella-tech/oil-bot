@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 83.65,
-  "Brent": 90.35
+  "WTI": 85.67,
+  "Brent": 92.65
  },
  "seen": [
-  "1a22bcf3c2611c51",
-  "uscrudeoilgasolineinventoriesstillfalling",
   "4f1e7f13234e60ab",
   "whyindiacoulddominatethesustainableaviationfuelmarket",
   "01ddd9e2e607b964",
@@ -603,7 +601,9 @@
   "fd1df318b8ce6316",
   "ucdmeasurespurityofavocadooil",
   "4f400085d2fe94b8",
-  "goldmansachswarnscrudeoilpricesmaysurpass120"
+  "goldmansachswarnscrudeoilpricesmaysurpass120",
+  "fd9f313910c0cbde",
+  "goldholdsgainastradersweighimpactofoilrisksonrates"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-22",
   "count": 9
  },
- "last_run": "2026-07-22T04:30:17.249286+03:00",
+ "last_run": "2026-07-22T04:35:12.458748+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
