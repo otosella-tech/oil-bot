@@ -4,10 +4,6 @@
   "Brent": 93.89
  },
  "seen": [
-  "5c2b9c767ac844f1",
-  "iransaysitattackedamazoninfrastructureinbahrain",
-  "b63a5aee492a0ec1",
-  "debunkingmisinformationfromtheoilbulls",
   "2f7c440f7f4b41f5",
   "ieasayssubstantialemergencyoilstocksremainafterrecordrelease",
   "1992218cc08f2e32",
@@ -603,7 +599,11 @@
   "cbcf2119626621a6",
   "iranwarlatestkeyoilchokepointsinmideastfacedisruptionasthrea",
   "350a397159b1ed28",
-  "yourwednesdayjuly22guidefivethingstodointheoilcity"
+  "yourwednesdayjuly22guidefivethingstodointheoilcity",
+  "b89b5fa3ab0ca5d5",
+  "usstocksmaymovebacktothedownsideamidsurgingcrudeoilprices",
+  "a871654ca1fb4592",
+  "norwaysnationaloilcompanysprofitsdoubleto115bnamidwaroniran"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 52
+  "count": 53
  },
- "last_run": "2026-07-22T16:05:14.818269+03:00",
+ "last_run": "2026-07-22T16:10:15.649808+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
