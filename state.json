@@ -4,16 +4,6 @@
   "Brent": 93.89
  },
  "seen": [
-  "47175fc2a4a876df",
-  "oilshockreturnsasusgaspricestop4onnewhormuzstandoff",
-  "c1bde54acaa81484",
-  "freshstraitofhormuzattacksdeepenglobaloilsecurityfearssaysie",
-  "27404a116a830cdc",
-  "volatilityrocksenergymarketsafterbrentcrudeoilhits90dollarsa",
-  "d2c890cffcc7b589",
-  "chinacutsiraniancrudeoilimportsby40amiduspressure",
-  "ed3901ca9cc7590d",
-  "saudicrudeflowfromredseahitrecordbeforehouthiwarning",
   "c23cc70ec3498a95",
   "iranwarlookbeyondstockstounderstandstateofeconomyexpertssay",
   "e995e2e3b8181f15",
@@ -603,7 +593,17 @@
   "de32b14dd38ea3db",
   "energysharespushupeuropesstoxx600investorswatchmiddleeastbig",
   "0c693357b5e40710",
-  "statedepartmentannouncesiraqsyriacrudeoilpipeline"
+  "statedepartmentannouncesiraqsyriacrudeoilpipeline",
+  "6955c9cf4af0fe1d",
+  "chipcompaniesandotheraiwinnersdragwallstreetloweragainwhilec",
+  "efd668f006a10855",
+  "currentpriceofoilasofjuly202026",
+  "3b1ee2a158375941",
+  "oilpricehopsover95markasmiddleeastconflictescalates",
+  "7cfe5146703c07fc",
+  "houthisdeploymissilesanddronestoattackshipsinsouthernredsean",
+  "5cccbc75155f5136",
+  "indiascentralbanksold6billioninmaytodefendoilhitrupeedatasho"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-07-22T16:35:16.936858+03:00",
+ "last_run": "2026-07-22T16:40:15.432087+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-07-22",
    "t": "Global Oil Price Jumps as War Threats Intensify - The New York Times"
+  },
+  {
+   "d": "2026-07-22",
+   "t": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says - CNBC"
   }
  ]
 }
