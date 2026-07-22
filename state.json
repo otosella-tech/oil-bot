@@ -4,14 +4,6 @@
   "Brent": 93.89
  },
  "seen": [
-  "4524dae83aa68608",
-  "vivakoraddscrudeoilmarketingdealsworth289millionannually",
-  "346493415ed83f16",
-  "exclusivekazakhstanwarnsheadofkashaganoperatoritmayprosecute",
-  "5688c4345332d505",
-  "aistocksgathermorestrengthevenasbrentoilspricetops90",
-  "9abbeebed7b37d87",
-  "oilpricesrise2onfreshattacksbyusandiran",
   "458e46bffef90f5e",
   "ubscutsdiamondbackenergystockpricetargetonloweroildeck",
   "d7490ff4ce711762",
@@ -603,7 +595,15 @@
   "7638a1b2cabac7d7",
   "crudeoilextendsgainsashopesfadeforpeacetalksrubiosaysirannot",
   "4c6ce7516a4947e4",
-  "wallstreetfuturesretreatasoilrallyovershadowsoptimismbeforeb"
+  "wallstreetfuturesretreatasoilrallyovershadowsoptimismbeforeb",
+  "e578fc18c92acb0d",
+  "thewinnersandlosersduringoilsworsttrafficjaminyears",
+  "8fb586ab3fe5233a",
+  "globaloilpricesriseabove95abarrelforthefirsttimein6weeksasho",
+  "79bb00c8a917aab7",
+  "useiacrudeoilinventories20mlnbarrelsinlatestweekfromprevious",
+  "e23dfcb72f5593b8",
+  "tankersmakesharputurnsafterhouthishippingthreat"
  ],
  "releases_done": {
   "2026-07-22|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-22",
   "count": 60
  },
- "last_run": "2026-07-22T17:45:15.064370+03:00",
+ "last_run": "2026-07-22T17:50:18.170061+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
@@ -1291,6 +1291,14 @@
   {
    "d": "2026-07-22",
    "t": "Oil Stocks To Watch If Strait Of Hormuz Tension Pushes Energy Prices Higher - simplywall.st"
+  },
+  {
+   "d": "2026-07-22",
+   "t": "Global oil prices rise above $95 a barrel for the first time in 6 weeks as hopes dim for de-escalation of Iran war - MarketWatch"
+  },
+  {
+   "d": "2026-07-22",
+   "t": "Tankers make sharp U-turns after Houthi shipping threat - BBC"
   }
  ]
 }
