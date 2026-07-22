@@ -4,8 +4,6 @@
   "Brent": 94.69
  },
  "seen": [
-  "a93bab4f99d60cee",
-  "koreascrudeoilsupplystabledespiteuncertaintiesindustryminist",
   "2f2d69d31c3dc4f4",
   "oilreversesgainsonrenewedhopeofpeaceiniran",
   "46d1a2de66726aba",
@@ -603,7 +601,9 @@
   "49f24f7ffb091994",
   "goldmanwarnsoilcouldhit120asmiddleeastwardragson",
   "eab0f75bace526bb",
-  "oilpricesjump4asrubiosaysirannotseriousaboutpeacetalks"
+  "oilpricesjump4asrubiosaysirannotseriousaboutpeacetalks",
+  "815c808cad420b98",
+  "chinasoiloutputhitsrecordhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -615,7 +615,7 @@
   "date": "2026-07-22",
   "count": 37
  },
- "last_run": "2026-07-22T11:25:13.561413+03:00",
+ "last_run": "2026-07-22T11:30:21.689479+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
