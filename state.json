@@ -4,8 +4,6 @@
   "Brent": 92.65
  },
  "seen": [
-  "3642a98ec0eb3c29",
-  "usgaspricesbackuptoanaverageof4agallonagainastheusandiranlau",
   "1fd5b7090891c9df",
   "iranscrudeoilospsforaugust2026",
   "a2fd432d9c6c51b3",
@@ -603,7 +601,9 @@
   "bda845d8598f341d",
   "asianstocksclingtogainsasusreboundsoilrises",
   "c15b4d7166d08640",
-  "icecottonextendsgainsforseconddayonhighercrudeoil"
+  "icecottonextendsgainsforseconddayonhighercrudeoil",
+  "445ead786c25fd3d",
+  "ftse100livebluechipscalledhigherasukinflationsoftensbutoilpr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -615,7 +615,7 @@
   "date": "2026-07-22",
   "count": 33
  },
- "last_run": "2026-07-22T10:15:15.205948+03:00",
+ "last_run": "2026-07-22T10:20:15.986447+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
