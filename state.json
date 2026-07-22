@@ -4,8 +4,6 @@
   "Brent": 92.65
  },
  "seen": [
-  "a5f34f372a3dd09e",
-  "crudeoilpricesrosesharplybeforeretreatingfacingadirectionald",
   "69ba38da9faa2c81",
   "cheniereenergystockand2oilnamesshapedbymiddleeastsupplyrisk",
   "962c67656e2a4900",
@@ -603,7 +601,9 @@
   "99fd715a1099f195",
   "indiastepsupenergyshiftascostsandtariffpressuresmountoilblen",
   "dc26e8e26498939d",
-  "whytheeufacesarussianoilvslngsanctionsstandoff"
+  "whytheeufacesarussianoilvslngsanctionsstandoff",
+  "bd3364ce19615257",
+  "equinorprofitsoarsonwartimeoilandgasprices"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 25
+  "count": 26
  },
- "last_run": "2026-07-22T08:05:12.435753+03:00",
+ "last_run": "2026-07-22T08:10:16.096542+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
