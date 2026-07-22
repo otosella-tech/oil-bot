@@ -4,12 +4,6 @@
   "Brent": 94.69
  },
  "seen": [
-  "4228fa550e7a256a",
-  "iranwarupdatefivethingstoknowaftertheresumptionofhostilities",
-  "f35af75957472a32",
-  "oilpriceseaseasmediatorsproposeusiranceasefire",
-  "b185c9daa6281233",
-  "iransaysusstruckunfinishednuclearplantwarnsofsafetyrisk",
   "d025cc3254d9eff0",
   "tradetensionsfedrateoutlookpushoilpriceslower",
   "e277239efdc33ecd",
@@ -603,7 +597,13 @@
   "8f76f33023323ffe",
   "crudeoilrisesfor4thsession",
   "aab5726e22f0cf84",
-  "oilclimbstonearsixweekhighsasconflictthreatenskeyoiltransitr"
+  "oilclimbstonearsixweekhighsasconflictthreatenskeyoiltransitr",
+  "595efb4d748112d6",
+  "anewfrontisopeningintheiranwaroilfacesnowayout",
+  "e313184f2dccf4d3",
+  "newworryforoilmarkettankerscarryingsaudicrudeforindiachinama",
+  "50a98ac5a53e683e",
+  "chevronshutsinpetroniusoutputastropicalstormberthaapproaches"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 38
+  "count": 39
  },
- "last_run": "2026-07-22T12:00:29.186372+03:00",
+ "last_run": "2026-07-22T12:05:15.269811+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
