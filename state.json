@@ -4,8 +4,6 @@
   "Brent": 93.89
  },
  "seen": [
-  "63331ad6a9bdd81a",
-  "50gallonsofheatingoilspilledintocantonstreetstormdrain",
   "7fbc1dfbf92a0cb2",
   "wtioilralliesasmarketsfearfurthermiddleeastescalation",
   "f206ece163f54d73",
@@ -603,7 +601,9 @@
   "38849b819135a08d",
   "crudeoilholdsnear6weekhigh",
   "a3687b1116dad8fc",
-  "chinasaioffensivegainsgroundincentralasia"
+  "chinasaioffensivegainsgroundincentralasia",
+  "aed0d2ed7a94fd0e",
+  "cmewticrudeoilfuturesralliedastightsuppliesoffsetbuild"
  ],
  "releases_done": {
   "2026-07-22|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-22",
   "count": 60
  },
- "last_run": "2026-07-22T21:10:16.189637+03:00",
+ "last_run": "2026-07-22T21:15:16.374346+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
