@@ -4,8 +4,6 @@
   "Brent": 92.65
  },
  "seen": [
-  "c878e55210a1f299",
-  "aftermathtrumpshormuzcrisisthreatenstobreakintoregionalwar",
   "6d96f3a0242df5ce",
   "oilpricesjumpfollowingthelatestfightinginthemiddleeastwhilea",
   "84e876b751164487",
@@ -603,7 +601,9 @@
   "d89cf874812490b5",
   "crudecontinuesrallybrenttops92wtiabove85asstraitofhormuztens",
   "7b6d00bdaa5b3b00",
-  "oilpricesclimbasusiranconflictshowsnosignsofslowing"
+  "oilpricesclimbasusiranconflictshowsnosignsofslowing",
+  "7335af6057fac622",
+  "sprcrudeoilacquisitionprocedures"
  ],
  "releases_done": {
   "2026-07-21|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-22",
   "count": 14
  },
- "last_run": "2026-07-22T06:20:16.227815+03:00",
+ "last_run": "2026-07-22T06:25:11.699517+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
