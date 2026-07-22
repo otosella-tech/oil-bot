@@ -4,12 +4,6 @@
   "Brent": 84.56
  },
  "seen": [
-  "d140dd1e90372827",
-  "ieaexecutivedirectorstatementonoilmarkets",
-  "412b85ddd92c05c9",
-  "stockmarketatriskspookysignalsinbondsandgoldprices",
-  "fe460bd806d2e2ff",
-  "theoilmarketisaconventionalwisdomprocessor",
   "414b50c234b506ec",
   "oilisbacknear90sowhyisbitcoinstillabove66000",
   "5d683932124db970",
@@ -603,7 +597,13 @@
   "a11b8648365b7241",
   "oilclimbsover3tonearsixweekhighasconflictthreatenskeyoiltran",
   "5bc538ca6fbdc0b6",
-  "currentpriceofoilasofjuly152026"
+  "currentpriceofoilasofjuly152026",
+  "19b49f9c117fd288",
+  "pakistanscramblesforoilalternativesashormuzredsearisksmount",
+  "80a78b10e58a806f",
+  "africasrichestbillionaireincreasesfuelexportsamidcrudeshorta",
+  "4494586800d5c6d4",
+  "dowjonesfuturesfallasoilpricesjumptwoaiearningsmoverswithgoo"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 48
+  "count": 49
  },
- "last_run": "2026-07-22T15:25:12.633899+03:00",
+ "last_run": "2026-07-22T15:30:23.184971+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
