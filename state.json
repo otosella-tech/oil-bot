@@ -4,10 +4,6 @@
   "Brent": 93.89
  },
  "seen": [
-  "82b8d0e75beddd06",
-  "fourdronestrikesinfourdayshittankerscarryingkazakhstansoil",
-  "efd668f006a10855",
-  "currentpriceofoilasofjuly202026",
   "47175fc2a4a876df",
   "oilshockreturnsasusgaspricestop4onnewhormuzstandoff",
   "c1bde54acaa81484",
@@ -603,7 +599,11 @@
   "f9cbc9494d41e527",
   "top3energymutualfundstobuyamidrisingoilprices",
   "c185bf109f39e52f",
-  "iranwarescalationthreatensglobalfuelsupplyrecovery"
+  "iranwarescalationthreatensglobalfuelsupplyrecovery",
+  "de32b14dd38ea3db",
+  "energysharespushupeuropesstoxx600investorswatchmiddleeastbig",
+  "0c693357b5e40710",
+  "statedepartmentannouncesiraqsyriacrudeoilpipeline"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-22",
-  "count": 56
+  "count": 57
  },
- "last_run": "2026-07-22T16:30:22.614306+03:00",
+ "last_run": "2026-07-22T16:35:16.936858+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
