@@ -4,10 +4,6 @@
   "Brent": 93.89
  },
  "seen": [
-  "2b80cc823b52a7f4",
-  "indianrefinerscometotherescueofrussiasoilexporters",
-  "01f68606de33dbc2",
-  "houthisforcesaudioiltankerstou",
   "c577e63a97042e58",
   "vivakorexpandsphysicalcrudeoilmarketingplatformto",
   "7ff64e821d450b3d",
@@ -603,7 +599,11 @@
   "f8d9817c470cea4a",
   "houthithreatsatbabalmandabstraitdriveupoilpricesandshippingr",
   "52b48ecb18bbeae8",
-  "canadiandollarreboundsfromoneweeklowasoilclimbs"
+  "canadiandollarreboundsfromoneweeklowasoilclimbs",
+  "2a59fbcac9b252c7",
+  "empoweringpeopleinoilandgas",
+  "4fd8b217e7150d85",
+  "oilpricesjumponmideastwarstockmarketsdiverge"
  ],
  "releases_done": {
   "2026-07-22|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-22",
   "count": 60
  },
- "last_run": "2026-07-22T19:45:16.491969+03:00",
+ "last_run": "2026-07-22T19:50:14.902020+03:00",
  "sent_stories": [
   {
    "d": "2026-07-19",
@@ -1323,6 +1323,10 @@
   {
    "d": "2026-07-22",
    "t": "Oil prices surge as Hormuz, Bab el-Mandeb risks escalate amid renewed US–Iran tensions - Oil & Gas Journal"
+  },
+  {
+   "d": "2026-07-22",
+   "t": "Oil prices jump on Mideast war, stock markets diverge - Yahoo Finance"
   }
  ]
 }
