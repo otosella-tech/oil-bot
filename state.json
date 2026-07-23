@@ -4,12 +4,6 @@
   "Brent": 86.15
  },
  "seen": [
-  "e81bd455a7818d13",
-  "analysismideastwarescalationthreatensrecoveryinglobaloilrefi",
-  "3b6c350bd9d2e692",
-  "thesteepenerwasbuiltonabarrelofoil",
-  "b53a986e79449224",
-  "crudeoilpricesreachhighestlevelin5weeks",
   "9f938ba19e36f486",
   "mideastwarescalationthreatensrecoveryinglobaloilrefining",
   "db176f788d175c03",
@@ -603,7 +597,13 @@
   "08532c72a7ecab9f",
   "noinfrastructurewillbesafeghalibafspromisetostopoiltradeadan",
   "feeabfe45ae1eada",
-  "totalenergiespostsstrongestprofitinnearlythreeyearsasirancon"
+  "totalenergiespostsstrongestprofitinnearlythreeyearsasirancon",
+  "7f67267eac68e5d2",
+  "totalenergiesprofitsoars68asoilpricesurgeliftsearnings",
+  "10d5e282aef5c816",
+  "goldslips1asoilrallybringsfedratehikesintofocus",
+  "455014ea6d438edf",
+  "totalenergiesnets112billionprofitinsixmonthsamidmiddleeastwa"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T12:25:17.617743+03:00",
+ "last_run": "2026-07-23T12:30:24.932469+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1416,6 +1416,10 @@
   {
    "d": "2026-07-23",
    "t": "TotalEnergies posts strongest profit in nearly three years as Iran conflict lifts oil prices - Reuters"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "TotalEnergies Profit Soars 68% as Oil Price Surge Lifts Earnings"
   }
  ]
 }
