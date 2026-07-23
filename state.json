@@ -4,8 +4,6 @@
   "Brent": 86.15
  },
  "seen": [
-  "9f938ba19e36f486",
-  "mideastwarescalationthreatensrecoveryinglobaloilrefining",
   "db176f788d175c03",
   "eurozonebondyieldsriseasoilpricesmovehigher",
   "4799eb4e2c30232b",
@@ -603,7 +601,9 @@
   "10d5e282aef5c816",
   "goldslips1asoilrallybringsfedratehikesintofocus",
   "455014ea6d438edf",
-  "totalenergiesnets112billionprofitinsixmonthsamidmiddleeastwa"
+  "totalenergiesnets112billionprofitinsixmonthsamidmiddleeastwa",
+  "981e1d8037104c8c",
+  "oiltops98aftertankersstruckoffsaudiarabiatrumpescalatesirant"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T12:30:24.932469+03:00",
+ "last_run": "2026-07-23T12:35:13.102053+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1420,6 +1420,10 @@
   {
    "d": "2026-07-23",
    "t": "TotalEnergies Profit Soars 68% as Oil Price Surge Lifts Earnings"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Oil tops $98 after tankers struck off Saudi Arabia, Trump escalates Iran threats - CNBC"
   }
  ]
 }
