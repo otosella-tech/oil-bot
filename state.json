@@ -4,14 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "c2fc32b13bbaac8d",
-  "thecommoditiesfeedoilmoveshigherassupplyrisksbuild",
-  "eefb3b3a94fe4a77",
-  "whyoilpriceshaventgonecrazydespite5monthsofusiranwar",
-  "b05aadb2e1d3ded6",
-  "howbraziloutpacedmexicoincapturingoileconomicrent",
-  "32588dc4bdaefddf",
-  "europeheadsintowinterwithitsweakestgascushionin15years",
   "fa3066ad025995f5",
   "oilstockstowatchifstraitofhormuztensionpushesenergypriceshig",
   "6eceadd9cdb0800a",
@@ -603,7 +595,15 @@
   "fea1f8622a140592",
   "oilpricerisesabove95markasmiddleeastconflictescalates",
   "7fef5a45062f011b",
-  "brentcrudeoilcrosses100abarrelafterhouthiforcesattacksaudita"
+  "brentcrudeoilcrosses100abarrelafterhouthiforcesattacksaudita",
+  "79e183cb9513211c",
+  "breakingnewsglobaloilpricesreached100abarrelthatforthefirstt",
+  "caf7cf9e4d148109",
+  "brentcrudetops100abarrelhowthenextstopcouldbe120",
+  "9728f09830ed9b38",
+  "brentoilspricebrieflytops100perbarrelasteslaandalphabetdragw",
+  "ef17efcce11b47f3",
+  "oilpricesurgereignitesinflationworriesasecbholdsrates"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T16:45:16.064674+03:00",
+ "last_run": "2026-07-23T16:50:16.066137+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1572,6 +1572,14 @@
   {
    "d": "2026-07-23",
    "t": "Brent crude oil crosses $100 a barrel after Houthi forces attack Saudi tankers in the Red Sea - Startup Fortune"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Breaking News: Global oil prices reached $100 a barrel that for the first time since May, as the widening war between the U.S. and Iran stifled the flow of energy in the Middle East. https://nyti.ms/4fu2ulT - facebook.com"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Oil price surge reignites inflation worries as ECB holds rates - Reuters"
   }
  ]
 }
