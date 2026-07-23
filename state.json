@@ -4,10 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "4494586800d5c6d4",
-  "dowjonesfuturesfallasoilpricesjumptwoaiearningsmoverswithgoo",
-  "fe460bd806d2e2ff",
-  "theoilmarketisaconventionalwisdomprocessor",
   "d140dd1e90372827",
   "ieaexecutivedirectorstatementonoilmarkets",
   "2f31046d08380078",
@@ -603,7 +599,11 @@
   "ef15fae21533d080",
   "brentcrudeoilpricesapproachthe100markrbcwarns",
   "88c908dd4abad6a5",
-  "houthiattacksthreatensaudiarabiasoillifeline"
+  "houthiattacksthreatensaudiarabiasoillifeline",
+  "d1399559a186834d",
+  "chinarefinerssnapupseptemberrussiancrudeeyeiranianoilasmidea",
+  "a759c500ec199142",
+  "trumpsaysuswillholdiranresponsibleforhouthiattacksafteroilta"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T15:55:15.643641+03:00",
+ "last_run": "2026-07-23T16:00:31.604644+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1508,6 +1508,14 @@
   {
    "d": "2026-07-23",
    "t": "Houthi attacks threaten Saudi Arabia’s oil lifeline - Financial Times"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "China refiners snap up September Russian crude, eye Iranian oil as Mideast supply risks grow - Reuters"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea - CNBC"
   }
  ]
 }
