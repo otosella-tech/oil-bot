@@ -4,10 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "96525c1ce3d0ad53",
-  "twosaudioiltankerstargetedashouthiblockadedisruptsredseaship",
-  "ccf554eedcce18ec",
-  "crudeoilfuturessep6clmainussharelink350crudeoilremainsaplaus",
   "397a4581d2e3f950",
   "oilpricesriseforafifthdayonsupplyconcernsamidchokepointthrea",
   "73325e03167da8c7",
@@ -603,7 +599,11 @@
   "ba6d761df2d4d0fe",
   "goldfallsasoilspikehigheryieldspressuremetalskitcopmreport",
   "f173e4d7b0f35f00",
-  "crudeoilpriceforecastvolatilityreturnsascrudetestsresistance"
+  "crudeoilpriceforecastvolatilityreturnsascrudetestsresistance",
+  "9f2c34ad17f72437",
+  "oilpricessurgeascongresssplitsoniranwarvotesfromthepoliticsd",
+  "04d953f79957b447",
+  "strikesagainstsauditankersintheredseasendoilpast100abarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 1
+  "count": 2
  },
- "last_run": "2026-07-24T00:00:24.595786+03:00",
+ "last_run": "2026-07-24T00:05:13.599675+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
