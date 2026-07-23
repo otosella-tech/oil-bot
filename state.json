@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 89.55,
-  "Brent": 86.15
+  "Brent": 93.04
  },
  "seen": [
-  "db176f788d175c03",
-  "eurozonebondyieldsriseasoilpricesmovehigher",
   "4799eb4e2c30232b",
   "brentoiljumps2toholdabove92asrubiosaysirannotseriousaboutpea",
   "67ee23a0eeadc1d2",
@@ -603,7 +601,9 @@
   "455014ea6d438edf",
   "totalenergiesnets112billionprofitinsixmonthsamidmiddleeastwa",
   "981e1d8037104c8c",
-  "oiltops98aftertankersstruckoffsaudiarabiatrumpescalatesirant"
+  "oiltops98aftertankersstruckoffsaudiarabiatrumpescalatesirant",
+  "68876d0e905827fd",
+  "asianoilbuyersintalkswithsaudistorerouteredseaflows"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T12:40:16.992313+03:00",
+ "last_run": "2026-07-23T12:45:14.814519+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1424,6 +1424,10 @@
   {
    "d": "2026-07-23",
    "t": "Oil tops $98 after tankers struck off Saudi Arabia, Trump escalates Iran threats - CNBC"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Asian Oil Buyers in Talks With Saudis to Reroute Red Sea Flows - Bloomberg.com"
   }
  ]
 }
