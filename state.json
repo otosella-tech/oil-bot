@@ -4,8 +4,6 @@
   "Brent": 95.86
  },
  "seen": [
-  "7b6d00bdaa5b3b00",
-  "oilpricesclimbasusiranconflictshowsnosignsofslowing",
   "7335af6057fac622",
   "sprcrudeoilacquisitionprocedures",
   "cec4947751749fc2",
@@ -603,7 +601,9 @@
   "6410fd6d48651d18",
   "crudeoilpricesclimbtosixweekhighwithbrentabove95amidescalati",
   "75d72b0b40d42e80",
-  "crudeoilpricestop96ashouthistargetsaudishipsinredsea"
+  "crudeoilpricestop96ashouthistargetsaudishipsinredsea",
+  "6e0d2f4f277f9e46",
+  "cuttingoffredseaoilroutemaybeonecrisistoomany"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 46
  },
- "last_run": "2026-07-23T09:10:16.194523+03:00",
+ "last_run": "2026-07-23T09:15:14.722819+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
