@@ -4,10 +4,6 @@
   "Brent": 95.86
  },
  "seen": [
-  "eae1a9f67e14893c",
-  "iraqsoilministersaysusenergydealsworthabout200billionbyreute",
-  "fbee1056b490b8bf",
-  "middleeastconflictdrivesbrentcrudeabove100amidoilsupplyfears",
   "3390f6f29a00f7d9",
   "hegsethcaineappearbeforesenateasiranwarescalates",
   "84c9833371c96512",
@@ -603,7 +599,11 @@
   "75d9b0a47a4c813c",
   "northdakotacrudeproductiondipsdespitestrongoilprices",
   "4e259d1ae802826e",
-  "crudeoiladdstogainsafterhouthisattacktwosauditankersinthered"
+  "crudeoiladdstogainsafterhouthisattacktwosauditankersinthered",
+  "a6ebb6564674fc61",
+  "globalrefinersarecuttingoutoiltraderstobuyvenezuelancrudedir",
+  "d1369843a3dcbf73",
+  "usstocksstallasoilextendsgains"
  ],
  "releases_done": {
   "2026-07-22|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-23",
-  "count": 8
+  "count": 10
  },
- "last_run": "2026-07-23T02:55:15.184688+03:00",
+ "last_run": "2026-07-23T03:00:29.834179+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1343,6 +1343,10 @@
   {
    "d": "2026-07-23",
    "t": "New Pipelines Set To Ease Permian Natural Gas Glut"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Global Refiners Are Cutting Out Oil Traders To Buy Venezuelan Crude Directly"
   }
  ]
 }
