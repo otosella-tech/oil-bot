@@ -4,8 +4,6 @@
   "Brent": 95.86
  },
  "seen": [
-  "8743298c240d7aa5",
-  "elliottwaveanalysiswticrudeoilcl5swingrallyfromjulylowfavors",
   "9f4b08e6455c0966",
   "whattoexpectfromiranandtheoilpricefortherestof2026",
   "98a41c070298af7e",
@@ -603,7 +601,9 @@
   "ac3e2ae2d6fa314e",
   "crudeoilpriceforecastbreakoutorpullbacknext",
   "fad9a4c77041e8d8",
-  "vivakorexpandscrudeoilmarketingplatformbeyond700millioninann"
+  "vivakorexpandscrudeoilmarketingplatformbeyond700millioninann",
+  "b76415793facdac1",
+  "twochinesesupertankerswithsaudioilheadtobabelmandebforredsea"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-23",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-07-23T08:50:14.472292+03:00",
+ "last_run": "2026-07-23T08:55:11.786717+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1384,6 +1384,10 @@
   {
    "d": "2026-07-23",
    "t": "Oil Tanker Hit Near Saudi Coast As Houthis Claim Attacks On Two Vessels - i24NEWS"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Two Chinese supertankers with Saudi oil head to Bab el-Mandeb for Red Sea exit - Reuters"
   }
  ]
 }
