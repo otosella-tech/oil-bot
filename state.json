@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "2af8d0e732e780ba",
-  "canadiandollargainsasoilpricesclimb",
   "47acd25c63b97a50",
   "canadianfinancialcloseloonievirtuallyunchangedcrudeoilhigher",
   "0f44a54ccf061087",
@@ -603,7 +601,9 @@
   "cba7263b2c076a0f",
   "transportbottlenecksaredrivingoilandinflation",
   "5c606d80aa645beb",
-  "brazilsoilboomisacceleratingasasianbuyersfleethemiddleeast"
+  "brazilsoilboomisacceleratingasasianbuyersfleethemiddleeast",
+  "8f50be00d39e98d8",
+  "stockssettlelowerascrudeoilpricesjump"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T19:10:19.349426+03:00",
+ "last_run": "2026-07-23T19:15:18.322484+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
