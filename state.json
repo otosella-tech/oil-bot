@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "0f44a54ccf061087",
-  "mitframeworkmapsgridweakspotsbeforeclimatedisastershit",
   "509cf22c201e01f7",
   "goldralliesasbuyerstest4160oilliftsyieldskitcopmreport",
   "5321319f04d5a19f",
@@ -603,7 +601,9 @@
   "8f50be00d39e98d8",
   "stockssettlelowerascrudeoilpricesjump",
   "fc43482868d4749e",
-  "ushasmovedupto500millionbarrelsofoilthroughgulfofomanhegseth"
+  "ushasmovedupto500millionbarrelsofoilthroughgulfofomanhegseth",
+  "7207c65af96b588a",
+  "oilpricesshippingratessurgeasrebelsopensecondfrontiniranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T19:20:14.907339+03:00",
+ "last_run": "2026-07-23T19:25:16.480084+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1692,6 +1692,10 @@
   {
    "d": "2026-07-23",
    "t": "EU locks in oil price cap in new Russia sanctions - Courthouse News"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Oil Prices, Shipping Rates Surge As Rebels Open Second Front In Iran War - Investor's Business Daily"
   }
  ]
 }
