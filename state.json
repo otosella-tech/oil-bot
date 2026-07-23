@@ -4,14 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "d7490ff4ce711762",
-  "indiascrudeoilimportbillsoars60asiranwardrivespriceshigher",
-  "51a9dbd5a34fa947",
-  "themetalsselloffiscreatingnewwinnersandlosers",
-  "ead134876a6a3981",
-  "commercialcrudeoilinventoriesincreasedby20millionbarrels",
-  "f887ceb7e101c47d",
-  "uscrudeoilinventoriesincreaseby20millionbarrels",
   "6375c186320f249f",
   "analysisiranwarenergyshockhitstheuseconomyasgasanddieselpric",
   "6ee5e93fa0610a9d",
@@ -603,7 +595,15 @@
   "7ac227686c934614",
   "brentoilspricetops100perbarrelasteslaandalphabetdragwallstre",
   "3b40b6b00b052fa1",
-  "crudeoilstopstradingtheheadlinesandstartstradingthewar"
+  "crudeoilstopstradingtheheadlinesandstartstradingthewar",
+  "26a46829641fe719",
+  "globaloilpricesjumpabove100firsttimesincelatemay",
+  "487f94535cd35b0c",
+  "usimportsfirstfueloilcargoesshippedviasyriaasiraqleveragesne",
+  "01f405a7d6d26c65",
+  "straitofhormuzbabelmandebdisruptionskeepoilabove98bblkeeping",
+  "809e4db8e353a971",
+  "trumpdismissedaffordabilityasademocraticmadeupwordthenoilhit"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T18:35:15.050328+03:00",
+ "last_run": "2026-07-23T18:40:15.944450+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1656,6 +1656,14 @@
   {
    "d": "2026-07-23",
    "t": "Brent crude oil surges to $100 a barrel for first time since May after reports of Red Sea attacks - New York Post"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "US imports first fuel oil cargoes shipped via Syria as Iraq leverages new export route - Reuters"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Strait of Hormuz & Bab el-Mandeb Disruptions Keep Oil Above $98/bbl, Keeping Supply Risks Elevated - Crux Investor"
   }
  ]
 }
