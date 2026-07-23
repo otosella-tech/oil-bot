@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "5321319f04d5a19f",
-  "howmajorusstockindexesfaredwednesday7222026abcnews",
   "422e8cf59d47efd1",
   "ifuncertaintysurroundingtheprocurementofcrudeoilderivedprodu",
   "cb3cb77d8e6ee280",
@@ -603,7 +601,9 @@
   "7207c65af96b588a",
   "oilpricesshippingratessurgeasrebelsopensecondfrontiniranwar",
   "3d3879d5454be84a",
-  "arkansasgaspricesjumpnearly25centsagalloninoneweekaaasays"
+  "arkansasgaspricesjumpnearly25centsagalloninoneweekaaasays",
+  "2f3aa33c9543a5ba",
+  "oilhits100forfirsttimesincemaywhileusstocksslide"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T19:35:13.738424+03:00",
+ "last_run": "2026-07-23T19:40:20.208751+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
