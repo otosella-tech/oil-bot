@@ -4,10 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "b65dfa0b95a1e3a0",
-  "oilandgassupplychainresilienceprotectinglngrefinedproductsan",
-  "ac072a4803de6a63",
-  "goldandsilverrisewithcrudeoilasiranwarescalatesaitechdebthit",
   "9d1b0e410914395d",
   "uscommercialcrudeoilstockpilespostweeklybuild",
   "eff4f6e0d4e392a9",
@@ -603,7 +599,11 @@
   "d17eda3f4169d93b",
   "oilpriceshovernear100abarrelafterattacksonsaudioiltankers",
   "0eff9ebac2876c67",
-  "stocksfallascrudeoilpricessoarandalphabetsparksaispendingcon"
+  "stocksfallascrudeoilpricessoarandalphabetsparksaispendingcon",
+  "8ef281fb5b8663d0",
+  "brentcrudeoilbrieflytops100abarrelcurrently605at9976wti42to9",
+  "ab8c3d3d225de252",
+  "stockmarkettodaydowsp500nasdaqselloffasrisingoilpricesbondyi"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T17:10:21.744138+03:00",
+ "last_run": "2026-07-23T17:15:18.282886+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
