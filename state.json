@@ -4,8 +4,6 @@
   "Brent": 93.04
  },
  "seen": [
-  "9953f43b80d7ad88",
-  "chinabrokeoilandgasoutputrecordsin2025butbeijingisstayingcau",
   "4061358e3c6de7c7",
   "whytheiranwarhasntcausedaglobaloilcrisisyet",
   "71a556c8df24730e",
@@ -603,7 +601,9 @@
   "40ffc6a074b108e3",
   "saudiaramconegotiatesreroutingcrudeoilaroundafricaashouthiat",
   "3c413bb095f7d62f",
-  "houthiattacksthreatentocutoffsaudiarabiasoillifeline"
+  "houthiattacksthreatentocutoffsaudiarabiasoillifeline",
+  "e6f59eb56c6d3b4e",
+  "chinesetankerspushthroughbabel"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T14:25:13.557373+03:00",
+ "last_run": "2026-07-23T14:30:19.447796+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1472,6 +1472,10 @@
   {
    "d": "2026-07-23",
    "t": "Houthi attacks threaten to cut off Saudi Arabia’s oil lifeline - Financial Times"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Chinese Tankers Push Through Bab el-Mandeb Despite Houthi Blockade Threats"
   }
  ]
 }
