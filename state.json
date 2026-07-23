@@ -4,12 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "9dd5b9229d48081b",
-  "sugarpricessettlehigheroncrudeoilstrength",
-  "6201fd9cb48c46d7",
-  "oilpricestouchsixweekhighasstraitofhormuziscompletelyclosed",
-  "d9d8313b300f5fbb",
-  "brentcrudecouldtarget100barreliftensionscontinue",
   "e3a546b01934e35b",
   "indiassurgingrefinedproductexportseaseasiafuelcrisis",
   "18722198f43cbbc4",
@@ -603,7 +597,13 @@
   "a8905a742f6c29ed",
   "oilsettlesover100ashouthiattacksintensifymiddleeastsupplyris",
   "6cb4521dbdecc65b",
-  "gaspricesriseascrudeoilclimbsabove90perbarrel"
+  "gaspricesriseascrudeoilclimbsabove90perbarrel",
+  "2170d458a161c4d7",
+  "insurersflocktooilprojectsoutsidethemiddleeast",
+  "5e428d862921e0ca",
+  "seehowoilpricessoaredafterredseaattacksandlatestusstrikes",
+  "0ff8c6eee8dea1d1",
+  "houthisthreatensaudioilinfrastructureraisingwticrudepricecon"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T22:55:13.368214+03:00",
+ "last_run": "2026-07-23T23:00:27.428258+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1772,6 +1772,10 @@
   {
    "d": "2026-07-23",
    "t": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks - Reuters"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "See how oil prices soared after Red Sea attacks and latest US strikes - USA Today"
   }
  ]
 }
