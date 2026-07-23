@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "46f032d80fccebfe",
-  "crudeoilgainsforfourthstraightdaymetalsdomesticmarketoutperf",
   "1b6f6127a0abc489",
   "gimmesomelovinwhichupstreamepswoninvestorfavorinh12026",
   "b70e2c7d0d8b6ded",
@@ -603,7 +601,9 @@
   "57e533c88fe1cb25",
   "crudeoilrisessharplytmobilesharesfallfollowingq2results",
   "7a718a1ad03da07d",
-  "ukrainesdronewarischokingkazakhstansoilexports"
+  "ukrainesdronewarischokingkazakhstansoilexports",
+  "8e5e1d1a12abe498",
+  "oiltops100afterhouthiattackonsauditankersdisruptssupply"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T21:00:24.714310+03:00",
+ "last_run": "2026-07-23T21:05:16.933020+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1744,6 +1744,10 @@
   {
    "d": "2026-07-23",
    "t": "Ukraine’s Drone War Is Choking Kazakhstan’s Oil Exports"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Oil tops $100 after Houthi attack on Saudi tankers disrupts supply - The Journal Record"
   }
  ]
 }
