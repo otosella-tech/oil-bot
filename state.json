@@ -4,10 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "a1fb767d8844a780",
-  "tankerscarryingsaudicrudereversecourseafterhouthithreats",
-  "7f5c7a398d50bfd3",
-  "oilpricesriseanother3whilewallstreetdriftsinmixedtradingsand",
   "b65dfa0b95a1e3a0",
   "oilandgassupplychainresilienceprotectinglngrefinedproductsan",
   "ac072a4803de6a63",
@@ -603,7 +599,11 @@
   "e578fc18c92acb0d",
   "thewinnersandlosersduringoilsworsttrafficjaminyears",
   "9b31c297d389c414",
-  "usoilproductinventoriesseebuildsacrosstheboard"
+  "usoilproductinventoriesseebuildsacrosstheboard",
+  "d17eda3f4169d93b",
+  "oilpriceshovernear100abarrelafterattacksonsaudioiltankers",
+  "0eff9ebac2876c67",
+  "stocksfallascrudeoilpricessoarandalphabetsparksaispendingcon"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T17:05:14.529069+03:00",
+ "last_run": "2026-07-23T17:10:21.744138+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1600,6 +1600,10 @@
   {
    "d": "2026-07-23",
    "t": "Kazakhstan Cuts Oil Production Following Drone Strikes on Black Sea Tankers - The Moscow Times"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Oil prices hover near $100 a barrel after attacks on Saudi oil tankers - WPTV"
   }
  ]
 }
