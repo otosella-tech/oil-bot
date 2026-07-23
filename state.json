@@ -4,8 +4,6 @@
   "Brent": 95.86
  },
  "seen": [
-  "de8e5593372c1d7f",
-  "dollaredgeshigherascrudeoilpricesandbondyieldsclimb",
   "515f95f21553b056",
   "oilexportsfromeuropessecondlargestexternalsupplierthrowninto",
   "20b0eb8bbca2d0b0",
@@ -603,7 +601,9 @@
   "e19eed8c8e0feb03",
   "indianshareslikelytofallasoilsurgedentssentiment",
   "2e64552b9566e50c",
-  "chokepointsotherconcernscausingthestockmarketssummerstall"
+  "chokepointsotherconcernscausingthestockmarketssummerstall",
+  "60df1530453f90f6",
+  "rupeetoremainunderpressureonrunawayoilrallybrenttops96"
  ],
  "releases_done": {
   "2026-07-22|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-23",
   "count": 24
  },
- "last_run": "2026-07-23T06:05:12.457593+03:00",
+ "last_run": "2026-07-23T06:10:14.934393+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
