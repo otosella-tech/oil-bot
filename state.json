@@ -4,10 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "efa625f2a657aa78",
-  "crudeoilpricesjumpstocksstillholdingupfornow",
-  "81feea4e8e993286",
-  "asianstocksriseafterustechearningsoilatsixweekhighs",
   "d811f19ecb099b60",
   "brentcrudespikesinlatetradingafterredseatankerattack",
   "92edc4b86a9ad59d",
@@ -603,7 +599,11 @@
   "ccfce1f03e2f98bc",
   "equinorconsiderssubseatiebackofnewbarentsseaoildiscovery",
   "0222eaa5243bbafc",
-  "uscrudeoilinventoriesbuildashormuzshippingheadachedragson"
+  "uscrudeoilinventoriesbuildashormuzshippingheadachedragson",
+  "54f190f931357ce9",
+  "navigatingtheenergysurgeavaluechainguidetoenergyetfs",
+  "d5cb7bc375953cee",
+  "gasgroceriesandbacktoschoolitemsarewhereshoppersmightseehigh"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T21:20:16.226920+03:00",
+ "last_run": "2026-07-23T21:25:15.296501+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
