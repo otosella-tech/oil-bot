@@ -1,17 +1,9 @@
 {
  "price_base": {
   "WTI": 91.38,
-  "Brent": 86.74
+  "Brent": 100.31
  },
  "seen": [
-  "cc6092088287d71d",
-  "turnmeloose",
-  "11539f2bd5b7046d",
-  "turnmeloosewillcrudeoilpipelinecapacitykeepupwithwesterncana",
-  "d69c602bbe4f306f",
-  "goldmansachsforecasts120brentcrudeoilbyq42026amidglobalinsta",
-  "aba7a0bbb0e182eb",
-  "globaloilpricessettleat6weekhighaftertopping95abarrelashopes",
   "ba2d2c4ba9cc24b2",
   "houthithreatsignitenewoilpricesurge",
   "fc43482868d4749e",
@@ -603,7 +595,15 @@
   "443f0007ed2bce78",
   "whyaremarketsshruggingoffthelatestjumpinoilprices",
   "530eb42d5722bb7b",
-  "tradersstickwithecbratehikebetsasoiltouches100oncemore"
+  "tradersstickwithecbratehikebetsasoiltouches100oncemore",
+  "f38bff9765a064f1",
+  "brentcrudecrosses100aftertankersreportedlystruckoffsaudiarab",
+  "2c03f33088b48683",
+  "stocksfallsharplyascrudeoilpricessoarandalphabetsparksaispen",
+  "d3b04dafbe0cf04a",
+  "brentoiltops100perbarrelastumblesforteslaandalphabetyankwall",
+  "eac52e35b1ace90c",
+  "europeancapitalsapprovesaleofconfiscatedrussianoil"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T18:55:14.152548+03:00",
+ "last_run": "2026-07-23T19:00:30.489053+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1680,6 +1680,10 @@
   {
    "d": "2026-07-23",
    "t": "Oil executives rush to complete contract migration in Venezuela, sources say - Reuters"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia - CNBC"
   }
  ]
 }
