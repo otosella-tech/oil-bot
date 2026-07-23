@@ -4,12 +4,6 @@
   "Brent": 93.04
  },
  "seen": [
-  "ff4ac8f9918be1f9",
-  "iraqmade200bnofoilandgasdealsinusministersays",
-  "36d14bc9b91f612a",
-  "oilpricehits95ratehikeoddsriseaheadofalphabetearnings",
-  "8ec6c9922a609473",
-  "usirantensionspersistbrentcrudetops95abarrelforfirsttimeinsi",
   "794a513fc460f9c1",
   "funfactsaboutoilwellsontheoklahomastatecapitolgrounds",
   "a11b8648365b7241",
@@ -603,7 +597,13 @@
   "71e4059ecf6c7d3c",
   "usrefineryutilizationhits962asfuelmarketstightenworldwide",
   "b4b4ebc9d66f5c5d",
-  "currentpriceofoilasofjuly212026"
+  "currentpriceofoilasofjuly212026",
+  "b5c1378bbd9fd1ee",
+  "usoiltops90brentabove98aftertankersstruckoffsaudiarabia",
+  "824dfb181ad22e4e",
+  "asianoilbuyersintalkstoreroutesaudiredseaflows",
+  "53b68d32d7aa6424",
+  "insearchofoilandgastrumpcouldaxebidenerabufferaroundchacocan"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T15:30:18.758601+03:00",
+ "last_run": "2026-07-23T15:35:13.157610+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1500,6 +1500,10 @@
   {
    "d": "2026-07-23",
    "t": "U.S. Refinery Utilization Hits 96.2% as Fuel Markets Tighten Worldwide"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "U.S. oil tops $90, Brent above $98 after tankers struck off Saudi Arabia - CNBC"
   }
  ]
 }
