@@ -4,14 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "3c87124518f18bac",
-  "brazilsoilboomisacceleratingasasianbuyersfleethemiddleeast",
-  "8907b60e3e49d939",
-  "eiauscrudeinventoriesup2millionbbl",
-  "5aab18218ffa2fb9",
-  "oilpriceshockscouldraisethecostofhivmedicinesbyupto44unitaid",
-  "90177cb5929b1d1b",
-  "oilsurgespast95asusdownplaysirandiplomacyand2ndkeytraderoute",
   "69819ac9ac5ec1e9",
   "greenssuetoblockstreamlinedwaterpermitforoilandgaspipelines",
   "3f6aac303f349160",
@@ -603,7 +595,15 @@
   "b8f874afe9703ae0",
   "wallstfallsasbigtechearningsrekindleaispendingworriesoilhits",
   "7b121a04b8006e00",
-  "oilhits87perbarrelagainafterlatestusstrikesoniranandloomingb"
+  "oilhits87perbarrelagainafterlatestusstrikesoniranandloomingb",
+  "f82a3e9d24bf9978",
+  "greeceexposesthelimitsofeuropesrussiaenergysanctions",
+  "a26e89474532e726",
+  "oilpriceshit100forthefirsttimesincemay",
+  "3d3fefb466d695fd",
+  "evenaswarragesinvestorsbetoilwillbecheaperinafewmonths",
+  "54d9e2f6b06379f2",
+  "crudeoilfuturessep6clmainusbrentlastdayfinancialfuturessep6b"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T17:55:14.198244+03:00",
+ "last_run": "2026-07-23T18:00:32.181697+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1628,6 +1628,14 @@
   {
    "d": "2026-07-23",
    "t": "Oil hits $87 per barrel again after latest U.S. strikes on Iran and looming blockade - NBC News"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Greece Exposes the Limits of Europe's Russia Energy Sanctions"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Even as War Rages, Investors Bet Oil Will Be Cheaper in a Few Months - The New York Times"
   }
  ]
 }
