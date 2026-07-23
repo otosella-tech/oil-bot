@@ -4,10 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "19b49f9c117fd288",
-  "pakistanscramblesforoilalternativesashormuzredsearisksmount",
-  "80a78b10e58a806f",
-  "africasrichestbillionaireincreasesfuelexportsamidcrudeshorta",
   "4494586800d5c6d4",
   "dowjonesfuturesfallasoilpricesjumptwoaiearningsmoverswithgoo",
   "fe460bd806d2e2ff",
@@ -603,7 +599,11 @@
   "2e571d933abaa792",
   "dowjonesfuturesfallasoilpricestop90googleteslaskidonearnings",
   "0c030ee31db7bb05",
-  "wallstreetpoisedtoopenlowerasmideasttensionspushbrentcrudepa"
+  "wallstreetpoisedtoopenlowerasmideasttensionspushbrentcrudepa",
+  "ef15fae21533d080",
+  "brentcrudeoilpricesapproachthe100markrbcwarns",
+  "88c908dd4abad6a5",
+  "houthiattacksthreatensaudiarabiasoillifeline"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T15:50:14.334654+03:00",
+ "last_run": "2026-07-23T15:55:15.643641+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1504,6 +1504,10 @@
   {
    "d": "2026-07-23",
    "t": "U.S. oil tops $90, Brent above $98 after tankers struck off Saudi Arabia - CNBC"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Houthi attacks threaten Saudi Arabia’s oil lifeline - Financial Times"
   }
  ]
 }
