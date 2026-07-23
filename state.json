@@ -4,8 +4,6 @@
   "Brent": 86.15
  },
  "seen": [
-  "e89953589f42e94d",
-  "oilextendsgainstonearsixweekhighsonnewmiddleeastsupplyrisks",
   "e6f8a56b8765605c",
   "keyoilchokepointsinmideastfacedisruptionasthreatsmount",
   "df9723440701af18",
@@ -603,7 +601,9 @@
   "7d18e665deea57d9",
   "oiljumpsto98afterhouthisattacktwosaudiarabiantankers",
   "e18254e9ca553967",
-  "oilpricesurgedrivesglobalbondselloff"
+  "oilpricesurgedrivesglobalbondselloff",
+  "69aaf9d5ba632955",
+  "mideastoilproducersstepupplanstobypassthestraitofhormuzabcne"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T11:55:17.840007+03:00",
+ "last_run": "2026-07-23T12:00:31.184785+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1400,6 +1400,10 @@
   {
    "d": "2026-07-23",
    "t": "Oil price surge drives global bond sell-off - Financial Times"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Mideast oil producers step up plans to bypass the Strait of Hormuz - ABC News - Breaking News, Latest News and Videos"
   }
  ]
 }
