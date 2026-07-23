@@ -4,10 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "9d1b0e410914395d",
-  "uscommercialcrudeoilstockpilespostweeklybuild",
-  "eff4f6e0d4e392a9",
-  "goldsnapsiranwardowntrendasoilandrealratesjump",
   "cec244e52599583b",
   "crudeoilinventoriessurgesurpassingforecastsandpreviouslevels",
   "4e3a7a29e6c3daaf",
@@ -603,7 +599,11 @@
   "8ef281fb5b8663d0",
   "brentcrudeoilbrieflytops100abarrelcurrently605at9976wti42to9",
   "ab8c3d3d225de252",
-  "stockmarkettodaydowsp500nasdaqselloffasrisingoilpricesbondyi"
+  "stockmarkettodaydowsp500nasdaqselloffasrisingoilpricesbondyi",
+  "bd43586ab6d79c51",
+  "brentcrudecrosses100bblashouthiattackonsauditankersamplifies",
+  "7206f76d9c5a5c88",
+  "oilpricesriseanother3whilewallstreetdriftsinmixedtrading"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T17:15:18.282886+03:00",
+ "last_run": "2026-07-23T17:20:18.775515+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1604,6 +1604,10 @@
   {
    "d": "2026-07-23",
    "t": "Oil prices hover near $100 a barrel after attacks on Saudi oil tankers - WPTV"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Brent crude crosses $100/bbl as Houthi attack on Saudi tankers amplifies oil supply risks - Seeking Alpha"
   }
  ]
 }
