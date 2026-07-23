@@ -4,8 +4,6 @@
   "Brent": 93.04
  },
  "seen": [
-  "67ee23a0eeadc1d2",
-  "escalationinmiddleeasttensionsliftsoilpricesover93",
   "777f3c544da78e76",
   "southbowbridgerprojecttargetscushingbutcouldfaceenvironmenta",
   "49f24f7ffb091994",
@@ -603,7 +601,9 @@
   "68876d0e905827fd",
   "asianoilbuyersintalkswithsaudistorerouteredseaflows",
   "aecd46df73912460",
-  "globalbondyieldsjumpasoilpricessurgeinflationfearsmount"
+  "globalbondyieldsjumpasoilpricessurgeinflationfearsmount",
+  "c51bd1689787994d",
+  "discountsonrussianoilevaporateonfreshmiddleeastcrisis"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T12:50:17.074509+03:00",
+ "last_run": "2026-07-23T12:55:12.252560+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1432,6 +1432,10 @@
   {
    "d": "2026-07-23",
    "t": "Global Bond Yields Jump as Oil Prices Surge, Inflation Fears Mount - WSJ"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Discounts on Russian oil evaporate on fresh Middle East crisis - Reuters"
   }
  ]
 }
