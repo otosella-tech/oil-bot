@@ -4,10 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "2e64552b9566e50c",
-  "chokepointsotherconcernscausingthestockmarketssummerstall",
-  "60df1530453f90f6",
-  "rupeetoremainunderpressureonrunawayoilrallybrenttops96",
   "68172a94a76a6ce2",
   "elevatedcrackspreadsinstitutionswarnthatrisingoilpricescould",
   "06cdb945453863bc",
@@ -603,7 +599,11 @@
   "f545db17b77e7b4c",
   "oilpricesriseaftertrumpsaysiranwillpayforkillingusservicemem",
   "eacc8f89f6149932",
-  "nevadagaspricesrise14centsto469agallonasoilvolatilityspikes"
+  "nevadagaspricesrise14centsto469agallonasoilvolatilityspikes",
+  "0273149e04c7a6cc",
+  "makethis1tradenowascrudeoilpricesspike",
+  "349e60042bd78f44",
+  "wallstreetstumblesasoilsurgesandlillytakesanewpathonnextgeno"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T22:15:16.061524+03:00",
+ "last_run": "2026-07-23T22:20:17.272206+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1764,6 +1764,10 @@
   {
    "d": "2026-07-23",
    "t": "Oil prices rise after Trump says Iran will pay for killing U.S. service members - CNBC"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Wall Street stumbles as oil surges, and Lilly takes a new path on next-gen obesity drug - CNBC"
   }
  ]
 }
