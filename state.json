@@ -4,12 +4,6 @@
   "Brent": 86.15
  },
  "seen": [
-  "db0680980f360f2a",
-  "oilfuturescrudeextendsgainsasescalationfearsdominate",
-  "65666f903880991a",
-  "whattoknowaboutusoilproductionandconsumptionin6charts",
-  "355185c1238017ff",
-  "canadiandollarrisesasoilrallyoffsetsrisks",
   "2922e645048a759a",
   "saudimaycrudeexportshitrecordlowamidgulftensions",
   "e89953589f42e94d",
@@ -603,7 +597,13 @@
   "f04ade3e80513182",
   "thehouthisannouncedablockadeofsaudiredseaportswhichcoulddire",
   "ffaec503601eae91",
-  "oilpricesriseforafifthdayasusiranhostilitiesthreatensupplyro"
+  "oilpricesriseforafifthdayasusiranhostilitiesthreatensupplyro",
+  "6f6c4142323a6c35",
+  "globaloilpricenears100abarrelasconflictwithirandeepens",
+  "0aa3de275b766500",
+  "nasdaqfallsover100pointsasoilpricessurgeinvestorsentimentedg",
+  "7d18e665deea57d9",
+  "oiljumpsto98afterhouthisattacktwosaudiarabiantankers"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-23",
-  "count": 57
+  "count": 58
  },
- "last_run": "2026-07-23T11:35:14.092966+03:00",
+ "last_run": "2026-07-23T11:40:16.248168+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
