@@ -4,14 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "aed0d2ed7a94fd0e",
-  "cmewticrudeoilfuturesralliedastightsuppliesoffsetbuild",
-  "f46160fb9582bbe2",
-  "iranwarnsofoilsupplydisruptionsamidstraitofhormuztensions",
-  "635a577319afaafe",
-  "oilpricesstillrisingasfightinginirancontinues",
-  "90c0516071a9b1e2",
-  "bondyieldsriseaselevatedoilpricesreignitethreatofrenewedpres",
   "d7490ff4ce711762",
   "indiascrudeoilimportbillsoars60asiranwardrivespriceshigher",
   "51a9dbd5a34fa947",
@@ -603,7 +595,15 @@
   "c3a8348447ee3e35",
   "brenttops100ashouthiattackspushoilrallyintotripledigits",
   "d6c4657ce870da40",
-  "kazakhstanslowsoiloutputafterdronestrikesonexportport"
+  "kazakhstanslowsoiloutputafterdronestrikesonexportport",
+  "8c1626dd97cf8146",
+  "indiatargetsfivesmallmodularreactorsby2033",
+  "3194301901d0286b",
+  "brentcrudeoilsurgesto100abarrelforfirsttimesincemayafterrepo",
+  "7ac227686c934614",
+  "brentoilspricetops100perbarrelasteslaandalphabetdragwallstre",
+  "3b40b6b00b052fa1",
+  "crudeoilstopstradingtheheadlinesandstartstradingthewar"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T18:25:15.855359+03:00",
+ "last_run": "2026-07-23T18:30:31.412260+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1652,6 +1652,10 @@
   {
    "d": "2026-07-23",
    "t": "Kazakhstan slows oil output after drone strikes on export port - Reuters"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Brent crude oil surges to $100 a barrel for first time since May after reports of Red Sea attacks - New York Post"
   }
  ]
 }
