@@ -4,12 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "350a397159b1ed28",
-  "yourwednesdayjuly22guidefivethingstodointheoilcity",
-  "b89b5fa3ab0ca5d5",
-  "usstocksmaymovebacktothedownsideamidsurgingcrudeoilprices",
-  "a871654ca1fb4592",
-  "norwaysnationaloilcompanysprofitsdoubleto115bnamidwaroniran",
   "0515d3fe6ff6df82",
   "globaloilpricejumpsaswarthreatsintensify",
   "87a26c7b52ed1370",
@@ -603,7 +597,13 @@
   "edc9f925ed78a5b7",
   "blmseeksinputfornovember2026saleofoilandgasleasesinnewmexico",
   "cb1a851957b00b8d",
-  "canthesuezsaveasianoilconsumersafterhouthisshutbabalmandeb"
+  "canthesuezsaveasianoilconsumersafterhouthisshutbabalmandeb",
+  "4d9bdd0d9aa6e5cb",
+  "oilsurgesto100perbarrelafterredseaattacks",
+  "8c4ab8ca6254b35d",
+  "usoilpricescross90asattacksintheredseathreatencriticalaltern",
+  "d4f6a25e28a39f49",
+  "europescentralbankholdsratessteadyamidswingsinoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T16:10:16.616253+03:00",
+ "last_run": "2026-07-23T16:15:17.041131+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1524,6 +1524,14 @@
   {
    "d": "2026-07-23",
    "t": "Oil jumps to $99 after Houthis attack two Saudi Arabian tankers - Financial Times"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Oil surges to $100 per barrel after Red Sea attacks - NBC News"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "US oil prices cross $90 as attacks in the Red Sea threaten critical alternative route for Persian Gulf oil - Yahoo Finance UK"
   }
  ]
 }
