@@ -4,14 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "d24220ff41cd6675",
-  "twowarsputstrangleholdonglobalenergysupplies",
-  "0a4e7e9626dbcf26",
-  "sprhits43yearlowwhatthe28brefillmeans",
-  "ef5d559049f36ea1",
-  "howmajorusstockindexesfaredwednesday7222026",
-  "658541252589bdda",
-  "houthiredseablockadecouldshatterhopesforloweroilprices",
   "dc8998d5ebbe992c",
   "crudeoilpricesjump3asmiddleeastwarescalates",
   "c6ee07066065fd45",
@@ -603,7 +595,15 @@
   "71f87e7dfefe4a7f",
   "21stpackageofsanctionseuhitsrussianenergyfinancialservicesan",
   "5540786f798a2bb7",
-  "nymexoverviewcrudeoilfuturesjumpashouthiattacksstokesupplyco"
+  "nymexoverviewcrudeoilfuturesjumpashouthiattacksstokesupplyco",
+  "70bfe7829c7d5396",
+  "hybridhydropowercouldunlockeuropesnextrenewableenergyboom",
+  "237007b2b766e720",
+  "gaspriceskeepclimbingnationalaveragejumps15cents",
+  "26080e546c51e328",
+  "opeclikelytoraiseoiloutputtargetsfromseptemberagainsourcessa",
+  "f103fe0d786beeb9",
+  "average30yearusmortgagerateclimbsto658highestlevelinnearlyay"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T19:55:12.983034+03:00",
+ "last_run": "2026-07-23T20:00:29.833718+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1708,6 +1708,10 @@
   {
    "d": "2026-07-23",
    "t": "21st package of sanctions: EU hits Russian energy, financial services and crypto hard - consilium.europa.eu"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "OPEC+ likely to raise oil output targets from September again, sources say - Reuters"
   }
  ]
 }
