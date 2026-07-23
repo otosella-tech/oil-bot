@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "75d9b0a47a4c813c",
-  "northdakotacrudeproductiondipsdespitestrongoilprices",
   "4e259d1ae802826e",
   "crudeoiladdstogainsafterhouthisattacktwosauditankersinthered",
   "a6ebb6564674fc61",
@@ -603,7 +601,9 @@
   "5298b9106e043ebd",
   "uksftse100slipsasoiltops100onmiddleeastconflictbondyieldsris",
   "efb74c7222fde02f",
-  "currentpriceofoilasofjuly172026"
+  "currentpriceofoilasofjuly172026",
+  "e77a48e24bb167cb",
+  "dowfalls458pointsasoilpriceshit100abarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T20:15:16.459369+03:00",
+ "last_run": "2026-07-23T20:20:14.491595+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
