@@ -4,12 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "4fe3a5b78cd396c0",
-  "uscrudeoilstocksunexpectedlyriseeia",
-  "65b83636fac2648e",
-  "crudeoilralliesasglobalsupplyrisksintensify",
-  "fc0acce2372706a8",
-  "lngsupplycrisispushesbuyerstowardcoalandoil",
   "e2fc7cc5c3427371",
   "oilpricessurgeashormuzbabelmandebrisksescalateamidrenewedusi",
   "7fe939ce4115546c",
@@ -603,7 +597,13 @@
   "390d9e735df36b10",
   "uscommercialcrudeoilstockpilespostweeklybuild",
   "23d9c4856a75efb5",
-  "wallstreetfuturesretreatasbigtechearningsandoilrallypressure"
+  "wallstreetfuturesretreatasbigtechearningsandoilrallypressure",
+  "014321de7b05bad3",
+  "indiasfuelexportssettosoarinjulyasrefiningmarginsjump",
+  "6e95251c490784b7",
+  "middleeastoilflowsdwindleasconflictwithirandeepens",
+  "0f5742f555f9be7c",
+  "oilpricesjumpto100dollarsabarrelafterredseashippingattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T17:25:14.205971+03:00",
+ "last_run": "2026-07-23T17:30:25.458420+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1608,6 +1608,18 @@
   {
    "d": "2026-07-23",
    "t": "Brent crude crosses $100/bbl as Houthi attack on Saudi tankers amplifies oil supply risks - Seeking Alpha"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "India’s Fuel Exports Set to Soar in July as Refining Margins Jump"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Middle East Oil Flows Dwindle as Conflict With Iran Deepens - The New York Times"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Oil prices jump to 100 dollars a barrel after Red Sea shipping attacks - Yahoo Finance UK"
   }
  ]
 }
