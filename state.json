@@ -4,10 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "599d50c7ae19ebee",
-  "theoilspikeeveryonefearednevershowedup",
-  "b3281305c116a928",
-  "crudeoilpricessurgeto88bblamidmiddleeasttensions",
   "d97f79d5cc94509a",
   "theanalystspotlightbeyondtheoilpricewheretheenergycycleturns",
   "6032000b96ee79c7",
@@ -603,7 +599,11 @@
   "64b729ff3661eaea",
   "optionsactiontheoilsurge",
   "84d21bf0380f9320",
-  "globaloiltops100afterhouthisstrikesauditankersandtrumpthreat"
+  "globaloiltops100afterhouthisstrikesauditankersandtrumpthreat",
+  "eef3698e8300621c",
+  "globalrefinersarecuttingoutoiltraderstobuyvenezuelancrudedir",
+  "9f9548fcff50334d",
+  "oilpricestop100forfirsttimein2months"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T20:25:14.706932+03:00",
+ "last_run": "2026-07-23T20:30:19.531594+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1732,6 +1732,10 @@
   {
    "d": "2026-07-23",
    "t": "Global oil tops $100 after Houthis strike Saudi tankers and Trump threatens ‘military punishment’ on Iran - MarketWatch"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Global Refiners Are Cutting Out Oil Traders To Buy Venezuelan Crude Directly - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
