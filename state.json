@@ -4,10 +4,6 @@
   "Brent": 93.04
  },
  "seen": [
-  "50a98ac5a53e683e",
-  "chevronshutsinpetroniusoutputastropicalstormberthaapproaches",
-  "f0d0197f16ceafc4",
-  "iraqoilminister200busenergydealstoboostcrudeoutputandgasby20",
   "e0e074c394d4f92c",
   "wticrudeoilfuturesjump33to8763brentcrudeoilfuturessurge33to9",
   "c2208c6b97fcb952",
@@ -603,7 +599,11 @@
   "435ecdd906890316",
   "indiansharesextenddroponoilsurgeinfosysindigoresultsawaited",
   "ac8a972489f094c6",
-  "wallstfutureseaseasbigtechresultsreviveaispendingworriesoilj"
+  "wallstfutureseaseasbigtechresultsreviveaispendingworriesoilj",
+  "9db79690546f745f",
+  "rupeeendsnearlyflatascentralbankinterventionbluntsoilstrain",
+  "766e5dbb414a1419",
+  "houthissaytheyattackedsauditankersthreateningnewchokepointin"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T13:40:14.517381+03:00",
+ "last_run": "2026-07-23T13:45:16.054072+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1452,6 +1452,10 @@
   {
    "d": "2026-07-23",
    "t": "Indian shares extend drop on oil surge; Infosys, IndiGo results awaited - Reuters"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Houthis say they attacked Saudi tankers, threatening new chokepoint in Iran war - Reuters"
   }
  ]
 }
