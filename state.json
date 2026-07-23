@@ -4,8 +4,6 @@
   "Brent": 95.86
  },
  "seen": [
-  "20b0eb8bbca2d0b0",
-  "oilfuturesextendrallyoncontinuedusiranstrikes",
   "223fc345681fa3d7",
   "dollarsshareofoiltradesdeclinesrapidlyover90days",
   "48dac131c79c90bb",
@@ -603,7 +601,9 @@
   "60df1530453f90f6",
   "rupeetoremainunderpressureonrunawayoilrallybrenttops96",
   "68172a94a76a6ce2",
-  "elevatedcrackspreadsinstitutionswarnthatrisingoilpricescould"
+  "elevatedcrackspreadsinstitutionswarnthatrisingoilpricescould",
+  "06cdb945453863bc",
+  "oilpricesclimbaftertankerstruckoffsaudiarabiatrumpescalatesi"
  ],
  "releases_done": {
   "2026-07-22|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-23",
-  "count": 26
+  "count": 27
  },
- "last_run": "2026-07-23T06:30:18.312198+03:00",
+ "last_run": "2026-07-23T06:35:12.968357+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
