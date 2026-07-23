@@ -4,12 +4,6 @@
   "Brent": 95.86
  },
  "seen": [
-  "6d96f3a0242df5ce",
-  "oilpricesjumpfollowingthelatestfightinginthemiddleeastwhilea",
-  "e924eef967b25f7d",
-  "theoilquestionthatreallymattersforstocks",
-  "bfd7ec9ba389b58c",
-  "californiafightstrumpadministrationagainoversantabarbaraoilp",
   "46fb133922179cb3",
   "higherforlongeroilscenarioisheretostay",
   "a5ebfaa851ab9291",
@@ -603,7 +597,13 @@
   "ace6fffaae69c744",
   "indiassolarmanufacturingpushbackfiresaspanelfactoriesshutdow",
   "5cc79dac84d6ddbd",
-  "oilfuturescruderalliesassauditankerstargetedinredsea"
+  "oilfuturescruderalliesassauditankerstargetedinredsea",
+  "35eac4fde713aff9",
+  "twochinesesupertankerscarryingsaudioilareheadingtobabelmande",
+  "4bc23b31f7ec3d38",
+  "eucountriesclinchdealonrussiasanctions",
+  "e79b7e37da1eee57",
+  "houthissaytheyattackedsauditankersintheredseathreateningnewc"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-23",
-  "count": 50
+  "count": 51
  },
- "last_run": "2026-07-23T10:30:18.569625+03:00",
+ "last_run": "2026-07-23T10:35:12.509226+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
