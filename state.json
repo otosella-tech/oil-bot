@@ -4,8 +4,6 @@
   "Brent": 86.15
  },
  "seen": [
-  "445ead786c25fd3d",
-  "ftse100livebluechipscalledhigherasukinflationsoftensbutoilpr",
   "7208a1118e48670e",
   "surgingoilpricespushjapansimportbilltoanunprecedentedhigh",
   "e81bd455a7818d13",
@@ -603,7 +601,9 @@
   "6bf24155f88d1691",
   "crudeoilrisesfor5thsession",
   "91a8b459b05745b5",
-  "oilhitssixweekhighaswarthreatenscrudeshippingroutes"
+  "oilhitssixweekhighaswarthreatenscrudeshippingroutes",
+  "08532c72a7ecab9f",
+  "noinfrastructurewillbesafeghalibafspromisetostopoiltradeadan"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T12:15:17.154475+03:00",
+ "last_run": "2026-07-23T12:20:19.253987+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
