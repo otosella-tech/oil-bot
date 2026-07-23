@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "238e0e1d12b77a58",
-  "globaloilpricesriseasconflictwithirandeepens",
   "c1e5c5e592b19b9d",
   "vietnamsnghisonrefinerysecurescrudeoiltooperatethroughendsep",
   "0a6531c11c74ac6e",
@@ -603,7 +601,9 @@
   "be7bd48ff706f3d8",
   "wallstfallsastechearningssparkaispendingworriesandoilhits100",
   "edd83e017c21d2fc",
-  "globaloiltops100settlesat2monthhighafterhouthisstrikesaudita"
+  "globaloiltops100settlesat2monthhighafterhouthisstrikesaudita",
+  "9f7d416871c2cdd9",
+  "usequityindexesslumpcrudeoilsoarsasiranbackedhouthishittanke"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T23:20:15.338062+03:00",
+ "last_run": "2026-07-23T23:25:13.222810+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1780,6 +1780,10 @@
   {
    "d": "2026-07-23",
    "t": "Global oil tops $100, settles at 2-month high after Houthis strike Saudi tankers and Trump threatens ‘military punishment’ on Iran - MarketWatch"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "US Equity Indexes Slump, Crude Oil Soars as Iran-Backed Houthis Hit Tankers in Red Sea Chokepoint - marketscreener.com"
   }
  ]
 }
