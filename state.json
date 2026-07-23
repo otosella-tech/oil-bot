@@ -4,10 +4,6 @@
   "Brent": 93.04
  },
  "seen": [
-  "b32631a7681148d5",
-  "brentclimbspast94abarrelonmountingsupplyrisks",
-  "f956ec1e324f0725",
-  "crudeoilwtiisupby4",
   "8f76f33023323ffe",
   "crudeoilrisesfor4thsession",
   "aab5726e22f0cf84",
@@ -603,7 +599,11 @@
   "df13d2dc3c8326e5",
   "kazakhstansoiloutputplummetsafterdroneattacksforcedexporting",
   "85f64723da826ffc",
-  "transcriptusoilrefineriesraceagainstdwindlingsupply"
+  "transcriptusoilrefineriesraceagainstdwindlingsupply",
+  "31d27576205e0417",
+  "whatdoesiraqs147billionarbitrationvictoryoverturkeymeanforth",
+  "3d287a44c0f418ba",
+  "atleastonesaudioiltankerisattackedintheredseaaswarriskswiden"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T13:05:13.406562+03:00",
+ "last_run": "2026-07-23T13:10:14.409468+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1444,6 +1444,10 @@
   {
    "d": "2026-07-23",
    "t": "Kazakhstan's oil output plummets after drone attacks forced exporting terminal closure, sources say - Reuters"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "At least one Saudi oil tanker is attacked in the Red Sea as war risks widen - The Washington Post"
   }
  ]
 }
