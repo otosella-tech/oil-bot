@@ -4,8 +4,6 @@
   "Brent": 86.15
  },
  "seen": [
-  "79bfe415dba7de85",
-  "japanlogs101trilyentradedeficitinjanuaryjunehitbyiranwar",
   "515c758e8a6c82f8",
   "rupeessensitivitytooilrisesasrenewediranconflictfuelscrudera",
   "34a91bfe48cf35e2",
@@ -603,7 +601,9 @@
   "cb26033670637740",
   "explainercrudeoillaunderingisbelarusbecomingrussiasbackdoorf",
   "23fb4fe84250d3b8",
-  "houthisattacksaudioiltankersasusstrikesirantehranexpandsthre"
+  "houthisattacksaudioiltankersasusstrikesirantehranexpandsthre",
+  "610917014cb6bbf1",
+  "oilfuturescrudesoarsassauditankerstargetedinredsea"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-23",
-  "count": 55
+  "count": 56
  },
- "last_run": "2026-07-23T11:20:13.838696+03:00",
+ "last_run": "2026-07-23T11:25:14.403220+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
