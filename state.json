@@ -4,10 +4,6 @@
   "Brent": 93.04
  },
  "seen": [
-  "a109829141849dbe",
-  "stocksboostedbyenergyasoilrisesaheadofbigtechearningstest",
-  "5dbc00b61713a3ce",
-  "japanspowerpricessoarto35",
   "9953f43b80d7ad88",
   "chinabrokeoilandgasoutputrecordsin2025butbeijingisstayingcau",
   "4061358e3c6de7c7",
@@ -603,7 +599,11 @@
   "8289bf47e1015320",
   "firstthingtodaygrainralliesextendbutveterantradersseepotenti",
   "87530c1f3f771180",
-  "usoilrefineriesrunatbreakneckspeedsaswarschokefuelsupplies"
+  "usoilrefineriesrunatbreakneckspeedsaswarschokefuelsupplies",
+  "40ffc6a074b108e3",
+  "saudiaramconegotiatesreroutingcrudeoilaroundafricaashouthiat",
+  "3c413bb095f7d62f",
+  "houthiattacksthreatentocutoffsaudiarabiasoillifeline"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T14:20:14.538495+03:00",
+ "last_run": "2026-07-23T14:25:13.557373+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1464,6 +1464,14 @@
   {
    "d": "2026-07-23",
    "t": "US oil refineries run at breakneck speeds as wars choke fuel supplies - Financial Times"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Saudi Aramco negotiates rerouting crude oil around Africa as Houthi attacks escalate - Crypto Briefing"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Houthi attacks threaten to cut off Saudi Arabia’s oil lifeline - Financial Times"
   }
  ]
 }
