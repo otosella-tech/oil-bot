@@ -4,12 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "4e259d1ae802826e",
-  "crudeoiladdstogainsafterhouthisattacktwosauditankersinthered",
-  "a6ebb6564674fc61",
-  "globalrefinersarecuttingoutoiltraderstobuyvenezuelancrudedir",
-  "d1369843a3dcbf73",
-  "usstocksstallasoilextendsgains",
   "599d50c7ae19ebee",
   "theoilspikeeveryonefearednevershowedup",
   "b3281305c116a928",
@@ -603,7 +597,13 @@
   "efb74c7222fde02f",
   "currentpriceofoilasofjuly172026",
   "e77a48e24bb167cb",
-  "dowfalls458pointsasoilpriceshit100abarrel"
+  "dowfalls458pointsasoilpriceshit100abarrel",
+  "573976dc790d7ff2",
+  "oddsoffederalreserveratehikesurgeasoilpricesriphigher",
+  "64b729ff3661eaea",
+  "optionsactiontheoilsurge",
+  "84d21bf0380f9320",
+  "globaloiltops100afterhouthisstrikesauditankersandtrumpthreat"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T20:20:14.491595+03:00",
+ "last_run": "2026-07-23T20:25:14.706932+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1720,6 +1720,18 @@
   {
    "d": "2026-07-23",
    "t": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil' - CNBC"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Odds of Federal Reserve rate hike surge as oil prices rip higher - CNBC"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Options Action: The Oil Surge - CNBC"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Global oil tops $100 after Houthis strike Saudi tankers and Trump threatens ‘military punishment’ on Iran - MarketWatch"
   }
  ]
 }
