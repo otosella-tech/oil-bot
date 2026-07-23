@@ -4,12 +4,6 @@
   "Brent": 93.04
  },
  "seen": [
-  "e71b736c18595a74",
-  "oilclimbsover4tonearsixweekhighasconflictthreatenskeyoiltran",
-  "f10ecebe97df2778",
-  "alphabettexasinstrumentsandteslaearningstakecentrestageasoil",
-  "19920531e8982440",
-  "stockmarketswontlikewhatsnextastheiranwartradebreaks",
   "fcdf06653769861a",
   "oiltops95asusirantensionsspreadacrossmiddleeast",
   "5ca30a0ff4e2cdc2",
@@ -603,7 +597,13 @@
   "aeabf776c87b51e3",
   "chinesetankerspushthroughbabelmandebdespitehouthiblockadethr",
   "19edd2f211a71e39",
-  "oilpricesleapafterattacksinredsea"
+  "oilpricesleapafterattacksinredsea",
+  "d61878a5b019ef05",
+  "oilpricessurgetowardtripledigitsafterredseaattacks",
+  "048bf85b1016470e",
+  "whyexxonmobilxomisup69aftergeopoliticallydrivenoilpricesuppo",
+  "82ad14190562ecbf",
+  "chartofthedaybombsandbondsoilvolcontinuestoperpetuateratesvo"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T14:40:16.657383+03:00",
+ "last_run": "2026-07-23T14:45:16.362887+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1484,6 +1484,10 @@
   {
    "d": "2026-07-23",
    "t": "Oil prices leap after attacks in Red Sea - The Washington Post"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Oil prices surge toward triple digits after Red Sea attacks - NBC News"
   }
  ]
 }
