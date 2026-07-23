@@ -4,20 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "7e09e4a1aa66cfbf",
-  "crudeoilfuturessep6clmainusbrentlastdayfinancialfuturessep6b",
-  "f147ed3d919506c4",
-  "oilpricesriseanother2whileaistocksgetbacktofalling",
-  "a1fe923a2c68a662",
-  "thehormuzcrisisisdrivingageopoliticalshiftacrossasia",
-  "3444a0a566d3c167",
-  "californiasdisplacedoilandgasworkersfundisalifelinenowadvoca",
-  "f7f84131dd66b9d3",
-  "oilclimbsmorethan2tomultiweekhighasconflictthreatensoiltrans",
-  "fea1f8622a140592",
-  "oilpricerisesabove95markasmiddleeastconflictescalates",
-  "2bc65b9cb6341038",
-  "oilpricesriseanother2whileaistocksgetbacktofallingpittsburgh",
   "d9d5e1503bb80c38",
   "crudeoilpriceanalysisbrenteyes100resistanceasmiddleeastwares",
   "5419f4eeef24b835",
@@ -603,7 +589,21 @@
   "2641c77b7840c582",
   "oiltops100asmiddleeasttensionsthreatensupplies",
   "6c0e2f59eacc172b",
-  "surgingcrudeoilpricesintensifyinflationconcernsustreasuryyie"
+  "surgingcrudeoilpricesintensifyinflationconcernsustreasuryyie",
+  "5ada468ffc5c7461",
+  "oilpricesleapto100abarrelafterattacksinredsea",
+  "bc82ea3fa5d1d308",
+  "brentoilspricebrieflytops100perbarrelasstocksfallonwallstree",
+  "23f3bf5da8b22bb3",
+  "usenergysharesgainashouthitankerattackspushbrentto100",
+  "37dac06c54e00e90",
+  "wallstsetforloweropenasbigtechearningsrekindleaispendingworr",
+  "62eb4c3bac1f7171",
+  "oilpricepasses100abarrelagainasmiddleeastconflictescalates",
+  "c35d28880a3aacc9",
+  "iranwardisruptssupplyroutesdrivescrudeoilabove100perbarrel",
+  "42989a4656352694",
+  "euimposesmoresanctionsonrussiaincompromisedeal"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T16:35:12.382526+03:00",
+ "last_run": "2026-07-23T16:40:17.660703+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1548,6 +1548,22 @@
   {
    "d": "2026-07-23",
    "t": "LNG Importers Seek Lower Qatar and UAE Prices as War Upends Deals"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Oil prices leap to $100 a barrel after attacks in Red Sea - The Washington Post"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "US energy shares gain as Houthi tanker attacks push Brent to $100 - Reuters"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Iran war disrupts supply routes, drives crude oil above $100 per barrel - Crypto Briefing"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "E.U. imposes more sanctions on Russia, in compromise deal - The Washington Post"
   }
  ]
 }
