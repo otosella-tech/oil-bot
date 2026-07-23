@@ -4,8 +4,6 @@
   "Brent": 95.86
  },
  "seen": [
-  "1d9c7d64dec9217f",
-  "theushascollectedabout13bnofvenezuelasoilmoneywhereisit",
   "57678d4c1a420314",
   "indiansharesfallonhighercrudepharmaslipsontrumptariffplan",
   "e5b148939002d8c8",
@@ -603,7 +601,9 @@
   "880ec1afd8486c54",
   "guestopinionthewestisabouttoinheritmoreabandonedoilwells",
   "97ed8f67fa95d80e",
-  "oilfuturescrudesurgesassauditankerstargetedinredsea"
+  "oilfuturescrudesurgesassauditankerstargetedinredsea",
+  "5de7c16e0a815100",
+  "houthisclaimstrikesonsaudiarabianoiltankersinredseaasirancon"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-23",
-  "count": 48
+  "count": 49
  },
- "last_run": "2026-07-23T10:15:17.346272+03:00",
+ "last_run": "2026-07-23T10:20:16.654094+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
