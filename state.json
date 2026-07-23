@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "97ed8f67fa95d80e",
-  "oilfuturescrudesurgesassauditankerstargetedinredsea",
   "5de7c16e0a815100",
   "houthisclaimstrikesonsaudiarabianoiltankersinredseaasirancon",
   "ace6fffaae69c744",
@@ -603,7 +601,9 @@
   "b37822c9966ec770",
   "usequityindexesslumpcrudeoilsoarsastrumpwarnsofbigiranattack",
   "c277b89da5d309ba",
-  "oilpricessurgetotripledigitskfyr"
+  "oilpricessurgetotripledigitskfyr",
+  "f2e5945715a9e6ba",
+  "opecsettoraiseoutputagainevenasmemberscantpumpit"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 3
+  "count": 4
  },
- "last_run": "2026-07-24T00:55:12.047225+03:00",
+ "last_run": "2026-07-24T01:00:26.409588+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
