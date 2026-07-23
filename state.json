@@ -4,10 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "6955c9cf4af0fe1d",
-  "chipcompaniesandotheraiwinnersdragwallstreetloweragainwhilec",
-  "efd668f006a10855",
-  "currentpriceofoilasofjuly202026",
   "3b1ee2a158375941",
   "oilpricehopsover95markasmiddleeastconflictescalates",
   "7cfe5146703c07fc",
@@ -603,7 +599,11 @@
   "c90dbca94ccaa711",
   "crudeoilforecastbrenttargets100asmiddleeastsupplyfearsescala",
   "0515d3fe6ff6df82",
-  "globaloilpricejumpsaswarthreatsintensify"
+  "globaloilpricejumpsaswarthreatsintensify",
+  "46a6850fb5458b92",
+  "lngimportersseeklowerqataranduaepricesaswarupendsdeals",
+  "d9ee1c881ebf33b6",
+  "crudeoilrallyweighsonstocksasdollarstrengthensvideo"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T16:25:15.515838+03:00",
+ "last_run": "2026-07-23T16:30:23.004444+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1544,6 +1544,10 @@
   {
    "d": "2026-07-23",
    "t": "Global Oil Price Jumps as War Threats Intensify - The New York Times"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "LNG Importers Seek Lower Qatar and UAE Prices as War Upends Deals"
   }
  ]
 }
