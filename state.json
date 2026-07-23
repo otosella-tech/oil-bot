@@ -4,12 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "422e8cf59d47efd1",
-  "ifuncertaintysurroundingtheprocurementofcrudeoilderivedprodu",
-  "cb3cb77d8e6ee280",
-  "icecanadaweeklyoutlookrallyingfutureswatchingcrudeoil",
-  "b5cdc43fff904d91",
-  "globaloilpricesrisetohighestlevelinamonthamidiranwarescalati",
   "d2f857390cc76410",
   "aftermorethanadecadeofcommunityresistanceasouthlaoildrilling",
   "e3af5dd2582560a8",
@@ -603,7 +597,13 @@
   "3d3879d5454be84a",
   "arkansasgaspricesjumpnearly25centsagalloninoneweekaaasays",
   "2f3aa33c9543a5ba",
-  "oilhits100forfirsttimesincemaywhileusstocksslide"
+  "oilhits100forfirsttimesincemaywhileusstocksslide",
+  "46a1aeed5615b0c3",
+  "thepriceofoilsurgedto98abarrelonthursdaymorningasiranshouthi",
+  "f8cc8446b27cd0c9",
+  "oilpasses100abarrelagainandsharesfallasmiddleeastconflictesc",
+  "1fce721452e63125",
+  "whyanorthseaoilfieldisemergingasbritishpmburnhamsbigtest"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T19:40:20.208751+03:00",
+ "last_run": "2026-07-23T19:45:17.090682+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1696,6 +1696,10 @@
   {
    "d": "2026-07-23",
    "t": "Oil Prices, Shipping Rates Surge As Rebels Open Second Front In Iran War - Investor's Business Daily"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "The price of oil surged to $98 a barrel on Thursday morning, as Iran’s Houthi allies in Yemen claimed strikes on two Saudi tankers in the Red Sea, and neither the U.S. nor Iran showed any letup in their fighting. Follow live updates. - facebook.com"
   }
  ]
 }
