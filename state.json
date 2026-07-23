@@ -4,16 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "6375c186320f249f",
-  "analysisiranwarenergyshockhitstheuseconomyasgasanddieselpric",
-  "6ee5e93fa0610a9d",
-  "escalatingglobalsupplyrisksunderpincrudeoilprices",
-  "abfa36730b9aff2c",
-  "ohiosrecordgaspriceswerentthemostexpensiveafterinflation",
-  "443f0007ed2bce78",
-  "whyaremarketsshruggingoffthelatestjumpinoilprices",
-  "a98414bc6bc2d378",
-  "oilpricesriseanother3whilewallstreetdriftsinmixedtradingfron",
   "cd52e1e29abeba63",
   "usequityindexesmixedascrudeoiljumpswhileinvestorsawaitalphab",
   "b83a11e51287bac3",
@@ -603,7 +593,17 @@
   "01f405a7d6d26c65",
   "straitofhormuzbabelmandebdisruptionskeepoilabove98bblkeeping",
   "809e4db8e353a971",
-  "trumpdismissedaffordabilityasademocraticmadeupwordthenoilhit"
+  "trumpdismissedaffordabilityasademocraticmadeupwordthenoilhit",
+  "ead134876a6a3981",
+  "commercialcrudeoilinventoriesincreasedby20millionbarrels",
+  "ed7c3f6876224c97",
+  "dowfallsover500pointstrumpslatestiranthreatsendscrudeoilpric",
+  "971d863ca55d7483",
+  "middleeastoilproducersseekstraitofhormuzalternativesastheusi",
+  "f8e73798a6052a1a",
+  "oilsurgesabove100perbarrelasiranustensionsescalateagain",
+  "e2d442e0b2a7ec51",
+  "oilexecutivesrushtocompletecontractmigrationinvenezuelasourc"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T18:40:15.944450+03:00",
+ "last_run": "2026-07-23T18:45:17.192552+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1664,6 +1664,22 @@
   {
    "d": "2026-07-23",
    "t": "Strait of Hormuz & Bab el-Mandeb Disruptions Keep Oil Above $98/bbl, Keeping Supply Risks Elevated - Crux Investor"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Dow Falls Over 500 Points, Trump's Latest Iran Threat Sends Crude Oil Prices Over $100 A Barrel — Nasdaq Declines After TSLA, GOOGL Earnings - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Middle East oil producers seek Strait of Hormuz alternatives as the U.S.-Iran war escalates - CBS News"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Oil surges above $100 per barrel as Iran-US tensions escalate again - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Oil executives rush to complete contract migration in Venezuela, sources say - Reuters"
   }
  ]
 }
