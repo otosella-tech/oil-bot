@@ -4,10 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "58e5a6ba64dfb146",
-  "houthithreatsgiveoilmarketsatwochokepointproblem",
-  "19a6e6b6b8292c2e",
-  "oilclimbsmorethan2tomultiweekhighasmideastconflictthreatenso",
   "486d7c707fd45831",
   "usequityindexesmixedamidhighercrudeoilpricestreasuryyields",
   "a9a80118f23184e1",
@@ -603,7 +599,11 @@
   "606a29f2c4204862",
   "usmarketoutlookrenewedusirantensionsdrivesharpsurgeinoilpric",
   "da11eb70d0f0b323",
-  "ecbhostagetooilpriceslagardeleavesdooropenforaseptemberhike"
+  "ecbhostagetooilpriceslagardeleavesdooropenforaseptemberhike",
+  "d1f1980f5c63a95b",
+  "usgaspricestop4agallonagainhereswhy",
+  "9f3752cf21501eb0",
+  "stockssinkonbigtechcashburnoilhits100forfirsttimesincemay"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T17:35:12.836532+03:00",
+ "last_run": "2026-07-23T17:40:16.825916+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
