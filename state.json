@@ -4,8 +4,6 @@
   "Brent": 95.86
  },
  "seen": [
-  "9e9ca51f7a4fe621",
-  "japanjuneimportyyriseledbycrudeoilcomputerchipsnonferrousmet",
   "78ddae0c633ee929",
   "oilrisesamidgrowingconcernsoversupplydisruptionsinmiddleeast",
   "fd1df318b8ce6316",
@@ -603,7 +601,9 @@
   "4dc41d704d910b91",
   "chinasnextmovecoulddecidewhereoilpricesgothisyear",
   "25458216ed2d9aa2",
-  "crudeoilinventoriesrise2010mvs1052mestimate"
+  "crudeoilinventoriesrise2010mvs1052mestimate",
+  "9dd5b9229d48081b",
+  "sugarpricessettlehigheroncrudeoilstrength"
  ],
  "releases_done": {},
  "last_digest": "2026-07-22",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 30
  },
- "last_run": "2026-07-23T07:30:17.417912+03:00",
+ "last_run": "2026-07-23T07:35:14.591057+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
