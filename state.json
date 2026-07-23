@@ -4,10 +4,6 @@
   "Brent": 93.04
  },
  "seen": [
-  "13d3b42a7b83dccb",
-  "halliburtonq2netincomerises16onnorthamericarecovery",
-  "018346323dbd4c59",
-  "currentpriceofoilasofjuly222026",
   "81cd6cf4cb41feca",
   "indiasbpclreportsfirstquarterlylossin15onhighercrudecosts",
   "fcb974a078849fad",
@@ -603,7 +599,11 @@
   "d7243f36baae00c6",
   "poundsteadyasinvestorseyeoilpricesecbdecision",
   "eccd17020288453d",
-  "breakingviewsoilpricesafetynetisbeginningtofray"
+  "breakingviewsoilpricesafetynetisbeginningtofray",
+  "23078c243b65935b",
+  "mideasttensionspushbrentcrudepast98",
+  "67601ed975ac7c23",
+  "morningbidmagnificentcashburn"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T13:55:12.043650+03:00",
+ "last_run": "2026-07-23T14:00:26.240666+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
