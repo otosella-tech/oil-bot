@@ -1,13 +1,9 @@
 {
  "price_base": {
-  "WTI": 87.7,
+  "WTI": 89.55,
   "Brent": 95.86
  },
  "seen": [
-  "57678d4c1a420314",
-  "indiansharesfallonhighercrudepharmaslipsontrumptariffplan",
-  "e5b148939002d8c8",
-  "crudeoilpriceapproachesourpricetargetanalysis22072026",
   "6d96f3a0242df5ce",
   "oilpricesjumpfollowingthelatestfightinginthemiddleeastwhilea",
   "e924eef967b25f7d",
@@ -603,7 +599,11 @@
   "97ed8f67fa95d80e",
   "oilfuturescrudesurgesassauditankerstargetedinredsea",
   "5de7c16e0a815100",
-  "houthisclaimstrikesonsaudiarabianoiltankersinredseaasirancon"
+  "houthisclaimstrikesonsaudiarabianoiltankersinredseaasirancon",
+  "ace6fffaae69c744",
+  "indiassolarmanufacturingpushbackfiresaspanelfactoriesshutdow",
+  "5cc79dac84d6ddbd",
+  "oilfuturescruderalliesassauditankerstargetedinredsea"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-23",
-  "count": 49
+  "count": 50
  },
- "last_run": "2026-07-23T10:25:13.015422+03:00",
+ "last_run": "2026-07-23T10:30:18.569625+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
