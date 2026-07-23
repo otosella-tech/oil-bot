@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "04ef212525cbae2e",
-  "onebillionbarrelsofemergencystocksremaininoilreservesieasays",
   "ac3e2ae2d6fa314e",
   "crudeoilpriceforecastbreakoutorpullbacknext",
   "fad9a4c77041e8d8",
@@ -603,7 +601,9 @@
   "a8f29081f440d507",
   "oilsurgespast100inafirstsincemayasmiddleeastconflictsrage",
   "9a7027a5e31f985d",
-  "fuelcostsontheriseaslatestgeopoliticalturmoildrivesupcrudeoi"
+  "fuelcostsontheriseaslatestgeopoliticalturmoildrivesupcrudeoi",
+  "2959214f582a9c19",
+  "oilpricestop100abarrelforfirsttimesincemayhowthingscouldgetw"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T23:30:22.276894+03:00",
+ "last_run": "2026-07-23T23:35:11.289387+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
