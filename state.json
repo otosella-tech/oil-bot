@@ -4,10 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "fb755ee6b238138a",
-  "uscrudeoilinventoriesup05inweekendingjuly17",
-  "b81da4cddcf37f00",
-  "shouldyoubuyplainsallamericanstocknowthatcrudeoilpricesarebe",
   "2e0f947de9173e3c",
   "forextoday2307crudeoilreaches6weekhigh",
   "3c72dfe982b77d1f",
@@ -603,7 +599,11 @@
   "972e9bef6d150dde",
   "supportandcriticismarisefromproposedlibertybridgepipelineinc",
   "5f53c642b999f5d2",
-  "mideastoilproducersstepupplanstobypassthestraitofhormuz"
+  "mideastoilproducersstepupplanstobypassthestraitofhormuz",
+  "6f7ea4f195d2fe6c",
+  "usmilitarysaysitslaunchingstrikesoniranasclashesescalateover",
+  "f48f282b7c4fb10a",
+  "usstrategicpetroleumreservehitslowestlevelsince1983whileoilp"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 7
+  "count": 8
  },
- "last_run": "2026-07-24T02:40:13.724860+03:00",
+ "last_run": "2026-07-24T02:45:16.591286+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
