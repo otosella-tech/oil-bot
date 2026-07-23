@@ -1,19 +1,9 @@
 {
  "price_base": {
-  "WTI": 89.55,
+  "WTI": 91.38,
   "Brent": 86.74
  },
  "seen": [
-  "a90f92a6d4c50154",
-  "crudeoilrallyweighsonstocksasdollarstrengthensvideo",
-  "f9cbc9494d41e527",
-  "top3energymutualfundstobuyamidrisingoilprices",
-  "c185bf109f39e52f",
-  "iranwarescalationthreatensglobalfuelsupplyrecovery",
-  "de32b14dd38ea3db",
-  "energysharespushupeuropesstoxx600investorswatchmiddleeastbig",
-  "0c693357b5e40710",
-  "statedepartmentannouncesiraqsyriacrudeoilpipeline",
   "6955c9cf4af0fe1d",
   "chipcompaniesandotheraiwinnersdragwallstreetloweragainwhilec",
   "efd668f006a10855",
@@ -603,7 +593,17 @@
   "81cd1a88b54a7af9",
   "wticrudeoilhits90forthefirsttimeinsixweeks",
   "4a9c48b934223259",
-  "yemenshouthisattacksauditankersintheredseathreateningtowiden"
+  "yemenshouthisattacksauditankersintheredseathreateningtowiden",
+  "4bfa050e398d160f",
+  "globaloilpricehits100abarrelforfirsttimesincemay",
+  "bc7dc708040ca1d4",
+  "totalenergiespostsstrongestprofitinnearlythreeyearsasiranwar",
+  "84278036db1a6cd0",
+  "investingliveeuropeanmarketswrapoilpricescontinuetosurgehigh",
+  "c90dbca94ccaa711",
+  "crudeoilforecastbrenttargets100asmiddleeastsupplyfearsescala",
+  "0515d3fe6ff6df82",
+  "globaloilpricejumpsaswarthreatsintensify"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T16:20:16.847832+03:00",
+ "last_run": "2026-07-23T16:25:15.515838+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1536,6 +1536,14 @@
   {
    "d": "2026-07-23",
    "t": "Yemen’s Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war - The Denver Post"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "TotalEnergies posts strongest profit in nearly three years as Iran war lifts oil prices - Reuters"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Global Oil Price Jumps as War Threats Intensify - The New York Times"
   }
  ]
 }
