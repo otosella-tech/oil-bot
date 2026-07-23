@@ -4,8 +4,6 @@
   "Brent": 93.04
  },
  "seen": [
-  "e0e074c394d4f92c",
-  "wticrudeoilfuturesjump33to8763brentcrudeoilfuturessurge33to9",
   "c2208c6b97fcb952",
   "brentwticrudeoilfuturesjumpprebellasusbombsiranfor11thnightt",
   "31ffe6eb09aa19db",
@@ -603,7 +601,9 @@
   "9db79690546f745f",
   "rupeeendsnearlyflatascentralbankinterventionbluntsoilstrain",
   "766e5dbb414a1419",
-  "houthissaytheyattackedsauditankersthreateningnewchokepointin"
+  "houthissaytheyattackedsauditankersthreateningnewchokepointin",
+  "1975cc8476dc8f24",
+  "oilpricesurgereignitesinflationworriesaheadofecbmeeting"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T13:45:16.054072+03:00",
+ "last_run": "2026-07-23T13:50:15.400329+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1456,6 +1456,10 @@
   {
    "d": "2026-07-23",
    "t": "Houthis say they attacked Saudi tankers, threatening new chokepoint in Iran war - Reuters"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Oil price surge reignites inflation worries ahead of ECB meeting - Reuters"
   }
  ]
 }
