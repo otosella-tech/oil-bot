@@ -4,14 +4,6 @@
   "Brent": 86.74
  },
  "seen": [
-  "2b9b076dfde8360b",
-  "japancrudeoilimportcostssurgetothirdconsecutiverecordinjune",
-  "94f9ebfa7fa9b167",
-  "gevernovaraisesoutlookasaipowerboommaskswindweakness",
-  "e005f181f6fe5882",
-  "trumpifiranfiresatashiptheuswillbombabridgepowerstationcrude",
-  "a71ae58faaf0bef6",
-  "usequityindexesmixedastreasuryyieldsjumpwithcrudeoilamidreds",
   "b86afdf2a680110c",
   "usequityfuturesslideasbrentcrudeoilpricessurgeonstalledusira",
   "38849b819135a08d",
@@ -603,7 +595,15 @@
   "689bb178480a86ee",
   "10yeartreasuryyieldrisestohighestsincejanuary2025assurgingoi",
   "da76676900009813",
-  "everythingisgoingwrongforoilmarketsrightnow"
+  "everythingisgoingwrongforoilmarketsrightnow",
+  "5608447f2fbb657c",
+  "usenergysharesgainashouthitankerattackspushbrentcrudeto100",
+  "a4a7e4560c74f3b1",
+  "albertasproposedwestcoastpipelinefacesahighstakeseconomictes",
+  "572599d2e1870ef0",
+  "oilhits100forfirsttimesincemay",
+  "c8837b26069b13fc",
+  "serbiapermitsthereleaseofoilreserves"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T18:05:15.601701+03:00",
+ "last_run": "2026-07-23T18:10:17.566418+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1640,6 +1640,10 @@
   {
    "d": "2026-07-23",
    "t": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted - NBC News"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "US energy shares gain as Houthi tanker attacks push Brent crude to $100 - Reuters"
   }
  ]
 }
