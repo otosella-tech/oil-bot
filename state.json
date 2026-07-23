@@ -4,8 +4,6 @@
   "Brent": 93.04
  },
  "seen": [
-  "4061358e3c6de7c7",
-  "whytheiranwarhasntcausedaglobaloilcrisisyet",
   "71a556c8df24730e",
   "rupeelanguishesattwomonthlowsassupplyworriesraiseoilprices",
   "e71b736c18595a74",
@@ -603,7 +601,9 @@
   "3c413bb095f7d62f",
   "houthiattacksthreatentocutoffsaudiarabiasoillifeline",
   "e6f59eb56c6d3b4e",
-  "chinesetankerspushthroughbabel"
+  "chinesetankerspushthroughbabel",
+  "aeabf776c87b51e3",
+  "chinesetankerspushthroughbabelmandebdespitehouthiblockadethr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T14:30:19.447796+03:00",
+ "last_run": "2026-07-23T14:35:14.657435+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1476,6 +1476,10 @@
   {
    "d": "2026-07-23",
    "t": "Chinese Tankers Push Through Bab el-Mandeb Despite Houthi Blockade Threats"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "Chinese Tankers Push Through Bab el-Mandeb Despite Houthi Blockade Threats - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
