@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "2e0f947de9173e3c",
-  "forextoday2307crudeoilreaches6weekhigh",
   "3c72dfe982b77d1f",
   "totalenergiessecondquarterprofitssoaronhigheroilpricestrongr",
   "da906faf7afe706e",
@@ -603,7 +601,9 @@
   "6f7ea4f195d2fe6c",
   "usmilitarysaysitslaunchingstrikesoniranasclashesescalateover",
   "f48f282b7c4fb10a",
-  "usstrategicpetroleumreservehitslowestlevelsince1983whileoilp"
+  "usstrategicpetroleumreservehitslowestlevelsince1983whileoilp",
+  "e0ad75965888c6d1",
+  "oilfuturesedgeloweronlikelytechnicalcorrection"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 8
  },
- "last_run": "2026-07-24T02:50:17.803002+03:00",
+ "last_run": "2026-07-24T02:55:11.545508+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
