@@ -4,8 +4,6 @@
   "Brent": 95.86
  },
  "seen": [
-  "ac3e2ae2d6fa314e",
-  "crudeoilpriceforecastbreakoutorpullbacknext",
   "a788c1a9321af469",
   "goldralliesasbuyersignorehigheryieldsoilshockkitcopmreport",
   "8fb0b07fedf58cc3",
@@ -603,7 +601,9 @@
   "b70e2c7d0d8b6ded",
   "usirantensionsunderpindollarasyennears40yearlow",
   "407b295ccf33f4e9",
-  "oilrisesamidprospectsoffurtherescalationinusiranconflict"
+  "oilrisesamidprospectsoffurtherescalationinusiranconflict",
+  "0222eaa5243bbafc",
+  "uscrudeoilinventoriesbuildashormuzshippingheadachedragson"
  ],
  "releases_done": {
   "2026-07-22|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-23",
-  "count": 17
+  "count": 18
  },
- "last_run": "2026-07-23T04:20:15.471992+03:00",
+ "last_run": "2026-07-23T04:25:13.994797+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
