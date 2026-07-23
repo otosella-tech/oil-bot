@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "b8177f00466abaaf",
-  "oilclimbsasescalatingconflictboostssupplydisruptionconcerns",
   "efa625f2a657aa78",
   "crudeoilpricesjumpstocksstillholdingupfornow",
   "81feea4e8e993286",
@@ -603,7 +601,9 @@
   "c37ba4164178e008",
   "houthiattacksonsauditankersconstrictcrudetrade",
   "ccfce1f03e2f98bc",
-  "equinorconsiderssubseatiebackofnewbarentsseaoildiscovery"
+  "equinorconsiderssubseatiebackofnewbarentsseaoildiscovery",
+  "0222eaa5243bbafc",
+  "uscrudeoilinventoriesbuildashormuzshippingheadachedragson"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T21:15:19.138655+03:00",
+ "last_run": "2026-07-23T21:20:16.226920+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
@@ -1752,6 +1752,10 @@
   {
    "d": "2026-07-23",
    "t": "Houthi Attacks on Saudi Tankers Constrict Crude Trade - gCaptain"
+  },
+  {
+   "d": "2026-07-23",
+   "t": "US Crude Oil Inventories Build As Hormuz Shipping Headache Drags On - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
