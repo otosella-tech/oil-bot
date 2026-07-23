@@ -4,12 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "9179624f157db91b",
-  "theoilmarketismuchmorevulnerablethantrumpbelieves",
-  "906d10c6940791cb",
-  "wticrudeoilpowersaheadputting90backontheradar",
-  "f545db17b77e7b4c",
-  "oilpricesriseaftertrumpsaysiranwillpayforkillingusservicemem",
   "cad13af03753c47a",
   "uscommercialcrudeoilandrefinedproductinventoriesbothroselast",
   "e19eed8c8e0feb03",
@@ -603,7 +597,13 @@
   "7c73a50fc431b732",
   "brentcrudetops100afterreportsoftankerattacksnearsaudiarabias",
   "12e0226dc48e2ea2",
-  "oiltops100usperbarrelasteslaandalphabetdragstockslower"
+  "oiltops100usperbarrelasteslaandalphabetdragstockslower",
+  "b925495ad80ebad7",
+  "commoditiesbeattechthisdecadeandwallstreetstillwontbuyin",
+  "a701503c9f8f2b18",
+  "aaatexasreportsgaspricesriseascrudeoilclimbsabove90perbarrel",
+  "e3fc731e883afe54",
+  "nosafetybufferleftintheoilmarketsaysninepointsericnuttall"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-23",
   "count": 60
  },
- "last_run": "2026-07-23T21:55:15.074614+03:00",
+ "last_run": "2026-07-23T22:00:27.164735+03:00",
  "sent_stories": [
   {
    "d": "2026-07-20",
