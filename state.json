@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "71c60c0a8957bd1a",
-  "equinordoublesprofitsontheriseincrudeoilinq2",
-  "aad8413d4fddfa03",
-  "oilpasses100abarrelagainandsharesslideasmiddleeastconflictes",
   "71f87e7dfefe4a7f",
   "21stpackageofsanctionseuhitsrussianenergyfinancialservicesan",
   "5540786f798a2bb7",
@@ -603,7 +599,11 @@
   "a53945fa9b90819f",
   "oilretreatsfrom100bblbutpostsstrongweeklygain",
   "2c672fb57cc82889",
-  "treasuryyieldsretreat10yearstaysnearjanuary2025highs"
+  "treasuryyieldsretreat10yearstaysnearjanuary2025highs",
+  "5da7afb00ffff148",
+  "stockmarketsrecoverasoilretreatsal",
+  "d69c602bbe4f306f",
+  "goldmansachsforecasts120brentcrudeoilbyq42026amidglobalinsta"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T19:50:18.349369+03:00",
+ "last_run": "2026-07-24T19:55:17.669882+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
