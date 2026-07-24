@@ -4,10 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "2641c77b7840c582",
-  "oiltops100asmiddleeasttensionsthreatensupplies",
-  "6c0e2f59eacc172b",
-  "surgingcrudeoilpricesintensifyinflationconcernsustreasuryyie",
   "5ada468ffc5c7461",
   "oilpricesleapto100abarrelafterattacksinredsea",
   "bc82ea3fa5d1d308",
@@ -603,7 +599,11 @@
   "291c1ac9661a3514",
   "quagmireofthevanities",
   "53910821ca48c7dd",
-  "usreceivesfirstiraqifueloilcargoesviasyriaasiraqdiversifiese"
+  "usreceivesfirstiraqifueloilcargoesviasyriaasiraqdiversifiese",
+  "4d2a038b36e210a6",
+  "iranrejectedausceasefireofferdeliveredbyiraqofficialssay",
+  "ac3a0e86a80c43e0",
+  "brentcrudeoildropsbelow98perbarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 48
+  "count": 49
  },
- "last_run": "2026-07-24T13:35:13.917961+03:00",
+ "last_run": "2026-07-24T13:40:15.532590+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
