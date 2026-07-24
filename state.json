@@ -4,14 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "8c4ab8ca6254b35d",
-  "usoilpricescross90asattacksintheredseathreatencriticalaltern",
-  "d4f6a25e28a39f49",
-  "europescentralbankholdsratessteadyamidswingsinoilprices",
-  "da28ae2e3849ec38",
-  "globaloilpricesclimbcloseto100abarrelamidattacksinredsea",
-  "81cd1a88b54a7af9",
-  "wticrudeoilhits90forthefirsttimeinsixweeks",
   "4a9c48b934223259",
   "yemenshouthisattacksauditankersintheredseathreateningtowiden",
   "4bfa050e398d160f",
@@ -603,7 +595,15 @@
   "a9ac2238308ee8a8",
   "currentpriceofoilasofjuly242026",
   "9e6caacd3a33b0a7",
-  "oilpricesheadforweeklyriseonmiddleeastescalation"
+  "oilpricesheadforweeklyriseonmiddleeastescalation",
+  "4d9bdd0d9aa6e5cb",
+  "oilsurgesto100perbarrelafterredseaattacks",
+  "5073203390ea31d7",
+  "alphabetandteslagaveinvestorsalookatthestockmarketsworstcase",
+  "2c7aef5aca6d7750",
+  "thecommoditiesfeedbrenttops100bblasmiddleeasttensionsbuild",
+  "feab753209020bc0",
+  "worldsharesaremixedandoilpricesfallmarketsinasiaskidinsellof"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 44
+  "count": 45
  },
- "last_run": "2026-07-24T12:50:14.610463+03:00",
+ "last_run": "2026-07-24T12:55:12.497543+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
