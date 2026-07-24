@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "eac52e35b1ace90c",
-  "europeancapitalsapprovesaleofconfiscatedrussianoil",
   "f7d78945f5eb6ec6",
   "oiltops100againafterhouthiattackonsauditankersworsensoilsupp",
   "0c112e9fabf87253",
@@ -603,7 +601,9 @@
   "6553da056177962a",
   "vivakorsurpasses1billioninannualizedcrudeoiltransactionswith",
   "043b5c105a44dbd9",
-  "stocksfallsharplyascrudeoilpricessoarandalphabetsparksaispen"
+  "stocksfallsharplyascrudeoilpricessoarandalphabetsparksaispen",
+  "c18296b6fd6f9cd3",
+  "indiascoursangolavenezuelaforcrudeasmideastsupplydriesup"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T18:25:13.490148+03:00",
+ "last_run": "2026-07-24T18:30:19.097763+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1532,6 +1532,10 @@
   {
    "d": "2026-07-24",
    "t": "Physical oil prices jump with some nearing $110 as Iran, Ukraine wars hit supply - Reuters"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "India Scours Angola, Venezuela for Crude as Mideast Supply Dries Up"
   }
  ]
 }
