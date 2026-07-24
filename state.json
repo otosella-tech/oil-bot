@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "f79ef62fa93da558",
-  "shortsightedstockmarketcannolongerbrushoffwaritstoohardtoign",
-  "b8cafbbc33cf2fd0",
-  "runningonborrowedtimetheworldsoilbufferisshrinkingasinflatio",
   "f5a8ea6d705f62fd",
   "wallstfallsastechearningssparkaispendingworriesoilhits100",
   "5298b9106e043ebd",
@@ -603,7 +599,11 @@
   "8ffee4fd6898bdc7",
   "oildownmorethan4onprofittakingreportofchinabackedpushtoendus",
   "c1ba8e080f5014e4",
-  "eveningupdateforcrudeoil24072026"
+  "eveningupdateforcrudeoil24072026",
+  "f1687456b012db48",
+  "oilshockcouldturnsuperelniointoaninflationproblemagain",
+  "7e1d5536f57786af",
+  "focusedonaihyperscalercapexandthepriceofoilsaysflputnamselle"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T20:25:13.679262+03:00",
+ "last_run": "2026-07-24T20:30:21.475192+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
