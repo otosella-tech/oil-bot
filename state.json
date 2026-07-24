@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "573976dc790d7ff2",
-  "oddsoffederalreserveratehikesurgeasoilpricesriphigher",
   "64b729ff3661eaea",
   "optionsactiontheoilsurge",
   "84d21bf0380f9320",
@@ -603,7 +601,9 @@
   "65666f903880991a",
   "whattoknowaboutusoilproductionandconsumptionin6charts",
   "3a87d069094a636a",
-  "currentpriceofoilasofjuly162026"
+  "currentpriceofoilasofjuly162026",
+  "efb74c7222fde02f",
+  "currentpriceofoilasofjuly172026"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T20:40:14.872244+03:00",
+ "last_run": "2026-07-24T20:45:14.341274+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
