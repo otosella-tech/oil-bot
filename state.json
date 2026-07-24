@@ -4,8 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "9594f103a664c600",
-  "houthissay2saudioiltankersattackedinredsea",
   "343deda5e04dfb7c",
   "kstreetgirdsfordemocratsoiloversightonslaught",
   "3ab13bf38cdeddd8",
@@ -603,7 +601,9 @@
   "3c55e2326e3371a1",
   "usmilitarylaunchesnewstrikesoniranasclashesescalateovershipp",
   "9f0dc08c3e12cdeb",
-  "globallnggiantstargetcambodiaasnewenergymarket"
+  "globallnggiantstargetcambodiaasnewenergymarket",
+  "ac072a4803de6a63",
+  "goldandsilverrisewithcrudeoilasiranwarescalatesaitechdebthit"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-07-24T10:55:15.084780+03:00",
+ "last_run": "2026-07-24T11:00:26.210806+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1480,6 +1480,10 @@
   {
    "d": "2026-07-24",
    "t": "Crude oil surged, metals broadly fell, LME and SHFE copper and tin dropped more than 1%, precious metals plunged, and SHFE silver fell over 4% [Overnight Market]. - Shanghai Metals Market"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Gold and Silver Rise with Crude Oil as Iran War Escalates, AI Tech Debt Hits Headlines - BullionVault"
   }
  ]
 }
