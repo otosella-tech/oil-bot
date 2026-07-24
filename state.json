@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "8e5e1d1a12abe498",
-  "oiltops100afterhouthiattackonsauditankersdisruptssupply",
-  "bed35a522c830c39",
-  "oilsettlesupmorethan3tosixweekhighasmideastconflictthreatens",
   "5881adbb5e3e297f",
   "oilpasses100abarrelagainwhyitsmoreseriousthistime",
   "c37ba4164178e008",
@@ -603,7 +599,11 @@
   "a6dde941cc653b4d",
   "stockmarkettodaycrudeoilslipsonnewhopesforpeacetalksheadline",
   "35e8b9c98b4657f1",
-  "oilshipmentsareunderattackonmultiplefrontsasfightingescalate"
+  "oilshipmentsareunderattackonmultiplefrontsasfightingescalate",
+  "deaf9900e4372fd5",
+  "theredseaisbecomingsaudiarabiasbiggestoilbottleneck",
+  "1384e66118ccd36f",
+  "russiasbiggestblackseaoilportgoesquietasdronethreatgrows"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T21:55:13.709024+03:00",
+ "last_run": "2026-07-24T22:00:26.026993+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1568,6 +1568,14 @@
   {
    "d": "2026-07-24",
    "t": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - CNBC"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "The Red Sea Is Becoming Saudi Arabia's Biggest Oil Bottleneck"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Russia's Biggest Black Sea Oil Port Goes Quiet as Drone Threat Grows"
   }
  ]
 }
