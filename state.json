@@ -4,14 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "0515d3fe6ff6df82",
-  "globaloilpricejumpsaswarthreatsintensify",
-  "46a6850fb5458b92",
-  "lngimportersseeklowerqataranduaepricesaswarupendsdeals",
-  "d9ee1c881ebf33b6",
-  "crudeoilrallyweighsonstocksasdollarstrengthensvideo",
-  "efd668f006a10855",
-  "currentpriceofoilasofjuly202026",
   "8530e8dcfe691d5c",
   "kazakhstantemporarilyreducesoilproductionamidcpcexportsuspen",
   "ff2cc8bcd3414387",
@@ -603,7 +595,15 @@
   "eefb3b3a94fe4a77",
   "whyoilpriceshaventgonecrazydespite5monthsofusiranwar",
   "ae6940f5f7983f68",
-  "nasdaqsp500futuresmixedasoilsurgetrumptariffscloudmarketoutl"
+  "nasdaqsp500futuresmixedasoilsurgetrumptariffscloudmarketoutl",
+  "8cda5cd9ea19df93",
+  "oilpriceseasebutaresetfor10weeklygainastrumpmullsbiggerthane",
+  "2a33110bad2f1335",
+  "interventionshieldsrupeeinfaceofoilhedgingstrain",
+  "c0276b6e567c65da",
+  "oilpricessettleslightlyafteramilestone",
+  "9b010c9056112762",
+  "sharesskidinasiainselloffofairelatedsharesasbrentoiltradesne"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 47
+  "count": 48
  },
- "last_run": "2026-07-24T13:25:12.108653+03:00",
+ "last_run": "2026-07-24T13:30:19.362627+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
