@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "0a35c2296a08d88b",
-  "michigangaspricesupagainasmiddleeasttensionescalates",
   "31ecd7b2da21bd0f",
   "opeclikelytoagainraiseoiloutputtargetsfromseptembersourcessa",
   "1bd27cd0944ab4ab",
@@ -603,7 +601,9 @@
   "2b361542b82a1bf4",
   "stockmarketnasdaqskidsasoilpricesjumpgoogleandteslaplungewee",
   "472eaf8db65f8410",
-  "canadiandollaraddstoweeklydeclineasoilparesrecentgains"
+  "canadiandollaraddstoweeklydeclineasoilparesrecentgains",
+  "c1c8bbefc1407a34",
+  "whytrumpisfacinghisbiggestdangerfromrisingoilpricessincethew"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T21:35:13.768397+03:00",
+ "last_run": "2026-07-24T21:40:14.737986+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
