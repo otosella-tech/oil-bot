@@ -4,12 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "e875fd333439efe2",
-  "europescentralbankholdsratesteadyamidswingsinoilpricesmornin",
-  "b8f874afe9703ae0",
-  "wallstfallsasbigtechearningsrekindleaispendingworriesoilhits",
-  "7b121a04b8006e00",
-  "oilhits87perbarrelagainafterlatestusstrikesoniranandloomingb",
   "f82a3e9d24bf9978",
   "greeceexposesthelimitsofeuropesrussiaenergysanctions",
   "a26e89474532e726",
@@ -603,7 +597,13 @@
   "930b92b2799accf8",
   "vivakorsurpasses1billioninannualizedphysicalcrudetransaction",
   "6ca878874490eb99",
-  "whythegaspricesurgemaybejustthestart"
+  "whythegaspricesurgemaybejustthestart",
+  "a51fe936fda331fd",
+  "stocksedgehigherwhilecrudeoilpricesfallforthefirsttimeinawee",
+  "fe234b8058b33b43",
+  "oilfallsbackbelow100astrumpweighsmassiveattack",
+  "d95093fb86448cb7",
+  "oilretreatsfromabove100stillsetforweeklyriseonmiddleeastesca"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T16:35:14.500067+03:00",
+ "last_run": "2026-07-24T16:40:16.448572+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1508,6 +1508,10 @@
   {
    "d": "2026-07-24",
    "t": "Pakistan Transporters Threaten Nationwide Strike Over Fuel Price Hikes"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Oil falls back below $100 as Trump weighs ‘massive attack’ - Financial Times"
   }
  ]
 }
