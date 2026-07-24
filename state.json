@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "7c73a50fc431b732",
-  "brentcrudetops100afterreportsoftankerattacksnearsaudiarabias",
   "12e0226dc48e2ea2",
   "oiltops100usperbarrelasteslaandalphabetdragstockslower",
   "b925495ad80ebad7",
@@ -603,7 +601,9 @@
   "657d8d52f80bbb95",
   "cmewticrudeoilfuturesslipbelow90astradersreassessweek",
   "b495aaa0ad0d4739",
-  "gasgroceriesandbacktoschoolitemsarewhereshoppersmightseehigh"
+  "gasgroceriesandbacktoschoolitemsarewhereshoppersmightseehigh",
+  "ab095e26d9088871",
+  "oilfallsonreportpakistanispushingfornewusirantalkswithchinas"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T22:45:14.066437+03:00",
+ "last_run": "2026-07-24T22:50:15.063119+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1581,6 +1581,10 @@
   {
    "d": "2026-07-24",
    "t": "US Crude Oil Inventories Build As Hormuz Shipping Headache Drags On - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Oil falls on report Pakistan is pushing for new U.S.-Iran talks with China's backing - CNBC"
   }
  ]
 }
