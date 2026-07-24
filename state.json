@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "df13d2dc3c8326e5",
-  "kazakhstansoiloutputplummetsafterdroneattacksforcedexporting",
   "85f64723da826ffc",
   "transcriptusoilrefineriesraceagainstdwindlingsupply",
   "31d27576205e0417",
@@ -603,7 +601,9 @@
   "1572c97ccf8c94d2",
   "indianrupeeonbrinkofrecordlowaftercrudestormspast100rbiwatch",
   "313501234edd782b",
-  "oilbattersbondsasaiburnscash"
+  "oilbattersbondsasaiburnscash",
+  "a6850939f10ba30a",
+  "crudeoilfuturessep6clmainusbrentlastdayfinancialfuturesdec6b"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 23
+  "count": 25
  },
- "last_run": "2026-07-24T08:15:15.536443+03:00",
+ "last_run": "2026-07-24T08:20:14.424499+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1452,6 +1452,10 @@
   {
    "d": "2026-07-24",
    "t": "Oil Prices Continue to Rise as Conflict With Iran Drags On - The New York Times"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "$Crude Oil Futures (SEP6) (CLmain.US)$$Brent Last Day Financial Futures (DEC6) (BZmain.US)$ Iranian Foreign Minister Abbas Araghchi warned that using frozen Iranian assets to cover future claims sets a dangerous global precedent, saying it would unde - Moomoo"
   }
  ]
 }
