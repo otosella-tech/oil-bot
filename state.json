@@ -4,12 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "8ef281fb5b8663d0",
-  "brentcrudeoilbrieflytops100abarrelcurrently605at9976wti42to9",
-  "ab8c3d3d225de252",
-  "stockmarkettodaydowsp500nasdaqselloffasrisingoilpricesbondyi",
-  "bd43586ab6d79c51",
-  "brentcrudecrosses100bblashouthiattackonsauditankersamplifies",
   "7206f76d9c5a5c88",
   "oilpricesriseanother3whilewallstreetdriftsinmixedtrading",
   "696636b28e865a13",
@@ -603,7 +597,13 @@
   "e578fc18c92acb0d",
   "thewinnersandlosersduringoilsworsttrafficjaminyears",
   "9d9a7d0335726391",
-  "oilat100ispushingupcostsfromgaspumpstogroceryaisles"
+  "oilat100ispushingupcostsfromgaspumpstogroceryaisles",
+  "2fd25bd2b4e89062",
+  "hormuztankercrossingssinktolowestlevelsincemayaswarriskspike",
+  "37220d69b0cd76ca",
+  "stocksgetreliefasoilhaltssurgeintelrises",
+  "751331d0cf05300d",
+  "usstrikesiranfromsouthtonorthaftertrumpthreatsoverredseaship"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-07-24T15:25:13.545615+03:00",
+ "last_run": "2026-07-24T15:30:18.702751+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1492,6 +1492,14 @@
   {
    "d": "2026-07-24",
    "t": "Saudi Crude Tanker Goes Dark to Slip Through Bab el-Mandeb"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Hormuz Tanker Crossings Sink to Lowest Level Since May as War Risk Spikes"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "US Strikes Iran From South to North After Trump Threats Over Red Sea Shipping - Insurance Journal"
   }
  ]
 }
