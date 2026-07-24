@@ -4,12 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "da76676900009813",
-  "everythingisgoingwrongforoilmarketsrightnow",
-  "5608447f2fbb657c",
-  "usenergysharesgainashouthitankerattackspushbrentcrudeto100",
-  "a4a7e4560c74f3b1",
-  "albertasproposedwestcoastpipelinefacesahighstakeseconomictes",
   "572599d2e1870ef0",
   "oilhits100forfirsttimesincemay",
   "c8837b26069b13fc",
@@ -603,7 +597,13 @@
   "9d35f19f12869bc4",
   "stockmarketsrecoverasoilretreats",
   "ac2ea4d54522325b",
-  "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths"
+  "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths",
+  "ce1a3dcefa1c48af",
+  "factsheetgeorgianportssuspectedofviolatingsanctionsonrussian",
+  "0d9a51c194258e59",
+  "stockswaverwhilecrudeoilpricesfallforthefirsttimeinaweek",
+  "f01b3b88c1a8a173",
+  "canadiandollarandbusinessoutlooklooniecrudeoilinnegativesent"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T17:05:13.317544+03:00",
+ "last_run": "2026-07-24T17:10:14.659143+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1516,6 +1516,10 @@
   {
    "d": "2026-07-24",
    "t": "No Breakthrough as Top U.S. and Russian Diplomats Meet Over Ukraine"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Fact sheet: Georgian ports suspected of violating sanctions on Russian oil - Centre for Research on Energy and Clean Air"
   }
  ]
 }
