@@ -4,10 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "bc82ea3fa5d1d308",
-  "brentoilspricebrieflytops100perbarrelasstocksfallonwallstree",
-  "23f3bf5da8b22bb3",
-  "usenergysharesgainashouthitankerattackspushbrentto100",
   "37dac06c54e00e90",
   "wallstsetforloweropenasbigtechearningsrekindleaispendingworr",
   "62eb4c3bac1f7171",
@@ -603,7 +599,11 @@
   "ac3a0e86a80c43e0",
   "brentcrudeoildropsbelow98perbarrel",
   "c253ae001d4e19d8",
-  "oilretreatsfromabove100butsetforweeklyriseonmiddleeastescala"
+  "oilretreatsfromabove100butsetforweeklyriseonmiddleeastescala",
+  "823d7834382705c6",
+  "greekgasconcessionunlockseusrussiasanctionspackage",
+  "5ada468ffc5c7461",
+  "oilpricesleapto100abarrelafterattacksinredsea"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 49
+  "count": 50
  },
- "last_run": "2026-07-24T13:45:14.330844+03:00",
+ "last_run": "2026-07-24T13:50:14.986724+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
