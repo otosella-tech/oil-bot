@@ -4,8 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "79e183cb9513211c",
-  "breakingnewsglobaloilpricesreached100abarrelthatforthefirstt",
   "caf7cf9e4d148109",
   "brentcrudetops100abarrelhowthenextstopcouldbe120",
   "9728f09830ed9b38",
@@ -603,7 +601,9 @@
   "5eee999042ad5c50",
   "itsnotjusthormuzwideningoilsupplyshocksposegrowinggopdanger",
   "fea1f8622a140592",
-  "oilpricerisesabove95markasmiddleeastconflictescalates"
+  "oilpricerisesabove95markasmiddleeastconflictescalates",
+  "9d01c99828e0c61b",
+  "japansetsuppanelonoilproductstockpiles"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 52
  },
- "last_run": "2026-07-24T14:10:15.625808+03:00",
+ "last_run": "2026-07-24T14:15:14.295757+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
