@@ -4,12 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "54d9e2f6b06379f2",
-  "crudeoilfuturessep6clmainusbrentlastdayfinancialfuturessep6b",
-  "90177cb5929b1d1b",
-  "oilsurgespast95asusdownplaysirandiplomacyand2ndkeytraderoute",
-  "1f3ca9eef0e5ff06",
-  "europescentralbankholdsratesteadyamidswingsinoilpricesabcnew",
   "689bb178480a86ee",
   "10yeartreasuryyieldrisestohighestsincejanuary2025assurgingoi",
   "da76676900009813",
@@ -603,7 +597,13 @@
   "814bed2b91408f7f",
   "intelearningsandloweroilpriceslifthopesforwallstreetreboundd",
   "7fe538350c0386cc",
-  "wallstreetincheshigherasmarketsabsorbwartariffshighenergycos"
+  "wallstreetincheshigherasmarketsabsorbwartariffshighenergycos",
+  "3ee24c08d03fa648",
+  "nobreakthroughastopusandrussiandiplomatsmeetoverukraine",
+  "a71fd6d50c4be662",
+  "predictionifoilholdsabove100occidentalpetroleumstockcouldret",
+  "9d35f19f12869bc4",
+  "stockmarketsrecoverasoilretreats"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T16:55:19.161981+03:00",
+ "last_run": "2026-07-24T17:00:31.489372+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1512,6 +1512,10 @@
   {
    "d": "2026-07-24",
    "t": "Oil falls back below $100 as Trump weighs ‘massive attack’ - Financial Times"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "No Breakthrough as Top U.S. and Russian Diplomats Meet Over Ukraine"
   }
  ]
 }
