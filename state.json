@@ -4,14 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "26080e546c51e328",
-  "opeclikelytoraiseoiloutputtargetsfromseptemberagainsourcessa",
-  "f103fe0d786beeb9",
-  "average30yearusmortgagerateclimbsto658highestlevelinnearlyay",
-  "c9219a05e7819754",
-  "icecanolaweeklyrallyingfutureswatchingcrudeoil",
-  "2d5e940f026900b0",
-  "astheusandirancarriedoutmorestrikesworldoilpricesrosewiththe",
   "f79ef62fa93da558",
   "shortsightedstockmarketcannolongerbrushoffwaritstoohardtoign",
   "b8cafbbc33cf2fd0",
@@ -603,7 +595,15 @@
   "9825e2b64c31852e",
   "crudeoildownover4verizonraisesearningsforecast",
   "09013527b44a4b5c",
-  "crudeoilpricesfallaswtidropsto8977brentto9193"
+  "crudeoilpricesfallaswtidropsto8977brentto9193",
+  "972c1e11101047d4",
+  "usoildrillerstakeabreakasoilpriceshovernear100",
+  "7c18a39dfaa4e759",
+  "globalenergycrunchenteringamoredangerousphase",
+  "8ffee4fd6898bdc7",
+  "oildownmorethan4onprofittakingreportofchinabackedpushtoendus",
+  "c1ba8e080f5014e4",
+  "eveningupdateforcrudeoil24072026"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T20:15:14.792055+03:00",
+ "last_run": "2026-07-24T20:20:16.910141+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1551,6 +1551,10 @@
   {
    "d": "2026-07-24",
    "t": "Oil falls more than 4% on report Pakistan is pushing for new U.S.-Iran talks with China's backing - CNBC"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Oil down more than 4% on profit taking, report of China-backed push to end US-Iran fighting - Reuters"
   }
  ]
 }
