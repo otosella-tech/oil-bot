@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "31ecd7b2da21bd0f",
-  "opeclikelytoagainraiseoiloutputtargetsfromseptembersourcessa",
-  "1bd27cd0944ab4ab",
-  "at100perbarrelwhichoilstockhasdominatedin2026exxonmobilchevr",
   "57e533c88fe1cb25",
   "crudeoilrisessharplytmobilesharesfallfollowingq2results",
   "7a718a1ad03da07d",
@@ -603,7 +599,11 @@
   "472eaf8db65f8410",
   "canadiandollaraddstoweeklydeclineasoilparesrecentgains",
   "c1c8bbefc1407a34",
-  "whytrumpisfacinghisbiggestdangerfromrisingoilpricessincethew"
+  "whytrumpisfacinghisbiggestdangerfromrisingoilpricessincethew",
+  "a3105c173d003391",
+  "treasuryyieldsslideasoilpricesfallamidhopesfornewusiranpeace",
+  "dd42f53b041ad652",
+  "septemberwticrudeoilcontractclosesdown288or31settlesat8931pe"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T21:40:14.737986+03:00",
+ "last_run": "2026-07-24T21:45:14.977920+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1559,6 +1559,10 @@
   {
    "d": "2026-07-24",
    "t": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil' - CNBC"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks - CNBC"
   }
  ]
 }
