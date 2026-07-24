@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "82ad14190562ecbf",
-  "chartofthedaybombsandbondsoilvolcontinuestoperpetuateratesvo",
   "ca858fde76032774",
   "wallstfutureseaseasbigtechearningsrekindleaispendingworrieso",
   "9594f103a664c600",
@@ -603,7 +601,9 @@
   "741dd73bc986ebb5",
   "usstocksslideasoilhits100whiletechselloffdeepens",
   "6f49db1edbce19b9",
-  "autoaviationstocksslideascrudeoilsurgeraisescostconcernsnift"
+  "autoaviationstocksslideascrudeoilsurgeraisescostconcernsnift",
+  "3c55e2326e3371a1",
+  "usmilitarylaunchesnewstrikesoniranasclashesescalateovershipp"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 35
+  "count": 36
  },
- "last_run": "2026-07-24T10:15:15.173867+03:00",
+ "last_run": "2026-07-24T10:20:15.127587+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
