@@ -4,14 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "ef17efcce11b47f3",
-  "oilpricesurgereignitesinflationworriesasecbholdsrates",
-  "9115ead7a05ec52e",
-  "crudefuturesextendgainsashouthisjoinfray",
-  "9711a55194aea8c2",
-  "oilpriceshit100abarrelforfirsttimeinnearly2monthsitsbecoming",
-  "af70707e8285ee8b",
-  "brentoilcrosses100asattacksintheredseathreatencriticalaltern",
   "968a0922cf5a84de",
   "trumpvowstopunishiranforhouthiattacksinredseaoilsurgesover10",
   "8f9e5ae56caa19f1",
@@ -603,7 +595,15 @@
   "9645d54c2c53abe9",
   "saudicrudetankergoesdarktoslipthroughbabel",
   "0b1874d129478553",
-  "wejustgotalookatthestockmarketsworstcasescenario"
+  "wejustgotalookatthestockmarketsworstcasescenario",
+  "caf7cf9e4d148109",
+  "brentcrudetops100abarrelhowthenextstopcouldbe120",
+  "d5070505075ad2b7",
+  "uscarriesoutmorestrikesastrumpthreatensiranhouthiswithmajorm",
+  "ad3b2a5fdbd9dfbd",
+  "saudicrudetankergoesdarktoslipthroughbabelmandeb",
+  "f17749d8cd146380",
+  "hormuztankercrossingssliptolowestinmorethantwomonthsdatashow"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 54
+  "count": 55
  },
- "last_run": "2026-07-24T14:30:19.316380+03:00",
+ "last_run": "2026-07-24T14:35:15.400172+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
