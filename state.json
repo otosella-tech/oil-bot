@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "0d866c5845b5b46f",
-  "currentpriceofoilasofjuly232026",
   "435ecdd906890316",
   "indiansharesextenddroponoilsurgeinfosysindigoresultsawaited",
   "ac8a972489f094c6",
@@ -603,7 +601,9 @@
   "1c4f3bdaa4420daf",
   "usstrikesiranandbahrainwarnsofincomingfireasclashesovershipp",
   "db8b1bed6cad3ca7",
-  "intheratesdramaoilisaminorcharacter"
+  "intheratesdramaoilisaminorcharacter",
+  "e987c3bb62775f14",
+  "oilhassurgedto100buttheenergyshockmaybebiggerthanitlooks"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 27
  },
- "last_run": "2026-07-24T08:35:11.481714+03:00",
+ "last_run": "2026-07-24T08:40:15.632243+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
