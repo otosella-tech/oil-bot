@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "a701503c9f8f2b18",
-  "aaatexasreportsgaspricesriseascrudeoilclimbsabove90perbarrel",
   "e3fc731e883afe54",
   "nosafetybufferleftintheoilmarketsaysninepointsericnuttall",
   "f545db17b77e7b4c",
@@ -603,7 +601,9 @@
   "6056d4dbd50a5fe9",
   "escalatingmiddleeasttensionsincreasegaspricesinidaho",
   "a9126d218e13555f",
-  "oilfallsonreportchinapushingforendusiranwar"
+  "oilfallsonreportchinapushingforendusiranwar",
+  "90ead84219d4d0b6",
+  "thisgroupofstocksissurgingduetothesurgeinoilpricesshouldyoui"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T23:20:15.926289+03:00",
+ "last_run": "2026-07-24T23:25:14.249565+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
