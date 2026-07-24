@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "8289bf47e1015320",
-  "firstthingtodaygrainralliesextendbutveterantradersseepotenti",
   "87530c1f3f771180",
   "usoilrefineriesrunatbreakneckspeedsaswarschokefuelsupplies",
   "40ffc6a074b108e3",
@@ -603,7 +601,9 @@
   "eccd17020288453d",
   "breakingviewsoilpricesafetynetisbeginningtofray",
   "3adade4899f9c95e",
-  "morningbidoilbattersbondsasaiburnscash"
+  "morningbidoilbattersbondsasaiburnscash",
+  "018346323dbd4c59",
+  "currentpriceofoilasofjuly222026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 33
  },
- "last_run": "2026-07-24T09:35:11.824638+03:00",
+ "last_run": "2026-07-24T09:40:14.091213+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
