@@ -4,10 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "87530c1f3f771180",
-  "usoilrefineriesrunatbreakneckspeedsaswarschokefuelsupplies",
-  "40ffc6a074b108e3",
-  "saudiaramconegotiatesreroutingcrudeoilaroundafricaashouthiat",
   "3c413bb095f7d62f",
   "houthiattacksthreatentocutoffsaudiarabiasoillifeline",
   "e6f59eb56c6d3b4e",
@@ -603,7 +599,11 @@
   "3adade4899f9c95e",
   "morningbidoilbattersbondsasaiburnscash",
   "018346323dbd4c59",
-  "currentpriceofoilasofjuly222026"
+  "currentpriceofoilasofjuly222026",
+  "44b9c33999ac7652",
+  "trumpthreatensiranafterhouthitankerattacks",
+  "776067cc16a5e016",
+  "crudeoilsurgedmetalsbroadlyfelllmeandshfecopperandtindropped"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-07-24T09:40:14.091213+03:00",
+ "last_run": "2026-07-24T09:45:44.056581+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1472,6 +1472,14 @@
   {
    "d": "2026-07-24",
    "t": "Indian rupee steadies as intervention blunts oil surge, hedging pressure - Reuters"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Trump Threatens Iran After Houthi Tanker Attacks"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Crude oil surged, metals broadly fell, LME and SHFE copper and tin dropped more than 1%, precious metals plunged, and SHFE silver fell over 4% [Overnight Market]. - Shanghai Metals Market"
   }
  ]
 }
