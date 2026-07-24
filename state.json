@@ -4,16 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "37dac06c54e00e90",
-  "wallstsetforloweropenasbigtechearningsrekindleaispendingworr",
-  "62eb4c3bac1f7171",
-  "oilpricepasses100abarrelagainasmiddleeastconflictescalates",
-  "c35d28880a3aacc9",
-  "iranwardisruptssupplyroutesdrivescrudeoilabove100perbarrel",
-  "42989a4656352694",
-  "euimposesmoresanctionsonrussiaincompromisedeal",
-  "851f5589f61a7889",
-  "firsthormuznowtheredseawhatsnextforoilprices",
   "297dca8699e2e639",
   "electricitybillstobesubsidisedascrudeoilnears100",
   "fea1f8622a140592",
@@ -603,7 +593,17 @@
   "823d7834382705c6",
   "greekgasconcessionunlockseusrussiasanctionspackage",
   "5ada468ffc5c7461",
-  "oilpricesleapto100abarrelafterattacksinredsea"
+  "oilpricesleapto100abarrelafterattacksinredsea",
+  "ff4ebb14c105ec39",
+  "wtiexplodeshigherasmiddleeastshippingrisksmultiply",
+  "103806b3ad7afc19",
+  "themiddleeastwarhasentereditsmostdangerousphaseyet",
+  "0cb213fbbd6e1f85",
+  "thebestwaytoinvestinamericaselectrificationboom",
+  "952118785c5cc138",
+  "trumpsnucleargamblecouldspelldisasterforthemiddleeast",
+  "3135b5cd886b1d30",
+  "angolasupstreamreformprogramandinvestmentpipelineexaminedinc"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 50
+  "count": 51
  },
- "last_run": "2026-07-24T13:55:12.987886+03:00",
+ "last_run": "2026-07-24T14:00:37.605403+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
