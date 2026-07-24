@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "12e0226dc48e2ea2",
-  "oiltops100usperbarrelasteslaandalphabetdragstockslower",
   "b925495ad80ebad7",
   "commoditiesbeattechthisdecadeandwallstreetstillwontbuyin",
   "a701503c9f8f2b18",
@@ -603,7 +601,9 @@
   "b495aaa0ad0d4739",
   "gasgroceriesandbacktoschoolitemsarewhereshoppersmightseehigh",
   "ab095e26d9088871",
-  "oilfallsonreportpakistanispushingfornewusirantalkswithchinas"
+  "oilfallsonreportpakistanispushingfornewusirantalkswithchinas",
+  "6056d4dbd50a5fe9",
+  "escalatingmiddleeasttensionsincreasegaspricesinidaho"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T23:05:15.943482+03:00",
+ "last_run": "2026-07-24T23:10:14.338821+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
