@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "68876d0e905827fd",
-  "asianoilbuyersintalkswithsaudistorerouteredseaflows",
   "aecd46df73912460",
   "globalbondyieldsjumpasoilpricessurgeinflationfearsmount",
   "c51bd1689787994d",
@@ -603,7 +601,9 @@
   "6e93446df80a8871",
   "globaloilpricesjumpabove100firsttimesincelatemaywbal",
   "331db075f9a0f021",
-  "adangerousnewphaseofwarisbreakingalltheoilmarketsconstraints"
+  "adangerousnewphaseofwarisbreakingalltheoilmarketsconstraints",
+  "b0204dc126e7910a",
+  "babalmandabandtheoilmarketanupdate"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 15
  },
- "last_run": "2026-07-24T07:20:17.517575+03:00",
+ "last_run": "2026-07-24T07:25:12.696948+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
