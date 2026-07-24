@@ -4,8 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "d17eda3f4169d93b",
-  "oilpriceshovernear100abarrelafterattacksonsaudioiltankers",
   "0eff9ebac2876c67",
   "stocksfallascrudeoilpricessoarandalphabetsparksaispendingcon",
   "8ef281fb5b8663d0",
@@ -603,7 +601,9 @@
   "7819475d86497105",
   "oilpricessurgeto100perbarrelafterredseaattacks",
   "9e370e508cb2210c",
-  "gaspricesareclimbingfastintexasseeyourcitysprice"
+  "gaspricesareclimbingfastintexasseeyourcitysprice",
+  "e578fc18c92acb0d",
+  "thewinnersandlosersduringoilsworsttrafficjaminyears"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 58
  },
- "last_run": "2026-07-24T15:15:16.823310+03:00",
+ "last_run": "2026-07-24T15:20:15.727851+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
