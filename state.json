@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "c51bd1689787994d",
-  "discountsonrussianoilevaporateonfreshmiddleeastcrisis",
   "f907245f74d7a3bf",
   "houthisclaimstrikesonsaudiarabianoiltankersasrubiosaysiranno",
   "67af5da345bd0231",
@@ -603,7 +601,9 @@
   "b0204dc126e7910a",
   "babalmandabandtheoilmarketanupdate",
   "b8f1166febda68dd",
-  "shoppersmightseehighoilpricesingasgroceries"
+  "shoppersmightseehighoilpricesingasgroceries",
+  "eafba863f84f04fd",
+  "oilpricescontinuetoriseasconflictwithirandragson"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-07-24T07:30:19.525941+03:00",
+ "last_run": "2026-07-24T07:35:13.498831+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1448,6 +1448,10 @@
   {
    "d": "2026-07-24",
    "t": "A dangerous new phase of war is breaking all the oil market’s constraints - CNN"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Oil Prices Continue to Rise as Conflict With Iran Drags On - The New York Times"
   }
  ]
 }
