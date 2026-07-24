@@ -4,8 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "0f5742f555f9be7c",
-  "oilpricesjumpto100dollarsabarrelafterredseashippingattacks",
   "606a29f2c4204862",
   "usmarketoutlookrenewedusirantensionsdrivesharpsurgeinoilpric",
   "da11eb70d0f0b323",
@@ -603,7 +601,9 @@
   "b41b39c21a62fc5b",
   "oilpricessteadyevenaswartariffconcernslinger",
   "893c3465e649ce63",
-  "eugivesgeorgiassolerefinerysixmonthstodroprussianoil"
+  "eugivesgeorgiassolerefinerysixmonthstodroprussianoil",
+  "8bc77d4c10892a05",
+  "ukpetrolpriceshithighestlevelsincemidjunewhatshappening"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T15:55:13.458358+03:00",
+ "last_run": "2026-07-24T16:00:31.993813+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
