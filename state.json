@@ -4,8 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "ef15fae21533d080",
-  "brentcrudeoilpricesapproachthe100markrbcwarns",
   "88c908dd4abad6a5",
   "houthiattacksthreatensaudiarabiasoillifeline",
   "d1399559a186834d",
@@ -603,7 +601,9 @@
   "100585d05636d29d",
   "asclimatelawsuitsadvancetheoilindustryenterspanicmode",
   "48d0c30ab57c7bfa",
-  "oilfuturescrudeoffhighsasusirantensionssimmer"
+  "oilfuturescrudeoffhighsasusirantensionssimmer",
+  "e3bc5d7e802a538c",
+  "nationalaveragegaspricetops4asoilpricespushpumpcostshigheraa"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 43
  },
- "last_run": "2026-07-24T12:05:14.107394+03:00",
+ "last_run": "2026-07-24T12:10:14.595489+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
