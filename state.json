@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "ffaec503601eae91",
-  "oilpricesriseforafifthdayasusiranhostilitiesthreatensupplyro",
   "6f6c4142323a6c35",
   "globaloilpricenears100abarrelasconflictwithirandeepens",
   "0aa3de275b766500",
@@ -603,7 +601,9 @@
   "9f4ba5d4641ecc29",
   "oilpricesroarbackthreateningeconomyandgopsmidtermhopes",
   "299bc80473e73d15",
-  "morningwrapusstockstumbleonirantensionsandoilsurgesingaporec"
+  "morningwrapusstockstumbleonirantensionsandoilsurgesingaporec",
+  "3886eeedebdd9d57",
+  "cnbcdailyopenbrentcrudeisbackat100andtrumprenewstariffs"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 10
  },
- "last_run": "2026-07-24T04:15:17.037092+03:00",
+ "last_run": "2026-07-24T04:20:13.718060+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
