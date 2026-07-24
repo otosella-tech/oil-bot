@@ -4,10 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "1975cc8476dc8f24",
-  "oilpricesurgereignitesinflationworriesaheadofecbmeeting",
-  "039be8c2e9c92181",
-  "goldmankeepsbrentforecastat80butwarnsofupsiderisksfromshippi",
   "d7243f36baae00c6",
   "poundsteadyasinvestorseyeoilpricesecbdecision",
   "eccd17020288453d",
@@ -603,7 +599,11 @@
   "33ebcc09ba7c7d12",
   "middleeastoilproducersstepupplanstobypassthestraitofhormuz",
   "41507cfbc99be2b6",
-  "yennears164andyieldsriseasoilpriceshit100perbarrel"
+  "yennears164andyieldsriseasoilpriceshit100perbarrel",
+  "9f929091bc09d824",
+  "indiasstockbenchmarkssetforworstweekinfourmonthsascrudetops1",
+  "d984065d4197a9a7",
+  "palmoilclimbedtoa15weekhighoncrudeoilssupport"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 29
  },
- "last_run": "2026-07-24T08:45:14.968608+03:00",
+ "last_run": "2026-07-24T08:50:17.330533+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
