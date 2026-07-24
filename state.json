@@ -4,12 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "da11eb70d0f0b323",
-  "ecbhostagetooilpriceslagardeleavesdooropenforaseptemberhike",
-  "d1f1980f5c63a95b",
-  "usgaspricestop4agallonagainhereswhy",
-  "9f3752cf21501eb0",
-  "stockssinkonbigtechcashburnoilhits100forfirsttimesincemay",
   "5acbd63b044478fd",
   "globaloilpriceshit100abarrelamidattacksinredsea",
   "687e7b59dfcd839c",
@@ -603,7 +597,13 @@
   "8bc77d4c10892a05",
   "ukpetrolpriceshithighestlevelsincemidjunewhatshappening",
   "d35bc4deefe75eec",
-  "whyareukfuelpricesrisingagain"
+  "whyareukfuelpricesrisingagain",
+  "71902f908b0a9a46",
+  "paulkrugmansaystrumpsiranwarhascreatedtheequivalentof140oilw",
+  "26b002f328bf1848",
+  "oilpricescouldriseby8foreveryadditionalmonthofdelayjpmorganb",
+  "8194bcff7925f043",
+  "vivakorstwonewcrudeprogramsadd400000barrelsamonth"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T16:15:16.627024+03:00",
+ "last_run": "2026-07-24T16:20:16.496991+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1500,6 +1500,10 @@
   {
    "d": "2026-07-24",
    "t": "US Strikes Iran From South to North After Trump Threats Over Red Sea Shipping - Insurance Journal"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Paul Krugman Says Trump's Iran War Has Created The Equivalent Of ‘$140 Oil’ — Warns Of 'Uglier' Fallout If Conflict Escalates - Yahoo Finance"
   }
  ]
 }
