@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "a8905a742f6c29ed",
-  "oilsettlesover100ashouthiattacksintensifymiddleeastsupplyris",
-  "6cb4521dbdecc65b",
-  "gaspricesriseascrudeoilclimbsabove90perbarrel",
   "2170d458a161c4d7",
   "insurersflocktooilprojectsoutsidethemiddleeast",
   "5e428d862921e0ca",
@@ -603,7 +599,11 @@
   "db4530d0378a69cc",
   "howoilchaosonfourfrontsdriveswildswingsandsupplyfears",
   "e12d4c59656c1e1d",
-  "mixeddayforglobalequitiesasoilpricesretreatal"
+  "mixeddayforglobalequitiesasoilpricesretreatal",
+  "e94b9fd22daddcab",
+  "theworldisfacingitslargestoilshockeverhereiswhypricesarenoth",
+  "b2f113a88d270560",
+  "cbotcornendsflatascrudeoilrallypauses"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-25",
   "count": 1
  },
- "last_run": "2026-07-25T00:25:13.664709+03:00",
+ "last_run": "2026-07-25T00:30:18.277541+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
