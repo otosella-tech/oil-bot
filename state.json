@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "edd83e017c21d2fc",
-  "globaloiltops100settlesat2monthhighafterhouthisstrikesaudita",
   "9f7d416871c2cdd9",
   "usequityindexesslumpcrudeoilsoarsasiranbackedhouthishittanke",
   "9caf231632ea6155",
@@ -603,7 +601,9 @@
   "0c775e3503c38695",
   "goldholdsnear4050asequitiesdivergeoilfallskitcopmreport",
   "0dbff8c542f63b06",
-  "oilpricesfallbackasredseaoilshipmentscontinue"
+  "oilpricesfallbackasredseaoilshipmentscontinue",
+  "d79f9012a2e0d7aa",
+  "cosmooiltankerdeliversfirstmexicancrudetojapan"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-25",
   "count": 3
  },
- "last_run": "2026-07-25T01:10:16.517698+03:00",
+ "last_run": "2026-07-25T01:15:15.356747+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
