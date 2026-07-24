@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "6e9d1bc99f2b258f",
-  "oilrichsaudiarabiaisntshortonenergyhereswhyitsgoingnuclear",
   "df13d2dc3c8326e5",
   "kazakhstansoiloutputplummetsafterdroneattacksforcedexporting",
   "85f64723da826ffc",
@@ -603,19 +601,21 @@
   "a23c5a07bd739c00",
   "brenthoversabove100bblsetforweeklyriseonmiddleeastescalation",
   "1572c97ccf8c94d2",
-  "indianrupeeonbrinkofrecordlowaftercrudestormspast100rbiwatch"
+  "indianrupeeonbrinkofrecordlowaftercrudestormspast100rbiwatch",
+  "313501234edd782b",
+  "oilbattersbondsasaiburnscash"
  ],
  "releases_done": {},
- "last_digest": "2026-07-23",
+ "last_digest": "2026-07-24",
  "digest_prices": {
-  "WTI": 88.19,
-  "Brent": 96.02
+  "WTI": 91.72,
+  "Brent": 100.34
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 17
+  "count": 23
  },
- "last_run": "2026-07-24T07:55:11.677383+03:00",
+ "last_run": "2026-07-24T08:00:23.546396+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
