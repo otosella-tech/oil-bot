@@ -4,10 +4,6 @@
   "Brent": 92.57
  },
  "seen": [
-  "bc7dc708040ca1d4",
-  "totalenergiespostsstrongestprofitinnearlythreeyearsasiranwar",
-  "84278036db1a6cd0",
-  "investingliveeuropeanmarketswrapoilpricescontinuetosurgehigh",
   "c90dbca94ccaa711",
   "crudeoilforecastbrenttargets100asmiddleeastsupplyfearsescala",
   "0515d3fe6ff6df82",
@@ -603,7 +599,11 @@
   "214b239a83fa86ef",
   "saudihastrillionsinoilwealthbuthereswhyitwantsnuclearpower",
   "d83d5bd43497f455",
-  "presidentrespondstohouthiattacksonoiltankersinredsea"
+  "presidentrespondstohouthiattacksonoiltankersinredsea",
+  "4bfa050e398d160f",
+  "globaloilpricehits100abarrelforfirsttimesincemay",
+  "eefb3b3a94fe4a77",
+  "whyoilpriceshaventgonecrazydespite5monthsofusiranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 46
+  "count": 47
  },
- "last_run": "2026-07-24T13:05:15.436657+03:00",
+ "last_run": "2026-07-24T13:10:14.664174+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
