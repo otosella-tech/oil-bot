@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "2c03f33088b48683",
-  "stocksfallsharplyascrudeoilpricessoarandalphabetsparksaispen",
   "d3b04dafbe0cf04a",
   "brentoiltops100perbarrelastumblesforteslaandalphabetyankwall",
   "eac52e35b1ace90c",
@@ -603,7 +601,9 @@
   "4df273ac81bf7159",
   "crudeoilpricestop100surgingtothreemonthhighasmiddleeastconfl",
   "df999a1c6116fd49",
-  "whyaremarketsshruggingoffthelatestjumpinoilprices"
+  "whyaremarketsshruggingoffthelatestjumpinoilprices",
+  "6553da056177962a",
+  "vivakorsurpasses1billioninannualizedcrudeoiltransactionswith"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T18:15:13.058571+03:00",
+ "last_run": "2026-07-24T18:20:15.003410+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
