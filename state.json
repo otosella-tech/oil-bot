@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "feeabfe45ae1eada",
-  "totalenergiespostsstrongestprofitinnearlythreeyearsasirancon",
   "7f67267eac68e5d2",
   "totalenergiesprofitsoars68asoilpricesurgeliftsearnings",
   "10d5e282aef5c816",
@@ -603,7 +601,9 @@
   "36a0cd60e2d0a194",
   "brenthits100usoilinventoriesrise",
   "1a6f2e8d03028750",
-  "adnocofferscrudeoilin7thtenderissuedsincejunesourcessay"
+  "adnocofferscrudeoilin7thtenderissuedsincejunesourcessay",
+  "d3e1bbfdf279db3e",
+  "asoilsoarsexpertswatchredseatankersforclarityonhouthiblockad"
  ],
  "releases_done": {},
  "last_digest": "2026-07-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-07-24T06:40:15.114843+03:00",
+ "last_run": "2026-07-24T06:45:15.588264+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1440,6 +1440,10 @@
   {
    "d": "2026-07-23",
    "t": "US Equity Indexes Slump, Crude Oil Soars as Iran-Backed Houthis Hit Tankers in Red Sea Chokepoint - marketscreener.com"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade - Al Jazeera"
   }
  ]
 }
