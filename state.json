@@ -4,8 +4,6 @@
   "Brent": 100.31
  },
  "seen": [
-  "eccd17020288453d",
-  "breakingviewsoilpricesafetynetisbeginningtofray",
   "23078c243b65935b",
   "mideasttensionspushbrentcrudepast98",
   "67601ed975ac7c23",
@@ -603,7 +601,9 @@
   "d984065d4197a9a7",
   "palmoilclimbedtoa15weekhighoncrudeoilssupport",
   "237f802975880ca5",
-  "asianstockssinkbondsstruggleasoilspikestokesraterisks"
+  "asianstockssinkbondsstruggleasoilspikestokesraterisks",
+  "d9d071ffa8af33fc",
+  "indianrupeesteadiesasinterventionbluntsoilsurgehedgingpressu"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-24",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-07-24T08:55:11.872299+03:00",
+ "last_run": "2026-07-24T09:00:25.130825+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1468,6 +1468,10 @@
   {
    "d": "2026-07-24",
    "t": "Asian stocks sink, bonds struggle as oil spike stokes rate risks - Reuters"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Indian rupee steadies as intervention blunts oil surge, hedging pressure - Reuters"
   }
  ]
 }
