@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "a8f29081f440d507",
-  "oilsurgespast100inafirstsincemayasmiddleeastconflictsrage",
   "9a7027a5e31f985d",
   "fuelcostsontheriseaslatestgeopoliticalturmoildrivesupcrudeoi",
   "2959214f582a9c19",
@@ -603,7 +601,9 @@
   "71ce2a3e951a9739",
   "bayareagaspricesareontherise",
   "b141915724492b78",
-  "makethis1tradenowascrudeoilpricesspike"
+  "makethis1tradenowascrudeoilpricesspike",
+  "9caf231632ea6155",
+  "stockstumbleasaispendingandoilpricesweighonmarket"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-25",
   "count": 4
  },
- "last_run": "2026-07-25T01:20:16.228545+03:00",
+ "last_run": "2026-07-25T01:25:15.468801+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
