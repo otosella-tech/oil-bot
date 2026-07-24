@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "f545db17b77e7b4c",
-  "oilpricesriseaftertrumpsaysiranwillpayforkillingusservicemem",
   "eacc8f89f6149932",
   "nevadagaspricesrise14centsto469agallonasoilvolatilityspikes",
   "0273149e04c7a6cc",
@@ -603,7 +601,9 @@
   "90ead84219d4d0b6",
   "thisgroupofstocksissurgingduetothesurgeinoilpricesshouldyoui",
   "5299dafbeb8fb2c0",
-  "environmentalgroupsseektoblockoilandgasdrillinginconecuhnati"
+  "environmentalgroupsseektoblockoilandgasdrillinginconecuhnati",
+  "fc3912be3f0c3504",
+  "usequityindexesfallthisweekasmag7disappointbullstreasuryyiel"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T23:35:15.124973+03:00",
+ "last_run": "2026-07-24T23:40:14.864943+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
