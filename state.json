@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "84d21bf0380f9320",
-  "globaloiltops100afterhouthisstrikesauditankersandtrumpthreat",
   "eef3698e8300621c",
   "globalrefinersarecuttingoutoiltraderstobuyvenezuelancrudedir",
   "9f9548fcff50334d",
@@ -603,7 +601,9 @@
   "efb74c7222fde02f",
   "currentpriceofoilasofjuly172026",
   "ec763dae8f90fbcc",
-  "inadiscoversgasinnorthernadriatic"
+  "inadiscoversgasinnorthernadriatic",
+  "5e1bd7f451e437f5",
+  "4000goldischanginglivesacrosscentralasia"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T20:55:13.934144+03:00",
+ "last_run": "2026-07-24T21:00:28.015675+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
