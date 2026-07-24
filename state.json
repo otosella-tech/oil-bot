@@ -4,16 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "7ac227686c934614",
-  "brentoilspricetops100perbarrelasteslaandalphabetdragwallstre",
-  "3b40b6b00b052fa1",
-  "crudeoilstopstradingtheheadlinesandstartstradingthewar",
-  "26a46829641fe719",
-  "globaloilpricesjumpabove100firsttimesincelatemay",
-  "487f94535cd35b0c",
-  "usimportsfirstfueloilcargoesshippedviasyriaasiraqleveragesne",
-  "01f405a7d6d26c65",
-  "straitofhormuzbabelmandebdisruptionskeepoilabove98bblkeeping",
   "809e4db8e353a971",
   "trumpdismissedaffordabilityasademocraticmadeupwordthenoilhit",
   "ead134876a6a3981",
@@ -603,7 +593,17 @@
   "97f430c450dcd588",
   "goldholdssteadyasinvestorseyemiddleeastdevelopmentsaheadoffe",
   "9047708fafa7d90c",
-  "adnocissuesseventhcrudetendersincejunedespitehormuzredsearis"
+  "adnocissuesseventhcrudetendersincejunedespitehormuzredsearis",
+  "7f3d605d993687a1",
+  "overseasbuyersinhotpursuitofuscrudeoil",
+  "da28d6ba7382101b",
+  "threeexportcorridordisruptionspushbrentabove100favoringoilas",
+  "3194301901d0286b",
+  "brentcrudeoilsurgesto100abarrelforfirsttimesincemayafterrepo",
+  "b09c79b3359f1c26",
+  "crudeoilpriceanalysiswtistallsnear90asweekendmiddleeastriskl",
+  "e9e0211f8892eaf6",
+  "vivakoradds384millionincrudeoilmarketingcontractsbyinvesting"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T17:30:21.383483+03:00",
+ "last_run": "2026-07-24T17:35:15.877133+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
@@ -1524,6 +1524,10 @@
   {
    "d": "2026-07-24",
    "t": "ADNOC Issues Seventh Crude Tender Since June Despite Hormuz, Red Sea Risks"
+  },
+  {
+   "d": "2026-07-24",
+   "t": "Brent crude oil surges to $100 a barrel for first time since May after reports of Red Sea attacks - New York Post"
   }
  ]
 }
