@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "9fd63c9ce2afad6d",
-  "10yeartreasuryyieldclimbstohighestlevelsincejanuary2025as100",
-  "d69c602bbe4f306f",
-  "goldmansachsforecasts120brentcrudeoilbyq42026amidglobalinsta",
   "71c60c0a8957bd1a",
   "equinordoublesprofitsontheriseincrudeoilinq2",
   "aad8413d4fddfa03",
@@ -603,7 +599,11 @@
   "7126d75a719e7199",
   "oilfallsmorethan4onreportpakistanispushingfornewusirantalksw",
   "4b311eab3b2ccbc4",
-  "dropinoilpriceseasesthepressurefornow"
+  "dropinoilpriceseasesthepressurefornow",
+  "a53945fa9b90819f",
+  "oilretreatsfrom100bblbutpostsstrongweeklygain",
+  "2c672fb57cc82889",
+  "treasuryyieldsretreat10yearstaysnearjanuary2025highs"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-24",
   "count": 60
  },
- "last_run": "2026-07-24T19:45:18.773797+03:00",
+ "last_run": "2026-07-24T19:50:18.349369+03:00",
  "sent_stories": [
   {
    "d": "2026-07-21",
