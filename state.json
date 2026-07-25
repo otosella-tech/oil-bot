@@ -605,12 +605,7 @@
   "e70c4ca4e5c3bca8",
   "grainsmarketshitnewhighsonblackseaattackscrudeoilrally"
  ],
- "releases_done": {
-  "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
-  "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|post": 1,
-  "2026-07-24|דוח פוזיציות ספקולנטים (CFTC COT)|pre": 1,
-  "2026-07-24|דוח פוזיציות ספקולנטים (CFTC COT)|post": 1
- },
+ "releases_done": {},
  "last_digest": "2026-07-24",
  "digest_prices": {
   "WTI": 91.72,
@@ -620,7 +615,7 @@
   "date": "2026-07-25",
   "count": 9
  },
- "last_run": "2026-07-25T06:56:42.943921+03:00",
+ "last_run": "2026-07-25T07:02:08.958629+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
