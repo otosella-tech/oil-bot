@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "aa88db6b8a99749f",
-  "oilcosttechlossesweighwallstreetthearkansasdemocrat",
   "65ffcacdff5eae6a",
   "gasgroceriesandbacktoschoolitemslikelytospikewithhigheroilpr",
   "fb7676df6e06aeae",
@@ -603,7 +601,9 @@
   "018346323dbd4c59",
   "currentpriceofoilasofjuly222026",
   "5f040bd1db300444",
-  "crudeoilpricesfallforfirsttimeinweek"
+  "crudeoilpricesfallforfirsttimeinweek",
+  "9b551df9e5544c2b",
+  "hormuzrisksescalateagainoilpricesreturnto100andgulfstatesacc"
  ],
  "releases_done": {},
  "last_digest": "2026-07-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-25",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-07-25T21:15:26.742714+03:00",
+ "last_run": "2026-07-25T21:20:13.630113+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
@@ -1384,6 +1384,10 @@
   {
    "d": "2026-07-25",
    "t": "Drone attacks Tyumen Oil Refinery, fire breaks out - Ukrinform"
+  },
+  {
+   "d": "2026-07-25",
+   "t": "Hormuz risks escalate again, oil prices return to $100, and Gulf states accelerate the restructuring of their crude export networks - Moomoo"
   }
  ]
 }
