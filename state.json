@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "b8f1166febda68dd",
-  "shoppersmightseehighoilpricesingasgroceries",
   "eafba863f84f04fd",
   "oilpricescontinuetoriseasconflictwithirandragson",
   "a23c5a07bd739c00",
@@ -603,7 +601,9 @@
   "4cce6a11119c99c8",
   "watchhouthithreatstestglobaloilflows",
   "e9f550d3555b071e",
-  "adangerousnewphaseofwarisbreakingalltheoilmarketsconstraints"
+  "adangerousnewphaseofwarisbreakingalltheoilmarketsconstraints",
+  "368dcff14d317cdb",
+  "droneattackstyumenoilrefineryfirebreaksout"
  ],
  "releases_done": {},
  "last_digest": "2026-07-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-25",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-07-25T16:30:19.633518+03:00",
+ "last_run": "2026-07-25T16:35:11.311240+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-07-25",
    "t": "Investors increase bets on Federal Reserve rate rise after oil price surge - Financial Times"
+  },
+  {
+   "d": "2026-07-25",
+   "t": "Drone attacks Tyumen Oil Refinery, fire breaks out - Ukrinform"
   }
  ]
 }
