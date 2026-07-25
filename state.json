@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "ba6d761df2d4d0fe",
-  "goldfallsasoilspikehigheryieldspressuremetalskitcopmreport",
   "f173e4d7b0f35f00",
   "crudeoilpriceforecastvolatilityreturnsascrudetestsresistance",
   "9f2c34ad17f72437",
@@ -603,7 +601,9 @@
   "a26e89474532e726",
   "oilpriceshit100forthefirsttimesincemay",
   "175f577d4a2ad64e",
-  "stockmarkettodaynasdaqsinksassellershitmemorychipsoilyieldss"
+  "stockmarkettodaynasdaqsinksassellershitmemorychipsoilyieldss",
+  "506a22503fee124f",
+  "sugarpricestradeonaweaknoteasoilpricesfall"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-25",
   "count": 7
  },
- "last_run": "2026-07-25T03:10:14.596284+03:00",
+ "last_run": "2026-07-25T03:15:17.043630+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
