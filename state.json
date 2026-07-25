@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "f828d642ed0bd1f2",
-  "uscrudeoilinventoriesup20millionbarrelseiaweeklyreportjuly20",
   "3db9e174c80b7d47",
   "legalappealaimstostopoilgasdrillinginalabamasconecuhnational",
   "9f4ba5d4641ecc29",
@@ -603,7 +601,9 @@
   "551c33f95fa425db",
   "bayareagaspricessurge",
   "bd5346d529000d61",
-  "germaneconomistssayeuropesoilsupplyissecure"
+  "germaneconomistssayeuropesoilsupplyissecure",
+  "fe75b21f8c7fd6d5",
+  "aconcernlasvegasgaspricesgoingbackupasworldeventsaffectoilco"
  ],
  "releases_done": {},
  "last_digest": "2026-07-25",
@@ -615,7 +615,7 @@
   "date": "2026-07-25",
   "count": 24
  },
- "last_run": "2026-07-25T11:20:16.140776+03:00",
+ "last_run": "2026-07-25T11:25:11.748094+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
