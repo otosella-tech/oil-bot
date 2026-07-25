@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "611d021e8ee876d9",
-  "oilcoordinationgroupconfirmsnoimmediatesupplyconcernsintheeu",
   "a017e684128fae7b",
   "crudeoilsetfor10weeklygain",
   "ae1d2cb2fb4a05f2",
@@ -603,7 +601,9 @@
   "5099e2f7526eaf8f",
   "lacountygaspricesincreasefor11thconsecutiveday",
   "ac072a4803de6a63",
-  "goldandsilverrisewithcrudeoilasiranwarescalatesaitechdebthit"
+  "goldandsilverrisewithcrudeoilasiranwarescalatesaitechdebthit",
+  "c47b4c9fdf94bfc7",
+  "brentcrudeoilpricestop100asconflictwithirandragson"
  ],
  "releases_done": {},
  "last_digest": "2026-07-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-26",
-  "count": 1
+  "count": 3
  },
- "last_run": "2026-07-26T00:05:13.540010+03:00",
+ "last_run": "2026-07-26T00:10:17.200418+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-07-25",
    "t": "Ukrainian SOF confirm strike on Tyumen Oil Refinery - Ukrinform"
+  },
+  {
+   "d": "2026-07-26",
+   "t": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On - The New York Times"
   }
  ]
 }
