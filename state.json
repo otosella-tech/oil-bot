@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "977e3404ea17ce71",
-  "usprioritizessmallnuclearreactorsacrosssoutheastasia",
   "0c65d45df446306f",
   "oilpriceshovernear100asconflictwithirandragson",
   "69a3123b8637e37d",
@@ -603,7 +601,9 @@
   "e88d7cba730a12ca",
   "oilmarketreportjuly2026analysis",
   "97a8715919d94f59",
-  "currentpriceofoilasofjuly132026"
+  "currentpriceofoilasofjuly132026",
+  "54420807cc45df2e",
+  "russiaslargestblackseaoilporthaltsoperationsafterukrainiandr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-26",
-  "count": 7
+  "count": 8
  },
- "last_run": "2026-07-26T02:10:15.663796+03:00",
+ "last_run": "2026-07-26T02:15:15.051493+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
