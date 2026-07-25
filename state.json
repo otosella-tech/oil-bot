@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "9f2c34ad17f72437",
-  "oilpricessurgeascongresssplitsoniranwarvotesfromthepoliticsd",
   "04d953f79957b447",
   "strikesagainstsauditankersintheredseasendoilpast100abarrel",
   "02622012920e6d7f",
@@ -603,7 +601,9 @@
   "506a22503fee124f",
   "sugarpricestradeonaweaknoteasoilpricesfall",
   "cb21612ffb1e06aa",
-  "pakistanseeksnonmiddleeastcrudeoilamidstraitofhormuzandredse"
+  "pakistanseeksnonmiddleeastcrudeoilamidstraitofhormuzandredse",
+  "52408ceff4bfded1",
+  "crudeoilpoststhreestraightweeklygainsmetalsshowmixedperforma"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-25",
   "count": 8
  },
- "last_run": "2026-07-25T04:30:20.141674+03:00",
+ "last_run": "2026-07-25T04:35:11.879737+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
