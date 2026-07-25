@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "0c65d45df446306f",
-  "oilpriceshovernear100asconflictwithirandragson",
   "69a3123b8637e37d",
   "stagflationtalkreturnstorattlemarketsasoilreboundsto100",
   "226ce9a17160bc3b",
@@ -603,7 +601,9 @@
   "97a8715919d94f59",
   "currentpriceofoilasofjuly132026",
   "54420807cc45df2e",
-  "russiaslargestblackseaoilporthaltsoperationsafterukrainiandr"
+  "russiaslargestblackseaoilporthaltsoperationsafterukrainiandr",
+  "fa3cdce8c8cf218b",
+  "trackingoilpricesandusgaspricesamidiranconflict"
  ],
  "releases_done": {},
  "last_digest": "2026-07-25",
@@ -615,7 +615,7 @@
   "date": "2026-07-26",
   "count": 8
  },
- "last_run": "2026-07-26T02:20:16.745279+03:00",
+ "last_run": "2026-07-26T02:26:54.900583+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
