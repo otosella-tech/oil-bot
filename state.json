@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "86cfa48aae289d4a",
-  "oiltops100perbarrelasteslaandalphabetdeclinesyankwallstreetl",
   "5799ed7f1d38c37d",
   "wallstreetfallsastechearningssparkaispendingworriesandoilhit",
   "972e9bef6d150dde",
@@ -603,7 +601,9 @@
   "90177cb5929b1d1b",
   "oilsurgespast95asusdownplaysirandiplomacyand2ndkeytraderoute",
   "410c2ef8847bd5ae",
-  "bayareagaspricessurgeasmiddleeasttensionsandshippingthreatss"
+  "bayareagaspricessurgeasmiddleeasttensionsandshippingthreatss",
+  "e2f010023ee28d77",
+  "opecsettoraiseoutputagainevenasmemberscantpumpit"
  ],
  "releases_done": {},
  "last_digest": "2026-07-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-25",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-07-25T08:05:11.830801+03:00",
+ "last_run": "2026-07-25T08:10:16.078423+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
@@ -1352,6 +1352,10 @@
   {
    "d": "2026-07-25",
    "t": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted - NBC News"
+  },
+  {
+   "d": "2026-07-25",
+   "t": "OPEC Set to Raise Output AgainEven as Members Can't Pump It - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
