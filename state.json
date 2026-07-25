@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "0c26443c504971db",
-  "canadianfinancialclosecrudeoiljumpstsxgoldtumble",
-  "d966faf523112d01",
-  "spiralingusiranstrikessendsoilskyward",
   "ba6d761df2d4d0fe",
   "goldfallsasoilspikehigheryieldspressuremetalskitcopmreport",
   "f173e4d7b0f35f00",
@@ -603,7 +599,11 @@
   "5c49744258b78b8a",
   "tankermarketsaudioilexportsdownsignificantly",
   "8306f95582dc0757",
-  "lasvegasvalleygaspricesprimedtofurtherriseasworldeventsaffec"
+  "lasvegasvalleygaspricesprimedtofurtherriseasworldeventsaffec",
+  "a26e89474532e726",
+  "oilpriceshit100forthefirsttimesincemay",
+  "175f577d4a2ad64e",
+  "stockmarkettodaynasdaqsinksassellershitmemorychipsoilyieldss"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-25",
   "count": 7
  },
- "last_run": "2026-07-25T03:05:12.883837+03:00",
+ "last_run": "2026-07-25T03:10:14.596284+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
