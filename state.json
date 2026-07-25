@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "6e0d2f4f277f9e46",
-  "cuttingoffredseaoilroutemaybeonecrisistoomany",
   "b37822c9966ec770",
   "usequityindexesslumpcrudeoilsoarsastrumpwarnsofbigiranattack",
   "c277b89da5d309ba",
@@ -603,7 +601,9 @@
   "ccb5bd4a4e89fc6b",
   "willieaoecdcountriesreleasemorestrategicoilstocks",
   "0af0c827d2507afb",
-  "commoditypricepredictionmarketsin2026oilgoldmore"
+  "commoditypricepredictionmarketsin2026oilgoldmore",
+  "5bf24bcc1f41df92",
+  "dollarlittlechangedasoilpricesfallback"
  ],
  "releases_done": {
   "2026-07-24|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-25",
   "count": 8
  },
- "last_run": "2026-07-25T05:15:17.694631+03:00",
+ "last_run": "2026-07-25T05:20:14.423246+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
