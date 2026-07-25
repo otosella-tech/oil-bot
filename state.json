@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "345b3aafc0d37bcf",
-  "crudeoilpricestopus100surgingtothreemonthhighasmiddleeastcon",
-  "9179624f157db91b",
-  "theoilmarketismuchmorevulnerablethantrumpbelieves",
   "b085f6df63007bc9",
   "priceofoilexceeds100abarrel",
   "f4b97522794f7b07",
@@ -603,7 +599,11 @@
   "3d6fedb9b4120b60",
   "blackstonekkrandbrookfieldtakekuwaitpipelinesstakein16bndeal",
   "c1887e796950a975",
-  "brusselssettosanctiongeorgiasonlyoilrefineryifitfailstostopu"
+  "brusselssettosanctiongeorgiasonlyoilrefineryifitfailstostopu",
+  "4f07707fcca8d9ab",
+  "whyarentoilpriceshigherstaggeringdropinenergydemandleavesstr",
+  "6f718bfb52860452",
+  "exclusivechevronistryingtokeepitskazakhassetsoutoftherussiau"
  ],
  "releases_done": {},
  "last_digest": "2026-07-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-25",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-07-25T12:55:11.194194+03:00",
+ "last_run": "2026-07-25T13:02:26.782296+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-07-25",
    "t": "Kuwait's KPC signs $16 billion lease and leaseback deal for oil pipeline network - Reuters"
+  },
+  {
+   "d": "2026-07-25",
+   "t": "Exclusive | Chevron Is Trying to Keep Its Kazakh Assets Out of the Russia-Ukraine War - WSJ"
   }
  ]
 }
