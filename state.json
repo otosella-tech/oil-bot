@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "1ff5ff4465c0ea0b",
-  "oilpricessoarasusiranconflictexpandstoredsea",
-  "3f220cf1de952ca9",
-  "oilpricestop100oncargosqueezefromthemiddleeast",
   "3591ca7c816e53d7",
   "trumpadministrationeyesoffshorenucleartopoweraiboom",
   "b8f50604e834550c",
@@ -603,7 +599,11 @@
   "5f512d79b916b9be",
   "nycrudeoilplungesinaweekonspeculationofusirantalksresumingvi",
   "e70c4ca4e5c3bca8",
-  "grainsmarketshitnewhighsonblackseaattackscrudeoilrally"
+  "grainsmarketshitnewhighsonblackseaattackscrudeoilrally",
+  "d57e57cd3c3e8d84",
+  "thenewoilparadigmchinasasmarketstabilizeranddistorterchina",
+  "8f50be00d39e98d8",
+  "stockssettlelowerascrudeoilpricesjump"
  ],
  "releases_done": {},
  "last_digest": "2026-07-24",
@@ -615,7 +615,7 @@
   "date": "2026-07-25",
   "count": 9
  },
- "last_run": "2026-07-25T07:25:11.429267+03:00",
+ "last_run": "2026-07-25T07:30:16.929771+03:00",
  "sent_stories": [
   {
    "d": "2026-07-22",
