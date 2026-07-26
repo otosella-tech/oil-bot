@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "c6211162708f3b76",
-  "oilpricesdropbackdownbutusirantensionsmount",
   "4a236c118f44e37a",
   "velox1xshowspromisingoildiscoveryinwesternmediterranean",
   "7819475d86497105",
@@ -603,7 +601,9 @@
   "4c976e53f01e5da2",
   "liveupdateslatestfromisraeliranandmiddleeast",
   "1d70d77c7b28e9ca",
-  "houthiattacksmayhavecatastrophicconsequence"
+  "houthiattacksmayhavecatastrophicconsequence",
+  "2681b49a7e0d6426",
+  "iransold18billionworthofoilsinceoutbreakofwarwithusisrael"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-26",
-  "count": 32
+  "count": 33
  },
- "last_run": "2026-07-26T15:55:14.884643+03:00",
+ "last_run": "2026-07-26T16:00:22.461646+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
