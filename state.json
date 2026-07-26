@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "efd668f006a10855",
-  "currentpriceofoilasofjuly202026",
-  "291c1ac9661a3514",
-  "quagmireofthevanities",
   "53910821ca48c7dd",
   "usreceivesfirstiraqifueloilcargoesviasyriaasiraqdiversifiese",
   "4d2a038b36e210a6",
@@ -603,7 +599,11 @@
   "bbd88e906bf3f8e6",
   "iranreports115bnoilsalesduringconflictand65bnduringceasefire",
   "d2ad19ad09093350",
-  "egyptoiloutputandrefiningexportssurgeinfirsthalfof2026newsan"
+  "egyptoiloutputandrefiningexportssurgeinfirsthalfof2026newsan",
+  "24afeb15f74a08f3",
+  "japansecuresenoughcrudeoilsuppliesasusiranwarspiralsasharqal",
+  "e071a8258db38e47",
+  "kocsigns16bnpipelineleasedeal"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-26",
-  "count": 25
+  "count": 26
  },
- "last_run": "2026-07-26T10:30:18.575517+03:00",
+ "last_run": "2026-07-26T10:35:13.486333+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
