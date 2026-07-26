@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "e9e0211f8892eaf6",
-  "vivakoradds384millionincrudeoilmarketingcontractsbyinvesting",
   "42c6c1e7e5550480",
   "crudeoilholdsstrongweeklygaindespitefridaypullback",
   "624211535dda33fb",
@@ -603,7 +601,9 @@
   "92000dd7559d28aa",
   "withindustrywaryofarcticrefugealaskasowngovernmentplansalone",
   "3d93ec49ce9ec721",
-  "democratskilledtrumps3bplantofilltheoilreserveat20abarrelin2"
+  "democratskilledtrumps3bplantofilltheoilreserveat20abarrelin2",
+  "7b121a04b8006e00",
+  "oilhits87perbarrelagainafterlatestusstrikesoniranandloomingb"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 2
+  "count": 3
  },
- "last_run": "2026-07-27T00:40:14.141391+03:00",
+ "last_run": "2026-07-27T00:45:13.905598+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
