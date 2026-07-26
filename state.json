@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "4a236c118f44e37a",
-  "velox1xshowspromisingoildiscoveryinwesternmediterranean",
   "7819475d86497105",
   "oilpricessurgeto100perbarrelafterredseaattacks",
   "9e370e508cb2210c",
@@ -603,7 +601,9 @@
   "1d70d77c7b28e9ca",
   "houthiattacksmayhavecatastrophicconsequence",
   "2681b49a7e0d6426",
-  "iransold18billionworthofoilsinceoutbreakofwarwithusisrael"
+  "iransold18billionworthofoilsinceoutbreakofwarwithusisrael",
+  "ab340b4cd73f0ae0",
+  "oilpricesriseasuslaunchesnewiranairstrikeswhiletrumpabandons"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-26",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-07-26T16:00:22.461646+03:00",
+ "last_run": "2026-07-26T16:05:15.114297+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-07-26",
    "t": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities - Al Jazeera"
+  },
+  {
+   "d": "2026-07-26",
+   "t": "Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee - CNBC"
   }
  ]
 }
