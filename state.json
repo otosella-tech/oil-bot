@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "ac2ea4d54522325b",
-  "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths",
   "ce1a3dcefa1c48af",
   "factsheetgeorgianportssuspectedofviolatingsanctionsonrussian",
   "0d9a51c194258e59",
@@ -603,7 +601,9 @@
   "08689069e9114583",
   "4bigtechearningsreportsafedmeetingand100oilitsthebusiestweek",
   "28604fde59ac06de",
-  "oilmarketsareonedgeagain"
+  "oilmarketsareonedgeagain",
+  "66a3f00855f2c3ee",
+  "lebanonseeksclosereconomictieswithiraqaspmsmeet"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -615,7 +615,7 @@
   "date": "2026-07-26",
   "count": 41
  },
- "last_run": "2026-07-26T20:45:14.370382+03:00",
+ "last_run": "2026-07-26T20:50:14.914286+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
