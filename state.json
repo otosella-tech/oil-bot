@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "5ada468ffc5c7461",
-  "oilpricesleapto100abarrelafterattacksinredsea",
   "ff4ebb14c105ec39",
   "wtiexplodeshigherasmiddleeastshippingrisksmultiply",
   "103806b3ad7afc19",
@@ -603,7 +601,9 @@
   "93b58a8985468c41",
   "iranhasexported18billionworthofoilduringtheconflictwiththeus",
   "f9df6b7e30bb9e77",
-  "oilsurgepowerskoreaetnstotopmonthlygainsasusirantensionsrise"
+  "oilsurgepowerskoreaetnstotopmonthlygainsasusirantensionsrise",
+  "0f07943031978a61",
+  "weekaheadondstreetusfedverdictq1resultscrudeoilpricestodrive"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -615,7 +615,7 @@
   "date": "2026-07-26",
   "count": 27
  },
- "last_run": "2026-07-26T11:35:12.823145+03:00",
+ "last_run": "2026-07-26T11:40:14.414965+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
