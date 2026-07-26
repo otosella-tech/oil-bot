@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "8a89e3decd8abb7d",
-  "stockswaverwhilecrudeoilpricesfallforthefirsttimeinaweekthen",
   "704714d9a9533180",
   "stockswaverwhilecrudeoilpricesfallforthefirsttimeinaweeksand",
   "da76676900009813",
@@ -603,7 +601,9 @@
   "56dd3023bcb090f3",
   "isexxonmobilholdingsxomstillbelowfairvaluefollowingoilprices",
   "d3e5712ae199cdb8",
-  "risingcrudeoilpricessupportsugar"
+  "risingcrudeoilpricessupportsugar",
+  "291c2fa8352caab8",
+  "whatliesaheadforiranseconomyasscopeofuswargrowsbeyondhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-26",
-  "count": 42
+  "count": 43
  },
- "last_run": "2026-07-26T22:35:59.661430+03:00",
+ "last_run": "2026-07-26T22:40:16.714642+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
