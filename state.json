@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "952118785c5cc138",
-  "trumpsnucleargamblecouldspelldisasterforthemiddleeast",
   "3135b5cd886b1d30",
   "angolasupstreamreformprogramandinvestmentpipelineexaminedinc",
   "27e3b38625126662",
@@ -603,7 +601,9 @@
   "ff9de5c5f9be3fd8",
   "petroleumministeregyptscrudeoilproductionreacheshighestlevel",
   "ec7f7a61adbaa7a3",
-  "stockmarketoutlookfedpolicycrudeoilpricesandq1earningstodriv"
+  "stockmarketoutlookfedpolicycrudeoilpricesandq1earningstodriv",
+  "624e08d980f0da14",
+  "notjustgaspricesshoppersmayseehighercostsallovermoscow"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -615,7 +615,7 @@
   "date": "2026-07-26",
   "count": 27
  },
- "last_run": "2026-07-26T13:10:16.416575+03:00",
+ "last_run": "2026-07-26T13:16:36.274819+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
