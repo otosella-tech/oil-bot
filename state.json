@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "ce1a3dcefa1c48af",
-  "factsheetgeorgianportssuspectedofviolatingsanctionsonrussian",
   "0d9a51c194258e59",
   "stockswaverwhilecrudeoilpricesfallforthefirsttimeinaweek",
   "f01b3b88c1a8a173",
@@ -603,7 +601,9 @@
   "28604fde59ac06de",
   "oilmarketsareonedgeagain",
   "66a3f00855f2c3ee",
-  "lebanonseeksclosereconomictieswithiraqaspmsmeet"
+  "lebanonseeksclosereconomictieswithiraqaspmsmeet",
+  "f7fced98d040a957",
+  "argentinasoilproductionsoarsasvacamuertabreaksnewrecords"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-26",
-  "count": 41
+  "count": 42
  },
- "last_run": "2026-07-26T21:55:12.630118+03:00",
+ "last_run": "2026-07-26T22:00:23.947411+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
