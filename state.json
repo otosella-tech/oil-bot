@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "0d9a51c194258e59",
-  "stockswaverwhilecrudeoilpricesfallforthefirsttimeinaweek",
-  "f01b3b88c1a8a173",
-  "canadiandollarandbusinessoutlooklooniecrudeoilinnegativesent",
   "8a89e3decd8abb7d",
   "stockswaverwhilecrudeoilpricesfallforthefirsttimeinaweekthen",
   "704714d9a9533180",
@@ -603,7 +599,11 @@
   "66a3f00855f2c3ee",
   "lebanonseeksclosereconomictieswithiraqaspmsmeet",
   "f7fced98d040a957",
-  "argentinasoilproductionsoarsasvacamuertabreaksnewrecords"
+  "argentinasoilproductionsoarsasvacamuertabreaksnewrecords",
+  "56dd3023bcb090f3",
+  "isexxonmobilholdingsxomstillbelowfairvaluefollowingoilprices",
+  "d3e5712ae199cdb8",
+  "risingcrudeoilpricessupportsugar"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -615,7 +615,7 @@
   "date": "2026-07-26",
   "count": 42
  },
- "last_run": "2026-07-26T22:25:12.057309+03:00",
+ "last_run": "2026-07-26T22:30:16.816124+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
