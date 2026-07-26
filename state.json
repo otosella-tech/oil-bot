@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "4df273ac81bf7159",
-  "crudeoilpricestop100surgingtothreemonthhighasmiddleeastconfl",
   "df999a1c6116fd49",
   "whyaremarketsshruggingoffthelatestjumpinoilprices",
   "6553da056177962a",
@@ -603,7 +601,9 @@
   "46cc0f162d16bdc6",
   "oilpriceseaseafterusandiranpausetheirattacks",
   "11767d118fbd2216",
-  "standardcharteredwarnsbrentcrudeoilmarketsmustpriceriskacros"
+  "standardcharteredwarnsbrentcrudeoilmarketsmustpriceriskacros",
+  "6462c74bdffbe7cf",
+  "brentoiltops100perbarrelastumblesforteslaandalphabetyankwall"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 7
  },
- "last_run": "2026-07-27T02:25:13.175791+03:00",
+ "last_run": "2026-07-27T02:30:18.321086+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
