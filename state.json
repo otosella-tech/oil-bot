@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "704714d9a9533180",
-  "stockswaverwhilecrudeoilpricesfallforthefirsttimeinaweeksand",
   "da76676900009813",
   "everythingisgoingwrongforoilmarketsrightnow",
   "e96f39a69ed84f9d",
@@ -603,7 +601,9 @@
   "d3e5712ae199cdb8",
   "risingcrudeoilpricessupportsugar",
   "291c2fa8352caab8",
-  "whatliesaheadforiranseconomyasscopeofuswargrowsbeyondhormuz"
+  "whatliesaheadforiranseconomyasscopeofuswargrowsbeyondhormuz",
+  "5d67ee5ac1ac982f",
+  "ongoingconflictdrivingfuelpricesuponcemore"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -615,7 +615,7 @@
   "date": "2026-07-26",
   "count": 43
  },
- "last_run": "2026-07-26T23:10:15.952259+03:00",
+ "last_run": "2026-07-26T23:15:14.043063+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
