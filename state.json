@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "3ee24c08d03fa648",
-  "nobreakthroughastopusandrussiandiplomatsmeetoverukraine",
-  "a71fd6d50c4be662",
-  "predictionifoilholdsabove100occidentalpetroleumstockcouldret",
   "9d35f19f12869bc4",
   "stockmarketsrecoverasoilretreats",
   "ac2ea4d54522325b",
@@ -603,7 +599,11 @@
   "2492e26c3c6c9683",
   "moltensaltreactorsjustclearedamajorusregulatoryhurdle",
   "8598025081245d8c",
-  "fomcpreviewfedlikelytoholdratesdespiteoilspikecitiseesdovish"
+  "fomcpreviewfedlikelytoholdratesdespiteoilspikecitiseesdovish",
+  "a54058bdc224389f",
+  "freezetheconflictdronesslowkazakhoilflowamidrussiaukrainewar",
+  "08689069e9114583",
+  "4bigtechearningsreportsafedmeetingand100oilitsthebusiestweek"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-26",
-  "count": 40
+  "count": 41
  },
- "last_run": "2026-07-26T20:15:14.959601+03:00",
+ "last_run": "2026-07-26T20:20:14.557643+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
