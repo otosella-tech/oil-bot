@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "823d7834382705c6",
-  "greekgasconcessionunlockseusrussiasanctionspackage",
   "5ada468ffc5c7461",
   "oilpricesleapto100abarrelafterattacksinredsea",
   "ff4ebb14c105ec39",
@@ -603,7 +601,9 @@
   "98ceff0723703f4a",
   "bureauoflandmanagementreportsrecordsecondquarteroilandgaslea",
   "93b58a8985468c41",
-  "iranhasexported18billionworthofoilduringtheconflictwiththeus"
+  "iranhasexported18billionworthofoilduringtheconflictwiththeus",
+  "f9df6b7e30bb9e77",
+  "oilsurgepowerskoreaetnstotopmonthlygainsasusirantensionsrise"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-26",
-  "count": 26
+  "count": 27
  },
- "last_run": "2026-07-26T11:25:44.326353+03:00",
+ "last_run": "2026-07-26T11:30:19.838781+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
