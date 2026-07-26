@@ -4,10 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "37220d69b0cd76ca",
-  "stocksgetreliefasoilhaltssurgeintelrises",
-  "751331d0cf05300d",
-  "usstrikesiranfromsouthtonorthaftertrumpthreatsoverredseaship",
   "4685ddd67b9559af",
   "whatisthehouthibreaktheirmaritimesilencetotargetsaudioil",
   "bedf9097c0fae316",
@@ -603,7 +599,11 @@
   "75a8ce6404736964",
   "iraqseizes27billiondinarsinoilcorruptioncase",
   "15585fed2865a611",
-  "soyouwanttolosemoneyspeculatingonoil"
+  "soyouwanttolosemoneyspeculatingonoil",
+  "e578fc18c92acb0d",
+  "thewinnersandlosersduringoilsworsttrafficjaminyears",
+  "ed7c3f6876224c97",
+  "dowfallsover500pointstrumpslatestiranthreatsendscrudeoilpric"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-26",
-  "count": 37
+  "count": 38
  },
- "last_run": "2026-07-26T17:02:09.444994+03:00",
+ "last_run": "2026-07-26T17:05:14.394370+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
