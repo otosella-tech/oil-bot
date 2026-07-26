@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "d83d5bd43497f455",
-  "presidentrespondstohouthiattacksonoiltankersinredsea",
   "4bfa050e398d160f",
   "globaloilpricehits100abarrelforfirsttimesincemay",
   "eefb3b3a94fe4a77",
@@ -603,7 +601,9 @@
   "ac975c5b0d6eef5b",
   "energyiniraqthenewfrontlinebetweenwashingtonandtehran",
   "5ca688aab3b376bc",
-  "currentpriceofoilasofjuly62026"
+  "currentpriceofoilasofjuly62026",
+  "0bfb0a2f8b9d62c3",
+  "wticrudeoilhits90forthefirsttimeinsixweeks"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -615,7 +615,7 @@
   "date": "2026-07-26",
   "count": 24
  },
- "last_run": "2026-07-26T08:37:08.372145+03:00",
+ "last_run": "2026-07-26T08:40:24.477293+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
