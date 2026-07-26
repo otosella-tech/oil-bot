@@ -4,8 +4,6 @@
   "Brent": 97.16
  },
  "seen": [
-  "a4e458328ce5614a",
-  "oilsurgesto100perbarrelandtrumpimposesanewroundoftariffs",
   "dcfbc4d51d77a184",
   "thegreatillusionofoilprices",
   "3249b9addb668d4f",
@@ -603,7 +601,9 @@
   "bda3e70b18bdf786",
   "lebanonsprimeministervisitsiraqfortalksonfueloilandeconomicc",
   "f5b841ff64350e68",
-  "saudicrudeoilexportsleftwithonlyonekeyrouteasanalystswarnofr"
+  "saudicrudeoilexportsleftwithonlyonekeyrouteasanalystswarnofr",
+  "01f2f4898382b92c",
+  "fromthestraitofhormuztothenorthseaaglobalmaritimewarragesaro"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-26",
-  "count": 31
+  "count": 32
  },
- "last_run": "2026-07-26T15:10:15.121417+03:00",
+ "last_run": "2026-07-26T15:15:17.191493+03:00",
  "sent_stories": [
   {
    "d": "2026-07-23",
