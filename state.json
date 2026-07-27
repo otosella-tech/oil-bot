@@ -4,10 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "f545db17b77e7b4c",
-  "oilpricesriseaftertrumpsaysiranwillpayforkillingusservicemem",
-  "cae0b5e1b33f6f9b",
-  "usequityindexesmixedasmediaspeculationofiranpeacetalkssendsc",
   "239b5982eab9ef18",
   "oilpricesfallfrom100afterreportofpossiblerenewedtalksbetween",
   "dfa91e4fa7263044",
@@ -603,7 +599,11 @@
   "7fa7d14b4e93bba4",
   "oilslips4afterusiranpausefightingoverweekend",
   "724c3e179824d193",
-  "bankofenglandexpectedtoholdratesdespitejumpinoilprices"
+  "bankofenglandexpectedtoholdratesdespitejumpinoilprices",
+  "3c85511bbc0506be",
+  "indiansharesopenhigherasoilslidesoneasingmiddleeasttensions",
+  "ac0895950333cceb",
+  "crudeoilfallsasusiranhaltweekendstrikes"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 37
+  "count": 38
  },
- "last_run": "2026-07-27T07:21:46.129526+03:00",
+ "last_run": "2026-07-27T07:26:26.547425+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
