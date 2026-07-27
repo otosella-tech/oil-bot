@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "02b8a0f101e31daa",
-  "yoursaturdayjuly25guidefivethingstodointheoilcity",
   "a626bd2fb5b8ed57",
   "asgaspricesandmortgageratesrisetheconsumeraffordabilitycrisi",
   "5f512d79b916b9be",
@@ -603,7 +601,9 @@
   "0373453ad9c426ea",
   "oilfuturescruderowsbacksharplyasuspausesiranbombing",
   "628cd89339a292a9",
-  "brentwticrudeoilpricesdropover5onusirandiplomaticthaw"
+  "brentwticrudeoilpricesdropover5onusirandiplomaticthaw",
+  "f386b412b6982149",
+  "oilpricedropssharplyasusandiranpausestrikes"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 58
+  "count": 59
  },
- "last_run": "2026-07-27T10:25:12.793080+03:00",
+ "last_run": "2026-07-27T10:30:20.329060+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
