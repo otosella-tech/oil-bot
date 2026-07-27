@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "8306f95582dc0757",
-  "lasvegasvalleygaspricesprimedtofurtherriseasworldeventsaffec",
   "a26e89474532e726",
   "oilpriceshit100forthefirsttimesincemay",
   "175f577d4a2ad64e",
@@ -603,7 +601,9 @@
   "ae1c0105f49aec03",
   "singaporetightensmonetarypolicyinsurprisemoveasrisingoilpric",
   "0a536a0af394be1b",
-  "breakingviewschinacankeepdousingworldsoilpriceflames"
+  "breakingviewschinacankeepdousingworldsoilpriceflames",
+  "08a88c4a5fac5d7e",
+  "institutiongeopoliticalriskshavespreadfromthestraitofhormuzt"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 54
+  "count": 55
  },
- "last_run": "2026-07-27T09:35:13.094244+03:00",
+ "last_run": "2026-07-27T09:40:13.811814+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
