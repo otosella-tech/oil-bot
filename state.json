@@ -4,10 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "0af0c827d2507afb",
-  "commoditypricepredictionmarketsin2026oilgoldmore",
-  "5bf24bcc1f41df92",
-  "dollarlittlechangedasoilpricesfallback",
   "02b8a0f101e31daa",
   "yoursaturdayjuly25guidefivethingstodointheoilcity",
   "a626bd2fb5b8ed57",
@@ -603,7 +599,11 @@
   "3a0b3462528234bd",
   "oilpricesdipover6afterusiranpausefightingoverweekend",
   "c027f1ccab7966a0",
-  "europeansharesjumpasoildropsonusiranpauseinbusycentralbank"
+  "europeansharesjumpasoildropsonusiranpauseinbusycentralbank",
+  "0373453ad9c426ea",
+  "oilfuturescruderowsbacksharplyasuspausesiranbombing",
+  "628cd89339a292a9",
+  "brentwticrudeoilpricesdropover5onusirandiplomaticthaw"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 58
  },
- "last_run": "2026-07-27T10:20:15.312002+03:00",
+ "last_run": "2026-07-27T10:25:12.793080+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
