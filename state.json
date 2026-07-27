@@ -4,8 +4,6 @@
   "Brent": 89.71
  },
  "seen": [
-  "c1887e796950a975",
-  "brusselssettosanctiongeorgiasonlyoilrefineryifitfailstostopu",
   "4f07707fcca8d9ab",
   "whyarentoilpriceshigherstaggeringdropinenergydemandleavesstr",
   "6f718bfb52860452",
@@ -603,7 +601,9 @@
   "560588072ef08452",
   "oilpricesfallasuspausesstrikesoniranoverstraitofhormuz",
   "6e0a55038974d2f4",
-  "egyptcrudeoutputhitstwoyearhighasexportsrise"
+  "egyptcrudeoutputhitstwoyearhighasexportsrise",
+  "2389c13b845489e1",
+  "oilpricesfallasexpectationsfordeescalationstrengthenafterthe"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T12:00:31.997121+03:00",
+ "last_run": "2026-07-27T12:05:13.632522+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -956,6 +956,10 @@
   {
    "d": "2026-07-27",
    "t": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz - The Guardian"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil prices fall as expectations for de-escalation strengthen after the US halted strikes on Iran - investingLive"
   }
  ]
 }
