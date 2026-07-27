@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "9caf231632ea6155",
-  "stockstumbleasaispendingandoilpricesweighonmarket",
   "9c55b9215e3e294f",
   "weeklyroundupwhenearningsratesandoilcollide",
   "ae1b40d951077eb2",
@@ -603,7 +601,9 @@
   "f85b3df7fa6edb89",
   "kuwaitskpcsigns16bncrudeoilpipelinedeal",
   "d0e8a7c5ee19fec2",
-  "marketsbriefoilpricesheatthemarketslikeafroginapot"
+  "marketsbriefoilpricesheatthemarketslikeafroginapot",
+  "eb5fd0321ad81ca7",
+  "usenergycushionfacesnewstresstestasmiddleeastrisksriseagain"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 52
  },
- "last_run": "2026-07-27T09:10:16.617555+03:00",
+ "last_run": "2026-07-27T09:16:35.879033+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
