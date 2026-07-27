@@ -4,10 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "03ff0bd50fe9241a",
-  "oilpriceseaseafterusandiranpausetheirattacksabcnews",
-  "5e4f9f52390a91eb",
-  "jogmeckeenongreaterroleinoilandgasexploration",
   "bfefc4825b5aa733",
   "oilmarketsadaptasusiranconflictdisruptsmiddleeastshipments",
   "80d18caeae3e5ae3",
@@ -603,7 +599,11 @@
   "b0b8ba5a32b6a87d",
   "septemberwticrudeoilcontractclosesdown670or75settlesat8261pe",
   "fc43482868d4749e",
-  "ushasmovedupto500millionbarrelsofoilthroughgulfofomanhegseth"
+  "ushasmovedupto500millionbarrelsofoilthroughgulfofomanhegseth",
+  "d69c602bbe4f306f",
+  "goldmansachsforecasts120brentcrudeoilbyq42026amidglobalinsta",
+  "5bc538ca6fbdc0b6",
+  "currentpriceofoilasofjuly152026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T21:45:21.225821+03:00",
+ "last_run": "2026-07-27T21:50:26.146063+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
