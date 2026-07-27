@@ -4,12 +4,6 @@
   "Brent": 87.88
  },
  "seen": [
-  "8a8f7aec3c84f625",
-  "thecarboncaptureboomisstartingtocrack",
-  "fabdba084bb42d34",
-  "ukrainiansofconfirmstrikeontyumenoilrefinery",
-  "bf601c96350e7fdd",
-  "bofawarnsoilvolatilitycouldforcecbankstoabandonlookthroughpo",
   "cdc769b4c3a185fd",
   "riversidecountygaspricesrisefor11thconsecutiveday",
   "0080fcb94414ea95",
@@ -603,7 +597,13 @@
   "018346323dbd4c59",
   "currentpriceofoilasofjuly222026",
   "86e9663c9aeea5c5",
-  "gasolineinaustraliajumpstohighestlevelsincemarch"
+  "gasolineinaustraliajumpstohighestlevelsincemarch",
+  "c329356ecc59f231",
+  "futuresriseoildivesonusiranpausehugeearningsloom",
+  "7e317be974d5eb83",
+  "kazakhstansdailyoiloutputhalvesafterexportterminalclosuresou",
+  "9279a3aea7729dae",
+  "oilplungesbelow90onpauseinusiranhostilitiesdespitehouthithre"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T14:30:19.734198+03:00",
+ "last_run": "2026-07-27T14:35:12.418550+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1028,6 +1028,10 @@
   {
    "d": "2026-07-27",
    "t": "Bitcoin holds firm as Hormuz hostilities pause, Fed prepares interest-rate decision: Crypto Markets Today - CoinDesk"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil plunges below $90 on pause in US-Iran hostilities despite Houthi threats - thenationalnews.com"
   }
  ]
 }
