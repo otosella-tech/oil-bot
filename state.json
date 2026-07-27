@@ -4,14 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "472eaf8db65f8410",
-  "canadiandollaraddstoweeklydeclineasoilparesrecentgains",
-  "c1c8bbefc1407a34",
-  "whytrumpisfacinghisbiggestdangerfromrisingoilpricessincethew",
-  "a3105c173d003391",
-  "treasuryyieldsslideasoilpricesfallamidhopesfornewusiranpeace",
-  "dd42f53b041ad652",
-  "septemberwticrudeoilcontractclosesdown288or31settlesat8931pe",
   "a6dde941cc653b4d",
   "stockmarkettodaycrudeoilslipsonnewhopesforpeacetalksheadline",
   "35e8b9c98b4657f1",
@@ -603,7 +595,15 @@
   "1f95a8a36dd85ac1",
   "crudeoiltradingalertwithgeopoliticaltensionseasingoilpricesh",
   "be71ed6e535f8491",
-  "thecommoditiesfeedoilslumpsastheusandiranpausestrikes"
+  "thecommoditiesfeedoilslumpsastheusandiranpausestrikes",
+  "5e1bd7f451e437f5",
+  "4000goldischanginglivesacrosscentralasia",
+  "2212c761879dec02",
+  "oilslides7asiransignalsitwillhaltattacksifuspauseholds",
+  "53b267b9c3c75d4d",
+  "wtiremainsheavilyofferednear8400amidhopesfordeescalationinus",
+  "0d30745975e6025f",
+  "oilpricetodayjuly27crudeoildips5below95asuspausesstrikesonir"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-07-27T05:25:12.306533+03:00",
+ "last_run": "2026-07-27T05:31:44.405142+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -880,6 +880,14 @@
   {
    "d": "2026-07-27",
    "t": "Oil Prices On July 27: Brent Crude Slides 5% To Trade Below $90 As US, Iran Agree To Suspend Attacks - NDTV Profit"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil Slides 7% as Iran Signals It Will Halt Attacks If US Pause Holds - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil Price Today (July 27): Crude oil dips 5%, below $95 as US pauses strikes on Iran. What are experts say - The Economic Times"
   }
  ]
 }
