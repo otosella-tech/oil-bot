@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "ba21d00a990b0a9f",
-  "bestsellingangolareformbooksetforexclusiveluandalaunchonsept",
   "2c37bf81e77450af",
   "saudiredseacrudeexportshavesank41sincemarchpeak",
   "9f821ca85ae97cb5",
@@ -603,7 +601,9 @@
   "a8ace7e43b49cfe6",
   "chinasrareearthstrategyisforcingausmanufacturingrevolution",
   "4416befb81df9260",
-  "oilslipsmorethan5afteruspausesstrikesoniranbyreuters"
+  "oilslipsmorethan5afteruspausesstrikesoniranbyreuters",
+  "eceeb9280bfeab2d",
+  "oilslides5asiranreportedlysignalshalttoattacksifuspauseholds"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 9
+  "count": 11
  },
- "last_run": "2026-07-27T03:05:13.008619+03:00",
+ "last_run": "2026-07-27T03:10:15.634821+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -836,6 +836,10 @@
   {
    "d": "2026-07-27",
    "t": "Oil prices fall as Iran and US pause strikes over Strait of Hormuz tensions - Financial Times"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds - CNBC"
   }
  ]
 }
