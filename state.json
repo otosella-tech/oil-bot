@@ -4,8 +4,6 @@
   "Brent": 87.88
  },
  "seen": [
-  "018346323dbd4c59",
-  "currentpriceofoilasofjuly222026",
   "5f040bd1db300444",
   "crudeoilpricesfallforfirsttimeinweek",
   "9b551df9e5544c2b",
@@ -603,7 +601,9 @@
   "fd4473c7138afae9",
   "morningbidchinachipchamp",
   "32f692047d8c9f8c",
-  "dollarslipsasoilplungecoolsratehikebetsaheadoffedboeandbojme"
+  "dollarslipsasoilplungecoolsratehikebetsaheadoffedboeandbojme",
+  "a88362e09dee3c8c",
+  "bitcoinholdsfirmashormuzhostilitiespausefedpreparesinterestr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T14:15:14.850265+03:00",
+ "last_run": "2026-07-27T14:20:14.152014+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1024,6 +1024,10 @@
   {
    "d": "2026-07-27",
    "t": "Dollar slips as oil plunge cools rate-hike bets ahead of Fed, BOE and BOJ meetings - Investing.com"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Bitcoin holds firm as Hormuz hostilities pause, Fed prepares interest-rate decision: Crypto Markets Today - CoinDesk"
   }
  ]
 }
