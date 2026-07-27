@@ -4,8 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "fabe4db76e21318b",
-  "oiltumblesover5asusiranpausesparkshopesfordiplomaticbreakthr",
   "3a107d8850cc5ffe",
   "oilpricesplunge5afterusandiranhaltattacks",
   "32b65a35e63d1510",
@@ -603,7 +601,9 @@
   "662c632d3d2220af",
   "oilshockcouldbeworsethanthefirsttreasurywarns",
   "3d41ae3f01c1cdd4",
-  "usequityindexesmixedastechheadslowercrudeoilsinksonpauseinir"
+  "usequityindexesmixedastechheadslowercrudeoilsinksonpauseinir",
+  "c910745f641b6f76",
+  "updateusequityindexesmixedastechheadslowercrudeoilsinksonpau"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T20:50:17.392068+03:00",
+ "last_run": "2026-07-27T20:55:19.376890+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-07-27",
    "t": "US Equity Indexes Mixed as Tech Heads Lower, Crude Oil Sinks on Pause in Iran Strikes - marketscreener.com"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Update: US Equity Indexes Mixed as Tech Heads Lower, Crude Oil Sinks on Pause in Iran Strikes - Moomoo"
   }
  ]
 }
