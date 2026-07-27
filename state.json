@@ -4,12 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "d2682dfc2333b973",
-  "redseashippingslowsafterhouthiattacksonsaudioilsites",
-  "968f0d98682e5d43",
-  "sharesbondsbounceinasiaasoilskids",
-  "62fa627d7f86c737",
-  "mideastoilmaysoonhavenowayoutamideverythingeverywhereallaton",
   "3a0b3462528234bd",
   "oilpricesdipover6afterusiranpausefightingoverweekend",
   "c027f1ccab7966a0",
@@ -603,7 +597,13 @@
   "b2c14f5900e16f97",
   "crudeoilbuysitsfourthpeaceoftheyearwhilethetankersstayparked",
   "5382120a8bbb0818",
-  "saudiarabiablamesiranbackedmilitiasforattackonoilfacilities"
+  "saudiarabiablamesiranbackedmilitiasforattackonoilfacilities",
+  "9212ff80de5a7c33",
+  "chinascrudeoilimportssurge",
+  "d605ceeacb85e18d",
+  "usstocksendmostlyhigherascoolingoilpricesliftshares",
+  "040336f81f95828f",
+  "crudeoilplungesafteruspausesiranstrikestrumpsayshavinggoodta"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 6
+  "count": 7
  },
- "last_run": "2026-07-28T02:35:14.362057+03:00",
+ "last_run": "2026-07-28T02:40:19.790287+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
