@@ -4,10 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "5ca688aab3b376bc",
-  "currentpriceofoilasofjuly62026",
-  "0bfb0a2f8b9d62c3",
-  "wticrudeoilhits90forthefirsttimeinsixweeks",
   "7c17c4b23b829f25",
   "currentpriceofoilasofjuly92026",
   "4bfa050e398d160f",
@@ -603,7 +599,11 @@
   "31c7874301b71f53",
   "futuresjumpasoilplungeeasesratefearsandfocusturnstomegacapea",
   "16b1c781bd56acb2",
-  "russiasaysfuelcrisisiseasingasrefineriesrestart"
+  "russiasaysfuelcrisisiseasingasrefineriesrestart",
+  "4dd28b76319f8978",
+  "oilpricesnearoneweeklowafterusiranpausefightingoverweekend",
+  "fd0e1e245aaa6363",
+  "crudeoilpriceforecastwtiandbrentpullbackasusirannegotiations"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T16:30:23.273295+03:00",
+ "last_run": "2026-07-27T16:35:16.111953+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1076,6 +1076,10 @@
   {
    "d": "2026-07-27",
    "t": "Russia Says Fuel Crisis Is Easing as Refineries Restart"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil prices near one-week low after US, Iran pause fighting over weekend - Reuters"
   }
  ]
 }
