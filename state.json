@@ -4,12 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "64e9e447ab56f625",
-  "mideasttensionsraiseidahogasprices",
-  "bda3e70b18bdf786",
-  "lebanonsprimeministervisitsiraqfortalksonfueloilandeconomicc",
-  "f5b841ff64350e68",
-  "saudicrudeoilexportsleftwithonlyonekeyrouteasanalystswarnofr",
   "01f2f4898382b92c",
   "fromthestraitofhormuztothenorthseaaglobalmaritimewarragesaro",
   "9f6b19090c4e93c6",
@@ -603,7 +597,13 @@
   "61f287269bd7cd82",
   "vivakoradvanceshoustonoilremediationprocessingcentertowardco",
   "12e8d6c41c3fe601",
-  "goldrisesasoilretreatsonpauseinusiranstrikesfedratedecisioni"
+  "goldrisesasoilretreatsonpauseinusiranstrikesfedratedecisioni",
+  "cfaf8a0009d73e02",
+  "indianrefinerymrplbarscrudesuppliersfromhormuzredsearoutes",
+  "3e29953dde2c7c64",
+  "oilpricesdiveonuspausebutisthistimedifferent",
+  "b5d5b6db9158aae8",
+  "aaagaspricesrisingalongsidesummerdemandforfuel"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T17:25:14.220265+03:00",
+ "last_run": "2026-07-27T17:30:23.751085+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1120,6 +1120,10 @@
   {
    "d": "2026-07-27",
    "t": "Gold rises as oil retreats on pause in US-Iran strikes; Fed rate decision in focus - Reuters"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Indian Refinery MRPL Bars Crude Suppliers From Hormuz, Red Sea Routes"
   }
  ]
 }
