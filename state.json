@@ -4,10 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "c027f1ccab7966a0",
-  "europeansharesjumpasoildropsonusiranpauseinbusycentralbank",
-  "0373453ad9c426ea",
-  "oilfuturescruderowsbacksharplyasuspausesiranbombing",
   "628cd89339a292a9",
   "brentwticrudeoilpricesdropover5onusirandiplomaticthaw",
   "f386b412b6982149",
@@ -603,7 +599,11 @@
   "040336f81f95828f",
   "crudeoilplungesafteruspausesiranstrikestrumpsayshavinggoodta",
   "95b33d7507f9216e",
-  "isexxonmobilholdingsxomstillbelowfairvalueasoiltops80"
+  "isexxonmobilholdingsxomstillbelowfairvalueasoiltops80",
+  "95fb6443f7d99a3a",
+  "oilextendsdeclineasianstockssetforlossesmarketswrap",
+  "ece398d6863f9a80",
+  "saudiarabiadefendsagainstdronestrikesfromiranbackedgroups"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 7
+  "count": 8
  },
- "last_run": "2026-07-28T02:45:20.239776+03:00",
+ "last_run": "2026-07-28T02:50:14.455600+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
