@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 84.65,
+  "WTI": 82.87,
   "Brent": 89.71
  },
  "seen": [
-  "fff79dff052f0413",
-  "investorsbetonfederalreserverateriseafteroilpricesurge",
   "2aec007f2529dd35",
   "pmtakaichiemphasizessecurityofcrudeoilsuppliesinjapan",
   "53bfaab858e59947",
@@ -603,7 +601,9 @@
   "04299f64b425659f",
   "takaichistressessecurecrudeoilsuppliesasusiranwarspirals",
   "c99ec9400de5e047",
-  "goldclimbs1asusirantrucepressuresoilalleyesonfedmeeting"
+  "goldclimbs1asusirantrucepressuresoilalleyesonfedmeeting",
+  "1861292421ab6b59",
+  "bpshellandharbourenergyledfallsasoilpricesretreat"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T12:30:17.593526+03:00",
+ "last_run": "2026-07-27T12:35:13.712617+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
