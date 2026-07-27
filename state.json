@@ -4,14 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "99c6174bf0b275f7",
-  "crudeoilnear100putsusfedandpeersininterestratespotlight",
-  "ff9de5c5f9be3fd8",
-  "petroleumministeregyptscrudeoilproductionreacheshighestlevel",
-  "ec7f7a61adbaa7a3",
-  "stockmarketoutlookfedpolicycrudeoilpricesandq1earningstodriv",
-  "624e08d980f0da14",
-  "notjustgaspricesshoppersmayseehighercostsallovermoscow",
   "d002cb8bbc62fe50",
   "ukraineslongrangesanctionsarehavingrealimpactaustriancolonel",
   "0427168819256f14",
@@ -603,7 +595,15 @@
   "402b5d53ed6c53fb",
   "icecanolafallswithcrudeoil",
   "1577a60cf498503f",
-  "guyanaferrytragedyexposespoliticalriftsinoilrichcountry"
+  "guyanaferrytragedyexposespoliticalriftsinoilrichcountry",
+  "2cb498cd2858858f",
+  "oilpricessinkafterusandiranpausefightingasecondday",
+  "080a3b5734cb5d7d",
+  "usairlinestocksclimbinpremarketonloweroilprices",
+  "c07c750b4a0a03bf",
+  "stockmarkettodaydowsp500nasdaqriseasoiltumblesinvestorsbrace",
+  "ce6411c206572be5",
+  "dowsoarsover600pointscrudeoilpricesplummetamidapauseiniranst"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T17:10:15.929803+03:00",
+ "last_run": "2026-07-27T17:15:17.388449+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1092,6 +1092,14 @@
   {
    "d": "2026-07-27",
    "t": "Yemen’s Houthis claim drone attack on oil supply, transport points in Saudi Arabia - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil Prices Sink After U.S. and Iran Pause Fighting a Second Day - The New York Times"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Dow Soars Over 600 Points, Crude Oil Prices Plummet Amid A Pause In Iran Strikes - Stocktwits"
   }
  ]
 }
