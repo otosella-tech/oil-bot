@@ -606,16 +606,16 @@
   "indiansharesriseasoilpricesdropearningsseasonaddstooptimism"
  ],
  "releases_done": {},
- "last_digest": "2026-07-26",
+ "last_digest": "2026-07-27",
  "digest_prices": {
-  "WTI": 89.31,
-  "Brent": 96.78
+  "WTI": 84.72,
+  "Brent": 91.99
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 42
+  "count": 48
  },
- "last_run": "2026-07-27T07:55:13.707398+03:00",
+ "last_run": "2026-07-27T08:00:27.074454+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
