@@ -4,8 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "f54a5a0733d3419f",
-  "indiansharesriseasoilpricesdropearningsseasonaddstooptimism",
   "f7cd6e9cae797529",
   "govtbondsreboundaseasingusirantensionsdragcrudeoillower",
   "36bc66bcf486c5d5",
@@ -603,7 +601,9 @@
   "f545db17b77e7b4c",
   "oilpricesriseaftertrumpsaysiranwillpayforkillingusservicemem",
   "40630cc2e1a0d820",
-  "usequityindexesmixedaschipmakersdroppauseiniranstrikessinksc"
+  "usequityindexesmixedaschipmakersdroppauseiniranstrikessinksc",
+  "32378120e0e2421a",
+  "energysectortopurchaseoiloutsidethemiddleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 4
  },
- "last_run": "2026-07-28T00:35:11.999944+03:00",
+ "last_run": "2026-07-28T00:40:23.383452+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
