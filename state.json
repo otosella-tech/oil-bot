@@ -4,8 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "390d9e735df36b10",
-  "uscommercialcrudeoilstockpilespostweeklybuild",
   "1eb69cd9b8264e29",
   "kocsigns16billioninfrastructurepartnershiptosupport4mmbpdpro",
   "99d448101ddc898c",
@@ -603,7 +601,9 @@
   "9cd52eced6e70ae2",
   "pentagonsupplierswarnuswonthavemagnetcapacityby2027",
   "6a2593201669b8d9",
-  "stockswaveronwallstreetandcrudeoilpricesdrop5asmideasttensio"
+  "stockswaveronwallstreetandcrudeoilpricesdrop5asmideasttensio",
+  "b1e91157e6925389",
+  "oiltumblesasirananduspausestrikesoverstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T18:05:18.871478+03:00",
+ "last_run": "2026-07-27T18:10:15.145178+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1164,6 +1164,10 @@
   {
    "d": "2026-07-27",
    "t": "Pentagon Suppliers Warn U.S. Won't Have Magnet Capacity By 2027"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil tumbles as Iran and US pause strikes over Strait of Hormuz - Financial Times"
   }
  ]
 }
