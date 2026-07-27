@@ -4,8 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "f7fced98d040a957",
-  "argentinasoilproductionsoarsasvacamuertabreaksnewrecords",
   "56dd3023bcb090f3",
   "isexxonmobilholdingsxomstillbelowfairvaluefollowingoilprices",
   "d3e5712ae199cdb8",
@@ -603,7 +601,9 @@
   "13cfeada7b5c07b7",
   "dubaioiltraderseekstobecometopcreditorinbankruptcyofformerru",
   "28604fde59ac06de",
-  "oilmarketsareonedgeagain"
+  "oilmarketsareonedgeagain",
+  "05e56cff5475bc17",
+  "leakedukgridreportwarnsnetzeropushraisesblackoutrisks"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T18:55:14.670118+03:00",
+ "last_run": "2026-07-27T19:00:25.820206+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1176,6 +1176,10 @@
   {
    "d": "2026-07-27",
    "t": "Brent crude prices down, stock futures up amid pause in Iran war - upi.com"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Leaked UK Grid Report Warns Net Zero Push Raises Blackout Risks"
   }
  ]
 }
