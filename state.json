@@ -4,8 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "f500d6e84d9c6284",
-  "theusdollarandcrudeoilpulledbackmetalsshowedmixedperformance",
   "179e38bd0dbb6c6a",
   "globalcrudeoilpricesplungeupto7pcasusiranpausestrikes",
   "45f3742c88eb4be3",
@@ -603,7 +601,9 @@
   "33ebcc09ba7c7d12",
   "middleeastoilproducersstepupplanstobypassthestraitofhormuz",
   "50c7759f798b576a",
-  "crudeoilpricessinkonhopesforusirandiplomacy"
+  "crudeoilpricessinkonhopesforusirandiplomacy",
+  "caef2bdb16d2bc5c",
+  "stockmarkettodayjuly27dowrisesonoilretreatandsandiskplunges1"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 5
  },
- "last_run": "2026-07-28T00:50:19.849468+03:00",
+ "last_run": "2026-07-28T00:51:47.936340+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
