@@ -4,10 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "fc3912be3f0c3504",
-  "usequityindexesfallthisweekasmag7disappointbullstreasuryyiel",
-  "e4a24cf426bab299",
-  "theiranwarpushedoilpast100chinaandthefedcouldsenditlower",
   "f545db17b77e7b4c",
   "oilpricesriseaftertrumpsaysiranwillpayforkillingusservicemem",
   "cae0b5e1b33f6f9b",
@@ -603,7 +599,11 @@
   "6a1812749868f33f",
   "drcongooilcompanyoperationsposegravepollutionthreat",
   "9caf2fc7761fe42d",
-  "gasgroceriesandbacktoschoolitemsarewhereshoppersmightseehigh"
+  "gasgroceriesandbacktoschoolitemsarewhereshoppersmightseehigh",
+  "7fa7d14b4e93bba4",
+  "oilslips4afterusiranpausefightingoverweekend",
+  "724c3e179824d193",
+  "bankofenglandexpectedtoholdratesdespitejumpinoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-07-27T07:12:31.981765+03:00",
+ "last_run": "2026-07-27T07:15:13.434880+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -892,6 +892,10 @@
   {
    "d": "2026-07-27",
    "t": "Gold gains on pause in US-Iran fighting; Fed decision looms - Reuters"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil slips 4% after US, Iran pause fighting over weekend - Reuters"
   }
  ]
 }
