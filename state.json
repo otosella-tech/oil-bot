@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "fe75b21f8c7fd6d5",
-  "aconcernlasvegasgaspricesgoingbackupasworldeventsaffectoilco",
   "366f01e373835ea3",
   "trumphasnoremainingleverstopullasoilhoversnearthe100psycholo",
   "1130b1d9784634d7",
@@ -603,7 +601,9 @@
   "a718dec2b65afaae",
   "theusiranceasefiretriggeredasharpdropinoilpriceswithcommerzb",
   "be8eccd0028e7b02",
-  "oilsinksafteruspausesiranstrikesrevivinghopesfordiplomacy"
+  "oilsinksafteruspausesiranstrikesrevivinghopesfordiplomacy",
+  "9b26f7125e248ebf",
+  "indianrupeerecoversfurtherasusiranwarpausehitsoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T11:45:17.831243+03:00",
+ "last_run": "2026-07-27T11:50:15.308579+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -948,6 +948,10 @@
   {
    "d": "2026-07-27",
    "t": "Oil Sinks After U.S. Pauses Iran Strikes, Reviving Hopes for Diplomacy - WSJ"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Indian Rupee recovers further as US-Iran war pause hits oil prices - FXStreet"
   }
  ]
 }
