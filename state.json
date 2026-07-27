@@ -4,8 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "66a3f00855f2c3ee",
-  "lebanonseeksclosereconomictieswithiraqaspmsmeet",
   "f7fced98d040a957",
   "argentinasoilproductionsoarsasvacamuertabreaksnewrecords",
   "56dd3023bcb090f3",
@@ -603,7 +601,9 @@
   "9cf85a581b87a52d",
   "oilmarketsglutnarrativejustblewup",
   "13cfeada7b5c07b7",
-  "dubaioiltraderseekstobecometopcreditorinbankruptcyofformerru"
+  "dubaioiltraderseekstobecometopcreditorinbankruptcyofformerru",
+  "28604fde59ac06de",
+  "oilmarketsareonedgeagain"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T18:50:15.249279+03:00",
+ "last_run": "2026-07-27T18:55:14.670118+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
