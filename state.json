@@ -4,12 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "d35bc4deefe75eec",
-  "whyareukfuelpricesrisingagain",
-  "a5e455b536f462bc",
-  "wticrudeoilwillcalmholdafter92spike",
-  "de8736db25339f41",
-  "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikes",
   "0eb73b6ff5751e75",
   "onegreekshipownerbecomessignofoilmarketsgrowingstrain",
   "48560629fca13d66",
@@ -603,7 +597,13 @@
   "e578fc18c92acb0d",
   "thewinnersandlosersduringoilsworsttrafficjaminyears",
   "f80bee31526f491d",
-  "firstsmartificationprojectofoilfieldstobeimplementedindarkho"
+  "firstsmartificationprojectofoilfieldstobeimplementedindarkho",
+  "4989c9f07002c6f1",
+  "totalenergiestoappealcourtordertoadaptbusinesstoclimategoals",
+  "171fe3cc98fef7e1",
+  "potentialforfirstaustralianoilrefineryin60yearsastreasurerbr",
+  "e88d7cba730a12ca",
+  "oilmarketreportjuly2026analysis"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T18:25:16.475741+03:00",
+ "last_run": "2026-07-27T18:30:23.147460+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1168,6 +1168,10 @@
   {
    "d": "2026-07-27",
    "t": "Oil tumbles as Iran and US pause strikes over Strait of Hormuz - Financial Times"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Potential for first Australian oil refinery in 60 years as treasurer braces for inflation from Middle East war - The Guardian"
   }
  ]
 }
