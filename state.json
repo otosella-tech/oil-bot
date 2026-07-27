@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "bd5346d529000d61",
-  "germaneconomistssayeuropesoilsupplyissecure",
   "fe75b21f8c7fd6d5",
   "aconcernlasvegasgaspricesgoingbackupasworldeventsaffectoilco",
   "366f01e373835ea3",
@@ -603,7 +601,9 @@
   "ebcad92d18b0d8d8",
   "crudeoilfuturesdropnearly5onweakglobalcuesdemandconcerns",
   "a718dec2b65afaae",
-  "theusiranceasefiretriggeredasharpdropinoilpriceswithcommerzb"
+  "theusiranceasefiretriggeredasharpdropinoilpriceswithcommerzb",
+  "be8eccd0028e7b02",
+  "oilsinksafteruspausesiranstrikesrevivinghopesfordiplomacy"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T11:40:17.501242+03:00",
+ "last_run": "2026-07-27T11:45:17.831243+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -944,6 +944,10 @@
   {
    "d": "2026-07-27",
    "t": "The U.S.-Iran ceasefire triggered a sharp drop in oil prices, with Commerzbank stating that the geopolitical risk premium remains underpriced. - Moomoo"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil Sinks After U.S. Pauses Iran Strikes, Reviving Hopes for Diplomacy - WSJ"
   }
  ]
 }
