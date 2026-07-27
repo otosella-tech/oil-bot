@@ -4,8 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "f545db17b77e7b4c",
-  "oilpricesriseaftertrumpsaysiranwillpayforkillingusservicemem",
   "29294180aabd7d2a",
   "indiabeginsdrillinginmahanadioffshorebasinforoilandgasindeep",
   "8d3e8a2e4a5229df",
@@ -603,7 +601,9 @@
   "724c3e179824d193",
   "bankofenglandexpectedtoholdratesdespitejumpinoilprices",
   "61df168d6e102d96",
-  "cmewticrudeoilfuturesslide7asusirantensionsease"
+  "cmewticrudeoilfuturesslide7asusirantensionsease",
+  "57e8fd9b36d60d8f",
+  "macquariewarnsofoilsurplusriskfrompotentialusirandeal"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 1
+  "count": 2
  },
- "last_run": "2026-07-28T00:15:16.095648+03:00",
+ "last_run": "2026-07-28T00:20:16.477782+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
