@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "9825e2b64c31852e",
-  "crudeoildownover4verizonraisesearningsforecast",
   "09013527b44a4b5c",
   "crudeoilpricesfallaswtidropsto8977brentto9193",
   "972c1e11101047d4",
@@ -603,7 +601,9 @@
   "80ed82061946113d",
   "scandalrocksiranssecretoilmoneynetworkasbillionsgomissing",
   "5bc538ca6fbdc0b6",
-  "currentpriceofoilasofjuly152026"
+  "currentpriceofoilasofjuly152026",
+  "d69c602bbe4f306f",
+  "goldmansachsforecasts120brentcrudeoilbyq42026amidglobalinsta"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 20
  },
- "last_run": "2026-07-27T04:15:15.326065+03:00",
+ "last_run": "2026-07-27T04:20:15.482975+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
