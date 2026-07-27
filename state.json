@@ -4,14 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "78837137a3e80a44",
-  "kuwaitsigns16billionoilpipelinedealwithblackstonekkrandbrook",
-  "7609fdd7502460a2",
-  "aglobaleconomyjoltedbyanoilshocknowgetsatariffreminder",
-  "f72cf815a76f57dd",
-  "oilmarketsfacecostsofiranwarthearkansasdemocrat",
-  "317595f87a3fc961",
-  "kuwaitskpcsigns16billionleaseandleasebackdealforoilpipelinen",
   "551c33f95fa425db",
   "bayareagaspricessurge",
   "bd5346d529000d61",
@@ -603,7 +595,15 @@
   "41301909648cffc4",
   "bankofenglandtokeepratesteadydespiteoilandgaspricerebound",
   "d826f337bf3d3b2b",
-  "crudeoilfuturesfallonweakglobalcues"
+  "crudeoilfuturesfallonweakglobalcues",
+  "50ae6d3da2ff9b11",
+  "europeannaturalgaspricesplunge8asus",
+  "4bc083474c6dd1a6",
+  "oilpricesdropafterusiranpausefightingoverweekend",
+  "47b102dbcf49bbea",
+  "oilpricesslideusfuturesrallyafterusiranpauseattacks",
+  "ebcad92d18b0d8d8",
+  "crudeoilfuturesdropnearly5onweakglobalcuesdemandconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T11:25:12.979963+03:00",
+ "last_run": "2026-07-27T11:30:22.060364+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -928,6 +928,18 @@
   {
    "d": "2026-07-27",
    "t": "Crude oil prices fall 5% after US-Iran pause strikes; Brent crude at $91 per barrel - livemint.com"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "European Natural Gas Prices Plunge 8% as U.S.-Iran Tensions Ease"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil prices drop after US, Iran pause fighting over weekend - Reuters"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil Prices Slide, U.S. Futures Rally after U.S., Iran Pause Attacks - WSJ"
   }
  ]
 }
