@@ -4,12 +4,6 @@
   "Brent": 89.71
  },
  "seen": [
-  "2aec007f2529dd35",
-  "pmtakaichiemphasizessecurityofcrudeoilsuppliesinjapan",
-  "53bfaab858e59947",
-  "expertsaysoilpricescouldgohigherasiranwarescalates",
-  "41dc794a052fa535",
-  "cpctoraisedomesticgasolinedieselpricesnextweek",
   "5599c79f5e1d50a2",
   "georgeanswersyourquestionsthewartheoilcrisisandamericanpolit",
   "d0ef88c0b1011c37",
@@ -603,7 +597,13 @@
   "c99ec9400de5e047",
   "goldclimbs1asusirantrucepressuresoilalleyesonfedmeeting",
   "1861292421ab6b59",
-  "bpshellandharbourenergyledfallsasoilpricesretreat"
+  "bpshellandharbourenergyledfallsasoilpricesretreat",
+  "a742a645420e64c9",
+  "redseatankertrafficfallstomulti",
+  "3df6ed0215c7a5dd",
+  "oilpricesdropafterusandiranpausefightingforasecondday",
+  "b41399ad1263fddc",
+  "stockmarkettodaydowsp500nasdaqfuturesriseasoilfallsinvestors"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T12:35:13.712617+03:00",
+ "last_run": "2026-07-27T12:40:14.995048+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -976,6 +976,14 @@
   {
    "d": "2026-07-27",
    "t": "Gold climbs 1% as U.S.-Iran truce pressures oil; all eyes on Fed meeting - Reuters"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Red Sea Tanker Traffic Falls to Multi-Month Low After Houthi Threats"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil Prices Drop After U.S. and Iran Pause Fighting for a Second Day - The New York Times"
   }
  ]
 }
