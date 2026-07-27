@@ -4,12 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "15585fed2865a611",
-  "soyouwanttolosemoneyspeculatingonoil",
-  "e578fc18c92acb0d",
-  "thewinnersandlosersduringoilsworsttrafficjaminyears",
-  "ed7c3f6876224c97",
-  "dowfallsover500pointstrumpslatestiranthreatsendscrudeoilpric",
   "f8625ebdfaeb39d7",
   "kuwaitsigns16billionpipelineinfrastructuredealwithblackstone",
   "73f2479d36234084",
@@ -603,7 +597,13 @@
   "29384886f4de612f",
   "oilpricesplungeandstocksriseafteruspausesattacksoniranabcnew",
   "7335af6057fac622",
-  "sprcrudeoilacquisitionprocedures"
+  "sprcrudeoilacquisitionprocedures",
+  "7819475d86497105",
+  "oilpricessurgeto100perbarrelafterredseaattacks",
+  "59131bf48ea72002",
+  "dollarpressuredbyweaknessincrudeoil",
+  "54eb7efa66b5809b",
+  "spmaintainsoilandgaspriceforecastsamidrenewedsupplydisruptio"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T17:45:18.032445+03:00",
+ "last_run": "2026-07-27T17:50:15.037282+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1148,6 +1148,10 @@
   {
    "d": "2026-07-27",
    "t": "Oil prices plunge and stocks rise after US pauses attacks on Iran - ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil prices surge to $100 per barrel after Red Sea attacks - NBC News"
   }
  ]
 }
