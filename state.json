@@ -4,8 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "04b06ce301d5f144",
-  "brentcrudeoilstopsitslossesatakeytechnicalsupportanalysis270",
   "ab095e26d9088871",
   "oilfallsonreportpakistanispushingfornewusirantalkswithchinas",
   "38ed7c096d0e95df",
@@ -603,7 +601,9 @@
   "a8d465579a929dc3",
   "stocksdriftonwallstreetandcrudeoilpricesdropasmideasttension",
   "c1f490560f1ba683",
-  "cbotreviewsoybeansgrainsfallwithcrudeoilmanitobaco"
+  "cbotreviewsoybeansgrainsfallwithcrudeoilmanitobaco",
+  "210e6ec83b96d9a1",
+  "trumpsaysushassoldmorethan13billionofvenezuelaoilsincemaduro"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T23:20:17.695936+03:00",
+ "last_run": "2026-07-27T23:25:14.796816+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-07-27",
    "t": "Oil price tumbles as Iran and US pause strikes over Strait of Hormuz - Financial Times"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture - CNBC"
   }
  ]
 }
