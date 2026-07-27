@@ -4,12 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "d348fa46b780973f",
-  "saudiarabiasvastoilsuppliesnowincreasinglydependonasingleexi",
-  "84d4cdd28d5d2993",
-  "opecreportsaysglobalelectricitydemandisprojectedtorisefrom32",
-  "cb1bf689e23d7f35",
-  "aramcooffersmorecrudeoilcargoesfrommediterraneanamidredseath",
   "6d96f3a0242df5ce",
   "oilpricesjumpfollowingthelatestfightinginthemiddleeastwhilea",
   "33ebcc09ba7c7d12",
@@ -603,7 +597,13 @@
   "bad7510cf2684b3a",
   "sourcekazakhstansdailycrudeoilproductionhasbeencutinhalfafte",
   "bc7969ecf632caab",
-  "whythegulfsoilexportfutureliesinsoutheastasia"
+  "whythegulfsoilexportfutureliesinsoutheastasia",
+  "a73045de9270a66b",
+  "yemenshouthisclaimtheirdronestargetedsaudicrudeoiltransporta",
+  "117e1605b4de0aec",
+  "cpcterminaltoresumekazakhoilexportsafterdronepause",
+  "03de3c22e45a56b1",
+  "fromhormuztothepumpwhyoilpriceshockshitconsumersdifferentlya"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T16:10:16.846663+03:00",
+ "last_run": "2026-07-27T16:15:17.704197+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1056,6 +1056,14 @@
   {
    "d": "2026-07-27",
    "t": "Here we go again. Why oil keeps tumbling even when the Iran war drags on - CNN"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Yemen’s Houthis claim their drones targeted Saudi crude oil transportation infrastructure - The Times of Israel"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "CPC Terminal to Resume Kazakh Oil Exports After Drone Pause - Bloomberg.com"
   }
  ]
 }
