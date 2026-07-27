@@ -4,8 +4,6 @@
   "Brent": 87.88
  },
  "seen": [
-  "9b551df9e5544c2b",
-  "hormuzrisksescalateagainoilpricesreturnto100andgulfstatesacc",
   "8a8f7aec3c84f625",
   "thecarboncaptureboomisstartingtocrack",
   "fabdba084bb42d34",
@@ -603,7 +601,9 @@
   "a88362e09dee3c8c",
   "bitcoinholdsfirmashormuzhostilitiespausefedpreparesinterestr",
   "018346323dbd4c59",
-  "currentpriceofoilasofjuly222026"
+  "currentpriceofoilasofjuly222026",
+  "86e9663c9aeea5c5",
+  "gasolineinaustraliajumpstohighestlevelsincemarch"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T14:25:14.280473+03:00",
+ "last_run": "2026-07-27T14:30:19.734198+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
