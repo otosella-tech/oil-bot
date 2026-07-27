@@ -4,8 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "3a0b3462528234bd",
-  "oilpricesdipover6afterusiranpausefightingoverweekend",
   "c027f1ccab7966a0",
   "europeansharesjumpasoildropsonusiranpauseinbusycentralbank",
   "0373453ad9c426ea",
@@ -603,7 +601,9 @@
   "d605ceeacb85e18d",
   "usstocksendmostlyhigherascoolingoilpricesliftshares",
   "040336f81f95828f",
-  "crudeoilplungesafteruspausesiranstrikestrumpsayshavinggoodta"
+  "crudeoilplungesafteruspausesiranstrikestrumpsayshavinggoodta",
+  "95b33d7507f9216e",
+  "isexxonmobilholdingsxomstillbelowfairvalueasoiltops80"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 7
  },
- "last_run": "2026-07-28T02:40:19.790287+03:00",
+ "last_run": "2026-07-28T02:45:20.239776+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
