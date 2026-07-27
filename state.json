@@ -4,10 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "efd668f006a10855",
-  "currentpriceofoilasofjuly202026",
-  "a038fd9e91e1d63b",
-  "notjustgaspricesshoppersmayseehighercostsallover",
   "98ceff0723703f4a",
   "bureauoflandmanagementreportsrecordsecondquarteroilandgaslea",
   "93b58a8985468c41",
@@ -603,7 +599,11 @@
   "5f6526b1779843de",
   "temporarycalminiranconflictmasksriskofbroadermiddleeastwar",
   "8e2a4c81519ca7a3",
-  "iranbackediraqimilitiaslaunchdroneattackonsaudioilfacilities"
+  "iranbackediraqimilitiaslaunchdroneattackonsaudioilfacilities",
+  "ade0779d6e56d84f",
+  "yemenshouthisclaimdroneattackonoilsupplytransportpointsinsau",
+  "2b68109d621feffd",
+  "stocksopenhigheronwallstreetandcrudeoilpricesdrop6percentasm"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T17:00:28.097588+03:00",
+ "last_run": "2026-07-27T17:05:17.661132+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1088,6 +1088,10 @@
   {
    "d": "2026-07-27",
    "t": "Iran-backed Iraqi militias launch drone attack on Saudi oil facilities, says kingdom’s army - The Times of Israel"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Yemen’s Houthis claim drone attack on oil supply, transport points in Saudi Arabia - Anadolu Ajansı"
   }
  ]
 }
