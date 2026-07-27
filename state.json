@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "5cdbbf74f479ae06",
-  "crudeoilfuturessettledat8931",
   "0222eaa5243bbafc",
   "uscrudeoilinventoriesbuildashormuzshippingheadachedragson",
   "657d8d52f80bbb95",
@@ -603,7 +601,9 @@
   "74afbdfc4c690ace",
   "newstraitproblemusplayingwrongmovesongulfchessboardagain",
   "748684cb6315c7e9",
-  "goldgainsonpauseinusiranfightingfeddecisionlooms"
+  "goldgainsonpauseinusiranfightingfeddecisionlooms",
+  "3215cedb7cef1f6f",
+  "oilpricessinkasusiranpausefuelsfreshhormuzhopes"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 33
+  "count": 34
  },
- "last_run": "2026-07-27T06:25:12.421044+03:00",
+ "last_run": "2026-07-27T06:30:17.290754+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
