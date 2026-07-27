@@ -4,10 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "c4dcab6e28db98e1",
-  "howhighwilloilpricesgothistime",
-  "c67badc6e2821981",
-  "westasiaconflictusfedratedecisioncrudeoilpricestodrivemarket",
   "390d9e735df36b10",
   "uscommercialcrudeoilstockpilespostweeklybuild",
   "1eb69cd9b8264e29",
@@ -603,7 +599,11 @@
   "e9c4e3fdaaeb29aa",
   "oilpricestumbleasusandiranholdoffonstrikesoverweekend",
   "323c834fc6e54619",
-  "saudiarabiasaysitintercepteddronesfromiraqashouthistargetoil"
+  "saudiarabiasaysitintercepteddronesfromiraqashouthistargetoil",
+  "9cd52eced6e70ae2",
+  "pentagonsupplierswarnuswonthavemagnetcapacityby2027",
+  "6a2593201669b8d9",
+  "stockswaveronwallstreetandcrudeoilpricesdrop5asmideasttensio"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T17:55:23.823204+03:00",
+ "last_run": "2026-07-27T18:00:33.548518+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1160,6 +1160,10 @@
   {
    "d": "2026-07-27",
    "t": "Saudi Arabia says it intercepted drones from Iraq as Houthis target oil sites - France 24"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Pentagon Suppliers Warn U.S. Won't Have Magnet Capacity By 2027"
   }
  ]
 }
