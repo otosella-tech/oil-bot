@@ -4,18 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "a53945fa9b90819f",
-  "oilretreatsfrom100bblbutpostsstrongweeklygain",
-  "2c672fb57cc82889",
-  "treasuryyieldsretreat10yearstaysnearjanuary2025highs",
-  "5da7afb00ffff148",
-  "stockmarketsrecoverasoilretreatsal",
-  "d69c602bbe4f306f",
-  "goldmansachsforecasts120brentcrudeoilbyq42026amidglobalinsta",
-  "72ae2530bcfd9f33",
-  "northdakotaoilfetchedhighpremiuminmayforfirsttime40years",
-  "e008388996b50724",
-  "oilpricesdroponpakistansmovetorestartusirantalksmidtermsloom",
   "9825e2b64c31852e",
   "crudeoildownover4verizonraisesearningsforecast",
   "09013527b44a4b5c",
@@ -603,7 +591,19 @@
   "a840da05ef6fee21",
   "vivakorexpandsphysicalcrudeoilmarketingplatformtoover700mill",
   "0d96791f16d58dc3",
-  "tokyostocksopenhigheraftercrudeoilpricefallonmiddleeasthopes"
+  "tokyostocksopenhigheraftercrudeoilpricefallonmiddleeasthopes",
+  "782664774a1d7e37",
+  "crudeoilfuturesarepricingmarketadaptabilitynothopefuliranpea",
+  "5df7d2f02bbb39c3",
+  "oilpricesfallafterusandiranpausefightingforasecondday",
+  "84cb35e4984792b7",
+  "oilslips5afterusiranpausefightingoverweekend",
+  "ec052360ab87bdad",
+  "dowjonesfuturesriseoilpricesdiveoniranhopesappleleadsearning",
+  "80ed82061946113d",
+  "scandalrocksiranssecretoilmoneynetworkasbillionsgomissing",
+  "5bc538ca6fbdc0b6",
+  "currentpriceofoilasofjuly152026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-07-27T04:10:16.274250+03:00",
+ "last_run": "2026-07-27T04:15:15.326065+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -848,6 +848,18 @@
   {
    "d": "2026-07-27",
    "t": "Oil Prices Plunge 5% After U.S. and Iran Halt Attacks"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Crude oil futures are pricing market adaptability, not hopeful Iran peace - Reuters"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil Prices Fall After U.S. and Iran Pause Fighting for a Second Day - The New York Times"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil slips 5% after US, Iran pause fighting over weekend - Reuters"
   }
  ]
 }
