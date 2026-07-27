@@ -4,12 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "dfa91e4fa7263044",
-  "eusanctionsgeorgianbelarusianrefineriesforrussianoillinks",
-  "a9a258a49e98c367",
-  "spendingworriesweighontechshares",
-  "3b9c5ade37c9b46e",
-  "canadianfinancialcloselooniedowncrudeoilretreats",
   "db4530d0378a69cc",
   "howoilchaosonfourfrontsdriveswildswingsandsupplyfears",
   "e12d4c59656c1e1d",
@@ -603,7 +597,13 @@
   "ac0895950333cceb",
   "crudeoilfallsasusiranhaltweekendstrikes",
   "f545db17b77e7b4c",
-  "oilpricesriseaftertrumpsaysiranwillpayforkillingusservicemem"
+  "oilpricesriseaftertrumpsaysiranwillpayforkillingusservicemem",
+  "29294180aabd7d2a",
+  "indiabeginsdrillinginmahanadioffshorebasinforoilandgasindeep",
+  "8d3e8a2e4a5229df",
+  "oilfallsmorethan4asirananduspausestrikesoverstraitofhormuz",
+  "f54a5a0733d3419f",
+  "indiansharesriseasoilpricesdropearningsseasonaddstooptimism"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-07-27T07:35:12.840389+03:00",
+ "last_run": "2026-07-27T07:40:14.082755+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -900,6 +900,10 @@
   {
    "d": "2026-07-27",
    "t": "Oil prices rise after Trump says Iran will pay for killing U.S. service members - CNBC"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil falls more than 4% as Iran and US pause strikes over Strait of Hormuz - Financial Times"
   }
  ]
 }
