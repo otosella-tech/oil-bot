@@ -4,8 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "6462c74bdffbe7cf",
-  "brentoiltops100perbarrelastumblesforteslaandalphabetyankwall",
   "e4a824d05d3d25ae",
   "futuresriseoildivesamidirannews",
   "0a8ff463b3c2d761",
@@ -603,7 +601,9 @@
   "983f43432c95fa3d",
   "oilpricestumbleasusiranpausestrikes",
   "f85079458a9c114b",
-  "nvidias250billionopenaiguaranteeputsaicapexconcernsbackinfoc"
+  "nvidias250billionopenaiguaranteeputsaicapexconcernsbackinfoc",
+  "c151d70dc0cfd422",
+  "oilproductiondropsslightlyinmayminotdailynews"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T20:00:26.479526+03:00",
+ "last_run": "2026-07-27T20:05:19.374661+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
