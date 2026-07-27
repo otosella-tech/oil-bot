@@ -4,10 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "4bfa050e398d160f",
-  "globaloilpricehits100abarrelforfirsttimesincemay",
-  "4910d157d1a37961",
-  "burnhamisoblivioustotheloomingoilshock",
   "627a7b0f8b8e8ef9",
   "asianangledecadesoftalkzerobarrelsstoredwhycantaseanstockpil",
   "4b37fade8b6c4de5",
@@ -603,7 +599,11 @@
   "fd0e1e245aaa6363",
   "crudeoilpriceforecastwtiandbrentpullbackasusirannegotiations",
   "357d1dbc20c85372",
-  "oilpricestumbleaspauseinusiranfightingsparksmarketrelief"
+  "oilpricestumbleaspauseinusiranfightingsparksmarketrelief",
+  "011b4ac41351ac3d",
+  "crudeoilsinksaschinajoinsceasefirenegotiations",
+  "db032709c7b75b30",
+  "stocksopenhigheronwallstreetandcrudeoilpricesdrop6asmideastt"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T16:40:20.281082+03:00",
+ "last_run": "2026-07-27T16:45:16.233172+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
