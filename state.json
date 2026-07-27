@@ -4,10 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "b6b7c0bb515a273c",
-  "usjetfuelcostssoarasiranwarhitsairlinesagain",
-  "bb038df984465811",
-  "mideastoilmaysoonhavenowayoutamidwarsbutthecrisisinrefinedpr",
   "7198bbe57a922549",
   "saudioiltakesthelongroute",
   "92000dd7559d28aa",
@@ -603,7 +599,11 @@
   "ac2ea4d54522325b",
   "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths",
   "bfe9b454d5e9f3c2",
-  "galpboostsearningsadvancessinesrenewableprojects"
+  "galpboostsearningsadvancessinesrenewableprojects",
+  "1be4a604ccf9392a",
+  "stocksmixedoilandtreasuryyieldsdroponiranustruce",
+  "192c5ecb7a2eec02",
+  "nasdaqerasesgainsstocksmixedaschipnamesfallslideinoilcapslos"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T19:20:16.027062+03:00",
+ "last_run": "2026-07-27T19:25:13.236116+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1188,6 +1188,10 @@
   {
    "d": "2026-07-27",
    "t": "Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee - CNBC"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Stocks mixed, oil and Treasury yields drop on Iran-US truce - Reuters"
   }
  ]
 }
