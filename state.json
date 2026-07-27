@@ -4,8 +4,6 @@
   "Brent": 89.71
  },
  "seen": [
-  "3d6fedb9b4120b60",
-  "blackstonekkrandbrookfieldtakekuwaitpipelinesstakein16bndeal",
   "c1887e796950a975",
   "brusselssettosanctiongeorgiasonlyoilrefineryifitfailstostopu",
   "4f07707fcca8d9ab",
@@ -603,7 +601,9 @@
   "34f4a563841c796c",
   "thepoliticsofthelastbarrel",
   "560588072ef08452",
-  "oilpricesfallasuspausesstrikesoniranoverstraitofhormuz"
+  "oilpricesfallasuspausesstrikesoniranoverstraitofhormuz",
+  "6e0a55038974d2f4",
+  "egyptcrudeoutputhitstwoyearhighasexportsrise"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T11:55:12.012047+03:00",
+ "last_run": "2026-07-27T12:00:31.997121+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
