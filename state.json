@@ -4,12 +4,6 @@
   "Brent": 87.88
  },
  "seen": [
-  "368dcff14d317cdb",
-  "droneattackstyumenoilrefineryfirebreaksout",
-  "bc9258e526279894",
-  "conservationgroupsappealtohaltoilandgasleasinginalabamascone",
-  "abc19dbcd1962ca9",
-  "kuwaiticrudeoilpricedropsusd838perbarrelfananews",
   "fad9a4c77041e8d8",
   "vivakorexpandscrudeoilmarketingplatformbeyond700millioninann",
   "d3e1bbfdf279db3e",
@@ -603,7 +597,13 @@
   "5e30f19a2178d1e8",
   "globalstocksclimboilslidesafterpauseinmiddleeastfighting",
   "1780568ed2a54d24",
-  "globaloilpricesfallsharplyasbrentslumpsover13andwtidropsmore"
+  "globaloilpricesfallsharplyasbrentslumpsover13andwtidropsmore",
+  "c7cf8624682a7b9a",
+  "oilpricesslideasusandiranpausestrikestogivespacefordiplomacy",
+  "e9f550d3555b071e",
+  "adangerousnewphaseofwarisbreakingalltheoilmarketsconstraints",
+  "3158660e830aa9f7",
+  "crudeoiltops100abarrelasusstrategicpetroleumreserveshitlowes"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T12:55:14.126773+03:00",
+ "last_run": "2026-07-27T13:00:27.816952+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -992,6 +992,14 @@
   {
    "d": "2026-07-27",
    "t": "Oil prices plunge as US and Iran pause strikes over Strait of Hormuz - Euronews.com"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy - NBC News"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "A dangerous new phase of war is breaking all the oil market’s constraints - CNN"
   }
  ]
 }
