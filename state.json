@@ -4,14 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "7198bbe57a922549",
-  "saudioiltakesthelongroute",
-  "92000dd7559d28aa",
-  "withindustrywaryofarcticrefugealaskasowngovernmentplansalone",
-  "3d93ec49ce9ec721",
-  "democratskilledtrumps3bplantofilltheoilreserveat20abarrelin2",
-  "7b121a04b8006e00",
-  "oilhits87perbarrelagainafterlatestusstrikesoniranandloomingb",
   "43d4e50ff6ed3f7d",
   "dowjonesfuturesriseoilpricesdiveamidirannewsappleleadsearnin",
   "fd61797b8172b448",
@@ -603,7 +595,15 @@
   "1be4a604ccf9392a",
   "stocksmixedoilandtreasuryyieldsdroponiranustruce",
   "192c5ecb7a2eec02",
-  "nasdaqerasesgainsstocksmixedaschipnamesfallslideinoilcapslos"
+  "nasdaqerasesgainsstocksmixedaschipnamesfallslideinoilcapslos",
+  "45c7c4b4f2f5f3b6",
+  "chinatoresellfirstuslngcargoinayearinsteadofimportingit",
+  "3cc4d09aacc4bf03",
+  "lebanonoffersiraqtransitrouteforcrudeoiltobypassstraitofhorm",
+  "4bd88d6d1068a597",
+  "crudeoilfallssharplyusdurablegoodsordersincrease03injune",
+  "933a4e3912a78f27",
+  "icecanolafallingwithcrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T19:25:13.236116+03:00",
+ "last_run": "2026-07-27T19:30:19.537358+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1192,6 +1192,10 @@
   {
    "d": "2026-07-27",
    "t": "Stocks mixed, oil and Treasury yields drop on Iran-US truce - Reuters"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Lebanon offers Iraq transit route for crude oil to bypass Strait of Hormuz - thenationalnews.com"
   }
  ]
 }
