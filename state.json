@@ -4,16 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "cdc769b4c3a185fd",
-  "riversidecountygaspricesrisefor11thconsecutiveday",
-  "0080fcb94414ea95",
-  "oilrallylagsinitialwarsurgeastrumpselectioncalculuscapsprice",
-  "c8ee1a6d5c7f66a1",
-  "scientistswarnofpossibleinvasivespeciessuperspreadereventdue",
-  "73185e342b781b98",
-  "cananaiblackboxbetrustedtorunanuclearreactor",
-  "5099e2f7526eaf8f",
-  "lacountygaspricesincreasefor11thconsecutiveday",
   "ac072a4803de6a63",
   "goldandsilverrisewithcrudeoilasiranwarescalatesaitechdebthit",
   "c47b4c9fdf94bfc7",
@@ -603,7 +593,17 @@
   "7e317be974d5eb83",
   "kazakhstansdailyoiloutputhalvesafterexportterminalclosuresou",
   "9279a3aea7729dae",
-  "oilplungesbelow90onpauseinusiranhostilitiesdespitehouthithre"
+  "oilplungesbelow90onpauseinusiranhostilitiesdespitehouthithre",
+  "58a1efd8ad0c9fc7",
+  "oilpricesseelargestonedaydeclinesintwomonthsamidpauseinstrik",
+  "87ab2da22dda1111",
+  "occidentalpetroleumsharesdeclineasoilpricesretreat",
+  "1629a2043999053a",
+  "indiansharessnaplosingrunonoilslideearningsoptimism",
+  "bd9c10a0853be77d",
+  "bpsharesdeclineasloweroilpricesweighonenergysector",
+  "106de4b17863ecd7",
+  "oilpricesfallbacksharplyonrenewediranwarceasefirehopes"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T14:50:15.636683+03:00",
+ "last_run": "2026-07-27T14:55:15.978024+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1032,6 +1032,14 @@
   {
    "d": "2026-07-27",
    "t": "Oil plunges below $90 on pause in US-Iran hostilities despite Houthi threats - thenationalnews.com"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil prices see largest one-day declines in two months amid pause in strikes - MarketWatch"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil prices fall back sharply on renewed Iran war ceasefire hopes - Yahoo Finance UK"
   }
  ]
 }
