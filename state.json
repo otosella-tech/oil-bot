@@ -4,8 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "5df7d2f02bbb39c3",
-  "oilpricesfallafterusandiranpausefightingforasecondday",
   "84cb35e4984792b7",
   "oilslips5afterusiranpausefightingoverweekend",
   "ec052360ab87bdad",
@@ -603,7 +601,9 @@
   "da2be56d5cf55d32",
   "usgboundcaplinecrudeoilpipeflowsfalltoafourmonthlow",
   "11767ab02ee242e9",
-  "eveningupdateforcrudeoil27072026"
+  "eveningupdateforcrudeoil27072026",
+  "a74fcfa6fac0a43b",
+  "crudeoilfuturesarepricingmarketadaptabilitynothopefuliranpea"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T21:10:24.484261+03:00",
+ "last_run": "2026-07-27T21:15:21.787805+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
