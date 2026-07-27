@@ -4,8 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "01f2f4898382b92c",
-  "fromthestraitofhormuztothenorthseaaglobalmaritimewarragesaro",
   "9f6b19090c4e93c6",
   "indiancrudeoilpricesurges11to10333highestintwomonthsamidreds",
   "4c976e53f01e5da2",
@@ -603,7 +601,9 @@
   "3e29953dde2c7c64",
   "oilpricesdiveonuspausebutisthistimedifferent",
   "b5d5b6db9158aae8",
-  "aaagaspricesrisingalongsidesummerdemandforfuel"
+  "aaagaspricesrisingalongsidesummerdemandforfuel",
+  "063c0b072191c267",
+  "saudiarabiainterceptsdronestargetingoilfacilitiesblamesiranb"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T17:30:23.751085+03:00",
+ "last_run": "2026-07-27T17:35:14.263892+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1124,6 +1124,10 @@
   {
    "d": "2026-07-27",
    "t": "Indian Refinery MRPL Bars Crude Suppliers From Hormuz, Red Sea Routes"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Saudi Arabia intercepts drones targeting oil facilities, blames Iran-backed Iraqi militias - Ynetnews"
   }
  ]
 }
