@@ -4,12 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "321fd3793bef291d",
-  "crudeoilpriceshaventclimbedasmuchassomeexpectedinfivemonthso",
-  "a2c3b2ca3c9f489e",
-  "currentpriceofoilasofjuly102026",
-  "347ca0dd00236a0c",
-  "iranianoilministersaysitsold18bofoilduringwarceasefire",
   "64e9e447ab56f625",
   "mideasttensionsraiseidahogasprices",
   "bda3e70b18bdf786",
@@ -603,7 +597,13 @@
   "4cf6a9de96d2fffc",
   "crudeoilpriceanalysiswtibouncesoff50dayemaasstrikespause",
   "efd668f006a10855",
-  "currentpriceofoilasofjuly202026"
+  "currentpriceofoilasofjuly202026",
+  "70197af44e5aae4e",
+  "oilpriceseaseafterusandiranpausemilitarystrikes",
+  "61f287269bd7cd82",
+  "vivakoradvanceshoustonoilremediationprocessingcentertowardco",
+  "12e8d6c41c3fe601",
+  "goldrisesasoilretreatsonpauseinusiranstrikesfedratedecisioni"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T17:20:19.297551+03:00",
+ "last_run": "2026-07-27T17:25:14.220265+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -1108,6 +1108,18 @@
   {
    "d": "2026-07-27",
    "t": "Houthi group claims drone attacks on Saudi crude oil transport facilities - Xinhua"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Oil prices ease after US and Iran pause military strikes - FOX 10 Phoenix"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Vivakor Advances Houston Oil Remediation Processing Center Toward Commercial Operations - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "Gold rises as oil retreats on pause in US-Iran strikes; Fed rate decision in focus - Reuters"
   }
  ]
 }
