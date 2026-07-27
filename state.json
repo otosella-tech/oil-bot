@@ -4,12 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "b897e2b3bd5375c8",
-  "marketstakeabreathercrudeoilpricesretreat",
-  "82645717f9019b56",
-  "howthebabalmandabblockadethreathelpedpushoilbackabove100",
-  "e26a947c507133cc",
-  "amidhormuzcrisisiraqweighsitsfutureinopec",
   "04af05f76c047de6",
   "usequityindexesriseamidbroadbasedsectorrallywhilecrudeoildec",
   "a840da05ef6fee21",
@@ -603,7 +597,13 @@
   "f092dc14ebeb0abb",
   "jgbfuturesriseamidfallingcrudeoilprices",
   "d9a0964da59f0b16",
-  "whythelatestoilrallymaybefarfromover"
+  "whythelatestoilrallymaybefarfromover",
+  "109dbfec5ed3b43b",
+  "dollarpullsbackasusiranattackspauseoildrops",
+  "7670901a81a38013",
+  "sharesbondsbounceasoilskidoffersinflationrelief",
+  "d92890442c49409d",
+  "leeordersretentionofoilpricecapsuntilpriceuncertaintycomplet"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 12
+  "count": 13
  },
- "last_run": "2026-07-27T03:40:16.174174+03:00",
+ "last_run": "2026-07-27T03:46:39.076456+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
