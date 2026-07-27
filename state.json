@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "2c37bf81e77450af",
-  "saudiredseacrudeexportshavesank41sincemarchpeak",
   "9f821ca85ae97cb5",
   "whythelatestoilrallymaybefarfromover",
   "69b700da841b8d2c",
@@ -603,7 +601,9 @@
   "4416befb81df9260",
   "oilslipsmorethan5afteruspausesstrikesoniranbyreuters",
   "eceeb9280bfeab2d",
-  "oilslides5asiranreportedlysignalshalttoattacksifuspauseholds"
+  "oilslides5asiranreportedlysignalshalttoattacksifuspauseholds",
+  "e878bc36567e479d",
+  "oiltumblesasusandiranpausemilitarystrikes"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-27",
-  "count": 11
+  "count": 12
  },
- "last_run": "2026-07-27T03:15:15.198819+03:00",
+ "last_run": "2026-07-27T03:20:16.020111+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
