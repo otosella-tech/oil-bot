@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "551c33f95fa425db",
-  "bayareagaspricessurge",
   "bd5346d529000d61",
   "germaneconomistssayeuropesoilsupplyissecure",
   "fe75b21f8c7fd6d5",
@@ -603,7 +601,9 @@
   "47b102dbcf49bbea",
   "oilpricesslideusfuturesrallyafterusiranpauseattacks",
   "ebcad92d18b0d8d8",
-  "crudeoilfuturesdropnearly5onweakglobalcuesdemandconcerns"
+  "crudeoilfuturesdropnearly5onweakglobalcuesdemandconcerns",
+  "a718dec2b65afaae",
+  "theusiranceasefiretriggeredasharpdropinoilpriceswithcommerzb"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T11:30:22.060364+03:00",
+ "last_run": "2026-07-27T11:35:15.458101+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
@@ -940,6 +940,10 @@
   {
    "d": "2026-07-27",
    "t": "Oil Prices Slide, U.S. Futures Rally after U.S., Iran Pause Attacks - WSJ"
+  },
+  {
+   "d": "2026-07-27",
+   "t": "The U.S.-Iran ceasefire triggered a sharp drop in oil prices, with Commerzbank stating that the geopolitical risk premium remains underpriced. - Moomoo"
   }
  ]
 }
