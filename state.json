@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "3a87d069094a636a",
-  "currentpriceofoilasofjuly162026",
   "efb74c7222fde02f",
   "currentpriceofoilasofjuly172026",
   "ec763dae8f90fbcc",
@@ -603,7 +601,9 @@
   "6ad95846465e767e",
   "oilpricesfall5crudecoolsasusiranpausefuelshopesofdiplomaticb",
   "74bfc1cc7a80646c",
-  "oilpricesonjuly27brentcrudeslides5totradebelow90asusiranagre"
+  "oilpricesonjuly27brentcrudeslides5totradebelow90asusiranagre",
+  "65666f903880991a",
+  "whattoknowaboutusoilproductionandconsumptionin6charts"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 28
  },
- "last_run": "2026-07-27T05:05:35.907702+03:00",
+ "last_run": "2026-07-27T05:10:15.538085+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
