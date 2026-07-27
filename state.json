@@ -4,8 +4,6 @@
   "Brent": 89.73
  },
  "seen": [
-  "a7c1773c1a982e44",
-  "ssecompositeshanghaibenchmarkslidesto3814ascrudeoilsurgeabov",
   "e88d7cba730a12ca",
   "oilmarketreportjuly2026analysis",
   "97a8715919d94f59",
@@ -603,7 +601,9 @@
   "d186e84d665ace25",
   "polandconsidersrevivingfuelpricecapsaspumppricesremainunstab",
   "8fd52ed0791f5c2e",
-  "theoilmarketcrudeoilfuturesarepricingmarketadaptabilitynotho"
+  "theoilmarketcrudeoilfuturesarepricingmarketadaptabilitynotho",
+  "64e7ba86f689b233",
+  "theunitedstatesproducedmorecrudeoilthananyothercountryin2025"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 60
  },
- "last_run": "2026-07-27T15:15:18.668288+03:00",
+ "last_run": "2026-07-27T15:20:16.002611+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
