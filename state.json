@@ -4,8 +4,6 @@
   "Brent": 91.59
  },
  "seen": [
-  "a6dde941cc653b4d",
-  "stockmarkettodaycrudeoilslipsonnewhopesforpeacetalksheadline",
   "35e8b9c98b4657f1",
   "oilshipmentsareunderattackonmultiplefrontsasfightingescalate",
   "deaf9900e4372fd5",
@@ -603,7 +601,9 @@
   "53b267b9c3c75d4d",
   "wtiremainsheavilyofferednear8400amidhopesfordeescalationinus",
   "0d30745975e6025f",
-  "oilpricetodayjuly27crudeoildips5below95asuspausesstrikesonir"
+  "oilpricetodayjuly27crudeoildips5below95asuspausesstrikesonir",
+  "e5d5f56f4bfc1bc8",
+  "globalmarketcallgettingyinyangedbythelatestgulfwar"
  ],
  "releases_done": {},
  "last_digest": "2026-07-26",
@@ -615,7 +615,7 @@
   "date": "2026-07-27",
   "count": 30
  },
- "last_run": "2026-07-27T05:35:45.706416+03:00",
+ "last_run": "2026-07-27T05:40:15.229923+03:00",
  "sent_stories": [
   {
    "d": "2026-07-24",
