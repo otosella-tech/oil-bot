@@ -4,8 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "e751e68502a2bf2e",
-  "oilpricesfalltooneweeklowafteruspausesattacksoniran",
   "a126c7bf3acea51a",
   "usequityindexesmixedcrudeoilsinksinmiddaytrading",
   "c0895fd9cb17b405",
@@ -603,7 +601,9 @@
   "f7030d3fcf71e899",
   "usequityindexesmixedaschipmakersweighaheadofmag7resultscrude",
   "24f6d39b265fa72b",
-  "updateusequityindexesmixedaschipmakersweighaheadofmag7result"
+  "updateusequityindexesmixedaschipmakersweighaheadofmag7result",
+  "d83639acb6ea682f",
+  "theworldslargestsandbatteryisnowonline"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 5
  },
- "last_run": "2026-07-29T00:55:21.611012+03:00",
+ "last_run": "2026-07-29T01:00:29.913136+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
