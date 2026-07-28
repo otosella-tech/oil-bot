@@ -4,8 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "4dbc0a7e97ea1993",
-  "japaneyesforeignbankstoback33billionusnaturalgasinvestment",
   "31d49206e53d3357",
   "whichcountriesaremostexposedtohormuzcrisisfuelpriceswings",
   "c8f9002142031d00",
@@ -603,7 +601,9 @@
   "277ccc4c57a6544f",
   "cornfuturesdropascrudeoilfallsandtraderstakeprofitsbyinvesti",
   "8ee658ae2cfaa23a",
-  "africaslongestcrudeoilexportpipelineisntjusttakingindigenous"
+  "africaslongestcrudeoilexportpipelineisntjusttakingindigenous",
+  "2e9477874c4525b2",
+  "oilpricesplunge5afterusandiranhaltattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 10
+  "count": 11
  },
- "last_run": "2026-07-28T03:35:14.994164+03:00",
+ "last_run": "2026-07-28T03:40:21.512128+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
