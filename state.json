@@ -4,10 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "171fe3cc98fef7e1",
-  "potentialforfirstaustralianoilrefineryin60yearsastreasurerbr",
-  "e88d7cba730a12ca",
-  "oilmarketreportjuly2026analysis",
   "d35bc4deefe75eec",
   "whyareukfuelpricesrisingagain",
   "97a8715919d94f59",
@@ -603,7 +599,11 @@
   "1683ad1500b89432",
   "sinkingcrudeoilpricesweighonsugar",
   "829a6ffbdb942780",
-  "septemberwticrudeoilcontractclosesdown335or41settlesat7926pe"
+  "septemberwticrudeoilcontractclosesdown335or41settlesat7926pe",
+  "9ca3ef34189e3b9f",
+  "whyabigdropinoilpricesdidlittleatthegaspump",
+  "fa5f3c3046dee663",
+  "canadacommoditiesoilandgoldloweraspauseinusiranhostilitiesse"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T21:50:22.698835+03:00",
+ "last_run": "2026-07-28T21:55:20.186732+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
@@ -1232,6 +1232,10 @@
   {
    "d": "2026-07-28",
    "t": "Saudi Aramco Shuts 400,000-Bpd Refinery After Houthi Strike - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "Canada Commodities: Oil and Gold Lower as Pause in US-Iran Hostilities Seem to be Holding - Yahoo Finance"
   }
  ]
 }
