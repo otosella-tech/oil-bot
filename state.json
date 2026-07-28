@@ -4,8 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "e61896378d25658b",
-  "marketsmixedascrudeoilfalls",
   "e751e68502a2bf2e",
   "oilpricesfalltooneweeklowafteruspausesattacksoniran",
   "a126c7bf3acea51a",
@@ -603,7 +601,9 @@
   "997d7832c7335d59",
   "cubalackingfuelreliesoningenuitytodefytrumpsblockade",
   "f7030d3fcf71e899",
-  "usequityindexesmixedaschipmakersweighaheadofmag7resultscrude"
+  "usequityindexesmixedaschipmakersweighaheadofmag7resultscrude",
+  "24f6d39b265fa72b",
+  "updateusequityindexesmixedaschipmakersweighaheadofmag7result"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 3
+  "count": 5
  },
- "last_run": "2026-07-29T00:45:15.463554+03:00",
+ "last_run": "2026-07-29T00:50:20.562537+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1219,6 +1219,10 @@
   {
    "d": "2026-07-28",
    "t": "Saudi Arabia has a new, and pricier, workaround to export its oil - MarketWatch"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Update: US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Results, Crude Oil Drops Amid Halt in Middle East Strikes - Yahoo Finance"
   }
  ]
 }
