@@ -4,8 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "3a2304904618fbbe",
-  "oilreboundsasglobalsupplyrisksintensifylplfinancialcommentar",
   "fcccf1bc948039cc",
   "indianrupeegainsverticallyasoilpricessink",
   "277b2b11b195a62e",
@@ -603,7 +601,9 @@
   "1db5340a5a36f109",
   "renewabletuesdayozskipstheoilcrisis",
   "293df9797f0f4f06",
-  "redseatankertraffichitsmultimonthlowashouthithreatholds"
+  "redseatankertraffichitsmultimonthlowashouthithreatholds",
+  "13ca47632be8cc08",
+  "currentpriceofoilasofjuly282026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 56
  },
- "last_run": "2026-07-28T14:40:16.798919+03:00",
+ "last_run": "2026-07-28T14:45:15.670770+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
