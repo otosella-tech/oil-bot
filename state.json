@@ -4,10 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "6e0a55038974d2f4",
-  "egyptcrudeoutputhitstwoyearhighasexportsrise",
-  "2389c13b845489e1",
-  "oilpricesfallasexpectationsfordeescalationstrengthenafterthe",
   "fdc9a1fbd2f38f45",
   "rupeeextendsrallyonrbiinterventionoilslumptrippingstops",
   "3e07a457606fb609",
@@ -603,7 +599,11 @@
   "ffe1e2e5a392b8b8",
   "oilpricesextenddeclineasusandiranpauseattacks",
   "0db888c6fd3fb63d",
-  "trumpsabilitytotalkdownoilpricesisbeingtested"
+  "trumpsabilitytotalkdownoilpricesisbeingtested",
+  "560588072ef08452",
+  "oilpricesfallasuspausesstrikesoniranoverstraitofhormuz",
+  "bf4c4eeb2cb29853",
+  "asiansharesslipandsouthkoreaskospiindexsinks10onheavyselling"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 24
+  "count": 25
  },
- "last_run": "2026-07-28T07:50:13.875167+03:00",
+ "last_run": "2026-07-28T07:55:15.077529+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
