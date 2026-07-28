@@ -4,8 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "edf5ee6e9ef47893",
-  "usairlinestocksclimbinpremarketonloweroilpricesbyinvestingco",
   "cbd68ed3c1b093ad",
   "sensexgains776pointscrudeoilpricesfall7asusiranpausemilitary",
   "e9ff405529fc1606",
@@ -603,7 +601,9 @@
   "d3b16e494dc559a8",
   "theuaesdeparturewilltestopec",
   "2784c643ded7ab38",
-  "usstockfuturesloweraschipselloffdeepensinasia"
+  "usstockfuturesloweraschipselloffdeepensinasia",
+  "97fe65c569f36070",
+  "refinersrallyasstrongmarginsdrivedownstreamoutperformanceino"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 56
  },
- "last_run": "2026-07-28T15:20:17.657985+03:00",
+ "last_run": "2026-07-28T15:25:18.586013+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
