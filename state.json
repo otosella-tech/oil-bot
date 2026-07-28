@@ -4,8 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "983f43432c95fa3d",
-  "oilpricestumbleasusiranpausestrikes",
   "f85079458a9c114b",
   "nvidias250billionopenaiguaranteeputsaicapexconcernsbackinfoc",
   "c151d70dc0cfd422",
@@ -603,7 +601,9 @@
   "1367ae70438a1c56",
   "exxonmobilpipelinenamesdendyaspresident",
   "f9ba9ce37585d1ca",
-  "uscrudegasolineinventorieslikelyfelllastweekdistillatestocks"
+  "uscrudegasolineinventorieslikelyfelllastweekdistillatestocks",
+  "25429bd923f7587e",
+  "uscrudeoilinventoriesunexpectedlyrise"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 7
  },
- "last_run": "2026-07-29T01:15:21.869245+03:00",
+ "last_run": "2026-07-29T01:20:20.863020+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
