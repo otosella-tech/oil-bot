@@ -4,8 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "efe157833f9f94c4",
-  "dollarretreatsasoilslidesonmiddleeastpausefocusoncentralbank",
   "d75b8a18365995a0",
   "redseatankertrafficfallstomultimonthlowafterhouthithreats",
   "9d925a95c220f433",
@@ -603,7 +601,9 @@
   "ec49c28452f5185c",
   "oilpricessettleatlowestinoveraweekasuspausesattacksoniraneur",
   "95fd9585d8e09abb",
-  "aianxietysparkstechroutbroadselloffinasianmarkets"
+  "aianxietysparkstechroutbroadselloffinasianmarkets",
+  "14387f4d84da70f4",
+  "saudiarabiaweighshigherasiacrudepricesasredseashippingcostsr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 34
+  "count": 35
  },
- "last_run": "2026-07-28T09:25:12.535236+03:00",
+ "last_run": "2026-07-28T09:30:24.606636+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
