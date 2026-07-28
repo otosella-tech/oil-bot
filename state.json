@@ -4,8 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "001c1e22f1ca708f",
-  "newnorthseaoildrillingfacesdelayaftergearaccidentallydropped",
   "2f05f50a9be54785",
   "oilpricedivesasusandiranpauseattacks",
   "eb6e319c8230dec8",
@@ -603,7 +601,9 @@
   "f790eabcddd5ee28",
   "oilandgasmarketsperilousdilemma",
   "4e2ae5a4ad8a73b8",
-  "fourreasonsforthefallinwtiandbrentcrudeoilusindicespessimist"
+  "fourreasonsforthefallinwtiandbrentcrudeoilusindicespessimist",
+  "785b3200f79ff0f4",
+  "currentpriceofoilasofjuly272026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 45
  },
- "last_run": "2026-07-28T11:55:18.890761+03:00",
+ "last_run": "2026-07-28T12:00:30.070379+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
