@@ -4,10 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "a718dec2b65afaae",
-  "theusiranceasefiretriggeredasharpdropinoilpriceswithcommerzb",
-  "be8eccd0028e7b02",
-  "oilsinksafteruspausesiranstrikesrevivinghopesfordiplomacy",
   "9b26f7125e248ebf",
   "indianrupeerecoversfurtherasusiranwarpausehitsoilprices",
   "34f4a563841c796c",
@@ -603,7 +599,11 @@
   "2b123ea681187c0f",
   "oildropsmorethan2asapauseinusiranhostilitiesraisesdeescalati",
   "9cc3d5489356f801",
-  "australiaplansfirstdomesticoilrefineryin60yearstoboostfuelse"
+  "australiaplansfirstdomesticoilrefineryin60yearstoboostfuelse",
+  "d96e064712553c2e",
+  "indiaeconomicgrowthtoslowsharplyasweakinvestmentoilshockweig",
+  "4e62da3e6df46bb7",
+  "stocksmixedoilandtreasuryyieldsdroponiranuspause"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 21
+  "count": 22
  },
- "last_run": "2026-07-28T06:50:14.040040+03:00",
+ "last_run": "2026-07-28T06:55:17.549023+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
