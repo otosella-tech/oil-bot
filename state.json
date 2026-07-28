@@ -4,8 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "3e29953dde2c7c64",
-  "oilpricesdiveonuspausebutisthistimedifferent",
   "b5d5b6db9158aae8",
   "aaagaspricesrisingalongsidesummerdemandforfuel",
   "063c0b072191c267",
@@ -603,7 +601,9 @@
   "755b37c69459e3a2",
   "sugarpricesfallascrudeoilplunges",
   "fc675038639a9cfa",
-  "crudeoildownover5boeingsharesriseafterq2results"
+  "crudeoildownover5boeingsharesriseafterq2results",
+  "f8ffdc9d233ec5f7",
+  "oilpricesdeclinefurtheraftertrumpclaimsdeeptalkswithiranareu"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T19:35:15.207812+03:00",
+ "last_run": "2026-07-28T19:40:22.425239+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
@@ -1200,6 +1200,10 @@
   {
    "d": "2026-07-28",
    "t": "Tyumen oil refinery halts operations after drone attack - Reuters - Ukrinform"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "Oil prices decline further after Trump claims ‘deep talks’ with Iran are under way - MarketWatch"
   }
  ]
 }
