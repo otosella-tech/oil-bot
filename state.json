@@ -1,13 +1,9 @@
 {
  "price_base": {
-  "WTI": 81.2,
+  "WTI": 79.57,
   "Brent": 86.02
  },
  "seen": [
-  "8e2a4c81519ca7a3",
-  "iranbackediraqimilitiaslaunchdroneattackonsaudioilfacilities",
-  "ade0779d6e56d84f",
-  "yemenshouthisclaimdroneattackonoilsupplytransportpointsinsau",
   "2b68109d621feffd",
   "stocksopenhigheronwallstreetandcrudeoilpricesdrop6percentasm",
   "c5a4ad5c911505b7",
@@ -603,7 +599,11 @@
   "3404d7b23c1ac96f",
   "bigoilisrakinginbillionsfromtheiranwarcanitavoidtrumpsfury",
   "479f74566adbd304",
-  "opeclikelytopauseoiloutputhikesafterseptembersourcessay"
+  "opeclikelytopauseoiloutputhikesafterseptembersourcessay",
+  "7c7ecde536b0d3c2",
+  "hittingeurenewablestargetscouldslashgasdemandaquarterby2030",
+  "63e208afc7f44f21",
+  "oilpricesretreatbutthestraitofhormuzremainsthewildcard"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T18:25:17.523864+03:00",
+ "last_run": "2026-07-28T18:30:26.709554+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
@@ -1176,6 +1176,10 @@
   {
    "d": "2026-07-28",
    "t": "OPEC+ likely to pause oil output hikes after September, sources say - Reuters"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "Oil Prices Retreat, But the Strait of Hormuz Remains the Wild Card"
   }
  ]
 }
