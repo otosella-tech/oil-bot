@@ -4,8 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "bc91407054a51ae8",
-  "oilfallsmorethan7asirananduspausestrikesoverstraitofhormuz",
   "04f81cb5684f0b2c",
   "oildivesover6aseasingusirantensionserasewardrivengains",
   "2c724a51826ae8fa",
@@ -603,7 +601,9 @@
   "a45d3cb443e41660",
   "thenextfortknoxwhythearmyisgoingall",
   "6a9a57188f9a2690",
-  "dowjonesfuturesusiranpeacehopessendoilpricesplungingnvidiami"
+  "dowjonesfuturesusiranpeacehopessendoilpricesplungingnvidiami",
+  "b78a8f50c046697e",
+  "macquariewarnsofoilglutasusirantensionsease"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 8
+  "count": 9
  },
- "last_run": "2026-07-28T03:00:28.002038+03:00",
+ "last_run": "2026-07-28T03:05:18.431114+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
