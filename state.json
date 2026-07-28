@@ -4,12 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "2cb498cd2858858f",
-  "oilpricessinkafterusandiranpausefightingasecondday",
-  "080a3b5734cb5d7d",
-  "usairlinestocksclimbinpremarketonloweroilprices",
-  "c07c750b4a0a03bf",
-  "stockmarkettodaydowsp500nasdaqriseasoiltumblesinvestorsbrace",
   "ce6411c206572be5",
   "dowsoarsover600pointscrudeoilpricesplummetamidapauseiniranst",
   "4939896cd3908632",
@@ -603,7 +597,13 @@
   "0febf22a5fd92d21",
   "crudeoilpricespressuredbyoptimismoverirannegotiations",
   "56f31490a98b37a9",
-  "whydogaspricesvarysomuchthroughoutcoloradosprings"
+  "whydogaspricesvarysomuchthroughoutcoloradosprings",
+  "2223e214e54fb610",
+  "crudeoilvolatilityincontext",
+  "0f652a71ea2b9525",
+  "oilfuturescrudeextendslossesasusirantalksresume",
+  "bf643a244efd8928",
+  "goldsilverriseasoilslidesonusiranpause"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T18:45:17.456675+03:00",
+ "last_run": "2026-07-28T18:50:19.483750+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
