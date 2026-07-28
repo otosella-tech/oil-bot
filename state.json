@@ -4,8 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "2b68109d621feffd",
-  "stocksopenhigheronwallstreetandcrudeoilpricesdrop6percentasm",
   "c5a4ad5c911505b7",
   "stocksopenhigheronwallstreetandcrudeoilpricesdrop5asmideastt",
   "bf643a244efd8928",
@@ -603,7 +601,9 @@
   "7c7ecde536b0d3c2",
   "hittingeurenewablestargetscouldslashgasdemandaquarterby2030",
   "63e208afc7f44f21",
-  "oilpricesretreatbutthestraitofhormuzremainsthewildcard"
+  "oilpricesretreatbutthestraitofhormuzremainsthewildcard",
+  "3ccef0a50b96f4b9",
+  "uscrudeoilfallsbelow80asirandiscussesstraitofhormuzwithsaudi"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T18:35:19.951653+03:00",
+ "last_run": "2026-07-28T18:40:17.756433+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
@@ -1180,6 +1180,10 @@
   {
    "d": "2026-07-28",
    "t": "Oil Prices Retreat, But the Strait of Hormuz Remains the Wild Card"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "U.S. crude oil falls below $80 as Iran discusses Strait of Hormuz with Saudi Arabia and Oman - CNBC"
   }
  ]
 }
