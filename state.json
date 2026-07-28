@@ -4,10 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "4bd88d6d1068a597",
-  "crudeoilfallssharplyusdurablegoodsordersincrease03injune",
-  "933a4e3912a78f27",
-  "icecanolafallingwithcrudeoil",
   "68ed5080aa0c1c41",
   "sugarpricesretreatascrudeoilplunges",
   "e61896378d25658b",
@@ -603,7 +599,11 @@
   "4d54eb5b955f6b86",
   "crudeoilpriceforecastkeysupportzonecomesintofocus",
   "85fd23f8334b8de8",
-  "houthisclaimstrikeonanothersaudioiltanker"
+  "houthisclaimstrikeonanothersaudioiltanker",
+  "149bca759b266e36",
+  "exxonmobilpipelinecompanynamesdendyaspresident",
+  "997d7832c7335d59",
+  "cubalackingfuelreliesoningenuitytodefytrumpsblockade"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 3
  },
- "last_run": "2026-07-29T00:30:25.539519+03:00",
+ "last_run": "2026-07-29T00:35:18.999594+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
