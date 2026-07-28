@@ -4,8 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "d75b8a18365995a0",
-  "redseatankertrafficfallstomultimonthlowafterhouthithreats",
   "9d925a95c220f433",
   "oilpricesplungeasusandiranpausestrikesoverstraitofhormuz",
   "5e30f19a2178d1e8",
@@ -603,7 +601,9 @@
   "95fd9585d8e09abb",
   "aianxietysparkstechroutbroadselloffinasianmarkets",
   "14387f4d84da70f4",
-  "saudiarabiaweighshigherasiacrudepricesasredseashippingcostsr"
+  "saudiarabiaweighshigherasiacrudepricesasredseashippingcostsr",
+  "1b730a05dcf417a4",
+  "oilatoneweeklowasusandiranpauseattacksupplytensionunderpinse"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-07-28T09:35:21.257749+03:00",
+ "last_run": "2026-07-28T09:40:14.982736+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
@@ -1120,6 +1120,10 @@
   {
    "d": "2026-07-28",
    "t": "Oil prices extend decline as US and Iran pause attacks - Reuters"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "Oil at one-week low as US and Iran pause attack; supply tension underpins - Euronext Markets: Real-time Stock Market Data | live"
   }
  ]
 }
