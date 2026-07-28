@@ -4,8 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "4989c9f07002c6f1",
-  "totalenergiestoappealcourtordertoadaptbusinesstoclimategoals",
   "171fe3cc98fef7e1",
   "potentialforfirstaustralianoilrefineryin60yearsastreasurerbr",
   "e88d7cba730a12ca",
@@ -603,7 +601,9 @@
   "390d9e735df36b10",
   "uscommercialcrudeoilstockpilespostweeklybuild",
   "1683ad1500b89432",
-  "sinkingcrudeoilpricesweighonsugar"
+  "sinkingcrudeoilpricesweighonsugar",
+  "829a6ffbdb942780",
+  "septemberwticrudeoilcontractclosesdown335or41settlesat7926pe"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T21:40:27.532265+03:00",
+ "last_run": "2026-07-28T21:45:15.976331+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
