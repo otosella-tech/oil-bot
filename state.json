@@ -4,10 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "7819475d86497105",
-  "oilpricessurgeto100perbarrelafterredseaattacks",
-  "59131bf48ea72002",
-  "dollarpressuredbyweaknessincrudeoil",
   "54eb7efa66b5809b",
   "spmaintainsoilandgaspriceforecastsamidrenewedsupplydisruptio",
   "e9c4e3fdaaeb29aa",
@@ -603,7 +599,11 @@
   "83754efc09ce5b99",
   "usstrategicpetroleumreservefacesstressasemergencyreleasesstr",
   "06f6d5e1def1e3e2",
-  "dowrallieswhilechipstocksslide"
+  "dowrallieswhilechipstocksslide",
+  "427f72bdddca304b",
+  "opecisabouttopauseoiloutputhikeshereswhatitmeansforoilstocks",
+  "f18a326e21fb8291",
+  "usequityindexesmixedaschipmakersrestrainnasdaqcrudeoilslides"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T20:45:15.417628+03:00",
+ "last_run": "2026-07-28T20:50:31.370175+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-07-28",
    "t": "U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure - CNBC"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "OPEC+ Is About to Pause Oil Output Hikes. Here's What It Means for Oil Stocks. - The Motley Fool"
   }
  ]
 }
