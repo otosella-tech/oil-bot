@@ -4,12 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "bc21f21cc632ee5e",
-  "irishenergydistributoragreesto77billiontakeoverbykkr",
-  "9c935923d4592d3c",
-  "oilpricedropsbelow90asusandiranpausestrikes",
-  "785b3200f79ff0f4",
-  "currentpriceofoilasofjuly272026",
   "001c1e22f1ca708f",
   "newnorthseaoildrillingfacesdelayaftergearaccidentallydropped",
   "2f05f50a9be54785",
@@ -603,7 +597,13 @@
   "7f295cbfb08859c7",
   "japanbacksoverseasoilpipelinestoreducehormuzdependence",
   "13556c0e4faf6747",
-  "babelmandebtankerattackschallengealternativeoilroutes"
+  "babelmandebtankerattackschallengealternativeoilroutes",
+  "893ae62f7d2160e1",
+  "oilextendsfallonhopesofhormuzreopeningbutchipselloffdeepens",
+  "f790eabcddd5ee28",
+  "oilandgasmarketsperilousdilemma",
+  "4e2ae5a4ad8a73b8",
+  "fourreasonsforthefallinwtiandbrentcrudeoilusindicespessimist"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 44
+  "count": 45
  },
- "last_run": "2026-07-28T11:50:23.849193+03:00",
+ "last_run": "2026-07-28T11:55:18.890761+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
