@@ -1,13 +1,9 @@
 {
  "price_base": {
-  "WTI": 77.83,
+  "WTI": 80.21,
   "Brent": 84.21
  },
  "seen": [
-  "a126c7bf3acea51a",
-  "usequityindexesmixedcrudeoilsinksinmiddaytrading",
-  "c0895fd9cb17b405",
-  "bakerhughesflagslowerspendingbyoilandgasproducersin2026",
   "828cc5e78f6ea76c",
   "standardcharteredoilmarketsmustnowpricetwomiddleeastchokepoi",
   "983f43432c95fa3d",
@@ -603,7 +599,11 @@
   "24f6d39b265fa72b",
   "updateusequityindexesmixedaschipmakersweighaheadofmag7result",
   "d83639acb6ea682f",
-  "theworldslargestsandbatteryisnowonline"
+  "theworldslargestsandbatteryisnowonline",
+  "83a5517ee873a63c",
+  "militiasiniraqattacksaudioilfacilitiesforasecondday",
+  "1367ae70438a1c56",
+  "exxonmobilpipelinenamesdendyaspresident"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-07-29T01:05:14.989248+03:00",
+ "last_run": "2026-07-29T01:10:15.731416+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1223,6 +1223,10 @@
   {
    "d": "2026-07-29",
    "t": "Update: US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Results, Crude Oil Drops Amid Halt in Middle East Strikes - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Militias in Iraq Attack Saudi Oil Facilities for a Second Day - Bloomberg"
   }
  ]
 }
