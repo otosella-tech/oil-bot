@@ -4,8 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "323c834fc6e54619",
-  "saudiarabiasaysitintercepteddronesfromiraqashouthistargetoil",
   "9cd52eced6e70ae2",
   "pentagonsupplierswarnuswonthavemagnetcapacityby2027",
   "6a2593201669b8d9",
@@ -603,7 +601,9 @@
   "7819475d86497105",
   "oilpricessurgeto100perbarrelafterredseaattacks",
   "69b040f15a417c3c",
-  "euoilstocksreformunlikelytorevise90daystoragetargetsources"
+  "euoilstocksreformunlikelytorevise90daystoragetargetsources",
+  "a453318ec9a4cc53",
+  "centralasiaseeksnewtraderoutetopakistaniports"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T20:55:18.966549+03:00",
+ "last_run": "2026-07-28T21:00:30.807552+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
