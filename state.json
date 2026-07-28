@@ -4,12 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "e9f550d3555b071e",
-  "adangerousnewphaseofwarisbreakingalltheoilmarketsconstraints",
-  "3158660e830aa9f7",
-  "crudeoiltops100abarrelasusstrategicpetroleumreserveshitlowes",
-  "7122bfd73ca2b890",
-  "putinequateswesterninterceptionsofsanctionedvesselstopiracyd",
   "227823a62cf892b0",
   "crudeoilbenchmarksbrentwtisweetvssourlightvsheavybritannicam",
   "f6f3b4634c6b755e",
@@ -603,7 +597,13 @@
   "0a98c6cc8c68c9a0",
   "oilatoneweeklowasusandiranpauseattacksupplytensionunderpins",
   "4874951bb1e6c738",
-  "oilfuturescrudeextendslossesredseatensionseyed"
+  "oilfuturescrudeextendslossesredseatensionseyed",
+  "91a2bc2229a806d3",
+  "australiaeyesnewoilrefinerytoreducerelianceonimportedfuels",
+  "c7cf8624682a7b9a",
+  "oilpricesslideasusandiranpausestrikestogivespacefordiplomacy",
+  "0a5fe14dc6a3de6d",
+  "tokyoeyesliftingsupportforoverseasoilpipelineinvestments"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 39
+  "count": 40
  },
- "last_run": "2026-07-28T10:25:19.135101+03:00",
+ "last_run": "2026-07-28T10:30:18.364362+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
