@@ -4,14 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "d348fa46b780973f",
-  "saudiarabiasvastoilsuppliesnowincreasinglydependonasingleexi",
-  "a9ac2238308ee8a8",
-  "currentpriceofoilasofjuly242026",
-  "31c7874301b71f53",
-  "futuresjumpasoilplungeeasesratefearsandfocusturnstomegacapea",
-  "16b1c781bd56acb2",
-  "russiasaysfuelcrisisiseasingasrefineriesrestart",
   "4dd28b76319f8978",
   "oilpricesnearoneweeklowafterusiranpausefightingoverweekend",
   "fd0e1e245aaa6363",
@@ -603,7 +595,15 @@
   "cb1bf689e23d7f35",
   "aramcooffersmorecrudeoilcargoesfrommediterraneanamidredseath",
   "082722eb1be2125e",
-  "crudeoilpriceanalysiswtibouncesasbuyersdefend200dayema"
+  "crudeoilpriceanalysiswtibouncesasbuyersdefend200dayema",
+  "70ea8f7473fc8be0",
+  "oilmarketrapidlystripsoutiranwarpremium",
+  "dfbe5183ff663b8f",
+  "crudeoilpricesfallasiranpausepullsbrentandwtilower",
+  "c5ed1cd4a0190456",
+  "shelcvxoxycrudeoilpricesplunge10asiranfightingispaused",
+  "ca66cc1e56c916ec",
+  "forecastupdateforcrudeoil28072026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T17:10:19.347495+03:00",
+ "last_run": "2026-07-28T17:15:16.464739+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
@@ -1152,6 +1152,14 @@
   {
    "d": "2026-07-28",
    "t": "Britain Backs Ukraine With New Electronic Warfare Cooperation"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "Oil Market Rapidly Strips Out Iran War Premium - Rigzone"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "SHEL, CVX, OXY: Crude Oil Prices Plunge 10% as Iran Fighting Is Paused - TipRanks"
   }
  ]
 }
