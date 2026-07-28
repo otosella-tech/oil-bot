@@ -4,8 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "99b06c6b057401e8",
-  "irishenergydistributoragreesto77billiontakeoverbykkrledconso",
   "0d866c5845b5b46f",
   "currentpriceofoilasofjuly232026",
   "0a655272d423b2c8",
@@ -603,7 +601,9 @@
   "709a8cf218619317",
   "indianoilimportersfacedualchokepointchallengeinsecuringfutur",
   "67998a406ab94bbb",
-  "cypruslaunchesfirstgasprojectwitheniandtotalenergiesbacking"
+  "cypruslaunchesfirstgasprojectwitheniandtotalenergiesbacking",
+  "2f05f50a9be54785",
+  "oilpricedivesasusandiranpauseattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 45
+  "count": 46
  },
- "last_run": "2026-07-28T12:40:14.816286+03:00",
+ "last_run": "2026-07-28T12:45:15.916322+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
