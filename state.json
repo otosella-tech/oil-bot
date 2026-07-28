@@ -4,8 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "9f1b327ea7c46a36",
-  "oilpricestumblestocksettoriseamidpauseinusiranfighting",
   "64c4d45098b59c15",
   "oilpricesdiveasuspausesstrikesbutisthistimedifferent",
   "aa86ceeb420fd0d5",
@@ -603,7 +601,9 @@
   "86c34564ad6b345d",
   "whydidtrumpjustgivesaudiarabiathefasttracktoanuclearweapon",
   "27e4c38992e8959e",
-  "moneymattersuscrudeoilpricesnewcarstickerpricescyclosporaout"
+  "moneymattersuscrudeoilpricesnewcarstickerpricescyclosporaout",
+  "a6c8e94fca180aaf",
+  "brentcrudeoilisdownby514"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T20:05:12.409628+03:00",
+ "last_run": "2026-07-28T20:10:17.756426+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
