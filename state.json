@@ -4,8 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "4bc083474c6dd1a6",
-  "oilpricesdropafterusiranpausefightingoverweekend",
   "47b102dbcf49bbea",
   "oilpricesslideusfuturesrallyafterusiranpauseattacks",
   "ebcad92d18b0d8d8",
@@ -603,7 +601,9 @@
   "e95e216b8c7b62c6",
   "oilpricesextendlossesasus",
   "efbfafcf96bab1af",
-  "rupeetoholditsrisepast96rbisoftoilcounterdollarstrength"
+  "rupeetoholditsrisepast96rbisoftoilcounterdollarstrength",
+  "3284e8e2970a28c2",
+  "oilpricesextendlossesasusirancalmholdsforanothernight"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 17
+  "count": 18
  },
- "last_run": "2026-07-28T06:05:12.606735+03:00",
+ "last_run": "2026-07-28T06:10:15.519136+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
