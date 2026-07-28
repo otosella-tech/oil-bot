@@ -4,8 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "03de3c22e45a56b1",
-  "fromhormuztothepumpwhyoilpriceshockshitconsumersdifferentlya",
   "6a3d46b9f6ea43ed",
   "kkrblackstonesign16billionkuwaitoildeal",
   "cb1bf689e23d7f35",
@@ -603,7 +601,9 @@
   "79015c11f084bf38",
   "economistscutindiasgdpgrowthforecastonoilpriceshock",
   "781f81e842ec4606",
-  "onemegabuyerchinafindsawaytogetmideastoil"
+  "onemegabuyerchinafindsawaytogetmideastoil",
+  "a73045de9270a66b",
+  "yemenshouthisclaimtheirdronestargetedsaudicrudeoiltransporta"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T16:30:29.161283+03:00",
+ "last_run": "2026-07-28T16:35:16.743050+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
@@ -1144,6 +1144,10 @@
   {
    "d": "2026-07-28",
    "t": "Oil Prices Continue Lower as US-Iran Negotiations Reduce Supply Concerns - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "Yemen’s Houthis claim their drones targeted Saudi crude oil transportation infrastructure - The Times of Israel"
   }
  ]
 }
