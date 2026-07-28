@@ -4,8 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "542d51dad53dd22b",
-  "oilfalls8asirananduspausestrikesoverstraitofhormuz",
   "d8bea77eab079e97",
   "oilpricestumbleover8amidhalttofightingbetweenusiran",
   "2ac7a09b7660798f",
@@ -603,7 +601,9 @@
   "3158660e830aa9f7",
   "crudeoiltops100abarrelasusstrategicpetroleumreserveshitlowes",
   "ba7b3b28fe3340ef",
-  "crudeoilfuturesfallonweakglobalcues"
+  "crudeoilfuturesfallonweakglobalcues",
+  "5cb545b3dbee4729",
+  "oiltouchesoveroneweeklowaspauseinattacksbringshopeofusirande"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 42
+  "count": 43
  },
- "last_run": "2026-07-28T11:10:16.856535+03:00",
+ "last_run": "2026-07-28T11:15:17.836109+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
