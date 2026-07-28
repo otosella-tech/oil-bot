@@ -4,10 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "12e8d6c41c3fe601",
-  "goldrisesasoilretreatsonpauseinusiranstrikesfedratedecisioni",
-  "cfaf8a0009d73e02",
-  "indianrefinerymrplbarscrudesuppliersfromhormuzredsearoutes",
   "3e29953dde2c7c64",
   "oilpricesdiveonuspausebutisthistimedifferent",
   "b5d5b6db9158aae8",
@@ -603,7 +599,11 @@
   "af1112de761602cd",
   "tyumenoilrefineryhaltsoperationsafterdroneattackreuters",
   "a49befcd3a53a1d8",
-  "wallstreetsflipfromaistockstoelsewhereaccelerateswhileoilpri"
+  "wallstreetsflipfromaistockstoelsewhereaccelerateswhileoilpri",
+  "755b37c69459e3a2",
+  "sugarpricesfallascrudeoilplunges",
+  "fc675038639a9cfa",
+  "crudeoildownover5boeingsharesriseafterq2results"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T19:30:20.662413+03:00",
+ "last_run": "2026-07-28T19:35:15.207812+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
