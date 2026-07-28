@@ -4,8 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "fd0e1e245aaa6363",
-  "crudeoilpriceforecastwtiandbrentpullbackasusirannegotiations",
   "357d1dbc20c85372",
   "oilpricestumbleaspauseinusiranfightingsparksmarketrelief",
   "011b4ac41351ac3d",
@@ -603,7 +601,9 @@
   "ca66cc1e56c916ec",
   "forecastupdateforcrudeoil28072026",
   "a9ac2238308ee8a8",
-  "currentpriceofoilasofjuly242026"
+  "currentpriceofoilasofjuly242026",
+  "77d36ebc590c4077",
+  "tatapowertargets2032forindiasfirstprivatenuclearplant"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T17:25:21.326245+03:00",
+ "last_run": "2026-07-28T17:30:33.487460+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
