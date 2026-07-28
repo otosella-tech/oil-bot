@@ -4,8 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "1be4a604ccf9392a",
-  "stocksmixedoilandtreasuryyieldsdroponiranustruce",
   "192c5ecb7a2eec02",
   "nasdaqerasesgainsstocksmixedaschipnamesfallslideinoilcapslos",
   "45c7c4b4f2f5f3b6",
@@ -603,7 +601,9 @@
   "a1dc36f67e37c428",
   "globaloilpricessettleata2weeklowastrumpmeetswithnetanyahutod",
   "ebe8c437dca8f177",
-  "canadianfinancialclosecfirmdespitecrudeoillosses"
+  "canadianfinancialclosecfirmdespitecrudeoillosses",
+  "ac2ea4d54522325b",
+  "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 2
  },
- "last_run": "2026-07-29T00:05:13.679763+03:00",
+ "last_run": "2026-07-29T00:10:17.334217+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
