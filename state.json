@@ -4,8 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "68ed5080aa0c1c41",
-  "sugarpricesretreatascrudeoilplunges",
   "e61896378d25658b",
   "marketsmixedascrudeoilfalls",
   "e751e68502a2bf2e",
@@ -603,7 +601,9 @@
   "149bca759b266e36",
   "exxonmobilpipelinecompanynamesdendyaspresident",
   "997d7832c7335d59",
-  "cubalackingfuelreliesoningenuitytodefytrumpsblockade"
+  "cubalackingfuelreliesoningenuitytodefytrumpsblockade",
+  "f7030d3fcf71e899",
+  "usequityindexesmixedaschipmakersweighaheadofmag7resultscrude"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 3
  },
- "last_run": "2026-07-29T00:35:18.999594+03:00",
+ "last_run": "2026-07-29T00:40:21.215938+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
