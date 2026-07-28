@@ -4,10 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "bd9c10a0853be77d",
-  "bpsharesdeclineasloweroilpricesweighonenergysector",
-  "106de4b17863ecd7",
-  "oilpricesfallbacksharplyonrenewediranwarceasefirehopes",
   "73185e342b781b98",
   "cananaiblackboxbetrustedtorunanuclearreactor",
   "3a2304904618fbbe",
@@ -603,7 +599,11 @@
   "57911a03e16f7329",
   "cmes247goldfuturesdraw60millionindebutweekendwhilecrudeoilst",
   "4f06539ff7526b63",
-  "russiantyumenoilrefineryhaltsoperationsafterukrainiandronest"
+  "russiantyumenoilrefineryhaltsoperationsafterukrainiandronest",
+  "9133c3804973a56e",
+  "redseatankertraffichitsmulti",
+  "1db5340a5a36f109",
+  "renewabletuesdayozskipstheoilcrisis"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 53
+  "count": 54
  },
- "last_run": "2026-07-28T14:25:14.290739+03:00",
+ "last_run": "2026-07-28T14:30:20.532329+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
