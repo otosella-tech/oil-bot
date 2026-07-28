@@ -4,12 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "357d1dbc20c85372",
-  "oilpricestumbleaspauseinusiranfightingsparksmarketrelief",
-  "011b4ac41351ac3d",
-  "crudeoilsinksaschinajoinsceasefirenegotiations",
-  "db032709c7b75b30",
-  "stocksopenhigheronwallstreetandcrudeoilpricesdrop6asmideastt",
   "3c63da890f3d653b",
   "soybeansfallonprofittakinganddecliningoilprices",
   "1c25b402f634b4e4",
@@ -603,7 +597,13 @@
   "a9ac2238308ee8a8",
   "currentpriceofoilasofjuly242026",
   "77d36ebc590c4077",
-  "tatapowertargets2032forindiasfirstprivatenuclearplant"
+  "tatapowertargets2032forindiasfirstprivatenuclearplant",
+  "e75c0eb1d0d76c22",
+  "mostofwallstreetrisesasoilpricescontinuetoeaseevenaschipstoc",
+  "bf085fbdb36f849a",
+  "oilpriceshaveeasedafterfightinginiranhascooled",
+  "2b1e90a2601e93ff",
+  "russiadrivesupoilflowsthrougharctictomaintainhighexports"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T17:30:33.487460+03:00",
+ "last_run": "2026-07-28T17:35:15.003644+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
@@ -1160,6 +1160,10 @@
   {
    "d": "2026-07-28",
    "t": "SHEL, CVX, OXY: Crude Oil Prices Plunge 10% as Iran Fighting Is Paused - TipRanks"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "Russia Drives Up Oil Flows Through Arctic to Maintain High Exports - Bloomberg.com"
   }
  ]
 }
