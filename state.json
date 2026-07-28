@@ -4,8 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "046553764c3a0254",
-  "kuwaitsigns16billionpipelinedealdespiteiranattacks",
   "3cdf2fac0fc40663",
   "airlinescruisestocksflashhigherasoilpricesretreat",
   "963646c215cf029f",
@@ -603,7 +601,9 @@
   "e9ee81cc8cb9a205",
   "analystsseeweeklydeclineinuscrudeoilstockpiles",
   "27a5a640480d96ed",
-  "vegoilspricecommentarycmesoyoilfuturesdownonsharplylowerener"
+  "vegoilspricecommentarycmesoyoilfuturesdownonsharplylowerener",
+  "aa86ceeb420fd0d5",
+  "houthissaytheytargetedsaudieastwestoiltransport"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T20:20:19.516034+03:00",
+ "last_run": "2026-07-28T20:25:14.841001+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-07-28",
    "t": "Oil prices fall 5% to two-week low on hopes for US-Iran conflict easing - Reuters"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "Houthis say they targeted Saudi east-west oil transport - Reuters"
   }
  ]
 }
