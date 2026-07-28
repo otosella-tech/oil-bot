@@ -4,8 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "291c2fa8352caab8",
-  "whatliesaheadforiranseconomyasscopeofuswargrowsbeyondhormuz",
   "ab340b4cd73f0ae0",
   "oilpricesriseasuslaunchesnewiranairstrikeswhiletrumpabandons",
   "ac2ea4d54522325b",
@@ -603,7 +601,9 @@
   "28604fde59ac06de",
   "oilmarketsareonedgeagain",
   "1798671f8943a471",
-  "wallstreetsflipfromaitolesslovedstocksaccelerateswhileoilpri"
+  "wallstreetsflipfromaitolesslovedstocksaccelerateswhileoilpri",
+  "6b0219a331a7ba2f",
+  "uscrudeoilinventoriesbuildagaindespitehormuzdisruption"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -615,55 +615,11 @@
   "Brent": 87.25
  },
  "llm": {
-  "date": "2026-07-28",
-  "count": 60
+  "date": "2026-07-29",
+  "count": 1
  },
- "last_run": "2026-07-28T23:55:14.348499+03:00",
+ "last_run": "2026-07-29T00:00:23.221698+03:00",
  "sent_stories": [
-  {
-   "d": "2026-07-25",
-   "t": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted - NBC News"
-  },
-  {
-   "d": "2026-07-25",
-   "t": "OPEC Set to Raise Output AgainEven as Members Can't Pump It - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-07-25",
-   "t": "Oil markets face costs of Iran war - The Arkansas Democrat-Gazette"
-  },
-  {
-   "d": "2026-07-25",
-   "t": "Kuwait's KPC signs $16 billion lease and leaseback deal for oil pipeline network - Reuters"
-  },
-  {
-   "d": "2026-07-25",
-   "t": "Exclusive | Chevron Is Trying to Keep Its Kazakh Assets Out of the Russia-Ukraine War - WSJ"
-  },
-  {
-   "d": "2026-07-25",
-   "t": "Houthis Attack Saudi Oil Tankers in the Red Sea - The Institute for Energy Research"
-  },
-  {
-   "d": "2026-07-25",
-   "t": "Investors bet on Federal Reserve rate rise after oil price surge - Financial Times"
-  },
-  {
-   "d": "2026-07-25",
-   "t": "Investors increase bets on Federal Reserve rate rise after oil price surge - Financial Times"
-  },
-  {
-   "d": "2026-07-25",
-   "t": "Drone attacks Tyumen Oil Refinery, fire breaks out - Ukrinform"
-  },
-  {
-   "d": "2026-07-25",
-   "t": "Hormuz risks escalate again, oil prices return to $100, and Gulf states accelerate the restructuring of their crude export networks - Moomoo"
-  },
-  {
-   "d": "2026-07-25",
-   "t": "Ukrainian SOF confirm strike on Tyumen Oil Refinery - Ukrinform"
-  },
   {
    "d": "2026-07-26",
    "t": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On - The New York Times"
