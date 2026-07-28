@@ -4,8 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "1c25b402f634b4e4",
-  "twoimfofficialsoilmarketsabsorbwarshockasroomforreductiondec",
   "26d886d1331b39a7",
   "kurdishmpsseekhigheroilallocationtoeasekurdistanfuelshortage",
   "a0294775cb20c695",
@@ -603,7 +601,9 @@
   "2b1e90a2601e93ff",
   "russiadrivesupoilflowsthrougharctictomaintainhighexports",
   "094e6306e4dba583",
-  "chipstocksslideasaiworriespushinvestorstoothersectors"
+  "chipstocksslideasaiworriespushinvestorstoothersectors",
+  "1c5cf980a7eee9a3",
+  "trumpsignalsdiplomacywithiranashormuztalkscontinue"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T17:50:21.011886+03:00",
+ "last_run": "2026-07-28T17:55:18.623185+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
@@ -1164,6 +1164,10 @@
   {
    "d": "2026-07-28",
    "t": "Russia Drives Up Oil Flows Through Arctic to Maintain High Exports - Bloomberg.com"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "Trump signals diplomacy with Iran as Hormuz talks continue - World Oil"
   }
  ]
 }
