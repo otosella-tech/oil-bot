@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "27bedf02288ce90f",
-  "saudiarabiainterceptsanddestroysdronestargetingoilfacilities",
   "71950306eb973dc9",
   "kazakhstanrestartscpcoilexportsafterweek",
   "96956bb23db8be89",
@@ -603,7 +601,9 @@
   "bd82c9468bea7c80",
   "yemenshouthisclaimmissileattackonsaudiarabiaoiltanker",
   "2873fb782578bd0a",
-  "cleanupeffortslogsonweeksaftereastlaoilspill"
+  "cleanupeffortslogsonweeksaftereastlaoilspill",
+  "ea8590a20b51f990",
+  "asianstockseyegainsasoiloffsetschipselloffmarketswrap"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 13
  },
- "last_run": "2026-07-29T02:40:16.367422+03:00",
+ "last_run": "2026-07-29T02:45:15.776284+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
