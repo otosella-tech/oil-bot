@@ -4,8 +4,6 @@
   "Brent": 87.84
  },
  "seen": [
-  "1d4b2172cd7f91e9",
-  "goldgainsover1onpauseinusiranfightingfeddecisionlooms",
   "4fdc743956d87db5",
   "crudeoilpricesfall5afterusiranpausestrikesbrentcrudeat91perb",
   "a0dc5f607220f495",
@@ -603,7 +601,9 @@
   "2618b21fcbe220b9",
   "oilfallsamidongoingpauseinusiranhostilities",
   "412389c948b7578a",
-  "oilpricesfall1asinvestorsweighpauseinusstrikesoniran"
+  "oilpricesfall1asinvestorsweighpauseinusstrikesoniran",
+  "5d42d141a2394437",
+  "oilextendsslideasusirantalksraisehopesoflastingdeescalation"
  ],
  "releases_done": {},
  "last_digest": "2026-07-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 13
+  "count": 14
  },
- "last_run": "2026-07-28T04:10:22.048762+03:00",
+ "last_run": "2026-07-28T04:15:20.867605+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
