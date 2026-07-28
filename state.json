@@ -4,8 +4,6 @@
   "Brent": 86.02
  },
  "seen": [
-  "2f05f50a9be54785",
-  "oilpricedivesasusandiranpauseattacks",
   "eb6e319c8230dec8",
   "kazakhstanresumescpcoilexportsasmarineterminalreopens",
   "99b06c6b057401e8",
@@ -603,7 +601,9 @@
   "4e2ae5a4ad8a73b8",
   "fourreasonsforthefallinwtiandbrentcrudeoilusindicespessimist",
   "785b3200f79ff0f4",
-  "currentpriceofoilasofjuly272026"
+  "currentpriceofoilasofjuly272026",
+  "709a8cf218619317",
+  "indianoilimportersfacedualchokepointchallengeinsecuringfutur"
  ],
  "releases_done": {},
  "last_digest": "2026-07-28",
@@ -615,7 +615,7 @@
   "date": "2026-07-28",
   "count": 45
  },
- "last_run": "2026-07-28T12:20:15.656418+03:00",
+ "last_run": "2026-07-28T12:25:16.027246+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
