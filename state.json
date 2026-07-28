@@ -606,16 +606,16 @@
   "asiansharesslipandsouthkoreaskospiindexsinks10onheavyselling"
  ],
  "releases_done": {},
- "last_digest": "2026-07-27",
+ "last_digest": "2026-07-28",
  "digest_prices": {
-  "WTI": 84.72,
-  "Brent": 91.99
+  "WTI": 81.64,
+  "Brent": 87.25
  },
  "llm": {
   "date": "2026-07-28",
-  "count": 25
+  "count": 31
  },
- "last_run": "2026-07-28T07:55:15.077529+03:00",
+ "last_run": "2026-07-28T08:00:28.110926+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
