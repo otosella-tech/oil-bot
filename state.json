@@ -4,12 +4,6 @@
   "Brent": 84.21
  },
  "seen": [
-  "28604fde59ac06de",
-  "oilmarketsareonedgeagain",
-  "05e56cff5475bc17",
-  "leakedukgridreportwarnsnetzeropushraisesblackoutrisks",
-  "6367e7d47fe0d5d8",
-  "globalenergycrunchenteringamoredangerousphase",
   "4cb1f83f6438ee6d",
   "icecanolafallingwithcrudeoilmanitobaco",
   "7c17c4b23b829f25",
@@ -603,7 +597,13 @@
   "642dd2693e4c30e2",
   "oilpricesfall5totwoweeklowafterseveraldayswithoutusiranstrik",
   "1801df8991793d8c",
-  "vistaseeksrigiapprovalfor58billionbandurrianortedevelopment"
+  "vistaseeksrigiapprovalfor58billionbandurrianortedevelopment",
+  "7299bf569a72d057",
+  "oregonremainssixthhighestforgasat464agallondieselclimbsto548",
+  "553ddd942bf95208",
+  "saudiarabiahasanewandpricierworkaroundtoexportitsoil",
+  "4e6d432f16e3a748",
+  "dowrallieswhilechipstocksdecline"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-28",
   "count": 60
  },
- "last_run": "2026-07-28T23:40:17.583044+03:00",
+ "last_run": "2026-07-28T23:45:18.908159+03:00",
  "sent_stories": [
   {
    "d": "2026-07-25",
@@ -1259,6 +1259,10 @@
   {
    "d": "2026-07-28",
    "t": "Oil prices fall 5% to two-week low after several days without US-Iran strikes - Reuters"
+  },
+  {
+   "d": "2026-07-28",
+   "t": "Saudi Arabia has a new, and pricier, workaround to export its oil - MarketWatch"
   }
  ]
 }
