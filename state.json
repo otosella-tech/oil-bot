@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "fc675038639a9cfa",
-  "crudeoildownover5boeingsharesriseafterq2results",
   "f8ffdc9d233ec5f7",
   "oilpricesdeclinefurtheraftertrumpclaimsdeeptalkswithiranareu",
   "367ae4e4c7579db1",
@@ -603,7 +601,9 @@
   "12aa0d94fad3cf2c",
   "oilproducingstatesbenefitfromwardrivenwindfall",
   "160cb1160efb5e79",
-  "stocksdiveoilsoarsontrumpsiranthreatmetamicrosoftreport"
+  "stocksdiveoilsoarsontrumpsiranthreatmetamicrosoftreport",
+  "7ae8f91fea28e4b4",
+  "vivakorupdatesguidanceofcrudeoilmarketingplatformtoapproxima"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-30",
   "count": 7
  },
- "last_run": "2026-07-30T01:20:16.237751+03:00",
+ "last_run": "2026-07-30T01:25:19.492187+03:00",
  "sent_stories": [
   {
    "d": "2026-07-27",
