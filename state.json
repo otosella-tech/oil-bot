@@ -4,10 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "662c632d3d2220af",
-  "oilshockcouldbeworsethanthefirsttreasurywarns",
-  "3d41ae3f01c1cdd4",
-  "usequityindexesmixedastechheadslowercrudeoilsinksonpauseinir",
   "c910745f641b6f76",
   "updateusequityindexesmixedastechheadslowercrudeoilsinksonpau",
   "9c48047bb48f4269",
@@ -603,7 +599,11 @@
   "2f0f3552dcb009f2",
   "oilpricesreboundbymorethan2abarrelonprospectoftighteninguscr",
   "c410620f020cfda8",
-  "oilpricesriseafterusblockssurpriseattackfromiran"
+  "oilpricesriseafterusblockssurpriseattackfromiran",
+  "dae94876d35a3484",
+  "oiljumpsasusiranresumestrikesafterabriefpause",
+  "897f938553024e81",
+  "dowjonesfuturesriseoiljumpsonirannewsseagateskhynixklabloome"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 19
+  "count": 21
  },
- "last_run": "2026-07-29T03:55:13.246601+03:00",
+ "last_run": "2026-07-29T04:00:21.350925+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1251,6 +1251,10 @@
   {
    "d": "2026-07-29",
    "t": "Oil prices rise after U.S. blocks surprise attack from Iran - CNBC"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Oil jumps as U.S.-Iran resume strikes after a brief pause - CNBC"
   }
  ]
 }
