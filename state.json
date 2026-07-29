@@ -4,12 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "eec395ed7ad388d1",
-  "tokyotoboostfinancialsupportforoverseasoilpipelineinvestment",
-  "8b07504e0b5f41d3",
-  "indiancentralbankinterventionbolstersoilledrupeerally",
-  "ec49c28452f5185c",
-  "oilpricessettleatlowestinoveraweekasuspausesattacksoniraneur",
   "95fd9585d8e09abb",
   "aianxietysparkstechroutbroadselloffinasianmarkets",
   "14387f4d84da70f4",
@@ -603,7 +597,13 @@
   "2d7b1c92713fed30",
   "crudeoilpricesjumpagainusstocksslipaheadadecisionfromfedonin",
   "a0f000d5d19984f2",
-  "crudeoilpriceanalysiscrudeoilralliesasmiddleeastriskescalate"
+  "crudeoilpriceanalysiscrudeoilralliesasmiddleeastriskescalate",
+  "52ee124fa5e97008",
+  "ussenateadvancessweepingrussiasanctionsbillin86",
+  "ff1d2ebcc693d218",
+  "oilpricesspikeexxonmobilandchevronstocksriseafteriranstrikes",
+  "e7dda38bebb5ff34",
+  "ukrainesaysithits2majorrussianoilrefinerieshoursafterzelensk"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T16:55:20.737057+03:00",
+ "last_run": "2026-07-29T17:00:30.388489+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1314,6 +1314,14 @@
   {
    "d": "2026-07-29",
    "t": "Iran resumes missile attacks as US and Saudis strike Tehran-backed militias in Iraq - Los Angeles Daily News"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "U.S. Senate Advances Sweeping Russia Sanctions Bill in 86-12 Vote"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Oil Prices Spike, ExxonMobil and Chevron Stocks Rise After Iran Strikes - Barron's"
   }
  ]
 }
