@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "654d5a84bbfd9649",
-  "risingoilpricesforceconnecticutautoshopstoraiseoilchangecost",
   "11a213b40ee21f80",
   "cbotreviewsoybeansgrainsfallwithcrudeoil",
   "a8d465579a929dc3",
@@ -603,7 +601,9 @@
   "f19e0861da15aa88",
   "oilpricetodayjuly29crudeoiljumps5asusinterceptsiraniansurpri",
   "9f3d07506491935f",
-  "icecottondeclinesafter5dayrallyduetofallingcrudeoil"
+  "icecottondeclinesafter5dayrallyduetofallingcrudeoil",
+  "9a735099a055aaae",
+  "stockswaveronwallstreetwhilecrudeoilpricesfallforthefirsttim"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -615,7 +615,7 @@
   "date": "2026-07-29",
   "count": 45
  },
- "last_run": "2026-07-29T10:40:16.936760+03:00",
+ "last_run": "2026-07-29T10:45:15.548465+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
