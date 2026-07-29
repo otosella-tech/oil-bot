@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "a6a2ffc7a9431a7b",
-  "bulgariadeniesoilslickcomingfromhulkofsanctionedtanker",
   "da2be56d5cf55d32",
   "usgboundcaplinecrudeoilpipeflowsfalltoafourmonthlow",
   "11767ab02ee242e9",
@@ -603,7 +601,9 @@
   "db6bb5c8f49150a3",
   "oilrisesonsupplydisruptionconcernsspurredbyiranssurprisemiss",
   "8d66981ac82f8481",
-  "turkiyetakeshistoricsteponenergyalliancewithiraq"
+  "turkiyetakeshistoricsteponenergyalliancewithiraq",
+  "c93641141dbb2dde",
+  "oilreboundsover4oninventorydrawopechopesiranstrikecloudsoutl"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 23
+  "count": 24
  },
- "last_run": "2026-07-29T04:20:21.928431+03:00",
+ "last_run": "2026-07-29T04:25:21.706258+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
