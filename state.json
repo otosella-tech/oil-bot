@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "3a87d069094a636a",
-  "currentpriceofoilasofjuly162026",
   "65666f903880991a",
   "whattoknowaboutusoilproductionandconsumptionin6charts",
   "63c6b9fc9b1d9ab6",
@@ -603,7 +601,9 @@
   "b19998691574b55b",
   "ussaudiconsortiummeraoilentersfinalstageofsiteselectionforpl",
   "643451a2732f5a8b",
-  "australiahasntbuiltanoilrefineryindecadesbutthatcouldchange"
+  "australiahasntbuiltanoilrefineryindecadesbutthatcouldchange",
+  "867e36e56ba65f7f",
+  "oilreboundsasuscrudeinventoriesfall"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -615,7 +615,7 @@
   "date": "2026-07-29",
   "count": 40
  },
- "last_run": "2026-07-29T09:10:16.264577+03:00",
+ "last_run": "2026-07-29T09:15:22.791537+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
