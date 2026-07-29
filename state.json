@@ -1,17 +1,9 @@
 {
  "price_base": {
-  "WTI": 82.39,
-  "Brent": 87.91
+  "WTI": 84.18,
+  "Brent": 89.8
  },
  "seen": [
-  "277ccc4c57a6544f",
-  "cornfuturesdropascrudeoilfallsandtraderstakeprofitsbyinvesti",
-  "8ee658ae2cfaa23a",
-  "africaslongestcrudeoilexportpipelineisntjusttakingindigenous",
-  "2e9477874c4525b2",
-  "oilpricesplunge5afterusandiranhaltattacks",
-  "2618b21fcbe220b9",
-  "oilfallsamidongoingpauseinusiranhostilities",
   "412389c948b7578a",
   "oilpricesfall1asinvestorsweighpauseinusstrikesoniran",
   "5d42d141a2394437",
@@ -603,7 +595,15 @@
   "a3922c37a9c7b899",
   "oilisup40andtechistumblingwhyitstimetogoallinonstocksaccordi",
   "08088d7c1b490847",
-  "dowjonesfuturesfalloiljumpsonirannewsseagateskhynixklabloome"
+  "dowjonesfuturesfalloiljumpsonirannewsseagateskhynixklabloome",
+  "d2c0ca16999cb383",
+  "ukregulatortargetsdatacenterlandgrabonthepowergrid",
+  "895305f25bfe18f0",
+  "crudeoilfuturessep6clmainuspchem5183my",
+  "f452f89e77c61b33",
+  "ussaudiarabiastrikeiranbackedmilitiasiniraq",
+  "da06d12f5281947f",
+  "oilsurgesasrenewedusiranconflictandfallinginventoriesboostcr"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 58
+  "count": 59
  },
- "last_run": "2026-07-29T15:25:22.198311+03:00",
+ "last_run": "2026-07-29T15:30:25.647206+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
