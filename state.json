@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "7557236e86d4a802",
-  "earningseasingoillifteuropeanboursesmidday",
   "1a48c47983ac1002",
   "akeysignalofareboundinmarketriskappetitewithoilpriceseasingu",
   "bd56f6f42862ce9d",
@@ -603,7 +601,9 @@
   "bdca008c73fbb5f7",
   "whyisoilrebounding",
   "c1754ca795ac60f5",
-  "dowleaderridessurgingoilpricesandtrumpsvenezuelaspoils"
+  "dowleaderridessurgingoilpricesandtrumpsvenezuelaspoils",
+  "13ca47632be8cc08",
+  "currentpriceofoilasofjuly282026"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T19:20:22.650243+03:00",
+ "last_run": "2026-07-29T19:25:20.376752+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
