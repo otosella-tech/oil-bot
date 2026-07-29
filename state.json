@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "c7cf8624682a7b9a",
-  "oilpricesslideasusandiranpausestrikestogivespacefordiplomacy",
   "0a5fe14dc6a3de6d",
   "tokyoeyesliftingsupportforoverseasoilpipelineinvestments",
   "e9f550d3555b071e",
@@ -603,7 +601,9 @@
   "6a78e6a306216d26",
   "taiwanhalts800millioninspotlngbuysfrompapuanewguinea",
   "a64c5cfd4dbdc2f8",
-  "oilpricesignorethewarningsofthephysicalmarketsrefinerycracks"
+  "oilpricesignorethewarningsofthephysicalmarketsrefinerycracks",
+  "b5d16c58b4b99fd6",
+  "crudeoilinventoriesdropsharplysurpassingexpectations"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T17:35:16.476667+03:00",
+ "last_run": "2026-07-29T17:40:22.119145+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
