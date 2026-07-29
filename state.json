@@ -4,12 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "efbfafcf96bab1af",
-  "rupeetoholditsrisepast96rbisoftoilcounterdollarstrength",
-  "3284e8e2970a28c2",
-  "oilpricesextendlossesasusirancalmholdsforanothernight",
-  "2b123ea681187c0f",
-  "oildropsmorethan2asapauseinusiranhostilitiesraisesdeescalati",
   "9cc3d5489356f801",
   "australiaplansfirstdomesticoilrefineryin60yearstoboostfuelse",
   "d96e064712553c2e",
@@ -603,7 +597,13 @@
   "bc8264e4c0a75932",
   "oiljumpsnearly7onescalatingmiddleeastairstrikes",
   "277983fa34448a7d",
-  "itsnotjustcrudeoiliranssurpriseattackhastriggeredacrossfourm"
+  "itsnotjustcrudeoiliranssurpriseattackhastriggeredacrossfourm",
+  "ad13de294336577a",
+  "oilpricesjumpmorethan6aftertrumpsaysuswillhitiranhard",
+  "354e4c7035a3bbe9",
+  "crudeoilfuturessep6clmainusbrentlastdayfinancialfuturescurre",
+  "a89ce52091bbdeca",
+  "shippingrisksriseacrosscrucialmiddleeastoilroutes"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -615,7 +615,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T16:10:24.265557+03:00",
+ "last_run": "2026-07-29T16:15:16.753873+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1280,6 +1280,14 @@
   {
    "d": "2026-07-29",
    "t": "It’s not just crude oil! Iran’s surprise attack has triggered联动 across four markets, and your positions are being repriced. - Moomoo"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Oil prices jump more than 6% after Trump says U.S. will hit Iran hard - CNBC"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "$Crude Oil Futures (SEP6) (CLmain.US)$$Brent Last Day Financial Futures Current Contract (SEP6) (BZcurrent.US)$ Iran's foreign ministry on Wednesday condemned US-Saudi strikes in Iraq, saying such attacks were part of US-‘Israeli’ attempts to expand th - Moomoo"
   }
  ]
 }
