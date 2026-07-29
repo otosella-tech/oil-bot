@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "63c6b9fc9b1d9ab6",
-  "nygaspricesclimbabove420ascrudeoildrivesincrease",
   "efb74c7222fde02f",
   "currentpriceofoilasofjuly172026",
   "f827e86d0d30b35b",
@@ -603,7 +601,9 @@
   "867e36e56ba65f7f",
   "oilreboundsasuscrudeinventoriesfall",
   "7d535642601efda8",
-  "ussaudiforcesstrikeiranbackedgroupsiniraq"
+  "ussaudiforcesstrikeiranbackedgroupsiniraq",
+  "761f8f3b2fdd75fe",
+  "newzealandawardsfirstoffshoreoillicensesinceendingdrillingba"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 41
+  "count": 42
  },
- "last_run": "2026-07-29T09:25:12.715087+03:00",
+ "last_run": "2026-07-29T09:30:20.866947+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
