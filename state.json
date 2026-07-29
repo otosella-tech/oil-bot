@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "c5ed1cd4a0190456",
-  "shelcvxoxycrudeoilpricesplunge10asiranfightingispaused",
   "ca66cc1e56c916ec",
   "forecastupdateforcrudeoil28072026",
   "a9ac2238308ee8a8",
@@ -603,7 +601,9 @@
   "1c8c283a0db9c674",
   "ussanctionschinesehongkongshippingfirmsoveriranianoildeliver",
   "0d48c5d8adc0b190",
-  "uscrudeoilinventoriesdropsharplyby7167millionbarrelsfarexcee"
+  "uscrudeoilinventoriesdropsharplyby7167millionbarrelsfarexcee",
+  "eb1cf84a60100211",
+  "bmwtargets8000morejobcutsinfreshcost"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T21:55:12.852486+03:00",
+ "last_run": "2026-07-29T22:00:25.273784+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
