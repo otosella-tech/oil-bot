@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "4b4a5496c9235db4",
-  "crudeoilpriceforecastbrentpullbackmasksgrowingdieselsupplyri",
   "f3eb3c3af22ff36e",
   "slumpingcrudeoilpricesweighonsugarprices",
   "b0b8ba5a32b6a87d",
@@ -603,7 +601,9 @@
   "a4c60511add42ca0",
   "petrobrascutsimportsasitpusheslocaloutputamidusiranconflict",
   "4bba9b07fee21c3c",
-  "cartelatduskopecsfutureaftertheiranwar"
+  "cartelatduskopecsfutureaftertheiranwar",
+  "907f2642d8383f11",
+  "wticrudeoilwaveanalysis"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 25
  },
- "last_run": "2026-07-29T05:00:29.774640+03:00",
+ "last_run": "2026-07-29T05:05:13.563799+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
