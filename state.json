@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "058f6b72c89968c1",
-  "kazakhstanrestartscpcoilexportsafterweeklongblackseashutdown",
   "20cb74469ac81547",
   "goldandsilverrallyasoilretreatsdespitepersistenthighbondyiel",
   "662c632d3d2220af",
@@ -603,7 +601,9 @@
   "6fb60c90aedf0cd9",
   "nigeriashelldocumentsexposegrowingpollutionscandal",
   "c495af777e9152aa",
-  "petrobrassecondquarteroilandgasoutputrises14fromayearearlier"
+  "petrobrassecondquarteroilandgasoutputrises14fromayearearlier",
+  "2f0f3552dcb009f2",
+  "oilpricesreboundbymorethan2abarrelonprospectoftighteninguscr"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 17
  },
- "last_run": "2026-07-29T03:30:19.451207+03:00",
+ "last_run": "2026-07-29T03:35:12.482925+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
