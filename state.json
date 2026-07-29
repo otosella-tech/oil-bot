@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "65666f903880991a",
-  "whattoknowaboutusoilproductionandconsumptionin6charts",
   "63c6b9fc9b1d9ab6",
   "nygaspricesclimbabove420ascrudeoildrivesincrease",
   "efb74c7222fde02f",
@@ -603,7 +601,9 @@
   "643451a2732f5a8b",
   "australiahasntbuiltanoilrefineryindecadesbutthatcouldchange",
   "867e36e56ba65f7f",
-  "oilreboundsasuscrudeinventoriesfall"
+  "oilreboundsasuscrudeinventoriesfall",
+  "7d535642601efda8",
+  "ussaudiforcesstrikeiranbackedgroupsiniraq"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 40
+  "count": 41
  },
- "last_run": "2026-07-29T09:15:22.791537+03:00",
+ "last_run": "2026-07-29T09:20:15.988341+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
