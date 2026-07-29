@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "4ae8f63d1d8e3bdf",
-  "asusiranwarrageswhosriskingthestraitofhormuz",
   "0d866c5845b5b46f",
   "currentpriceofoilasofjuly232026",
   "9109073f691762f0",
@@ -603,7 +601,9 @@
   "f9bbef6033e4e0ad",
   "marketsholdbackascrudeoilpricesclimb",
   "3418baab2480d007",
-  "uscrudeoilstockpilesfallmorethanexpected"
+  "uscrudeoilstockpilesfallmorethanexpected",
+  "c328b70498a663e1",
+  "indianoileyesstakesingascarrierstocutuslpgfreightcosts"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T18:25:15.914714+03:00",
+ "last_run": "2026-07-29T18:30:23.742482+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
