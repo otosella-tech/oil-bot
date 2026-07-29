@@ -4,12 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "266f3b8d467d139c",
-  "escalatingprotestsinlibyathreatenoilandgassupply",
-  "88c40843af02707c",
-  "wouldtheoilrefinerypenaltyhavegenerated600mforcaliforniaifim",
-  "1c84bc8bafeb4bb3",
-  "brentcrudeoilpricefallsasfedratedecisioncomesintofocus",
   "c82436d03cb349f3",
   "oilpricesfallasirandiscussesstraitofhormuzwithsaudiarabiaand",
   "8beaee37b7d92c32",
@@ -603,7 +597,13 @@
   "b1c371a4ea0e849d",
   "brentcrudeoilsurgesto93perbarrel",
   "5c4a2e51365dc8fd",
-  "ftse100touchesfreshrecordonoillifteyesonfedboe"
+  "ftse100touchesfreshrecordonoillifteyesonfedboe",
+  "d02b22efe963062c",
+  "oilpricesjumpfollowingfightinginthemiddleeastwhileusstocksdr",
+  "e6cb3d564bfab866",
+  "mappedusoilproductionbystatein2025",
+  "387f93b034718ba6",
+  "uscrudeoilinventoriesdecreasedby72mbto4045mb"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T20:25:21.262058+03:00",
+ "last_run": "2026-07-29T20:30:19.321079+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
