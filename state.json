@@ -4,10 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "65628ebdfba9f573",
-  "oilpricesslidebrentcrudebelow90aspausetousiranhostilitiesapp",
-  "d6df6171b4c511ea",
-  "oilpricesdown270726",
   "34db4bff43e2f2bb",
   "stocksaredriftingonwallstreetandcrudeoilpricesdrop6",
   "787837e4a23e35b2",
@@ -603,7 +599,11 @@
   "7d357db60b65256a",
   "crudeoilpricesjumpagainandusstocksslipaheadadecisionfromthef",
   "72ce9373b6e0bc11",
-  "usmarketsmixedaheadoffeddecisionandoilpricesjumpasmiddleeast"
+  "usmarketsmixedaheadoffeddecisionandoilpricesjumpasmiddleeast",
+  "3f42a4155254927f",
+  "iranresumesmissileattacksasusandsaudisstriketehranbackedmili",
+  "c5480f8f676d8bad",
+  "drillingforoiltheoldfashionedwayinlittletexasindonesia"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -615,7 +615,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T16:40:23.532222+03:00",
+ "last_run": "2026-07-29T16:45:18.597514+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1308,6 +1308,10 @@
   {
    "d": "2026-07-29",
    "t": "World shares are mixed and South Korea's Kospi share index falls 6%, while oil prices surge - AP News"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Iran resumes missile attacks as US and Saudis strike Tehran-backed militias in Iraq - Los Angeles Daily News"
   }
  ]
 }
