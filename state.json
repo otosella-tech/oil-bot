@@ -4,10 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "5bc538ca6fbdc0b6",
-  "currentpriceofoilasofjuly152026",
-  "7e816369965bf0df",
-  "crudeoilnear82",
   "a0696613c00c1fdb",
   "canadiandollarhitsneartwoweeklowasoilpricesdrop",
   "7ff5fe1932e050ac",
@@ -603,7 +599,11 @@
   "b7bb01ecef8c5da7",
   "palmoilreboundsascrudeoilfirmsup",
   "3ffe18a0c6d67519",
-  "thecommoditiesfeedoilrisesasmiddleeasttensionsreignite"
+  "thecommoditiesfeedoilrisesasmiddleeasttensionsreignite",
+  "183220aed02c3a80",
+  "oilpricessurgeonfreshmiddleeaststrikesandapicrudedraw",
+  "4bfa050e398d160f",
+  "globaloilpricehits100abarrelforfirsttimesincemay"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 27
+  "count": 28
  },
- "last_run": "2026-07-29T06:00:27.562651+03:00",
+ "last_run": "2026-07-29T06:05:13.816040+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
