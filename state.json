@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "7f295cbfb08859c7",
-  "japanbacksoverseasoilpipelinestoreducehormuzdependence",
   "13556c0e4faf6747",
   "babelmandebtankerattackschallengealternativeoilroutes",
   "893ae62f7d2160e1",
@@ -603,7 +601,9 @@
   "607a3ef25726ac8a",
   "usoilinventoriessagashormuzturmoilrageson",
   "9212ff80de5a7c33",
-  "chinascrudeoilimportssurge"
+  "chinascrudeoilimportssurge",
+  "3707cc16c1964a9e",
+  "ussanctions8tankers10entitiesforallegedroleiniranianoiltrade"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T17:55:19.386227+03:00",
+ "last_run": "2026-07-29T18:00:31.768053+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1347,6 +1347,10 @@
   {
    "d": "2026-07-29",
    "t": "China's Crude Oil Imports Surge - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "US sanctions 8 tankers, 10 entities for alleged role in Iranian oil trade - aa.com.tr"
   }
  ]
 }
