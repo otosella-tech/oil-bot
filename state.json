@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "7e70545e545b004d",
-  "cornfuturesdropascrudeoilfallsandtraderstakeprofits",
   "6fb9554880fc9b8d",
   "theusiswalkingintoiransescalationtrap",
   "424d4ff0ddb86717",
@@ -603,7 +601,9 @@
   "210e6ec83b96d9a1",
   "trumpsaysushassoldmorethan13billionofvenezuelaoilsincemaduro",
   "002e5894e1f56acc",
-  "ussaudiconsortiumplans5billiongulfrefineryoutsidehormuz"
+  "ussaudiconsortiumplans5billiongulfrefineryoutsidehormuz",
+  "4ad8abcd93663592",
+  "globaloilpricesjumpasattacksresumeinthemiddleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 48
+  "count": 49
  },
- "last_run": "2026-07-29T11:50:17.220955+03:00",
+ "last_run": "2026-07-29T11:55:15.171105+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
