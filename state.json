@@ -4,10 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "928eb6049bf33a2a",
-  "oilpricesfall1asinvestorsweighpauseinusstrikesoniraneuronext",
-  "e95e216b8c7b62c6",
-  "oilpricesextendlossesasus",
   "efbfafcf96bab1af",
   "rupeetoholditsrisepast96rbisoftoilcounterdollarstrength",
   "3284e8e2970a28c2",
@@ -603,7 +599,11 @@
   "304dc23e62cd655c",
   "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025",
   "42f8ca51981df841",
-  "asiascrapingthebottomofthebarrelasredseaoilblockadeworsensen"
+  "asiascrapingthebottomofthebarrelasredseaoilblockadeworsensen",
+  "bc8264e4c0a75932",
+  "oiljumpsnearly7onescalatingmiddleeastairstrikes",
+  "277983fa34448a7d",
+  "itsnotjustcrudeoiliranssurpriseattackhastriggeredacrossfourm"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -615,7 +615,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T16:05:13.992833+03:00",
+ "last_run": "2026-07-29T16:10:24.265557+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1272,6 +1272,14 @@
   {
    "d": "2026-07-29",
    "t": "Discounts narrow on Russian Urals crude in India, sources say - Reuters"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Oil jumps nearly 7% on escalating Middle East airstrikes - Reuters"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "It’s not just crude oil! Iran’s surprise attack has triggered联动 across four markets, and your positions are being repriced. - Moomoo"
   }
  ]
 }
