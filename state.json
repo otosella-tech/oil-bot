@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "61dcc02a0cc7c2af",
-  "theresopportunityinoilrefinerstocksoverthelongtermsaysgoldma",
   "d8d9c02da8c0afa8",
   "whatthelatestussanctionsbillmeansforrussiaandforchinaindiaan",
   "38273142359507c1",
@@ -603,7 +601,9 @@
   "2c0751dd89a13683",
   "crudeoilfuturesjumpafterussaudistrikesoniranbackedtargets",
   "4467b3dbaccd99e3",
-  "perusonpoilpipelineharriedbyillegalsiphonings"
+  "perusonpoilpipelineharriedbyillegalsiphonings",
+  "ad9bb55a323044ad",
+  "oilpricessettleatlowestinoveraweekasuspausesattacksoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-07-29T08:50:24.025367+03:00",
+ "last_run": "2026-07-29T08:55:13.426611+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1260,6 +1260,10 @@
   {
    "d": "2026-07-29",
    "t": "API Reports Sharp U.S. Crude Stock Draw as SPR Hits New Low"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Oil prices settle at lowest in over a week, as US pauses attacks on Iran - Reuters"
   }
  ]
 }
