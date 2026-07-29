@@ -4,14 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "ffe1e2e5a392b8b8",
-  "oilpricesextenddeclineasusandiranpauseattacks",
-  "0db888c6fd3fb63d",
-  "trumpsabilitytotalkdownoilpricesisbeingtested",
-  "560588072ef08452",
-  "oilpricesfallasuspausesstrikesoniranoverstraitofhormuz",
-  "bf4c4eeb2cb29853",
-  "asiansharesslipandsouthkoreaskospiindexsinks10onheavyselling",
   "de794a2713b43209",
   "crudeoilpricesdropasmideasttensionscool",
   "23f055f84470679a",
@@ -603,7 +595,15 @@
   "4fd513bfc4fdb25f",
   "worldnuclearassociation6trillionneededtohit2050capacitygoals",
   "cb78f890a02284c0",
-  "turkeyiraqsign5agreementsdiscussplanfor1millionbarrelsofoila"
+  "turkeyiraqsign5agreementsdiscussplanfor1millionbarrelsofoila",
+  "803f36bf275c08f7",
+  "oiljumps7astrumpthreatensiranhoursbeforefeddecision",
+  "54c7e268091a1ba8",
+  "chinaandtheiranwaroilshockthatwasnt",
+  "0bde1d742b037624",
+  "vivakoradds400mincrudeoilmarketingcontracts",
+  "55ba5781d529108c",
+  "exxonmobilandchevronstocksriseafteriranstrikessparkoilrally"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -615,7 +615,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T16:30:20.883313+03:00",
+ "last_run": "2026-07-29T16:35:15.677949+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1292,6 +1292,18 @@
   {
    "d": "2026-07-29",
    "t": "Oil Prices Jump After U.S. and Iran Strikes Hit Hormuz Hopes - Barron's"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Oil Jumps 7% As Trump Threatens Iran Hours Before Fed Decision"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "China and the Iran War Oil Shock That Wasn’t - ChinaTalk | Jordan Schneider"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "ExxonMobil and Chevron Stocks Rise After Iran Strikes Spark Oil Rally - Barron's"
   }
  ]
 }
