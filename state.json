@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "210e6ec83b96d9a1",
-  "trumpsaysushassoldmorethan13billionofvenezuelaoilsincemaduro",
   "9d82ed8569e7c6be",
   "realityofthecrudetradewillcometoaheadaroundmidterms",
   "c646b0a21aa0388f",
@@ -603,7 +601,9 @@
   "f7219348695c2684",
   "filledcrudepipelinescouldcappermiangasgrowth",
   "d116878cf2378c63",
-  "stocksdriftonwallstreetandcrudeoilpricesdropasmideasttension"
+  "stocksdriftonwallstreetandcrudeoilpricesdropasmideasttension",
+  "c1963a4fdf03f55e",
+  "us"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 45
+  "count": 46
  },
- "last_run": "2026-07-29T11:25:19.177379+03:00",
+ "last_run": "2026-07-29T11:30:25.562747+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
