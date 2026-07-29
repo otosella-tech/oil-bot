@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "f3eb3c3af22ff36e",
-  "slumpingcrudeoilpricesweighonsugarprices",
   "b0b8ba5a32b6a87d",
   "septemberwticrudeoilcontractclosesdown670or75settlesat8261pe",
   "fc43482868d4749e",
@@ -603,7 +601,9 @@
   "4bba9b07fee21c3c",
   "cartelatduskopecsfutureaftertheiranwar",
   "907f2642d8383f11",
-  "wticrudeoilwaveanalysis"
+  "wticrudeoilwaveanalysis",
+  "8c5a69d12a208909",
+  "stocksaredriftingonwallstreetandcrudeoilpricesdrop6asmideast"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 25
  },
- "last_run": "2026-07-29T05:25:18.325962+03:00",
+ "last_run": "2026-07-29T05:30:18.461507+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
