@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "594f1d0a72e48948",
-  "iranracestofortifyitsmostvitaloilterminalasusthreatspersist",
   "761eb72c0d4f4bb3",
   "tyumenoilrefineryhaltsproductionafterukrainiandronestrikesou",
   "ab29ca9b29794010",
@@ -603,7 +601,9 @@
   "7419424c175ffd05",
   "fujairahdataoilproductstocksseeheaviestdeclinesince2022",
   "0d866c5845b5b46f",
-  "currentpriceofoilasofjuly232026"
+  "currentpriceofoilasofjuly232026",
+  "cca8ef0d273a6d7d",
+  "oilpricessurgeaftertrumpvowsretaliationforiranianattackabcne"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T18:40:21.429567+03:00",
+ "last_run": "2026-07-29T18:45:19.430889+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1363,6 +1363,10 @@
   {
    "d": "2026-07-29",
    "t": "Oil Prices Rise as Iran and U.S. Strikes Slow Traffic in Strait of Hormuz - The New York Times"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Oil prices surge after Trump vows retaliation for Iranian attack - ABC News - Breaking News, Latest News and Videos"
   }
  ]
 }
