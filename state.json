@@ -4,10 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "14387f4d84da70f4",
-  "saudiarabiaweighshigherasiacrudepricesasredseashippingcostsr",
-  "1b730a05dcf417a4",
-  "oilatoneweeklowasusandiranpauseattacksupplytensionunderpinse",
   "ee480604d4505137",
   "oilpricesfallafterushaltsattacksoniranthearkansasdemocrat",
   "bcad2b023ce7620e",
@@ -603,7 +599,11 @@
   "e7dda38bebb5ff34",
   "ukrainesaysithits2majorrussianoilrefinerieshoursafterzelensk",
   "d609d3aedb8fcaf6",
-  "woodsideq2outputfalls18ascyclonemaintenancehitlngproduction"
+  "woodsideq2outputfalls18ascyclonemaintenancehitlngproduction",
+  "29138842a8163f6c",
+  "sourcessaythatthediscountonrussianuralscrudeoilinindiaisdecr",
+  "fec5fecb0abc5d8d",
+  "oilpricesjumpandusstocksfallfollowingfightinginthemiddleeast"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T17:15:15.984095+03:00",
+ "last_run": "2026-07-29T17:20:17.650012+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
