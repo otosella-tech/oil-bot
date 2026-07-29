@@ -4,12 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "de794a2713b43209",
-  "crudeoilpricesdropasmideasttensionscool",
-  "23f055f84470679a",
-  "oilpricesfalltooneweeklowashopesofusiranbreakthrougheasesupp",
-  "c5480f8f676d8bad",
-  "drillingforoiltheoldfashionedwayinlittletexasindonesia",
   "65628ebdfba9f573",
   "oilpricesslidebrentcrudebelow90aspausetousiranhostilitiesapp",
   "d6df6171b4c511ea",
@@ -603,7 +597,13 @@
   "0bde1d742b037624",
   "vivakoradds400mincrudeoilmarketingcontracts",
   "55ba5781d529108c",
-  "exxonmobilandchevronstocksriseafteriranstrikessparkoilrally"
+  "exxonmobilandchevronstocksriseafteriranstrikessparkoilrally",
+  "ea4c6ac70831c155",
+  "worldsharesaremixedandsouthkoreaskospishareindexfalls6whileo",
+  "7d357db60b65256a",
+  "crudeoilpricesjumpagainandusstocksslipaheadadecisionfromthef",
+  "72ce9373b6e0bc11",
+  "usmarketsmixedaheadoffeddecisionandoilpricesjumpasmiddleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -615,7 +615,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T16:35:15.677949+03:00",
+ "last_run": "2026-07-29T16:40:23.532222+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1304,6 +1304,10 @@
   {
    "d": "2026-07-29",
    "t": "ExxonMobil and Chevron Stocks Rise After Iran Strikes Spark Oil Rally - Barron's"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "World shares are mixed and South Korea's Kospi share index falls 6%, while oil prices surge - AP News"
   }
  ]
 }
