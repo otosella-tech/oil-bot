@@ -4,10 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "9d82ed8569e7c6be",
-  "realityofthecrudetradewillcometoaheadaroundmidterms",
-  "c646b0a21aa0388f",
-  "oilspriceshockimpacteddemandmorethananyoneexpectedhereswhyth",
   "9317037a366af934",
   "higheroilpricesgiveunexpectedboosttoupstreamsectormidlandrep",
   "7e70545e545b004d",
@@ -603,7 +599,11 @@
   "d116878cf2378c63",
   "stocksdriftonwallstreetandcrudeoilpricesdropasmideasttension",
   "c1963a4fdf03f55e",
-  "us"
+  "us",
+  "a9da76a2a0c95ddb",
+  "oilgainschipstocksextendlossesaheadoffeddecisionday",
+  "210e6ec83b96d9a1",
+  "trumpsaysushassoldmorethan13billionofvenezuelaoilsincemaduro"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 46
+  "count": 47
  },
- "last_run": "2026-07-29T11:30:25.562747+03:00",
+ "last_run": "2026-07-29T11:35:18.087502+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
