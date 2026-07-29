@@ -4,10 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "c910745f641b6f76",
-  "updateusequityindexesmixedastechheadslowercrudeoilsinksonpau",
-  "9c48047bb48f4269",
-  "askepticallookatelonmusksaiutopia",
   "a10184d7dff6fada",
   "oilpricesplungeafteruspausesattacksoniranabcnews",
   "a6a2ffc7a9431a7b",
@@ -603,7 +599,11 @@
   "dae94876d35a3484",
   "oiljumpsasusiranresumestrikesafterabriefpause",
   "897f938553024e81",
-  "dowjonesfuturesriseoiljumpsonirannewsseagateskhynixklabloome"
+  "dowjonesfuturesriseoiljumpsonirannewsseagateskhynixklabloome",
+  "934deb9416c5c0d9",
+  "crudeoilfuturessep6clmainus",
+  "db6bb5c8f49150a3",
+  "oilrisesonsupplydisruptionconcernsspurredbyiranssurprisemiss"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-07-29T04:00:21.350925+03:00",
+ "last_run": "2026-07-29T04:05:12.142071+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1255,6 +1255,10 @@
   {
    "d": "2026-07-29",
    "t": "Oil jumps as U.S.-Iran resume strikes after a brief pause - CNBC"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Oil Rises on Supply-Disruption Concerns Spurred by Iran’s Surprise Missile Attack - WSJ"
   }
  ]
 }
