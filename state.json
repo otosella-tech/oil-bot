@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "32378120e0e2421a",
-  "energysectortopurchaseoiloutsidethemiddleeast",
   "33ebcc09ba7c7d12",
   "middleeastoilproducersstepupplanstobypassthestraitofhormuz",
   "50c7759f798b576a",
@@ -603,7 +601,9 @@
   "928f9b33f84ef4fc",
   "newmexicoisdividedoverwhattodowith75billioninoilcash",
   "1adfa40ae53c9a2d",
-  "oilpricessurgeafteriranianmissileattackonusforcesandsaudistr"
+  "oilpricessurgeafteriranianmissileattackonusforcesandsaudistr",
+  "933df865f7287085",
+  "australiasoilrefineryaboutfacewillneedtoovercomeseveralhurdl"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 50
+  "count": 51
  },
- "last_run": "2026-07-29T12:40:24.321241+03:00",
+ "last_run": "2026-07-29T12:45:24.328865+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
