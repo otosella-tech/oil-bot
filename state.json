@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "de56bd8102a5f72b",
-  "bgnemergesaskeytraderinkazakhstanscrudeoilexports",
   "3404d7b23c1ac96f",
   "bigoilisrakinginbillionsfromtheiranwarcanitavoidtrumpsfury",
   "479f74566adbd304",
@@ -603,7 +601,9 @@
   "1ca7da53e2cad02b",
   "usismakingmostfuelsince2019butitsstillnotenough",
   "246d1c597d787dcb",
-  "topoilgasstockpickfrombofasecurities"
+  "topoilgasstockpickfrombofasecurities",
+  "e3bfd2016446a962",
+  "diggingdeeperintooilpricesandhowtheywork"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T22:50:17.625174+03:00",
+ "last_run": "2026-07-29T22:55:21.865156+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
