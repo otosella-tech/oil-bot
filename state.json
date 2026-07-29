@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "11a213b40ee21f80",
-  "cbotreviewsoybeansgrainsfallwithcrudeoil",
   "a8d465579a929dc3",
   "stocksdriftonwallstreetandcrudeoilpricesdropasmideasttension",
   "c1f490560f1ba683",
@@ -603,7 +601,9 @@
   "9f3d07506491935f",
   "icecottondeclinesafter5dayrallyduetofallingcrudeoil",
   "9a735099a055aaae",
-  "stockswaveronwallstreetwhilecrudeoilpricesfallforthefirsttim"
+  "stockswaveronwallstreetwhilecrudeoilpricesfallforthefirsttim",
+  "5e8883aed7011771",
+  "stateofalertinmoldovasenergysector"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -615,7 +615,7 @@
   "date": "2026-07-29",
   "count": 45
  },
- "last_run": "2026-07-29T10:50:14.742048+03:00",
+ "last_run": "2026-07-29T10:55:23.404435+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
