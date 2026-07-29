@@ -4,10 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "5382120a8bbb0818",
-  "saudiarabiablamesiranbackedmilitiasforattackonoilfacilities",
-  "9212ff80de5a7c33",
-  "chinascrudeoilimportssurge",
   "d605ceeacb85e18d",
   "usstocksendmostlyhigherascoolingoilpricesliftshares",
   "040336f81f95828f",
@@ -603,7 +599,11 @@
   "9caf231632ea6155",
   "stockstumbleasaispendingandoilpricesweighonmarket",
   "b5b6965a54f21182",
-  "jordaninterceptsiranianmissilesasusandsaudiarabialaunchstrik"
+  "jordaninterceptsiranianmissilesasusandsaudiarabialaunchstrik",
+  "01a216f2e556b567",
+  "iranrejectsomansproposaltoevenlydividehormuzcontrol",
+  "500a33cfa3b42f9d",
+  "didchinaquietlydefuseiransoilweaponproghalibafpaperasksoutlo"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 57
+  "count": 58
  },
- "last_run": "2026-07-29T14:25:19.126855+03:00",
+ "last_run": "2026-07-29T14:30:27.047812+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
