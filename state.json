@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "bbfe5a44357e8e53",
-  "whyaremarketsshruggingoffthelatestjumpinoilprices",
   "ff0aeb58242c0951",
   "risingoilpricescouldforceupukinterestratessayeconomists",
   "d0de934371a48fe1",
@@ -603,7 +601,9 @@
   "a7e923df1c8f25bf",
   "remediationeffortscontinueaftereastlaoilspill",
   "435dbb51e0316300",
-  "houthithreattriggerstankercrunchassaudioilreroutes"
+  "houthithreattriggerstankercrunchassaudioilreroutes",
+  "4092feafb9a9a666",
+  "theusarmyjustcalledchinasbluffintherareearthwar"
  ],
  "releases_done": {
   "2026-07-28|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-07-29T02:55:14.088458+03:00",
+ "last_run": "2026-07-29T03:00:26.710424+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1243,6 +1243,10 @@
   {
    "d": "2026-07-29",
    "t": "Houthi threat triggers tanker crunch as Saudi oil reroutes - S&P Global"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "The U.S. Army Just Called China’s Bluff in the Rare Earth War"
   }
  ]
 }
