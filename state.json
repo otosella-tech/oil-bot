@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "b1a3956b0c04de3a",
-  "stocksaredriftingonwallstreetandcrudeoilpricesdrop6percentas",
   "b3b54f7dd5a483e3",
   "kocsigns16billioninfrastructurepartnershiptosupport4mmbpdpro",
   "9a735099a055aaae",
@@ -603,7 +601,9 @@
   "1ae7cc98252c89ef",
   "adnocdefieshormuzrisksasuaelngexportscontinue",
   "ef434e6f9415da80",
-  "bpsells15interestiniraqskirkukoilandgasbusinesstotpao"
+  "bpsells15interestiniraqskirkukoilandgasbusinesstotpao",
+  "32ace41900ddadcc",
+  "opeceyespauseinoiloutputhikesafterseptember"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-29",
-  "count": 43
+  "count": 44
  },
- "last_run": "2026-07-29T10:30:18.377935+03:00",
+ "last_run": "2026-07-29T10:35:13.821181+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
