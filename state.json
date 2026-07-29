@@ -4,8 +4,6 @@
   "Brent": 87.91
  },
  "seen": [
-  "ad9bb55a323044ad",
-  "oilpricessettleatlowestinoveraweekasuspausesattacksoniran",
   "61dcc02a0cc7c2af",
   "theresopportunityinoilrefinerstocksoverthelongtermsaysgoldma",
   "d8d9c02da8c0afa8",
@@ -603,7 +601,9 @@
   "c54d64d4c0a1458f",
   "usdollardeclinescrudeoilsurgesbasemetalsbroadlyriselithiumca",
   "2c0751dd89a13683",
-  "crudeoilfuturesjumpafterussaudistrikesoniranbackedtargets"
+  "crudeoilfuturesjumpafterussaudistrikesoniranbackedtargets",
+  "4467b3dbaccd99e3",
+  "perusonpoilpipelineharriedbyillegalsiphonings"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -615,7 +615,7 @@
   "date": "2026-07-29",
   "count": 36
  },
- "last_run": "2026-07-29T08:45:21.094708+03:00",
+ "last_run": "2026-07-29T08:50:24.025367+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
