@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "082722eb1be2125e",
-  "crudeoilpriceanalysiswtibouncesasbuyersdefend200dayema",
   "70ea8f7473fc8be0",
   "oilmarketrapidlystripsoutiranwarpremium",
   "dfbe5183ff663b8f",
@@ -603,7 +601,9 @@
   "1a79b2a4ef164de4",
   "fedtoissueinterestratedecisionasgaspricesriseabcnews",
   "dcb52eae6506fc8b",
-  "whygraniteridgeresourcesgrntstockisuptoday"
+  "whygraniteridgeresourcesgrntstockisuptoday",
+  "ab6eea91dcf2e480",
+  "shellphillips66weighsaleofstakesin35billionuspipelineexplore"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T21:35:13.083191+03:00",
+ "last_run": "2026-07-29T21:40:18.249425+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1423,6 +1423,10 @@
   {
    "d": "2026-07-29",
    "t": "Update: US Equity Indexes Slump Ahead of Fed Policy Moves, Big-Tech Results; Crude Oil Soars as Trump Vows to Hit Iran Hard - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Shell, Phillips 66 weigh sale of stakes in $3.5 billion US pipeline Explorer, sources say - reuters.com"
   }
  ]
 }
