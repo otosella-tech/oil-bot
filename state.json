@@ -4,10 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "4e62da3e6df46bb7",
-  "stocksmixedoilandtreasuryyieldsdroponiranuspause",
-  "c63b3855b31d3829",
-  "palmoilcontinuesrecentdeclineonweakercrudeoil",
   "ffe1e2e5a392b8b8",
   "oilpricesextenddeclineasusandiranpauseattacks",
   "0db888c6fd3fb63d",
@@ -603,7 +599,11 @@
   "55ea0cc0d90f31c1",
   "twonewcrudeoilprogramsliftvivakorsplatformto184mbarrelsayear",
   "a3d00c1b1251be29",
-  "oilpricesjumpafterusandiranstrikeshithormuzhopes"
+  "oilpricesjumpafterusandiranstrikeshithormuzhopes",
+  "4fd513bfc4fdb25f",
+  "worldnuclearassociation6trillionneededtohit2050capacitygoals",
+  "cb78f890a02284c0",
+  "turkeyiraqsign5agreementsdiscussplanfor1millionbarrelsofoila"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -615,7 +615,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T16:25:15.169432+03:00",
+ "last_run": "2026-07-29T16:30:20.883313+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
