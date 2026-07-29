@@ -4,12 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "ee480604d4505137",
-  "oilpricesfallafterushaltsattacksoniranthearkansasdemocrat",
-  "bcad2b023ce7620e",
-  "saudiaramcoisconsideringnewpricingforsidikerirexportsofoilto",
-  "0a98c6cc8c68c9a0",
-  "oilatoneweeklowasusandiranpauseattacksupplytensionunderpins",
   "4874951bb1e6c738",
   "oilfuturescrudeextendslossesredseatensionseyed",
   "91a2bc2229a806d3",
@@ -603,7 +597,13 @@
   "29138842a8163f6c",
   "sourcessaythatthediscountonrussianuralscrudeoilinindiaisdecr",
   "fec5fecb0abc5d8d",
-  "oilpricesjumpandusstocksfallfollowingfightinginthemiddleeast"
+  "oilpricesjumpandusstocksfallfollowingfightinginthemiddleeast",
+  "202bdd1370415787",
+  "ingsaysdollartotakecuefromoilpricesiffedholdsrate",
+  "d7fcdeecf587bae3",
+  "breakingoilpricesspike5asussaudistrikesiranalignedtargetsini",
+  "6a6645e81ad349ef",
+  "oilpricessurgeasbrentjumpsover6followinghouthitankerattackan"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T17:20:17.650012+03:00",
+ "last_run": "2026-07-29T17:25:13.196708+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
@@ -1322,6 +1322,14 @@
   {
    "d": "2026-07-29",
    "t": "Oil Prices Spike, ExxonMobil and Chevron Stocks Rise After Iran Strikes - Barron's"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Breaking: Oil Prices Spike 5% as US-Saudi Strikes Iran-Aligned Targets in Iraq, Bitcoin Slips - Yahoo Finance"
+  },
+  {
+   "d": "2026-07-29",
+   "t": "Oil Prices Surge as Brent Jumps Over 6% Following Houthi Tanker Attack and US-Saudi Strikes in Iraq - TradingKey"
   }
  ]
 }
