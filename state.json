@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "dfbe5183ff663b8f",
-  "crudeoilpricesfallasiranpausepullsbrentandwtilower",
   "c5ed1cd4a0190456",
   "shelcvxoxycrudeoilpricesplunge10asiranfightingispaused",
   "ca66cc1e56c916ec",
@@ -603,7 +601,9 @@
   "ab6eea91dcf2e480",
   "shellphillips66weighsaleofstakesin35billionuspipelineexplore",
   "1c8c283a0db9c674",
-  "ussanctionschinesehongkongshippingfirmsoveriranianoildeliver"
+  "ussanctionschinesehongkongshippingfirmsoveriranianoildeliver",
+  "0d48c5d8adc0b190",
+  "uscrudeoilinventoriesdropsharplyby7167millionbarrelsfarexcee"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-29",
   "count": 60
  },
- "last_run": "2026-07-29T21:45:15.627581+03:00",
+ "last_run": "2026-07-29T21:50:15.364019+03:00",
  "sent_stories": [
   {
    "d": "2026-07-26",
