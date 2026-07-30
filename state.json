@@ -4,12 +4,6 @@
   "Brent": 89.92
  },
  "seen": [
-  "8d46b884f2ecffe8",
-  "ukrainesaysithitamajorrussianoilrefineryhoursafterzelenskyys",
-  "b591a30c072f6e03",
-  "torontofuturesclimbasoilgainsfedmeetinfocus",
-  "ff582bc515f1912a",
-  "vivakorexpandscrudeoilbusinessagaintargets15billionannualpla",
   "e3e2d4f202c81bcd",
   "forecastupdateforcrudeoil29072026",
   "a3922c37a9c7b899",
@@ -603,7 +597,13 @@
   "314aef7e25080373",
   "australiasoilrefineryaboutfacewillneedtoovercomeseveralhurdl",
   "f98ef42407de892c",
-  "goldcontinuestohold4000asusiranpausepressurescrudeoil"
+  "goldcontinuestohold4000asusiranpausepressurescrudeoil",
+  "cd858d4d047656a8",
+  "oilpricesfallaftersaudiarabiaproposesnavalcoalitiontoprotect",
+  "7f2f3b66b9344652",
+  "fuelingimpacthowtoimprovepersonalbrandingintheoilandgasindus",
+  "43ecec7048b04917",
+  "combiningoperationalhrautomationisthekeytooptimizinghumancap"
  ],
  "releases_done": {},
  "last_digest": "2026-07-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-31",
-  "count": 1
+  "count": 3
  },
- "last_run": "2026-07-31T00:35:13.372051+03:00",
+ "last_run": "2026-07-31T00:45:16.879727+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
@@ -1016,6 +1016,10 @@
   {
    "d": "2026-07-30",
    "t": "Oil prices rise after U.S. blocks surprise attack from Iran - CNBC"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "Oil prices fall after Saudi Arabia proposes naval coalition to protect ships from attack - CNBC"
   }
  ]
 }
