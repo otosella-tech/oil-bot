@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "daf58eba6236896f",
-  "saudiaramcoshuts400000bpdrefineryafterhouthistrike",
   "a8a627ac795e0455",
   "fedratedecisionandcrudeoilinventoriesamongeconomicdataduewed",
   "f2f1787c847c6a66",
@@ -603,7 +601,9 @@
   "e0cf692f8df58752",
   "govtcutsjapansfy2026gdpgrowthoutlookto09onhigheroilprices",
   "ad6f106eda97729d",
-  "andwewillhaveeverycountrywhoborrowedforthepastfewmthsrushing"
+  "andwewillhaveeverycountrywhoborrowedforthepastfewmthsrushing",
+  "4d99c6dcdbc80d58",
+  "japanturnstocanadiancrudeasasiafeelshormuzsupplypinch"
  ],
  "releases_done": {
   "2026-07-29|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-07-30",
-  "count": 10
+  "count": 11
  },
- "last_run": "2026-07-30T04:45:17.017730+03:00",
+ "last_run": "2026-07-30T04:50:19.147445+03:00",
  "sent_stories": [
   {
    "d": "2026-07-27",
