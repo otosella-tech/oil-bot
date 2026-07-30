@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "dc9642ded38dae80",
-  "ussaleofvenezuelasoilhits13billionsincetrumpstakeover",
   "934074a90b0dbd18",
   "opecpreparestostopraisingoiloutputtargets",
   "b7c63e5f26f91254",
@@ -603,7 +601,9 @@
   "c446424327c4e5f9",
   "dowdropsover1100pointsassinkingtechstockscombinewithjumpingo",
   "58d9ce98fa6597a2",
-  "palmopensloweronweakerrivaloilscrudeoilprices"
+  "palmopensloweronweakerrivaloilscrudeoilprices",
+  "4048bbf613242f14",
+  "oilpricesslipdespitenewattacksacrossthemiddleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-30",
-  "count": 12
+  "count": 13
  },
- "last_run": "2026-07-30T07:00:21.276802+03:00",
+ "last_run": "2026-07-30T07:05:12.466707+03:00",
  "sent_stories": [
   {
    "d": "2026-07-27",
