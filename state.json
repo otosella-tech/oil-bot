@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 84.18,
+  "WTI": 85.87,
   "Brent": 91.84
  },
  "seen": [
-  "553ddd942bf95208",
-  "saudiarabiahasanewandpricierworkaroundtoexportitsoil",
   "4e6d432f16e3a748",
   "dowrallieswhilechipstocksdecline",
   "6367e7d47fe0d5d8",
@@ -603,7 +601,9 @@
   "05cd4223af4c3864",
   "oilgiantshellsmashesexpectationsasprofitsmorethandoubleinsec",
   "c16ea740cdf4b7d4",
-  "eiareportsabigdrawinuscrudeoilstocks"
+  "eiareportsabigdrawinuscrudeoilstocks",
+  "5d5883acf1e1d876",
+  "shellmorethandoublesitsprofitinq2beatingexpectations"
  ],
  "releases_done": {},
  "last_digest": "2026-07-30",
@@ -615,7 +615,7 @@
   "date": "2026-07-30",
   "count": 23
  },
- "last_run": "2026-07-30T09:35:13.127882+03:00",
+ "last_run": "2026-07-30T09:40:15.731509+03:00",
  "sent_stories": [
   {
    "d": "2026-07-27",
