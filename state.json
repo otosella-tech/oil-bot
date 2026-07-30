@@ -4,10 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "934074a90b0dbd18",
-  "opecpreparestostopraisingoiloutputtargets",
-  "b7c63e5f26f91254",
-  "erdogansaysturkeycouldget1mbarrelsofoiladayfromenergydealwit",
   "09c0e48eb506aefa",
   "brentoilslidesmorethan6asusirantalksgainsteam",
   "e5da3499d88b17c8",
@@ -603,7 +599,11 @@
   "58d9ce98fa6597a2",
   "palmopensloweronweakerrivaloilscrudeoilprices",
   "4048bbf613242f14",
-  "oilpricesslipdespitenewattacksacrossthemiddleeast"
+  "oilpricesslipdespitenewattacksacrossthemiddleeast",
+  "d1e56298d603cec4",
+  "crudepricesretreatasoilcontinuesflowingthroughhormuzalternat",
+  "6cce3f21895519fe",
+  "ussaleofvenezuelasoilhits13billionsincetrumpstakeover"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-30",
-  "count": 13
+  "count": 14
  },
- "last_run": "2026-07-30T07:05:12.466707+03:00",
+ "last_run": "2026-07-30T07:10:15.030883+03:00",
  "sent_stories": [
   {
    "d": "2026-07-27",
