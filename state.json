@@ -4,8 +4,6 @@
   "Brent": 89.8
  },
  "seen": [
-  "7293ff8cdc482643",
-  "pumppricesriseagainthisweekbutapauseinusiranhostilitiessends",
   "ce688b12c33778e8",
   "californiagaspriceskeepclimbingamidiranwarwhatyoullpayatthep",
   "cc975146d75ce83a",
@@ -603,7 +601,9 @@
   "07ec0a651124a7c0",
   "oilpricesslipastankerscontinuetoplymiddleeastconflictzones",
   "89050e04dfc12b3a",
-  "shelloilspillsandhumanrightsinnigeriawhatyouneedtoknow"
+  "shelloilspillsandhumanrightsinnigeriawhatyouneedtoknow",
+  "018346323dbd4c59",
+  "currentpriceofoilasofjuly222026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-29",
@@ -615,7 +615,7 @@
   "date": "2026-07-30",
   "count": 15
  },
- "last_run": "2026-07-30T07:30:17.623990+03:00",
+ "last_run": "2026-07-30T07:35:21.075174+03:00",
  "sent_stories": [
   {
    "d": "2026-07-27",
