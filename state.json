@@ -4,14 +4,6 @@
   "Brent": 91.84
  },
  "seen": [
-  "6b0219a331a7ba2f",
-  "uscrudeoilinventoriesbuildagaindespitehormuzdisruption",
-  "32f90472b2808b4f",
-  "refinedfuelsnotcrudearedrivingtheoilmarketcrunch",
-  "a1dc36f67e37c428",
-  "globaloilpricessettleata2weeklowastrumpmeetswithnetanyahutod",
-  "ebe8c437dca8f177",
-  "canadianfinancialclosecfirmdespitecrudeoillosses",
   "ac2ea4d54522325b",
   "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths",
   "1a7021726fd8ed3e",
@@ -603,7 +595,15 @@
   "99fc702712c23e7f",
   "whydidwticrudeoilfalldespiteescalatingmiddleeasttensions",
   "28604fde59ac06de",
-  "oilmarketsareonedgeagain"
+  "oilmarketsareonedgeagain",
+  "88830de7daae3f97",
+  "inthewatersoffmalaysiairanianoilsalescontinuedespiteblockade",
+  "8a5c776aa09a7cb6",
+  "newdowceodrivestransformationbacktoprofitabilityamidoilmarke",
+  "61907fb4205beaed",
+  "shellprofitsdoubleasoilpricesriseduetoiranwar",
+  "486bef7f692be917",
+  "shellsprofitsmorethandoubleafterjumpinoilandgasprices"
  ],
  "releases_done": {},
  "last_digest": "2026-07-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-30",
-  "count": 23
+  "count": 24
  },
- "last_run": "2026-07-30T10:00:22.626209+03:00",
+ "last_run": "2026-07-30T10:15:57.920383+03:00",
  "sent_stories": [
   {
    "d": "2026-07-27",
