@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "b7d63c0620523365",
-  "iransaystwooiltankersditchedattempttotransithormuz",
   "aa4db21a9e9857eb",
   "chinascoalpricessurgeasscorchingheatdrivespowerdemand",
   "e21508a72c9b4d4e",
@@ -603,7 +601,9 @@
   "67b22b140d1920b6",
   "whygasolinepricesdontalwaysmoveinlockstepwithcrudeoilprices",
   "480c1f34b245cc7a",
-  "chevronpostslargestquarterlyprofiteverexxonincomesurgesasira"
+  "chevronpostslargestquarterlyprofiteverexxonincomesurgesasira",
+  "c3f60714970f87e8",
+  "supplydisruptionsunderpincrudeoilprices"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T22:20:17.352961+03:00",
+ "last_run": "2026-07-31T22:25:15.672970+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
