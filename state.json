@@ -4,10 +4,6 @@
   "Brent": 88.01
  },
  "seen": [
-  "19fae1729d2f9210",
-  "herewegoagainwhyoilkeepstumblingevenwhentheiranwardragson",
-  "226ac19ef56beb76",
-  "ukrainesattackoniraniancargoshiplinkstwowars",
   "fe2540f9f73e7d38",
   "eiauscrudeoilinventoriesdown72millionbbl",
   "b1afcf3e91ab9652",
@@ -603,7 +599,11 @@
   "eeb87944f4d226e2",
   "oipriceschoppyasrecoveringhormuzstraittraffictemperswarpremi",
   "1956cee55ed3204c",
-  "oilsteadyastradersassessshippingflowsmonthlygainsinsight"
+  "oilsteadyastradersassessshippingflowsmonthlygainsinsight",
+  "7c10854fc138e7e5",
+  "iranwardrivesoilprofitstohighestlevelsinyears",
+  "32eb4148bcb6ccba",
+  "engineeringpeakoilchinasstrategytoreplaceimportedcrude"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-31",
-  "count": 39
+  "count": 40
  },
- "last_run": "2026-07-31T13:40:16.287510+03:00",
+ "last_run": "2026-07-31T13:45:21.271273+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
