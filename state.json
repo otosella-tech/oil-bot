@@ -4,8 +4,6 @@
   "Brent": 88.01
  },
  "seen": [
-  "a53dbb5dfe7eb740",
-  "glencoresees33billiontradingprofitasiranwarrattlesoilmarkets",
   "4b53fc19d72d89fc",
   "usoilinventoriesfall72millionbarrelsamidwarescalation",
   "e81a4f1b7fac1e1f",
@@ -603,7 +601,9 @@
   "fdfe5a38b10713fa",
   "nationalaveragegaspriceholdsat409ashighoilpriceskeepfuelcost",
   "f03dc18cb001400a",
-  "adnocbuysfivesupertankersashormuzcrisistightensshipping"
+  "adnocbuysfivesupertankersashormuzcrisistightensshipping",
+  "13ca47632be8cc08",
+  "currentpriceofoilasofjuly282026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -615,7 +615,7 @@
   "date": "2026-07-31",
   "count": 37
  },
- "last_run": "2026-07-31T12:45:14.236297+03:00",
+ "last_run": "2026-07-31T12:50:15.008711+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
