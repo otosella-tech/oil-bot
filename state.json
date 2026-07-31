@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "43d5674742c351a5",
-  "oilfuturescrudeextendsgainsasmideasttensionsremainhigh",
   "478a3823ac328764",
   "oilpriceshockfuels35surgeinglobalevsales",
   "ccc91d11c49c6c1d",
@@ -603,7 +601,9 @@
   "70d90e42e43e7863",
   "oilrisesastradersassessshippingflowsbigmonthlygaininsight",
   "2db223b3e6f3461b",
-  "chevronsees50growthinvenezuelaoilproductionbyendof2028cfo"
+  "chevronsees50growthinvenezuelaoilproductionbyendof2028cfo",
+  "e4fae5468fdfeb15",
+  "septemberwticrudeoilcontractclosesup108or13settlesat8467perb"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T21:40:16.328068+03:00",
+ "last_run": "2026-07-31T21:45:14.544268+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
