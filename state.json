@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "97460c48467e3e1a",
-  "hrwreportsaysoilproductionindrcposessevereenvironmentalandhe",
   "57f53ddb09e2591d",
   "shellplans31bnofbuybacksasprofitssoaronhigheroilprices",
   "f9ba9ce37585d1ca",
@@ -603,7 +601,9 @@
   "805470835d58507e",
   "exxonandchevrons265billionquarterdrawstrumpsire",
   "a0cdf3f15f125652",
-  "chevronrecordshighestquarterlyprofitinsixyearsbeatinganalyst"
+  "chevronrecordshighestquarterlyprofitinsixyearsbeatinganalyst",
+  "8e373360420165e2",
+  "oilgiantsreportblowoutprofitsonwarwarnhighgaspricescouldpers"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T21:20:15.998655+03:00",
+ "last_run": "2026-07-31T21:25:22.150919+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
