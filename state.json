@@ -4,12 +4,6 @@
   "Brent": 88.01
  },
  "seen": [
-  "2786acd5406834c8",
-  "oilpricesjump7aftertrumpsaysuswillhitiranhard",
-  "20c00d884788f68e",
-  "texasimportsofvenezuelanoilsoaraswarchokesoffmiddleeastsuppl",
-  "160fa3fe28b67a9f",
-  "usmilitarysupporthelped1000vesselscarry500mbarrelsofoilviaho",
   "bdca008c73fbb5f7",
   "whyisoilrebounding",
   "c1754ca795ac60f5",
@@ -603,7 +597,13 @@
   "fe59561074ddfa65",
   "oilfuturescrudeincheslowerhormuzflowseyed",
   "add27502a96021a9",
-  "britishoilgiantbplaunchessaleofnorthseabusiness"
+  "britishoilgiantbplaunchessaleofnorthseabusiness",
+  "8ec9f92b2e9dc733",
+  "oilfallsonslightlyimprovedflowsthroughgulfsetformonthlygain",
+  "1043481aaeb3754a",
+  "usstrategicoilinventoriesaredangerouslylow",
+  "23e9dced24946250",
+  "twooilsupertankersexithormuzastrafficremainssparse"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-31",
-  "count": 35
+  "count": 36
  },
- "last_run": "2026-07-31T12:05:13.829203+03:00",
+ "last_run": "2026-07-31T12:10:15.948632+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
