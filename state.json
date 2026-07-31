@@ -4,12 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "b9f9762b8beff6f1",
-  "whyglobaldieselmarketshavestoppedfollowingcrudeoilslead",
-  "41b53a4743b019c5",
-  "canwticrudeoilbreakabovethe8500resistance",
-  "99fc702712c23e7f",
-  "whydidwticrudeoilfalldespiteescalatingmiddleeasttensions",
   "28604fde59ac06de",
   "oilmarketsareonedgeagain",
   "88830de7daae3f97",
@@ -603,7 +597,13 @@
   "d2537f54eb0f57b8",
   "exxonmade160millionperdaylastquarterasoilpricessurged",
   "205305c69059b669",
-  "canadasenbridgepostponesplansforsecondphaseofmainlineoilpipe"
+  "canadasenbridgepostponesplansforsecondphaseofmainlineoilpipe",
+  "4acb0b269debf655",
+  "ukrainestrikeslukoilsvolgogradrefineryasdroneattacksresume",
+  "c48e2b9616797e86",
+  "oilpricesriseafteriransaysitattackedtwotankerstransitingstra",
+  "b0749f6fc7ae4bf9",
+  "eveningupdateforcrudeoil31072026"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T19:25:14.160513+03:00",
+ "last_run": "2026-07-31T19:30:19.677347+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
@@ -1102,6 +1102,14 @@
   {
    "d": "2026-07-31",
    "t": "Canada's Enbridge postpones plans for second phase of Mainline oil pipeline expansion - Reuters"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "Ukraine Strikes Lukoil's Volgograd Refinery as Drone Attacks Resume"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "Oil prices rise after Iran says it attacked two tankers transiting Strait of Hormuz - CNBC"
   }
  ]
 }
