@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "28604fde59ac06de",
-  "oilmarketsareonedgeagain",
   "88830de7daae3f97",
   "inthewatersoffmalaysiairanianoilsalescontinuedespiteblockade",
   "8a5c776aa09a7cb6",
@@ -603,7 +601,9 @@
   "c48e2b9616797e86",
   "oilpricesriseafteriransaysitattackedtwotankerstransitingstra",
   "b0749f6fc7ae4bf9",
-  "eveningupdateforcrudeoil31072026"
+  "eveningupdateforcrudeoil31072026",
+  "4f5b9586d2c79414",
+  "theweekinoilcrudeontrackfor20monthlygainafteriranwardisrupts"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T19:30:19.677347+03:00",
+ "last_run": "2026-07-31T19:35:20.773308+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
@@ -1110,6 +1110,10 @@
   {
    "d": "2026-07-31",
    "t": "Oil prices rise after Iran says it attacked two tankers transiting Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "The Week in Oil : Crude on Track for 20% Monthly Gain After Iran War Disrupts Key Shipping Routes - marketscreener.com"
   }
  ]
 }
