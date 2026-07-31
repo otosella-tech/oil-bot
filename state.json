@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "1df2e0a9a257cb94",
-  "oilpricesignorethewarningsignsinphysicalmarkets",
   "0dc9ab9ef60613a3",
   "longislandgasolinepricestop4pergallonasiranwardisruptsoilpro",
   "219648486697427a",
@@ -603,7 +601,9 @@
   "1f8d549bba6d843c",
   "sprgetsdrainedtodumpcrudeoilonglobalmarketsusexportsofcrudeo",
   "d1f1616a55ad845e",
-  "vcmoneyfloodsintousnuclearstartupsasaipowerdemandexplodes"
+  "vcmoneyfloodsintousnuclearstartupsasaipowerdemandexplodes",
+  "bde355f93959bd21",
+  "kkrblackstoneandbrookfieldbet16billiononkuwaitsoilpipelinede"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-01",
   "count": 1
  },
- "last_run": "2026-08-01T01:15:22.820820+03:00",
+ "last_run": "2026-08-01T01:20:20.742628+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
