@@ -4,8 +4,6 @@
   "Brent": 88.01
  },
  "seen": [
-  "c5480f8f676d8bad",
-  "drillingforoiltheoldfashionedwayinlittletexasindonesia",
   "2d7b1c92713fed30",
   "crudeoilpricesjumpagainusstocksslipaheadadecisionfromfedonin",
   "a0f000d5d19984f2",
@@ -603,7 +601,9 @@
   "c59b65373d4276a1",
   "oilfallsmorethan1ongreaterflowsdespiteusiranwar",
   "c63079cbaeb90913",
-  "kazakhstanintalkstoprocessrussiancrudeamidrussiafuelshortage"
+  "kazakhstanintalkstoprocessrussiancrudeamidrussiafuelshortage",
+  "4f0dae705db6cf93",
+  "oiluscrudepriceforecastfortodaytomorrownextweekandnext30days"
  ],
  "releases_done": {},
  "last_digest": "2026-07-30",
@@ -615,7 +615,7 @@
   "date": "2026-07-31",
   "count": 15
  },
- "last_run": "2026-07-31T06:45:16.610340+03:00",
+ "last_run": "2026-07-31T06:50:14.706592+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
