@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "b87d78b2521e27db",
-  "qatarturnstoamericanlngafteriranwarcripplesraslaffan",
-  "18486111a885ef41",
-  "goldmansachsdieselcrunchisnowthebiggestthreatinoilmarkets",
   "b7d63c0620523365",
   "iransaystwooiltankersditchedattempttotransithormuz",
   "aa4db21a9e9857eb",
@@ -603,7 +599,11 @@
   "0b30f3f1f0bd49cb",
   "whytrumpstradethreatputsspainsenergysecurityontheline",
   "e857d2e57b3c3936",
-  "mexicospemexpostslowerquarterlyprofitreshapessupplierdebtami"
+  "mexicospemexpostslowerquarterlyprofitreshapessupplierdebtami",
+  "67b22b140d1920b6",
+  "whygasolinepricesdontalwaysmoveinlockstepwithcrudeoilprices",
+  "480c1f34b245cc7a",
+  "chevronpostslargestquarterlyprofiteverexxonincomesurgesasira"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T22:15:14.506911+03:00",
+ "last_run": "2026-07-31T22:20:17.352961+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
@@ -1128,6 +1128,10 @@
   {
    "d": "2026-07-31",
    "t": "Chevron sees 50% growth in Venezuela oil production by end of 2028: CFO - S&P Global"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "Chevron posts largest quarterly profit ever, Exxon income surges as Iran war squeezes oil supply - Fortune"
   }
  ]
 }
