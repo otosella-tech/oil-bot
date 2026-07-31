@@ -4,14 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "b151a352b2125b64",
-  "refineryattackskeepeuropeanfuelpricesaroundrecordhighs",
-  "c4d10b2db68c6bf1",
-  "shellturnsrefineriesupto11duringoilpricesurge",
-  "65da1d871803e23d",
-  "exclusiveamericanoilmajorstryingtogetintovenezuelahavehitawa",
-  "cddf27b04226593e",
-  "africaslargestrefinerywillconsume25oftheworldstradedcrudeoil",
   "4696a24d43e7a125",
   "indianrupeeendsnearlyflatwedgedbetweenoilswingsrbiinterventi",
   "fda57018b77e397b",
@@ -603,7 +595,15 @@
   "8cfbe96bc16e2ef3",
   "usequityindexesriseamidamazonfueledgainsinconsumerdiscretion",
   "267b55e7e963896a",
-  "abqaiqisawarningthatoilmarketsmaybemisreading"
+  "abqaiqisawarningthatoilmarketsmaybemisreading",
+  "d72fab5166cc75a2",
+  "iranbackedmilitantgroupsthreattosaudienergyhubcouldupendtrum",
+  "1880cd7c1f996b25",
+  "federalappealscourtoilpipelinetrespassingonwisconsintriballa",
+  "e5e01a98c24e801d",
+  "oilnewshormuzshipcountskeepcrudeoilfuturesbiddespiteweakdema",
+  "f9351a53ac4f2336",
+  "significantshrinkingincrudecushionincomingmonthsvortexa"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T23:10:24.406508+03:00",
+ "last_run": "2026-07-31T23:17:41.673723+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
@@ -1145,6 +1145,10 @@
   {
    "d": "2026-07-31",
    "t": "Abqaiq Is a Warning That Oil Markets May Be Misreading"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "Oil News: Hormuz Ship Counts Keep Crude Oil Futures Bid Despite Weak Demand - FXEmpire"
   }
  ]
 }
