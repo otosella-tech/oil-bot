@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "94ccfb08335eea2f",
-  "oilstockswiththemosttogainfromhighercrudeprices",
   "115ff639187907a0",
   "shellpostsbestquarterlyprofitinfouryearsasiranwarboostsoilan",
   "5577f1c6b3f01b87",
@@ -603,7 +601,9 @@
   "64451874becef53d",
   "koreaargentinasignkeymineralsmouagreetoboostoilimports",
   "f5e876d0ef16595d",
-  "usoiloutputexportsrunstrongasthesprhitsa43yearlow"
+  "usoiloutputexportsrunstrongasthesprhitsa43yearlow",
+  "e4979027d5f96f52",
+  "thestraitofhormuzisexposingablindspotintheenergytransition"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-01",
-  "count": 2
+  "count": 3
  },
- "last_run": "2026-08-01T01:50:15.044473+03:00",
+ "last_run": "2026-08-01T01:56:09.488466+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
