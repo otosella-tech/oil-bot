@@ -4,8 +4,6 @@
   "Brent": 88.01
  },
  "seen": [
-  "b1afcf3e91ab9652",
-  "oilspikes7vixup10asnasdaq100sinkbeforefedstatestreetenergyse",
   "c403e79055d0f2bc",
   "usoilinventoriesfalltoprecariouslylowlevelasiranwardisruptss",
   "e5b8d46741e6ac76",
@@ -603,7 +601,9 @@
   "32eb4148bcb6ccba",
   "engineeringpeakoilchinasstrategytoreplaceimportedcrude",
   "f5bb01ac0877894d",
-  "currentpriceofoilasofjuly312026"
+  "currentpriceofoilasofjuly312026",
+  "cea76a7c37934277",
+  "exxonmobilandchevronreport265billioninprofitsaslawmakerstake"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -615,7 +615,7 @@
   "date": "2026-07-31",
   "count": 40
  },
- "last_run": "2026-07-31T13:55:14.078065+03:00",
+ "last_run": "2026-07-31T14:00:23.746799+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
