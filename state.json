@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "aa4db21a9e9857eb",
-  "chinascoalpricessurgeasscorchingheatdrivespowerdemand",
-  "e21508a72c9b4d4e",
-  "shellreports98billioninadjustedearningsasenergypricessurge",
   "4538f31c19391400",
   "currentpriceofoilasofjuly302026",
   "ab14750fbd77a9dd",
@@ -603,12 +599,17 @@
   "480c1f34b245cc7a",
   "chevronpostslargestquarterlyprofiteverexxonincomesurgesasira",
   "c3f60714970f87e8",
-  "supplydisruptionsunderpincrudeoilprices"
+  "supplydisruptionsunderpincrudeoilprices",
+  "0eb57103280bce59",
+  "largecapenergystockslongtermrecordsendscautionarysignal",
+  "517e52ff2b41accc",
+  "hereshowbigoilcashedinonthehistoricsupplycrunch"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|post": 1,
-  "2026-07-31|דוח פוזיציות ספקולנטים (CFTC COT)|pre": 1
+  "2026-07-31|דוח פוזיציות ספקולנטים (CFTC COT)|pre": 1,
+  "2026-07-31|דוח פוזיציות ספקולנטים (CFTC COT)|post": 1
  },
  "last_digest": "2026-07-31",
  "digest_prices": {
@@ -619,7 +620,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T22:25:15.672970+03:00",
+ "last_run": "2026-07-31T22:30:22.602961+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
