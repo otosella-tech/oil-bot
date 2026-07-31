@@ -4,12 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "246d1c597d787dcb",
-  "topoilgasstockpickfrombofasecurities",
-  "e3bfd2016446a962",
-  "diggingdeeperintooilpricesandhowtheywork",
-  "a605cbbe1f5933fc",
-  "trumpadministrationpicksfivestatesfornuclearfuel",
   "49ebe190585bfd27",
   "oilpricesjumpfollowingfightingwithiranwhileusstockssinkafter",
   "0bfb2cd17a4e1246",
@@ -603,7 +597,13 @@
   "124aa7b1a1fc8ac6",
   "oilrisesover1astradersassessshippingflowsmonthlygainsinsight",
   "4f1d16f710bf3aeb",
-  "saudishipsshunredseachokepointforrareafricajourney"
+  "saudishipsshunredseachokepointforrareafricajourney",
+  "76ef66731b33308a",
+  "oilfuturescrudereboundsashormuzcpcdisruptionseyed",
+  "4296287c773bbdda",
+  "twovlccsexitstraitofhormuzwheretrafficremainsthin",
+  "4e241c62805abb61",
+  "forecastupdateforcrudeoil31072026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-31",
-  "count": 47
+  "count": 48
  },
- "last_run": "2026-07-31T15:10:15.105068+03:00",
+ "last_run": "2026-07-31T15:15:16.026764+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
