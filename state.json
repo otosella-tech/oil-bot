@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "ad6f106eda97729d",
-  "andwewillhaveeverycountrywhoborrowedforthepastfewmthsrushing",
   "4d99c6dcdbc80d58",
   "japanturnstocanadiancrudeasasiafeelshormuzsupplypinch",
   "0f9119b732f23997",
@@ -603,7 +601,9 @@
   "e234f857a16af1a4",
   "chevronsprofitnearlyquadrupleddriversarepayingforitat4agallo",
   "79f46be4fd131add",
-  "chevronearningsandoils20julyjumparegreatnewsforthestock"
+  "chevronearningsandoils20julyjumparegreatnewsforthestock",
+  "7819475d86497105",
+  "oilpricessurgeto100perbarrelafterredseaattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -615,7 +615,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T17:55:18.212907+03:00",
+ "last_run": "2026-07-31T18:00:22.813128+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
@@ -1068,6 +1068,10 @@
   {
    "d": "2026-07-31",
    "t": "US oil inventories fall to ‘precariously low’ level as Iran war disrupts supply - ft.com"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "Oil prices surge to $100 per barrel after Red Sea attacks - NBC News"
   }
  ]
 }
