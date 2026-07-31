@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "0f9119b732f23997",
-  "shipsstuckinstraitofhormuzposesuperspreaderbiodiversitythrea",
   "6d36ac6011c1591b",
   "crudeoilfuturessep6clmainusbyendofyearprobablywewilllostsprc",
   "2c6cd43e7ab18ecb",
@@ -603,7 +601,9 @@
   "7819475d86497105",
   "oilpricessurgeto100perbarrelafterredseaattacks",
   "fd0114b4519f3596",
-  "crudeoilforecastsmiddleeastriskkeepspriceschoppy"
+  "crudeoilforecastsmiddleeastriskkeepspriceschoppy",
+  "718f86ec140fe0e5",
+  "oilrisesastradersassessshippingflowsmonthlygainsinsight"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -615,7 +615,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T18:05:12.653729+03:00",
+ "last_run": "2026-07-31T18:10:18.672839+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
