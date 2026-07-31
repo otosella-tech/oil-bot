@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "4048bbf613242f14",
-  "oilpricesslipdespitenewattacksacrossthemiddleeast",
   "d1e56298d603cec4",
   "crudepricesretreatasoilcontinuesflowingthroughhormuzalternat",
   "6cce3f21895519fe",
@@ -603,7 +601,9 @@
   "f2f1787c847c6a66",
   "stockswaveronwallstreetandcrudeoilpricesdrop5asmideasttensio",
   "9e32aba963342f3f",
-  "oilpricestickupasstraitofhormuzremainsclosed"
+  "oilpricestickupasstraitofhormuzremainsclosed",
+  "d1143cbfe7f0db9a",
+  "crudeoilspillsfromshadowfleettankeroffoman"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -615,7 +615,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T18:35:20.084586+03:00",
+ "last_run": "2026-07-31T18:40:13.997731+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
