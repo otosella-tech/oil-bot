@@ -4,8 +4,6 @@
   "Brent": 88.01
  },
  "seen": [
-  "93ea02be772a863e",
-  "oilpricesjumpfollowingfightingwithiranwhilesinkingaistocksdr",
   "6a4824732132cca0",
   "usstocksmovesharplylowerascrudeoilpricessoar",
   "e4b1f037aef8266f",
@@ -603,7 +601,9 @@
   "0d866c5845b5b46f",
   "currentpriceofoilasofjuly232026",
   "0c7ef665d12c4a27",
-  "crudeoilsurpassescornandsoytobecomeargentinastopexport"
+  "crudeoilsurpassescornandsoytobecomeargentinastopexport",
+  "411ebb9b0a85f91d",
+  "bpputsitsnorthseaoilbusinessupforsale"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -615,7 +615,7 @@
   "date": "2026-07-31",
   "count": 34
  },
- "last_run": "2026-07-31T11:35:19.117267+03:00",
+ "last_run": "2026-07-31T11:40:14.487849+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
