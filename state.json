@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "a1a61d787ab7b58f",
-  "uscrudeoilinventoriesdecreaseby72millionbarrels",
   "83754efc09ce5b99",
   "usstrategicpetroleumreservefacesstressasemergencyreleasesstr",
   "e29556d4ac07c70b",
@@ -603,7 +601,9 @@
   "3064666f0d65c99a",
   "adnocunveilsnewcrudepricingmechanism",
   "fa05d4ce3b88a777",
-  "whythepriceofgasolinehasdeviatedfromcrudeoil"
+  "whythepriceofgasolinehasdeviatedfromcrudeoil",
+  "382c2dd047b522e7",
+  "bigoilcompaniesreapbillionsofftheiranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-31",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-07-31T17:15:18.686667+03:00",
+ "last_run": "2026-07-31T17:20:21.324467+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
@@ -1060,6 +1060,10 @@
   {
    "d": "2026-07-31",
    "t": "Oil prices move higher as recovering Hormuz Strait traffic tempers war premium - CNBC"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "Big oil companies reap billions off the Iran War - The Washington Post"
   }
  ]
 }
