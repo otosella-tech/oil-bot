@@ -4,12 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "9c03f4c778ed7f53",
-  "thestraitofhormuzisjustonetradechokepointfacinganeweraofmari",
-  "af7549a2c32d3ea7",
-  "nigeriannavydetainschineseownedtankeraccusedofstealingoilmar",
-  "a2db05b4129a739a",
-  "japanbuysrarecanadianoilcargo",
   "05cd4223af4c3864",
   "oilgiantshellsmashesexpectationsasprofitsmorethandoubleinsec",
   "c16ea740cdf4b7d4",
@@ -603,7 +597,13 @@
   "d3b541b77843979b",
   "dangotebooksgasturbinepackagesforlekkiintegratedrefiningcomp",
   "ad128152bce96e6a",
-  "crudeoilgains1applesharestumbleafterq3results"
+  "crudeoilgains1applesharestumbleafterq3results",
+  "41054b3fcc79864b",
+  "saudispushmaritimecoalitionasoilfindssupport",
+  "7e750b1a6c940aef",
+  "wtioilrisesasgeopoliticalriskskeepsupplyconcernsalive",
+  "51cea47cf73528b3",
+  "currentpriceofoilasofjuly222026"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -615,7 +615,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T19:10:16.320589+03:00",
+ "last_run": "2026-07-31T19:15:57.209313+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
@@ -1084,6 +1084,10 @@
   {
    "d": "2026-07-31",
    "t": "Ukraine Is Now Targeting Iranian Shipping in the Caspian Sea"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "Saudis Push Maritime Coalition as Oil Finds Support"
   }
  ]
 }
