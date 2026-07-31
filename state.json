@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "05cd4223af4c3864",
-  "oilgiantshellsmashesexpectationsasprofitsmorethandoubleinsec",
-  "c16ea740cdf4b7d4",
-  "eiareportsabigdrawinuscrudeoilstocks",
   "5d5883acf1e1d876",
   "shellmorethandoublesitsprofitinq2beatingexpectations",
   "b9f9762b8beff6f1",
@@ -603,7 +599,11 @@
   "7e750b1a6c940aef",
   "wtioilrisesasgeopoliticalriskskeepsupplyconcernsalive",
   "51cea47cf73528b3",
-  "currentpriceofoilasofjuly222026"
+  "currentpriceofoilasofjuly222026",
+  "a60559f5f907e622",
+  "oilpricerisesafteriransaysitstopsshipsinhormuz",
+  "d2537f54eb0f57b8",
+  "exxonmade160millionperdaylastquarterasoilpricessurged"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -615,7 +615,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T19:15:57.209313+03:00",
+ "last_run": "2026-07-31T19:20:20.982486+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
@@ -1088,6 +1088,14 @@
   {
    "d": "2026-07-31",
    "t": "Saudis Push Maritime Coalition as Oil Finds Support"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "Oil price rises after Iran says it stops ships in Hormuz - Reuters"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "Exxon made $160 million per day last quarter as oil prices surged - CNN"
   }
  ]
 }
