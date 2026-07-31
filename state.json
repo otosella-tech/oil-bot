@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "b76e4e329c325d99",
-  "shellsprofitmorethandoublesto98billionasiranwarboostsoilgasp",
-  "309f03048794c833",
-  "uscrudeoilinventoriesdown17inweekendingjuly24",
   "0de2396276a50764",
   "oilrisesinvolatiletradeasusresumesattacksoniran",
   "e1eebf64f7ce93ca",
@@ -603,7 +599,11 @@
   "3620a77ddfc42e55",
   "usoildrillersturncautiousaswtiholdsnear85perbarrel",
   "ac2ea4d54522325b",
-  "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths"
+  "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths",
+  "a7af28eea848151f",
+  "whatkyrgyzstanwantsfromtheunsecuritycouncil",
+  "9e8fce0a2edcb75d",
+  "exclusivetrumpspowerfulbutunofficialvenezuelaadviserleaveshi"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T20:55:14.810468+03:00",
+ "last_run": "2026-07-31T21:00:24.225324+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
@@ -1119,6 +1119,10 @@
   {
    "d": "2026-07-31",
    "t": "Hormuz Oil Shuttling Trade Is Picking Up Again After Lull - gCaptain"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "EXCLUSIVE: Trump's powerful but unofficial Venezuela adviser leaves his role - Reuters"
   }
  ]
 }
