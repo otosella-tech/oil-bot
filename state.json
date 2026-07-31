@@ -4,12 +4,6 @@
   "Brent": 88.01
  },
  "seen": [
-  "9212ff80de5a7c33",
-  "chinascrudeoilimportssurge",
-  "3707cc16c1964a9e",
-  "ussanctions8tankers10entitiesforallegedroleiniranianoiltrade",
-  "25b62d5056d0a462",
-  "crudeoilinventoriesfall7167mversus1272mestimatecrudeoilfutur",
   "e9f550d3555b071e",
   "adangerousnewphaseofwarisbreakingalltheoilmarketsconstraints",
   "5550e60899f43089",
@@ -603,7 +597,13 @@
   "bc51883cb0f4a9c8",
   "simoniandivesbackintotheoilandgasgame",
   "fa1d526d77a8babb",
-  "bojholdsratesat1warnsofcoreinflationexceeding2target"
+  "bojholdsratesat1warnsofcoreinflationexceeding2target",
+  "c8e7192f54a794f7",
+  "usoilinventoriessagashormuzturmoilrageson",
+  "a6befb6b50617636",
+  "crudeoilpricessinkonhopesforusirandiplomacy",
+  "390d9e735df36b10",
+  "uscommercialcrudeoilstockpilespostweeklybuild"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-31",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-07-31T09:50:15.272129+03:00",
+ "last_run": "2026-07-31T09:55:13.252579+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
@@ -1044,6 +1044,14 @@
   {
    "d": "2026-07-31",
    "t": "Oil Prices Head for 20% Monthly Surge Despite Recent Pullback"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "US Oil Inventories Sag as Hormuz Turmoil Rages On - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "Crude Oil Prices Sink on Hopes for US-Iran Diplomacy - Yahoo Finance"
   }
  ]
 }
