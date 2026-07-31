@@ -4,10 +4,6 @@
   "Brent": 88.01
  },
  "seen": [
-  "3418baab2480d007",
-  "uscrudeoilstockpilesfallmorethanexpected",
-  "c328b70498a663e1",
-  "indianoileyesstakesingascarrierstocutuslpgfreightcosts",
   "a0c097ebfa258720",
   "massivedropinusoilinventoriesfurtherfuelsprices",
   "1da9e29e77582730",
@@ -603,7 +599,11 @@
   "5ba76e23924bdf2f",
   "japanhasenoughlngtoavoidsummerpowershortages",
   "785b3200f79ff0f4",
-  "currentpriceofoilasofjuly272026"
+  "currentpriceofoilasofjuly272026",
+  "d79a0d0d903145ec",
+  "oildipsastradersweighhormuzflowsagainstusiranattacks",
+  "b65d7ac193fd467b",
+  "bpputsnorthseaoilandgasbusinessupforsale"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-31",
-  "count": 33
+  "count": 34
  },
- "last_run": "2026-07-31T10:50:16.794730+03:00",
+ "last_run": "2026-07-31T10:55:20.416881+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
