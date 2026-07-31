@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "83754efc09ce5b99",
-  "usstrategicpetroleumreservefacesstressasemergencyreleasesstr",
-  "e29556d4ac07c70b",
-  "ampolslyttonquarterlyrefiningmarginmorethantriplesonhigheroi",
   "6f3f8a250d32f4ad",
   "amatteroftrustvariationsincrudeoilqualitymakeonspecdeliveryc",
   "33ebcc09ba7c7d12",
@@ -603,7 +599,11 @@
   "fa05d4ce3b88a777",
   "whythepriceofgasolinehasdeviatedfromcrudeoil",
   "382c2dd047b522e7",
-  "bigoilcompaniesreapbillionsofftheiranwar"
+  "bigoilcompaniesreapbillionsofftheiranwar",
+  "f03e0140f34a8db7",
+  "uaetooverhaulhowitpricesallcrudeoilafterbigswings",
+  "69ae95652af22e3c",
+  "exxonchevronearningssoarwithoilpricesbutstocksdiverge"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -615,7 +615,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T17:20:21.324467+03:00",
+ "last_run": "2026-07-31T17:25:13.158817+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
