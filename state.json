@@ -4,10 +4,6 @@
   "Brent": 88.01
  },
  "seen": [
-  "6a4824732132cca0",
-  "usstocksmovesharplylowerascrudeoilpricessoar",
-  "e4b1f037aef8266f",
-  "crudeoilsurges7generaldynamicspostsupbeatearnings",
   "eb3644c337438d9b",
   "topmiddaystoriesstocksdownoilupastrumpvowsstrongresponsetoir",
   "2786acd5406834c8",
@@ -603,7 +599,11 @@
   "0c7ef665d12c4a27",
   "crudeoilsurpassescornandsoytobecomeargentinastopexport",
   "411ebb9b0a85f91d",
-  "bpputsitsnorthseaoilbusinessupforsale"
+  "bpputsitsnorthseaoilbusinessupforsale",
+  "5266b799178a3014",
+  "oilslipsbutremainsontrackformonthlygainofaround20",
+  "fe59561074ddfa65",
+  "oilfuturescrudeincheslowerhormuzflowseyed"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-31",
-  "count": 34
+  "count": 35
  },
- "last_run": "2026-07-31T11:45:14.784064+03:00",
+ "last_run": "2026-07-31T11:50:15.472039+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
