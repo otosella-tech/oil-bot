@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "55a8691a12204dc5",
-  "crudeoilanalysiswtitechnicalsetuppricetrends",
   "22346d8df5a5c9a0",
   "yourthursdayjuly30guidefivethingstodointheoilcity",
   "235957c3bf8740b6",
@@ -603,7 +601,9 @@
   "5bc0abcca6e153d8",
   "oilpricerisesafteriransaysitstopsshipsinhormuzal",
   "3eb133ca514885df",
-  "usequityindexesriseasamazonsresultsboostconsumerdiscretionar"
+  "usequityindexesriseasamazonsresultsboostconsumerdiscretionar",
+  "bb1e63f84d0ca587",
+  "bpputsnorthseabusinessupforsale"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T23:26:29.356135+03:00",
+ "last_run": "2026-07-31T23:32:49.198529+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
