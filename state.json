@@ -1,13 +1,9 @@
 {
  "price_base": {
   "WTI": 84.1,
-  "Brent": 88.01
+  "Brent": 89.78
  },
  "seen": [
-  "e3bbbdded94b2790",
-  "updateusequityindexesslumpaheadoffedpolicymovesbigtechresult",
-  "fd45dfe6e48b3935",
-  "oilpricesjumpwhileusstockstrimtheirlossesafterthefedleavesra",
   "1c6f7b5dcdafa183",
   "exxonstockrises33asoiljumpsnearly7",
   "1a79b2a4ef164de4",
@@ -603,7 +599,11 @@
   "48fb153b2103a80e",
   "bigoilisreapingrewardsfromthechaosinenergymarkets",
   "b2ee438ff27d739e",
-  "liquidgoldtheftreportedinneohio"
+  "liquidgoldtheftreportedinneohio",
+  "bfeae110b71a14a5",
+  "oilpricesseengainingasmiddleeastsupplydisruptionspersistreut",
+  "7057adbdebb0f96b",
+  "oilfallsmorethan1ongreaterflowsdespiteusiranwarbyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-31",
-  "count": 42
+  "count": 43
  },
- "last_run": "2026-07-31T14:10:20.865284+03:00",
+ "last_run": "2026-07-31T14:15:22.556639+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
