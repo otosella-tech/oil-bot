@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "ec7afd9f4b19654a",
-  "oilfuturesedgeloweronpossibletechnicalcorrection",
-  "ac2ea4d54522325b",
-  "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths",
   "cd299e2561d5d106",
   "indiascrudeoilimportsfromrussiamaytouchnewrecordof3millionba",
   "1ce1698a7e8b1725",
@@ -603,7 +599,11 @@
   "804aef63c7f2a564",
   "gaspricesclimbacrosscsraaswardrivesupcostssupplierprofits",
   "b3d69ed769b05d57",
-  "seewhereyoucangetthecheapestgasinqueencreek"
+  "seewhereyoucangetthecheapestgasinqueencreek",
+  "472f7e6cb0bfb4d0",
+  "refinedfuelsnotcrudearedrivingtheoilmarketcrunch",
+  "7975157102bd98e1",
+  "akerbpoutofoilin2026lookingtogetbackinotcmktsakrby"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-07-31",
   "count": 60
  },
- "last_run": "2026-07-31T20:16:49.892413+03:00",
+ "last_run": "2026-07-31T20:20:22.349492+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
