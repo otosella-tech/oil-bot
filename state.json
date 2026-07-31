@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "c8f4142de08c8b1c",
-  "crudeoilpriceanalysisbrentandwtisqueezebetweenkeyemas",
-  "b19890714beca6c1",
-  "groundedlithiumannouncesjuneoilsalesandsecuresloanstofundoil",
   "54e7730048853887",
   "watchoilanalystsankeywarnsofrisingrisksinrefining",
   "1df2e0a9a257cb94",
@@ -603,7 +599,11 @@
   "b072e795f2b468c6",
   "gaspricesclimbasoilcompaniesreportsoaringprofits",
   "884c0aa161bb1666",
-  "oilpricessettlemorethan1higherlogstrongestmonthsincemarch"
+  "oilpricessettlemorethan1higherlogstrongestmonthsincemarch",
+  "fe7372c4c1423410",
+  "asdriversgetstickershockbigoilgetsawindfall",
+  "1f8d549bba6d843c",
+  "sprgetsdrainedtodumpcrudeoilonglobalmarketsusexportsofcrudeo"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -617,163 +617,11 @@
   "Brent": 87.8
  },
  "llm": {
-  "date": "2026-07-31",
-  "count": 60
+  "date": "2026-08-01",
+  "count": 1
  },
- "last_run": "2026-08-01T00:25:12.150116+03:00",
+ "last_run": "2026-08-01T00:32:38.785426+03:00",
  "sent_stories": [
-  {
-   "d": "2026-07-28",
-   "t": "Oil prices rise after Trump says Iran will pay for killing U.S. service members - CNBC"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Oil drops more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes - CNBC"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Oil prices extend decline as US and Iran pause attacks - Reuters"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Oil at one-week low as US and Iran pause attack; supply tension underpins - Euronext Markets: Real-time Stock Market Data | live"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "A dangerous new phase of war is breaking all the oil market’s constraints - CNN"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Tyumen Oil Refinery Halts Production After Ukrainian Drone Strike, Sources Say - The Moscow Times"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Red Sea Tanker Traffic Hits Multi-Month Low as Houthi Threat Holds - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Oil prices decline further after Trump claims ‘deep talks’ are underway with Iran - MarketWatch"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Oil Prices Continue Lower as US-Iran Negotiations Reduce Supply Concerns - Yahoo Finance UK"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Yemen’s Houthis claim their drones targeted Saudi crude oil transportation infrastructure - The Times of Israel"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Britain Backs Ukraine With New Electronic Warfare Cooperation"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Oil Market Rapidly Strips Out Iran War Premium - Rigzone"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "SHEL, CVX, OXY: Crude Oil Prices Plunge 10% as Iran Fighting Is Paused - TipRanks"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Russia Drives Up Oil Flows Through Arctic to Maintain High Exports - Bloomberg.com"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Trump signals diplomacy with Iran as Hormuz talks continue - World Oil"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Big Oil Is Raking In Billions From the Iran War. Can It Avoid Trump’s Fury? - WSJ"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "OPEC+ likely to pause oil output hikes after September, sources say - Reuters"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Oil Prices Retreat, But the Strait of Hormuz Remains the Wild Card"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "U.S. crude oil falls below $80 as Iran discusses Strait of Hormuz with Saudi Arabia and Oman - CNBC"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Bipartisan Group of Senators Announce Agreement to Move Forward on Major Sanctions Legislation - Senate Committee on Foreign Relations (.gov)"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Oil Prices Sink After U.S. and Iran Pause Fighting a Second Day - The New York Times"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Treasuries Set for Third Day of Gains as Oil Drops on Iran Talks - Bloomberg"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Tyumen oil refinery halts operations after drone attack - Reuters - Ukrinform"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Oil prices decline further after Trump claims ‘deep talks’ with Iran are under way - MarketWatch"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Oil prices fall 5% to two-week low on hopes for US-Iran conflict easing - Reuters"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Houthis say they targeted Saudi east-west oil transport - Reuters"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure - CNBC"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "OPEC+ Is About to Pause Oil Output Hikes. Here's What It Means for Oil Stocks. - The Motley Fool"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Oil prices surge to $100 per barrel after Red Sea attacks - NBC News"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Saudi Aramco Shuts 400,000-Bpd Refinery After Houthi Strike"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Saudi Aramco Shuts 400,000-Bpd Refinery After Houthi Strike - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Canada Commodities: Oil and Gold Lower as Pause in US-Iran Hostilities Seem to be Holding - Yahoo Finance"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "U.S. Sale Of Venezuela’s Oil Hits $13 Billion Since Trump’s Takeover"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "OPEC+ Prepares to Stop Raising Oil Output Targets"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "California gas prices ‘keep climbing’ amid Iran war. What you’ll pay at the pump - Sacramento Bee"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Crude Oil Prices Plunge as Supply Threats Ease - Yahoo Finance"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Oil prices fall 5% to two-week low after several days without US-Iran strikes - Reuters"
-  },
-  {
-   "d": "2026-07-28",
-   "t": "Saudi Arabia has a new, and pricier, workaround to export its oil - MarketWatch"
-  },
   {
    "d": "2026-07-29",
    "t": "Update: US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Results, Crude Oil Drops Amid Halt in Middle East Strikes - Yahoo Finance"
