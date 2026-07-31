@@ -4,8 +4,6 @@
   "Brent": 88.01
  },
  "seen": [
-  "bec94bb539d8b8fa",
-  "crudeoilinventoriesdropsharplysurpassingexpectationsbyinvest",
   "4907d5fa3f3cf31b",
   "oiljumpsasfreshmiddleeaststrikesthreatenfragilediplomacy",
   "4fa41a0236396aff",
@@ -603,7 +601,9 @@
   "6c1f02153f61805b",
   "commoditiesoilslipsasmorecrudeflowsoutofpersiangulf",
   "25ed76414b4d34db",
-  "nigeriaishometotheworldslargestsingletraincrudeoilrefinerybu"
+  "nigeriaishometotheworldslargestsingletraincrudeoilrefinerybu",
+  "a6187373b620593a",
+  "caspianoilpipelineshutsdownagainafterblackseadroneattack"
  ],
  "releases_done": {},
  "last_digest": "2026-07-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-31",
-  "count": 28
+  "count": 29
  },
- "last_run": "2026-07-31T09:20:14.527689+03:00",
+ "last_run": "2026-07-31T09:25:12.934437+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
