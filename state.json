@@ -4,10 +4,6 @@
   "Brent": 88.01
  },
  "seen": [
-  "2d7b1c92713fed30",
-  "crudeoilpricesjumpagainusstocksslipaheadadecisionfromfedonin",
-  "a0f000d5d19984f2",
-  "crudeoilpriceanalysiscrudeoilralliesasmiddleeastriskescalate",
   "52ee124fa5e97008",
   "ussenateadvancessweepingrussiasanctionsbillin86",
   "ff1d2ebcc693d218",
@@ -603,7 +599,11 @@
   "c63079cbaeb90913",
   "kazakhstanintalkstoprocessrussiancrudeamidrussiafuelshortage",
   "4f0dae705db6cf93",
-  "oiluscrudepriceforecastfortodaytomorrownextweekandnext30days"
+  "oiluscrudepriceforecastfortodaytomorrownextweekandnext30days",
+  "5c7a053a0203cf92",
+  "russiasryazanrefineryhashaltedoilprocessingafterdroneattacks",
+  "1a942085f310785c",
+  "drillingforoiltheoldfashionedwayinlittletexasindonesia"
  ],
  "releases_done": {},
  "last_digest": "2026-07-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-07-31",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-07-31T06:50:14.706592+03:00",
+ "last_run": "2026-07-31T06:55:13.004619+03:00",
  "sent_stories": [
   {
    "d": "2026-07-28",
@@ -1032,6 +1032,10 @@
   {
    "d": "2026-07-31",
    "t": "Kazakhstan in talks to process Russian crude amid Russia fuel shortages - Reuters"
+  },
+  {
+   "d": "2026-07-31",
+   "t": "Russia's Ryazan refinery has halted oil processing after drone attack, sources say - reuters.com"
   }
  ]
 }
