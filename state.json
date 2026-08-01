@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "301a478c7b9055bd",
-  "desperateforfuelrussialookstokazakhstanforrefiningcapacity",
   "5b8e49a51b5701f5",
   "recordusrefineryrunsfailtoeaseglobalfuelcrunch",
   "1490ac327719f504",
@@ -603,7 +601,9 @@
   "2aca3e3c9de944b9",
   "yoursaturdayaugust1guidefivethingstodointheoilcity",
   "b44322a5eae9ddf7",
-  "theoilindustryslithiumexperimentstillneedsafewmoreyearstopro"
+  "theoilindustryslithiumexperimentstillneedsafewmoreyearstopro",
+  "7a034014c7a09386",
+  "theriseofroboticsinoilandgas"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -615,7 +615,7 @@
   "date": "2026-08-01",
   "count": 13
  },
- "last_run": "2026-08-01T08:10:15.078449+03:00",
+ "last_run": "2026-08-01T08:16:47.919271+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
