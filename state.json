@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "21cbe5357c6c0ae4",
-  "dieselcrunchbiggestthreatinoilmarketsasglobalrefineryactivit",
   "3bd25c30746e2a05",
   "chinacutsdealwithhouthisadjustsforlonguswarwithiranal",
   "1b84cd78ab824b96",
@@ -603,7 +601,9 @@
   "ba172da4e17bbdfe",
   "leadersofkoreaargentinaagreetoenergysupplychaincooperationin",
   "29b7adff805a183e",
-  "dailybriefenergymaterialscrudeoildainichiseikacolorchemecomi"
+  "dailybriefenergymaterialscrudeoildainichiseikacolorchemecomi",
+  "c410620f020cfda8",
+  "oilpricesriseafterusblockssurpriseattackfromiran"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-01",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-08-01T06:00:22.858564+03:00",
+ "last_run": "2026-08-01T06:05:18.071621+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
@@ -1001,6 +1001,10 @@
   {
    "d": "2026-07-31",
    "t": "Oil price rises after Iran says it stops ships in Hormuz - Al-Monitor"
+  },
+  {
+   "d": "2026-08-01",
+   "t": "Oil prices rise after U.S. blocks surprise attack from Iran - CNBC"
   }
  ]
 }
