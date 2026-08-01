@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "a03e7561045d9b18",
-  "microsoftsbestdaysince2008leadsusstockswhileinflationworries",
   "a7f63e9725441ab5",
   "saudicoalitionproposaltoprotecthormuzbabelmandebcauses2decli",
   "43e61b2a97be2ee2",
@@ -603,7 +601,9 @@
   "edbdb5aaca01f5d0",
   "canadasenbridgepostponesplansfor2ndphaseofmainlineoilpipelin",
   "73b5bb41d308a00c",
-  "fireragesinoilrefineryatshamamakdistrictofhewlerskurdistan"
+  "fireragesinoilrefineryatshamamakdistrictofhewlerskurdistan",
+  "304dc23e62cd655c",
+  "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -615,7 +615,7 @@
   "date": "2026-08-01",
   "count": 30
  },
- "last_run": "2026-08-01T22:55:19.556300+03:00",
+ "last_run": "2026-08-01T23:01:52.680910+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
