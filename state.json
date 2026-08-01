@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "9d03550119168099",
-  "oilsettlesdownonproposedsaudiledmaritimedefencecoalition",
-  "dc7fc8c5842637d1",
-  "canadianusmarketsriseonearningsstrengthasoilpriceseaseslight",
   "4e6b9b94d17da198",
   "howchinabecametheultimateswingoilbuyer",
   "9a7b082e0045d872",
@@ -603,7 +599,11 @@
   "29dc89cb79a33fa1",
   "iraqipremierhailspipelinedealwithtrkiyeasstrategicmilestonef",
   "aa7377979a011cb4",
-  "strategicmilestoneturkeyiraqsignoneyeardealtokeepcrudeoilpip"
+  "strategicmilestoneturkeyiraqsignoneyeardealtokeepcrudeoilpip",
+  "46fb47cca8cd1449",
+  "iraqandturkeystrikea1yearoilpipelinedealtoboostexportsduring",
+  "928f9b33f84ef4fc",
+  "newmexicoisdividedoverwhattodowith75billioninoilcash"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-01",
-  "count": 26
+  "count": 27
  },
- "last_run": "2026-08-01T20:42:41.367190+03:00",
+ "last_run": "2026-08-01T20:47:54.880065+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
