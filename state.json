@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "381cd6ced84f6b0d",
-  "microsoftleadsarallyonwallstreetwhileworriesaboutinflationre",
   "2ffc5a3d018dc350",
   "dronestrikeinegyptsparkssecurityconcernsaboutsuezoilexports",
   "ae6ffa9fe31c67f3",
@@ -603,7 +601,9 @@
   "271a1d1e7999ea83",
   "discovertheimpactofapipc12oilontrucks",
   "eefb3b3a94fe4a77",
-  "whyoilpriceshaventgonecrazydespite5monthsofusiranwar"
+  "whyoilpriceshaventgonecrazydespite5monthsofusiranwar",
+  "249706aa9c4b8e2a",
+  "thebankofenglandismovingawayfromcoal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -615,7 +615,7 @@
   "date": "2026-08-01",
   "count": 20
  },
- "last_run": "2026-08-01T17:55:42.281856+03:00",
+ "last_run": "2026-08-01T18:00:20.405050+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
