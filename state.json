@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "2947cd12dd20725e",
-  "thetrumpadministrationwantsmoregasolinemadeinidledrefineries",
   "e9892f74568fc5a9",
   "australialaunchesprefeasibilityprefeedstudyforgrassrootsrefi",
   "0de229523194813c",
@@ -603,7 +601,9 @@
   "ece461200173e1ef",
   "glencorepursueslegalfightover230millioninunpaidoil",
   "dc3994e7ed7af7ca",
-  "goldmansachsdieselcrunchisnowthebiggestthreatinoilmarkets"
+  "goldmansachsdieselcrunchisnowthebiggestthreatinoilmarkets",
+  "de9a1cc950ec6d5b",
+  "exxonchevronwarnfuelpricestoendureaswarknocksrefining"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -615,7 +615,7 @@
   "date": "2026-08-01",
   "count": 20
  },
- "last_run": "2026-08-01T18:20:15.843462+03:00",
+ "last_run": "2026-08-01T18:25:13.426042+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
