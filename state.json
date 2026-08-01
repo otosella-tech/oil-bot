@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "b4e8b2e17e1c58d5",
-  "usinflationslowsinjunebutriseinoilpricesmayreversegainsfinan",
   "f2b239d5b5e82536",
   "usinflationslowsinjunebutriseinoilpricesmayreversegains",
   "d0bc27401769be99",
@@ -603,7 +601,9 @@
   "fa76de1495ccbede",
   "equinorsq2adjustedoperatingincomesurgesover75asmiddleeastcon",
   "62a0d61011f49196",
-  "pricesofoilfallasmarketsrepricesupplyriskweeklyupdate"
+  "pricesofoilfallasmarketsrepricesupplyriskweeklyupdate",
+  "9212ff80de5a7c33",
+  "chinascrudeoilimportssurge"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-02",
-  "count": 1
+  "count": 2
  },
- "last_run": "2026-08-02T01:35:22.132007+03:00",
+ "last_run": "2026-08-02T01:46:36.985623+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
