@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "d9fa8c5d0c8898bb",
-  "oilfuturesbrentdipsbelow90bmideasttensionsremainelevated",
   "ff4f1685d499ca20",
   "perillaoilimprovesbloodflowandreducesinflammationinhealthysm",
   "9765839999dc406b",
@@ -603,7 +601,9 @@
   "f545db17b77e7b4c",
   "oilpricesriseaftertrumpsaysiranwillpayforkillingusservicemem",
   "e06b07759ac7ae15",
-  "storagedatashowsoilinventoriesareneartankbottomsmidlandrepor"
+  "storagedatashowsoilinventoriesareneartankbottomsmidlandrepor",
+  "686f5a61f505bf22",
+  "trumppredictedanoilcatastropheifthewardidntendtheclockistick"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-01",
-  "count": 21
+  "count": 22
  },
- "last_run": "2026-08-01T19:00:22.310358+03:00",
+ "last_run": "2026-08-01T19:05:20.183181+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
