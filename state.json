@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "f2b239d5b5e82536",
-  "usinflationslowsinjunebutriseinoilpricesmayreversegains",
   "d0bc27401769be99",
   "oilpricessurgeonfreshmiddleeaststrikesandapicrudedraw",
   "f6b937f0368aced6",
@@ -603,7 +601,9 @@
   "62a0d61011f49196",
   "pricesofoilfallasmarketsrepricesupplyriskweeklyupdate",
   "9212ff80de5a7c33",
-  "chinascrudeoilimportssurge"
+  "chinascrudeoilimportssurge",
+  "9942a91b712ebf51",
+  "recordvacamuertaoutputfailstoliftargentinaswidereconomy"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -615,7 +615,7 @@
   "date": "2026-08-02",
   "count": 2
  },
- "last_run": "2026-08-02T01:54:48.161497+03:00",
+ "last_run": "2026-08-02T02:00:03.235209+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
