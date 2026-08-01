@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "dc8f2cbc3bf55ef6",
-  "contaminatedsoilfromeastlaoilspillcouldtakemonthstoremovecou",
   "10d084cd8708c0de",
   "globaloilshockoffersboostforevswitchingfossilphaseoutiea",
   "341bcc666caabd3f",
@@ -603,7 +601,9 @@
   "079778be1abea171",
   "theunitedstatesproducedmorecrudeoilthananyothercountryin2025",
   "93f7a693586d1673",
-  "indianoilbuysrecordspotmarketcrudeonmideastsupplyhit"
+  "indianoilbuysrecordspotmarketcrudeonmideastsupplyhit",
+  "43170cbf7a7ae6a2",
+  "anewthreatinthemiddleeastsendsoilover100abarrelagain"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -615,7 +615,7 @@
   "date": "2026-08-01",
   "count": 14
  },
- "last_run": "2026-08-01T14:00:22.685815+03:00",
+ "last_run": "2026-08-01T14:05:55.962844+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
