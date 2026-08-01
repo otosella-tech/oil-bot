@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "a7f63e9725441ab5",
-  "saudicoalitionproposaltoprotecthormuzbabelmandebcauses2decli",
   "43e61b2a97be2ee2",
   "vivakorexpandscrudeoilbusinessagaintargets15billionannualpla",
   "e4ce2a514919fa32",
@@ -603,7 +601,9 @@
   "73b5bb41d308a00c",
   "fireragesinoilrefineryatshamamakdistrictofhewlerskurdistan",
   "304dc23e62cd655c",
-  "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025"
+  "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025",
+  "939d31d9592d21b2",
+  "kuwaitinterceptsiraniandronesastrumpwarnsofstrikesonenergyin"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-01",
-  "count": 30
+  "count": 31
  },
- "last_run": "2026-08-01T23:05:14.037464+03:00",
+ "last_run": "2026-08-01T23:10:13.850880+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
