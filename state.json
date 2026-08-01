@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "1490ac327719f504",
-  "usgdpgrowthslowsto15insecondquartermissingforecasts",
   "5c376c5cd04657e3",
   "russiaextendsdieselandgasolineexportbansinto2027",
   "43810d8cfb50cc1d",
@@ -603,7 +601,9 @@
   "7a034014c7a09386",
   "theriseofroboticsinoilandgas",
   "fb930f9e89822d6f",
-  "hormuztrafficlevelscontinuedecreasinghouthisinyementhreatens"
+  "hormuztrafficlevelscontinuedecreasinghouthisinyementhreatens",
+  "a16209214388d869",
+  "oilpricesup310726"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -615,7 +615,7 @@
   "date": "2026-08-01",
   "count": 14
  },
- "last_run": "2026-08-01T10:15:14.492000+03:00",
+ "last_run": "2026-08-01T10:20:15.439524+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
