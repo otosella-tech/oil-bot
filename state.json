@@ -4,12 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "302ad3675cf5edba",
-  "july2026carbonminefieldsoilandgasexplorationmonitor",
-  "304dc23e62cd655c",
-  "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025",
-  "384532885b3dac18",
-  "crudeoildipsamidprofittakingasiranomandiscussstraitofhormuzm",
   "a03e7561045d9b18",
   "microsoftsbestdaysince2008leadsusstockswhileinflationworries",
   "a7f63e9725441ab5",
@@ -603,7 +597,13 @@
   "d17a8e3e4fe8a883",
   "newfrontintheoilwarhowukraineisdisruptingrussiasmaritimelogi",
   "c66b8957472d2a95",
-  "noblestockand2energynamesinvestorsarewatchingaftertheoilshoc"
+  "noblestockand2energynamesinvestorsarewatchingaftertheoilshoc",
+  "126c686e9b331957",
+  "oilleakappearstospreadfromasanctionedtankergroundedoffthecoa",
+  "edbdb5aaca01f5d0",
+  "canadasenbridgepostponesplansfor2ndphaseofmainlineoilpipelin",
+  "73b5bb41d308a00c",
+  "fireragesinoilrefineryatshamamakdistrictofhewlerskurdistan"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-01",
-  "count": 29
+  "count": 30
  },
- "last_run": "2026-08-01T22:50:23.371181+03:00",
+ "last_run": "2026-08-01T22:55:19.556300+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
