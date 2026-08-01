@@ -4,12 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "c80ff51186c11e3c",
-  "whatcpcdisruptionsrevealaboutenergysecuritykazakhstansbalanc",
-  "3eace2026c208f07",
-  "oilfuturescrudeholdsgainsasmideasttensionsremainhigh",
-  "bddb670a9b8982ba",
-  "oilnewscrudeoutlookturnsbullishasusiranwardrainsoilinventory",
   "288eee08b472eaa5",
   "oilsteadyastradersassessusiranconflict",
   "f2a8b70456392930",
@@ -603,7 +597,13 @@
   "50c39ba694ae9ff8",
   "oilpricesremainhighlyflammable",
   "edcce91afa75855b",
-  "saudiarabiaexportsmorecrudeoilthananyothercountryandkeepsspa"
+  "saudiarabiaexportsmorecrudeoilthananyothercountryandkeepsspa",
+  "e574218c8da87e7a",
+  "oilpostsbigmonthlygainsonresumptionofconflict",
+  "3d98242e8f7ba7cb",
+  "freepressopinioniranwarotherfactorsweakeningopec",
+  "e9705d8036f6ee84",
+  "usdollarrecordsmonthlydeclinecrudeoilsurgesover24onmonthlych"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-01",
-  "count": 4
+  "count": 5
  },
- "last_run": "2026-08-01T04:07:15.886299+03:00",
+ "last_run": "2026-08-01T04:14:07.784073+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
