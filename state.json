@@ -4,12 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "c1bf8c55f3d34e8f",
-  "turkeyseesongoingoilflowfromiraqaspipelinetalksproceed",
-  "314970b6a20f0448",
-  "aspricesriseatthepumpsodooilcompanysprofits",
-  "745101eaa9aaa059",
-  "iraqtocontinueoilexportsviaturkeyreport",
   "846bad1b86596dcc",
   "fromhormuztotheblackseamaritimebattlefieldsareshapinganewwor",
   "0ea9bb1119db0f7b",
@@ -603,7 +597,13 @@
   "9772aca90c5a788b",
   "gaspricesclimbasoilcompaniesreportsoaringprofitswbal",
   "bb99f54b56292243",
-  "koreaargentinaleadersagreetoenergysupplychainscooperationins"
+  "koreaargentinaleadersagreetoenergysupplychainscooperationins",
+  "8ae1767ba27459d5",
+  "crudeoilretreatsonstraitofhormuztrafficnewsyetbrentandwtiset",
+  "12d498293e423e11",
+  "oilpricesrecoverlossesafteriranmissileattackandbullishinvent",
+  "1246f572c5b6fb64",
+  "japanseneosbuyscanadianoilviatransmountainasasiadiversifiesf"
  ],
  "releases_done": {
   "2026-07-31|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-01",
-  "count": 3
+  "count": 4
  },
- "last_run": "2026-08-01T03:42:11.075977+03:00",
+ "last_run": "2026-08-01T03:46:51.194780+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
