@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "b1a7e987bdf4a85a",
-  "currentpriceofoilasofjuly292026",
-  "d996c06af3364efa",
-  "howchinawentfromdreamcustomertoanightmareforbigoil",
   "046c4edd7f246233",
   "stocksdriftonwallstreetandcrudeoilpricesdropasmideasttension",
   "314aef7e25080373",
@@ -603,7 +599,11 @@
   "5786548023afaa48",
   "turkiyeandiraqsignoneyearoilpipelinedealamidglobalshift",
   "8e353a141582fe34",
-  "michigansupremecourtrejectspermitforenbridgeoilpipelineunder"
+  "michigansupremecourtrejectspermitforenbridgeoilpipelineunder",
+  "b8e86ebc7c9760d2",
+  "finlandssandbatterycutsemissions70withoutasinglerareearth",
+  "9a735099a055aaae",
+  "stockswaveronwallstreetwhilecrudeoilpricesfallforthefirsttim"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -615,7 +615,7 @@
   "date": "2026-08-01",
   "count": 24
  },
- "last_run": "2026-08-01T19:56:34.789868+03:00",
+ "last_run": "2026-08-01T20:02:29.341907+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
