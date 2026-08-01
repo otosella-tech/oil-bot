@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "d0d3a9d3e6319d42",
-  "talosacquires50stakeinrepsolsblock29",
   "67cce67b38a49ebb",
   "crudeoilpriceforecastbullishmomentumbuildsinsidetriangle",
   "5d3e6b8c8c4c3a13",
@@ -603,7 +601,9 @@
   "feac74692d0be9da",
   "crudeoilfuturesoverview",
   "e7f663192e43ff5b",
-  "turkeyiraqsignoneyearoilpipelinedeal"
+  "turkeyiraqsignoneyearoilpipelinedeal",
+  "b24981c569e2a4f0",
+  "crudeoilsurgesasmiddleeasthostilitiesescalateusoilstockpiles"
  ],
  "releases_done": {},
  "last_digest": "2026-08-01",
@@ -615,7 +615,7 @@
   "date": "2026-08-01",
   "count": 19
  },
- "last_run": "2026-08-01T17:20:14.048396+03:00",
+ "last_run": "2026-08-01T17:25:14.062495+03:00",
  "sent_stories": [
   {
    "d": "2026-07-29",
