@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "fa1d526d77a8babb",
-  "bojholdsratesat1warnsofcoreinflationexceeding2target",
   "c8e7192f54a794f7",
   "usoilinventoriessagashormuzturmoilrageson",
   "a6befb6b50617636",
@@ -603,7 +601,9 @@
   "4d50312caf61f489",
   "opechasagreementinprincipleforseptemberquotaincreaseandpause",
   "e88d7cba730a12ca",
-  "oilmarketreportjuly2026analysis"
+  "oilmarketreportjuly2026analysis",
+  "0f4d2818ddf16b48",
+  "highfuelpricestoendureasglobalconflictshitrefiningcapacitywa"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -615,7 +615,7 @@
   "date": "2026-08-02",
   "count": 15
  },
- "last_run": "2026-08-02T10:51:39.612652+03:00",
+ "last_run": "2026-08-02T10:55:20.341249+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
