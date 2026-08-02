@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "6ee875bf9728e43b",
-  "foreignersdumpindiandebtonoiljoltmissingindexinclusionspark",
   "5871f13ddac63484",
   "oildownstillontrackfor20pctmonthlygain",
   "35fdba4ebad4c81c",
@@ -603,7 +601,9 @@
   "7f535918945c1d88",
   "rubiosbypassplancantheworldescapethestraitofhormuzchokepoint",
   "f567cfbeb16ff7d4",
-  "opecagreestosmalloiloutputquotahikeforseptember"
+  "opecagreestosmalloiloutputquotahikeforseptember",
+  "13ca47632be8cc08",
+  "currentpriceofoilasofjuly282026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -615,7 +615,7 @@
   "date": "2026-08-02",
   "count": 35
  },
- "last_run": "2026-08-02T18:40:14.044584+03:00",
+ "last_run": "2026-08-02T18:43:31.618064+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
