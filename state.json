@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "4e241c62805abb61",
-  "forecastupdateforcrudeoil31072026",
   "727b4f1591134b53",
   "chevronsnysecvxq2cy2026strongsales",
   "23502478b95d8a26",
@@ -603,7 +601,9 @@
   "47924ca32c014d36",
   "oilpricesdropaftertrumpordersusforcestoholdoffonnewstrikesag",
   "a23c3b328330c182",
-  "oilfuturescrudereboundsashormuzcpcdisruptionseyed"
+  "oilfuturescrudereboundsashormuzcpcdisruptionseyed",
+  "bf653614219c94f1",
+  "bigoilisreapingrewardsfromthechaosinenergymarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-03",
-  "count": 7
+  "count": 9
  },
- "last_run": "2026-08-03T02:15:17.737673+03:00",
+ "last_run": "2026-08-03T02:20:14.014618+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -788,6 +788,10 @@
   {
    "d": "2026-08-03",
    "t": "Oil futures: Crude rebounds as Hormuz, CPC disruptions eyed - Smartkarma"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Big Oil Is Reaping Rewards From the Chaos in Energy Markets - wsj.com"
   }
  ]
 }
