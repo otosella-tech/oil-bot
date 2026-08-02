@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "b65d7ac193fd467b",
-  "bpputsnorthseaoilandgasbusinessupforsale",
   "2321c0322607d89c",
   "uscrudeoilstockpilesfallmorethanexpected",
   "f08f12bdcdf8909f",
@@ -603,7 +601,9 @@
   "e918ff612e5b15c4",
   "oilsettles1higherashopesofrenewedusirannegotiationsoffsethou",
   "785b3200f79ff0f4",
-  "currentpriceofoilasofjuly272026"
+  "currentpriceofoilasofjuly272026",
+  "530b5da6a216d6a4",
+  "opecagreesoutputriseinseptemberamiduneasypauseiniranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-02",
-  "count": 23
+  "count": 24
  },
- "last_run": "2026-08-02T14:45:14.894059+03:00",
+ "last_run": "2026-08-02T14:50:21.623615+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
