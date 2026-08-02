@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "ec76df3a5348b3ee",
-  "oilsdepletedbufferhowlowinventoriesamplifysupplyshocks",
   "81c1ce15040693c8",
   "commercialcrudeoilinventoriesincreasedby20millionbarrels",
   "df932978188ed89b",
@@ -603,7 +601,9 @@
   "22ef7e4454fd40cd",
   "crudeoilweeklyoutlooktightinventorieskeepbullsincontrol",
   "67cce67b38a49ebb",
-  "crudeoilpriceforecastbullishmomentumbuildsinsidetriangle"
+  "crudeoilpriceforecastbullishmomentumbuildsinsidetriangle",
+  "35fdba4ebad4c81c",
+  "kazakhstanintalkstorefinerussiancrudeoilamidfuelshortages"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -615,7 +615,7 @@
   "date": "2026-08-02",
   "count": 35
  },
- "last_run": "2026-08-02T19:10:14.473765+03:00",
+ "last_run": "2026-08-02T19:15:16.204841+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
