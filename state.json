@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "a6befb6b50617636",
-  "crudeoilpricessinkonhopesforusirandiplomacy",
   "390d9e735df36b10",
   "uscommercialcrudeoilstockpilespostweeklybuild",
   "5e3b6c4bdc2c2e60",
@@ -603,7 +601,9 @@
   "0f4d2818ddf16b48",
   "highfuelpricestoendureasglobalconflictshitrefiningcapacitywa",
   "310c8377358f0656",
-  "opecsetforseptemberquotaincreasefollowedbypausesourcessay"
+  "opecsetforseptemberquotaincreasefollowedbypausesourcessay",
+  "3d49a58dbca5e71e",
+  "russianoilrefineryairbasewildberrieswarehousereportedlystruc"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-02",
-  "count": 17
+  "count": 18
  },
- "last_run": "2026-08-02T11:15:16.356544+03:00",
+ "last_run": "2026-08-02T11:20:15.318763+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
