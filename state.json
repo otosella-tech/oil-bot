@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "124aa7b1a1fc8ac6",
-  "oilrisesover1astradersassessshippingflowsmonthlygainsinsight",
   "4f1d16f710bf3aeb",
   "saudishipsshunredseachokepointforrareafricajourney",
   "76ef66731b33308a",
@@ -603,7 +601,9 @@
   "8b95ed7b3e76fe50",
   "oilpricesplummetasinvestorsdigestpauseinfightinginiranwar",
   "947b1efb69c0d9eb",
-  "hormuzuncertaintykeepsoilmarketsonedge"
+  "hormuzuncertaintykeepsoilmarketsonedge",
+  "87fa8ae05e3b1660",
+  "dowjonesfuturesriseoilpricesdiveastrumpshiftsoniranspacexamd"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 4
  },
- "last_run": "2026-08-03T01:50:16.182093+03:00",
+ "last_run": "2026-08-03T01:55:12.938566+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
