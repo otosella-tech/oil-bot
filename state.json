@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "5266b799178a3014",
-  "oilslipsbutremainsontrackformonthlygainofaround20",
-  "fe59561074ddfa65",
-  "oilfuturescrudeincheslowerhormuzflowseyed",
   "add27502a96021a9",
   "britishoilgiantbplaunchessaleofnorthseabusiness",
   "8ec9f92b2e9dc733",
@@ -603,7 +599,11 @@
   "0d866c5845b5b46f",
   "currentpriceofoilasofjuly232026",
   "2795dd4239938ce6",
-  "opecagreesseptemberoilhikecompletingrollbackofvoluntarycuts"
+  "opecagreesseptemberoilhikecompletingrollbackofvoluntarycuts",
+  "320949d76bcd7456",
+  "indianstaterefinerssuspendiraqcrudeloadingsasstraitofhormuzs",
+  "19f249482b55274c",
+  "over9999ofoilremovedfromseawaterwithhigherevaporationrateusi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-02",
-  "count": 29
+  "count": 30
  },
- "last_run": "2026-08-02T16:25:11.541419+03:00",
+ "last_run": "2026-08-02T16:30:18.323794+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
