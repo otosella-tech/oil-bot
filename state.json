@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "8371f92472633342",
-  "rupeescalesthreeweekhighliftedbystaterunbankbuyingandoildoll",
   "6c1f02153f61805b",
   "commoditiesoilslipsasmorecrudeflowsoutofpersiangulf",
   "25ed76414b4d34db",
@@ -603,7 +601,9 @@
   "e4e81e77911af0cd",
   "dungquatoilrefineryoperatorbsrpostsrecordprofitinq2holds179b",
   "b936feaa0ad9b689",
-  "exxonmobilpostshighestquarterlyprofitinfouryearsegyptoil"
+  "exxonmobilpostshighestquarterlyprofitinfouryearsegyptoil",
+  "c9d0caa350fed947",
+  "exxonmobilpostshighestquarterlyprofitinfouryears"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -615,7 +615,7 @@
   "date": "2026-08-02",
   "count": 10
  },
- "last_run": "2026-08-02T09:18:07.989555+03:00",
+ "last_run": "2026-08-02T09:21:18.553982+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
