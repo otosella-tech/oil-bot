@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "7a2977dfb7973ddc",
-  "tankerand12seafarersheldinnigeriaoverallegedoilsmuggling",
   "7f38f332bf05650e",
   "majoroilcompaniesreapmassiveprofitsasusandiranfightingdrives",
   "16d47d3d083b9e09",
@@ -603,7 +601,9 @@
   "baaae4846095957a",
   "exxonandchevronprofitssurgeonrisingoilpricesduetoiranwar",
   "bd03158a2283da11",
-  "shellsprofitrises97duetotheincreaseinoilprices"
+  "shellsprofitrises97duetotheincreaseinoilprices",
+  "3edfa6b98629a44d",
+  "columnwilltheiranwardeliverthefinalblowtoopecthevirginian"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-02",
-  "count": 38
+  "count": 39
  },
- "last_run": "2026-08-02T23:10:14.599456+03:00",
+ "last_run": "2026-08-02T23:15:14.580007+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
