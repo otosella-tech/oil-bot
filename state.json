@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "5ba76e23924bdf2f",
-  "japanhasenoughlngtoavoidsummerpowershortages",
   "785b3200f79ff0f4",
   "currentpriceofoilasofjuly272026",
   "d79a0d0d903145ec",
@@ -603,7 +601,9 @@
   "2d2ca90c0365f568",
   "anindianapastorbecameanillinoisoilmanspillsandpollutionfollo",
   "9caf231632ea6155",
-  "stockstumbleasaispendingandoilpricesweighonmarket"
+  "stockstumbleasaispendingandoilpricesweighonmarket",
+  "849235760ceffe91",
+  "trumpsayshewillholdoffonfreshiranattackinhopeofquickdeal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-02",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-08-02T13:20:15.949172+03:00",
+ "last_run": "2026-08-02T13:25:20.749014+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
@@ -780,6 +780,10 @@
   {
    "d": "2026-08-02",
    "t": "OPEC+ set for September quota increase followed by pause, sources say - Reuters"
+  },
+  {
+   "d": "2026-08-02",
+   "t": "Trump says he will hold off on fresh Iran attack in hope of quick deal - Reuters"
   }
  ]
 }
