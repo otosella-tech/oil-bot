@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "0d866c5845b5b46f",
-  "currentpriceofoilasofjuly232026",
   "0c7ef665d12c4a27",
   "crudeoilsurpassescornandsoytobecomeargentinastopexport",
   "411ebb9b0a85f91d",
@@ -603,7 +601,9 @@
   "8354f6adc2b15130",
   "satelliteimagesshowevidenceofoilleakspreadingfromsanctionedv",
   "5224ed5d6ac2c225",
-  "indiascrudebillfell56fromitswartimepeakyetpumppricesbarelymo"
+  "indiascrudebillfell56fromitswartimepeakyetpumppricesbarelymo",
+  "784744f888ca95b3",
+  "over9999ofoilremovedfromcontaminatedseawaterwithnewmembrane"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -615,7 +615,7 @@
   "date": "2026-08-02",
   "count": 28
  },
- "last_run": "2026-08-02T16:00:21.583940+03:00",
+ "last_run": "2026-08-02T16:05:11.964090+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
