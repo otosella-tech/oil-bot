@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "eeb87944f4d226e2",
-  "oipriceschoppyasrecoveringhormuzstraittraffictemperswarpremi",
-  "1956cee55ed3204c",
-  "oilsteadyastradersassessshippingflowsmonthlygainsinsight",
   "7c10854fc138e7e5",
   "iranwardrivesoilprofitstohighestlevelsinyears",
   "32eb4148bcb6ccba",
@@ -603,7 +599,11 @@
   "29894292f82de8e4",
   "autofuelpricesremainsteady",
   "376bd2e56d1cd7b9",
-  "3boldoilpredictionsforthesecondhalfof2026"
+  "3boldoilpredictionsforthesecondhalfof2026",
+  "a2f03bcd01cc2d3d",
+  "opecwillagainraiseproductioninseptemberto188000barrelsperday",
+  "228e61add9c41f2e",
+  "trumpsaysuswillholdoffonfreshiranattackinhopeofquickdeal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-02",
-  "count": 36
+  "count": 37
  },
- "last_run": "2026-08-02T21:05:11.975098+03:00",
+ "last_run": "2026-08-02T21:10:20.161696+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
