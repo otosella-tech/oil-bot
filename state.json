@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "785b3200f79ff0f4",
-  "currentpriceofoilasofjuly272026",
   "d79a0d0d903145ec",
   "oildipsastradersweighhormuzflowsagainstusiranattacks",
   "b65d7ac193fd467b",
@@ -603,7 +601,9 @@
   "9caf231632ea6155",
   "stockstumbleasaispendingandoilpricesweighonmarket",
   "849235760ceffe91",
-  "trumpsayshewillholdoffonfreshiranattackinhopeofquickdeal"
+  "trumpsayshewillholdoffonfreshiranattackinhopeofquickdeal",
+  "e918ff612e5b15c4",
+  "oilsettles1higherashopesofrenewedusirannegotiationsoffsethou"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-02",
-  "count": 22
+  "count": 23
  },
- "last_run": "2026-08-02T14:30:23.719313+03:00",
+ "last_run": "2026-08-02T14:35:14.011591+03:00",
  "sent_stories": [
   {
    "d": "2026-07-30",
