@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "068dea7dad4646e0",
-  "dronesstrikeoilrefineryinufamorethan1700kilometersfromukrain",
   "8b95ed7b3e76fe50",
   "oilpricesplummetasinvestorsdigestpauseinfightinginiranwar",
   "947b1efb69c0d9eb",
@@ -603,7 +601,9 @@
   "bf1aa318418b94d2",
   "factcheckingtrumpsrecentcommentsaboutcostsofiranwar",
   "9c7ab56a8f3b3b21",
-  "factcheckingtrumpsclaimsabouttheeffectoftheiranwaronoilprice"
+  "factcheckingtrumpsclaimsabouttheeffectoftheiranwaronoilprice",
+  "fcc30ce4af3ab758",
+  "trumphasbeenabletokeepoilpriceslowbutthatpowermaynotlastfore"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 4
  },
- "last_run": "2026-08-04T00:25:14.595058+03:00",
+ "last_run": "2026-08-04T00:30:25.467842+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
