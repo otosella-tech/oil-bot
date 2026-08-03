@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "39e93c3f9f1a2f36",
-  "uaechangeshowitpricesitscrudeoilgrades",
   "3064666f0d65c99a",
   "adnocunveilsnewcrudepricingmechanism",
   "fa05d4ce3b88a777",
@@ -603,7 +601,9 @@
   "c429bfe889c98c4f",
   "oilpricesonaug3brentcrudeslidesover6tohit82onhopesofusiranpe",
   "5d7c40a89fefc99f",
-  "oildropsover4asmiddleeasttensionsebbondiplomaticefforts"
+  "oildropsover4asmiddleeasttensionsebbondiplomaticefforts",
+  "fa286c11e577902f",
+  "oilretreattoproviderbisrupeesupporteffortsanextraboost"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 35
  },
- "last_run": "2026-08-03T06:00:21.626111+03:00",
+ "last_run": "2026-08-03T06:05:12.912893+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
