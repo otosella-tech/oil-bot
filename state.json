@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "69ccbe9e40650da5",
-  "thailandtoavoidmideastwaroilshock",
   "068dea7dad4646e0",
   "dronesstrikeoilrefineryinufamorethan1700kilometersfromukrain",
   "8b95ed7b3e76fe50",
@@ -603,7 +601,9 @@
   "24aba286f4e1d138",
   "goldsteadiesasoilslumpcoolsinflationpressureequitiesrallykit",
   "bf1aa318418b94d2",
-  "factcheckingtrumpsrecentcommentsaboutcostsofiranwar"
+  "factcheckingtrumpsrecentcommentsaboutcostsofiranwar",
+  "9c7ab56a8f3b3b21",
+  "factcheckingtrumpsclaimsabouttheeffectoftheiranwaronoilprice"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 3
+  "count": 4
  },
- "last_run": "2026-08-04T00:20:21.796842+03:00",
+ "last_run": "2026-08-04T00:25:14.595058+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
