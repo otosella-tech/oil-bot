@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "84671ee89714611b",
-  "internaldocumentsrevealshelldecisiontokeeppollutednigerdelta",
-  "8b0e39284686b5cc",
-  "crudeoilshrugsofftheselloffasbarrelsvanish",
   "52dfddbb1336cee5",
   "wallstreetrisesasamazonandchipstocksjumpevenasoilpricesaddto",
   "39e93c3f9f1a2f36",
@@ -603,7 +599,11 @@
   "51eaf62610d83f14",
   "keyoilchokepointsremainstarvedoftrafficredseahormuztankertra",
   "193540e412e38004",
-  "oilpricewatchasofaugust32026"
+  "oilpricewatchasofaugust32026",
+  "96a97ab4fd67889d",
+  "datashowsthattwotankerscarryingsaudioillefttheredseaatthewee",
+  "c429bfe889c98c4f",
+  "oilpricesonaug3brentcrudeslidesover6tohit82onhopesofusiranpe"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-03",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-08-03T05:30:23.399966+03:00",
+ "last_run": "2026-08-03T05:35:13.837627+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -844,6 +844,10 @@
   {
    "d": "2026-08-03",
    "t": "Key oil chokepoints remain starved of traffic. Red Sea, Hormuz tanker traffic stays deeply depressed - investingLive"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Data shows that two tankers carrying Saudi oil left the Red Sea at the weekend. - Marine News Magazine"
   }
  ]
 }
