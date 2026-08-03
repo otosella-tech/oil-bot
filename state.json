@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "e86b32b1f015dbb0",
-  "opedsanctionsdrivegrowthofaparallelshippingeconomy",
-  "baaae4846095957a",
-  "exxonandchevronprofitssurgeonrisingoilpricesduetoiranwar",
   "bd03158a2283da11",
   "shellsprofitrises97duetotheincreaseinoilprices",
   "3edfa6b98629a44d",
@@ -603,7 +599,11 @@
   "b2c1060e76a19182",
   "cornendsthedayupmorethan8mondayaug32026",
   "de9a1e305ecc633f",
-  "stocksrallyasoildropsonhormuzdiplomatichopes"
+  "stocksrallyasoildropsonhormuzdiplomatichopes",
+  "f5bb01ac0877894d",
+  "currentpriceofoilasofjuly312026",
+  "4f84c986a0da72b4",
+  "stocksrallyneararecordasfallingoilpriceseasewallstreetsworri"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T23:35:21.523704+03:00",
+ "last_run": "2026-08-03T23:40:22.290564+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
