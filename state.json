@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "5fdd1cf5de05164f",
-  "opecboostsseptemberproductionby188000barrelsdayal",
-  "b4b4ebc9d66f5c5d",
-  "currentpriceofoilasofjuly212026",
   "8354f6adc2b15130",
   "satelliteimagesshowevidenceofoilleakspreadingfromsanctionedv",
   "5224ed5d6ac2c225",
@@ -603,7 +599,11 @@
   "1516430a94f5a716",
   "opecalliesincreaseoiloutputforsixthtimeinarow",
   "2321c0322607d89c",
-  "uscrudeoilstockpilesfallmorethanexpected"
+  "uscrudeoilstockpilesfallmorethanexpected",
+  "a7ddd6539f180be0",
+  "oilstockseyebuypointsinheftyearningsweek1breaksout",
+  "bb130a15f745f300",
+  "thepartsandpiecesofpikka"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T21:35:23.034356+03:00",
+ "last_run": "2026-08-03T21:40:15.429693+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
