@@ -4,12 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "98bed422d969cbcb",
-  "brentcrudeoilsurgesto85perbarrelafterirancarriesoutaretaliat",
-  "ab1b0796e940e3da",
-  "yourfridayjuly31guidefivethingstodointheoilcity",
-  "6edd2bd662e952a8",
-  "crudeoilsurgesafterusstrikesoniraniantargets",
   "6f64c0dca7662feb",
   "whytheiranwarhasntcausedthebiggestenergycrisisinhistorylikew",
   "7b97c0de892ffec7",
@@ -603,7 +597,13 @@
   "a08414ab4a760e1a",
   "oilslumpsonhopesofirandealyenspikessuddenlyafterintervention",
   "0a46a874f05b3a4a",
-  "canadagdpgrowsinmayamidexpansioninoilandgasactivity"
+  "canadagdpgrowsinmayamidexpansioninoilandgasactivity",
+  "c30fd8c24de9d521",
+  "chinascrudeoilimportsfellinthesecondquarter",
+  "df7cd0aeaf98a1cd",
+  "oilpricesfallamidhopesofpossibleusirandeal",
+  "b325c1f1e7061751",
+  "leadsoilshiftstoq2profitonhighrefiningmarginslubricantsales"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-03",
-  "count": 24
+  "count": 25
  },
- "last_run": "2026-08-03T04:10:14.503617+03:00",
+ "last_run": "2026-08-03T04:15:15.525346+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
