@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "0b30f3f1f0bd49cb",
-  "whytrumpstradethreatputsspainsenergysecurityontheline",
   "e857d2e57b3c3936",
   "mexicospemexpostslowerquarterlyprofitreshapessupplierdebtami",
   "67b22b140d1920b6",
@@ -603,7 +601,9 @@
   "9db42991ff94db3c",
   "oilgiantsreportblowoutprofitsonwarwarnhighgaspricescouldpers",
   "352f1417e39a9f6f",
-  "iranwarrevivesoilrefiningasfueldisruptionsliftmargins"
+  "iranwarrevivesoilrefiningasfueldisruptionsliftmargins",
+  "4dedf75654d2b7d7",
+  "oilfallsaftertrumpcancelsattackonirantoseeknucleardeal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T10:55:41.128669+03:00",
+ "last_run": "2026-08-03T11:00:25.617860+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -940,6 +940,10 @@
   {
    "d": "2026-08-03",
    "t": "Iran War Revives Oil Refining as Fuel Disruptions Lift Margins - Межа. Новини України."
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil falls after Trump cancels attack on Iran to seek nuclear deal - Reuters"
   }
  ]
 }
