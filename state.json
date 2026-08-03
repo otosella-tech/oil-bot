@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "79f46be4fd131add",
-  "chevronearningsandoils20julyjumparegreatnewsforthestock",
   "7819475d86497105",
   "oilpricessurgeto100perbarrelafterredseaattacks",
   "fd0114b4519f3596",
@@ -603,7 +601,9 @@
   "4ba4333c71d9b998",
   "columnwilltheiranwardeliverthefinalblowtoopec",
   "c76a6fc9fb5d5980",
-  "wtiusoilvolatilityintensifiedonaug3whattowatch"
+  "wtiusoilvolatilityintensifiedonaug3whattowatch",
+  "4ae4d2e6733b268f",
+  "crudeoilplungesmetalsbroadlydeclineironorelmeandshfenickelan"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-03",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-08-03T07:10:15.149713+03:00",
+ "last_run": "2026-08-03T07:15:13.937767+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -864,6 +864,10 @@
   {
    "d": "2026-08-03",
    "t": "Column: Will the Iran war deliver the final blow to OPEC? - pilotonline.com"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Crude Oil Plunges, Metals Broadly Decline; Iron Ore, LME and SHFE Nickel, and SHFE Lead Lead Losses; Polysilicon Surges Over 7% [SMM Midday Review] - Shanghai Metals Market"
   }
  ]
 }
