@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "f50bc15599b96f11",
-  "chinadoublesdownoncleanenergyevenascoalkeepsgrowing",
-  "30134eeac81513b0",
-  "majorfireeruptsatsaratovoilrefineryafterdroneattack",
   "8a52b9ea139dd956",
   "oilpricetodayjuly31crudeoilextendsfallto88whatsbehindthedecl",
   "3a87d069094a636a",
@@ -603,7 +599,11 @@
   "391dd5d067861348",
   "opeccompletesrollbackofoilproductioncutswithseptemberhike",
   "929f877f968b41f6",
-  "trumpblastsoilcompaniesformakingtoomuchmoneyduringiranconfli"
+  "trumpblastsoilcompaniesformakingtoomuchmoneyduringiranconfli",
+  "8547a9c941ef88af",
+  "investorsscoredoniranwarsoilmarketboomstayinglongthetradewil",
+  "e2cbf5910005ce5a",
+  "chinatocryptojulystopperformingisharesetfs"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T22:15:21.785636+03:00",
+ "last_run": "2026-08-03T22:20:20.149424+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1244,6 +1244,10 @@
   {
    "d": "2026-08-03",
    "t": "OPEC+ completes rollback of oil production cuts with September hike - Energy Connects"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier - CNBC"
   }
  ]
 }
