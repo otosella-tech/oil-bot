@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "d0042b8e4b9727f5",
-  "shellprofitsdoubleasoilpricesriseduetoiranwar",
   "a9714c75cb8ef3f3",
   "opectippedtoraiseproductionagainbutnewquotasloomal",
   "2d2ca90c0365f568",
@@ -603,7 +601,9 @@
   "a8bd544c4674aafc",
   "georgiaskulevirefineryreplacesrussiancrudewithkazakhlibyanoi",
   "ea797a0ffe687a72",
-  "kmtcallsforaccountabilityinsoybeanoilcontaminationcase"
+  "kmtcallsforaccountabilityinsoybeanoilcontaminationcase",
+  "c464bc7092744491",
+  "oilslidesastrumpdelaysiranstrikessignalspeacetalks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T20:05:15.302901+03:00",
+ "last_run": "2026-08-03T20:10:14.493235+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-08-03",
    "t": "Georgia’s Kulevi Refinery Replaces Russian Crude With Kazakh, Libyan Oil"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil slides as Trump delays Iran strikes, signals peace talks - Fox Business"
   }
  ]
 }
