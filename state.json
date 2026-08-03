@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "22ef7e4454fd40cd",
-  "crudeoilweeklyoutlooktightinventorieskeepbullsincontrol",
   "67cce67b38a49ebb",
   "crudeoilpriceforecastbullishmomentumbuildsinsidetriangle",
   "35fdba4ebad4c81c",
@@ -603,7 +601,9 @@
   "20b04db0ff4d5767",
   "oilpricesdrop7tothreeweeklowaftertrumpcancelsattackoniran",
   "caa9642f758cc6b3",
-  "oilfallsstocksgainamidiranpeacehopesyenfirmsafterinterventio"
+  "oilfallsstocksgainamidiranpeacehopesyenfirmsafterinterventio",
+  "13ca47632be8cc08",
+  "currentpriceofoilasofjuly282026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T22:50:16.806386+03:00",
+ "last_run": "2026-08-03T22:55:13.281554+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
