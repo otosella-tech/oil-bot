@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "ece461200173e1ef",
-  "glencorepursueslegalfightover230millioninunpaidoil",
-  "dc3994e7ed7af7ca",
-  "goldmansachsdieselcrunchisnowthebiggestthreatinoilmarkets",
   "de9a1cc950ec6d5b",
   "exxonchevronwarnfuelpricestoendureaswarknocksrefining",
   "f545db17b77e7b4c",
@@ -603,7 +599,11 @@
   "f937e53cbc1853d0",
   "usstocksmayseeinitialstrengthascrudeoilpricesplunge",
   "fd8ae32ae32f967e",
-  "oilpricesfallastrumpseeksirannucleardeal"
+  "oilpricesfallastrumpseeksirannucleardeal",
+  "801f222d6968e044",
+  "oilpricesplungeandeuropesmarketsrallyaftertrumpcallsoffirans",
+  "94488e1e9bc8770f",
+  "oilpricesdropaftertrumpcancelsattackonirantoseekdeal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T16:20:20.950254+03:00",
+ "last_run": "2026-08-03T16:25:21.825237+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1080,6 +1080,14 @@
   {
    "d": "2026-08-03",
    "t": "Iran peace hopes boost stocks, weaken crude; yen firms after intervention - Reuters"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes - theguardian.com"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil prices drop after Trump cancels attack on Iran to seek deal - Reuters"
   }
  ]
 }
