@@ -4,12 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "a2c3b2ca3c9f489e",
-  "currentpriceofoilasofjuly102026",
-  "03de3c22e45a56b1",
-  "fromhormuztothepumpwhyoilpriceshockshitconsumersdifferentlya",
-  "7f535918945c1d88",
-  "rubiosbypassplancantheworldescapethestraitofhormuzchokepoint",
   "f567cfbeb16ff7d4",
   "opecagreestosmalloiloutputquotahikeforseptember",
   "13ca47632be8cc08",
@@ -603,7 +597,13 @@
   "0c2224221e91469f",
   "ukrainesdronecampaigndrivesrussianoilrefiningto24",
   "95863674fb94a24f",
-  "threattooiltankersinmiddleeastworstsincestartofiranwaranalys"
+  "threattooiltankersinmiddleeastworstsincestartofiranwaranalys",
+  "0653c44de827e2be",
+  "trumpblastsbigoilcompaniesformakingtoomuchmoney",
+  "a54bb4521b3848c4",
+  "usstocksrallyneararecordasfallingoilpriceseasewal",
+  "9f7a016af1448a20",
+  "ukrainesdronecampaigndrivesrussianoilrefiningto24yearlow"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T22:35:12.580524+03:00",
+ "last_run": "2026-08-03T22:40:13.978451+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-08-03",
    "t": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say - BBC"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Ukraine's Drone Campaign Drives Russian Oil Refining to 24-Year Low - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
