@@ -4,12 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "12d498293e423e11",
-  "oilpricesrecoverlossesafteriranmissileattackandbullishinvent",
-  "1246f572c5b6fb64",
-  "japanseneosbuyscanadianoilviatransmountainasasiadiversifiesf",
-  "50c39ba694ae9ff8",
-  "oilpricesremainhighlyflammable",
   "edcce91afa75855b",
   "saudiarabiaexportsmorecrudeoilthananyothercountryandkeepsspa",
   "e574218c8da87e7a",
@@ -603,7 +597,13 @@
   "2168d50d90b63102",
   "indialaunches88bnsamudramanthanoffshoreoilandgasscheme",
   "ed82d992a9c468ff",
-  "riposts450mtradedeficitinjuneasoilimportssurge"
+  "riposts450mtradedeficitinjuneasoilimportssurge",
+  "391f76f8c574ad0e",
+  "indiasimportsofrussiancrudehitnewhighinjuly",
+  "4955d4dbc8931f2a",
+  "totalenergiessharesslipasoilpricesretreatonirannegotiationho",
+  "f6097120db5da855",
+  "documentshowsthatiraqssomooffersdiscountsonoilloadinginhormu"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T13:25:15.535256+03:00",
+ "last_run": "2026-08-03T13:30:20.606170+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -992,6 +992,18 @@
   {
    "d": "2026-08-03",
    "t": "Trump suggests new talks with Iran to begin on Monday - BBC"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "India’s Imports of Russian Crude Hit New High in July"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "TotalEnergies Shares Slip as Oil Prices Retreat on Iran Negotiation Hopes - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Document shows that Iraq's SOMO offers discounts on oil loading in Hormuz. - marinelink.com"
   }
  ]
 }
