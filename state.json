@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "8b95ed7b3e76fe50",
-  "oilpricesplummetasinvestorsdigestpauseinfightinginiranwar",
   "947b1efb69c0d9eb",
   "hormuzuncertaintykeepsoilmarketsonedge",
   "87fa8ae05e3b1660",
@@ -603,7 +601,9 @@
   "9c7ab56a8f3b3b21",
   "factcheckingtrumpsclaimsabouttheeffectoftheiranwaronoilprice",
   "fcc30ce4af3ab758",
-  "trumphasbeenabletokeepoilpriceslowbutthatpowermaynotlastfore"
+  "trumphasbeenabletokeepoilpriceslowbutthatpowermaynotlastfore",
+  "6496af6b8a804966",
+  "oilsettleslowerasusgivestalksanotherchance"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 4
  },
- "last_run": "2026-08-04T00:35:13.881586+03:00",
+ "last_run": "2026-08-04T00:40:22.847766+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
