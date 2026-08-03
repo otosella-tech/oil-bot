@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "8e373360420165e2",
-  "oilgiantsreportblowoutprofitsonwarwarnhighgaspricescouldpers",
   "70d90e42e43e7863",
   "oilrisesastradersassessshippingflowsbigmonthlygaininsight",
   "2db223b3e6f3461b",
@@ -603,7 +601,9 @@
   "b7a914fc02024cb7",
   "economicletterfromasiaonagainoffagain",
   "7f6277b40df59885",
-  "shellagreestoselleuropeanonshorerenewablesunittototalenergie"
+  "shellagreestoselleuropeanonshorerenewablesunittototalenergie",
+  "0839cd6f04e53cc9",
+  "oilslumpsover6astrumpcallsoffiranstrikeannouncesfreshtalks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T10:45:21.104240+03:00",
+ "last_run": "2026-08-03T10:50:24.930908+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -932,6 +932,10 @@
   {
    "d": "2026-08-03",
    "t": "European shares rise near record highs as oil plunge and Trump-Iran talks - Investing.com"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil slumps over 6% as Trump calls off Iran strike, announces fresh talks - Investing.com"
   }
  ]
 }
