@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "c6a93febfc4f038b",
-  "indianoilpostsfirstquarterlylossin15oncrudepricesurge",
-  "c30fd8c24de9d521",
-  "chinascrudeoilimportsfellinthesecondquarter",
   "98bed422d969cbcb",
   "brentcrudeoilsurgesto85perbarrelafterirancarriesoutaretaliat",
   "ab1b0796e940e3da",
@@ -603,7 +599,11 @@
   "77869d1f7666e4f9",
   "jambalayaonthebayouadrilldownreportonlouisianascrudeoilpipel",
   "269672fab9563399",
-  "soilprofitdrivenbyrefininglubricantperformance"
+  "soilprofitdrivenbyrefininglubricantperformance",
+  "a08414ab4a760e1a",
+  "oilslumpsonhopesofirandealyenspikessuddenlyafterintervention",
+  "0a46a874f05b3a4a",
+  "canadagdpgrowsinmayamidexpansioninoilandgasactivity"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-03",
-  "count": 22
+  "count": 24
  },
- "last_run": "2026-08-03T04:05:14.105962+03:00",
+ "last_run": "2026-08-03T04:10:14.503617+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -820,6 +820,10 @@
   {
    "d": "2026-08-03",
    "t": "Oil drops over 4% after Trump calls off planned strike on Iran - CNBC"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil slumps on hopes of Iran deal, yen spikes suddenly after intervention - Yahoo! Finance Canada"
   }
  ]
 }
