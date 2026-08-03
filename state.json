@@ -4,14 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "22ae3a73d2c55652",
-  "columnwhencheapoilrunsout",
-  "cddf27b04226593e",
-  "africaslargestrefinerywillconsume25oftheworldstradedcrudeoil",
-  "97a8715919d94f59",
-  "currentpriceofoilasofjuly132026",
-  "f2ea13a5a6571706",
-  "iraqturkeysignoneyeardealtoreviveceyhanoilexports",
   "0179377c8874bb78",
   "aiselectricitydemandisnottherealproblemitsinflexibilityis",
   "4f0dae705db6cf93",
@@ -603,7 +595,15 @@
   "30c13d2de064157f",
   "trumpsiranreversalsendseuropeangaspricestumbling",
   "64be9967712d6d3d",
-  "oilpricestumbledinearlyasiatradeafteruspresidentdonaldtrumpa"
+  "oilpricestumbledinearlyasiatradeafteruspresidentdonaldtrumpa",
+  "5a68f5df3580bd36",
+  "saudioilshipmentsslipinjulyasredseahormuzrisksgrow",
+  "c4ba277a3c6793d0",
+  "trumpslamschevronceodemandsimmediatereductioninusfuelprices",
+  "9b97c90ac0538fef",
+  "iransaysitisintalkswithomanbutnottheusaftertrumpsaysnegotiat",
+  "d26baab40d58e574",
+  "trumpurgesoilcompaniestocutretailfuelpricesascrudeslidesonre"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T18:30:28.358456+03:00",
+ "last_run": "2026-08-03T18:35:15.030784+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1180,6 +1180,14 @@
   {
    "d": "2026-08-03",
    "t": "Oil prices tumbled in early Asia trade after US President Donald Trump announced fresh talks with Iran to end the Middle East war and reopen the Strait of Hormuz. | via ANC 24/7 Link to full story in the comment section. - facebook.com"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Saudi Oil Shipments Slip in July as Red Sea, Hormuz Risks Grow - Bloomberg"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume - bbc.com"
   }
  ]
 }
