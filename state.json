@@ -4,12 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "fa76de1495ccbede",
-  "equinorsq2adjustedoperatingincomesurgesover75asmiddleeastcon",
-  "62a0d61011f49196",
-  "pricesofoilfallasmarketsrepricesupplyriskweeklyupdate",
-  "9212ff80de5a7c33",
-  "chinascrudeoilimportssurge",
   "9942a91b712ebf51",
   "recordvacamuertaoutputfailstoliftargentinaswidereconomy",
   "944279190f513ca5",
@@ -603,7 +597,13 @@
   "e16152ecdd3387ff",
   "rupeeclimbstonearonemonthpeakonlowercrudeoilpricesindiatribu",
   "b8b183075fab8aa3",
-  "howrisingfuelpricesaffectconservationwork"
+  "howrisingfuelpricesaffectconservationwork",
+  "763c2f498eb42ddf",
+  "oilpricesdrop5tothreeweeklowaftertrumpcancelsattackoniran",
+  "d45617531f9e5a6a",
+  "russiaassemblesmassivearctictankerfleettopushrecordoilshipme",
+  "ab7c3926abf7f89c",
+  "mexicospemexpostslowerquarterlyprofitreshapessupplierdebtami"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T18:10:18.643791+03:00",
+ "last_run": "2026-08-03T18:15:16.505932+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1164,6 +1164,14 @@
   {
    "d": "2026-08-03",
    "t": "Oil tumbles and stock futures surge after Trump said Iran deal was near - Fortune"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil Prices Drop 5% to Three-Week Low After Trump Cancels Attack on Iran - GV Wire"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Russia Assembles Massive Arctic Tanker Fleet to Push Record Oil Shipments via Northern Sea Route - UNITED24 Media"
   }
  ]
 }
