@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "0eb57103280bce59",
-  "largecapenergystockslongtermrecordsendscautionarysignal",
   "517e52ff2b41accc",
   "hereshowbigoilcashedinonthehistoricsupplycrunch",
   "1b8026587e850569",
@@ -603,7 +601,9 @@
   "acda393c0af23044",
   "shellsellseuropeanonshorerenewablestototalenergies",
   "982c2291763ffdfe",
-  "kuwaitoilproductionsurgesasopeccompletesoutputcutreversal"
+  "kuwaitoilproductionsurgesasopeccompletesoutputcutreversal",
+  "1861e51c892b1109",
+  "opectoincreasecrudeoilproductionby188000barrelsperdayinsepte"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T11:35:11.670544+03:00",
+ "last_run": "2026-08-03T11:40:14.200196+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -952,6 +952,10 @@
   {
    "d": "2026-08-03",
    "t": "Kuwait Oil Production Surges as OPEC+ Completes Output Cut Reversal"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "OPEC+ to increase crude oil production by 188,000 barrels per day in September - El Mundo America"
   }
  ]
 }
