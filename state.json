@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "bd03158a2283da11",
-  "shellsprofitrises97duetotheincreaseinoilprices",
-  "3edfa6b98629a44d",
-  "columnwilltheiranwardeliverthefinalblowtoopecthevirginian",
   "484b72f63662dd93",
   "straitofhormuzdisruptionraisesmarketvolatilityweakensefforts",
   "90ebe1205c7cf38b",
@@ -603,7 +599,11 @@
   "f5bb01ac0877894d",
   "currentpriceofoilasofjuly312026",
   "4f84c986a0da72b4",
-  "stocksrallyneararecordasfallingoilpriceseasewallstreetsworri"
+  "stocksrallyneararecordasfallingoilpriceseasewallstreetsworri",
+  "5fcb4b9e3bbd46dc",
+  "usoilexportsinjulyfalltolowestlevelineightmonthsdatashows",
+  "97b07558bd38af21",
+  "venezuelasoilexportsfellslightlyinjulycargoestousrose"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T23:45:20.413091+03:00",
+ "last_run": "2026-08-03T23:50:20.742230+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1296,6 +1296,10 @@
   {
    "d": "2026-08-03",
    "t": "Stocks Rally as Oil Drops on Hormuz Diplomatic Hopes - WSJ"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Venezuela's oil exports fell slightly in July, cargoes to US rose - Reuters"
   }
  ]
 }
