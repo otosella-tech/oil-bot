@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "320949d76bcd7456",
-  "indianstaterefinerssuspendiraqcrudeloadingsasstraitofhormuzs",
-  "19f249482b55274c",
-  "over9999ofoilremovedfromseawaterwithhigherevaporationrateusi",
   "8547a9c941ef88af",
   "investorsscoredoniranwarsoilmarketboomstayinglongthetradewil",
   "f50bc15599b96f11",
@@ -603,7 +599,11 @@
   "1d2edf6952bebada",
   "bigoilcompaniesreportrecordprofitsamidhighoilprices",
   "9eb80ba8ab2ebc79",
-  "totalenergiesbuysallofshellseuropeanrenewableenergyassets"
+  "totalenergiesbuysallofshellseuropeanrenewableenergyassets",
+  "219dd5a4e47ce6ec",
+  "tennesseegaspricesfall3cents",
+  "391dd5d067861348",
+  "opeccompletesrollbackofoilproductioncutswithseptemberhike"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T22:05:19.703573+03:00",
+ "last_run": "2026-08-03T22:10:17.349434+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1240,6 +1240,10 @@
   {
    "d": "2026-08-03",
    "t": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it' - CNBC"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "OPEC+ completes rollback of oil production cuts with September hike - Energy Connects"
   }
  ]
 }
