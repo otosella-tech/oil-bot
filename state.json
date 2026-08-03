@@ -4,12 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "b3d69ed769b05d57",
-  "seewhereyoucangetthecheapestgasinqueencreek",
-  "472f7e6cb0bfb4d0",
-  "refinedfuelsnotcrudearedrivingtheoilmarketcrunch",
-  "7975157102bd98e1",
-  "akerbpoutofoilin2026lookingtogetbackinotcmktsakrby",
   "3620a77ddfc42e55",
   "usoildrillersturncautiousaswtiholdsnear85perbarrel",
   "ac2ea4d54522325b",
@@ -603,7 +597,13 @@
   "b10767307e691901",
   "opecagreesseptemberoutputincreaseof188000bbld",
   "4fa9a2bb6704d87d",
-  "isvenezuelasoilsectoronthemend"
+  "isvenezuelasoilsectoronthemend",
+  "84d9da62c7281333",
+  "iraqandtrkiyetarget15mmbbldundernewframeworktalks",
+  "f958d4d4ec10b55a",
+  "opecdecidestohikeoutputonceagain",
+  "9545e25b2d50552c",
+  "soilturnsprofitviarefininglubricantstrength"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T10:00:28.875907+03:00",
+ "last_run": "2026-08-03T10:05:13.520569+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -920,6 +920,10 @@
   {
    "d": "2026-08-03",
    "t": "OPEC+ Agrees September Output Increase of 188,000 bbl/d - Egypt Oil & Gas"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "OPEC+ decides to hike output once again - engine.online"
   }
  ]
 }
