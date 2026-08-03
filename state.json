@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "b24981c569e2a4f0",
-  "crudeoilsurgesasmiddleeasthostilitiesescalateusoilstockpiles",
   "271a1d1e7999ea83",
   "discovertheimpactofapipc12oilontrucks",
   "eefb3b3a94fe4a77",
@@ -603,7 +601,9 @@
   "0f538f0265be1a80",
   "yourmondayaug3guidefivethingstodointheoilcity",
   "7955053392c85925",
-  "oilpricesslideonhopesofdealtoendmideastwar"
+  "oilpricesslideonhopesofdealtoendmideastwar",
+  "f05c2a1d709018cd",
+  "opec7decidetoboostproductionquota"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T16:00:26.376025+03:00",
+ "last_run": "2026-08-03T16:05:15.868147+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1072,6 +1072,10 @@
   {
    "d": "2026-08-03",
    "t": "Oil prices slide on hopes of deal to end Mideast war - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "OPEC+ 7 Decide to Boost Production Quota - Rigzone"
   }
  ]
 }
