@@ -4,12 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "271a1d1e7999ea83",
-  "discovertheimpactofapipc12oilontrucks",
-  "eefb3b3a94fe4a77",
-  "whyoilpriceshaventgonecrazydespite5monthsofusiranwar",
-  "249706aa9c4b8e2a",
-  "thebankofenglandismovingawayfromcoal",
   "ece461200173e1ef",
   "glencorepursueslegalfightover230millioninunpaidoil",
   "dc3994e7ed7af7ca",
@@ -603,7 +597,13 @@
   "7955053392c85925",
   "oilpricesslideonhopesofdealtoendmideastwar",
   "f05c2a1d709018cd",
-  "opec7decidetoboostproductionquota"
+  "opec7decidetoboostproductionquota",
+  "c90b28dfac1f90c6",
+  "iranpeacehopesbooststocksweakencrudeyenfirmsafterinterventio",
+  "f937e53cbc1853d0",
+  "usstocksmayseeinitialstrengthascrudeoilpricesplunge",
+  "fd8ae32ae32f967e",
+  "oilpricesfallastrumpseeksirannucleardeal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T16:10:16.216417+03:00",
+ "last_run": "2026-08-03T16:15:24.375880+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1076,6 +1076,10 @@
   {
    "d": "2026-08-03",
    "t": "OPEC+ 7 Decide to Boost Production Quota - Rigzone"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Iran peace hopes boost stocks, weaken crude; yen firms after intervention - Reuters"
   }
  ]
 }
