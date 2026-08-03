@@ -4,12 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "67cce67b38a49ebb",
-  "crudeoilpriceforecastbullishmomentumbuildsinsidetriangle",
-  "35fdba4ebad4c81c",
-  "kazakhstanintalkstorefinerussiancrudeoilamidfuelshortages",
-  "a81e462607e80b33",
-  "crudeoilpricedivesasopecagreestoanothersupplyhike",
   "f732d337ae747cb2",
   "tidalenergycouldcover57ofuselectricitydemandnrelstudyfinds",
   "29894292f82de8e4",
@@ -603,7 +597,13 @@
   "caa9642f758cc6b3",
   "oilfallsstocksgainamidiranpeacehopesyenfirmsafterinterventio",
   "13ca47632be8cc08",
-  "currentpriceofoilasofjuly282026"
+  "currentpriceofoilasofjuly282026",
+  "75399ae7458b412c",
+  "russiaisrunningoutofsoldiersoilandtime",
+  "89d78290cc8ef2a8",
+  "trumpblastsexxonchevronformakingtoomuchmoneydemandslowergaso",
+  "26fc70a131937fc6",
+  "usequityindexesjumpascommunicationservicesrallywhilecrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T22:55:13.281554+03:00",
+ "last_run": "2026-08-03T23:00:27.748947+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1268,6 +1268,10 @@
   {
    "d": "2026-08-03",
    "t": "Oil falls, stocks gain amid Iran peace hopes; yen firms after intervention - Reuters"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Russia Is Running Out of Soldiers, Oil, and Time"
   }
  ]
 }
