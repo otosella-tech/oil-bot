@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "9b914940854fba39",
-  "dieselpricenearsrecordhighasfedholdsinterestratessteadyinvol",
-  "5aa730b03ab96150",
-  "theoilmajorsareabouttoreportboomingprofitsthesesmallerstocks",
   "c5cfab3192160a09",
   "onthechopintheoilmarket",
   "470ca15e24f8e6d2",
@@ -603,7 +599,11 @@
   "c410620f020cfda8",
   "oilpricesriseafterusblockssurpriseattackfromiran",
   "14c627406ed6777a",
-  "usocvxxomoxydroppremarketastrumpsirantalkstriggercrudeoilsel"
+  "usocvxxomoxydroppremarketastrumpsirantalkstriggercrudeoilsel",
+  "5520e8da931cf68c",
+  "globaloilstocksfallascrudeextendslossesonhopesforirandiploma",
+  "d8a5115070e40587",
+  "goldfirmsslightlyamiddropinoilpricesweakerdollar"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T14:15:16.744596+03:00",
+ "last_run": "2026-08-03T14:25:15.783352+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1020,6 +1020,10 @@
   {
    "d": "2026-08-03",
    "t": "Oil prices rise after U.S. blocks surprise attack from Iran - CNBC"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Global oil stocks fall as crude extends losses on hopes for Iran diplomatic talks - Investing.com"
   }
  ]
 }
