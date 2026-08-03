@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "29062b6aea0af01f",
-  "thecontroversialspacemirrorsdesignedtoboostsolarpower",
   "d17a8e3e4fe8a883",
   "newfrontintheoilwarhowukraineisdisruptingrussiasmaritimelogi",
   "c66b8957472d2a95",
@@ -603,7 +601,9 @@
   "3c2e041491441eb4",
   "iraqandturkeystrikea1yearoilpipelinedealtoboostexportsduring",
   "74179e0d1a2b3dd9",
-  "georgiassanctionedrefinerystartsshifttononrussianoil"
+  "georgiassanctionedrefinerystartsshifttononrussianoil",
+  "107102d9c82a3904",
+  "darktankertransitssurgeatbabelmandebashouthithreatpersists"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T17:40:22.892968+03:00",
+ "last_run": "2026-08-03T17:45:15.344332+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1140,6 +1140,10 @@
   {
    "d": "2026-08-03",
    "t": "Georgia’s Sanctioned Refinery Starts Shift to Non-Russian Oil - Bloomberg"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Dark Tanker Transits Surge at Bab el-Mandeb as Houthi Threat Persists - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
