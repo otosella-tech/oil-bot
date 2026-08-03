@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "944279190f513ca5",
-  "palworld10crudeoillocationsandfarmingguide",
-  "31788a6e86d7494d",
-  "oilgiantsreportblowoutprofitsonwarsaygaspricescouldstayhigh",
   "22ae3a73d2c55652",
   "columnwhencheapoilrunsout",
   "cddf27b04226593e",
@@ -603,7 +599,11 @@
   "ab7c3926abf7f89c",
   "mexicospemexpostslowerquarterlyprofitreshapessupplierdebtami",
   "c9d9e2ae55c736cd",
-  "plungingcrudeoilpricescontributingtorallyonwallstreet"
+  "plungingcrudeoilpricescontributingtorallyonwallstreet",
+  "30c13d2de064157f",
+  "trumpsiranreversalsendseuropeangaspricestumbling",
+  "64be9967712d6d3d",
+  "oilpricestumbledinearlyasiatradeafteruspresidentdonaldtrumpa"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T18:25:28.002301+03:00",
+ "last_run": "2026-08-03T18:30:28.358456+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1172,6 +1172,14 @@
   {
    "d": "2026-08-03",
    "t": "Russia Assembles Massive Arctic Tanker Fleet to Push Record Oil Shipments via Northern Sea Route - UNITED24 Media"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Trump's Iran Reversal Sends European Gas Prices Tumbling"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil prices tumbled in early Asia trade after US President Donald Trump announced fresh talks with Iran to end the Middle East war and reopen the Strait of Hormuz. | via ANC 24/7 Link to full story in the comment section. - facebook.com"
   }
  ]
 }
