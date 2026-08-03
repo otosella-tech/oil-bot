@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "fd0114b4519f3596",
-  "crudeoilforecastsmiddleeastriskkeepspriceschoppy",
-  "718f86ec140fe0e5",
-  "oilrisesastradersassessshippingflowsmonthlygainsinsight",
   "5f62cf74a3d02b05",
   "guyanasetforbiggeroilprofitsasexxonmobilrecoupsinitialcosts",
   "5b4b117c4b2c9041",
@@ -603,7 +599,11 @@
   "4ae4d2e6733b268f",
   "crudeoilplungesmetalsbroadlydeclineironorelmeandshfenickelan",
   "a0b58cf5ebad9952",
-  "crudeoilfuturesfallover5astrumppausesplannediranstrike"
+  "crudeoilfuturesfallover5astrumppausesplannediranstrike",
+  "5121e69f6e733411",
+  "oilslumpsonhopesofirandealyenfirmsupafterintervention",
+  "7819475d86497105",
+  "oilpricessurgeto100perbarrelafterredseaattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-03",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-08-03T07:20:14.934478+03:00",
+ "last_run": "2026-08-03T07:25:12.517977+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -868,6 +868,14 @@
   {
    "d": "2026-08-03",
    "t": "Crude Oil Plunges, Metals Broadly Decline; Iron Ore, LME and SHFE Nickel, and SHFE Lead Lead Losses; Polysilicon Surges Over 7% [SMM Midday Review] - Shanghai Metals Market"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil slumps on hopes of Iran deal, yen firms up after intervention - Reuters"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil prices surge to $100 per barrel after Red Sea attacks - NBC News"
   }
  ]
 }
