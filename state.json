@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "edcce91afa75855b",
-  "saudiarabiaexportsmorecrudeoilthananyothercountryandkeepsspa",
   "e574218c8da87e7a",
   "oilpostsbigmonthlygainsonresumptionofconflict",
   "3d98242e8f7ba7cb",
@@ -603,7 +601,9 @@
   "4955d4dbc8931f2a",
   "totalenergiessharesslipasoilpricesretreatonirannegotiationho",
   "f6097120db5da855",
-  "documentshowsthatiraqssomooffersdiscountsonoilloadinginhormu"
+  "documentshowsthatiraqssomooffersdiscountsonoilloadinginhormu",
+  "80b9bde6943ef2b8",
+  "kuwaitintalkswitharabneighborsonpipelinetobypassstraitofhorm"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T13:35:13.002635+03:00",
+ "last_run": "2026-08-03T13:40:14.222695+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1004,6 +1004,10 @@
   {
    "d": "2026-08-03",
    "t": "Document shows that Iraq's SOMO offers discounts on oil loading in Hormuz. - marinelink.com"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Kuwait in talks with Arab neighbors on pipeline to bypass Strait of Hormuz - Japan Wire by Kyodo News"
   }
  ]
 }
