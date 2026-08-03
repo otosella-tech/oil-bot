@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "b936feaa0ad9b689",
-  "exxonmobilpostshighestquarterlyprofitinfouryearsegyptoil",
-  "c9d0caa350fed947",
-  "exxonmobilpostshighestquarterlyprofitinfouryears",
   "33a24f0d84b958ce",
   "iraqtrkiyesignoneyearpipelineagreementtosecurecrudeexports",
   "e21fa2c49acba4b2",
@@ -603,7 +599,11 @@
   "9881e8a315641f70",
   "indianoiltocommissionrefineryexpansionsbyyearend",
   "ef4a217c45173fad",
-  "enbridgepostponesplansforsecondphaseofmainlineoilpipelineexp"
+  "enbridgepostponesplansforsecondphaseofmainlineoilpipelineexp",
+  "d3249220efe0c3d5",
+  "crudeoilpricesplungeastrumppausesmilitarystrikesagainstiran",
+  "aaa42cf233f39b8e",
+  "top1010fromniftysfivemonthhighandcrudeoils7plungetoindigosne"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T19:35:21.407883+03:00",
+ "last_run": "2026-08-03T19:40:13.895726+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1200,6 +1200,10 @@
   {
    "d": "2026-08-03",
    "t": "Oil Prices Rise After Conflict in Strait of Hormuz: Trade on Crude Oil Prices for Monday - Federal News Network"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Crude oil prices plunge as Trump pauses military strikes against Iran - Fox Business"
   }
  ]
 }
