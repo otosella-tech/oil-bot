@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "530b5da6a216d6a4",
-  "opecagreesoutputriseinseptemberamiduneasypauseiniranwar",
   "1516430a94f5a716",
   "opecalliesincreaseoiloutputforsixthtimeinarow",
   "7eed11b2641a0116",
@@ -603,7 +601,9 @@
   "1da12b54d48e169c",
   "thedowadds560pointsasoilpricesfalloffacliff",
   "918df8bfc09e52f6",
-  "usequityindexesriseamidrallyincommunicationservicescrudeoils"
+  "usequityindexesriseamidrallyincommunicationservicescrudeoils",
+  "887291aed3d5c464",
+  "ukrainiandroneattackspushrussiaslargestonlineretailerabroad"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T20:55:13.643035+03:00",
+ "last_run": "2026-08-03T21:00:26.768678+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-08-03",
    "t": "Oil slides as Trump delays Iran strikes, signals peace talks - Fox Business"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Ukrainian Drone Attacks Push Russia's Largest Online Retailer Abroad"
   }
  ]
 }
