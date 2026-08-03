@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "fe7700af7f3b5d2f",
-  "oilspillfromshadowfleettankerspreadingoffomansatelliteimages",
-  "b503d84409c40070",
-  "globalcoalconsumptionhitsrecordevenascoalpowerdeclines",
   "84671ee89714611b",
   "internaldocumentsrevealshelldecisiontokeeppollutednigerdelta",
   "8b0e39284686b5cc",
@@ -603,7 +599,11 @@
   "480b78e75bb79de3",
   "crudeoilslumps6to82onhopesofirandeal",
   "ba604c3cb8db9056",
-  "oilpricesfallnearly5afterusannouncesnewirantalks"
+  "oilpricesfallnearly5afterusannouncesnewirantalks",
+  "51eaf62610d83f14",
+  "keyoilchokepointsremainstarvedoftrafficredseahormuztankertra",
+  "193540e412e38004",
+  "oilpricewatchasofaugust32026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-03",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-08-03T05:25:19.377586+03:00",
+ "last_run": "2026-08-03T05:30:23.399966+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -840,6 +840,10 @@
   {
    "d": "2026-08-03",
    "t": "Oil News: Crude Oil Futures Drop 8% as Hormuz Deal Hopes Outrun Ship Flows - FXEmpire"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Key oil chokepoints remain starved of traffic. Red Sea, Hormuz tanker traffic stays deeply depressed - investingLive"
   }
  ]
 }
