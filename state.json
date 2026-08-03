@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "7819475d86497105",
-  "oilpricessurgeto100perbarrelafterredseaattacks",
   "fd0114b4519f3596",
   "crudeoilforecastsmiddleeastriskkeepspriceschoppy",
   "718f86ec140fe0e5",
@@ -603,7 +601,9 @@
   "c76a6fc9fb5d5980",
   "wtiusoilvolatilityintensifiedonaug3whattowatch",
   "4ae4d2e6733b268f",
-  "crudeoilplungesmetalsbroadlydeclineironorelmeandshfenickelan"
+  "crudeoilplungesmetalsbroadlydeclineironorelmeandshfenickelan",
+  "a0b58cf5ebad9952",
+  "crudeoilfuturesfallover5astrumppausesplannediranstrike"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-03",
-  "count": 43
+  "count": 44
  },
- "last_run": "2026-08-03T07:15:13.937767+03:00",
+ "last_run": "2026-08-03T07:20:14.934478+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
