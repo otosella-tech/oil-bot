@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "84d0a7750f048123",
-  "middleeastoilsuppliesfaceanotherchokepointblockage",
   "9126aca0927f2539",
   "oildropsover4aftertrumpcallsoffplannedstrikeoniran",
   "77869d1f7666e4f9",
@@ -603,7 +601,9 @@
   "d8d979ced91c147b",
   "whatsaffectingoilpricesthisweekaug32026",
   "f37f2c12db2e0447",
-  "diamondbackridesonhigheroilpricestotopprofitestimatesraiseou"
+  "diamondbackridesonhigheroilpricestotopprofitestimatesraiseou",
+  "96e1c07616e91958",
+  "opecoiloutputhikeisirrelevantfornownotforlater"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 7
+  "count": 8
  },
- "last_run": "2026-08-04T02:20:15.137033+03:00",
+ "last_run": "2026-08-04T02:25:14.625796+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
