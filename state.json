@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "c7cd97653d85193c",
-  "trkiyeiraqsigndealtomaximisekirkukceyhanoilpipelineuse",
   "486bef7f692be917",
   "shellsprofitsmorethandoubleafterjumpinoilandgasprices",
   "5786548023afaa48",
@@ -603,7 +601,9 @@
   "9337b2a108aa78e2",
   "oilpricesplummetasinvestorsdigestpauseiniranwarfighting",
   "bcd8d892893f05b1",
-  "dowfuturespopoildivesontrumpmovebutaistocksfade"
+  "dowfuturespopoildivesontrumpmovebutaistocksfade",
+  "686f5a61f505bf22",
+  "trumppredictedanoilcatastropheifthewardidntendtheclockistick"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T16:40:22.302902+03:00",
+ "last_run": "2026-08-03T16:45:16.871450+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1100,6 +1100,10 @@
   {
    "d": "2026-08-03",
    "t": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting - The New York Times"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Trump predicted an oil catastrophe if the war didn’t end. The clock is ticking - CNN"
   }
  ]
 }
