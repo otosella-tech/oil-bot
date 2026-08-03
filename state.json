@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "326f5e0bd32f955e",
-  "indianoilcorpboostspotoilbuyamidmiddleeastcrisis",
-  "c6ee669abc7de865",
-  "guesteditorialmetricsandmeasurementsofmethaneemissionshoware",
   "6e422647f70d2a45",
   "oilcompaniesreportskyhighprofitsthankstowartimecrudeprices",
   "079778be1abea171",
@@ -603,7 +599,11 @@
   "844599b245ae02a9",
   "kazakhstanopecoilproductiontargetrisesafteroutputagreement",
   "dd93dc4852a9b2bc",
-  "forecastupdateforcrudeoil03082026"
+  "forecastupdateforcrudeoil03082026",
+  "f9e85cb19235d862",
+  "warfueledoilrallysettoliftshaleprofitstohighestsince2022",
+  "606db6af6bbd7038",
+  "vegoilspricecommentarycpofuturesfallonprofittakingcmesoyoile"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T15:00:25.569284+03:00",
+ "last_run": "2026-08-03T15:05:15.981965+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1036,6 +1036,10 @@
   {
    "d": "2026-08-03",
    "t": "Kazakhstan OPEC+ Oil Production Target Rises After Output Agreement - The Times Of Central Asia"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "War-fueled oil rally set to lift shale profits to highest since 2022 - Reuters"
   }
  ]
 }
