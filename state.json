@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "101bd487b87f2bad",
-  "opedsanctionsdrivegrowthofaparallelshippingeconomymaritime",
-  "e434362748d47195",
-  "chinascarmarketstallsevenasglobaldemandkeepsgrowing",
   "f5bb01ac0877894d",
   "currentpriceofoilasofjuly312026",
   "96032e0aa478b504",
@@ -603,7 +599,11 @@
   "b0877119efe5539f",
   "oildropsasusiransignalprogressonhormuzdiscussions",
   "bc1567ca627e5503",
-  "usequitymarketsendhigherascrudeoilfallsonusiransnewroundofta"
+  "usequitymarketsendhigherascrudeoilfallsonusiransnewroundofta",
+  "9ca06e249ce94973",
+  "thedowisup700pointsaftertrumpcalledoffstrikesoniranandoiltum",
+  "3ada1e6cd8ec0f29",
+  "limitedrefinerysupplydrivespricespikeinproducts"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T23:25:14.106891+03:00",
+ "last_run": "2026-08-03T23:30:20.009487+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1284,6 +1284,14 @@
   {
    "d": "2026-08-03",
    "t": "Oil drops as U.S., Iran signal progress on Hormuz discussions - worldoil.com"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "The Dow is up 700 points after Trump called off strikes on Iran and oil tumbled - qz.com"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Limited Refinery Supply Drives Price Spike in Products - Energy Intelligence"
   }
  ]
 }
