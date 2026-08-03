@@ -4,12 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "bf1aa318418b94d2",
-  "factcheckingtrumpsrecentcommentsaboutcostsofiranwar",
-  "13bcc99c16b4b364",
-  "opecmaykeepliftingitsoiloutputquotasastheiranwarbroadenswhyt",
-  "9c7ab56a8f3b3b21",
-  "factcheckingtrumpsclaimsabouttheeffectoftheiranwaronoilprice",
   "5a9d48b84b26c250",
   "turkeysaidtoextendiraqoilpipelinedealbyoneyear",
   "d37ccf0af9327dd1",
@@ -603,7 +597,13 @@
   "b5d13a73fb441ab3",
   "oilcompaniesreportskyhighprofitsthankstowartimecrudeprices",
   "ae049c9a200f4160",
-  "irandeniestrumpsclaimthatnewtalkswillbeginonmonday"
+  "irandeniestrumpsclaimthatnewtalkswillbeginonmonday",
+  "b1a5adf1283117cd",
+  "oilslidesoniranpeacedealhopesandyenfirmsafterintervention",
+  "e3ee4ec84bd67567",
+  "globaloilpricesdrop5asiranstrikehalts",
+  "137809082244c6cf",
+  "russiaassemblesunprecedentedarcticoilconvoytobypassglobalshi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T15:20:15.657209+03:00",
+ "last_run": "2026-08-03T15:25:14.424555+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1048,6 +1048,14 @@
   {
    "d": "2026-08-03",
    "t": "Iran denies Trump's claim that new talks will begin on Monday - BBC"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil slides on Iran peace deal hopes and yen firms after intervention - Reuters"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Global Oil Prices Drop 5% as Iran Strike Halts - IranWire"
   }
  ]
 }
