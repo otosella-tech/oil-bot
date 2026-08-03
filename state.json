@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "bf653614219c94f1",
-  "bigoilisreapingrewardsfromthechaosinenergymarkets",
   "9697688d076ab644",
   "saudioilrerouteshitcapacityandsecuritylimits",
   "b9d782131ccb9133",
@@ -603,7 +601,9 @@
   "4667c07fef00ad9d",
   "trumplashesoutatchevronandexxonssoaringprofitsduringiranwar",
   "9601fdff00c92a43",
-  "newmexicoplugsrecordnumberofabandonedoilandgaswellsthankstob"
+  "newmexicoplugsrecordnumberofabandonedoilandgaswellsthankstob",
+  "fb22a05f2fac1058",
+  "gaspriceseaseasoilpricesfall"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 5
  },
- "last_run": "2026-08-04T01:30:23.924490+03:00",
+ "last_run": "2026-08-04T01:35:12.511601+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
