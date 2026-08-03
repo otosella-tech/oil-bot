@@ -4,14 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "7a034014c7a09386",
-  "theriseofroboticsinoilandgas",
-  "fb930f9e89822d6f",
-  "hormuztrafficlevelscontinuedecreasinghouthisinyementhreatens",
-  "a16209214388d869",
-  "oilpricesup310726",
-  "b1a3275917856c67",
-  "kazakhstanrejectsreportsofcompletecpcshutdown",
   "326f5e0bd32f955e",
   "indianoilcorpboostspotoilbuyamidmiddleeastcrisis",
   "c6ee669abc7de865",
@@ -603,7 +595,15 @@
   "69619dc9cf4b0d8f",
   "oilpricesfallmorethan5asmiddleeasttensionsebbondiplomaticeff",
   "c8dfc2dc0f86b530",
-  "kmtcallsforaccountabilityoverdelayedreportingintaintedoilcas"
+  "kmtcallsforaccountabilityoverdelayedreportingintaintedoilcas",
+  "075b1a2183f8d182",
+  "oilandgassensorsmarketsizesharecagrof549",
+  "ab2e1cb87a1937c3",
+  "oilslumpsastrumpholdsoffiranattacksaystalkstoresume",
+  "844599b245ae02a9",
+  "kazakhstanopecoilproductiontargetrisesafteroutputagreement",
+  "dd93dc4852a9b2bc",
+  "forecastupdateforcrudeoil03082026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T14:55:11.855588+03:00",
+ "last_run": "2026-08-03T15:00:25.569284+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1028,6 +1028,14 @@
   {
    "d": "2026-08-03",
    "t": "Iraq & Türkiye Sign One-Year Interim Deal to Maintain Northern Crude Pipeline Operations - Pipeline Technology Journal"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil Slumps as Trump Holds Off Iran Attack, Says Talks to Resume - Energy Connects"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Kazakhstan OPEC+ Oil Production Target Rises After Output Agreement - The Times Of Central Asia"
   }
  ]
 }
