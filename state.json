@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "e21fa2c49acba4b2",
-  "iraqtrkiyesignoneyearpipelineagreementtosecurecrudeexportseg",
   "25ed76414b4d34db",
   "nigeriaishometotheworldslargestsingletraincrudeoilrefinerybu",
   "4d50312caf61f489",
@@ -603,7 +601,9 @@
   "aaa42cf233f39b8e",
   "top1010fromniftysfivemonthhighandcrudeoils7plungetoindigosne",
   "b0d5486df61c11fd",
-  "russianoilrefiningfallsto24yearlowafterukrainiandronestrikes"
+  "russianoilrefiningfallsto24yearlowafterukrainiandronestrikes",
+  "c256c8aa4fb9346c",
+  "venezuelaoilflowsdropasiranwarpausecoolsindianappetite"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T19:45:22.226695+03:00",
+ "last_run": "2026-08-03T19:50:15.795580+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-08-03",
    "t": "Russian Oil Refining Falls to 24-Year Low After Ukrainian Drone Strikes – Bloomberg - The Moscow Times"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Venezuela Oil Flows Drop as Iran War Pause Cools Indian Appetite - Bloomberg.com"
   }
  ]
 }
