@@ -4,14 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "ab14750fbd77a9dd",
-  "iranwarshowschinasroleinsettingthepriceofoil",
-  "ba25dbd7ae5fcc72",
-  "wallstreetswildjulyisendingwithmoreswingsasamazonleapsapples",
-  "8cfbe96bc16e2ef3",
-  "usequityindexesriseamidamazonfueledgainsinconsumerdiscretion",
-  "267b55e7e963896a",
-  "abqaiqisawarningthatoilmarketsmaybemisreading",
   "d72fab5166cc75a2",
   "iranbackedmilitantgroupsthreattosaudienergyhubcouldupendtrum",
   "1880cd7c1f996b25",
@@ -603,7 +595,15 @@
   "266fd3594876a85b",
   "oilpricesdiveusirantalkseasewestasiatensions",
   "59078d4e1c5e1cb1",
-  "worldstocksaremixedasyenjumpsagainstthedollarwhileoilpricess"
+  "worldstocksaremixedasyenjumpsagainstthedollarwhileoilpricess",
+  "4538f31c19391400",
+  "currentpriceofoilasofjuly302026",
+  "c674419fa77ad58e",
+  "energydeptdrawsfireforslowpaceofvenezuelanoildeals",
+  "71201c7169415328",
+  "intrumpwetrustwhytheoilmarketkeepsbelievinghim",
+  "2fd6d899c1d4e445",
+  "oilpricesdropmorethan4aftertrumpholdsoffonnewstrikeagainstir"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T12:00:21.578308+03:00",
+ "last_run": "2026-08-03T12:06:09.008610+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -964,6 +964,10 @@
   {
    "d": "2026-08-03",
    "t": "Oil prices plunge and Europe’s stock markets rally after Trump calls off Iran strikes - The Guardian"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil prices drop more than $4 after Trump holds off on new strike against Iran - The New Voice of Ukraine"
   }
  ]
 }
