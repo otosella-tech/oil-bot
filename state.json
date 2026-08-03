@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "0179377c8874bb78",
-  "aiselectricitydemandisnottherealproblemitsinflexibilityis",
-  "4f0dae705db6cf93",
-  "oiluscrudepriceforecastfortodaytomorrownextweekandnext30days",
   "dd9e99530448afc4",
   "yoursundayaugust2guidetwothingstodointheoilcity",
   "6bc2816d24402757",
@@ -603,7 +599,11 @@
   "9b97c90ac0538fef",
   "iransaysitisintalkswithomanbutnottheusaftertrumpsaysnegotiat",
   "d26baab40d58e574",
-  "trumpurgesoilcompaniestocutretailfuelpricesascrudeslidesonre"
+  "trumpurgesoilcompaniestocutretailfuelpricesascrudeslidesonre",
+  "9eaaa8a322b2690e",
+  "crudefuturesfallasusputsoffiranstrikesfortalks",
+  "eb0b77099a4ec334",
+  "intrumpwetrustwhytheoilmarketkeepsbelievinghimcnnbusiness"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T18:35:15.030784+03:00",
+ "last_run": "2026-08-03T18:40:17.451982+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1188,6 +1188,10 @@
   {
    "d": "2026-08-03",
    "t": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume - bbc.com"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Crude Futures Fall As U.S. Puts Off Iran Strikes for Talks - WSJ"
   }
  ]
 }
