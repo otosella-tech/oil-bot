@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "d1f1616a55ad845e",
-  "vcmoneyfloodsintousnuclearstartupsasaipowerdemandexplodes",
-  "bde355f93959bd21",
-  "kkrblackstoneandbrookfieldbet16billiononkuwaitsoilpipelinede",
   "2ba6ac40b33c63ca",
   "majoroilcompaniesreapmassiveprofitsaswarwithirandrivesprices",
   "64451874becef53d",
@@ -603,7 +599,11 @@
   "1af2052a63a6f44f",
   "oilpricesfallonpotentialusirandealtoopenstraitofhormuz",
   "ef9ba95986342e0a",
-  "goldgainsasusdollardeclineshopesofmideastdealhitoil"
+  "goldgainsasusdollardeclineshopesofmideastdealhitoil",
+  "1f8d549bba6d843c",
+  "sprgetsdrainedtodumpcrudeoilonglobalmarketsusexportsofcrudeo",
+  "cfbf7ae06e6f0a29",
+  "rupeerises31paiseto9512againstusdollarinearlytrade"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T12:55:14.496209+03:00",
+ "last_run": "2026-08-03T13:00:24.297698+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -984,6 +984,10 @@
   {
    "d": "2026-08-03",
    "t": "Oil prices fall on potential US-Iran deal to open Strait of Hormuz - thenationalnews.com"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "SPR Gets Drained to Dump Crude Oil on Global Markets: US Exports of Crude Oil & Petroleum Products Spike - Wolf Street"
   }
  ]
 }
