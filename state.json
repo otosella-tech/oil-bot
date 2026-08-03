@@ -4,12 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "29894292f82de8e4",
-  "autofuelpricesremainsteady",
-  "376bd2e56d1cd7b9",
-  "3boldoilpredictionsforthesecondhalfof2026",
-  "a2f03bcd01cc2d3d",
-  "opecwillagainraiseproductioninseptemberto188000barrelsperday",
   "228e61add9c41f2e",
   "trumpsaysuswillholdoffonfreshiranattackinhopeofquickdeal",
   "bdff293fdf6de760",
@@ -603,7 +597,13 @@
   "26fc70a131937fc6",
   "usequityindexesjumpascommunicationservicesrallywhilecrudeoil",
   "cd10ac1f5079bcf8",
-  "usstocksrallyneararecordasfallingoilpriceseasewallstreetswor"
+  "usstocksrallyneararecordasfallingoilpriceseasewallstreetswor",
+  "716fe98f2adfb02b",
+  "oilpricesdroptothreeweeklowaftertrumpcancelsiranattack",
+  "9351640ac465fa91",
+  "makingtoomuchmoneytrumpblastsexxonmobilchevronprofits",
+  "e11c1f87c23150d4",
+  "venezuelaoilexportsfall25injulyonlowerindiademand"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T23:10:14.159336+03:00",
+ "last_run": "2026-08-03T23:15:23.005903+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1272,6 +1272,14 @@
   {
    "d": "2026-08-03",
    "t": "Russia Is Running Out of Soldiers, Oil, and Time"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil prices drop to three-week low after Trump cancels Iran attack - The Detroit News"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Venezuela oil exports fall 25% in July on lower India demand - Investing.com"
   }
  ]
 }
