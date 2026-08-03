@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "480c1f34b245cc7a",
-  "chevronpostslargestquarterlyprofiteverexxonincomesurgesasira",
   "c3f60714970f87e8",
   "supplydisruptionsunderpincrudeoilprices",
   "0eb57103280bce59",
@@ -603,7 +601,9 @@
   "edd1146101ea25fc",
   "wticrudeoilpriceforecastoilfallsbelow80astrumphaltsiranstrik",
   "a19eff890291b989",
-  "brentcrudeoilpricesinks73aftertrumppausesiranstrikes"
+  "brentcrudeoilpricesinks73aftertrumppausesiranstrikes",
+  "acda393c0af23044",
+  "shellsellseuropeanonshorerenewablestototalenergies"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T11:20:20.240772+03:00",
+ "last_run": "2026-08-03T11:25:41.825625+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
