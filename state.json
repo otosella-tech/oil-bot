@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "e4979027d5f96f52",
-  "thestraitofhormuzisexposingablindspotintheenergytransition",
   "9772aca90c5a788b",
   "gaspricesclimbasoilcompaniesreportsoaringprofitswbal",
   "bb99f54b56292243",
@@ -603,7 +601,9 @@
   "7141cb258e6a4843",
   "oilmajorsprofitasusiranfightingdrivesenergypriceshigher",
   "b3880c329438a611",
-  "myanmarsdepletedoilpipeline"
+  "myanmarsdepletedoilpipeline",
+  "c0ba1fee57bcdc9f",
+  "europeanstocksadvanceasfallingoilpricesliftmarketsentimentda"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T13:05:15.344760+03:00",
+ "last_run": "2026-08-03T13:10:16.300696+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
