@@ -4,12 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "dee78cd408f669d4",
-  "petrolpumppricesuppetroleumstockpricesdown",
-  "efb74c7222fde02f",
-  "currentpriceofoilasofjuly172026",
-  "4601af3c6f6b60f7",
-  "oilpricesriseafterconflictinstraitofhormuztradeoncrudeoilpri",
   "6302af628d611ce4",
   "marjorietaylorgreenepushesbackontrumpskingofoilclaimblamesir",
   "5bc538ca6fbdc0b6",
@@ -603,7 +597,13 @@
   "91e39ab753aa6733",
   "kuwaitdiscussesoilpipelinewitharabneighborstobypassstraitofh",
   "dcb49ffa17045759",
-  "whytheuscanteasilyexittheiranconflict"
+  "whytheuscanteasilyexittheiranconflict",
+  "d6646e552487db3a",
+  "oiltruckrollovercausesspillinmonroecleanupunderway",
+  "40e4197743d1ab0e",
+  "diamondbackenergyearningsondeckasoilrallyliftssector",
+  "c254463c8b33619c",
+  "oilpricesfallastrumpseeksirannucleardealoffshore"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T19:00:26.370354+03:00",
+ "last_run": "2026-08-03T19:05:14.428272+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
