@@ -4,10 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "dc8e9a28a9870f4f",
-  "whyiswticrudeoiluptodaytrumprussiadeadlinekeepsoilabove84",
-  "f49681387dca257b",
-  "adnocoverhaulscrudepricingmethodology",
   "074144ebe81a1ec6",
   "oilpricesfellbyabout2assuppliesincreased",
   "fe7700af7f3b5d2f",
@@ -603,7 +599,11 @@
   "e1ca3a35c0e42a9e",
   "dowfuturespeersriseaftertrumpcallsofiranattackscrudeoilusdol",
   "9ee4a5f8b3f4986d",
-  "opecmembersincreaseseptemberoilquotasdespitehormuzdisruption"
+  "opecmembersincreaseseptemberoilquotasdespitehormuzdisruption",
+  "2254c50dd1c31265",
+  "oilnewscrudeoilfuturesdrop8ashormuzdealhopesoutrunshipflows",
+  "480b78e75bb79de3",
+  "crudeoilslumps6to82onhopesofirandeal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-03",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-08-03T04:50:20.200735+03:00",
+ "last_run": "2026-08-03T04:55:11.546517+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -836,6 +836,10 @@
   {
    "d": "2026-08-03",
    "t": "OPEC+ members increase September oil quotas despite Hormuz disruptions - Межа. Новини України."
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil News: Crude Oil Futures Drop 8% as Hormuz Deal Hopes Outrun Ship Flows - FXEmpire"
   }
  ]
 }
