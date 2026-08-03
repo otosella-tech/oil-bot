@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "e06b07759ac7ae15",
-  "storagedatashowsoilinventoriesareneartankbottomsmidlandrepor",
-  "686f5a61f505bf22",
-  "trumppredictedanoilcatastropheifthewardidntendtheclockistick",
   "c7cd97653d85193c",
   "trkiyeiraqsigndealtomaximisekirkukceyhanoilpipelineuse",
   "486bef7f692be917",
@@ -603,7 +599,11 @@
   "c757595e566f7d03",
   "indianoilsubsidiarycpclplans280000bpdmanalirefinery",
   "0832f5c2453c3a5b",
-  "dowfuturesrise600pointsastrumpcancelsiranstrikes"
+  "dowfuturesrise600pointsastrumpcancelsiranstrikes",
+  "9337b2a108aa78e2",
+  "oilpricesplummetasinvestorsdigestpauseiniranwarfighting",
+  "bcd8d892893f05b1",
+  "dowfuturespopoildivesontrumpmovebutaistocksfade"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T16:35:12.653783+03:00",
+ "last_run": "2026-08-03T16:40:22.302902+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1096,6 +1096,10 @@
   {
    "d": "2026-08-03",
    "t": "Dow futures rise 600 points as Trump cancels Iran strikes - qz.com"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting - The New York Times"
   }
  ]
 }
