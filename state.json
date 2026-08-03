@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "470ca15e24f8e6d2",
-  "presidenttrumpshouldlookattherefinerycostspriortoorderingani",
-  "f71d712c6b15fd57",
-  "predictionchevronsboldmovesiniraqwillreshapetheoilstockovert",
   "2aca3e3c9de944b9",
   "yoursaturdayaugust1guidefivethingstodointheoilcity",
   "b44322a5eae9ddf7",
@@ -603,7 +599,11 @@
   "d8a5115070e40587",
   "goldfirmsslightlyamiddropinoilpricesweakerdollar",
   "b4a61c94510d21cb",
-  "shellsellseuropeanonshorerenewablesportfoliotototalenergies"
+  "shellsellseuropeanonshorerenewablesportfoliotototalenergies",
+  "ec01f5d9f5106bb6",
+  "iraqtrkiyesignoneyearinterimdealtomaintainnortherncrudepipel",
+  "48ff536b7c087081",
+  "zacksindustryoutlooknovoilstatesinternationalandnaturalgasse"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T14:35:17.355494+03:00",
+ "last_run": "2026-08-03T14:40:15.158849+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1024,6 +1024,10 @@
   {
    "d": "2026-08-03",
    "t": "Global oil stocks fall as crude extends losses on hopes for Iran diplomatic talks - Investing.com"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Iraq & Türkiye Sign One-Year Interim Deal to Maintain Northern Crude Pipeline Operations - Pipeline Technology Journal"
   }
  ]
 }
