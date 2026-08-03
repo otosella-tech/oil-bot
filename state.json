@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "486bef7f692be917",
-  "shellsprofitsmorethandoubleafterjumpinoilandgasprices",
-  "5786548023afaa48",
-  "turkiyeandiraqsignoneyearoilpipelinedealamidglobalshift",
   "8e353a141582fe34",
   "michigansupremecourtrejectspermitforenbridgeoilpipelineunder",
   "b8e86ebc7c9760d2",
@@ -603,7 +599,11 @@
   "bcd8d892893f05b1",
   "dowfuturespopoildivesontrumpmovebutaistocksfade",
   "686f5a61f505bf22",
-  "trumppredictedanoilcatastropheifthewardidntendtheclockistick"
+  "trumppredictedanoilcatastropheifthewardidntendtheclockistick",
+  "9473b0454b587aa2",
+  "fallingoilpriceshelpcalmwallstreetsinflationworrieswhilechip",
+  "14528510308867e8",
+  "europeanstocksextendrallyafterstrongjuly5oilslidecushionsdat"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T16:45:16.871450+03:00",
+ "last_run": "2026-08-03T16:50:23.470951+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -1104,6 +1104,10 @@
   {
    "d": "2026-08-03",
    "t": "Trump predicted an oil catastrophe if the war didn’t end. The clock is ticking - CNN"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "European stocks extend rally after strong July; 5% oil slide cushions data warning - Investing.com"
   }
  ]
 }
