@@ -4,8 +4,6 @@
   "Brent": 89.78
  },
  "seen": [
-  "d2537f54eb0f57b8",
-  "exxonmade160millionperdaylastquarterasoilpricessurged",
   "205305c69059b669",
   "canadasenbridgepostponesplansforsecondphaseofmainlineoilpipe",
   "4acb0b269debf655",
@@ -603,7 +601,9 @@
   "a6dca5a31505a642",
   "oildropsover5asmiddleeasttensionsebbondiplomaticefforts",
   "51cea47cf73528b3",
-  "currentpriceofoilasofjuly222026"
+  "currentpriceofoilasofjuly222026",
+  "1c660ad4d603dbd9",
+  "oilpricesloweronmiddleeasthopesandasopecboostsproduction"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-03",
   "count": 60
  },
- "last_run": "2026-08-03T08:50:20.668522+03:00",
+ "last_run": "2026-08-03T08:55:53.501264+03:00",
  "sent_stories": [
   {
    "d": "2026-07-31",
@@ -892,6 +892,10 @@
   {
    "d": "2026-08-03",
    "t": "OPEC+ oil output hike is irrelevant for now, not for later: Russell - BOE Report"
+  },
+  {
+   "d": "2026-08-03",
+   "t": "Oil prices lower on Middle East hopes and as OPEC+ boosts production - Euronews"
   }
  ]
 }
