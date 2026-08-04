@@ -4,10 +4,6 @@
   "Brent": 85.54
  },
  "seen": [
-  "f958d4d4ec10b55a",
-  "opecdecidestohikeoutputonceagain",
-  "9545e25b2d50552c",
-  "soilturnsprofitviarefininglubricantstrength",
   "c6a2bbb0f02a6e4a",
   "oilslumpsonhopesofirandealyenfirmsafterintervention",
   "fc5fd5c61b4e8fee",
@@ -603,7 +599,11 @@
   "797b9619ee6c2187",
   "oilfuturescrudereboundsasmideasttensionsremainhigh",
   "27eebb7cdcd6a89f",
-  "bpsquarterlyprofitdoublestoover5billionafteriranwaroilsurge"
+  "bpsquarterlyprofitdoublestoover5billionafteriranwaroilsurge",
+  "b8eae7b80ee97ff3",
+  "saudiaramcosadjustedprofitjumps33asoilpricessurge",
+  "58938e627826ee9f",
+  "currentpriceofoilasofaugust42026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 44
+  "count": 45
  },
- "last_run": "2026-08-04T12:25:13.777930+03:00",
+ "last_run": "2026-08-04T12:30:23.951992+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
