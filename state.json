@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "a8bd544c4674aafc",
-  "georgiaskulevirefineryreplacesrussiancrudewithkazakhlibyanoi",
   "ea797a0ffe687a72",
   "kmtcallsforaccountabilityinsoybeanoilcontaminationcase",
   "c464bc7092744491",
@@ -603,7 +601,9 @@
   "57b0429c5cc90d70",
   "fieldtrialssupportoilrichsorghumasapotentialsustainableaviat",
   "4d1f8dca9f61a8da",
-  "stockshitrecordsasprofitskeeppilingupforpalantirandotherswhi"
+  "stockshitrecordsasprofitskeeppilingupforpalantirandotherswhi",
+  "858286be75cc4663",
+  "onceasymbolofoilwealthvenezuelasrefineriesindecay"
  ],
  "releases_done": {
   "2026-08-04|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-05",
-  "count": 9
+  "count": 11
  },
- "last_run": "2026-08-05T01:45:22.023597+03:00",
+ "last_run": "2026-08-05T01:50:14.633839+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1427,6 +1427,10 @@
   {
    "d": "2026-08-05",
    "t": "Stocks Rally, Oil Drops after Bessent Signals Iran Deal on Hormuz - WSJ"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "Once a symbol of oil wealth, Venezuela’s refineries in decay - Yahoo Finance UK"
   }
  ]
 }
