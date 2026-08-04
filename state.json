@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "bcd8d892893f05b1",
-  "dowfuturespopoildivesontrumpmovebutaistocksfade",
   "686f5a61f505bf22",
   "trumppredictedanoilcatastropheifthewardidntendtheclockistick",
   "9473b0454b587aa2",
@@ -603,7 +601,9 @@
   "9dce025d3d1b7bd4",
   "usstocksclimbtowardarecordascompanieskeeppilingupprofitsando",
   "71c7f65965d0980f",
-  "bigoilcompaniescontinuetopostbannerprofitsasfightinginirandr"
+  "bigoilcompaniescontinuetopostbannerprofitsasfightinginirandr",
+  "3a68248660f06cbb",
+  "oilpricesplummetasinvestorsdigestpauseiniranwarfighting"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T19:30:20.604499+03:00",
+ "last_run": "2026-08-04T19:35:18.570383+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1348,6 +1348,10 @@
   {
    "d": "2026-08-04",
    "t": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes - The Guardian"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting - nytimes.com"
   }
  ]
 }
