@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "269672fab9563399",
-  "soilprofitdrivenbyrefininglubricantperformance",
   "a08414ab4a760e1a",
   "oilslumpsonhopesofirandealyenspikessuddenlyafterintervention",
   "0a46a874f05b3a4a",
@@ -603,7 +601,9 @@
   "7cfc2f28867b051a",
   "oilpricesdropaftertrumpordersusforcestoholdoffonnewstrikesag",
   "93b19b8c554b84d6",
-  "hownamibiapulledaheadinafricashottestoffshoreoilbasin"
+  "hownamibiapulledaheadinafricashottestoffshoreoilbasin",
+  "77869d1f7666e4f9",
+  "jambalayaonthebayouadrilldownreportonlouisianascrudeoilpipel"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 9
  },
- "last_run": "2026-08-04T03:00:21.693378+03:00",
+ "last_run": "2026-08-04T03:05:16.064230+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
