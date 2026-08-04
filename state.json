@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "c9d9e2ae55c736cd",
-  "plungingcrudeoilpricescontributingtorallyonwallstreet",
   "30c13d2de064157f",
   "trumpsiranreversalsendseuropeangaspricestumbling",
   "64be9967712d6d3d",
@@ -603,7 +601,9 @@
   "9a735099a055aaae",
   "stockswaveronwallstreetwhilecrudeoilpricesfallforthefirsttim",
   "d724e4b806f35c51",
-  "usequitymarketsendhigherastechstocksrisecrudeoilfallsonhormu"
+  "usequitymarketsendhigherastechstocksrisecrudeoilfallsonhormu",
+  "39d66d68f16bec6e",
+  "oilsettlesbelow80forfirsttimesincejulywhyanirandealmighthapp"
  ],
  "releases_done": {
   "2026-08-04|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T23:10:20.925980+03:00",
+ "last_run": "2026-08-04T23:15:17.586447+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
