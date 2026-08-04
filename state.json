@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "7173676a8057d5bf",
-  "darktankertransitssurgeatbabel",
   "3461c86235795350",
   "crudeoildownmorethan5mondayaug32026",
   "def5e8abccd8ef2c",
@@ -603,7 +601,9 @@
   "66ef69ab17e27e39",
   "quietweekforpumppricesbutavolatileoneforcrudeoilprices",
   "b1a7e987bdf4a85a",
-  "currentpriceofoilasofjuly292026"
+  "currentpriceofoilasofjuly292026",
+  "d541388018290938",
+  "ongcprofitmorethandoublesasoilpricessurge"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T20:20:20.060863+03:00",
+ "last_run": "2026-08-04T20:25:16.364069+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1368,6 +1368,10 @@
   {
    "d": "2026-08-04",
    "t": "Iraq Exports Over 30 Million Barrels of Oil Through Hormuz in One Month - Kurdistan24"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "ONGC Profit More Than Doubles as Oil Prices Surge"
   }
  ]
 }
