@@ -4,14 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "075b1a2183f8d182",
-  "oilandgassensorsmarketsizesharecagrof549",
-  "ab2e1cb87a1937c3",
-  "oilslumpsastrumpholdsoffiranattacksaystalkstoresume",
-  "844599b245ae02a9",
-  "kazakhstanopecoilproductiontargetrisesafteroutputagreement",
-  "dd93dc4852a9b2bc",
-  "forecastupdateforcrudeoil03082026",
   "f9e85cb19235d862",
   "warfueledoilrallysettoliftshaleprofitstohighestsince2022",
   "606db6af6bbd7038",
@@ -603,7 +595,15 @@
   "918ec9655844d878",
   "exclusivenigeriasdangoterefineryaimstoraise5billionwithoctob",
   "421b8e47344eec35",
-  "trumpdemandsexxonandchevroncutgaspricesafterwardrivenprofits"
+  "trumpdemandsexxonandchevroncutgaspricesafterwardrivenprofits",
+  "0e14aad229224884",
+  "stocksopenatrecordhighasoilfallsonhopesofirandeal",
+  "747c1a8654a4bd60",
+  "usstocksflirtwitharecordasprofitskeeppilingupandoilpriceseas",
+  "ba376b94b9571e6a",
+  "appealscourtrulesinfavoroflandownersinoilandgasroyaltydisput",
+  "eba7293ed5413128",
+  "crudeoilpriceanalysiscrudeoiltests200dayemaasiranheadlinessw"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T17:20:16.454596+03:00",
+ "last_run": "2026-08-04T17:25:23.822334+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1288,6 +1288,10 @@
   {
    "d": "2026-08-04",
    "t": "Trump demands Exxon and Chevron cut gas prices after war-driven profit surge - qz.com"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Stocks Open at Record High as Oil Falls on Hopes of Iran Deal - The New York Times"
   }
  ]
 }
