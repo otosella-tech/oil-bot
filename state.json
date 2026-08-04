@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "801f222d6968e044",
-  "oilpricesplungeandeuropesmarketsrallyaftertrumpcallsoffirans",
   "94488e1e9bc8770f",
   "oilpricesdropaftertrumpcancelsattackonirantoseekdeal",
   "c757595e566f7d03",
@@ -603,7 +601,9 @@
   "cfa7aa9b59af1025",
   "icemiddaycanolahigherdespitefallingcrudeoil",
   "45af1ac3e1e00f8a",
-  "chinaphenolchainoutlook2026overcapacitycapstheoildrivenrebou"
+  "chinaphenolchainoutlook2026overcapacitycapstheoildrivenrebou",
+  "93e2a71e82e70862",
+  "ironorepriceshitone"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T18:55:23.821170+03:00",
+ "last_run": "2026-08-04T19:00:25.922180+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
