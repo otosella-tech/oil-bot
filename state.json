@@ -4,8 +4,6 @@
   "Brent": 82.01
  },
  "seen": [
-  "079b182046732f04",
-  "houthithreattosaudienergyhubcouldupendtrumpsmidtermmessage",
   "d2e1d6c9bbc2d034",
   "indianrupeeendsflatasrobustimporterhedgingbluntsoilpricereli",
   "ee6a83472c927527",
@@ -603,7 +601,9 @@
   "4facbc85f51dd140",
   "oilfallsafterbessentsaysdealtoreopenstraitofhormuzisimminent",
   "b81bad2098cf8468",
-  "indiasimportsofrussiancrudehitnewhighinjuly"
+  "indiasimportsofrussiancrudehitnewhighinjuly",
+  "692e7c3cbb9b3d78",
+  "aramcosaysusiranwarhascosttheglobalmarket26billionbarrelsofo"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T16:20:14.894538+03:00",
+ "last_run": "2026-08-04T16:25:20.925224+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-08-04",
    "t": "India's Imports of Russian Crude Hit New High in July - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters"
   }
  ]
 }
