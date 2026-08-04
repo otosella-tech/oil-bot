@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "e3ee4ec84bd67567",
-  "globaloilpricesdrop5asiranstrikehalts",
   "137809082244c6cf",
   "russiaassemblesunprecedentedarcticoilconvoytobypassglobalshi",
   "cddee9785fe4e09a",
@@ -603,7 +601,9 @@
   "1d8c2021abe226c8",
   "decliningimportscompressustradedeficitinjune",
   "602d9ea078ef2601",
-  "theiranwarcontinueskeepingenergymarketsonedgesaudiaramcoprof"
+  "theiranwarcontinueskeepingenergymarketsonedgesaudiaramcoprof",
+  "5da970594c366be3",
+  "oilpricesfallonhopesstraitofhormuzcouldreopen"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T18:20:24.376254+03:00",
+ "last_run": "2026-08-04T18:25:19.304450+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1316,6 +1316,10 @@
   {
    "d": "2026-08-04",
    "t": "The Iran War Continues Keeping Energy Markets On Edge. Saudi Aramco Profits Are Jumping. - International Business Times"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Oil prices fall on hopes Strait of Hormuz could reopen - Yahoo! Finance Canada"
   }
  ]
 }
