@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "2a42fbe87bb1f2ae",
-  "israelplansnationaloilspillresponsesystemasreportwarnsdamage",
   "ad42ecd3eb2b4118",
   "soilseesfirmthirdquarterrefiningmarginsonsummerdemandexportc",
   "d90c2457506b9557",
@@ -603,7 +601,9 @@
   "6a5a974722f35840",
   "asiacrudeandfuelimportsrecoverstillshyofpreiranwarlevels",
   "e20600d224cdb3b7",
-  "bloombergrussianoilrefiningfallsto24yearlowamidattacksonener"
+  "bloombergrussianoilrefiningfallsto24yearlowamidattacksonener",
+  "7c0bd6b07be57225",
+  "usstocksnearrecordhighoilfallsastrumpclaimsirantalksunderway"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 35
  },
- "last_run": "2026-08-04T10:55:13.410083+03:00",
+ "last_run": "2026-08-04T11:00:24.249448+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
