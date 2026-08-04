@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "c22104f197617f5d",
-  "uspremarketthreemajorindexfuturesriseasoilfallsbelow80amazon",
   "13365bfe822f3265",
   "oilpricestumbleaftertrumprevivesirannegotiationsandopecraise",
   "81248b3ef4727592",
@@ -603,7 +601,9 @@
   "8ce0ba01a4225f24",
   "indiashpclsnapsupnigeriancrudetododgethehormuzbottleneck",
   "cd67681d69e87ddf",
-  "russianoilflowshitsevenweeklowonlullinrefinerystrikes"
+  "russianoilflowshitsevenweeklowonlullinrefinerystrikes",
+  "79ca30f11799a48f",
+  "trumpurgesusoilcompaniestocutfuelpricesegyptoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T17:35:20.848666+03:00",
+ "last_run": "2026-08-04T17:40:22.913853+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
