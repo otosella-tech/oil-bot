@@ -4,8 +4,6 @@
   "Brent": 85.54
  },
  "seen": [
-  "9db42991ff94db3c",
-  "oilgiantsreportblowoutprofitsonwarwarnhighgaspricescouldpers",
   "352f1417e39a9f6f",
   "iranwarrevivesoilrefiningasfueldisruptionsliftmargins",
   "4dedf75654d2b7d7",
@@ -603,7 +601,9 @@
   "21b82dd9990e39d2",
   "japansstrategicoilreservesriseby3daysofconsumptioninjuly",
   "ff2b58ebba510a38",
-  "michigangaspriceshighestsincemaymidmichiganseeshighestmetroa"
+  "michigangaspriceshighestsincemaymidmichiganseeshighestmetroa",
+  "34a7221afd1ef5c2",
+  "trumpaccusesoilcompaniesofmakingtoomuchmoneyfromhiswaroniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 48
+  "count": 49
  },
- "last_run": "2026-08-04T13:20:16.364376+03:00",
+ "last_run": "2026-08-04T13:25:19.722711+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
