@@ -4,10 +4,6 @@
   "Brent": 82.01
  },
  "seen": [
-  "cfbf7ae06e6f0a29",
-  "rupeerises31paiseto9512againstusdollarinearlytrade",
-  "e2c6dd1d9437469d",
-  "marketminutenaturalgaspricesnotoilposebiggerinflationriskinu",
   "7141cb258e6a4843",
   "oilmajorsprofitasusiranfightingdrivesenergypriceshigher",
   "b3880c329438a611",
@@ -603,7 +599,11 @@
   "4597137df984830b",
   "oilfuturescrudereversesgainsasusofficialsignalsirandeal",
   "c31ce97712e3bbb9",
-  "ukrainiandronesstrikesyzranoilrefineryagainhitmorewildberrie"
+  "ukrainiandronesstrikesyzranoilrefineryagainhitmorewildberrie",
+  "a2fdeb7d990911fc",
+  "pakistanpartnerswithcanadianfirmtoboostdomesticheavycrudeout",
+  "6d7b9cb45b301244",
+  "saudiaramcosbumper33billionprofitgiveskingdomsfinancesaboost"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T15:20:21.771944+03:00",
+ "last_run": "2026-08-04T15:30:19.398053+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1232,6 +1232,10 @@
   {
    "d": "2026-08-04",
    "t": "Ukrainian Drones Strike Syzran Oil Refinery Again, Hit More Wildberries Warehouses - Kyiv Post"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Saudi Aramco’s Bumper $33 Billion Profit Gives Kingdom’s Finances a Boost - WSJ"
   }
  ]
 }
