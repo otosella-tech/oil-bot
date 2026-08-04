@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "f9db77a0e7f22e29",
-  "indianrupeeclimbstoonemonthpeakonoilslumpstrongerinflows",
   "9ec9f0e03ffda114",
   "asiaoilstocksfallascrudeextendslossesonhopesforirandiplomati",
   "f03e0140f34a8db7",
@@ -603,7 +601,9 @@
   "6dacaf8cd5996de1",
   "saudiaramcoprofitsjump33insecondquarterasiranwarsqueezesoils",
   "d9f3071238bf0bd5",
-  "oilholdsalittlehigheronthedayasusiranuncertaintycontinuestol"
+  "oilholdsalittlehigheronthedayasusiranuncertaintycontinuestol",
+  "a83c358518a966d6",
+  "aramcosidestepshormuzasirancrisiscutsflowstoatenth"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 36
+  "count": 37
  },
- "last_run": "2026-08-04T11:35:20.349984+03:00",
+ "last_run": "2026-08-04T11:40:17.342717+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
