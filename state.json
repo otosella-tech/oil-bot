@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "275da0a6dee45358",
-  "kuwaitjulyoiloutputrosetohighestsincemideastwarbegan",
   "0f538f0265be1a80",
   "yourmondayaug3guidefivethingstodointheoilcity",
   "7955053392c85925",
@@ -603,7 +601,9 @@
   "9800b276f5473c03",
   "topindiaoilgasproducerbeatsprofitestimateonpricesurge",
   "896616173b2c9397",
-  "trumpsaysidontlikeexxonchevronmakingtoomuchmoneyoffhighoilpr"
+  "trumpsaysidontlikeexxonchevronmakingtoomuchmoneyoffhighoilpr",
+  "cb6981396958dc5d",
+  "aramcosq2profitjumps44withyanbupipelineoffsettinghormuzdisru"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T18:40:25.987285+03:00",
+ "last_run": "2026-08-04T18:45:17.604489+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1328,6 +1328,10 @@
   {
    "d": "2026-08-04",
    "t": "Top India Oil, Gas Producer Beats Profit Estimate on Price Surge - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Aramco’s Q2 profit jumps 44% with Yanbu pipeline offsetting Hormuz disruption - Energy Connects"
   }
  ]
 }
