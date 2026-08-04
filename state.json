@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "480b78e75bb79de3",
-  "crudeoilslumps6to82onhopesofirandeal",
   "ba604c3cb8db9056",
   "oilpricesfallnearly5afterusannouncesnewirantalks",
   "51eaf62610d83f14",
@@ -603,7 +601,9 @@
   "b2fc670c2d4b2acf",
   "trumpblastsbigoilformakingtoomuchmoney",
   "50983e5e66edae11",
-  "permiangashasbecometheawkwardbyproductofamericasoilboom"
+  "permiangashasbecometheawkwardbyproductofamericasoilboom",
+  "29d868512a57c2d9",
+  "trumplashesoutatbigoilformakingtoomuchmoneyduringiranwarthey"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 11
+  "count": 12
  },
- "last_run": "2026-08-04T06:10:14.994232+03:00",
+ "last_run": "2026-08-04T06:15:13.549106+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
