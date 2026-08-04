@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "fa286c11e577902f",
-  "oilretreattoproviderbisrupeesupporteffortsanextraboost",
-  "0992e56cb73f6e23",
-  "oilpricesplunge5astrumphaltsiranstrikeplans",
   "449f0ed0051c1ef8",
   "uaechangeshowitpricesitscrudeoilgrades",
   "f06e73f0a908b04e",
@@ -603,7 +599,11 @@
   "35d262b0fac95ff9",
   "majoroilcompaniesreapprofitsasusiranfightingdrivesenergypric",
   "012d29e96a1f543d",
-  "crudeoilslumpedbasemetalssawshfeoutperforminglmestainlessste"
+  "crudeoilslumpedbasemetalssawshfeoutperforminglmestainlessste",
+  "eee5ddd352c70369",
+  "venezuelascrudeoilexportsfell25injulyaftershipmentstoindiawe",
+  "aaae389beef18a16",
+  "theiranwarisfuellingthenextoilgoldandsilverrally"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 19
+  "count": 20
  },
- "last_run": "2026-08-04T08:10:21.925271+03:00",
+ "last_run": "2026-08-04T08:15:21.323576+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
