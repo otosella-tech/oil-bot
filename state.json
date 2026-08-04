@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "f2f1787c847c6a66",
-  "stockswaveronwallstreetandcrudeoilpricesdrop5asmideasttensio",
   "b45e0735780158fa",
   "opeccontinuestoraiseoilproductionby188000bpdinsept",
   "7f6d45f84e2ee083",
@@ -603,7 +601,9 @@
   "61ffffc3cfd39696",
   "oiladvancesastrumptoutsirannegotiationsandhormuzflows",
   "fbfd01a943c3d583",
-  "oilreboundsasmarketstrademixedfollowingwallstreetrally"
+  "oilreboundsasmarketstrademixedfollowingwallstreetrally",
+  "f0fc85864cdb7d50",
+  "oilrisesaftersteeplossesastrumpiransendmixedsignalsontalks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-08-04T10:35:20.384224+03:00",
+ "last_run": "2026-08-04T10:40:15.762469+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1192,6 +1192,10 @@
   {
    "d": "2026-08-04",
    "t": "Aramco posts 44% rise in net profit as Iran war drives up oil prices - reuters.com"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Oil rises after steep losses as Trump, Iran send mixed signals on talks - Investing.com"
   }
  ]
 }
