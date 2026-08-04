@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "a9ac2238308ee8a8",
-  "currentpriceofoilasofjuly242026",
-  "e1ca3a35c0e42a9e",
-  "dowfuturespeersriseaftertrumpcallsofiranattackscrudeoilusdol",
   "9ee4a5f8b3f4986d",
   "opecmembersincreaseseptemberoilquotasdespitehormuzdisruption",
   "2254c50dd1c31265",
@@ -603,7 +599,11 @@
   "c30fd8c24de9d521",
   "chinascrudeoilimportsfellinthesecondquarter",
   "765863de5faba089",
-  "oilticksupafterselloffastalkstoendusiranwarremainuncertain"
+  "oilticksupafterselloffastalkstoendusiranwarremainuncertain",
+  "b902a15b200042cb",
+  "oilfallsamidprospectsforreopeningofstraitofhormuz",
+  "fe274c01c3171ee9",
+  "brentcrudeoilpricefallsbelow84astrumppausesiranstrikeplans"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 10
+  "count": 11
  },
- "last_run": "2026-08-04T04:30:17.453430+03:00",
+ "last_run": "2026-08-04T04:35:19.267987+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
