@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "e5eee3f94de544c7",
-  "globaloilpricesfallbelow83abarreltohoverat3weeklowaftertrump",
   "63efeea5f39a7023",
   "oiltumblesandstockfuturessurgeaftertrumpsaidirandealwasnear",
   "304dc23e62cd655c",
@@ -603,7 +601,9 @@
   "77fd3b8326573e68",
   "oilpricesdeclinefollowing5dropfrompreviousday",
   "7bc5d8ff578d284c",
-  "usgrainoilseedreviewsoybeanstumblewithcrudeoil"
+  "usgrainoilseedreviewsoybeanstumblewithcrudeoil",
+  "ecb5d5c823bbf2a5",
+  "sp500rises2dowjumps1000pointsasprofitskeeppilingupandoilpric"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T22:10:22.989310+03:00",
+ "last_run": "2026-08-04T22:15:22.288928+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
