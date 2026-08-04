@@ -1,13 +1,9 @@
 {
  "price_base": {
-  "WTI": 80.16,
-  "Brent": 83.81
+  "WTI": 78.15,
+  "Brent": 82.01
  },
  "seen": [
-  "e51fecc363ef7c38",
-  "myanmarsdepletedoilpipelinethediplomatasia",
-  "3ccee4d930288d0d",
-  "anotherrollbackeffectivetuesdayaugust42026oilcompanieswillde",
   "c18cc4adaba82735",
   "bpcompletessaleofgermanrefineryasportfoliooverhaulaccelerate",
   "5e7b58d6bbc73a82",
@@ -603,7 +599,11 @@
   "ab14750fbd77a9dd",
   "iranwarshowschinasroleinsettingthepriceofoil",
   "8407ab884121096a",
-  "energydeptdrawsfireforslowpaceofvenezuelanoildeals"
+  "energydeptdrawsfireforslowpaceofvenezuelanoildeals",
+  "2f6635a85a66b9c6",
+  "usstocksneararecordhighamidlulliniranwar",
+  "3ff12b4c72cc4c75",
+  "exclusivesyriatellsusitiswillingtodrasticallydroprussianoili"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-08-04T14:55:18.633552+03:00",
+ "last_run": "2026-08-04T15:00:25.861269+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1216,6 +1216,14 @@
   {
    "d": "2026-08-04",
    "t": "Oil prices rise after vessel reports being hit in Strait of Hormuz - MarketWatch"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "U.S. Stocks Near a Record High Amid Lull in Iran War - The New York Times"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "EXCLUSIVE: Syria tells US it is willing to drastically drop Russian oil imports, sources say - Reuters"
   }
  ]
 }
