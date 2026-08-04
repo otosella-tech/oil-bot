@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "ab7c3926abf7f89c",
-  "mexicospemexpostslowerquarterlyprofitreshapessupplierdebtami",
   "c9d9e2ae55c736cd",
   "plungingcrudeoilpricescontributingtorallyonwallstreet",
   "30c13d2de064157f",
@@ -603,7 +601,9 @@
   "0838d8c9b86ffccf",
   "trumpsaysoilcompaniesaremakingtoomuchmoneyisheright",
   "9a735099a055aaae",
-  "stockswaveronwallstreetwhilecrudeoilpricesfallforthefirsttim"
+  "stockswaveronwallstreetwhilecrudeoilpricesfallforthefirsttim",
+  "d724e4b806f35c51",
+  "usequitymarketsendhigherastechstocksrisecrudeoilfallsonhormu"
  ],
  "releases_done": {
   "2026-08-04|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T23:05:19.501231+03:00",
+ "last_run": "2026-08-04T23:10:20.925980+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1398,6 +1398,10 @@
   {
    "d": "2026-08-04",
    "t": "Oil prices settle 5% lower after claims of progress in US-Iran talks - reuters.com"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "US Equity Markets End Higher as Tech Stocks Rise, Crude Oil Falls on Hormuz Reopening Talks - marketscreener.com"
   }
  ]
 }
