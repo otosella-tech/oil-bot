@@ -4,10 +4,6 @@
   "Brent": 82.01
  },
  "seen": [
-  "d2e1d6c9bbc2d034",
-  "indianrupeeendsflatasrobustimporterhedgingbluntsoilpricereli",
-  "ee6a83472c927527",
-  "oilpricesdropaftertrumpcancelsattackonirantoseeknucleardeal",
   "260154b48d08720b",
   "eurozonebondyieldssteadyasoilpricedropeasesinflationconcerns",
   "2c917f48c4039958",
@@ -603,7 +599,11 @@
   "b81bad2098cf8468",
   "indiasimportsofrussiancrudehitnewhighinjuly",
   "692e7c3cbb9b3d78",
-  "aramcosaysusiranwarhascosttheglobalmarket26billionbarrelsofo"
+  "aramcosaysusiranwarhascosttheglobalmarket26billionbarrelsofo",
+  "1cec5d3f8a09f221",
+  "hormuztankertrafficstallsattwo",
+  "f78255f6dcb2b6f6",
+  "hfsinclairinkssupplydealsamidpendingsegmentspinoffrefinerycl"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T16:25:20.925224+03:00",
+ "last_run": "2026-08-04T16:30:28.326116+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1260,6 +1260,10 @@
   {
    "d": "2026-08-04",
    "t": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Hormuz Tanker Traffic Stalls at Two-Month Low as Attacks Escalate"
   }
  ]
 }
