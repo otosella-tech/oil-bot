@@ -4,10 +4,6 @@
   "Brent": 85.54
  },
  "seen": [
-  "0839cd6f04e53cc9",
-  "oilslumpsover6astrumpcallsoffiranstrikeannouncesfreshtalks",
-  "6115170b2d7055f4",
-  "opec67thmeetingofthejointministerialmonitoringcommittee",
   "9db42991ff94db3c",
   "oilgiantsreportblowoutprofitsonwarwarnhighgaspricescouldpers",
   "352f1417e39a9f6f",
@@ -603,7 +599,11 @@
   "ac2ea4d54522325b",
   "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths",
   "ade890d5e7979415",
-  "oilgainsover2astalkstoendusiranwarremainuncertain"
+  "oilgainsover2astalkstoendusiranwarremainuncertain",
+  "21b82dd9990e39d2",
+  "japansstrategicoilreservesriseby3daysofconsumptioninjuly",
+  "ff2b58ebba510a38",
+  "michigangaspriceshighestsincemaymidmichiganseeshighestmetroa"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 48
  },
- "last_run": "2026-08-04T13:10:14.666667+03:00",
+ "last_run": "2026-08-04T13:15:16.410948+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
