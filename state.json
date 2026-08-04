@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "63114dd69dbd9e1e",
-  "trumpdemandslowergaspricesfromoilcompanieschideschevronceo",
   "3c2e041491441eb4",
   "iraqandturkeystrikea1yearoilpipelinedealtoboostexportsduring",
   "74179e0d1a2b3dd9",
@@ -603,7 +601,9 @@
   "ec8da300169c52a7",
   "newagreementsadvancecentralasiasmiddlecorridorambitions",
   "e46f4687a131041b",
-  "eveningupdateforcrudeoil04082026"
+  "eveningupdateforcrudeoil04082026",
+  "d6878e4317acdce5",
+  "analystsseedeclineinuscrudeoilinventories"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T21:00:23.209844+03:00",
+ "last_run": "2026-08-04T21:05:13.096107+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
