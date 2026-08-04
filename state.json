@@ -4,12 +4,6 @@
   "Brent": 83.81
  },
  "seen": [
-  "266fd3594876a85b",
-  "oilpricesdiveusirantalkseasewestasiatensions",
-  "59078d4e1c5e1cb1",
-  "worldstocksaremixedasyenjumpsagainstthedollarwhileoilpricess",
-  "4538f31c19391400",
-  "currentpriceofoilasofjuly302026",
   "c674419fa77ad58e",
   "energydeptdrawsfireforslowpaceofvenezuelanoildeals",
   "71201c7169415328",
@@ -603,7 +597,13 @@
   "e6fb322348b0eafa",
   "indiaexpandsoilstoragesitesaftershocksupplydisruption",
   "31eec5389dee7ef5",
-  "aramcoprofitjumps44oniranwaroilspikewarnsonglobalinventories"
+  "aramcoprofitjumps44oniranwaroilspikewarnsonglobalinventories",
+  "480acdca29e6a6e1",
+  "breakingviewsaramcosprofitboomrestsonfragilestatusquo",
+  "d49088784a5a1673",
+  "trumpurgesusoilcompaniestocutfuelprices",
+  "d4a0f061d345e7be",
+  "iraqclarifiesroleinoiltankertransitthroughstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 53
+  "count": 54
  },
- "last_run": "2026-08-04T14:40:16.786083+03:00",
+ "last_run": "2026-08-04T14:45:15.911860+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
