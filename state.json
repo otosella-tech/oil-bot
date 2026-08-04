@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "c429bfe889c98c4f",
-  "oilpricesonaug3brentcrudeslidesover6tohit82onhopesofusiranpe",
   "5d7c40a89fefc99f",
   "oildropsover4asmiddleeasttensionsebbondiplomaticefforts",
   "fa286c11e577902f",
@@ -603,19 +601,21 @@
   "6a4333a5f9d8b70b",
   "statusofusirantalksuncertainasshipstruckinhormuz",
   "05cf174fb1375ed8",
-  "saudiarabiasjulycrudeoilexportsdeclineamidpersiangulfredseat"
+  "saudiarabiasjulycrudeoilexportsdeclineamidpersiangulfredseat",
+  "35d262b0fac95ff9",
+  "majoroilcompaniesreapprofitsasusiranfightingdrivesenergypric"
  ],
  "releases_done": {},
- "last_digest": "2026-08-03",
+ "last_digest": "2026-08-04",
  "digest_prices": {
-  "WTI": 79.6,
-  "Brent": 90.12
+  "WTI": 81.2,
+  "Brent": 85.06
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 13
+  "count": 19
  },
- "last_run": "2026-08-04T07:55:18.246559+03:00",
+ "last_run": "2026-08-04T08:00:32.460546+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
