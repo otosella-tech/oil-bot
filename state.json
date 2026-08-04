@@ -4,10 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "30c13d2de064157f",
-  "trumpsiranreversalsendseuropeangaspricestumbling",
-  "64be9967712d6d3d",
-  "oilpricestumbledinearlyasiatradeafteruspresidentdonaldtrumpa",
   "5a68f5df3580bd36",
   "saudioilshipmentsslipinjulyasredseahormuzrisksgrow",
   "c4ba277a3c6793d0",
@@ -603,7 +599,11 @@
   "d724e4b806f35c51",
   "usequitymarketsendhigherastechstocksrisecrudeoilfallsonhormu",
   "39d66d68f16bec6e",
-  "oilsettlesbelow80forfirsttimesincejulywhyanirandealmighthapp"
+  "oilsettlesbelow80forfirsttimesincejulywhyanirandealmighthapp",
+  "b8e14e6618561b8a",
+  "stocksrallyasinvestorsgrowhopefulaboutahormuzdeal",
+  "ab97e4c3265673ae",
+  "wallstreetralliestorecordspushingsp500up18asprofitspileupand"
  ],
  "releases_done": {
   "2026-08-04|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T23:20:21.692650+03:00",
+ "last_run": "2026-08-04T23:27:20.499867+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1402,6 +1402,10 @@
   {
    "d": "2026-08-04",
    "t": "US Equity Markets End Higher as Tech Stocks Rise, Crude Oil Falls on Hormuz Reopening Talks - marketscreener.com"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Stocks Rally as Investors Grow Hopeful About a Hormuz Deal - The New York Times"
   }
  ]
 }
