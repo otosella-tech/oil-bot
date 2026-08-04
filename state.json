@@ -4,10 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "6d1b7aa8973e24a3",
-  "asianstocksaremixedasyenjumpsagainstthedollarwhileoilprices",
-  "9d2e7814b2b8dbba",
-  "oilpricesjumpwhilethedowdropsmorethan1100assinkingaistocksdr",
   "46329f721888f756",
   "oilpricesslumponpotentialusirandealtoopenstraitofhormuz",
   "066555fdb0d8441e",
@@ -603,7 +599,11 @@
   "211d2d1d5095bb9c",
   "bpprofitmorethandoublesastrumpblastsbigoilformakingtoomuchmo",
   "bdd3517530bcc223",
-  "copperfuturesdrifthigherasinflationconcernseaseandcrudeoilpr"
+  "copperfuturesdrifthigherasinflationconcernseaseandcrudeoilpr",
+  "2f9a8c666516dcf3",
+  "saudiaramcoprofitssoarinsecondquarterasiranwarsqueezesoilsup",
+  "7819475d86497105",
+  "oilpricessurgeto100perbarrelafterredseaattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-08-04T09:45:22.032107+03:00",
+ "last_run": "2026-08-04T09:50:20.038956+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1180,6 +1180,14 @@
   {
    "d": "2026-08-04",
    "t": "Tanker Traffic Remains Subdued Despite Trump’s Talk of Peace"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Saudi Aramco profits soar in second quarter as Iran war squeezes oil supply - CNBC"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Oil prices surge to $100 per barrel after Red Sea attacks - NBC News"
   }
  ]
 }
