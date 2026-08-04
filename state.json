@@ -4,10 +4,6 @@
   "Brent": 85.54
  },
  "seen": [
-  "982c2291763ffdfe",
-  "kuwaitoilproductionsurgesasopeccompletesoutputcutreversal",
-  "1861e51c892b1109",
-  "opectoincreasecrudeoilproductionby188000barrelsperdayinsepte",
   "ebbe6d031098243b",
   "oildropsaftertrumpsaysirantalkswilltakeplacemonday",
   "9b154ca7f22ed5a4",
@@ -603,7 +599,11 @@
   "9ee881e312a9d986",
   "bpraisesdividendrate",
   "dc5319bb611f9867",
-  "gaspricesholdsteadydespitefallingcrudeoilcosts"
+  "gaspricesholdsteadydespitefallingcrudeoilcosts",
+  "ede0f3ed27891295",
+  "georgiaskulevirefineryswitchesfromrussiantokazakhlibyanoil",
+  "69ce4acb92b7a022",
+  "iraqsoldabout42millionbarrelsofoilinjulyviatrkiye"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-04",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-08-04T14:15:17.275452+03:00",
+ "last_run": "2026-08-04T14:20:22.710157+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-08-04",
    "t": "SBU strikes five Russian oil refineries, several aircraft over past week - Ukrinform"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Georgia's Kulevi Refinery Switches From Russian to Kazakh, Libyan Oil - Kyiv Post"
   }
  ]
 }
