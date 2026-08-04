@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "e16152ecdd3387ff",
-  "rupeeclimbstonearonemonthpeakonlowercrudeoilpricesindiatribu",
   "b8b183075fab8aa3",
   "howrisingfuelpricesaffectconservationwork",
   "763c2f498eb42ddf",
@@ -603,7 +601,9 @@
   "8475b059f02dcf7f",
   "bps57bnprofithighestsince2022asiranwarpushesupoilprice",
   "4bdfdfa87e743740",
-  "oilpricessettle5lowerafterclaimsofprogressinusirantalks"
+  "oilpricessettle5lowerafterclaimsofprogressinusirantalks",
+  "304dc23e62cd655c",
+  "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T22:46:24.843234+03:00",
+ "last_run": "2026-08-04T22:50:15.535993+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
