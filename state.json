@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "28c0f7c123205fcc",
-  "currentpriceofoilasofaugust32026",
   "d0fc7c225ea978c4",
   "indiasongctoreservehalfofnewoilstorageforstrategicreserves",
   "cf1bac01e25b7290",
@@ -603,7 +601,9 @@
   "a6299a1c20806334",
   "oilpricestakeadiveasqatarandbessentnotetalkstoreopenstraitof",
   "76dd71d9b249e236",
-  "crudeoilpricesriseagainasirandeniesusnegotiationstrumpwarnsl"
+  "crudeoilpricesriseagainasirandeniesusnegotiationstrumpwarnsl",
+  "e5f7ff050cbf6cd7",
+  "votedoyouthinkgaspricesarehighbecauseoilcompaniesarepricegou"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T16:45:14.429367+03:00",
+ "last_run": "2026-08-04T16:50:24.894839+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
