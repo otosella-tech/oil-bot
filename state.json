@@ -4,8 +4,6 @@
   "Brent": 83.72
  },
  "seen": [
-  "96a97ab4fd67889d",
-  "datashowsthattwotankerscarryingsaudioillefttheredseaatthewee",
   "c429bfe889c98c4f",
   "oilpricesonaug3brentcrudeslidesover6tohit82onhopesofusiranpe",
   "5d7c40a89fefc99f",
@@ -603,7 +601,9 @@
   "fb1ae3abb8144416",
   "chinasoutsizecommoditiesfootprintcushionsglobalenergyshocksr",
   "6a4333a5f9d8b70b",
-  "statusofusirantalksuncertainasshipstruckinhormuz"
+  "statusofusirantalksuncertainasshipstruckinhormuz",
+  "05cf174fb1375ed8",
+  "saudiarabiasjulycrudeoilexportsdeclineamidpersiangulfredseat"
  ],
  "releases_done": {},
  "last_digest": "2026-08-03",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 13
  },
- "last_run": "2026-08-04T07:10:13.657926+03:00",
+ "last_run": "2026-08-04T07:15:22.347961+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
