@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "63efeea5f39a7023",
-  "oiltumblesandstockfuturessurgeaftertrumpsaidirandealwasnear",
   "304dc23e62cd655c",
   "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025",
   "e16152ecdd3387ff",
@@ -603,7 +601,9 @@
   "7bc5d8ff578d284c",
   "usgrainoilseedreviewsoybeanstumblewithcrudeoil",
   "ecb5d5c823bbf2a5",
-  "sp500rises2dowjumps1000pointsasprofitskeeppilingupandoilpric"
+  "sp500rises2dowjumps1000pointsasprofitskeeppilingupandoilpric",
+  "8475b059f02dcf7f",
+  "bps57bnprofithighestsince2022asiranwarpushesupoilprice"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T22:15:22.288928+03:00",
+ "last_run": "2026-08-04T22:20:16.999123+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1388,6 +1388,10 @@
   {
    "d": "2026-08-04",
    "t": "Pakistan Bets on Security and Trade as Ties with Iran Grow"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price - bbc.com"
   }
  ]
 }
