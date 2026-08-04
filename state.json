@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "b1a5adf1283117cd",
-  "oilslidesoniranpeacedealhopesandyenfirmsafterintervention",
   "e3ee4ec84bd67567",
   "globaloilpricesdrop5asiranstrikehalts",
   "137809082244c6cf",
@@ -603,7 +601,9 @@
   "029a262610d73d31",
   "trumpsaysexxonchevronaremakingtoomuchmoneyduringiranwar",
   "1d8c2021abe226c8",
-  "decliningimportscompressustradedeficitinjune"
+  "decliningimportscompressustradedeficitinjune",
+  "602d9ea078ef2601",
+  "theiranwarcontinueskeepingenergymarketsonedgesaudiaramcoprof"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T18:15:16.481572+03:00",
+ "last_run": "2026-08-04T18:20:24.376254+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1312,6 +1312,10 @@
   {
    "d": "2026-08-04",
    "t": "Trump says Exxon, Chevron are 'making too much money' during Iran war - USA Today"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "The Iran War Continues Keeping Energy Markets On Edge. Saudi Aramco Profits Are Jumping. - International Business Times"
   }
  ]
 }
