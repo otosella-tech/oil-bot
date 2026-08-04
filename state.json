@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "228858b24b96d423",
-  "oilpricestumbleaftertrumpcallsoffattackoniran",
   "54e7a88d1a9d9a44",
   "sensexniftyextendrallytofourthsessionascrudeoilpricesfall",
   "032bf5b5771cc520",
@@ -603,7 +601,9 @@
   "588f9d77920de59a",
   "oilmarketspriceinanirandealthatdoesnotexistyet",
   "7efa2b946fefab66",
-  "opecoutputroseinjulyledbygulfnations"
+  "opecoutputroseinjulyledbygulfnations",
+  "90ba2dcb23b29bdf",
+  "revealedmajoroilfirmsmake93bnprofitsamidwarandclimatecrisis"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T21:35:12.828787+03:00",
+ "last_run": "2026-08-04T21:40:16.827172+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
