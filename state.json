@@ -4,12 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "b4a61c94510d21cb",
-  "shellsellseuropeanonshorerenewablesportfoliotototalenergies",
-  "ec01f5d9f5106bb6",
-  "iraqtrkiyesignoneyearinterimdealtomaintainnortherncrudepipel",
-  "48ff536b7c087081",
-  "zacksindustryoutlooknovoilstatesinternationalandnaturalgasse",
   "69619dc9cf4b0d8f",
   "oilpricesfallmorethan5asmiddleeasttensionsebbondiplomaticeff",
   "c8dfc2dc0f86b530",
@@ -603,7 +597,13 @@
   "e6171a89831eecbb",
   "currentpriceofoilasofjuly242026",
   "548cbcc8c9a3d89a",
-  "oilmarketshaveboughttimenotinsurance"
+  "oilmarketshaveboughttimenotinsurance",
+  "e4908608e7d21f2f",
+  "getusedtohighgasprices",
+  "51cd27a14a7c2f4e",
+  "crudeoilsinksafterbessentsaysdealtoopenstraitofhormuzmaycome",
+  "a50108a45ffa84e5",
+  "goldrisesonsofteroilpricesusjobsdatafedrateoutlookontap"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -615,7 +615,7 @@
   "date": "2026-08-04",
   "count": 60
  },
- "last_run": "2026-08-04T17:05:19.058828+03:00",
+ "last_run": "2026-08-04T17:10:18.708901+03:00",
  "sent_stories": [
   {
    "d": "2026-08-01",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-08-04",
    "t": "Saudi Aramco Reports 33% Profit Surge Despite War’s Disruption - nytimes.com"
+  },
+  {
+   "d": "2026-08-04",
+   "t": "Crude oil sinks after Bessent says deal to open Strait of Hormuz may come within days - Seeking Alpha"
   }
  ]
 }
