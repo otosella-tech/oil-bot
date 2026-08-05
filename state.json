@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "f5bb01ac0877894d",
-  "currentpriceofoilasofjuly312026",
   "4f84c986a0da72b4",
   "stocksrallyneararecordasfallingoilpriceseasewallstreetsworri",
   "5fcb4b9e3bbd46dc",
@@ -603,7 +601,9 @@
   "0208ccf631d55719",
   "redseaattacksinksindia",
   "028edcdfb5224a85",
-  "crudeoil70pricingtrendsprairieimpact"
+  "crudeoil70pricingtrendsprairieimpact",
+  "de9a1e305ecc633f",
+  "stocksrallyasoildropsonhormuzdiplomatichopes"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-05",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-08-05T12:30:17.734310+03:00",
+ "last_run": "2026-08-05T12:35:13.735259+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1448,6 +1448,10 @@
   {
    "d": "2026-08-05",
    "t": "Red Sea Attack Sinks India-Flagged Cargo Vessel Off Yemen"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "Stocks Rally as Oil Drops on Hormuz Diplomatic Hopes - WSJ"
   }
  ]
 }
