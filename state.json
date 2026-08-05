@@ -4,10 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "6dacaf8cd5996de1",
-  "saudiaramcoprofitsjump33insecondquarterasiranwarsqueezesoils",
-  "d9f3071238bf0bd5",
-  "oilholdsalittlehigheronthedayasusiranuncertaintycontinuestol",
   "a83c358518a966d6",
   "aramcosidestepshormuzasirancrisiscutsflowstoatenth",
   "49bd7cfa916abd16",
@@ -603,7 +599,11 @@
   "efb7e8184cb8644e",
   "iraqsalarydelaysamidhormuzcrisis",
   "307960ac6dfd4e32",
-  "stockswaveronwallstreetandhoveraroundrecordsasoilpricesholds"
+  "stockswaveronwallstreetandhoveraroundrecordsasoilpricesholds",
+  "6086eff0e5586c3c",
+  "oilpriceseaseonhormuzreopeninghopesdespitehouthithreatseuron",
+  "51cea47cf73528b3",
+  "currentpriceofoilasofjuly222026"
  ],
  "releases_done": {
   "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-05",
   "count": 60
  },
- "last_run": "2026-08-05T19:30:27.657840+03:00",
+ "last_run": "2026-08-05T19:35:15.361299+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1515,6 +1515,10 @@
   {
    "d": "2026-08-05",
    "t": "Iraq salary delays amid Hormuz crisis - The Jerusalem Post"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "Oil prices ease on Hormuz reopening hopes, despite Houthi threats - Euronext Markets: Real-time Stock Market Data | live"
   }
  ]
 }
