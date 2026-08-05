@@ -4,12 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "eaf547606164374c",
-  "oilrisesaftermondaysselloffamiduncertaintyoverusirantalks",
-  "2627250fa90fc1f4",
-  "wticrudeoilmarketvolatilityaugust2026investmentstrategiesana",
-  "0ec8f95e4d9e923f",
-  "africastopoilproducerunlocks3billionandfreesmorecrudeforexpo",
   "4597137df984830b",
   "oilfuturescrudereversesgainsasusofficialsignalsirandeal",
   "c31ce97712e3bbb9",
@@ -603,7 +597,13 @@
   "83578e533bec42dd",
   "venezuelasoilproductiongrowsatacrucialtimedespitechallenges",
   "6384cca0c4909920",
-  "shaleproducerapabeatssecondquarterprofitestimates"
+  "shaleproducerapabeatssecondquarterprofitestimates",
+  "939e730733097d94",
+  "whyiscrudeoilwtifuturesstockslidingtoday",
+  "a2029d8e78d44e3d",
+  "oilpricesmixedasinvestorsponderstraitofhormuzreopeninghopes",
+  "185a326a789756a7",
+  "oilrecapoilpricesmixedashormuzreopeninghopesoffsetsurpriseus"
  ],
  "releases_done": {
   "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 1
+  "count": 2
  },
- "last_run": "2026-08-06T00:00:22.103737+03:00",
+ "last_run": "2026-08-06T00:05:15.893612+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
