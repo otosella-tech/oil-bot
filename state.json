@@ -4,10 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "06350c279eddf7fe",
-  "thenextpermianbottleneckoilpipelines",
-  "c8404581eaa18504",
-  "thecommoditiesfeedoildropsamidrenewedpeacedealhopes",
   "018346323dbd4c59",
   "currentpriceofoilasofjuly222026",
   "6dacaf8cd5996de1",
@@ -603,7 +599,11 @@
   "02d82418fb9310d8",
   "fallingcrudeoilpricespulldownindiaspolyesterpcyarn",
   "47119c065c5ad994",
-  "bpsnewbosshasamessageforbritain"
+  "bpsnewbosshasamessageforbritain",
+  "068e7299f8b075ec",
+  "oilpricesfallonnegotiationstomanageshiptrafficinstraitofhorm",
+  "efb7e8184cb8644e",
+  "iraqsalarydelaysamidhormuzcrisis"
  ],
  "releases_done": {
   "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-05",
   "count": 60
  },
- "last_run": "2026-08-05T19:10:15.019142+03:00",
+ "last_run": "2026-08-05T19:15:20.577560+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1507,6 +1507,14 @@
   {
    "d": "2026-08-05",
    "t": "Hormuz Draft Agreement Reportedly Awaits Khamenei Approval"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "Oil prices fall on negotiations to manage ship traffic in Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "Iraq salary delays amid Hormuz crisis - The Jerusalem Post"
   }
  ]
 }
