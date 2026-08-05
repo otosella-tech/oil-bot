@@ -4,8 +4,6 @@
   "Brent": 78.32
  },
  "seen": [
-  "391dd5d067861348",
-  "opeccompletesrollbackofoilproductioncutswithseptemberhike",
   "929f877f968b41f6",
   "trumpblastsoilcompaniesformakingtoomuchmoneyduringiranconfli",
   "8547a9c941ef88af",
@@ -603,19 +601,21 @@
   "d0190993d7220505",
   "oilslipsforthirddayashormuzdealhopeseasesupplyconcerns",
   "6fd004bc29543440",
-  "oilextendsdeclinesasinvestorsawaitoutcomeofusirantalks"
+  "oilextendsdeclinesasinvestorsawaitoutcomeofusirantalks",
+  "74e8e7738b90e503",
+  "eogresourcesdoublesq2profitasoilpricesandproductionrise"
  ],
  "releases_done": {},
- "last_digest": "2026-08-04",
+ "last_digest": "2026-08-05",
  "digest_prices": {
-  "WTI": 81.2,
-  "Brent": 85.06
+  "WTI": 75.23,
+  "Brent": 78.87
  },
  "llm": {
   "date": "2026-08-05",
-  "count": 18
+  "count": 24
  },
- "last_run": "2026-08-05T07:55:17.546989+03:00",
+ "last_run": "2026-08-05T08:00:28.569241+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
