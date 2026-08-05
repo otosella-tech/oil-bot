@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "fbfd01a943c3d583",
-  "oilreboundsasmarketstrademixedfollowingwallstreetrally",
   "f0fc85864cdb7d50",
   "oilrisesaftersteeplossesastrumpiransendmixedsignalsontalks",
   "3ccf4d270cada08c",
@@ -603,7 +601,9 @@
   "a69d5b90cf70cf45",
   "iranisstakingeverythingoncontrollingthestraitofhormuz",
   "cd511ac10f4a6416",
-  "aramcowarnsoillossestop26billionbarrelsglobally"
+  "aramcowarnsoillossestop26billionbarrelsglobally",
+  "06a85079bc1e4d95",
+  "uscrudeoilinventoriespostweeklyincrease"
  ],
  "releases_done": {
   "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-05",
   "count": 60
  },
- "last_run": "2026-08-05T18:15:16.419377+03:00",
+ "last_run": "2026-08-05T18:20:16.261078+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
