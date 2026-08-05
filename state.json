@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 74.75,
+  "WTI": 76.25,
   "Brent": 79.9
  },
  "seen": [
-  "0984928963cb8340",
-  "usstocksmovesharplyhigherascrudeoilpricesplummet",
   "b0877119efe5539f",
   "oildropsasusiransignalprogressonhormuzdiscussions",
   "bc1567ca627e5503",
@@ -603,7 +601,9 @@
   "4188081ea141c7b8",
   "usfutureshigheroilholdsaround80onhopesforimminenthormuzreope",
   "eb0b77099a4ec334",
-  "intrumpwetrustwhytheoilmarketkeepsbelievinghimcnnbusiness"
+  "intrumpwetrustwhytheoilmarketkeepsbelievinghimcnnbusiness",
+  "f34c0155c0f1964e",
+  "dozensofidlingiranianoiltankersshowusblockadeisworking"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-05",
-  "count": 30
+  "count": 31
  },
- "last_run": "2026-08-05T11:45:24.284646+03:00",
+ "last_run": "2026-08-05T11:50:17.457117+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
