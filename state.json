@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "bc1567ca627e5503",
-  "usequitymarketsendhigherascrudeoilfallsonusiransnewroundofta",
   "9ca06e249ce94973",
   "thedowisup700pointsaftertrumpcalledoffstrikesoniranandoiltum",
   "3ada1e6cd8ec0f29",
@@ -603,7 +601,9 @@
   "f34c0155c0f1964e",
   "dozensofidlingiranianoiltankersshowusblockadeisworking",
   "9269a90a5f77c04b",
-  "aramcosaysoillossestop26bnbarrels"
+  "aramcosaysoillossestop26bnbarrels",
+  "ffdf5cc89aa73c0c",
+  "oilpricesreboundafterhouthissaytheyattackedsauditanker"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-05",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-08-05T12:05:22.031253+03:00",
+ "last_run": "2026-08-05T12:10:20.878405+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1440,6 +1440,10 @@
   {
    "d": "2026-08-05",
    "t": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall - BBC"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "Oil prices rebound after Houthis say they attacked Saudi tanker - Reuters"
   }
  ]
 }
