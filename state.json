@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "93b19b8c554b84d6",
-  "hownamibiapulledaheadinafricashottestoffshoreoilbasin",
   "77869d1f7666e4f9",
   "jambalayaonthebayouadrilldownreportonlouisianascrudeoilpipel",
   "8ce08e9656f04d89",
@@ -603,7 +601,9 @@
   "1ee688547bfe7408",
   "iranstatebankfreezesnationaloilcompanyaccountsoverdebt",
   "1bfb3f0f72cd8da2",
-  "forecastupdateforcrudeoil05082026"
+  "forecastupdateforcrudeoil05082026",
+  "b3a812575e861baa",
+  "nigeriaapproves45bnrefinancingofstateownedoilcompany"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -615,7 +615,7 @@
   "date": "2026-08-05",
   "count": 45
  },
- "last_run": "2026-08-05T15:20:16.162969+03:00",
+ "last_run": "2026-08-05T15:25:14.768648+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
