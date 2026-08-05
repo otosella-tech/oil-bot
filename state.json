@@ -4,10 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "716fe98f2adfb02b",
-  "oilpricesdroptothreeweeklowaftertrumpcancelsiranattack",
-  "9351640ac465fa91",
-  "makingtoomuchmoneytrumpblastsexxonmobilchevronprofits",
   "e11c1f87c23150d4",
   "venezuelaoilexportsfall25injulyonlowerindiademand",
   "0984928963cb8340",
@@ -603,7 +599,11 @@
   "7d8a6e79e38d33af",
   "oilextendsfallasinvestorsawaitoutcomeofusirannegotiations",
   "32cfa144ec843943",
-  "oilextendssharplossesonhopesofusiranhormuzdeal"
+  "oilextendssharplossesonhopesofusiranhormuzdeal",
+  "62d5405c9b293060",
+  "chinaspowerdemandhitsrecordsasheatwavegripskeyregions",
+  "4188081ea141c7b8",
+  "usfutureshigheroilholdsaround80onhopesforimminenthormuzreope"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-05",
-  "count": 29
+  "count": 30
  },
- "last_run": "2026-08-05T11:25:19.019161+03:00",
+ "last_run": "2026-08-05T11:30:19.442848+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
