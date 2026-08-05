@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "6a4333a5f9d8b70b",
-  "statusofusirantalksuncertainasshipstruckinhormuz",
   "05cf174fb1375ed8",
   "saudiarabiasjulycrudeoilexportsdeclineamidpersiangulfredseat",
   "35d262b0fac95ff9",
@@ -603,7 +601,9 @@
   "cfa42a8e4ae0e605",
   "dozensofiraniantankersidleasusblockaderestrictsexports",
   "03923a194568b357",
-  "iraq"
+  "iraq",
+  "248862a1ee776a36",
+  "stocksaddtotheirrecordsonwallstreetandcrudeoilpricesedgehigh"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -615,7 +615,7 @@
   "date": "2026-08-05",
   "count": 54
  },
- "last_run": "2026-08-05T16:40:14.788058+03:00",
+ "last_run": "2026-08-05T16:45:17.249874+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
