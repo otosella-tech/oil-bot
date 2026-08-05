@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "f78255f6dcb2b6f6",
-  "hfsinclairinkssupplydealsamidpendingsegmentspinoffrefinerycl",
   "a6299a1c20806334",
   "oilpricestakeadiveasqatarandbessentnotetalkstoreopenstraitof",
   "76dd71d9b249e236",
@@ -603,7 +601,9 @@
   "061efe2e02401a7f",
   "opiniongaspricesrosebecauseoftrumpsiranwarnotoilcompanygreed",
   "692e7c3cbb9b3d78",
-  "aramcosaysusiranwarhascosttheglobalmarket26billionbarrelsofo"
+  "aramcosaysusiranwarhascosttheglobalmarket26billionbarrelsofo",
+  "c1ea90519f68f9e5",
+  "scottbessentsendsstrongmessageonoilpriceandiran"
  ],
  "releases_done": {
   "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-06",
   "count": 9
  },
- "last_run": "2026-08-06T02:05:20.762161+03:00",
+ "last_run": "2026-08-06T02:10:14.068273+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
