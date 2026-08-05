@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "a7ddd6539f180be0",
-  "oilstockseyebuypointsinheftyearningsweek1breaksout",
   "bb130a15f745f300",
   "thepartsandpiecesofpikka",
   "d19397e5e50edbe8",
@@ -603,7 +601,9 @@
   "4fa0d0b92f719223",
   "oilfallsamidprospectsofusirandealtoreopenstraitofhormuz",
   "506c2f71ea3a77ba",
-  "wticrudeoiltrimlossesriskofmorelossesincrease"
+  "wticrudeoiltrimlossesriskofmorelossesincrease",
+  "2321c0322607d89c",
+  "uscrudeoilstockpilesfallmorethanexpected"
  ],
  "releases_done": {
   "2026-08-04|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-05",
   "count": 14
  },
- "last_run": "2026-08-05T05:30:18.191275+03:00",
+ "last_run": "2026-08-05T05:35:18.245415+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
