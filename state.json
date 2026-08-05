@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "69ce4acb92b7a022",
-  "iraqsoldabout42millionbarrelsofoilinjulyviatrkiye",
   "e6fb322348b0eafa",
   "indiaexpandsoilstoragesitesaftershocksupplydisruption",
   "31eec5389dee7ef5",
@@ -603,7 +601,9 @@
   "0f8bdeb54d426c5b",
   "stockshovernearrecordhighsandoilpricesstabilizewithtalkofade",
   "95f5fbbe757b67c5",
-  "opa90anddeepwaterhorizonalawthatworkedbetterthananyonecouldh"
+  "opa90anddeepwaterhorizonalawthatworkedbetterthananyonecouldh",
+  "f172feaf8a3c461b",
+  "hormuzcrisisisrewritingthegloballpgtrade"
  ],
  "releases_done": {
   "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-05",
   "count": 60
  },
- "last_run": "2026-08-05T21:55:53.737415+03:00",
+ "last_run": "2026-08-05T22:00:30.085344+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1555,6 +1555,10 @@
   {
    "d": "2026-08-05",
    "t": "Stocks hover near record highs and oil prices stabilize with talk of a deal to open Strait of Hormuz - washingtonpost.com"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "Hormuz Crisis Is Rewriting the Global LPG Trade"
   }
  ]
 }
