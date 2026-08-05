@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "7cfc2f28867b051a",
-  "oilpricesdropaftertrumpordersusforcestoholdoffonnewstrikesag",
   "93b19b8c554b84d6",
   "hownamibiapulledaheadinafricashottestoffshoreoilbasin",
   "77869d1f7666e4f9",
@@ -603,7 +601,9 @@
   "90da48b48fa7c037",
   "currentpriceofoilasofaugust52026",
   "1ee688547bfe7408",
-  "iranstatebankfreezesnationaloilcompanyaccountsoverdebt"
+  "iranstatebankfreezesnationaloilcompanyaccountsoverdebt",
+  "1bfb3f0f72cd8da2",
+  "forecastupdateforcrudeoil05082026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -615,7 +615,7 @@
   "date": "2026-08-05",
   "count": 45
  },
- "last_run": "2026-08-05T15:10:22.298598+03:00",
+ "last_run": "2026-08-05T15:15:17.151125+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
