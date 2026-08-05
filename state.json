@@ -4,14 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "6496af6b8a804966",
-  "oilsettleslowerasusgivestalksanotherchance",
-  "f2691167b7dc4b11",
-  "diamondbackenergybeatsquarterlyprofitestimatesraisesproducti",
-  "44bb14d7e9671392",
-  "haroldhammbetsbiggeronargentinasvacamuertashaleboom",
-  "b16f0a5c75ef3d97",
-  "diamondbackenergyliftsproductionguidancereportssurgingprofit",
   "4667c07fef00ad9d",
   "trumplashesoutatchevronandexxonssoaringprofitsduringiranwar",
   "9601fdff00c92a43",
@@ -603,7 +595,15 @@
   "d157501b1aaf63c2",
   "oilrisesaftersettling5lowerwithfocusonusirannegotiations",
   "f1685a4febdc15ca",
-  "rupeehitsonemonthclosinghighasoilslideoutweighsrbipause"
+  "rupeehitsonemonthclosinghighasoilslideoutweighsrbipause",
+  "e3b96b5df03544be",
+  "oilturnshigheronreportsofhouthiattacksonsauditankersinredsea",
+  "0699d249a9bb9f32",
+  "dowsp500reachrecordhighsascrudeoilextendsnosedive",
+  "056a25c36072198b",
+  "trumphasbeenabletokeepoilpriceslowbutthatpowermaynotlastfore",
+  "eaa72a5bfeee222a",
+  "germanecogroupsbattlebalticoilprojectoffpolishcoast"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-05",
-  "count": 40
+  "count": 41
  },
- "last_run": "2026-08-05T13:35:21.078433+03:00",
+ "last_run": "2026-08-05T13:40:21.248851+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
