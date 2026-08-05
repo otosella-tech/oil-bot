@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "05cf174fb1375ed8",
-  "saudiarabiasjulycrudeoilexportsdeclineamidpersiangulfredseat",
   "35d262b0fac95ff9",
   "majoroilcompaniesreapprofitsasusiranfightingdrivesenergypric",
   "012d29e96a1f543d",
@@ -603,9 +601,13 @@
   "03923a194568b357",
   "iraq",
   "248862a1ee776a36",
-  "stocksaddtotheirrecordsonwallstreetandcrudeoilpricesedgehigh"
+  "stocksaddtotheirrecordsonwallstreetandcrudeoilpricesedgehigh",
+  "0dafa3f09d98b3dc",
+  "oilturnshigheronreportsofhouthiattacksonsauditankerinredsea"
  ],
- "releases_done": {},
+ "releases_done": {
+  "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+ },
  "last_digest": "2026-08-05",
  "digest_prices": {
   "WTI": 75.23,
@@ -613,9 +615,9 @@
  },
  "llm": {
   "date": "2026-08-05",
-  "count": 54
+  "count": 55
  },
- "last_run": "2026-08-05T16:50:22.551024+03:00",
+ "last_run": "2026-08-05T16:55:12.035405+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
