@@ -4,8 +4,6 @@
   "Brent": 78.32
  },
  "seen": [
-  "0c2224221e91469f",
-  "ukrainesdronecampaigndrivesrussianoilrefiningto24",
   "95863674fb94a24f",
   "threattooiltankersinmiddleeastworstsincestartofiranwaranalys",
   "0653c44de827e2be",
@@ -603,7 +601,9 @@
   "5e86207761ace467",
   "topindiaoilproducerbeatsprofitestimateonpricesurge",
   "1cfc254945f45120",
-  "shellinvestsinnextphaseofarrowenergyssuratgasproject"
+  "shellinvestsinnextphaseofarrowenergyssuratgasproject",
+  "24e891919c7b8971",
+  "hormuztankertrafficremainssubdueddespitereportsofpeacetalks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-05",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-08-05T08:55:21.142243+03:00",
+ "last_run": "2026-08-05T09:02:51.520219+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1432,6 +1432,10 @@
   {
    "d": "2026-08-05",
    "t": "Oil steadies after two-day slump as investors eye Hormuz traffic - Reuters"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "Hormuz Tanker Traffic Remains Subdued Despite Reports of Peace Talks"
   }
  ]
 }
