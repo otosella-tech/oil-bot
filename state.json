@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "d8d979ced91c147b",
-  "whatsaffectingoilpricesthisweekaug32026",
   "f37f2c12db2e0447",
   "diamondbackridesonhigheroilpricestotopprofitestimatesraiseou",
   "96e1c07616e91958",
@@ -603,7 +601,9 @@
   "cc30d5a44276f2c2",
   "rubiosaysprogressmadeinstraitofhormuztalksaftertrumpthreaten",
   "be97e366727d5461",
-  "bigoilwarnsglobalfuelstocksarerunningdangerouslylow"
+  "bigoilwarnsglobalfuelstocksarerunningdangerouslylow",
+  "96cca8f98a687d4b",
+  "oilpricesdown040826"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -615,7 +615,7 @@
   "date": "2026-08-05",
   "count": 45
  },
- "last_run": "2026-08-05T14:55:12.517687+03:00",
+ "last_run": "2026-08-05T15:00:30.149007+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
