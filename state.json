@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "112020f7651a8539",
-  "oildropsstocksgainamidiranpeacehopesyenfirmsasinvestorswatch",
   "a88ce58b4214b15e",
   "gelsenkirchensaletrimsoilgiantbpsrefineryholdingsto5sites",
   "f2fddf4da1409b80",
@@ -603,7 +601,9 @@
   "c27570b7725607fa",
   "strategistsexpectusacrudebuildinnexteiareport",
   "fd828681fad1683f",
-  "nisreleasespartofitsoperationalreservestootheroilcompanies"
+  "nisreleasespartofitsoperationalreservestootheroilcompanies",
+  "e96398fa009019d4",
+  "highoilpricesliftallboatsinthepermianbasinbutcompaniesremain"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -615,7 +615,7 @@
   "date": "2026-08-05",
   "count": 43
  },
- "last_run": "2026-08-05T14:20:14.331264+03:00",
+ "last_run": "2026-08-05T14:25:14.347375+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
