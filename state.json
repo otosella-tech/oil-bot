@@ -4,8 +4,6 @@
   "Brent": 78.32
  },
  "seen": [
-  "13ca47632be8cc08",
-  "currentpriceofoilasofjuly282026",
   "75399ae7458b412c",
   "russiaisrunningoutofsoldiersoilandtime",
   "89d78290cc8ef2a8",
@@ -603,7 +601,9 @@
   "dbceb4551e03e21e",
   "chinaeasesfuelexportcurbsasglobalsupplycrunchdeepens",
   "d02b0fb1d294f7f8",
-  "editorialwhosgougingnownorthwestarkansasdemocrat"
+  "editorialwhosgougingnownorthwestarkansasdemocrat",
+  "0ec73f01120d2685",
+  "usstockshitrecordsasprofitskeeppilingupandoilpricesease"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -615,7 +615,7 @@
   "date": "2026-08-05",
   "count": 28
  },
- "last_run": "2026-08-05T10:15:18.261189+03:00",
+ "last_run": "2026-08-05T10:20:23.668748+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
