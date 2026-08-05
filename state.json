@@ -4,10 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "ff2b58ebba510a38",
-  "michigangaspriceshighestsincemaymidmichiganseeshighestmetroa",
-  "34a7221afd1ef5c2",
-  "trumpaccusesoilcompaniesofmakingtoomuchmoneyfromhiswaroniran",
   "7ae1dd442f8858dc",
   "bpearningssurgeto57billiononoilpriceandrefiningboom",
   "66fd1a963cf4f625",
@@ -603,7 +599,11 @@
   "33ec01da20e79c99",
   "oilpriceseaseonhormuzreopeninghopes",
   "dc7efaf2586ca80a",
-  "eiauscrudeinventoriesup235millionbbl"
+  "eiauscrudeinventoriesup235millionbbl",
+  "0866fe972983b793",
+  "iraqstrugglestopaypublicsalariesasstraitofhormuzcrisisdeepen",
+  "39b0ae17a7086681",
+  "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths"
  ],
  "releases_done": {
   "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-05",
   "count": 60
  },
- "last_run": "2026-08-05T21:00:23.179381+03:00",
+ "last_run": "2026-08-05T21:05:20.414941+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1547,6 +1547,10 @@
   {
    "d": "2026-08-05",
    "t": "Oil prices ease on Hormuz reopening hopes - Reuters"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "Iraq struggles to pay public salaries as Strait of Hormuz crisis deepens - The Jerusalem Post"
   }
  ]
 }
