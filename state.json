@@ -4,14 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "f24242b691ade219",
-  "usequitymarketsendhighermondayascrudeoilfallsonusiransnewrou",
-  "17553444b065d1bd",
-  "oilpricesdrop4afterqatarbessentraisehopesofausirandeal",
-  "0f6db6303079e6c0",
-  "brazilsjunecrudeoiloutputrecordbolstersnonopecsupplyamidgulf",
-  "5fd6a0615c6aae04",
-  "usmarketspoisedtoopenwithgainsandoilpricesslideagainastrumpb",
   "4facbc85f51dd140",
   "oilfallsafterbessentsaysdealtoreopenstraitofhormuzisimminent",
   "b81bad2098cf8468",
@@ -603,7 +595,15 @@
   "997cee075b449a63",
   "bigtechturnstofuelcellstopowertheaiboom",
   "e6cdb66a24666551",
-  "oilshortagesescalatefromwarsiniranandukrainewithfewsignsofre"
+  "oilshortagesescalatefromwarsiniranandukrainewithfewsignsofre",
+  "eda318a9d06b3e41",
+  "occidentalquarterlyprofitsoarstohighestsince2022onoilrally",
+  "c07d79144350d2aa",
+  "shaleproducerapabeatssecondquarterprofitestimatesonhighercru",
+  "eade56681216d176",
+  "goldsilverpricessurgehighsasyieldseasehormuzhopescapoilinfla",
+  "baa998890bc851b7",
+  "oilpricesmixedasinvestorsponderstraitofhormuzreopeninghopese"
  ],
  "releases_done": {
   "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-08-06T01:05:12.353651+03:00",
+ "last_run": "2026-08-06T01:10:14.639079+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
@@ -1555,6 +1555,18 @@
   {
    "d": "2026-08-06",
    "t": "Oil futures: Crude drifts as US-Iran Strait of Hormuz deal eyed - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-08-06",
+   "t": "Occidental quarterly profit soars to highest since 2022 on oil rally - Reuters"
+  },
+  {
+   "d": "2026-08-06",
+   "t": "Gold, silver prices surge highs as yields ease, Hormuz hopes cap oil inflation fears - Kitco PM Report - KITCO"
+  },
+  {
+   "d": "2026-08-06",
+   "t": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Euronext Markets: Real-time Stock Market Data | live"
   }
  ]
 }
