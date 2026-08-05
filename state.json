@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 74.75,
-  "Brent": 78.32
+  "Brent": 79.9
  },
  "seen": [
-  "75399ae7458b412c",
-  "russiaisrunningoutofsoldiersoilandtime",
   "89d78290cc8ef2a8",
   "trumpblastsexxonchevronformakingtoomuchmoneydemandslowergaso",
   "26fc70a131937fc6",
@@ -603,7 +601,9 @@
   "d02b0fb1d294f7f8",
   "editorialwhosgougingnownorthwestarkansasdemocrat",
   "0ec73f01120d2685",
-  "usstockshitrecordsasprofitskeeppilingupandoilpricesease"
+  "usstockshitrecordsasprofitskeeppilingupandoilpricesease",
+  "13ca47632be8cc08",
+  "currentpriceofoilasofjuly282026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -615,7 +615,7 @@
   "date": "2026-08-05",
   "count": 28
  },
- "last_run": "2026-08-05T10:20:23.668748+03:00",
+ "last_run": "2026-08-05T10:25:13.320455+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
