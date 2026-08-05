@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "b902a15b200042cb",
-  "oilfallsamidprospectsforreopeningofstraitofhormuz",
   "fe274c01c3171ee9",
   "brentcrudeoilpricefallsbelow84astrumppausesiranstrikeplans",
   "b2fc670c2d4b2acf",
@@ -603,7 +601,9 @@
   "987d3b2fd46f6dbb",
   "uscrudeoiloutputfellinmaywhileexportshitrecordeiasays",
   "c30fd8c24de9d521",
-  "chinascrudeoilimportsfellinthesecondquarter"
+  "chinascrudeoilimportsfellinthesecondquarter",
+  "d6e2795911ddd3c0",
+  "indiaeyesvenezuelablocksoperatorshipregainsrussiassakhalin1s"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-05",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-08-05T15:55:19.198877+03:00",
+ "last_run": "2026-08-05T16:00:30.626177+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1460,6 +1460,10 @@
   {
    "d": "2026-08-05",
    "t": "Houthis Claim Ballistic Missile Hit on Saudi Oil Tanker in Red Sea"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "India eyes Venezuela blocks operatorship; regains Russia's Sakhalin-1 stake - Reuters"
   }
  ]
 }
