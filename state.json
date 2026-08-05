@@ -4,10 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "4e26f6257013af54",
-  "aramcoposts44riseinnetprofitasiranwardrivesupoilprices",
-  "82540110bd2bde57",
-  "oilfuturescrudeedgesupasmideasttensionsremainhigh",
   "61ffffc3cfd39696",
   "oiladvancesastrumptoutsirannegotiationsandhormuzflows",
   "fbfd01a943c3d583",
@@ -603,7 +599,11 @@
   "7819475d86497105",
   "oilpricessurgeto100perbarrelafterredseaattacks",
   "1577a60cf498503f",
-  "guyanaferrytragedyexposespoliticalriftsinoilrichcountry"
+  "guyanaferrytragedyexposespoliticalriftsinoilrichcountry",
+  "c7c7342dad19d820",
+  "oilpricerallyboostsglencoresfirsthalfprofit",
+  "a69d5b90cf70cf45",
+  "iranisstakingeverythingoncontrollingthestraitofhormuz"
  ],
  "releases_done": {
   "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-05",
   "count": 60
  },
- "last_run": "2026-08-05T17:55:12.742741+03:00",
+ "last_run": "2026-08-05T18:00:26.237785+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1499,6 +1499,10 @@
   {
    "d": "2026-08-05",
    "t": "Oil prices surge to $100 per barrel after Red Sea attacks - NBC News"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "Iran Is Staking Everything on Controlling the Strait of Hormuz - WSJ"
   }
  ]
 }
