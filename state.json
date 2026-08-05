@@ -4,10 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "9601fdff00c92a43",
-  "newmexicoplugsrecordnumberofabandonedoilandgaswellsthankstob",
-  "fb22a05f2fac1058",
-  "gaspriceseaseasoilpricesfall",
   "e96398fa009019d4",
   "highoilpricesliftallboatsinthepermianbasinbutcompaniesremain",
   "c80b966e37581377",
@@ -603,7 +599,11 @@
   "eaa72a5bfeee222a",
   "germanecogroupsbattlebalticoilprojectoffpolishcoast",
   "98d2429793a09d43",
-  "whattoknowaboutthejonesactwaiverastrumpadminseekstolowergasp"
+  "whattoknowaboutthejonesactwaiverastrumpadminseekstolowergasp",
+  "bf3edb77c2bf11c0",
+  "wticrudeoilwhytheselloffmaynottellthefullstory",
+  "3f255ee8d5d5c481",
+  "worldfacesfreshfoodpricesurgefaowarns"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-05",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-08-05T14:05:21.100455+03:00",
+ "last_run": "2026-08-05T14:10:23.104103+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1452,6 +1452,10 @@
   {
    "d": "2026-08-05",
    "t": "Stocks Rally as Oil Drops on Hormuz Diplomatic Hopes - WSJ"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "World faces fresh food price surge, FAO warns - WKZO"
   }
  ]
 }
