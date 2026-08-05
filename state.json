@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "99eed455adaf71b5",
-  "bpprofitsmorethandoubleasiranwarsendsoilpricessoaring",
   "126614b7b063ef53",
   "fortheloveofmoneythefactorskeepingrefinedproductpriceshighev",
   "4e26f6257013af54",
@@ -603,7 +601,9 @@
   "bbc7b9d3c1335e57",
   "crudeoilanalysisoilcontinuestomoveonwords",
   "7512761607d8fdc6",
-  "crudeoilinventoriesriseunexpectedlysignalingweakerdemandbyin"
+  "crudeoilinventoriesriseunexpectedlysignalingweakerdemandbyin",
+  "7819475d86497105",
+  "oilpricessurgeto100perbarrelafterredseaattacks"
  ],
  "releases_done": {
   "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-05",
   "count": 60
  },
- "last_run": "2026-08-05T17:40:17.073093+03:00",
+ "last_run": "2026-08-05T17:45:14.821913+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1495,6 +1495,10 @@
   {
    "d": "2026-08-05",
    "t": "Türkiye and Iraq extend crude oil pipeline transport agreement - CEEnergynews"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "Oil prices surge to $100 per barrel after Red Sea attacks - NBC News"
   }
  ]
 }
