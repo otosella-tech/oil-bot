@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "a1c5ec46a6d24011",
-  "sbustrikesfiverussianoilrefineriesseveralaircraftoverpastwee",
   "4b08f657028d5432",
   "iranwarushersinoilrefininggoldeneraitwontlast",
   "c38b77db86078313",
@@ -603,7 +601,9 @@
   "88b0b6881864e50d",
   "iraqsyriapipelinetobypasshormuzcouldberevivedwithin3years",
   "f958914ca47f6e04",
-  "aramcosrecordprofitshideagrowingcashflowcrisis"
+  "aramcosrecordprofitshideagrowingcashflowcrisis",
+  "8ddf3047c53865f3",
+  "russianoilproductexportshitdecadelowinjulyamidukrainestrikes"
  ],
  "releases_done": {
   "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-05",
   "count": 60
  },
- "last_run": "2026-08-05T20:00:25.031881+03:00",
+ "last_run": "2026-08-05T20:05:22.925488+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
@@ -1531,6 +1531,10 @@
   {
    "d": "2026-08-05",
    "t": "Iraq-Syria Pipeline to Bypass Hormuz Could Be Revived Within 3 Years - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-05",
+   "t": "Russian oil product exports hit decade low in July amid Ukraine strikes - spglobal.com"
   }
  ]
 }
