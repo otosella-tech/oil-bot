@@ -4,10 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "d11707fe734f91c7",
-  "oilrefineryinrussiassyzranonfireafterattackphoto",
-  "d4ac32ad24cbbed1",
-  "crudeoilanalysishouthischinaandthecasefor97brent",
   "f24242b691ade219",
   "usequitymarketsendhighermondayascrudeoilfallsonusiransnewrou",
   "17553444b065d1bd",
@@ -603,7 +599,11 @@
   "0e51dff3962957c3",
   "shaleproduceroccidentalpetroleumbeatsquarterlyprofitestimate",
   "49895693edb2b4af",
-  "usoilexportsplummetonstretchedinventoriesflatproduction"
+  "usoilexportsplummetonstretchedinventoriesflatproduction",
+  "997cee075b449a63",
+  "bigtechturnstofuelcellstopowertheaiboom",
+  "e6cdb66a24666551",
+  "oilshortagesescalatefromwarsiniranandukrainewithfewsignsofre"
  ],
  "releases_done": {
   "2026-08-05|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 4
+  "count": 5
  },
- "last_run": "2026-08-06T00:55:19.033661+03:00",
+ "last_run": "2026-08-06T01:00:22.778590+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
