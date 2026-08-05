@@ -4,8 +4,6 @@
   "Brent": 80.11
  },
  "seen": [
-  "1da12b54d48e169c",
-  "thedowadds560pointsasoilpricesfalloffacliff",
   "918df8bfc09e52f6",
   "usequityindexesriseamidrallyincommunicationservicescrudeoils",
   "887291aed3d5c464",
@@ -603,7 +601,9 @@
   "07f35a1d6251a042",
   "middleeastwartriggersnewglobalrefiningboom",
   "34abf864b0793b56",
-  "judgesskepticalofgroupsstandinginoilfieldbirdcase"
+  "judgesskepticalofgroupsstandinginoilfieldbirdcase",
+  "c0ab453b513b697f",
+  "fuelshippingwaiverextensionquitelikelyenergychiefsays"
  ],
  "releases_done": {
   "2026-08-04|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-05",
   "count": 12
  },
- "last_run": "2026-08-05T03:15:16.563502+03:00",
+ "last_run": "2026-08-05T03:20:22.537783+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
