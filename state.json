@@ -4,8 +4,6 @@
   "Brent": 78.32
  },
  "seen": [
-  "219dd5a4e47ce6ec",
-  "tennesseegaspricesfall3cents",
   "391dd5d067861348",
   "opeccompletesrollbackofoilproductioncutswithseptemberhike",
   "929f877f968b41f6",
@@ -603,7 +601,9 @@
   "9746640cd7fbb7b0",
   "trumpsaysexxonandchevronmadetoomuchmoneyoffhighoilpricesduri",
   "d0190993d7220505",
-  "oilslipsforthirddayashormuzdealhopeseasesupplyconcerns"
+  "oilslipsforthirddayashormuzdealhopeseasesupplyconcerns",
+  "6fd004bc29543440",
+  "oilextendsdeclinesasinvestorsawaitoutcomeofusirantalks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-05",
-  "count": 17
+  "count": 18
  },
- "last_run": "2026-08-05T07:50:14.467680+03:00",
+ "last_run": "2026-08-05T07:55:17.546989+03:00",
  "sent_stories": [
   {
    "d": "2026-08-02",
