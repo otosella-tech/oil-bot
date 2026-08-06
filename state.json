@@ -4,12 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "39d66d68f16bec6e",
-  "oilsettlesbelow80forfirsttimesincejulywhyanirandealmighthapp",
-  "b8e14e6618561b8a",
-  "stocksrallyasinvestorsgrowhopefulaboutahormuzdeal",
-  "ab97e4c3265673ae",
-  "wallstreetralliestorecordspushingsp500up18asprofitspileupand",
   "0f058cb6ebf4eedf",
   "crudeoilwtibreaks80insharpsellofflivelevels",
   "d7de69633bcf0e85",
@@ -603,7 +597,13 @@
   "1884c183145e1a09",
   "crudeoilextendsdeclineasstraitofhormuzreopeninghopeseasesupp",
   "591fb7a53c5cf888",
-  "crudeoilpricesslipnearly1asstraitofhormuzhopeseasemiddleeast"
+  "crudeoilpricesslipnearly1asstraitofhormuzhopeseasemiddleeast",
+  "c365e20f227bedef",
+  "thestraitofhormuzcrisisemphasizeswhycanadashouldmoveawayfrom",
+  "885460641c5c7e02",
+  "worldsharesaremixedandkospifalls46aftertechgiantsdeclineonwa",
+  "9a735099a055aaae",
+  "stockswaveronwallstreetwhilecrudeoilpricesfallforthefirsttim"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 51
+  "count": 52
  },
- "last_run": "2026-08-06T14:50:18.641512+03:00",
+ "last_run": "2026-08-06T14:55:18.698218+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
