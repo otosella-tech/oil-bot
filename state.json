@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "ba376b94b9571e6a",
-  "appealscourtrulesinfavoroflandownersinoilandgasroyaltydisput",
   "eba7293ed5413128",
   "crudeoilpriceanalysiscrudeoiltests200dayemaasiranheadlinessw",
   "8ce0ba01a4225f24",
@@ -603,7 +601,9 @@
   "227944470786862e",
   "caddoparishdeputiesseekownerofloosehorse",
   "49b50ea1f871999c",
-  "oilfuturescrudeedgesupasdealtoreopenhormuzstalls"
+  "oilfuturescrudeedgesupasdealtoreopenhormuzstalls",
+  "60727ec2c9e922df",
+  "exclusivesinopecstepsuprussianoilimportstooffsetmideastsuppl"
  ],
  "releases_done": {},
  "last_digest": "2026-08-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 14
+  "count": 15
  },
- "last_run": "2026-08-06T07:30:23.044268+03:00",
+ "last_run": "2026-08-06T07:35:15.088900+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
