@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 74.65,
+  "WTI": 76.34,
   "Brent": 79.9
  },
  "seen": [
-  "02ae7a990ca0a00b",
-  "silverleadsmetalshigherashormuzoptimismcutsoilriskpremiumkit",
   "e96d09da9631c690",
   "apiuscrudeoilinventoriesgrewproductsmixed",
   "703655f0a41af4bc",
@@ -603,7 +601,9 @@
   "e194b406fe9c2144",
   "wheredidchinasoilimportsgo",
   "996ac10b1d2f8ed4",
-  "forecastupdateforcrudeoil06082026"
+  "forecastupdateforcrudeoil06082026",
+  "78ff818b204007cf",
+  "oilpricessteadyamiduncertaintyoveriranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-08-06T15:45:20.768927+03:00",
+ "last_run": "2026-08-06T15:50:17.157625+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
@@ -1604,6 +1604,10 @@
   {
    "d": "2026-08-06",
    "t": "Trump says Exxon and Chevron are 'making too much money' on high oil prices amid Iran war - ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "d": "2026-08-06",
+   "t": "Oil prices steady amid uncertainty over Iran war - Transport Topics"
   }
  ]
 }
