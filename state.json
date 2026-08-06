@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "029a262610d73d31",
-  "trumpsaysexxonchevronaremakingtoomuchmoneyduringiranwar",
   "1d8c2021abe226c8",
   "decliningimportscompressustradedeficitinjune",
   "602d9ea078ef2601",
@@ -603,7 +601,9 @@
   "743e9a4e90f29aef",
   "iranandomannearlandmarkdealtomanagestraitofhormuz",
   "ee2c32d8a88436ef",
-  "chinasrealoildemandmaskedbyriseofunlicensedfueltradesources"
+  "chinasrealoildemandmaskedbyriseofunlicensedfueltradesources",
+  "5333fe588757c744",
+  "crudeoilfuturesfallonreportsofiranomandealforhormuzreopening"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-08-06T08:35:13.023116+03:00",
+ "last_run": "2026-08-06T08:40:13.962044+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
@@ -1576,6 +1576,10 @@
   {
    "d": "2026-08-06",
    "t": "Iran and Oman Near Landmark Deal to Manage Strait of Hormuz"
+  },
+  {
+   "d": "2026-08-06",
+   "t": "Crude oil futures fall on reports of Iran-Oman deal for Hormuz reopening - BusinessLine"
   }
  ]
 }
