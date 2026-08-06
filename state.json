@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "8ce0ba01a4225f24",
-  "indiashpclsnapsupnigeriancrudetododgethehormuzbottleneck",
   "cd67681d69e87ddf",
   "russianoilflowshitsevenweeklowonlullinrefinerystrikes",
   "79ca30f11799a48f",
@@ -603,19 +601,21 @@
   "60727ec2c9e922df",
   "exclusivesinopecstepsuprussianoilimportstooffsetmideastsuppl",
   "9a16a2c359219922",
-  "oilpricesslipasirancitesprogresswithomanonhormuzagreement"
+  "oilpricesslipasirancitesprogresswithomanonhormuzagreement",
+  "ec5c8cc6593ed652",
+  "syriansqueueforfuelasiraqioilflowspastthem"
  ],
  "releases_done": {},
- "last_digest": "2026-08-05",
+ "last_digest": "2026-08-06",
  "digest_prices": {
-  "WTI": 75.23,
-  "Brent": 78.87
+  "WTI": 74.76,
+  "Brent": 79.06
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 16
+  "count": 22
  },
- "last_run": "2026-08-06T07:55:18.306736+03:00",
+ "last_run": "2026-08-06T08:00:20.773701+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
