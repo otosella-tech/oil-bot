@@ -4,10 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "8475b059f02dcf7f",
-  "bps57bnprofithighestsince2022asiranwarpushesupoilprice",
-  "4bdfdfa87e743740",
-  "oilpricessettle5lowerafterclaimsofprogressinusirantalks",
   "304dc23e62cd655c",
   "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025",
   "6d3638e364b8718f",
@@ -603,7 +599,11 @@
   "1201c040f086a7f8",
   "currentpriceofoilasofaugust62026",
   "5daf311996f58b26",
-  "indianrupeeslipsonimporterbidsfarforwardpremiumseasetoonemon"
+  "indianrupeeslipsonimporterbidsfarforwardpremiumseasetoonemon",
+  "d4d55e98b1eceecd",
+  "conocophillipsbeatsquarterlyprofitestimatesonhighercrudepric",
+  "8eeef51a174b6527",
+  "gulfshippingtrafficdownafterhouthiattackonsauditanker"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 48
+  "count": 49
  },
- "last_run": "2026-08-06T14:25:12.468673+03:00",
+ "last_run": "2026-08-06T14:30:21.135867+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
