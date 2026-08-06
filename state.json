@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "eac1ed23b52b64a2",
-  "persiangulfoilexportsgraduallybypassthestraitofhormuz",
   "0b28773c02c5c8ec",
   "oilgiantsaudiaramcoreports33profitsurgedespiteiranwardisrupt",
   "029a262610d73d31",
@@ -603,7 +601,9 @@
   "1efecfc5fd98fb4b",
   "indonesianoilgasindustrycontinuesexpansiondriveamidstinvestm",
   "4dcb1723f14bcd72",
-  "oilfuturescrudedriftsasdealtoreopenstraitofhormuzeyed"
+  "oilfuturescrudedriftsasdealtoreopenstraitofhormuzeyed",
+  "743e9a4e90f29aef",
+  "iranandomannearlandmarkdealtomanagestraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-08-06T08:10:17.347047+03:00",
+ "last_run": "2026-08-06T08:15:14.616913+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
@@ -1572,6 +1572,10 @@
   {
    "d": "2026-08-06",
    "t": "Oil futures: Crude drifts as deal to reopen Strait of Hormuz eyed - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-08-06",
+   "t": "Iran and Oman Near Landmark Deal to Manage Strait of Hormuz"
   }
  ]
 }
