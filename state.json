@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "588f9d77920de59a",
-  "oilmarketspriceinanirandealthatdoesnotexistyet",
   "7efa2b946fefab66",
   "opecoutputroseinjulyledbygulfnations",
   "90ba2dcb23b29bdf",
@@ -603,7 +601,9 @@
   "511d97871f16e866",
   "investorsturnbullishonwoncutshortbetsonasianfxoncheaperoil",
   "6cf7604c17935a31",
-  "harbourenergysrevenuesjump20inh1of2026"
+  "harbourenergysrevenuesjump20inh1of2026",
+  "c51549135c962f2f",
+  "oilpricessteadyasinvestorscautiousoveriranomantalks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -615,7 +615,7 @@
   "date": "2026-08-06",
   "count": 46
  },
- "last_run": "2026-08-06T13:15:16.022245+03:00",
+ "last_run": "2026-08-06T13:20:21.944254+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
