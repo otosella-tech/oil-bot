@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "274ceaadfc836ba5",
-  "beyondoilhowtheiranconflictreshapesrisk",
   "3ace69d0ebdd2ede",
   "whyanirandealmighthappenthistimedespitemixedsignals",
   "66ef69ab17e27e39",
@@ -603,7 +601,9 @@
   "b12a0bc22527a44a",
   "saudiscutmainoilpricetoasiaamidtalkofhormuzdeal",
   "585dd605733d1395",
-  "brentcruderemainsbelow80asinvestorsawaitoutcomeofiranomanneg"
+  "brentcruderemainsbelow80asinvestorsawaitoutcomeofiranomanneg",
+  "691e13e6751c6c27",
+  "chipstocksweakenoilsteadyasinvestorsawaithormuzprogress"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 42
+  "count": 43
  },
- "last_run": "2026-08-06T11:50:15.822087+03:00",
+ "last_run": "2026-08-06T11:55:13.728348+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
