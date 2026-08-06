@@ -4,10 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "9a735099a055aaae",
-  "stockswaveronwallstreetwhilecrudeoilpricesfallforthefirsttim",
-  "d724e4b806f35c51",
-  "usequitymarketsendhigherastechstocksrisecrudeoilfallsonhormu",
   "39d66d68f16bec6e",
   "oilsettlesbelow80forfirsttimesincejulywhyanirandealmighthapp",
   "b8e14e6618561b8a",
@@ -603,7 +599,11 @@
   "304dc23e62cd655c",
   "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025",
   "41f31322dc11f105",
-  "lessonsfromtheiranwarchinasoilbufferandenergyresilienceteste"
+  "lessonsfromtheiranwarchinasoilbufferandenergyresilienceteste",
+  "1884c183145e1a09",
+  "crudeoilextendsdeclineasstraitofhormuzreopeninghopeseasesupp",
+  "591fb7a53c5cf888",
+  "crudeoilpricesslipnearly1asstraitofhormuzhopeseasemiddleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 50
+  "count": 51
  },
- "last_run": "2026-08-06T14:45:14.833207+03:00",
+ "last_run": "2026-08-06T14:50:18.641512+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
