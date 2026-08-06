@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "93e2a71e82e70862",
-  "ironorepriceshitone",
   "51c004851cd52b03",
   "oilpricesplungeandeuropesmarketsrallyaftertrumpcallsoffirans",
   "e7ec3ab59c3183e6",
@@ -603,7 +601,9 @@
   "a675326895bd12d9",
   "oilpricesdriveupmaurelpromprofitvenezuelaexportsseennormalis",
   "457142aae4afa959",
-  "oilextendslossesafterusqatarsignalprogressonirandraftdeal"
+  "oilextendslossesafterusqatarsignalprogressonirandraftdeal",
+  "a4f9e19814213985",
+  "maurelpromreports78jumpinhalfyearnetincomedrivenbycrudeprice"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -615,7 +615,7 @@
   "date": "2026-08-06",
   "count": 35
  },
- "last_run": "2026-08-06T10:00:24.210079+03:00",
+ "last_run": "2026-08-06T10:05:16.338524+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
