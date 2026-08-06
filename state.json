@@ -4,10 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "506c2f71ea3a77ba",
-  "wticrudeoiltrimlossesriskofmorelossesincrease",
-  "2321c0322607d89c",
-  "uscrudeoilstockpilesfallmorethanexpected",
   "1f0adada7a52b7f8",
   "oilsteadiesaftertwodayslumpasinvestorseyehormuztraffic",
   "8cd770d2f8ee90ed",
@@ -603,7 +599,11 @@
   "1f6d1665339b21c1",
   "argentinasshaleboomisreshapingenergysecurityacrosstheamerica",
   "1be1070b2275456c",
-  "oilpricestodaycrudeslipsasiranomantalksfuelhopesofpeacedealh"
+  "oilpricestodaycrudeslipsasiranomantalksfuelhopesofpeacedealh",
+  "749f87054cb74261",
+  "exclusiverussiasoiloutputrisesinjulyonfirmexportsrefineryrun",
+  "7968b6511793e587",
+  "posthastewhycanadianscanthankchinaforhelpingshieldthemfroman"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -615,7 +615,7 @@
   "date": "2026-08-06",
   "count": 60
  },
- "last_run": "2026-08-06T18:05:15.064890+03:00",
+ "last_run": "2026-08-06T18:10:17.282521+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
@@ -1640,6 +1640,10 @@
   {
    "d": "2026-08-06",
    "t": "Oil prices today: Crude slips as Iran-Oman talks fuel hopes of peace deal, Hormuz reopening - The Times of India"
+  },
+  {
+   "d": "2026-08-06",
+   "t": "EXCLUSIVE: Russia's oil output rises in July on firm exports, refinery run recovery, sources say - Reuters"
   }
  ]
 }
