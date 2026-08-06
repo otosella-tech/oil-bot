@@ -4,10 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "922b3e716afcb819",
-  "oilextendslossesafterusqatarsignalprogressonirandraftdeal",
-  "a5e190a12f040132",
-  "usstocksleaptowardarecordasprofitskeeppilingupandoilpricesea",
   "cfa7aa9b59af1025",
   "icemiddaycanolahigherdespitefallingcrudeoil",
   "45af1ac3e1e00f8a",
@@ -603,7 +599,11 @@
   "a0c9921fdd9bad20",
   "gulfoilexportssteadyinjulystill40belowprewarlevels",
   "060d4cc123cc1942",
-  "sinopecboostsrussianoilpurchasesamidmiddleeastsupplyshortfal"
+  "sinopecboostsrussianoilpurchasesamidmiddleeastsupplyshortfal",
+  "e74bb0403fa6fba4",
+  "sonangolskatambi2appraisalwelloffshoreangolashowsgoodquality",
+  "c410620f020cfda8",
+  "oilpricesriseafterusblockssurpriseattackfromiran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-08-06T09:50:25.438384+03:00",
+ "last_run": "2026-08-06T09:55:20.968470+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
@@ -1588,6 +1588,10 @@
   {
    "d": "2026-08-06",
    "t": "Oil extends slide on Iran-Oman Hormuz shipping deal, U.S. inventory rebound - Investing.com"
+  },
+  {
+   "d": "2026-08-06",
+   "t": "Oil prices rise after U.S. blocks surprise attack from Iran - CNBC"
   }
  ]
 }
