@@ -4,10 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "6d3638e364b8718f",
-  "chinasevboomisquietlyunderminingoilsbiggestchokepoint",
-  "0838d8c9b86ffccf",
-  "trumpsaysoilcompaniesaremakingtoomuchmoneyisheright",
   "9a735099a055aaae",
   "stockswaveronwallstreetwhilecrudeoilpricesfallforthefirsttim",
   "d724e4b806f35c51",
@@ -603,7 +599,11 @@
   "8eeef51a174b6527",
   "gulfshippingtrafficdownafterhouthiattackonsauditanker",
   "c8fa54eb861009fe",
-  "nigeriaeyes50billionfrom22offshoreoilandgasprojects"
+  "nigeriaeyes50billionfrom22offshoreoilandgasprojects",
+  "304dc23e62cd655c",
+  "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025",
+  "41f31322dc11f105",
+  "lessonsfromtheiranwarchinasoilbufferandenergyresilienceteste"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 49
+  "count": 50
  },
- "last_run": "2026-08-06T14:35:12.834671+03:00",
+ "last_run": "2026-08-06T14:40:15.681469+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
