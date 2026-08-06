@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "2cf45fa243e56301",
-  "ogj100earningsdivergein2025aslowerpricesmeetfxswingsstrongou",
   "a07ac707f33282be",
   "aramcoplanstoboostoilexportcapacity",
   "60e36db82bb2e279",
@@ -603,7 +601,9 @@
   "c84dd441405843b3",
   "howtheusiranwarhasredrawnasiasenergymap",
   "b53d73d41e4db5ae",
-  "ukrainehits2russianoilrefineriesinlatestdeepstrikedroneattac"
+  "ukrainehits2russianoilrefineriesinlatestdeepstrikedroneattac",
+  "811c4527caa754c6",
+  "chinastoprefinerpivotstorussiancrude"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 39
+  "count": 40
  },
- "last_run": "2026-08-06T11:35:16.329582+03:00",
+ "last_run": "2026-08-06T11:40:15.494736+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
