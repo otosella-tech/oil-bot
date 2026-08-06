@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "d6878e4317acdce5",
-  "analystsseedeclineinuscrudeoilinventories",
   "b1f3fb787612d55c",
   "oilcompaniesareprofitingfromtheusiranwarthatsapoliticalheada",
   "588f9d77920de59a",
@@ -603,7 +601,9 @@
   "ed9f7841f3aa927e",
   "wticrudeoiloutlookhasthemarketpricedthehormuzrecoverytoosoon",
   "a1f95aaa52d88be4",
-  "howtheuaehaskeptitsoilflowingthroughhormuz"
+  "howtheuaehaskeptitsoilflowingthroughhormuz",
+  "511d97871f16e866",
+  "investorsturnbullishonwoncutshortbetsonasianfxoncheaperoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -615,7 +615,7 @@
   "date": "2026-08-06",
   "count": 46
  },
- "last_run": "2026-08-06T12:40:16.413194+03:00",
+ "last_run": "2026-08-06T12:45:15.502329+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
