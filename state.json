@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "e96d09da9631c690",
-  "apiuscrudeoilinventoriesgrewproductsmixed",
   "703655f0a41af4bc",
   "crudeoilpriceforecastsellerstargetdeeperpullback",
   "879ab50fe80fa5ff",
@@ -603,7 +601,9 @@
   "996ac10b1d2f8ed4",
   "forecastupdateforcrudeoil06082026",
   "78ff818b204007cf",
-  "oilpricessteadyamiduncertaintyoveriranwar"
+  "oilpricessteadyamiduncertaintyoveriranwar",
+  "8e088d48f44d0afd",
+  "conocophillipsprofitboostedbyclimbingoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -615,7 +615,7 @@
   "date": "2026-08-06",
   "count": 58
  },
- "last_run": "2026-08-06T15:50:17.157625+03:00",
+ "last_run": "2026-08-06T15:55:16.411531+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
