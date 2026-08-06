@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "c410620f020cfda8",
-  "oilpricesriseafterusblockssurpriseattackfromiran",
   "922b3e716afcb819",
   "oilextendslossesafterusqatarsignalprogressonirandraftdeal",
   "a5e190a12f040132",
@@ -603,7 +601,9 @@
   "a8634386f16f7635",
   "usdieselexportshitrecordhighasdomesticstockpilesslide",
   "a0c9921fdd9bad20",
-  "gulfoilexportssteadyinjulystill40belowprewarlevels"
+  "gulfoilexportssteadyinjulystill40belowprewarlevels",
+  "060d4cc123cc1942",
+  "sinopecboostsrussianoilpurchasesamidmiddleeastsupplyshortfal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 31
+  "count": 32
  },
- "last_run": "2026-08-06T09:45:22.752513+03:00",
+ "last_run": "2026-08-06T09:50:25.438384+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
