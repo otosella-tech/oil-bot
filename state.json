@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "03924a03d9ef3f66",
-  "iranweighsallowingeuropetoclearminesinstraitofhormuz",
   "c410620f020cfda8",
   "oilpricesriseafterusblockssurpriseattackfromiran",
   "922b3e716afcb819",
@@ -603,7 +601,9 @@
   "25bd51b594c41220",
   "aparaisesusoilforecastassecondquarteroutputbeatsguidance",
   "a8634386f16f7635",
-  "usdieselexportshitrecordhighasdomesticstockpilesslide"
+  "usdieselexportshitrecordhighasdomesticstockpilesslide",
+  "a0c9921fdd9bad20",
+  "gulfoilexportssteadyinjulystill40belowprewarlevels"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -615,7 +615,7 @@
   "date": "2026-08-06",
   "count": 31
  },
- "last_run": "2026-08-06T09:35:18.530144+03:00",
+ "last_run": "2026-08-06T09:40:14.963891+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
