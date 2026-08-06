@@ -4,8 +4,6 @@
   "Brent": 79.9
  },
  "seen": [
-  "60e36db82bb2e279",
-  "iraqexportsover30millionbarrelsofoilthroughhormuzinonemonth",
   "274ceaadfc836ba5",
   "beyondoilhowtheiranconflictreshapesrisk",
   "3ace69d0ebdd2ede",
@@ -603,7 +601,9 @@
   "811c4527caa754c6",
   "chinastoprefinerpivotstorussiancrude",
   "b12a0bc22527a44a",
-  "saudiscutmainoilpricetoasiaamidtalkofhormuzdeal"
+  "saudiscutmainoilpricetoasiaamidtalkofhormuzdeal",
+  "585dd605733d1395",
+  "brentcruderemainsbelow80asinvestorsawaitoutcomeofiranomanneg"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-06",
-  "count": 41
+  "count": 42
  },
- "last_run": "2026-08-06T11:45:25.425462+03:00",
+ "last_run": "2026-08-06T11:50:15.822087+03:00",
  "sent_stories": [
   {
    "d": "2026-08-03",
