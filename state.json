@@ -4,10 +4,6 @@
   "Brent": 81.69
  },
  "seen": [
-  "98581aa614aab533",
-  "rupeesongoingrallybackedbyebbingfedhikeoddssoftoil",
-  "e7780b62c205af61",
-  "environmentaldisasterloomsastankerladenwithrussiancrudeoille",
   "b960916c93bbe4be",
   "environmentaldisasterloomsastankerleaksoffomanal",
   "4e711e20fb956c4c",
@@ -603,7 +599,11 @@
   "9c5f87caa55ab63c",
   "usstockfuturesjumpasemployersunexpectedlycut23000jobs",
   "0c3740dc1ae7076c",
-  "yourfridayaug7guidefivethingstodointheoilcity"
+  "yourfridayaug7guidefivethingstodointheoilcity",
+  "4d25b9dd5a1dbb1e",
+  "droneattacksreducejulycpcoilloadingsbyafifthsourcessay",
+  "b4b4c9f5dcdac17d",
+  "worldsharesaremixedafterusstocksfallbackwhileoiledgeslowerks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T16:10:22.951235+03:00",
+ "last_run": "2026-08-07T16:15:21.993740+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-08-07",
    "t": "US airfares expected to stay high even if Iran ceasefire drops oil prices, experts say - The Guardian"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Drone attacks reduce July CPC oil loadings by a fifth, sources say - Reuters"
   }
  ]
 }
