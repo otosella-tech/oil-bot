@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "77804af5f1d38b0e",
-  "oilpriceseaseonhormuzreopeninghopesdespitehouthithreats",
   "1f83c9de9eefccd9",
   "whatsspecialaboutsaudioilsaudiarabiaexportsmorecrudeoilthana",
   "88b0b6881864e50d",
@@ -603,7 +601,9 @@
   "a826e725dd510c20",
   "crudeoilrisesmetalsdomesticmarketoutperformsoverseasmarketlm",
   "018346323dbd4c59",
-  "currentpriceofoilasofjuly222026"
+  "currentpriceofoilasofjuly222026",
+  "736aa0a69090d2dd",
+  "molreachesoiltransportagreementwithcroatiasjanaf"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 34
  },
- "last_run": "2026-08-07T10:05:11.772822+03:00",
+ "last_run": "2026-08-07T10:10:16.968212+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
