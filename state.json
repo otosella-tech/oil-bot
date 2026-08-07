@@ -4,8 +4,6 @@
   "Brent": 81.69
  },
  "seen": [
-  "479449be487829f3",
-  "currentpriceofoilasofaugust32026",
   "a93c29b5ea4c774b",
   "iransaysagreementonhormuzshippingreachedwithoman",
   "d4d1c796e6078ae8",
@@ -603,7 +601,9 @@
   "3ec1cee9c43c1d2d",
   "asiansharesmixedafterusstocksfallbackwhileoilrebounds",
   "6a2521cbbe8dad94",
-  "oilpricesdropasinvestorsweighpotentialhormuzdealbetweenirana"
+  "oilpricesdropasinvestorsweighpotentialhormuzdealbetweenirana",
+  "46eedfdfba17e78c",
+  "saudiarabiapakistanandturkeytosigndefensedeal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-08-07T15:55:12.999359+03:00",
+ "last_run": "2026-08-07T16:00:25.640848+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1200,6 +1200,10 @@
   {
    "d": "2026-08-07",
    "t": "Iran’s oil exports stall and Kharg Island idles under US blockade - Financial Times"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Saudi Arabia, Pakistan and Turkey to Sign Defense Deal"
   }
  ]
 }
