@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "e74bb0403fa6fba4",
-  "sonangolskatambi2appraisalwelloffshoreangolashowsgoodquality",
   "c410620f020cfda8",
   "oilpricesriseafterusblockssurpriseattackfromiran",
   "a675326895bd12d9",
@@ -603,7 +601,9 @@
   "6498c7755876a9d1",
   "asiansharesaremixedafterusstocksfallbackwhileoilreboundsthed",
   "39c050943edf472f",
-  "isiranpreparingtopermanentlyblockthestraitofhormuz"
+  "isiranpreparingtopermanentlyblockthestraitofhormuz",
+  "29324c3f833b8d5d",
+  "oilgainsonusjobsreportworriesoverpeacetalks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T19:15:15.799689+03:00",
+ "last_run": "2026-08-07T19:20:15.461712+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
