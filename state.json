@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "a69d5b90cf70cf45",
-  "iranisstakingeverythingoncontrollingthestraitofhormuz",
   "cd511ac10f4a6416",
   "aramcowarnsoillossestop26billionbarrelsglobally",
   "06a85079bc1e4d95",
@@ -603,7 +601,9 @@
   "0a67160539cb617e",
   "crudeoilpriceholdsacautiousseriesofgainsanalysis07082026",
   "7819475d86497105",
-  "oilpricessurgeto100perbarrelafterredseaattacks"
+  "oilpricessurgeto100perbarrelafterredseaattacks",
+  "5794b964cfa99524",
+  "vesseltrafficthroughhormuzdwindlesthisweekasmarketswatchiran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-08-07T07:50:14.904973+03:00",
+ "last_run": "2026-08-07T07:55:12.990435+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1148,6 +1148,10 @@
   {
    "d": "2026-08-07",
    "t": "Oil prices surge to $100 per barrel after Red Sea attacks - NBC News"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks - WKZO"
   }
  ]
 }
