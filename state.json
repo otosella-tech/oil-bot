@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "9082a876251f8b98",
-  "oilpricesup050826",
   "1aa75340e84338fa",
   "inflowsandsofteroilcurbpressureonrupeebuildcarryappeal",
   "abad8587727ed7ab",
@@ -603,7 +601,9 @@
   "6876bebc0e951c2b",
   "saudiarabias5oildetourisexpensiveandworthit",
   "131c9fc5efcc3bd3",
-  "oilfuturescrudevolatileamidstraitofhormuzdealuncertainty"
+  "oilfuturescrudevolatileamidstraitofhormuzdealuncertainty",
+  "10d0c0f329b42486",
+  "theusshouldinvestinlightcruderefiningbeforethenextchokepoint"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T18:20:27.101950+03:00",
+ "last_run": "2026-08-07T18:25:21.669848+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
