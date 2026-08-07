@@ -4,8 +4,6 @@
   "Brent": 81.69
  },
  "seen": [
-  "da07999cc7ada2af",
-  "uscrudeoilinventoriesincreaseby25millionbarrels",
   "b30a7e6f93f94570",
   "usoilshockwaveinventoriesplungefourseascrisisexplodesweeklye",
   "8f6b584e4a91ed68",
@@ -603,7 +601,9 @@
   "f3ff60066397cdc9",
   "allhandsondeckoilindustryralliestokeeptrumpfromstoppingexpor",
   "c7672579623f5322",
-  "ischinaquietlyusingtheoilcardtopushirantowardsthenegotiating"
+  "ischinaquietlyusingtheoilcardtopushirantowardsthenegotiating",
+  "4eb881995b96f148",
+  "iransoilexportsstallandkhargislandidlesunderusblockade"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-08-07T15:35:13.571130+03:00",
+ "last_run": "2026-08-07T15:40:15.702757+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-08-07",
    "t": "Shipping Through Hormuz Drops Sharply as Tensions Rise"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Iran’s oil exports stall and Kharg Island idles under US blockade - Financial Times"
   }
  ]
 }
