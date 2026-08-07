@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "6d6aaf0ab4fcb0b2",
-  "crudeoiltheftconspiracyleadstosixguiltypleasinpermianbasin",
   "275765a42b8c3f52",
   "chinaacceleratesitseconomicpushacrosscentralasia",
   "33ec01da20e79c99",
@@ -603,7 +601,9 @@
   "0824d787f6556fc8",
   "petrobrasq2profitnearlydoublesasoilproductionhitsrecord",
   "58938e627826ee9f",
-  "currentpriceofoilasofaugust42026"
+  "currentpriceofoilasofaugust42026",
+  "39b0891f360433c8",
+  "howtheglobalrefiningcrisishasbrokenthecrudegaspricelink"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 40
  },
- "last_run": "2026-08-07T11:05:14.340347+03:00",
+ "last_run": "2026-08-07T11:10:16.921618+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
