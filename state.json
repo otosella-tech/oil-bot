@@ -4,10 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "f15eebaf01bf259a",
-  "usupstreamoilandgassecondquarterdealmakingdivesonvolatility",
-  "0b8319946287829c",
-  "dangotehasstrongintentforsouthafricalistingafternigeriaipojs",
   "4b08f657028d5432",
   "iranwarushersinoilrefininggoldeneraitwontlast",
   "81d2e2439cee424e",
@@ -603,7 +599,11 @@
   "a994b47a6475f17b",
   "oilrisesasiransdraftplanseesusandisraelbannedfromstraitofhor",
   "14c827b5016599d5",
-  "asianstockstosliponiranconcernsoilclimbsmarketswrap"
+  "asianstockstosliponiranconcernsoilclimbsmarketswrap",
+  "09059e6e333e5eda",
+  "oilpricetodaybrentrises1asmiddleeastconflictcontinueshormuzs",
+  "3bde4cd26f7aac7a",
+  "oilrisesonconcernsoverstraitofhormuzreopeningplansbyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 37
+  "count": 38
  },
- "last_run": "2026-08-07T10:30:17.552617+03:00",
+ "last_run": "2026-08-07T10:35:15.282628+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
