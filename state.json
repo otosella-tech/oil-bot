@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "0866fe972983b793",
-  "iraqstrugglestopaypublicsalariesasstraitofhormuzcrisisdeepen",
   "39b0ae17a7086681",
   "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths",
   "5a5dfeb25460bdbf",
@@ -603,7 +601,9 @@
   "0e6dfef91ae8243a",
   "oilextendsgainsandstocksmostlydownonfreshhormuzworries",
   "d1547ac38547c1c1",
-  "globalstockssteadyaheadofusjobsreportasoilrises"
+  "globalstockssteadyaheadofusjobsreportasoilrises",
+  "7c2772da6c628bcf",
+  "worldsharesaremixedafterusstocksfallbackwhileoilrebounds"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 42
  },
- "last_run": "2026-08-07T11:30:19.975552+03:00",
+ "last_run": "2026-08-07T11:35:12.981293+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
