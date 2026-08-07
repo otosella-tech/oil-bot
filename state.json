@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "6a6aefb356a8c1c6",
-  "oilgainsasinvestorscautiousoveriranomantalkprogress",
-  "51c004851cd52b03",
-  "oilpricesplungeandeuropesmarketsrallyaftertrumpcallsoffirans",
   "8eacead57ffafd7b",
   "thecommoditiesfeedoilunderpressureasiranandomanreachhormuzde",
   "aa5bf786a5742ef1",
@@ -603,7 +599,11 @@
   "a7810273c99e0ba4",
   "theweekinoildiplomaticeffortstomanagehormuztraffictakecenter",
   "52919922688a8f47",
-  "abudhabioilcosaysattacksonvesselsstaffsignificantlyimpacting"
+  "abudhabioilcosaysattacksonvesselsstaffsignificantlyimpacting",
+  "7e0c0ada9dadaea5",
+  "cushinghubsoilstoragetotalremainscriticallylow",
+  "61b5309fd469d859",
+  "notankersloadedatkhargislandforaweekamidusblockadeftsays"
  ],
  "releases_done": {
   "2026-08-07|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T19:45:15.952892+03:00",
+ "last_run": "2026-08-07T19:50:23.463270+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
