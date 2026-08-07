@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "b1a7e987bdf4a85a",
-  "currentpriceofoilasofjuly292026",
   "52fea4fbe2d33186",
   "soybeanscornseemorepressurefromweathercrudeoil",
   "96da23377c5fd702",
@@ -603,7 +601,9 @@
   "0d33e2058fad1e4d",
   "ussenatepassesrussiasanctionschampionedbygrahamushousenext",
   "f686048961c79eb4",
-  "russiaslaborshortageworsensascentralasianworkersstayaway"
+  "russiaslaborshortageworsensascentralasianworkersstayaway",
+  "09105e2873e358c1",
+  "oilgainsonpendingiranomandealoverhormuz"
  ],
  "releases_done": {
   "2026-08-07|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T22:05:19.726445+03:00",
+ "last_run": "2026-08-07T22:10:23.070884+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1284,6 +1284,10 @@
   {
    "d": "2026-08-07",
    "t": "Russia’s Labor Shortage Worsens as Central Asian Workers Stay Away"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Oil gains on pending Iran-Oman deal over Hormuz - Reuters"
   }
  ]
 }
