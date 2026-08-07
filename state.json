@@ -4,8 +4,6 @@
   "Brent": 81.69
  },
  "seen": [
-  "60727ec2c9e922df",
-  "exclusivesinopecstepsuprussianoilimportstooffsetmideastsuppl",
   "9a16a2c359219922",
   "oilpricesslipasirancitesprogresswithomanonhormuzagreement",
   "ec5c8cc6593ed652",
@@ -603,7 +601,9 @@
   "570dce4db1e83b07",
   "oilpriceslittlechangedasmarketwaitsondealtoopenstraitofhormu",
   "024f63895b2b7e29",
-  "texaseconomicboomhowaioilandyallstreetarefuelinghistoricgrow"
+  "texaseconomicboomhowaioilandyallstreetarefuelinghistoricgrow",
+  "66d42b8b26f770d6",
+  "opecrestores35mbpdbutexportrisksstilldriveoilrepricing"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T16:35:13.450903+03:00",
+ "last_run": "2026-08-07T16:40:16.515138+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-08-07",
    "t": "Oil prices little changed as market waits on deal to open Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "OPEC+ Restores 3.5M bpd, but Export Risks Still Drive Oil Repricing - Crux Investor"
   }
  ]
 }
