@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "b53d73d41e4db5ae",
-  "ukrainehits2russianoilrefineriesinlatestdeepstrikedroneattac",
-  "811c4527caa754c6",
-  "chinastoprefinerpivotstorussiancrude",
   "b12a0bc22527a44a",
   "saudiscutmainoilpricetoasiaamidtalkofhormuzdeal",
   "585dd605733d1395",
@@ -603,7 +599,11 @@
   "2b31c5c45eef95f5",
   "norways23",
   "f18e14efc2979fb8",
-  "areheatingoilanddistillatesheadingforevenhigherhighs"
+  "areheatingoilanddistillatesheadingforevenhigherhighs",
+  "a27ad8138eb6ad34",
+  "citiraisesq32026brentcrudeoilforecastto80abarrel",
+  "c50af5e3aae5a7b3",
+  "oildispersantsreshapearcticseaicemicrobesbutdonotmarkedlyacc"
  ],
  "releases_done": {
   "2026-08-07|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T20:35:21.847112+03:00",
+ "last_run": "2026-08-07T20:40:20.872329+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
