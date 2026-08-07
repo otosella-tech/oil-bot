@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "f21176a7243a5eda",
-  "indiaweighsgaslevytobankroll42billionfuelreserveplan",
   "c57a36621188f501",
   "environmentalactivistsinkenyaconcernedoverbillionairesplanne",
   "5f8d9e7aa46cf0cb",
@@ -603,7 +601,9 @@
   "f6e3c3030876fe26",
   "chinascrudeoilpurchasesreboundinjulyfromneardecadelow",
   "619310dad8670046",
-  "oilfuturescrudeextendsgainsamidstraitofhormuzdealimpasse"
+  "oilfuturescrudeextendsgainsamidstraitofhormuzdealimpasse",
+  "06a85079bc1e4d95",
+  "uscrudeoilinventoriespostweeklyincrease"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 28
  },
- "last_run": "2026-08-07T08:25:12.535660+03:00",
+ "last_run": "2026-08-07T08:30:18.151909+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
