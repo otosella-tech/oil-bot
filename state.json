@@ -4,10 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "445ac10e706961d9",
-  "oilpricesmovehigherafteryemensiranbackedhouthisclaimsauditan",
-  "578ce3332ffefd4f",
-  "ukrainejustcompleteditsbiggestdeepstrikecampaignagainstrussi",
   "b59ae90045ef7b0d",
   "realitytrumpsaysamericadoesnotneedcanadianenergythefactsandh",
   "b2fc670c2d4b2acf",
@@ -603,7 +599,11 @@
   "ad7b2246064dd1fe",
   "loweroilpriceslendsupportforthegoldrally",
   "987d3b2fd46f6dbb",
-  "uscrudeoiloutputfellinmaywhileexportshitrecordeiasays"
+  "uscrudeoiloutputfellinmaywhileexportshitrecordeiasays",
+  "c30fd8c24de9d521",
+  "chinascrudeoilimportsfellinthesecondquarter",
+  "094c4e5be78630ce",
+  "usequitymarketsendhigherascrudeoilfallsonusiransnewroundofta"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-08-07T03:00:27.389699+03:00",
+ "last_run": "2026-08-07T03:05:11.957749+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1128,6 +1128,10 @@
   {
    "d": "2026-08-07",
    "t": "UK Targets Arctic LNG Carrier, Five Oil Tankers in Latest Russia Sanctions Package - gcaptain.com"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "US Equity Markets End Higher as Crude Oil Falls on US-Iran's New Round of Talks - Yahoo Finance"
   }
  ]
 }
