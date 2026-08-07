@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "248862a1ee776a36",
-  "stocksaddtotheirrecordsonwallstreetandcrudeoilpricesedgehigh",
   "0dafa3f09d98b3dc",
   "oilturnshigheronreportsofhouthiattacksonsauditankerinredsea",
   "6385740f99cdf7f4",
@@ -603,7 +601,9 @@
   "c510392aa4636cc4",
   "crudeoilrosemetalsdomesticmarketoutperformedoverseasmarketlm",
   "f815475c16680d14",
-  "murphyoilcorpmurq22026earningscallhighlightsstrategicinvestm"
+  "murphyoilcorpmurq22026earningscallhighlightsstrategicinvestm",
+  "8f7b81fa9b920b32",
+  "stocksedgelowerasoilpricesriseandmoreearningsreportsrollinpo"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 6
  },
- "last_run": "2026-08-07T03:50:13.823501+03:00",
+ "last_run": "2026-08-07T03:55:15.691309+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
