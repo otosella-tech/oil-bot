@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "1de1ab2d56b45491",
-  "usstockfuturesedgehigherandoilresumesascent",
   "0d574910fe29fc65",
   "stocksriseonwallstreetandaddtotheirrecordsasoilpricesholdste",
   "c7c5b470a2aa3106",
@@ -603,7 +601,9 @@
   "c1a3451937d6c2bb",
   "ukdriverstaketofueltheftamidwardrivenpricesurge",
   "0a17843e2b6e77f0",
-  "petrobraspoststhirdhighestprofitasmiddleeastconflictliftsoil"
+  "petrobraspoststhirdhighestprofitasmiddleeastconflictliftsoil",
+  "03f8ac523ef7e895",
+  "oilrisesamidsupplydisruptionfearsfollowingiransrestrictivedr"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 7
+  "count": 9
  },
- "last_run": "2026-08-07T05:05:16.956072+03:00",
+ "last_run": "2026-08-07T05:10:14.302647+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1132,6 +1132,10 @@
   {
    "d": "2026-08-07",
    "t": "US Equity Markets End Higher as Crude Oil Falls on US-Iran's New Round of Talks - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz - CNBC"
   }
  ]
 }
