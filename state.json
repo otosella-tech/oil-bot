@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "80e0bc9758c7275a",
-  "whathasbeentheoneconstantthroughhormuzturmoil",
   "65d03a1b28ebe60c",
   "europesgasstoragehitslowestlevelsince2011aswinterlooms",
   "e9b4d76d7967ffc5",
@@ -603,7 +601,9 @@
   "38aa8fd9e540299f",
   "russiasanctionsbillhonoringlindseygrahambreezesthroughsenate",
   "1ce5d712a02f73af",
-  "energyaffordabilitytrumpsclimateinusmidtermraces"
+  "energyaffordabilitytrumpsclimateinusmidtermraces",
+  "2c710721300cd5c0",
+  "brentclimbs1onuncertaintyoverendtoiranwar"
  ],
  "releases_done": {
   "2026-08-07|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T23:15:16.628864+03:00",
+ "last_run": "2026-08-07T23:20:16.350534+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1297,6 +1297,10 @@
   {
    "d": "2026-08-07",
    "t": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House - CNBC"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Brent climbs $1 on uncertainty over end to Iran war - Reuters"
   }
  ]
 }
