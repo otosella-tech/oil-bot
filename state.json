@@ -4,12 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "f12a2d4c7536db33",
-  "oilfuturescrudedriftsasusiranstraitofhormuzdealeyed",
-  "0e51dff3962957c3",
-  "shaleproduceroccidentalpetroleumbeatsquarterlyprofitestimate",
-  "49895693edb2b4af",
-  "usoilexportsplummetonstretchedinventoriesflatproduction",
   "997cee075b449a63",
   "bigtechturnstofuelcellstopowertheaiboom",
   "e6cdb66a24666551",
@@ -603,7 +597,13 @@
   "dc587ceafe0d4b17",
   "indiascrudeoiloutputfallsforthirdstraightyear",
   "50985e8598ac7194",
-  "theuncertainfutureofoilandgas"
+  "theuncertainfutureofoilandgas",
+  "485f3b69590f861f",
+  "oilpricestumbleastraderspriceinastraitofhormuzbreakthrough",
+  "93207f641284469e",
+  "gazaceasefireunravelsasregionalpressureonisraelgrows",
+  "ea1f8afec01ef671",
+  "iranisplayingfortimeasmidtermsloomfortrump"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 52
+  "count": 53
  },
- "last_run": "2026-08-07T14:25:16.288208+03:00",
+ "last_run": "2026-08-07T14:30:17.862183+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
