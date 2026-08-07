@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "cfa42a8e4ae0e605",
-  "dozensofiraniantankersidleasusblockaderestrictsexports",
   "03923a194568b357",
   "iraq",
   "248862a1ee776a36",
@@ -603,7 +601,9 @@
   "13ca47632be8cc08",
   "currentpriceofoilasofjuly282026",
   "f5ce7371b4ed2364",
-  "northernoilgasearningsinfocusafterpermianshutinsbyinvestingc"
+  "northernoilgasearningsinfocusafterpermianshutinsbyinvestingc",
+  "c510392aa4636cc4",
+  "crudeoilrosemetalsdomesticmarketoutperformedoverseasmarketlm"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 6
  },
- "last_run": "2026-08-07T03:35:11.589213+03:00",
+ "last_run": "2026-08-07T03:40:15.000902+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
