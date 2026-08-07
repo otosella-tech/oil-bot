@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "c59722d640df6d45",
-  "icecottonretreatsonprofitbookingweakercrudeoil",
   "785b3200f79ff0f4",
   "currentpriceofoilasofjuly272026",
   "88449f02a7abbeb6",
@@ -603,7 +601,9 @@
   "2f3e49673de90a65",
   "oilrisesonconcernsoverstraitofhormuzreopeningplans",
   "9571ac075ba0d987",
-  "indiancentralbanklikelyintervenestoshieldrupeefromoiljumptra"
+  "indiancentralbanklikelyintervenestoshieldrupeefromoiljumptra",
+  "eafeb2ce6a1f91ce",
+  "gulfoilexportssteadyinjulystill40belowprewarmark"
  ],
  "releases_done": {},
  "last_digest": "2026-08-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-08-07T06:55:12.610081+03:00",
+ "last_run": "2026-08-07T07:00:23.754547+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1136,6 +1136,10 @@
   {
    "d": "2026-08-07",
    "t": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Gulf oil exports steady in July, still 40% below pre-war mark - Reuters"
   }
  ]
 }
