@@ -4,10 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "1f6ec9263fa580f2",
-  "goldmansachssendssurprisingmessageonoilprices",
-  "0fd4fa43c6ed064f",
-  "oilpricesslidewhyairlinesretailandtransportcouldbenefitunite",
   "9f64fb09ecb8f921",
   "philippinescouldbecometheworldsfirstgeologichydrogenhub",
   "4e9e1a2a4f9048bb",
@@ -603,7 +599,11 @@
   "f89eacf2f206fce8",
   "uscrudeimportsfromsaudiarabiahitzeroinjulyoilbenchmarksheadf",
   "ef417e7e5592cb29",
-  "oilpricesfirmonconcernsoverstraitofhormuzplans"
+  "oilpricesfirmonconcernsoverstraitofhormuzplans",
+  "2e6099e801609f19",
+  "currentpriceofoilasofaugust72026",
+  "5a15101634bc9fcd",
+  "instantviewchinasjulycrudeoilandsoybeanimportsfallyearonyear"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 47
  },
- "last_run": "2026-08-07T13:05:16.260513+03:00",
+ "last_run": "2026-08-07T13:10:16.291951+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
