@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "c5cad09f791c5d7e",
-  "fromfrozenassetstoglobaloilshockhowussanctionsandiranshormuz",
   "e49bb07f28fa6c43",
   "bigoilcompaniescontinuetopostbannerprofitsasfightinginirandr",
   "45ac152752e8377d",
@@ -603,7 +601,9 @@
   "0288f97c3416bd11",
   "trumpteasedanirandealthatdidntcomebutmarketssoaredhereswhyit",
   "809b5284f156d6bd",
-  "worldsharesaremixedafterusstocksfallbackwhileoiledgeslowerab"
+  "worldsharesaremixedafterusstocksfallbackwhileoiledgeslowerab",
+  "a4c48dccfe013239",
+  "ussenatepassessweepingrussiaenergysanctionsnextstopushouse"
  ],
  "releases_done": {
   "2026-08-07|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T21:45:14.723220+03:00",
+ "last_run": "2026-08-07T21:50:22.052462+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1271,6 +1271,10 @@
   {
    "d": "2026-08-07",
    "t": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening - CNBC"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "US Senate passes sweeping Russia energy sanctions, next stop US House - Reuters"
   }
  ]
 }
