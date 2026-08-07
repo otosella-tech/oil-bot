@@ -4,10 +4,6 @@
   "Brent": 81.69
  },
  "seen": [
-  "692e7c3cbb9b3d78",
-  "aramcosaysusiranwarhascosttheglobalmarket26billionbarrelsofo",
-  "c1ea90519f68f9e5",
-  "scottbessentsendsstrongmessageonoilpriceandiran",
   "da07999cc7ada2af",
   "uscrudeoilinventoriesincreaseby25millionbarrels",
   "b30a7e6f93f94570",
@@ -603,7 +599,11 @@
   "40db0442546336fc",
   "forecastupdateforcrudeoil07082026",
   "2a376eb68b1213dd",
-  "oilpricevolatileashouthiattacksrenewsupplycrunchfears"
+  "oilpricevolatileashouthiattacksrenewsupplycrunchfears",
+  "f3ff60066397cdc9",
+  "allhandsondeckoilindustryralliestokeeptrumpfromstoppingexpor",
+  "c7672579623f5322",
+  "ischinaquietlyusingtheoilcardtopushirantowardsthenegotiating"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 54
+  "count": 55
  },
- "last_run": "2026-08-07T15:30:18.025154+03:00",
+ "last_run": "2026-08-07T15:35:13.571130+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
