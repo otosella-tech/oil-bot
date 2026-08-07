@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "a1f95aaa52d88be4",
-  "howtheuaehaskeptitsoilflowingthroughhormuz",
   "511d97871f16e866",
   "investorsturnbullishonwoncutshortbetsonasianfxoncheaperoil",
   "6cf7604c17935a31",
@@ -603,12 +601,15 @@
   "a2880f9860602f9e",
   "trumpsayshetookvenezuelasoilhereswhatactuallyhappened",
   "b1a7e987bdf4a85a",
-  "currentpriceofoilasofjuly292026"
+  "currentpriceofoilasofjuly292026",
+  "941e849ddb0d34fe",
+  "losangelesislitteredwiththousandsofoilwellshidinginfakebuild"
  ],
  "releases_done": {
   "2026-08-07|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
   "2026-08-07|ספירת אסדות קידוח (Baker Hughes)|post": 1,
-  "2026-08-07|דוח פוזיציות ספקולנטים (CFTC COT)|pre": 1
+  "2026-08-07|דוח פוזיציות ספקולנטים (CFTC COT)|pre": 1,
+  "2026-08-07|דוח פוזיציות ספקולנטים (CFTC COT)|post": 1
  },
  "last_digest": "2026-08-07",
  "digest_prices": {
@@ -619,7 +620,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T22:25:13.986726+03:00",
+ "last_run": "2026-08-07T22:30:18.579514+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
