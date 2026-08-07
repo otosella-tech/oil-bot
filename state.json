@@ -4,12 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "52fea4fbe2d33186",
-  "soybeanscornseemorepressurefromweathercrudeoil",
-  "96da23377c5fd702",
-  "whyareoilcompaniespostingrecordprofitsamidiranwardisruption",
-  "ed9f7841f3aa927e",
-  "wticrudeoiloutlookhasthemarketpricedthehormuzrecoverytoosoon",
   "a1f95aaa52d88be4",
   "howtheuaehaskeptitsoilflowingthroughhormuz",
   "511d97871f16e866",
@@ -603,7 +597,13 @@
   "f686048961c79eb4",
   "russiaslaborshortageworsensascentralasianworkersstayaway",
   "09105e2873e358c1",
-  "oilgainsonpendingiranomandealoverhormuz"
+  "oilgainsonpendingiranomandealoverhormuz",
+  "9b02063ab11a46c0",
+  "lowercrudeoilpricesdrivingdowncaliforniaaverage",
+  "a2880f9860602f9e",
+  "trumpsayshetookvenezuelasoilhereswhatactuallyhappened",
+  "b1a7e987bdf4a85a",
+  "currentpriceofoilasofjuly292026"
  ],
  "releases_done": {
   "2026-08-07|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T22:10:23.070884+03:00",
+ "last_run": "2026-08-07T22:15:16.716865+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
