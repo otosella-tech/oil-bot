@@ -4,12 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "25bd51b594c41220",
-  "aparaisesusoilforecastassecondquarteroutputbeatsguidance",
-  "a8634386f16f7635",
-  "usdieselexportshitrecordhighasdomesticstockpilesslide",
-  "a0c9921fdd9bad20",
-  "gulfoilexportssteadyinjulystill40belowprewarlevels",
   "060d4cc123cc1942",
   "sinopecboostsrussianoilpurchasesamidmiddleeastsupplyshortfal",
   "e74bb0403fa6fba4",
@@ -603,7 +597,13 @@
   "a169f2e1d24f3351",
   "indigenouspeoplesarekeyinthefightagainstclimatechangebutourv",
   "a2a42dd587a5a722",
-  "adnocreports15vesselattacksashormuzrisksmount"
+  "adnocreports15vesselattacksashormuzrisksmount",
+  "d588d81884369f92",
+  "indiafuelretailerssaye20petrolmeetsqualitystandards",
+  "11799178c5f2d384",
+  "crudeoilweeklyforecastgeopoliticalchaoskeepsmarkettrapped",
+  "6498c7755876a9d1",
+  "asiansharesaremixedafterusstocksfallbackwhileoilreboundsthed"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T18:55:20.653217+03:00",
+ "last_run": "2026-08-07T19:00:22.271321+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
