@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "bd5b4ea1bf1108be",
-  "ustotalcrudeoilstocksdeclineinweekendedjuly31",
   "8c322475de315349",
   "usonlyhas43dayemergencybufferofcrudeoilleftin45yearlow",
   "02d82418fb9310d8",
@@ -603,7 +601,9 @@
   "55ebe170a01e44f8",
   "uscrudeoilsupplieshit45yearlowamidiranconflict",
   "08328cf6a0b746ab",
-  "oilpricesup060826"
+  "oilpricesup060826",
+  "8668b99135290046",
+  "oilpricesjumpashouthiattacksraisesaudisupplyrisks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-08-07T08:40:15.326237+03:00",
+ "last_run": "2026-08-07T08:45:15.279052+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1156,6 +1156,10 @@
   {
    "d": "2026-08-07",
    "t": "Oil futures: Crude extends gains amid Strait of Hormuz deal impasse - qcintel.com"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks"
   }
  ]
 }
