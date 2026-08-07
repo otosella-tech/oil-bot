@@ -4,14 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "70de28f660db996b",
-  "oilpriceseaseonhormuzreopeninghopeseuronextmarketsreal",
-  "b704bc4d7efdac0b",
-  "ukpetrolpriceshithighestlevelsinceiranwarbegan",
-  "ab14750fbd77a9dd",
-  "iranwarshowschinasroleinsettingthepriceofoil",
-  "a47e145bc4bcf479",
-  "usstocksholdnearrecordsonhopesofanagreementwithiran",
   "83578e533bec42dd",
   "venezuelasoilproductiongrowsatacrucialtimedespitechallenges",
   "6384cca0c4909920",
@@ -603,7 +595,15 @@
   "dfe1d3a538020ad6",
   "chinamonthlycrudeimportsrebound",
   "4538f31c19391400",
-  "currentpriceofoilasofjuly302026"
+  "currentpriceofoilasofjuly302026",
+  "0a0dd6169c9dc6a1",
+  "dealornodealoilpricesremaininflux",
+  "b0a5e7d3abef44d9",
+  "trumpoffersinflatedfigureforusvenezuelanoilgains",
+  "1fbd45ece882de04",
+  "equinormechanicsattorneyontheverdictveryharsh",
+  "55ed7874c1b2efb8",
+  "stockmarketsdeclinedraggedbybankselevatedcrudeoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 49
  },
- "last_run": "2026-08-07T13:50:14.891335+03:00",
+ "last_run": "2026-08-07T13:55:19.826518+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
