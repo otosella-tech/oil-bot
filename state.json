@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "39b0ae17a7086681",
-  "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths",
   "5a5dfeb25460bdbf",
   "uscrudeoilstocksunexpectedlyriseeia",
   "857a2f225b6150ec",
@@ -603,7 +601,9 @@
   "d1547ac38547c1c1",
   "globalstockssteadyaheadofusjobsreportasoilrises",
   "7c2772da6c628bcf",
-  "worldsharesaremixedafterusstocksfallbackwhileoilrebounds"
+  "worldsharesaremixedafterusstocksfallbackwhileoilrebounds",
+  "c2498fc546c889da",
+  "oiltickshigherusfuturessteadyaheadofjobsreport"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 42
  },
- "last_run": "2026-08-07T11:35:12.981293+03:00",
+ "last_run": "2026-08-07T11:40:15.714014+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
