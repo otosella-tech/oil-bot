@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "88b0b6881864e50d",
-  "iraqsyriapipelinetobypasshormuzcouldberevivedwithin3years",
   "f958914ca47f6e04",
   "aramcosrecordprofitshideagrowingcashflowcrisis",
   "8ddf3047c53865f3",
@@ -603,7 +601,9 @@
   "736aa0a69090d2dd",
   "molreachesoiltransportagreementwithcroatiasjanaf",
   "2171735a50416cde",
-  "iranwartakesheavytollonaustralianewzealandasoilsoars"
+  "iranwartakesheavytollonaustralianewzealandasoilsoars",
+  "66a7579717bc5210",
+  "highestcrudeoilpricewtihistoricalchartnominalinflationadjust"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 35
  },
- "last_run": "2026-08-07T10:15:22.672638+03:00",
+ "last_run": "2026-08-07T10:20:14.222051+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
