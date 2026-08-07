@@ -4,10 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "185a326a789756a7",
-  "oilrecapoilpricesmixedashormuzreopeninghopesoffsetsurpriseus",
-  "19a25bbbb8d2a816",
-  "occidentalbeatssecondquarterestimatesonhigheroilpricesbyinve",
   "e5318508fdbf822d",
   "guyanaexpandscaribbeanenergypartnershipsasoilproductiongrows",
   "84dcfaf287b784f2",
@@ -603,7 +599,11 @@
   "3cf4de1e8253195c",
   "oilchoppyasinvestorsgaugehopesforstraitofhormuzreopeningbyin",
   "7eacde8a9c2c512b",
-  "venezuelasoilproductiongrowsatacrucialtimedespitechallenges"
+  "venezuelasoilproductiongrowsatacrucialtimedespitechallenges",
+  "e6dd58bdeea972ad",
+  "oilpricesdropasinvestorsweighpotentialhormuzdealbetweenirang",
+  "f7d2f5ab26a9195c",
+  "stocksmutedbeforeusjobsdatacrudeoilgainsmarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 51
+  "count": 52
  },
- "last_run": "2026-08-07T14:05:13.840419+03:00",
+ "last_run": "2026-08-07T14:10:16.368260+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
