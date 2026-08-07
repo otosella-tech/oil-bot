@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "ce60a8eac3f4cc97",
-  "ukraineattacksoneofrussiaslargestoilrefineriesfor2ndnightina",
   "25bd51b594c41220",
   "aparaisesusoilforecastassecondquarteroutputbeatsguidance",
   "a8634386f16f7635",
@@ -603,7 +601,9 @@
   "96495c31f1f7da52",
   "libyaaimstoboostoilproductionto2millionbpdbyearly2030s",
   "a169f2e1d24f3351",
-  "indigenouspeoplesarekeyinthefightagainstclimatechangebutourv"
+  "indigenouspeoplesarekeyinthefightagainstclimatechangebutourv",
+  "a2a42dd587a5a722",
+  "adnocreports15vesselattacksashormuzrisksmount"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T18:40:14.298724+03:00",
+ "last_run": "2026-08-07T18:45:21.986457+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1244,6 +1244,10 @@
   {
    "d": "2026-08-07",
    "t": "Libya Aims to Boost Oil Production to 2 Million Bpd by Early 2030s"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount"
   }
  ]
 }
