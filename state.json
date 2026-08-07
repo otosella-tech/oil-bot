@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "33ec01da20e79c99",
-  "oilpriceseaseonhormuzreopeninghopes",
   "dc7efaf2586ca80a",
   "eiauscrudeinventoriesup235millionbbl",
   "0866fe972983b793",
@@ -603,7 +601,9 @@
   "39b0891f360433c8",
   "howtheglobalrefiningcrisishasbrokenthecrudegaspricelink",
   "d785a85b94cee0c4",
-  "chinascrudeimportsbouncebackafterhistoricjuneslump"
+  "chinascrudeimportsbouncebackafterhistoricjuneslump",
+  "0e6dfef91ae8243a",
+  "oilextendsgainsandstocksmostlydownonfreshhormuzworries"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-08-07T11:20:17.833898+03:00",
+ "last_run": "2026-08-07T11:25:22.094425+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1184,6 +1184,10 @@
   {
    "d": "2026-08-07",
    "t": "Iran war ushers in oil refining golden era. It won’t last - Reuters"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Oil extends gains and stocks mostly down on fresh Hormuz worries - Bangkok Post"
   }
  ]
 }
