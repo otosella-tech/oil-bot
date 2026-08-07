@@ -4,8 +4,6 @@
   "Brent": 81.69
  },
  "seen": [
-  "de08434e2507ec31",
-  "europesheatwaveishittingrefineriesandpowersupplies",
   "479449be487829f3",
   "currentpriceofoilasofaugust32026",
   "a93c29b5ea4c774b",
@@ -603,7 +601,9 @@
   "aef46e960904aff4",
   "shippingthroughhormuzdropstensionsmountwheredooilpricesgo",
   "3ec1cee9c43c1d2d",
-  "asiansharesmixedafterusstocksfallbackwhileoilrebounds"
+  "asiansharesmixedafterusstocksfallbackwhileoilrebounds",
+  "6a2521cbbe8dad94",
+  "oilpricesdropasinvestorsweighpotentialhormuzdealbetweenirana"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 58
+  "count": 59
  },
- "last_run": "2026-08-07T15:50:15.601698+03:00",
+ "last_run": "2026-08-07T15:55:12.999359+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
