@@ -4,8 +4,6 @@
   "Brent": 81.69
  },
  "seen": [
-  "9a16a2c359219922",
-  "oilpricesslipasirancitesprogresswithomanonhormuzagreement",
   "ec5c8cc6593ed652",
   "syriansqueueforfuelasiraqioilflowspastthem",
   "1efecfc5fd98fb4b",
@@ -603,7 +601,9 @@
   "024f63895b2b7e29",
   "texaseconomicboomhowaioilandyallstreetarefuelinghistoricgrow",
   "66d42b8b26f770d6",
-  "opecrestores35mbpdbutexportrisksstilldriveoilrepricing"
+  "opecrestores35mbpdbutexportrisksstilldriveoilrepricing",
+  "a2b627f7c0a8b020",
+  "bravaenergiaexecutionoflongtermagreementforthepurchaseofoilp"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T16:50:14.215727+03:00",
+ "last_run": "2026-08-07T16:55:13.522495+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
