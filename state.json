@@ -4,8 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "8c322475de315349",
-  "usonlyhas43dayemergencybufferofcrudeoilleftin45yearlow",
   "02d82418fb9310d8",
   "fallingcrudeoilpricespulldownindiaspolyesterpcyarn",
   "47119c065c5ad994",
@@ -603,7 +601,9 @@
   "08328cf6a0b746ab",
   "oilpricesup060826",
   "8668b99135290046",
-  "oilpricesjumpashouthiattacksraisesaudisupplyrisks"
+  "oilpricesjumpashouthiattacksraisesaudisupplyrisks",
+  "7d73292c7b1aad8b",
+  "oilpricesbarreledhigheragainthursdayextendingtheirvolatileru"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 30
  },
- "last_run": "2026-08-07T09:05:12.391282+03:00",
+ "last_run": "2026-08-07T09:10:15.949102+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
