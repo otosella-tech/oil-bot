@@ -4,10 +4,6 @@
   "Brent": 81.69
  },
  "seen": [
-  "ec5c8cc6593ed652",
-  "syriansqueueforfuelasiraqioilflowspastthem",
-  "1efecfc5fd98fb4b",
-  "indonesianoilgasindustrycontinuesexpansiondriveamidstinvestm",
   "4dcb1723f14bcd72",
   "oilfuturescrudedriftsasdealtoreopenstraitofhormuzeyed",
   "743e9a4e90f29aef",
@@ -603,7 +599,11 @@
   "66d42b8b26f770d6",
   "opecrestores35mbpdbutexportrisksstilldriveoilrepricing",
   "a2b627f7c0a8b020",
-  "bravaenergiaexecutionoflongtermagreementforthepurchaseofoilp"
+  "bravaenergiaexecutionoflongtermagreementforthepurchaseofoilp",
+  "00a33d60b0904074",
+  "ukrainefacesagrowingairdefensecrisisaspatriotsuppliesdwindle",
+  "965a85c2016fb3aa",
+  "indiaspipelineplantobypassstraitofhormuzfacesmajorheadachess"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-07",
   "count": 60
  },
- "last_run": "2026-08-07T16:55:13.522495+03:00",
+ "last_run": "2026-08-07T17:00:25.584194+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-08-07",
    "t": "OPEC+ Restores 3.5M bpd, but Export Risks Still Drive Oil Repricing - Crux Investor"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "India's pipeline plan to bypass Strait of Hormuz faces major headaches, says broker - Upstream Online"
   }
  ]
 }
