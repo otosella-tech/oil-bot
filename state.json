@@ -4,10 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "0f8bdeb54d426c5b",
-  "stockshovernearrecordhighsandoilpricesstabilizewithtalkofade",
-  "95f5fbbe757b67c5",
-  "opa90anddeepwaterhorizonalawthatworkedbetterthananyonecouldh",
   "f172feaf8a3c461b",
   "hormuzcrisisisrewritingthegloballpgtrade",
   "aa1a14ae4ca1c12c",
@@ -603,7 +599,11 @@
   "c72a72fc5b0e7d56",
   "nationalaveragegaspricefallsto406ascrudeoilpriceseaseaaasays",
   "e381c8bd268b861e",
-  "oilrelatedmaterialsclaimsexposurevariesbroadlyacrossus"
+  "oilrelatedmaterialsclaimsexposurevariesbroadlyacrossus",
+  "42186511f25dff5c",
+  "shippingthroughhormuzdropssharplyastensionsrise",
+  "3051fbdbd1ad8f94",
+  "currentpriceofoilasofaug72026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-08-07T12:25:17.841764+03:00",
+ "last_run": "2026-08-07T12:30:18.250986+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1192,6 +1192,10 @@
   {
    "d": "2026-08-07",
    "t": "Saudis cut key oil price again as Hormuz talks progress - Transport Topics"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Shipping Through Hormuz Drops Sharply as Tensions Rise"
   }
  ]
 }
