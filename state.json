@@ -4,10 +4,6 @@
   "Brent": 83.41
  },
  "seen": [
-  "02d82418fb9310d8",
-  "fallingcrudeoilpricespulldownindiaspolyesterpcyarn",
-  "47119c065c5ad994",
-  "bpsnewbosshasamessageforbritain",
   "068e7299f8b075ec",
   "oilpricesfallonnegotiationstomanageshiptrafficinstraitofhorm",
   "efb7e8184cb8644e",
@@ -603,7 +599,11 @@
   "8668b99135290046",
   "oilpricesjumpashouthiattacksraisesaudisupplyrisks",
   "7d73292c7b1aad8b",
-  "oilpricesbarreledhigheragainthursdayextendingtheirvolatileru"
+  "oilpricesbarreledhigheragainthursdayextendingtheirvolatileru",
+  "3671826a76e0eb4d",
+  "hormuzclosurecloudschinascrudeimportsaftertheyhita3monthhigh",
+  "d70d3944e5386a2d",
+  "omantacklesoilspillfromsanctionedtankerhitbyukrainiansaboteu"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-07",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-08-07T09:15:16.870259+03:00",
+ "last_run": "2026-08-07T09:20:15.513810+03:00",
  "sent_stories": [
   {
    "d": "2026-08-04",
@@ -1160,6 +1160,14 @@
   {
    "d": "2026-08-07",
    "t": "Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Hormuz closure clouds China's crude imports after they hit a 3-month high in July - CNBC"
+  },
+  {
+   "d": "2026-08-07",
+   "t": "Oman tackles oil spill from sanctioned tanker hit by Ukrainian saboteurs - TradeWinds News"
   }
  ]
 }
