@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "b2f0b97dbb0aac49",
-  "mexicobansfrackinginkeyshalebasin",
-  "eedc735ec6f3e427",
-  "thismegaprojectcouldkeepbrazilsoilboomrunningdeepintothe2030",
   "9da3fc95b75e24e0",
   "aramcodeepensasiaoildiscountaheadofpossiblehormuzdeal",
   "3ef7dbbbafca5952",
@@ -603,7 +599,11 @@
   "7fecb7803051b46a",
   "ukrainesmilitaryhitsoneofrussiasbiggestoilrefineriesinlongra",
   "848f1243fa7405ad",
-  "opiniontrumpwantstobetheoilmaninchiefitscostinghimathome"
+  "opiniontrumpwantstobetheoilmaninchiefitscostinghimathome",
+  "3413f4be13eef5bf",
+  "uscrudeoilpricesincrease058asgeopoliticaluncertaintyliftsmar",
+  "bbe6d8ed83d65184",
+  "abudhabinationaloilcompanysaysitsvesselhitbymissileinstraito"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-08-09T01:05:14.968606+03:00",
+ "last_run": "2026-08-09T01:10:16.165880+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
@@ -896,6 +896,10 @@
   {
    "d": "2026-08-09",
    "t": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack - CNBC"
+  },
+  {
+   "d": "2026-08-09",
+   "t": "Abu Dhabi National Oil Company says its vessel hit by missile in Strait of Hormuz - Anadolu Ajansı"
   }
  ]
 }
