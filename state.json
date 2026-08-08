@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "e2a6035b8fce67bb",
-  "americanspaythepricefortrumpswarwhileoilandgascompaniesgetri",
   "be652e56a5e3cc3d",
   "saudicrudeoilshipmentstousplungetozero",
   "592e2e08c5401073",
@@ -603,7 +601,9 @@
   "0c45c08d72102d35",
   "oilpricesjumpafteriranpublishesrestrictivedraftplanforstrait",
   "5dbc52c388181abb",
-  "ussanctionsonrussianoilcouldhurtamericamorethanindiaexpertsa"
+  "ussanctionsonrussianoilcouldhurtamericamorethanindiaexpertsa",
+  "8139b8829bb6aa3c",
+  "lowercrudeoilpricesdrivingdownnationalaverage"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-09",
   "count": 9
  },
- "last_run": "2026-08-09T01:35:10.857704+03:00",
+ "last_run": "2026-08-09T01:40:13.989351+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
