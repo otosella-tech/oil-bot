@@ -4,14 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "09ba0e0c507cad5d",
-  "usoilproductinventoriescontinuetofall",
-  "871be3912e83260d",
-  "crudeoilgainsasiranplanstobanusisraelishipsfromhormuztransit",
-  "876721edc41ef1b1",
-  "brentcrudeoilpricetestsitsema50resistanceanalysis07082026",
-  "0a67160539cb617e",
-  "crudeoilpriceholdsacautiousseriesofgainsanalysis07082026",
   "7819475d86497105",
   "oilpricessurgeto100perbarrelafterredseaattacks",
   "5794b964cfa99524",
@@ -603,7 +595,15 @@
   "8895ea7ecc02fbbc",
   "oilpriceforecastwhyoilcouldstillsnapbackhigher",
   "1cbe8b66b1c59710",
-  "iraqoilexportsplungeonstraitofhormuzclosure"
+  "iraqoilexportsplungeonstraitofhormuzclosure",
+  "9973f31d19957e58",
+  "sprcrudeoilacquisitionprocedures",
+  "785b3200f79ff0f4",
+  "currentpriceofoilasofjuly272026",
+  "b4b4ebc9d66f5c5d",
+  "currentpriceofoilasofjuly212026",
+  "e5b74c132c4bf0fe",
+  "pakistantopartnerwithsaudiarabiakuwaitqataronoilstorageschem"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -615,7 +615,7 @@
   "date": "2026-08-09",
   "count": 52
  },
- "last_run": "2026-08-09T19:05:14.076347+03:00",
+ "last_run": "2026-08-09T19:10:21.924430+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
