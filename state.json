@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "314dd8a86b0d4835",
-  "crudeoilsuppliesat45yearlow",
   "41ea4551be73c492",
   "palmoilslipsbutrisingcrudeoillimitsthedamage",
   "cb206ad9ac30b5e3",
@@ -603,7 +601,9 @@
   "f5bb01ac0877894d",
   "currentpriceofoilasofjuly312026",
   "4baf2649c4aa249a",
-  "chinasfirst100bcmbohaigasfieldphaseifullyonlinewithdailyoutp"
+  "chinasfirst100bcmbohaigasfieldphaseifullyonlinewithdailyoutp",
+  "1975312261c3a653",
+  "sanctionedtankeroffcoastofomansubmergesfurther"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-08-09T16:15:22.579047+03:00",
+ "last_run": "2026-08-09T16:20:14.556165+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
@@ -928,6 +928,10 @@
   {
    "d": "2026-08-09",
    "t": "Houthis claim attacks on Saudi Arabian oil facility and Yemeni port, and other Mideast news - The News-Item"
+  },
+  {
+   "d": "2026-08-09",
+   "t": "Sanctioned tanker off coast of Oman submerges further - arkansasonline.com"
   }
  ]
 }
