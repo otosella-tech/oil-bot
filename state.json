@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "0173cbda128fdda1",
-  "posthastechinahelpedsavetheworldfromanevenworseoilpriceshock",
   "2b84c99923924d00",
   "usequityindexesfallastreasuryyieldsjumpwithcrudeoilaheadofno",
   "327ef6a84fe0b513",
@@ -603,7 +601,9 @@
   "eb1c0d56cce4a418",
   "yemenshouthisclaimattackonaramcooilfacilityinsaudiarabiaando",
   "5b9647cd38d3f9d1",
-  "sanctionedtankeroffcoastofomansubmergesfurtherthearkansasdem"
+  "sanctionedtankeroffcoastofomansubmergesfurtherthearkansasdem",
+  "8398244f218561e4",
+  "thefirstmajortestofopecafteruaesexit"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-08-09T10:45:23.397123+03:00",
+ "last_run": "2026-08-09T10:50:15.768488+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
@@ -916,6 +916,10 @@
   {
    "d": "2026-08-09",
    "t": "Sanctioned tanker off coast of Oman submerges further - The Arkansas Democrat-Gazette"
+  },
+  {
+   "d": "2026-08-09",
+   "t": "The First Major Test of OPEC+ After UAE’s Exit - Modern Diplomacy"
   }
  ]
 }
