@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "1a6d0e2dc43ddb79",
-  "oilriseswithmarketstillwaitingforstraitofhormuzdeal",
   "32df026714a4fb73",
   "gaspricescouldremainhighthisfallevenifcrudepricesstabilizehe",
   "dc9416f58b5f7f76",
@@ -603,7 +601,9 @@
   "9caf231632ea6155",
   "stockstumbleasaispendingandoilpricesweighonmarket",
   "32364ef181bd3c9f",
-  "thesestationshavethecheapestnonclubgasinchandlerthisweek"
+  "thesestationshavethecheapestnonclubgasinchandlerthisweek",
+  "eefb3b3a94fe4a77",
+  "whyoilpriceshaventgonecrazydespite5monthsofusiranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 12
+  "count": 13
  },
- "last_run": "2026-08-09T04:50:12.971410+03:00",
+ "last_run": "2026-08-09T04:55:12.766646+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
