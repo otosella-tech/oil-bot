@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "8e152a5530ea1cce",
-  "ankarabaghdadsignoneyearcrudeoiltransportdealtoboostpipeline",
   "bee760ab99bcc9cf",
   "conocophillipsceoryanlancedepartsasoilproducerpostsbestprofi",
   "74419c1bda82daa0",
@@ -603,7 +601,9 @@
   "452494596c1c7071",
   "crudeoilpriceanalysiswtibounceswaitingformiddleeastheadlines",
   "046c4edd7f246233",
-  "stocksdriftonwallstreetandcrudeoilpricesdropasmideasttension"
+  "stocksdriftonwallstreetandcrudeoilpricesdropasmideasttension",
+  "71cde13fd17f3950",
+  "kazakhstanresumescpccrudeoilexportsafterblackseaterminalreop"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-08-09T07:35:19.984832+03:00",
+ "last_run": "2026-08-09T07:40:13.889876+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
@@ -908,6 +908,10 @@
   {
    "d": "2026-08-09",
    "t": "Physical oil prices jump with some nearing $110 as Iran, Ukraine wars hit supply - reuters.com"
+  },
+  {
+   "d": "2026-08-09",
+   "t": "Kazakhstan resumes CPC crude oil exports after Black Sea terminal reopens following drone strike shutdown - Energies Media"
   }
  ]
 }
