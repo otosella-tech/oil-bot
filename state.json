@@ -606,16 +606,16 @@
   "kazakhstanresumescpccrudeoilexportsafterblackseaterminalreop"
  ],
  "releases_done": {},
- "last_digest": "2026-08-07",
+ "last_digest": "2026-08-09",
  "digest_prices": {
-  "WTI": 78.38,
-  "Brent": 83.87
+  "WTI": 78.18,
+  "Brent": 83.55
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 20
+  "count": 26
  },
- "last_run": "2026-08-09T07:55:13.140515+03:00",
+ "last_run": "2026-08-09T08:00:20.390655+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
