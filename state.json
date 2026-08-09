@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "eb596fb7171bb8d9",
-  "aaalowercrudeoilpricesdrivingdowngaspriceaverage",
   "1a6d0e2dc43ddb79",
   "oilriseswithmarketstillwaitingforstraitofhormuzdeal",
   "32df026714a4fb73",
@@ -603,7 +601,9 @@
   "240a4dcf2780d7eb",
   "missilestrikeonuaeoiltankersparksfreshhormuztensionsasqatare",
   "9caf231632ea6155",
-  "stockstumbleasaispendingandoilpricesweighonmarket"
+  "stockstumbleasaispendingandoilpricesweighonmarket",
+  "32364ef181bd3c9f",
+  "thesestationshavethecheapestnonclubgasinchandlerthisweek"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-09",
   "count": 12
  },
- "last_run": "2026-08-09T04:35:20.389029+03:00",
+ "last_run": "2026-08-09T04:40:13.634309+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
