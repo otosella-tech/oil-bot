@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "5794b964cfa99524",
-  "vesseltrafficthroughhormuzdwindlesthisweekasmarketswatchiran",
   "f6e3c3030876fe26",
   "chinascrudeoilpurchasesreboundinjulyfromneardecadelow",
   "619310dad8670046",
@@ -603,7 +601,9 @@
   "e5b74c132c4bf0fe",
   "pakistantopartnerwithsaudiarabiakuwaitqataronoilstorageschem",
   "e09fc425ca104e43",
-  "howchinabecametheworldsgreatoilpower"
+  "howchinabecametheworldsgreatoilpower",
+  "a91d2ec369e569b4",
+  "oilpricessurgeto100perbarrelafterredseaattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 52
+  "count": 53
  },
- "last_run": "2026-08-09T19:30:20.334941+03:00",
+ "last_run": "2026-08-09T19:35:11.903898+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
