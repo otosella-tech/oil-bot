@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "ad7b2246064dd1fe",
-  "loweroilpriceslendsupportforthegoldrally",
   "987d3b2fd46f6dbb",
   "uscrudeoiloutputfellinmaywhileexportshitrecordeiasays",
   "c30fd8c24de9d521",
@@ -603,7 +601,9 @@
   "cbd2d65ef00ba94d",
   "vaalcoenergyreports30increaseinegyptoilsalesinq2of2026egypto",
   "029dbc23fdb11b3a",
-  "oilpricesjumpfollowingthelatestfightinginthemiddleeastwhilea"
+  "oilpricesjumpfollowingthelatestfightinginthemiddleeastwhilea",
+  "472f7e6cb0bfb4d0",
+  "refinedfuelsnotcrudearedrivingtheoilmarketcrunch"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -615,7 +615,7 @@
   "date": "2026-08-09",
   "count": 40
  },
- "last_run": "2026-08-09T14:30:18.849710+03:00",
+ "last_run": "2026-08-09T14:35:13.138410+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
