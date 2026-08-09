@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "06a85079bc1e4d95",
-  "uscrudeoilinventoriespostweeklyincrease",
   "55ebe170a01e44f8",
   "uscrudeoilsupplieshit45yearlowamidiranconflict",
   "08328cf6a0b746ab",
@@ -603,7 +601,9 @@
   "c65788d4f58f7f13",
   "europesnextenergycrisiswontbeawaritllbepeakoil",
   "eca98764d780d51f",
-  "crudeoilweeklyoutlookhormuzriskskeylevelstowatch"
+  "crudeoilweeklyoutlookhormuzriskskeylevelstowatch",
+  "0788d30d76379c64",
+  "ltwinsepccontractfromkuwaitoilcompanytobuildsixcrudeoilstora"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -615,7 +615,7 @@
   "date": "2026-08-09",
   "count": 54
  },
- "last_run": "2026-08-09T20:15:14.549771+03:00",
+ "last_run": "2026-08-09T20:17:36.816946+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
