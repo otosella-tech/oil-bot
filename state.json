@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "f5bb01ac0877894d",
-  "currentpriceofoilasofjuly312026",
   "80c82cb22c907f25",
   "stocksedgelowerasoilpricesriseandmoreearningsreportsrollin",
   "720f958b3b31c7d5",
@@ -603,7 +601,9 @@
   "97a8715919d94f59",
   "currentpriceofoilasofjuly132026",
   "7033f6ed5eefd5df",
-  "yemenshouthisattacksaudirefineryafterkingdomsignsdefencepact"
+  "yemenshouthisattacksaudirefineryafterkingdomsignsdefencepact",
+  "3b419bb53986aed5",
+  "murphyoilseessharpprofitincrease"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -615,7 +615,7 @@
   "date": "2026-08-09",
   "count": 39
  },
- "last_run": "2026-08-09T14:10:15.707475+03:00",
+ "last_run": "2026-08-09T14:15:15.903409+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
