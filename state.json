@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "8f7b81fa9b920b32",
-  "stocksedgelowerasoilpricesriseandmoreearningsreportsrollinpo",
-  "c1a3451937d6c2bb",
-  "ukdriverstaketofueltheftamidwardrivenpricesurge",
   "0a17843e2b6e77f0",
   "petrobraspoststhirdhighestprofitasmiddleeastconflictliftsoil",
   "03f8ac523ef7e895",
@@ -603,7 +599,11 @@
   "47b423021de48a0e",
   "usequitymarketsendhigherascrudeoilfallsonusiransnewroundofta",
   "4fb4311da95f1fab",
-  "majoroilandgasfoundoffpolandgermanyfearsfornature"
+  "majoroilandgasfoundoffpolandgermanyfearsfornature",
+  "a8c5d4e28c291d49",
+  "yemenshouthisclaimresponsibilityforattackonsaudioilrefinery",
+  "b1dddd307e11611b",
+  "usequityindexesdeclinecrudeoilrisesinmiddaytrading"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 40
+  "count": 41
  },
- "last_run": "2026-08-09T15:30:17.628107+03:00",
+ "last_run": "2026-08-09T15:35:12.529809+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
