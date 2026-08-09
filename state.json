@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "3abb06188618d38e",
-  "indianrupeerecoveryhangsinbalanceonreturnofoilrisksbeforeusj",
   "314dd8a86b0d4835",
   "crudeoilsuppliesat45yearlow",
   "41ea4551be73c492",
@@ -603,7 +601,9 @@
   "02b110e52ad1387b",
   "houthisclaimattacksonsaudiarabianoilfacilityandyemeniportand",
   "f5bb01ac0877894d",
-  "currentpriceofoilasofjuly312026"
+  "currentpriceofoilasofjuly312026",
+  "4baf2649c4aa249a",
+  "chinasfirst100bcmbohaigasfieldphaseifullyonlinewithdailyoutp"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -615,7 +615,7 @@
   "date": "2026-08-09",
   "count": 43
  },
- "last_run": "2026-08-09T16:10:13.479660+03:00",
+ "last_run": "2026-08-09T16:15:22.579047+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
