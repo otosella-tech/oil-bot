@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "6e911dd1da532f7f",
-  "usupstreammadeclinesinq2butpermiandemandremainsrobust",
   "a50d8b281bcafcba",
   "usequitymarketsendloweraftercrudeoilpricesgovernmentbondyiel",
   "4fa9e6d8d82c50bb",
@@ -603,7 +601,9 @@
   "8b4e94db07643400",
   "magnoliaoilgasq2earningscallhighlights",
   "4b478279fdf016cc",
-  "marketsnextweekinflationdataopecreportbigearnings"
+  "marketsnextweekinflationdataopecreportbigearnings",
+  "232654256aec79b9",
+  "houthissaytheyattackedsaudiaramcosrefineryinjazannoinjuriesr"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 26
+  "count": 27
  },
- "last_run": "2026-08-09T10:00:21.930078+03:00",
+ "last_run": "2026-08-09T10:05:12.821194+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
