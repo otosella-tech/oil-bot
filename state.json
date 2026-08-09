@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "32df026714a4fb73",
-  "gaspricescouldremainhighthisfallevenifcrudepricesstabilizehe",
   "dc9416f58b5f7f76",
   "europesnextenergysecuritychallengeterminaloilproductiondecli",
   "1e8dc3ff8fd5ba6b",
@@ -603,7 +601,9 @@
   "32364ef181bd3c9f",
   "thesestationshavethecheapestnonclubgasinchandlerthisweek",
   "eefb3b3a94fe4a77",
-  "whyoilpriceshaventgonecrazydespite5monthsofusiranwar"
+  "whyoilpriceshaventgonecrazydespite5monthsofusiranwar",
+  "885f426d4f1bed10",
+  "cubaislowonoilnowitscountingonsolarwithchinashelp"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -615,7 +615,7 @@
   "date": "2026-08-09",
   "count": 13
  },
- "last_run": "2026-08-09T05:30:18.645424+03:00",
+ "last_run": "2026-08-09T05:35:14.583316+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
