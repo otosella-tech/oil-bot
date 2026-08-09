@@ -4,12 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "ed5665278625a989",
-  "volatileoilpricesdeliverwindfalltoenergyproducingstates",
-  "ed725d6085cc7497",
-  "aikenomicsoilsretreatgivesmortgageratesarespite",
-  "5592903aaa2946c5",
-  "oilpricesincreaseamiduncertaintyoveriranwar",
   "b801201afca1cb4e",
   "crudeoilpriceforecastreversaltestskeysupport",
   "faec756d2fed710f",
@@ -603,7 +597,13 @@
   "0044dafd1695b689",
   "yoursundayaug4guidefourthingstodointheoilcity",
   "1c45f33710fcabc8",
-  "physicaloilpricesjumpwithsomenearing110asiranukrainewarshits"
+  "physicaloilpricesjumpwithsomenearing110asiranukrainewarshits",
+  "f41efd874975b461",
+  "canapaapajustifyitsvaluationafterearningsbeatandhigheroilgui",
+  "3888f07aec9d0ad9",
+  "lettersnowisthetimetoaskquestionsabouttherobertsbankoilexpor",
+  "ce41222d6965a0c9",
+  "fleetof56tankersshippingoilthroughhormuzcovertlytrackingfirm"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 16
+  "count": 17
  },
- "last_run": "2026-08-09T07:00:22.006580+03:00",
+ "last_run": "2026-08-09T07:05:12.828868+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
