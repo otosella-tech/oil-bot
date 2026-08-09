@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "bee48abae364c9e8",
-  "usequityindexesmixedaschipmakershelplifttechnologywhilecrude",
   "0173cbda128fdda1",
   "posthastechinahelpedsavetheworldfromanevenworseoilpriceshock",
   "2b84c99923924d00",
@@ -603,7 +601,9 @@
   "89f2f50ee34a728a",
   "ussettoimportmostmiddleeastcrudesinceiranwarbegan",
   "eb1c0d56cce4a418",
-  "yemenshouthisclaimattackonaramcooilfacilityinsaudiarabiaando"
+  "yemenshouthisclaimattackonaramcooilfacilityinsaudiarabiaando",
+  "5b9647cd38d3f9d1",
+  "sanctionedtankeroffcoastofomansubmergesfurtherthearkansasdem"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-08-09T10:40:14.628755+03:00",
+ "last_run": "2026-08-09T10:45:23.397123+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
@@ -912,6 +912,10 @@
   {
    "d": "2026-08-09",
    "t": "Kazakhstan resumes CPC crude oil exports after Black Sea terminal reopens following drone strike shutdown - Energies Media"
+  },
+  {
+   "d": "2026-08-09",
+   "t": "Sanctioned tanker off coast of Oman submerges further - The Arkansas Democrat-Gazette"
   }
  ]
 }
