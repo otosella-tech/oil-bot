@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "b3280c0b9e042c52",
-  "oilsettlesup3asiranreviewsbilltobanusisraelivesselsfromhormu",
   "8618e8791cb925a5",
   "bigoilisnotupforanotherexportban",
   "6d442a0ec6e7781c",
@@ -603,7 +601,9 @@
   "da1c455ea251dd0d",
   "unwarnsofrisingfoodpricesduetoclimatechangeandenergypricehik",
   "b6f0a2c903d4945d",
-  "iransgripontradeisapotentweaponbutithasanexpirydate"
+  "iransgripontradeisapotentweaponbutithasanexpirydate",
+  "7bdd22d2d71cb18a",
+  "hormuztalkspositiveomansaysasiranwarnsdealwouldnotopenstrait"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 10
+  "count": 11
  },
- "last_run": "2026-08-09T03:05:13.322161+03:00",
+ "last_run": "2026-08-09T03:10:14.248696+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
