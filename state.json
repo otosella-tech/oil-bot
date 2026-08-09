@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "a826e725dd510c20",
-  "crudeoilrisesmetalsdomesticmarketoutperformsoverseasmarketlm",
   "018346323dbd4c59",
   "currentpriceofoilasofjuly222026",
   "736aa0a69090d2dd",
@@ -603,7 +601,9 @@
   "90d75ff08b91a70e",
   "wreckedtankercontinuesuncontrolledoildischargeoffoman",
   "e57a189b39132d47",
-  "opiniontrumpsvenezuelanoilboomsputters"
+  "opiniontrumpsvenezuelanoilboomsputters",
+  "e74493fe71be8ca1",
+  "iraqoilexportsplungeonstraitofhormuzclosuregulf"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 56
+  "count": 57
  },
- "last_run": "2026-08-09T23:50:15.643795+03:00",
+ "last_run": "2026-08-09T23:55:12.241171+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
