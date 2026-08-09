@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "327ef6a84fe0b513",
-  "trumpmaygetabignewtariffauthority",
   "6c4dddbf3678667f",
   "usequityindexesdeclinecrudeoilrisesinmiddaytrading",
   "54d362c054eacdce",
@@ -603,7 +601,9 @@
   "8398244f218561e4",
   "thefirstmajortestofopecafteruaesexit",
   "c914729cd0c48881",
-  "fireextinguishedataramcorefineryinjazansaudiarabiasays"
+  "fireextinguishedataramcorefineryinjazansaudiarabiasays",
+  "28c2131b94a20515",
+  "yemenshouthissaytheyattackedsaudiaramcojazanrefineryfireexti"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-08-09T10:55:12.231474+03:00",
+ "last_run": "2026-08-09T10:57:08.524890+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
@@ -920,6 +920,10 @@
   {
    "d": "2026-08-09",
    "t": "The First Major Test of OPEC+ After UAE’s Exit - Modern Diplomacy"
+  },
+  {
+   "d": "2026-08-09",
+   "t": "Yemen's Houthis say they attacked Saudi Aramco Jazan refinery, fire extinguished - Reuters"
   }
  ]
 }
