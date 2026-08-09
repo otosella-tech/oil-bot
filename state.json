@@ -4,12 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "720f958b3b31c7d5",
-  "uktargetsarcticlngcarrierfiveoiltankersinlatestrussiasanctio",
-  "58d165fcad903cb4",
-  "usstocksedgelowerasoilpricesriseandmoreearningsreportsrollin",
-  "18de6d756d5db694",
-  "oilrisesamidsupplydisruptionconcerns",
   "ad7b2246064dd1fe",
   "loweroilpriceslendsupportforthegoldrally",
   "987d3b2fd46f6dbb",
@@ -603,7 +597,13 @@
   "3b419bb53986aed5",
   "murphyoilseessharpprofitincrease",
   "3a87d069094a636a",
-  "currentpriceofoilasofjuly162026"
+  "currentpriceofoilasofjuly162026",
+  "3d203c88df8e04c8",
+  "ussettoimportmostmiddleeastcrudesinceiranwarbeganegyptoil",
+  "cbd2d65ef00ba94d",
+  "vaalcoenergyreports30increaseinegyptoilsalesinq2of2026egypto",
+  "029dbc23fdb11b3a",
+  "oilpricesjumpfollowingthelatestfightinginthemiddleeastwhilea"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 39
+  "count": 40
  },
- "last_run": "2026-08-09T14:25:16.901743+03:00",
+ "last_run": "2026-08-09T14:30:18.849710+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
