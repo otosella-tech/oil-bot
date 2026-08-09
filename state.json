@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "619310dad8670046",
-  "oilfuturescrudeextendsgainsamidstraitofhormuzdealimpasse",
   "06a85079bc1e4d95",
   "uscrudeoilinventoriespostweeklyincrease",
   "55ebe170a01e44f8",
@@ -603,7 +601,9 @@
   "a91d2ec369e569b4",
   "oilpricessurgeto100perbarrelafterredseaattacks",
   "c65788d4f58f7f13",
-  "europesnextenergycrisiswontbeawaritllbepeakoil"
+  "europesnextenergycrisiswontbeawaritllbepeakoil",
+  "eca98764d780d51f",
+  "crudeoilweeklyoutlookhormuzriskskeylevelstowatch"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -615,7 +615,7 @@
   "date": "2026-08-09",
   "count": 54
  },
- "last_run": "2026-08-09T20:00:21.163905+03:00",
+ "last_run": "2026-08-09T20:05:12.409298+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
