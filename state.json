@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "8668b99135290046",
-  "oilpricesjumpashouthiattacksraisesaudisupplyrisks",
-  "7d73292c7b1aad8b",
-  "oilpricesbarreledhigheragainthursdayextendingtheirvolatileru",
   "3671826a76e0eb4d",
   "hormuzclosurecloudschinascrudeimportsaftertheyhita3monthhigh",
   "d70d3944e5386a2d",
@@ -603,7 +599,11 @@
   "06a85079bc1e4d95",
   "uscrudeoilinventoriespostweeklyincrease",
   "155ceb89d0b81db3",
-  "sandridgeenergyq2earningscallhighlights"
+  "sandridgeenergyq2earningscallhighlights",
+  "5a6888e36311db97",
+  "greenlandwarnstrumplinkedoilcompanynottodrillwithoutpermissi",
+  "f4edf98c4426fc90",
+  "crudeoilwestasiadevelopmentsinflationdatatodictatemarkettren"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -615,7 +615,7 @@
   "date": "2026-08-09",
   "count": 54
  },
- "last_run": "2026-08-09T20:25:12.729966+03:00",
+ "last_run": "2026-08-09T20:30:19.006177+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
