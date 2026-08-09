@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "54d362c054eacdce",
-  "conocophillipsq22026earningsbeatestimatesonhigheroilprices",
   "5ac423cfb9e4118e",
   "gulfoilexportsremainstablebelowpreviouslevel",
   "52c5da147aaa3520",
@@ -603,7 +601,9 @@
   "28c2131b94a20515",
   "yemenshouthissaytheyattackedsaudiaramcojazanrefineryfireexti",
   "dc8c9616ff1976da",
-  "vaalcoenergyreports30increaseinegyptoilsalesinq2of2026"
+  "vaalcoenergyreports30increaseinegyptoilsalesinq2of2026",
+  "7b4d708f80f2b87e",
+  "freshhouthistrikeofjazanrefineryaddstopressureonsaudioilinfr"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 36
+  "count": 37
  },
- "last_run": "2026-08-09T11:40:13.393791+03:00",
+ "last_run": "2026-08-09T11:45:17.091411+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
