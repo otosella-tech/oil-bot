@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "faec756d2fed710f",
-  "ukrainesaysithit2russianoilrefineriesovernight",
-  "6a03662bab254c08",
-  "stocksedgelowerasoilpricesriseandmoreearningsreportsrollinpi",
   "dfa48dcc6fd7dba3",
   "oilfuturescrudeclimbshigherasdealtoreopenhormuzstalls",
   "c55471d441bc73fa",
@@ -603,7 +599,11 @@
   "ce41222d6965a0c9",
   "fleetof56tankersshippingoilthroughhormuzcovertlytrackingfirm",
   "5b15bb26190b1715",
-  "volatileoilpricesdeliverwindfalltoenergyproducingstates"
+  "volatileoilpricesdeliverwindfalltoenergyproducingstates",
+  "b801201afca1cb4e",
+  "crudeoilpriceforecastreversaltestskeysupport",
+  "10f9f73c928cf67b",
+  "wtiandbrentcrudearenowreadingthestraitofhormuzdifferently"
  ],
  "releases_done": {},
  "last_digest": "2026-08-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-09",
-  "count": 17
+  "count": 18
  },
- "last_run": "2026-08-09T07:10:14.722412+03:00",
+ "last_run": "2026-08-09T07:15:14.479497+03:00",
  "sent_stories": [
   {
    "d": "2026-08-06",
