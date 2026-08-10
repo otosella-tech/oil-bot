@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "c50af5e3aae5a7b3",
-  "oildispersantsreshapearcticseaicemicrobesbutdonotmarkedlyacc",
-  "101162cf2ef2792d",
-  "citiliftsbrentoutlookbutstillseesoilfallingin2027",
   "0288f97c3416bd11",
   "trumpteasedanirandealthatdidntcomebutmarketssoaredhereswhyit",
   "809b5284f156d6bd",
@@ -603,7 +599,11 @@
   "7c94226875814c9a",
   "july2026monthlyanalysisofrussianfossilfuelexportsandsanction",
   "315b08d8b584becb",
-  "crudeoilpricesmixedasusirannegotiateindirectly"
+  "crudeoilpricesmixedasusirannegotiateindirectly",
+  "27a6314dd9346499",
+  "ukrainiandronestrikekills12inmajorattackonrussianrefininghub",
+  "8b3e5456e14185fa",
+  "heretiredfromtheoilfieldsbuttook30000tostayoncallsocialsecur"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-08-10T12:00:22.826890+03:00",
+ "last_run": "2026-08-10T12:05:14.094856+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -928,6 +928,10 @@
   {
    "d": "2026-08-10",
    "t": "Oil prices rise as traders assess US-Iran talks on Strait of Hormuz deal - Euronews"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Ukrainian Drone Strike Kills 12 in Major Attack on Russian Refining Hub"
   }
  ]
 }
