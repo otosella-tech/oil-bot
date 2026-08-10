@@ -1,13 +1,9 @@
 {
  "price_base": {
   "WTI": 78.07,
-  "Brent": 83.39
+  "Brent": 85.06
  },
  "seen": [
-  "f31c3e7e5a1bba6b",
-  "usacrudeoilstocksriseweekonweek",
-  "ee8a7ec12ca2536a",
-  "usexpectsirantoensuresafeoilflowthroughstraitofhormuzvance",
   "eb6b0207b8945c12",
   "crudefallsonpossiblehormuzarrangement",
   "440e95b8f67455c9",
@@ -603,7 +599,11 @@
   "49122d891657c3f0",
   "currentpriceofoilasofaug62026",
   "d23a1ff33bd98db2",
-  "iraqraisesseptembercrudeoilpricesforasianbuyersbyinvestingco"
+  "iraqraisesseptembercrudeoilpricesforasianbuyersbyinvestingco",
+  "4568dc29528592b8",
+  "currentpriceofoilasofaug52026",
+  "b0818ba839652e32",
+  "europeanstocksflatlineastradersweighoilriskandpackeddataweek"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T14:00:22.945108+03:00",
+ "last_run": "2026-08-10T14:05:20.851580+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
