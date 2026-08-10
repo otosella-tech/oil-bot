@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "03cc955fffa9bbb6",
-  "whatisthehighestpriceofcrudeoilinhistory",
-  "3478c631aa6387c1",
-  "tankersindiascrudeoilimportsmarginallylowersofarin2026",
   "1201c040f086a7f8",
   "currentpriceofoilasofaugust62026",
   "9a23529cbd1b3c21",
@@ -603,7 +599,11 @@
   "29f0803f3b03aef6",
   "plainsgpholdingslpq22026revenue1769beps19710qsummary",
   "30e999d585509906",
-  "russiasshareinindiasoilimportsjumptoalltimehighof48despite10"
+  "russiasshareinindiasoilimportsjumptoalltimehighof48despite10",
+  "029b0534821a7c53",
+  "missedthepreviousshortonoilheresthenexttradeideatoconsider",
+  "b0cb973667ebed6f",
+  "rupeefalls11paisetocloseat9528againstusdollaronfirmcrudeoilp"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T13:40:15.754959+03:00",
+ "last_run": "2026-08-10T13:45:15.876131+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
