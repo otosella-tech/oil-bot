@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "018346323dbd4c59",
-  "currentpriceofoilasofjuly222026",
   "58938e627826ee9f",
   "currentpriceofoilasofaugust42026",
   "219d6bb00c1af0fd",
@@ -603,7 +601,9 @@
   "b00b6224906cc0b2",
   "oilpricesretreatasdemandsignalsweighonmarkets",
   "c578c73d722025f7",
-  "trumpadministrationextendslimitedshippingwaivertokeepoilflow"
+  "trumpadministrationextendslimitedshippingwaivertokeepoilflow",
+  "e6f856f581962f1d",
+  "updateusequityindexesdeclineasfadinghopesforquickhormuzreope"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 3
+  "count": 4
  },
- "last_run": "2026-08-11T00:20:15.559787+03:00",
+ "last_run": "2026-08-11T00:25:13.155872+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
