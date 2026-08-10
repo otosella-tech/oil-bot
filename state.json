@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "024f63895b2b7e29",
-  "texaseconomicboomhowaioilandyallstreetarefuelinghistoricgrow",
-  "66d42b8b26f770d6",
-  "opecrestores35mbpdbutexportrisksstilldriveoilrepricing",
   "a2b627f7c0a8b020",
   "bravaenergiaexecutionoflongtermagreementforthepurchaseofoilp",
   "00a33d60b0904074",
@@ -603,7 +599,11 @@
   "74e3ea42c4f6b924",
   "oilpricesriseasiranhardenshormuzdemands",
   "dd8b66dd092394c5",
-  "dronesattacktatarstannizhnekamskoilrefinerytargetedvideo"
+  "dronesattacktatarstannizhnekamskoilrefinerytargetedvideo",
+  "48bef64f00b956ba",
+  "crudeoilpricestodayaugust102026pricesriseashormuzreopeningre",
+  "b6daa5ce0c110801",
+  "wtoffshoreq2earningscallhighlights"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-08-10T08:30:17.628856+03:00",
+ "last_run": "2026-08-10T08:35:11.961283+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -908,6 +908,10 @@
   {
    "d": "2026-08-10",
    "t": "Drones attack Tatarstan: Nizhnekamsk oil refinery targeted – video - Українська правда"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Crude Oil Prices Today, August 10, 2026: Prices Rise as Hormuz Reopening Remains Uncertain; Brent Tops $84 - HDFC Sky"
   }
  ]
 }
