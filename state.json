@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "965a85c2016fb3aa",
-  "indiaspipelineplantobypassstraitofhormuzfacesmajorheadachess",
   "fc6eeece3d72ff8f",
   "crudeoilpriceanalysis200dayemarejectionsignalsweekendgapdang",
   "a4095b0f7b23ee13",
@@ -603,7 +601,9 @@
   "2eec166e7c02531b",
   "uaesadnocgastoinvestmorethan8billioninexpansionpush",
   "179e83ce769e43e7",
-  "crudeoiledgeshigherasstraitofhormuzreopeningconcernssupportp"
+  "crudeoiledgeshigherasstraitofhormuzreopeningconcernssupportp",
+  "399ab70d9354e292",
+  "oilparesgainsashormuzuncertaintyhouthiattackskeepsupplyrisks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 45
+  "count": 46
  },
- "last_run": "2026-08-10T09:10:13.889059+03:00",
+ "last_run": "2026-08-10T09:15:16.092416+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
