@@ -4,14 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "7033f6ed5eefd5df",
-  "yemenshouthisattacksaudirefineryafterkingdomsignsdefencepact",
-  "3b419bb53986aed5",
-  "murphyoilseessharpprofitincrease",
-  "3a87d069094a636a",
-  "currentpriceofoilasofjuly162026",
-  "3d203c88df8e04c8",
-  "ussettoimportmostmiddleeastcrudesinceiranwarbeganegyptoil",
   "cbd2d65ef00ba94d",
   "vaalcoenergyreports30increaseinegyptoilsalesinq2of2026egypto",
   "029dbc23fdb11b3a",
@@ -603,7 +595,15 @@
   "5699b90147b369bf",
   "howoilpricesaffectthepriceofgasolinekamr",
   "93cc3b0d33b854a2",
-  "usstrategicoilreservesfalltolowestlevelsince1983"
+  "usstrategicoilreservesfalltolowestlevelsince1983",
+  "791524597fee9861",
+  "usoilpricehits80asdoubtgrowswashingtonandtehranwillreachstra",
+  "7ebad363af8aaf7c",
+  "whatsaffectingoilpricesthisweekaug102026",
+  "fd948727811a4912",
+  "whynaborsindustriesnbrstockistradinguptoday",
+  "8714e294bebcf400",
+  "oilpricesjumpaswallstreeteuropeansharesunderpressurewithhorm"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T19:50:16.800829+03:00",
+ "last_run": "2026-08-10T19:55:17.067876+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1136,6 +1136,14 @@
   {
    "d": "2026-08-10",
    "t": "Oil prices, stocks surge as Hormuz closure drags on - Al Jazeera"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "U.S. oil price hits $80 as doubt grows Washington and Tehran will reach Strait of Hormuz deal - CNBC"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil prices jump as Wall Street, European shares under pressure with Hormuz - mediaselangor.com"
   }
  ]
 }
