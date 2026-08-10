@@ -4,12 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "a8c5d4e28c291d49",
-  "yemenshouthisclaimresponsibilityforattackonsaudioilrefinery",
-  "b1dddd307e11611b",
-  "usequityindexesdeclinecrudeoilrisesinmiddaytrading",
-  "85445cf4acb5fd43",
-  "refinedoilovertakescrudeasnigeriastopexporttouk",
   "02b110e52ad1387b",
   "houthisclaimattacksonsaudiarabianoilfacilityandyemeniportand",
   "f5bb01ac0877894d",
@@ -603,7 +597,13 @@
   "bffb0b6139a1bd2d",
   "omansaysmassiveoilspillfromgroundedshadowfleettanker",
   "9d26faa205674530",
-  "bofahormuzneeds10timesmoreshipstostabilizeoilmarkets"
+  "bofahormuzneeds10timesmoreshipstostabilizeoilmarkets",
+  "36fb4d3a48eed0c5",
+  "chinaisbalancingasiascrudeoildemandbyitselfthechina",
+  "9a808a822127f1fc",
+  "usemergencyoilreservefallsbelow300mbarrelsforfirsttimesince1",
+  "469ba1f2fb337d5d",
+  "oiljumps3yieldsclimbashormuzhopesfadegamestopnysegmeuwmholdi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T20:40:15.629112+03:00",
+ "last_run": "2026-08-10T20:45:15.012390+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1148,6 +1148,10 @@
   {
    "d": "2026-08-10",
    "t": "BofA: Hormuz Needs 10 Times More Ships to Stabilize Oil Markets"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil Jumps 3%, Yields Climb As Hormuz Hopes Fade - GameStop (NYSE:GME), UWM Holdings (NYSE:UWMC) - Benzinga"
   }
  ]
 }
