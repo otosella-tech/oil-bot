@@ -4,8 +4,6 @@
   "Brent": 85.06
  },
  "seen": [
-  "65da7d15076e31f3",
-  "beyondoilpricesthecasefor3dividendpayingenergygiants",
   "9372be109a7536d0",
   "priceofoildrops",
   "84e89f2fcfeb3e9c",
@@ -603,7 +601,9 @@
   "3f217119aef5dc92",
   "russiarebuildsnuclearworkforceatiransbushehrplant",
   "b7f3d96091c26517",
-  "omansaysgroundedtankeroilspillcovers150squaremiles"
+  "omansaysgroundedtankeroilspillcovers150squaremiles",
+  "6b988fee643f9c35",
+  "omansaysgroundedtankeroilspillcovers400squarekm"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T18:35:14.701376+03:00",
+ "last_run": "2026-08-10T18:40:17.745905+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
