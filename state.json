@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "3051fbdbd1ad8f94",
-  "currentpriceofoilasofaug72026",
   "fc5ecdccf058e9a8",
   "chinaisbalancingasiascrudeoildemandbyitself",
   "13ca47632be8cc08",
@@ -603,7 +601,9 @@
   "b35e9cbf5594c8f4",
   "foxslizclamanreportsoilpricesurgeisworrisomeforconsumersastr",
   "f9064243c01d1597",
-  "colombiarevivesoilandgasafterfour"
+  "colombiarevivesoilandgasafterfour",
+  "445483ce8cc367c0",
+  "colombiarevivesoilandgasafterfouryearrenewableenergypush"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 5
  },
- "last_run": "2026-08-11T02:00:22.023818+03:00",
+ "last_run": "2026-08-11T02:05:13.223502+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
