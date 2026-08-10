@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "ae1a141f4acbbd63",
-  "ftse100risesasoilpricesclimbandlloydswarnsofrenewedmortgagep",
   "3cf4de1e8253195c",
   "oilchoppyasinvestorsgaugehopesforstraitofhormuzreopeningbyin",
   "7eacde8a9c2c512b",
@@ -603,7 +601,9 @@
   "fbd822557648dbae",
   "chinaisbalancingasiascrudeoildemandbyitselfrussell",
   "082267c4aaf50aae",
-  "oilpricetodaybrentcrudejumpsover1astradersawaithormuzreopeni"
+  "oilpricetodaybrentcrudejumpsover1astradersawaithormuzreopeni",
+  "4a4c0ff84a9447ea",
+  "oilpricetodayaugust10crudeoilrisesto85amidhormuzworriesasatt"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 19
+  "count": 20
  },
- "last_run": "2026-08-10T05:20:15.893147+03:00",
+ "last_run": "2026-08-10T05:25:15.393281+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
