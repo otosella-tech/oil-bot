@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "39b0ae17a7086681",
-  "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths",
-  "c72a72fc5b0e7d56",
-  "nationalaveragegaspricefallsto406ascrudeoilpriceseaseaaasays",
   "e381c8bd268b861e",
   "oilrelatedmaterialsclaimsexposurevariesbroadlyacrossus",
   "42186511f25dff5c",
@@ -603,7 +599,11 @@
   "00165a079a082776",
   "datacenterbacklashleadstoanewlandrushinthetexasoilpatch",
   "27d018812bc04351",
-  "wreckedtankercontinuesuncontrolledoildischargeoffomanmaritim"
+  "wreckedtankercontinuesuncontrolledoildischargeoffomanmaritim",
+  "0e56e1e54eaea544",
+  "oilrisesonuncertaintyoverreopeningofhormuz",
+  "63b6f76e46b9ab03",
+  "oilgainsashormuzreopeningremainselusivehouthiattacksstokesup"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-08-10T04:00:21.552476+03:00",
+ "last_run": "2026-08-10T04:05:13.176184+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -856,6 +856,14 @@
   {
    "d": "2026-08-10",
    "t": "China’s Inflation Cools as Iran War Oil Shock Starts to Ease - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil rises on uncertainty over reopening of Hormuz - Yahoo! Finance Canada"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil gains as Hormuz reopening remains elusive, Houthi attacks stoke supply risks - Investing.com"
   }
  ]
 }
