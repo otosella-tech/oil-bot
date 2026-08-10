@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "2d0a2d6d9d14d0d0",
-  "crudeoilpricesriseasiranproposesnewconditionsfortransitthrou",
   "77fc9a617acd7422",
   "japexin320millionswoopforustightoilandgasassets",
   "dfe1d3a538020ad6",
@@ -603,7 +601,9 @@
   "518c410029cb840e",
   "greenlandwarnstrumplinkedoilfirm",
   "19d0d1b0b20d9a3d",
-  "oilpricesonaug10brentcrudenears85onuncertaintyoverreopeningo"
+  "oilpricesonaug10brentcrudenears85onuncertaintyoverreopeningo",
+  "06798bbe272e333f",
+  "oilanalystsstumpedbythecaseofthemissingbarrels"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 15
  },
- "last_run": "2026-08-10T04:45:15.766716+03:00",
+ "last_run": "2026-08-10T04:50:16.090965+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
