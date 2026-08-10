@@ -4,10 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "966747373fdf25fa",
-  "oilpricestodayiranhormuzdealfailstoreopenstraitasoilholdsabo",
-  "5843caf5738da2f0",
-  "highestcrudeoilpricewtihistoricalchartnominalinflationadjust",
   "8dd83c12395be44c",
   "iranhormuzdealfailstoreopenstraitasoilholdsabove80whatitmean",
   "123d005ab1209c3d",
@@ -603,7 +599,11 @@
   "72458be80a16e56e",
   "wallstreetendsdownasexpectationsofhormuzdealfade",
   "742487017f774a0d",
-  "stocksedgedownfromtheirrecordafteroilpricesclimb5"
+  "stocksedgedownfromtheirrecordafteroilpricesclimb5",
+  "3bf863c9c891db41",
+  "usstocksedgedownfromtheirrecordafteroilpricesclimb5",
+  "4c33b74d49e2afd7",
+  "wallstreeteasesashopesforimminenthormuzdealfadeinteldrops"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T23:40:17.793591+03:00",
+ "last_run": "2026-08-10T23:45:15.865142+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-08-10",
    "t": "Wall Street ends down as expectations of Hormuz deal fade - The Detroit News"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops - Reuters"
   }
  ]
 }
