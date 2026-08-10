@@ -4,14 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "5192131fdcac5f9a",
-  "oilfuturescrudeoffhighsamidstraitofhormuzdealuncertainty",
-  "ff439e67f244921c",
-  "ftweekendquizthepilgrimsprogressrosesandcrudeoil",
-  "351602d42fa82bf8",
-  "indiajoinsracetobypasstheworldsbiggestoilchokepoint",
-  "40db0442546336fc",
-  "forecastupdateforcrudeoil07082026",
   "2a376eb68b1213dd",
   "oilpricevolatileashouthiattacksrenewsupplycrunchfears",
   "f3ff60066397cdc9",
@@ -603,7 +595,15 @@
   "16dfbf451c7c5291",
   "palworld10bestcrudeoilminingspots",
   "3b10cf2b69f04078",
-  "brentcrudeoilattemptstoshakeoffnegativepressureanalysis10082"
+  "brentcrudeoilattemptstoshakeoffnegativepressureanalysis10082",
+  "62ee514f1f000ab5",
+  "trkiyeresumesblackseastraitstransitafterdelayscrudeoiltanker",
+  "5ccf9b39bff9548e",
+  "oilpricesclimbasiraniandemandscloudoutlookforstraitofhormuz",
+  "6b5caece7b08a728",
+  "worldfoodpriceshitthreeyearhighinjulyfao",
+  "cf787745163b9db0",
+  "indiaremainsdependentonimportsfor90ofoildemand"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-08-10T06:45:16.406391+03:00",
+ "last_run": "2026-08-10T06:50:14.564469+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -880,6 +880,14 @@
   {
    "d": "2026-08-10",
    "t": "Iran Links Hormuz Reopening to US Meeting Its Demands: Dow Futures Fall 127 Points, Brent Above $84 - TradingView"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Türkiye Resumes Black Sea Straits Transit After Delays, Crude Oil Tanker Aegean Dream Enters Dardanelles - NewsCord"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz - Al Jazeera"
   }
  ]
 }
