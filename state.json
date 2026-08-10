@@ -4,10 +4,6 @@
   "Brent": 85.06
  },
  "seen": [
-  "5b15bb26190b1715",
-  "volatileoilpricesdeliverwindfalltoenergyproducingstates",
-  "b801201afca1cb4e",
-  "crudeoilpriceforecastreversaltestskeysupport",
   "10f9f73c928cf67b",
   "wtiandbrentcrudearenowreadingthestraitofhormuzdifferently",
   "452494596c1c7071",
@@ -603,7 +599,11 @@
   "c0ca4b8bddc768a8",
   "tagoilspudst200wellatbed1concessioninegypt",
   "85dd771ec9237426",
-  "usstockmarkettodaywallstreetdriftsnearalltimehighcrudeoilpri"
+  "usstockmarkettodaywallstreetdriftsnearalltimehighcrudeoilpri",
+  "77587dcde462f5d9",
+  "dcedpagradecrudeoildevelopmentadvisorycouncilmeetsaug20oncon",
+  "cd165784a3a1c1c4",
+  "omancrudeoilpricegoesupbyusd121fananews"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T18:15:15.925988+03:00",
+ "last_run": "2026-08-10T18:20:16.003163+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
