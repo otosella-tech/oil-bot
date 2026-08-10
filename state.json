@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "50985e8598ac7194",
-  "theuncertainfutureofoilandgas",
-  "485f3b69590f861f",
-  "oilpricestumbleastraderspriceinastraitofhormuzbreakthrough",
   "93207f641284469e",
   "gazaceasefireunravelsasregionalpressureonisraelgrows",
   "ea1f8afec01ef671",
@@ -603,7 +599,11 @@
   "ff20d463c29b02f1",
   "crudeoilstabilizesatakeyresistancezoneanalysis10082026",
   "249aa7d0036d2fcf",
-  "iranlinkshormuzreopeningtousmeetingitsdemandsdowfuturesfall1"
+  "iranlinkshormuzreopeningtousmeetingitsdemandsdowfuturesfall1",
+  "04dced85afc585ac",
+  "fadingfedhikebetsrbibackstopbluntsoilpressureonrupee",
+  "e4719ac43190af80",
+  "indiascrudeoiloutputfallsforthirdstraightyear"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 24
  },
- "last_run": "2026-08-10T06:00:23.426979+03:00",
+ "last_run": "2026-08-10T06:05:12.285444+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
