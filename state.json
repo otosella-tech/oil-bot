@@ -4,16 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "8b4e94db07643400",
-  "magnoliaoilgasq2earningscallhighlights",
-  "4b478279fdf016cc",
-  "marketsnextweekinflationdataopecreportbigearnings",
-  "232654256aec79b9",
-  "houthissaytheyattackedsaudiaramcosrefineryinjazannoinjuriesr",
-  "8736495e802e3d12",
-  "thisnuclearstartupandhalliburtonrepurposedoildrillingtechina",
-  "89f2f50ee34a728a",
-  "ussettoimportmostmiddleeastcrudesinceiranwarbegan",
   "eb1c0d56cce4a418",
   "yemenshouthisclaimattackonaramcooilfacilityinsaudiarabiaando",
   "5b9647cd38d3f9d1",
@@ -603,7 +593,17 @@
   "d142660fe9e7da7e",
   "stocksofcrudeoilintheussprfellbyabout61mlnbblsto2987mlnbbsla",
   "674f979446eb6b82",
-  "icemiddaycanolaclimbswithcrudeoil"
+  "icemiddaycanolaclimbswithcrudeoil",
+  "16f2846b47c4ed91",
+  "trumpfacesgrowingpressuretorestrictusoilexports",
+  "0f3f354f17956bb7",
+  "oilinusstrategicpetroleumreservefallsbelow300millionbarrelsl",
+  "42a116c4664ebb8a",
+  "californiaisburyingcarboninanoilfieldbeforeitsrulesarefinish",
+  "6606bfcc8e0d4a6d",
+  "usstocksdriftneartheirrecordsasoilpricesrisepittsburghpost",
+  "4ee57be6ef6b45af",
+  "trumpstwooilmysteriesfreedomfuelandvenezuelancrude"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T18:55:13.440074+03:00",
+ "last_run": "2026-08-10T19:00:23.871149+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1092,6 +1092,10 @@
   {
    "d": "2026-08-10",
    "t": "Russia Rebuilds Nuclear Workforce at Iran’s Bushehr Plant"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983 - CNBC"
   }
  ]
 }
