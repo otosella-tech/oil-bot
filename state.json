@@ -4,12 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "809b5284f156d6bd",
-  "worldsharesaremixedafterusstocksfallbackwhileoiledgeslowerab",
-  "a4c48dccfe013239",
-  "ussenatepassessweepingrussiaenergysanctionsnextstopushouse",
-  "ffa7a19728806d32",
-  "senatepasseslegislationtargetingpurchasersofrussianoilandgas",
   "0d33e2058fad1e4d",
   "ussenatepassesrussiasanctionschampionedbygrahamushousenext",
   "f686048961c79eb4",
@@ -603,7 +597,13 @@
   "8b3e5456e14185fa",
   "heretiredfromtheoilfieldsbuttook30000tostayoncallsocialsecur",
   "615e499a386be723",
-  "factcheckhowmuchistheusmakinginoilrevenuefromvenezuela"
+  "factcheckhowmuchistheusmakinginoilrevenuefromvenezuela",
+  "90e4a85cd20b3485",
+  "wticrudeoilpriceanalysisforaugust102026",
+  "067b76632c9d2601",
+  "goldandcrudeoilextendgainsasyenstrengthenstoupper157rangeonf",
+  "7a2b8298f45674ba",
+  "globaloilpricesriseamiduncertaintyoverthereopeningofthestrai"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T12:30:19.055802+03:00",
+ "last_run": "2026-08-10T12:35:13.217131+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -932,6 +932,10 @@
   {
    "d": "2026-08-10",
    "t": "Ukrainian Drone Strike Kills 12 in Major Attack on Russian Refining Hub"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Global oil prices rise amid uncertainty over the reopening of the Strait of Hormuz - صوت الإمارات"
   }
  ]
 }
