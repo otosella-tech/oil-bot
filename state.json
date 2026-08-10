@@ -4,10 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "eb1c0d56cce4a418",
-  "yemenshouthisclaimattackonaramcooilfacilityinsaudiarabiaando",
-  "5b9647cd38d3f9d1",
-  "sanctionedtankeroffcoastofomansubmergesfurtherthearkansasdem",
   "8398244f218561e4",
   "thefirstmajortestofopecafteruaesexit",
   "c914729cd0c48881",
@@ -603,7 +599,11 @@
   "6606bfcc8e0d4a6d",
   "usstocksdriftneartheirrecordsasoilpricesrisepittsburghpost",
   "4ee57be6ef6b45af",
-  "trumpstwooilmysteriesfreedomfuelandvenezuelancrude"
+  "trumpstwooilmysteriesfreedomfuelandvenezuelancrude",
+  "e743dc353f8097a3",
+  "michigangaspricescontinuetofluctuateasconflictanduncertainty",
+  "40f1115b03591e49",
+  "chevronstockjumps33ashormuzdoubtsliftoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T19:00:23.871149+03:00",
+ "last_run": "2026-08-10T19:05:18.964746+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1096,6 +1096,10 @@
   {
    "d": "2026-08-10",
    "t": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983 - CNBC"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Chevron Stock Jumps 3.3% as Hormuz Doubts Lift Oil - Yahoo! Finance Canada"
   }
  ]
 }
