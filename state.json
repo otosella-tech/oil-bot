@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "56e602b03738a6ff",
-  "whitehousesaysgroceryandfuelpricesstayelevateddespiteeasingi",
   "966747373fdf25fa",
   "oilpricestodayiranhormuzdealfailstoreopenstraitasoilholdsabo",
   "5843caf5738da2f0",
@@ -603,7 +601,9 @@
   "ceee09a4c014cbd8",
   "usequitymarketsendloweraftercrudeoilpricesrisefollowingusira",
   "72458be80a16e56e",
-  "wallstreetendsdownasexpectationsofhormuzdealfade"
+  "wallstreetendsdownasexpectationsofhormuzdealfade",
+  "742487017f774a0d",
+  "stocksedgedownfromtheirrecordafteroilpricesclimb5"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T23:35:12.889482+03:00",
+ "last_run": "2026-08-10T23:40:17.793591+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
