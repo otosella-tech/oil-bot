@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "123d005ab1209c3d",
-  "calgarymantopay65kinoilandgasinsidertradingcase",
   "856cca9e82d0b37e",
   "whytrumpswaiverofthejonesactisunlikelytolowergasprices",
   "ca2f015b333ac2f5",
@@ -603,7 +601,9 @@
   "4c33b74d49e2afd7",
   "wallstreeteasesashopesforimminenthormuzdealfadeinteldrops",
   "00e4132ba20c4aeb",
-  "phoenixenergyreportsq22026quarterandyeartodatefinancialandop"
+  "phoenixenergyreportsq22026quarterandyeartodatefinancialandop",
+  "66e351f9cc9c141f",
+  "iraqsoillifelinereopensbutcanbaghdadtrustturkeyforevenoneyea"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -612,187 +612,11 @@
   "Brent": 84.01
  },
  "llm": {
-  "date": "2026-08-10",
-  "count": 60
+  "date": "2026-08-11",
+  "count": 1
  },
- "last_run": "2026-08-10T23:55:19.503004+03:00",
+ "last_run": "2026-08-11T00:00:22.639088+03:00",
  "sent_stories": [
-  {
-   "d": "2026-08-07",
-   "t": "Oil prices jump after Iran publishes restrictive draft plan for Strait of Hormuz - cnbc.com"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "UK Targets Arctic LNG Carrier, Five Oil Tankers in Latest Russia Sanctions Package - gcaptain.com"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "US Equity Markets End Higher as Crude Oil Falls on US-Iran's New Round of Talks - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz - CNBC"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Gulf oil exports steady in July, still 40% below pre-war mark - Reuters"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Crude oil gains as Iran plans to ban US, Israeli ships from Hormuz transit - BusinessLine"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oil prices surge to $100 per barrel after Red Sea attacks - NBC News"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks - WKZO"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oil futures: Crude extends gains amid Strait of Hormuz deal impasse - qcintel.com"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Hormuz closure clouds China's crude imports after they hit a 3-month high in July - CNBC"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oman tackles oil spill from sanctioned tanker hit by Ukrainian saboteurs - TradeWinds News"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Russia Turns to South Korea for Fuel as Refinery Crisis Deepens"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz - CNBC"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Asian Stocks to Slip on Iran Concerns, Oil Climbs: Markets Wrap - Bloomberg.com"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Iran war ushers in oil refining golden era. It won’t last - Reuters"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oil extends gains and stocks mostly down on fresh Hormuz worries - Bangkok Post"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Saudis cut key oil price again as Hormuz talks progress - Transport Topics"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Shipping Through Hormuz Drops Sharply as Tensions Rise"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Iran’s oil exports stall and Kharg Island idles under US blockade - Financial Times"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Saudi Arabia, Pakistan and Turkey to Sign Defense Deal"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "US airfares expected to stay high even if Iran ceasefire drops oil prices, experts say - The Guardian"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Drone attacks reduce July CPC oil loadings by a fifth, sources say - Reuters"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oil's Hormuz Rally Faces a Supply Test as US Output Climbs 3.8% - Crux Investor"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oil prices little changed as market waits on deal to open Strait of Hormuz - CNBC"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "OPEC+ Restores 3.5M bpd, but Export Risks Still Drive Oil Repricing - Crux Investor"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "India's pipeline plan to bypass Strait of Hormuz faces major headaches, says broker - Upstream Online"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "ADNOC Buys 11 Supertankers for $1.3 Billion to Expand Export Fleet"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Saudi Arabia’s $5 Oil Detour Is Expensive—and Worth It"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oil futures: Crude volatile amid Strait of Hormuz deal uncertainty - Quantum Commodity Intelligence"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Libya Aims to Boost Oil Production to 2 Million Bpd by Early 2030s"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Is Iran Preparing to Permanently Block the Strait of Hormuz?"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oil futures: Crude higher amid Strait of Hormuz deal uncertainty - Quantum Commodity Intelligence"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oil prices rise as as market waits on deal to open Strait of Hormuz - CNBC"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "The Week in Oil : Diplomatic Efforts to Manage Hormuz Traffic Take Center Stage - marketscreener.com"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening - CNBC"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "US Senate passes sweeping Russia energy sanctions, next stop US House - Reuters"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Russia’s Labor Shortage Worsens as Central Asian Workers Stay Away"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Oil gains on pending Iran-Oman deal over Hormuz - Reuters"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "July 2026 Iran Tanker Tracker: Offshore Oil Reserves Cushion Iran as U.S. Reinstates Blockade - United Against Nuclear Iran | UANI"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House - CNBC"
-  },
-  {
-   "d": "2026-08-07",
-   "t": "Brent climbs $1 on uncertainty over end to Iran war - Reuters"
-  },
   {
    "d": "2026-08-09",
    "t": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack - CNBC"
