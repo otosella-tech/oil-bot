@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "1975312261c3a653",
-  "sanctionedtankeroffcoastofomansubmergesfurther",
   "314dd8a86b0d4835",
   "crudeoilsuppliesat45yearlow",
   "8e716b094b7e33cb",
@@ -603,7 +601,9 @@
   "a6ea5d82585c2579",
   "tensionsinthearcticgreenlandissuessharprebuketotrumplinkedoi",
   "b519a38ce7a8dbc7",
-  "usequityindexesmixedascrudeoiltreasuryyieldsjumpamidworsenin"
+  "usequityindexesmixedascrudeoiltreasuryyieldsjumpamidworsenin",
+  "63079ce59058e8bd",
+  "thehormuzcrisishasforeverchangedtheeconomicsofenergysecurity"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T20:55:14.758144+03:00",
+ "last_run": "2026-08-10T21:00:24.271190+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1152,6 +1152,10 @@
   {
    "d": "2026-08-10",
    "t": "Oil Jumps 3%, Yields Climb As Hormuz Hopes Fade - GameStop (NYSE:GME), UWM Holdings (NYSE:UWMC) - Benzinga"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "The Hormuz Crisis Has Forever Changed the Economics of Energy Security"
   }
  ]
 }
