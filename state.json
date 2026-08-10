@@ -4,10 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "65150dc0588982eb",
-  "yoursundayaug9guidefourthingstodointheoilcity",
-  "efb74c7222fde02f",
-  "currentpriceofoilasofjuly172026",
   "e918ff612e5b15c4",
   "oilsettles1higherashopesofrenewedusirannegotiationsoffsethou",
   "9b62bc5979535184",
@@ -603,7 +599,11 @@
   "411c0366d186941a",
   "withthewariniranwhyarentoilpricesevenhigheropinion",
   "561bb689ab87c27d",
-  "sanctionedtankerleaksrussiancrudeoffomanasoilslickreaches390"
+  "sanctionedtankerleaksrussiancrudeoffomanasoilslickreaches390",
+  "728e9e4b9b82919c",
+  "usstocksdriftneartheirrecordsasoilpricesrisepost",
+  "fb80a942cf68a123",
+  "crudeoilsurges3sionnatherapeuticssharesplunge"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T19:20:16.241067+03:00",
+ "last_run": "2026-08-10T19:25:16.791750+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1116,6 +1116,10 @@
   {
    "d": "2026-08-10",
    "t": "Sanctioned tanker leaks Russian crude off Oman as oil slick reaches 390 square kilometers - Межа. Новини України."
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Crude Oil Surges 3%; Sionna Therapeutics Shares Plunge - benzinga.com"
   }
  ]
 }
