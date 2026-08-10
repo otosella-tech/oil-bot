@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "10d0c0f329b42486",
-  "theusshouldinvestinlightcruderefiningbeforethenextchokepoint",
-  "96495c31f1f7da52",
-  "libyaaimstoboostoilproductionto2millionbpdbyearly2030s",
   "a169f2e1d24f3351",
   "indigenouspeoplesarekeyinthefightagainstclimatechangebutourv",
   "a2a42dd587a5a722",
@@ -603,7 +599,11 @@
   "b3913a8cbf0dc444",
   "flowassuranceinoilandgasmarket",
   "eab7e34026e7f8ec",
-  "oilpricerollbackeffectivetuesdayaugust112026oilcompanieswill"
+  "oilpricerollbackeffectivetuesdayaugust112026oilcompanieswill",
+  "55d1bdf0b094a467",
+  "oilrisesamidgrowingdoubtsthatstraitofhormuzcanreopensoon",
+  "fa3b53c2cfdc8e8f",
+  "oilpricesriseastradersassessusirantalksonstraitofhormuzdeal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-08-10T09:50:15.417060+03:00",
+ "last_run": "2026-08-10T09:55:13.780147+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -920,6 +920,14 @@
   {
    "d": "2026-08-10",
    "t": "Hormuz Tensions Surge After Reports of Another Tanker Strike"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil Rises Amid Growing Doubts That Strait of Hormuz Can Reopen Soon - wsj.com"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil prices rise as traders assess US-Iran talks on Strait of Hormuz deal - Euronews"
   }
  ]
 }
