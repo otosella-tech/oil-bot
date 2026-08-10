@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "5cae3f4420a69158",
-  "iranalignedhouthisclaimtheyattackedoilrefineryinsaudiarabia",
   "8895ea7ecc02fbbc",
   "oilpriceforecastwhyoilcouldstillsnapbackhigher",
   "1cbe8b66b1c59710",
@@ -603,7 +601,9 @@
   "637598e453ad0cf8",
   "nigeriasoilproducersmeet97ofdomesticsupplytargets",
   "58a10d61fd01e56f",
-  "oilinusstrategicpetroleumreservefallstolowestlevelsince1983"
+  "oilinusstrategicpetroleumreservefallstolowestlevelsince1983",
+  "d0a1080e53c414d6",
+  "updateequitiesfalloilrisesintradayamidhormuzreopeninguncerta"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T21:50:13.448511+03:00",
+ "last_run": "2026-08-10T21:55:13.580097+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1156,6 +1156,10 @@
   {
    "d": "2026-08-10",
    "t": "The Hormuz Crisis Has Forever Changed the Economics of Energy Security"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Update: Equities Fall, Oil Rises Intraday Amid Hormuz Reopening Uncertainty - Yahoo Finance"
   }
  ]
 }
