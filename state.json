@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "5c3ccb65e6e48720",
-  "3marketbeatingstockswithpromisingprospects",
   "abac193bd5923a04",
   "oilshormuzrallyfacesasupplytestasusoutputclimbs38",
   "570dce4db1e83b07",
@@ -603,7 +601,9 @@
   "5c182eb977c8ebe3",
   "trumpsaysoilsupermajorsaremakingtoomuchmoneywhatwilltheydowi",
   "3680f8b9a658af1f",
-  "turkeyresumesblackseashiptransitsviastraitsafterdelays"
+  "turkeyresumesblackseashiptransitsviastraitsafterdelays",
+  "581408911ee91ae0",
+  "palmoilpricesroseastraderswaitedonmpobstocksdata"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 39
  },
- "last_run": "2026-08-10T08:15:15.119276+03:00",
+ "last_run": "2026-08-10T08:20:15.284569+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
