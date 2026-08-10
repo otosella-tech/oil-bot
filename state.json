@@ -4,8 +4,6 @@
   "Brent": 85.06
  },
  "seen": [
-  "449f0ed0051c1ef8",
-  "uaechangeshowitpricesitscrudeoilgrades",
   "0d866c5845b5b46f",
   "currentpriceofoilasofjuly232026",
   "86964d336d8193cd",
@@ -603,7 +601,9 @@
   "f2c6e05bb586483d",
   "heatwavescouldcosttheeu1ofgdpdutchbanksays",
   "5986b553b1c6c39f",
-  "forecastupdateforcrudeoil10082026"
+  "forecastupdateforcrudeoil10082026",
+  "a19abb6fe2bbd195",
+  "chinascrudeoilimportsdropped32inq22026asstraitofhormuzdisrup"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T15:40:14.578886+03:00",
+ "last_run": "2026-08-10T15:45:16.601560+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1028,6 +1028,10 @@
   {
    "d": "2026-08-10",
    "t": "13 die in Russia during attack by Ukraine 900 km from Moscow: officials - South China Morning Post"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "China's crude oil imports dropped 32% in Q2 2026 as Strait of Hormuz disruptions pushed prices higher - Energies Media"
   }
  ]
 }
