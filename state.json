@@ -4,8 +4,6 @@
   "Brent": 85.06
  },
  "seen": [
-  "eb5620f5e8c91e11",
-  "plattscorrectsaug7usgchsfofueloilassessment",
   "0c45c08d72102d35",
   "oilpricesjumpafteriranpublishesrestrictivedraftplanforstrait",
   "5dbc52c388181abb",
@@ -603,7 +601,9 @@
   "2993980ac32e12aa",
   "bullishoilbetsshrinkforasecondweekrunningcotdatashow",
   "ec4fcec493617f8f",
-  "usstocksdriftneartheirrecordsasoilpricesrise"
+  "usstocksdriftneartheirrecordsasoilpricesrise",
+  "003d582f36900986",
+  "marketsendmarginallyhigheronspikeincrudeoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T17:00:25.884497+03:00",
+ "last_run": "2026-08-10T17:05:21.695148+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
