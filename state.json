@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "dc587ceafe0d4b17",
-  "indiascrudeoiloutputfallsforthirdstraightyear",
   "50985e8598ac7194",
   "theuncertainfutureofoilandgas",
   "485f3b69590f861f",
@@ -603,7 +601,9 @@
   "262f814c8949287b",
   "indiansharessettogainassoftusjobsdataoffsetsoilworries",
   "ff20d463c29b02f1",
-  "crudeoilstabilizesatakeyresistancezoneanalysis10082026"
+  "crudeoilstabilizesatakeyresistancezoneanalysis10082026",
+  "249aa7d0036d2fcf",
+  "iranlinkshormuzreopeningtousmeetingitsdemandsdowfuturesfall1"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 22
+  "count": 24
  },
- "last_run": "2026-08-10T05:55:13.789824+03:00",
+ "last_run": "2026-08-10T06:00:23.426979+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -876,6 +876,10 @@
   {
    "d": "2026-08-10",
    "t": "Oil Rises Amid Growing Doubts Over Strait of Hormuz’s Reopening - WSJ"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Iran Links Hormuz Reopening to US Meeting Its Demands: Dow Futures Fall 127 Points, Brent Above $84 - TradingView"
   }
  ]
 }
