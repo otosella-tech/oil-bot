@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "c2498fc546c889da",
-  "oiltickshigherusfuturessteadyaheadofjobsreport",
   "785c76d351035399",
   "saudiscutkeyoilpriceagainashormuztalksprogress",
   "39b0ae17a7086681",
@@ -603,7 +601,9 @@
   "7eba9b1f5626373d",
   "oilclimbsforthirdsession",
   "4a11d02d13ae6ab4",
-  "iransaysomandealisinfinalstagesbutusmustacttoopenhormuz"
+  "iransaysomandealisinfinalstagesbutusmustacttoopenhormuz",
+  "00165a079a082776",
+  "datacenterbacklashleadstoanewlandrushinthetexasoilpatch"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 10
  },
- "last_run": "2026-08-10T03:15:17.534339+03:00",
+ "last_run": "2026-08-10T03:20:21.205152+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
