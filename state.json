@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "a169f2e1d24f3351",
-  "indigenouspeoplesarekeyinthefightagainstclimatechangebutourv",
   "a2a42dd587a5a722",
   "adnocreports15vesselattacksashormuzrisksmount",
   "d588d81884369f92",
@@ -603,7 +601,9 @@
   "55d1bdf0b094a467",
   "oilrisesamidgrowingdoubtsthatstraitofhormuzcanreopensoon",
   "fa3b53c2cfdc8e8f",
-  "oilpricesriseastradersassessusirantalksonstraitofhormuzdeal"
+  "oilpricesriseastradersassessusirantalksonstraitofhormuzdeal",
+  "51bda243ee34ac3d",
+  "oilpricesriseastradersassessusiranstraitofhormuzdeal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 50
+  "count": 51
  },
- "last_run": "2026-08-10T09:55:13.780147+03:00",
+ "last_run": "2026-08-10T10:00:21.639358+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
