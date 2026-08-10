@@ -4,10 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "8895ea7ecc02fbbc",
-  "oilpriceforecastwhyoilcouldstillsnapbackhigher",
-  "1cbe8b66b1c59710",
-  "iraqoilexportsplungeonstraitofhormuzclosure",
   "9973f31d19957e58",
   "sprcrudeoilacquisitionprocedures",
   "785b3200f79ff0f4",
@@ -603,7 +599,11 @@
   "58a10d61fd01e56f",
   "oilinusstrategicpetroleumreservefallstolowestlevelsince1983",
   "d0a1080e53c414d6",
-  "updateequitiesfalloilrisesintradayamidhormuzreopeninguncerta"
+  "updateequitiesfalloilrisesintradayamidhormuzreopeninguncerta",
+  "cea36308fc429ea5",
+  "americas4billionwindretreatisabetonpermanentlycheapgas",
+  "071702f39ed7ea3c",
+  "oilcontinuestoriseasiranusdoubledownonhormuzdemands"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T21:55:13.580097+03:00",
+ "last_run": "2026-08-10T22:00:23.542989+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1160,6 +1160,10 @@
   {
    "d": "2026-08-10",
    "t": "Update: Equities Fall, Oil Rises Intraday Amid Hormuz Reopening Uncertainty - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil Continues To Rise As Iran, U.S., Double Down On Hormuz Demands - Ship & Bunker"
   }
  ]
 }
