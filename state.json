@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "c6453bae6f31b0b0",
-  "worldsharesaremixedafterusstocksfallbackwhileoiledgeslower",
   "06798bbe272e333f",
   "oilanalystsstumpedbythecaseofthemissingbarrels",
   "2d0a2d6d9d14d0d0",
@@ -603,7 +601,9 @@
   "fc5ecdccf058e9a8",
   "chinaisbalancingasiascrudeoildemandbyitself",
   "13ca47632be8cc08",
-  "currentpriceofoilasofjuly282026"
+  "currentpriceofoilasofjuly282026",
+  "518c410029cb840e",
+  "greenlandwarnstrumplinkedoilfirm"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 13
  },
- "last_run": "2026-08-10T04:35:12.125475+03:00",
+ "last_run": "2026-08-10T04:40:17.305163+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
