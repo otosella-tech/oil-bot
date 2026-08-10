@@ -4,8 +4,6 @@
   "Brent": 85.06
  },
  "seen": [
-  "ba5de2d924e35fd8",
-  "oilreboundsasusjoblossesandfragileirantalksrattlemarkets",
   "7b121a04b8006e00",
   "oilhits87perbarrelagainafterlatestusstrikesoniranandloomingb",
   "efd668f006a10855",
@@ -603,7 +601,9 @@
   "6e5d22e1923ab95e",
   "sanctionedoiltankercarrying1millionbarrelsofoilsinksoffoman",
   "4c870f7a9f2f5404",
-  "egyptandlibyaadvance1btobruktoalexandriaoilpipelineproject"
+  "egyptandlibyaadvance1btobruktoalexandriaoilpipelineproject",
+  "b2481754fd82a6fd",
+  "chinafilamentyarnsteadyasupstreameasesoncrudeoilswing"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T16:05:15.584339+03:00",
+ "last_run": "2026-08-10T16:10:16.280509+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
