@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "52919922688a8f47",
-  "abudhabioilcosaysattacksonvesselsstaffsignificantlyimpacting",
   "7e0c0ada9dadaea5",
   "cushinghubsoilstoragetotalremainscriticallylow",
   "61b5309fd469d859",
@@ -603,7 +601,9 @@
   "55fafdc76ae262db",
   "adnocgasunveils82billionexpansionpush",
   "41a7260151e351aa",
-  "oilandgaspricesfluctuateamidhormuzstraittensionsandsupplyris"
+  "oilandgaspricesfluctuateamidhormuzstraittensionsandsupplyris",
+  "592b77970b89b560",
+  "bundsconsolidateastradersweighsinkinguspayrollsagainstoilris"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 56
  },
- "last_run": "2026-08-10T11:15:22.736409+03:00",
+ "last_run": "2026-08-10T11:20:21.547524+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
