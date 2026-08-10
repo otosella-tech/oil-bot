@@ -4,10 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "00165a079a082776",
-  "datacenterbacklashleadstoanewlandrushinthetexasoilpatch",
-  "27d018812bc04351",
-  "wreckedtankercontinuesuncontrolledoildischargeoffomanmaritim",
   "0e56e1e54eaea544",
   "oilrisesonuncertaintyoverreopeningofhormuz",
   "63b6f76e46b9ab03",
@@ -603,7 +599,11 @@
   "4b0ac9a69ceb2e41",
   "globaldieselcrunchworsensaheadofpeakwinterdemand",
   "3c1e7f05b7789ebf",
-  "cmewticrudeoilfuturesralliedasgulfshippingattackssustainedsu"
+  "cmewticrudeoilfuturesralliedasgulfshippingattackssustainedsu",
+  "d4285e756978cac3",
+  "usstocksedgedownfromtheirrecordafteroilpricesclimb5pittsburg",
+  "9a93cb1d77b6fb7b",
+  "usoilreservejusthitalownotseensince1983"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 4
  },
- "last_run": "2026-08-11T01:00:23.065774+03:00",
+ "last_run": "2026-08-11T01:05:19.439920+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
