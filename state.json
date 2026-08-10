@@ -4,10 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "fc5ecdccf058e9a8",
-  "chinaisbalancingasiascrudeoildemandbyitself",
-  "13ca47632be8cc08",
-  "currentpriceofoilasofjuly282026",
   "518c410029cb840e",
   "greenlandwarnstrumplinkedoilfirm",
   "19d0d1b0b20d9a3d",
@@ -603,7 +599,11 @@
   "f9064243c01d1597",
   "colombiarevivesoilandgasafterfour",
   "445483ce8cc367c0",
-  "colombiarevivesoilandgasafterfouryearrenewableenergypush"
+  "colombiarevivesoilandgasafterfouryearrenewableenergypush",
+  "3051fbdbd1ad8f94",
+  "currentpriceofoilasofaug72026",
+  "bb7bdfe7d1348128",
+  "dronestrikerocksfueltankatlibyaszawiyarefinery"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 5
+  "count": 6
  },
- "last_run": "2026-08-11T02:05:13.223502+03:00",
+ "last_run": "2026-08-11T02:09:03.193260+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
