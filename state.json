@@ -4,10 +4,6 @@
   "Brent": 85.06
  },
  "seen": [
-  "e5f0412d98ac08d9",
-  "usenergyhelpscushionglobalsupplyshockfromhormuz",
-  "da1c455ea251dd0d",
-  "unwarnsofrisingfoodpricesduetoclimatechangeandenergypricehik",
   "b6f0a2c903d4945d",
   "iransgripontradeisapotentweaponbutithasanexpirydate",
   "7bdd22d2d71cb18a",
@@ -603,7 +599,11 @@
   "33f31f74eb3c2206",
   "oilpricesclimbasdoubtsstraitofhormuzwillopenanytimesoongrow",
   "9337b2a108aa78e2",
-  "oilpricesplummetasinvestorsdigestpauseiniranwarfighting"
+  "oilpricesplummetasinvestorsdigestpauseiniranwarfighting",
+  "16c3d75c440dc084",
+  "indianrefinerscutlpglossesinaugust",
+  "8139b8829bb6aa3c",
+  "lowercrudeoilpricesdrivingdownnationalaverage"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T17:25:18.986411+03:00",
+ "last_run": "2026-08-10T17:30:21.065774+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
