@@ -4,8 +4,6 @@
   "Brent": 85.06
  },
  "seen": [
-  "351637816c58c2ef",
-  "secretlypolishthepharmacistwhohelpedlighttheworld",
   "fb4ca813fc4d9662",
   "greenlandissuesstrongwarningastrumplinkedoilfirmpreparestodr",
   "b2d507778ed47d9c",
@@ -603,7 +601,9 @@
   "99969faaa1853b6f",
   "sanctionedtankersinksfurtheroffomanasoilspillspreads",
   "6e88cb4c6833ebbf",
-  "totalenergiescommits200millionperblocktoliberiasfirstoffshor"
+  "totalenergiescommits200millionperblocktoliberiasfirstoffshor",
+  "be30447ac6dc31cb",
+  "gibsonblackseadronestrikesdisruptcrudeexportsandliftwarriskp"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T14:40:15.376649+03:00",
+ "last_run": "2026-08-10T14:45:20.881805+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1012,6 +1012,10 @@
   {
    "d": "2026-08-10",
    "t": "Sanctioned tanker sinks further off Oman as oil spill spreads - safety4sea"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Gibson: Black Sea drone strikes disrupt crude exports and lift war risk premiums - safety4sea"
   }
  ]
 }
