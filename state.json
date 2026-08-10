@@ -4,12 +4,6 @@
   "Brent": 85.06
  },
  "seen": [
-  "e7a01897001169e4",
-  "iraqseekstodiversifyitscrudeoilexportroutesamidgrowinguncert",
-  "b0be98b2df5ada1f",
-  "bpsalemakesusinvestorgermanyssecondlargestoilrefiner",
-  "e0f378c35b67356a",
-  "uaesaysiranattackedadnocvesselwithmissileinstraitofhormuz",
   "351637816c58c2ef",
   "secretlypolishthepharmacistwhohelpedlighttheworld",
   "fb4ca813fc4d9662",
@@ -603,7 +597,13 @@
   "3f771fb060ddfa98",
   "currentpriceofoilasofaugust102026",
   "e419f77ab28e931b",
-  "bigtimeoilpricerollbackagosto11tvpexpress"
+  "bigtimeoilpricerollbackagosto11tvpexpress",
+  "c9ccde7f92e4535e",
+  "iraqraisesseptembercrudeoilpricesforasianbuyers",
+  "99969faaa1853b6f",
+  "sanctionedtankersinksfurtheroffomanasoilspillspreads",
+  "6e88cb4c6833ebbf",
+  "totalenergiescommits200millionperblocktoliberiasfirstoffshor"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T14:30:17.669075+03:00",
+ "last_run": "2026-08-10T14:35:12.679319+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1004,6 +1004,14 @@
   {
    "d": "2026-08-10",
    "t": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea Oil Exports"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Iraq raises September crude oil prices for Asian buyers - Investing.com"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Sanctioned tanker sinks further off Oman as oil spill spreads - safety4sea"
   }
  ]
 }
