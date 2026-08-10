@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "479449be487829f3",
-  "currentpriceofoilasofaugust32026",
-  "b2a72778dcb795f6",
-  "usairfaresexpectedtostayhighevenifiranceasefiredropsoilprice",
   "9c5f87caa55ab63c",
   "usstockfuturesjumpasemployersunexpectedlycut23000jobs",
   "0c3740dc1ae7076c",
@@ -603,19 +599,23 @@
   "7ec2ec31fd18d1b8",
   "oilrisesasirantempershopesforswifthormuzreopening",
   "dd73da043db05191",
-  "stockmarketsdeclineinearlytradeonspikeincrudeoilprices"
+  "stockmarketsdeclineinearlytradeonspikeincrudeoilprices",
+  "d93fa63c3e06402b",
+  "asiastocksgainoilupamidgulfconfusion",
+  "55ee140af84394b0",
+  "oilextendsgainasomaniranaccordonhormuzremainselusive"
  ],
  "releases_done": {},
- "last_digest": "2026-08-09",
+ "last_digest": "2026-08-10",
  "digest_prices": {
-  "WTI": 78.18,
-  "Brent": 83.55
+  "WTI": 78.46,
+  "Brent": 84.01
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 32
+  "count": 39
  },
- "last_run": "2026-08-10T07:55:20.567567+03:00",
+ "last_run": "2026-08-10T08:00:29.705501+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
