@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "314dd8a86b0d4835",
-  "crudeoilsuppliesat45yearlow",
   "8e716b094b7e33cb",
   "trumplinkedusoilfirmimportsunapproveddrillinggearintogreenla",
   "df83cd89aa90f7d2",
@@ -603,7 +601,9 @@
   "b519a38ce7a8dbc7",
   "usequityindexesmixedascrudeoiltreasuryyieldsjumpamidworsenin",
   "63079ce59058e8bd",
-  "thehormuzcrisishasforeverchangedtheeconomicsofenergysecurity"
+  "thehormuzcrisishasforeverchangedtheeconomicsofenergysecurity",
+  "aa1293be22aafe6b",
+  "updateusequityindexesmixedascrudeoiltreasuryyieldsjumpamidwo"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T21:00:24.271190+03:00",
+ "last_run": "2026-08-10T21:05:12.880925+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
