@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "785c76d351035399",
-  "saudiscutkeyoilpriceagainashormuztalksprogress",
   "39b0ae17a7086681",
   "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths",
   "c72a72fc5b0e7d56",
@@ -603,7 +601,9 @@
   "4a11d02d13ae6ab4",
   "iransaysomandealisinfinalstagesbutusmustacttoopenhormuz",
   "00165a079a082776",
-  "datacenterbacklashleadstoanewlandrushinthetexasoilpatch"
+  "datacenterbacklashleadstoanewlandrushinthetexasoilpatch",
+  "27d018812bc04351",
+  "wreckedtankercontinuesuncontrolledoildischargeoffomanmaritim"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 10
  },
- "last_run": "2026-08-10T03:45:15.993929+03:00",
+ "last_run": "2026-08-10T03:50:16.381385+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
