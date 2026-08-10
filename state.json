@@ -4,14 +4,6 @@
   "Brent": 85.06
  },
  "seen": [
-  "cc7a2a5c1b3f006b",
-  "leakingtankeroffomancoastissinkingdeepersatelliteimagesshowt",
-  "21f7074387d155d8",
-  "uscrudeoilinventoriesbuildaswashingtontalksuppotentialpeaced",
-  "9a735099a055aaae",
-  "stockswaveronwallstreetwhilecrudeoilpricesfallforthefirsttim",
-  "7fecb7803051b46a",
-  "ukrainesmilitaryhitsoneofrussiasbiggestoilrefineriesinlongra",
   "848f1243fa7405ad",
   "opiniontrumpwantstobetheoilmaninchiefitscostinghimathome",
   "3413f4be13eef5bf",
@@ -603,7 +595,15 @@
   "ab3f07f977eee72c",
   "usbets400milliononaustralianscandiumminertobreakchinasgrip",
   "b92bf32193eb781d",
-  "oilrisesabove85asmiddleeasttensionsfuelsupplyconcerns"
+  "oilrisesabove85asmiddleeasttensionsfuelsupplyconcerns",
+  "8a2cb01489f79af4",
+  "oilfuturescrudehigheramidtensestandoffoverstraitofhormuz",
+  "7f52bf0d185534e2",
+  "datacenterbacklashleadstonewlandrushintexasoilpatch",
+  "a4b68f342af91d70",
+  "ukrainiandronestrikes750milesinsiderussiakillatleast13author",
+  "761e4731da99828a",
+  "vivakoracceleratescrudeoiltradingportfoliotoward2billioninan"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T16:30:20.391662+03:00",
+ "last_run": "2026-08-10T16:35:21.240105+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1048,6 +1048,14 @@
   {
    "d": "2026-08-10",
    "t": "US markets point to a mixed open and oil prices tick higher over Hormuz stalemate - Boston Herald"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil futures: Crude higher amid tense standoff over Strait of Hormuz - qcintel.com"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Ukrainian drone strikes 750 miles inside Russia kill at least 13, authorities say - CBS News"
   }
  ]
 }
