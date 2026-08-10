@@ -4,8 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "09105e2873e358c1",
-  "oilgainsonpendingiranomandealoverhormuz",
   "9b02063ab11a46c0",
   "lowercrudeoilpricesdrivingdowncaliforniaaverage",
   "a2880f9860602f9e",
@@ -603,7 +601,9 @@
   "51e588b3016f590a",
   "globalstockstickupwithoilsteadyonhormuzplans",
   "1fad817d6eb0e42b",
-  "egypttargetshigheroilandgasoutputin20262027developmentplan"
+  "egypttargetshigheroilandgasoutputin20262027developmentplan",
+  "eb5c58059a7b87fc",
+  "oilreboundsbutuncertaintyremainsaboutreopeningstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T12:40:15.652588+03:00",
+ "last_run": "2026-08-10T12:45:17.076580+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -940,6 +940,10 @@
   {
    "d": "2026-08-10",
    "t": "Global stocks tick up with oil steady on Hormuz plans - Reuters"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil rebounds, but uncertainty remains about reopening Strait of Hormuz - marketscreener.com"
   }
  ]
 }
