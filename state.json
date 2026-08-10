@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "a2b627f7c0a8b020",
-  "bravaenergiaexecutionoflongtermagreementforthepurchaseofoilp",
-  "00a33d60b0904074",
-  "ukrainefacesagrowingairdefensecrisisaspatriotsuppliesdwindle",
   "965a85c2016fb3aa",
   "indiaspipelineplantobypassstraitofhormuzfacesmajorheadachess",
   "fc6eeece3d72ff8f",
@@ -603,7 +599,11 @@
   "48bef64f00b956ba",
   "crudeoilpricestodayaugust102026pricesriseashormuzreopeningre",
   "b6daa5ce0c110801",
-  "wtoffshoreq2earningscallhighlights"
+  "wtoffshoreq2earningscallhighlights",
+  "2eec166e7c02531b",
+  "uaesadnocgastoinvestmorethan8billioninexpansionpush",
+  "179e83ce769e43e7",
+  "crudeoiledgeshigherasstraitofhormuzreopeningconcernssupportp"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-08-10T08:55:13.156896+03:00",
+ "last_run": "2026-08-10T09:00:21.773400+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -912,6 +912,10 @@
   {
    "d": "2026-08-10",
    "t": "Crude Oil Prices Today, August 10, 2026: Prices Rise as Hormuz Reopening Remains Uncertain; Brent Tops $84 - HDFC Sky"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Crude Oil Edges Higher As Strait Of Hormuz Reopening Concerns Support Prices By Kedia Advisory - Investing.com India"
   }
  ]
 }
