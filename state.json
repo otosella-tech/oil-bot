@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "abac193bd5923a04",
-  "oilshormuzrallyfacesasupplytestasusoutputclimbs38",
-  "570dce4db1e83b07",
-  "oilpriceslittlechangedasmarketwaitsondealtoopenstraitofhormu",
   "024f63895b2b7e29",
   "texaseconomicboomhowaioilandyallstreetarefuelinghistoricgrow",
   "66d42b8b26f770d6",
@@ -603,7 +599,11 @@
   "3680f8b9a658af1f",
   "turkeyresumesblackseashiptransitsviastraitsafterdelays",
   "581408911ee91ae0",
-  "palmoilpricesroseastraderswaitedonmpobstocksdata"
+  "palmoilpricesroseastraderswaitedonmpobstocksdata",
+  "74e3ea42c4f6b924",
+  "oilpricesriseasiranhardenshormuzdemands",
+  "dd8b66dd092394c5",
+  "dronesattacktatarstannizhnekamskoilrefinerytargetedvideo"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-08-10T08:25:19.916204+03:00",
+ "last_run": "2026-08-10T08:30:17.628856+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -900,6 +900,14 @@
   {
    "d": "2026-08-10",
    "t": "Oil rises as Iran tempers hopes for swift Hormuz reopening - Reuters"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil Prices Rise as Iran Hardens Hormuz Demands"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Drones attack Tatarstan: Nizhnekamsk oil refinery targeted – video - Українська правда"
   }
  ]
 }
