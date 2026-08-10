@@ -4,8 +4,6 @@
   "Brent": 85.06
  },
  "seen": [
-  "848f1243fa7405ad",
-  "opiniontrumpwantstobetheoilmaninchiefitscostinghimathome",
   "3413f4be13eef5bf",
   "uscrudeoilpricesincrease058asgeopoliticaluncertaintyliftsmar",
   "bbe6d8ed83d65184",
@@ -603,7 +601,9 @@
   "a4b68f342af91d70",
   "ukrainiandronestrikes750milesinsiderussiakillatleast13author",
   "761e4731da99828a",
-  "vivakoracceleratescrudeoiltradingportfoliotoward2billioninan"
+  "vivakoracceleratescrudeoiltradingportfoliotoward2billioninan",
+  "a5cdc5c6535c445b",
+  "vivakorsubsidiarysignscrudeoiltradingcontracts"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T16:35:21.240105+03:00",
+ "last_run": "2026-08-10T16:40:18.653472+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
