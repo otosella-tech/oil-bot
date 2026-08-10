@@ -4,12 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "c7672579623f5322",
-  "ischinaquietlyusingtheoilcardtopushirantowardsthenegotiating",
-  "4eb881995b96f148",
-  "iransoilexportsstallandkhargislandidlesunderusblockade",
-  "aef46e960904aff4",
-  "shippingthroughhormuzdropstensionsmountwheredooilpricesgo",
   "3ec1cee9c43c1d2d",
   "asiansharesmixedafterusstocksfallbackwhileoilrebounds",
   "6a2521cbbe8dad94",
@@ -603,7 +597,13 @@
   "8e8103f1913edfba",
   "brentcrudetops84ashormuznegotiationdeadlockliftsprices",
   "e725485eecfc0879",
-  "indiansharesopenhigherassoftusjobsdataoffsetsoilworries"
+  "indiansharesopenhigherassoftusjobsdataoffsetsoilworries",
+  "371943ea24d7c724",
+  "westernmidstreampartnersq2earningscallhighlights",
+  "8f3994fca666b209",
+  "crudeoilrisesasuncertaintyoverhormuzreopeningcontinues",
+  "c9293cd8a0677042",
+  "crudeoilrisesashormuzuncertaintykeepsbrentabove84"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-08-10T07:25:11.995270+03:00",
+ "last_run": "2026-08-10T07:30:24.616487+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -888,6 +888,14 @@
   {
    "d": "2026-08-10",
    "t": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz - Al Jazeera"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Crude oil rises as uncertainty over Hormuz reopening continues - BusinessLine"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Crude Oil Rises as Hormuz Uncertainty Keeps Brent Above $84 - HDFC Sky"
   }
  ]
 }
