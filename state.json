@@ -4,10 +4,6 @@
   "Brent": 83.39
  },
  "seen": [
-  "55ed7874c1b2efb8",
-  "stockmarketsdeclinedraggedbybankselevatedcrudeoilprices",
-  "b704bc4d7efdac0b",
-  "ukpetrolpriceshithighestlevelsinceiranwarbegan",
   "ae1a141f4acbbd63",
   "ftse100risesasoilpricesclimbandlloydswarnsofrenewedmortgagep",
   "3cf4de1e8253195c",
@@ -603,7 +599,11 @@
   "b1aaff7c2c2e57d2",
   "crudeoiladvancesashormuzuncertaintyunsettlesglobalenergymark",
   "4538f31c19391400",
-  "currentpriceofoilasofjuly302026"
+  "currentpriceofoilasofjuly302026",
+  "fbd822557648dbae",
+  "chinaisbalancingasiascrudeoildemandbyitselfrussell",
+  "082267c4aaf50aae",
+  "oilpricetodaybrentcrudejumpsover1astradersawaithormuzreopeni"
  ],
  "releases_done": {},
  "last_digest": "2026-08-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-10",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-08-10T05:15:15.412077+03:00",
+ "last_run": "2026-08-10T05:20:15.893147+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -868,6 +868,10 @@
   {
    "d": "2026-08-10",
    "t": "Oil Prices On Aug. 10: Brent Crude Nears $85 On Uncertainty Over Reopening Of Strait Of Hormuz - NDTV Profit"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Oil price today: Brent crude jumps over 1% as traders await Hormuz reopening - The Times of India"
   }
  ]
 }
