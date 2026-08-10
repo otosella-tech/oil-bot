@@ -4,8 +4,6 @@
   "Brent": 85.06
  },
  "seen": [
-  "0c45c08d72102d35",
-  "oilpricesjumpafteriranpublishesrestrictivedraftplanforstrait",
   "5dbc52c388181abb",
   "ussanctionsonrussianoilcouldhurtamericamorethanindiaexpertsa",
   "8139b8829bb6aa3c",
@@ -603,7 +601,9 @@
   "ec4fcec493617f8f",
   "usstocksdriftneartheirrecordsasoilpricesrise",
   "003d582f36900986",
-  "marketsendmarginallyhigheronspikeincrudeoilprices"
+  "marketsendmarginallyhigheronspikeincrudeoilprices",
+  "45a04d699063ad16",
+  "canadiandollarandbusinessoutlooklooniedowncrudeoilstepsup"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T17:10:25.627992+03:00",
+ "last_run": "2026-08-10T17:15:31.865007+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
