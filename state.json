@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "c8d074cfd6f55ff7",
-  "chinasinflationcoolsasiranwaroilshockstartstoease",
   "7eba9b1f5626373d",
   "oilclimbsforthirdsession",
   "4a11d02d13ae6ab4",
@@ -603,7 +601,9 @@
   "dbc7ed4a43c1dd7b",
   "canadianfinancialcloselooniesteadycrudeoilhigher",
   "58938e627826ee9f",
-  "currentpriceofoilasofaugust42026"
+  "currentpriceofoilasofaugust42026",
+  "d1801530d6854045",
+  "financialmarketsoilpricesandsupplysiderisks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 4
  },
- "last_run": "2026-08-11T00:40:20.649896+03:00",
+ "last_run": "2026-08-11T00:45:15.500423+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
