@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "8398244f218561e4",
-  "thefirstmajortestofopecafteruaesexit",
   "c914729cd0c48881",
   "fireextinguishedataramcorefineryinjazansaudiarabiasays",
   "28c2131b94a20515",
@@ -603,7 +601,9 @@
   "e743dc353f8097a3",
   "michigangaspricescontinuetofluctuateasconflictanduncertainty",
   "40f1115b03591e49",
-  "chevronstockjumps33ashormuzdoubtsliftoil"
+  "chevronstockjumps33ashormuzdoubtsliftoil",
+  "d25d7953c0a090d8",
+  "yemenshouthisclaimattackonaramcooilfacilityinsaudiarabiaando"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-10",
   "count": 60
  },
- "last_run": "2026-08-10T19:05:18.964746+03:00",
+ "last_run": "2026-08-10T19:10:15.118173+03:00",
  "sent_stories": [
   {
    "d": "2026-08-07",
@@ -1100,6 +1100,10 @@
   {
    "d": "2026-08-10",
    "t": "Chevron Stock Jumps 3.3% as Hormuz Doubts Lift Oil - Yahoo! Finance Canada"
+  },
+  {
+   "d": "2026-08-10",
+   "t": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news - NPR"
   }
  ]
 }
