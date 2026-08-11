@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "894e7605b592bc76",
-  "oilsurgeswithnohormuzdealinsight",
-  "1babbc6b0b556c65",
-  "oilspillfromsanctionedtankerspreadsrapidly",
   "7390304d3d7280a0",
   "canadiandollarsteadiesneareightweekhighasoiljumps",
   "ceee09a4c014cbd8",
@@ -603,7 +599,11 @@
   "df178648abbf05b1",
   "usequitymarketsendloweramidrisingcrudeoilpricesusiranuncerta",
   "441f93c4d184bdc5",
-  "updateusequityindexesfallamidhighercrudeoilpricestreasuryyie"
+  "updateusequityindexesfallamidhighercrudeoilpricestreasuryyie",
+  "d2f5b3b8ca86cd03",
+  "yeninterventionwearsoffoiljumpsandintelrakesinmoremarketspmf",
+  "06a85079bc1e4d95",
+  "uscrudeoilinventoriespostweeklyincrease"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T23:15:18.165779+03:00",
+ "last_run": "2026-08-11T23:20:14.447093+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
