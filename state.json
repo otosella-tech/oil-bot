@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "561402a267835424",
-  "dieselpricessurgeontighteningglobalsupply",
-  "101ec294190cdb5d",
-  "menfoundcoveredingreasearrestedforstealingcookingoilfrommall",
   "130ffa962791b43e",
   "usoilreserveshit43yearlow",
   "b35e9cbf5594c8f4",
@@ -603,7 +599,11 @@
   "f36df6f7cc41bc1d",
   "crudeoilpricesriseandthedollarextendsgainsasusirannegotiatio",
   "1cebef45e5be2be0",
-  "crudeoilpriceforecastbreakouttargets9434andbeyond"
+  "crudeoilpriceforecastbreakouttargets9434andbeyond",
+  "ef7785fa5933ee9c",
+  "usstockscontinuedtodeclineamidconcernsoverrisingcrudeoilpric",
+  "e00275cbf0176b90",
+  "uscrudeoilinventoriesriseasfuelstocksdeclinebyinvestingcom"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 1
  },
- "last_run": "2026-08-12T00:20:15.210177+03:00",
+ "last_run": "2026-08-12T00:25:13.557947+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
