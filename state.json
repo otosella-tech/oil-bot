@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "c0ca4b8bddc768a8",
-  "tagoilspudst200wellatbed1concessioninegypt",
   "85dd771ec9237426",
   "usstockmarkettodaywallstreetdriftsnearalltimehighcrudeoilpri",
   "77587dcde462f5d9",
@@ -603,7 +601,9 @@
   "be22839d0d39f2fd",
   "oilpriceslowerstockshigherashormuzdoubtsdragon",
   "d3ddfe324e26c182",
-  "americasstockpileofcrudeoilhasdroppedtothelowestlevelinmoret"
+  "americasstockpileofcrudeoilhasdroppedtothelowestlevelinmoret",
+  "a3ad6ea97a926852",
+  "oilturnslowerwithmarketwatchinghormuztalks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T17:45:17.203285+03:00",
+ "last_run": "2026-08-11T17:50:15.685010+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1192,6 +1192,10 @@
   {
    "d": "2026-08-11",
    "t": "Oil prices lower, stocks higher as Hormuz doubts drag on - France 24"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil Turns Lower With Market Watching Hormuz Talks - WSJ"
   }
  ]
 }
