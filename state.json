@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "66e351f9cc9c141f",
-  "iraqsoillifelinereopensbutcanbaghdadtrustturkeyforevenoneyea",
-  "3c3403c075e38a45",
-  "californiasupremecourtsideswithoilrefinerinlocaltaxdispute",
   "01e9caa46642b6a8",
   "energystockslifttsxintopositiveterritoryasoilpricesrise",
   "b5b6de63b1732302",
@@ -603,7 +599,11 @@
   "97f52a35c7694204",
   "oilpricesarerisingagainashopesforausirandealfadehereswhatene",
   "5fccef8d29d62aab",
-  "usstocksedgedownfromtheirrecordafteroilpricesclimb5"
+  "usstocksedgedownfromtheirrecordafteroilpricesclimb5",
+  "ea1cf6f7b48f52a6",
+  "updateusequityindexesfallascommunicationservicessectorslides",
+  "7abb806571bf2b35",
+  "usstocksfallafteriransaysstraitofhormuzwillremainshut"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T23:40:14.826533+03:00",
+ "last_run": "2026-08-11T23:45:15.324216+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1311,6 +1311,10 @@
   {
    "d": "2026-08-11",
    "t": "ExxonMobil Holdings Corporation (XOM) vs. Chevron Corporation (CVX): Trump Attacks the Oil Giants for Making “Too Much Money” - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "U.S. stocks fall after Iran says Strait of Hormuz will remain shut - Fortune"
   }
  ]
 }
