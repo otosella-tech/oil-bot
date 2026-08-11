@@ -4,14 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "d23a1ff33bd98db2",
-  "iraqraisesseptembercrudeoilpricesforasianbuyersbyinvestingco",
-  "4568dc29528592b8",
-  "currentpriceofoilasofaug52026",
-  "b0818ba839652e32",
-  "europeanstocksflatlineastradersweighoilriskandpackeddataweek",
-  "fe6e5b8ef0ffaed9",
-  "ukrainianstrikes750milesinsiderussiakillatleast13authorities",
   "a5082a109dbcbfd8",
   "greenlandhitstrumplinkedoilfirmwithstrongwarningascompanylan",
   "1d6481f05da19b60",
@@ -603,7 +595,15 @@
   "4622f346ec20a016",
   "aicouldhelpunlockmoreoilandemissions",
   "6ebf65c71ccf0cc2",
-  "oilpricesholdsteadyafterjumping5whileasiansharesaremixednati"
+  "oilpricesholdsteadyafterjumping5whileasiansharesaremixednati",
+  "ee56917cee8aafc6",
+  "currentpriceofoilasofaugust112026",
+  "d297ed2961ba04d4",
+  "interestratesoilpriceslimitwallstreetprebellasiaoffeuropefla",
+  "49122d891657c3f0",
+  "currentpriceofoilasofaug62026",
+  "4310eddd0d220d91",
+  "oilextendsgainsashormuzdealremainselusivemarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T14:15:15.049460+03:00",
+ "last_run": "2026-08-11T14:20:15.727277+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1096,6 +1096,10 @@
   {
    "d": "2026-08-11",
    "t": "Oman confirms oil spill from grounded tanker spreads across 400km² - Yahoo"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap - Bloomberg.com"
   }
  ]
 }
