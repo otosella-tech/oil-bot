@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "cd165784a3a1c1c4",
-  "omancrudeoilpricegoesupbyusd121fananews",
   "837898afde65fec0",
   "congressionalreportwarnshormuzcrisisputsglobalenergysupplies",
   "f353c29529c68243",
@@ -603,7 +601,9 @@
   "143d3c7774a05d23",
   "brentcouldhit100ashormuzcrisisflaresagain",
   "f93466045d1089ac",
-  "trumpextendsnarrowedwaiverofusajonesact"
+  "trumpextendsnarrowedwaiverofusajonesact",
+  "4f0dae705db6cf93",
+  "oiluscrudepriceforecastfortodaytomorrownextweekandnext30days"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T17:55:13.469833+03:00",
+ "last_run": "2026-08-11T18:00:23.688196+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
