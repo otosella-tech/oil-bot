@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "44e62ce896d6aa77",
-  "crudeoilsurgedover5metalsbroadlyroselmealuminumzincandtingai",
   "afcae1fa5d6b0656",
   "crudeoilpricesriseaswtitests80brentholdsabove84onhormuzrisks",
   "d6702cf2f45d973b",
@@ -603,7 +601,9 @@
   "f8e8378c3dd86941",
   "usraises2026oilforecastto87abarrelamidhormuzdisruption",
   "4e7d4e3ac215c0e4",
-  "wallstreetdriftsnearitsalltimehighasoilpriceskeepswinginguni"
+  "wallstreetdriftsnearitsalltimehighasoilpriceskeepswinginguni",
+  "a1d389481b20bf96",
+  "oilpricescontinueclimbonusirandealdoubtsstocksretreat"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 2
+  "count": 3
  },
- "last_run": "2026-08-12T02:25:12.589341+03:00",
+ "last_run": "2026-08-12T02:30:20.104684+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
