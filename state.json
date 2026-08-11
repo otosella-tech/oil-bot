@@ -4,16 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "e194b406fe9c2144",
-  "wheredidchinasoilimportsgo",
-  "c30fd8c24de9d521",
-  "chinascrudeoilimportsfellinthesecondquarter",
-  "2d8cef3e352e52bf",
-  "nesrmurphyoilpropetrooccidentalpetroleumanddiamondbackenergy",
-  "bffb0b6139a1bd2d",
-  "omansaysmassiveoilspillfromgroundedshadowfleettanker",
-  "9d26faa205674530",
-  "bofahormuzneeds10timesmoreshipstostabilizeoilmarkets",
   "36fb4d3a48eed0c5",
   "chinaisbalancingasiascrudeoildemandbyitselfthechina",
   "9a808a822127f1fc",
@@ -603,7 +593,17 @@
   "a8f2d0b77fa9d4fc",
   "theoilroundtripisntoverandneitherisitseffectonyourportfolio",
   "8d3d8cf115c48409",
-  "oilfuturesgainasmarketlooksforhormuzagreement"
+  "oilfuturesgainasmarketlooksforhormuzagreement",
+  "cb627635a94d7d90",
+  "oilpricessettleafter5surgethedaybefore",
+  "786ab1050361328d",
+  "usexpectsoilsupplydisruptionsthroughendof2027",
+  "219e45c9431fc091",
+  "libyasnocsaysdroneattacktargetedfueltankatzawiyaoilrefinery",
+  "8f1ce62e15dd51ae",
+  "updateequitiesfalloiladvancesashopedimsforhormuzreopening",
+  "a89b756b43f21597",
+  "usequityindexesfallascommunicationservicesleadssectorslowerc"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T20:50:15.295325+03:00",
+ "last_run": "2026-08-11T20:55:14.786336+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1244,6 +1244,18 @@
   {
    "d": "2026-08-11",
    "t": "Oil Futures Gain As Market Looks for Hormuz Agreement - WSJ"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Libya's NOC says drone attack targeted fuel tank at Zawiya oil refinery - The Jerusalem Post"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Update: Equities Fall, Oil Advances as Hope Dims for Hormuz Reopening - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "US Equity Indexes Fall as Communication Services Leads Sectors Lower, Crude Oil Up Amid Hormuz Reopening Concerns - marketscreener.com"
   }
  ]
 }
