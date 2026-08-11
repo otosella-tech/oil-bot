@@ -4,8 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "c53be1b20cc597c1",
-  "200000barrelsamonthvivakorsnewcrudedealssettostartsept1",
   "5f87f5ee65a1d005",
   "usmarketspointtoamixedopenandoilpricestickhigheroverhormuzst",
   "ab3f07f977eee72c",
@@ -603,7 +601,9 @@
   "dedbe4720eea2ec8",
   "yourtuesdayaug11guidefivethingstodointheoilcity",
   "83bcd1b955fd96c1",
-  "nvidiasinvestibleassetusoilreserveshrinkstrumpsvaccineordera"
+  "nvidiasinvestibleassetusoilreserveshrinkstrumpsvaccineordera",
+  "9862cc5e8459ffce",
+  "globaloilpricessurgethenretreatasnewsignalsemergeonusirandea"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T16:15:24.768516+03:00",
+ "last_run": "2026-08-11T16:20:15.131329+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1148,6 +1148,10 @@
   {
    "d": "2026-08-11",
    "t": "What has been hit in Ukraine's attacks on Russian energy sites? - Reuters"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Global Oil Prices Surge Then Retreat as New Signals Emerge on US-Iran Deal - TradingKey"
   }
  ]
 }
