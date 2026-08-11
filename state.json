@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "3f217119aef5dc92",
-  "russiarebuildsnuclearworkforceatiransbushehrplant",
   "b7f3d96091c26517",
   "omansaysgroundedtankeroilspillcovers150squaremiles",
   "6b988fee643f9c35",
@@ -603,7 +601,9 @@
   "5284db1e981a43c6",
   "crudeoilpricesbrenttargets90whileopecsupplycapsgains",
   "6e30555cff3f8ad8",
-  "oilpricestouch90abarreloverusiranstalemate"
+  "oilpricestouch90abarreloverusiranstalemate",
+  "7a3032503a85729d",
+  "francespowerpricesjump22asheatwavetrimsnuclearoutput"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T18:25:13.662461+03:00",
+ "last_run": "2026-08-11T18:30:21.870931+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
