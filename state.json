@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "e743dc353f8097a3",
-  "michigangaspricescontinuetofluctuateasconflictanduncertainty",
   "40f1115b03591e49",
   "chevronstockjumps33ashormuzdoubtsliftoil",
   "d25d7953c0a090d8",
@@ -603,7 +601,9 @@
   "7335af6057fac622",
   "sprcrudeoilacquisitionprocedures",
   "f799bd8e297c5932",
-  "omansaysgroundedtankeroilspillcovers400squarekm"
+  "omansaysgroundedtankeroilspillcovers400squarekm",
+  "0f3f354f17956bb7",
+  "oilinusstrategicpetroleumreservefallsbelow300millionbarrelsl"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T19:05:13.188539+03:00",
+ "last_run": "2026-08-11T19:10:15.209241+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-08-11",
    "t": "Oman says grounded tanker oil spill covers 400 square km - reuters.com"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983 - CNBC"
   }
  ]
 }
