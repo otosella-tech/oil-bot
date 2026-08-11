@@ -4,10 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "e2b667263a5a9740",
-  "oillittlechangedasinvestorsawaithormuzdeal",
-  "7cfcfe780912019e",
-  "californiaresourcesnysecrcpostsbetterthanexpectedsalesinq2cy",
   "0792ddc19d3cc54c",
   "yourmondayaug10guidefivethingstodointheoilcity",
   "6e5d22e1923ab95e",
@@ -603,7 +599,11 @@
   "f3a6fceeffe20f41",
   "tsxfuturesinchhigherwithusinflationdatachoppyoilpricesinfocu",
   "ce020889d21b3e12",
-  "iraqandlebanonseektoreopendecadesoldkirkuktripolioilpipeline"
+  "iraqandlebanonseektoreopendecadesoldkirkuktripolioilpipeline",
+  "32a8153629dc23ad",
+  "usoilpricehoversaround82astradersweighconflictingsignalsonst",
+  "217437b9e7e451da",
+  "oilrisesabove89asstraitofhormuzdealhopesfade"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T15:35:14.967058+03:00",
+ "last_run": "2026-08-11T15:40:16.747049+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1136,6 +1136,14 @@
   {
    "d": "2026-08-11",
    "t": "Iraq and Lebanon Seek to Reopen Decades-Old Kirkuk-Tripoli Oil Pipeline - Pipeline Technology Journal"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "U.S. oil price hovers around $82 as traders weigh conflicting signals on Strait of Hormuz deal - CNBC"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil rises above $89 as Strait of Hormuz deal hopes fade - Yahoo Finance"
   }
  ]
 }
