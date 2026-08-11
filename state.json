@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "62ee514f1f000ab5",
-  "trkiyeresumesblackseastraitstransitafterdelayscrudeoiltanker",
   "5ccf9b39bff9548e",
   "oilpricesclimbasiraniandemandscloudoutlookforstraitofhormuz",
   "6b5caece7b08a728",
@@ -603,7 +601,9 @@
   "a4e0d59f74709f83",
   "oilpricesrisefurtherashopesforhormuzdealfade",
   "f47024cde81fbc1d",
-  "justmarketsoilpriceswingsunlockmultiassettradingopportunitie"
+  "justmarketsoilpriceswingsunlockmultiassettradingopportunitie",
+  "f096f9151f1bf4d9",
+  "indiansharessetformutedstartonoilcaution"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 18
  },
- "last_run": "2026-08-11T05:45:14.816924+03:00",
+ "last_run": "2026-08-11T05:50:15.597135+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
