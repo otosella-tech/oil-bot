@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "a6ea5d82585c2579",
-  "tensionsinthearcticgreenlandissuessharprebuketotrumplinkedoi",
   "b519a38ce7a8dbc7",
   "usequityindexesmixedascrudeoiltreasuryyieldsjumpamidworsenin",
   "63079ce59058e8bd",
@@ -603,7 +601,9 @@
   "15d805d5d23a82be",
   "blmseeksinitialinputformarch2027saleofoilandgasleasesinwyomi",
   "c30fd8c24de9d521",
-  "chinascrudeoilimportsfellinthesecondquarter"
+  "chinascrudeoilimportsfellinthesecondquarter",
+  "4a1d803ba0d78ab4",
+  "dronetargetsfueltankatzawiyaoilcomplexinlatestattacklibyasno"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T21:00:22.280537+03:00",
+ "last_run": "2026-08-11T21:04:55.149132+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1260,6 +1260,10 @@
   {
    "d": "2026-08-11",
    "t": "Iran Says Hormuz Will Stay Closed Until U.S. Meets Its Conditions"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Drone targets fuel tank at Zawiya oil complex in latest attack, Libya's NOC says - The Jerusalem Post"
   }
  ]
 }
