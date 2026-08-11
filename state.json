@@ -4,8 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "d7b1822c4ad2d966",
-  "crudeoilwtitrappedinbearflagnear7827livelevels",
   "0ff68bd07a453f3c",
   "oilpricesriseamiduncertaintyoverreopeningofstraitofhormuz",
   "fdc35d75fb1a20ec",
@@ -603,7 +601,9 @@
   "d3d9216e255c7d5a",
   "oilpricepredictioncrudeholdsabove82asbullstargetabreakoutpas",
   "d203a4f7b44aa976",
-  "oilrisesamidgrowingdoubtsthatstraitofhormuzcanreopensoon"
+  "oilrisesamidgrowingdoubtsthatstraitofhormuzcanreopensoon",
+  "2d3550b42562ed8b",
+  "oilpricesupbeataftersharpgainsonfadinghormuzdealhopes"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 44
+  "count": 45
  },
- "last_run": "2026-08-11T09:55:12.858814+03:00",
+ "last_run": "2026-08-11T10:00:21.745503+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
