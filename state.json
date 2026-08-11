@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "58e158b886f85681",
-  "foreignoilgiantbplocksoutworkersatitslastunionizedrefineryin",
   "e194b406fe9c2144",
   "wheredidchinasoilimportsgo",
   "c30fd8c24de9d521",
@@ -603,7 +601,9 @@
   "4c46abffa744d401",
   "wticrudeoilfuturesclosednear7690afterchoppysession",
   "a8f2d0b77fa9d4fc",
-  "theoilroundtripisntoverandneitherisitseffectonyourportfolio"
+  "theoilroundtripisntoverandneitherisitseffectonyourportfolio",
+  "8d3d8cf115c48409",
+  "oilfuturesgainasmarketlooksforhormuzagreement"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T20:45:18.083119+03:00",
+ "last_run": "2026-08-11T20:50:15.295325+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1240,6 +1240,10 @@
   {
    "d": "2026-08-11",
    "t": "Oil again gains with eyes on potential US-Iran deal; stocks climb - reuters.com"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil Futures Gain As Market Looks for Hormuz Agreement - WSJ"
   }
  ]
 }
