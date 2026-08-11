@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "93cc3b0d33b854a2",
-  "usstrategicoilreservesfalltolowestlevelsince1983",
   "791524597fee9861",
   "usoilpricehits80asdoubtgrowswashingtonandtehranwillreachstra",
   "7ebad363af8aaf7c",
@@ -603,7 +601,9 @@
   "80a437cd6d501bd6",
   "chinasjulycrudeimportsriseonlullinmideastcrisis",
   "0a6c68400262475a",
-  "wallstreetdriftsnearitsalltimehighasoilpriceskeepswingingpit"
+  "wallstreetdriftsnearitsalltimehighasoilpriceskeepswingingpit",
+  "f98c411e34ea0d92",
+  "updateusequityindexesedgelowerascrudeoilextendsgainsinmidday"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T20:10:13.567181+03:00",
+ "last_run": "2026-08-11T20:15:15.718940+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
