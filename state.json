@@ -4,10 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "5c54864d9311bde9",
-  "whysoutheastasiascleanenergysurgecouldstallbeforeitstarts",
-  "3cb95c6de3dc5341",
-  "airlinesscrambleforjetfuelashormuzdisruptiondragson",
   "d2dd4944843484d2",
   "berkeleylabsnewfusionmaterialsbreakthroughexplained",
   "67f6332c8d2cd552",
@@ -603,7 +599,11 @@
   "8f3ca4f873ac1e72",
   "uniperprofitssurgeasgermanypreparestosellenergygiant",
   "3088943091713227",
-  "currentpriceofoilasofaug112026"
+  "currentpriceofoilasofaug112026",
+  "0808574b4015c243",
+  "rupeeretreatstoneartwoweeklowasusiranstandoffpushesoilhigher",
+  "726a991cf47d59c2",
+  "oiloutlookdampsasianstockmarlets"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T13:55:12.657376+03:00",
+ "last_run": "2026-08-11T14:00:21.871669+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1084,6 +1084,10 @@
   {
    "d": "2026-08-11",
    "t": "Oil Rises Amid Growing Doubts That Strait of Hormuz Can Reopen Soon - WSJ"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Rupee retreats to near two-week low as US-Iran standoff pushes oil higher - Reuters"
   }
  ]
 }
