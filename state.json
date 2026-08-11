@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "742487017f774a0d",
-  "stocksedgedownfromtheirrecordafteroilpricesclimb5",
-  "3bf863c9c891db41",
-  "usstocksedgedownfromtheirrecordafteroilpricesclimb5",
   "4c33b74d49e2afd7",
   "wallstreeteasesashopesforimminenthormuzdealfadeinteldrops",
   "00e4132ba20c4aeb",
@@ -603,7 +599,11 @@
   "96f42fca81d2d51f",
   "2menaccusedofstealingcookingoilatnorthcharlestonmall",
   "ceee09a4c014cbd8",
-  "usequitymarketsendloweraftercrudeoilpricesrisefollowingusira"
+  "usequitymarketsendloweraftercrudeoilpricesrisefollowingusira",
+  "42257df10dd6a941",
+  "usstocksmovetothedownsideascrudeoilpricesjump",
+  "fb80825bd0034a98",
+  "exxonmobilholdingscorporationxomvschevroncorporationcvxtrump"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T23:30:24.786177+03:00",
+ "last_run": "2026-08-11T23:35:20.494275+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1307,6 +1307,10 @@
   {
    "d": "2026-08-11",
    "t": "US Equity Markets End Lower After Crude Oil Prices Rise Following US-Iran Disagreements - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "ExxonMobil Holdings Corporation (XOM) vs. Chevron Corporation (CVX): Trump Attacks the Oil Giants for Making “Too Much Money” - Yahoo Finance"
   }
  ]
 }
