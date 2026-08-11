@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "6583beac6b3011d7",
-  "crudeoilpriceanalysiscrudeoilcontinuestomoveonheadlines",
   "d6486d1f3a7bff66",
   "michigangaspricesdropinpastweekbutthatmaybeshortlived",
   "90d61f451421ccad",
@@ -603,7 +601,9 @@
   "911a226efdb1f1aa",
   "oiledgeslowerwithomanirantalksinfocusbyreuters",
   "8139b8829bb6aa3c",
-  "lowercrudeoilpricesdrivingdownnationalaverage"
+  "lowercrudeoilpricesdrivingdownnationalaverage",
+  "adac8cc455f4c593",
+  "santosstartsdeliveringoilfromalaskaproject"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T17:15:19.452883+03:00",
+ "last_run": "2026-08-11T17:20:24.057904+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
