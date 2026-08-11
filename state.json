@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "cea36308fc429ea5",
-  "americas4billionwindretreatisabetonpermanentlycheapgas",
-  "071702f39ed7ea3c",
-  "oilcontinuestoriseasiranusdoubledownonhormuzdemands",
   "e61bd051cad39429",
   "americasoilreservesarethelowestin43years",
   "ee19178387998daa",
@@ -603,7 +599,11 @@
   "e3aee027be4cbe9d",
   "somemiddleeastoiloutputwillstayshutthroughnextyearuseiasays",
   "dd123302729705aa",
-  "oilinusstrategicpetroleumreservefallstolowestlevelsince1983"
+  "oilinusstrategicpetroleumreservefallstolowestlevelsince1983",
+  "9ac81ed3c4e8961c",
+  "oilpricesreversegainsinstraitofhormuzstandoffaswallstreetinc",
+  "9c25888244edf097",
+  "septemberwticrudeoilcontractclosesup107or13settlesat8320perb"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T21:45:18.051549+03:00",
+ "last_run": "2026-08-11T21:50:16.075922+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1268,6 +1268,10 @@
   {
    "d": "2026-08-11",
    "t": "Update: US Equity Indexes Mixed as Crude Oil, Treasury Yields Jump Amid Worsening Iran Geopolitics - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil prices reverse gains in Strait of Hormuz standoff as Wall Street inches up ahead of inflation numbers - Fortune"
   }
  ]
 }
