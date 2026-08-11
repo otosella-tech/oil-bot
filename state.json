@@ -4,10 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "d6486d1f3a7bff66",
-  "michigangaspricesdropinpastweekbutthatmaybeshortlived",
-  "90d61f451421ccad",
-  "ukrainesdronewarisbreakingrussiasfuelgriponcentralasia",
   "9881c1fa8a317205",
   "troyjacksonssonreppedoilandgascompanylobbyingagainstbillthat",
   "bb8591ea6d4d129a",
@@ -603,7 +599,11 @@
   "8139b8829bb6aa3c",
   "lowercrudeoilpricesdrivingdownnationalaverage",
   "adac8cc455f4c593",
-  "santosstartsdeliveringoilfromalaskaproject"
+  "santosstartsdeliveringoilfromalaskaproject",
+  "0d95c8e1bb765959",
+  "whatreallyhappensafterukrainestrikesarussianoilrefinerymeduz",
+  "5db6aaa4f255ca1b",
+  "iraqssemiautonomouskurdishregionsuffersasusiranwardragson"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T17:20:24.057904+03:00",
+ "last_run": "2026-08-11T17:25:16.626477+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1172,6 +1172,14 @@
   {
    "d": "2026-08-11",
    "t": "Oil edges lower with Oman-Iran talks in focus By Reuters - Investing.com"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "What really happens after Ukraine strikes a Russian oil refinery? Meduza analyzed unique satellite data to assess the damage. - Meduza — Новости"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on - Al Jazeera"
   }
  ]
 }
