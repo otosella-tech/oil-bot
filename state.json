@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "7f52bf0d185534e2",
-  "datacenterbacklashleadstonewlandrushintexasoilpatch",
   "a4b68f342af91d70",
   "ukrainiandronestrikes750milesinsiderussiakillatleast13author",
   "761e4731da99828a",
@@ -603,7 +601,9 @@
   "5026d3c74acb3ffa",
   "gasolinepricesareupagainbutheadedforafall",
   "d538dc4b71bbd42b",
-  "usstockmarketedgeshigherwhilecrudeoilpricescontinuetoswing"
+  "usstockmarketedgeshigherwhilecrudeoilpricescontinuetoswing",
+  "725cf00de61c8a11",
+  "crudeoilpullsbackonirandealhopes"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T16:40:16.346770+03:00",
+ "last_run": "2026-08-11T16:45:17.999617+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
