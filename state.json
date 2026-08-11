@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "837898afde65fec0",
-  "congressionalreportwarnshormuzcrisisputsglobalenergysupplies",
   "f353c29529c68243",
   "inunprecedentedarcticoperationrussiasendsconvoyofoiltankerst",
   "3f217119aef5dc92",
@@ -603,7 +601,9 @@
   "f93466045d1089ac",
   "trumpextendsnarrowedwaiverofusajonesact",
   "4f0dae705db6cf93",
-  "oiluscrudepriceforecastfortodaytomorrownextweekandnext30days"
+  "oiluscrudepriceforecastfortodaytomorrownextweekandnext30days",
+  "5284db1e981a43c6",
+  "crudeoilpricesbrenttargets90whileopecsupplycapsgains"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T18:15:16.374663+03:00",
+ "last_run": "2026-08-11T18:20:21.075310+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1200,6 +1200,10 @@
   {
    "d": "2026-08-11",
    "t": "Brent Could Hit $100 as Hormuz Crisis Flares Again"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Crude Oil Prices: Brent Targets $90 While OPEC+ Supply Caps Gains - Coinpaper"
   }
  ]
 }
