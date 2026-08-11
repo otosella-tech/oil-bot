@@ -4,8 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "a19abb6fe2bbd195",
-  "chinascrudeoilimportsdropped32inq22026asstraitofhormuzdisrup",
   "e2b667263a5a9740",
   "oillittlechangedasinvestorsawaithormuzdeal",
   "7cfcfe780912019e",
@@ -603,7 +601,9 @@
   "c398a5230ef28825",
   "opecoutputclimbsagainbutstilltrailsquotatargets",
   "f3a6fceeffe20f41",
-  "tsxfuturesinchhigherwithusinflationdatachoppyoilpricesinfocu"
+  "tsxfuturesinchhigherwithusinflationdatachoppyoilpricesinfocu",
+  "ce020889d21b3e12",
+  "iraqandlebanonseektoreopendecadesoldkirkuktripolioilpipeline"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T15:30:24.995615+03:00",
+ "last_run": "2026-08-11T15:35:14.967058+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1132,6 +1132,10 @@
   {
    "d": "2026-08-11",
    "t": "OPEC Output Climbs Again, But Still Trails Quota Targets"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Iraq and Lebanon Seek to Reopen Decades-Old Kirkuk-Tripoli Oil Pipeline - Pipeline Technology Journal"
   }
  ]
 }
