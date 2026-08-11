@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "299e8f57e69b005b",
-  "crctoacquirecrimsonmidstreamscaliforniapipelineplatform",
   "14c440572c366fd0",
   "exxonstockjumps33asoilsupplyfearsreturn",
   "1c87acc512f8c984",
@@ -603,7 +601,9 @@
   "0af40e14702a9a4a",
   "usoilrisesabove83abarrelasiransaysstraitofhormuzwontopenunti",
   "5073454dfa744a3a",
-  "usstocksslipoilpricesrise"
+  "usstocksslipoilpricesrise",
+  "f7d779b9b6a1670e",
+  "californiansvowtofightfederaltakeoverofcoastlineforoildrilli"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T22:05:15.282463+03:00",
+ "last_run": "2026-08-11T22:10:18.042479+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
