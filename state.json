@@ -4,10 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "4893e5c93b69c8bb",
-  "oilrecordfinancialandoperationalperformancewithstronggrowthi",
-  "f4ccb701ca6d6de6",
-  "hereshowmuchmichigangaspriceshavedroppedsincelastweek",
   "ea4b3cef1f7008e4",
   "13dieinrussiaduringattackbyukraine900kmfrommoscowofficials",
   "e3e1510f325b1084",
@@ -603,7 +599,11 @@
   "08eeb0bb37ef9816",
   "expertanalysisfromsanctionstodronewarfaretheslowerosionofrus",
   "fd501acfa39e7d3b",
-  "forecastupdateforcrudeoil11082026"
+  "forecastupdateforcrudeoil11082026",
+  "39a528e6ff44f4b1",
+  "californiasupremecourtsayscitiescantaddextrahurdlestotaxrefu",
+  "82527d0f08c16842",
+  "oilspilloffomanfromtankerundersanctionsagainstrussiaspreadso"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T15:00:23.333088+03:00",
+ "last_run": "2026-08-11T15:05:13.473579+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1120,6 +1120,10 @@
   {
    "d": "2026-08-11",
    "t": "Expert Analysis | From Sanctions to Drone Warfare: The Slow Erosion of Russia’s Oil Sector - hcss.nl"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil spill off Oman from tanker under sanctions against Russia spreads over huge area - NBC News"
   }
  ]
 }
