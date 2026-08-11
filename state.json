@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "388c6bad06dea70a",
-  "afterthebellgrainsfailtofollowcrudeoilhigher",
-  "5e51f5622994d7fb",
-  "trumpextendslimitedwaiverofshippinglawtokeepoilflowinginusam",
   "299e8f57e69b005b",
   "crctoacquirecrimsonmidstreamscaliforniapipelineplatform",
   "14c440572c366fd0",
@@ -603,7 +599,11 @@
   "53f6edd6bfe9c16f",
   "armenia",
   "3269f0179f774925",
-  "oiladvancesashopesfadeforstraitofhormuzreopening"
+  "oiladvancesashopesfadeforstraitofhormuzreopening",
+  "0af40e14702a9a4a",
+  "usoilrisesabove83abarrelasiransaysstraitofhormuzwontopenunti",
+  "5073454dfa744a3a",
+  "usstocksslipoilpricesrise"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T22:00:24.169970+03:00",
+ "last_run": "2026-08-11T22:05:15.282463+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-08-11",
    "t": "Oil Advances as Hopes Fade for Strait of Hormuz Reopening - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met - CNBC"
   }
  ]
 }
