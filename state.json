@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "4a4c0ff84a9447ea",
-  "oilpricetodayaugust10crudeoilrisesto85amidhormuzworriesasatt",
   "964734791c88b99f",
   "oilrisesamidgrowingdoubtsoverstraitofhormuzsreopening",
   "ac29608f858aec63",
@@ -603,7 +601,9 @@
   "e495a2edefb94318",
   "oilsteadiesnearoneweekhighsasusiranpeacedealhopesdim",
   "44e62ce896d6aa77",
-  "crudeoilsurgedover5metalsbroadlyroselmealuminumzincandtingai"
+  "crudeoilsurgedover5metalsbroadlyroselmealuminumzincandtingai",
+  "afcae1fa5d6b0656",
+  "crudeoilpricesriseaswtitests80brentholdsabove84onhormuzrisks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 10
+  "count": 11
  },
- "last_run": "2026-08-11T04:00:23.708855+03:00",
+ "last_run": "2026-08-11T04:05:11.459241+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
