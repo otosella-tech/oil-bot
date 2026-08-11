@@ -4,8 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "242bb9eec9e731b4",
-  "oilrecordfinancialandoperationalperformancewithstrongproduct",
   "2f37a95f43bd9636",
   "oilsteadyasirantempershopesofswifthormuzreopeningbyreuters",
   "b2918a2219162522",
@@ -603,7 +601,9 @@
   "3a5541d466e0f016",
   "oilpricesaddmorethan2whileworldsharesaremostlylower",
   "a6e6d2d5c630c372",
-  "whyareoilpricesrising"
+  "whyareoilpricesrising",
+  "e9390eadb9a4e94a",
+  "oilclimbs2extendinggainsondimmingusiranpeacehopes"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 57
+  "count": 58
  },
- "last_run": "2026-08-11T13:15:21.727851+03:00",
+ "last_run": "2026-08-11T13:20:18.565495+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
