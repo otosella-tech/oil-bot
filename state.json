@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "082267c4aaf50aae",
-  "oilpricetodaybrentcrudejumpsover1astradersawaithormuzreopeni",
   "4a4c0ff84a9447ea",
   "oilpricetodayaugust10crudeoilrisesto85amidhormuzworriesasatt",
   "964734791c88b99f",
@@ -603,7 +601,9 @@
   "b5ae5949399fc72d",
   "oilfuturesedgeloweronlikelytechnicalcorrection",
   "e495a2edefb94318",
-  "oilsteadiesnearoneweekhighsasusiranpeacedealhopesdim"
+  "oilsteadiesnearoneweekhighsasusiranpeacedealhopesdim",
+  "44e62ce896d6aa77",
+  "crudeoilsurgedover5metalsbroadlyroselmealuminumzincandtingai"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 10
  },
- "last_run": "2026-08-11T03:55:16.980750+03:00",
+ "last_run": "2026-08-11T04:00:23.708855+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
