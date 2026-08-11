@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "e65f40ef5ed7efc3",
-  "thehormuzshockisfarfromover",
   "517256c73cea3ac0",
   "gaspricesedgedownto401ascrudeoilclimbs",
   "c09ba65ffdb1c941",
@@ -603,7 +601,9 @@
   "3051fbdbd1ad8f94",
   "currentpriceofoilasofaug72026",
   "fc5ecdccf058e9a8",
-  "chinaisbalancingasiascrudeoildemandbyitself"
+  "chinaisbalancingasiascrudeoildemandbyitself",
+  "b7b7c4800b8802b0",
+  "oilpricessettleupasiransaysstraitofhormuztostayshut"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 1
+  "count": 2
  },
- "last_run": "2026-08-12T01:25:12.591139+03:00",
+ "last_run": "2026-08-12T01:26:52.791070+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
