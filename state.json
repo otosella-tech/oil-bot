@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "9434c826a29cd820",
-  "goldandsilverriseasoiljumprevivesinflationrisktradekitcopmre",
   "5a9f9ab259dce6aa",
   "updatesp500retreatsfromrecordoiljumpsashormuzreopeninghopesf",
   "b00b6224906cc0b2",
@@ -603,7 +601,9 @@
   "ce6b7f6f84bf530e",
   "uscrudeoilinventoriesseesurprisebuildapi",
   "0291b6481d63477c",
-  "tsxcloserindexclosesatfreshrecordhighasoilutilitiesandteleco"
+  "tsxcloserindexclosesatfreshrecordhighasoilutilitiesandteleco",
+  "05cbd8044fe7dae3",
+  "oilsettleshigherasmarketdoubtsprogressinirantalks"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T23:50:17.590926+03:00",
+ "last_run": "2026-08-11T23:55:13.467174+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1315,6 +1315,10 @@
   {
    "d": "2026-08-11",
    "t": "U.S. stocks fall after Iran says Strait of Hormuz will remain shut - Fortune"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil Settles Higher as Market Doubts Progress in Iran Talks - WSJ"
   }
  ]
 }
