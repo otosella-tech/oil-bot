@@ -4,8 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "6e88cb4c6833ebbf",
-  "totalenergiescommits200millionperblocktoliberiasfirstoffshor",
   "be30447ac6dc31cb",
   "gibsonblackseadronestrikesdisruptcrudeexportsandliftwarriskp",
   "c19659adc4953c7a",
@@ -603,7 +601,9 @@
   "afde6f9db21aad30",
   "chinaisnowtheworldsgreatoilpower",
   "304dc23e62cd655c",
-  "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025"
+  "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025",
+  "8e57d55029a52da0",
+  "firefightersbattlezawiyarefineryblazeafterdroneattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T14:40:16.699211+03:00",
+ "last_run": "2026-08-11T14:45:16.340669+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1108,6 +1108,10 @@
   {
    "d": "2026-08-11",
    "t": "Ukraine Strikes Russian Oil Refinery More Than 1,500 Kilometers From Its Border - Kyiv Post"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Firefighters battle Zawiya refinery blaze after drone attacks - Reuters"
   }
  ]
 }
