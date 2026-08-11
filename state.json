@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "d0a1080e53c414d6",
-  "updateequitiesfalloilrisesintradayamidhormuzreopeninguncerta",
   "cea36308fc429ea5",
   "americas4billionwindretreatisabetonpermanentlycheapgas",
   "071702f39ed7ea3c",
@@ -603,7 +601,9 @@
   "ebed167b5dd412f6",
   "majoroilcompaniesreapmassiveprofitsasusandiranfightingdrives",
   "e3aee027be4cbe9d",
-  "somemiddleeastoiloutputwillstayshutthroughnextyearuseiasays"
+  "somemiddleeastoiloutputwillstayshutthroughnextyearuseiasays",
+  "dd123302729705aa",
+  "oilinusstrategicpetroleumreservefallstolowestlevelsince1983"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T21:40:15.143656+03:00",
+ "last_run": "2026-08-11T21:45:18.051549+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
