@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "7390304d3d7280a0",
-  "canadiandollarsteadiesneareightweekhighasoiljumps",
-  "ceee09a4c014cbd8",
-  "usequitymarketsendloweraftercrudeoilpricesrisefollowingusira",
   "72458be80a16e56e",
   "wallstreetendsdownasexpectationsofhormuzdealfade",
   "742487017f774a0d",
@@ -603,7 +599,11 @@
   "d2f5b3b8ca86cd03",
   "yeninterventionwearsoffoiljumpsandintelrakesinmoremarketspmf",
   "06a85079bc1e4d95",
-  "uscrudeoilinventoriespostweeklyincrease"
+  "uscrudeoilinventoriespostweeklyincrease",
+  "10cb73fd61e6f4aa",
+  "oilcontinuesclimbwithdoubtsaboutpotentialusirandealstocksret",
+  "96f42fca81d2d51f",
+  "2menaccusedofstealingcookingoilatnorthcharlestonmall"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T23:20:14.447093+03:00",
+ "last_run": "2026-08-11T23:25:13.616926+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1298,6 +1298,10 @@
   {
    "d": "2026-08-11",
    "t": "Strait of Hormuz Traffic Sank To Just Six Vessels Monday"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat - Reuters"
   }
  ]
 }
