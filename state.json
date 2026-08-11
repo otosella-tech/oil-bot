@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "b35e9cbf5594c8f4",
-  "foxslizclamanreportsoilpricesurgeisworrisomeforconsumersastr",
   "f9064243c01d1597",
   "colombiarevivesoilandgasafterfour",
   "445483ce8cc367c0",
@@ -603,7 +601,9 @@
   "e00275cbf0176b90",
   "uscrudeoilinventoriesriseasfuelstocksdeclinebyinvestingcom",
   "8b17facf26643fb1",
-  "apiuscrudeoilinventoriessurgeproductstockstumblemore"
+  "apiuscrudeoilinventoriessurgeproductstockstumblemore",
+  "bff03694569fd32a",
+  "apicrudeoilinventoriesrise9072mbarrelsexceedingexpectationso"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 1
  },
- "last_run": "2026-08-12T00:30:19.137962+03:00",
+ "last_run": "2026-08-12T00:35:20.748463+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
