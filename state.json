@@ -4,10 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "6a7c7078b6844584",
-  "oilpricesriseamiduncertaintyoverusiranstraitofhormuzdeal",
-  "0140858553c8e651",
-  "dronesstrikekeyoilrefineryhubinrussiastatarstan",
   "242bb9eec9e731b4",
   "oilrecordfinancialandoperationalperformancewithstrongproduct",
   "2f37a95f43bd9636",
@@ -603,7 +599,11 @@
   "dd723d719cf59ff0",
   "environmentaldisasterloomsasrussianshadowshipleaks800000barr",
   "f5b4b4b6530f9b05",
-  "oilpricesaddmorethan2whileworldsharesaremostlylowerabcnews"
+  "oilpricesaddmorethan2whileworldsharesaremostlylowerabcnews",
+  "3a5541d466e0f016",
+  "oilpricesaddmorethan2whileworldsharesaremostlylower",
+  "a6e6d2d5c630c372",
+  "whyareoilpricesrising"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 57
  },
- "last_run": "2026-08-11T13:00:22.753655+03:00",
+ "last_run": "2026-08-11T13:05:12.667408+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
