@@ -4,12 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "479449be487829f3",
-  "currentpriceofoilasofaugust32026",
-  "784401cb6d45ba0a",
-  "dowjonestopenergyheadlinesat12ametoilfuturessettlehigherbutd",
-  "5c182eb977c8ebe3",
-  "trumpsaysoilsupermajorsaremakingtoomuchmoneywhatwilltheydowi",
   "3680f8b9a658af1f",
   "turkeyresumesblackseashiptransitsviastraitsafterdelays",
   "581408911ee91ae0",
@@ -603,7 +597,13 @@
   "8c76258da746b7c8",
   "oilfutureshormuzimpassekeepscrudenearoneweekhighs",
   "e8400e2edf97a1a2",
-  "usstocksedgedownfromtheirrecordafteroilpricesclimb5post"
+  "usstocksedgedownfromtheirrecordafteroilpricesclimb5post",
+  "c7cee0f421c62718",
+  "hormuzdeadlockwhereoilpricescouldheadnextasprospectsforanimm",
+  "d9ca0621acc3675f",
+  "hugefirebreaksoutatlibyaszawiyarefineryafterdroneattack",
+  "095372dbb83359ac",
+  "santosloadsfirstpikkacrudeoilcargofromalaskasnorthslope"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-08-11T08:05:14.093005+03:00",
+ "last_run": "2026-08-11T08:10:16.399024+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1052,6 +1052,14 @@
   {
    "d": "2026-08-11",
    "t": "Oil prices hold near one-week high as Strait of Hormuz reopening remains in limbo - The Times of India"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade - CNBC"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack - Al Jazeera"
   }
  ]
 }
