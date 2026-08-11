@@ -1,13 +1,9 @@
 {
  "price_base": {
-  "WTI": 83.44,
+  "WTI": 81.77,
   "Brent": 88.88
  },
  "seen": [
-  "ab3f07f977eee72c",
-  "usbets400milliononaustralianscandiumminertobreakchinasgrip",
-  "b92bf32193eb781d",
-  "oilrisesabove85asmiddleeasttensionsfuelsupplyconcerns",
   "8a2cb01489f79af4",
   "oilfuturescrudehigheramidtensestandoffoverstraitofhormuz",
   "7f52bf0d185534e2",
@@ -603,7 +599,11 @@
   "9862cc5e8459ffce",
   "globaloilpricessurgethenretreatasnewsignalsemergeonusirandea",
   "de9b0bc6778c5a3d",
-  "adnocissueseighthspottendersincejuneasuaerampsupcrudeexports"
+  "adnocissueseighthspottendersincejuneasuaerampsupcrudeexports",
+  "d634b51ca9287b80",
+  "vivakorreportsincreasedcrudeoilmarketingactivity",
+  "5026d3c74acb3ffa",
+  "gasolinepricesareupagainbutheadedforafall"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T16:30:30.384357+03:00",
+ "last_run": "2026-08-11T16:35:13.723345+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
