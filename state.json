@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "badc22338aa4a870",
-  "oilextendsgainsashormuzdealremainselusive",
   "7ec2ec31fd18d1b8",
   "oilrisesasirantempershopesforswifthormuzreopening",
   "dd73da043db05191",
@@ -603,7 +601,9 @@
   "86121bb64efce800",
   "californiasgascrisisisapolicyfailureateverylevel",
   "04b388ebdc6750cc",
-  "indiansharesopentadloweroncautionoverrisingcrudeprices"
+  "indiansharesopentadloweroncautionoverrisingcrudeprices",
+  "2dbaea78cd985186",
+  "oilpricesclimbasus"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 21
+  "count": 22
  },
- "last_run": "2026-08-11T07:35:21.403972+03:00",
+ "last_run": "2026-08-11T07:40:14.366317+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
