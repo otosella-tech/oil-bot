@@ -4,10 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "16c3d75c440dc084",
-  "indianrefinerscutlpglossesinaugust",
-  "8139b8829bb6aa3c",
-  "lowercrudeoilpricesdrivingdownnationalaverage",
   "e5f0412d98ac08d9",
   "usenergyhelpscushionglobalsupplyshockfromhormuz",
   "6583beac6b3011d7",
@@ -603,7 +599,11 @@
   "5b43c538e2f915ec",
   "usstockmarketholdsnearitsalltimehighandcrudeoilpricesrise",
   "2b20f9582ad879a1",
-  "bullishoilbetsshrinkforasecondweekrunningcotdatashow"
+  "bullishoilbetsshrinkforasecondweekrunningcotdatashow",
+  "fa75ced99c0b47ee",
+  "crudeoilpriceanalysisoilstallsnear50dayemaamidmiddleeasthead",
+  "911a226efdb1f1aa",
+  "oiledgeslowerwithomanirantalksinfocusbyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T17:05:19.521756+03:00",
+ "last_run": "2026-08-11T17:10:23.786562+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1168,6 +1168,10 @@
   {
    "d": "2026-08-11",
    "t": "Oil firm as US-Iran impasse drags on; stocks edge up - Reuters"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil edges lower with Oman-Iran talks in focus By Reuters - Investing.com"
   }
  ]
 }
