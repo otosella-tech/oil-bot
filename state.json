@@ -4,10 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "7ec2ec31fd18d1b8",
-  "oilrisesasirantempershopesforswifthormuzreopening",
-  "dd73da043db05191",
-  "stockmarketsdeclineinearlytradeonspikeincrudeoilprices",
   "d93fa63c3e06402b",
   "asiastocksgainoilupamidgulfconfusion",
   "55ee140af84394b0",
@@ -603,7 +599,11 @@
   "04b388ebdc6750cc",
   "indiansharesopentadloweroncautionoverrisingcrudeprices",
   "2dbaea78cd985186",
-  "oilpricesclimbasus"
+  "oilpricesclimbasus",
+  "dc7d97f29401e66b",
+  "oilpricesclimbasusiranpeacehopesfade",
+  "8c4f2b8f0de92589",
+  "opecoiloutputhikeisirrelevantfornownotforlater"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 22
+  "count": 23
  },
- "last_run": "2026-08-11T07:40:14.366317+03:00",
+ "last_run": "2026-08-11T07:45:20.869224+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
