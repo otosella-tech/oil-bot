@@ -4,8 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "c01f7908941bb13a",
-  "indiaspreadsitsenergybetslngsourcesjumpfrom6countriesto15",
   "f2c6e05bb586483d",
   "heatwavescouldcosttheeu1ofgdpdutchbanksays",
   "5986b553b1c6c39f",
@@ -603,7 +601,9 @@
   "be642bda10c6ff76",
   "oilpricessettlewallstreetincheshigheraheadofnewinflationnumb",
   "ddd66a6743ddeb0e",
-  "oilparesgainsastradersweighomanirantalks"
+  "oilparesgainsastradersweighomanirantalks",
+  "f5fbf3254949044f",
+  "usstockfuturesriseasoilerasesgainsoniranoptimism"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T15:20:14.140225+03:00",
+ "last_run": "2026-08-11T15:25:13.142957+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1124,6 +1124,10 @@
   {
    "d": "2026-08-11",
    "t": "Oil spill off Oman from tanker under sanctions against Russia spreads over huge area - NBC News"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "US Stock Futures Rise as Oil Erases Gains on Iran Optimism - Bloomberg.com"
   }
  ]
 }
