@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "e912965ca2571ac9",
-  "updateusequityindexesmixedamidhighercrudeprices",
   "d2ab6a14a5094a10",
   "crudeoiltankercarolinebezengitransitsistanbulsbosphorus",
   "58e158b886f85681",
@@ -603,7 +601,9 @@
   "892dd9cee7157074",
   "analystsseemodestdeclineinuscrudeoilinventories",
   "4f3c9b751b3a4709",
-  "eveningupdateforcrudeoil11082026"
+  "eveningupdateforcrudeoil11082026",
+  "4c46abffa744d401",
+  "wticrudeoilfuturesclosednear7690afterchoppysession"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T20:35:18.320596+03:00",
+ "last_run": "2026-08-11T20:40:16.796865+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
