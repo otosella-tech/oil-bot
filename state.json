@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "e61bd051cad39429",
-  "americasoilreservesarethelowestin43years",
-  "ee19178387998daa",
-  "crudeoilabove82",
   "388c6bad06dea70a",
   "afterthebellgrainsfailtofollowcrudeoilhigher",
   "5e51f5622994d7fb",
@@ -603,7 +599,11 @@
   "9ac81ed3c4e8961c",
   "oilpricesreversegainsinstraitofhormuzstandoffaswallstreetinc",
   "9c25888244edf097",
-  "septemberwticrudeoilcontractclosesup107or13settlesat8320perb"
+  "septemberwticrudeoilcontractclosesup107or13settlesat8320perb",
+  "53f6edd6bfe9c16f",
+  "armenia",
+  "3269f0179f774925",
+  "oiladvancesashopesfadeforstraitofhormuzreopening"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T21:55:21.162934+03:00",
+ "last_run": "2026-08-11T22:00:24.169970+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1272,6 +1272,10 @@
   {
    "d": "2026-08-11",
    "t": "Oil prices reverse gains in Strait of Hormuz standoff as Wall Street inches up ahead of inflation numbers - Fortune"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil Advances as Hopes Fade for Strait of Hormuz Reopening - Yahoo Finance"
   }
  ]
 }
