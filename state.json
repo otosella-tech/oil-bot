@@ -4,10 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "2726334c9baafb4a",
-  "crudeoilfuturessep6clmainus",
-  "7f292b2797869359",
-  "asiastocksfirmoiledgesupongulfmorass",
   "510c8f064d92a3ad",
   "rupeeanchoredbycentralbankhandtraderswatchfulofoilructions",
   "b3913a8cbf0dc444",
@@ -603,7 +599,11 @@
   "e7b0627e22d0920a",
   "oilpricesriseasiranhardenshormuzdemands",
   "d1930f0abd8bba80",
-  "indianstocksslipas88oilweighsonbanks"
+  "indianstocksslipas88oilweighsonbanks",
+  "97b2c6808079324b",
+  "oilpricesriseasiastocksdriftonusiranstalemate",
+  "61329e301a054793",
+  "nycrudeoilsurges5asusiranreparationsstandoffdimshormuzpeaceh"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-08-11T09:20:15.824251+03:00",
+ "last_run": "2026-08-11T09:25:13.614360+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1068,6 +1068,14 @@
   {
    "d": "2026-08-11",
    "t": "Oil Prices Rise as Iran Hardens Hormuz Demands - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil prices rise, Asia stocks drift on US-Iran stalemate - Reuters"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "NY Crude Oil Surges 5% as U.S.-Iran Reparations Standoff Dims Hormuz Peace Hopes - finance.biggo.com"
   }
  ]
 }
