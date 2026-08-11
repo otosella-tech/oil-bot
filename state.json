@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "399ab70d9354e292",
-  "oilparesgainsashormuzuncertaintyhouthiattackskeepsupplyrisks",
   "bdccb0f8d8c76f6d",
   "hormuztensionssurgeafterreportsofanothertankerstrike",
   "2726334c9baafb4a",
@@ -603,7 +601,9 @@
   "e54ce4e34ddd458b",
   "explosionssparkfireatrussianoilrefineryinorskasdamageisasses",
   "1ff47d83118c07b0",
-  "financialsleadindianshareslowerashighercrudepricesspurcautio"
+  "financialsleadindianshareslowerashighercrudepricesspurcautio",
+  "e7b0627e22d0920a",
+  "oilpricesriseasiranhardenshormuzdemands"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-08-11T08:55:13.309042+03:00",
+ "last_run": "2026-08-11T09:00:22.330614+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1064,6 +1064,10 @@
   {
    "d": "2026-08-11",
    "t": "Explosions Spark Fire at Russian Oil Refinery in Orsk as Damage Is Assessed - Межа. Новини України."
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil Prices Rise as Iran Hardens Hormuz Demands - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
