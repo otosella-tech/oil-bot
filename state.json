@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "cdabbb721bb27849",
-  "crudeoilpricesriseasmarketsreacttomiddleeasttensionsandtechn",
   "168d959c980ceaf6",
   "cubaislowonoilnowitscountingonsolarwithchinashelp",
   "6f5d3a87f063c95e",
@@ -603,7 +601,9 @@
   "208f9a953b424336",
   "oilcargoswitchingoutsidehormuzindicatesdarktransits",
   "1a017442505afec4",
-  "canadiandollarandbusinessoutlookloonieslightlyhighercrudeoil"
+  "canadiandollarandbusinessoutlookloonieslightlyhighercrudeoil",
+  "4b1ff25e339c5330",
+  "usstockmarkettodaywallstreetnearrecordhighasinflationdatainf"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T17:35:12.958106+03:00",
+ "last_run": "2026-08-11T17:40:22.501108+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
