@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "c09ba65ffdb1c941",
-  "oilpricessteadyaftersharpgainsonfadinghormuzdealhopes",
   "8cbff5e620df9d25",
   "uscrudeoilpushespast82bblashopesfadeforhormuzdealusonysearca",
   "d191d1f6c0b6d526",
@@ -603,7 +601,9 @@
   "b7b7c4800b8802b0",
   "oilpricessettleupasiransaysstraitofhormuztostayshut",
   "b952e4d78c05569d",
-  "uscrudeoilinventoriesriseasfuelstocksdecline"
+  "uscrudeoilinventoriesriseasfuelstocksdecline",
+  "00dcdbc68689e006",
+  "southafricasoffshoreoilpushmeetsgrassrootsresistanceincourt"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 2
  },
- "last_run": "2026-08-12T01:45:15.544576+03:00",
+ "last_run": "2026-08-12T01:50:21.235890+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
