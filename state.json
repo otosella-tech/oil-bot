@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "2a8ce17d663d6547",
-  "usoiljumpsabove80perbarrelasstrategicpetroleumreservereaches",
   "e65f40ef5ed7efc3",
   "thehormuzshockisfarfromover",
   "517256c73cea3ac0",
@@ -603,7 +601,9 @@
   "bfb7d5f699a409ab",
   "sodium",
   "3051fbdbd1ad8f94",
-  "currentpriceofoilasofaug72026"
+  "currentpriceofoilasofaug72026",
+  "fc5ecdccf058e9a8",
+  "chinaisbalancingasiascrudeoildemandbyitself"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 1
  },
- "last_run": "2026-08-12T01:00:22.956531+03:00",
+ "last_run": "2026-08-12T01:05:13.126614+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
