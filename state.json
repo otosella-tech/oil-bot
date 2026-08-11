@@ -4,12 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "a4b68f342af91d70",
-  "ukrainiandronestrikes750milesinsiderussiakillatleast13author",
-  "761e4731da99828a",
-  "vivakoracceleratescrudeoiltradingportfoliotoward2billioninan",
-  "a5cdc5c6535c445b",
-  "vivakorsubsidiarysignscrudeoiltradingcontracts",
   "c72203ac4d2f2340",
   "usstockmarketholdsnearitsalltimehighandcrudeoilpricesrise",
   "66dbc675f0c1af85",
@@ -603,7 +597,13 @@
   "d538dc4b71bbd42b",
   "usstockmarketedgeshigherwhilecrudeoilpricescontinuetoswing",
   "725cf00de61c8a11",
-  "crudeoilpullsbackonirandealhopes"
+  "crudeoilpullsbackonirandealhopes",
+  "7835dd412875134e",
+  "usstockmarketedgeshigherwhilecrudeoilpricescontinuetoswingna",
+  "6966ed4d20387066",
+  "russiascrudeoilshipmentstumbletothelowestsincemay",
+  "b6b479c0511d683d",
+  "oilpriceseaseafterqatarsaysiranomantalksareinadvancedstage"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T16:45:17.999617+03:00",
+ "last_run": "2026-08-11T16:50:26.853324+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1152,6 +1152,14 @@
   {
    "d": "2026-08-11",
    "t": "Global Oil Prices Surge Then Retreat as New Signals Emerge on US-Iran Deal - TradingKey"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Russia’s Crude Oil Shipments Tumble to the Lowest Since May - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil prices ease after Qatar says Iran-Oman talks are in advanced stage - Investing.com"
   }
  ]
 }
