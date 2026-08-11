@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "01e9caa46642b6a8",
-  "energystockslifttsxintopositiveterritoryasoilpricesrise",
-  "b5b6de63b1732302",
-  "omansaysgroundedtankeroilspillcovers400squarekmal",
   "9434c826a29cd820",
   "goldandsilverriseasoiljumprevivesinflationrisktradekitcopmre",
   "5a9f9ab259dce6aa",
@@ -603,7 +599,11 @@
   "ea1cf6f7b48f52a6",
   "updateusequityindexesfallascommunicationservicessectorslides",
   "7abb806571bf2b35",
-  "usstocksfallafteriransaysstraitofhormuzwillremainshut"
+  "usstocksfallafteriransaysstraitofhormuzwillremainshut",
+  "ce6b7f6f84bf530e",
+  "uscrudeoilinventoriesseesurprisebuildapi",
+  "0291b6481d63477c",
+  "tsxcloserindexclosesatfreshrecordhighasoilutilitiesandteleco"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T23:45:15.324216+03:00",
+ "last_run": "2026-08-11T23:50:17.590926+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
