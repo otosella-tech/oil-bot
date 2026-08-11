@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "5e16e7e61b104e97",
-  "iranscrudeoilexportsfromkharkislandhaltedamidusnavalblockade",
   "c124ac5f70d36c7b",
   "formerorlenmanagersatriskofprisontimeoverlossmakingcrudeoils",
   "16dfbf451c7c5291",
@@ -603,7 +601,9 @@
   "b36e929405596677",
   "gulfstatesacceptanewnormalinhormuziranisincontrol",
   "7e0a753d37ee2737",
-  "santosshipsfirstcrudecargofromalaskaspikkaproject"
+  "santosshipsfirstcrudecargofromalaskaspikkaproject",
+  "269e8facf0384500",
+  "dollarpusheshigherascrudeoilsurgesandtnoteyieldsrise"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 14
+  "count": 16
  },
- "last_run": "2026-08-11T05:30:17.524200+03:00",
+ "last_run": "2026-08-11T05:35:18.349632+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1036,6 +1036,10 @@
   {
    "d": "2026-08-10",
    "t": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops - Reuters"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Dollar Pushes Higher as Crude Oil Surges and T-Note Yields Rise - Yahoo Finance"
   }
  ]
 }
