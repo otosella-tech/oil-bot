@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "e4719ac43190af80",
-  "indiascrudeoiloutputfallsforthirdstraightyear",
   "86085e1736d9bd59",
   "anotherroundofoilpricecutssetonaug11",
   "b7a8d80c21226aa9",
@@ -603,7 +601,9 @@
   "c66cbb3e011deb2f",
   "usstocksdriftneartheirrecordsasoilpricesrisefortbraggadvocat",
   "ef73c0414296fe31",
-  "oilpricesriseasiastocksdriftamidusiranstalemate"
+  "oilpricesriseasiastocksdriftamidusiranstalemate",
+  "6f8b08ce7cff953b",
+  "santoslimitedloadsfirstpikkacrudeoilcargofromalaska"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 13
  },
- "last_run": "2026-08-11T05:00:19.695870+03:00",
+ "last_run": "2026-08-11T05:05:12.640057+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
