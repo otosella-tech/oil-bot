@@ -4,8 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "29f0803f3b03aef6",
-  "plainsgpholdingslpq22026revenue1769beps19710qsummary",
   "30e999d585509906",
   "russiasshareinindiasoilimportsjumptoalltimehighof48despite10",
   "029b0534821a7c53",
@@ -603,7 +601,9 @@
   "4dd59422c8572831",
   "chinasteapotrefinerspoisedtorampupiranianoilbuying",
   "34b3665e19b1c75a",
-  "oilpricesclimbonstalemateinstraitofhormuz"
+  "oilpricesclimbonstalemateinstraitofhormuz",
+  "ba255f979f48bf69",
+  "crudeoilsurgeshigherasinflationrisksreturn90infocus"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 56
  },
- "last_run": "2026-08-11T12:45:13.857011+03:00",
+ "last_run": "2026-08-11T12:50:14.900176+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
