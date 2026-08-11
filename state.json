@@ -4,12 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "d2d285aaea7a221e",
-  "hungarysnuclearpowerreturnsasrainliftsdanubewaterlevels",
-  "fddd0b9b977df6b8",
-  "oilpricesclimbonstalemateinstraitofhormuz",
-  "1b9fd8b1f8815b4d",
-  "whyoilkeepsgettingmoreabundant",
   "6895e36965f297fb",
   "ukrainekills13includingchildindroneattackonrussiancityofnizh",
   "63945f0842c607c3",
@@ -603,7 +597,13 @@
   "cec79d7828f51e1d",
   "usiranstandoffsendsoilupdentsstocks",
   "6bae1f7e9a17b2e0",
-  "dollargainsonswissfrancasoilrevivesfedhikefears"
+  "dollargainsonswissfrancasoilrevivesfedhikefears",
+  "b79b84f68668ebbc",
+  "usoiltops84ashormuzdealhopesdwindleanddeadlockdeepens",
+  "62e6f676588b35d7",
+  "eurusdsignal1108dropstokeysupport",
+  "7d48fe6765f2728a",
+  "mencoveredingreasearrestedforstealingcookingoilfrommallinsou"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 54
+  "count": 55
  },
- "last_run": "2026-08-11T12:20:15.901262+03:00",
+ "last_run": "2026-08-11T12:25:14.700118+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
