@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 81.77,
-  "Brent": 88.88
+  "Brent": 86.91
  },
  "seen": [
-  "8a2cb01489f79af4",
-  "oilfuturescrudehigheramidtensestandoffoverstraitofhormuz",
   "7f52bf0d185534e2",
   "datacenterbacklashleadstonewlandrushintexasoilpatch",
   "a4b68f342af91d70",
@@ -603,7 +601,9 @@
   "d634b51ca9287b80",
   "vivakorreportsincreasedcrudeoilmarketingactivity",
   "5026d3c74acb3ffa",
-  "gasolinepricesareupagainbutheadedforafall"
+  "gasolinepricesareupagainbutheadedforafall",
+  "d538dc4b71bbd42b",
+  "usstockmarketedgeshigherwhilecrudeoilpricescontinuetoswing"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T16:35:13.723345+03:00",
+ "last_run": "2026-08-11T16:40:16.346770+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
