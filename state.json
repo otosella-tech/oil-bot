@@ -4,18 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "66dbc675f0c1af85",
-  "oilrisesnearly2asirantempershopesofhormuzreopening",
-  "2993980ac32e12aa",
-  "bullishoilbetsshrinkforasecondweekrunningcotdatashow",
-  "ec4fcec493617f8f",
-  "usstocksdriftneartheirrecordsasoilpricesrise",
-  "003d582f36900986",
-  "marketsendmarginallyhigheronspikeincrudeoilprices",
-  "45a04d699063ad16",
-  "canadiandollarandbusinessoutlooklooniedowncrudeoilstepsup",
-  "33f31f74eb3c2206",
-  "oilpricesclimbasdoubtsstraitofhormuzwillopenanytimesoongrow",
   "9337b2a108aa78e2",
   "oilpricesplummetasinvestorsdigestpauseiniranwarfighting",
   "16c3d75c440dc084",
@@ -603,7 +591,19 @@
   "b6b479c0511d683d",
   "oilpriceseaseafterqatarsaysiranomantalksareinadvancedstage",
   "41da7d57a7c2b564",
-  "wallstreetdriftsnearitsalltimehighasoilpriceskeepswinging"
+  "wallstreetdriftsnearitsalltimehighasoilpriceskeepswinging",
+  "1e2c94a98421fbd5",
+  "congresstargetsputinsoillifelinewithtoughnewsanctions",
+  "f766e2ea6156dd70",
+  "oilfirmasusiranimpassedragsonstocksedgeup",
+  "e832f1c4f8391967",
+  "oilpricesriseto82asgasanddieselcreepup",
+  "0227cb6df920e7cc",
+  "crudeoildxyoutlookbullishsetupsholdasusirantensionspersist",
+  "8d0e4f11710a667d",
+  "daxforecastoilbondsandthenextthreattoriskappetite",
+  "5b43c538e2f915ec",
+  "usstockmarketholdsnearitsalltimehighandcrudeoilpricesrise"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T16:55:21.133255+03:00",
+ "last_run": "2026-08-11T17:00:25.629515+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1160,6 +1160,14 @@
   {
    "d": "2026-08-11",
    "t": "Oil prices ease after Qatar says Iran-Oman talks are in advanced stage - Investing.com"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Congress Targets Putin’s Oil Lifeline With Tough New Sanctions"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil firm as US-Iran impasse drags on; stocks edge up - Reuters"
   }
  ]
 }
