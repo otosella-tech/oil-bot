@@ -4,10 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "41a7260151e351aa",
-  "oilandgaspricesfluctuateamidhormuzstraittensionsandsupplyris",
-  "592b77970b89b560",
-  "bundsconsolidateastradersweighsinkinguspayrollsagainstoilris",
   "ca8309e0456333d1",
   "aaalowercrudeoilpricesdrivingdowngasprices",
   "0774106a5fdd84fa",
@@ -603,7 +599,11 @@
   "5b1230f6a0e27635",
   "crudeoilfuturessep6clmainusbrentlastdayfinancialfuturescurre",
   "fa48b4ce463322c9",
-  "trumppivotsbacktosanctionsforiranasotherstrategiestoendhiswa"
+  "trumppivotsbacktosanctionsforiranasotherstrategiestoendhiswa",
+  "c86b4a64d81bf433",
+  "oilpricesclimbfurtherwhileasiansharesaremixed",
+  "b64563839684f728",
+  "oilpricesedgehigherasgeopoliticalrisksfuelsupplyconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 47
  },
- "last_run": "2026-08-11T10:35:13.662196+03:00",
+ "last_run": "2026-08-11T10:40:15.208888+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
