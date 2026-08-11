@@ -4,12 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "278df79856e42770",
-  "thepriceofbrentcrudeoilreached8755perbarrel",
-  "c410620f020cfda8",
-  "oilpricesriseafterusblockssurpriseattackfromiran",
-  "3d85a1af3dd040f3",
-  "oilspilloffomanfromtankerundersanctionsagainstrussiaspreadso",
   "4893e5c93b69c8bb",
   "oilrecordfinancialandoperationalperformancewithstronggrowthi",
   "f4ccb701ca6d6de6",
@@ -603,7 +597,13 @@
   "926fa41adb370b44",
   "santoscompletesfirstcrudeoilloadingfromalaskaspikkaphase1",
   "2a9d392d62a5c53f",
-  "opecoutputclimbs117mmbbldinjulyasgulfsuppliesrecoveregyptoil"
+  "opecoutputclimbs117mmbbldinjulyasgulfsuppliesrecoveregyptoil",
+  "a456d85e4c3e0847",
+  "oilpricesriseto90abarreloverusiranstalemate",
+  "08eeb0bb37ef9816",
+  "expertanalysisfromsanctionstodronewarfaretheslowerosionofrus",
+  "fd501acfa39e7d3b",
+  "forecastupdateforcrudeoil11082026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T14:55:13.084918+03:00",
+ "last_run": "2026-08-11T15:00:23.333088+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1112,6 +1112,14 @@
   {
    "d": "2026-08-11",
    "t": "Firefighters battle Zawiya refinery blaze after drone attacks - Reuters"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil Prices Rise to $90 a Barrel Over U.S.-Iran Stalemate - The New York Times"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Expert Analysis | From Sanctions to Drone Warfare: The Slow Erosion of Russia’s Oil Sector - hcss.nl"
   }
  ]
 }
