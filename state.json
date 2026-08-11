@@ -4,8 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "009cd89cc1a2d5e3",
-  "oilpriceschoppyamiduncertaintyoverusiranstraitofhormuzdeal",
   "55fafdc76ae262db",
   "adnocgasunveils82billionexpansionpush",
   "41a7260151e351aa",
@@ -603,7 +601,9 @@
   "479449be487829f3",
   "currentpriceofoilasofaugust32026",
   "f5bb01ac0877894d",
-  "currentpriceofoilasofjuly312026"
+  "currentpriceofoilasofjuly312026",
+  "5b1230f6a0e27635",
+  "crudeoilfuturessep6clmainusbrentlastdayfinancialfuturescurre"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 45
+  "count": 46
  },
- "last_run": "2026-08-11T10:25:12.726235+03:00",
+ "last_run": "2026-08-11T10:30:17.407264+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
