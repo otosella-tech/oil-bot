@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "88d49a3251b75ad6",
-  "ukrainekills13includingachildindroneattackonrussiancityofniz",
   "411c0366d186941a",
   "withthewariniranwhyarentoilpricesevenhigheropinion",
   "561bb689ab87c27d",
@@ -603,7 +601,9 @@
   "b92321c2154b67b8",
   "norwaywealthfundceosaysfundsentirevaluecouldbelostifmarketco",
   "27fb1a6af27b049f",
-  "oilpriceshigherstocksflataheadofinflationreport"
+  "oilpriceshigherstocksflataheadofinflationreport",
+  "41eb9333ba6230e0",
+  "russiasoilexportstoasiaviaarcticroutestartstronglysourcessay"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T19:20:16.508041+03:00",
+ "last_run": "2026-08-11T19:25:13.762059+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-08-11",
    "t": "Dangote refinery spurs West Africa fuel trading hub ambitions - Reuters"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Russia's oil exports to Asia via Arctic route start strongly, sources say and data shows - Reuters"
   }
  ]
 }
