@@ -4,10 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "0ff68bd07a453f3c",
-  "oilpricesriseamiduncertaintyoverreopeningofstraitofhormuz",
-  "fdc35d75fb1a20ec",
-  "oilsteadyasirantempershopesforswifthormuzreopening",
   "05a99ed20967700f",
   "oilrisesasirantempershopesforswifthormuzreopeningbyreuters",
   "2cd25cc6c8059fbb",
@@ -603,7 +599,11 @@
   "d203a4f7b44aa976",
   "oilrisesamidgrowingdoubtsthatstraitofhormuzcanreopensoon",
   "2d3550b42562ed8b",
-  "oilpricesupbeataftersharpgainsonfadinghormuzdealhopes"
+  "oilpricesupbeataftersharpgainsonfadinghormuzdealhopes",
+  "64593d6faeea41e7",
+  "indiaexpandslngsourcingnetworkfrom6to15countriescrudeoilfrom",
+  "b8b08568f5dea44f",
+  "aiwillboostoilandgasproductionmorethangreenenergyreportfinds"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 45
  },
- "last_run": "2026-08-11T10:05:21.078297+03:00",
+ "last_run": "2026-08-11T10:10:14.160573+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
