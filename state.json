@@ -4,8 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "f353c29529c68243",
-  "inunprecedentedarcticoperationrussiasendsconvoyofoiltankerst",
   "3f217119aef5dc92",
   "russiarebuildsnuclearworkforceatiransbushehrplant",
   "b7f3d96091c26517",
@@ -603,7 +601,9 @@
   "4f0dae705db6cf93",
   "oiluscrudepriceforecastfortodaytomorrownextweekandnext30days",
   "5284db1e981a43c6",
-  "crudeoilpricesbrenttargets90whileopecsupplycapsgains"
+  "crudeoilpricesbrenttargets90whileopecsupplycapsgains",
+  "6e30555cff3f8ad8",
+  "oilpricestouch90abarreloverusiranstalemate"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T18:20:21.075310+03:00",
+ "last_run": "2026-08-11T18:25:13.662461+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1204,6 +1204,10 @@
   {
    "d": "2026-08-11",
    "t": "Crude Oil Prices: Brent Targets $90 While OPEC+ Supply Caps Gains - Coinpaper"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate - The New York Times"
   }
  ]
 }
