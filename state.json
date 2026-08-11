@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "ee099fcacbf70da1",
-  "egyptandlibyanear1billionoilpipelinedeal",
   "40d9d40897cededf",
   "ftse100endslowerasoilpricepusheshigher",
   "72442839a35aeb3e",
@@ -603,7 +601,9 @@
   "3711ac4db5ae9bee",
   "samuelalitogainedupto29mfromoilandgasassetssincejoiningsupre",
   "7ffc73ca74cf2f02",
-  "usequityindexesedgelowerascrudeoilextendsgainsinmiddaytradin"
+  "usequityindexesedgelowerascrudeoilextendsgainsinmiddaytradin",
+  "5a7dd9cb5103564a",
+  "eiaraisesus20262027crudeoiloutputforecast"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T19:40:17.678411+03:00",
+ "last_run": "2026-08-11T19:45:16.618765+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
