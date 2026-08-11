@@ -4,8 +4,6 @@
   "Brent": 88.88
  },
  "seen": [
-  "9ed7920863a765d6",
-  "theothersideofthepipelinecanadaneedsusoilandgastoo",
   "75699e590364544e",
   "oilsteadyasirantempershopesofswifthormuzreopening",
   "7c94226875814c9a",
@@ -603,7 +601,9 @@
   "b9abacc99eda68df",
   "nigeriasoilregulatorreports974q2crudesupplytolocalrefiners",
   "d1648bb496229d56",
-  "malaysiassdguthrieseeselnioimpacting202728palmoiloutput"
+  "malaysiassdguthrieseeselnioimpacting202728palmoiloutput",
+  "095d1cddee15752c",
+  "electrostatesvspetrostatestheuschinaandthehormuzenergyshock"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 48
+  "count": 49
  },
- "last_run": "2026-08-11T10:55:13.392192+03:00",
+ "last_run": "2026-08-11T11:00:23.082052+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
