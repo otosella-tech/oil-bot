@@ -4,10 +4,6 @@
   "Brent": 86.91
  },
  "seen": [
-  "38890b75b1c7d27a",
-  "oilrisesamiduncertaintyoverusiranstraitofhormuzdeal",
-  "fa0f45a94f200039",
-  "predictingthecyclicoilfilmthicknessvariationinreciprocatingh",
   "cc87aabf68aa5a3b",
   "indianrupeebondstotrackoilpriceslocalandusinflationdatainfoc",
   "188c9a7ac424952f",
@@ -603,7 +599,11 @@
   "2a8ce17d663d6547",
   "usoiljumpsabove80perbarrelasstrategicpetroleumreservereaches",
   "e65f40ef5ed7efc3",
-  "thehormuzshockisfarfromover"
+  "thehormuzshockisfarfromover",
+  "517256c73cea3ac0",
+  "gaspricesedgedownto401ascrudeoilclimbs",
+  "c09ba65ffdb1c941",
+  "oilpricessteadyaftersharpgainsonfadinghormuzdealhopes"
  ],
  "releases_done": {},
  "last_digest": "2026-08-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-11",
-  "count": 7
+  "count": 8
  },
- "last_run": "2026-08-11T03:00:23.864291+03:00",
+ "last_run": "2026-08-11T03:05:11.417603+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
