@@ -4,12 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "791524597fee9861",
-  "usoilpricehits80asdoubtgrowswashingtonandtehranwillreachstra",
-  "7ebad363af8aaf7c",
-  "whatsaffectingoilpricesthisweekaug102026",
-  "fd948727811a4912",
-  "whynaborsindustriesnbrstockistradinguptoday",
   "8714e294bebcf400",
   "oilpricesjumpaswallstreeteuropeansharesunderpressurewithhorm",
   "f7e1da300a5d718c",
@@ -603,7 +597,13 @@
   "0a6c68400262475a",
   "wallstreetdriftsnearitsalltimehighasoilpriceskeepswingingpit",
   "f98c411e34ea0d92",
-  "updateusequityindexesedgelowerascrudeoilextendsgainsinmidday"
+  "updateusequityindexesedgelowerascrudeoilextendsgainsinmidday",
+  "255b74217cca0de3",
+  "oilagaingainswitheyesonpotentialusirandealstocksclimb",
+  "d5dadbdbad07d836",
+  "eurusdoutlookunderminedbycrudeoilresurgence",
+  "27bff926dccfb044",
+  "usstockmarketedgeshigherwhilecrudeoilpricescontinuetoswingmc"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-11",
   "count": 60
  },
- "last_run": "2026-08-11T20:20:14.993733+03:00",
+ "last_run": "2026-08-11T20:25:14.456184+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1236,6 +1236,10 @@
   {
    "d": "2026-08-11",
    "t": "Oil prices hold near one-week high as Hormuz talks advance - Reuters"
+  },
+  {
+   "d": "2026-08-11",
+   "t": "Oil again gains with eyes on potential US-Iran deal; stocks climb - reuters.com"
   }
  ]
 }
