@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "437f18ebf0641524",
-  "cnbcdailyopenmarketscaughtbetweenoiljittersandaioptimism",
   "1be4f1438b4bdd9c",
   "usequityindexesdeclineasfadinghopesforquickhormuzreopeningli",
   "c66cbb3e011deb2f",
@@ -603,7 +601,9 @@
   "7b30f2c353372b00",
   "insidetheusisraelsaudiplantocutiranoutofglobaloil",
   "adfecfd386bdb21d",
-  "asianstockstoslipwithuscpiiraninfocusmarketswrap"
+  "asianstockstoslipwithuscpiiraninfocusmarketswrap",
+  "3f2dafbcdb7b1fe8",
+  "oilrisesvolatilityexpectedamidmiddleeastdevelopments"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 7
  },
- "last_run": "2026-08-12T03:25:11.693977+03:00",
+ "last_run": "2026-08-12T03:30:18.199892+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
