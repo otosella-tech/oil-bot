@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "e8400e2edf97a1a2",
-  "usstocksedgedownfromtheirrecordafteroilpricesclimb5post",
   "c7cee0f421c62718",
   "hormuzdeadlockwhereoilpricescouldheadnextasprospectsforanimm",
   "d9ca0621acc3675f",
@@ -603,7 +601,9 @@
   "dc7d97f29401e66b",
   "oilpricesclimbasusiranpeacehopesfade",
   "81b118b2817983f0",
-  "rupeetreadswaterasoilanxietyabsorbsimpactofmodestinflows"
+  "rupeetreadswaterasoilanxietyabsorbsimpactofmodestinflows",
+  "9562417ce770f46c",
+  "oilextendsgainondoubtsoverhormuzdealdespiteupbeattone"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-08-12T09:25:13.261624+03:00",
+ "last_run": "2026-08-12T09:30:19.735821+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1352,6 +1352,10 @@
   {
    "d": "2026-08-12",
    "t": "Oil Prices Climb as U.S.-Iran Peace Hopes Fade - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Oil Extends Gain on Doubts Over Hormuz Deal Despite Upbeat Tone - Energy Connects"
   }
  ]
 }
