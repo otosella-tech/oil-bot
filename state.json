@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "c66cbb3e011deb2f",
-  "usstocksdriftneartheirrecordsasoilpricesrisefortbraggadvocat",
   "ef73c0414296fe31",
   "oilpricesriseasiastocksdriftamidusiranstalemate",
   "6f8b08ce7cff953b",
@@ -603,7 +601,9 @@
   "3f2dafbcdb7b1fe8",
   "oilrisesvolatilityexpectedamidmiddleeastdevelopments",
   "6f411f64cb15dace",
-  "oilrisesasdoubtsoverusirandealheightensupplyconcerns"
+  "oilrisesasdoubtsoverusirandealheightensupplyconcerns",
+  "aa06be8994861f8b",
+  "residentstrytoshutdownsouthlaoildrillsite"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 9
  },
- "last_run": "2026-08-12T04:20:13.818362+03:00",
+ "last_run": "2026-08-12T04:25:14.121303+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
