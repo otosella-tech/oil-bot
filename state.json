@@ -4,12 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "255b74217cca0de3",
-  "oilagaingainswitheyesonpotentialusirandealstocksclimb",
-  "d5dadbdbad07d836",
-  "eurusdoutlookunderminedbycrudeoilresurgence",
-  "27bff926dccfb044",
-  "usstockmarketedgeshigherwhilecrudeoilpricescontinuetoswingmc",
   "a16d1cd30de6aa3d",
   "eiaraisescrudeoilpriceforecastsasmiddleeastsupplyriskstighte",
   "892dd9cee7157074",
@@ -603,7 +597,13 @@
   "7f850e823cb79d24",
   "saudiarabiarampsoilexportsthroughmediterraneanpipelinetoavoi",
   "e71bdc38cf1e1cdf",
-  "oilcompanyproposesfrackingatplatformgildaoffventuracounty"
+  "oilcompanyproposesfrackingatplatformgildaoffventuracounty",
+  "7b10f9b400a669c7",
+  "refineryattacksdeepenglobaldieselsupplycrunch",
+  "262fa8937f92de2a",
+  "crudeoilfuturessettleat8327",
+  "faed519473991d32",
+  "saudiarabiarampsupoilexportsthroughmediterraneanpipelinetoav"
  ],
  "releases_done": {
   "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T22:55:12.306151+03:00",
+ "last_run": "2026-08-12T23:00:23.367367+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1499,6 +1499,14 @@
   {
    "d": "2026-08-12",
    "t": "Saudi Arabia ramps oil exports through Mediterranean pipeline to avoid attacks in Red Sea - CNBC"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Refinery Attacks Deepen Global Diesel Supply Crunch"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea - CNBC"
   }
  ]
 }
