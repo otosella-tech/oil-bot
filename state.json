@@ -4,12 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "af9e9a11411825f8",
-  "chinateapotstoboostiranianoilpurchasesinaugustaftershandongi",
-  "dd723d719cf59ff0",
-  "environmentaldisasterloomsasrussianshadowshipleaks800000barr",
-  "f5b4b4b6530f9b05",
-  "oilpricesaddmorethan2whileworldsharesaremostlylowerabcnews",
   "3a5541d466e0f016",
   "oilpricesaddmorethan2whileworldsharesaremostlylower",
   "a6e6d2d5c630c372",
@@ -603,7 +597,13 @@
   "2ba57a6a4720135f",
   "earningsseasonoilpricesundergirdeuropeanboursesmidday",
   "12a6f6062d170963",
-  "crudeoilsurgeshigherasinflationrisksreturn90infocus"
+  "crudeoilsurgeshigherasinflationrisksreturn90infocus",
+  "aa28def4af81ca52",
+  "usdieselpricesfall9centsasstraitofhormuztalkscontinue",
+  "6b6d31fd96a27521",
+  "saudisreportmillionbarreloutputreboundinjulytoopec",
+  "86cfdaae3dd3b77b",
+  "crudeoil1208whyistherallystillconfusingtraders"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-08-12T15:10:15.555501+03:00",
+ "last_run": "2026-08-12T15:15:15.653468+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1368,6 +1368,14 @@
   {
    "d": "2026-08-12",
    "t": "Volodymyr Zelensky halts Ukraine drone strikes on Black Sea oil tankers after US request - The Jerusalem Post"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "U.S. diesel prices fall 9 cents as Strait of Hormuz talks continue - FleetOwner"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Saudis Report Million-Barrel Output Rebound in July to OPEC - Bloomberg.com"
   }
  ]
 }
