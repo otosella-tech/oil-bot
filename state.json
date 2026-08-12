@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "b64563839684f728",
-  "oilpricesedgehigherasgeopoliticalrisksfuelsupplyconcerns",
   "8a0d00a5bce875c1",
   "globalgasturbineordershitrecordhighaspowerdemandsurges",
   "64b06b95d7528462",
@@ -603,7 +601,9 @@
   "6765676fb0c9b2e3",
   "theglobaloilmarketisshiftingtowardashortagewiththeieaproject",
   "0e24a6ef761f142f",
-  "russiaforcedtoimportgasolinefromindiaamiddomesticshortages"
+  "russiaforcedtoimportgasolinefromindiaamiddomesticshortages",
+  "c31b0e8babd9b486",
+  "volodymyrzelenskyhaltsukrainedronestrikesonblackseaoiltanker"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-08-12T13:15:16.640997+03:00",
+ "last_run": "2026-08-12T13:20:14.172675+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-08-12",
    "t": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Volodymyr Zelensky halts Ukraine drone strikes on Black Sea oil tankers after US request - The Jerusalem Post"
   }
  ]
 }
