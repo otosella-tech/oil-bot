@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "3b82c1706bbba37f",
-  "oilpricesup100826",
   "4dbf2b71c6cf63db",
   "marketminute81026oilintelmetanewsmovingmarkets",
   "5c182eb977c8ebe3",
@@ -603,7 +601,9 @@
   "f9e1c62e1044975e",
   "oilpricesup110826",
   "d515176d2e2c153c",
-  "oilministrydeniesblockingcrudeexportsthroughhormuzshafaqnews"
+  "oilministrydeniesblockingcrudeexportsthroughhormuzshafaqnews",
+  "81c9481d4e1b4e1c",
+  "oilrisesasdoubtsoverusirandealheightensupplyconcernseuronext"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -615,7 +615,7 @@
   "date": "2026-08-12",
   "count": 36
  },
- "last_run": "2026-08-12T10:05:13.574936+03:00",
+ "last_run": "2026-08-12T10:10:16.398950+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
