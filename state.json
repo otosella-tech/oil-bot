@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "e54ce4e34ddd458b",
-  "explosionssparkfireatrussianoilrefineryinorskasdamageisasses",
   "1ff47d83118c07b0",
   "financialsleadindianshareslowerashighercrudepricesspurcautio",
   "e7b0627e22d0920a",
@@ -603,7 +601,9 @@
   "09e0a3b1f8417173",
   "europeanstocksedgelowerasoilssixdaysurgeandusinflationloom",
   "774c0d09b6bbab26",
-  "maritimeexpertportbusinesseshithardbyuncertaintyovercommingl"
+  "maritimeexpertportbusinesseshithardbyuncertaintyovercommingl",
+  "e04113048f0a0d75",
+  "iraqsoillifelinereopensbutcanbaghdadtrustturkeyforevenoneyea"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 37
+  "count": 38
  },
- "last_run": "2026-08-12T10:35:12.581842+03:00",
+ "last_run": "2026-08-12T10:40:15.081810+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
