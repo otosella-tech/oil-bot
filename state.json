@@ -4,12 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "f8e1d13e71b9ebb6",
-  "dollarpostsmodestgainsascrudeoilfluctuates",
-  "be22839d0d39f2fd",
-  "oilpriceslowerstockshigherashormuzdoubtsdragon",
-  "d3ddfe324e26c182",
-  "americasstockpileofcrudeoilhasdroppedtothelowestlevelinmoret",
   "a3ad6ea97a926852",
   "oilturnslowerwithmarketwatchinghormuztalks",
   "143d3c7774a05d23",
@@ -603,7 +597,13 @@
   "1e21157a79d49bbc",
   "oilleakingfromgroundedtankerstartedreachingomanmainlandunshi",
   "37335bf5bd6206f7",
-  "straitofhormuzshiptrafficnearthreemonthlowasusirandealindoub"
+  "straitofhormuzshiptrafficnearthreemonthlowasusirandealindoub",
+  "c4ded281b5304de5",
+  "gulfoilgiantsarespendingbillionstobuildwaysaroundstraitofhor",
+  "ffa1b6f2b6617993",
+  "newsletterwhosracingtostopomansoilspill",
+  "48f79a26499430b0",
+  "coolingcpiunabletohaltsupplycrisisieawarnscrudeoildeficittod"
  ],
  "releases_done": {
   "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T19:40:17.388858+03:00",
+ "last_run": "2026-08-12T19:45:15.348488+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1455,6 +1455,10 @@
   {
    "d": "2026-08-12",
    "t": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt - CNBC"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz - The New York Times"
   }
  ]
 }
