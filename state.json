@@ -4,12 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "9d9d25bd7ade27ce",
-  "oilpricesholdsteadyafterjumping5whileasiansharesaremixedabcn",
-  "f36e557cae5817e7",
-  "ukrainianmilitarysaysitattackedoilrefineryinrussiasorsk",
-  "d0efbe5feda24fcc",
-  "firebreaksoutatrosneftoilrefineryinkomsomolskonamurphotos",
   "cec79d7828f51e1d",
   "usiranstandoffsendsoilupdentsstocks",
   "6bae1f7e9a17b2e0",
@@ -603,7 +597,13 @@
   "7aed35b9953bcd30",
   "ieaslashes2026supplyforecastashormuzreopeningremainselusive",
   "c46e60450dc1bc44",
-  "oilslicksspreadtoqeshmsmangroveforests"
+  "oilslicksspreadtoqeshmsmangroveforests",
+  "76d70b58817d441d",
+  "globalstocksinchupoilsteadybeforeuscpi",
+  "4a4e1142e980adae",
+  "crudegoessouthgasolinenorthukrainesstrikessplitrussiasoiltra",
+  "63be43525e522d9c",
+  "oilpriceschoppyamiduncertaintyoverhormuzdealnegotiations"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 53
+  "count": 54
  },
- "last_run": "2026-08-12T14:25:13.395525+03:00",
+ "last_run": "2026-08-12T14:30:19.639973+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
