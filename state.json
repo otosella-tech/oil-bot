@@ -606,16 +606,16 @@
   "russiarampsupoilexportsviaarcticroute"
  ],
  "releases_done": {},
- "last_digest": "2026-08-11",
+ "last_digest": "2026-08-12",
  "digest_prices": {
-  "WTI": 82.22,
-  "Brent": 87.79
+  "WTI": 83.74,
+  "Brent": 89.49
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 14
+  "count": 20
  },
- "last_run": "2026-08-12T07:55:12.190807+03:00",
+ "last_run": "2026-08-12T08:00:20.148525+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
