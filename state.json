@@ -4,12 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "bdc3c64894e97574",
-  "theyremakingrecordprofitsbutoilcompaniesstillwontdrillbabydr",
-  "b87b8a77d38f7411",
-  "factcheckhowmuchistheusmakinginoilrevenuefromvenezuela",
-  "a21e1af0a4775a12",
-  "537mbarrelsofcrudeoilcondensatesuppliedtolocalrefinersinq2nu",
   "9d9d25bd7ade27ce",
   "oilpricesholdsteadyafterjumping5whileasiansharesaremixedabcn",
   "f36e557cae5817e7",
@@ -603,7 +597,13 @@
   "c5013957bbe9d33c",
   "currentpriceofoilasofaug122026",
   "87952c7e99ce7a5a",
-  "sableexpectstoincreasesyuoilsalestocaliforniarefinersfromq3"
+  "sableexpectstoincreasesyuoilsalestocaliforniarefinersfromq3",
+  "924c662bdc7d27f8",
+  "energypricesexpectedtofallinlatestinflationdata",
+  "7aed35b9953bcd30",
+  "ieaslashes2026supplyforecastashormuzreopeningremainselusive",
+  "c46e60450dc1bc44",
+  "oilslicksspreadtoqeshmsmangroveforests"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 52
+  "count": 53
  },
- "last_run": "2026-08-12T14:20:14.096170+03:00",
+ "last_run": "2026-08-12T14:25:13.395525+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
