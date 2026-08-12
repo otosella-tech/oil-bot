@@ -4,12 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "3088943091713227",
-  "currentpriceofoilasofaug112026",
-  "0808574b4015c243",
-  "rupeeretreatstoneartwoweeklowasusiranstandoffpushesoilhigher",
-  "726a991cf47d59c2",
-  "oiloutlookdampsasianstockmarlets",
   "b77f327127867789",
   "anoilrefinerthatfledcaliforniaisbackwithagiantpipelinefromte",
   "5722d9c9b3953da1",
@@ -603,7 +597,13 @@
   "a2a092c11359bbeb",
   "opeccutsoildemandforecastagainashormuztalksstall",
   "d7fb22a9cefbb0f9",
-  "inflationremainedstubborninjulyaswagegrowthslowedforworkers"
+  "inflationremainedstubborninjulyaswagegrowthslowedforworkers",
+  "cc303add3864ae6b",
+  "dearthofreliabledataplaguescrudeoilmarketassessments",
+  "51baef4be1150105",
+  "oilpricestickupoverstraitofhormuzstalemate",
+  "51364d5a6c6b70f6",
+  "forecastupdateforcrudeoil12082026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -615,7 +615,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T15:40:17.580560+03:00",
+ "last_run": "2026-08-12T15:45:15.350438+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-08-12",
    "t": "OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Oil prices tick up over Strait of Hormuz stalemate - Transport Topics"
   }
  ]
 }
