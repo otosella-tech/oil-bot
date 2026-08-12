@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "08eeb0bb37ef9816",
-  "expertanalysisfromsanctionstodronewarfaretheslowerosionofrus",
-  "fd501acfa39e7d3b",
-  "forecastupdateforcrudeoil11082026",
   "39a528e6ff44f4b1",
   "californiasupremecourtsayscitiescantaddextrahurdlestotaxrefu",
   "82527d0f08c16842",
@@ -603,7 +599,11 @@
   "954c19f8f57783d1",
   "oilsupplycrunchworsensdespitewarsdemandhitsaysiea",
   "d37c53847e5a4e65",
-  "global2026oilsupplyshortfalltodeepenashormuzreopeningremains"
+  "global2026oilsupplyshortfalltodeepenashormuzreopeningremains",
+  "77f113532a363464",
+  "saudiredseaoilexportsgodarkashouthiattackthreatgrows",
+  "ee56917cee8aafc6",
+  "currentpriceofoilasofaugust112026"
  ],
  "releases_done": {
   "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T17:10:15.080648+03:00",
+ "last_run": "2026-08-12T17:15:18.170000+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1406,6 +1406,10 @@
   {
    "d": "2026-08-12",
    "t": "Global 2026 oil supply shortfall to deepen as Hormuz reopening remains elusive, IEA says - Reuters"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Saudi Red Sea oil exports go dark as Houthi attack threat grows - Reuters"
   }
  ]
 }
