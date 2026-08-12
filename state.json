@@ -4,12 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "af31353ddf6c19e8",
-  "oilpricesholdsteadyafterjumping5whileasiansharesaremixed",
-  "1a4dbf615f64e6c6",
-  "200gallonsofgasolinebelievedtohavespilledingardencityfromove",
-  "cba0ac308c6867c9",
-  "oilpricesriseasiastocksdriftonusiranstalematebyreuters",
   "3b82c1706bbba37f",
   "oilpricesup100826",
   "4dbf2b71c6cf63db",
@@ -603,7 +597,13 @@
   "1186554180f91fac",
   "hormuzdeadlockwhereoilpricescouldheadnextasprospectsforanimm",
   "ef5dccd70a8556ca",
-  "eia600000bbldofmiddleeastoiloutputmayremainofflinethrough202"
+  "eia600000bbldofmiddleeastoiloutputmayremainofflinethrough202",
+  "afaace74b303fdb0",
+  "uscrudeoilpushespast82bblashopesfadeforhormuzdealusonysearca",
+  "f9e1c62e1044975e",
+  "oilpricesup110826",
+  "d515176d2e2c153c",
+  "oilministrydeniesblockingcrudeexportsthroughhormuzshafaqnews"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 35
+  "count": 36
  },
- "last_run": "2026-08-12T10:00:22.903292+03:00",
+ "last_run": "2026-08-12T10:05:13.574936+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
