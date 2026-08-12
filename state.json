@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "7d27b2e12dbc6837",
-  "133bin3monthprofitshowsoilsandscompaniesrakingitinonmiddleea",
   "a4e0d59f74709f83",
   "oilpricesrisefurtherashopesforhormuzdealfade",
   "f47024cde81fbc1d",
@@ -603,7 +601,9 @@
   "239b6abedd73f042",
   "oildisruptionsfromiranwartocontinuethroughnextyearussays",
   "f1409531bee0e8b7",
-  "crudeoilgainsasusirantensionsthreatentoprolongenergymarketdi"
+  "crudeoilgainsasusirantensionsthreatentoprolongenergymarketdi",
+  "76a32e3e5bceb325",
+  "oilpricesnear2weekhighashormuzremainsclosedhouthistrikescont"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 10
+  "count": 11
  },
- "last_run": "2026-08-12T06:20:14.422976+03:00",
+ "last_run": "2026-08-12T06:25:12.403879+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
