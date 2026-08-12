@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "1be4f1438b4bdd9c",
-  "usequityindexesdeclineasfadinghopesforquickhormuzreopeningli",
   "c66cbb3e011deb2f",
   "usstocksdriftneartheirrecordsasoilpricesrisefortbraggadvocat",
   "ef73c0414296fe31",
@@ -603,7 +601,9 @@
   "adfecfd386bdb21d",
   "asianstockstoslipwithuscpiiraninfocusmarketswrap",
   "3f2dafbcdb7b1fe8",
-  "oilrisesvolatilityexpectedamidmiddleeastdevelopments"
+  "oilrisesvolatilityexpectedamidmiddleeastdevelopments",
+  "6f411f64cb15dace",
+  "oilrisesasdoubtsoverusirandealheightensupplyconcerns"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 7
+  "count": 9
  },
- "last_run": "2026-08-12T04:00:20.955816+03:00",
+ "last_run": "2026-08-12T04:05:13.886735+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1323,6 +1323,10 @@
   {
    "d": "2026-08-12",
    "t": "Asian Stocks to Slip With US CPI, Iran in Focus: Markets Wrap - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Oil rises as doubts over US-Iran deal heighten supply concerns - Reuters"
   }
  ]
 }
