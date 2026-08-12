@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "ae401d3cc2b79f1e",
-  "oilpricesonupswingagainafter5surgethedaybefore",
-  "c8a24730240d9ec3",
-  "whattheyresayingfuelpricesandhighearningsresultfromstressing",
   "b42d117e282cab54",
   "whyhighpeakenergyhpkstockistradinguptoday",
   "cc0e51dc2919120b",
@@ -603,7 +599,11 @@
   "141d8731ee809a2d",
   "oilspillfromgroundedshadowfleettankercouldrivalexxonvaldez",
   "33707fccd640c678",
-  "thesupremecourtsrecusalrulesareworthless"
+  "thesupremecourtsrecusalrulesareworthless",
+  "3aff57e5ca016841",
+  "5lngmegaprojectspoisedtopowerthenextgasboom",
+  "008a6e2f401d0295",
+  "uaeshuttlesiraqioilexportsthroughthestraitofhormuz"
  ],
  "releases_done": {
   "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T21:55:17.992915+03:00",
+ "last_run": "2026-08-12T22:00:22.025754+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1491,6 +1491,10 @@
   {
    "d": "2026-08-12",
    "t": "Trump doubles down on control of Strait of Hormuz as Iran pushes back - Scripps News"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "UAE Shuttles Iraqi Oil Exports Through the Strait of Hormuz - gCaptain"
   }
  ]
 }
