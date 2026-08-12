@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "d297ed2961ba04d4",
-  "interestratesoilpriceslimitwallstreetprebellasiaoffeuropefla",
   "49122d891657c3f0",
   "currentpriceofoilasofaug62026",
   "4310eddd0d220d91",
@@ -603,7 +601,9 @@
   "32867a850b1c54ea",
   "unitedstatesontrackforrecordnaturalgasproductionin2026",
   "9e3cd31def3fb42a",
-  "oilforecastnewsandanalysiswti"
+  "oilforecastnewsandanalysiswti",
+  "3cef4c1fa408ee89",
+  "goldsilverrallyascpicoolsbutoilkeepsfedriskalivekitcoamrepor"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -615,7 +615,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T16:15:15.457372+03:00",
+ "last_run": "2026-08-12T16:20:17.847454+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
