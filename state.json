@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "f5bb01ac0877894d",
-  "currentpriceofoilasofjuly312026",
-  "5b1230f6a0e27635",
-  "crudeoilfuturessep6clmainusbrentlastdayfinancialfuturescurre",
   "fa48b4ce463322c9",
   "trumppivotsbacktosanctionsforiranasotherstrategiestoendhiswa",
   "c86b4a64d81bf433",
@@ -603,7 +599,11 @@
   "a0a9458f806c38ce",
   "brenttops89amidus",
   "0a84ba97d2f61d19",
-  "usenergyagencyhikescrudepriceforecastoilflowfalls77"
+  "usenergyagencyhikescrudepriceforecastoilflowfalls77",
+  "f80c62ebcbe176cd",
+  "iranwantsaprotectiontollonthestraitofhormuzbuta20bannualhaul",
+  "4a79a063b95633b4",
+  "brenttops89amidusiranstalemateoverhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-08-12T12:41:26.884170+03:00",
+ "last_run": "2026-08-12T12:45:14.745306+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1356,6 +1356,14 @@
   {
    "d": "2026-08-12",
    "t": "Oil Extends Gain on Doubts Over Hormuz Deal Despite Upbeat Tone - Energy Connects"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Iran wants a ‘protection’ toll on the Strait of Hormuz, but a $20B annual haul is a pipe dream - Fortune"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
