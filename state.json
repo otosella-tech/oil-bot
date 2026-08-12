@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "41eb9333ba6230e0",
-  "russiasoilexportstoasiaviaarcticroutestartstronglysourcessay",
-  "250d1884250da79d",
-  "russiancrudeexportsdroptolowestsincemay",
   "1e205cb3e095899b",
   "oilpricesholdnearoneweekhighashormuztalksadvance",
   "3711ac4db5ae9bee",
@@ -603,7 +599,11 @@
   "0f3f354f17956bb7",
   "oilinusstrategicpetroleumreservefallsbelow300millionbarrelsl",
   "afde6f9db21aad30",
-  "chinaisnowtheworldsgreatoilpower"
+  "chinaisnowtheworldsgreatoilpower",
+  "87a0a7bf8430fc8d",
+  "oilpricesflatoverstraitofhormuzstalemate",
+  "e49a0e97683a1e8c",
+  "trumpdoublesdownoncontrolofstraitofhormuzasiranpushesback"
  ],
  "releases_done": {
   "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T21:15:14.453178+03:00",
+ "last_run": "2026-08-12T21:20:15.181960+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1483,6 +1483,14 @@
   {
    "d": "2026-08-12",
    "t": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983 - CNBC"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Oil prices flat over Strait of Hormuz stalemate - Transport Topics"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Trump doubles down on control of Strait of Hormuz as Iran pushes back - Scripps News"
   }
  ]
 }
