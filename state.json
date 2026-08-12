@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "3612dba1140248e2",
-  "whathasbeenhitinukrainesattacksonrussianenergysites",
-  "dedbe4720eea2ec8",
-  "yourtuesdayaug11guidefivethingstodointheoilcity",
   "83bcd1b955fd96c1",
   "nvidiasinvestibleassetusoilreserveshrinkstrumpsvaccineordera",
   "9862cc5e8459ffce",
@@ -603,7 +599,11 @@
   "84270c62c1554baf",
   "hormuzstandoffderailsoilsupplyrecoveryanddeepensdemandslumpi",
   "9387ff1efdf062a7",
-  "crudeoilinventoriessurgedefyingforecastsandpreviousdatabyinv"
+  "crudeoilinventoriessurgedefyingforecastsandpreviousdatabyinv",
+  "4c1cbbb25f15817d",
+  "ustotalcrudeoilstocksreboundinweekendedaug7",
+  "91fc031af2aad6e2",
+  "oilstockstowatchasstraitofhormuztensionliftscrudeprices"
  ],
  "releases_done": {
   "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T17:45:16.516404+03:00",
+ "last_run": "2026-08-12T17:50:15.165295+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1423,6 +1423,10 @@
   {
    "d": "2026-08-12",
    "t": "Hormuz Standoff Derails Oil Supply Recovery and Deepens Demand Slump, IEA Says - WSJ"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Oil Stocks to Watch as Strait of Hormuz Tension Lifts Crude Prices - simplywall.st"
   }
  ]
 }
