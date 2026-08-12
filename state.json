@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "ba5f6a7fea983552",
-  "whathadcrudeoilboilingagainovernight",
   "c9b213d013e2becd",
   "crudeoilextendsrallyonusirandealuncertainty",
   "2d0a8231e741246d",
@@ -603,7 +601,9 @@
   "97abd5d5fdd5cecb",
   "indianrefinersseek6millionbarrelsofspotcrude",
   "49122d891657c3f0",
-  "currentpriceofoilasofaug62026"
+  "currentpriceofoilasofaug62026",
+  "e8814aeca67d3b5c",
+  "sableeyesseptemberrestartforthirdoilplatformincaliforniawate"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -615,7 +615,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T16:35:14.268995+03:00",
+ "last_run": "2026-08-12T16:40:17.501920+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
