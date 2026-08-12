@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "2b20f9582ad879a1",
-  "bullishoilbetsshrinkforasecondweekrunningcotdatashow",
-  "fa75ced99c0b47ee",
-  "crudeoilpriceanalysisoilstallsnear50dayemaamidmiddleeasthead",
   "911a226efdb1f1aa",
   "oiledgeslowerwithomanirantalksinfocusbyreuters",
   "8139b8829bb6aa3c",
@@ -603,7 +599,11 @@
   "1a842590b039482e",
   "usconsumerinflationslowsinjulyasenergypricesbrieflyretreat",
   "fdeaab90e60a0ddd",
-  "oilpriceslittlechangedafterredseagulfofomanvesselattacks"
+  "oilpriceslittlechangedafterredseagulfofomanvesselattacks",
+  "0db798c6baa8acc4",
+  "crudepriceseaseonuscrudeoilinventorysurge",
+  "d3e93ebbd584dd71",
+  "oilstocksforhighercrudepriceswithbwenergyvistaenergyandprio"
  ],
  "releases_done": {
   "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T18:45:18.198850+03:00",
+ "last_run": "2026-08-12T18:50:14.906857+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
