@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "3a5541d466e0f016",
-  "oilpricesaddmorethan2whileworldsharesaremostlylower",
   "a6e6d2d5c630c372",
   "whyareoilpricesrising",
   "e9390eadb9a4e94a",
@@ -603,7 +601,9 @@
   "6b6d31fd96a27521",
   "saudisreportmillionbarreloutputreboundinjulytoopec",
   "86cfdaae3dd3b77b",
-  "crudeoil1208whyistherallystillconfusingtraders"
+  "crudeoil1208whyistherallystillconfusingtraders",
+  "9e6ca7e9770ed492",
+  "anunattractivedealwithiranisthebestoflimitedbadoptionsiftheu"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -615,7 +615,7 @@
   "date": "2026-08-12",
   "count": 59
  },
- "last_run": "2026-08-12T15:15:15.653468+03:00",
+ "last_run": "2026-08-12T15:20:16.309765+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
