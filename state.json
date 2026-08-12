@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "ddc67a41daf2afc4",
-  "oilpricesholdnearoneweekhighasstraitofhormuzreopeningremains",
   "b2d9d396fe8f3a2d",
   "rupeesettosliponoilpressurereliesonrbisupport",
   "37b392eb6468b829",
@@ -603,7 +601,9 @@
   "3e12665dc9632fd2",
   "wtiandbrentpushupwardextendingyeartodategains",
   "0e92158dbf870a61",
-  "russiarampsupoilexportsviaarcticroute"
+  "russiarampsupoilexportsviaarcticroute",
+  "430f40cdda4be610",
+  "santoscompletesfirstcrudeoilloadingfromalaskaspikkaphase1off"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -615,7 +615,7 @@
   "date": "2026-08-12",
   "count": 20
  },
- "last_run": "2026-08-12T08:00:20.148525+03:00",
+ "last_run": "2026-08-12T08:05:13.673033+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
