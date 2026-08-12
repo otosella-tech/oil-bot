@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "8d3d8cf115c48409",
-  "oilfuturesgainasmarketlooksforhormuzagreement",
   "cb627635a94d7d90",
   "oilpricessettleafter5surgethedaybefore",
   "786ab1050361328d",
@@ -603,7 +601,9 @@
   "7e0fe676c04028df",
   "eurusdunderminedbycrudeoilresurgenceaheadofcpi",
   "4c46abffa744d401",
-  "wticrudeoilfuturesclosednear7690afterchoppysession"
+  "wticrudeoilfuturesclosednear7690afterchoppysession",
+  "aee53d8a13aa4b77",
+  "omansaystheoilspillfromagroundedtankerhasreacheditscoastline"
  ],
  "releases_done": {
   "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T23:45:15.707721+03:00",
+ "last_run": "2026-08-12T23:50:14.673532+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
