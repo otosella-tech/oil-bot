@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "d203a4f7b44aa976",
-  "oilrisesamidgrowingdoubtsthatstraitofhormuzcanreopensoon",
-  "2d3550b42562ed8b",
-  "oilpricesupbeataftersharpgainsonfadinghormuzdealhopes",
   "64593d6faeea41e7",
   "indiaexpandslngsourcingnetworkfrom6to15countriescrudeoilfrom",
   "b8b08568f5dea44f",
@@ -603,7 +599,11 @@
   "5b78fee6e507a773",
   "europeanstockssteadyoilrisesbeforecpi",
   "259c27a8ce9fd70f",
-  "sharesaremostlyhigherinasiawithkospiup37whileoilpricesgain"
+  "sharesaremostlyhigherinasiawithkospiup37whileoilpricesgain",
+  "63f8b32d938ccef8",
+  "sharesaremostlyhigherinasiawithkospiup37whileoilpricesgainun",
+  "8cdb54885ca31a35",
+  "oilrisesafterattacksonshipsinhormuzbabelmandeb"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 40
+  "count": 41
  },
- "last_run": "2026-08-12T11:50:22.393310+03:00",
+ "last_run": "2026-08-12T11:55:12.790449+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
