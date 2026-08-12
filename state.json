@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "8c4f2b8f0de92589",
-  "opecoiloutputhikeisirrelevantfornownotforlater",
   "8c76258da746b7c8",
   "oilfutureshormuzimpassekeepscrudenearoneweekhighs",
   "e8400e2edf97a1a2",
@@ -603,7 +601,9 @@
   "cb422bc5be817218",
   "oilfuturescrudeupwithhormuzflowsconstrainedusstocksrise",
   "de7f208209d0347d",
-  "airlineexposuretooilpricespikeswhichcarriersfacethemostrisk"
+  "airlineexposuretooilpricespikeswhichcarriersfacethemostrisk",
+  "dc7d97f29401e66b",
+  "oilpricesclimbasusiranpeacehopesfade"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-08-12T09:00:22.142637+03:00",
+ "last_run": "2026-08-12T09:05:13.825039+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1348,6 +1348,10 @@
   {
    "d": "2026-08-12",
    "t": "Airline exposure to oil price spikes: which carriers face the most risk? - Investing.com"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Oil Prices Climb as U.S.-Iran Peace Hopes Fade - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
