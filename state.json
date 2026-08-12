@@ -4,12 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "f5fbf3254949044f",
-  "usstockfuturesriseasoilerasesgainsoniranoptimism",
-  "c398a5230ef28825",
-  "opecoutputclimbsagainbutstilltrailsquotatargets",
-  "f3a6fceeffe20f41",
-  "tsxfuturesinchhigherwithusinflationdatachoppyoilpricesinfocu",
   "ce020889d21b3e12",
   "iraqandlebanonseektoreopendecadesoldkirkuktripolioilpipeline",
   "32a8153629dc23ad",
@@ -603,10 +597,17 @@
   "f00e0fa06650e7fe",
   "5lowleveragestockstobuyashighoilpricesshakeinvestorconfidenc",
   "392a9ee7499e29ad",
-  "canadiandollarandbusinessoutlookloonieupcrudeoileasesoff"
+  "canadiandollarandbusinessoutlookloonieupcrudeoileasesoff",
+  "e353efdaaa2060bf",
+  "ukrainehaltsoiltankerattacksonjdvancerequest",
+  "4403985f2722e53f",
+  "oilpricesdipasinvestorsweighlowerdemandforecastsagainstusira",
+  "e29052c56a258ded",
+  "globalstocksholdgainsafterinlineuscpi"
  ],
  "releases_done": {
-  "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+  "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
+  "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|post": 1
  },
  "last_digest": "2026-08-12",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T17:25:13.758810+03:00",
+ "last_run": "2026-08-12T17:30:20.812792+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1414,6 +1415,10 @@
   {
    "d": "2026-08-12",
    "t": "IEA warns of sharp drop in global oil stocks due to Hormuz Strait closure - upi.com"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Ukraine Halts Oil Tanker Attacks on JD Vance Request"
   }
  ]
 }
