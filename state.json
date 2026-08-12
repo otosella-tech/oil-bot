@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "d9ca0621acc3675f",
-  "hugefirebreaksoutatlibyaszawiyarefineryafterdroneattack",
   "095372dbb83359ac",
   "santosloadsfirstpikkacrudeoilcargofromalaskasnorthslope",
   "af31353ddf6c19e8",
@@ -603,7 +601,9 @@
   "9562417ce770f46c",
   "oilextendsgainondoubtsoverhormuzdealdespiteupbeattone",
   "4fb13cc8a11a7221",
-  "dukeofoilmunster"
+  "dukeofoilmunster",
+  "1186554180f91fac",
+  "hormuzdeadlockwhereoilpricescouldheadnextasprospectsforanimm"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 34
+  "count": 35
  },
- "last_run": "2026-08-12T09:45:14.402798+03:00",
+ "last_run": "2026-08-12T09:50:14.967122+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
