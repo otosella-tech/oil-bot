@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "5722d9c9b3953da1",
-  "omanconfirmsoilspillfromgroundedtankerspreadsacross400km",
   "3bf67b40677016e4",
   "stockmarketsdeclineaselevatedcrudeoilpricesweighonsentiments",
   "ec3669c3e354c63c",
@@ -603,7 +601,9 @@
   "51364d5a6c6b70f6",
   "forecastupdateforcrudeoil12082026",
   "06159f42dccc9527",
-  "asoilprofitsskyrocketcallsforwindfalltaxesrise"
+  "asoilprofitsskyrocketcallsforwindfalltaxesrise",
+  "85177156d75adbb2",
+  "crudeoilpriceanalysiscrudeoilcontinuestomoveonheadlines"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -615,7 +615,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T15:50:16.374794+03:00",
+ "last_run": "2026-08-12T15:55:13.582500+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
