@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "b79b84f68668ebbc",
-  "usoiltops84ashormuzdealhopesdwindleanddeadlockdeepens",
   "62e6f676588b35d7",
   "eurusdsignal1108dropstokeysupport",
   "7d48fe6765f2728a",
@@ -603,7 +601,9 @@
   "6519f87d29f71250",
   "oilpricesriseaftershipattacksusirantalksdeadlock",
   "1deb89fda4989592",
-  "oilrisesafterattacksonshipsinhormuzbabelmandebeuronextmarket"
+  "oilrisesafterattacksonshipsinhormuzbabelmandebeuronextmarket",
+  "fc1defe250e62ce9",
+  "ukwarnsoftighterpowermarginsduringeclipse"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 55
+  "count": 56
  },
- "last_run": "2026-08-12T14:35:14.043232+03:00",
+ "last_run": "2026-08-12T14:40:15.383449+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
