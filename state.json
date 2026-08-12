@@ -4,12 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "2d0ef6ea1b855217",
-  "oilrisesfurtherashormuztalksshowlittleprogress",
-  "5a8bd37bd9db2e77",
-  "oilrisesasiranandustradedemandsforreopeningstraitofhormuzbyr",
-  "836199c6143090bc",
-  "omantacklesmajoroilslick",
   "ff7354e8ee8dc66c",
   "brentcrudeoilextendsitsgainsanalysis11082026",
   "8bc1314e3d1adcb1",
@@ -603,7 +597,13 @@
   "d26f7ad2c507d9d1",
   "geopoliticaltensionsandtheoilmarkettheieastakeonsupplyanddem",
   "c5ed806a9cce6168",
-  "isrussiapreparingenvironmentalterrorismineurope"
+  "isrussiapreparingenvironmentalterrorismineurope",
+  "f1d64fe6da3290a8",
+  "brentcrudeoilholdnear89",
+  "56b7a72ecee09c65",
+  "globalcrudeoilproductionforecasttoreach7489millionbarrelsper",
+  "a512e69a0a6d25ba",
+  "uaeofferstoshuttleiraqioilthroughhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 49
+  "count": 50
  },
- "last_run": "2026-08-12T13:40:15.293967+03:00",
+ "last_run": "2026-08-12T13:45:14.725002+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
