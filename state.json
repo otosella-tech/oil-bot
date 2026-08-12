@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "2dbaea78cd985186",
-  "oilpricesclimbasus",
   "dc7d97f29401e66b",
   "oilpricesclimbasusiranpeacehopesfade",
   "8c4f2b8f0de92589",
@@ -603,7 +601,9 @@
   "c410620f020cfda8",
   "oilpricesriseafterusblockssurpriseattackfromiran",
   "53ccdf658dd2da86",
-  "russiaimportsindianfuelasrefinerycrisisdeepens"
+  "russiaimportsindianfuelasrefinerycrisisdeepens",
+  "cb422bc5be817218",
+  "oilfuturescrudeupwithhormuzflowsconstrainedusstocksrise"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-08-12T08:50:15.452885+03:00",
+ "last_run": "2026-08-12T08:55:12.653555+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
@@ -1340,6 +1340,10 @@
   {
    "d": "2026-08-12",
    "t": "Russia Imports Indian Fuel as Refinery Crisis Deepens"
+  },
+  {
+   "d": "2026-08-12",
+   "t": "Oil futures: Crude up with Hormuz flows constrained, US stocks rise - Quantum Commodity Intelligence"
   }
  ]
 }
