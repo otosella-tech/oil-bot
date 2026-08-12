@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "4568dc29528592b8",
-  "currentpriceofoilasofaug52026",
-  "c592d17789f44ee3",
-  "hormuztrafficsinkstosixvesselsmondayasirantalksstallagain",
   "ba5f6a7fea983552",
   "whathadcrudeoilboilingagainovernight",
   "c9b213d013e2becd",
@@ -603,7 +599,11 @@
   "13ba53f00ad35a77",
   "oilextendgainsonhormuzdealskepticism",
   "797463c139ed7c31",
-  "opeccrudeproductionjumps17mbpdinjuly"
+  "opeccrudeproductionjumps17mbpdinjuly",
+  "97abd5d5fdd5cecb",
+  "indianrefinersseek6millionbarrelsofspotcrude",
+  "49122d891657c3f0",
+  "currentpriceofoilasofaug62026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -615,7 +615,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T16:25:14.153483+03:00",
+ "last_run": "2026-08-12T16:30:19.383521+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
