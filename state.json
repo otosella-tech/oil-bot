@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "911a226efdb1f1aa",
-  "oiledgeslowerwithomanirantalksinfocusbyreuters",
-  "8139b8829bb6aa3c",
-  "lowercrudeoilpricesdrivingdownnationalaverage",
   "adac8cc455f4c593",
   "santosstartsdeliveringoilfromalaskaproject",
   "0d95c8e1bb765959",
@@ -603,7 +599,11 @@
   "0db798c6baa8acc4",
   "crudepriceseaseonuscrudeoilinventorysurge",
   "d3e93ebbd584dd71",
-  "oilstocksforhighercrudepriceswithbwenergyvistaenergyandprio"
+  "oilstocksforhighercrudepriceswithbwenergyvistaenergyandprio",
+  "da0a0cd20b41c68b",
+  "chinaexpandsitseconomicfootprintacrosscentralasia",
+  "463b622b2c891362",
+  "whyiscrudeoilpricedforareopeningtheshipshaventmade"
  ],
  "releases_done": {
   "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-12T18:55:13.743790+03:00",
+ "last_run": "2026-08-12T19:00:30.594617+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
