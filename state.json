@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "cfc17c330f40a04f",
-  "rupeedipsasoilrisesonmiddleeastuncertaintyrbiinterventionshi",
   "ad9bb55a323044ad",
   "oilpricessettleatlowestinoveraweekasuspausesattacksoniran",
   "f7dfd8eef84ecbc1",
@@ -603,7 +601,9 @@
   "98aa23ffe343ec03",
   "naturalgasandoilforecastwtieyes8474despitesurpriseuscrudebui",
   "63a00bad0f7ad76a",
-  "enbridgeshelvesmainlineoptimizationphase2doublesdownonphase1"
+  "enbridgeshelvesmainlineoptimizationphase2doublesdownonphase1",
+  "4dda726bc382f449",
+  "droneattackhitspowerplantatkeylibyanoilhub"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 39
+  "count": 40
  },
- "last_run": "2026-08-12T11:25:13.291689+03:00",
+ "last_run": "2026-08-12T11:30:19.030606+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
