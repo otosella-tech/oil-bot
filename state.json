@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "0faf7d178dce4fbd",
-  "ascarboncapturestoragegatherssteamnewconsumerwatchdogreportq",
   "5ccf9b39bff9548e",
   "oilpricesclimbasiraniandemandscloudoutlookforstraitofhormuz",
   "ddc67a41daf2afc4",
@@ -603,7 +601,9 @@
   "ca9569b0e62c7182",
   "unitedstatesapiweeklycrudeoilstockcameinat9072maboveexpectat",
   "37d17c9f842eac16",
-  "thetrumpadministrationclaimsoilisflowingnormallyagaintheresj"
+  "thetrumpadministrationclaimsoilisflowingnormallyagaintheresj",
+  "3e12665dc9632fd2",
+  "wtiandbrentpushupwardextendingyeartodategains"
  ],
  "releases_done": {},
  "last_digest": "2026-08-11",
@@ -615,7 +615,7 @@
   "date": "2026-08-12",
   "count": 14
  },
- "last_run": "2026-08-12T07:15:14.489439+03:00",
+ "last_run": "2026-08-12T07:20:15.759866+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
