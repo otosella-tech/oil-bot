@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "7e0a753d37ee2737",
-  "santosshipsfirstcrudecargofromalaskaspikkaproject",
   "269e8facf0384500",
   "dollarpusheshigherascrudeoilsurgesandtnoteyieldsrise",
   "7d27b2e12dbc6837",
@@ -603,7 +601,9 @@
   "104f23cb81706f95",
   "crudeoiltradingalertuscrudepricescontinuetorisewillthereboun",
   "e2dac1726e669ec4",
-  "oilpricesrisestocksmixedaheadofcrucialusinflationdata"
+  "oilpricesrisestocksmixedaheadofcrucialusinflationdata",
+  "239b6abedd73f042",
+  "oildisruptionsfromiranwartocontinuethroughnextyearussays"
  ],
  "releases_done": {
   "2026-08-11|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-12",
-  "count": 9
+  "count": 10
  },
- "last_run": "2026-08-12T06:00:19.152761+03:00",
+ "last_run": "2026-08-12T06:05:13.933887+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
