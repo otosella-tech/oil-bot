@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "26a919b46038aa95",
-  "iransayshormuzwillstaycloseduntilusmeetsitsconditions",
   "15d805d5d23a82be",
   "blmseeksinitialinputformarch2027saleofoilandgasleasesinwyomi",
   "c30fd8c24de9d521",
@@ -603,7 +601,9 @@
   "619b5a0c7913eb33",
   "eiasees600000bpdofmiddleeastoilstillofflinebyend",
   "8415e6c610101d14",
-  "eiasees600000bpdofmiddleeastoilstillofflinebyend2027"
+  "eiasees600000bpdofmiddleeastoilstillofflinebyend2027",
+  "dd5a9def185c3ccc",
+  "oilspillfromgroundedtankerreachesomansmainlandbeaches"
  ],
  "releases_done": {
   "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-12",
   "count": 60
  },
- "last_run": "2026-08-13T01:20:14.931512+03:00",
+ "last_run": "2026-08-13T01:25:11.604934+03:00",
  "sent_stories": [
   {
    "d": "2026-08-09",
