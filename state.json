@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "de66297cc92e24c4",
-  "howchinasavedtheglobaloilmarket",
-  "16ff7c5a7eb03cf8",
-  "usstocksedgefurtherfromtheirrecordsasoilpriceskeepswingingpo",
   "bfb7d5f699a409ab",
   "sodium",
   "3051fbdbd1ad8f94",
@@ -603,7 +599,11 @@
   "d5767a181aa4b914",
   "oilrefineryinrussiasbashkortostanandwildberrieshubreportedly",
   "6f6542a6b7830afc",
-  "oilslipsonweakerdemandoutlookandhigherusstocksamidsupplydisr"
+  "oilslipsonweakerdemandoutlookandhigherusstocksamidsupplydisr",
+  "2925d0b0bdfa843e",
+  "stocksedgeupwithoilpricebelow90dollarat2weekhighiraninfocus",
+  "be41ad78e882991c",
+  "oileasesasweakerdemandoutlookcountersmideastsupplyconcern"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-13",
-  "count": 18
+  "count": 19
  },
- "last_run": "2026-08-13T11:35:13.406552+03:00",
+ "last_run": "2026-08-13T11:40:14.439140+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
