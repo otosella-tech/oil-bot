@@ -4,10 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "ad21983031b96fa3",
-  "brazilansweredtheoilshocksofthe1970sbyrunningitscarsonsugarc",
-  "b14855a72c6ba871",
-  "nigeriaconsiderscrudesupplyreformstoaiddangoteotherrefiners",
   "8c15f9938f60ea49",
   "oilmarketreportaugust2026analysis",
   "98aa23ffe343ec03",
@@ -603,7 +599,11 @@
   "81b93a56a6e4aca2",
   "inplayoilcorpannouncessecondquarter2026financialandoperating",
   "d585ababc77d4776",
-  "oilfallsonweakerdemandoutlookandhigherusstocks"
+  "oilfallsonweakerdemandoutlookandhigherusstocks",
+  "3b3921d5f6300407",
+  "trumplinkedoilventuredelaysgreenlanddrillingplansaftergovern",
+  "e2fe87a570c2303a",
+  "whathappenedtothebiggestenergycrisisinhistory"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-13",
-  "count": 38
+  "count": 39
  },
- "last_run": "2026-08-13T15:50:16.942592+03:00",
+ "last_run": "2026-08-13T15:55:13.217999+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
