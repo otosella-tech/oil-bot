@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "e731bbbc10c14182",
-  "crudeoilpricestodaybrentwtiasmiddleeastsupplyrisksrise",
   "a0c4361b46942f42",
   "gulfstatesscrambleforstraitofhormuzalternative",
   "4b20abb1f17faa1b",
@@ -603,7 +601,9 @@
   "f57e5fceee202bf5",
   "baierpushesbackontrumpsstraitofhormuzclaimtraffichasslowedto",
   "32f1e56f88e99b94",
-  "brentsnapssixdayadvanceamidsurpriseuscrudebuildweakdemandout"
+  "brentsnapssixdayadvanceamidsurpriseuscrudebuildweakdemandout",
+  "b32422f3d7eb26a5",
+  "uspowergridstrainsunderrecordelectricitydemand"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-14",
   "count": 3
  },
- "last_run": "2026-08-14T00:55:12.146526+03:00",
+ "last_run": "2026-08-14T01:00:23.378867+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
