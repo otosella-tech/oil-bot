@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "ee56917cee8aafc6",
-  "currentpriceofoilasofaugust112026",
   "66c8e6e7fa93209f",
   "julycpireportisexpectedtoshowfallingenergyprices",
   "b0f805d3956eb5ea",
@@ -603,7 +601,9 @@
   "f4ccefd436d4d255",
   "sp500notchesrecordhighcloseasratehikeworriesease",
   "dc56b1b2baf490a8",
-  "afreshroundofoilpricehikesloomsnextweekasfuelpricesremainhig"
+  "afreshroundofoilpricehikesloomsnextweekasfuelpricesremainhig",
+  "87d763c1d98964ce",
+  "opecandieaeachtookaknifeto2026oildemandoutlookshowbadarethey"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 52
  },
- "last_run": "2026-08-13T23:45:14.616012+03:00",
+ "last_run": "2026-08-13T23:50:14.851865+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
