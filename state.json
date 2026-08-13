@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "bfb7d5f699a409ab",
-  "sodium",
   "3051fbdbd1ad8f94",
   "currentpriceofoilasofaug72026",
   "fc5ecdccf058e9a8",
@@ -603,7 +601,9 @@
   "2925d0b0bdfa843e",
   "stocksedgeupwithoilpricebelow90dollarat2weekhighiraninfocus",
   "be41ad78e882991c",
-  "oileasesasweakerdemandoutlookcountersmideastsupplyconcern"
+  "oileasesasweakerdemandoutlookcountersmideastsupplyconcern",
+  "796fdf535373939b",
+  "howchinasavedtheglobaloilmarket"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 19
  },
- "last_run": "2026-08-13T11:40:14.439140+03:00",
+ "last_run": "2026-08-13T11:45:14.554649+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
