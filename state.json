@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "212bfa0a019b1ce5",
-  "wallstreetslipsawayfromitsalltimehighasoilpriceskeepswinging",
   "f5c9b18926609742",
   "oilclimbs5asiranusbothdemandcompensationandhormuzhopesfade",
   "b4b2f3929d9d528f",
@@ -603,7 +601,9 @@
   "b70703ecc1690847",
   "oilspillfromagroundedtankerhasreachedcoastlineomansays",
   "7299c12661c66520",
-  "trumpadministrationholdslatestgiveawayofgulfwaterstooilindus"
+  "trumpadministrationholdslatestgiveawayofgulfwaterstooilindus",
+  "c8c9a242d583977e",
+  "usstocksedgefurtherfromtheirrecordsasoilpriceskeepswinging"
  ],
  "releases_done": {},
  "last_digest": "2026-08-12",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 5
  },
- "last_run": "2026-08-13T07:50:17.216192+03:00",
+ "last_run": "2026-08-13T07:55:13.667349+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
