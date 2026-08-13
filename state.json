@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "7abb806571bf2b35",
-  "usstocksfallafteriransaysstraitofhormuzwillremainshut",
-  "ce6b7f6f84bf530e",
-  "uscrudeoilinventoriesseesurprisebuildapi",
   "0291b6481d63477c",
   "tsxcloserindexclosesatfreshrecordhighasoilutilitiesandteleco",
   "05cbd8044fe7dae3",
@@ -603,7 +599,11 @@
   "238792f4ec6a70e7",
   "oilfuturescrudesteadiesasusstockbuildoffsetshormuzrisk",
   "f7c110bf1f634d9a",
-  "eiaraisesthirdquarterbrentforecastto85bblonstraitofhormuzdis"
+  "eiaraisesthirdquarterbrentforecastto85bblonstraitofhormuzdis",
+  "eccaed3cfd6cd164",
+  "majoroilpipelinestartsoperationineastchinacapableofpumpingup",
+  "7b8bc0b21da491a3",
+  "omanoilspillspreadsascleanupresponsibilitystaysunclear"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 15
  },
- "last_run": "2026-08-13T09:30:22.064962+03:00",
+ "last_run": "2026-08-13T09:35:13.580735+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
