@@ -4,16 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "3051fbdbd1ad8f94",
-  "currentpriceofoilasofaug72026",
-  "fc5ecdccf058e9a8",
-  "chinaisbalancingasiascrudeoildemandbyitself",
-  "b7b7c4800b8802b0",
-  "oilpricessettleupasiransaysstraitofhormuztostayshut",
-  "b952e4d78c05569d",
-  "uscrudeoilinventoriesriseasfuelstocksdecline",
-  "00dcdbc68689e006",
-  "southafricasoffshoreoilpushmeetsgrassrootsresistanceincourt",
   "e5f2030da8cdd096",
   "trumpsenergydominanceagendaisonlyhelpingoilandgascompanies",
   "1174cb2ed1845e01",
@@ -603,7 +593,17 @@
   "be41ad78e882991c",
   "oileasesasweakerdemandoutlookcountersmideastsupplyconcern",
   "796fdf535373939b",
-  "howchinasavedtheglobaloilmarket"
+  "howchinasavedtheglobaloilmarket",
+  "8a2bf8cb60212d41",
+  "chinahaswrestedcontrolofoilmarketsfromopec",
+  "b833900a92a83c33",
+  "uscrudeoilinventoriesup43inweekendingaug7",
+  "6860b172a9c477b3",
+  "palmoilfallsasdalianpalmoleincrudeoilweigh",
+  "de52cd98bbed1b37",
+  "nigeriacrudeoutputtopsopecquotaforthirdmonth",
+  "52a86a773cd27803",
+  "uscrudeoilstocksjumpby174millionbarrelsonimportsurge"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-13",
-  "count": 19
+  "count": 20
  },
- "last_run": "2026-08-13T11:45:14.554649+03:00",
+ "last_run": "2026-08-13T11:50:14.741659+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
