@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "fcf6000344bf4e64",
-  "usstocksedgefurtherfromtheirrecordsasoilpriceskeepswingingpi",
   "a027edfc63391618",
   "oilprivatesurveyofinventoryshowsahugeheadlinecrudeoilbuildvs",
   "f36df6f7cc41bc1d",
@@ -603,7 +601,9 @@
   "94275b9b787276a1",
   "naturalgasandoilforecast174mbarrelcrudebuildweighsashormuzri",
   "9a527a2dfb9a87c2",
-  "saudicrudeexportsgodarkashouthithreatrises"
+  "saudicrudeexportsgodarkashouthithreatrises",
+  "53e7c3f462ca6f2b",
+  "oilrisesonworriesoversupplydisruptionsasspillnearomanworsens"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 17
  },
- "last_run": "2026-08-13T10:50:15.956882+03:00",
+ "last_run": "2026-08-13T10:55:19.547894+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
