@@ -4,10 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "91fc031af2aad6e2",
-  "oilstockstowatchasstraitofhormuztensionliftscrudeprices",
-  "e2509e0f0820fb6b",
-  "eiaweeklyuscrudeoilinventories17423kvs1405kexpected",
   "b47e8e4f5348cff4",
   "useiacrudeoilinventories174mlnbarrelsinlatestweekfrompreviou",
   "e731bbbc10c14182",
@@ -603,7 +599,11 @@
   "eeaf8217838a2e2c",
   "usstocksrisetoarecordasoilpricesdropandinflationgetslessbadp",
   "07a5d67b2c90b442",
-  "uaesaysiranattackedtwoadnocvesselsinstraitofhormuznoinjuries"
+  "uaesaysiranattackedtwoadnocvesselsinstraitofhormuznoinjuries",
+  "2c1ae95bcdac133b",
+  "synergisticremediationofoilcontaminatedsoilusingsorghumandoi",
+  "f57e5fceee202bf5",
+  "baierpushesbackontrumpsstraitofhormuzclaimtraffichasslowedto"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-14",
-  "count": 2
+  "count": 3
  },
- "last_run": "2026-08-14T00:25:15.029024+03:00",
+ "last_run": "2026-08-14T00:30:19.827569+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
