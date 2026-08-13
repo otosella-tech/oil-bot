@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "4908b0ca5a50e66c",
-  "apireportssignificantriseinuscrudeoilinventoriesbyinvestingc",
-  "d1801530d6854045",
-  "financialmarketsoilpricesandsupplysiderisks",
   "fcf6000344bf4e64",
   "usstocksedgefurtherfromtheirrecordsasoilpriceskeepswingingpi",
   "a027edfc63391618",
@@ -603,7 +599,11 @@
   "ceee09a4c014cbd8",
   "usequitymarketsendloweraftercrudeoilpricesrisefollowingusira",
   "f3dbeb867ffbdd89",
-  "watchgohlongmideastconflicthitcrudeproductprices"
+  "watchgohlongmideastconflicthitcrudeproductprices",
+  "94275b9b787276a1",
+  "naturalgasandoilforecast174mbarrelcrudebuildweighsashormuzri",
+  "9a527a2dfb9a87c2",
+  "saudicrudeexportsgodarkashouthithreatrises"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 17
  },
- "last_run": "2026-08-13T10:25:13.802212+03:00",
+ "last_run": "2026-08-13T10:30:19.026443+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
