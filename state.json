@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "b00b6224906cc0b2",
-  "oilpricesretreatasdemandsignalsweighonmarkets",
   "4908b0ca5a50e66c",
   "apireportssignificantriseinuscrudeoilinventoriesbyinvestingc",
   "d1801530d6854045",
@@ -603,7 +601,9 @@
   "246695c68d048da8",
   "nigeriaoffersdeepwateroiltaxbreakstolure50billion",
   "ceee09a4c014cbd8",
-  "usequitymarketsendloweraftercrudeoilpricesrisefollowingusira"
+  "usequitymarketsendloweraftercrudeoilpricesrisefollowingusira",
+  "f3dbeb867ffbdd89",
+  "watchgohlongmideastconflicthitcrudeproductprices"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 17
  },
- "last_run": "2026-08-13T10:15:22.242926+03:00",
+ "last_run": "2026-08-13T10:20:14.924248+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
