@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "49122d891657c3f0",
-  "currentpriceofoilasofaug62026",
   "e8814aeca67d3b5c",
   "sableeyesseptemberrestartforthirdoilplatformincaliforniawate",
   "231c69320be7ec7a",
@@ -603,7 +601,9 @@
   "ccf2c4b7f0ddb23e",
   "crudeoilsellsaglutthatneverleftthedock",
   "3a3c98c7bf15965d",
-  "usbacksx"
+  "usbacksx",
+  "e2bd407c58210bf7",
+  "gaspricesriseabove4ascrudeoilremainshigh"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 51
  },
- "last_run": "2026-08-13T22:40:16.553439+03:00",
+ "last_run": "2026-08-13T22:45:15.392485+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
