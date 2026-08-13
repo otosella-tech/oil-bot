@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "97f52a35c7694204",
-  "oilpricesarerisingagainashopesforausirandealfadehereswhatene",
   "5fccef8d29d62aab",
   "usstocksedgedownfromtheirrecordafteroilpricesclimb5",
   "ea1cf6f7b48f52a6",
@@ -603,7 +601,9 @@
   "574ac4a9773f20c7",
   "oilpricesdown120826",
   "46398454a3b8fa2b",
-  "omansaysoilspillfromstrickentankerhasreacheditscoast"
+  "omansaysoilspillfromstrickentankerhasreacheditscoast",
+  "7500853229f9efad",
+  "oilpricesclimbagainasglobalstocksgain"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 13
  },
- "last_run": "2026-08-13T09:00:22.370865+03:00",
+ "last_run": "2026-08-13T09:05:15.544770+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
