@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "2ba57a6a4720135f",
-  "earningsseasonoilpricesundergirdeuropeanboursesmidday",
   "12a6f6062d170963",
   "crudeoilsurgeshigherasinflationrisksreturn90infocus",
   "aa28def4af81ca52",
@@ -603,7 +601,9 @@
   "8413a3ef7554face",
   "stocksriseastradersreduceratehikebetsoilpricesdrop",
   "a74015c1e8d0ccf5",
-  "iranbackedhouthirebelsclashwithyemenigovernmentforcesandothe"
+  "iranbackedhouthirebelsclashwithyemenigovernmentforcesandothe",
+  "c4fee79474fb8e3b",
+  "ukeconomyremainsresilientdespiteiranwarandhigherenergyprices"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-13",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-08-13T18:55:15.696837+03:00",
+ "last_run": "2026-08-13T19:00:24.325522+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
@@ -1496,6 +1496,10 @@
   {
    "d": "2026-08-13",
    "t": "Hormuz Stalemate Raises Risk of $120 Oil"
+  },
+  {
+   "d": "2026-08-13",
+   "t": "UK Economy Remains Resilient Despite Iran War and Higher Energy Prices"
   }
  ]
 }
