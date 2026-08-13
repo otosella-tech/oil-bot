@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "f0d1a2107d21f955",
-  "oilpriceshigherstocksmixedaheadofinflationreport",
-  "dd1292a9b3afcc59",
-  "usstocksedgefurtherfromtheirrecordsasoilpriceskeepswingingab",
   "b00b6224906cc0b2",
   "oilpricesretreatasdemandsignalsweighonmarkets",
   "4908b0ca5a50e66c",
@@ -603,7 +599,11 @@
   "1abd444aa727f9ba",
   "ambreyengagedinsalvageofstrickentankercarolinebezengioffoman",
   "d73ff829a3432958",
-  "eiareportsmassiveriseinuscrudeoilstocks"
+  "eiareportsmassiveriseinuscrudeoilstocks",
+  "246695c68d048da8",
+  "nigeriaoffersdeepwateroiltaxbreakstolure50billion",
+  "ceee09a4c014cbd8",
+  "usequitymarketsendloweraftercrudeoilpricesrisefollowingusira"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-13",
-  "count": 16
+  "count": 17
  },
- "last_run": "2026-08-13T10:05:13.887110+03:00",
+ "last_run": "2026-08-13T10:10:16.231197+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
