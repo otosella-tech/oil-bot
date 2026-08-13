@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "314dd8a86b0d4835",
-  "crudeoilsuppliesat45yearlow",
   "2a13ea01599cbdf1",
   "canadiandollarhitstwomonthhighasoilpricesrise",
   "33770279b9192061",
@@ -603,7 +601,9 @@
   "3be6eaad2f7d1e08",
   "producedwatersocietyconferencedrawsoilandgasindustrytomidlan",
   "6030356b32e86fb5",
-  "freepressopinionarewenowbentoveranoilbarreliniran"
+  "freepressopinionarewenowbentoveranoilbarreliniran",
+  "2d1011ea64390602",
+  "oildropsonlowerdemandforecastsdespitedeadlockinusirantalks"
  ],
  "releases_done": {
   "2026-08-12|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-13",
   "count": 1
  },
- "last_run": "2026-08-13T04:10:16.540415+03:00",
+ "last_run": "2026-08-13T04:15:15.754115+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
