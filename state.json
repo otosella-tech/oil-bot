@@ -4,10 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "565a915873b8e6ee",
-  "uscrudeoilinventoriesjumpbymostsincejanuary2023",
-  "51935a0e16fd181b",
-  "useiacrudeoilimportschangeaug071768prev0297",
   "0a9e1c2550d485ca",
   "useiacrudeoilstockschangeaug0717422vsexp14prev2479",
   "1a842590b039482e",
@@ -603,7 +599,11 @@
   "60c8303e9842ba10",
   "oilsettlesdown2onweakdemandoutlookheftyuscrudebuildeuronextm",
   "33faa0a6ae5e7458",
-  "mexicohasmorerefiningcapacitysowhyarefuelimportsrising"
+  "mexicohasmorerefiningcapacitysowhyarefuelimportsrising",
+  "c4995af87b861418",
+  "useyesindefiniteirannavalblockadeasoilsupplyshortfalldeepens",
+  "103b8f407eca9eb8",
+  "articletopwhitehouseoilliaisondepartsforsableoffshore"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-14",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-08-14T02:35:11.515560+03:00",
+ "last_run": "2026-08-14T02:40:16.202800+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1136,6 +1136,10 @@
   {
    "d": "2026-08-14",
    "t": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries - Reuters"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "US eyes indefinite Iran naval blockade as oil supply shortfall deepens - reuters.com"
   }
  ]
 }
