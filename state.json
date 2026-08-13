@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "cc564eec3328d9ee",
-  "middleeastwarpusheschinatowardthearctictraderoute",
-  "e656c80154549719",
-  "oilsupplydisruptionstocontinuethrough2027",
   "20ede9e69e2e1296",
   "usstocksdownasoilrisesaheadofinflationdata",
   "4452bd7f08cff9e1",
@@ -603,7 +599,11 @@
   "6ff0986acc647020",
   "uscrudeoilinventoriesseesurprisebuildapi",
   "478a61d7a694810c",
-  "opecglobaloildemandgrowthtoaccelerateto22mmbbldin2027"
+  "opecglobaloildemandgrowthtoaccelerateto22mmbbldin2027",
+  "cac89bbcfbc6adc5",
+  "southkoreanfleetreshufflecreatesasiaslargestlngcarrieroperat",
+  "cd690492a56bca45",
+  "oilpricestrimlossesasmarketsparsehormuzuncertaintyweakdemand"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 15
  },
- "last_run": "2026-08-13T09:45:15.068614+03:00",
+ "last_run": "2026-08-13T09:50:17.562287+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
