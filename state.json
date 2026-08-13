@@ -4,10 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "36fb2783a6e7e36b",
-  "usenergyinformationadministrationongoingconflictcontinuestoc",
-  "a039cab4c7ea6f60",
-  "oilpricesriseasattacksdenthopesforstraitofhormuzreopening",
   "ca9569b0e62c7182",
   "unitedstatesapiweeklycrudeoilstockcameinat9072maboveexpectat",
   "37d17c9f842eac16",
@@ -603,7 +599,11 @@
   "524627bef6c468d6",
   "whyisntthepriceofoilevenhigher",
   "c9fe4fd7f4fb2a09",
-  "themiddleeastcrisishasrewiredtheoilmarketnysearcaxle"
+  "themiddleeastcrisishasrewiredtheoilmarketnysearcaxle",
+  "3e0ec709e072f38c",
+  "highoilpricesdeliverawindfallforchinascoaltochemicalsindustr",
+  "187c7c077b413b45",
+  "cctvscript130826"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 24
  },
- "last_run": "2026-08-13T13:35:21.226637+03:00",
+ "last_run": "2026-08-13T13:40:18.427968+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
