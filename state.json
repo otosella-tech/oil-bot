@@ -4,12 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "e5f2030da8cdd096",
-  "trumpsenergydominanceagendaisonlyhelpingoilandgascompanies",
-  "1174cb2ed1845e01",
-  "alaskas55blngmega",
-  "7427d68459ffe1c4",
-  "loganenergycorpannouncessecondquarter2026resultsandprovidesa",
   "f8e8378c3dd86941",
   "usraises2026oilforecastto87abarrelamidhormuzdisruption",
   "4e7d4e3ac215c0e4",
@@ -603,7 +597,13 @@
   "de52cd98bbed1b37",
   "nigeriacrudeoutputtopsopecquotaforthirdmonth",
   "52a86a773cd27803",
-  "uscrudeoilstocksjumpby174millionbarrelsonimportsurge"
+  "uscrudeoilstocksjumpby174millionbarrelsonimportsurge",
+  "fc5ecdccf058e9a8",
+  "chinaisbalancingasiascrudeoildemandbyitself",
+  "3051fbdbd1ad8f94",
+  "currentpriceofoilasofaug72026",
+  "9e47514a0d0e5143",
+  "duetotheiranwariraqisrunningoutofmoney"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-13",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-08-13T11:50:14.741659+03:00",
+ "last_run": "2026-08-13T11:55:13.258852+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
@@ -1468,6 +1468,10 @@
   {
    "d": "2026-08-13",
    "t": "Oil futures: Crude steadies as US stock build offsets Hormuz risk - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-08-13",
+   "t": "Due to the Iran war, Iraq is running out of money - dw.com"
   }
  ]
 }
