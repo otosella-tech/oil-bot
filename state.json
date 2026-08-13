@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "7f70ee46bedb26e8",
-  "russiasorskrefineryhaltedprocessingafteraugust11droneattacks",
   "4e6a3be3b885cc1a",
   "inflationinfocusaswagegrowthslowsforworkers",
   "8123eed8291d758f",
@@ -603,7 +601,9 @@
   "6ea2af80403f73c8",
   "usstocksticktowardrecordsasoilpricesdropandinflationeasesupp",
   "a902d1e30f6173cd",
-  "ifusstateswerecountriestexaswouldrank4inoilproduction"
+  "ifusstateswerecountriestexaswouldrank4inoilproduction",
+  "e0c8292686fdd7ae",
+  "oilpriceseasehelpingtolimitworriesaboutinflation"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 41
  },
- "last_run": "2026-08-13T17:15:15.600043+03:00",
+ "last_run": "2026-08-13T17:20:16.368077+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
