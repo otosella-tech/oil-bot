@@ -4,14 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "8bc1314e3d1adcb1",
-  "whytherealoilsqueezeishappeninginrefineries",
-  "eec5f515d5af4a97",
-  "zelenskyhaltsdronestrikesonblackseaoiltankersinrussianportaf",
-  "c5013957bbe9d33c",
-  "currentpriceofoilasofaug122026",
-  "87952c7e99ce7a5a",
-  "sableexpectstoincreasesyuoilsalestocaliforniarefinersfromq3",
   "924c662bdc7d27f8",
   "energypricesexpectedtofallinlatestinflationdata",
   "7aed35b9953bcd30",
@@ -603,7 +595,15 @@
   "4a5aac1528b68a4b",
   "omansaysmassiveoilspillreachescoastlinewhatdamagecoulditdo",
   "b6745f9229deed39",
-  "canadiandollarandbusinessoutlooklooniecrudeoilstepback"
+  "canadiandollarandbusinessoutlooklooniecrudeoilstepback",
+  "e1b684a8212c885a",
+  "oilhuntersanddrphilhowalongshotprojectisshakingupgreenland",
+  "7e8f3d2ebb967769",
+  "iranoilspillthewarisleavingenvironmentalscarsthatceasefiresc",
+  "6171abb900b2acb2",
+  "libyaministryreportsh12026oilrevenueexceedstargets",
+  "14462f0bd98e6682",
+  "abritishfirmstartscontainmentofoilspillfromstrickentankeroff"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-13",
-  "count": 43
+  "count": 44
  },
- "last_run": "2026-08-13T17:55:14.937858+03:00",
+ "last_run": "2026-08-13T18:00:23.312958+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
