@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "97abd5d5fdd5cecb",
-  "indianrefinersseek6millionbarrelsofspotcrude",
   "49122d891657c3f0",
   "currentpriceofoilasofaug62026",
   "e8814aeca67d3b5c",
@@ -603,7 +601,9 @@
   "67ef335fa1aebe32",
   "hugeoilspilloffthecoastofomannowcovershundredsofsquaremiles",
   "ccf2c4b7f0ddb23e",
-  "crudeoilsellsaglutthatneverleftthedock"
+  "crudeoilsellsaglutthatneverleftthedock",
+  "3a3c98c7bf15965d",
+  "usbacksx"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 51
  },
- "last_run": "2026-08-13T22:25:11.899173+03:00",
+ "last_run": "2026-08-13T22:30:19.939207+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
