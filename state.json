@@ -4,10 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "d2f5b3b8ca86cd03",
-  "yeninterventionwearsoffoiljumpsandintelrakesinmoremarketspmf",
-  "06a85079bc1e4d95",
-  "uscrudeoilinventoriespostweeklyincrease",
   "10cb73fd61e6f4aa",
   "oilcontinuesclimbwithdoubtsaboutpotentialusirandealstocksret",
   "96f42fca81d2d51f",
@@ -603,7 +599,11 @@
   "a3e5221728418027",
   "oilfuturescrudeeasesasusstockbuildoffsetshormuzrisk",
   "1a5139ff6f518404",
-  "crudeoilfuturesfallasopecieapredictdeclineindemandin2026"
+  "crudeoilfuturesfallasopecieapredictdeclineindemandin2026",
+  "40767fe6629d2197",
+  "usequitymarketsendloweramidrisingcrudeoilpricesusiranuncerta",
+  "441f93c4d184bdc5",
+  "updateusequityindexesfallamidhighercrudeoilpricestreasuryyie"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-13",
-  "count": 12
+  "count": 13
  },
- "last_run": "2026-08-13T08:40:16.993581+03:00",
+ "last_run": "2026-08-13T08:45:16.618387+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
