@@ -4,8 +4,6 @@
   "Brent": 88.9
  },
  "seen": [
-  "d3432693eb75f9a8",
-  "usequityindexesfallascommunicationservicessectorslidescrudeo",
   "df178648abbf05b1",
   "usequitymarketsendloweramidrisingcrudeoilpricesusiranuncerta",
   "441f93c4d184bdc5",
@@ -603,7 +601,9 @@
   "7370c8ed00a49782",
   "theussaysmoreoilisleavingthemiddleeastbutisitreally",
   "c744639065836423",
-  "oileasesasweakerdemandoutlookcountersmideastsupplyconcernsby"
+  "oileasesasweakerdemandoutlookcountersmideastsupplyconcernsby",
+  "ca2be31c3f597e35",
+  "oilpricesfallasopecandieaslash2026demandoutlooks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 11
  },
- "last_run": "2026-08-13T08:20:22.348175+03:00",
+ "last_run": "2026-08-13T08:25:11.908243+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
