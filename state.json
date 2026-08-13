@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "6519f87d29f71250",
-  "oilpricesriseaftershipattacksusirantalksdeadlock",
   "1deb89fda4989592",
   "oilrisesafterattacksonshipsinhormuzbabelmandebeuronextmarket",
   "fc1defe250e62ce9",
@@ -603,7 +601,9 @@
   "47a21c7e569cdaac",
   "currentpriceofoilasofaug122026",
   "b9ccf8af7ab1958e",
-  "crudeoilpriceswtifallsasusinventoriessurgebrentslipsunder88"
+  "crudeoilpriceswtifallsasusinventoriessurgebrentslipsunder88",
+  "f6065e50ab80423e",
+  "whattrumptariffsrussiaaccountsformorethanhalfofindiascrudeoi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 46
  },
- "last_run": "2026-08-13T18:10:15.612947+03:00",
+ "last_run": "2026-08-13T18:15:15.476293+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
