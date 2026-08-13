@@ -4,10 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "3f2dafbcdb7b1fe8",
-  "oilrisesvolatilityexpectedamidmiddleeastdevelopments",
-  "6f411f64cb15dace",
-  "oilrisesasdoubtsoverusirandealheightensupplyconcerns",
   "aa06be8994861f8b",
   "residentstrytoshutdownsouthlaoildrillsite",
   "e3e0abf2364aeef8",
@@ -603,7 +599,11 @@
   "e0ba72754ea09834",
   "gulfstatesscrambleforstraitofhormuzalternatives",
   "49b7bc0eb006185e",
-  "shellknewmorepollutioncouldfollowyettheoilkeptflowing"
+  "shellknewmorepollutioncouldfollowyettheoilkeptflowing",
+  "0f5b5eca7f729804",
+  "oildeclinesundertheweightofinventories",
+  "883d6b285e8c58e0",
+  "gasbuddygaspriceshigherthaneverforlateaugust"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 24
  },
- "last_run": "2026-08-13T13:10:14.054566+03:00",
+ "last_run": "2026-08-13T13:15:15.348485+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
