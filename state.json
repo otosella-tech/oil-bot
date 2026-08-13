@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "ba66b31a4699cb66",
-  "currentpriceofoilasofaugust122026",
   "2bd688c1738def4e",
   "russianoilrefineryinorskhashaltedoperationsduetodroneattacks",
   "2ba57a6a4720135f",
@@ -603,7 +601,9 @@
   "87f27d48048b9c75",
   "ukrainestrikesgazproms200000",
   "8472113be65b0583",
-  "oilfallsmorethan3onweakerglobaldemandoutlookanduscrudebuildu"
+  "oilfallsmorethan3onweakerglobaldemandoutlookanduscrudebuildu",
+  "8413a3ef7554face",
+  "stocksriseastradersreduceratehikebetsoilpricesdrop"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-13",
   "count": 47
  },
- "last_run": "2026-08-13T18:40:16.958767+03:00",
+ "last_run": "2026-08-13T18:45:15.132007+03:00",
  "sent_stories": [
   {
    "d": "2026-08-10",
