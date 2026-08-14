@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "4568dc29528592b8",
-  "currentpriceofoilasofaug52026",
   "ea7fb2b4e3deb70a",
   "wallstreetfuturesgainasoilselloffeasesinflationpressuredowjo",
   "3fcc684cdf1cee0e",
@@ -603,7 +601,9 @@
   "0a37923afb054abd",
   "epsilonenergytheoilpivotstillneedsproofnasdaqepsn",
   "34cf06e3c890fbcc",
-  "usoilrigsriseto455asstraitofhormuzattackshalttraffic"
+  "usoilrigsriseto455asstraitofhormuzattackshalttraffic",
+  "7cbcac4f0045c6c6",
+  "abandonedrussiantankerleakingoiloffomancoastthreateningenvir"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T23:50:15.344789+03:00",
+ "last_run": "2026-08-14T23:55:12.164030+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1381,6 +1381,10 @@
   {
    "d": "2026-08-14",
    "t": "US oil rigs rise to 455 as Strait of Hormuz attacks halt traffic - Investing.com"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Abandoned Russian tanker leaking oil off Oman coast, threatening environmental disaster - CBS News"
   }
  ]
 }
