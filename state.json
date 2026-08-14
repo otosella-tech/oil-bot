@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "0a9e1c2550d485ca",
-  "useiacrudeoilstockschangeaug0717422vsexp14prev2479",
   "1a842590b039482e",
   "usconsumerinflationslowsinjulyasenergypricesbrieflyretreat",
   "fdeaab90e60a0ddd",
@@ -603,7 +601,9 @@
   "c4995af87b861418",
   "useyesindefiniteirannavalblockadeasoilsupplyshortfalldeepens",
   "103b8f407eca9eb8",
-  "articletopwhitehouseoilliaisondepartsforsableoffshore"
+  "articletopwhitehouseoilliaisondepartsforsableoffshore",
+  "ee8ccf84b2ffb3f2",
+  "trumpisspendingbillionsonthemineralsthatpowerevs"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -615,7 +615,7 @@
   "date": "2026-08-14",
   "count": 6
  },
- "last_run": "2026-08-14T02:55:12.214446+03:00",
+ "last_run": "2026-08-14T03:00:18.220381+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
