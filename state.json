@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "f8a2862eaebf129d",
-  "ieaexpectsworldoildemandtofallamidsurginggasprices",
   "202f7037cdcc3684",
   "refinedoilpricesfacemorepressurethancrudeandconsumerswillpay",
   "48d243d0e19d87dc",
@@ -603,7 +601,9 @@
   "602d2610021d5e7f",
   "rankedhowdirtyaretheeightbiggestnamesinai",
   "a2594a9e3b7a23c0",
-  "uaesadnocsaysoneofitsvesselscameunderattackwhiletransitingho"
+  "uaesadnocsaysoneofitsvesselscameunderattackwhiletransitingho",
+  "f16ea0eda8bb8d86",
+  "nymarketlittlechangedasdowfalls72pointscrudeoilfuturesreboun"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-15",
   "count": 2
  },
- "last_run": "2026-08-15T01:25:12.439153+03:00",
+ "last_run": "2026-08-15T01:30:18.627473+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
