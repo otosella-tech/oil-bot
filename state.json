@@ -4,10 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "4526cc09842ad209",
-  "hugeoilslickhittingomansshorelineasagencieswarnofdisasteral",
-  "c304dd58b61b52b9",
-  "solarpowerisgainingtractionwithfarmers",
   "e71ca80e3ac9e720",
   "hugeoilslickhittingomansshorelineasagencieswarnofdisaster",
   "7ad84990c05b5a45",
@@ -603,7 +599,11 @@
   "0e0ea30780d5da8b",
   "tensionsriseagainaftergreenlandwarnstexasoilcompany",
   "9a648685022bb4a6",
-  "theclosingbellusstocksrisetoarecordasoilpricesdropandinflati"
+  "theclosingbellusstocksrisetoarecordasoilpricesdropandinflati",
+  "49ab9d99d282b7c4",
+  "crudeoiltradingalertdownwardrevisionindemandexpectationsands",
+  "831cfee58625be0f",
+  "oilmarketslookcalmontopbutunderneathshowsabigtoll"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-14",
-  "count": 13
+  "count": 15
  },
- "last_run": "2026-08-14T05:20:14.022641+03:00",
+ "last_run": "2026-08-14T05:25:14.697985+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1152,6 +1152,10 @@
   {
    "d": "2026-08-14",
    "t": "Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz - The New York Times"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Crude Oil Trading Alert: Downward Revision in Demand Expectations and Strait of Hormuz Risks; Oil Prices Decline for Three Consecutive Days, Caution Advised Against Further Breakdown - Moomoo"
   }
  ]
 }
