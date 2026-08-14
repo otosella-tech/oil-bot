@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "7c161a9bb65c88ec",
-  "romaniashutsdownlastnuclearreactorasdanubehits90",
   "f8a2862eaebf129d",
   "ieaexpectsworldoildemandtofallamidsurginggasprices",
   "202f7037cdcc3684",
@@ -603,7 +601,9 @@
   "0803247e7824026b",
   "satelliteimagesofsunkenrussiantankeroffomancoastshowgrowingo",
   "602d2610021d5e7f",
-  "rankedhowdirtyaretheeightbiggestnamesinai"
+  "rankedhowdirtyaretheeightbiggestnamesinai",
+  "a2594a9e3b7a23c0",
+  "uaesadnocsaysoneofitsvesselscameunderattackwhiletransitingho"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -617,291 +617,11 @@
   "Brent": 87.09
  },
  "llm": {
-  "date": "2026-08-14",
-  "count": 60
+  "date": "2026-08-15",
+  "count": 2
  },
- "last_run": "2026-08-15T01:05:13.123058+03:00",
+ "last_run": "2026-08-15T01:10:18.206578+03:00",
  "sent_stories": [
-  {
-   "d": "2026-08-11",
-   "t": "Dollar Pushes Higher as Crude Oil Surges and T-Note Yields Rise - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil prices rise further as hopes for Hormuz deal fade - Yahoo Finance UK"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz - Al Jazeera"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil prices hold near one-week high as Strait of Hormuz reopening remains in limbo - The Times of India"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade - CNBC"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack - Al Jazeera"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Explosions Spark Fire at Russian Oil Refinery in Orsk as Damage Is Assessed - Межа. Новини України."
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil Prices Rise as Iran Hardens Hormuz Demands - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil prices rise, Asia stocks drift on US-Iran stalemate - Reuters"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "NY Crude Oil Surges 5% as U.S.-Iran Reparations Standoff Dims Hormuz Peace Hopes - finance.biggo.com"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil prices settle at lowest in over a week, as US pauses attacks on Iran - Reuters"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil Rises Amid Growing Doubts That Strait of Hormuz Can Reopen Soon - WSJ"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Rupee retreats to near two-week low as US-Iran standoff pushes oil higher - Reuters"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "An Oil Refiner That Fled California Is Back—With a Giant Pipeline From Texas - WSJ"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oman confirms oil spill from grounded tanker spreads across 400km² - Yahoo"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap - Bloomberg.com"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Hormuz Traffic Sinks to Six Vessels Monday as Iran Talks Stall Again"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Ukraine Strikes Russian Oil Refinery More Than 1,500 Kilometers From Its Border - Kyiv Post"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Firefighters battle Zawiya refinery blaze after drone attacks - Reuters"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil Prices Rise to $90 a Barrel Over U.S.-Iran Stalemate - The New York Times"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Expert Analysis | From Sanctions to Drone Warfare: The Slow Erosion of Russia’s Oil Sector - hcss.nl"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil spill off Oman from tanker under sanctions against Russia spreads over huge area - NBC News"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "US Stock Futures Rise as Oil Erases Gains on Iran Optimism - Bloomberg.com"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "OPEC Output Climbs Again, But Still Trails Quota Targets"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Iraq and Lebanon Seek to Reopen Decades-Old Kirkuk-Tripoli Oil Pipeline - Pipeline Technology Journal"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "U.S. oil price hovers around $82 as traders weigh conflicting signals on Strait of Hormuz deal - CNBC"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil rises above $89 as Strait of Hormuz deal hopes fade - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "What has been hit in Ukraine's attacks on Russian energy sites? - Reuters"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Global Oil Prices Surge Then Retreat as New Signals Emerge on US-Iran Deal - TradingKey"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Russia’s Crude Oil Shipments Tumble to the Lowest Since May - Bloomberg.com"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil prices ease after Qatar says Iran-Oman talks are in advanced stage - Investing.com"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Congress Targets Putin’s Oil Lifeline With Tough New Sanctions"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil firm as US-Iran impasse drags on; stocks edge up - Reuters"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil edges lower with Oman-Iran talks in focus By Reuters - Investing.com"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "What really happens after Ukraine strikes a Russian oil refinery? Meduza analyzed unique satellite data to assess the damage. - Meduza — Новости"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on - Al Jazeera"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Ukraine Drone Attack Hits Major Oil Refinery Deep Inside Russia"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil cargo switching outside Hormuz indicates dark transits - Transport Topics"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil prices lower, stocks higher as Hormuz doubts drag on - France 24"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil Turns Lower With Market Watching Hormuz Talks - WSJ"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Brent Could Hit $100 as Hormuz Crisis Flares Again"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Crude Oil Prices: Brent Targets $90 While OPEC+ Supply Caps Gains - Coinpaper"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate - The New York Times"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil prices extended hefty gains Tuesday as hopes for a reopening of the Strait of Hormuz fade, fanning fresh inflation fears and ramping up bets on at least one US interest rate hike this year. I via ANC 24/7 Link to full story in the comments section. - facebook.com"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oman says grounded tanker oil spill covers 400 square km - reuters.com"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983 - CNBC"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Dangote refinery spurs West Africa fuel trading hub ambitions - Reuters"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Russia's oil exports to Asia via Arctic route start strongly, sources say and data shows - Reuters"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Russian Crude Exports Drop to Lowest Since May"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil prices hold near one-week high as Hormuz talks advance - Reuters"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil again gains with eyes on potential US-Iran deal; stocks climb - reuters.com"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil Futures Gain As Market Looks for Hormuz Agreement - WSJ"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Libya's NOC says drone attack targeted fuel tank at Zawiya oil refinery - The Jerusalem Post"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Update: Equities Fall, Oil Advances as Hope Dims for Hormuz Reopening - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "US Equity Indexes Fall as Communication Services Leads Sectors Lower, Crude Oil Up Amid Hormuz Reopening Concerns - marketscreener.com"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Iran Says Hormuz Will Stay Closed Until U.S. Meets Its Conditions"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Drone targets fuel tank at Zawiya oil complex in latest attack, Libya's NOC says - The Jerusalem Post"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Update: US Equity Indexes Mixed as Crude Oil, Treasury Yields Jump Amid Worsening Iran Geopolitics - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil prices reverse gains in Strait of Hormuz standoff as Wall Street inches up ahead of inflation numbers - Fortune"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil Advances as Hopes Fade for Strait of Hormuz Reopening - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met - CNBC"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil hits new one-week high as supply disruptions outweigh Strait of Hormuz talks - Reuters"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil prices hold near one-week high amid Strait of Hormuz talks - Idaho Business Review"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade - Reuters"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Strait of Hormuz Traffic Sank To Just Six Vessels Monday"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat - Reuters"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "US Equity Markets End Lower After Crude Oil Prices Rise Following US-Iran Disagreements - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "ExxonMobil Holdings Corporation (XOM) vs. Chevron Corporation (CVX): Trump Attacks the Oil Giants for Making “Too Much Money” - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "U.S. stocks fall after Iran says Strait of Hormuz will remain shut - Fortune"
-  },
-  {
-   "d": "2026-08-11",
-   "t": "Oil Settles Higher as Market Doubts Progress in Iran Talks - WSJ"
-  },
   {
    "d": "2026-08-12",
    "t": "Asian Stocks to Slip With US CPI, Iran in Focus: Markets Wrap - Bloomberg.com"
@@ -1385,6 +1105,10 @@
   {
    "d": "2026-08-14",
    "t": "Abandoned Russian tanker leaking oil off Oman coast, threatening environmental disaster - CBS News"
+  },
+  {
+   "d": "2026-08-15",
+   "t": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz - Reuters"
   }
  ]
 }
