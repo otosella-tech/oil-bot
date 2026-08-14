@@ -4,10 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "11b9fb48d8929530",
-  "crudeoilpricebenefitsfromoversoldconditionstoenhancerecovery",
-  "7370c8ed00a49782",
-  "theussaysmoreoilisleavingthemiddleeastbutisitreally",
   "c744639065836423",
   "oileasesasweakerdemandoutlookcountersmideastsupplyconcernsby",
   "ca2be31c3f597e35",
@@ -603,7 +599,11 @@
   "b602bdc26f0af032",
   "oilsetforweeklygainsafterusthreatensindefiniteblockadeofiran",
   "baca59b341fb5f3d",
-  "stocksrisetoalltimehighasinflationoilpriceseasethearkansasde"
+  "stocksrisetoalltimehighasinflationoilpriceseasethearkansasde",
+  "c8c9a242d583977e",
+  "usstocksedgefurtherfromtheirrecordsasoilpriceskeepswinging",
+  "f2959768b7e55e21",
+  "perpetualoilabritishfirstonthelondonmarket"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -615,7 +615,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T14:15:14.198218+03:00",
+ "last_run": "2026-08-14T14:20:17.044890+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
