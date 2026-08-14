@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "1facd536dbcefdbb",
-  "riskfirmambreyworkingtosalvageshipspewingoilintoseaoffoman",
   "f3e0e6a495d6ca37",
   "crudeoilpullsbackonthursday",
   "37d17c9f842eac16",
@@ -603,7 +601,9 @@
   "7fc80c2b8a6e3d62",
   "oilpricesslipasopeccuts2026demandforecastiranwarkeepssupplyr",
   "a7a42fea5e064349",
-  "opecoutputclimbsagainbutstilltrailsquotatargets"
+  "opecoutputclimbsagainbutstilltrailsquotatargets",
+  "aca0fe70c726bce9",
+  "usoildrillersaddevenmorerigsasoilpricesstayhigher"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T20:05:13.185958+03:00",
+ "last_run": "2026-08-14T20:10:27.604432+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
