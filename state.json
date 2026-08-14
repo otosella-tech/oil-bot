@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "14d200767bb4fb6c",
-  "oilflowsnormalizingnotsofast",
   "141d8731ee809a2d",
   "oilspillfromgroundedshadowfleettankercouldrivalexxonvaldez",
   "33707fccd640c678",
@@ -603,7 +601,9 @@
   "b694d23a65311921",
   "stocksrisetoarecordasoilpricesdropandinflationgetslessbad",
   "b03779a50b8b5b07",
-  "ustlugaablazeagainas54ukrainiandroneshitrussiaskeybalticoilp"
+  "ustlugaablazeagainas54ukrainiandroneshitrussiaskeybalticoilp",
+  "cc99f2b60d80a330",
+  "irancrudeoutputasreportedbyopecjulyupdatereport"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-14",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-08-14T08:35:13.569936+03:00",
+ "last_run": "2026-08-14T08:40:15.625688+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1176,6 +1176,10 @@
   {
    "d": "2026-08-14",
    "t": "Ust-Luga Ablaze Again as 54 Ukrainian Drones Hit Russia’s Key Baltic Oil Port - Kyiv Post"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Iran crude output as reported by OPEC (July update) (Report) - IranOilGas"
   }
  ]
 }
