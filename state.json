@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "48d243d0e19d87dc",
-  "eiapredictsrecordannualusaoiloutputin2026",
-  "7c5b3e8e7f19b832",
-  "usstocksrisetowardrecordsasoilpricesdropandinflationgetsless",
   "62ab0f90ee71e7ca",
   "oilspilloffcoastofomanfastbecomingworstinyearsagenciesdailys",
   "4a5aac1528b68a4b",
@@ -603,7 +599,11 @@
   "f16ea0eda8bb8d86",
   "nymarketlittlechangedasdowfalls72pointscrudeoilfuturesreboun",
   "f8d0e68f30830741",
-  "eurostatcrudeoilimportsbyfieldofproductionjune2026updatenews"
+  "eurostatcrudeoilimportsbyfieldofproductionjune2026updatenews",
+  "16e24d64a1bb6a8f",
+  "loweroilandgasbondsonfederallandcouldcosttaxpayersbillions",
+  "480200d60914638a",
+  "myencounterwithcarlosthejackaltheworldsfirstcelebrityterrori"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-15",
   "count": 2
  },
- "last_run": "2026-08-15T01:50:15.298696+03:00",
+ "last_run": "2026-08-15T01:55:13.654446+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
