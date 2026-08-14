@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "b6745f9229deed39",
-  "canadiandollarandbusinessoutlooklooniecrudeoilstepback",
   "e1b684a8212c885a",
   "oilhuntersanddrphilhowalongshotprojectisshakingupgreenland",
   "7e8f3d2ebb967769",
@@ -603,7 +601,9 @@
   "d843b21a0a97eac3",
   "consumerwarninglightsflashoilandtreasuryyieldsrisemarketspmf",
   "0141afcc80834dbd",
-  "oilgainsasstalledusirannegotiationsraiseriskofdisruptiontocr"
+  "oilgainsasstalledusirannegotiationsraiseriskofdisruptiontocr",
+  "b1aa287ce771c6d4",
+  "willchineseoilimportsreboundaftertheiranwar"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-15",
-  "count": 3
+  "count": 4
  },
- "last_run": "2026-08-15T02:40:17.397990+03:00",
+ "last_run": "2026-08-15T02:45:14.886574+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
