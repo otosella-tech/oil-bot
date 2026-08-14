@@ -4,10 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "93b5f27f6a4badf6",
-  "opecfurthercuts2026globaloildemandgrowthoutlookseesstrongerr",
-  "209ab3e8229ae153",
-  "apacorpq2earningsbeatestimatesonhigheroilprices",
   "65dcdd5d50a22184",
   "iranlosesgroundinoilmarketasneighborsrebound",
   "e61bdf65230b80ce",
@@ -603,7 +599,11 @@
   "365093de76707d34",
   "currencycheckrupeeopenshigherat9536ascrudeoilpricesease",
   "3880411a158200f8",
-  "brentcrudeoildropsbelow87"
+  "brentcrudeoildropsbelow87",
+  "d9bb1eb9cfa71906",
+  "oilsteadiesafterusthreatenstoblockadeiranindefinitely",
+  "c5877a51cdf64093",
+  "oilpricetodayaugust14crudeoildipsbelow88despitetrumpsthreatt"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-14",
-  "count": 19
+  "count": 21
  },
- "last_run": "2026-08-14T07:20:16.769963+03:00",
+ "last_run": "2026-08-14T07:25:14.306149+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1164,6 +1164,10 @@
   {
    "d": "2026-08-14",
    "t": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman - Al Jazeera"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Oil steadies after US threatens to blockade Iran indefinitely - Reuters"
   }
  ]
 }
