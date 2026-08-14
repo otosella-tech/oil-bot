@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "62ab0f90ee71e7ca",
-  "oilspilloffcoastofomanfastbecomingworstinyearsagenciesdailys",
-  "4a5aac1528b68a4b",
-  "omansaysmassiveoilspillreachescoastlinewhatdamagecoulditdo",
   "b6745f9229deed39",
   "canadiandollarandbusinessoutlooklooniecrudeoilstepback",
   "e1b684a8212c885a",
@@ -603,7 +599,11 @@
   "16e24d64a1bb6a8f",
   "loweroilandgasbondsonfederallandcouldcosttaxpayersbillions",
   "480200d60914638a",
-  "myencounterwithcarlosthejackaltheworldsfirstcelebrityterrori"
+  "myencounterwithcarlosthejackaltheworldsfirstcelebrityterrori",
+  "d843b21a0a97eac3",
+  "consumerwarninglightsflashoilandtreasuryyieldsrisemarketspmf",
+  "0141afcc80834dbd",
+  "oilgainsasstalledusirannegotiationsraiseriskofdisruptiontocr"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-15",
-  "count": 2
+  "count": 3
  },
- "last_run": "2026-08-15T02:05:12.999065+03:00",
+ "last_run": "2026-08-15T02:08:26.998860+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
