@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "8c15f9938f60ea49",
-  "oilmarketreportaugust2026analysis",
   "c0beac79b9394538",
   "iranwarleavesiraqrunningoutofmoney",
   "8d8af0d02fdc15bd",
@@ -603,7 +601,9 @@
   "f1cdb9fd10dd93c3",
   "calthomaswhycantwefixtheoilproblemnews",
   "7de1e8c0136b2900",
-  "hormuztrafficslowsfurtherafterusthreatensmoreeconomicpressur"
+  "hormuztrafficslowsfurtherafterusthreatensmoreeconomicpressur",
+  "c85221244a740301",
+  "iraqstrugglestofindoilexportoptionsbuttheuaemaybeabletohelp"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T22:30:17.327034+03:00",
+ "last_run": "2026-08-14T22:35:12.031416+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
