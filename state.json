@@ -4,12 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "441f93c4d184bdc5",
-  "updateusequityindexesfallamidhighercrudeoilpricestreasuryyie",
-  "6e62501f3096776d",
-  "oileasesasweakerdemandoutlookcountersmideastsupplyconcerns",
-  "06a85079bc1e4d95",
-  "uscrudeoilinventoriespostweeklyincrease",
   "e3f39c1ddb1199c2",
   "northseaoilproducerstoldtospeedupwellclosures",
   "574ac4a9773f20c7",
@@ -603,7 +597,13 @@
   "2fde05434ad77475",
   "oilpricesfallasopecandieaslash2026demandoutlooks",
   "b5ab0e6c41fc4060",
-  "oilclimbsamiduswarningofprolongediraniannavalblockade"
+  "oilclimbsamiduswarningofprolongediraniannavalblockade",
+  "1cda1666f38372f3",
+  "oiltradersrepricehormuzriskasdemandoutlookdeteriorates",
+  "cd7f2f16fc5c097c",
+  "falloutspreadsacrossthemiddleeastastheiranwargrindson",
+  "c135962297efa7d5",
+  "syriasoilrevivalisweakeningrussiasinfluenceinthecountry"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -615,7 +615,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T14:55:13.617673+03:00",
+ "last_run": "2026-08-14T15:00:25.487954+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1248,6 +1248,14 @@
   {
    "d": "2026-08-14",
    "t": "Oil climbs amid US warning of prolonged Iranian naval blockade - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Fallout Spreads Across the Middle East as the Iran War Grinds On"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Syria’s Oil Revival Is Weakening Russia’s Influence in the Country"
   }
  ]
 }
