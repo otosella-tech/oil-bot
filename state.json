@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "c410620f020cfda8",
-  "oilpricesriseafterusblockssurpriseattackfromiran",
   "31f36314ad535434",
   "alaskalngpipelinebilldiesinlegislaturegovernorfiresback",
   "516e85db56d22d5d",
@@ -603,7 +601,9 @@
   "f7f89eed20110ff9",
   "areglobaloilstocksbigenoughtoweatheranothersixmonthsofusiran",
   "f5bb01ac0877894d",
-  "currentpriceofoilasofjuly312026"
+  "currentpriceofoilasofjuly312026",
+  "e4c4cfaec12824a7",
+  "usoilgrowthfacesheadwindsasshaleproducerscutspending"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T20:30:18.403161+03:00",
+ "last_run": "2026-08-14T20:31:57.203719+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
