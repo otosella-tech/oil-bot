@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "7fc80c2b8a6e3d62",
-  "oilpricesslipasopeccuts2026demandforecastiranwarkeepssupplyr",
   "3d6384eb6d11d2bd",
   "newzealandapprovesnewoilandgasproductionasenergysecurityconc",
   "e458999ed3b4f448",
@@ -603,7 +601,9 @@
   "7b9e9c9bc86e481c",
   "canadiandollarandbusinessoutlooklooniejumpslittlemovementinc",
   "56ae0e0242327c6c",
-  "globalmarketsuaeoiltankerstargetedinstraitofhormuz"
+  "globalmarketsuaeoiltankerstargetedinstraitofhormuz",
+  "db584fd7400225d6",
+  "brentcrudeoilpriceonaugust172026at500pmedt"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -615,7 +615,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T17:50:15.579144+03:00",
+ "last_run": "2026-08-14T17:55:13.016798+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
