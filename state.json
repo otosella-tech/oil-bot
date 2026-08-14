@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "5f2b96b8f72da9bd",
-  "foroilcompanieshighpricesmeanhugeprofitsnotmoredrilling",
   "29bb081d71003c83",
   "currentpriceofoilasofaugust62026",
   "79f57a865749f898",
@@ -603,7 +601,9 @@
   "3e68827988f0ed41",
   "rupeesrbicushionedweaknessmayfindrelieffromsofteroil",
   "f5cfca99dbf581aa",
-  "crudeoilpricevolatileamidattemptstoregainmomentumanalysis140"
+  "crudeoilpricevolatileamidattemptstoregainmomentumanalysis140",
+  "8f9044364ef843d6",
+  "oilslickfromtankercarryingsanctionedrussiancrudereachesoman"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-14",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-08-14T06:20:15.811793+03:00",
+ "last_run": "2026-08-14T06:25:12.432054+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1160,6 +1160,10 @@
   {
    "d": "2026-08-14",
    "t": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster - Reuters"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman - Al Jazeera"
   }
  ]
 }
