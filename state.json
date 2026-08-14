@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "dc72a3699138d89b",
-  "omansaysgroundedtankeroilspillcovers400squarekm",
   "573a04abd6c8358b",
   "uscrudeoilinventoriesincreaseby174millionbarrels",
   "7e0fe676c04028df",
@@ -603,7 +601,9 @@
   "da8ebf8bced46879",
   "russiacapturesrecordshareofindiasoilmarket",
   "58938e627826ee9f",
-  "currentpriceofoilasofaugust42026"
+  "currentpriceofoilasofaugust42026",
+  "30f1c5e56d1dadd7",
+  "ukrainewarday1633kyivhitskeyportandoilrefineriesinrussia"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-14",
-  "count": 47
+  "count": 48
  },
- "last_run": "2026-08-14T10:20:13.644433+03:00",
+ "last_run": "2026-08-14T10:25:16.265177+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
