@@ -4,12 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "0a1e36915cafcb54",
-  "aisbiggestenergyimpactmightbeintheoilpatchnotthedatacenterws",
-  "be36a923057c4b20",
-  "aisbiggestenergyimpactmightbeintheoilpatchnotthedatacenter",
-  "690ef9e73ffd879d",
-  "usstocksticktowardrecordsasoilpricesdropandinflationgetsless",
   "408cb093d58354ee",
   "wticrudeoiloutlookwillmiddleeastsupplyheadlinesforceabreakou",
   "23f537d0b58165f3",
@@ -603,7 +597,13 @@
   "6be6ab09da21afab",
   "oilclimbsover1ontankerattacksnoprogreesonpeace",
   "cb480459c1aa0662",
-  "usequityindexesfallafterretailsalesdropmostin14monthscrudeoi"
+  "usequityindexesfallafterretailsalesdropmostin14monthscrudeoi",
+  "61f67b004b72ba18",
+  "whyarecord",
+  "95d5201656ea5348",
+  "newaerialvideorevealshugescaleofoilspilloffoman",
+  "dbf109059a8a4a12",
+  "russiasshesharisoilterminalhaltscrudeexportsafterdroneattack"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T22:55:11.227699+03:00",
+ "last_run": "2026-08-14T23:00:20.585879+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1373,6 +1373,10 @@
   {
    "d": "2026-08-14",
    "t": "US Equity Indexes Fall After Retail Sales Drop Most in 14 Months, Crude Oil Rises as Iran Warned Against Economic Pain - marketscreener.com"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Russia’s Shesharis Oil Terminal Halts Crude Exports After Drone Attack - Межа. Новини України."
   }
  ]
 }
