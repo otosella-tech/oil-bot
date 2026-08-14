@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "95c518c8a5293479",
-  "wallstfuturestickhigherasoilretreatsaheadofinflationdata",
   "e26796a04a84a44f",
   "highoilpricesdeliverawindfallforchinascoalto",
   "366ac0ea4651bc02",
@@ -603,7 +601,9 @@
   "06ee01e2dc9c8286",
   "uswestcoastrefinerstapmalaysiansupply",
   "4a2bb11333914089",
-  "nyserdaweeklyenergyandfuelmarketsreportaugust142026"
+  "nyserdaweeklyenergyandfuelmarketsreportaugust142026",
+  "cb3ecb5a36a31fe0",
+  "theiransqueezehowfarcantrumppushwithoutbreakingtheoilmarket"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -615,7 +615,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T18:50:15.409140+03:00",
+ "last_run": "2026-08-14T18:55:14.011489+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
