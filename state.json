@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "ea7fb2b4e3deb70a",
-  "wallstreetfuturesgainasoilselloffeasesinflationpressuredowjo",
   "3fcc684cdf1cee0e",
   "tankerdatacontradictsusclaimthatmiddleeastoilflowshavenormal",
   "59bf71449356359f",
@@ -603,7 +601,9 @@
   "34cf06e3c890fbcc",
   "usoilrigsriseto455asstraitofhormuzattackshalttraffic",
   "7cbcac4f0045c6c6",
-  "abandonedrussiantankerleakingoiloffomancoastthreateningenvir"
+  "abandonedrussiantankerleakingoiloffomancoastthreateningenvir",
+  "b6b3ee83c7d36397",
+  "thecudigabarfrontierinsidesetrkiyesrapidonshoreoilbuildout"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-15T00:03:04.652050+03:00",
+ "last_run": "2026-08-15T00:05:13.919968+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
