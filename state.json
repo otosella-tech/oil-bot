@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "40767fe6629d2197",
-  "usequitymarketsendloweramidrisingcrudeoilpricesusiranuncerta",
   "441f93c4d184bdc5",
   "updateusequityindexesfallamidhighercrudeoilpricestreasuryyie",
   "6e62501f3096776d",
@@ -603,7 +601,9 @@
   "9d18fa12a477e9a8",
   "dronestrikesparksblazeatkeyrussianoilandfuelterminal",
   "2fde05434ad77475",
-  "oilpricesfallasopecandieaslash2026demandoutlooks"
+  "oilpricesfallasopecandieaslash2026demandoutlooks",
+  "b5ab0e6c41fc4060",
+  "oilclimbsamiduswarningofprolongediraniannavalblockade"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -615,7 +615,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T14:40:13.906463+03:00",
+ "last_run": "2026-08-14T14:45:17.242905+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1244,6 +1244,10 @@
   {
    "d": "2026-08-14",
    "t": "Drone Strike Sparks Blaze at Key Russian Oil and Fuel Terminal"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Oil climbs amid US warning of prolonged Iranian naval blockade - Yahoo Finance"
   }
  ]
 }
