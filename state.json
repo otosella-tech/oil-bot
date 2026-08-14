@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 81.72,
-  "Brent": 86.98
+  "Brent": 88.72
  },
  "seen": [
-  "5134b8c90dc6d5e0",
-  "currentpriceofoilasofaugust132026",
   "636d973d5d4ecd9e",
   "adnocunboundwaropecexitlaunchemiratesoilgiantonquestforgrowt",
   "81b93a56a6e4aca2",
@@ -603,7 +601,9 @@
   "65318fed7e9dbe1d",
   "asianrefinersbuymoreuscrudeashormuzremainsblockedtraderssay",
   "f68576738473726b",
-  "aesstatenigermovesclosertobecominganoilpowerasalgerianenergy"
+  "aesstatenigermovesclosertobecominganoilpowerasalgerianenergy",
+  "408bbb19b4e139be",
+  "septemberwticrudeoilcontractclosesup115or14settlesat8240perb"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T21:40:16.045259+03:00",
+ "last_run": "2026-08-14T21:45:15.504780+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
