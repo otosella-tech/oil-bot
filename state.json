@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "304dc23e62cd655c",
-  "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025",
   "f5bb01ac0877894d",
   "currentpriceofoilasofjuly312026",
   "d26c4c53ff210af5",
@@ -603,7 +601,9 @@
   "c696a082381d0c54",
   "twoslicksappearingulfashugeoilspilloffomanthreatensdisaster",
   "84cce11d33394779",
-  "goldreboundsasretailsalesmissoffsetsoildriveninflationriskki"
+  "goldreboundsasretailsalesmissoffsetsoildriveninflationriskki",
+  "f4d120ae5727e218",
+  "lowoilpricesnowgoalno1iniranwarvancesaysasusthreatensnewecon"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -615,7 +615,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T16:20:14.394409+03:00",
+ "last_run": "2026-08-14T16:25:13.208604+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-08-14",
    "t": "Major oil slick washes up on Iran coast after Hormuz ship strike - BBC"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure - NBC News"
   }
  ]
 }
