@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "55a839203e040a4d",
-  "riskfirmambreyworkingtosalvageshipspewingoiloffoman",
   "4568dc29528592b8",
   "currentpriceofoilasofaug52026",
   "ea7fb2b4e3deb70a",
@@ -603,7 +601,9 @@
   "2e6099e801609f19",
   "currentpriceofoilasofaugust72026",
   "0a37923afb054abd",
-  "epsilonenergytheoilpivotstillneedsproofnasdaqepsn"
+  "epsilonenergytheoilpivotstillneedsproofnasdaqepsn",
+  "34cf06e3c890fbcc",
+  "usoilrigsriseto455asstraitofhormuzattackshalttraffic"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T23:35:12.760860+03:00",
+ "last_run": "2026-08-14T23:40:15.028787+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1377,6 +1377,10 @@
   {
    "d": "2026-08-14",
    "t": "Russia’s Shesharis Oil Terminal Halts Crude Exports After Drone Attack - Межа. Новини України."
+  },
+  {
+   "d": "2026-08-14",
+   "t": "US oil rigs rise to 455 as Strait of Hormuz attacks halt traffic - Investing.com"
   }
  ]
 }
