@@ -4,10 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "37335bf5bd6206f7",
-  "straitofhormuzshiptrafficnearthreemonthlowasusirandealindoub",
-  "c4ded281b5304de5",
-  "gulfoilgiantsarespendingbillionstobuildwaysaroundstraitofhor",
   "ffa1b6f2b6617993",
   "newsletterwhosracingtostopomansoilspill",
   "48f79a26499430b0",
@@ -603,7 +599,11 @@
   "6e3158f74d904729",
   "tokyostockscontinuetoriseonhighernikkei225futuresandlowercru",
   "f082c793f4fc58fc",
-  "nosubstitutekuwaitsfuturetiedtohormuzstraitfate"
+  "nosubstitutekuwaitsfuturetiedtohormuzstraitfate",
+  "2b72c84552c2465f",
+  "crudeoilpricesextenddeclineamidstraitofhormuzimpassebrentoil",
+  "e7833a6c8573304d",
+  "centurihireshalliburtonalumforcfo"
  ],
  "releases_done": {},
  "last_digest": "2026-08-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-14",
-  "count": 9
+  "count": 11
  },
- "last_run": "2026-08-14T04:45:15.487491+03:00",
+ "last_run": "2026-08-14T04:50:15.050705+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1144,6 +1144,10 @@
   {
    "d": "2026-08-14",
    "t": "'No substitute': Kuwait's future tied to Hormuz strait fate - France 24"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Crude Oil Prices Extend Decline Amid Strait of Hormuz Impasse; Brent Oil Around $87 Per Barrel - NDTV Profit"
   }
  ]
 }
