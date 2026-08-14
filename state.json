@@ -4,14 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "478a61d7a694810c",
-  "opecglobaloildemandgrowthtoaccelerateto22mmbbldin2027",
-  "cac89bbcfbc6adc5",
-  "southkoreanfleetreshufflecreatesasiaslargestlngcarrieroperat",
-  "cd690492a56bca45",
-  "oilpricestrimlossesasmarketsparsehormuzuncertaintyweakdemand",
-  "1abd444aa727f9ba",
-  "ambreyengagedinsalvageofstrickentankercarolinebezengioffoman",
   "d73ff829a3432958",
   "eiareportsmassiveriseinuscrudeoilstocks",
   "246695c68d048da8",
@@ -603,7 +595,15 @@
   "d9cce96ba28ad8e9",
   "yourfridayaug14guidefivethingstodointheoilcity",
   "0261afdd0f73533b",
-  "endangeredwhalesturtlesatriskasomanoilspillreachescoast"
+  "endangeredwhalesturtlesatriskasomanoilspillreachescoast",
+  "6ff0986acc647020",
+  "uscrudeoilinventoriesseesurprisebuildapi",
+  "bed4f5c34a6f3848",
+  "exportdisruptionsdrain69millionbarrelsraisingcrudepriceriskd",
+  "644ec8d59f96978a",
+  "forecastupdateforcrudeoil14082026",
+  "29e485cc55a57eaf",
+  "majoroilslickwashesuponirancoastafterhormuzshipstrike"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -615,7 +615,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T15:50:16.264569+03:00",
+ "last_run": "2026-08-14T15:55:12.710507+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1260,6 +1260,10 @@
   {
    "d": "2026-08-14",
    "t": "Hormuz Crisis Pushes Asian Refiners Toward U.S. Oil"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Major oil slick washes up on Iran coast after Hormuz ship strike - BBC"
   }
  ]
 }
