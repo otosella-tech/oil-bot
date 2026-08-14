@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "b408ee905c8205a1",
-  "freepressopinionarewenowoverabarreliniran",
   "9e53e9f5374d1b08",
   "oildipsondemandforecastsglobalequitiesgain",
   "ce229c036fed19d0",
@@ -603,7 +601,9 @@
   "6ea0f50df5b8b5e5",
   "oilpricesheadfor4weeklygainasusirandeadlockdragson",
   "5194401324af896a",
-  "oilsteadiesafterusthreatensindefiniteblockadeofiran"
+  "oilsteadiesafterusthreatensindefiniteblockadeofiran",
+  "12dc3bdf6134196e",
+  "biggestcrisisforoilsectorkuwaitsfuturetiedtohormuzfate"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-14",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-08-14T08:55:12.484072+03:00",
+ "last_run": "2026-08-14T08:56:58.487761+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-08-14",
    "t": "Oil steadies after US threatens indefinite blockade of Iran - Reuters"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "‘Biggest crisis for oil sector’: Kuwait’s future tied to Hormuz fate - arabnews.jp"
   }
  ]
 }
