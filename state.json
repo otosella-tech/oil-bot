@@ -4,12 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "4c46abffa744d401",
-  "wticrudeoilfuturesclosednear7690afterchoppysession",
-  "aee53d8a13aa4b77",
-  "omansaystheoilspillfromagroundedtankerhasreacheditscoastline",
-  "9333dcb0694a5873",
-  "usequitiesdowincextendslossesdown21asrisingcrudeoilpricesoff",
   "5ec749dca3ba5b1d",
   "mitsnewframeworkaimstotacklenuclearfusionsmoneyproblem",
   "35d51c909e768b17",
@@ -603,7 +597,13 @@
   "00fa0d55366f9bb2",
   "asmalltexascompanysbidtocreateagreenlandoilboomandadrphildoc",
   "712537754e141791",
-  "oilmoveshigherasusthreatenseconomicisolationofiran"
+  "oilmoveshigherasusthreatenseconomicisolationofiran",
+  "a2a092c11359bbeb",
+  "opeccutsoildemandforecastagainashormuztalksstall",
+  "afde6f9db21aad30",
+  "chinaisnowtheworldsgreatoilpower",
+  "0e4454b7338a04ad",
+  "crudeoilfuturesextenddeclineas2026demandforecastscutweighons"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-14",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-08-14T10:55:13.157623+03:00",
+ "last_run": "2026-08-14T11:00:28.024220+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-08-14",
    "t": "Russian Oil Refinery Shuts Down for Months After Ukrainian Drone Strike - Kyiv Post"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ"
   }
  ]
 }
