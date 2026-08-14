@@ -4,8 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "3d6384eb6d11d2bd",
-  "newzealandapprovesnewoilandgasproductionasenergysecurityconc",
   "e458999ed3b4f448",
   "oilpricesdropasmarketsparseweakdemandoutlookhormuzuncertaint",
   "e0ba72754ea09834",
@@ -603,7 +601,9 @@
   "56ae0e0242327c6c",
   "globalmarketsuaeoiltankerstargetedinstraitofhormuz",
   "db584fd7400225d6",
-  "brentcrudeoilpriceonaugust172026at500pmedt"
+  "brentcrudeoilpriceonaugust172026at500pmedt",
+  "4eb583decc8a615d",
+  "nevadagaspricescontinuetofallasnationalpricesrise"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -615,7 +615,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T17:55:13.016798+03:00",
+ "last_run": "2026-08-14T18:00:22.052099+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
