@@ -4,14 +4,6 @@
   "Brent": 86.98
  },
  "seen": [
-  "5d82f681e7420930",
-  "oilpricesfluctuateasinvestorsweighfallingdemandagainstmiddle",
-  "fd01802bd33fa1ec",
-  "pipechinalauncheskeycrudeoilpipelineineastchinatoboostenergy",
-  "efb11b5c2e4ca737",
-  "indiadrivesaglobalsurgeinnewcoalmineplans",
-  "d5767a181aa4b914",
-  "oilrefineryinrussiasbashkortostanandwildberrieshubreportedly",
   "6f6542a6b7830afc",
   "oilslipsonweakerdemandoutlookandhigherusstocksamidsupplydisr",
   "2925d0b0bdfa843e",
@@ -603,7 +595,15 @@
   "de3ee88fc6964d8b",
   "indiascoaldemandsettohit16billiontonsby2030",
   "75ca8db543542656",
-  "2026oildemandforecast22mbarrelgapemerges"
+  "2026oildemandforecast22mbarrelgapemerges",
+  "c3ce4304428d7468",
+  "iefglobaloildemandforecastshows22millionbarrelgapin2026",
+  "346f4d0851e6d704",
+  "crudeoilpricesbrentholdsnear87wtiabove81asiranrisksoffsetinv",
+  "32b11764f31c3606",
+  "oilwardrivenpriceeffectsandinflationubs",
+  "304dc23e62cd655c",
+  "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025"
  ],
  "releases_done": {},
  "last_digest": "2026-08-14",
@@ -615,7 +615,7 @@
   "date": "2026-08-14",
   "count": 60
  },
- "last_run": "2026-08-14T16:50:16.111217+03:00",
+ "last_run": "2026-08-14T16:51:54.575298+03:00",
  "sent_stories": [
   {
    "d": "2026-08-11",
@@ -1268,6 +1268,10 @@
   {
    "d": "2026-08-14",
    "t": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure - NBC News"
+  },
+  {
+   "d": "2026-08-14",
+   "t": "Crude Oil Prices: Brent Holds Near $87, WTI Above $81 as Iran Risks Offset Inventory Surge - coinpaper.com"
   }
  ]
 }
