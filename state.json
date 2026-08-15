@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "f6065e50ab80423e",
-  "whattrumptariffsrussiaaccountsformorethanhalfofindiascrudeoi",
   "ebb7568557821e3d",
   "oilisbacknear80abarrelwhyisgasstillsoexpensiveinpennsylvania",
   "29493001d7771cf3",
@@ -603,7 +601,9 @@
   "44c5d2e659b7cbd1",
   "nydollaryenrecoversto159rangeratehikebetsfadeonweakusretails",
   "0f6c2a9e558bfa70",
-  "usdollarfellmetalsrosebroadlywithlmecopperupforsevenstraight"
+  "usdollarfellmetalsrosebroadlywithlmecopperupforsevenstraight",
+  "47a21c7e569cdaac",
+  "currentpriceofoilasofaug122026"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-15",
   "count": 12
  },
- "last_run": "2026-08-15T04:20:16.387573+03:00",
+ "last_run": "2026-08-15T04:25:12.916528+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
