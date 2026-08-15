@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "bd7b72dd0e124dbb",
-  "investorscanstillmakemoneyintheoilrefinerstockssaystortoisec",
   "7f64b1d780d4fbb9",
   "smallgainincrudeoilheldatoklahomascushinghub",
   "093bb6029a1a3030",
@@ -603,7 +601,9 @@
   "21a9e48566dd9b2b",
   "abritishfirmstartscontainmentofoilspillfromstrickentankeroff",
   "689ae5e117f0f7ee",
-  "cpctokeepdomesticgasolinedieselpricessteadynextweek"
+  "cpctokeepdomesticgasolinedieselpricessteadynextweek",
+  "3b3921d5f6300407",
+  "trumplinkedoilventuredelaysgreenlanddrillingplansaftergovern"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-15",
-  "count": 37
+  "count": 38
  },
- "last_run": "2026-08-15T15:05:14.578252+03:00",
+ "last_run": "2026-08-15T15:10:16.204578+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
