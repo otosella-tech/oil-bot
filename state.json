@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "a53bc617482cc03d",
-  "sp500hitsrecordhighasratehikeworriesease",
   "ac7757df4c896f2d",
   "solarsurpasseswindinglobalelectricitygenerationforthefirstti",
   "bd7b72dd0e124dbb",
@@ -603,7 +601,9 @@
   "73bb417614e3cb38",
   "russiancrudeexportsstopatkeynovorossiyskterminalreuters",
   "b9439197ba5c4c4e",
-  "iransmonthlyoilproductionup26000bpdopec"
+  "iransmonthlyoilproductionup26000bpdopec",
+  "21a9e48566dd9b2b",
+  "abritishfirmstartscontainmentofoilspillfromstrickentankeroff"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -615,7 +615,7 @@
   "date": "2026-08-15",
   "count": 37
  },
- "last_run": "2026-08-15T14:52:45.305460+03:00",
+ "last_run": "2026-08-15T14:55:12.610581+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
