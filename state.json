@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "87f27d48048b9c75",
-  "ukrainestrikesgazproms200000",
   "8472113be65b0583",
   "oilfallsmorethan3onweakerglobaldemandoutlookanduscrudebuildu",
   "8413a3ef7554face",
@@ -603,7 +601,9 @@
   "52a8af58508f0ba9",
   "oilfuturesbrentreboundsindayasmarketpricesiranstockbuilds",
   "5bc7174516136dff",
-  "crudeoilpricesdropasdemandsupplyconcernsease"
+  "crudeoilpricesdropasdemandsupplyconcernsease",
+  "88bf67b60acb2fb3",
+  "iranhitsbackaftertrumpsayshemaydeclarehormuzusterritory"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-15",
-  "count": 12
+  "count": 14
  },
- "last_run": "2026-08-15T05:25:14.779909+03:00",
+ "last_run": "2026-08-15T05:30:17.343878+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
@@ -1125,6 +1125,10 @@
   {
    "d": "2026-08-15",
    "t": "Hormuz Stalemate Raises Risk of $120 Oil - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-15",
+   "t": "Iran hits back after Trump says he may declare Hormuz US territory - Iran International"
   }
  ]
 }
