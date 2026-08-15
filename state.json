@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "0f1e2692cee1b61f",
-  "chinaracestofinishmolten",
-  "3bb782ac364be53d",
-  "goldsnapsfourdayadvanceasyieldseaseoildropskitcopmreport",
   "ce8e544c920797bf",
   "howchinaismanagingloweroilimports",
   "9c98fba4684c614c",
@@ -603,7 +599,11 @@
   "1e4b213d1f93a1d2",
   "seecheapestgasinscottsdale",
   "a1bea76ba121e217",
-  "oilpollutionaffects75milesofomanssoutheasterncoastline"
+  "oilpollutionaffects75milesofomanssoutheasterncoastline",
+  "51451f863c05f9ef",
+  "currentpriceofoilasofaugust112026",
+  "0492210789e23138",
+  "irandefiantonstraitastrumptellsamericanstoaccepthighgasoline"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-15",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-08-15T18:05:13.084749+03:00",
+ "last_run": "2026-08-15T18:10:14.374850+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
@@ -1160,6 +1160,10 @@
   {
    "d": "2026-08-15",
    "t": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening - reuters.com"
+  },
+  {
+   "d": "2026-08-15",
+   "t": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices - reuters.com"
   }
  ]
 }
