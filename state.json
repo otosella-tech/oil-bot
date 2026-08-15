@@ -4,12 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "41ba7c154154f0f1",
-  "septemberwticrudeoilcontractclosesdown202or24settlesat8125pe",
-  "2a0eea5251cc240b",
-  "russiasdieselexportscrashtomultiyear",
-  "32867a850b1c54ea",
-  "unitedstatesontrackforrecordnaturalgasproductionin2026",
   "67ef335fa1aebe32",
   "hugeoilspilloffthecoastofomannowcovershundredsofsquaremiles",
   "ccf2c4b7f0ddb23e",
@@ -603,7 +597,13 @@
   "abd735d329b0bf8e",
   "highgasolinepricesmajorconcernforusaheadofmidtermelections",
   "f9269db1ac4abf2a",
-  "letterstotheeditoraug15ifwedontdeliveroiltoglobalmarketstosa"
+  "letterstotheeditoraug15ifwedontdeliveroiltoglobalmarketstosa",
+  "fb0dea1f7c65203c",
+  "usoilrigcountupforweekendingaug14",
+  "cb70fd2285d2d81b",
+  "uaesadnocvesselattackedashormuztrafficgrindstonearhalt",
+  "cae415841cf7f3be",
+  "letterstotheeditorifwedontdeliveroiltoglobalmarketstosatisfy"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-15",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-08-15T12:05:12.982353+03:00",
+ "last_run": "2026-08-15T12:10:13.509763+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
@@ -1140,6 +1140,10 @@
   {
    "d": "2026-08-15",
    "t": "U.S. crude oil pushes past $82/bbl as hopes fade for Hormuz deal (USO:NYSEARCA) - Seeking Alpha"
+  },
+  {
+   "d": "2026-08-15",
+   "t": "UAE’s ADNOC vessel attacked as Hormuz traffic grinds to near halt - The Arab Weekly"
   }
  ]
 }
