@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "9c98fba4684c614c",
-  "eiaseesmassiveuptickinuscrudeoilinventories",
-  "2855b24eaac42a63",
-  "crudeoilpriceforecastfallingwedgepointstolargerrecovery",
   "eeaf8217838a2e2c",
   "usstocksrisetoarecordasoilpricesdropandinflationgetslessbadp",
   "07a5d67b2c90b442",
@@ -603,7 +599,11 @@
   "0492210789e23138",
   "irandefiantonstraitastrumptellsamericanstoaccepthighgasoline",
   "018346323dbd4c59",
-  "currentpriceofoilasofjuly222026"
+  "currentpriceofoilasofjuly222026",
+  "8bf099a7f86423fd",
+  "theoilwindow",
+  "85177156d75adbb2",
+  "crudeoilpriceanalysiscrudeoilcontinuestomoveonheadlines"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -615,7 +615,7 @@
   "date": "2026-08-15",
   "count": 46
  },
- "last_run": "2026-08-15T18:35:14.328131+03:00",
+ "last_run": "2026-08-15T18:37:59.340611+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
