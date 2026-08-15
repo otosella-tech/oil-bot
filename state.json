@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "3f771fb060ddfa98",
-  "currentpriceofoilasofaugust102026",
   "f4ccefd436d4d255",
   "sp500notchesrecordhighcloseasratehikeworriesease",
   "dc56b1b2baf490a8",
@@ -603,7 +601,9 @@
   "3ebc5e090eb9e862",
   "depletedstrategicoilreservenearslevelthatraisesconcernsabout",
   "f1e13c3836160a82",
-  "whythemovementsofausoilcompanyingreenlandhaveattractedattent"
+  "whythemovementsofausoilcompanyingreenlandhaveattractedattent",
+  "3a4b4dfa1aef3d64",
+  "uaesaysiranattackedadnocvesselinhormuzurgeswaterwaysreopenin"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-15",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-08-15T17:00:20.601901+03:00",
+ "last_run": "2026-08-15T17:05:14.055349+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
@@ -1156,6 +1156,10 @@
   {
    "d": "2026-08-15",
    "t": "After refinery explosions, California lawmakers move to preserve safety rules - CalMatters"
+  },
+  {
+   "d": "2026-08-15",
+   "t": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening - reuters.com"
   }
  ]
 }
