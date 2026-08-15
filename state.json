@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "8bc1314e3d1adcb1",
-  "whytherealoilsqueezeishappeninginrefineries",
   "ea40138e4ae072fd",
   "aiapplicationsforoilandgascompaniesworsenclimatepollution",
   "47a21c7e569cdaac",
@@ -603,7 +601,9 @@
   "84e385d4864bfbda",
   "irandefiantonstraitastrumptellsamericanstoaccepthighgasprice",
   "eb859e1ee5854161",
-  "calthomaswhycantwefixtheoilproblemthecrescent"
+  "calthomaswhycantwefixtheoilproblemthecrescent",
+  "087d4956248b8d7e",
+  "hormuzstalemateraisesriskof120oil"
  ],
  "releases_done": {
   "2026-08-14|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-15",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-08-15T04:10:16.448465+03:00",
+ "last_run": "2026-08-15T04:15:16.793911+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
@@ -1121,6 +1121,10 @@
   {
    "d": "2026-08-15",
    "t": "Iran defiant on strait as Trump tells Americans to accept high gas prices - Reuters"
+  },
+  {
+   "d": "2026-08-15",
+   "t": "Hormuz Stalemate Raises Risk of $120 Oil - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
