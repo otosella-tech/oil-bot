@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "ce8e544c920797bf",
-  "howchinaismanagingloweroilimports",
   "9c98fba4684c614c",
   "eiaseesmassiveuptickinuscrudeoilinventories",
   "2855b24eaac42a63",
@@ -603,7 +601,9 @@
   "51451f863c05f9ef",
   "currentpriceofoilasofaugust112026",
   "0492210789e23138",
-  "irandefiantonstraitastrumptellsamericanstoaccepthighgasoline"
+  "irandefiantonstraitastrumptellsamericanstoaccepthighgasoline",
+  "018346323dbd4c59",
+  "currentpriceofoilasofjuly222026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -615,7 +615,7 @@
   "date": "2026-08-15",
   "count": 46
  },
- "last_run": "2026-08-15T18:30:17.436342+03:00",
+ "last_run": "2026-08-15T18:35:14.328131+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
