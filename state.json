@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "ae0ba92ec46e5101",
-  "oiledgesloweramidmixedsignals",
-  "c40cafb841fd3c4c",
-  "vancesayslowoilpricesaretopusgoaliniranconflictal",
   "588c61ba3feed572",
   "5thcircnixesfedapprovalforoffshoreoilexportport",
   "d62c7e7c06f57ee8",
@@ -603,7 +599,11 @@
   "2e839829f333a147",
   "electricaviationwontkilljetfuel",
   "a474b12f738649d1",
-  "stocksriseonwallstreetwhilecrudeoilpricesfallforthefirsttime"
+  "stocksriseonwallstreetwhilecrudeoilpricesfallforthefirsttime",
+  "7819475d86497105",
+  "oilpricessurgeto100perbarrelafterredseaattacks",
+  "ab095e26d9088871",
+  "oilfallsonreportpakistanispushingfornewusirantalkswithchinas"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -612,207 +612,11 @@
   "Brent": 88.52
  },
  "llm": {
-  "date": "2026-08-15",
-  "count": 51
+  "date": "2026-08-16",
+  "count": 1
  },
- "last_run": "2026-08-16T02:55:11.975389+03:00",
+ "last_run": "2026-08-16T02:56:38.501731+03:00",
  "sent_stories": [
-  {
-   "d": "2026-08-12",
-   "t": "Asian Stocks to Slip With US CPI, Iran in Focus: Markets Wrap - Bloomberg.com"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil rises as doubts over US-Iran deal heighten supply concerns - Reuters"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - Al Jazeera"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil prices rise as Red Sea, Gulf of Oman attacks heighten supply concerns - CNBC"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil prices rise after U.S. blocks surprise attack from Iran - CNBC"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Russia Imports Indian Fuel as Refinery Crisis Deepens"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil futures: Crude up with Hormuz flows constrained, US stocks rise - Quantum Commodity Intelligence"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Airline exposure to oil price spikes: which carriers face the most risk? - Investing.com"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil Prices Climb as U.S.-Iran Peace Hopes Fade - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil Extends Gain on Doubts Over Hormuz Deal Despite Upbeat Tone - Energy Connects"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Iran wants a ‘protection’ toll on the Strait of Hormuz, but a $20B annual haul is a pipe dream - Fortune"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Volodymyr Zelensky halts Ukraine drone strikes on Black Sea oil tankers after US request - The Jerusalem Post"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "U.S. diesel prices fall 9 cents as Strait of Hormuz talks continue - FleetOwner"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Saudis Report Million-Barrel Output Rebound in July to OPEC - Bloomberg.com"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil prices tick up over Strait of Hormuz stalemate - Transport Topics"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil Extend Gains on Hormuz Deal Skepticism - WSJ"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Gulf oil spill fast becoming worst in years, agencies warn - reuters.com"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "OPEC's Four Consecutive Cuts in Oil Demand Forecasts Fail to Suppress Oil Prices; Dual Threats from the Strait of Hormuz and the Red Sea Sustain Energy Risk Premium - Moomoo"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Iran’s Leadership Reshuffle Signals a New Era of Centralized Command"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Global 2026 oil supply shortfall to deepen as Hormuz reopening remains elusive, IEA says - Reuters"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Saudi Red Sea oil exports go dark as Houthi attack threat grows - Reuters"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "IEA warns of sharp drop in global oil stocks due to Hormuz Strait closure - upi.com"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Ukraine Halts Oil Tanker Attacks on JD Vance Request"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Hormuz Standoff Derails Oil Supply Recovery and Deepens Demand Slump, IEA Says - WSJ"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil Stocks to Watch as Strait of Hormuz Tension Lifts Crude Prices - simplywall.st"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Gulf states scramble for Strait of Hormuz alternative - dw.com"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "3 Oil & Gas Pipeline Stocks to Weather Industry Headwinds - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil futures: Crude sideways after big US build, Hormuz watched - Quantum Commodity Intelligence"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Russia’s Crude Oil Shipments Tumble to the Lowest Since May - Bloomberg.com"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil prices little changed after Red Sea, Gulf of Oman vessel attacks - CNBC"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "OPEC’s daily crude oil production increased by 1.66M barrels in July - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt - CNBC"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz - The New York Times"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster - Reuters"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate - The New York Times"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Putin Opens New Front in Shadow Fleet Fight With Threat to Seize EU Ships"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "IEA Warns Oil Market Risks Mount as Hormuz Disruptions Drain Inventories - gCaptain"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "The Trump Administration's Hormuz Oil Numbers Don't Add Up - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983 - CNBC"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oil prices flat over Strait of Hormuz stalemate - Transport Topics"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Trump doubles down on control of Strait of Hormuz as Iran pushes back - Scripps News"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "UAE Shuttles Iraqi Oil Exports Through the Strait of Hormuz - gCaptain"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Saudi Arabia ramps oil exports through Mediterranean pipeline to avoid attacks in Red Sea - CNBC"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Refinery Attacks Deepen Global Diesel Supply Crunch"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea - CNBC"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "Oman says grounded tanker oil spill covers 400 square km - Reuters"
-  },
-  {
-   "d": "2026-08-12",
-   "t": "EUR/USD Undermined by Crude Oil Resurgence Ahead of CPI - Investing.com"
-  },
   {
    "d": "2026-08-13",
    "t": "Oil futures: Crude steadies as US stock build offsets Hormuz risk - Quantum Commodity Intelligence"
