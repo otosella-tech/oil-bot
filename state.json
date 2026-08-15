@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "c634356d1e09f9a7",
-  "stockmarketoutlookfortodaycontinuedgainsdrivenbylowercrudeoi",
   "60c8303e9842ba10",
   "oilsettlesdown2onweakdemandoutlookheftyuscrudebuildeuronextm",
   "33faa0a6ae5e7458",
@@ -603,7 +601,9 @@
   "e9494b997c39cbd9",
   "uscrudeoilstockpilespostunexpectedbuild",
   "72b009041245c56c",
-  "irantajikistanagreeonmechanismforoilproductexportscrudesuppl"
+  "irantajikistanagreeonmechanismforoilproductexportscrudesuppl",
+  "560c96d697279e09",
+  "crudepipelinescouldbenextpermianbottleneck"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -615,7 +615,7 @@
   "date": "2026-08-15",
   "count": 50
  },
- "last_run": "2026-08-15T21:35:17.375736+03:00",
+ "last_run": "2026-08-15T21:40:13.994439+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
