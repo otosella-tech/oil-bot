@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "c4995af87b861418",
-  "useyesindefiniteirannavalblockadeasoilsupplyshortfalldeepens",
   "103b8f407eca9eb8",
   "articletopwhitehouseoilliaisondepartsforsableoffshore",
   "ee8ccf84b2ffb3f2",
@@ -603,7 +601,9 @@
   "e0874031ee089ca5",
   "thebattleovernorthseaoilisheatingupunderbritainsnewpm",
   "645ba184b1e249fb",
-  "israeliairstrikesonsouthernlebanonkill11people"
+  "israeliairstrikesonsouthernlebanonkill11people",
+  "9a77d9b66d0db0f6",
+  "iranrejectsdelusionsaftertrumpsayshewantsthestraitofhormuzto"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-15",
-  "count": 50
+  "count": 51
  },
- "last_run": "2026-08-15T23:05:24.764321+03:00",
+ "last_run": "2026-08-15T23:10:14.953710+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
