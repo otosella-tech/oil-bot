@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "e2bd407c58210bf7",
-  "gaspricesriseabove4ascrudeoilremainshigh",
   "7e5dcb94712ea362",
   "oilsettlesdown2onweakdemandoutlookheftyuscrudebuild",
   "a53bc617482cc03d",
@@ -603,7 +601,9 @@
   "3607988ee886e83f",
   "uaesaysadnocvesselattackedinhormuzvowstodefendnavigationrigh",
   "c9fe4fd7f4fb2a09",
-  "themiddleeastcrisishasrewiredtheoilmarketnysearcaxle"
+  "themiddleeastcrisishasrewiredtheoilmarketnysearcaxle",
+  "73bb417614e3cb38",
+  "russiancrudeexportsstopatkeynovorossiyskterminalreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -615,7 +615,7 @@
   "date": "2026-08-15",
   "count": 36
  },
- "last_run": "2026-08-15T14:15:16.625534+03:00",
+ "last_run": "2026-08-15T14:20:14.589227+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
