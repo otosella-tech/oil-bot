@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "e9494b997c39cbd9",
-  "uscrudeoilstockpilespostunexpectedbuild",
   "6d4ecd300ada030a",
   "ukrainestrikesgazproms200000bpdsalavatrefineryintheurals",
   "5f13c744718f4f4d",
@@ -603,7 +601,9 @@
   "2855b24eaac42a63",
   "crudeoilpriceforecastfallingwedgepointstolargerrecovery",
   "3a410ba1564cfc15",
-  "russiasoilindustryisrunningoutofroomtoabsorbmoreshocks"
+  "russiasoilindustryisrunningoutofroomtoabsorbmoreshocks",
+  "35db13cbb86f2a26",
+  "howaregaspricesinfountainhills"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -615,7 +615,7 @@
   "date": "2026-08-15",
   "count": 50
  },
- "last_run": "2026-08-15T20:30:21.904474+03:00",
+ "last_run": "2026-08-15T20:33:46.110733+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
