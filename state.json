@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "f4ccefd436d4d255",
-  "sp500notchesrecordhighcloseasratehikeworriesease",
   "dc56b1b2baf490a8",
   "afreshroundofoilpricehikesloomsnextweekasfuelpricesremainhig",
   "87d763c1d98964ce",
@@ -603,7 +601,9 @@
   "f1e13c3836160a82",
   "whythemovementsofausoilcompanyingreenlandhaveattractedattent",
   "3a4b4dfa1aef3d64",
-  "uaesaysiranattackedadnocvesselinhormuzurgeswaterwaysreopenin"
+  "uaesaysiranattackedadnocvesselinhormuzurgeswaterwaysreopenin",
+  "3f771fb060ddfa98",
+  "currentpriceofoilasofaugust102026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -615,7 +615,7 @@
   "date": "2026-08-15",
   "count": 44
  },
- "last_run": "2026-08-15T17:05:14.055349+03:00",
+ "last_run": "2026-08-15T17:10:14.090792+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
