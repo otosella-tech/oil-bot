@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "32f1e56f88e99b94",
-  "brentsnapssixdayadvanceamidsurpriseuscrudebuildweakdemandout",
   "b32422f3d7eb26a5",
   "uspowergridstrainsunderrecordelectricitydemand",
   "0a00441905d3e1cc",
@@ -603,7 +601,9 @@
   "987d3b2fd46f6dbb",
   "uscrudeoiloutputfellinmaywhileexportshitrecordeiasays",
   "fae8b712b000f586",
-  "trumpurgesamericanstoaccepthighgaspricesamidwar"
+  "trumpurgesamericanstoaccepthighgaspricesamidwar",
+  "1201c040f086a7f8",
+  "currentpriceofoilasofaugust62026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -615,7 +615,7 @@
   "date": "2026-08-15",
   "count": 46
  },
- "last_run": "2026-08-15T19:30:18.539513+03:00",
+ "last_run": "2026-08-15T19:35:12.227130+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
