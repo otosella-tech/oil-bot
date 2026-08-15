@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "102d477aa102e9d9",
-  "oilpricesfallafterussayscrudeexportsthroughstraitofhormuznea",
   "3f771fb060ddfa98",
   "currentpriceofoilasofaugust102026",
   "f4ccefd436d4d255",
@@ -603,7 +601,9 @@
   "8db478aa1da2d055",
   "afterrefineryexplosionscalifornialawmakersmovetopreservesafe",
   "3ebc5e090eb9e862",
-  "depletedstrategicoilreservenearslevelthatraisesconcernsabout"
+  "depletedstrategicoilreservenearslevelthatraisesconcernsabout",
+  "f1e13c3836160a82",
+  "whythemovementsofausoilcompanyingreenlandhaveattractedattent"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -615,7 +615,7 @@
   "date": "2026-08-15",
   "count": 42
  },
- "last_run": "2026-08-15T16:55:15.261810+03:00",
+ "last_run": "2026-08-15T16:59:06.512001+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
