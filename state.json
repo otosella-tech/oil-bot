@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "ccf2c4b7f0ddb23e",
-  "crudeoilsellsaglutthatneverleftthedock",
   "3a3c98c7bf15965d",
   "usbacksx",
   "e2bd407c58210bf7",
@@ -603,7 +601,9 @@
   "cae415841cf7f3be",
   "letterstotheeditorifwedontdeliveroiltoglobalmarketstosatisfy",
   "9337b2a108aa78e2",
-  "oilpricesplummetasinvestorsdigestpauseiniranwarfighting"
+  "oilpricesplummetasinvestorsdigestpauseiniranwarfighting",
+  "3607988ee886e83f",
+  "uaesaysadnocvesselattackedinhormuzvowstodefendnavigationrigh"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-15",
-  "count": 35
+  "count": 36
  },
- "last_run": "2026-08-15T13:20:14.710085+03:00",
+ "last_run": "2026-08-15T13:25:13.327651+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
