@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "c2522e7c0c6a0e11",
-  "oilpricessteadyheadforweeklygainoniransupplyuncertainty",
   "ae0ba92ec46e5101",
   "oiledgesloweramidmixedsignals",
   "c40cafb841fd3c4c",
@@ -603,7 +601,9 @@
   "3fbfe0cd69e6018d",
   "greenlandforcestrumplinkedusoilfirmtodelaydrilling",
   "2e839829f333a147",
-  "electricaviationwontkilljetfuel"
+  "electricaviationwontkilljetfuel",
+  "a474b12f738649d1",
+  "stocksriseonwallstreetwhilecrudeoilpricesfallforthefirsttime"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -615,7 +615,7 @@
   "date": "2026-08-15",
   "count": 51
  },
- "last_run": "2026-08-16T02:30:17.176995+03:00",
+ "last_run": "2026-08-16T02:35:13.615962+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
