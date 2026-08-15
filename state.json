@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "0a00441905d3e1cc",
-  "crudeoilfuturesdropover2reversinggainsonsurgeinusinventories",
   "809c3a5c7cea7792",
   "calthomaswhycantwefixtheoilproblem",
   "7ba59a9ea4e990f4",
@@ -603,7 +601,9 @@
   "1201c040f086a7f8",
   "currentpriceofoilasofaugust62026",
   "f5a1fbf95c5316c5",
-  "crudepipelinescouldbenextpermianbottleneckmidlandreporter"
+  "crudepipelinescouldbenextpermianbottleneckmidlandreporter",
+  "6b876df806a15512",
+  "saudicrudeshipmentstotheushitzeroashormuzdisruptionreshapesg"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-15",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-08-15T19:48:34.502993+03:00",
+ "last_run": "2026-08-15T19:50:15.137400+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
@@ -1164,6 +1164,10 @@
   {
    "d": "2026-08-15",
    "t": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices - reuters.com"
+  },
+  {
+   "d": "2026-08-15",
+   "t": "Saudi crude shipments to the U.S. hit zero as Hormuz disruption reshapes global freight costs - MarketScale"
   }
  ]
 }
