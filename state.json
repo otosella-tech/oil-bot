@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "304e36ebee8a661c",
-  "thestruggletobuildthetapigaspipelinethroughafghanistan",
   "2e7043f6fe940045",
   "justhowbadaretheseoildemandforecastsreally",
   "3f33762e100a305a",
@@ -603,7 +601,9 @@
   "d0a98832d80eb9be",
   "ukrainewarday1634russiaskillingofcivilianshighestsincemarch2",
   "afaace74b303fdb0",
-  "uscrudeoilpushespast82bblashopesfadeforhormuzdealusonysearca"
+  "uscrudeoilpushespast82bblashopesfadeforhormuzdealusonysearca",
+  "b1a7e987bdf4a85a",
+  "currentpriceofoilasofjuly292026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -615,7 +615,7 @@
   "date": "2026-08-15",
   "count": 31
  },
- "last_run": "2026-08-15T11:10:16.680964+03:00",
+ "last_run": "2026-08-15T11:15:16.529972+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
