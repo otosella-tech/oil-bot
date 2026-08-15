@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "7e5dcb94712ea362",
-  "oilsettlesdown2onweakdemandoutlookheftyuscrudebuild",
   "a53bc617482cc03d",
   "sp500hitsrecordhighasratehikeworriesease",
   "ac7757df4c896f2d",
@@ -603,7 +601,9 @@
   "c9fe4fd7f4fb2a09",
   "themiddleeastcrisishasrewiredtheoilmarketnysearcaxle",
   "73bb417614e3cb38",
-  "russiancrudeexportsstopatkeynovorossiyskterminalreuters"
+  "russiancrudeexportsstopatkeynovorossiyskterminalreuters",
+  "b9439197ba5c4c4e",
+  "iransmonthlyoilproductionup26000bpdopec"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-15",
-  "count": 36
+  "count": 37
  },
- "last_run": "2026-08-15T14:25:12.690834+03:00",
+ "last_run": "2026-08-15T14:30:17.528315+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
