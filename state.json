@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "d7ce559c5497e55e",
-  "theoilpowerhouseisrunningoutofenergyiranaskscitizenstoconser",
   "537a9dca84e02340",
   "sp500nasdaqsetforhigheropenasinvestorsweighweakeroilppidata",
   "ff57bfa7ebba110d",
@@ -603,7 +601,9 @@
   "4a5aac1528b68a4b",
   "omansaysmassiveoilspillreachescoastlinewhatdamagecoulditdo",
   "a2bb9b761ca7e0de",
-  "nymarketmixeddowfalls72pointswhilecrudeoilfuturesrebound"
+  "nymarketmixeddowfalls72pointswhilecrudeoilfuturesrebound",
+  "6202aabf3bc4f384",
+  "currentpriceofoilasofjuly302026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-15",
@@ -615,7 +615,7 @@
   "date": "2026-08-15",
   "count": 24
  },
- "last_run": "2026-08-15T08:45:14.875991+03:00",
+ "last_run": "2026-08-15T08:50:13.634219+03:00",
  "sent_stories": [
   {
    "d": "2026-08-12",
