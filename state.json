@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "cd9e7e8385233f6f",
-  "cubaaftersixmonthsoftheoilblockadecrisisandtheroadtorecovery",
   "57b4fddfa6ad2fb6",
   "russianoilrefineryshutsdownformonthsafterukrainiandronestrik",
   "fee2dc369273b502",
@@ -603,7 +601,9 @@
   "1d8c7f8c8868ebd6",
   "covertmideastoilflowsarekeepingglobalpricesincheck",
   "4cd293fdb06757b2",
-  "oilpricestodaycrudeedgeshigherasusirantensionsrevivesupplyco"
+  "oilpricestodaycrudeedgeshigherasusirantensionsrevivesupplyco",
+  "89d75172d419a43e",
+  "usexpertsstrategicoilreservedeclineraisesconcernsaboutcavern"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -615,7 +615,7 @@
   "date": "2026-08-16",
   "count": 21
  },
- "last_run": "2026-08-16T17:50:14.947241+03:00",
+ "last_run": "2026-08-16T17:55:11.660191+03:00",
  "sent_stories": [
   {
    "d": "2026-08-13",
