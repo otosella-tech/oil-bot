@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "58938e627826ee9f",
-  "currentpriceofoilasofaugust42026",
-  "30f1c5e56d1dadd7",
-  "ukrainewarday1633kyivhitskeyportandoilrefineriesinrussia",
   "00fa0d55366f9bb2",
   "asmalltexascompanysbidtocreateagreenlandoilboomandadrphildoc",
   "712537754e141791",
@@ -603,7 +599,11 @@
   "070b42c80ae6ede7",
   "thetrillion",
   "f218c69359a7f1c0",
-  "wticrudeoilaretraderswatchingfearinsteadofsupply"
+  "wticrudeoilaretraderswatchingfearinsteadofsupply",
+  "79433a8326bcdee1",
+  "dieselshortagestrainsglobalmarketcrudeoilpricesmayrise",
+  "f7f459eb2af8bd4e",
+  "hengligroupnamedmainimporterofsanctionediraniancrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-16",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-08-16T18:15:16.974659+03:00",
+ "last_run": "2026-08-16T18:20:13.776907+03:00",
  "sent_stories": [
   {
    "d": "2026-08-13",
@@ -996,6 +996,10 @@
   {
    "d": "2026-08-16",
    "t": "Crude Oil Soars As Tough Stances By U.S., Iran Delays Strait Of Hormuz Reopening - RTTNews"
+  },
+  {
+   "d": "2026-08-16",
+   "t": "Hengli Group named main importer of sanctioned Iranian crude oil - Crypto Briefing"
   }
  ]
 }
