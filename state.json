@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "fc55cfceff5cb967",
-  "oilpricesdown130826",
   "cd9e7e8385233f6f",
   "cubaaftersixmonthsoftheoilblockadecrisisandtheroadtorecovery",
   "57b4fddfa6ad2fb6",
@@ -603,7 +601,9 @@
   "96d659f8c8a07917",
   "crudeoilsoarsastoughstancesbyusirandelaysstraitofhormuzreope",
   "1d8c7f8c8868ebd6",
-  "covertmideastoilflowsarekeepingglobalpricesincheck"
+  "covertmideastoilflowsarekeepingglobalpricesincheck",
+  "4cd293fdb06757b2",
+  "oilpricestodaycrudeedgeshigherasusirantensionsrevivesupplyco"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -615,7 +615,7 @@
   "date": "2026-08-16",
   "count": 21
  },
- "last_run": "2026-08-16T17:35:15.543906+03:00",
+ "last_run": "2026-08-16T17:37:39.964578+03:00",
  "sent_stories": [
   {
    "d": "2026-08-13",
