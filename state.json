@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "ba66b31a4699cb66",
-  "currentpriceofoilasofaugust122026",
   "927682d7f4a6281f",
   "southafricastopcourtblocksshellsoffshoreoilexploration",
   "1a1b9efa96665e13",
@@ -603,7 +601,9 @@
   "50512ecf1bc70c04",
   "geopoliticaldevelopmentscrudeoiltobemajormarketdriversthiswe",
   "c30fd8c24de9d521",
-  "chinascrudeoilimportsfellinthesecondquarter"
+  "chinascrudeoilimportsfellinthesecondquarter",
+  "c83f805b61c953ee",
+  "aisettoextendfossilfueldominance"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -615,7 +615,7 @@
   "date": "2026-08-16",
   "count": 30
  },
- "last_run": "2026-08-16T19:57:59.485186+03:00",
+ "last_run": "2026-08-16T20:00:20.491869+03:00",
  "sent_stories": [
   {
    "d": "2026-08-13",
