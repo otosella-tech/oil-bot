@@ -4,20 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "80f2b42b71904445",
-  "wticrudeoilfuturesclosednear7690afterchoppysession",
-  "751dc14629c9fc20",
-  "hormuztankertrafficslumpsasus",
-  "eb9add9f52b9328a",
-  "ussaysloweroilpricesnotiransnuclearprogramarenowtoppriorityi",
-  "eb66b3400ecb4f10",
-  "nationalgaspricesclimbagainafterweeklongdeclineaaasays",
-  "5d7200611101c994",
-  "saudiarabiarampsupoilexportsthroughmediterraneanpipelinetoav",
-  "cb6e576d0fe799f6",
-  "boomingoilprofitsshowwhypolicymakerscantwaitandseeongasprice",
-  "59d28017fdd534fb",
-  "nationalgaspriceaverageclimbsto407ascrudeoilhits80range",
   "392a28df4d56044f",
   "oilcompaniesbid83millionforrighttodrillingulfinthirdleasesal",
   "1fd4c41bbd6286c0",
@@ -603,7 +589,21 @@
   "3aac0b6c8e1a4930",
   "usiranceasefireendswithoutprogressonstraitnuclearissues",
   "300aaec00ada4e59",
-  "soiranclosesthestraitofhormuzletsseewhatbessentseconomicisol"
+  "soiranclosesthestraitofhormuzletsseewhatbessentseconomicisol",
+  "7c8dd3af87cfc23c",
+  "iraqimilitialeadercallsforendtousfinancialdominance",
+  "98c27a1d6a550a3e",
+  "iransupremeleadersofficeannouncesmemorialsforalikhamenei",
+  "e4d63a6b099a312c",
+  "irangovernmentgivensixweekstonominatedefenseintelligencemini",
+  "4c91f1a20741b0b1",
+  "iransannualinflationremainsabove80ashouseholdpressurepersist",
+  "09a8badcd842ef85",
+  "iranaccusesqatarofblockinginquiryintomissingpilots",
+  "cfa35d4bb55dae7a",
+  "iranhangsprotesterdetainedamidjanuarydemonstrations",
+  "a5174dbdddf552f1",
+  "iranianmpcallsforneighboringpersiangulfrulerstoberevengetarg"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-16",
-  "count": 29
+  "count": 30
  },
- "last_run": "2026-08-16T19:25:11.459954+03:00",
+ "last_run": "2026-08-16T19:30:17.123533+03:00",
  "sent_stories": [
   {
    "d": "2026-08-13",
