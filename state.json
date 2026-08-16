@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "f082c793f4fc58fc",
-  "nosubstitutekuwaitsfuturetiedtohormuzstraitfate",
   "2b72c84552c2465f",
   "crudeoilpricesextenddeclineamidstraitofhormuzimpassebrentoil",
   "e7833a6c8573304d",
@@ -603,19 +601,21 @@
   "5fc44cae7efb5c7a",
   "marketmovementthisweekgeopoliticscrudeoilusiran",
   "cb5e672d9de9a5b4",
-  "mostofnewmexicosoilrelatedwatercontaminationinareaaroundchac"
+  "mostofnewmexicosoilrelatedwatercontaminationinareaaroundchac",
+  "67caa3bbe24311df",
+  "geopoliticaldevelopmentscrudeoilmajordrivingfactorsformarket"
  ],
  "releases_done": {},
- "last_digest": "2026-08-15",
+ "last_digest": "2026-08-16",
  "digest_prices": {
   "WTI": 82.4,
   "Brent": 88.52
  },
  "llm": {
   "date": "2026-08-16",
-  "count": 1
+  "count": 7
  },
- "last_run": "2026-08-16T07:55:15.797380+03:00",
+ "last_run": "2026-08-16T08:00:21.662298+03:00",
  "sent_stories": [
   {
    "d": "2026-08-13",
