@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "0e4454b7338a04ad",
-  "crudeoilfuturesextenddeclineas2026demandforecastscutweighons",
   "1adc1ddcc70ca4c0",
   "pacpoweredbyacavisionaryingcanalyzerscelebrates45years",
   "80f2b42b71904445",
@@ -603,7 +601,9 @@
   "ac2399c5729dcb55",
   "3usenergystockstiedtohigheroilandgasprices",
   "9ec9698d9610ae22",
-  "herestherealreasonoilpricesarentmovinghigher"
+  "herestherealreasonoilpricesarentmovinghigher",
+  "3aac0b6c8e1a4930",
+  "usiranceasefireendswithoutprogressonstraitnuclearissues"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-16",
-  "count": 25
+  "count": 27
  },
- "last_run": "2026-08-16T18:45:15.325637+03:00",
+ "last_run": "2026-08-16T18:48:00.597891+03:00",
  "sent_stories": [
   {
    "d": "2026-08-13",
@@ -1004,6 +1004,10 @@
   {
    "d": "2026-08-16",
    "t": "China-based Hengli Group main importer of sanctioned Iranian crude oil, analysts say - report - The Jerusalem Post"
+  },
+  {
+   "d": "2026-08-16",
+   "t": "U.S.-Iran Ceasefire Ends Without Progress on Strait, Nuclear Issues - 조선일보"
   }
  ]
 }
