@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "77fd0d9a09dbad8b",
-  "thirdgulfoilleaseauctionin8monthsbringsin827m",
   "1d918606d7c1d912",
   "currentpriceofoilasofaugust142026",
   "af853801a23d157e",
@@ -603,7 +601,9 @@
   "514785f151421e50",
   "navyagaindisruptsillegalcrudeoilrefiningsitesinrivers",
   "aa50d094ed889862",
-  "currentpriceofoilasofaug142026"
+  "currentpriceofoilasofaug142026",
+  "314284d7515d4a1a",
+  "fortheoilmarketthestraitofhormuzisntclosed"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -612,51 +612,11 @@
   "Brent": 88.52
  },
  "llm": {
-  "date": "2026-08-16",
-  "count": 31
+  "date": "2026-08-17",
+  "count": 1
  },
- "last_run": "2026-08-17T00:05:14.059605+03:00",
+ "last_run": "2026-08-17T00:10:14.712163+03:00",
  "sent_stories": [
-  {
-   "d": "2026-08-13",
-   "t": "Oil futures: Crude steadies as US stock build offsets Hormuz risk - Quantum Commodity Intelligence"
-  },
-  {
-   "d": "2026-08-13",
-   "t": "Due to the Iran war, Iraq is running out of money - dw.com"
-  },
-  {
-   "d": "2026-08-13",
-   "t": "Arctic Ice Damages Tanker as Russia Ramps Up Northern Sea Route Oil Shipments - gCaptain"
-  },
-  {
-   "d": "2026-08-13",
-   "t": "Oil prices rise after U.S. blocks surprise attack from Iran - CNBC"
-  },
-  {
-   "d": "2026-08-13",
-   "t": "Alaska LNG Pipeline Bill Dies in Legislature, Governor Fires Back"
-  },
-  {
-   "d": "2026-08-13",
-   "t": "Stocks rise with oil price below $90, euro edges up, Iran in focus - Reuters"
-  },
-  {
-   "d": "2026-08-13",
-   "t": "Strait of Hormuz Crisis: Oil Prices and Stock Market Impact August 2026 - Intellectia AI"
-  },
-  {
-   "d": "2026-08-13",
-   "t": "Hormuz Stalemate Raises Risk of $120 Oil"
-  },
-  {
-   "d": "2026-08-13",
-   "t": "UK Economy Remains Resilient Despite Iran War and Higher Energy Prices"
-  },
-  {
-   "d": "2026-08-13",
-   "t": "Ukrainian drones strike major oil refinery deep inside Russia, setting it ablaze - PBS"
-  },
   {
    "d": "2026-08-14",
    "t": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries - Reuters"
