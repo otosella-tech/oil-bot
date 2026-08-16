@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "2a6d2ceb36f12159",
-  "oilholdsdropashormuzdealelusivewhileshipattackspersist",
-  "6ea0f50df5b8b5e5",
-  "oilpricesheadfor4weeklygainasusirandeadlockdragson",
   "5194401324af896a",
   "oilsteadiesafterusthreatensindefiniteblockadeofiran",
   "12dc3bdf6134196e",
@@ -603,7 +599,11 @@
   "b62d5e31e0c1ee73",
   "weekaheadondstreetusfedminutesfpiinflowscrudeoilpricesusiran",
   "9b73447c764b3b29",
-  "indiasoilimportbillmayrise510billionifrussiancrudesupplyfall"
+  "indiasoilimportbillmayrise510billionifrussiancrudesupplyfall",
+  "17f103595b4cd6cc",
+  "chinesehengligroupcompanyprimaryimporterofsanctionedirancrud",
+  "7335af6057fac622",
+  "sprcrudeoilacquisitionprocedures"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-16",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-08-16T16:20:11.529281+03:00",
+ "last_run": "2026-08-16T16:25:20.337358+03:00",
  "sent_stories": [
   {
    "d": "2026-08-13",
@@ -984,6 +984,10 @@
   {
    "d": "2026-08-16",
    "t": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983 - CNBC"
+  },
+  {
+   "d": "2026-08-16",
+   "t": "Chinese Hengli Group company primary importer of sanctioned Iran crude oil - The Jerusalem Post"
   }
  ]
 }
