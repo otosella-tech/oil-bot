@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "4f0dae705db6cf93",
-  "oiluscrudepriceforecastfortodaytomorrownextweekandnext30days",
   "3e68827988f0ed41",
   "rupeesrbicushionedweaknessmayfindrelieffromsofteroil",
   "f5cfca99dbf581aa",
@@ -603,7 +601,9 @@
   "a35480ec8367c5b8",
   "iraqseizes203millionand60kgofgoldinoilministrycase",
   "0ee6efc88b071bda",
-  "trumpurgesustoaccepthighergaspricesamidirantensions"
+  "trumpurgesustoaccepthighergaspricesamidirantensions",
+  "c3426a442362cb66",
+  "trumpurgesustoaccepthighergaspricesamidirantensionsegyptoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -615,7 +615,7 @@
   "date": "2026-08-16",
   "count": 10
  },
- "last_run": "2026-08-16T10:00:21.130856+03:00",
+ "last_run": "2026-08-16T10:05:12.804809+03:00",
  "sent_stories": [
   {
    "d": "2026-08-13",
