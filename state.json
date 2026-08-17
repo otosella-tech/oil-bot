@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "b6b3ee83c7d36397",
-  "thecudigabarfrontierinsidesetrkiyesrapidonshoreoilbuildout",
-  "235a1dad56120914",
-  "recordprofitsforrefinersthese5oilstocksareworthybets",
   "4c9a4ec45c466ba2",
   "cmewticrudeoilfuturesreboundto8225amidweekendbid",
   "a00d216b22ef09b2",
@@ -603,7 +599,11 @@
   "2e6099e801609f19",
   "currentpriceofoilasofaugust72026",
   "8074ddcdd373a64f",
-  "currentpriceofoilasofaug172026"
+  "currentpriceofoilasofaug172026",
+  "4c7cbd757328007f",
+  "whyhasoilnotralliedto150orhigher",
+  "7cbcac4f0045c6c6",
+  "abandonedrussiantankerleakingoiloffomancoastthreateningenvir"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T13:10:17.123370+03:00",
+ "last_run": "2026-08-17T13:15:14.756089+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1108,6 +1108,10 @@
   {
    "d": "2026-08-17",
    "t": "Oil prices steady after strong weekly gains as Iran and Hormuz risks persist - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Abandoned Russian tanker leaking oil off Oman coast, threatening environmental disaster - CBS News"
   }
  ]
 }
