@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "d843b21a0a97eac3",
-  "consumerwarninglightsflashoilandtreasuryyieldsrisemarketspmf",
-  "0141afcc80834dbd",
-  "oilgainsasstalledusirannegotiationsraiseriskofdisruptiontocr",
   "b1aa287ce771c6d4",
   "willchineseoilimportsreboundaftertheiranwar",
   "4cfd3af5a5c72994",
@@ -603,7 +599,11 @@
   "61d25189bf9fe934",
   "centcomchiefmeetswithtroopsaboardussabrahamlincolnamidmorale",
   "73a81e73838fd3af",
-  "canadianoilfindsgrowingmarketinasiaastransmountainfillsup"
+  "canadianoilfindsgrowingmarketinasiaastransmountainfillsup",
+  "e71331fc43b2c7b5",
+  "aaafloridagaspricesdriftlowerdespiterisingoilprices",
+  "fe809731665d8543",
+  "asiansharesaremostlyhigherwhileusfuturesandoilpric"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T13:50:18.232847+03:00",
+ "last_run": "2026-08-17T13:55:00.638942+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
