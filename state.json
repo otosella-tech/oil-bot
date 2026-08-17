@@ -4,14 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "99e76214f3eec80d",
-  "crudeoilpriceforecastwtiandbrentstallat50dayemasamidgeopolit",
-  "fc5ecdccf058e9a8",
-  "chinaisbalancingasiascrudeoildemandbyitself",
-  "7b9e9c9bc86e481c",
-  "canadiandollarandbusinessoutlooklooniejumpslittlemovementinc",
-  "56ae0e0242327c6c",
-  "globalmarketsuaeoiltankerstargetedinstraitofhormuz",
   "db584fd7400225d6",
   "brentcrudeoilpriceonaugust172026at500pmedt",
   "4eb583decc8a615d",
@@ -603,7 +595,15 @@
   "8a2bf8cb60212d41",
   "chinahaswrestedcontrolofoilmarketsfromopec",
   "c766fd21738b396f",
-  "upstreamrevivaldrives20surgeinoilrigcount"
+  "upstreamrevivaldrives20surgeinoilrigcount",
+  "473084aafe836d94",
+  "hormuztankertrafficslowstoatrickle",
+  "fa401f4246780d37",
+  "asiansharesaremostlyhigherwhileusfuturesandoilpricesholdstea",
+  "8da050a0ec3e5dc1",
+  "weeklymarketwrapuscpiliftedmarketsbutoilandchipvolatilitykep",
+  "cd34aff4d73fff63",
+  "oilpricessteadyafterstrongweekasiranjitterspersistbyinvestin"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-17",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-08-17T08:25:15.755422+03:00",
+ "last_run": "2026-08-17T08:30:18.845228+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1036,6 +1036,14 @@
   {
    "d": "2026-08-17",
    "t": "China’s energy strategy vindicated by Iran war - Financial Times"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Hormuz Tanker Traffic Slows to a Trickle"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Oil prices steady after strong week as Iran jitters persist By Investing.com - Investing.com India"
   }
  ]
 }
