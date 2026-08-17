@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "5409defaecf563ff",
-  "imaginethepriceofoilifiranhadnuclearweaponsgovernmentaccount",
   "92d674a1b5a86d6f",
   "yoursundayaug16guidethreethingstodointheoilcity",
   "8139b8829bb6aa3c",
@@ -603,7 +601,9 @@
   "0214a7c3b8a34cfe",
   "dxyeurusdaudusdusdcadgoldoilweeklytechnicaloutlook",
   "f36efb4c7be12b80",
-  "crudeoiljumps2onmiddleeasttensions"
+  "crudeoiljumps2onmiddleeasttensions",
+  "d14618f148b25913",
+  "waranddroughtarechokingtheworldsmostvitaltraderoutes"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T20:50:16.080520+03:00",
+ "last_run": "2026-08-17T21:00:22.740032+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1240,6 +1240,10 @@
   {
    "d": "2026-08-17",
    "t": "Greek-run tanker carrying Russian oil attacked in Black Sea -- Bloomberg - Ukrinform"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "War and Drought Are Choking the World’s Most Vital Trade Routes"
   }
  ]
 }
