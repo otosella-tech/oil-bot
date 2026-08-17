@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "9337b2a108aa78e2",
-  "oilpricesplummetasinvestorsdigestpauseiniranwarfighting",
   "3607988ee886e83f",
   "uaesaysadnocvesselattackedinhormuzvowstodefendnavigationrigh",
   "c9fe4fd7f4fb2a09",
@@ -603,7 +601,9 @@
   "3d41cca302647304",
   "japansoilcrisiseasesbuttheimportbillkeepsclimbing",
   "bb2cacf738597c19",
-  "oilpricesriseasiranrulesoutinterimdealextensionthreatenstoes"
+  "oilpricesriseasiranrulesoutinterimdealextensionthreatenstoes",
+  "7da8c6309c850997",
+  "pakistanirefinercnergyicostepsupuscrudeoilpurchases"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T16:35:14.366402+03:00",
+ "last_run": "2026-08-17T16:40:15.126123+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
