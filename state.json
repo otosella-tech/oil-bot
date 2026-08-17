@@ -4,12 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "b15d2d6c1e9e8251",
-  "usequityindexesdeclineasretailsalesdropmostin14monthscrudeoi",
-  "f7f89eed20110ff9",
-  "areglobaloilstocksbigenoughtoweatheranothersixmonthsofusiran",
-  "f5bb01ac0877894d",
-  "currentpriceofoilasofjuly312026",
   "e4c4cfaec12824a7",
   "usoilgrowthfacesheadwindsasshaleproducerscutspending",
   "c410620f020cfda8",
@@ -603,7 +597,13 @@
   "6f8791cfa2b767af",
   "oilstrugglesfordirectionasusirantalksstallhormuzshippingslow",
   "5344f7fb3bf7ca66",
-  "oilpricesriseasusiranpeacetalksstallhormuzshippingslows"
+  "oilpricesriseasusiranpeacetalksstallhormuzshippingslows",
+  "50df5c602d3ae18a",
+  "crudeoilwtistallsbelowvwapat8108hourlylevels",
+  "4e04ab23d15cb776",
+  "californialawmakersmovetopreserverefinerysafetyrules",
+  "da26c2bf0406b6d4",
+  "crudeoilwtiboxednear81withbearishleanlivelevels"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 48
  },
- "last_run": "2026-08-17T10:10:15.815749+03:00",
+ "last_run": "2026-08-17T10:15:14.567041+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
