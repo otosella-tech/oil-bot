@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "4568dc29528592b8",
-  "currentpriceofoilasofaug52026",
   "9a52717d5a20e06a",
   "yoursaturdayaug15guidefivethingstodointheoilcity",
   "cee35a2c8da61b7b",
@@ -603,7 +601,9 @@
   "c5013957bbe9d33c",
   "currentpriceofoilasofaug122026",
   "bdb3f12afb0c1441",
-  "aregaspricesupordowninyourareacheckthecostinfloridacities"
+  "aregaspricesupordowninyourareacheckthecostinfloridacities",
+  "3003e1cb856c8f52",
+  "tankersalvageandoilspillcleanuphamperedbyweatherandtechnical"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T14:50:15.633085+03:00",
+ "last_run": "2026-08-17T14:55:12.114970+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1140,6 +1140,10 @@
   {
    "d": "2026-08-17",
    "t": "Breakingviews - Oil shock’s bigger problem is at the refinery - Reuters"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Tanker salvage and oil spill clean-up hampered by weather and technical challenges, Oman says - Reuters"
   }
  ]
 }
