@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "4a5aac1528b68a4b",
-  "omansaysmassiveoilspillreachescoastlinewhatdamagecoulditdo",
   "a2bb9b761ca7e0de",
   "nymarketmixeddowfalls72pointswhilecrudeoilfuturesrebound",
   "6202aabf3bc4f384",
@@ -603,7 +601,9 @@
   "d01a7f6f7c7e7eaa",
   "forecastupdateforcrudeoil17082026",
   "febd53ac6f1713f6",
-  "chinaunveilsoilandgastargetsinnewfiveyearplan"
+  "chinaunveilsoilandgastargetsinnewfiveyearplan",
+  "2e784a19bc382fda",
+  "isoiltellingussomething"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T15:10:15.019394+03:00",
+ "last_run": "2026-08-17T15:14:29.926117+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
