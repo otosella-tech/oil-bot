@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 81.72,
+  "WTI": 83.45,
   "Brent": 88.72
  },
  "seen": [
-  "8257dbf3f7458253",
-  "just7ofamericasnuclearfuelcomesfromhome",
   "3fbfe0cd69e6018d",
   "greenlandforcestrumplinkedusoilfirmtodelaydrilling",
   "2e839829f333a147",
@@ -603,7 +601,9 @@
   "7fb08b6d71666754",
   "irantajikistanfinalizingfuelexportagreement",
   "a86fd61f1ff5465c",
-  "goldsreboundfacesadoubleheadwindyieldsandoil"
+  "goldsreboundfacesadoubleheadwindyieldsandoil",
+  "0b3f5cd3d9e6b98b",
+  "usstrategicoilreservefallstolowestlevelsince1982"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T20:15:14.649359+03:00",
+ "last_run": "2026-08-17T20:25:13.029160+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
