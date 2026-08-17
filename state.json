@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "a7a42fea5e064349",
-  "opecoutputclimbsagainbutstilltrailsquotatargets",
-  "aca0fe70c726bce9",
-  "usoildrillersaddevenmorerigsasoilpricesstayhigher",
   "a36b6ded8c4245e2",
   "oilclimbsontankerattacksusiranclaimsabouthormuzcontrol",
   "41cd475e6129f88a",
@@ -603,7 +599,11 @@
   "366ac0ea4651bc02",
   "currentpriceofoilasofaug132026",
   "2efed9643f9b475e",
-  "andyburnhamfacesclimatetestovernorthseaoildecision"
+  "andyburnhamfacesclimatetestovernorthseaoildecision",
+  "e33069882ea3ab2e",
+  "indialetsdelayedrenewableprojectspaytokeepgridaccess",
+  "524627bef6c468d6",
+  "whyisntthepriceofoilevenhigher"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 46
  },
- "last_run": "2026-08-17T09:40:15.987433+03:00",
+ "last_run": "2026-08-17T09:45:17.414873+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
