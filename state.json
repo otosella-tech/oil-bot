@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "5bc7174516136dff",
-  "crudeoilpricesdropasdemandsupplyconcernsease",
-  "88bf67b60acb2fb3",
-  "iranhitsbackaftertrumpsayshemaydeclarehormuzusterritory",
   "4568dc29528592b8",
   "currentpriceofoilasofaug52026",
   "9a52717d5a20e06a",
@@ -603,7 +599,11 @@
   "9127d97336bed35a",
   "breakingviewsoilshocksbiggerproblemisattherefinery",
   "b1106edf6a28a1f6",
-  "eiaieaopecreportshighlightmassivedivergence"
+  "eiaieaopecreportshighlightmassivedivergence",
+  "c5013957bbe9d33c",
+  "currentpriceofoilasofaug122026",
+  "bdb3f12afb0c1441",
+  "aregaspricesupordowninyourareacheckthecostinfloridacities"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T14:45:15.249430+03:00",
+ "last_run": "2026-08-17T14:49:47.602353+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
