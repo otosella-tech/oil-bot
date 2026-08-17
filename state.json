@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "95d5201656ea5348",
-  "newaerialvideorevealshugescaleofoilspilloffoman",
-  "dbf109059a8a4a12",
-  "russiasshesharisoilterminalhaltscrudeexportsafterdroneattack",
   "be36a923057c4b20",
   "aisbiggestenergyimpactmightbeintheoilpatchnotthedatacenter",
   "69c45340cb4a4627",
@@ -603,7 +599,11 @@
   "92303426ac24fe18",
   "oilclimbsover1ontankerattacksnoprogreesonpeace",
   "e92792384b4f7375",
-  "oilpricesmixedamidiranwarstalemateneartermpotentialforgainss"
+  "oilpricesmixedamidiranwarstalemateneartermpotentialforgainss",
+  "6d36e6c1db5f982b",
+  "vistaenergyinvacamuertapowerfulus76millioninvestment",
+  "b60d74c0982b7ade",
+  "egyptandlibyaplan1billionpipelinetobypasshormuzdisruptions"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T12:45:14.730583+03:00",
+ "last_run": "2026-08-17T12:50:14.055496+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1100,6 +1100,10 @@
   {
    "d": "2026-08-17",
    "t": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited - Reuters"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Egypt and Libya plan $1 billion pipeline to bypass Hormuz disruptions - Businessfront"
   }
  ]
 }
