@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "314dd8a86b0d4835",
-  "crudeoilsuppliesat45yearlow",
-  "479449be487829f3",
-  "currentpriceofoilasofaugust32026",
   "aedbdef8943d2c73",
   "iransoilistrappedwhilerivalexportsareabouttosurgebuttehranco",
   "9689b53c95ab5513",
@@ -603,7 +599,11 @@
   "c30fd8c24de9d521",
   "chinascrudeoilimportsfellinthesecondquarter",
   "9f5a7dc25d90ba29",
-  "usirantensionssparkoilsurgestocksfall"
+  "usirantensionssparkoilsurgestocksfall",
+  "cea1ee4502865279",
+  "trumpcontradictsvancesaysnukesnotoilpricesno1priorityinirana",
+  "48afb7c025fe787d",
+  "usdieselcracksurpassesus100abarrelforfirsttimeonsupplydisrup"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 4
  },
- "last_run": "2026-08-18T02:10:15.455100+03:00",
+ "last_run": "2026-08-18T02:15:14.664588+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
