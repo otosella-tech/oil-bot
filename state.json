@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "34cf06e3c890fbcc",
-  "usoilrigsriseto455asstraitofhormuzattackshalttraffic",
   "7cbcac4f0045c6c6",
   "abandonedrussiantankerleakingoiloffomancoastthreateningenvir",
   "b6b3ee83c7d36397",
@@ -603,7 +601,9 @@
   "98b00f24811efd85",
   "crudeoiledgesup",
   "376ae6d7943bb600",
-  "indiaschiefeconomicadvisercallsforreturnofe10petrol"
+  "indiaschiefeconomicadvisercallsforreturnofe10petrol",
+  "2e6099e801609f19",
+  "currentpriceofoilasofaugust72026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T13:00:21.681365+03:00",
+ "last_run": "2026-08-17T13:05:12.811524+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
