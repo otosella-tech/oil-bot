@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "b9439197ba5c4c4e",
-  "iransmonthlyoilproductionup26000bpdopec",
   "21a9e48566dd9b2b",
   "abritishfirmstartscontainmentofoilspillfromstrickentankeroff",
   "689ae5e117f0f7ee",
@@ -603,7 +601,9 @@
   "b0f9da16d2dbde00",
   "trumpsvenezuelafixerispromotingamericafirstoildeals",
   "606a6af734532510",
-  "iranrejectsextensionofusmoucrudeoilp"
+  "iranrejectsextensionofusmoucrudeoilp",
+  "011d7aa9577a2647",
+  "saudiaramcoofferscrudeoiloutsidehormuztosomeasianrefiners"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T16:50:16.734191+03:00",
+ "last_run": "2026-08-17T16:52:02.219135+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1180,6 +1180,10 @@
   {
    "d": "2026-08-17",
    "t": "Saudis Offer Oil From Near Oman in Possible Sign of Shuttling - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Saudi Aramco offers crude oil outside Hormuz to some Asian refiners - Business Standard"
   }
  ]
 }
