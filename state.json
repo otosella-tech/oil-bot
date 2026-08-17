@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "35db13cbb86f2a26",
-  "howaregaspricesinfountainhills",
-  "e9494b997c39cbd9",
-  "uscrudeoilstockpilespostunexpectedbuild",
   "72b009041245c56c",
   "irantajikistanagreeonmechanismforoilproductexportscrudesuppl",
   "560c96d697279e09",
@@ -603,7 +599,11 @@
   "7826e98cdb54a71c",
   "ieaemergencyreservewithdrawalsslow",
   "b64b703d2ce5ebbc",
-  "crudeoilpricestodaywtipricesaredownby010"
+  "crudeoilpricestodaywtipricesaredownby010",
+  "50ca217e8b9bad7e",
+  "libyapowercrisisexplodesasgridfailsagain",
+  "6e4749bf71133d90",
+  "ounceofpreventionbarrelofcure"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T19:25:12.813816+03:00",
+ "last_run": "2026-08-17T19:35:12.099420+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-08-17",
    "t": "Ukraine Has Shattered the Myth of Russian Military Might"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Libya Power Crisis Explodes as Grid Fails Again"
   }
  ]
 }
