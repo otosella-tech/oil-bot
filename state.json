@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "b2a951517bb240bc",
-  "willchineseoilimportsreboundaftertheiranwarmaritime",
   "84e385d4864bfbda",
   "irandefiantonstraitastrumptellsamericanstoaccepthighgasprice",
   "eb859e1ee5854161",
@@ -603,7 +601,9 @@
   "d1f245fac3934516",
   "russiasblackseanovorossiyskportresumesoilloadingsafterdronea",
   "15033a4462cc2eb3",
-  "scantohostfolsomdemonstratingstilllifeinoil"
+  "scantohostfolsomdemonstratingstilllifeinoil",
+  "3e98b384278c841e",
+  "currentpriceofoilasofaugust172026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T14:05:11.729519+03:00",
+ "last_run": "2026-08-17T14:10:15.393617+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
