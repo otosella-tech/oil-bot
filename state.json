@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "61f67b004b72ba18",
-  "whyarecord",
   "95d5201656ea5348",
   "newaerialvideorevealshugescaleofoilspilloffoman",
   "dbf109059a8a4a12",
@@ -603,7 +601,9 @@
   "5e48b4f03a46e6d1",
   "pakistanrefinercnergyicoexpandsuscrudeimportsamidhormuzdisru",
   "92303426ac24fe18",
-  "oilclimbsover1ontankerattacksnoprogreesonpeace"
+  "oilclimbsover1ontankerattacksnoprogreesonpeace",
+  "e92792384b4f7375",
+  "oilpricesmixedamidiranwarstalemateneartermpotentialforgainss"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T12:35:13.729479+03:00",
+ "last_run": "2026-08-17T12:40:15.202177+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1096,6 +1096,10 @@
   {
    "d": "2026-08-17",
    "t": "Oil climbs over $1 on tanker attacks, no progrees on peace - Reuters"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited - Reuters"
   }
  ]
 }
