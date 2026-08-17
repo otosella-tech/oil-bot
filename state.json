@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "018346323dbd4c59",
-  "currentpriceofoilasofjuly222026",
   "8bf099a7f86423fd",
   "theoilwindow",
   "85177156d75adbb2",
@@ -603,7 +601,9 @@
   "391d712d1801a800",
   "newiraqsyriaoilpipelinetobypasshormuzexpectedtocost15billion",
   "93d1169d181018fb",
-  "oilrisesoniranwarstalemateneartermpotentialforfurthergainsli"
+  "oilrisesoniranwarstalemateneartermpotentialforfurthergainsli",
+  "06533e4dcf7e4643",
+  "oilsteadyoniranwarstalemate"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T18:30:18.679649+03:00",
+ "last_run": "2026-08-17T18:35:11.887023+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1212,6 +1212,10 @@
   {
    "d": "2026-08-17",
    "t": "Oil rises on Iran war stalemate; near-term potential for further gains limited - mediaselangor.com"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Oil Steady on Iran War Stalemate - GV Wire"
   }
  ]
 }
