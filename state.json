@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "1bc940a08f8a5f14",
-  "apaaparaises2026oilguidanceisthestockstillabargain",
-  "21c66dc3a6ed1a80",
-  "iranreroutesoilflowasloadingresumesatkhargislandterminal",
   "6501107a5fcb3e8e",
   "dalalstreetoutlookcrudeoilstraitofhormuzandfedcuestodrivesto",
   "51823a541205949c",
@@ -603,7 +599,11 @@
   "67b7356372d010c9",
   "oilsettlesupover2asiranwarstalematestokessupplyconcerns",
   "81e837172d9efe44",
-  "canaiextendhumanengineeringcapacityinoilandgas"
+  "canaiextendhumanengineeringcapacityinoilandgas",
+  "578bb283042a496e",
+  "oiljumpspast91astrumpcastsdoubtonanewdealwithiran",
+  "6f4cee3afb4c2775",
+  "oilholdsnear88asstoredbarrelscushiona90hormuztransitdrop"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T22:40:15.456062+03:00",
+ "last_run": "2026-08-17T22:45:15.098507+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-08-17",
    "t": "Oil Settles up Over $2 as Iran War Stalemate Stokes Supply Concerns - GV Wire"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Oil Holds Near $88 as Stored Barrels Cushion a 90% Hormuz Transit Drop - Crux Investor"
   }
  ]
 }
