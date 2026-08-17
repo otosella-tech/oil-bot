@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "346f4d0851e6d704",
-  "crudeoilpricesbrentholdsnear87wtiabove81asiranrisksoffsetinv",
-  "32b11764f31c3606",
-  "oilwardrivenpriceeffectsandinflationubs",
   "304dc23e62cd655c",
   "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025",
   "03f674a228c036bb",
@@ -603,7 +599,11 @@
   "634fcdccbdf066c0",
   "tickpopulationsgrowinoilregionwhattoknowaboutdiseaserisksand",
   "86e8760ab0d237fe",
-  "theamericaschallengetomiddleeastoilwontletup"
+  "theamericaschallengetomiddleeastoilwontletup",
+  "ad067cfd77dc2d9c",
+  "crudeoilgainsasusthreatensirannavalblockaderaisingcrudesuppl",
+  "5e2ac9ef7525089f",
+  "sensexdown300ptsniftynear24300elevatedcrudeoilpricesamongkey"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-17",
-  "count": 25
+  "count": 26
  },
- "last_run": "2026-08-17T07:15:14.872215+03:00",
+ "last_run": "2026-08-17T07:20:21.764924+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
