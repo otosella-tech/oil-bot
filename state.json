@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "9b73447c764b3b29",
-  "indiasoilimportbillmayrise510billionifrussiancrudesupplyfall",
-  "17f103595b4cd6cc",
-  "chinesehengligroupcompanyprimaryimporterofsanctionedirancrud",
   "7335af6057fac622",
   "sprcrudeoilacquisitionprocedures",
   "48b794c44cc0f15c",
@@ -603,7 +599,11 @@
   "993038ea9a42f52d",
   "oilfuturesriseashormuzshippingremainsconstrained",
   "c0ae3ba2e0cc897b",
-  "calthomaswhycantwefixtheoilproblem"
+  "calthomaswhycantwefixtheoilproblem",
+  "3a2356efd41a1bdb",
+  "surgingcrudeoilpricescontributetoweaknessonwallstreet",
+  "fcd350e9ab298c4f",
+  "soybeanfuturesriseonstrongercrushpaceandoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T23:15:14.102394+03:00",
+ "last_run": "2026-08-17T23:20:15.968480+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
