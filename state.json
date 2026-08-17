@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "58f677b22fe26fff",
-  "usoilgasrigcountrisestohighestsincemarch2025bakerhughes",
-  "7f5c1970c9613887",
-  "saudiaramcoestimatestheworldlost26billionbarrelsofoilsinceth",
   "f5eb749435aa194c",
   "eveningupdateforcrudeoil14082026",
   "a2a0f935136c5dcb",
@@ -603,7 +599,11 @@
   "e02fa76c98d4e45e",
   "60crudenot150juliusbaersmarkmatthewsseesoilfallingandrupeepr",
   "79b76b6092d70def",
-  "tajikistanandirandiscussfuelsuppliescrudeoilforrefineriesand"
+  "tajikistanandirandiscussfuelsuppliescrudeoilforrefineriesand",
+  "f40f888ac2d5b7df",
+  "faovegetableoilpriceindexup2injulytoreachhighestlevelsinceju",
+  "d3a520d996fb3db9",
+  "brentcrudeoilpricetodayfuturesedgehigheramidwestasiauncertai"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 50
  },
- "last_run": "2026-08-17T10:30:45.147340+03:00",
+ "last_run": "2026-08-17T10:35:15.341198+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
