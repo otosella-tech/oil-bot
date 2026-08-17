@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "ac2399c5729dcb55",
-  "3usenergystockstiedtohigheroilandgasprices",
-  "9ec9698d9610ae22",
-  "herestherealreasonoilpricesarentmovinghigher",
-  "3aac0b6c8e1a4930",
-  "usiranceasefireendswithoutprogressonstraitnuclearissues",
   "300aaec00ada4e59",
   "soiranclosesthestraitofhormuzletsseewhatbessentseconomicisol",
   "7c8dd3af87cfc23c",
@@ -603,7 +597,13 @@
   "bde1b8a61e5c9aa4",
   "chinesedemanddrivesrussiasfareastcrudebacktoapremium",
   "f74ba786f230caa9",
-  "weeklygaswatchgaspricesfallthreecentsinwesternpa"
+  "weeklygaswatchgaspricesfallthreecentsinwesternpa",
+  "1594b372a420e23f",
+  "30yearyieldrisestohighestlevelsince2007asoilandtreasurysuppl",
+  "f1a011c21465d269",
+  "whylibyasnextoilpipelinecouldbeageopoliticalgamechanger",
+  "50a7fc6f3c49aea1",
+  "covertmideastoilflowsarekeepingglobalpricesincheck"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 1
+  "count": 3
  },
- "last_run": "2026-08-18T00:05:13.093975+03:00",
+ "last_run": "2026-08-18T00:09:56.333924+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1052,6 +1052,10 @@
   {
    "d": "2026-08-17",
    "t": "Update: Equities Fall, Oil Rallies as US-Iran Ceasefire Expires - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Why Libya's Next Oil Pipeline Could Be a Geopolitical Game-Changer - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
