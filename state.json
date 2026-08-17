@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 83.45,
+  "WTI": 85.22,
   "Brent": 90.67
  },
  "seen": [
-  "a5174dbdddf552f1",
-  "iranianmpcallsforneighboringpersiangulfrulerstoberevengetarg",
   "820fcd61dd0b3d4a",
   "worldslargestcarmakersseektoavertmotoroilcrisis",
   "cb6e576d0fe799f6",
@@ -603,7 +601,9 @@
   "89ff1813aedf82a1",
   "massiveoilspilloffomancoastthreatensmarineecosystems",
   "adc8713efc8bc33a",
-  "automationcouldstarteatingintousdieseldemand"
+  "automationcouldstarteatingintousdieseldemand",
+  "edc71a22b8da1992",
+  "middleeastconflictraisesusplasticindustryssinkingship"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 3
  },
- "last_run": "2026-08-18T01:15:13.733956+03:00",
+ "last_run": "2026-08-18T01:20:13.988131+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
