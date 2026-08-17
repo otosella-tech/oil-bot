@@ -4,12 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "8bf099a7f86423fd",
-  "theoilwindow",
-  "85177156d75adbb2",
-  "crudeoilpriceanalysiscrudeoilcontinuestomoveonheadlines",
-  "9c98fba4684c614c",
-  "eiaseesmassiveuptickinuscrudeoilinventories",
   "67ef335fa1aebe32",
   "hugeoilspilloffthecoastofomannowcovershundredsofsquaremiles",
   "987d3b2fd46f6dbb",
@@ -603,7 +597,13 @@
   "93d1169d181018fb",
   "oilrisesoniranwarstalemateneartermpotentialforfurthergainsli",
   "06533e4dcf7e4643",
-  "oilsteadyoniranwarstalemate"
+  "oilsteadyoniranwarstalemate",
+  "628806d85dc364ea",
+  "usfuturesflattechsharesgainonanthropicrevenuejump",
+  "c9177971fd94cb8a",
+  "greekrunoiltankercomesunderattackinrussianblacksea",
+  "51451f863c05f9ef",
+  "currentpriceofoilasofaugust112026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T18:50:15.495776+03:00",
+ "last_run": "2026-08-17T18:55:11.725367+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-08-17",
    "t": "Oil Steady on Iran War Stalemate - GV Wire"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Greek-Run Oil Tanker Comes Under Attack in Russian Black Sea - Bloomberg.com"
   }
  ]
 }
