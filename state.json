@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "06a85079bc1e4d95",
-  "uscrudeoilinventoriespostweeklyincrease",
   "8415e6c610101d14",
   "eiasees600000bpdofmiddleeastoilstillofflinebyend2027",
   "de77db32ebf25d93",
@@ -603,7 +601,9 @@
   "d4bcd20b01fef85e",
   "asiansharesmarktimeasgulfwarkeepsoilpricesup",
   "a83cd3335f13f134",
-  "forwardordersjumpedunexpectedlyfrom3billionto37billionliters"
+  "forwardordersjumpedunexpectedlyfrom3billionto37billionliters",
+  "2932490fe9a4f1f9",
+  "russiaseconomyhasdefiedtheskepticscracksaregettinghardertohi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-17",
-  "count": 13
+  "count": 15
  },
- "last_run": "2026-08-17T04:35:11.705053+03:00",
+ "last_run": "2026-08-17T04:40:14.887337+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -992,6 +992,10 @@
   {
    "d": "2026-08-17",
    "t": "Forward orders jumped unexpectedly from 3 billion to 3.7 billion liters but next stranded tanker HAFNIA MIKALA waits offshore Sydney - crudeoilpeak.info"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Russia's economy has defied the skeptics. Cracks are getting harder to hide - CNBC"
   }
  ]
 }
