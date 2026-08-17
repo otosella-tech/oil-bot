@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "75bb85066e5549a4",
-  "oilfuturescrudeupasiranblockadethreatsupportsmarket",
   "d9cce96ba28ad8e9",
   "yourfridayaug14guidefivethingstodointheoilcity",
   "0261afdd0f73533b",
@@ -603,7 +601,9 @@
   "64e403ced3cc89c0",
   "asiasharesmarktimeasgulfwarkeepsoilpricesup",
   "2f05f50a9be54785",
-  "oilpricedivesasusandiranpauseattacks"
+  "oilpricedivesasusandiranpauseattacks",
+  "83590f977f45d180",
+  "oilpricesholdsteadyashormuznearszerotrafficwhileiranustalkso"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-17",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-08-17T05:00:21.034432+03:00",
+ "last_run": "2026-08-17T05:05:11.818217+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1008,6 +1008,10 @@
   {
    "d": "2026-08-17",
    "t": "Oil price dives as US and Iran pause attacks - BBC"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Oil prices hold steady as Hormuz nears zero traffic while Iran-US talks on Strait opening stalls - The Times of India"
   }
  ]
 }
