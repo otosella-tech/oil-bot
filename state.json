@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "e0270d85982ffb1a",
-  "adyingcommunityanenergycrisisworsenedbythewarstrainsalaska",
   "bae3d7f8dcf9743f",
   "oilpricesup140826",
   "716e53436f5a82d2",
@@ -603,7 +601,9 @@
   "d8fcb4c180a3e618",
   "russiaindiaraillinkplanastrategicshiftinenergytransport",
   "4988a4a4a11e7094",
-  "uswaroniranday172memorandumofunderstandingexpirestoday"
+  "uswaroniranday172memorandumofunderstandingexpirestoday",
+  "8b70c5edf4078b4b",
+  "michigangaspricesjump12centsaaasays"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T15:20:16.150617+03:00",
+ "last_run": "2026-08-17T15:25:15.204647+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
