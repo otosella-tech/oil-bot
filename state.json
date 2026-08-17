@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "cb70fd2285d2d81b",
-  "uaesadnocvesselattackedashormuztrafficgrindstonearhalt",
-  "cae415841cf7f3be",
-  "letterstotheeditorifwedontdeliveroiltoglobalmarketstosatisfy",
   "9337b2a108aa78e2",
   "oilpricesplummetasinvestorsdigestpauseiniranwarfighting",
   "3607988ee886e83f",
@@ -603,7 +599,11 @@
   "ac206a629903ef8c",
   "chartoverviewgoldcrudeoilforexandstockindexpivotpointsandlon",
   "744a234200bb7d1f",
-  "russianespoblendcrudeoiljumpsbacktopremiumvsbrentonchinadema"
+  "russianespoblendcrudeoiljumpsbacktopremiumvsbrentonchinadema",
+  "3d41cca302647304",
+  "japansoilcrisiseasesbuttheimportbillkeepsclimbing",
+  "bb2cacf738597c19",
+  "oilpricesriseasiranrulesoutinterimdealextensionthreatenstoes"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T16:25:13.562480+03:00",
+ "last_run": "2026-08-17T16:30:18.733669+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1172,6 +1172,10 @@
   {
    "d": "2026-08-17",
    "t": "Saudi Aramco offers crude outside Hormuz to some Asian refiners, sources say - Reuters"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict - CNBC"
   }
  ]
 }
