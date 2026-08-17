@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "b62d5e31e0c1ee73",
-  "weekaheadondstreetusfedminutesfpiinflowscrudeoilpricesusiran",
   "9b73447c764b3b29",
   "indiasoilimportbillmayrise510billionifrussiancrudesupplyfall",
   "17f103595b4cd6cc",
@@ -603,7 +601,9 @@
   "a756c97f7c9317c6",
   "cameroonflaggedtankerdrawsafricaintorussiasshadowfleettradea",
   "993038ea9a42f52d",
-  "oilfuturesriseashormuzshippingremainsconstrained"
+  "oilfuturesriseashormuzshippingremainsconstrained",
+  "c0ae3ba2e0cc897b",
+  "calthomaswhycantwefixtheoilproblem"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T23:05:14.815045+03:00",
+ "last_run": "2026-08-17T23:10:14.812241+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
