@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "6ff0986acc647020",
-  "uscrudeoilinventoriesseesurprisebuildapi",
-  "bed4f5c34a6f3848",
-  "exportdisruptionsdrain69millionbarrelsraisingcrudepriceriskd",
   "644ec8d59f96978a",
   "forecastupdateforcrudeoil14082026",
   "29e485cc55a57eaf",
@@ -603,7 +599,11 @@
   "bfbb3169404b3157",
   "usfreightmarketsarerepricingaroundtwosimultaneousshockstheir",
   "d9cce96ba28ad8e9",
-  "yourfridayaug14guidefivethingstodointheoilcity"
+  "yourfridayaug14guidefivethingstodointheoilcity",
+  "4446677932bfa7b7",
+  "shippingslowsthroughstraitofhormuzaftertankerattacksdatashow",
+  "9209483869e7fa55",
+  "oilpricetodayaugust17crudeoilapproaches90againamidnobreakthr"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-17",
-  "count": 19
+  "count": 21
  },
- "last_run": "2026-08-17T05:20:14.286434+03:00",
+ "last_run": "2026-08-17T05:25:11.919615+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1012,6 +1012,14 @@
   {
    "d": "2026-08-17",
    "t": "Oil prices hold steady as Hormuz nears zero traffic while Iran-US talks on Strait opening stalls - The Times of India"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Oil Price Today (August 17): Crude oil approaches $90 again amid no breakthrough in Iran war talks. What’s - The Economic Times"
   }
  ]
 }
