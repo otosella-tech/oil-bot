@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "e77f264ebde1ef37",
-  "crudeoilfuturesriseonstrongspotdemand",
-  "06ee01e2dc9c8286",
-  "uswestcoastrefinerstapmalaysiansupply",
   "4a2bb11333914089",
   "nyserdaweeklyenergyandfuelmarketsreportaugust142026",
   "cb3ecb5a36a31fe0",
@@ -603,7 +599,11 @@
   "c9a627e58813af1f",
   "irantellsusstopindulginginfantasies",
   "e8535ca1424d8e5d",
-  "buyingpressuredominatedthecommoditiesmarketwithcrudeoilandwh"
+  "buyingpressuredominatedthecommoditiesmarketwithcrudeoilandwh",
+  "07ee52e3f1fc269a",
+  "asiansharesrisedollarslipsasmarketsparefedraterisks",
+  "c712ffada5730735",
+  "sensexfalls500ptsniftybelow24250elevatedcrudeoilpricesamongk"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 42
  },
- "last_run": "2026-08-17T08:50:15.125706+03:00",
+ "last_run": "2026-08-17T08:55:18.456176+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
