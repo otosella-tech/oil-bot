@@ -4,12 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "626a72e96778899d",
-  "secretarychriswrightshedslightontheoilmarkettraffic",
-  "c646963fb47db1a5",
-  "didchinaoutsmartamericaaftertheoilshock",
-  "a84932f0632692a1",
-  "usoilcompaniescutcapitalspendinginshalebasins",
   "e77f264ebde1ef37",
   "crudeoilfuturesriseonstrongspotdemand",
   "06ee01e2dc9c8286",
@@ -603,7 +597,13 @@
   "99e76214f3eec80d",
   "crudeoilpriceforecastwtiandbrentstallat50dayemasamidgeopolit",
   "3d1a295913df8419",
-  "hormuzshippingtrafficdropssharply"
+  "hormuzshippingtrafficdropssharply",
+  "91cdbd1ca7178faf",
+  "oilrisesasusiranpeacetalksstallhormuzshippingslows",
+  "c9a627e58813af1f",
+  "irantellsusstopindulginginfantasies",
+  "e8535ca1424d8e5d",
+  "buyingpressuredominatedthecommoditiesmarketwithcrudeoilandwh"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-17",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-08-17T08:35:13.112838+03:00",
+ "last_run": "2026-08-17T08:40:14.702391+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1048,6 +1048,10 @@
   {
    "d": "2026-08-17",
    "t": "Hormuz shipping traffic drops sharply - pajhwok.com"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows - Reuters"
   }
  ]
 }
