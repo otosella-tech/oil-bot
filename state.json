@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "a2bb9b761ca7e0de",
-  "nymarketmixeddowfalls72pointswhilecrudeoilfuturesrebound",
-  "6202aabf3bc4f384",
-  "currentpriceofoilasofjuly302026",
   "e0270d85982ffb1a",
   "adyingcommunityanenergycrisisworsenedbythewarstrainsalaska",
   "bae3d7f8dcf9743f",
@@ -603,7 +599,11 @@
   "febd53ac6f1713f6",
   "chinaunveilsoilandgastargetsinnewfiveyearplan",
   "2e784a19bc382fda",
-  "isoiltellingussomething"
+  "isoiltellingussomething",
+  "d8fcb4c180a3e618",
+  "russiaindiaraillinkplanastrategicshiftinenergytransport",
+  "4988a4a4a11e7094",
+  "uswaroniranday172memorandumofunderstandingexpirestoday"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T15:15:16.531210+03:00",
+ "last_run": "2026-08-17T15:20:16.150617+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1148,6 +1148,10 @@
   {
    "d": "2026-08-17",
    "t": "China's July oil throughput posts first month-on-month rise since Iran war - Reuters"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "US War on Iran, Day 172: Memorandum of Understanding Expires Today - EA WorldView"
   }
  ]
 }
