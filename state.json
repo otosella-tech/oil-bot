@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "6cffdb0667636c8e",
-  "peterthielreportsstakeinargentineshaleoilexportervista",
-  "9d37fff7442fac5b",
-  "recordlowrhinewaterlevelscausefuelshortagesineasternfrance",
-  "7f258f221e3e22d7",
-  "sensexniftyinfocushormuztensionscrudeoilfedminutesamongkeytr",
   "46963770600336fe",
   "thissprawlingchineserefineryisbankrollingtehran",
   "db82ddb3d39dc4ba",
@@ -603,7 +597,13 @@
   "6391b3428b668aaa",
   "oilstocksinusstrategicpetroleumreservefallby53millionbarrels",
   "7965a36b7b8d5c9e",
-  "chriswrighttoutsmillionsofoilbarrelsmovingthroughhormuzstrai"
+  "chriswrighttoutsmillionsofoilbarrelsmovingthroughhormuzstrai",
+  "4a137c53d14679d9",
+  "carboncapturesbiggestproblemisntcapturingcarbon",
+  "f3569cdc29ac8192",
+  "tennesseegaspricesrise10cents",
+  "74c1afaad8861bca",
+  "oiljumps2asinvestorsweighiranwarstalematestokingsupplyconcer"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T21:55:13.025392+03:00",
+ "last_run": "2026-08-17T22:00:22.072437+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1260,6 +1260,10 @@
   {
    "d": "2026-08-17",
    "t": "Chris Wright touts millions of oil barrels moving through Hormuz Strait - Fox News"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Oil jumps $2 as investors weigh Iran war stalemate, stoking supply concerns - The Lufkin Daily News"
   }
  ]
 }
