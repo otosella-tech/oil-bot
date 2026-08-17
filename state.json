@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "2855b24eaac42a63",
-  "crudeoilpriceforecastfallingwedgepointstolargerrecovery",
-  "3a410ba1564cfc15",
-  "russiasoilindustryisrunningoutofroomtoabsorbmoreshocks",
   "35db13cbb86f2a26",
   "howaregaspricesinfountainhills",
   "e9494b997c39cbd9",
@@ -603,7 +599,11 @@
   "29bb081d71003c83",
   "currentpriceofoilasofaugust62026",
   "c2296bceb02d170a",
-  "sanderosionchallengesinoilandgasmonitoringsolutions"
+  "sanderosionchallengesinoilandgasmonitoringsolutions",
+  "7826e98cdb54a71c",
+  "ieaemergencyreservewithdrawalsslow",
+  "b64b703d2ce5ebbc",
+  "crudeoilpricestodaywtipricesaredownby010"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T19:20:15.000955+03:00",
+ "last_run": "2026-08-17T19:25:12.813816+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
