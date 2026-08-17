@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "a35480ec8367c5b8",
-  "iraqseizes203millionand60kgofgoldinoilministrycase",
-  "0ee6efc88b071bda",
-  "trumpurgesustoaccepthighergaspricesamidirantensions",
   "c3426a442362cb66",
   "trumpurgesustoaccepthighergaspricesamidirantensionsegyptoil",
   "6cffdb0667636c8e",
@@ -603,7 +599,11 @@
   "feeb164fc191acd9",
   "septemberwticrudeoilcontractclosesup210or26to8450perbarrelse",
   "52e35352d08c6875",
-  "eveningupdateforcrudeoil17082026"
+  "eveningupdateforcrudeoil17082026",
+  "837877ac2d78b685",
+  "trumpsrosyhormuzclaimscollidewithtankerdata",
+  "6391b3428b668aaa",
+  "oilstocksinusstrategicpetroleumreservefallby53millionbarrels"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T21:45:16.285377+03:00",
+ "last_run": "2026-08-17T21:50:16.810311+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1252,6 +1252,10 @@
   {
    "d": "2026-08-17",
    "t": "Brent oil rises to $91 as Iran rules out interim deal extension, threatens to escalate conflict - CNBC"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Trump’s rosy Hormuz claims collide with tanker data - Politico"
   }
  ]
 }
