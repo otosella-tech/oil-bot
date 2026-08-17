@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "f5eb749435aa194c",
-  "eveningupdateforcrudeoil14082026",
   "a2a0f935136c5dcb",
   "primeenergyresourcesreportssecondquarter2026resultshighlight",
   "65318fed7e9dbe1d",
@@ -603,7 +601,9 @@
   "f40f888ac2d5b7df",
   "faovegetableoilpriceindexup2injulytoreachhighestlevelsinceju",
   "d3a520d996fb3db9",
-  "brentcrudeoilpricetodayfuturesedgehigheramidwestasiauncertai"
+  "brentcrudeoilpricetodayfuturesedgehigheramidwestasiauncertai",
+  "3a26ad5253a9a049",
+  "indianoilgiantsecuresuslicensetoreturntovenezuela"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-17",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-08-17T10:45:14.298688+03:00",
+ "last_run": "2026-08-17T10:50:13.651549+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1072,6 +1072,10 @@
   {
    "d": "2026-08-17",
    "t": "Oil prices rise after U.S. blocks surprise attack from Iran - CNBC"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Indian Oil Giant Secures U.S. License to Return to Venezuela"
   }
  ]
 }
