@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "0f6c2a9e558bfa70",
-  "usdollarfellmetalsrosebroadlywithlmecopperupforsevenstraight",
   "47a21c7e569cdaac",
   "currentpriceofoilasofaug122026",
   "52a8af58508f0ba9",
@@ -603,7 +601,9 @@
   "c89666d011bb68af",
   "chinaoilimportsjump22evenaseconomicdatadisappoints",
   "497873e10a869b62",
-  "oilfuturescrudeedgesupasmoudeadlineendswithoutresolution"
+  "oilfuturescrudeedgesupasmoudeadlineendswithoutresolution",
+  "1ba4c2ea008e426b",
+  "oilpricestickhigherafterstrongweekasiranjitterspersist"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T14:35:12.515014+03:00",
+ "last_run": "2026-08-17T14:40:14.763946+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1132,6 +1132,10 @@
   {
    "d": "2026-08-17",
    "t": "Oil rises on Iran war stalemate; near-term potential for further gains seen limited - Reuters"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Oil prices tick higher after strong week as Iran jitters persist - Investing.com"
   }
  ]
 }
