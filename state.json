@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "1201c040f086a7f8",
-  "currentpriceofoilasofaugust62026",
   "f5a1fbf95c5316c5",
   "crudepipelinescouldbenextpermianbottleneckmidlandreporter",
   "6b876df806a15512",
@@ -603,7 +601,9 @@
   "0cacc71bf89a6a2a",
   "eiaseesmassiveuptickinuscrudeoilinventories",
   "96221f5b8a2eddb6",
-  "explainingsanderosioninoilandgasproductionparti"
+  "explainingsanderosioninoilandgasproductionparti",
+  "5fcb94bd433f09a2",
+  "crudeoilswingsonmonday"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T19:00:23.605493+03:00",
+ "last_run": "2026-08-17T19:05:13.715222+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
