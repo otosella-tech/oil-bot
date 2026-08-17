@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "d9cce96ba28ad8e9",
-  "yourfridayaug14guidefivethingstodointheoilcity",
   "0261afdd0f73533b",
   "endangeredwhalesturtlesatriskasomanoilspillreachescoast",
   "6ff0986acc647020",
@@ -603,7 +601,9 @@
   "2f05f50a9be54785",
   "oilpricedivesasusandiranpauseattacks",
   "83590f977f45d180",
-  "oilpricesholdsteadyashormuznearszerotrafficwhileiranustalkso"
+  "oilpricesholdsteadyashormuznearszerotrafficwhileiranustalkso",
+  "bfbb3169404b3157",
+  "usfreightmarketsarerepricingaroundtwosimultaneousshockstheir"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 19
  },
- "last_run": "2026-08-17T05:10:14.258859+03:00",
+ "last_run": "2026-08-17T05:15:16.597892+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
