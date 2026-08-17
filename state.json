@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "8a2bf8cb60212d41",
-  "chinahaswrestedcontrolofoilmarketsfromopec",
   "985c247897f3cb9f",
   "turkeycutsrussianoilimportsasblackseaexportdisruptionscurbsu",
   "30423a98c4faf81d",
@@ -603,7 +601,9 @@
   "332d4beaeee7549d",
   "stockmarketsdeclineinearlytradeamidrisingcrudeoilprices",
   "7f924feca1dfe18a",
-  "dollaryenholdsfirmin159rangesupportedbycrudeoilandusyields"
+  "dollaryenholdsfirmin159rangesupportedbycrudeoilandusyields",
+  "3f959e387bb4ec16",
+  "chinasenergystrategyvindicatedbyiranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-17",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-08-17T07:45:13.358532+03:00",
+ "last_run": "2026-08-17T07:50:14.305606+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1032,6 +1032,10 @@
   {
    "d": "2026-08-17",
    "t": "WTI Crude Oil Prices Slip Toward $80 Monday Morning as Iran Standoff Keeps Markets on Edge - fxleaders.com"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "China’s energy strategy vindicated by Iran war - Financial Times"
   }
  ]
 }
