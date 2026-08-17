@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "f1cdb9fd10dd93c3",
-  "calthomaswhycantwefixtheoilproblemnews",
   "7de1e8c0136b2900",
   "hormuztrafficslowsfurtherafterusthreatensmoreeconomicpressur",
   "c85221244a740301",
@@ -603,7 +601,9 @@
   "078d58e965240f42",
   "worldsharesaremixedandoilpricesslipafterworriesoverstagflati",
   "a3e7855b6c5a5526",
-  "japaneasesoilsupplycrisisbutfirmsfeelpainofelevatedcosts"
+  "japaneasesoilsupplycrisisbutfirmsfeelpainofelevatedcosts",
+  "44bf03e4b4b8c582",
+  "asianrefinersseekalternativepickuppointforsaudicrude"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-17",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-08-17T11:50:17.088783+03:00",
+ "last_run": "2026-08-17T11:55:12.007813+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1080,6 +1080,10 @@
   {
    "d": "2026-08-17",
    "t": "Hormuz risks raise Ceyhan’s potential as global oil hub - Hürriyet Daily News"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Asian Refiners Seek Alternative Pickup Point for Saudi Crude"
   }
  ]
 }
