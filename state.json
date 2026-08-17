@@ -606,16 +606,16 @@
   "chinahaswrestedcontrolofoilmarketsfromopec"
  ],
  "releases_done": {},
- "last_digest": "2026-08-16",
+ "last_digest": "2026-08-17",
  "digest_prices": {
-  "WTI": 82.4,
-  "Brent": 88.52
+  "WTI": 82.23,
+  "Brent": 88.67
  },
  "llm": {
   "date": "2026-08-17",
-  "count": 30
+  "count": 36
  },
- "last_run": "2026-08-17T07:55:11.832948+03:00",
+ "last_run": "2026-08-17T08:00:21.313787+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
