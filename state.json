@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "b1a7e987bdf4a85a",
-  "currentpriceofoilasofjuly292026",
   "86a718d3a19e0143",
   "trkiyecutsoilpurchasesfromrussianblackseaterminals",
   "abd735d329b0bf8e",
@@ -603,7 +601,9 @@
   "4eef0200a05237d0",
   "posthasteanenergyshockmuchbiggerthantheoilisbrewingoutthere",
   "6d6036ef345fdd62",
-  "oilshocksbiggerproblemisattherefinery"
+  "oilshocksbiggerproblemisattherefinery",
+  "b165764f9300a624",
+  "thestraitofhormuzpersistentusiranmaritimeflashpoint"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T15:50:17.213073+03:00",
+ "last_run": "2026-08-17T15:55:14.681742+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1164,6 +1164,10 @@
   {
    "d": "2026-08-17",
    "t": "Trump Threatens To Bomb Oman If It Interferes With US-Iran’s Strait Of Hormuz Negotiations — Dow Futures Edge Lower, Crude Oil Prices Inch Up - Stocktwits"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "The Strait of Hormuz: Persistent U.S.-Iran maritime flashpoint - NBC News"
   }
  ]
 }
