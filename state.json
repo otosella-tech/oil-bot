@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "84e385d4864bfbda",
-  "irandefiantonstraitastrumptellsamericanstoaccepthighgasprice",
   "eb859e1ee5854161",
   "calthomaswhycantwefixtheoilproblemthecrescent",
   "087d4956248b8d7e",
@@ -603,7 +601,9 @@
   "15033a4462cc2eb3",
   "scantohostfolsomdemonstratingstilllifeinoil",
   "3e98b384278c841e",
-  "currentpriceofoilasofaugust172026"
+  "currentpriceofoilasofaugust172026",
+  "ffa7de76fb2d9d9e",
+  "oilrisesoniranwarstalemateneartermpotentialforfurthergainsse"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T14:10:15.393617+03:00",
+ "last_run": "2026-08-17T14:15:15.308696+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1128,6 +1128,10 @@
   {
    "d": "2026-08-17",
    "t": "Russia's Black Sea Novorossiysk port resumes oil loadings after drone attack, sources say - Reuters"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Oil rises on Iran war stalemate; near-term potential for further gains seen limited - Reuters"
   }
  ]
 }
