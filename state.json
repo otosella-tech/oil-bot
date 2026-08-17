@@ -4,10 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "6dce6d89a06467b7",
-  "thefinancialweekinfivechartsbankboomaluminiumsqueezeandsmart",
-  "9d18fa12a477e9a8",
-  "dronestrikesparksblazeatkeyrussianoilandfuelterminal",
   "2fde05434ad77475",
   "oilpricesfallasopecandieaslash2026demandoutlooks",
   "b5ab0e6c41fc4060",
@@ -603,7 +599,11 @@
   "3b7f7e0dab2913ff",
   "thomaswhycantwefixtheoilproblem",
   "ed62c7a141ebadf4",
-  "brentcruderemainsnear90abarrelasattacksresumeinlebanontensio"
+  "brentcruderemainsnear90abarrelasattacksresumeinlebanontensio",
+  "1d918606d7c1d912",
+  "currentpriceofoilasofaugust142026",
+  "e0772c4c2964b071",
+  "iranianhardlinerrelativesprofitfromsanctionsbustingoilsalesi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-17",
-  "count": 3
+  "count": 5
  },
- "last_run": "2026-08-17T03:05:11.893643+03:00",
+ "last_run": "2026-08-17T03:10:15.298583+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -976,6 +976,10 @@
   {
    "d": "2026-08-17",
    "t": "Brent crude remains near $90 a barrel as attacks resume in Lebanon, tensions persist - CNBC TV18"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Iranian Hardliner Relatives Profit from Sanctions-Busting Oil Sales, Investigation Finds - News and Statistics - IndexBox"
   }
  ]
 }
