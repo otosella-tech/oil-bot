@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "18c970e311c70e6d",
-  "opecslashesoildemandgrowthforecastagain",
   "06a85079bc1e4d95",
   "uscrudeoilinventoriespostweeklyincrease",
   "8415e6c610101d14",
@@ -603,7 +601,9 @@
   "8caaccbbec72c079",
   "oilpricesmixedmaybebuoyedamiddeadlockinusirantalks",
   "d4bcd20b01fef85e",
-  "asiansharesmarktimeasgulfwarkeepsoilpricesup"
+  "asiansharesmarktimeasgulfwarkeepsoilpricesup",
+  "a83cd3335f13f134",
+  "forwardordersjumpedunexpectedlyfrom3billionto37billionliters"
  ],
  "releases_done": {},
  "last_digest": "2026-08-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-17",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-08-17T04:25:14.261088+03:00",
+ "last_run": "2026-08-17T04:30:18.093243+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -988,6 +988,10 @@
   {
    "d": "2026-08-17",
    "t": "Asian shares mark time as Gulf war keeps oil prices up - Reuters"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Forward orders jumped unexpectedly from 3 billion to 3.7 billion liters but next stranded tanker HAFNIA MIKALA waits offshore Sydney - crudeoilpeak.info"
   }
  ]
 }
