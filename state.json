@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "71496f697e32658a",
-  "mexicoisbettingonbiofueltotackleitsseaweedcrisis",
   "2b9ddeef184402a7",
   "trkiyesceyhancouldbecomealternativeoiltraderouteamidhormuzdi",
   "f3c535c2158b9d75",
@@ -603,7 +601,9 @@
   "06410e1d71bbf2af",
   "whythemovementsofausoilcompanyingreenlandhaveattractedattent",
   "a471775e522a04d5",
-  "currentpriceofoilasofaugust102026"
+  "currentpriceofoilasofaugust102026",
+  "04d9926487d9cfc8",
+  "venezuelasoilrevivalacceleratesasusmajorspushtrumpsnewenergy"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T18:05:13.263170+03:00",
+ "last_run": "2026-08-17T18:10:15.327421+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-08-17",
    "t": "Iraq-Syria Oil Pipeline to Bypass Hormuz Is 4 Years and $15 Billion Away - oilprice.com"
+  },
+  {
+   "d": "2026-08-17",
+   "t": "Venezuela’s Oil Revival Accelerates as U.S. Majors Push Trump’s New Energy Order"
   }
  ]
 }
