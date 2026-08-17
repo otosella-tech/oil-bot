@@ -4,8 +4,6 @@
   "Brent": 88.72
  },
  "seen": [
-  "3b3921d5f6300407",
-  "trumplinkedoilventuredelaysgreenlanddrillingplansaftergovern",
   "9ff504cab4629fb6",
   "anoilcompanywantstorestartfrackingoffthecaliforniacoastthest",
   "51de4ef0e5847c9c",
@@ -603,7 +601,9 @@
   "2eec17c6216d4ec7",
   "ukinflationsettoreboundasenergybillssurge",
   "526808d4d79a09c7",
-  "gbpusdforecastcurrencypairoftheweekaugust172026"
+  "gbpusdforecastcurrencypairoftheweekaugust172026",
+  "bb34eee6f6ab0ce8",
+  "mcl1priceoutlookmicrowticrudeoilfuturesholdabove0786supportp"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-17",
   "count": 60
  },
- "last_run": "2026-08-17T17:05:13.666262+03:00",
+ "last_run": "2026-08-17T17:10:14.590803+03:00",
  "sent_stories": [
   {
    "d": "2026-08-14",
