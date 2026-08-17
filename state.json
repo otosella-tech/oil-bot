@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "cfa35d4bb55dae7a",
-  "iranhangsprotesterdetainedamidjanuarydemonstrations",
   "a5174dbdddf552f1",
   "iranianmpcallsforneighboringpersiangulfrulerstoberevengetarg",
   "820fcd61dd0b3d4a",
@@ -603,7 +601,9 @@
   "682482129fdd2465",
   "irantajikistanfinalizingfuelexportagreementthediplomatasia",
   "89ff1813aedf82a1",
-  "massiveoilspilloffomancoastthreatensmarineecosystems"
+  "massiveoilspilloffomancoastthreatensmarineecosystems",
+  "adc8713efc8bc33a",
+  "automationcouldstarteatingintousdieseldemand"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 3
  },
- "last_run": "2026-08-18T00:55:11.967164+03:00",
+ "last_run": "2026-08-18T01:00:07.792667+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
