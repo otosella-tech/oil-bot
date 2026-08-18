@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "5e2ac9ef7525089f",
-  "sensexdown300ptsniftynear24300elevatedcrudeoilpricesamongkey",
   "2c581c35fb781176",
   "waithowmuchoilisactuallyleavingthepersiangulf",
   "ba5f6a7fea983552",
@@ -603,7 +601,9 @@
   "15c281bc65962485",
   "oilpricesrisetonear3wkhighamidlittleprogresstowardsusiranpea",
   "329b2b476a33a526",
-  "oilpriceexceeds90dollars"
+  "oilpriceexceeds90dollars",
+  "463d2035d5d74284",
+  "crudeoilclimbsforthirdstraightdayasussignalsnoimmediateendto"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-08-18T08:30:17.007920+03:00",
+ "last_run": "2026-08-18T08:35:12.511778+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1092,6 +1092,10 @@
   {
    "d": "2026-08-18",
    "t": "Oil prices rise to near 3-wk high amid little progress towards U.S.-Iran peace - Investing.com"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Crude oil climbs for third straight day as US signals no immediate end to Iran war; Brent above $90 per barrel - TradingView"
   }
  ]
 }
