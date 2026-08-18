@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "2e6099e801609f19",
-  "currentpriceofoilasofaugust72026",
-  "8074ddcdd373a64f",
-  "currentpriceofoilasofaug172026",
-  "4c7cbd757328007f",
-  "whyhasoilnotralliedto150orhigher",
   "7cbcac4f0045c6c6",
   "abandonedrussiantankerleakingoiloffomancoastthreateningenvir",
   "8063d4347fceb360",
@@ -603,7 +597,13 @@
   "35cf74e18be10174",
   "usenergysecretaryworlddoesnotneediranianoiluscontrolshormuz",
   "3f81da836f2b5245",
-  "bigoilsliabilitiesareshrinkingwhatsnext"
+  "bigoilsliabilitiesareshrinkingwhatsnext",
+  "06f2221eff0dd4c9",
+  "currentpriceofoilasofaug182026",
+  "609e7587e3a2c8c8",
+  "russiancrudeoilproductionentersneweraofconstraint",
+  "b293a8f74a06c5fb",
+  "pesrenewedinterestinoilandgas8deals"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T14:05:13.874662+03:00",
+ "last_run": "2026-08-18T14:10:15.910524+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
