@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "51451f863c05f9ef",
-  "currentpriceofoilasofaugust112026",
   "4568f51b253b6aeb",
   "ukrainehasshatteredthemythofrussianmilitarymight",
   "0cacc71bf89a6a2a",
@@ -603,7 +601,9 @@
   "6ed7f5329d79b285",
   "techstockspullnasdaqcompositedown",
   "159cc08a9b1e2deb",
-  "canadasoilproducerstargetlate2027forpathwayscarboncapturedec"
+  "canadasoilproducerstargetlate2027forpathwayscarboncapturedec",
+  "15c3220e33f1f09c",
+  "russiapushesaheadwithuzbekistannuclearplansdespitemoneytroub"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T20:55:15.037111+03:00",
+ "last_run": "2026-08-18T21:00:28.053982+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1296,6 +1296,10 @@
   {
    "d": "2026-08-18",
    "t": "Oil Futures Rise as Trump Says No Iran Talks Scheduled - WSJ"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Russia Pushes Ahead With Uzbekistan Nuclear Plans Despite Money Troubles"
   }
  ]
 }
