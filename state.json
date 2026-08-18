@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "259f08dba9fc5c08",
-  "unprofitableoilhedgesspurarethinkamongcanadianproducers",
-  "95a9cecfbfed0ed9",
-  "brentoilrisesabove90asiranrulesoutinterimdealextensionthreat",
   "47012689cd678562",
   "afterrefineryexplosionscalifornialawmakersmovetopreservesafe",
   "67b7356372d010c9",
@@ -603,7 +599,11 @@
   "7c6ad4fa5ddfe8ca",
   "gaspricesclimbinoregonandnationwidedrivenbyhormuzclosureamid",
   "25cd1beb97ea404f",
-  "iranhaslostsignificantcontrolofthestraitofhormuz"
+  "iranhaslostsignificantcontrolofthestraitofhormuz",
+  "9073bb2531de240c",
+  "tradingdaybondsslamstocks",
+  "7e618c3f0b55247d",
+  "iraqapprovesthreemonthmechanismforcrudeoilexportsvialocalint"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 2
  },
- "last_run": "2026-08-19T00:25:11.846809+03:00",
+ "last_run": "2026-08-19T00:30:18.912250+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
