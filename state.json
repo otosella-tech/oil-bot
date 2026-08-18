@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "8caaccbbec72c079",
-  "oilpricesmixedmaybebuoyedamiddeadlockinusirantalks",
   "d4bcd20b01fef85e",
   "asiansharesmarktimeasgulfwarkeepsoilpricesup",
   "a83cd3335f13f134",
@@ -603,7 +601,9 @@
   "db2359061cd436c1",
   "asiasharesdeclineasworriesaboutrisingoilpricesoutweighperksf",
   "0a73974b8ef42dd0",
-  "canadiandollarholdsnearearlyjunehighasrisingoilpricesoffsetm"
+  "canadiandollarholdsnearearlyjunehighasrisingoilpricesoffsetm",
+  "75d6f2f9a16f5bee",
+  "crudeoilpriceforecast2026why80maynothold"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 9
  },
- "last_run": "2026-08-18T06:40:17.284858+03:00",
+ "last_run": "2026-08-18T06:45:17.418565+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
