@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "94206ded52d3bb0f",
-  "newsyriairaqcrudepipelinestillyearsawaysourcessay",
   "677a5027f0ab032d",
   "kazakhstansjulycrudeoiloutputslumps12aftercpcattacks",
   "5e48b4f03a46e6d1",
@@ -603,7 +601,9 @@
   "506fa07ce71ec8ac",
   "analysiscanadaspipelineambitionshingeonuncertainoutputexpans",
   "19be3a958f8651ae",
-  "brazilspresidentsaysamazonoilispassporttothefuture"
+  "brazilspresidentsaysamazonoilispassporttothefuture",
+  "3f5e7917e45420cb",
+  "houthisclaimthirdattackonsaudiaramcorefineryintwoweeks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T13:25:13.159899+03:00",
+ "last_run": "2026-08-18T13:30:19.063275+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1168,6 +1168,10 @@
   {
    "d": "2026-08-18",
    "t": "Oil Prices Reach Near Three-Week High as US-Iran Peace Prospects Deteriorate - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks"
   }
  ]
 }
