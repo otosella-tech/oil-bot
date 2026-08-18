@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "304dc23e62cd655c",
-  "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025",
   "0694eb403a923faa",
   "somefeaturesofexplorationdirectionsforassessingthepotentialo",
   "64a4f855638b8e95",
@@ -603,7 +601,9 @@
   "3096e2f9164c58b7",
   "sensexniftytradelowerascrudeoilpricesreboundto91oniranustens",
   "2c581c35fb781176",
-  "waithowmuchoilisactuallyleavingthepersiangulf"
+  "waithowmuchoilisactuallyleavingthepersiangulf",
+  "3e1077de93b5eabd",
+  "oilpricetodayaugust18crudeoilcrosses91barrelamidfadingusiran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 29
  },
- "last_run": "2026-08-18T08:55:11.921193+03:00",
+ "last_run": "2026-08-18T09:00:21.247536+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
