@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "c410620f020cfda8",
-  "oilpricesriseafterusblockssurpriseattackfromiran",
   "e02fa76c98d4e45e",
   "60crudenot150juliusbaersmarkmatthewsseesoilfallingandrupeepr",
   "79b76b6092d70def",
@@ -603,7 +601,9 @@
   "1c5a8649afe6a8e8",
   "augustgaspricesreachrecordhighsinohioascrudeoilcostsclimb",
   "41d265ff90cc7a4b",
-  "globalbondroutdeepensasoilholdsabove90"
+  "globalbondroutdeepensasoilholdsabove90",
+  "66fb45a80570a7a5",
+  "willgaspricesfallifcompaniesbuildoilroutesthatbypassthestrai"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 52
+  "count": 54
  },
- "last_run": "2026-08-18T12:25:14.004550+03:00",
+ "last_run": "2026-08-18T12:30:17.672209+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1140,6 +1140,10 @@
   {
    "d": "2026-08-18",
    "t": "Saudi Arabia resumes oil loadings, sales from inside Strait of Hormuz - Reuters"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Will gas prices fall if companies build oil routes that bypass the Strait of Hormuz? Experts explain - ABC News - Breaking News, Latest News and Videos"
   }
  ]
 }
