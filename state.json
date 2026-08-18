@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "0694eb403a923faa",
-  "somefeaturesofexplorationdirectionsforassessingthepotentialo",
-  "64a4f855638b8e95",
-  "wticrudeoilpricessliptoward80mondaymorningasiranstandoffkeep",
   "332d4beaeee7549d",
   "stockmarketsdeclineinearlytradeamidrisingcrudeoilprices",
   "7f924feca1dfe18a",
@@ -603,7 +599,11 @@
   "2c581c35fb781176",
   "waithowmuchoilisactuallyleavingthepersiangulf",
   "3e1077de93b5eabd",
-  "oilpricetodayaugust18crudeoilcrosses91barrelamidfadingusiran"
+  "oilpricetodayaugust18crudeoilcrosses91barrelamidfadingusiran",
+  "bd57a34412e4b2a0",
+  "shipattackedinhormuzstraitasusiranceasefireexpiryrisksprolon",
+  "19fd91c4774c1c4c",
+  "soilsshaheenprojecttoboostkoreaspetrochemicalcompetitiveness"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-08-18T09:05:13.466427+03:00",
+ "last_run": "2026-08-18T09:10:15.863729+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1096,6 +1096,10 @@
   {
    "d": "2026-08-18",
    "t": "Crude oil climbs for third straight day as US signals no immediate end to Iran war; Brent above $90 per barrel - TradingView"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict - CNBC"
   }
  ]
 }
