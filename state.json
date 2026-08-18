@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "61d25189bf9fe934",
-  "centcomchiefmeetswithtroopsaboardussabrahamlincolnamidmorale",
   "73a81e73838fd3af",
   "canadianoilfindsgrowingmarketinasiaastransmountainfillsup",
   "e71331fc43b2c7b5",
@@ -603,7 +601,9 @@
   "9505cce77530264f",
   "dangotevitolalphambmwhowillwineastafricasoilrefineryrace",
   "310656adaf168522",
-  "iraqsyriaoilpipelinecouldcostatleast15bntakefouryearstobuild"
+  "iraqsyriaoilpipelinecouldcostatleast15bntakefouryearstobuild",
+  "d7cfb93055795091",
+  "usstockfuturesfallasfadingiranpeaceprospectsdriveupoilyields"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T15:20:15.723225+03:00",
+ "last_run": "2026-08-18T15:25:13.490691+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1184,6 +1184,10 @@
   {
    "d": "2026-08-18",
    "t": "US Energy Secretary: World Does Not Need Iranian Oil, US Controls Hormuz - iranwire.com"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "US stock futures fall as fading Iran peace prospects drive up oil, yields - Reuters"
   }
  ]
 }
