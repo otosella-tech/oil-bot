@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "c3d16995c749e551",
-  "whatsaffectingoilpricesthisweekaug172026",
   "5b14fb1b1f678b3e",
   "usdieselcracksurpasses100abarrelforthefirsttimeonsupplydisru",
   "259f08dba9fc5c08",
@@ -603,7 +601,9 @@
   "6b73f62d14022158",
   "distillatestockssinkfurtherasuscrudeinventoriesbarelybudge",
   "760044611e2bb01f",
-  "oilprivatesurveyofinventoryshowsheadlinecrudeoildrawandhuged"
+  "oilprivatesurveyofinventoryshowsheadlinecrudeoildrawandhuged",
+  "7c6ad4fa5ddfe8ca",
+  "gaspricesclimbinoregonandnationwidedrivenbyhormuzclosureamid"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -615,83 +615,11 @@
   "Brent": 91.43
  },
  "llm": {
-  "date": "2026-08-18",
-  "count": 60
+  "date": "2026-08-19",
+  "count": 1
  },
- "last_run": "2026-08-19T00:10:15.198703+03:00",
+ "last_run": "2026-08-19T00:15:14.862036+03:00",
  "sent_stories": [
-  {
-   "d": "2026-08-15",
-   "t": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz - Reuters"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Somali Piracy Surges Amid Hormuz Blockade"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Will Chinese Oil Imports Rebound After the Iran War? - maritime-executive.com"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Iran defiant on strait as Trump tells Americans to accept high gas prices - Reuters"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Hormuz Stalemate Raises Risk of $120 Oil - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Iran hits back after Trump says he may declare Hormuz US territory - Iran International"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Oil climbs over US$1 on tanker attacks, no progress on peace - The Business Times"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Sheskharis terminal in Russia's Novorossiysk suspends operations after drone attack – Reuters - Українська правда"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Ukraine War, Day 1,634: Russia’s Killing of Civilians Highest Since March 2022 - EA WorldView"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "U.S. crude oil pushes past $82/bbl as hopes fade for Hormuz deal (USO:NYSEARCA) - Seeking Alpha"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "UAE’s ADNOC vessel attacked as Hormuz traffic grinds to near halt - The Arab Weekly"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting - The New York Times"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Iran war shows China's role in setting the price of oil - axios.com"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "After refinery explosions, California lawmakers move to preserve safety rules - CalMatters"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening - reuters.com"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices - reuters.com"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Saudi crude shipments to the U.S. hit zero as Hormuz disruption reshapes global freight costs - MarketScale"
-  },
-  {
-   "d": "2026-08-15",
-   "t": "Russia's Oil Industry Is Running Out of Room to Absorb More Shocks"
-  },
   {
    "d": "2026-08-16",
    "t": "Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz - The New York Times"
