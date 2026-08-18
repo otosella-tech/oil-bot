@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "b69f76c4f87d6021",
-  "crudeoiltradingalerttrafficthroughthestraitofhormuzplummeted",
   "6ff0986acc647020",
   "uscrudeoilinventoriesseesurprisebuildapi",
   "13dc7cfee014badb",
@@ -603,7 +601,9 @@
   "092da58e0ffd13d4",
   "crudeoilpriceforecastirantensionspushbrenttoward100",
   "7aa85b3ddc6b7dab",
-  "uscopperimportshita12yearrecordaslmestockscrash"
+  "uscopperimportshita12yearrecordaslmestockscrash",
+  "c27849f59da76fe9",
+  "us"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-08-18T07:35:15.579424+03:00",
+ "last_run": "2026-08-18T07:40:16.156459+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1072,6 +1072,10 @@
   {
    "d": "2026-08-18",
    "t": "U.S. Copper Imports Hit a 12-Year Record as LME Stocks Crash - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records"
   }
  ]
 }
