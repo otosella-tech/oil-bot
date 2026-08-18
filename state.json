@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "73a81e73838fd3af",
-  "canadianoilfindsgrowingmarketinasiaastransmountainfillsup",
-  "e71331fc43b2c7b5",
-  "aaafloridagaspricesdriftlowerdespiterisingoilprices",
   "fe809731665d8543",
   "asiansharesaremostlyhigherwhileusfuturesandoilpric",
   "8a45ca628d347281",
@@ -603,7 +599,11 @@
   "310656adaf168522",
   "iraqsyriaoilpipelinecouldcostatleast15bntakefouryearstobuild",
   "d7cfb93055795091",
-  "usstockfuturesfallasfadingiranpeaceprospectsdriveupoilyields"
+  "usstockfuturesfallasfadingiranpeaceprospectsdriveupoilyields",
+  "5a68a0b9c41b2318",
+  "tankersu",
+  "14ad5f8703e2b988",
+  "crudeoilfuturesrisetrackingglobaltrends"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T15:25:13.490691+03:00",
+ "last_run": "2026-08-18T15:30:18.004481+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1188,6 +1188,10 @@
   {
    "d": "2026-08-18",
    "t": "US stock futures fall as fading Iran peace prospects drive up oil, yields - Reuters"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Tankers U-Turn at Hormuz as Iran Tightens Its Grip"
   }
  ]
 }
