@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "395d44f306b6ba11",
-  "brentcrudeoilpriceissurroundedbypositivepressureanalysis1708",
-  "d6daf2ed788a5839",
-  "priceofoildrops",
-  "634fcdccbdf066c0",
-  "tickpopulationsgrowinoilregionwhattoknowaboutdiseaserisksand",
   "86e8760ab0d237fe",
   "theamericaschallengetomiddleeastoilwontletup",
   "ad067cfd77dc2d9c",
@@ -603,7 +597,13 @@
   "92ecba803de63535",
   "oilpricesup170826",
   "4c2d6538f70cf0ff",
-  "crudeoilrisesonreportsofiranadoptingmoreoffensivestance"
+  "crudeoilrisesonreportsofiranadoptingmoreoffensivestance",
+  "1a95fa254fb1eac1",
+  "saudiaramcoofferscrudeoutsidehormuz",
+  "a47918134cd62d4a",
+  "golddriftslowerasoildriveninflationrisksandusirantensionsbol",
+  "e8bbc958faafd25b",
+  "soils7bshaheenprojectnearscompletionaimstorevivekoreassaggin"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 23
+  "count": 25
  },
- "last_run": "2026-08-18T08:10:15.868392+03:00",
+ "last_run": "2026-08-18T08:15:16.504903+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1084,6 +1084,10 @@
   {
    "d": "2026-08-18",
    "t": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Saudi Aramco Offers Crude Outside Hormuz - Marine News Magazine"
   }
  ]
 }
