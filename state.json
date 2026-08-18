@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "93d1169d181018fb",
-  "oilrisesoniranwarstalemateneartermpotentialforfurthergainsli",
   "06533e4dcf7e4643",
   "oilsteadyoniranwarstalemate",
   "628806d85dc364ea",
@@ -603,7 +601,9 @@
   "92b79badc70ed898",
   "usequityindexesfallas30yearyieldremainselevatedcrudeoiljumps",
   "9e3efbe19abc2373",
-  "running897milesfromaugandanlaketotheindianoceantheworldslong"
+  "running897milesfromaugandanlaketotheindianoceantheworldslong",
+  "198f903288546cc3",
+  "oilfuturesriseastrumpsaysnoirantalksscheduled"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T20:20:14.779924+03:00",
+ "last_run": "2026-08-18T20:25:13.865633+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1292,6 +1292,10 @@
   {
    "d": "2026-08-18",
    "t": "Saudis Offer to Sell Oil Near Oman, a Possible Sign They’re Sailing Dark Through Hormuz - bloomberg.com"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Oil Futures Rise as Trump Says No Iran Talks Scheduled - WSJ"
   }
  ]
 }
