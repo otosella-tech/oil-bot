@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "52e35352d08c6875",
-  "eveningupdateforcrudeoil17082026",
   "837877ac2d78b685",
   "trumpsrosyhormuzclaimscollidewithtankerdata",
   "6391b3428b668aaa",
@@ -603,7 +601,9 @@
   "8d68908d6c6697b4",
   "usnaturalgasfuturesclimbasoilpricesrise",
   "e687617530e0110f",
-  "theoilmarketsnextbigtestwarinflationandthemidterms"
+  "theoilmarketsnextbigtestwarinflationandthemidterms",
+  "17cf0b1e22e295a9",
+  "worriesaboutelevatedbondyieldscrudeoilpricesweighonwallstree"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T23:30:20.540221+03:00",
+ "last_run": "2026-08-18T23:35:12.080607+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
