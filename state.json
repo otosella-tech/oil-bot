@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "79b76b6092d70def",
-  "tajikistanandirandiscussfuelsuppliescrudeoilforrefineriesand",
   "f40f888ac2d5b7df",
   "faovegetableoilpriceindexup2injulytoreachhighestlevelsinceju",
   "d3a520d996fb3db9",
@@ -603,7 +601,9 @@
   "66fb45a80570a7a5",
   "willgaspricesfallifcompaniesbuildoilroutesthatbypassthestrai",
   "903047fec0ba364e",
-  "usstockfuturesdropasfadingiranpeacehopesliftoilbondyields"
+  "usstockfuturesdropasfadingiranpeacehopesliftoilbondyields",
+  "10fa9dfb4ee9f21c",
+  "willoilpriceskeeprising"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 55
  },
- "last_run": "2026-08-18T12:40:15.577821+03:00",
+ "last_run": "2026-08-18T12:45:14.744608+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
