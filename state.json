@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "f40f888ac2d5b7df",
-  "faovegetableoilpriceindexup2injulytoreachhighestlevelsinceju",
   "d3a520d996fb3db9",
   "brentcrudeoilpricetodayfuturesedgehigheramidwestasiauncertai",
   "3a26ad5253a9a049",
@@ -603,7 +601,9 @@
   "903047fec0ba364e",
   "usstockfuturesdropasfadingiranpeacehopesliftoilbondyields",
   "10fa9dfb4ee9f21c",
-  "willoilpriceskeeprising"
+  "willoilpriceskeeprising",
+  "8fd12523f7d34a9e",
+  "usstockfuturesdropasfadingiranpeacehopesliftoilbondyieldsbyr"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-08-18T12:45:14.744608+03:00",
+ "last_run": "2026-08-18T12:46:22.193571+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1144,6 +1144,10 @@
   {
    "d": "2026-08-18",
    "t": "Will gas prices fall if companies build oil routes that bypass the Strait of Hormuz? Experts explain - ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "US stock futures drop as fading Iran peace hopes lift oil, bond yields By Reuters - Investing.com"
   }
  ]
 }
