@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "bb34eee6f6ab0ce8",
-  "mcl1priceoutlookmicrowticrudeoilfuturesholdabove0786supportp",
-  "83723e5421c1b897",
-  "tajikistanplanstoboostoilproductimportsfromiran",
   "d888675337834aaf",
   "usirandeadlockpusheswtiabove82",
   "1fda734e496b8950",
@@ -603,7 +599,11 @@
   "49a611dca5e48a3d",
   "chinareroutestankerfleetawayfromhormuzandbabelmandeb",
   "6deef9f1a3572c9d",
-  "asoilprofitsskyrocketcallsforwindfalltaxesrise"
+  "asoilprofitsskyrocketcallsforwindfalltaxesrise",
+  "6a0dd617430eca3c",
+  "aformerfedpresidentsayswithoutthewariniranandtheoilspikenobo",
+  "cc693093bdce7b46",
+  "usoilgiantchevrondiscoversnewoilandgasoffshoreangolaasafrica"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T18:35:14.844789+03:00",
+ "last_run": "2026-08-18T18:39:46.311119+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-08-18",
    "t": "China Reroutes Tanker Fleet Away from Hormuz and Bab-el-Mandeb - IranWire"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "A Former Fed President Says Without the War in Iran and the Oil Spike, Nobody Would Even Be 'Talking About the Prospect of a Rate Increase' - Barchart.com"
   }
  ]
 }
