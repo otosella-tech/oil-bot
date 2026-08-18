@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "3088943091713227",
-  "currentpriceofoilasofaug112026",
-  "c696a082381d0c54",
-  "twoslicksappearingulfashugeoilspilloffomanthreatensdisaster",
   "395d44f306b6ba11",
   "brentcrudeoilpriceissurroundedbypositivepressureanalysis1708",
   "d6daf2ed788a5839",
@@ -603,7 +599,11 @@
   "e7519d5d2a24217d",
   "stockmarketsdeclineascrudeoiljumpsto91",
   "9cdb50dee61bdcfd",
-  "rebuildingvenezuelarequiresmorethancapital"
+  "rebuildingvenezuelarequiresmorethancapital",
+  "92ecba803de63535",
+  "oilpricesup170826",
+  "4c2d6538f70cf0ff",
+  "crudeoilrisesonreportsofiranadoptingmoreoffensivestance"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 23
  },
- "last_run": "2026-08-18T08:05:12.663973+03:00",
+ "last_run": "2026-08-18T08:10:15.868392+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
