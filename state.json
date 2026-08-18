@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "a0aaf63d11f49bd7",
-  "uscrudetops20ofkoreasoilimportsforfirsttime",
-  "7687ac8e97632246",
-  "dowfuturespullsbackascrudeoilvolatilitydeepensoverhormuzstan",
   "a243fe7355312136",
   "hormuzattackspushoiltoward100despiteuscrudebuild",
   "04d368fc881a41c7",
@@ -603,7 +599,11 @@
   "bd66f560ac6e8432",
   "brentcrudeoilrisesabove90",
   "454cd0759198f6c2",
-  "crudeoilfuturesoct6clmainus"
+  "crudeoilfuturesoct6clmainus",
+  "c587f52c4e234d0b",
+  "bondyieldsriseoilextendsgainsasusiranceasefireexpires",
+  "ab84c8f6d63eb0bb",
+  "oilclimbsasfadingusiranpeacehopesraisesupplyrisksbyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-08-18T10:20:13.952780+03:00",
+ "last_run": "2026-08-18T10:25:14.575195+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1124,6 +1124,14 @@
   {
    "d": "2026-08-18",
    "t": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman - The Guardian"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Bond yields rise, oil extends gains as US-Iran ceasefire expires - Reuters"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Oil climbs as fading US-Iran peace hopes raise supply risks By Reuters - Investing.com"
   }
  ]
 }
