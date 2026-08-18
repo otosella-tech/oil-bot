@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "628806d85dc364ea",
-  "usfuturesflattechsharesgainonanthropicrevenuejump",
-  "c9177971fd94cb8a",
-  "greekrunoiltankercomesunderattackinrussianblacksea",
   "51451f863c05f9ef",
   "currentpriceofoilasofaugust112026",
   "4568f51b253b6aeb",
@@ -603,7 +599,11 @@
   "198f903288546cc3",
   "oilfuturesriseastrumpsaysnoirantalksscheduled",
   "495fd956d6412feb",
-  "inchartslatinamericanoilgainsgroundinadisruptedglobalmarketa"
+  "inchartslatinamericanoilgainsgroundinadisruptedglobalmarketa",
+  "6ed7f5329d79b285",
+  "techstockspullnasdaqcompositedown",
+  "159cc08a9b1e2deb",
+  "canadasoilproducerstargetlate2027forpathwayscarboncapturedec"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T20:40:14.147688+03:00",
+ "last_run": "2026-08-18T20:44:44.876558+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
