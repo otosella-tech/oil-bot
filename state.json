@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "1e2a8921603c8a6e",
-  "venezuelatheno2oilexportertousrefiners",
   "366ac0ea4651bc02",
   "currentpriceofoilasofaug132026",
   "2efed9643f9b475e",
@@ -603,7 +601,9 @@
   "0b3161a65d2d9251",
   "asiansharesslipasworriesaboutrisingoilpricesoffsetboostfroms",
   "c4ae2935a70d65ac",
-  "despitepipelinetalkshormuzwillremainkeytoiraqsoilexports"
+  "despitepipelinetalkshormuzwillremainkeytoiraqsoilexports",
+  "507c6c9a1263f549",
+  "oilsupertankerearningsonmideastroutenear510000aday"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 45
+  "count": 46
  },
- "last_run": "2026-08-18T10:45:16.365711+03:00",
+ "last_run": "2026-08-18T10:50:15.112919+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
