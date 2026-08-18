@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "b60d74c0982b7ade",
-  "egyptandlibyaplan1billionpipelinetobypasshormuzdisruptions",
-  "95d5201656ea5348",
-  "newaerialvideorevealshugescaleofoilspilloffoman",
-  "01ac6e75145ba80d",
-  "oilpricessteadyafterstrongweeklygainsasiranandhormuzrisksper",
   "98b00f24811efd85",
   "crudeoiledgesup",
   "376ae6d7943bb600",
@@ -603,7 +597,13 @@
   "1f1dcf5bf2626bf5",
   "petrobrasconfirmsoildiscoveryatmouthofamazonriverinamap",
   "68068cd750d83b3e",
-  "bitcoinpausesat64000asrisingyieldsoildragequitieslower"
+  "bitcoinpausesat64000asrisingyieldsoildragequitieslower",
+  "22caef302433fd14",
+  "brentcrudeexpectedtoaverageat76perbarrelbyyearendbofasurvey",
+  "bf4cdb4bb91670ad",
+  "globalsharesslipasworriesaboutrisingoilpricesoffsetboostfrom",
+  "1f47c4bef9479bcc",
+  "indiascentralbankintervenesacrossmarketstosteadyrupeeasoilus"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T13:50:18.544364+03:00",
+ "last_run": "2026-08-18T13:55:15.691475+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
