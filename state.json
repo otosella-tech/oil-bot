@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "3003e1cb856c8f52",
-  "tankersalvageandoilspillcleanuphamperedbyweatherandtechnical",
-  "2e0958a3d17c30c9",
-  "chinasjulyoilthroughputpostsfirstmonthonmonthrisesinceiranwa",
-  "c5826b6ea8a00675",
-  "energycrisismuchbiggerthantheoilshockisbrewingoutthere",
   "fdf3606ec9ef6fc4",
   "consultationendingoncontroversialrosebankoilfield",
   "f4389a6856bdcbf6",
@@ -603,7 +597,13 @@
   "249f4f97d9df7f6e",
   "hereisalistofcanadascurrentandproposedoilpipelines",
   "1379d5beab5088f9",
-  "gulfto"
+  "gulfto",
+  "40ce6c7e1aad15f1",
+  "usstockindexfuturesdropasbondyieldsoilpricesrise",
+  "1c7dfb2954274328",
+  "gulftochinasupertankerrateshit510000aday",
+  "1e55d89da8dc5f3d",
+  "posthasteanenergyshockmuchbiggerthanoilisbrewingoutthere"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T16:30:19.536247+03:00",
+ "last_run": "2026-08-18T16:35:14.852744+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-08-18",
    "t": "Gulf-to-China Supertanker Rates Hit $510,000 a Day"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Gulf-to-China Supertanker Rates Hit $510,000 a Day - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
