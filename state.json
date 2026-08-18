@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "fdf3606ec9ef6fc4",
-  "consultationendingoncontroversialrosebankoilfield",
-  "f4389a6856bdcbf6",
-  "chevronadvancesitsstrategicexplorationprogramwithdiscoveryin",
   "d01a7f6f7c7e7eaa",
   "forecastupdateforcrudeoil17082026",
   "febd53ac6f1713f6",
@@ -603,7 +599,11 @@
   "1c7dfb2954274328",
   "gulftochinasupertankerrateshit510000aday",
   "1e55d89da8dc5f3d",
-  "posthasteanenergyshockmuchbiggerthanoilisbrewingoutthere"
+  "posthasteanenergyshockmuchbiggerthanoilisbrewingoutthere",
+  "6f8d7304d54c7844",
+  "wticrudeoilforecasthormuzriskoverridesinventorysurge",
+  "2e0958a3d17c30c9",
+  "chinasjulyoilthroughputpostsfirstmonthonmonthrisesinceiranwa"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T16:35:14.852744+03:00",
+ "last_run": "2026-08-18T16:40:14.634216+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1220,6 +1220,14 @@
   {
    "d": "2026-08-18",
    "t": "Gulf-to-China Supertanker Rates Hit $510,000 a Day - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "WTI Crude Oil Forecast: Hormuz Risk Overrides Inventory Surge - Investing.com"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "China's July oil throughput posts first month-on-month rise since Iran war - Reuters"
   }
  ]
 }
