@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "50ccc9ca322fbc75",
-  "chinasurprisesoilmarketsagainwithareturntostockpilinginjuly",
   "ef6903ce707ca04f",
   "trumpsactionscausedpeopletodrinkmoremaharashtrabjpleadersuja",
   "ed62ae988ab614a4",
@@ -603,7 +601,9 @@
   "9462b9e06205797a",
   "wolferesearchseesoilpricesholdingsteadyamidusiranstandoff",
   "a596249b9160e13b",
-  "oilfuturescrudeconsolidatesgainsaspeacedealremainselusive"
+  "oilfuturescrudeconsolidatesgainsaspeacedealremainselusive",
+  "880a7c20e5943a3d",
+  "globalbondyieldshitmultidecadehighsasgovernmentspaythepricef"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-08-18T13:05:13.958820+03:00",
+ "last_run": "2026-08-18T13:10:13.980341+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1156,6 +1156,10 @@
   {
    "d": "2026-08-18",
    "t": "Wolfe Research sees oil prices holding steady amid US-Iran standoff - Investing.com"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Global bond yields hit multi-decade highs as governments pay the price for U.S.-Iran stalemate - CNBC"
   }
  ]
 }
