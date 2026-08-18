@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "c5013957bbe9d33c",
-  "currentpriceofoilasofaug122026",
   "bdb3f12afb0c1441",
   "aregaspricesupordowninyourareacheckthecostinfloridacities",
   "3003e1cb856c8f52",
@@ -603,7 +601,9 @@
   "3e98b384278c841e",
   "currentpriceofoilasofaugust172026",
   "1995a7d01a8cc9b2",
-  "africaslargestoilproducerappealstoinvestorsforover40billiont"
+  "africaslargestoilproducerappealstoinvestorsforover40billiont",
+  "249f4f97d9df7f6e",
+  "hereisalistofcanadascurrentandproposedoilpipelines"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T16:20:15.560844+03:00",
+ "last_run": "2026-08-18T16:25:16.033453+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-08-18",
    "t": "US stocks set for lower open as Iran stalemate lifts oil, yields - Reuters"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Here is a list of Canada’s current and proposed oil pipelines - BNN Bloomberg"
   }
  ]
 }
