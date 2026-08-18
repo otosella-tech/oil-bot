@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "2efed9643f9b475e",
-  "andyburnhamfacesclimatetestovernorthseaoildecision",
-  "e33069882ea3ab2e",
-  "indialetsdelayedrenewableprojectspaytokeepgridaccess",
-  "524627bef6c468d6",
-  "whyisntthepriceofoilevenhigher",
   "3277be21ee4cc05e",
   "thepermianbasinat2030howmuchbiggercanamericasgreatestoilfiel",
   "6f8791cfa2b767af",
@@ -603,7 +597,13 @@
   "507c6c9a1263f549",
   "oilsupertankerearningsonmideastroutenear510000aday",
   "857c3d16aa735adf",
-  "usstockindexfuturesdropasbondyieldsandoilpricesrise"
+  "usstockindexfuturesdropasbondyieldsandoilpricesrise",
+  "0afc71c9798ee307",
+  "chinaboostsfuelexportsasdomesticstockpilesswell",
+  "366ac0ea4651bc02",
+  "currentpriceofoilasofaug132026",
+  "e34b4bc276efe25f",
+  "chinasstateshippersdeployoiltankersoutsidegulfavoidchokepoin"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 46
+  "count": 47
  },
- "last_run": "2026-08-18T11:00:20.866055+03:00",
+ "last_run": "2026-08-18T11:05:13.208784+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
