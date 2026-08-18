@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "a86fd61f1ff5465c",
-  "goldsreboundfacesadoubleheadwindyieldsandoil",
-  "0b3f5cd3d9e6b98b",
-  "usstrategicoilreservefallstolowestlevelsince1982",
   "c8baab84ef3c3e35",
   "chevronstrikesoilandgasoffshoreangolainmajordiscovery",
   "6298611e9e0dea77",
@@ -603,7 +599,11 @@
   "a34b8d54e196cf91",
   "oilnears92onuaemissilealertastrumpclaimsirantalksstuckal",
   "5843264c1b8f7aac",
-  "septemberwticrudeoilcontractclosesup044or05settlesat8494perb"
+  "septemberwticrudeoilcontractclosesup044or05settlesat8494perb",
+  "135661ead9cdf702",
+  "twoshipstransitingstraitofhormuzareattackedasoilpricesrise",
+  "1ba50e6291ba7f2a",
+  "cnergyicoincreasesuscrudetoreducerisks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T21:45:14.702845+03:00",
+ "last_run": "2026-08-18T21:50:15.166013+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1316,6 +1316,10 @@
   {
    "d": "2026-08-18",
    "t": "Oil nears $92 on UAE missile alert as Trump claims Iran talks stuck - Al-Monitor"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Two Ships Transiting Strait of Hormuz Are Attacked as Oil Prices Rise - The New York Times"
   }
  ]
 }
