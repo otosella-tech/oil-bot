@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "c0ae3ba2e0cc897b",
-  "calthomaswhycantwefixtheoilproblem",
   "3a2356efd41a1bdb",
   "surgingcrudeoilpricescontributetoweaknessonwallstreet",
   "fcd350e9ab298c4f",
@@ -603,7 +601,9 @@
   "5544e88532260466",
   "chinasetsnew2030targetsfornaturalgaslnginfrastructuredevelop",
   "d1acbd192d113d6e",
-  "theusisquietlybuildinganewenergyfootholdiniraq"
+  "theusisquietlybuildinganewenergyfootholdiniraq",
+  "25b706193ac20bfd",
+  "asingleelectricwirerunsthewhole897milesfromaugandanlaketothe"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 5
  },
- "last_run": "2026-08-19T02:00:21.032651+03:00",
+ "last_run": "2026-08-19T02:03:25.162768+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
