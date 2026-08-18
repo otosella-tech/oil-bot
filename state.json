@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "606a6af734532510",
-  "iranrejectsextensionofusmoucrudeoilp",
   "011d7aa9577a2647",
   "saudiaramcoofferscrudeoiloutsidehormuztosomeasianrefiners",
   "2eec17c6216d4ec7",
@@ -603,7 +601,9 @@
   "b4cda3c9882b7188",
   "russianespoblendcrudeoiljumpsbacktopremiumvsbrentonchinadema",
   "c2c27fbe034a73de",
-  "jeffcurrieforget91brenttherealcrisisis170diesel"
+  "jeffcurrieforget91brenttherealcrisisis170diesel",
+  "12c676e7b1b03c38",
+  "howgulfoilisescapingthestraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T17:55:14.751875+03:00",
+ "last_run": "2026-08-18T18:00:24.639670+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-08-18",
    "t": "Nigeria's Dangote Refinery secures $1 billion underwriting ahead of IPO - Reuters"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "How Gulf Oil Is Escaping the Strait of Hormuz"
   }
  ]
 }
