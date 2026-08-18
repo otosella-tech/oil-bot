@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "2eec17c6216d4ec7",
-  "ukinflationsettoreboundasenergybillssurge",
   "526808d4d79a09c7",
   "gbpusdforecastcurrencypairoftheweekaugust172026",
   "bb34eee6f6ab0ce8",
@@ -603,7 +601,9 @@
   "12c676e7b1b03c38",
   "howgulfoilisescapingthestraitofhormuz",
   "e2adb91b698b2284",
-  "chinaoilimportsjump22evenaseconomicdatadisappoints"
+  "chinaoilimportsjump22evenaseconomicdatadisappoints",
+  "49a611dca5e48a3d",
+  "chinareroutestankerfleetawayfromhormuzandbabelmandeb"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T18:15:16.948625+03:00",
+ "last_run": "2026-08-18T18:20:18.352818+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1260,6 +1260,10 @@
   {
    "d": "2026-08-18",
    "t": "How Gulf Oil Is Escaping the Strait of Hormuz"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "China Reroutes Tanker Fleet Away from Hormuz and Bab-el-Mandeb - IranWire"
   }
  ]
 }
