@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "ba0c5020f426aef5",
-  "updateequitymarketsfallintradayoilrisesamidmiddleeasttension",
-  "e1caad2d6421c8f1",
-  "usstrategicreservesaregettingsolowitthreatensdamagingthe60un",
   "df0769ad5803a403",
   "oilstockstowatchascrudepricesstayelevated",
   "de6e6b0d88225f53",
@@ -603,7 +599,11 @@
   "a22363cf58ee1d12",
   "oilclosesatthreeweekhighashopesofusiranpeacedealfade",
   "64fda85b43f1eeda",
-  "twoshipspassingthroughthestraitofhormuzareattacked"
+  "twoshipspassingthroughthestraitofhormuzareattacked",
+  "6ca88c902a6afc0e",
+  "only7ofglobalgreenhydrogencapacitywasfinishedonschedule",
+  "8139b8829bb6aa3c",
+  "lowercrudeoilpricesdrivingdownnationalaverage"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T22:55:12.293492+03:00",
+ "last_run": "2026-08-18T23:00:22.182487+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
