@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "a243fe7355312136",
-  "hormuzattackspushoiltoward100despiteuscrudebuild",
   "04d368fc881a41c7",
   "crudeoilmayfallto60abarrelindiatobenefitsaysjuliusbaersmarkm",
   "ef26a3971393e4ee",
@@ -603,7 +601,9 @@
   "c587f52c4e234d0b",
   "bondyieldsriseoilextendsgainsasusiranceasefireexpires",
   "ab84c8f6d63eb0bb",
-  "oilclimbsasfadingusiranpeacehopesraisesupplyrisksbyreuters"
+  "oilclimbsasfadingusiranpeacehopesraisesupplyrisksbyreuters",
+  "921eebadbeac1953",
+  "halliburtonhalriseswithoilshockasfairvaluenarrativestaysinfo"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 43
  },
- "last_run": "2026-08-18T10:25:14.575195+03:00",
+ "last_run": "2026-08-18T10:30:18.999521+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
