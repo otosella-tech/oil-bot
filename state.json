@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "ce9b91efc34dbbb6",
-  "tankerattackscausesharpdropinstraitofhormuzshipping",
   "22f41ddc04e908ea",
   "crudeoilpricessliptoward80mondaymorningasiranstandoffkeepsma",
   "0498896c00457b2b",
@@ -603,7 +601,9 @@
   "c1f4b0d45862c114",
   "sprstoragesites",
   "1d918606d7c1d912",
-  "currentpriceofoilasofaugust142026"
+  "currentpriceofoilasofaugust142026",
+  "cba52e2f5ef564e8",
+  "usequityindexesslideaftertrumpsthreatstobombomanliftscrudeoi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 9
  },
- "last_run": "2026-08-18T06:20:14.429122+03:00",
+ "last_run": "2026-08-18T06:25:14.503612+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
