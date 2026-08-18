@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "d1f245fac3934516",
-  "russiasblackseanovorossiyskportresumesoilloadingsafterdronea",
   "15033a4462cc2eb3",
   "scantohostfolsomdemonstratingstilllifeinoil",
   "3e98b384278c841e",
@@ -603,7 +601,9 @@
   "514909d4361175a1",
   "chinaeyespeakoildemandby2030amidpipelineincreasesmartrigtech",
   "a13d40bff161c75a",
-  "viewhormuzlimboisnowglobaloilstoprisk"
+  "viewhormuzlimboisnowglobaloilstoprisk",
+  "59eeb73abce88db0",
+  "bondyieldsjumpandstocksslipasiranstalemateunsettlesinvestors"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T15:40:16.462545+03:00",
+ "last_run": "2026-08-18T15:45:16.826691+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-08-18",
    "t": "View / Hormuz limbo is now global oil’s top risk - Semafor"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Bond Yields Jump and Stocks Slip as Iran Stalemate Unsettles Investors - The New York Times"
   }
  ]
 }
