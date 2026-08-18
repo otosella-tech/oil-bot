@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "5fcb94bd433f09a2",
-  "crudeoilswingsonmonday",
-  "29bb081d71003c83",
-  "currentpriceofoilasofaugust62026",
-  "c2296bceb02d170a",
-  "sanderosionchallengesinoilandgasmonitoringsolutions",
   "7826e98cdb54a71c",
   "ieaemergencyreservewithdrawalsslow",
   "b64b703d2ce5ebbc",
@@ -603,7 +597,13 @@
   "29e9522eaed9d982",
   "usoilgiantdiscoversnewoilandgasoffshoreangolaasafricassecond",
   "e7ca92ce82ee6dec",
-  "fourfirmsand15peopleindictedinoilscandal"
+  "fourfirmsand15peopleindictedinoilscandal",
+  "939ce7e9d2dd463d",
+  "techstocksslidewithbondyieldsatdecadehighs",
+  "ec33de052ea757a8",
+  "shipattackinhormuzkillscrewmemberwhiletrumpsaysstraitisopena",
+  "9c98fba4684c614c",
+  "eiaseesmassiveuptickinuscrudeoilinventories"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T21:13:06.770801+03:00",
+ "last_run": "2026-08-18T21:15:16.725471+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1300,6 +1300,10 @@
   {
    "d": "2026-08-18",
    "t": "Russia Pushes Ahead With Uzbekistan Nuclear Plans Despite Money Troubles"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Ship attack in Hormuz kills crew member while Trump says strait is 'open and operating' - CNBC"
   }
  ]
 }
