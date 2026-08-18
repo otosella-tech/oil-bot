@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "3d1a295913df8419",
-  "hormuzshippingtrafficdropssharply",
   "91cdbd1ca7178faf",
   "oilrisesasusiranpeacetalksstallhormuzshippingslows",
   "c9a627e58813af1f",
@@ -603,7 +601,9 @@
   "a182e4579aef0b5a",
   "georgiasonlyrefineryditchesrussiancrudeoil",
   "748fd0e1f0c52684",
-  "oilstocksretailinvestorsarescreeningascrudepricesclimb"
+  "oilstocksretailinvestorsarescreeningascrudepricesclimb",
+  "fc5ecdccf058e9a8",
+  "chinaisbalancingasiascrudeoildemandbyitself"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 37
  },
- "last_run": "2026-08-18T09:45:15.906859+03:00",
+ "last_run": "2026-08-18T09:50:15.814331+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
