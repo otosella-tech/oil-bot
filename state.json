@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "e02fa76c98d4e45e",
-  "60crudenot150juliusbaersmarkmatthewsseesoilfallingandrupeepr",
   "79b76b6092d70def",
   "tajikistanandirandiscussfuelsuppliescrudeoilforrefineriesand",
   "f40f888ac2d5b7df",
@@ -603,7 +601,9 @@
   "41d265ff90cc7a4b",
   "globalbondroutdeepensasoilholdsabove90",
   "66fb45a80570a7a5",
-  "willgaspricesfallifcompaniesbuildoilroutesthatbypassthestrai"
+  "willgaspricesfallifcompaniesbuildoilroutesthatbypassthestrai",
+  "903047fec0ba364e",
+  "usstockfuturesdropasfadingiranpeacehopesliftoilbondyields"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 54
+  "count": 55
  },
- "last_run": "2026-08-18T12:35:11.289947+03:00",
+ "last_run": "2026-08-18T12:40:15.577821+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
