@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "6298611e9e0dea77",
-  "goldforecastunderminedbyrisingyieldsandoilprices",
-  "9560e0b7c4e759ba",
-  "trumpthreatenstobombomanyetoilpricessuddenlyplungethreediver",
-  "0ac88aab99f05289",
-  "greekruntankercarryingrussianoilattackedinblackseabloomberg",
   "0214a7c3b8a34cfe",
   "dxyeurusdaudusdusdcadgoldoilweeklytechnicaloutlook",
   "f36efb4c7be12b80",
@@ -603,7 +597,13 @@
   "1ba50e6291ba7f2a",
   "cnergyicoincreasesuscrudetoreducerisks",
   "d75041f9e84bf177",
-  "iranislosingcontrolofthestraitofhormuz"
+  "iranislosingcontrolofthestraitofhormuz",
+  "c7dd4c9fdc6e6e11",
+  "a4million",
+  "c3614f77d652f24d",
+  "updateequitiesfalloilrisesastrumpsaysusnotintalkswithiran",
+  "f86ef8c8bf5c41ff",
+  "nasdaq100forecaststockstakeadipamidpressurefromyieldsandoilp"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T21:58:21.017524+03:00",
+ "last_run": "2026-08-18T22:00:24.264426+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1324,6 +1324,10 @@
   {
    "d": "2026-08-18",
    "t": "Iran is losing control of the Strait of Hormuz - CNN"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "A 4-Million-Bpd Shadow Oil Highway Is Running Through Hormuz"
   }
  ]
 }
