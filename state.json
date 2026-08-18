@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "f7e662611df0784b",
-  "trumpcontradictsvancesaysnukesnotoilpricesno1priorityiniran",
   "190d472842a3df2f",
   "energydepartmentsayspermianbasinmidlanddrivingnationalenergy",
   "95c60216f85b66ab",
@@ -603,7 +601,9 @@
   "8e5ded9a14cc1ff8",
   "baghdadapprovestooltoexportcrudeoil",
   "5a6ab641305acc66",
-  "oilpricesreturnto91energystocksnearrecordhighswhyisthisrally"
+  "oilpricesreturnto91energystocksnearrecordhighswhyisthisrally",
+  "7894a9ea1d54debd",
+  "evsalesarerisingafterthegulfoilshockhereswhere"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 7
  },
- "last_run": "2026-08-19T02:50:16.276061+03:00",
+ "last_run": "2026-08-19T02:53:15.037041+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
