@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "d9cce96ba28ad8e9",
-  "yourfridayaug14guidefivethingstodointheoilcity",
-  "4446677932bfa7b7",
-  "shippingslowsthroughstraitofhormuzaftertankerattacksdatashow",
-  "9209483869e7fa55",
-  "oilpricetodayaugust17crudeoilapproaches90againamidnobreakthr",
   "b69f76c4f87d6021",
   "crudeoiltradingalerttrafficthroughthestraitofhormuzplummeted",
   "6ff0986acc647020",
@@ -603,7 +597,13 @@
   "479449be487829f3",
   "currentpriceofoilasofaugust32026",
   "113007b28b6390e7",
-  "crudeoilpriceholdsstronggainsanalysis18082026"
+  "crudeoilpriceholdsstronggainsanalysis18082026",
+  "9f01e78959ab0989",
+  "bondyieldsjumpoilextendsgainsasusiranceasefireexpires",
+  "092da58e0ffd13d4",
+  "crudeoilpriceforecastirantensionspushbrenttoward100",
+  "7aa85b3ddc6b7dab",
+  "uscopperimportshita12yearrecordaslmestockscrash"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 9
+  "count": 11
  },
- "last_run": "2026-08-18T07:20:15.493230+03:00",
+ "last_run": "2026-08-18T07:25:12.347412+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1064,6 +1064,14 @@
   {
    "d": "2026-08-18",
    "t": "Oil prices creep higher, remain underpinned as Iran crisis rages on - Investing.com"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Bond yields jump, oil extends gains as US-Iran ceasefire expires - Reuters"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "U.S. Copper Imports Hit a 12-Year Record as LME Stocks Crash - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
