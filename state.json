@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "cd34aff4d73fff63",
-  "oilpricessteadyafterstrongweekasiranjitterspersistbyinvestin",
   "fc5ecdccf058e9a8",
   "chinaisbalancingasiascrudeoildemandbyitself",
   "99e76214f3eec80d",
@@ -603,7 +601,9 @@
   "530fc8604347c612",
   "weakerdollarcrudeoilrosefortwostraightsessionsmostbasemetals",
   "c9ed27522ea12b52",
-  "crudeoilvolatilityandrippleeffectacrossdownstreammarkets"
+  "crudeoilvolatilityandrippleeffectacrossdownstreammarkets",
+  "df7bb492b661f575",
+  "crudeoilpricesclimbover2asdiplomaticeffortstoendiranwarstall"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-08-18T09:30:19.230276+03:00",
+ "last_run": "2026-08-18T09:35:11.327005+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1112,6 +1112,10 @@
   {
    "d": "2026-08-18",
    "t": "Libya Seeks Up to $40 Billion to Boost Oil Output to 2 Million Bpd"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Crude Oil Prices Climb Over $2 as Diplomatic Efforts to End Iran War Stall - Business Post Nigeria"
   }
  ]
 }
