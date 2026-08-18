@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "d8fcb4c180a3e618",
-  "russiaindiaraillinkplanastrategicshiftinenergytransport",
-  "4988a4a4a11e7094",
-  "uswaroniranday172memorandumofunderstandingexpirestoday",
-  "8b70c5edf4078b4b",
-  "michigangaspricesjump12centsaaasays",
   "e4a8cf3d8123f735",
   "chinaadded200000bpdtocrudereservesinjulydespitehormuzcrisis",
   "5887bc7098b94400",
@@ -603,7 +597,13 @@
   "0cc2b9984a23aa9d",
   "trumptrollscallsstraitofhormuznewusterritoryhereswhyoilinves",
   "7d09edccc6e5a683",
-  "dowjonesforecastdjiaslipsasmiddleeasttensionsliftoilandtreas"
+  "dowjonesforecastdjiaslipsasmiddleeasttensionsliftoilandtreas",
+  "489755d7cfe4b696",
+  "oilextendsgainsashormuzsolutionappearsdistant",
+  "155c8fbc6c6688eb",
+  "wallstreetfuturesslideasoilandbondyieldsintensifymarketpress",
+  "7e3ace00f19b047f",
+  "aistockspullwallstreetfurtherfromitsrecordasbondyieldskeepri"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T16:52:07.002663+03:00",
+ "last_run": "2026-08-18T16:55:13.829465+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1232,6 +1232,10 @@
   {
    "d": "2026-08-18",
    "t": "US stocks set for lower open as Iran stalemate lifts oil, yields By Reuters - Investing.com"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Oil Extends Gains As Hormuz Solution Appears Distant - WSJ"
   }
  ]
 }
