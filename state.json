@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "b1499966a548b983",
-  "trumpsaysiranshouldsurrenderasoilclimbs",
-  "2ea06161f244e954",
-  "iranconflictpushespakistanstoprefinertobuymoreamericancrude",
   "691af8baef01f7e5",
   "oilshocksinflationandwhythe1970splaybookhasitslimits",
   "8139b8829bb6aa3c",
@@ -603,7 +599,11 @@
   "c379c4abcb0bc457",
   "a4millionbpdshadowoilhighwayisrunningthroughhormuz",
   "10e140ef649c1a55",
-  "oilhitsthreeweekhighoniranstandoff"
+  "oilhitsthreeweekhighoniranstandoff",
+  "b47bedeb02f84a12",
+  "venezuelasendshalfitsoilproductiontousrefinerieshaustveitsay",
+  "5493b8a4eb80adfd",
+  "usoilproducerspoisedtosigncrudeoutputdealswithvenezuelaspdvs"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T22:45:14.589385+03:00",
+ "last_run": "2026-08-18T22:50:14.237290+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1332,6 +1332,10 @@
   {
    "d": "2026-08-18",
    "t": "A 4-Million-Bpd Shadow Oil Highway Is Running Through Hormuz - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Venezuela sends half its oil production to US refineries, Haustveit says - Investing.com"
   }
  ]
 }
