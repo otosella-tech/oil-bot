@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "3277be21ee4cc05e",
-  "thepermianbasinat2030howmuchbiggercanamericasgreatestoilfiel",
-  "6f8791cfa2b767af",
-  "oilstrugglesfordirectionasusirantalksstallhormuzshippingslow",
   "5344f7fb3bf7ca66",
   "oilpricesriseasusiranpeacetalksstallhormuzshippingslows",
   "50df5c602d3ae18a",
@@ -603,7 +599,11 @@
   "366ac0ea4651bc02",
   "currentpriceofoilasofaug132026",
   "e34b4bc276efe25f",
-  "chinasstateshippersdeployoiltankersoutsidegulfavoidchokepoin"
+  "chinasstateshippersdeployoiltankersoutsidegulfavoidchokepoin",
+  "524627bef6c468d6",
+  "whyisntthepriceofoilevenhigher",
+  "812e211473ac8d57",
+  "saudiarabiaresumesoilloadingssalesfrominsidestraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-08-18T11:05:13.208784+03:00",
+ "last_run": "2026-08-18T11:10:15.655974+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1136,6 +1136,10 @@
   {
    "d": "2026-08-18",
    "t": "Despite pipeline talks, Hormuz will remain key to Iraq’s oil exports - Seatrade Maritime News"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Saudi Arabia resumes oil loadings, sales from inside Strait of Hormuz - Reuters"
   }
  ]
 }
