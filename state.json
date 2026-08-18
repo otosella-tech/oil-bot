@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "eab6df1b611c63bb",
-  "crudeoilpricepreparestoresumeitsgainsonstrongtechnicalsuppor",
   "2e5d12f5b79c7bf7",
   "mofshipscrudeoilthroughredseatostabilizesouthkoreasupplychos",
   "5f01c5df61993269",
@@ -603,7 +601,9 @@
   "dcd2dfe0fd66fcf8",
   "crudepricescross90asceasefirehopesdimhormuzdisruptionweighso",
   "6ff0986acc647020",
-  "uscrudeoilinventoriesseesurprisebuildapi"
+  "uscrudeoilinventoriesseesurprisebuildapi",
+  "bc5427e17436b5e7",
+  "usirantensionspushoilpriceshigherasdieselmarginshitrecords"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-08-18T07:50:15.181586+03:00",
+ "last_run": "2026-08-18T07:51:46.803746+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1080,6 +1080,10 @@
   {
    "d": "2026-08-18",
    "t": "Crude prices cross $90 as ceasefire hopes dim, Hormuz disruption weighs on supply - The Times of India"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
