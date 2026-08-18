@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "56cb07f9c100934c",
-  "chinaplanstoincreasedomesticoilgassuppliesto440mtonsofoilequ",
   "3ebc5e090eb9e862",
   "depletedstrategicoilreservenearslevelthatraisesconcernsabout",
   "49122d891657c3f0",
@@ -603,7 +601,9 @@
   "e1237923eff22baa",
   "russiabarsanti",
   "e4f7deb7767d7bac",
-  "chinassolarexportsfell214injuly"
+  "chinassolarexportsfell214injuly",
+  "8368efc7696d0ac4",
+  "shipattackinhormuzresultsinonecasualtywhiletrumpsaysstraitis"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T19:30:17.560038+03:00",
+ "last_run": "2026-08-18T19:35:15.751154+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-08-18",
    "t": "Russia Bars Anti-War Opposition Party From Election"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Ship attack in Hormuz results in one casualty while Trump says strait is 'open and operating' - CNBC"
   }
  ]
 }
