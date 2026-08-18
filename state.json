@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "fcf0a145a6829304",
-  "oilfuturescrudesteadiesasmoudeadlineendswithoutresolution",
-  "8d3c063f78b350e9",
-  "sablewillrestartthehondoplatforminseptember",
   "bc885b93b11e265b",
   "howchinaismanagingloweroilimports",
   "3b7f7e0dab2913ff",
@@ -603,7 +599,11 @@
   "b95507a7be93d13a",
   "brentcrudeoilwaveanalysis",
   "5029f6d0a9d0f078",
-  "afourstoryamericanbuildinginkerncountyisa100megawatthourstac"
+  "afourstoryamericanbuildinginkerncountyisa100megawatthourstac",
+  "2943359384ef4055",
+  "globaloilpricesflatasirannegotiationsstall",
+  "f5fba08a97677f5c",
+  "oilpricescreephigherremainunderpinnedasirancrisisrageson"
  ],
  "releases_done": {},
  "last_digest": "2026-08-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 7
+  "count": 9
  },
- "last_run": "2026-08-18T04:40:15.684284+03:00",
+ "last_run": "2026-08-18T04:45:15.788301+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1060,6 +1060,10 @@
   {
    "d": "2026-08-18",
    "t": "Oil climbs as fading US-Iran peace hopes raise supply risks - Reuters"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Oil prices creep higher, remain underpinned as Iran crisis rages on - Investing.com"
   }
  ]
 }
