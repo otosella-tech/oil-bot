@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "9e42fa5fa9c4ba1d",
-  "thecommoditiesfeedoilnear90onescalatingmiddleeastrisks",
-  "7b9dfdb696b1757b",
-  "uscrudeoilshareofsouthkoreasimportstops20forfirsttimemiddlee",
   "f5bb01ac0877894d",
   "currentpriceofoilasofjuly312026",
   "deb0b7a83da3589c",
@@ -603,7 +599,11 @@
   "81bd814662e6ab20",
   "oilclimbsagainaswaningusiranpeacehopesraisesupplywoes",
   "bfc63a3a914e4db6",
-  "oilpricesatnearthreeweekhighasusiranpeacehopesfade"
+  "oilpricesatnearthreeweekhighasusiranpeacehopesfade",
+  "4fed3f36c2e96bef",
+  "brenttops91afterunidentifiedprojectilehitsvesseltransitingho",
+  "0326e82148e39305",
+  "crudeoilfuturesriseonpositiveglobaltrends"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 51
+  "count": 52
  },
- "last_run": "2026-08-18T11:55:12.894884+03:00",
+ "last_run": "2026-08-18T12:00:22.101505+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
