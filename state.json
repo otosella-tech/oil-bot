@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "e8535ca1424d8e5d",
-  "buyingpressuredominatedthecommoditiesmarketwithcrudeoilandwh",
-  "07ee52e3f1fc269a",
-  "asiansharesrisedollarslipsasmarketsparefedraterisks",
-  "c712ffada5730735",
-  "sensexfalls500ptsniftybelow24250elevatedcrudeoilpricesamongk",
   "58938e627826ee9f",
   "currentpriceofoilasofaugust42026",
   "a0aaf63d11f49bd7",
@@ -603,7 +597,13 @@
   "4a2305061e8c1a16",
   "libyaseeksupto40bntodevelopoilresources",
   "8df94ea4ddeeefdd",
-  "canadagearingupformorecrudeoilexports"
+  "canadagearingupformorecrudeoilexports",
+  "cdea0afed4bdc519",
+  "oilpricesjumpafterusiranceasefireexpiresandtrumpthreatensoma",
+  "24f44c5df039c720",
+  "asiasharesdeclineasworriesaboutrisingoilpricesoutweighboostf",
+  "bd66f560ac6e8432",
+  "brentcrudeoilrisesabove90"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-18",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-08-18T10:05:11.999765+03:00",
+ "last_run": "2026-08-18T10:10:13.738387+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1120,6 +1120,10 @@
   {
    "d": "2026-08-18",
    "t": "Libya seeks up to $40bn to develop oil resources - Financial Times"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman - The Guardian"
   }
  ]
 }
