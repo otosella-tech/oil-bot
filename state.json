@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "cd857e145d2bfd36",
-  "asnationalstatefuelpricessurgenatronacountysaveragejumpspast",
   "56cb07f9c100934c",
   "chinaplanstoincreasedomesticoilgassuppliesto440mtonsofoilequ",
   "3ebc5e090eb9e862",
@@ -603,7 +601,9 @@
   "e083e6259569e631",
   "ussprfallsfastwhatdoesitmeanforoilenergyetfs",
   "e1237923eff22baa",
-  "russiabarsanti"
+  "russiabarsanti",
+  "e4f7deb7767d7bac",
+  "chinassolarexportsfell214injuly"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T19:25:12.207894+03:00",
+ "last_run": "2026-08-18T19:30:17.560038+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
