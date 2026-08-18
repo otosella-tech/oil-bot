@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "44e3856e5ab21902",
-  "thomyorkeromyandbrianenoamong200musiciansurgingpmtorejectnew",
-  "525d0835a55bd9ac",
-  "chinasrenewablesboomfacesrecordcleanpowercurtailments",
-  "68258fdbe8206c25",
-  "crudeoilforecastwtieyes93bullflagtargetasbrentthreatens90bar",
   "391d712d1801a800",
   "newiraqsyriaoilpipelinetobypasshormuzexpectedtocost15billion",
   "93d1169d181018fb",
@@ -603,7 +597,13 @@
   "4f9dc2ec63b3d334",
   "oilrisesasusiranpeacehopesfade",
   "a2ce11a3eaeb9c54",
-  "venezuelasoilrevivalacceleratesasusmajorspushtrumpsnewenergy"
+  "venezuelasoilrevivalacceleratesasusmajorspushtrumpsnewenergy",
+  "285683ff6961fef5",
+  "usdieselreservessitnear23",
+  "be803fccb5a999bf",
+  "saudisoffertoselloilnearomanapossiblesigntheyresailingdarkth",
+  "92b79badc70ed898",
+  "usequityindexesfallas30yearyieldremainselevatedcrudeoiljumps"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-18",
   "count": 60
  },
- "last_run": "2026-08-18T19:55:13.148129+03:00",
+ "last_run": "2026-08-18T20:00:23.902156+03:00",
  "sent_stories": [
   {
    "d": "2026-08-15",
@@ -1288,6 +1288,10 @@
   {
    "d": "2026-08-18",
    "t": "Venezuela's Oil Revival Accelerates as U.S. Majors Push Trump's New Energy Order - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-18",
+   "t": "Saudis Offer to Sell Oil Near Oman, a Possible Sign They’re Sailing Dark Through Hormuz - bloomberg.com"
   }
  ]
 }
