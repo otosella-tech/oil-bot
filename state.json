@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "ccf68ca0d9aa6189",
-  "30yeartreasuryyieldhits19yearhigh",
   "c30fd8c24de9d521",
   "chinascrudeoilimportsfellinthesecondquarter",
   "9f5a7dc25d90ba29",
@@ -603,7 +601,9 @@
   "7676b8cff2eccfd2",
   "hormuztrafficslowsasuncertaintyoverwaterwaypersists",
   "64914226b80ed9d8",
-  "usshalemajorscutspendingdespitehigheroilprices"
+  "usshalemajorscutspendingdespitehigheroilprices",
+  "1fd32ed1d4e85b0b",
+  "bitcoinrisesdespitespikeinbondyieldscrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 18
  },
- "last_run": "2026-08-19T07:05:14.030924+03:00",
+ "last_run": "2026-08-19T07:10:14.724110+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
