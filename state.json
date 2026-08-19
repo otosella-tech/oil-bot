@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "e3b3d26df1875375",
-  "usstocksmayseefurtherdownsideasyieldscrudeoilpricesclimb",
-  "7356193b64302146",
-  "yourtuesdayaug18guidefivethingstodointheoilcity",
   "08fc6431bcb8b2a0",
   "usstockssetforloweropenasiranstalemateliftsoilyields",
   "3e98b384278c841e",
@@ -603,7 +599,11 @@
   "8f961d5f4d4ea20a",
   "crudeoilanalysiswtipathofleastresistancetoupside",
   "51720b9c5ff64c74",
-  "theworsteffectsofomansoilspillmaybebeneaththesurface"
+  "theworsteffectsofomansoilspillmaybebeneaththesurface",
+  "1ef505800282242b",
+  "usvenezuelaoiltradesurgesascrudeflowstripledealstakeshape",
+  "455addaf0ce238f6",
+  "oilfuturescontinuehigherafterusstockbuild"
  ],
  "releases_done": {
   "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T19:45:15.534176+03:00",
+ "last_run": "2026-08-19T19:50:15.733327+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1475,6 +1475,10 @@
   {
    "d": "2026-08-19",
    "t": "View / Hormuz limbo is now global oil’s top risk - Columbia University"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "US-Venezuela Oil Trade Surges as Crude Flows Triple, Deals Take Shape - hartenergy.com"
   }
  ]
 }
