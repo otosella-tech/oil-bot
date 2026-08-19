@@ -4,14 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "f74ba786f230caa9",
-  "weeklygaswatchgaspricesfallthreecentsinwesternpa",
-  "1594b372a420e23f",
-  "30yearyieldrisestohighestlevelsince2007asoilandtreasurysuppl",
-  "f1a011c21465d269",
-  "whylibyasnextoilpipelinecouldbeageopoliticalgamechanger",
-  "50a7fc6f3c49aea1",
-  "covertmideastoilflowsarekeepingglobalpricesincheck",
   "fa7204735594ee94",
   "oilpricestreasuryyieldsrisewithmideastconcerns",
   "d81300cdaae9c837",
@@ -603,7 +595,15 @@
   "d9679deb39ae7094",
   "tankersalvageandoilspillcleanuphamperedbyweatherandtechnical",
   "9b32487612d37447",
-  "brentnearsus92ashormuzuncertaintyliftsoil"
+  "brentnearsus92ashormuzuncertaintyliftsoil",
+  "44f221f0ded5a9ee",
+  "oilrisesamidgrowingconcernsoversupplydisruptions",
+  "46b925be9859bf33",
+  "crudepricesgainonreducedmiddleeasternoilsupplies",
+  "396d2707c104ecf1",
+  "oiledgeshigherasiranianattacksonshipsinstraitofhormuzwithout",
+  "a5717265e6a1f2e6",
+  "heirssayvenezuelaseized2billioninoilassets"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-08-19T04:55:11.919507+03:00",
+ "last_run": "2026-08-19T05:00:19.907977+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1311,6 +1311,14 @@
   {
    "d": "2026-08-19",
    "t": "Tanker salvage and oil spill clean-up hampered by weather and technical challenges, Oman says - reuters.com"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Oil edges higher as Iranian attacks on ships in Strait of Hormuz without U.S. response rise - Seeking Alpha"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Heirs Say Venezuela Seized $2 Billion in Oil Assets - Briefs Finance"
   }
  ]
 }
