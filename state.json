@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "609e7587e3a2c8c8",
-  "russiancrudeoilproductionentersneweraofconstraint",
   "b293a8f74a06c5fb",
   "pesrenewedinterestinoilandgas8deals",
   "8074ddcdd373a64f",
@@ -603,7 +601,9 @@
   "c16d5cd24bca36f1",
   "murbancrudejumpsto4monthhigh",
   "81636f08ff7b0fb2",
-  "ustotalcrudeoilstocksfallinweekendedaug14"
+  "ustotalcrudeoilstocksfallinweekendedaug14",
+  "0b592eac33838751",
+  "crudeoilmarketfacesimpendingsupplytightnessasexportscollapse"
  ],
  "releases_done": {
   "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T18:05:14.030428+03:00",
+ "last_run": "2026-08-19T18:10:17.423996+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
