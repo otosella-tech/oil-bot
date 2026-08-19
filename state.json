@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "edc71a22b8da1992",
-  "middleeastconflictraisesusplasticindustryssinkingship",
   "9b7fc79d43b312a7",
   "theoilshockissortinglatinamericathedividinglineisinstitution",
   "a0a90382371929b2",
@@ -603,7 +601,9 @@
   "bf187761d804b97d",
   "guyananowentitledtonearly40ofproductionfromoilblockpresident",
   "60feb3dc7af1486a",
-  "sharesfallinasiawithkospidown52whileoilpricesjump"
+  "sharesfallinasiawithkospidown52whileoilpricesjump",
+  "3f771fb060ddfa98",
+  "currentpriceofoilasofaugust102026"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 17
  },
- "last_run": "2026-08-19T06:15:15.615059+03:00",
+ "last_run": "2026-08-19T06:20:16.941045+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
