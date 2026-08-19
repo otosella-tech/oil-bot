@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "11aa134aafc2d31a",
-  "oilfuturescrudeextendsgainsaspeacedealremainselusive",
   "43d827b183e8b6cb",
   "chevronfindsoilgascondensateoffshoreangola",
   "e8860439590ed5f2",
@@ -603,7 +601,9 @@
   "f543c089c1f4d046",
   "ukrainiandronestrikesoilrefineryinbashkortostan",
   "332181db24aa1478",
-  "crudeoilpricessoaronhormuzjitterssupplyconcerns"
+  "crudeoilpricessoaronhormuzjitterssupplyconcerns",
+  "f44375419e0627a4",
+  "chineseoiltankersturnbackashormuzrisksmount"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 39
+  "count": 40
  },
- "last_run": "2026-08-19T11:10:14.494047+03:00",
+ "last_run": "2026-08-19T11:15:14.319552+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
