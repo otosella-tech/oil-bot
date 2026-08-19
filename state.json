@@ -4,8 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "fe950048399bb714",
-  "regulationofmethaneemissionsintheoilandgasindustryeuropeanco",
   "0922badb6b0593ca",
   "techselloffpullswallstreettotwoweeklowsasoilandyieldsclimb",
   "3ebc5e090eb9e862",
@@ -603,7 +601,9 @@
   "e7386028b6f91332",
   "usmilitarycreatedsecretpaththroughhormuz10millionbarrelsofoi",
   "2fde05434ad77475",
-  "oilpricesfallasopecandieaslash2026demandoutlooks"
+  "oilpricesfallasopecandieaslash2026demandoutlooks",
+  "aabf77df036e9185",
+  "russiasfuelcrisishitsmoscowasrationingspreads"
  ],
  "releases_done": {
   "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-20",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-08-20T00:56:18.255731+03:00",
+ "last_run": "2026-08-20T01:00:20.908816+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
@@ -1475,6 +1475,10 @@
   {
    "d": "2026-08-19",
    "t": "US quietly guides millions of barrels of oil through Strait of Hormuz in stealth operation - New York Post"
+  },
+  {
+   "d": "2026-08-20",
+   "t": "Russia’s Fuel Crisis Hits Moscow as Rationing Spreads"
   }
  ]
 }
