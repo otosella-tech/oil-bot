@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "e7519d5d2a24217d",
-  "stockmarketsdeclineascrudeoiljumpsto91",
   "9cdb50dee61bdcfd",
   "rebuildingvenezuelarequiresmorethancapital",
   "92ecba803de63535",
@@ -603,7 +601,9 @@
   "04caaeb158c5d421",
   "straitofhormuzshippingslowsaftervesselattack",
   "d7b6e71412f01c32",
-  "usbecomestopdestinationforvenezuelanoilfollowingsanctionsrel"
+  "usbecomestopdestinationforvenezuelanoilfollowingsanctionsrel",
+  "a7a034c5f0c4dc7a",
+  "usirantensionspushoilpriceshigherasdieselmarginshitrecords"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-08-19T12:30:18.694511+03:00",
+ "last_run": "2026-08-19T12:35:12.559971+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1368,6 +1368,10 @@
   {
    "d": "2026-08-19",
    "t": "US Becomes Top Destination for Venezuelan Oil Following Sanctions Relief - Egypt Oil & Gas"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records - oilprice.com"
   }
  ]
 }
