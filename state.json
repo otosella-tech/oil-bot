@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "dcd2dfe0fd66fcf8",
-  "crudepricescross90asceasefirehopesdimhormuzdisruptionweighso",
   "6ff0986acc647020",
   "uscrudeoilinventoriesseesurprisebuildapi",
   "bc5427e17436b5e7",
@@ -603,7 +601,9 @@
   "e23acf02578c3215",
   "iranrecords75bninoilearningsduringfirstfourmonthsof2026",
   "33bca7b491b32322",
-  "aramcoresumeshormuzloadingsasheavycrudesupplytightens"
+  "aramcoresumeshormuzloadingsasheavycrudesupplytightens",
+  "1620afa4c76ef589",
+  "oilfuturescrudetickshigherasstraitofhormuzstandoffcontinues"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-08-19T12:07:47.983293+03:00",
+ "last_run": "2026-08-19T12:10:15.132944+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1352,6 +1352,10 @@
   {
    "d": "2026-08-19",
    "t": "Russia’s Crude Oil Shipments Tumble to the Lowest Since May - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Oil futures: Crude ticks higher as Strait of Hormuz standoff continues - Quantum Commodity Intelligence"
   }
  ]
 }
