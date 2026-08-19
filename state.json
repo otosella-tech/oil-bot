@@ -4,8 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "155c8fbc6c6688eb",
-  "wallstreetfuturesslideasoilandbondyieldsintensifymarketpress",
   "7e3ace00f19b047f",
   "aistockspullwallstreetfurtherfromitsrecordasbondyieldskeepri",
   "2f778e7a7d8cd6d2",
@@ -603,7 +601,9 @@
   "b73d034a0195fa89",
   "eiauscrudeinventoriesup44millionbbl",
   "bcd8e8134114e9b9",
-  "septemberwticrudeoilcontractclosesup089or11settlesat8583perb"
+  "septemberwticrudeoilcontractclosesup089or11settlesat8583perb",
+  "9fb844e9b872b01e",
+  "copperbackwardationcollapsesafter20000tonshitlmewarehouses"
  ],
  "releases_done": {
   "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T21:55:16.075643+03:00",
+ "last_run": "2026-08-19T22:00:21.262572+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1483,6 +1483,10 @@
   {
    "d": "2026-08-19",
    "t": "Data shows that shipping through the Strait of Hormuz is slowing down after recent tanker attacks - Marine News Magazine"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Copper Backwardation Collapses After 20,000 Tons Hit LME Warehouses"
   }
  ]
 }
