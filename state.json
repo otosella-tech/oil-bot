@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "94206ded52d3bb0f",
-  "newsyriairaqcrudepipelinestillyearsawaysourcessay",
   "067591f8f0660516",
   "chadreplacesanticorruptionchiefsdaysafterinspectorssaytheywe",
   "5e48b4f03a46e6d1",
@@ -603,10 +601,13 @@
   "9decd31155730f78",
   "centralasiasgrowingoildivide",
   "8c763ec76a03c397",
-  "ukrainesousteddefensechiefcallsforwartimeelections"
+  "ukrainesousteddefensechiefcallsforwartimeelections",
+  "6c5c4368facb491f",
+  "firebreaksoutatrosneft"
  ],
  "releases_done": {
-  "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+  "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
+  "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|post": 1
  },
  "last_digest": "2026-08-19",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T17:26:04.402327+03:00",
+ "last_run": "2026-08-19T17:30:16.970718+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1446,6 +1447,10 @@
   {
    "d": "2026-08-19",
    "t": "Ukraine’s Ousted Defense Chief Calls for Wartime Elections"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian Drone Strike"
   }
  ]
 }
