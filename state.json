@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "465a588a892f05ac",
-  "crudeoiltradingalertthecollapseofprospectsforrenewingtheusir",
   "8409339b171dcfff",
   "havemiddleeastoilflowsreboundedto15millionbpdasusclaims",
   "c1f4b0d45862c114",
@@ -603,7 +601,9 @@
   "99661400d5d3b88a",
   "oilpricesjumpafteriranpublishesrestrictivedraftplanforstrait",
   "90da48b48fa7c037",
-  "currentpriceofoilasofaugust52026"
+  "currentpriceofoilasofaugust52026",
+  "c30fd8c24de9d521",
+  "chinascrudeoilimportsfellinthesecondquarter"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 34
  },
- "last_run": "2026-08-19T09:30:18.115040+03:00",
+ "last_run": "2026-08-19T09:35:12.438789+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
