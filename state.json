@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "17df5dcca14510f5",
-  "iraqoilpipelineplanwouldtakeyearstobuildcostbillionsreport",
   "8d1d9b69619fc8fd",
   "texasjusticesaskedtorejecttaxonoilstoredforexport",
   "bde1b8a61e5c9aa4",
@@ -603,7 +601,9 @@
   "b9b105dcf9ab380b",
   "oiledgesuponuncertaintyoverexportsthroughhormuz",
   "aa50d094ed889862",
-  "currentpriceofoilasofaug142026"
+  "currentpriceofoilasofaug142026",
+  "c5013957bbe9d33c",
+  "currentpriceofoilasofaug122026"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 12
  },
- "last_run": "2026-08-19T04:00:21.543471+03:00",
+ "last_run": "2026-08-19T04:05:13.186503+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
