@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "54f7ad13f430d285",
-  "oilmarketstartspricinginaprolongedhormuzcrisis",
   "cb2aa1c225ce962b",
   "oilrisesamidlackofprogressinusirantalkstoreopenstraitofhormu",
   "ef20abb3e57a5c52",
@@ -603,7 +601,9 @@
   "ad43e66035741d57",
   "indiaturnstopipedgasasiranwardrivesuplpgcosts",
   "75e28c57a32f0ffc",
-  "oilpriceoutlookmicrowticrudeoilfuturesnavigatingbetweenarcle"
+  "oilpriceoutlookmicrowticrudeoilfuturesnavigatingbetweenarcle",
+  "394358788ad4a678",
+  "howtheomanoilspillcouldaffectmarinelife"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T13:35:13.758390+03:00",
+ "last_run": "2026-08-19T13:40:15.861129+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
