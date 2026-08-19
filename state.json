@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "6ff0986acc647020",
-  "uscrudeoilinventoriesseesurprisebuildapi",
   "bc5427e17436b5e7",
   "usirantensionspushoilpriceshigherasdieselmarginshitrecords",
   "23e0a66616b6660c",
@@ -603,7 +601,9 @@
   "33bca7b491b32322",
   "aramcoresumeshormuzloadingsasheavycrudesupplytightens",
   "1620afa4c76ef589",
-  "oilfuturescrudetickshigherasstraitofhormuzstandoffcontinues"
+  "oilfuturescrudetickshigherasstraitofhormuzstandoffcontinues",
+  "6d8ac66ee26de5f9",
+  "howtheiranwarmadeafricasrichestmanevenricher"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-08-19T12:10:15.132944+03:00",
+ "last_run": "2026-08-19T12:15:15.676914+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1356,6 +1356,10 @@
   {
    "d": "2026-08-19",
    "t": "Oil futures: Crude ticks higher as Strait of Hormuz standoff continues - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "How the Iran War Made Africa’s Richest Man Even Richer - The New York Times"
   }
  ]
 }
