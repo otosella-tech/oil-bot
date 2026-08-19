@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "b8a87b32cb0028fa",
-  "oilmajorsreap93billionwindfallfromtheiranwar",
   "8f7402479c564eea",
   "northamericasonlycesiumprojectmovesclosertoproduction",
   "f0e9a57d28807471",
@@ -603,7 +601,9 @@
   "d1311b7e9ce007e2",
   "hormuztrafficslowsasuncertaintypersists",
   "cb27be5385b30f92",
-  "crudeoilfuturesgainasstandoffoverhormuzreopeningcontinues"
+  "crudeoilfuturesgainasstandoffoverhormuzreopeningcontinues",
+  "72c3d74385701f78",
+  "opinionthehiddenreasongaspricesarenotgoingdown"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 26
  },
- "last_run": "2026-08-19T08:00:20.091335+03:00",
+ "last_run": "2026-08-19T08:05:13.943357+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
