@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "66fb45a80570a7a5",
-  "willgaspricesfallifcompaniesbuildoilroutesthatbypassthestrai",
-  "903047fec0ba364e",
-  "usstockfuturesdropasfadingiranpeacehopesliftoilbondyields",
   "10fa9dfb4ee9f21c",
   "willoilpriceskeeprising",
   "8fd12523f7d34a9e",
@@ -603,7 +599,11 @@
   "8dfff7c3b2b69ef6",
   "forecastupdateforcrudeoil19082026",
   "2d03956c6bb5704b",
-  "yourwednesdayaug19guidefivethingstodointheoilcity"
+  "yourwednesdayaug19guidefivethingstodointheoilcity",
+  "84f842f6537101f7",
+  "longerwellsboostpermiancrudeoilandnaturalgasproduction",
+  "8d3dac5b30d60ac2",
+  "usdieseltops100perbarrelforthefirsttimeasiranconflictdrivesf"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T16:03:14.570118+03:00",
+ "last_run": "2026-08-19T16:05:13.385731+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
