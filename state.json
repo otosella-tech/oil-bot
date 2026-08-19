@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "bde1b8a61e5c9aa4",
-  "chinesedemanddrivesrussiasfareastcrudebacktoapremium",
   "f74ba786f230caa9",
   "weeklygaswatchgaspricesfallthreecentsinwesternpa",
   "1594b372a420e23f",
@@ -603,7 +601,9 @@
   "c5013957bbe9d33c",
   "currentpriceofoilasofaug122026",
   "d9679deb39ae7094",
-  "tankersalvageandoilspillcleanuphamperedbyweatherandtechnical"
+  "tankersalvageandoilspillcleanuphamperedbyweatherandtechnical",
+  "9b32487612d37447",
+  "brentnearsus92ashormuzuncertaintyliftsoil"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 14
+  "count": 15
  },
- "last_run": "2026-08-19T04:35:10.831425+03:00",
+ "last_run": "2026-08-19T04:40:13.209366+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
