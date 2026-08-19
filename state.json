@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "fd9dfa2bae963018",
-  "updateequitiesfalloilralliesasusiranceasefireexpires",
   "a2fd67ad5df15055",
   "nydollarrisestoupper159yenrangeoncrudeoilgainsandhigherusyie",
   "7ad84d1347ba0af2",
@@ -603,7 +601,9 @@
   "381471028f9acaf8",
   "trumpsaysnotalksplannedwithirantehransaysstraitofhormuzstill",
   "7c7c7364ea0f96cb",
-  "westernoklahomaseescontinuedstrengthinoilandgasexploration"
+  "westernoklahomaseescontinuedstrengthinoilandgasexploration",
+  "aed15ac5d9cc6f21",
+  "oilpricesrisefurtherasiranusremainatoddsoverhormuz"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 9
+  "count": 10
  },
- "last_run": "2026-08-19T03:15:18.738890+03:00",
+ "last_run": "2026-08-19T03:20:15.178559+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
