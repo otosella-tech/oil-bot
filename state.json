@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "c587f52c4e234d0b",
-  "bondyieldsriseoilextendsgainsasusiranceasefireexpires",
   "ab84c8f6d63eb0bb",
   "oilclimbsasfadingusiranpeacehopesraisesupplyrisksbyreuters",
   "921eebadbeac1953",
@@ -603,7 +601,9 @@
   "cdea0afed4bdc519",
   "oilpricesjumpafterusiranceasefireexpiresandtrumpthreatensoma",
   "5015a5547bd11ab9",
-  "iraqapprovescrudeoilexportmechanismsandcontractsstartingsept"
+  "iraqapprovescrudeoilexportmechanismsandcontractsstartingsept",
+  "973a07dce145858d",
+  "murbancrudejumpsto4monthhighasadnoccurbssupplytoasia"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T14:35:13.340002+03:00",
+ "last_run": "2026-08-19T14:40:14.376282+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
