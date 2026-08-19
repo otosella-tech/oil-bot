@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "37cfd651f95fcf08",
-  "uscrudeoilfuturesrisenearly1",
   "26e24802c7978658",
   "usshalemajorscutspendingdespitehigheroilprices",
   "4b80039bbfb97111",
@@ -603,7 +601,9 @@
   "df1601a4337d83b0",
   "crudeoilpriceattacksakeyresistancelevelanalysis19082026",
   "ecf6889c53f50286",
-  "uscourtcancelspermitforoilportprojectwithjapan"
+  "uscourtcancelspermitforoilportprojectwithjapan",
+  "7147be2a3f913bc5",
+  "exxonmobilhowtheoilgiantisputtingpressureontheeu"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 17
  },
- "last_run": "2026-08-19T06:45:15.913132+03:00",
+ "last_run": "2026-08-19T06:50:16.092711+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
