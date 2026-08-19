@@ -4,8 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "cc693093bdce7b46",
-  "usoilgiantchevrondiscoversnewoilandgasoffshoreangolaasafrica",
   "e63745753c3abd84",
   "inchartslatinamericanoilgainsgroundinadisruptedglobalmarket",
   "622e249abf241fbf",
@@ -603,7 +601,9 @@
   "69024e7d78c13e4c",
   "keystonexlwhattrumpsfocusonanoilpipelinesaysaboutcanadaustra",
   "b4acf178aaca1e73",
-  "wtivsbrentcrudewhichoilbenchmarksuitsbeginnertraders"
+  "wtivsbrentcrudewhichoilbenchmarksuitsbeginnertraders",
+  "a2891d24eed5c25e",
+  "usquietlyguidesmillionsofbarrelsofoilthroughstraitofhormuzin"
  ],
  "releases_done": {
   "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T23:50:15.856003+03:00",
+ "last_run": "2026-08-19T23:55:14.133126+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1507,6 +1507,10 @@
   {
    "d": "2026-08-19",
    "t": "5 Energy Stocks Breaking Out As Iran Ceasefire Ends, Oil Prices Keep Rising - Investor's Business Daily"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "US quietly guides millions of barrels of oil through Strait of Hormuz in stealth operation - New York Post"
   }
  ]
 }
