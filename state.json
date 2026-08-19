@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "921eebadbeac1953",
-  "halliburtonhalriseswithoilshockasfairvaluenarrativestaysinfo",
   "0b3161a65d2d9251",
   "asiansharesslipasworriesaboutrisingoilpricesoffsetboostfroms",
   "c4ae2935a70d65ac",
@@ -603,7 +601,9 @@
   "973a07dce145858d",
   "murbancrudejumpsto4monthhighasadnoccurbssupplytoasia",
   "d3ec92ab75996e7d",
-  "selloffineurozonebondscontinuesasyieldshitnearlytwodecadehig"
+  "selloffineurozonebondscontinuesasyieldshitnearlytwodecadehig",
+  "dcff0d68c6d65e03",
+  "iraqapprovesoilexportsvialocalandinternationaltradersasofsep"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T14:45:17.091459+03:00",
+ "last_run": "2026-08-19T14:50:14.266552+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1412,6 +1412,10 @@
   {
    "d": "2026-08-19",
    "t": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman - The Guardian"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Iraq approves oil exports via local and international traders as of Sept. 1 - S&P Global"
   }
  ]
 }
