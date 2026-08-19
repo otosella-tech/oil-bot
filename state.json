@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "d7cfb93055795091",
-  "usstockfuturesfallasfadingiranpeaceprospectsdriveupoilyields",
   "5a68a0b9c41b2318",
   "tankersu",
   "14ad5f8703e2b988",
@@ -603,7 +601,9 @@
   "5213a070db3f0dc0",
   "oilfuturescrudehigherasstraitofhormuzstandoffcontinues",
   "d57e46ccf38dabdf",
-  "uscrudeoilinventoriesrisefor3rdweek"
+  "uscrudeoilinventoriesrisefor3rdweek",
+  "b967737142afee30",
+  "ukinflationjumpsto29asenergybillsbite"
  ],
  "releases_done": {
   "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T18:55:12.981175+03:00",
+ "last_run": "2026-08-19T19:00:21.093785+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
