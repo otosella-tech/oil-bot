@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "748fd0e1f0c52684",
-  "oilstocksretailinvestorsarescreeningascrudepricesclimb",
-  "fc5ecdccf058e9a8",
-  "chinaisbalancingasiascrudeoildemandbyitself",
   "4a2305061e8c1a16",
   "libyaseeksupto40bntodevelopoilresources",
   "8df94ea4ddeeefdd",
@@ -603,7 +599,11 @@
   "cdf6600868ca1a25",
   "oilexportsfromrussiaswesternportsdrop15belowplantraderssay",
   "6868e12fa47ccfc8",
-  "calmcrudetighteningdieseltherealoilmarketstressisdownstream"
+  "calmcrudetighteningdieseltherealoilmarketstressisdownstream",
+  "116ed5dcd7de0401",
+  "starvingiranofoilrevenuewonttoppletheregimeitmightjustsaveit",
+  "1c96e42168bdd838",
+  "thestrategicpetroleumreservehasntbeenthislowsincereaganwasfi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T14:15:15.155443+03:00",
+ "last_run": "2026-08-19T14:20:15.861179+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1400,6 +1400,10 @@
   {
    "d": "2026-08-19",
    "t": "Oil exports from Russia's western ports drop 15% below plan, traders say - Reuters"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "The Strategic Petroleum Reserve hasn't been this low since Reagan was filling it in 1982. Critics wonder: How low is too low? - Yahoo Finance"
   }
  ]
 }
