@@ -4,12 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "a13d40bff161c75a",
-  "viewhormuzlimboisnowglobaloilstoprisk",
-  "59eeb73abce88db0",
-  "bondyieldsjumpandstocksslipasiranstalemateunsettlesinvestors",
-  "c95a7632941c421f",
-  "proposedcanadiancrudeoilpipelineprojectsseethemhere",
   "db0597c925d4855c",
   "currentpriceofoilasofaugust182026",
   "ca1f6d63e30155e7",
@@ -603,7 +597,13 @@
   "13fbf304291fbd63",
   "oilpricesup1near3weekhighasmiddleeastcrisisescalates",
   "e1688598693a8478",
-  "uscrudeoilinventoriesclimb44millionbarrelslastweek"
+  "uscrudeoilinventoriesclimb44millionbarrelslastweek",
+  "ae7002d2b61db13e",
+  "saudiaramcogivesfullseptemberoilallocationsto3europeanrefine",
+  "07f6440a117dfd92",
+  "americanenergysnapshotwhosetsthepriceofoilhowaglobalmarketde",
+  "06f2221eff0dd4c9",
+  "currentpriceofoilasofaug182026"
  ],
  "releases_done": {
   "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T19:25:13.953395+03:00",
+ "last_run": "2026-08-19T19:30:20.026223+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1467,6 +1467,10 @@
   {
    "d": "2026-08-19",
    "t": "Oil futures: Crude higher as Strait of Hormuz standoff continues - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Saudi Aramco Gives Full September Oil Allocations to 3 European Refiners"
   }
  ]
 }
