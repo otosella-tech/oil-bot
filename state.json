@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "1d918606d7c1d912",
-  "currentpriceofoilasofaugust142026",
   "cba52e2f5ef564e8",
   "usequityindexesslideaftertrumpsthreatstobombomanliftscrudeoi",
   "db2359061cd436c1",
@@ -603,7 +601,9 @@
   "0cc761c3741bb07a",
   "iraqapprovesthreemonthmechanismforcrudeoilexportsstartingsep",
   "5b14fb1b1f678b3e",
-  "usdieselcracksurpasses100abarrelforthefirsttimeonsupplydisru"
+  "usdieselcracksurpasses100abarrelforthefirsttimeonsupplydisru",
+  "082a11b5f9c52c10",
+  "marketsfallinearlytradeamidrisingcrudeoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 34
  },
- "last_run": "2026-08-19T09:40:14.016805+03:00",
+ "last_run": "2026-08-19T09:45:15.804654+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
