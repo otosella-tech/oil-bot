@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "1a95fa254fb1eac1",
-  "saudiaramcoofferscrudeoutsidehormuz",
-  "a47918134cd62d4a",
-  "golddriftslowerasoildriveninflationrisksandusirantensionsbol",
   "e8bbc958faafd25b",
   "soils7bshaheenprojectnearscompletionaimstorevivekoreassaggin",
   "15c281bc65962485",
@@ -603,7 +599,11 @@
   "111fe2865f330c75",
   "oilhitsthreeweekhighonuncertaintyoverhormuz",
   "64f39eb664615c30",
-  "redlightsareflashinginenergymarkets"
+  "redlightsareflashinginenergymarkets",
+  "4d21964c0d9ddc30",
+  "usemergencyoilreservehits1982lowashormuzriskskeepcrudeelevat",
+  "0869b0009aa5cbdd",
+  "saudiaramcoandmaadeninksdealformininginsaudiarabia"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-08-19T12:50:16.944317+03:00",
+ "last_run": "2026-08-19T12:55:14.441291+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-08-19",
    "t": "Oil hits three-week high on uncertainty over Hormuz - Reuters"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "US emergency oil reserve hits 1982 low as Hormuz risks keep crude elevated - Gulf Business"
   }
  ]
 }
