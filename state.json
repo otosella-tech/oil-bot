@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "aedbdef8943d2c73",
-  "iransoilistrappedwhilerivalexportsareabouttosurgebuttehranco",
   "c20efab3d3a848fe",
   "usenergysecretarytoutsoilproductiondownplayspriceconcernsinm",
   "95bce61d8183957a",
@@ -603,7 +601,9 @@
   "8673d1ff691e7f9d",
   "crudeoilpricesriseforfourthdayamidstusirandeadlockuaeattacks",
   "925ddedbfa213415",
-  "oilextendsclimbonprolongedhormuzexportuncertainty"
+  "oilextendsclimbonprolongedhormuzexportuncertainty",
+  "d1eea77777cd9643",
+  "oilpricesup180826"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 30
  },
- "last_run": "2026-08-19T08:25:13.608765+03:00",
+ "last_run": "2026-08-19T08:30:16.703969+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
