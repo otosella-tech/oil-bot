@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "df7bb492b661f575",
-  "crudeoilpricesclimbover2asdiplomaticeffortstoendiranwarstall",
   "a182e4579aef0b5a",
   "georgiasonlyrefineryditchesrussiancrudeoil",
   "748fd0e1f0c52684",
@@ -603,7 +601,9 @@
   "38c15727559c5941",
   "wticrudeoilforecast190886testamidhormuzrisks",
   "8a2bf8cb60212d41",
-  "chinahaswrestedcontrolofoilmarketsfromopec"
+  "chinahaswrestedcontrolofoilmarketsfromopec",
+  "cdf6600868ca1a25",
+  "oilexportsfromrussiaswesternportsdrop15belowplantraderssay"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T14:10:16.134117+03:00",
+ "last_run": "2026-08-19T14:11:28.750948+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1396,6 +1396,10 @@
   {
    "d": "2026-08-19",
    "t": "Oil market starts pricing in a prolonged Hormuz crisis - Reuters"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Oil exports from Russia's western ports drop 15% below plan, traders say - Reuters"
   }
  ]
 }
