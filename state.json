@@ -4,10 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "0922badb6b0593ca",
-  "techselloffpullswallstreettotwoweeklowsasoilandyieldsclimb",
-  "3ebc5e090eb9e862",
-  "depletedstrategicoilreservenearslevelthatraisesconcernsabout",
   "4f9dc2ec63b3d334",
   "oilrisesasusiranpeacehopesfade",
   "a2ce11a3eaeb9c54",
@@ -603,7 +599,11 @@
   "2fde05434ad77475",
   "oilpricesfallasopecandieaslash2026demandoutlooks",
   "aabf77df036e9185",
-  "russiasfuelcrisishitsmoscowasrationingspreads"
+  "russiasfuelcrisishitsmoscowasrationingspreads",
+  "32ff096a5acdb791",
+  "oilholdsfourdaygainastradersassessmiddleeaststalemate",
+  "64e911f12dd4ad92",
+  "crudeoilpricesbrenttests92wtinear85aheadofusinventorydata"
  ],
  "releases_done": {
   "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-20",
   "count": 4
  },
- "last_run": "2026-08-20T01:10:14.954045+03:00",
+ "last_run": "2026-08-20T01:15:16.044557+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
