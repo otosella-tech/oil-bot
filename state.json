@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "92ecba803de63535",
-  "oilpricesup170826",
   "4c2d6538f70cf0ff",
   "crudeoilrisesonreportsofiranadoptingmoreoffensivestance",
   "1a95fa254fb1eac1",
@@ -603,7 +601,9 @@
   "a7a034c5f0c4dc7a",
   "usirantensionspushoilpriceshigherasdieselmarginshitrecords",
   "9e8ae8b6d12255ba",
-  "aramcoputsvlccsbackintohormuzafterthreeweekpause"
+  "aramcoputsvlccsbackintohormuzafterthreeweekpause",
+  "111fe2865f330c75",
+  "oilhitsthreeweekhighonuncertaintyoverhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-08-19T12:45:17.098579+03:00",
+ "last_run": "2026-08-19T12:47:40.986147+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1376,6 +1376,10 @@
   {
    "d": "2026-08-19",
    "t": "Aramco Puts VLCCs Back Into Hormuz After Three-Week Pause - oilprice.com"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Oil hits three-week high on uncertainty over Hormuz - Reuters"
   }
  ]
 }
