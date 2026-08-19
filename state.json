@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "91e7d9ea2c301b32",
-  "forecastupdateforcrudeoil18082026",
   "9505cce77530264f",
   "dangotevitolalphambmwhowillwineastafricasoilrefineryrace",
   "310656adaf168522",
@@ -603,7 +601,9 @@
   "f837ea54035f5200",
   "eiaweeklyuscrudeoilinventories4405mvs0200mexpected",
   "bbdf6862b0601729",
-  "permianindependentoilceooptimisticineraofglobalupheaval"
+  "permianindependentoilceooptimisticineraofglobalupheaval",
+  "dcd50d4ac073981c",
+  "uscrudeoilinventoriesclimb44millionbarrelslastweekbyinvestin"
  ],
  "releases_done": {
   "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T18:45:16.673635+03:00",
+ "last_run": "2026-08-19T18:50:18.920228+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
