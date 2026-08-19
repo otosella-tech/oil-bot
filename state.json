@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "8f7402479c564eea",
-  "northamericasonlycesiumprojectmovesclosertoproduction",
   "f0e9a57d28807471",
   "gettinganoilchangehereswhyyourepayingmore",
   "aedbdef8943d2c73",
@@ -603,7 +601,9 @@
   "cb27be5385b30f92",
   "crudeoilfuturesgainasstandoffoverhormuzreopeningcontinues",
   "72c3d74385701f78",
-  "opinionthehiddenreasongaspricesarenotgoingdown"
+  "opinionthehiddenreasongaspricesarenotgoingdown",
+  "8673d1ff691e7f9d",
+  "crudeoilpricesriseforfourthdayamidstusirandeadlockuaeattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-08-19T08:05:13.943357+03:00",
+ "last_run": "2026-08-19T08:10:14.106235+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1316,6 +1316,10 @@
   {
    "d": "2026-08-19",
    "t": "Heirs Say Venezuela Seized $2 Billion in Oil Assets - Briefs Finance"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Crude oil prices rise for fourth day amidst US-Iran deadlock, UAE attacks - CNBC TV18"
   }
  ]
 }
