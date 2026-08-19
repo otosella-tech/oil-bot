@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "48afb7c025fe787d",
-  "usdieselcracksurpassesus100abarrelforfirsttimeonsupplydisrup",
-  "444511c68dc5202f",
-  "lulacallsoilneartheamazonriverapassporttobrazilsfutureafterp",
   "2a64c90e26bbdf53",
   "brazilslulahailsnewoilfindaspassporttothefuture",
   "b8a87b32cb0028fa",
@@ -603,7 +599,11 @@
   "ec2918e135afdb49",
   "indiansharesmutedatopenonhighercrudetreasuryyields",
   "6dd60a7c47191e20",
-  "watchfesharakioilsrealstoryliesinproductsnotcrude"
+  "watchfesharakioilsrealstoryliesinproductsnotcrude",
+  "c0738c085c2626c4",
+  "ataglancegoldcrudeoilforexandstockindexpivotpointslongshortp",
+  "d1311b7e9ce007e2",
+  "hormuztrafficslowsasuncertaintypersists"
  ],
  "releases_done": {},
  "last_digest": "2026-08-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 18
+  "count": 19
  },
- "last_run": "2026-08-19T07:40:17.800157+03:00",
+ "last_run": "2026-08-19T07:45:15.334188+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
