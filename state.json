@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "a2fd67ad5df15055",
-  "nydollarrisestoupper159yenrangeoncrudeoilgainsandhigherusyie",
   "7ad84d1347ba0af2",
   "whylibyasnextoilpipelinecouldbeageopoliticalgame",
   "17df5dcca14510f5",
@@ -603,7 +601,9 @@
   "7c7c7364ea0f96cb",
   "westernoklahomaseescontinuedstrengthinoilandgasexploration",
   "aed15ac5d9cc6f21",
-  "oilpricesrisefurtherasiranusremainatoddsoverhormuz"
+  "oilpricesrisefurtherasiranusremainatoddsoverhormuz",
+  "b9b105dcf9ab380b",
+  "oiledgesuponuncertaintyoverexportsthroughhormuz"
  ],
  "releases_done": {
   "2026-08-18|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-08-19T03:40:14.210457+03:00",
+ "last_run": "2026-08-19T03:45:13.164336+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1303,6 +1303,10 @@
   {
    "d": "2026-08-19",
    "t": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut - Reuters"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Oil edges up on uncertainty over exports through Hormuz - Yahoo! Finance Canada"
   }
  ]
 }
