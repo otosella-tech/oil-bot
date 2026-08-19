@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "e2a698cb81191b5f",
-  "gainenergylaunchesupstrimatheindustryspremieraimarketplacefo",
-  "506fa07ce71ec8ac",
-  "analysiscanadaspipelineambitionshingeonuncertainoutputexpans",
   "19be3a958f8651ae",
   "brazilspresidentsaysamazonoilispassporttothefuture",
   "3f5e7917e45420cb",
@@ -603,7 +599,11 @@
   "77ea1010300a0b91",
   "straitofhormuztrafficdropsto10vesselsperdayoilpricesriseforf",
   "ca66f2f6ff21fae8",
-  "proposedcanadiancrudeoilpipelineprojects"
+  "proposedcanadiancrudeoilpipelineprojects",
+  "714de506c02712a0",
+  "crudeoilpriceanalysiskeyresistancelevelsinfocusamidsupplyris",
+  "930b9d4969bcb52f",
+  "petrosalamtargetshighercrudeoiloutputafterreaching2547bbdegy"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T16:40:14.370498+03:00",
+ "last_run": "2026-08-19T16:45:14.647883+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
