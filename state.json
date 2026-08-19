@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "507c6c9a1263f549",
-  "oilsupertankerearningsonmideastroutenear510000aday",
   "857c3d16aa735adf",
   "usstockindexfuturesdropasbondyieldsandoilpricesrise",
   "0afc71c9798ee307",
@@ -603,7 +601,9 @@
   "fb79c99ffbd9c91f",
   "crudeoilrisesfor4thsession",
   "4de75cf9c86ecd49",
-  "uncutdieseltocost20senmoreuntilaug26"
+  "uncutdieseltocost20senmoreuntilaug26",
+  "b6008da8791c0c2c",
+  "plattstohostoilplattsbenchmarkbriefingatappec2026insingapore"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T15:00:58.209145+03:00",
+ "last_run": "2026-08-19T15:05:12.885249+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
