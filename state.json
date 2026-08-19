@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "f1a139df1bc33dc1",
-  "oilfuturescrudeextendsgainsaspeacedelaremainselusive",
   "11aa134aafc2d31a",
   "oilfuturescrudeextendsgainsaspeacedealremainselusive",
   "43d827b183e8b6cb",
@@ -603,7 +601,9 @@
   "7f8177dab456d025",
   "goldsetforpositivebiasbrentmayslidetowards80bblongulfexports",
   "f543c089c1f4d046",
-  "ukrainiandronestrikesoilrefineryinbashkortostan"
+  "ukrainiandronestrikesoilrefineryinbashkortostan",
+  "332181db24aa1478",
+  "crudeoilpricessoaronhormuzjitterssupplyconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-08-19T11:00:22.682306+03:00",
+ "last_run": "2026-08-19T11:05:12.290536+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1336,6 +1336,10 @@
   {
    "d": "2026-08-19",
    "t": "Venezuela Signs Oil Deals With SLB and Hunt to Boost Production"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Crude Oil Prices Soar on Hormuz Jitters & Supply Concerns - Rediff MoneyWiz"
   }
  ]
 }
