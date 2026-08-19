@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "3f5e7917e45420cb",
-  "houthisclaimthirdattackonsaudiaramcorefineryintwoweeks",
   "94206ded52d3bb0f",
   "newsyriairaqcrudepipelinestillyearsawaysourcessay",
   "067591f8f0660516",
@@ -603,7 +601,9 @@
   "930b9d4969bcb52f",
   "petrosalamtargetshighercrudeoiloutputafterreaching2547bbdegy",
   "9decd31155730f78",
-  "centralasiasgrowingoildivide"
+  "centralasiasgrowingoildivide",
+  "8c763ec76a03c397",
+  "ukrainesousteddefensechiefcallsforwartimeelections"
  ],
  "releases_done": {
   "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T16:55:13.530790+03:00",
+ "last_run": "2026-08-19T17:00:23.504011+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1442,6 +1442,10 @@
   {
    "d": "2026-08-19",
    "t": "Strait of Hormuz traffic drops to 10 vessels per day: Oil prices rise for four consecutive days, yet the true major risk remains unpriced. - Moomoo"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Ukraine’s Ousted Defense Chief Calls for Wartime Elections"
   }
  ]
 }
