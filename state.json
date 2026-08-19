@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "43d827b183e8b6cb",
-  "chevronfindsoilgascondensateoffshoreangola",
   "e8860439590ed5f2",
   "thomaswhycantwefixtheoilproblem",
   "4e84206c0ca6fe18",
@@ -603,7 +601,9 @@
   "332181db24aa1478",
   "crudeoilpricessoaronhormuzjitterssupplyconcerns",
   "f44375419e0627a4",
-  "chineseoiltankersturnbackashormuzrisksmount"
+  "chineseoiltankersturnbackashormuzrisksmount",
+  "1d5e005161ef55a3",
+  "oilhitsthreeweekhighonuncertaintyoverhormuzbyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-08-19T11:20:18.723027+03:00",
+ "last_run": "2026-08-19T11:25:13.897202+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1340,6 +1340,10 @@
   {
    "d": "2026-08-19",
    "t": "Crude Oil Prices Soar on Hormuz Jitters & Supply Concerns - Rediff MoneyWiz"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Oil hits three-week high on uncertainty over Hormuz By Reuters - Investing.com"
   }
  ]
 }
