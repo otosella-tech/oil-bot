@@ -4,8 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "f0e9a57d28807471",
-  "gettinganoilchangehereswhyyourepayingmore",
   "aedbdef8943d2c73",
   "iransoilistrappedwhilerivalexportsareabouttosurgebuttehranco",
   "c20efab3d3a848fe",
@@ -603,7 +601,9 @@
   "72c3d74385701f78",
   "opinionthehiddenreasongaspricesarenotgoingdown",
   "8673d1ff691e7f9d",
-  "crudeoilpricesriseforfourthdayamidstusirandeadlockuaeattacks"
+  "crudeoilpricesriseforfourthdayamidstusirandeadlockuaeattacks",
+  "925ddedbfa213415",
+  "oilextendsclimbonprolongedhormuzexportuncertainty"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-08-19T08:10:14.106235+03:00",
+ "last_run": "2026-08-19T08:15:14.974049+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1320,6 +1320,10 @@
   {
    "d": "2026-08-19",
    "t": "Crude oil prices rise for fourth day amidst US-Iran deadlock, UAE attacks - CNBC TV18"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Oil extends climb on prolonged Hormuz export uncertainty - WTVB"
   }
  ]
 }
