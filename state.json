@@ -4,10 +4,6 @@
   "Brent": 90.67
  },
  "seen": [
-  "cba52e2f5ef564e8",
-  "usequityindexesslideaftertrumpsthreatstobombomanliftscrudeoi",
-  "db2359061cd436c1",
-  "asiasharesdeclineasworriesaboutrisingoilpricesoutweighperksf",
   "0a73974b8ef42dd0",
   "canadiandollarholdsnearearlyjunehighasrisingoilpricesoffsetm",
   "75d6f2f9a16f5bee",
@@ -603,7 +599,11 @@
   "5b14fb1b1f678b3e",
   "usdieselcracksurpasses100abarrelforthefirsttimeonsupplydisru",
   "082a11b5f9c52c10",
-  "marketsfallinearlytradeamidrisingcrudeoilprices"
+  "marketsfallinearlytradeamidrisingcrudeoilprices",
+  "f76cb7615a443215",
+  "venezuelasignsoildealswithslbandhunttoboostproduction",
+  "06925e7ac2306cd8",
+  "lulabackspetrobrasoildiscoveryinmouthofamazonbasin"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-19",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-08-19T09:55:13.015582+03:00",
+ "last_run": "2026-08-19T10:00:21.525725+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
@@ -1332,6 +1332,10 @@
   {
    "d": "2026-08-19",
    "t": "Oil prices jump after Iran publishes restrictive draft plan for Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-08-19",
+   "t": "Venezuela Signs Oil Deals With SLB and Hunt to Boost Production"
   }
  ]
 }
