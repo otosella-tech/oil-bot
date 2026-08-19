@@ -4,8 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "40ce6c7e1aad15f1",
-  "usstockindexfuturesdropasbondyieldsoilpricesrise",
   "1c7dfb2954274328",
   "gulftochinasupertankerrateshit510000aday",
   "1e55d89da8dc5f3d",
@@ -603,7 +601,9 @@
   "5eddcb6c7550e8f5",
   "usfuturesareflatasairelatedstockshitbyheavysellingoilpricesr",
   "ce9cbcc90587d7ee",
-  "chinaisthecrudeoilmarketsinvisiblehand3reasonspricesaredoing"
+  "chinaisthecrudeoilmarketsinvisiblehand3reasonspricesaredoing",
+  "9e9bed12474d4539",
+  "worldslargestelectricplanefliesfor27minuteson5ofpower"
  ],
  "releases_done": {
   "2026-08-19|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-19",
   "count": 60
  },
- "last_run": "2026-08-19T20:25:13.601550+03:00",
+ "last_run": "2026-08-19T20:30:18.143348+03:00",
  "sent_stories": [
   {
    "d": "2026-08-16",
