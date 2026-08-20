@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "04caaeb158c5d421",
-  "straitofhormuzshippingslowsaftervesselattack",
-  "d7b6e71412f01c32",
-  "usbecomestopdestinationforvenezuelanoilfollowingsanctionsrel",
   "a7a034c5f0c4dc7a",
   "usirantensionspushoilpriceshigherasdieselmarginshitrecords",
   "9e8ae8b6d12255ba",
@@ -603,7 +599,11 @@
   "0307a17dfca90976",
   "usacrudeoilstocksseeanotherbuild",
   "1b35ae3fe730ef38",
-  "germandieselpricessurgeasoilsupplyandtransportcostsclimb"
+  "germandieselpricessurgeasoilsupplyandtransportcostsclimb",
+  "5209e67422a4523d",
+  "highcrudeoilpricespushupnationalaverage",
+  "ebe471f90030045b",
+  "usstocksmovingbacktothedownsideascrudeoilsurges"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T18:00:25.148967+03:00",
+ "last_run": "2026-08-20T18:05:13.071497+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
