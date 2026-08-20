@@ -4,8 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "5843264c1b8f7aac",
-  "septemberwticrudeoilcontractclosesup044or05settlesat8494perb",
   "135661ead9cdf702",
   "twoshipstransitingstraitofhormuzareattackedasoilpricesrise",
   "1ba50e6291ba7f2a",
@@ -603,7 +601,9 @@
   "e9494b997c39cbd9",
   "uscrudeoilstockpilespostunexpectedbuild",
   "e07adc64da0195bc",
-  "demandfortankerssoarsasgulfoilproducerssearchforwaystoexport"
+  "demandfortankerssoarsasgulfoilproducerssearchforwaystoexport",
+  "907ad61a25aa467c",
+  "wticrudeoilfuturesriseasdieselmarginshitrecordhighs"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 13
  },
- "last_run": "2026-08-20T07:25:12.465844+03:00",
+ "last_run": "2026-08-20T07:30:18.179139+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
