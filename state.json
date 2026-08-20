@@ -4,8 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "1fd32ed1d4e85b0b",
-  "bitcoinrisesdespitespikeinbondyieldscrudeoil",
   "0278d794fd224d57",
   "wticrudeoilchargeshigherwithfedminutessettotestbulls",
   "ec2918e135afdb49",
@@ -603,7 +601,9 @@
   "98e2badfa88acb95",
   "generalstaffconfirmsstrikesonoilrefineryintatarstanoiltermin",
   "cf860edaa100ff24",
-  "usstockfuturesmixedamidearningsreports"
+  "usstockfuturesmixedamidearningsreports",
+  "eaa784d02cb07f7f",
+  "usboundoiltankertargetedincyberattack"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T14:50:14.653439+03:00",
+ "last_run": "2026-08-20T14:55:12.095999+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
@@ -1584,6 +1584,10 @@
   {
    "d": "2026-08-20",
    "t": "General Staff confirms strikes on oil refinery in Tatarstan, oil terminal in Krasnodar Krai - Ukrinform"
+  },
+  {
+   "d": "2026-08-20",
+   "t": "US-Bound Oil Tanker Targeted in Cyberattack - تسنیم"
   }
  ]
 }
