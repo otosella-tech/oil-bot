@@ -4,12 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "cdea0afed4bdc519",
-  "oilpricesjumpafterusiranceasefireexpiresandtrumpthreatensoma",
-  "5015a5547bd11ab9",
-  "iraqapprovescrudeoilexportmechanismsandcontractsstartingsept",
-  "973a07dce145858d",
-  "murbancrudejumpsto4monthhighasadnoccurbssupplytoasia",
   "d3ec92ab75996e7d",
   "selloffineurozonebondscontinuesasyieldshitnearlytwodecadehig",
   "dcff0d68c6d65e03",
@@ -603,7 +597,13 @@
   "1071d9495a56da02",
   "chinaissqueezingindiaoutofrussiasoiltrade",
   "5ed222cf90adbdc3",
-  "continentalresourcesmercuriaenvisionequalpartnershipjvtoboos"
+  "continentalresourcesmercuriaenvisionequalpartnershipjvtoboos",
+  "bba145047db2e290",
+  "usstocksfallafterweakearningsreports",
+  "5ec13ea02da7497f",
+  "bessentreactstospikeinoilpricesaftertreasurymovestocalmbondm",
+  "7c36ed4e2aeefdf0",
+  "septemberwticrudeoilcontractclosesup200or23settlesat8783perb"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T21:45:16.030112+03:00",
+ "last_run": "2026-08-20T21:50:19.154554+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
