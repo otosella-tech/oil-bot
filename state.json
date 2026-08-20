@@ -4,8 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "25cd1beb97ea404f",
-  "iranhaslostsignificantcontrolofthestraitofhormuz",
   "9073bb2531de240c",
   "tradingdaybondsslamstocks",
   "7e618c3f0b55247d",
@@ -603,7 +601,9 @@
   "3374a205bda57bc4",
   "middleeastoilcrisissendssupertankerpricestorecordhighs",
   "60d1c9143c99076d",
-  "distillatestockssinkfurtherasuscrudeinventoriesbarelybudge"
+  "distillatestockssinkfurtherasuscrudeinventoriesbarelybudge",
+  "c827f8e13fe91d09",
+  "oilpricesupbeataftertrumpvowseconomicddayforiran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-20",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-08-20T11:00:20.318463+03:00",
+ "last_run": "2026-08-20T11:05:13.140851+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
@@ -1508,6 +1508,10 @@
   {
    "d": "2026-08-20",
    "t": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs"
+  },
+  {
+   "d": "2026-08-20",
+   "t": "Oil prices upbeat after Trump vows ’economic D-Day’ for Iran - Investing.com"
   }
  ]
 }
