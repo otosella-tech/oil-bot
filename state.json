@@ -4,8 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "f86ef8c8bf5c41ff",
-  "nasdaq100forecaststockstakeadipamidpressurefromyieldsandoilp",
   "3ac455c6b0c46033",
   "oilinchesupasusiranpeacedealfades",
   "c379c4abcb0bc457",
@@ -603,7 +601,9 @@
   "0936790b1e02419a",
   "oilpricesup190826",
   "68dcd5b54f7cb186",
-  "chineserefinerssnapupiraqioilasgulfsupplyroutesfracture"
+  "chineserefinerssnapupiraqioilasgulfsupplyroutesfracture",
+  "30c28ec933ed3798",
+  "eiareportsanotherriseinuscrudeoilstocks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 25
  },
- "last_run": "2026-08-20T08:30:17.542966+03:00",
+ "last_run": "2026-08-20T08:35:13.022838+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
