@@ -4,8 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "7147be2a3f913bc5",
-  "exxonmobilhowtheoilgiantisputtingpressureontheeu",
   "7676b8cff2eccfd2",
   "hormuztrafficslowsasuncertaintyoverwaterwaypersists",
   "64914226b80ed9d8",
@@ -603,7 +601,9 @@
   "1629d219cbb911ac",
   "brentoilpricetops93asus",
   "8b76596579110b9f",
-  "brentoilpricetops93asusiranimpassepersists"
+  "brentoilpricetops93asusiranimpassepersists",
+  "f06f3bd70e3d06f4",
+  "dowjonesfuturesfallasoilpricesbitcoinjumpwalmartskidsonearni"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T14:35:13.768343+03:00",
+ "last_run": "2026-08-20T14:40:20.369045+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
