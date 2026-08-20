@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "32dadca3d768abf8",
-  "12yearsaftertheoilspillwhatishappeningintheavronanaturereser",
   "66fb45a80570a7a5",
   "willgaspricesfallifcompaniesbuildoilroutesthatbypassthestrai",
   "0556a2711aac0d34",
@@ -603,7 +601,9 @@
   "84f842f6537101f7",
   "longerwellsboostpermiancrudeoilandnaturalgasproduction",
   "b9ac1e32d75a433b",
-  "crudeoilpriceforecastbreakoutcouldsignalnextleghigher"
+  "crudeoilpriceforecastbreakoutcouldsignalnextleghigher",
+  "3da4e380aca7e31f",
+  "washingtoneasesgasolinerulesasiranpressurecampaignjoltsfuelc"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 4
+  "count": 5
  },
- "last_run": "2026-08-21T00:45:16.227851+03:00",
+ "last_run": "2026-08-21T00:50:14.766502+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
