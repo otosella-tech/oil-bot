@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "b5813b2c61def042",
-  "thecommoditiesfeedoilrisesamidusiranconflict",
   "7f8177dab456d025",
   "goldsetforpositivebiasbrentmayslidetowards80bblongulfexports",
   "f543c089c1f4d046",
@@ -603,7 +601,9 @@
   "75c4b3a613982da9",
   "crudeoilpricesbrentwtiriseforfifthday",
   "56b5b7c9078d6ac0",
-  "stocksdipasbondyieldsandoilrisewalmartearningsdragonretailal"
+  "stocksdipasbondyieldsandoilrisewalmartearningsdragonretailal",
+  "4844897cf5564b33",
+  "trkiyesenergyroletogrowwithsurgeinoilflowsfromiraqline"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T17:05:13.651524+03:00",
+ "last_run": "2026-08-20T17:10:15.518258+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
@@ -1612,6 +1612,10 @@
   {
    "d": "2026-08-20",
    "t": "US crude oil tops $87 as Trump warns of \"Economic D-Day\" for Iran - Crypto Briefing"
+  },
+  {
+   "d": "2026-08-20",
+   "t": "Türkiye's energy role to grow with surge in oil flows from Iraq line - Daily Sabah"
   }
  ]
 }
