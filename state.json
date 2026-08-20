@@ -606,16 +606,16 @@
   "reportusopenssecrethormuzoilcorridor"
  ],
  "releases_done": {},
- "last_digest": "2026-08-19",
+ "last_digest": "2026-08-20",
  "digest_prices": {
-  "WTI": 84.69,
-  "Brent": 91.6
+  "WTI": 84.44,
+  "Brent": 91.82
  },
  "llm": {
   "date": "2026-08-20",
-  "count": 17
+  "count": 23
  },
- "last_run": "2026-08-20T07:58:07.200444+03:00",
+ "last_run": "2026-08-20T08:00:21.181280+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
