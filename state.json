@@ -4,8 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "de4487d67826f14d",
-  "somedieselanalystsarewarningofasupplycrunchnobodyinwashingto",
   "e9494b997c39cbd9",
   "uscrudeoilstockpilespostunexpectedbuild",
   "43720c5bed2626da",
@@ -603,7 +601,9 @@
   "da00a9123d78e2c0",
   "japanandsaudiarabiaagreeonimportanceofsafehormuzpassagewitho",
   "ed7bbcc82e66829f",
-  "uksproducerpriceinflationeasesascrudeoilpricesfallinjuly"
+  "uksproducerpriceinflationeasesascrudeoilpricesfallinjuly",
+  "d0923afd1a71477b",
+  "trumpissqueezingiranseconomyandoilsalesitmaystillhavetheuppe"
  ],
  "releases_done": {},
  "last_digest": "2026-08-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-20",
-  "count": 9
+  "count": 10
  },
- "last_run": "2026-08-20T07:00:22.510765+03:00",
+ "last_run": "2026-08-20T07:05:11.732210+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
