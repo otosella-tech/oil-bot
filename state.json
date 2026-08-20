@@ -4,10 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "7894a9ea1d54debd",
-  "evsalesarerisingafterthegulfoilshockhereswhere",
-  "53601f1513d9650f",
-  "5energystockscashinginonthenewenergycrunch",
   "381471028f9acaf8",
   "trumpsaysnotalksplannedwithirantehransaysstraitofhormuzstill",
   "7c7c7364ea0f96cb",
@@ -603,7 +599,11 @@
   "cd54a0438b6a201e",
   "equinorsignsthreeyearsverdrupcrudedealwithorlen",
   "3e98b384278c841e",
-  "currentpriceofoilasofaugust172026"
+  "currentpriceofoilasofaugust172026",
+  "b679365517102d46",
+  "chinabuyssaudicrudeoilinraretenderasimportsstaymuted",
+  "5fbbb4234b3024f9",
+  "cnenergybeginsoilproductionatcoldlakeprojectalberta"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-20",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-08-20T13:05:14.943838+03:00",
+ "last_run": "2026-08-20T13:10:13.915976+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
@@ -1540,6 +1540,10 @@
   {
    "d": "2026-08-20",
    "t": "Chinese Refiners Snap Up Iraqi Oil as More Supplies Exit Hormuz - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-20",
+   "t": "China Buys Saudi Crude Oil in Rare Tender as Imports Stay Muted - Bloomberg.com"
   }
  ]
 }
