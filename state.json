@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "0d4cf86311fb5575",
-  "currentpriceofoilasofaugust192026",
   "524627bef6c468d6",
   "whyisntthepriceofoilevenhigher",
   "79205f87cac9308c",
@@ -603,7 +601,9 @@
   "e9b4423fdfd645b0",
   "irantensionspushoilnear94",
   "75c43d86d1a49fc4",
-  "usstocksmovesharplylowerascrudeoilsurgeswalmartslumps"
+  "usstocksmovesharplylowerascrudeoilsurgeswalmartslumps",
+  "6616d3637bc74b02",
+  "usequitymarketsendloweraftercrudeoilbondyieldsrisefollowingt"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T23:20:14.646836+03:00",
+ "last_run": "2026-08-20T23:25:12.649204+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
