@@ -4,12 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "578bb283042a496e",
-  "oiljumpspast91astrumpcastsdoubtonanewdealwithiran",
-  "0b4a1720c60adfb0",
-  "peterthielbets76milliononargentinasvacamuertashale",
-  "78f7ad646e27d29a",
-  "usoilproducerssettoinkproductiondealswithvenezuela",
   "0b53e7f19a6e643c",
   "usenergysecretarywrightsaysnewmexicohasroomtogrowamidoilgasb",
   "5544e88532260466",
@@ -603,7 +597,13 @@
   "6a841796e7062254",
   "equinorandorlenstrengthenenergypartnershipwithcrudeoilagreem",
   "c6e743f0340e43b4",
-  "oilrisesasiransanctionstightendespiteuscrudebuild"
+  "oilrisesasiransanctionstightendespiteuscrudebuild",
+  "de4e68b3fef43e4f",
+  "oilhits3weekhighonmiddleeastsupplyconcernsamidwarimpasse",
+  "b4690cd66823b173",
+  "oilpricesriseastrumpsharpensiranrhetoricamidtalksimpasse",
+  "9942641199f2a654",
+  "crudeoilpricesedgehigherbrenttops92perbarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-20",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-08-20T11:40:14.696987+03:00",
+ "last_run": "2026-08-20T11:45:16.035138+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
@@ -1520,6 +1520,14 @@
   {
    "d": "2026-08-20",
    "t": "Oil Rises as Iran Sanctions Tighten Despite U.S. Crude Build - TradingPedia"
+  },
+  {
+   "d": "2026-08-20",
+   "t": "Oil hits 3-week high on Middle East supply concerns amid war impasse - Reuters"
+  },
+  {
+   "d": "2026-08-20",
+   "t": "Oil prices rise as Trump sharpens Iran rhetoric amid talks impasse - CNBC"
   }
  ]
 }
