@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "925ddedbfa213415",
-  "oilextendsclimbonprolongedhormuzexportuncertainty",
-  "d1eea77777cd9643",
-  "oilpricesup180826",
   "73dadc57adcaa129",
   "oilpricesriseforfourthdayashormuztrafficslows",
   "740c59a52f040cbf",
@@ -603,7 +599,11 @@
   "96c7897b80b71133",
   "thecommoditiesfeedoiladvancesasustightenspressureoniran",
   "ca3b44428b60aa7a",
-  "southafricagetsinflationrelieffirsttimeinfivemonthsasfuelpri"
+  "southafricagetsinflationrelieffirsttimeinfivemonthsasfuelpri",
+  "fca29c6b8e5aaf43",
+  "usstocksmaycomeunderpressureascrudeoilpricesspike",
+  "84edf05eacf04a79",
+  "artofthesealtrumpalignedoilgrouptoutssealskindiplomacyongree"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T16:00:32.588136+03:00",
+ "last_run": "2026-08-20T16:05:13.260658+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
