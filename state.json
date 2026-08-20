@@ -4,10 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "0278d794fd224d57",
-  "wticrudeoilchargeshigherwithfedminutessettotestbulls",
-  "ec2918e135afdb49",
-  "indiansharesmutedatopenonhighercrudetreasuryyields",
   "6dd60a7c47191e20",
   "watchfesharakioilsrealstoryliesinproductsnotcrude",
   "c0738c085c2626c4",
@@ -603,7 +599,11 @@
   "cf860edaa100ff24",
   "usstockfuturesmixedamidearningsreports",
   "eaa784d02cb07f7f",
-  "usboundoiltankertargetedincyberattack"
+  "usboundoiltankertargetedincyberattack",
+  "448a6302706c83c7",
+  "oilpricesrise3astrumpsharpensiranrhetoricamidtalksimpasse",
+  "d303af2618b0828c",
+  "forecastupdateforcrudeoil20082026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T15:05:14.817524+03:00",
+ "last_run": "2026-08-20T15:10:18.890224+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
@@ -1588,6 +1588,10 @@
   {
    "d": "2026-08-20",
    "t": "US-Bound Oil Tanker Targeted in Cyberattack - تسنیم"
+  },
+  {
+   "d": "2026-08-20",
+   "t": "Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse - CNBC"
   }
  ]
 }
