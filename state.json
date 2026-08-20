@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "332181db24aa1478",
-  "crudeoilpricessoaronhormuzjitterssupplyconcerns",
-  "f44375419e0627a4",
-  "chineseoiltankersturnbackashormuzrisksmount",
   "1d5e005161ef55a3",
   "oilhitsthreeweekhighonuncertaintyoverhormuzbyreuters",
   "ee56917cee8aafc6",
@@ -603,7 +599,11 @@
   "d6c2069ae1a92651",
   "orleninksdealtosecurenearly25crudefeedstockneedsfromequinor",
   "090229c580ca52d9",
-  "oilpricesjump3astrumpthreatenseconomicwarfare"
+  "oilpricesjump3astrumpthreatenseconomicwarfare",
+  "a0515d5acb9fb0ef",
+  "coalindiaventuresintocriticalmineralstrading",
+  "5ef8dde85c916b87",
+  "oilcracks89astrumplauncheseconomicddayvsiran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T17:25:13.738271+03:00",
+ "last_run": "2026-08-20T17:30:18.981024+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
