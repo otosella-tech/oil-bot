@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "394358788ad4a678",
-  "howtheomanoilspillcouldaffectmarinelife",
   "54f7ad13f430d285",
   "oilmarketstartspricinginaprolongedhormuzcrisis",
   "a57fd4a08dab7735",
@@ -603,7 +601,9 @@
   "1ef8748a821508ee",
   "trumptoutshormuzsuccessasindustryquestionsscaleofoilrecovery",
   "90e39a5acc3f55c2",
-  "norwegiancruiselinedrops5carnivalfalls4royalcaribbeanslips3a"
+  "norwegiancruiselinedrops5carnivalfalls4royalcaribbeanslips3a",
+  "de8320e68a42f02c",
+  "oilpricessurgeasusthreatenspressureoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T20:05:14.608603+03:00",
+ "last_run": "2026-08-20T20:10:15.492577+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
@@ -1648,6 +1648,10 @@
   {
    "d": "2026-08-20",
    "t": "Trump touts Hormuz success as industry questions scale of oil recovery - Lloyd's List"
+  },
+  {
+   "d": "2026-08-20",
+   "t": "Oil prices surge as U.S. threatens pressure on Iran - Transport Topics"
   }
  ]
 }
