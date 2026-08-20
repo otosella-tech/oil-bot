@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "66fb45a80570a7a5",
-  "willgaspricesfallifcompaniesbuildoilroutesthatbypassthestrai",
-  "0556a2711aac0d34",
-  "sharesfallinasiawithkospidown57whileoilpricesjumpabcnews",
   "feeb6c903be67bc3",
   "aresubseaoilandgaspipelinesapreviouslyunrecognizedsourceofoc",
   "6ce8af97a7caccc4",
@@ -603,7 +599,11 @@
   "b9ac1e32d75a433b",
   "crudeoilpriceforecastbreakoutcouldsignalnextleghigher",
   "3da4e380aca7e31f",
-  "washingtoneasesgasolinerulesasiranpressurecampaignjoltsfuelc"
+  "washingtoneasesgasolinerulesasiranpressurecampaignjoltsfuelc",
+  "c6458aabef97b1f3",
+  "hormuzoilcrisisacceleratesglobalevsales",
+  "58936ce3c117d6ea",
+  "theoilspillingtankeroffomantiestoaprolificshadowfleetactoran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-08-21T00:59:35.135627+03:00",
+ "last_run": "2026-08-21T01:00:22.382275+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1352,6 +1352,10 @@
   {
    "d": "2026-08-21",
    "t": "Bessent Says He Doesn’t “Really Understand” Oil Price Spike After Trump Announces “ECONOMIC D-DAY” on Iran - Truthout"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Hormuz Oil Crisis Accelerates Global EV Sales"
   }
  ]
 }
