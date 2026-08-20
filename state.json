@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "aff98c9cbb062ee1",
-  "oilrisesonpersistenthormuzuncertainty",
   "abd0a9aa060c2d75",
   "howhoustondealtwiththeoilbustinthe80s",
   "9f8c604ab0746172",
@@ -603,7 +601,9 @@
   "b66331af4f9c563e",
   "crudeoilgains3walmartsharesdropafterq2results",
   "3b5f8431e94c62fe",
-  "saudijunecrudeexportsclimbfromrecordmaylowdatashows"
+  "saudijunecrudeexportsclimbfromrecordmaylowdatashows",
+  "5b1350260c0f8b31",
+  "arehighoilpricesatailwindforexxonmobilsenergybusiness"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T19:20:15.095164+03:00",
+ "last_run": "2026-08-20T19:25:13.179725+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
