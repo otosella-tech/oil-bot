@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "0cc761c3741bb07a",
-  "iraqapprovesthreemonthmechanismforcrudeoilexportsstartingsep",
-  "5b14fb1b1f678b3e",
-  "usdieselcracksurpasses100abarrelforthefirsttimeonsupplydisru",
   "082a11b5f9c52c10",
   "marketsfallinearlytradeamidrisingcrudeoilprices",
   "f76cb7615a443215",
@@ -603,7 +599,11 @@
   "16172bce8085d17f",
   "bondyieldsjumperasingimpactoftreasurydepartmentsintervention",
   "84d3c5098c8cb103",
-  "oilsurgesnearly3percentasustightenspressureoniranafterhormuz"
+  "oilsurgesnearly3percentasustightenspressureoniranafterhormuz",
+  "82a1dcf8f016e3d9",
+  "ukconservativesclaimnetzerorollbackcouldsavefamilies540ayear",
+  "706bbc82634c014c",
+  "pressurebuildsanewinthebondmarketasoilpricesjumpusstocksfall"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T16:55:13.203356+03:00",
+ "last_run": "2026-08-20T17:00:24.108324+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
