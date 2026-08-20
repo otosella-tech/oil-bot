@@ -4,12 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "082a11b5f9c52c10",
-  "marketsfallinearlytradeamidrisingcrudeoilprices",
-  "f76cb7615a443215",
-  "venezuelasignsoildealswithslbandhunttoboostproduction",
-  "06925e7ac2306cd8",
-  "lulabackspetrobrasoildiscoveryinmouthofamazonbasin",
   "043cf64c2047155d",
   "technologyleadsusequityindexesloweras30yearyieldtouches19yea",
   "b5813b2c61def042",
@@ -603,7 +597,13 @@
   "82a1dcf8f016e3d9",
   "ukconservativesclaimnetzerorollbackcouldsavefamilies540ayear",
   "706bbc82634c014c",
-  "pressurebuildsanewinthebondmarketasoilpricesjumpusstocksfall"
+  "pressurebuildsanewinthebondmarketasoilpricesjumpusstocksfall",
+  "a3b190324a8f598b",
+  "bondmarketstressreturnsandoilrisesinedgydayformarkets",
+  "33ea3a65d2f37889",
+  "uscrudeoiltops87astrumpwarnsofeconomicddayforiran",
+  "75c4b3a613982da9",
+  "crudeoilpricesbrentwtiriseforfifthday"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T17:00:24.108324+03:00",
+ "last_run": "2026-08-20T17:03:04.080214+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
@@ -1608,6 +1608,10 @@
   {
    "d": "2026-08-20",
    "t": "Oil surges nearly 3 per cent as US tightens pressure on Iran after Hormuz deal expires - thenationalnews.com"
+  },
+  {
+   "d": "2026-08-20",
+   "t": "US crude oil tops $87 as Trump warns of \"Economic D-Day\" for Iran - Crypto Briefing"
   }
  ]
 }
