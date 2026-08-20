@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "f0ceb985501c962c",
-  "opinionthecrackspreadisgoingtomakeyourlifeunpleasant",
   "e69bfc1e3e8e3404",
   "sharesfallinasiawithkospidown57whileoilpricesjump",
   "2e6099e801609f19",
@@ -603,7 +601,9 @@
   "87944d6c7c962d43",
   "canadasoilindustryisboomingcanitlast",
   "b788fe2bdf6339da",
-  "oilhitsover3weekhighonmiddleeastsupplyconcernsamidwarimpasse"
+  "oilhitsover3weekhighonmiddleeastsupplyconcernsamidwarimpasse",
+  "3f771fb060ddfa98",
+  "currentpriceofoilasofaugust102026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 60
  },
- "last_run": "2026-08-20T16:15:33.740789+03:00",
+ "last_run": "2026-08-20T16:20:16.354426+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
