@@ -4,8 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "5a6ab641305acc66",
-  "oilpricesreturnto91energystocksnearrecordhighswhyisthisrally",
   "7894a9ea1d54debd",
   "evsalesarerisingafterthegulfoilshockhereswhere",
   "53601f1513d9650f",
@@ -603,7 +601,9 @@
   "b9e8403bcd2456df",
   "polandsorlenlocksinnorwegiancrudesupplieswithequinoramidoilm",
   "cd54a0438b6a201e",
-  "equinorsignsthreeyearsverdrupcrudedealwithorlen"
+  "equinorsignsthreeyearsverdrupcrudedealwithorlen",
+  "3e98b384278c841e",
+  "currentpriceofoilasofaugust172026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 47
  },
- "last_run": "2026-08-20T13:00:24.059919+03:00",
+ "last_run": "2026-08-20T13:05:14.943838+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
