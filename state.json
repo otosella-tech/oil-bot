@@ -4,8 +4,6 @@
   "Brent": 92.55
  },
  "seen": [
-  "408b7828eeb75452",
-  "canadaspipelineambitionshingeonuncertainoutputexpansion",
   "6a8d0fc3e6c875f4",
   "pumppricescontinuetorisenationalaverageforregulargasreachesh",
   "8d68908d6c6697b4",
@@ -603,7 +601,9 @@
   "a22363cf58ee1d12",
   "oilclosesatthreeweekhighashopesofusiranpeacedealfade",
   "386b72d8e218670a",
-  "couldtheiranwarsparkaprolongedglobalfuelcrisis"
+  "couldtheiranwarsparkaprolongedglobalfuelcrisis",
+  "8139b8829bb6aa3c",
+  "lowercrudeoilpricesdrivingdownnationalaverage"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-20",
   "count": 29
  },
- "last_run": "2026-08-20T09:50:14.019329+03:00",
+ "last_run": "2026-08-20T09:55:13.973501+03:00",
  "sent_stories": [
   {
    "d": "2026-08-17",
