@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "eaa784d02cb07f7f",
-  "usboundoiltankertargetedincyberattack",
   "448a6302706c83c7",
   "oilpricesrise3astrumpsharpensiranrhetoricamidtalksimpasse",
   "d303af2618b0828c",
@@ -603,7 +601,9 @@
   "70820d9ee3f02ec8",
   "stockssettlehigherascrudeoilpricesstabilize",
   "6ba6880076996cef",
-  "theracetounlocktheworldshiddenhydrogenreserves"
+  "theracetounlocktheworldshiddenhydrogenreserves",
+  "72ed8915f6b1a576",
+  "oilpricesarelittlechangedafteriranspresidentindicatestehranw"
  ],
  "releases_done": {
   "2026-08-21|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -617,319 +617,11 @@
   "Brent": 93.49
  },
  "llm": {
-  "date": "2026-08-21",
-  "count": 60
+  "date": "2026-08-22",
+  "count": 2
  },
- "last_run": "2026-08-22T00:15:14.114334+03:00",
+ "last_run": "2026-08-22T00:20:15.937406+03:00",
  "sent_stories": [
-  {
-   "d": "2026-08-18",
-   "t": "Why Libya's Next Oil Pipeline Could Be a Geopolitical Game-Changer - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil climbs as fading US-Iran peace hopes raise supply risks - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil prices creep higher, remain underpinned as Iran crisis rages on - Investing.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Bond yields jump, oil extends gains as US-Iran ceasefire expires - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "U.S. Copper Imports Hit a 12-Year Record as LME Stocks Crash - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Crude prices cross $90 as ceasefire hopes dim, Hormuz disruption weighs on supply - The Times of India"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Saudi Aramco Offers Crude Outside Hormuz - Marine News Magazine"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil prices rise to near 3-wk high amid little progress towards U.S.-Iran peace - Investing.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Crude oil climbs for third straight day as US signals no immediate end to Iran war; Brent above $90 per barrel - TradingView"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict - CNBC"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil market starts pricing in a prolonged Hormuz crisis - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil Rises Amid Lack of Progress in U.S.-Iran Talks to Reopen Strait of Hormuz - WSJ"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Libya Seeks Up to $40 Billion to Boost Oil Output to 2 Million Bpd"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Crude Oil Prices Climb Over $2 as Diplomatic Efforts to End Iran War Stall - Business Post Nigeria"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Libya seeks up to $40bn to develop oil resources - Financial Times"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman - The Guardian"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Bond yields rise, oil extends gains as US-Iran ceasefire expires - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil climbs as fading US-Iran peace hopes raise supply risks By Reuters - Investing.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Despite pipeline talks, Hormuz will remain key to Iraq’s oil exports - Seatrade Maritime News"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Saudi Arabia resumes oil loadings, sales from inside Strait of Hormuz - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Will gas prices fall if companies build oil routes that bypass the Strait of Hormuz? Experts explain - ABC News - Breaking News, Latest News and Videos"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "US stock futures drop as fading Iran peace hopes lift oil, bond yields By Reuters - Investing.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "European shares slip as oil prices and bond yields surge on Middle East fears - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Wolfe Research sees oil prices holding steady amid US-Iran standoff - Investing.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Global bond yields hit multi-decade highs as governments pay the price for U.S.-Iran stalemate - CNBC"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Proposed Canadian crude oil pipeline projects - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil Prices Reach Near Three-Week High as US-Iran Peace Prospects Deteriorate - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "New Syria-Iraq crude pipeline still years away, sources say - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Pakistan refiner Cnergyico expands US crude imports amid Hormuz disruption - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "US Energy Secretary: World Does Not Need Iranian Oil, US Controls Hormuz - iranwire.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "US stock futures fall as fading Iran peace prospects drive up oil, yields - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Tankers U-Turn at Hormuz as Iran Tightens Its Grip"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "View / Hormuz limbo is now global oil’s top risk - Semafor"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Bond Yields Jump and Stocks Slip as Iran Stalemate Unsettles Investors - The New York Times"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Chinese state tankers avoid Strait of Hormuz, Bab al-Mandab – Reuters - Iran International"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "US stocks set for lower open as Iran stalemate lifts oil, yields - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Here is a list of Canada’s current and proposed oil pipelines - BNN Bloomberg"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Gulf-to-China Supertanker Rates Hit $510,000 a Day"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Gulf-to-China Supertanker Rates Hit $510,000 a Day - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "WTI Crude Oil Forecast: Hormuz Risk Overrides Inventory Surge - Investing.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "China's July oil throughput posts first month-on-month rise since Iran war - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "US stocks set for lower open as Iran stalemate lifts oil, yields By Reuters - Investing.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil Extends Gains As Hormuz Solution Appears Distant - WSJ"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "China Added 200,000 Bpd to Crude Reserves in July Despite Hormuz Crisis - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On - The New York Times"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil Prices Fall Following Trump's Comments⬇️ Will Tehran Allow the U.S. to Take Control of the Strait of Hormuz? - XTB.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Russian Oil Spills from Grounded Tanker, Fouling Beaches in Oman - Democracy Now!"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Nigeria's Dangote Refinery secures $1 billion underwriting ahead of IPO - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "How Gulf Oil Is Escaping the Strait of Hormuz"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "China Reroutes Tanker Fleet Away from Hormuz and Bab-el-Mandeb - IranWire"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "A Former Fed President Says Without the War in Iran and the Oil Spike, Nobody Would Even Be 'Talking About the Prospect of a Rate Increase' - Barchart.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "U.S. SPR Falls Fast: What Does it Mean for Oil & Energy ETFs? - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Russia Bars Anti-War Opposition Party From Election"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Ship attack in Hormuz results in one casualty while Trump says strait is 'open and operating' - CNBC"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil rises as US-Iran peace hopes fade - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Venezuela's Oil Revival Accelerates as U.S. Majors Push Trump's New Energy Order - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Saudis Offer to Sell Oil Near Oman, a Possible Sign They’re Sailing Dark Through Hormuz - bloomberg.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil Futures Rise as Trump Says No Iran Talks Scheduled - WSJ"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Russia Pushes Ahead With Uzbekistan Nuclear Plans Despite Money Troubles"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Ship attack in Hormuz kills crew member while Trump says strait is 'open and operating' - CNBC"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Aramco Puts VLCCs Back Into Hormuz After Three-Week Pause"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Russia’s Oil-Flow Slump Deepens as Ukraine Threatens Key Port - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil nears $92 on UAE missile alert as Trump claims Iran talks stuck - Al-Monitor"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Two Ships Transiting Strait of Hormuz Are Attacked as Oil Prices Rise - The New York Times"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Iran is losing control of the Strait of Hormuz - CNN"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "A 4-Million-Bpd Shadow Oil Highway Is Running Through Hormuz"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "A 4-Million-Bpd Shadow Oil Highway Is Running Through Hormuz - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Venezuela sends half its oil production to US refineries, Haustveit says - Investing.com"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil Posts Modest Gains With Strait of Hormuz Situation Unclear - WSJ"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Oil closes at three-week high as hopes of US-Iran peace deal fade - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Two Ships Passing Through the Strait of Hormuz Are Attacked - The New York Times"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Canada's pipeline ambitions hinge on uncertain output expansion - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "About half of Venezuela oil output now goes to US, Under Secretary Haustveit says - Reuters"
-  },
-  {
-   "d": "2026-08-18",
-   "t": "Trump’s rosy Hormuz claims collide with tanker data - Politico"
-  },
   {
    "d": "2026-08-19",
    "t": "Brent oil rises above $90 as Iran rules out interim deal extension, threatens to escalate conflict - CNBC"
@@ -1581,6 +1273,10 @@
   {
    "d": "2026-08-21",
    "t": "Iran crude loadings plunge to one-seventh of pre-war level as blockade bites - Iran International"
+  },
+  {
+   "d": "2026-08-22",
+   "t": "Oil prices are little changed after Iran's president indicates Tehran wants war to end soon - CNBC"
   }
  ]
 }
