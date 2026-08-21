@@ -4,14 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "2f0112f3e1f2e08e",
-  "elevatedoilpricespushjapansimportstoanalltimehigh",
-  "a22363cf58ee1d12",
-  "oilclosesatthreeweekhighashopesofusiranpeacedealfade",
-  "386b72d8e218670a",
-  "couldtheiranwarsparkaprolongedglobalfuelcrisis",
-  "8139b8829bb6aa3c",
-  "lowercrudeoilpricesdrivingdownnationalaverage",
   "0d62c0bdfdfe74c8",
   "oiladvancesforfifthdayastrumptakesaimatiranseconomy",
   "98fe5bdbcd08ff74",
@@ -603,7 +595,15 @@
   "3491a094c39c6c7a",
   "104boilprojectnearsoffshoreinstallationaskeyequipmentreaches",
   "465ce903d3581a39",
-  "usoilrefinersfaceimportsqueezefrombiggestforeignseller"
+  "usoilrefinersfaceimportsqueezefrombiggestforeignseller",
+  "fe7ba07324dd5237",
+  "ukrainiandroneattackhitslukoilrefinerydeepinrussia",
+  "7b909df2f28b05f0",
+  "mostcanadianswantapipelinenobodywantstopayforit",
+  "59d9d620189e1a2b",
+  "iranianoilsalestochinacollapseamiduspressure",
+  "b43dcbc93b38a2c5",
+  "nigerialookstoleadtheoilandgasinvestmentboomawayfromchokepoi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T17:55:12.387663+03:00",
+ "last_run": "2026-08-21T18:00:23.344775+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1520,6 +1520,10 @@
   {
    "d": "2026-08-21",
    "t": "Saudi Oil Exports from Mediterranean Soar with Shuttles North to Avoid Houthis"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Ukrainian Drone Attack Hits Lukoil Refinery Deep in Russia"
   }
  ]
 }
