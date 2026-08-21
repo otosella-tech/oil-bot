@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "aa7934a0417a2aac",
-  "currentpriceofoilasofaug202026",
   "b5807d3dd1d17812",
   "oilpricesjumpaftertrumpdeclareseconomicwaroniran",
   "50201724699e1a6b",
@@ -603,7 +601,9 @@
   "683af0e2c1e60779",
   "ireplacedtheoileggsandwaterinboxedbrownieswithtofuandididnot",
   "99aac09798df3bd9",
-  "crudeoilpricesdeclineamidstsupplyriskconcern"
+  "crudeoilpricesdeclineamidstsupplyriskconcern",
+  "378724446c3d276b",
+  "oilrisesasustargetsiranseconomy"
  ],
  "releases_done": {
   "2026-08-21|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T22:50:17.116890+03:00",
+ "last_run": "2026-08-21T22:54:16.803699+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
