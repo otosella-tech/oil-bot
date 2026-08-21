@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "455addaf0ce238f6",
-  "oilfuturescontinuehigherafterusstockbuild",
   "143c8fd8f8a3b865",
   "eveningupdateforcrudeoil19082026",
   "a90bfc22daffd749",
@@ -603,7 +601,9 @@
   "388c048dcf7103d7",
   "chinakeepsoilbuyingincheckascrudepricesstayabove90",
   "13c2e6a1676cf69f",
-  "oilsetforsecondweeklyriseasunsettledusiranwarcrimpssupplybyr"
+  "oilsetforsecondweeklyriseasunsettledusiranwarcrimpssupplybyr",
+  "cad78a9ba2fe2c04",
+  "oilsetformajorweeklygainaswashingtonprepstoisolateiraneconom"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 37
  },
- "last_run": "2026-08-21T09:50:14.637789+03:00",
+ "last_run": "2026-08-21T09:55:12.430231+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
