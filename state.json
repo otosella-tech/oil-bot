@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "521fb0b05dcf9a3a",
-  "eiashowscrudeoilinventoriesstillrising",
   "6282f9890c24ae8c",
   "howtheusnavyishelpinggetoilthroughthestraitofhormuz",
   "59bfdd8e99372e01",
@@ -603,7 +601,9 @@
   "79b03919c7356e8b",
   "producerpricesfallfor1sttimein11monthsinjulyondecliningoilpr",
   "26786a4bb90db805",
-  "oilpricesfallfrom1mthhighsetforweeklygainonusirantensions"
+  "oilpricesfallfrom1mthhighsetforweeklygainonusirantensions",
+  "c37326f7c078f7c1",
+  "usstocksfallamidyieldoilsurge"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 12
  },
- "last_run": "2026-08-21T04:35:13.204890+03:00",
+ "last_run": "2026-08-21T04:40:14.837433+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
