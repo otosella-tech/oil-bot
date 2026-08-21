@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "1cb0ffa5347c6644",
-  "norwaysequinortosellsverdrupfieldcrudeoiltopolandsorlen",
   "f5b9f280a7188fef",
   "crudeoilinventoriesrisebutfallshortofpreviouslevels",
   "10e5d9f1e34d1f1f",
@@ -603,7 +601,9 @@
   "61696dfd2566e97b",
   "oilflowsnearlytripledbeforeusiranmouexpiredanalysisshows",
   "992edf661616e2d1",
-  "crudeoilpricesslightlyupnationwidebutsteadyinnjroi"
+  "crudeoilpricesslightlyupnationwidebutsteadyinnjroi",
+  "d4bacfb4c7231cd4",
+  "crudeoilpricesconsolidatebelowthursdays1monthhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T18:45:15.050499+03:00",
+ "last_run": "2026-08-21T18:50:15.163862+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
