@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "d728f8a471840ef2",
-  "oilpricetodaybrentcruderemainsabove90perbarrelashormuzoperat",
   "9db505e99de14116",
   "reportusopenssecrethormuzoilcorridor",
   "0936790b1e02419a",
@@ -603,7 +601,9 @@
   "e9494b997c39cbd9",
   "uscrudeoilstockpilespostunexpectedbuild",
   "907ad61a25aa467c",
-  "wticrudeoilfuturesriseasdieselmarginshitrecordhighs"
+  "wticrudeoilfuturesriseasdieselmarginshitrecordhighs",
+  "f041c2b0f96da4ca",
+  "thebatteryboomisbecomingimpossibletoignore"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T16:55:13.975449+03:00",
+ "last_run": "2026-08-21T17:00:20.199214+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
