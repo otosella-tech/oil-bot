@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "143c8fd8f8a3b865",
-  "eveningupdateforcrudeoil19082026",
-  "a90bfc22daffd749",
-  "thestrongestelnioonrecordlandsonthetightestenergymarketinyea",
   "db0597c925d4855c",
   "currentpriceofoilasofaugust182026",
   "5eddcb6c7550e8f5",
@@ -603,7 +599,11 @@
   "13c2e6a1676cf69f",
   "oilsetforsecondweeklyriseasunsettledusiranwarcrimpssupplybyr",
   "cad78a9ba2fe2c04",
-  "oilsetformajorweeklygainaswashingtonprepstoisolateiraneconom"
+  "oilsetformajorweeklygainaswashingtonprepstoisolateiraneconom",
+  "90e2e6844d32be88",
+  "angolancrudeoilexportstofallinoctober",
+  "42bf27eac114b989",
+  "morethanfueloilsroleinmodernmanufacturingisbiggerthanyouthin"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 37
  },
- "last_run": "2026-08-21T10:00:22.934379+03:00",
+ "last_run": "2026-08-21T10:03:44.670164+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
