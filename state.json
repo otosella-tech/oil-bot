@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "0d9b331305b3b616",
-  "crudeoilmoveshigherlowessharesgainafterq2earnings",
   "13fbf304291fbd63",
   "oilpricesup1near3weekhighasmiddleeastcrisisescalates",
   "e1688598693a8478",
@@ -603,7 +601,9 @@
   "c91ed35c01131648",
   "oilpricesfallfrom1mthhighsetforstrongweekonusirantensions",
   "707b7c637ae29952",
-  "oilsetforweeklysurgeasusseekstothrottleiranseconomy"
+  "oilsetforweeklysurgeasusseekstothrottleiranseconomy",
+  "18bb10a8668cbc9f",
+  "oilpricesheadforsecondstraightweeklygainasiranrisksmount"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-08-21T08:25:11.771222+03:00",
+ "last_run": "2026-08-21T08:30:17.524778+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1388,6 +1388,10 @@
   {
    "d": "2026-08-21",
    "t": "Oil Set for Weekly Surge as US Seeks to Throttle Iran’s Economy - Energy Connects"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Oil Prices Head for Second Straight Weekly Gain as Iran Risks Mount"
   }
  ]
 }
