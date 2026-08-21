@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "2ed95a99331f1188",
-  "oilpricesjumpaftertrumpslatestiranthreat",
   "85603b2158d929b9",
   "theiranwarenergycrisisisjustgettingstarted",
   "aa7934a0417a2aac",
@@ -603,12 +601,15 @@
   "f995b55f1f1ce0c9",
   "oilfuturessteadyinustrading",
   "5eb3afd2f3af668b",
-  "crudeoilpricesriseasmiddleeasthostilitiespersist"
+  "crudeoilpricesriseasmiddleeasthostilitiespersist",
+  "683af0e2c1e60779",
+  "ireplacedtheoileggsandwaterinboxedbrownieswithtofuandididnot"
  ],
  "releases_done": {
   "2026-08-21|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
   "2026-08-21|ספירת אסדות קידוח (Baker Hughes)|post": 1,
-  "2026-08-21|דוח פוזיציות ספקולנטים (CFTC COT)|pre": 1
+  "2026-08-21|דוח פוזיציות ספקולנטים (CFTC COT)|pre": 1,
+  "2026-08-21|דוח פוזיציות ספקולנטים (CFTC COT)|post": 1
  },
  "last_digest": "2026-08-21",
  "digest_prices": {
@@ -619,7 +620,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T22:25:12.639383+03:00",
+ "last_run": "2026-08-21T22:30:18.731394+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
