@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "f5b9f280a7188fef",
-  "crudeoilinventoriesrisebutfallshortofpreviouslevels",
   "10e5d9f1e34d1f1f",
   "orlensplkaakcyjnasecuresuptoonequarterofitscrudeoilneeds",
   "6a841796e7062254",
@@ -603,7 +601,9 @@
   "992edf661616e2d1",
   "crudeoilpricesslightlyupnationwidebutsteadyinnjroi",
   "d4bacfb4c7231cd4",
-  "crudeoilpricesconsolidatebelowthursdays1monthhigh"
+  "crudeoilpricesconsolidatebelowthursdays1monthhigh",
+  "1e20842ad12eef5c",
+  "arehighoilpricesatailwindforcenovusenergysbusiness"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T18:50:15.163862+03:00",
+ "last_run": "2026-08-21T18:55:12.100797+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
