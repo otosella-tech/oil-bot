@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "28c7a5bd85d1e13b",
-  "5energystocksbreakingoutasiranceasefireendsoilpriceskeeprisi",
-  "21ff47d074ffdff9",
-  "dieselmarginstop100abarreltoreachrecordhigh",
   "14de0f1af7d446b8",
   "dowjonestopenergyheadlinesat4pmetuscrudeoilstockpilespostwee",
   "69024e7d78c13e4c",
@@ -603,7 +599,11 @@
   "be24b209caca59c8",
   "dieselsuppliestightenaheadoffallharvestdemandrfd",
   "cb30332b28410751",
-  "nigeriaeyes50billionoffshoreoilandgasinvestmentboom"
+  "nigeriaeyes50billionoffshoreoilandgasinvestmentboom",
+  "44c27a73b9af33ed",
+  "oilpricessettlenear4weekhighasmiddleeastcrisisescalates",
+  "4916ec9653173709",
+  "iraqaimstoboostoiloutputto810millionbpdinsixyears"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T13:40:14.272583+03:00",
+ "last_run": "2026-08-21T13:45:14.912884+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1464,6 +1464,10 @@
   {
    "d": "2026-08-21",
    "t": "EXCLUSIVE: Tankers stack up as Venezuela sells oil faster than its ports can handle - Reuters"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Iraq aims to boost oil output to 8-10 million bpd in six years - Reuters"
   }
  ]
 }
