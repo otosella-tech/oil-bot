@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "db635ae8ada7a2e6",
-  "syriaproduces148mbarrelsofcrudeoilinh1",
   "f22f2af5a72fa02d",
   "canadianoilsandsproducerstargetlate2027decisiononpathwaysccs",
   "1629d219cbb911ac",
@@ -603,7 +601,9 @@
   "e43b0db8503eb9e0",
   "lowrivershighstakeseuropesnuclearcoolingcrisis",
   "0760538d15cedd88",
-  "irancrudeloadingsplungetooneseventhofprewarlevelasblockadebi"
+  "irancrudeloadingsplungetooneseventhofprewarlevelasblockadebi",
+  "4ce1cf316eb4e885",
+  "asheatingoilpricesremainvolatilevermonterspreparecautiouslyf"
  ],
  "releases_done": {
   "2026-08-21|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T23:00:21.284223+03:00",
+ "last_run": "2026-08-21T23:05:11.706952+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
