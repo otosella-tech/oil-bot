@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "ed7bbcc82e66829f",
-  "uksproducerpriceinflationeasesascrudeoilpricesfallinjuly",
   "d0923afd1a71477b",
   "trumpissqueezingiranseconomyandoilsalesitmaystillhavetheuppe",
   "5663f63718bbe4e6",
@@ -603,7 +601,9 @@
   "de9fe9c902cb5f85",
   "legalbattleforgermanytoselloilfromdetainedshadowtankerdragso",
   "edcc27997c279cb4",
-  "forecastupdateforcrudeoil21082026"
+  "forecastupdateforcrudeoil21082026",
+  "fca62e31f239cc23",
+  "usmilitarysaysitaidedpassageof660millionbarrelsofoilthroughs"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T16:25:13.070501+03:00",
+ "last_run": "2026-08-21T16:30:18.749627+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1496,6 +1496,10 @@
   {
    "d": "2026-08-21",
    "t": "Saudis shuttle oil north on Sinokor tankers to evade Houthis - Transport Topics"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May - CNBC"
   }
  ]
 }
