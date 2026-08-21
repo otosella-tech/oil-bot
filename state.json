@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "1e55d89da8dc5f3d",
-  "posthasteanenergyshockmuchbiggerthanoilisbrewingoutthere",
-  "69e9a8aa1a891308",
-  "newprocesscouldreduceenergyneededforcrudeoildistillationby31",
   "b73d034a0195fa89",
   "eiauscrudeinventoriesup44millionbbl",
   "bcd8e8134114e9b9",
@@ -603,7 +599,11 @@
   "885cb43bba2599ea",
   "dangoteraisespetrolpriceton1185ascrudeoiltops93barrel",
   "07bdd2b67d68f827",
-  "ukrainiandroneshitmajorlukoilrefineryinpermasrussiareports32"
+  "ukrainiandroneshitmajorlukoilrefineryinpermasrussiareports32",
+  "ffb7cc3b45dada06",
+  "oilpricesheadforsecondweeklyriseasusvowstoturnupeconomicpres",
+  "83a2b1b9044a78a4",
+  "usblockadecutsiranoilexportssqueezingchinesecrudebuyers"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-08-21T11:45:18.486365+03:00",
+ "last_run": "2026-08-21T11:50:14.543078+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1420,6 +1420,10 @@
   {
    "d": "2026-08-21",
    "t": "Ukrainian Drones Hit Major Lukoil Refinery in Perm as Russia Reports 325 UAVs Downed - Kyiv Post"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran - CNBC"
   }
  ]
 }
