@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "ce76cf713a8326dc",
-  "japansexportssurgeonchipsdemandimportshitrecordonoilcosts",
-  "73d0a0ed9cdd7903",
-  "oiledgeshigheramidlingeringmiddleeasttensions",
   "2b299bb1221bb836",
   "oilsupertankersingulfarerentingfor500000perdayreport",
   "205bbc9465bbae7a",
@@ -603,7 +599,11 @@
   "0a9ca4f5435876b6",
   "oilpricessteadyonstalledtalksoverstraitofhormuz",
   "5ff263756d278c6c",
-  "tradersarebracingforanincreasinglyhawkishecb"
+  "tradersarebracingforanincreasinglyhawkishecb",
+  "b6473cd7552dfef0",
+  "saudisshuttleoilnorthonsinokortankerstoevadehouthis",
+  "65ec46ba09767827",
+  "africasstrongestnavalforceunleashesfirepowerinlivefiringexer"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T16:00:23.694571+03:00",
+ "last_run": "2026-08-21T16:05:13.205826+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1492,6 +1492,10 @@
   {
    "d": "2026-08-21",
    "t": "Oil prices steady on stalled talks over Strait of Hormuz - Transport Topics"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Saudis shuttle oil north on Sinokor tankers to evade Houthis - Transport Topics"
   }
  ]
 }
