@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "9e9bed12474d4539",
-  "worldslargestelectricplanefliesfor27minuteson5ofpower",
   "1a464d58f73de480",
   "centralasiablackouttracedtokeyhydropowerplant",
   "573db0692ad9826e",
@@ -603,7 +601,9 @@
   "f2f637ce98eddfb7",
   "oilfuturescrudepausesasussettorampupsanctionsoniran",
   "7edc4764d521e052",
-  "chinasoilimportssettoreboundasrefinershuntfornewsupply"
+  "chinasoilimportssettoreboundasrefinershuntfornewsupply",
+  "2d9c4957a1799a5e",
+  "hormuzshockcallsfornewmideastasiaoilpartnerships"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-08-21T11:05:12.478185+03:00",
+ "last_run": "2026-08-21T11:10:14.763671+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1408,6 +1408,10 @@
   {
    "d": "2026-08-21",
    "t": "Oil futures: Crude pauses as US set to ramp up sanctions on Iran - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Hormuz shock calls for new Mideast-Asia oil partnerships - Nikkei Asia"
   }
  ]
 }
