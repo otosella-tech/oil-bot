@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "8c15f9938f60ea49",
-  "oilmarketreportaugust2026analysis",
   "361948a7d66aa14a",
   "oilgainsonmiddleeastsupplyconcernsamidimpasseinusiranwar",
   "5f50407057e669c9",
@@ -603,7 +601,9 @@
   "e4b0e4f17ba8adbd",
   "stocksclimbascrudeoilstabilizesandbitcoinsoars",
   "45ae026df805557e",
-  "kpctradingltdtojoinasiagasoilpaperasiafueloilpaperasiajetfue"
+  "kpctradingltdtojoinasiagasoilpaperasiafueloilpaperasiajetfue",
+  "7c3a363939f9fd0e",
+  "redlightsareflashinginenergymarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T17:10:14.955375+03:00",
+ "last_run": "2026-08-21T17:15:13.864031+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
