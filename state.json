@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "13e639c6b7b26735",
-  "chinaboostsimportsofrussiancrudestymieingindiasrefiners",
   "61696dfd2566e97b",
   "oilflowsnearlytripledbeforeusiranmouexpiredanalysisshows",
   "e1597d030850344c",
@@ -603,7 +601,9 @@
   "db0597c925d4855c",
   "currentpriceofoilasofaugust182026",
   "1a7070f30dfc4784",
-  "stockssupportedascrudeoilstabilizes"
+  "stockssupportedascrudeoilstabilizes",
+  "0d89bf3a0cc20e6a",
+  "courtupholdstrumpadminordertorestartsyu"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T18:20:17.100518+03:00",
+ "last_run": "2026-08-21T18:25:14.174691+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
