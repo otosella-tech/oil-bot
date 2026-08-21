@@ -4,12 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "61696dfd2566e97b",
-  "oilflowsnearlytripledbeforeusiranmouexpiredanalysisshows",
-  "e1597d030850344c",
-  "venezuelaoilministertouscompaniesitsanentireworldwaitingtobe",
-  "3374a205bda57bc4",
-  "middleeastoilcrisissendssupertankerpricestorecordhighs",
   "60d1c9143c99076d",
   "distillatestockssinkfurtherasuscrudeinventoriesbarelybudge",
   "c827f8e13fe91d09",
@@ -603,7 +597,13 @@
   "1a7070f30dfc4784",
   "stockssupportedascrudeoilstabilizes",
   "0d89bf3a0cc20e6a",
-  "courtupholdstrumpadminordertorestartsyu"
+  "courtupholdstrumpadminordertorestartsyu",
+  "9838bb1f14b18d8d",
+  "chinasteapotslookbeyondiranianoilamidusblockade",
+  "26ea94f97db02553",
+  "oilandgassupplychainresilienceprotectinglngrefinedproductsan",
+  "9d0106b79e756423",
+  "rosenbergshortageofpetrolbutnotpatriotismasrussiansfeelgrowi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T18:25:14.174691+03:00",
+ "last_run": "2026-08-21T18:30:18.845443+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1524,6 +1524,14 @@
   {
    "d": "2026-08-21",
    "t": "Ukrainian Drone Attack Hits Lukoil Refinery Deep in Russia"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "China’s Teapots Look Beyond Iranian Oil amid U.S. Blockade"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war - BBC"
   }
  ]
 }
