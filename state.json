@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "b501b7bccd535363",
-  "oilpricessteadyaftertrumpannouncesmoreeconomicsanctionsonira",
-  "3b8490c4de927556",
-  "crudeoilfuturesoct6clmainuscapitalrotationintoenergyfromtech",
   "1ac305ce218c2a93",
   "morganstanleyexpectschevroncvxtohitanewhighcantheoilgiantkee",
   "86fe838d26d8ad35",
@@ -603,7 +599,11 @@
   "8b2a845f171afd10",
   "equinorsecuresdealtosupplycrudetoorlen",
   "1de990a9128c546d",
-  "currentpriceofoilasofaug212026"
+  "currentpriceofoilasofaug212026",
+  "1d918606d7c1d912",
+  "currentpriceofoilasofaugust142026",
+  "3a44c605a60e6693",
+  "100dieselcrackssignalamuchtighteroilmarketthanbrentsuggests"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T15:50:17.142456+03:00",
+ "last_run": "2026-08-21T15:55:12.964721+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
