@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "5eddcb6c7550e8f5",
-  "usfuturesareflatasairelatedstockshitbyheavysellingoilpricesr",
   "ce9cbcc90587d7ee",
   "chinaisthecrudeoilmarketsinvisiblehand3reasonspricesaredoing",
   "9e9bed12474d4539",
@@ -603,7 +601,9 @@
   "42bf27eac114b989",
   "morethanfueloilsroleinmodernmanufacturingisbiggerthanyouthin",
   "a0817a6263d8c331",
-  "ukrainestrikesmajorlukoilrefineryinpermasrussiareports325dro"
+  "ukrainestrikesmajorlukoilrefineryinpermasrussiareports325dro",
+  "f2f637ce98eddfb7",
+  "oilfuturescrudepausesasussettorampupsanctionsoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-08-21T10:30:18.664289+03:00",
+ "last_run": "2026-08-21T10:35:12.788692+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1404,6 +1404,10 @@
   {
    "d": "2026-08-21",
    "t": "Ukraine Strikes Major Lukoil Refinery in Perm as Russia Reports 325 Drones Downed Overnight - Kyiv Post"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Oil futures: Crude pauses as US set to ramp up sanctions on Iran - Quantum Commodity Intelligence"
   }
  ]
 }
