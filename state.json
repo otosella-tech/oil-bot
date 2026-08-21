@@ -4,12 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "8f961d5f4d4ea20a",
-  "crudeoilanalysiswtipathofleastresistancetoupside",
-  "51720b9c5ff64c74",
-  "theworsteffectsofomansoilspillmaybebeneaththesurface",
-  "1ef505800282242b",
-  "usvenezuelaoiltradesurgesascrudeflowstripledealstakeshape",
   "455addaf0ce238f6",
   "oilfuturescontinuehigherafterusstockbuild",
   "143c8fd8f8a3b865",
@@ -603,7 +597,13 @@
   "06f2221eff0dd4c9",
   "currentpriceofoilasofaug182026",
   "e9a74b063e4633f1",
-  "theiranwarhashitdieselmuchharderthancrudeanditmaynotendsoon"
+  "theiranwarhashitdieselmuchharderthancrudeanditmaynotendsoon",
+  "c1b98288cdee7353",
+  "australiasbeetalooshalebasinisabouttostartpumpinggas",
+  "388c048dcf7103d7",
+  "chinakeepsoilbuyingincheckascrudepricesstayabove90",
+  "13c2e6a1676cf69f",
+  "oilsetforsecondweeklyriseasunsettledusiranwarcrimpssupplybyr"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 36
+  "count": 37
  },
- "last_run": "2026-08-21T09:40:16.282762+03:00",
+ "last_run": "2026-08-21T09:45:15.023063+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
