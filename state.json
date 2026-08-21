@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "98e2badfa88acb95",
-  "generalstaffconfirmsstrikesonoilrefineryintatarstanoiltermin",
   "cf860edaa100ff24",
   "usstockfuturesmixedamidearningsreports",
   "eaa784d02cb07f7f",
@@ -603,7 +601,9 @@
   "78d2685946728ba7",
   "occidentalpetroleumstockcanclimbwithoutahigheroilprice",
   "fafbb3e817f933a8",
-  "cotdataaugust182026goldcoppernetlongsrisecrudeoilsugarfallcf"
+  "cotdataaugust182026goldcoppernetlongsrisecrudeoilsugarfallcf",
+  "70820d9ee3f02ec8",
+  "stockssettlehigherascrudeoilpricesstabilize"
  ],
  "releases_done": {
   "2026-08-21|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T23:40:15.000334+03:00",
+ "last_run": "2026-08-21T23:45:16.094061+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
