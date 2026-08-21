@@ -4,12 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "aa50d094ed889862",
-  "currentpriceofoilasofaug142026",
-  "84bf2c8597daa329",
-  "eiaseesoilcrunchin2026glutin2027",
-  "ca9edad7bc5bf346",
-  "rupeespinswheelsinthinbandshortsawaitfreshentrypoints",
   "38dedd12a2bbaa6d",
   "equinortosupplycrudeoiltopolandsorlenforthreeyears",
   "4ba23a95a3ed7ecb",
@@ -603,7 +597,13 @@
   "50ccffb5d1dd24cf",
   "chinabuyssaudicrudeinraretenderasimportsstaymuted",
   "0584ae02953674ba",
-  "howchevronfuelstexas"
+  "howchevronfuelstexas",
+  "31ab5b51f346c1ab",
+  "oilpriceslittlechangedafteriranspresidentindicatestehranwant",
+  "b9f2aa884b4d3c1d",
+  "crudeoilpriceforecastbrenthits7monthhighof93ascitiwarns70day",
+  "16c9bd0295d63c51",
+  "hasiraniancrudebecomeirrelevanttoglobaloilsupply"
  ],
  "releases_done": {
   "2026-08-21|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T21:15:14.756427+03:00",
+ "last_run": "2026-08-21T21:20:17.349719+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1563,6 +1563,14 @@
   {
    "d": "2026-08-21",
    "t": "China Buys Saudi Crude in Rare Tender as Imports Stay Muted - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Oil prices little changed after Iran's president indicates Tehran wants war to end soon - CNBC"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Has Iranian Crude Become Irrelevant to Global Oil Supply? - Investing.com"
   }
  ]
 }
