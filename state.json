@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "b967737142afee30",
-  "ukinflationjumpsto29asenergybillsbite",
   "65b7ee6ef7c38ebf",
   "crudeoilpricesclimbover1onmiddleeastturmoil",
   "0d9b331305b3b616",
@@ -603,7 +601,9 @@
   "be6f2fa5c30e3065",
   "crudeoilpricefuturesdeclineasusthreatenstoughestsanctionsoni",
   "a7365a3ab3de8ab6",
-  "crudeoilfutureshitonemonthhighasussanctionsoniranreignitesup"
+  "crudeoilfutureshitonemonthhighasussanctionsoniranreignitesup",
+  "c91ed35c01131648",
+  "oilpricesfallfrom1mthhighsetforstrongweekonusirantensions"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-08-21T08:00:20.784128+03:00",
+ "last_run": "2026-08-21T08:05:15.213341+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-08-21",
    "t": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Oil prices fall from 1-mth high; set for strong week on U.S.-Iran tensions - Investing.com"
   }
  ]
 }
