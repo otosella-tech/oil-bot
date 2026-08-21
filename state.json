@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "7efde62163fe9cb4",
-  "orlenequinorcrudeoilagreement3yeardealforjohansverdrupoilnew",
   "aa50d094ed889862",
   "currentpriceofoilasofaug142026",
   "84bf2c8597daa329",
@@ -603,7 +601,9 @@
   "f060103d54f7d8ab",
   "pakistansoilrefinerssettoexport185000mtoffueloilinaugust",
   "50ccffb5d1dd24cf",
-  "chinabuyssaudicrudeinraretenderasimportsstaymuted"
+  "chinabuyssaudicrudeinraretenderasimportsstaymuted",
+  "0584ae02953674ba",
+  "howchevronfuelstexas"
  ],
  "releases_done": {
   "2026-08-21|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T21:10:14.318006+03:00",
+ "last_run": "2026-08-21T21:15:14.756427+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
