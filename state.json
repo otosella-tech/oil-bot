@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "4e7a4440fe5ca29a",
-  "viewhormuzlimboisnowglobaloilstoprisk",
   "8f961d5f4d4ea20a",
   "crudeoilanalysiswtipathofleastresistancetoupside",
   "51720b9c5ff64c74",
@@ -603,7 +601,9 @@
   "e4bf3a6706bf9751",
   "indiansharesmutedashigheroilbondstressspurcaution",
   "06f2221eff0dd4c9",
-  "currentpriceofoilasofaug182026"
+  "currentpriceofoilasofaug182026",
+  "e9a74b063e4633f1",
+  "theiranwarhashitdieselmuchharderthancrudeanditmaynotendsoon"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-08-21T09:35:12.441534+03:00",
+ "last_run": "2026-08-21T09:40:16.282762+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1396,6 +1396,10 @@
   {
    "d": "2026-08-21",
    "t": "Oil futures: Crude steadies as US set to ramp up sanctions on Iran - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "The Iran War Has Hit Diesel Much Harder Than Crude -- and It May Not End Soon - DTN Progressive Farmer"
   }
  ]
 }
