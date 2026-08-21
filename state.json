@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "9decd31155730f78",
-  "centralasiasgrowingoildivide",
   "8c763ec76a03c397",
   "ukrainesousteddefensechiefcallsforwartimeelections",
   "6c5c4368facb491f",
@@ -603,7 +601,9 @@
   "537ce4b7750bd502",
   "proposedcanadiancrudeoilpipelineprojects",
   "2fc88b4b8cc302ed",
-  "crudeoilseesfifthstraightgainmetalsshowmixedperformancelmeal"
+  "crudeoilseesfifthstraightgainmetalsshowmixedperformancelmeal",
+  "3f865af8d3b5c1c1",
+  "venezuelacontinuesdifficultrecoveryfromtwinearthquakesasoils"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 9
+  "count": 11
  },
- "last_run": "2026-08-21T03:35:14.773626+03:00",
+ "last_run": "2026-08-21T03:40:16.551115+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1360,6 +1360,10 @@
   {
    "d": "2026-08-21",
    "t": "Proposed Canadian crude oil pipeline projects - Reuters"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Venezuela continues difficult recovery from twin earthquakes as oil sales surge - FDD's Long War Journal"
   }
  ]
 }
