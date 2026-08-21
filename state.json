@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "0f86739f749f831e",
-  "wticrudeoilpriceanalysisforaugust202026",
   "c379c4abcb0bc457",
   "a4millionbpdshadowoilhighwayisrunningthroughhormuz",
   "d3dc037ec3fbec31",
@@ -603,7 +601,9 @@
   "85d86899528aa401",
   "indiabuildscleanpowerfasterthanitcanuseit",
   "06a3288bd40b4aeb",
-  "saudioilexportsfrommediterraneansoarwithshuttlesnorthtoavoid"
+  "saudioilexportsfrommediterraneansoarwithshuttlesnorthtoavoid",
+  "ffd7d11c917488e4",
+  "dollarlittlechangedasstocksclimbandcrudeoilstabilizes"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T17:35:14.207352+03:00",
+ "last_run": "2026-08-21T17:40:16.320759+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
