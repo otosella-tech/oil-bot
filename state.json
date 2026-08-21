@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "d3dc037ec3fbec31",
-  "elevatedoilpricespushjapansimportstoanall",
   "2f0112f3e1f2e08e",
   "elevatedoilpricespushjapansimportstoanalltimehigh",
   "a22363cf58ee1d12",
@@ -603,7 +601,9 @@
   "ffd7d11c917488e4",
   "dollarlittlechangedasstocksclimbandcrudeoilstabilizes",
   "3491a094c39c6c7a",
-  "104boilprojectnearsoffshoreinstallationaskeyequipmentreaches"
+  "104boilprojectnearsoffshoreinstallationaskeyequipmentreaches",
+  "465ce903d3581a39",
+  "usoilrefinersfaceimportsqueezefrombiggestforeignseller"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T17:50:15.582794+03:00",
+ "last_run": "2026-08-21T17:55:12.387663+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
