@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "ae7002d2b61db13e",
-  "saudiaramcogivesfullseptemberoilallocationsto3europeanrefine",
-  "07f6440a117dfd92",
-  "americanenergysnapshotwhosetsthepriceofoilhowaglobalmarketde",
   "06f2221eff0dd4c9",
   "currentpriceofoilasofaug182026",
   "d7ec97e12eeabbf6",
@@ -603,7 +599,11 @@
   "d2897205b2efb36e",
   "oilfuturescrudesteadiesasussettorampupsanctionsoniran",
   "90d510746987ec58",
-  "whyoilrefinerstockscankeepgaining"
+  "whyoilrefinerstockscankeepgaining",
+  "6ab75e1ebabafb36",
+  "rupeeflatasinterventionanchorstaysinplaceoncourseforweeklydi",
+  "72d3d090ad15f618",
+  "oilpricesup200826"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 34
  },
- "last_run": "2026-08-21T09:05:15.377690+03:00",
+ "last_run": "2026-08-21T09:10:15.226647+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
