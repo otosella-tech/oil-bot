@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "ca54557c4ffe44df",
-  "usrefinersboostcrudeoilintaketohighestlevelsince2019",
-  "5eaf0481a83fed0a",
-  "uscrudeoilstockpilespostweeklyincrease",
   "8074ddcdd373a64f",
   "currentpriceofoilasofaug172026",
   "a302286f3b1ad430",
@@ -603,7 +599,11 @@
   "d608412650b5dd33",
   "whyiseminicrudeoilfuturesstocksurgingtoday",
   "b9cec9bf7a7dca86",
-  "beyondhormuziraqsbidtoreachthemediterranean"
+  "beyondhormuziraqsbidtoreachthemediterranean",
+  "7839454800fa94ca",
+  "irantensionsandhormuzsecuritykeepcrudeoilmarketsonedgewithim",
+  "0ed26917dc706692",
+  "shipspassingthroughhormuzhoverinsingledigitsdatashowsal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-08-21T06:50:14.443633+03:00",
+ "last_run": "2026-08-21T06:55:12.505141+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1368,6 +1368,14 @@
   {
    "d": "2026-08-21",
    "t": "How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz - The New York Times"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Iran Tensions And Hormuz Security Keep Crude Oil Markets On Edge, With Implications For TSX:RY - foreignpolicyjournal.com"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Ships passing through Hormuz hover in single digits, data shows - Al-Monitor"
   }
  ]
 }
