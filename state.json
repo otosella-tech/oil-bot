@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "1e6cfbd736b3a365",
-  "gulfoilgiantspushtoexpandoverseasstockpilesasiranwardragson",
   "b7992f3891e4106b",
   "petrosalamtargetshighercrudeoiloutputafterreaching2547bbld",
   "4746740857e38254",
@@ -603,7 +601,9 @@
   "67ab056dcc9acf6d",
   "crudeoilpricessurgeasbrentandwtirallyonstraitofhormuzdisrupt",
   "7f6556cabefd80e4",
-  "petrochinasinochembuy4millionbarrelsofcrudeoilfromsaudiaramc"
+  "petrochinasinochembuy4millionbarrelsofcrudeoilfromsaudiaramc",
+  "a8080300846f37b0",
+  "usconductingstealthoperationtotransportoilthroughhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -615,7 +615,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T12:45:17.856676+03:00",
+ "last_run": "2026-08-21T12:50:16.201285+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1456,6 +1456,10 @@
   {
    "d": "2026-08-21",
    "t": "Crude Oil Prices: Surge as Brent and WTI Rally on Strait of Hormuz Disruptions - CryptoRank"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "U.S. conducting stealth operation to transport oil through Hormuz - Axios"
   }
  ]
 }
