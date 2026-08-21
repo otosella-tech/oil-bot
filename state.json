@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "714de506c02712a0",
-  "crudeoilpriceanalysiskeyresistancelevelsinfocusamidsupplyris",
   "930b9d4969bcb52f",
   "petrosalamtargetshighercrudeoiloutputafterreaching2547bbdegy",
   "9decd31155730f78",
@@ -603,7 +601,9 @@
   "dcafcc42966d56b6",
   "brazilsnewoilfrontiercouldkeepitsboomalivefordecades",
   "1f41caf08a14456e",
-  "vacamuertaphoenixsellsstaketocontinentaljointbidsplacedinoil"
+  "vacamuertaphoenixsellsstaketocontinentaljointbidsplacedinoil",
+  "537ce4b7750bd502",
+  "proposedcanadiancrudeoilpipelineprojects"
  ],
  "releases_done": {},
  "last_digest": "2026-08-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 7
+  "count": 9
  },
- "last_run": "2026-08-21T03:00:21.554555+03:00",
+ "last_run": "2026-08-21T03:05:12.918157+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1356,6 +1356,10 @@
   {
    "d": "2026-08-21",
    "t": "Hormuz Oil Crisis Accelerates Global EV Sales"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Proposed Canadian crude oil pipeline projects - Reuters"
   }
  ]
 }
