@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "1a464d58f73de480",
-  "centralasiablackouttracedtokeyhydropowerplant",
   "573db0692ad9826e",
   "oilintheshadowsdarkshippingevadessanctions",
   "846338c35891d6a1",
@@ -603,7 +601,9 @@
   "7edc4764d521e052",
   "chinasoilimportssettoreboundasrefinershuntfornewsupply",
   "2d9c4957a1799a5e",
-  "hormuzshockcallsfornewmideastasiaoilpartnerships"
+  "hormuzshockcallsfornewmideastasiaoilpartnerships",
+  "401138300149dee3",
+  "iranianoilofferstochinesebuyersfallasusblockadebitessourcess"
  ],
  "releases_done": {},
  "last_digest": "2026-08-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-21",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-08-21T11:10:14.763671+03:00",
+ "last_run": "2026-08-21T11:15:13.374744+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1412,6 +1412,10 @@
   {
    "d": "2026-08-21",
    "t": "Hormuz shock calls for new Mideast-Asia oil partnerships - Nikkei Asia"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say - Reuters"
   }
  ]
 }
