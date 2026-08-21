@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "7e1248781ff41c71",
-  "hasiraniancrudebecomeirrelevanttoglobaloilsupply",
-  "bc242d0ce81e663f",
-  "chineserefinerssnapupiraqioilasmoresuppliesexithormuz",
   "b9e8403bcd2456df",
   "polandsorlenlocksinnorwegiancrudesupplieswithequinoramidoilm",
   "cd54a0438b6a201e",
@@ -603,7 +599,11 @@
   "25e334a42b9a2910",
   "usstocksriseasthebondmarketsbigswingseaseabitunion",
   "9e2324bf2840b7e4",
-  "crudeoileyesmoreupsideusdcadcouldextendlower"
+  "crudeoileyesmoreupsideusdcadcouldextendlower",
+  "64ae721a7667801c",
+  "usfirmspostsharpearningsgainsinsecondquarter2026",
+  "51ea7073ac5292ab",
+  "theweekinoilstalledhormuztalkstrumpseconomicthreatskeepriskp"
  ],
  "releases_done": {
   "2026-08-21|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-21",
   "count": 60
  },
- "last_run": "2026-08-21T20:00:23.952207+03:00",
+ "last_run": "2026-08-21T20:05:14.100545+03:00",
  "sent_stories": [
   {
    "d": "2026-08-18",
@@ -1539,6 +1539,10 @@
   {
    "d": "2026-08-21",
    "t": "The Tiny California Company Racing Into Venezuela Faster than Big Oil - WSJ"
+  },
+  {
+   "d": "2026-08-21",
+   "t": "The Week in Oil : Stalled Hormuz Talks, Trump's Economic Threats Keep Risk Premium High - marketscreener.com"
   }
  ]
 }
