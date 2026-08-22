@@ -4,12 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "1ce742831e37e327",
-  "hammscontinentalbuyshalfofmercuriasargentinaoilplay",
-  "f14a93ed26f32772",
-  "crudeoilpricesrallyaspresidenttrumpescalatespressureoniran",
-  "b66bdcb30c024c86",
-  "canadiandollarhitsnear3monthhighasoilpricesclimb",
   "3a29ceb6e76925aa",
   "oilextendsrallyasusthreatenseconomicmeasures",
   "759ea9997e6e3fd0",
@@ -603,7 +597,13 @@
   "f34fd4bfb86c280c",
   "venezuelanoilmaninvestigatedoverseasiskeybrokerfortrump",
   "8981977dc9feb48e",
-  "beyondtier1uncoveringdeepthirdpartyvulnerabilitiesinoilandga"
+  "beyondtier1uncoveringdeepthirdpartyvulnerabilitiesinoilandga",
+  "f837ea54035f5200",
+  "eiaweeklyuscrudeoilinventories4405mvs0200mexpected",
+  "90e39a5acc3f55c2",
+  "norwegiancruiselinedrops5carnivalfalls4royalcaribbeanslips3a",
+  "0cafea14e30680fa",
+  "16millionbarrelsofoilweretransportedthroughthestraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-22",
-  "count": 34
+  "count": 35
  },
- "last_run": "2026-08-22T21:30:18.237047+03:00",
+ "last_run": "2026-08-22T21:31:45.740172+03:00",
  "sent_stories": [
   {
    "d": "2026-08-19",
