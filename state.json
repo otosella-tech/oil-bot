@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "de522b3bd989051b",
-  "stocksmoveloweramiddisappointingretailearnings",
-  "909c3e5c56237681",
-  "pressurebuildsanewinthebondmarketaswalmartdragstheusstockmar",
   "3f32150146b6d4dd",
   "beijingbetsonfossilfuelsevenasitleadstheworldinrenewables",
   "0307a17dfca90976",
@@ -603,7 +599,11 @@
   "77752e7339ee123c",
   "brazilsstateoilgiantenterstalksforfourghanablocksafterproduc",
   "adb65a4c00c9eb04",
-  "usoilrigcountdownforweekendingaug21"
+  "usoilrigcountdownforweekendingaug21",
+  "26580dcde3b983c7",
+  "irangrantspermissionforanumberofiraqioiltankerstopassthrough",
+  "740c19833e5fcfc2",
+  "aaahighcrudeoilpricespushupnationalaverage"
  ],
  "releases_done": {},
  "last_digest": "2026-08-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-22",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-08-22T11:50:14.059802+03:00",
+ "last_run": "2026-08-22T11:55:12.982645+03:00",
  "sent_stories": [
   {
    "d": "2026-08-19",
@@ -1292,6 +1292,10 @@
   {
    "d": "2026-08-22",
    "t": "Oil prices jump after Iran publishes restrictive draft plan for Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-08-22",
+   "t": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz - Reuters"
   }
  ]
 }
