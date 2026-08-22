@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "a57fd4a08dab7735",
-  "currentpriceofoilasofaug192026",
   "054addffd4f6b851",
   "iraqapprovesplantoutilizeglobalfirmsforcrudeoilexports",
   "8e83ced8ef61eca0",
@@ -603,7 +601,9 @@
   "ff8947997b3447c7",
   "usacrudeoilstocksseeanotherbuild",
   "8c15ae40b27808f2",
-  "gaspricesupasoilrisespricescouldsetaugustrecordhigh"
+  "gaspricesupasoilrisespricescouldsetaugustrecordhigh",
+  "fa7203a9d7f8df76",
+  "trumpsaysoilcompaniesaremakingtoomuchmoneytheirownbalanceshe"
  ],
  "releases_done": {},
  "last_digest": "2026-08-22",
@@ -615,7 +615,7 @@
   "date": "2026-08-22",
   "count": 28
  },
- "last_run": "2026-08-22T18:13:54.809957+03:00",
+ "last_run": "2026-08-22T18:15:16.240834+03:00",
  "sent_stories": [
   {
    "d": "2026-08-19",
