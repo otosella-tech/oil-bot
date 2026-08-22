@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "e9b4423fdfd645b0",
-  "irantensionspushoilnear94",
   "75c43d86d1a49fc4",
   "usstocksmovesharplylowerascrudeoilsurgeswalmartslumps",
   "6616d3637bc74b02",
@@ -603,7 +601,9 @@
   "a74d701fec555e6f",
   "averagelaorangecountygaspricesriseby11cents",
   "94bba6569d3d25aa",
-  "around40tankerstransitstraitofhormuzfridaynightaxios"
+  "around40tankerstransitstraitofhormuzfridaynightaxios",
+  "aa12f34b52f6fbd8",
+  "highcrudeoilpricespushnevadagaspricesbackup"
  ],
  "releases_done": {},
  "last_digest": "2026-08-22",
@@ -615,7 +615,7 @@
   "date": "2026-08-22",
   "count": 40
  },
- "last_run": "2026-08-22T23:45:15.095599+03:00",
+ "last_run": "2026-08-22T23:50:15.819288+03:00",
  "sent_stories": [
   {
    "d": "2026-08-19",
