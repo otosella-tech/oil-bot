@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "3f771fb060ddfa98",
-  "currentpriceofoilasofaugust102026",
   "f0ceb985501c962c",
   "opinionthecrackspreadisgoingtomakeyourlifeunpleasant",
   "13321c2a537b75f4",
@@ -603,7 +601,9 @@
   "58161b0287a05732",
   "crudeoilforecastwtiextendsrallyamidusirantensions",
   "bad18f5a0e556ebb",
-  "oilsteadyasiranblinksinusstandoffandgirdsfortrumpseconomicas"
+  "oilsteadyasiranblinksinusstandoffandgirdsfortrumpseconomicas",
+  "f8aab87388f6e3da",
+  "seehowchinaweatheredtheiranoilshock"
  ],
  "releases_done": {
   "2026-08-21|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-22",
   "count": 4
  },
- "last_run": "2026-08-22T05:00:20.660679+03:00",
+ "last_run": "2026-08-22T05:05:11.421111+03:00",
  "sent_stories": [
   {
    "d": "2026-08-19",
