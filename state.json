@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "5209e67422a4523d",
-  "highcrudeoilpricespushupnationalaverage",
-  "ebe471f90030045b",
-  "usstocksmovingbacktothedownsideascrudeoilsurges",
   "66c1a5bdf468942f",
   "oilpricesrise2astrumpsharpensiranrhetoricamiddiplomaticimpas",
   "872748506146f77b",
@@ -603,7 +599,11 @@
   "417e8378dbfc1ede",
   "possiblepetrolineexpansionshinesalightonsaudiarabiaslongterm",
   "abad809bba4649c1",
-  "dronesstrikenovokuibyshevskrefineryandozonhubinsamararegion"
+  "dronesstrikenovokuibyshevskrefineryandozonhubinsamararegion",
+  "fc95035a95465087",
+  "trafficalertalllanesofhighway96nowopenafterfireeruptedinoilt",
+  "b1221b668fcb14e8",
+  "generalstaffconfirmsstrikeonrosneftrefineryinrussiassamarare"
  ],
  "releases_done": {},
  "last_digest": "2026-08-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-22",
-  "count": 22
+  "count": 24
  },
- "last_run": "2026-08-22T12:40:14.666501+03:00",
+ "last_run": "2026-08-22T12:45:14.542634+03:00",
  "sent_stories": [
   {
    "d": "2026-08-19",
@@ -1300,6 +1300,10 @@
   {
    "d": "2026-08-22",
    "t": "Drones Strike Novokuibyshevsk Refinery and Ozon Hub in Samara Region - Kyiv Post"
+  },
+  {
+   "d": "2026-08-22",
+   "t": "General Staff confirms strike on Rosneft refinery in Russia’s Samara region - Ukrinform"
   }
  ]
 }
