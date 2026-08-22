@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "8e83ced8ef61eca0",
-  "usstocksslipafterweakearningsreports",
-  "a1dbf1fadb1c0daf",
-  "anotherroundofoilpricehikesloomsnextweekasworldfuelpricesrem",
   "ae3810b189339d3c",
   "whyoilrevenuehasunlockedadeeperconversationaboutsustainableg",
   "9aad0b8d52a9766e",
@@ -603,7 +599,11 @@
   "fa7203a9d7f8df76",
   "trumpsaysoilcompaniesaremakingtoomuchmoneytheirownbalanceshe",
   "a57fd4a08dab7735",
-  "currentpriceofoilasofaug192026"
+  "currentpriceofoilasofaug192026",
+  "e150a845faed2d2b",
+  "globaloilinventoriesonthedeclineagainamidhormuzstalemate",
+  "2fec64d62b75b740",
+  "fuelingvulnerabilitytheeconomicandstrategiccostsofoildepende"
  ],
  "releases_done": {},
  "last_digest": "2026-08-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-22",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-08-22T18:20:16.048137+03:00",
+ "last_run": "2026-08-22T18:25:12.647895+03:00",
  "sent_stories": [
   {
    "d": "2026-08-19",
@@ -1312,6 +1312,10 @@
   {
    "d": "2026-08-22",
    "t": "Global oil prices rise: Brent crude surpasses $94 amid the Hormuz crisis - صوت الإمارات"
+  },
+  {
+   "d": "2026-08-22",
+   "t": "Global oil inventories on the decline again amid Hormuz stalemate - Nikkei Asia"
   }
  ]
 }
