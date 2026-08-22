@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "0c8ae8310eccd0cc",
-  "judgeallowscontroversialoilcompanytocontinuepumpingstripscal",
   "aa5dd468e17bba00",
   "wallstreetsetforloweropenassurgingoilpricesreviveinflationco",
   "70575278e6d948de",
@@ -603,7 +601,9 @@
   "13e0dd9b3eb04223",
   "highcrudeoilpricespushupnationalaverage",
   "c43fdbcd30e43947",
-  "usrefinersfaceimportcrunchfromtopcrudeseller"
+  "usrefinersfaceimportcrunchfromtopcrudeseller",
+  "412b9e69b2fbd0f0",
+  "bessentstoolboxstrugglesagainstthedualpressuresofoilpricesan"
  ],
  "releases_done": {},
  "last_digest": "2026-08-22",
@@ -615,7 +615,7 @@
   "date": "2026-08-22",
   "count": 24
  },
- "last_run": "2026-08-22T14:10:15.867318+03:00",
+ "last_run": "2026-08-22T14:15:15.361254+03:00",
  "sent_stories": [
   {
    "d": "2026-08-19",
