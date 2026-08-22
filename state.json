@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "a22b6b7d22e38494",
-  "europesenergyreservesworkedthenexttestwillbeharder",
   "a82be4798e07bc4f",
   "highcrudeoilpricespushnevadagaspricesbackup",
   "e9b4423fdfd645b0",
@@ -603,7 +601,9 @@
   "7335af6057fac622",
   "sprcrudeoilacquisitionprocedures",
   "9c98fba4684c614c",
-  "eiaseesmassiveuptickinuscrudeoilinventories"
+  "eiaseesmassiveuptickinuscrudeoilinventories",
+  "a74d701fec555e6f",
+  "averagelaorangecountygaspricesriseby11cents"
  ],
  "releases_done": {},
  "last_digest": "2026-08-22",
@@ -615,7 +615,7 @@
   "date": "2026-08-22",
   "count": 39
  },
- "last_run": "2026-08-22T22:05:13.628670+03:00",
+ "last_run": "2026-08-22T22:10:13.591650+03:00",
  "sent_stories": [
   {
    "d": "2026-08-19",
