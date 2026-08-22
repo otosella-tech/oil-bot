@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "5ed222cf90adbdc3",
-  "continentalresourcesmercuriaenvisionequalpartnershipjvtoboos",
   "bba145047db2e290",
   "usstocksfallafterweakearningsreports",
   "5ec13ea02da7497f",
@@ -603,7 +601,9 @@
   "1d9b7cd06fe59542",
   "slowedvesseltrafficandnewsanctionsoniranraiseoilprices",
   "9942951164c22515",
-  "orlensecuresmajoroilsupplydealwithequinor"
+  "orlensecuresmajoroilsupplydealwithequinor",
+  "f7926a1a4cdec2ed",
+  "everychokepointthatisnthormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-22",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-08-22T19:55:12.084887+03:00",
+ "last_run": "2026-08-22T20:00:22.478251+03:00",
  "sent_stories": [
   {
    "d": "2026-08-19",
@@ -1320,6 +1320,10 @@
   {
    "d": "2026-08-22",
    "t": "Slowed vessel traffic and new sanctions on Iran raise oil prices - Oil & Gas Journal"
+  },
+  {
+   "d": "2026-08-22",
+   "t": "Every Chokepoint That Isn't Hormuz"
   }
  ]
 }
