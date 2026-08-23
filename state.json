@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "aa5b170b93c316d0",
-  "rupeebattlesoilhedgingdragrbishieldweakdollarcushionfall",
   "ba66b31a4699cb66",
   "currentpriceofoilasofaugust122026",
   "2f667dc54d5d576a",
@@ -603,7 +601,9 @@
   "5b5a89ce22d3e365",
   "iraqtargets810mmbbldoutputwithinsixyears",
   "0f0734dab576a95c",
-  "crudeoilgeopoliticsdrivemarketmovementanalysts"
+  "crudeoilgeopoliticsdrivemarketmovementanalysts",
+  "5f1be17ef755f0ad",
+  "iranauthorizesiraqioiltankerstotransitstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-23",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-08-23T11:10:13.659080+03:00",
+ "last_run": "2026-08-23T11:15:14.922596+03:00",
  "sent_stories": [
   {
    "d": "2026-08-20",
@@ -1148,6 +1148,10 @@
   {
    "d": "2026-08-23",
    "t": "How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz - The New York Times"
+  },
+  {
+   "d": "2026-08-23",
+   "t": "Iran Authorizes Iraqi Oil Tankers to Transit Strait of Hormuz - Egypt Oil & Gas"
   }
  ]
 }
