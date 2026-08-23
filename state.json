@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "07bdd2b67d68f827",
-  "ukrainiandroneshitmajorlukoilrefineryinpermasrussiareports32",
-  "ffb7cc3b45dada06",
-  "oilpricesheadforsecondweeklyriseasusvowstoturnupeconomicpres",
   "83a2b1b9044a78a4",
   "usblockadecutsiranoilexportssqueezingchinesecrudebuyers",
   "89d3fc950bc09606",
@@ -603,7 +599,11 @@
   "401138300149dee3",
   "iranianoilofferstochinesebuyersfallasusblockadebitessourcess",
   "366ac0ea4651bc02",
-  "currentpriceofoilasofaug132026"
+  "currentpriceofoilasofaug132026",
+  "58938e627826ee9f",
+  "currentpriceofoilasofaugust42026",
+  "f5bb01ac0877894d",
+  "currentpriceofoilasofjuly312026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -615,7 +615,7 @@
   "date": "2026-08-23",
   "count": 41
  },
- "last_run": "2026-08-23T22:35:11.912833+03:00",
+ "last_run": "2026-08-23T22:40:04.120004+03:00",
  "sent_stories": [
   {
    "d": "2026-08-20",
