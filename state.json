@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "12c71bd2590b92fa",
-  "oiledgeslowerasmarketsassesshormuzflowsuseconomicpressureoni",
   "ba275aa5fe74c5db",
   "spikeindarkoiltankersingulfraisesriskofcatastrophicspills",
   "624bee8a8adf4d5f",
@@ -603,7 +601,9 @@
   "abcd833667da5229",
   "iranwarcouldlastdeepinto2027asthestraitofhormuzisntthatclose",
   "e9b387261f9a49ff",
-  "itstimeforvietnamtofendoffchinaoveritsnewoildiscovery"
+  "itstimeforvietnamtofendoffchinaoveritsnewoildiscovery",
+  "1e1760c1f1075a28",
+  "pemexandpetrobrasbetbigonhighriskhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -612,211 +612,11 @@
   "Brent": 94.39
  },
  "llm": {
-  "date": "2026-08-23",
-  "count": 45
+  "date": "2026-08-24",
+  "count": 1
  },
- "last_run": "2026-08-23T23:55:13.557800+03:00",
+ "last_run": "2026-08-24T00:00:20.111192+03:00",
  "sent_stories": [
-  {
-   "d": "2026-08-20",
-   "t": "Russia’s Fuel Crisis Hits Moscow as Rationing Spreads"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Has Trump turned the tables on Iran - or is another round of war coming? - Trita Parsi | Substack"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil prices steady as investors assess US-Iran war outlook - Reuters"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Iranian exports are no longer factored into global oil prices, says Rapidan's Bob Mcnally - CNBC"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil price today: Brent crude remains above $90 per barrel as Hormuz operations remain disrupted - The Times of India"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Report: US opens secret Hormuz oil corridor - Israel National News"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Chinese Refiners Snap Up Iraqi Oil as Gulf Supply Routes Fracture"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "A 4-Million-Bpd Shadow Oil Highway Is Running Through Hormuz - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil prices upbeat after Trump vows ’economic D-Day’ for Iran - Investing.com"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Iran has lost significant control of the Strait of Hormuz - CNN"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil Rises as Iran Sanctions Tighten Despite U.S. Crude Build - TradingPedia"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil hits 3-week high on Middle East supply concerns amid war impasse - Reuters"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil prices rise as Trump sharpens Iran rhetoric amid talks impasse - CNBC"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "U.S. Armed Forces Secure Secret Oil Route Through Strait of Hormuz - IranWire"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Has Iranian Crude Become Irrelevant to Global Oil Supply?"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Chinese Refiners Snap Up Iraqi Oil as More Supplies Exit Hormuz - Bloomberg.com"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "China Buys Saudi Crude Oil in Rare Tender as Imports Stay Muted - Bloomberg.com"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Trump Threatens “Tremendous” Consequences for Countries Helping Iran"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Ukrainian forces strike Russian refinery and oil terminal – photos, video - Українська правда"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Ukraine strikes Russia's Taneco oil refinery, Tamanneftegaz terminal, General Staff confirms - The Kyiv Independent"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil prices rise to highest level in nearly a month amid Hormuz impasse - Investing.com"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil Prices Jump After Trump’s Latest Iran Threat - The New York Times"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "The Iran war energy crisis is just getting started - The Arab Weekly"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil prices jump after Trump declares economic war on Iran - MarketWatch"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Brent Oil Price Tops $93 as U.S.-Iran Impasse Persists"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Brent Oil Price Tops $93 as U.S.-Iran Impasse Persists - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "General Staff confirms strikes on oil refinery in Tatarstan, oil terminal in Krasnodar Krai - Ukrinform"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "US-Bound Oil Tanker Targeted in Cyberattack - تسنیم"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse - CNBC"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Iran truce drives spike in China’s oil imports, but soaring Brent clouds demand - South China Morning Post"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil hits over 3-week high on Middle East supply concerns amid war impasse - Reuters"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Coking Coal Prices Surge 25%, Squeezing India's Steelmakers"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil surges nearly 3 per cent as US tightens pressure on Iran after Hormuz deal expires - thenationalnews.com"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "US crude oil tops $87 as Trump warns of \"Economic D-Day\" for Iran - Crypto Briefing"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Türkiye's energy role to grow with surge in oil flows from Iraq line - Daily Sabah"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Western oil refinery closures set to continue despite war shock - Financial Times"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil prices near three-week high amid Strait of Hormuz uncertainty - Idaho Business Review"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil prices hit three-week high amid Iran war, UAE trade freeze - qz.com"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil prices rise 2% as Trump sharpens Iran rhetoric amid diplomatic impasse - CNBC"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Tajikistan Turns to Iran for Oil as Russian Fuel Supply Collapses"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Crude Oil Prices Jump as Hopes Dim of Reopening the Strait of Hormuz - Barchart.com"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "The Caspian Sea Is Now a Critical Military Lifeline for Russia and Iran"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Trump touts Hormuz success as industry questions scale of oil recovery - Lloyd's List"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil prices surge as U.S. threatens pressure on Iran - Transport Topics"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "The energy market’s rising ‘crack spread’ is threatening to break the American consumer - MarketWatch"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure - CNBC"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil hits more than three-week high as Trump threatens Iran-related retaliation - Reuters"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "China Is Squeezing India Out of Russia’s Oil Trade"
-  },
-  {
-   "d": "2026-08-20",
-   "t": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters"
-  },
   {
    "d": "2026-08-21",
    "t": "Oil prices rise after Treasury Secretary says U.S. will collapse Iran with economic pressure - CNBC"
