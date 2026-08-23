@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "f23ce778e577b4b6",
-  "indiansharesinchhigheratopenhigheroilbondstresscapgains",
-  "ea85e034b738a187",
-  "middleeastoilsqueezehowmuchcrudeisactuallyflowingthroughhorm",
   "776dd5131af121d4",
   "oilsetforsecondweeklyriseasunsettledusiranwarcrimpssupply",
   "be6f2fa5c30e3065",
@@ -603,7 +599,11 @@
   "f2648a5f2606b59b",
   "uscrudeoilstockpilespostweeklyincrease",
   "49122d891657c3f0",
-  "currentpriceofoilasofaug62026"
+  "currentpriceofoilasofaug62026",
+  "0d952d3dc2661a49",
+  "hormuzcrisishidesadeeperoilthreatthatcouldoutlastthewar",
+  "cb590f9d8c1c33e2",
+  "nasrpetroleumboostsgasolinedieseloutputinfy202526"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-23",
-  "count": 29
+  "count": 30
  },
- "last_run": "2026-08-23T13:45:13.273959+03:00",
+ "last_run": "2026-08-23T13:50:15.487742+03:00",
  "sent_stories": [
   {
    "d": "2026-08-20",
