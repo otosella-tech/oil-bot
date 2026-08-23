@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "776dd5131af121d4",
-  "oilsetforsecondweeklyriseasunsettledusiranwarcrimpssupply",
   "be6f2fa5c30e3065",
   "crudeoilpricefuturesdeclineasusthreatenstoughestsanctionsoni",
   "a7365a3ab3de8ab6",
@@ -603,7 +601,9 @@
   "0d952d3dc2661a49",
   "hormuzcrisishidesadeeperoilthreatthatcouldoutlastthewar",
   "cb590f9d8c1c33e2",
-  "nasrpetroleumboostsgasolinedieseloutputinfy202526"
+  "nasrpetroleumboostsgasolinedieseloutputinfy202526",
+  "bfed9e27ceadcb34",
+  "francesmacronandsaudicrownprincetodiscussoilpipelinestobypas"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-23",
-  "count": 30
+  "count": 31
  },
- "last_run": "2026-08-23T14:00:20.827706+03:00",
+ "last_run": "2026-08-23T14:05:11.736427+03:00",
  "sent_stories": [
   {
    "d": "2026-08-20",
