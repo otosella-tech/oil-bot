@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "6ab75e1ebabafb36",
-  "rupeeflatasinterventionanchorstaysinplaceoncourseforweeklydi",
   "72d3d090ad15f618",
   "oilpricesup200826",
   "e4bf3a6706bf9751",
@@ -603,7 +601,9 @@
   "4c47b58ac7210c57",
   "iranwarnsgulfstatesnottojointrumpseconomicwar",
   "e4f0799451c8cc15",
-  "underwatervolcanoesaregeothermalenergysnextfrontier"
+  "underwatervolcanoesaregeothermalenergysnextfrontier",
+  "a0270c931f639200",
+  "wticrudeoilholdsfirmashormuzsupplyriskspersist"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-23",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-08-23T18:00:21.616044+03:00",
+ "last_run": "2026-08-23T18:01:33.665243+03:00",
  "sent_stories": [
   {
    "d": "2026-08-20",
@@ -1164,6 +1164,10 @@
   {
    "d": "2026-08-23",
    "t": "Iran Warns Gulf States Not to Join Trump’s Economic War - The New York Times"
+  },
+  {
+   "d": "2026-08-23",
+   "t": "WTI Crude Oil Holds Firm as Hormuz Supply Risks Persist - Daily Forex"
   }
  ]
 }
