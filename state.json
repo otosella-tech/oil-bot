@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "a49f2cd85a134ce6",
-  "londonstocksedgehigheronresourcesectorbuyingasmiddleeastconc",
   "5db8e80b6773e511",
   "oilsetforsecondweeklygainasusrampsuppressureoniran",
   "75b9927bcfcd9498",
@@ -603,7 +601,9 @@
   "304dc23e62cd655c",
   "lowercrudeoilpricesreduceduscanadaenergytradevaluein2025",
   "02ada5d10e5bce02",
-  "crudeoilpricesopenloweraheadofuspceandwarshas80and75supports"
+  "crudeoilpricesopenloweraheadofuspceandwarshas80and75supports",
+  "5b59f3f3d2ca1b5d",
+  "whyoilmarketsareignoringtrumpstruths"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 3
  },
- "last_run": "2026-08-24T01:42:38.678261+03:00",
+ "last_run": "2026-08-24T01:45:13.945750+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
