@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "0ed26917dc706692",
-  "shipspassingthroughhormuzhoverinsingledigitsdatashowsal",
   "f2648a5f2606b59b",
   "uscrudeoilstockpilespostweeklyincrease",
   "afee69126182ed69",
@@ -603,7 +601,9 @@
   "9733518d6cb478e3",
   "cantrumpstopthesurgeinoilpricesexpertsweighinabcnews",
   "ca5b02653fb40f8e",
-  "sinopecshalfyearprofitgrew193onyeardespiteiranwarfallingdema"
+  "sinopecshalfyearprofitgrew193onyeardespiteiranwarfallingdema",
+  "33aa08296de953d6",
+  "oilpricesriseduetorefinerydemandinus"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -615,7 +615,7 @@
   "date": "2026-08-23",
   "count": 29
  },
- "last_run": "2026-08-23T13:20:14.220754+03:00",
+ "last_run": "2026-08-23T13:25:14.283500+03:00",
  "sent_stories": [
   {
    "d": "2026-08-20",
