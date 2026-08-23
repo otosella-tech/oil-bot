@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "79b03919c7356e8b",
-  "producerpricesfallfor1sttimein11monthsinjulyondecliningoilpr",
   "26786a4bb90db805",
   "oilpricesfallfrom1mthhighsetforweeklygainonusirantensions",
   "c37326f7c078f7c1",
@@ -603,7 +601,9 @@
   "83509299737c3a31",
   "asiaslargestoffshorecrudeoilprocessingplatformtoppedout",
   "537ce4b7750bd502",
-  "proposedcanadiancrudeoilpipelineprojects"
+  "proposedcanadiancrudeoilpipelineprojects",
+  "bb4e23662c461b26",
+  "asiaslargestoffshorecrudeoilprocessingplatformhuizhou196tops"
  ],
  "releases_done": {},
  "last_digest": "2026-08-22",
@@ -615,7 +615,7 @@
   "date": "2026-08-23",
   "count": 14
  },
- "last_run": "2026-08-23T07:30:18.283930+03:00",
+ "last_run": "2026-08-23T07:35:12.641711+03:00",
  "sent_stories": [
   {
    "d": "2026-08-20",
