@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "ba275aa5fe74c5db",
-  "spikeindarkoiltankersingulfraisesriskofcatastrophicspills",
   "624bee8a8adf4d5f",
   "amazonoilfindgivesbrazilslulareelectioncampaignaboostbutretu",
   "d6bc30bac9b9dee3",
@@ -603,7 +601,9 @@
   "e9b387261f9a49ff",
   "itstimeforvietnamtofendoffchinaoveritsnewoildiscovery",
   "1e1760c1f1075a28",
-  "pemexandpetrobrasbetbigonhighriskhigh"
+  "pemexandpetrobrasbetbigonhighriskhigh",
+  "966e24601813cc1f",
+  "pemexandpetrobrasbetbigonhighriskhighrewarddrillingoffmexico"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 1
+  "count": 2
  },
- "last_run": "2026-08-24T00:05:12.713405+03:00",
+ "last_run": "2026-08-24T00:08:08.822917+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
