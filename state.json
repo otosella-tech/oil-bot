@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "89d3fc950bc09606",
-  "oilslipsbutremainsontrackforsignificantweeklygain",
   "1c16f5d4fbc955f7",
   "shipspassingthroughhormuzhoverinsingledigitsdatashows",
   "12c71bd2590b92fa",
@@ -603,7 +601,9 @@
   "f5bb01ac0877894d",
   "currentpriceofoilasofjuly312026",
   "d6f17e29cb47633f",
-  "oilpricesheadforsecondweeklyriseasusvowstoturnupeconomicpres"
+  "oilpricesheadforsecondweeklyriseasusvowstoturnupeconomicpres",
+  "abcd833667da5229",
+  "iranwarcouldlastdeepinto2027asthestraitofhormuzisntthatclose"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-23",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-08-23T23:00:21.536436+03:00",
+ "last_run": "2026-08-23T23:05:11.681266+03:00",
  "sent_stories": [
   {
    "d": "2026-08-20",
@@ -1176,6 +1176,10 @@
   {
    "d": "2026-08-23",
    "t": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran - CNBC Africa"
+  },
+  {
+   "d": "2026-08-23",
+   "t": "Iran war could last deep into 2027 as the Strait of Hormuz isn't that closed, allowing more oil out - Fortune"
   }
  ]
 }
