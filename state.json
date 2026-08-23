@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "f2648a5f2606b59b",
-  "uscrudeoilstockpilespostweeklyincrease",
   "afee69126182ed69",
   "chinabriefing20august2026oilandgasplanxionclimatechangecoalf",
   "8074ddcdd373a64f",
@@ -603,7 +601,9 @@
   "ca5b02653fb40f8e",
   "sinopecshalfyearprofitgrew193onyeardespiteiranwarfallingdema",
   "33aa08296de953d6",
-  "oilpricesriseduetorefinerydemandinus"
+  "oilpricesriseduetorefinerydemandinus",
+  "a443f536615eeed4",
+  "whatiskeystonexloilpipelineandwhyisbackinfocus"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -615,7 +615,7 @@
   "date": "2026-08-23",
   "count": 29
  },
- "last_run": "2026-08-23T13:35:11.925220+03:00",
+ "last_run": "2026-08-23T13:40:14.739242+03:00",
  "sent_stories": [
   {
    "d": "2026-08-20",
