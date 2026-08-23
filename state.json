@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "b0da70c7a090fa24",
-  "saudiarabiatopbuyerofrussianseabornefueloilinjulydatashows",
   "67ab056dcc9acf6d",
   "crudeoilpricessurgeasbrentandwtirallyonstraitofhormuzdisrupt",
   "7f6556cabefd80e4",
@@ -603,7 +601,9 @@
   "f2586c743c50047b",
   "dieselcrisisthreatenstooutlastthemiddleeastwar",
   "8601c2e430fb66fa",
-  "oilnewscrudeoiltraderseyehormuztrafficassupplyriskbuilds"
+  "oilnewscrudeoiltraderseyehormuztrafficassupplyriskbuilds",
+  "7cdbcb4dd1f8da24",
+  "somalipiratessurgeasnavalforcesshifttostraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-08-24T02:20:15.149721+03:00",
+ "last_run": "2026-08-24T02:25:12.557014+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -984,6 +984,10 @@
   {
    "d": "2026-08-24",
    "t": "Diesel Crisis Threatens to Outlast the Middle East War"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Somali Pirates Surge as Naval Forces Shift to Strait of Hormuz - 조선일보"
   }
  ]
 }
