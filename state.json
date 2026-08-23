@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "f4f1b330b5e6b533",
-  "nationalgaspriceclimbsto410asaugustaveragehitsrecordhighaaas",
   "885cb43bba2599ea",
   "dangoteraisespetrolpriceton1185ascrudeoiltops93barrel",
   "07bdd2b67d68f827",
@@ -603,7 +601,9 @@
   "43740380851988b4",
   "strickentankercarolinebezengicontinuestoleakoiloffoman",
   "3e3b266fcd9bc8b5",
-  "superelniothreatensfoodwaterandtradeworldwide"
+  "superelniothreatensfoodwaterandtradeworldwide",
+  "401138300149dee3",
+  "iranianoilofferstochinesebuyersfallasusblockadebitessourcess"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-23",
-  "count": 40
+  "count": 41
  },
- "last_run": "2026-08-23T22:00:22.687010+03:00",
+ "last_run": "2026-08-23T22:05:14.474531+03:00",
  "sent_stories": [
   {
    "d": "2026-08-20",
