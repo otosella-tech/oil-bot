@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "d2897205b2efb36e",
-  "oilfuturescrudesteadiesasussettorampupsanctionsoniran",
   "90d510746987ec58",
   "whyoilrefinerstockscankeepgaining",
   "6ab75e1ebabafb36",
@@ -603,7 +601,9 @@
   "b7409ce2c312ecd8",
   "northernoilandgasnogwhatisbehindthefreshattention",
   "d6e1dd9e4c056584",
-  "egyptadnocdrillingdiscussexpandedoilandgasdrillingprogram"
+  "egyptadnocdrillingdiscussexpandedoilandgasdrillingprogram",
+  "4c47b58ac7210c57",
+  "iranwarnsgulfstatesnottojointrumpseconomicwar"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-23",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-08-23T17:20:14.183843+03:00",
+ "last_run": "2026-08-23T17:25:12.945963+03:00",
  "sent_stories": [
   {
    "d": "2026-08-20",
@@ -1160,6 +1160,10 @@
   {
    "d": "2026-08-23",
    "t": "Questions rise as US claims deeper control of Strait of Hormuz - The Hill"
+  },
+  {
+   "d": "2026-08-23",
+   "t": "Iran Warns Gulf States Not to Join Trump’s Economic War - The New York Times"
   }
  ]
 }
