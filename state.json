@@ -4,8 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "5db8e80b6773e511",
-  "oilsetforsecondweeklygainasusrampsuppressureoniran",
   "75b9927bcfcd9498",
   "varioustankersshuttlesaudioilnorthtoevadehouthis",
   "b0da70c7a090fa24",
@@ -603,7 +601,9 @@
   "02ada5d10e5bce02",
   "crudeoilpricesopenloweraheadofuspceandwarshas80and75supports",
   "5b59f3f3d2ca1b5d",
-  "whyoilmarketsareignoringtrumpstruths"
+  "whyoilmarketsareignoringtrumpstruths",
+  "f2586c743c50047b",
+  "dieselcrisisthreatenstooutlastthemiddleeastwar"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 3
+  "count": 5
  },
- "last_run": "2026-08-24T01:59:55.585190+03:00",
+ "last_run": "2026-08-24T02:00:24.139079+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -980,6 +980,10 @@
   {
    "d": "2026-08-23",
    "t": "Iran war could last deep into 2027 as the Strait of Hormuz isn't that closed, allowing more oil out - Fortune"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Diesel Crisis Threatens to Outlast the Middle East War"
   }
  ]
 }
