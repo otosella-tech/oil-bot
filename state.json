@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "b94f01ffe15cde65",
-  "japanheadlineinflationratehitshighestthisyearasenergypricesb",
-  "d24b6a89147aa4b4",
-  "oilgassupplyboosttobolsterenergysecurity",
   "dcafcc42966d56b6",
   "brazilsnewoilfrontiercouldkeepitsboomalivefordecades",
   "1f41caf08a14456e",
@@ -603,7 +599,11 @@
   "4d2cffc1bf701094",
   "aicomputeemergesassecondcommoditytradedlikecrudeoil",
   "76c8b5894a0119c9",
-  "89ofproductsmadewithavocadooilmaybelyingtoyoustudyfinds"
+  "89ofproductsmadewithavocadooilmaybelyingtoyoustudyfinds",
+  "2f3b8291a8ff6377",
+  "checksandbalancenewsletterdonaldtrumpslosingbetonoil",
+  "469979dc407a5d18",
+  "nvidiaearningsjacksonholeusoilinventoriesindiasppitheweekahe"
  ],
  "releases_done": {},
  "last_digest": "2026-08-22",
@@ -615,7 +615,7 @@
   "date": "2026-08-23",
   "count": 9
  },
- "last_run": "2026-08-23T06:10:14.831740+03:00",
+ "last_run": "2026-08-23T06:15:16.008129+03:00",
  "sent_stories": [
   {
    "d": "2026-08-20",
