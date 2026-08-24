@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "8692c4d5f4721aab",
-  "federaljudgeallowssableoffshoretocontinuecaliforniapipelineo",
-  "ce9d5a18087e43a6",
-  "usmilitaryhasguidedmorethan660millionbarrelsofoilthroughthes",
   "3e98b384278c841e",
   "currentpriceofoilasofaugust172026",
   "58161b0287a05732",
@@ -603,7 +599,11 @@
   "bf89c6ead691fd80",
   "ussaysoilispouringthroughhormuztrackerscantfindit",
   "35bfdf66398c76db",
-  "iranthreatens45tankerswithfinesconfiscationinhormuzescalatio"
+  "iranthreatens45tankerswithfinesconfiscationinhormuzescalatio",
+  "b9bc8407ed3d6bc1",
+  "totalenergieswillinvesttoexpandfujairahoilexportpipelineinab",
+  "2e43dc6d015f0ca1",
+  "indianstocksfallamidiransanctionselevatedcrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T14:05:12.967532+03:00",
+ "last_run": "2026-08-24T14:10:15.161503+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1180,6 +1180,14 @@
   {
    "d": "2026-08-24",
    "t": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation - Reuters"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "TotalEnergies will invest to expand Fujairah oil export pipeline in Abu Dhabi, CEO says - Reuters"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Indian Stocks Fall Amid Iran Sanctions & Elevated Crude Oil - Rediff MoneyWiz"
   }
  ]
 }
