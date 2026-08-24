@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "df05f7f920d3c9d8",
-  "howchinaeasedpressureonoilmarketsbyhaltingpurchasesandrelyin",
-  "7dca6ebcdef28589",
-  "texasgaspricesareclimbingagainandhereswhy",
   "8b2a845f171afd10",
   "equinorsecuresdealtosupplycrudetoorlen",
   "1de990a9128c546d",
@@ -603,7 +599,11 @@
   "b7abe2864b3c8f63",
   "oilfallsasuspreparestounveilnewiransanctions",
   "535116568f9e7aed",
-  "wticrudeoilfuturesriseamidfallinginventoriesandgeopoliticalt"
+  "wticrudeoilfuturesriseamidfallinginventoriesandgeopoliticalt",
+  "2fde05434ad77475",
+  "oilpricesfallasopecandieaslash2026demandoutlooks",
+  "b401515203d895a9",
+  "brentcrudeoilpullsbackafterreachingourpricetargetanalysis240"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 35
  },
- "last_run": "2026-08-24T06:55:13.415761+03:00",
+ "last_run": "2026-08-24T07:00:22.273401+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
