@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "5cf5db90de2d82d0",
-  "the1minutemarketreportaugust222026nysearcavoo",
-  "b8e63d967939f5ae",
-  "cpcformosatokeepretailfuelpricesunchanged",
   "544b45ecaaac3e1f",
   "howmuchoilpassesthroughthestraitofhormuzeachdayitdependswhoy",
   "6611d9395e9de14c",
@@ -603,7 +599,11 @@
   "deac6f4ee16c12ae",
   "europesbiogasplantscouldbecomefertilizerfactories",
   "e5af15e98139b115",
-  "trumpsoilandgasstocksgainedupto155millionamidiranwarcongress"
+  "trumpsoilandgasstocksgainedupto155millionamidiranwarcongress",
+  "416c8ad2dbf37958",
+  "usthreatenssanctionsoniranstradingpartnersaspressuremountson",
+  "6f25599aa6f4c2fe",
+  "stocksoilslipaheadofusthreatofeconomicwaragainstiranal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-25",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-08-25T00:05:13.403284+03:00",
+ "last_run": "2026-08-25T00:10:16.183004+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1140,6 +1140,14 @@
   {
    "d": "2026-08-25",
    "t": "Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say - CNBC"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "U.S. threatens sanctions on Iran’s trading partners as pressure mounts on oil flows - World Oil"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Stocks, oil slip ahead of US threat of economic war against Iran - Al-Monitor"
   }
  ]
 }
