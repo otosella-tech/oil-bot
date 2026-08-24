@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "8981977dc9feb48e",
-  "beyondtier1uncoveringdeepthirdpartyvulnerabilitiesinoilandga",
   "f837ea54035f5200",
   "eiaweeklyuscrudeoilinventories4405mvs0200mexpected",
   "90e39a5acc3f55c2",
@@ -603,7 +601,9 @@
   "e50dc202e64daf1d",
   "oilpricesdropaswhitehouseoptsforsanctionsoverstrikesoniran",
   "72b04a6fc246dca8",
-  "shippingoilthroughhormuzcosts20milliontotalceosays"
+  "shippingoilthroughhormuzcosts20milliontotalceosays",
+  "737941bf6c1a9291",
+  "goldmansachseuropeneedsmuchhighergaspricestosecurewintersupp"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T18:25:14.357520+03:00",
+ "last_run": "2026-08-24T18:30:21.081905+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
