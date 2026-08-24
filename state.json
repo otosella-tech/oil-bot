@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "2e6099e801609f19",
-  "currentpriceofoilasofaugust72026",
-  "6db6c14072c585a9",
-  "brentlastdayfinancialoverview",
   "9b843e85196b5b17",
   "nigeriannavydisruptscrudeoiltheftoperationrecovers93000litre",
   "c30fd8c24de9d521",
@@ -603,7 +599,11 @@
   "a78c98d6df821ea2",
   "petroamirholdsoutputat973bbldganopebackspetrosafwa",
   "8b5242f925c8b05e",
-  "oilfallsastradersawaittoughesteconomicsanctionsoniranal"
+  "oilfallsastradersawaittoughesteconomicsanctionsoniranal",
+  "8c28b9462803ec1b",
+  "breakingviewsoilselevatedpricecouldyetbecomeafloor",
+  "ef7888527caa43ad",
+  "oildipsasiranallowsiraqitankersthroughhormuzeasingsupplyconc"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T16:00:22.575261+03:00",
+ "last_run": "2026-08-24T16:05:12.980365+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil falls as traders await 'toughest' economic sanctions on Iran - Al-Monitor"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil dips as Iran allows Iraqi tankers through Hormuz, easing supply concerns - Investing.com"
   }
  ]
 }
