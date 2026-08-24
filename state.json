@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "300f6cf498ae118f",
-  "ussanctionsdemandsparksiransenemywarning",
   "58a8d0fc6ac601aa",
   "howlongcouldglobaloilstockpileslastifsupplydisruptionscontin",
   "5cf5db90de2d82d0",
@@ -603,7 +601,9 @@
   "d3cf48fbea86443b",
   "oilretreatswhileiranpressurebuilds",
   "fd2cb09fb2db07c6",
-  "oildropsmorethan2despitenewussanctionsoniran"
+  "oildropsmorethan2despitenewussanctionsoniran",
+  "deac6f4ee16c12ae",
+  "europesbiogasplantscouldbecomefertilizerfactories"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T23:55:14.633971+03:00",
+ "last_run": "2026-08-25T00:00:22.765245+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
