@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "8c4f2b8f0de92589",
-  "opecoiloutputhikeisirrelevantfornownotforlater",
   "58936ce3c117d6ea",
   "theoilspillingtankeroffomantiestoaprolificshadowfleetactoran",
   "b604ded56b3b9a73",
@@ -603,7 +601,9 @@
   "b48c831a13db3aef",
   "octoberwticrudeoilcontractclosesdown205or24settlesat8501perb",
   "b82f0687e5145151",
-  "iranoilcargoesdryupevenbeforeusactsontehranthreats"
+  "iranoilcargoesdryupevenbeforeusactsontehranthreats",
+  "018536c14dfec564",
+  "treasuryexpandsiransanctionswithouttargetingmajorchinesebank"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T22:10:14.753488+03:00",
+ "last_run": "2026-08-24T22:15:17.285815+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1324,6 +1324,10 @@
   {
    "d": "2026-08-24",
    "t": "Iran Oil Cargoes Dry Up Even Before US Acts on Tehran Threats - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Treasury Expands Iran Sanctions Without Targeting Major Chinese Banks"
   }
  ]
 }
