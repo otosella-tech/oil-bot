@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "1d918606d7c1d912",
-  "currentpriceofoilasofaugust142026",
   "3a44c605a60e6693",
   "100dieselcrackssignalamuchtighteroilmarketthanbrentsuggests",
   "0a9ca4f5435876b6",
@@ -603,7 +601,9 @@
   "9a590b44f71f9693",
   "internationaloilgovernance",
   "4f9016efeb7f1889",
-  "sixeucountriespushforasharedwindfalltaxonoilcompanies"
+  "sixeucountriespushforasharedwindfalltaxonoilcompanies",
+  "4f7aac89bf46f071",
+  "crudeoilgainsafterussanctionsthreatenmiddleeastsupplydisrupt"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-08-24T07:15:14.782092+03:00",
+ "last_run": "2026-08-24T07:20:13.430891+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1040,6 +1040,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil falls as US prepares to unveil new Iran sanctions - Reuters"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Crude Oil Gains After US Sanctions Threaten Middle East Supply Disruptions Ahead By Kedia Advisory - Investing.com India"
   }
  ]
 }
