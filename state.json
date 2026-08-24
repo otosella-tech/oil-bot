@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "f7926a1a4cdec2ed",
-  "everychokepointthatisnthormuz",
   "a15cf5d3871c4c21",
   "howaregaspricesinfountainhills",
   "f34fd4bfb86c280c",
@@ -603,7 +601,9 @@
   "f23b09c58b95160f",
   "oilpricesurgeemergesasnewthreattousstocksmorganstanleyforeca",
   "29e760b062af672c",
-  "oilfalls18astradersawaittoughestsanctionsoniranal"
+  "oilfalls18astradersawaittoughestsanctionsoniranal",
+  "cb8e1e9532aabce8",
+  "europeanleadersgatherinkyivasukraineseeksmoreairdefense"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T17:59:53.604677+03:00",
+ "last_run": "2026-08-24T18:00:23.870215+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
