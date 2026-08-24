@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "c6566fa93346b999",
-  "usprepareshistoricsanctionspushtocollapseiranianregimeandope",
   "d60abc29ad2c9717",
   "hopefadestradersbraceforextendedoillngsqueeze",
   "2fde05434ad77475",
@@ -603,7 +601,9 @@
   "68067eb0d7f7d2f1",
   "fewerthan20vesselscrossstraitofhormuzamidblockades",
   "28ec29e9d7366436",
-  "crudeoilpriceattemptstoregainpositivemomentumanalysis2408202"
+  "crudeoilpriceattemptstoregainpositivemomentumanalysis2408202",
+  "1452e9b2abfa34e4",
+  "notasingledropofoilwillbeexportedifuseconomicwarcontinuesira"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-08-24T06:25:13.629788+03:00",
+ "last_run": "2026-08-24T06:30:18.362608+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1032,6 +1032,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil Price Today (August 24): Crude oil slips below $93 ahead of US sanctions announcement on Iran. What ar - The Economic Times"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "“Not a single drop of oil” will be exported if US “economic” war continues: Iran’s security chief - NepalNews"
   }
  ]
 }
