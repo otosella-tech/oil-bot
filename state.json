@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "c5ca323d47e2982d",
-  "yoursundayaug23guidesomethingtodointheoilcity",
   "111652db719f8463",
   "indiasrelianceonrussianoilhitsalltimehigh",
   "83509299737c3a31",
@@ -603,7 +601,9 @@
   "b0fc332e2ee01012",
   "eveningupdateforcrudeoil24082026",
   "5be6612f2a640cf1",
-  "theoilmarketnowignorestrumpsmessages"
+  "theoilmarketnowignorestrumpsmessages",
+  "2ddfd39049bf36d5",
+  "oilslipsaheadofusannouncementofnewsanctionsoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T20:45:16.971065+03:00",
+ "last_run": "2026-08-24T20:50:16.062427+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1296,6 +1296,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil Prices Pull Back as Markets Await New U.S. Sanctions on Iran - EnergyNow.com"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil slips ahead of US announcement of new sanctions on Iran - Reuters"
   }
  ]
 }
