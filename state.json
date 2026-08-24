@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "d658ba25d6dfd7e9",
-  "somalipirateshijackshipsamidsecurityvacuum",
   "300f6cf498ae118f",
   "ussanctionsdemandsparksiransenemywarning",
   "58a8d0fc6ac601aa",
@@ -603,7 +601,9 @@
   "4349e60faa46691b",
   "usiransanctionspushcrudeoilpricesdown",
   "d3cf48fbea86443b",
-  "oilretreatswhileiranpressurebuilds"
+  "oilretreatswhileiranpressurebuilds",
+  "fd2cb09fb2db07c6",
+  "oildropsmorethan2despitenewussanctionsoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T23:50:15.193761+03:00",
+ "last_run": "2026-08-24T23:55:14.633971+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-08-24",
    "t": "U.S. Iran Sanctions Push Crude Oil Prices Down - Briefs Finance"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil drops more than $2 despite new US sanctions on Iran - Reuters"
   }
  ]
 }
