@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "0d952d3dc2661a49",
-  "hormuzcrisishidesadeeperoilthreatthatcouldoutlastthewar",
-  "cb590f9d8c1c33e2",
-  "nasrpetroleumboostsgasolinedieseloutputinfy202526",
   "bfed9e27ceadcb34",
   "francesmacronandsaudicrownprincetodiscussoilpipelinestobypas",
   "c57e9cc975fa5913",
@@ -603,7 +599,11 @@
   "a7fd683bb06d82f2",
   "tennesseegaspricesfallonepenny",
   "e401c9374c3c8404",
-  "theenergyreportwhyoiltradersarestayingcalm"
+  "theenergyreportwhyoiltradersarestayingcalm",
+  "f2648a5f2606b59b",
+  "uscrudeoilstockpilespostweeklyincrease",
+  "888c9ac847d1ce00",
+  "crudepricessharplylowerasoilsuppliesmovethroughstraitofhormu"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T22:25:13.853688+03:00",
+ "last_run": "2026-08-24T22:28:22.384049+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1336,6 +1336,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil prices fall as U.S. rolls out global sanctions focused on Iran - CNBC"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Crude Prices Sharply Lower as Oil Supplies Move Through Strait of Hormuz - Barchart.com"
   }
  ]
 }
