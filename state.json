@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "b7dbcfdf72d55aba",
-  "rupeedipsonweekasoilpangslingerinterventionpreventsfallpast9",
   "3b13ad00f4eeb9fc",
   "indiaslargestoilcompanyturnstoafricaforcheapercookinggasasal",
   "e133d8df693f718d",
@@ -603,7 +601,9 @@
   "906713beea59cfda",
   "indonesiatakesonmalaysiainbattleoverpalmoilpricing",
   "a0fb3bebe0a7a440",
-  "exclusivetankersstackupasvenezuelasellsoilfasterthanitsports"
+  "exclusivetankersstackupasvenezuelasellsoilfasterthanitsports",
+  "96a5455308a711d4",
+  "usvowseconomicddayasiranthreatenstohaltalloilexports"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-08-24T04:30:20.338189+03:00",
+ "last_run": "2026-08-24T04:35:13.872055+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1008,6 +1008,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil prices drop nearly 1% as U.S. prepares more Iran sanctions - Investing.com"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "US vows 'economic D-Day' as Iran threatens to halt all oil exports - Reuters"
   }
  ]
 }
