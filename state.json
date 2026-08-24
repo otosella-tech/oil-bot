@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "f34fd4bfb86c280c",
-  "venezuelanoilmaninvestigatedoverseasiskeybrokerfortrump",
   "8981977dc9feb48e",
   "beyondtier1uncoveringdeepthirdpartyvulnerabilitiesinoilandga",
   "f837ea54035f5200",
@@ -603,7 +601,9 @@
   "cb8e1e9532aabce8",
   "europeanleadersgatherinkyivasukraineseeksmoreairdefense",
   "e50dc202e64daf1d",
-  "oilpricesdropaswhitehouseoptsforsanctionsoverstrikesoniran"
+  "oilpricesdropaswhitehouseoptsforsanctionsoverstrikesoniran",
+  "72b04a6fc246dca8",
+  "shippingoilthroughhormuzcosts20milliontotalceosays"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T18:20:17.186629+03:00",
+ "last_run": "2026-08-24T18:25:14.357520+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1244,6 +1244,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil prices drop as White House opts for sanctions over strikes on Iran - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Shipping Oil Through Hormuz Costs $20 Million, Total CEO Says - Yahoo Finance"
   }
  ]
 }
