@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "6a0801040ca853f7",
-  "stocksandbondssteadyattheendofatumultuousweek",
   "abf52b4fad56743a",
   "eastafricannationsoffered30shareofdangoteskenyamega",
   "34127cbfca6a61c1",
@@ -603,7 +601,9 @@
   "ecc69fe251f22b84",
   "equinortosupplyjohansverdrupcrudetoorlenunderthreeyeardealne",
   "91d9426db9d24929",
-  "thehormuzcrudevolumedebatemaskstherealshortageofrefinedfuels"
+  "thehormuzcrudevolumedebatemaskstherealshortageofrefinedfuels",
+  "76f2f219c7da39d0",
+  "oilfallsonpossiblepositionadjustmentsbeforepotentialussancti"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-08-24T04:50:13.288370+03:00",
+ "last_run": "2026-08-24T04:55:12.496578+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1016,6 +1016,10 @@
   {
    "d": "2026-08-24",
    "t": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil Falls on Possible Position Adjustments Before Potential U.S. Sanctions on Iran - WSJ"
   }
  ]
 }
