@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "9e43b318205b56e6",
-  "usequitymarketsendloweramidriseincrudeoilpricesfollowingtrum",
   "84f842f6537101f7",
   "longerwellsboostpermiancrudeoilandnaturalgasproduction",
   "b9ac1e32d75a433b",
@@ -603,7 +601,9 @@
   "bde5fa77ce7e1511",
   "stocksoilslipaheadofusthreatofeconomicwaragainstiran",
   "480c37c3f974b5b6",
-  "bahrivlccstruckashouthiscontinueattacksagainstsaudiinterests"
+  "bahrivlccstruckashouthiscontinueattacksagainstsaudiinterests",
+  "25eb513d9a49c53e",
+  "the60daypeacewindowclosedandtrumpsiranstrategymayshiftdramat"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T19:55:18.812560+03:00",
+ "last_run": "2026-08-24T20:00:20.744157+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1284,6 +1284,10 @@
   {
    "d": "2026-08-24",
    "t": "Bahri VLCC Struck as Houthis Continue Attacks Against Saudi Interests - The Maritime Executive"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically"
   }
  ]
 }
