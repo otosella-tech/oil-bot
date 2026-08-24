@@ -4,10 +4,6 @@
   "Brent": 94.41
  },
  "seen": [
-  "8a994b8ccf6789dc",
-  "guestcolumnbigoilsgripongovernmenttherealemergency",
-  "b5f6719445895fb9",
-  "oilnewscaniransshrinkingfloatingstoragekeepcrudepricessuppor",
   "7d831916c2afc515",
   "transcriptwhytheenergycrisiswontsavewesternoilrefineries",
   "a0fb3bebe0a7a440",
@@ -603,7 +599,11 @@
   "200e783f676bab65",
   "oilstockstowatchashighercrudeputsupstreamproducersindemand",
   "d34fde8a88e0c34c",
-  "conocophillipsbeginsoilproductionatcoyote3sxinalaska"
+  "conocophillipsbeginsoilproductionatcoyote3sxinalaska",
+  "5e58e9bd465b8ac0",
+  "oilfalls1aheadofusannouncementtoimposefurthersanctionsoniran",
+  "17396f4a3326ae21",
+  "permiansprolificweeksolvethecrosswordpuzzleforaug24"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-08-24T03:15:14.178161+03:00",
+ "last_run": "2026-08-24T03:20:14.411671+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -992,6 +992,10 @@
   {
    "d": "2026-08-24",
    "t": "Saudi Arabia top buyer of Russian seaborne fuel oil in July, data shows​ - Reuters"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil falls 1% ahead of US announcement to impose further sanctions on Iran - Reuters"
   }
  ]
 }
