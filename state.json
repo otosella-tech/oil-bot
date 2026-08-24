@@ -4,16 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "edcc27997c279cb4",
-  "forecastupdateforcrudeoil21082026",
-  "fca62e31f239cc23",
-  "usmilitarysaysitaidedpassageof660millionbarrelsofoilthroughs",
-  "2e4d32a65b4599e1",
-  "kpctradingltdtojoinemeagasoildieselpaperemeafueloilpaperemea",
-  "210e10b8bc999098",
-  "iranwarraisesriskofcollisionsandoilspillsinstraitofhormuz",
-  "4f3ec792b7cbcfcf",
-  "whitehouseofficialsmovetooilcompanysheaidedraisesethicsquest",
   "44e7de46704fa1f8",
   "trumpissqueezingiranseconomyandoilsalesitmaystillhavetheuppe",
   "e9494b997c39cbd9",
@@ -603,7 +593,17 @@
   "89536d71107759be",
   "egyptnasrpetroleumsopcrefine29mlntonsofcrudeoilinfy202526",
   "254214669ccae5f9",
-  "crudeoilpricecrudeoilfuturesfallaheadofexpectedussanctionson"
+  "crudeoilpricecrudeoilfuturesfallaheadofexpectedussanctionson",
+  "03d6b903dd7e2f0d",
+  "crudeoilpriceskeeppushinggashigherasnationalaveragehits410",
+  "c8303385d400388b",
+  "iranswarningtousalliesjoineconomicwarfaceretaliationnotasing",
+  "92e4ec5d36b266c6",
+  "navyrecovers91000litresofcrudeoilinrivers",
+  "c3d268e02c872cb7",
+  "bimbseesoilretestingus100asuscarrierarrivalraisesiranconflic",
+  "1f45f929525cd067",
+  "egyptsoilandgasfdipipelineboostsexternalresiliencemorganstan"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 49
+  "count": 50
  },
- "last_run": "2026-08-24T08:00:49.232011+03:00",
+ "last_run": "2026-08-24T08:05:12.894716+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
