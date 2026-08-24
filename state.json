@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "2f32f921baa0c4a4",
-  "whyhasthepriceofoilremainedbelowwartimeexpectations",
   "611c0d2c0ff38d1a",
   "sixeuropeancountriesurgeeutotaxoilwindfallprofits",
   "4015a41394c4c36f",
@@ -603,7 +601,9 @@
   "81bccecbfc8ff86f",
   "thejourneyofamillionbarrelswhoreallymakesmoneyinoiltrading",
   "22d2928431c0855f",
-  "wticrudeslipstoward85asmarketweighsusstrikeoniran"
+  "wticrudeslipstoward85asmarketweighsusstrikeoniran",
+  "7e7824bd3ac32821",
+  "usequitymarketsmixedascrudeoilpricesdropaheadofupcominguseco"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T23:10:15.670967+03:00",
+ "last_run": "2026-08-24T23:15:14.683933+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1356,6 +1356,10 @@
   {
    "d": "2026-08-24",
    "t": "WTI Crude Slips Toward $85 as Market Weighs US Strike on Iran - CryptoRank"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "US Equity Markets Mixed as Crude Oil Prices Drop Ahead of Upcoming US Economic Sanctions on Iran - marketscreener.com"
   }
  ]
 }
