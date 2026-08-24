@@ -4,12 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "3a44c605a60e6693",
-  "100dieselcrackssignalamuchtighteroilmarketthanbrentsuggests",
-  "0a9ca4f5435876b6",
-  "oilpricessteadyonstalledtalksoverstraitofhormuz",
-  "5ff263756d278c6c",
-  "tradersarebracingforanincreasinglyhawkishecb",
   "b6473cd7552dfef0",
   "saudisshuttleoilnorthonsinokortankerstoevadehouthis",
   "65ec46ba09767827",
@@ -603,7 +597,13 @@
   "4f9016efeb7f1889",
   "sixeucountriespushforasharedwindfalltaxonoilcompanies",
   "4f7aac89bf46f071",
-  "crudeoilgainsafterussanctionsthreatenmiddleeastsupplydisrupt"
+  "crudeoilgainsafterussanctionsthreatenmiddleeastsupplydisrupt",
+  "2ab70ee4cd1eefe2",
+  "oilpricesslipover1asusweighsddayiransanctionsstraitofhormuzs",
+  "b917205df7ba27d5",
+  "shelldrawsinterestfrombiddersincludingexxonfor8billionuschem",
+  "84917bfe4e133f7a",
+  "crudeoilfuturesfallaheadofexpectedussanctionsoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-08-24T07:25:12.852777+03:00",
+ "last_run": "2026-08-24T07:30:17.527381+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1044,6 +1044,14 @@
   {
    "d": "2026-08-24",
    "t": "Crude Oil Gains After US Sanctions Threaten Middle East Supply Disruptions Ahead By Kedia Advisory - Investing.com India"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil prices slip over $1 as US weighs ‘D-Day’ Iran sanctions; Strait of Hormuz shipping risks in focus - The Times of India"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Crude oil futures fall ahead of expected US sanctions on Iran - BusinessLine"
   }
  ]
 }
