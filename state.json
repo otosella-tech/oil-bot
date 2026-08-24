@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "ff8947997b3447c7",
-  "usacrudeoilstocksseeanotherbuild",
   "8c15ae40b27808f2",
   "gaspricesupasoilrisespricescouldsetaugustrecordhigh",
   "fa7203a9d7f8df76",
@@ -603,7 +601,9 @@
   "ee56917cee8aafc6",
   "currentpriceofoilasofaugust112026",
   "fdc166d82b219b1a",
-  "floridageorgiagaspricesholdsteadyasoilandfuturesclimbaaasays"
+  "floridageorgiagaspricesholdsteadyasoilandfuturesclimbaaasays",
+  "4c035db78a8d4a64",
+  "oilpricesdeclineasuspreparesnewsanctionsoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T16:45:15.530567+03:00",
+ "last_run": "2026-08-24T16:50:14.552543+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-08-24",
    "t": "Looming US sanctions on Iran put China oil buying in spotlight - Reuters"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil prices decline as U.S. prepares new sanctions on Iran - Transport Topics"
   }
  ]
 }
