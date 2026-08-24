@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "abf52b4fad56743a",
-  "eastafricannationsoffered30shareofdangoteskenyamega",
-  "34127cbfca6a61c1",
-  "crudeoilrisesforsecondstraightweek",
   "f028954548bb0cb4",
   "ukrainestrikesmajorlukoilrefineryinpermasrussiaclaims325dron",
   "611989f8880fec48",
@@ -603,7 +599,11 @@
   "91d9426db9d24929",
   "thehormuzcrudevolumedebatemaskstherealshortageofrefinedfuels",
   "76f2f219c7da39d0",
-  "oilfallsonpossiblepositionadjustmentsbeforepotentialussancti"
+  "oilfallsonpossiblepositionadjustmentsbeforepotentialussancti",
+  "da5bfdb8d20323f5",
+  "stockmarkettodaygiftniftynikkeitocrudeoilpricesfivekeyfactor",
+  "ecbde084579d8d49",
+  "oilpricesdropby1brentcrudeslides2to93aheadofusannouncementon"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 23
+  "count": 25
  },
- "last_run": "2026-08-24T04:55:12.496578+03:00",
+ "last_run": "2026-08-24T05:00:20.128302+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1020,6 +1020,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil Falls on Possible Position Adjustments Before Potential U.S. Sanctions on Iran - WSJ"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil Prices Drop By $1: Brent Crude Slides 2% To $93 Ahead Of US Announcement On New Iran Sanctions - NDTV Profit"
   }
  ]
 }
