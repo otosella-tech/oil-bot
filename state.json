@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "d36f60d321d6ad17",
-  "duetostrongdemandandtightsupplyrussianuralscrudeisnowapremiu",
   "08be9ceff20422e9",
   "octoberwticrudeoilcontractclosesup023or03settlesat8706perbar",
   "f995b55f1f1ce0c9",
@@ -603,7 +601,9 @@
   "8d2bb97cb8ae2c0f",
   "norwayvowstokeepdrillingforoilandgasinthearctic",
   "7d2b137130029064",
-  "modecsfpsoreachesguyanaasexxonmobilsfifthoilprojectnearsstar"
+  "modecsfpsoreachesguyanaasexxonmobilsfifthoilprojectnearsstar",
+  "d1f764088eaa57ac",
+  "iraqwantstodoubleoiloutputandneedsopectogetoutoftheway"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T12:45:14.209647+03:00",
+ "last_run": "2026-08-24T12:50:13.617785+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1144,6 +1144,10 @@
   {
    "d": "2026-08-24",
    "t": "Mediator Pakistan to hold talks in Iran on US 'economic D-Day' - Reuters"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Iraq Wants to Double Oil Output—and Needs OPEC to Get Out of the Way"
   }
  ]
 }
