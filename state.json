@@ -4,12 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "1c4bf2e7d025bef8",
-  "oilnears100astrumpseconomicddayraisesthestakes",
-  "db0597c925d4855c",
-  "currentpriceofoilasofaugust182026",
-  "1a7070f30dfc4784",
-  "stockssupportedascrudeoilstabilizes",
   "0d89bf3a0cc20e6a",
   "courtupholdstrumpadminordertorestartsyu",
   "9838bb1f14b18d8d",
@@ -603,7 +597,13 @@
   "ad14279abfb02f07",
   "putinadmitsfuelmarketproblemsinrussianotyetfullyresolvedafte",
   "8139b8829bb6aa3c",
-  "lowercrudeoilpricesdrivingdownnationalaverage"
+  "lowercrudeoilpricesdrivingdownnationalaverage",
+  "99f8c88fcefbe4bb",
+  "asiansharesmostlydeclineasbondmarketpressuremountsabcnews",
+  "8b971f3922e82d2e",
+  "iranwarnsnoncompliantshipsriskdetentioninstraitofhormuz",
+  "d480aa274b3f862b",
+  "wtioilflirtswiththe8500levelasmarketsawaiteconomicddaysancti"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T10:50:14.306734+03:00",
+ "last_run": "2026-08-24T10:55:13.705618+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1100,6 +1100,14 @@
   {
    "d": "2026-08-24",
    "t": "Putin admits fuel market problems in Russia not yet fully resolved after Ukraine's strikes - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Iran warns non-compliant ships risk detention in Strait of Hormuz - The Jerusalem Post"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "WTI Oil flirts with the $85.00 level as markets await economic D-Day sanctions on Iran - FXStreet"
   }
  ]
 }
