@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "f5e8eacf10389150",
-  "whendowerunoutofoilstockpiles",
   "bac7ee62a6950666",
   "irancondemnsnewussanctionsdonaldtrumpwarnscountriesagainstpr",
   "9e43b318205b56e6",
@@ -603,7 +601,9 @@
   "974f92f3336fc55b",
   "usstrategicoilreservecontinuesdeclinehitslowestlevelsince198",
   "524627bef6c468d6",
-  "whyisntthepriceofoilevenhigher"
+  "whyisntthepriceofoilevenhigher",
+  "bde5fa77ce7e1511",
+  "stocksoilslipaheadofusthreatofeconomicwaragainstiran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T19:45:14.383963+03:00",
+ "last_run": "2026-08-24T19:50:16.413393+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil Retreats Awaiting Details of U.S. Measures Against Iran - WSJ"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Stocks, oil slip ahead of US threat of economic war against Iran - Bangkok Post"
   }
  ]
 }
