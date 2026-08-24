@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "78700bfb1b0403f9",
-  "oilsettlesupmorethan2aftertrumpthreatenscountriessupportingi",
-  "3a29ceb6e76925aa",
-  "oilextendsrallyasusthreatenseconomicmeasures",
   "524627bef6c468d6",
   "whyisntthepriceofoilevenhigher",
   "5ec13ea02da7497f",
@@ -603,7 +599,11 @@
   "6ba77a579801a6b4",
   "crudeoildown3xpengsharesfallafterq2results",
   "aa6b185c2a8c1fb6",
-  "icemiddaycanolafallswithcrudesoyoil"
+  "icemiddaycanolafallswithcrudesoyoil",
+  "72fcb4ae60e994cf",
+  "currentpriceofoilasofaugust202026",
+  "770bd79a4d5fa0f9",
+  "iranadvancesplantochargeshipsfeesinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T19:10:20.703998+03:00",
+ "last_run": "2026-08-24T19:15:15.539609+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1268,6 +1268,10 @@
   {
    "d": "2026-08-24",
    "t": "Iran-Linked Cyberattack Tests Britain’s Energy Defenses"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Iran advances plan to charge ships fees in Strait of Hormuz - The Jerusalem Post"
   }
  ]
 }
