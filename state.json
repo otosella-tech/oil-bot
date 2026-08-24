@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "06a3288bd40b4aeb",
-  "saudioilexportsfrommediterraneansoarwithshuttlesnorthtoavoid",
   "ffd7d11c917488e4",
   "dollarlittlechangedasstocksclimbandcrudeoilstabilizes",
   "3491a094c39c6c7a",
@@ -603,7 +601,9 @@
   "e91148a3dd91e3ff",
   "fxdailysnapshot",
   "1d247e1218eba67e",
-  "oilpricesfallasmarketsexpectussanctionsoniran"
+  "oilpricesfallasmarketsexpectussanctionsoniran",
+  "cc9a43ef8e68b8f3",
+  "oilfallsasuspreparestounveilnewiransanctionsbyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-08-24T09:55:14.256594+03:00",
+ "last_run": "2026-08-24T10:00:22.647803+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1088,6 +1088,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil Prices Fall as Markets Expect US Sanctions on Iran - 8AM Media"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil falls as US prepares to unveil new Iran sanctions By Reuters - Investing.com"
   }
  ]
 }
