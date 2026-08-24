@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "bb4e23662c461b26",
-  "asiaslargestoffshorecrudeoilprocessingplatformhuizhou196tops",
-  "6b72c6f6d00f5209",
-  "drillburnhamdrilltheoilbasinthatisatotemfortrumpandaheadache",
   "abde3998bf6cedb1",
   "shippingtrafficthroughthestraitofhormuzsurgesasvesselsincrea",
   "c04954749b58a5a4",
@@ -603,7 +599,11 @@
   "1d6387278b35d9d6",
   "usaccusesmorethan40countriesofhelpingchinaevadetariffs",
   "111652db719f8463",
-  "indiasrelianceonrussianoilhitsalltimehigh"
+  "indiasrelianceonrussianoilhitsalltimehigh",
+  "22e232f318917c68",
+  "permoilrefineryhaltsoperationsafteraugust21droneattackreuter",
+  "c0d8d48d2f203806",
+  "exxonmobilguyanareceiveserreawittufpsoatuarufield"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T21:20:14.349218+03:00",
+ "last_run": "2026-08-24T21:25:14.832225+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1308,6 +1308,10 @@
   {
    "d": "2026-08-24",
    "t": "India’s reliance on Russian oil hits all-time high - Financial Times"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Perm oil refinery halts operations after August 21 drone attack – Reuters - Ukrinform"
   }
  ]
 }
