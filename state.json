@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "524627bef6c468d6",
-  "whyisntthepriceofoilevenhigher",
-  "5ec13ea02da7497f",
-  "bessentreactstospikeinoilpricesaftertreasurymovestocalmbondm",
   "14b76955bf2a51c1",
   "europedodgesarhinecrisisfortheworstpossiblereason",
   "f5e8eacf10389150",
@@ -603,7 +599,11 @@
   "72fcb4ae60e994cf",
   "currentpriceofoilasofaugust202026",
   "770bd79a4d5fa0f9",
-  "iranadvancesplantochargeshipsfeesinstraitofhormuz"
+  "iranadvancesplantochargeshipsfeesinstraitofhormuz",
+  "b273c401b4c92bde",
+  "oilretreatsawaitingdetailsofusmeasuresagainstiran",
+  "974f92f3336fc55b",
+  "usstrategicoilreservecontinuesdeclinehitslowestlevelsince198"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T19:20:15.121039+03:00",
+ "last_run": "2026-08-24T19:25:12.044996+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1272,6 +1272,10 @@
   {
    "d": "2026-08-24",
    "t": "Iran advances plan to charge ships fees in Strait of Hormuz - The Jerusalem Post"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil Retreats Awaiting Details of U.S. Measures Against Iran - WSJ"
   }
  ]
 }
