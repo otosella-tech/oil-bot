@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "f98a9ce603b2b437",
-  "whychinathinksitcanresisttrumpseconomicthreatsoniran",
   "edceceb26374776f",
   "thetinycaliforniacompanyracingintovenezuelafasterthanbigoil",
   "4414ef03ea644ba4",
@@ -603,7 +601,9 @@
   "5ad474c630b889f6",
   "iranwarnsofoilexporthaltthroughhormuzasussanctionsescalate",
   "4f6486e711d4e678",
-  "dayangsoilpricedisconnectputsvaluationinfocus"
+  "dayangsoilpricedisconnectputsvaluationinfocus",
+  "db0597c925d4855c",
+  "currentpriceofoilasofaugust182026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T11:00:21.092090+03:00",
+ "last_run": "2026-08-24T11:05:12.336291+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
