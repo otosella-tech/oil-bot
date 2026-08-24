@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "e9b387261f9a49ff",
-  "itstimeforvietnamtofendoffchinaoveritsnewoildiscovery",
   "1e1760c1f1075a28",
   "pemexandpetrobrasbetbigonhighriskhigh",
   "966e24601813cc1f",
@@ -603,7 +601,9 @@
   "78c74ba0e973d6e7",
   "californiascostlyenergyislandingregulationwhybigoilwantstoke",
   "a337cd13b1974444",
-  "insidethelabnetlsoilandgascenterofexcellencefocusesontechnol"
+  "insidethelabnetlsoilandgascenterofexcellencefocusesontechnol",
+  "38f1a0f97660bcfd",
+  "iranblacklists46shipsonhormuznoncompliantlist"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-25",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-08-25T02:40:16.954637+03:00",
+ "last_run": "2026-08-25T02:45:14.622975+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1156,6 +1156,10 @@
   {
    "d": "2026-08-25",
    "t": "Venezuela’s Oil Revival Is Slower Than the U.S. Hoped"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Iran Blacklists 46 Ships On Hormuz ‘Non-Compliant’ List - gCaptain"
   }
  ]
 }
