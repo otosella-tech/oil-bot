@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "45ae026df805557e",
-  "kpctradingltdtojoinasiagasoilpaperasiafueloilpaperasiajetfue",
   "7c3a363939f9fd0e",
   "redlightsareflashinginenergymarkets",
   "6f309619c668780e",
@@ -603,7 +601,9 @@
   "dce7a5d7726fe7ca",
   "hormuztankertrafficslumpsasusandirantradethreats",
   "2326611a5db2edb5",
-  "oilfuturescrudeeasesaheadofnewroundofussanctionsoniran"
+  "oilfuturescrudeeasesaheadofnewroundofussanctionsoniran",
+  "fe966a4df5c05434",
+  "currentpriceofoilasofaugust212026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 56
  },
- "last_run": "2026-08-24T09:00:20.367444+03:00",
+ "last_run": "2026-08-24T09:05:11.692846+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
