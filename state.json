@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "0c4f1978b736cc1e",
-  "oilbullstakecontrolasirandealcollapsesandhormuzstaysrestrict",
   "6d80689e1d983d7a",
   "iranwarnsgulfstatesasusturnsupeconomicpressure",
   "05e51c9da509aabb",
@@ -603,7 +601,9 @@
   "ce9cbcc90587d7ee",
   "chinaisthecrudeoilmarketsinvisiblehand3reasonspricesaredoing",
   "82c78db7d889be65",
-  "crudeoilmarketssplitintoescalationandresolutionwithnomiddle"
+  "crudeoilmarketssplitintoescalationandresolutionwithnomiddle",
+  "d5ae490415316148",
+  "wtislipsbelow8500astraderstakeprofitsbeforenewussanctionsoni"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 29
+  "count": 30
  },
- "last_run": "2026-08-24T05:50:13.881685+03:00",
+ "last_run": "2026-08-24T05:55:12.141582+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
