@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "b7409ce2c312ecd8",
-  "northernoilandgasnogwhatisbehindthefreshattention",
-  "d6e1dd9e4c056584",
-  "egyptadnocdrillingdiscussexpandedoilandgasdrillingprogram",
   "4c47b58ac7210c57",
   "iranwarnsgulfstatesnottojointrumpseconomicwar",
   "e4f0799451c8cc15",
@@ -603,7 +599,11 @@
   "14cd0e8c65827a9b",
   "thenewyorktimespatagoniaisattheepicenterofanoilboomthatargen",
   "9a1d56f36bd858ea",
-  "todaysstraitofhormuzmysterywheredidtheoilgo"
+  "todaysstraitofhormuzmysterywheredidtheoilgo",
+  "99c9a3217354701e",
+  "houthistargetsaudioiltankerinredseamissileanddroneattack",
+  "1cb315f5368af497",
+  "energystocksofferhedgeagainstoilshock"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T22:56:39.725031+03:00",
+ "last_run": "2026-08-24T23:00:23.076016+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1344,6 +1344,10 @@
   {
    "d": "2026-08-24",
    "t": "Today’s Strait of Hormuz Mystery: Where Did the Oil Go? - The New Republic"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Houthis Target Saudi Oil Tanker in Red Sea Missile and Drone Attack"
   }
  ]
 }
