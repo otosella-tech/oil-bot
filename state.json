@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "84f842f6537101f7",
-  "longerwellsboostpermiancrudeoilandnaturalgasproduction",
   "b9ac1e32d75a433b",
   "crudeoilpriceforecastbreakoutcouldsignalnextleghigher",
   "3ebc5e090eb9e862",
@@ -603,7 +601,9 @@
   "480c37c3f974b5b6",
   "bahrivlccstruckashouthiscontinueattacksagainstsaudiinterests",
   "25eb513d9a49c53e",
-  "the60daypeacewindowclosedandtrumpsiranstrategymayshiftdramat"
+  "the60daypeacewindowclosedandtrumpsiranstrategymayshiftdramat",
+  "4c1df80082d6c8d5",
+  "globaloilpricesabove90abarrelaheadofbessentseconomicddayanno"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T20:00:20.744157+03:00",
+ "last_run": "2026-08-24T20:05:14.029392+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1288,6 +1288,10 @@
   {
    "d": "2026-08-24",
    "t": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Global oil prices above $90 a barrel ahead of Bessent’s ‘economic D-Day’ announcement on Iran - MarketWatch"
   }
  ]
 }
