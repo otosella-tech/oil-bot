@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "517148c7c15de644",
-  "oilfuturescrudefirmerasussettorampupsanctionsoniran",
-  "f060103d54f7d8ab",
-  "pakistansoilrefinerssettoexport185000mtoffueloilinaugust",
   "50ccffb5d1dd24cf",
   "chinabuyssaudicrudeinraretenderasimportsstaymuted",
   "0584ae02953674ba",
@@ -603,7 +599,11 @@
   "09e246148d4b48e9",
   "usoildrillersseepullbackasoilpricesrise",
   "4fcae10ba90ebcec",
-  "chinachallengesrussiasarmsdominanceincentralasia"
+  "chinachallengesrussiasarmsdominanceincentralasia",
+  "4f30d9dc25e2beba",
+  "tankerswaitamonthasvenezuelahitsanoilexportceiling",
+  "cd83bb72c4350e8b",
+  "sinopecreports193h1profitincreasedespitelowerrefiningvolumes"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T12:00:22.639763+03:00",
+ "last_run": "2026-08-24T12:05:12.255981+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1132,6 +1132,10 @@
   {
    "d": "2026-08-24",
    "t": "China Challenges Russia’s Arms Dominance in Central Asia"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Tankers Wait a Month as Venezuela Hits an Oil Export Ceiling"
   }
  ]
 }
