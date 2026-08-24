@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "3ebc5e090eb9e862",
-  "depletedstrategicoilreservenearslevelthatraisesconcernsabout",
-  "0f3f354f17956bb7",
-  "oilinusstrategicpetroleumreservefallsbelow300millionbarrelsl",
   "5134b8c90dc6d5e0",
   "currentpriceofoilasofaugust132026",
   "3e12665dc9632fd2",
@@ -603,7 +599,11 @@
   "4c1df80082d6c8d5",
   "globaloilpricesabove90abarrelaheadofbessentseconomicddayanno",
   "84f842f6537101f7",
-  "longerwellsboostpermiancrudeoilandnaturalgasproduction"
+  "longerwellsboostpermiancrudeoilandnaturalgasproduction",
+  "bdc02eec5b571350",
+  "insidethelabnetlfocusesonenhancingoilrecoverywitheor",
+  "dfd4a2daca07c7f4",
+  "whatsaffectingoilpricesthisweekaug242026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T20:10:15.821382+03:00",
+ "last_run": "2026-08-24T20:15:15.119314+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
