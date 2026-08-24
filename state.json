@@ -4,12 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "29e619debe666bc1",
-  "julytexasupstreamemploymentdropsbuttalentdemandstaysstrong",
-  "72fcb4ae60e994cf",
-  "currentpriceofoilasofaugust202026",
-  "b96efd4440805559",
-  "crudeoiltankerfireshutsdownhighway96southofkirbyville",
   "b97786e825207bb2",
   "venezuelanoilproductionaccelerateswithchevron",
   "a33f3a9c87834fdd",
@@ -603,7 +597,13 @@
   "cccde821048d5305",
   "chinasnewfiveyearplanprepsthenationforpeakoil",
   "280468fd9fdbf651",
-  "mondaymanagerwithadamrozencwaigjustwaitfortheoilcrisis"
+  "mondaymanagerwithadamrozencwaigjustwaitfortheoilcrisis",
+  "5924e69de27faca7",
+  "japanpowerpricessurgetohighestsince2023",
+  "6c45e9cf5052cada",
+  "chineserefinersinopectoboostoilimportsfromoutsidethegulf",
+  "774560fb693780cb",
+  "chinarefinersinopecforeseesheadwindseasingdespiteiranuncerta"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T13:55:13.218683+03:00",
+ "last_run": "2026-08-24T14:00:20.870209+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1160,6 +1160,18 @@
   {
    "d": "2026-08-24",
    "t": "World shares decline as bond market pressure persists, and Iran's rial sinks against the dollar - BNN Bloomberg"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Japan Power Prices Surge to Highest Since 2023"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Chinese refiner Sinopec to boost oil imports from outside the Gulf - Reuters"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "China refiner Sinopec foresees headwinds easing despite Iran uncertainty - Nikkei Asia"
   }
  ]
 }
