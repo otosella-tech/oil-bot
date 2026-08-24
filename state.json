@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "de9fe9c902cb5f85",
-  "legalbattleforgermanytoselloilfromdetainedshadowtankerdragso",
   "edcc27997c279cb4",
   "forecastupdateforcrudeoil21082026",
   "fca62e31f239cc23",
@@ -603,19 +601,21 @@
   "f497786527acc37b",
   "rystadenergycutsrussiacrudeoutputforecastto895millionbpdfor2",
   "89536d71107759be",
-  "egyptnasrpetroleumsopcrefine29mlntonsofcrudeoilinfy202526"
+  "egyptnasrpetroleumsopcrefine29mlntonsofcrudeoilinfy202526",
+  "254214669ccae5f9",
+  "crudeoilpricecrudeoilfuturesfallaheadofexpectedussanctionson"
  ],
  "releases_done": {},
- "last_digest": "2026-08-23",
+ "last_digest": "2026-08-24",
  "digest_prices": {
-  "WTI": 87.06,
-  "Brent": 94.39
+  "WTI": 85.74,
+  "Brent": 93.18
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 41
+  "count": 49
  },
- "last_run": "2026-08-24T07:55:12.449809+03:00",
+ "last_run": "2026-08-24T08:00:20.188026+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1064,6 +1064,10 @@
   {
    "d": "2026-08-24",
    "t": "Rystad Energy cuts Russia crude output forecast to 8.95 million bpd for 2026 as sanctions and drone attacks deepen supply constraints - Energies Media"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Crude oil price: Crude oil futures fall ahead of expected US sanctions on Iran - BusinessLine"
   }
  ]
 }
