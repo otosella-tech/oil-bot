@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "6f309619c668780e",
-  "trumpseconomicthreatputsfocusoniranstradingpartners",
-  "85d86899528aa401",
-  "indiabuildscleanpowerfasterthanitcanuseit",
   "06a3288bd40b4aeb",
   "saudioilexportsfrommediterraneansoarwithshuttlesnorthtoavoid",
   "ffd7d11c917488e4",
@@ -603,7 +599,11 @@
   "fe966a4df5c05434",
   "currentpriceofoilasofaugust212026",
   "3c5dd90c75bba1e5",
-  "morningwrapoilpricesheadingbackdown24082026"
+  "morningwrapoilpricesheadingbackdown24082026",
+  "e91148a3dd91e3ff",
+  "fxdailysnapshot",
+  "1d247e1218eba67e",
+  "oilpricesfallasmarketsexpectussanctionsoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-08-24T09:50:14.600994+03:00",
+ "last_run": "2026-08-24T09:55:14.256594+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1084,6 +1084,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil Futures: Crude eases ahead of new round of US sanctions on Iran - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil Prices Fall as Markets Expect US Sanctions on Iran - 8AM Media"
   }
  ]
 }
