@@ -4,12 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "9b92913a625017e9",
-  "averageriversidecountygaspricerisesslightly",
-  "9aad0b8d52a9766e",
-  "crudehits95andthreatenstheinflationcooldown3energystocksturn",
-  "ff3223360d6f0a82",
-  "personalfinanceoilpricesarehighbutwhyarenttheyhigher",
   "1d9b7cd06fe59542",
   "slowedvesseltrafficandnewsanctionsoniranraiseoilprices",
   "9942951164c22515",
@@ -603,7 +597,13 @@
   "a57fd4a08dab7735",
   "currentpriceofoilasofaug192026",
   "4fcc4d81135a7dcc",
-  "wallstreetdriftsaheadofabigweekthatcouldswingstocksandbonds"
+  "wallstreetdriftsaheadofabigweekthatcouldswingstocksandbonds",
+  "3403657ae35a867e",
+  "russiascramblestorestorefuelsuppliesasrefineriesresumeoperat",
+  "2507943e6a7dff7c",
+  "crudeoilforecastwtidriftsasbrentholdsnear93",
+  "514a0cf5d1927675",
+  "venezuelasageingoilterminalsconstrainexportgrowth"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T17:25:15.190340+03:00",
+ "last_run": "2026-08-24T17:30:19.662444+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1232,6 +1232,10 @@
   {
    "d": "2026-08-24",
    "t": "Iran Blacklists 45 Tankers as Hormuz Standoff Escalates"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Russia Scrambles to Restore Fuel Supplies as Refineries Resume Operations"
   }
  ]
 }
