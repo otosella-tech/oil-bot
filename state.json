@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "c04954749b58a5a4",
-  "sixeucountriespushforwindfalltaxonoilcompaniesamidsurgingwar",
   "902f3f32e14ce282",
   "eiashowscrudeoilinventoriesstillrising",
   "6282f9890c24ae8c",
@@ -603,7 +601,9 @@
   "c0d8d48d2f203806",
   "exxonmobilguyanareceiveserreawittufpsoatuarufield",
   "bef7995ab41a3650",
-  "totalenergiesbackstwomajoroilpipelinestobypasshormuz"
+  "totalenergiesbackstwomajoroilpipelinestobypasshormuz",
+  "52e752a364845dfe",
+  "oilpricespullbackasbessentlaunchesoperationeconomicoutcastag"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T21:30:18.331829+03:00",
+ "last_run": "2026-08-24T21:35:16.481770+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1316,6 +1316,10 @@
   {
    "d": "2026-08-24",
    "t": "TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil prices pull back as Bessent launches ‘Operation Economic Outcast’ against Iran but holds off on new secondary sanctions - MarketWatch"
   }
  ]
 }
