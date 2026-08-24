@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "5134b8c90dc6d5e0",
-  "currentpriceofoilasofaugust132026",
   "3e12665dc9632fd2",
   "wtiandbrentpushupwardextendingyeartodategains",
   "4d2cffc1bf701094",
@@ -603,7 +601,9 @@
   "bdc02eec5b571350",
   "insidethelabnetlfocusesonenhancingoilrecoverywitheor",
   "dfd4a2daca07c7f4",
-  "whatsaffectingoilpricesthisweekaug242026"
+  "whatsaffectingoilpricesthisweekaug242026",
+  "132461da6827a281",
+  "oilpricespullbackasmarketsawaitnewussanctionsoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T20:30:18.730793+03:00",
+ "last_run": "2026-08-24T20:35:14.816403+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1292,6 +1292,10 @@
   {
    "d": "2026-08-24",
    "t": "Global oil prices above $90 a barrel ahead of Bessent’s ‘economic D-Day’ announcement on Iran - MarketWatch"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil Prices Pull Back as Markets Await New U.S. Sanctions on Iran - EnergyNow.com"
   }
  ]
 }
