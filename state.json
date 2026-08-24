@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "b2e73106675a1102",
-  "oilnears100astrumpseconomicd",
   "8139b8829bb6aa3c",
   "lowercrudeoilpricesdrivingdownnationalaverage",
   "7ec2bb2c695f2a9a",
@@ -603,7 +601,9 @@
   "b759b025037f78b0",
   "rupeesteadiesasrbibuysreservesoilshifts",
   "8e86485716857f3b",
-  "adnocdrillingtargetsegyptgrowth"
+  "adnocdrillingtargetsegyptgrowth",
+  "a304a56d59b6f3d3",
+  "ensignnotchesupgrowthamidwesterncanadianoilboom"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T10:20:15.608181+03:00",
+ "last_run": "2026-08-24T10:25:15.532941+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
