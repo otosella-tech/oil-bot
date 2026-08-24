@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "fe966a4df5c05434",
-  "currentpriceofoilasofaugust212026",
-  "e4b0e4f17ba8adbd",
-  "stocksclimbascrudeoilstabilizesandbitcoinsoars",
   "45ae026df805557e",
   "kpctradingltdtojoinasiagasoilpaperasiafueloilpaperasiajetfue",
   "7c3a363939f9fd0e",
@@ -603,7 +599,11 @@
   "bb23220666ee94a7",
   "chinastoprefinersawfueldemandplungeafteroilspike",
   "67cf6cc26b74deab",
-  "exxonlyondellamongsuitorsforshellsuschemicalassetscouldfetch"
+  "exxonlyondellamongsuitorsforshellsuschemicalassetscouldfetch",
+  "dce7a5d7726fe7ca",
+  "hormuztankertrafficslumpsasusandirantradethreats",
+  "2326611a5db2edb5",
+  "oilfuturescrudeeasesaheadofnewroundofussanctionsoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-08-24T08:55:12.784039+03:00",
+ "last_run": "2026-08-24T09:00:20.367444+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1076,6 +1076,14 @@
   {
    "d": "2026-08-24",
    "t": "China’s Top Refiner Saw Fuel Demand Plunge After Oil Spike - Energy Connects"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Hormuz Tanker Traffic Slumps as U.S. and Iran Trade Threats"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil Futures: Crude eases ahead of new round of US sanctions on Iran - Quantum Commodity Intelligence"
   }
  ]
 }
