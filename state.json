@@ -4,12 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "b6473cd7552dfef0",
-  "saudisshuttleoilnorthonsinokortankerstoevadehouthis",
-  "65ec46ba09767827",
-  "africasstrongestnavalforceunleashesfirepowerinlivefiringexer",
-  "17daca3d7c3593de",
-  "yourfridayaug21guidefivethingstodointheoilcity",
   "26501f9b3f41e911",
   "burumullsminirefineryinwesternaustralia",
   "de9fe9c902cb5f85",
@@ -603,7 +597,13 @@
   "b917205df7ba27d5",
   "shelldrawsinterestfrombiddersincludingexxonfor8billionuschem",
   "84917bfe4e133f7a",
-  "crudeoilfuturesfallaheadofexpectedussanctionsoniran"
+  "crudeoilfuturesfallaheadofexpectedussanctionsoniran",
+  "142e21fc464d06d2",
+  "iranvowsnotasingledropofoilwillflowthroughstraitofhormuzpers",
+  "001c57f06f73fef4",
+  "oilpricesfallasmarketsawaitnewussanctionsoniran",
+  "f497786527acc37b",
+  "rystadenergycutsrussiacrudeoutputforecastto895millionbpdfor2"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-24",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-08-24T07:35:10.863547+03:00",
+ "last_run": "2026-08-24T07:40:16.261402+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1052,6 +1052,18 @@
   {
    "d": "2026-08-24",
    "t": "Crude oil futures fall ahead of expected US sanctions on Iran - BusinessLine"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Iran Vows ‘Not a Single Drop Of Oil’ Will Flow Through Strait Of Hormuz, Persian Gulf Amid Trump’s Econom - Benzinga"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil prices fall as markets await new US sanctions on Iran - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Rystad Energy cuts Russia crude output forecast to 8.95 million bpd for 2026 as sanctions and drone attacks deepen supply constraints - Energies Media"
   }
  ]
 }
