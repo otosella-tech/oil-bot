@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "91b02cf0e8f8b1dc",
-  "questionsriseasusclaimsdeepercontrolofstraitofhormuz",
   "1bf96d53e18a60dc",
   "petroleumministerupgradingsuezrefineriesincreasingcrudeoilsu",
   "b7409ce2c312ecd8",
@@ -603,7 +601,9 @@
   "912a5b06c3e228d4",
   "opinionasgaspricesspikefromtheiranwartrumpismakingakillingfr",
   "24214a0942056a55",
-  "stocksfallaschiproutovershadowsdropinoilmarketswrap"
+  "stocksfallaschiproutovershadowsdropinoilmarketswrap",
+  "14cd0e8c65827a9b",
+  "thenewyorktimespatagoniaisattheepicenterofanoilboomthatargen"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T22:40:14.373531+03:00",
+ "last_run": "2026-08-24T22:45:13.811655+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
