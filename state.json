@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "3e21c0fdeb77ba20",
-  "cpctoleavedomesticgasolinedieselpricesunchangednextweek",
   "2e6099e801609f19",
   "currentpriceofoilasofaugust72026",
   "6db6c14072c585a9",
@@ -603,7 +601,9 @@
   "13e0dd9b3eb04223",
   "highcrudeoilpricespushupnationalaverage",
   "a78c98d6df821ea2",
-  "petroamirholdsoutputat973bbldganopebackspetrosafwa"
+  "petroamirholdsoutputat973bbldganopebackspetrosafwa",
+  "8b5242f925c8b05e",
+  "oilfallsastradersawaittoughesteconomicsanctionsoniranal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T15:55:13.066237+03:00",
+ "last_run": "2026-08-24T16:00:22.575261+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1204,6 +1204,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil falls ahead of US announcement of new sanctions on Iran By Reuters - Investing.com"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil falls as traders await 'toughest' economic sanctions on Iran - Al-Monitor"
   }
  ]
 }
