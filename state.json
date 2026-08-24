@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "ffd7d11c917488e4",
-  "dollarlittlechangedasstocksclimbandcrudeoilstabilizes",
-  "3491a094c39c6c7a",
-  "104boilprojectnearsoffshoreinstallationaskeyequipmentreaches",
   "465ce903d3581a39",
   "usoilrefinersfaceimportsqueezefrombiggestforeignseller",
   "fe7ba07324dd5237",
@@ -603,7 +599,11 @@
   "1d247e1218eba67e",
   "oilpricesfallasmarketsexpectussanctionsoniran",
   "cc9a43ef8e68b8f3",
-  "oilfallsasuspreparestounveilnewiransanctionsbyreuters"
+  "oilfallsasuspreparestounveilnewiransanctionsbyreuters",
+  "1d8e86e2b20d2ba9",
+  "oildropsover1asiranallowssomehormuzcrossingsaheadofussanctio",
+  "decf0c73c868bf10",
+  "ifeconomicwarcontinuesnotadropofoilwillbeexportedfromthepers"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T10:00:22.647803+03:00",
+ "last_run": "2026-08-24T10:05:13.187184+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1092,6 +1092,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil falls as US prepares to unveil new Iran sanctions By Reuters - Investing.com"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil drops over 1% as Iran allows some Hormuz crossings ahead of U.S. sanctions - Investing.com"
   }
  ]
 }
