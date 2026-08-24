@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "4f30d9dc25e2beba",
-  "tankerswaitamonthasvenezuelahitsanoilexportceiling",
   "517148c7c15de644",
   "oilfuturescrudefirmerasussettorampupsanctionsoniran",
   "f060103d54f7d8ab",
@@ -603,7 +601,9 @@
   "b934361cb5dd06c8",
   "oilrisesastrumpthreatenssanctionsoniranpartners",
   "09e246148d4b48e9",
-  "usoildrillersseepullbackasoilpricesrise"
+  "usoildrillersseepullbackasoilpricesrise",
+  "4fcae10ba90ebcec",
+  "chinachallengesrussiasarmsdominanceincentralasia"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T11:55:13.599326+03:00",
+ "last_run": "2026-08-24T12:00:22.639763+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1128,6 +1128,10 @@
   {
    "d": "2026-08-24",
    "t": "Oil rises as Trump threatens sanctions on Iran partners - Reuters"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "China Challenges Russia’s Arms Dominance in Central Asia"
   }
  ]
 }
