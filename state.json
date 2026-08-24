@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "c57e9cc975fa5913",
-  "sopcrefines14mtofcrudeinfy20252026",
   "91b02cf0e8f8b1dc",
   "questionsriseasusclaimsdeepercontrolofstraitofhormuz",
   "1bf96d53e18a60dc",
@@ -603,7 +601,9 @@
   "888c9ac847d1ce00",
   "crudepricessharplylowerasoilsuppliesmovethroughstraitofhormu",
   "912a5b06c3e228d4",
-  "opinionasgaspricesspikefromtheiranwartrumpismakingakillingfr"
+  "opinionasgaspricesspikefromtheiranwartrumpismakingakillingfr",
+  "24214a0942056a55",
+  "stocksfallaschiproutovershadowsdropinoilmarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T22:35:14.777385+03:00",
+ "last_run": "2026-08-24T22:40:14.373531+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
