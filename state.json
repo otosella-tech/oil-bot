@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "09e246148d4b48e9",
-  "usoildrillersseepullbackasoilpricesrise",
   "4fcae10ba90ebcec",
   "chinachallengesrussiasarmsdominanceincentralasia",
   "4f30d9dc25e2beba",
@@ -603,7 +601,9 @@
   "a40edcee7e760584",
   "indiaboostsbatteryinvestmenttocutsolarpowerwaste",
   "a5b8835449574713",
-  "q2rundownexxonmobilnysexomvsotherdiversifiedupstreamepstocks"
+  "q2rundownexxonmobilnysexomvsotherdiversifiedupstreamepstocks",
+  "b934361cb5dd06c8",
+  "oilrisesastrumpthreatenssanctionsoniranpartners"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T11:45:16.927822+03:00",
+ "last_run": "2026-08-24T11:50:14.482178+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1124,6 +1124,10 @@
   {
    "d": "2026-08-24",
    "t": "Iran Unveils Huge New Gas Discovery Amid U.S. Economic Pressure"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Oil rises as Trump threatens sanctions on Iran partners - Reuters"
   }
  ]
 }
