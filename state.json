@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "8b2a845f171afd10",
-  "equinorsecuresdealtosupplycrudetoorlen",
-  "1de990a9128c546d",
-  "currentpriceofoilasofaug212026",
   "1d918606d7c1d912",
   "currentpriceofoilasofaugust142026",
   "3a44c605a60e6693",
@@ -603,7 +599,11 @@
   "2fde05434ad77475",
   "oilpricesfallasopecandieaslash2026demandoutlooks",
   "b401515203d895a9",
-  "brentcrudeoilpullsbackafterreachingourpricetargetanalysis240"
+  "brentcrudeoilpullsbackafterreachingourpricetargetanalysis240",
+  "9a590b44f71f9693",
+  "internationaloilgovernance",
+  "4f9016efeb7f1889",
+  "sixeucountriespushforasharedwindfalltaxonoilcompanies"
  ],
  "releases_done": {},
  "last_digest": "2026-08-23",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 35
  },
- "last_run": "2026-08-24T07:05:13.109327+03:00",
+ "last_run": "2026-08-24T07:09:38.937403+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
