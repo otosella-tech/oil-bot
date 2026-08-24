@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "90e39a5acc3f55c2",
-  "norwegiancruiselinedrops5carnivalfalls4royalcaribbeanslips3a",
-  "0cafea14e30680fa",
-  "16millionbarrelsofoilweretransportedthroughthestraitofhormuz",
   "75220a2fb12ffc3d",
   "crudeoilpricesrallyaspresidenttrumpescalatespressureoniran",
   "633b04b20ac1996b",
@@ -603,7 +599,11 @@
   "737941bf6c1a9291",
   "goldmansachseuropeneedsmuchhighergaspricestosecurewintersupp",
   "118001b105e24bb8",
-  "oilstocksinusstrategicpetroleumreservefallby37millionbarrels"
+  "oilstocksinusstrategicpetroleumreservefallby37millionbarrels",
+  "4c491721c8d3dcc3",
+  "crudepricesfallasoilsuppliesmovethroughthestraitofhormuz",
+  "20730624031d1cff",
+  "totalenergiesmovesdiscountedoilthroughhormuzasceoeyesalterna"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T18:35:16.447049+03:00",
+ "last_run": "2026-08-24T18:40:16.958687+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
@@ -1252,6 +1252,14 @@
   {
    "d": "2026-08-24",
    "t": "Oil stocks in US Strategic Petroleum Reserve fall by 3.7 million barrels to lowest level since 1982 - Reuters"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "Crude Prices Fall as Oil Supplies Move Through the Strait of Hormuz - Barchart.com"
+  },
+  {
+   "d": "2026-08-24",
+   "t": "TotalEnergies Moves Discounted Oil Through Hormuz as CEO Eyes Alternative Export Routes - Egypt Oil & Gas"
   }
  ]
 }
