@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "99aac09798df3bd9",
-  "crudeoilpricesdeclineamidstsupplyriskconcern",
-  "378724446c3d276b",
-  "oilrisesasustargetsiranseconomy",
   "e43b0db8503eb9e0",
   "lowrivershighstakeseuropesnuclearcoolingcrisis",
   "0760538d15cedd88",
@@ -603,7 +599,11 @@
   "6de2a8f517985e36",
   "oilfallsasiranallowsiraqitankersthroughhormuzeasingsupplycon",
   "9d8e0bc52674f361",
-  "egyptadnocdrillingdiscussexpandingoilgaspartnership"
+  "egyptadnocdrillingdiscussexpandingoilgaspartnership",
+  "584b969a9377f411",
+  "morganstanleyswilsonseeshigheroilaskeyriskforequities",
+  "ee107c837b98329f",
+  "chinaboostscoalseconomicvalue700afterturningittoliquidsrepor"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-24",
   "count": 60
  },
- "last_run": "2026-08-24T13:05:12.702703+03:00",
+ "last_run": "2026-08-24T13:06:13.923891+03:00",
  "sent_stories": [
   {
    "d": "2026-08-21",
