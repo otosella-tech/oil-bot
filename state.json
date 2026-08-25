@@ -4,8 +4,6 @@
   "Brent": 89.95
  },
  "seen": [
-  "2d872883f3a84ff4",
-  "iranwarnsnoncompliantshipsriskfinesandseizurewhentransitings",
   "1a7070f30dfc4784",
   "stockssupportedascrudeoilstabilizes",
   "44076e9cabe51c9c",
@@ -603,7 +601,9 @@
   "8139b8829bb6aa3c",
   "lowercrudeoilpricesdrivingdownnationalaverage",
   "1d918606d7c1d912",
-  "currentpriceofoilasofaugust142026"
+  "currentpriceofoilasofaugust142026",
+  "9d6d1e045006dc6a",
+  "mexicofallsbehindinthenewglobaloilmap"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T12:30:20.070347+03:00",
+ "last_run": "2026-08-25T12:35:17.126374+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
