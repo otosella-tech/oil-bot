@@ -4,12 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "acbf2ee833116bb4",
-  "yourmondayaug24guidefourthingstodointheoilcity",
-  "987984c7d9b0c74a",
-  "stockmarketfuturesfallastechsharesslideoilretreats",
-  "99661400d5d3b88a",
-  "oilpricesjumpafteriranpublishesrestrictivedraftplanforstrait",
   "693c8083e7fce79a",
   "shelterinplaceliftedafteroilleakfoundatraisintownshipwell",
   "17855693587e62c0",
@@ -603,7 +597,13 @@
   "53579d83e9add673",
   "adecadeofoildevelopmentinalaskaislockedintoplace",
   "f348f832f80334af",
-  "iransstraitofhormuzleverageisfadingasglobaloilkeepsflowingop"
+  "iransstraitofhormuzleverageisfadingasglobaloilkeepsflowingop",
+  "020708b39de11db9",
+  "oilpricesfallasussanctionsoniranposinglimitedneartermsupplyr",
+  "36be609ead508ff1",
+  "crudeoilextendslossesbelow82",
+  "43ca31ef3031d565",
+  "crudeoildownover3ushomepricessurgeinjune"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T19:05:13.879035+03:00",
+ "last_run": "2026-08-25T19:10:17.923201+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1412,6 +1412,10 @@
   {
    "d": "2026-08-25",
    "t": "Iran’s Strait of Hormuz leverage is fading as global oil keeps flowing - opinion - The Jerusalem Post"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Oil prices fall as US sanctions on Iran posing limited near-term supply risk - Oil & Gas Journal"
   }
  ]
 }
