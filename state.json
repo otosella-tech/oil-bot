@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "84f842f6537101f7",
-  "longerwellsboostpermiancrudeoilandnaturalgasproduction",
   "bdc02eec5b571350",
   "insidethelabnetlfocusesonenhancingoilrecoverywitheor",
   "dfd4a2daca07c7f4",
@@ -603,7 +601,9 @@
   "463cb31bdbadb4e8",
   "tankertrackershighlightatleastfifteensetsofshiptoshiptransfe",
   "a54afdd99c9dd51a",
-  "usrefinersfacenewcrudesqueezeascanadacutsoilsandsoutput"
+  "usrefinersfacenewcrudesqueezeascanadacutsoilsandsoutput",
+  "f3e742cbc8dc5717",
+  "crudeoilinventoriessurgedefyingforecastsandprevioustrends"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-26T00:03:14.210398+03:00",
+ "last_run": "2026-08-26T00:05:15.129959+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
