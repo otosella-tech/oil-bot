@@ -4,14 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "e2e034690c25d516",
-  "explainerwhatareiransoptionstoescalatefurtherinfaceofusecono",
-  "b332f4960fb80efa",
-  "oiltradeslowerevenasbessentpromiseseconomicddayannouncemento",
-  "385ec8099201a6e8",
-  "crudeoilpriceswtiandbrentpullbackafterlastweeks5gain",
-  "7caee22f36229035",
-  "texasoilregulatorelectsnewchairman",
   "6db6c14072c585a9",
   "brentlastdayfinancialoverview",
   "0433d635266afa3c",
@@ -603,9 +595,19 @@
   "40a4eb9845e59a27",
   "globalprobleminoilbutbiggerproblemindieselsayspickeringenerg",
   "9c37ca9a9b9d645f",
-  "usequityindexesadvanceamidslumpingtreasuryyieldscrudeoil"
+  "usequityindexesadvanceamidslumpingtreasuryyieldscrudeoil",
+  "8b5a6d0c72e226c8",
+  "commentersoverwhelminglyopposeblmsrollbackofoilandgasruleana",
+  "118001b105e24bb8",
+  "oilstocksinusstrategicpetroleumreservefallby37millionbarrels",
+  "bf6c37665da073c9",
+  "exxonfallsasoilerasestheiranpremium",
+  "98f47e2b839060b2",
+  "chevronfallsasoilsurrenderstheiranpremium"
  ],
- "releases_done": {},
+ "releases_done": {
+  "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
+ },
  "last_digest": "2026-08-25",
  "digest_prices": {
   "WTI": 85.11,
@@ -615,7 +617,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T22:50:14.792094+03:00",
+ "last_run": "2026-08-25T22:55:12.737970+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1472,6 +1474,18 @@
   {
    "d": "2026-08-25",
    "t": "Oil settles down more than 3%; investors shrug off US sanctions on Iran - Reuters"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Oil stocks in US Strategic Petroleum Reserve fall by 3.7 million barrels to lowest level since 1982 - Reuters"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Exxon Falls as Oil Erases the Iran Premium - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Chevron Falls as Oil Surrenders the Iran Premium - Yahoo Finance UK"
   }
  ]
 }
