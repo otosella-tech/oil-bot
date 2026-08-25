@@ -4,8 +4,6 @@
   "Brent": 89.95
  },
  "seen": [
-  "1d247e1218eba67e",
-  "oilpricesfallasmarketsexpectussanctionsoniran",
   "cc9a43ef8e68b8f3",
   "oilfallsasuspreparestounveilnewiransanctionsbyreuters",
   "1d8e86e2b20d2ba9",
@@ -603,7 +601,9 @@
   "ae36dd0bfe29ced6",
   "iranvowstoretaliateafteruswidenssanctions",
   "fe966a4df5c05434",
-  "currentpriceofoilasofaugust212026"
+  "currentpriceofoilasofaugust212026",
+  "67cf6cc26b74deab",
+  "exxonlyondellamongsuitorsforshellsuschemicalassetscouldfetch"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 58
  },
- "last_run": "2026-08-25T10:55:12.763902+03:00",
+ "last_run": "2026-08-25T11:00:19.707115+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
