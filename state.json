@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "bde5fa77ce7e1511",
-  "stocksoilslipaheadofusthreatofeconomicwaragainstiran",
-  "480c37c3f974b5b6",
-  "bahrivlccstruckashouthiscontinueattacksagainstsaudiinterests",
   "25eb513d9a49c53e",
   "the60daypeacewindowclosedandtrumpsiranstrategymayshiftdramat",
   "4c1df80082d6c8d5",
@@ -603,7 +599,11 @@
   "274d099b4e24e35d",
   "usequitymarketshigherascrudeoilpricesbondyieldsdropafterustr",
   "e27c31bbb80c6691",
-  "chinasiranianoilimportsplummet48asussanctionsandblockadesbit"
+  "chinasiranianoilimportsplummet48asussanctionsandblockadesbit",
+  "92ae4c798bd6d951",
+  "iranandomandiscussjointshippingrouteinstraitofhormuzandminec",
+  "524627bef6c468d6",
+  "whyisntthepriceofoilevenhigher"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T23:45:16.299859+03:00",
+ "last_run": "2026-08-25T23:50:15.952998+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1507,6 +1507,10 @@
   {
    "d": "2026-08-25",
    "t": "China's Iranian Oil Imports Plummet 48% as US Sanctions and Blockades Bite - News and Statistics - IndexBox"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission - CNBC"
   }
  ]
 }
