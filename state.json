@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "ef7888527caa43ad",
-  "oildipsasiranallowsiraqitankersthroughhormuzeasingsupplyconc",
   "0260e82f7ae34753",
   "currentpriceofoilasofaugust242026",
   "be7962522f351ffc",
@@ -603,7 +601,9 @@
   "12241dc8c1e0e06e",
   "wticrudeoildropsto82boostingmajorusi",
   "ff1d43404111ee68",
-  "forecastupdateforcrudeoil24082026"
+  "forecastupdateforcrudeoil24082026",
+  "13e0dd9b3eb04223",
+  "highcrudeoilpricespushupnationalaverage"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T20:19:44.110344+03:00",
+ "last_run": "2026-08-25T20:20:17.915131+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
