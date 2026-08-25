@@ -4,8 +4,6 @@
   "Brent": 89.95
  },
  "seen": [
-  "e91148a3dd91e3ff",
-  "fxdailysnapshot",
   "1d247e1218eba67e",
   "oilpricesfallasmarketsexpectussanctionsoniran",
   "cc9a43ef8e68b8f3",
@@ -603,7 +601,9 @@
   "0f9396f8a48ad4d4",
   "asiansharesmostlygainandoilpricesholdsteadyastheusraisespres",
   "ae36dd0bfe29ced6",
-  "iranvowstoretaliateafteruswidenssanctions"
+  "iranvowstoretaliateafteruswidenssanctions",
+  "fe966a4df5c05434",
+  "currentpriceofoilasofaugust212026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 58
  },
- "last_run": "2026-08-25T10:45:16.996478+03:00",
+ "last_run": "2026-08-25T10:50:18.435522+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
