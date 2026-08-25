@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "fdc166d82b219b1a",
-  "floridageorgiagaspricesholdsteadyasoilandfuturesclimbaaasays",
   "4c035db78a8d4a64",
   "oilpricesdeclineasuspreparesnewsanctionsoniran",
   "55a9cd00e084fd01",
@@ -603,7 +601,9 @@
   "b9faba3bdfef03a4",
   "russiaeyescentralasiaasasafehavenforitsdefenseindustry",
   "86d60853b7572667",
-  "grainexportsstallasukrainestepsupattacksonrussia"
+  "grainexportsstallasukrainestepsupattacksonrussia",
+  "ba776cdb977afacc",
+  "updateequitiesriseintradayoilfallsasmarketsmonitortradedevel"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T21:10:16.012867+03:00",
+ "last_run": "2026-08-25T21:15:16.238184+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
