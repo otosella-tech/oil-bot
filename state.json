@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "82c78db7d889be65",
-  "crudeoilmarketssplitintoescalationandresolutionwithnomiddle",
-  "d5ae490415316148",
-  "wtislipsbelow8500astraderstakeprofitsbeforenewussanctionsoni",
   "68067eb0d7f7d2f1",
   "fewerthan20vesselscrossstraitofhormuzamidblockades",
   "28ec29e9d7366436",
@@ -603,7 +599,11 @@
   "ec55ed666ebc4cda",
   "japanplansnocrudeoilreleasefromnationalreserveinseptemberoct",
   "7a39738524963b2c",
-  "wticrudeoilfuturesslipto85asmiddleeasttensionspersist"
+  "wticrudeoilfuturesslipto85asmiddleeasttensionspersist",
+  "5f960c5f2c74f2a8",
+  "augustontracktorecordhighestgaspricesformonthhighcrudeoilpri",
+  "e135e741618fe6b4",
+  "chinacouldrescuetheoilmarketagainifitwantedto"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 30
  },
- "last_run": "2026-08-25T07:00:19.919764+03:00",
+ "last_run": "2026-08-25T07:05:15.442451+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
