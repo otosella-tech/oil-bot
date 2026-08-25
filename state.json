@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "1452e9b2abfa34e4",
-  "notasingledropofoilwillbeexportedifuseconomicwarcontinuesira",
   "d9f9509ad9973b32",
   "oilpricehikepetroleumproductsareexpectedtoseeapriceincreases",
   "b7abe2864b3c8f63",
@@ -603,7 +601,9 @@
   "5e951f78ef0360d0",
   "after6monthsofwarwhyarentoilpricesevenhigher",
   "dd510c6ab50095ce",
-  "wticrudeoiloutlookfailuretorallyraisesdownsiderisk"
+  "wticrudeoiloutlookfailuretorallyraisesdownsiderisk",
+  "57031e1521980f92",
+  "freshfromthetradingroombidfrombothends"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 30
  },
- "last_run": "2026-08-25T07:20:13.376172+03:00",
+ "last_run": "2026-08-25T07:25:12.384652+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
