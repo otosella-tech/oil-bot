@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "bced6f830c448fc7",
-  "indiaspolyesterrawmaterialtakesupwardrouteonrisingcrudeoil",
   "321493952aa44761",
   "oilpricesdiponprofitbookingasussanctionsloom",
   "5ad474c630b889f6",
@@ -603,7 +601,9 @@
   "68e09795f18c821c",
   "ussanctionsoniranchinasscrambleforoilmayaddtoindiascrudefrei",
   "16a0ed1cbe36c066",
-  "worldsharesmostlygainandoilpricesslipastheusraisespressureon"
+  "worldsharesmostlygainandoilpricesslipastheusraisespressureon",
+  "49fbd8c2439d8d52",
+  "oilfallsfurtherdespitefreshussanctionsoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T13:15:10.296653+03:00",
+ "last_run": "2026-08-25T13:20:15.499516+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1292,6 +1292,10 @@
   {
    "d": "2026-08-25",
    "t": "World shares mostly gain and oil prices slip as the U.S. raises pressure on Iran - BNN Bloomberg"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Oil Falls Further Despite Fresh U.S. Sanctions on Iran - WSJ"
   }
  ]
 }
