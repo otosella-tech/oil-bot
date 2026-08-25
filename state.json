@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "ecbde084579d8d49",
-  "oilpricesdropby1brentcrudeslides2to93aheadofusannouncementon",
   "5e774b7ecef2ad0b",
   "crudeoiltradingalertusplanstoescalateeconomicsanctionsoniran",
   "bca67a862f03f2f7",
@@ -603,7 +601,9 @@
   "91d9426db9d24929",
   "thehormuzcrudevolumedebatemaskstherealshortageofrefinedfuels",
   "cb69c7e8fe926d7b",
-  "chinaisthebiggestbuyerofiransoilcouldussanctionsthreatenthos"
+  "chinaisthebiggestbuyerofiransoilcouldussanctionsthreatenthos",
+  "f30e07b59b0580a7",
+  "beforethebellusfuturesandoilpricesslipwithpressureontreasuri"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 30
  },
- "last_run": "2026-08-25T06:15:17.422891+03:00",
+ "last_run": "2026-08-25T06:20:16.697625+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
