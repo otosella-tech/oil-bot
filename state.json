@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "4c1df80082d6c8d5",
-  "globaloilpricesabove90abarrelaheadofbessentseconomicddayanno",
   "84f842f6537101f7",
   "longerwellsboostpermiancrudeoilandnaturalgasproduction",
   "bdc02eec5b571350",
@@ -603,7 +601,9 @@
   "524627bef6c468d6",
   "whyisntthepriceofoilevenhigher",
   "463cb31bdbadb4e8",
-  "tankertrackershighlightatleastfifteensetsofshiptoshiptransfe"
+  "tankertrackershighlightatleastfifteensetsofshiptoshiptransfe",
+  "a54afdd99c9dd51a",
+  "usrefinersfacenewcrudesqueezeascanadacutsoilsandsoutput"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T23:55:11.646516+03:00",
+ "last_run": "2026-08-26T00:00:21.262294+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
