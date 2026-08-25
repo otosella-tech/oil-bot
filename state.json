@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "95ef665e053c04e7",
-  "aaagaspricesholdsteadydespitehigheroldpricesfornow",
-  "1d918606d7c1d912",
-  "currentpriceofoilasofaugust142026",
   "bb23220666ee94a7",
   "chinastoprefinersawfueldemandplungeafteroilspike",
   "67cf6cc26b74deab",
@@ -603,7 +599,11 @@
   "400f72a93638c8eb",
   "droneattackhitsrussianoilrefinery",
   "5f5e01fd3261cc68",
-  "totalenergiesshippingoilveryquietlythroughstraitofhormuzceos"
+  "totalenergiesshippingoilveryquietlythroughstraitofhormuzceos",
+  "fca62e31f239cc23",
+  "usmilitarysaysitaidedpassageof660millionbarrelsofoilthroughs",
+  "860ad7c3db055ce6",
+  "oilextendsfallasinvestorsshrugofflatestussanctionsoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-25",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-08-25T10:15:15.059680+03:00",
+ "last_run": "2026-08-25T10:20:14.287496+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1232,6 +1232,14 @@
   {
    "d": "2026-08-25",
    "t": "TotalEnergies shipping oil ‘very quietly’ through Strait of Hormuz, CEO says - TradeWinds News"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May - CNBC"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Oil extends fall as investors shrug off latest US sanctions on Iran - Euronext Markets"
   }
  ]
 }
