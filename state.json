@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "bef7995ab41a3650",
-  "totalenergiesbackstwomajoroilpipelinestobypasshormuz",
-  "52e752a364845dfe",
-  "oilpricespullbackasbessentlaunchesoperationeconomicoutcastag",
   "4acbd0924bc680c4",
   "cbotsoybeansloweronfallingcrudeoilsoyoilfutures",
   "2c62c35091d62a1b",
@@ -603,7 +599,11 @@
   "5d27b26a0a706464",
   "chinadefiesuseconomicddayagainstiran",
   "fc05d3111e4129e4",
-  "useconomicddaytargetsmorethanjustiranianoil"
+  "useconomicddaytargetsmorethanjustiranianoil",
+  "561109d6defe0df1",
+  "updatetechnologyhelpspushusequityindexeshigheramiddeclinesin",
+  "d48be9c0ae15b241",
+  "canadastrikesbackoildeclinesanddicksgetsslammedmarketspmfora"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-26",
-  "count": 10
+  "count": 11
  },
- "last_run": "2026-08-26T02:15:14.915318+03:00",
+ "last_run": "2026-08-26T02:20:15.486701+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
