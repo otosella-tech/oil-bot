@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "1a3fe637e499b404",
-  "oilmarketbearishforcrudebullishforproductssaystotalenergiesc",
   "1198c9243325adb1",
   "forecastupdateforcrudeoil24082026",
   "90da48b48fa7c037",
@@ -603,7 +601,9 @@
   "b7c2b21603e9f366",
   "russiasafipskyoilrefineryonfireafterdroneattacktwodeadgovern",
   "7c01ed1e495ea07c",
-  "cmecrudeoilhits8sessionlowoneasinggeopoliticalrisk"
+  "cmecrudeoilhits8sessionlowoneasinggeopoliticalrisk",
+  "33a1e863b6e09620",
+  "blmannouncesoctober2026saleofoilandgasleasesinmontanadakotas"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T18:45:18.584785+03:00",
+ "last_run": "2026-08-25T18:50:16.773189+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
