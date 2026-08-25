@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "8601c2e430fb66fa",
-  "oilnewscrudeoiltraderseyehormuztrafficassupplyriskbuilds",
   "7cdbcb4dd1f8da24",
   "somalipiratessurgeasnavalforcesshifttostraitofhormuz",
   "b0da70c7a090fa24",
@@ -603,7 +601,9 @@
   "10f39f3f6e59a717",
   "howussanctionsoniranripplethroughglobalmarketsandconsumers",
   "5a4a4fe743347a75",
-  "risingoilandgaspricesinsouthernafghanistanraisepublicconcern"
+  "risingoilandgaspricesinsouthernafghanistanraisepublicconcern",
+  "aa12f34b52f6fbd8",
+  "highcrudeoilpricespushnevadagaspricesbackup"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 15
  },
- "last_run": "2026-08-25T03:45:13.268593+03:00",
+ "last_run": "2026-08-25T03:50:13.968442+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
