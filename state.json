@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "17855693587e62c0",
-  "totalenergiesprofitablymovingheavilydiscountedoilthroughstra",
   "05d4f189991a9c24",
   "trumpsplantoallowdrillingnearnewmexicoheritagesitesetsoffglo",
   "f0ceb985501c962c",
@@ -603,7 +601,9 @@
   "43ca31ef3031d565",
   "crudeoildownover3ushomepricessurgeinjune",
   "9df1657fac761d8e",
-  "oilfallsover4asinvestorsshrugoffussanctionsoniran"
+  "oilfallsover4asinvestorsshrugoffussanctionsoniran",
+  "1daa063b680a5a98",
+  "brentcrudeoilfallsbyover4"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T19:35:14.170136+03:00",
+ "last_run": "2026-08-25T19:40:17.487933+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
