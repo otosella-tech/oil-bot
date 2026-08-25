@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "b273c401b4c92bde",
-  "oilretreatsawaitingdetailsofusmeasuresagainstiran",
-  "974f92f3336fc55b",
-  "usstrategicoilreservecontinuesdeclinehitslowestlevelsince198",
   "524627bef6c468d6",
   "whyisntthepriceofoilevenhigher",
   "bde5fa77ce7e1511",
@@ -603,10 +599,15 @@
   "80a9470e422ce0e7",
   "usstocksmovebacktotheupsideascrudeoilpricesextendnosedive",
   "72fcb4ae60e994cf",
-  "currentpriceofoilasofaugust202026"
+  "currentpriceofoilasofaugust202026",
+  "1408f9712f06da68",
+  "oilfuturesfallfurtheronhopesforhormuz",
+  "274d099b4e24e35d",
+  "usequitymarketshigherascrudeoilpricesbondyieldsdropafterustr"
  ],
  "releases_done": {
-  "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
+  "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
+  "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|post": 1
  },
  "last_digest": "2026-08-25",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T23:25:13.168537+03:00",
+ "last_run": "2026-08-25T23:30:20.734892+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1494,6 +1495,14 @@
   {
    "d": "2026-08-25",
    "t": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war - CNBC"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Oil Futures Fall Further on Hopes for Hormuz - WSJ"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "US Equity Markets Higher as Crude Oil Prices, Bond Yields Drop After US Treasury Threatens Economic Sanctions on Iran - marketscreener.com"
   }
  ]
 }
