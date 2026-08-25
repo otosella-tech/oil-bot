@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "25eb513d9a49c53e",
-  "the60daypeacewindowclosedandtrumpsiranstrategymayshiftdramat",
   "4c1df80082d6c8d5",
   "globaloilpricesabove90abarrelaheadofbessentseconomicddayanno",
   "84f842f6537101f7",
@@ -603,7 +601,9 @@
   "92ae4c798bd6d951",
   "iranandomandiscussjointshippingrouteinstraitofhormuzandminec",
   "524627bef6c468d6",
-  "whyisntthepriceofoilevenhigher"
+  "whyisntthepriceofoilevenhigher",
+  "463cb31bdbadb4e8",
+  "tankertrackershighlightatleastfifteensetsofshiptoshiptransfe"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T23:50:15.952998+03:00",
+ "last_run": "2026-08-25T23:55:11.646516+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1511,6 +1511,10 @@
   {
    "d": "2026-08-25",
    "t": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission - CNBC"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Tanker Trackers highlight at least fifteen sets of ship-to-ship transfers taking place in Gulf of Oman; \"We count 25 million barrels of crude oil; plus some refined products. The oil originates from almost every country in the region, minus Iran.\" - Newsquawk"
   }
  ]
 }
