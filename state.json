@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "770bd79a4d5fa0f9",
-  "iranadvancesplantochargeshipsfeesinstraitofhormuz",
   "b273c401b4c92bde",
   "oilretreatsawaitingdetailsofusmeasuresagainstiran",
   "974f92f3336fc55b",
@@ -603,7 +601,9 @@
   "35211c3696cef4eb",
   "crudeoilforecastwtipricescomeunderpressureasmiddleeastriskse",
   "80a9470e422ce0e7",
-  "usstocksmovebacktotheupsideascrudeoilpricesextendnosedive"
+  "usstocksmovebacktotheupsideascrudeoilpricesextendnosedive",
+  "72fcb4ae60e994cf",
+  "currentpriceofoilasofaugust202026"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T23:20:15.024722+03:00",
+ "last_run": "2026-08-25T23:25:13.168537+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
