@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "966e24601813cc1f",
-  "pemexandpetrobrasbetbigonhighriskhighrewarddrillingoffmexico",
   "ba275aa5fe74c5db",
   "spikeindarkoiltankersingulfraisesriskofcatastrophicspills",
   "304dc23e62cd655c",
@@ -603,7 +601,9 @@
   "38f1a0f97660bcfd",
   "iranblacklists46shipsonhormuznoncompliantlist",
   "ca2cd613c9b9c9e5",
-  "crudeoildropsasinvestorstakeprofitsussanctionslooklessdramat"
+  "crudeoildropsasinvestorstakeprofitsussanctionslooklessdramat",
+  "f9d652a007acbda3",
+  "thebiggestvictimsoftrumpseconomicd"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-25",
-  "count": 12
+  "count": 13
  },
- "last_run": "2026-08-25T02:55:16.201165+03:00",
+ "last_run": "2026-08-25T03:00:21.328901+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
