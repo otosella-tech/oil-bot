@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "90222691e9513ee6",
-  "oilnewscrudeoilbuyersneedsanctionstomatchtherhetoric",
   "3ae9748fe1e07fff",
   "opinionletirancontrolthestraitofhormuz",
   "4414ef03ea644ba4",
@@ -603,7 +601,9 @@
   "61feab8d5977840b",
   "oilfallliftsrupeetooveroneweekhighaftercentralbankkeepslidon",
   "ea428f91ab5292ef",
-  "losingtheiranwartheeconomicfront"
+  "losingtheiranwartheeconomicfront",
+  "db0597c925d4855c",
+  "currentpriceofoilasofaugust182026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T13:40:17.931494+03:00",
+ "last_run": "2026-08-25T13:45:13.849919+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
