@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "1a7070f30dfc4784",
-  "stockssupportedascrudeoilstabilizes",
   "44076e9cabe51c9c",
   "citiestimateswhenoilinventoriescouldreachcrisiseralevels",
   "83259ee763a56dcf",
@@ -603,7 +601,9 @@
   "1d918606d7c1d912",
   "currentpriceofoilasofaugust142026",
   "9d6d1e045006dc6a",
-  "mexicofallsbehindinthenewglobaloilmap"
+  "mexicofallsbehindinthenewglobaloilmap",
+  "0bb33ce198d12a81",
+  "indiascrudeimportbillsurgesashormuzshippingratessoar"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T12:44:57.902327+03:00",
+ "last_run": "2026-08-25T12:45:15.254799+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1272,6 +1272,10 @@
   {
    "d": "2026-08-25",
    "t": "General Staff confirms strikes on Afipsky oil refinery and Astrakhan Gas Processing Plant - Ukrinform"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "India’s Crude Import Bill Surges as Hormuz Shipping Rates Soar"
   }
  ]
 }
