@@ -4,12 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "200e783f676bab65",
-  "oilstockstowatchashighercrudeputsupstreamproducersindemand",
-  "d34fde8a88e0c34c",
-  "conocophillipsbeginsoilproductionatcoyote3sxinalaska",
-  "5e58e9bd465b8ac0",
-  "oilfalls1aheadofusannouncementtoimposefurthersanctionsoniran",
   "17396f4a3326ae21",
   "permiansprolificweeksolvethecrosswordpuzzleforaug24",
   "7efb36dea76e61a5",
@@ -603,7 +597,13 @@
   "8601c2e430fb66fa",
   "oilnewscrudeoiltraderseyehormuztrafficassupplyriskbuilds",
   "d0de30e4e6c5a7a2",
-  "judgefinessableoffshore145millionbutrejectscaliforniabidtoha"
+  "judgefinessableoffshore145millionbutrejectscaliforniabidtoha",
+  "f1070d02ee77bc70",
+  "oilpricessteadyasinvestorsweighimpactofexpandedussanctionsag",
+  "08fdf9a88857b7a0",
+  "howcanadacouldhitbacktohurttheuseconomyandtrump",
+  "583d6db684fcf6ac",
+  "dieselcrisisthreatenstooutlastthemiddleeastwar"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-25",
-  "count": 16
+  "count": 18
  },
- "last_run": "2026-08-25T04:15:14.052411+03:00",
+ "last_run": "2026-08-25T04:20:15.830105+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1164,6 +1164,14 @@
   {
    "d": "2026-08-25",
    "t": "How US sanctions on Iran ripple through global markets and consumers - Al Jazeera"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Diesel Crisis Threatens to Outlast the Middle East War - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
