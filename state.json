@@ -4,10 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "9d8e0bc52674f361",
-  "egyptadnocdrillingdiscussexpandingoilgaspartnership",
-  "584b969a9377f411",
-  "morganstanleyswilsonseeshigheroilaskeyriskforequities",
   "ee107c837b98329f",
   "chinaboostscoalseconomicvalue700afterturningittoliquidsrepor",
   "7b7ef6cff2b08389",
@@ -603,7 +599,11 @@
   "8fab898d57bc98fe",
   "currentpriceofoilasofaugust252026",
   "9dd8b7a6894c42b3",
-  "uspushtoisolateiraneconomicallyhitsaroadblockwithchina"
+  "uspushtoisolateiraneconomicallyhitsaroadblockwithchina",
+  "1a7ff6b3463cc23d",
+  "oilfallstooneweeklowasmarketsplaydownlatestussanctionsoniran",
+  "482e4219499c7af2",
+  "texasoilandgasindustryreportsanothermonthofjoblossesinupstre"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T15:30:19.707037+03:00",
+ "last_run": "2026-08-25T15:35:12.836728+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1340,6 +1340,10 @@
   {
    "d": "2026-08-25",
    "t": "Wall Street points to gains as US raises pressure on Iran and trade war with Canada intensifies - Yahoo! Finance Canada"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Oil Falls to One-Week Low as Markets Play Down Latest U.S. Sanctions on Iran - Yahoo Finance"
   }
  ]
 }
