@@ -4,10 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "72b04a6fc246dca8",
-  "shippingoilthroughhormuzcosts20milliontotalceosays",
-  "737941bf6c1a9291",
-  "goldmansachseuropeneedsmuchhighergaspricestosecurewintersupp",
   "118001b105e24bb8",
   "oilstocksinusstrategicpetroleumreservefallby37millionbarrels",
   "4c491721c8d3dcc3",
@@ -603,7 +599,11 @@
   "1231b97f456367aa",
   "satelliteimagesshowseventankersloadingiraqicrudeatonce",
   "4b2e05400db49a2e",
-  "californiagaspricesshapinguptobethehighestonrecordwhatyoullp"
+  "californiagaspricesshapinguptobethehighestonrecordwhatyoullp",
+  "63221014755ef960",
+  "fallingoilpriceshelpcalmthestockandbondmarketsthenews",
+  "3a0e3e6e2dd1b5b0",
+  "cmewticrudeoilfuturesdroppedasmarketshruggedoffnewiransancti"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T22:42:09.529673+03:00",
+ "last_run": "2026-08-25T22:45:14.252812+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1464,6 +1464,10 @@
   {
    "d": "2026-08-25",
    "t": "Satellite Images Show Seven Tankers Loading Iraqi Crude at Once"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "CME : WTI Crude Oil futures dropped as market shrugged off new Iran sanctions. - marketscreener.com"
   }
  ]
 }
