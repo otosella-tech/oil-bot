@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "22e232f318917c68",
-  "permoilrefineryhaltsoperationsafteraugust21droneattackreuter",
   "c0d8d48d2f203806",
   "exxonmobilguyanareceiveserreawittufpsoatuarufield",
   "bef7995ab41a3650",
@@ -603,7 +601,9 @@
   "55b20601509ed9f1",
   "usstocksriseasoilinflationfearsretreat",
   "ac5359591c37aea1",
-  "cenovusenergyslidesascrudepullbackappearstoweighonoilproduce"
+  "cenovusenergyslidesascrudepullbackappearstoweighonoilproduce",
+  "5d27b26a0a706464",
+  "chinadefiesuseconomicddayagainstiran"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-26",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-08-26T01:40:14.833591+03:00",
+ "last_run": "2026-08-26T01:45:16.151001+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1459,6 +1459,10 @@
   {
    "d": "2026-08-26",
    "t": "The U.S. Power Play in Iraq That Moscow and Beijing Didn’t See Coming"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "China Defies U.S. Economic D-Day against Iran - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
