@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "d9f9509ad9973b32",
-  "oilpricehikepetroleumproductsareexpectedtoseeapriceincreases",
-  "b7abe2864b3c8f63",
-  "oilfallsasuspreparestounveilnewiransanctions",
   "535116568f9e7aed",
   "wticrudeoilfuturesriseamidfallinginventoriesandgeopoliticalt",
   "2fde05434ad77475",
@@ -603,7 +599,11 @@
   "dd510c6ab50095ce",
   "wticrudeoiloutlookfailuretorallyraisesdownsiderisk",
   "57031e1521980f92",
-  "freshfromthetradingroombidfrombothends"
+  "freshfromthetradingroombidfrombothends",
+  "4de008ec1fe0dc45",
+  "electrifyingthemilitarycouldbatteriesreplaceoilsoon",
+  "6bad9fb1c1f57a74",
+  "cookinletoilspillpromptsmultiagencyresponse"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 30
  },
- "last_run": "2026-08-25T07:35:12.574039+03:00",
+ "last_run": "2026-08-25T07:40:13.184911+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
