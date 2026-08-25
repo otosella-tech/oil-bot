@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "4f9016efeb7f1889",
-  "sixeucountriespushforasharedwindfalltaxonoilcompanies",
   "4f7aac89bf46f071",
   "crudeoilgainsafterussanctionsthreatenmiddleeastsupplydisrupt",
   "2ab70ee4cd1eefe2",
@@ -603,7 +601,9 @@
   "592377e03441d983",
   "opinionchinaistheiranwarsunexpectedwinner",
   "cf919f43a3b372c0",
-  "ussanctionsoiltraderwellbredoveriranlinks"
+  "ussanctionsoiltraderwellbredoveriranlinks",
+  "1013e3b79b712ace",
+  "theiranwarssurprisewinnerischina"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-25",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-08-25T08:15:13.953837+03:00",
+ "last_run": "2026-08-25T08:19:10.539117+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1200,6 +1200,10 @@
   {
    "d": "2026-08-25",
    "t": "China is the biggest buyer of Iran’s oil. Could US sanctions threaten those ties? - The Guardian"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "The Iran War’s Surprise Winner Is China - The New York Times"
   }
  ]
 }
