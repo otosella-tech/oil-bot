@@ -4,10 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "4c035db78a8d4a64",
-  "oilpricesdeclineasuspreparesnewsanctionsoniran",
-  "55a9cd00e084fd01",
-  "iranadvancesplantochargevesselsfeesforstraitofhormuzpassage",
   "99454c61801604c6",
   "iranblacklists45tankersashormuzstandoffescalates",
   "40c0fd798c3aa6f7",
@@ -603,7 +599,11 @@
   "86d60853b7572667",
   "grainexportsstallasukrainestepsupattacksonrussia",
   "ba776cdb977afacc",
-  "updateequitiesriseintradayoilfallsasmarketsmonitortradedevel"
+  "updateequitiesriseintradayoilfallsasmarketsmonitortradedevel",
+  "805547b326e3ad60",
+  "oilfalls4asinvestorsshrugoffussanctionsoniran",
+  "9187d9508ef1eb2d",
+  "satelliteimageshowssurgeiniraqspersiangulfoilloadings"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T21:35:13.606195+03:00",
+ "last_run": "2026-08-25T21:40:16.431398+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1448,6 +1448,14 @@
   {
    "d": "2026-08-25",
    "t": "Grain exports stall as Ukraine steps up attacks on Russia - DW.com"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Oil falls 4% as investors shrug off US sanctions on Iran - Reuters"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Satellite Image Shows Surge in Iraq’s Persian Gulf Oil Loadings - Bloomberg"
   }
  ]
 }
