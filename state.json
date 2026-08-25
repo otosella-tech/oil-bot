@@ -4,10 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "bf89c6ead691fd80",
-  "ussaysoilispouringthroughhormuztrackerscantfindit",
-  "35bfdf66398c76db",
-  "iranthreatens45tankerswithfinesconfiscationinhormuzescalatio",
   "b9bc8407ed3d6bc1",
   "totalenergieswillinvesttoexpandfujairahoilexportpipelineinab",
   "2e43dc6d015f0ca1",
@@ -603,7 +599,11 @@
   "9ac03653f63847db",
   "houthisstrikesaudioiltankerthreatenwiderredseablockade",
   "198c7e53d8f9e92c",
-  "fallingoilpriceshelpcalmthestockandbondmarketsunion"
+  "fallingoilpriceshelpcalmthestockandbondmarketsunion",
+  "31a3e0f6f91aeee6",
+  "cantrumpisolateiranwithouttriggeringaclashwithchina",
+  "9c7b70f48e3b6495",
+  "whitepaperdemonstratesbenefitsofthordonbearingstbossshaftlin"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T16:55:13.486951+03:00",
+ "last_run": "2026-08-25T17:00:23.406932+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1376,6 +1376,10 @@
   {
    "d": "2026-08-25",
    "t": "Houthis Strike Saudi Oil Tanker, Threaten Wider Red Sea Blockade - The Media Line"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Can Trump Isolate Iran Without Triggering a Clash With China?"
   }
  ]
 }
