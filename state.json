@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "bdc02eec5b571350",
-  "insidethelabnetlfocusesonenhancingoilrecoverywitheor",
-  "dfd4a2daca07c7f4",
-  "whatsaffectingoilpricesthisweekaug242026",
   "132461da6827a281",
   "oilpricespullbackasmarketsawaitnewussanctionsoniran",
   "4b6ecdc263cda35e",
@@ -603,7 +599,11 @@
   "a54afdd99c9dd51a",
   "usrefinersfacenewcrudesqueezeascanadacutsoilsandsoutput",
   "f3e742cbc8dc5717",
-  "crudeoilinventoriessurgedefyingforecastsandprevioustrends"
+  "crudeoilinventoriessurgedefyingforecastsandprevioustrends",
+  "8abcd42c2a593716",
+  "sprsinkstowardoperationalminimumasuscrudeinventoriesbuild",
+  "84f842f6537101f7",
+  "longerwellsboostpermiancrudeoilandnaturalgasproduction"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -615,75 +615,11 @@
   "Brent": 92.11
  },
  "llm": {
-  "date": "2026-08-25",
-  "count": 60
+  "date": "2026-08-26",
+  "count": 1
  },
- "last_run": "2026-08-26T00:05:15.129959+03:00",
+ "last_run": "2026-08-26T00:10:18.492008+03:00",
  "sent_stories": [
-  {
-   "d": "2026-08-22",
-   "t": "Oil prices are little changed after Iran's president indicates Tehran wants war to end soon - CNBC"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "HOUSTON — International and US crude oil futures rose on Friday after US President Donald Trump threatened economic sanctions on Iran's trading partners, raising expectations of tighter supply in the coming weeks. Read more: https://tmt.ph/2410267 - LinkedIn"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "Drones attack Novokuibyshevsk oil refinery in Russia's Samara Oblast – photo, videos - Українська правда"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "Daily vessel traffic through the Strait of Hormuz halved, while crude oil weekly charts closed positively across the board; what do cross-market spreads reveal? - Moomoo"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "US Navy moved 15M barrels of oil through Hormuz in 1 day, US energy chief says - Türkiye Today"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "Oil prices jump after Iran publishes restrictive draft plan for Strait of Hormuz - CNBC"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz - Reuters"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "Drones Strike Novokuibyshevsk Refinery and Ozon Hub in Samara Region - Kyiv Post"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "General Staff confirms strike on Rosneft refinery in Russia’s Samara region - Ukrinform"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "Türkiye's energy role to grow with surge in oil flows from Iraq line - Daily Sabah"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "Global oil prices rise: Brent crude surpasses $94 amid the Hormuz crisis - صوت الإمارات"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "Global oil inventories on the decline again amid Hormuz stalemate - Nikkei Asia"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "Slowed vessel traffic and new sanctions on Iran raise oil prices - Oil & Gas Journal"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "Every Chokepoint That Isn't Hormuz"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "Crude Oil Prices Rally as President Trump Escalates Pressure on Iran - Yahoo Finance"
-  },
-  {
-   "d": "2026-08-22",
-   "t": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026"
-  },
   {
    "d": "2026-08-23",
    "t": "US stocks move sharply lower as crude oil surges, Walmart slumps - Yahoo Finance"
