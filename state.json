@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "d1f764088eaa57ac",
-  "iraqwantstodoubleoiloutputandneedsopectogetoutoftheway",
   "7fa921cdab7f816f",
   "stockmarketoutlookcrudeoilusiranconflictfedcuestodrivemarket",
   "938bac5e9f8e6d2d",
@@ -603,7 +601,9 @@
   "f0cdde3f2d5cd4cf",
   "palmoilfirmskeptzerodeforestationpledgesbutforestssawlittlee",
   "32d10acba39e8b12",
-  "commodityvesseltransitsthroughstraitofhormuzhitthreemonthlow"
+  "commodityvesseltransitsthroughstraitofhormuzhitthreemonthlow",
+  "604b0e0a37e11bc3",
+  "equinoreyesmajoroildiscoveryoffshorenamibia"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T15:10:15.700481+03:00",
+ "last_run": "2026-08-25T15:15:14.387499+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
