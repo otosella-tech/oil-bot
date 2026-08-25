@@ -4,10 +4,6 @@
   "Brent": 89.95
  },
  "seen": [
-  "a304a56d59b6f3d3",
-  "ensignnotchesupgrowthamidwesterncanadianoilboom",
-  "ad14279abfb02f07",
-  "putinadmitsfuelmarketproblemsinrussianotyetfullyresolvedafte",
   "8139b8829bb6aa3c",
   "lowercrudeoilpricesdrivingdownnationalaverage",
   "99f8c88fcefbe4bb",
@@ -603,7 +599,11 @@
   "3c72f9cae078ad31",
   "ussanctionswellbredcapitaloverlinkstoiranianoilnetwork",
   "50f8eebfeebd0094",
-  "oilhitsoneweeklowasinvestorsshrugofflatestussanctionsoniran"
+  "oilhitsoneweeklowasinvestorsshrugofflatestussanctionsoniran",
+  "445492c38153ef12",
+  "oilsteadiesasinvestorsweighimpactoflatestussanctionsoniranby",
+  "4fb142c5cf523c34",
+  "daxoilforecasttwotradestowatch"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T11:55:14.202507+03:00",
+ "last_run": "2026-08-25T11:59:49.991536+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-08-25",
    "t": "Oil hits one-week low as investors shrug off latest US sanctions on Iran - Reuters"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Oil steadies as investors weigh impact of latest US sanctions on Iran By Reuters - Investing.com"
   }
  ]
 }
