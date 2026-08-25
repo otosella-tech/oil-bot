@@ -4,12 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "132461da6827a281",
-  "oilpricespullbackasmarketsawaitnewussanctionsoniran",
-  "4b6ecdc263cda35e",
-  "howwilliranrespondtofurtheruseconomicpressure",
-  "1b2cb2ecd45f572d",
-  "egyptianuaefreezoneforoilstorageandtradingestablishedinnewal",
   "3e12665dc9632fd2",
   "wtiandbrentpushupwardextendingyeartodategains",
   "bd6be29474edeace",
@@ -603,7 +597,13 @@
   "8abcd42c2a593716",
   "sprsinkstowardoperationalminimumasuscrudeinventoriesbuild",
   "84f842f6537101f7",
-  "longerwellsboostpermiancrudeoilandnaturalgasproduction"
+  "longerwellsboostpermiancrudeoilandnaturalgasproduction",
+  "5b5b9f9f000bae1a",
+  "enbridgeline5appearstohavegasleakinfarnortheasternwisconsin",
+  "d8c452500096bb7c",
+  "7446mchevroncoastalverdictbackinjeopardy",
+  "28d0f5803e947dc8",
+  "iranandomanholdtalksonmanagingthestraitofhormuzandothernewsf"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-26",
-  "count": 1
+  "count": 2
  },
- "last_run": "2026-08-26T00:15:13.388151+03:00",
+ "last_run": "2026-08-26T00:20:14.329338+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
