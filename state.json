@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "fca62e31f239cc23",
-  "usmilitarysaysitaidedpassageof660millionbarrelsofoilthroughs",
   "95ef665e053c04e7",
   "aaagaspricesholdsteadydespitehigheroldpricesfornow",
   "1d918606d7c1d912",
@@ -603,7 +601,9 @@
   "bed5b1c5d134d635",
   "oilfuturescrudedriftslowerimpactofnewiransanctionseyed",
   "400f72a93638c8eb",
-  "droneattackhitsrussianoilrefinery"
+  "droneattackhitsrussianoilrefinery",
+  "5f5e01fd3261cc68",
+  "totalenergiesshippingoilveryquietlythroughstraitofhormuzceos"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-25",
-  "count": 52
+  "count": 54
  },
- "last_run": "2026-08-25T10:10:15.950394+03:00",
+ "last_run": "2026-08-25T10:15:15.059680+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1228,6 +1228,10 @@
   {
    "d": "2026-08-25",
    "t": "Drone attack hits Russian oil refinery - TVP World"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "TotalEnergies shipping oil ‘very quietly’ through Strait of Hormuz, CEO says - TradeWinds News"
   }
  ]
 }
