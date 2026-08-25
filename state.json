@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "9a590b44f71f9693",
-  "internationaloilgovernance",
   "4f9016efeb7f1889",
   "sixeucountriespushforasharedwindfalltaxonoilcompanies",
   "4f7aac89bf46f071",
@@ -603,7 +601,9 @@
   "0af75e3fec52cda9",
   "oilsteadiesasinvestorsweighimpactoflatestussanctionsoniran",
   "592377e03441d983",
-  "opinionchinaistheiranwarsunexpectedwinner"
+  "opinionchinaistheiranwarsunexpectedwinner",
+  "cf919f43a3b372c0",
+  "ussanctionsoiltraderwellbredoveriranlinks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-25",
-  "count": 37
+  "count": 38
  },
- "last_run": "2026-08-25T08:10:14.950791+03:00",
+ "last_run": "2026-08-25T08:15:13.953837+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
