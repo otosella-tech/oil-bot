@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "7d2b137130029064",
-  "modecsfpsoreachesguyanaasexxonmobilsfifthoilprojectnearsstar",
   "d1f764088eaa57ac",
   "iraqwantstodoubleoiloutputandneedsopectogetoutoftheway",
   "7fa921cdab7f816f",
@@ -603,7 +601,9 @@
   "12600a48ecbfc443",
   "moregasfor30yearoldtrolla",
   "f0cdde3f2d5cd4cf",
-  "palmoilfirmskeptzerodeforestationpledgesbutforestssawlittlee"
+  "palmoilfirmskeptzerodeforestationpledgesbutforestssawlittlee",
+  "32d10acba39e8b12",
+  "commodityvesseltransitsthroughstraitofhormuzhitthreemonthlow"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T15:05:13.803846+03:00",
+ "last_run": "2026-08-25T15:10:15.700481+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1332,6 +1332,10 @@
   {
    "d": "2026-08-25",
    "t": "Oil futures: Crude slides lower, muted reaction to new Iran sanctions - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Commodity Vessel Transits Through Strait of Hormuz Hit Three-Month Low, Data Shows - gCaptain"
   }
  ]
 }
