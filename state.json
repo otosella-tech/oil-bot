@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "99454c61801604c6",
-  "iranblacklists45tankersashormuzstandoffescalates",
   "40c0fd798c3aa6f7",
   "globaloilpricesfallaheadofeconomicddayannouncementoniran",
   "7303c32ae148d45f",
@@ -603,7 +601,9 @@
   "805547b326e3ad60",
   "oilfalls4asinvestorsshrugoffussanctionsoniran",
   "9187d9508ef1eb2d",
-  "satelliteimageshowssurgeiniraqspersiangulfoilloadings"
+  "satelliteimageshowssurgeiniraqspersiangulfoilloadings",
+  "67d976babc46e977",
+  "octoberwticrudeoilcontractclosesdown265or31settlesat8236perb"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T21:40:16.431398+03:00",
+ "last_run": "2026-08-25T21:45:16.785011+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
