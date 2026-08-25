@@ -4,14 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "b9bc8407ed3d6bc1",
-  "totalenergieswillinvesttoexpandfujairahoilexportpipelineinab",
-  "2e43dc6d015f0ca1",
-  "indianstocksfallamidiransanctionselevatedcrudeoil",
-  "c01fd1bb014fe044",
-  "lookingforanenergyshockitsindiesel",
-  "3e98b384278c841e",
-  "currentpriceofoilasofaugust172026",
   "d8e0c7b1e493542d",
   "aaareporthighcrudeoilpricesdrivenationalgasaveragehigher",
   "3b1af3d8c54b91ed",
@@ -603,7 +595,15 @@
   "31a3e0f6f91aeee6",
   "cantrumpisolateiranwithouttriggeringaclashwithchina",
   "9c7b70f48e3b6495",
-  "whitepaperdemonstratesbenefitsofthordonbearingstbossshaftlin"
+  "whitepaperdemonstratesbenefitsofthordonbearingstbossshaftlin",
+  "99826336aba2c0f3",
+  "vivakorraises2026crudeoilmarketingoutlookto35billion",
+  "bf89c6ead691fd80",
+  "ussaysoilispouringthroughhormuztrackerscantfindit",
+  "b60623e09c9c39c3",
+  "wticrudeoilforecastpricesslideasfearpremiumfades",
+  "81a69b475891dfeb",
+  "usnaturalgasdropswithoiloneffectsofiranpressureplan"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T17:00:23.406932+03:00",
+ "last_run": "2026-08-25T17:05:17.119055+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1380,6 +1380,14 @@
   {
    "d": "2026-08-25",
    "t": "Can Trump Isolate Iran Without Triggering a Clash With China?"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "U.S. Says Oil Is Pouring Through Hormuz. Trackers Can’t Find It. - WSJ"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "US Natural Gas Drops With Oil on Effects of Iran Pressure Plan - Bloomberg"
   }
  ]
 }
