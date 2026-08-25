@@ -4,8 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "da5bfdb8d20323f5",
-  "stockmarkettodaygiftniftynikkeitocrudeoilpricesfivekeyfactor",
   "ecbde084579d8d49",
   "oilpricesdropby1brentcrudeslides2to93aheadofusannouncementon",
   "5e774b7ecef2ad0b",
@@ -603,7 +601,9 @@
   "67646592929cb04f",
   "oilpricetodayaugust25crudeoilat92asinvestorsdigestuseconomic",
   "91d9426db9d24929",
-  "thehormuzcrudevolumedebatemaskstherealshortageofrefinedfuels"
+  "thehormuzcrudevolumedebatemaskstherealshortageofrefinedfuels",
+  "cb69c7e8fe926d7b",
+  "chinaisthebiggestbuyerofiransoilcouldussanctionsthreatenthos"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-25",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-08-25T05:45:14.726779+03:00",
+ "last_run": "2026-08-25T05:50:15.251043+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-08-25",
    "t": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "China is the biggest buyer of Iran’s oil. Could US sanctions threaten those ties? - The Guardian"
   }
  ]
 }
