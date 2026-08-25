@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "b9f4de87bcd699b4",
-  "canargentinastexassavethecountryseconomy",
   "2c371ae957321b3b",
   "worldsharesdeclineasbondmarketpressurepersistsandiransrialsi",
   "cccde821048d5305",
@@ -603,7 +601,9 @@
   "7c560de45ca9b7a4",
   "vivakorraises2026supplytradingoutlookto35billionamidexpandin",
   "8de59fb250f9a293",
-  "newsletternorwayspushtopumpmoreoil"
+  "newsletternorwayspushtopumpmoreoil",
+  "f3e82a7a330caecb",
+  "ukrainehitsanotherrussianrefineryasfuelcrunchworsens"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T16:29:21.122937+03:00",
+ "last_run": "2026-08-25T16:30:20.583804+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-08-25",
    "t": "Oil prices fall to one-week low as Iran sanctions disappoint - qz.com"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Ukraine Hits Another Russian Refinery as Fuel Crunch Worsens"
   }
  ]
 }
