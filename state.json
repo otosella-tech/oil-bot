@@ -4,10 +4,6 @@
   "Brent": 89.95
  },
  "seen": [
-  "39e004733cc9d7b8",
-  "crudeoilwticonsolidatesnearhighsat8511hourlylevelsbyinvestin",
-  "b759b025037f78b0",
-  "rupeesteadiesasrbibuysreservesoilshifts",
   "8e86485716857f3b",
   "adnocdrillingtargetsegyptgrowth",
   "a304a56d59b6f3d3",
@@ -603,7 +599,11 @@
   "df847f7217c9eea7",
   "japanholdsoffonnewoilreservereleasedespiteseptemberimportdro",
   "d7023dc83d6e982e",
-  "thedilemmaathormuzandthegccrepercussionsandsolutions"
+  "thedilemmaathormuzandthegccrepercussionsandsolutions",
+  "76d2f57784521ca7",
+  "oilfallsasmarketshrugsoffusplantosqueezeiran",
+  "3c72f9cae078ad31",
+  "ussanctionswellbredcapitaloverlinkstoiranianoilnetwork"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T11:45:16.288701+03:00",
+ "last_run": "2026-08-25T11:50:16.676327+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1252,6 +1252,14 @@
   {
    "d": "2026-08-25",
    "t": "The Dilemma at Hormuz and the GCC: Repercussions and Solutions - politicstoday.org"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Oil Falls as Market Shrugs off U.S. Plan to Squeeze Iran - WSJ"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "US Sanctions Wellbred Capital Over Links to Iranian Oil Network - Egypt Oil & Gas"
   }
  ]
 }
