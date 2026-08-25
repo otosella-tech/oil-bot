@@ -4,10 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "d2fc04de71388af2",
-  "iranrunningoutofoilcargoes",
-  "ff1e401e751378ee",
-  "japanmakesdiplomaticpushforsafepassagethroughkeymiddleeastst",
   "56b0b786945a1223",
   "liveupdateslatestfromisraeliranandthemiddleeast",
   "bfad6ec134468d3b",
@@ -603,7 +599,11 @@
   "ab533b1442671d90",
   "malaccastatesvowtokeepasiasbusiestshippingrouteopen",
   "9fc7857392fe356f",
-  "totalenergiestoinvestinexpandingabudhabisfujairahoilpipeline"
+  "totalenergiestoinvestinexpandingabudhabisfujairahoilpipeline",
+  "4414ef03ea644ba4",
+  "equinorandorlenstrengthenenergypartnershipwithcrudeoilagreem",
+  "6f3f28c6bd02bbac",
+  "theoilproblemthatmaybewithusoncetheiranwarisover"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T14:00:23.210469+03:00",
+ "last_run": "2026-08-25T14:05:12.945998+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1304,6 +1304,10 @@
   {
    "d": "2026-08-25",
    "t": "Losing the Iran War: The Economic Front - Paul Krugman | Substack"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "The Oil Problem That May Be with Us Once the Iran War Is Over - News Radio 1200 WOAI"
   }
  ]
 }
