@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "03d6b903dd7e2f0d",
-  "crudeoilpriceskeeppushinggashigherasnationalaveragehits410",
-  "c8303385d400388b",
-  "iranswarningtousalliesjoineconomicwarfaceretaliationnotasing",
   "92e4ec5d36b266c6",
   "navyrecovers91000litresofcrudeoilinrivers",
   "c3d268e02c872cb7",
@@ -603,7 +599,11 @@
   "33737d615f4c2a53",
   "istheworldsoilsupplybecomingtoodependentonwarzones",
   "7e5c778dc2ebed98",
-  "theussaysitllcrackdownoncountriesdoingbusinesswithiranwhosbu"
+  "theussaysitllcrackdownoncountriesdoingbusinesswithiranwhosbu",
+  "f7422353188c52bb",
+  "opiniontheiranwarssurprisewinnerischina",
+  "4603516b81cdf301",
+  "trumptargetsiranstradelifelinesherearethecountriesmostexpose"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-25",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-08-25T09:35:13.436952+03:00",
+ "last_run": "2026-08-25T09:40:16.092501+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-08-25",
    "t": "The US says it’ll crack down on countries doing business with Iran. Who’s buying Iranian oil? - CNN"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Trump targets Iran’s trade lifelines — here are the countries most exposed - CNBC"
   }
  ]
 }
