@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "2ddfd39049bf36d5",
-  "oilslipsaheadofusannouncementofnewsanctionsoniran",
   "2a2f11408093014d",
   "couldhormuzrecoveryrepriceoilbeforeaniransettlement",
   "1d6387278b35d9d6",
@@ -603,7 +601,9 @@
   "ac77b7adc1a07b96",
   "israeliarmsiraniandronesandturkishoilazerbaijanshighstakesba",
   "86512979f5ffc8ac",
-  "wticrudeoilforecastpullbacktargets79supportzone"
+  "wticrudeoilforecastpullbacktargets79supportzone",
+  "75853bd430d4850b",
+  "crudeoilinventoriessurgedefyingforecastsandprevioustrendsbyi"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-26",
   "count": 4
  },
- "last_run": "2026-08-26T00:50:14.752135+03:00",
+ "last_run": "2026-08-26T00:55:13.016770+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
