@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "49f7125c38018dac",
-  "norwaytakesoilfieldclimatebattletosupremecourt",
   "acbf2ee833116bb4",
   "yourmondayaug24guidefourthingstodointheoilcity",
   "987984c7d9b0c74a",
@@ -603,7 +601,9 @@
   "ccf63fcacb9d0c6f",
   "oilpricesfallasirannegotiationhopesreturn",
   "53579d83e9add673",
-  "adecadeofoildevelopmentinalaskaislockedintoplace"
+  "adecadeofoildevelopmentinalaskaislockedintoplace",
+  "f348f832f80334af",
+  "iransstraitofhormuzleverageisfadingasglobaloilkeepsflowingop"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T19:02:15.739103+03:00",
+ "last_run": "2026-08-25T19:05:13.879035+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1408,6 +1408,10 @@
   {
    "d": "2026-08-25",
    "t": "Oil Prices Fall as Iran Negotiation Hopes Return"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Iran’s Strait of Hormuz leverage is fading as global oil keeps flowing - opinion - The Jerusalem Post"
   }
  ]
 }
