@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "76c90594b4a53b66",
-  "indialoadsuponrussianoilasgulfsuppliestighten",
   "3c04cd8c6030295f",
   "sensexniftyopenhigherascrudeoilpricesfallbyupto2",
   "1f0a5887232ffc7d",
@@ -603,7 +601,9 @@
   "f89f051b865c81d7",
   "japantosupportoilpipelinesthatbypassstraitofhormuz",
   "a45a7efd95284472",
-  "climatedamagewouldobliterateanyeconomicbenefitsofnewnorthsea"
+  "climatedamagewouldobliterateanyeconomicbenefitsofnewnorthsea",
+  "6aa2178838ed985b",
+  "permoilrefinerysuspendsoperationsafterdronestrike"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T13:05:13.038598+03:00",
+ "last_run": "2026-08-25T13:10:15.084572+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-08-25",
    "t": "Japan to support oil pipelines that bypass Strait of Hormuz - Nikkei Asia"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Perm Oil Refinery Suspends Operations After Drone Strike - Мілітарний"
   }
  ]
 }
