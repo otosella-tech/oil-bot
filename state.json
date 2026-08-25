@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "b48c831a13db3aef",
-  "octoberwticrudeoilcontractclosesdown205or24settlesat8501perb",
   "b82f0687e5145151",
   "iranoilcargoesdryupevenbeforeusactsontehranthreats",
   "018536c14dfec564",
@@ -603,7 +601,9 @@
   "b8ffbaab96e9892b",
   "usoilpricesextendlossesonhopesofiranomantalksonstraitofhormu",
   "936aa23b9819493f",
-  "usapicrudeoilstockchangeactual42mforecastprevious0328m"
+  "usapicrudeoilstockchangeactual42mforecastprevious0328m",
+  "1dbe1a4a41495a05",
+  "oilpricesdrop4astradersdismissussanctions"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-26",
   "count": 13
  },
- "last_run": "2026-08-26T02:32:27.934807+03:00",
+ "last_run": "2026-08-26T02:35:12.550966+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
