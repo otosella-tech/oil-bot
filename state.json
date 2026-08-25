@@ -4,8 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "7fa921cdab7f816f",
-  "stockmarketoutlookcrudeoilusiranconflictfedcuestodrivemarket",
   "938bac5e9f8e6d2d",
   "usrefinersfacehistoricstresstestasglobalcrisisloomsreutersco",
   "6de2a8f517985e36",
@@ -603,7 +601,9 @@
   "32d10acba39e8b12",
   "commodityvesseltransitsthroughstraitofhormuzhitthreemonthlow",
   "604b0e0a37e11bc3",
-  "equinoreyesmajoroildiscoveryoffshorenamibia"
+  "equinoreyesmajoroildiscoveryoffshorenamibia",
+  "b546d82b45f05f13",
+  "wallstreetpointstogainsasusraisespressureoniranandtradewarwi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T15:15:14.387499+03:00",
+ "last_run": "2026-08-25T15:20:16.071827+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1336,6 +1336,10 @@
   {
    "d": "2026-08-25",
    "t": "Commodity Vessel Transits Through Strait of Hormuz Hit Three-Month Low, Data Shows - gCaptain"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Wall Street points to gains as US raises pressure on Iran and trade war with Canada intensifies - Yahoo! Finance Canada"
   }
  ]
 }
