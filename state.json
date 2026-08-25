@@ -4,10 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "f23b09c58b95160f",
-  "oilpricesurgeemergesasnewthreattousstocksmorganstanleyforeca",
-  "29e760b062af672c",
-  "oilfalls18astradersawaittoughestsanctionsoniranal",
   "cb8e1e9532aabce8",
   "europeanleadersgatherinkyivasukraineseeksmoreairdefense",
   "e50dc202e64daf1d",
@@ -603,7 +599,11 @@
   "fbc6c64682970cdc",
   "bigoilisseeingwindfallprofitsastrumpswaronirandrivesupprices",
   "c26f7a713adf943d",
-  "natgaspricesfallinsympathywithcrudeoil"
+  "natgaspricesfallinsympathywithcrudeoil",
+  "0b93ea379db60ee9",
+  "crudeoilpricessharplylowerasmiddleeasthostilitiessubside",
+  "6b57fd1e6108d01b",
+  "yourtuesdayaug25guidefivethingstodointheoilcity"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T22:25:12.576608+03:00",
+ "last_run": "2026-08-25T22:30:20.587841+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
