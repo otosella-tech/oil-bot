@@ -4,8 +4,6 @@
   "Brent": 89.95
  },
  "seen": [
-  "8139b8829bb6aa3c",
-  "lowercrudeoilpricesdrivingdownnationalaverage",
   "99f8c88fcefbe4bb",
   "asiansharesmostlydeclineasbondmarketpressuremountsabcnews",
   "8b971f3922e82d2e",
@@ -603,7 +601,9 @@
   "445492c38153ef12",
   "oilsteadiesasinvestorsweighimpactoflatestussanctionsoniranby",
   "4fb142c5cf523c34",
-  "daxoilforecasttwotradestowatch"
+  "daxoilforecasttwotradestowatch",
+  "0777e9dd32727c03",
+  "inuscanadatradespatwashingtonleftoutakeylevercanadianoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T12:00:22.152119+03:00",
+ "last_run": "2026-08-25T12:05:13.574317+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
