@@ -4,10 +4,6 @@
   "Brent": 88.06
  },
  "seen": [
-  "cb8e1e9532aabce8",
-  "europeanleadersgatherinkyivasukraineseeksmoreairdefense",
-  "e50dc202e64daf1d",
-  "oilpricesdropaswhitehouseoptsforsanctionsoverstrikesoniran",
   "72b04a6fc246dca8",
   "shippingoilthroughhormuzcosts20milliontotalceosays",
   "737941bf6c1a9291",
@@ -603,7 +599,11 @@
   "0b93ea379db60ee9",
   "crudeoilpricessharplylowerasmiddleeasthostilitiessubside",
   "6b57fd1e6108d01b",
-  "yourtuesdayaug25guidefivethingstodointheoilcity"
+  "yourtuesdayaug25guidefivethingstodointheoilcity",
+  "1231b97f456367aa",
+  "satelliteimagesshowseventankersloadingiraqicrudeatonce",
+  "4b2e05400db49a2e",
+  "californiagaspricesshapinguptobethehighestonrecordwhatyoullp"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-25",
   "count": 60
  },
- "last_run": "2026-08-25T22:30:20.587841+03:00",
+ "last_run": "2026-08-25T22:35:13.272548+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1460,6 +1460,10 @@
   {
    "d": "2026-08-25",
    "t": "Big Oil Is Seeing Windfall Profits as Trump’s War on Iran Drives Up Prices - Truthout"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Satellite Images Show Seven Tankers Loading Iraqi Crude at Once"
   }
  ]
 }
