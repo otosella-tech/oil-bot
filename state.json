@@ -4,10 +4,6 @@
   "Brent": 92.36
  },
  "seen": [
-  "17396f4a3326ae21",
-  "permiansprolificweeksolvethecrosswordpuzzleforaug24",
-  "7efb36dea76e61a5",
-  "saudioillogisticsroiledagainbyhouthisredseathreat",
   "899de6548211bb92",
   "oilfallsaheadofusannouncementonnewiransanctions",
   "de169db9c41e4000",
@@ -603,7 +599,11 @@
   "08fdf9a88857b7a0",
   "howcanadacouldhitbacktohurttheuseconomyandtrump",
   "583d6db684fcf6ac",
-  "dieselcrisisthreatenstooutlastthemiddleeastwar"
+  "dieselcrisisthreatenstooutlastthemiddleeastwar",
+  "9b67002514a308da",
+  "oiledgeshigherastradersassessusmeasuresagainstiran",
+  "2cba0ec5a7fe8074",
+  "crudeoilwtistuckinchopzoneat8522livelevels"
  ],
  "releases_done": {},
  "last_digest": "2026-08-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-25",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-08-25T04:20:15.830105+03:00",
+ "last_run": "2026-08-25T04:25:11.986629+03:00",
  "sent_stories": [
   {
    "d": "2026-08-22",
@@ -1172,6 +1172,10 @@
   {
    "d": "2026-08-25",
    "t": "Diesel Crisis Threatens to Outlast the Middle East War - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-25",
+   "t": "Oil Edges Higher as Traders Assess U.S. Measures Against Iran - WSJ"
   }
  ]
 }
