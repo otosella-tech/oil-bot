@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "9fc7857392fe356f",
-  "totalenergiestoinvestinexpandingabudhabisfujairahoilpipeline",
-  "4414ef03ea644ba4",
-  "equinorandorlenstrengthenenergypartnershipwithcrudeoilagreem",
   "6f3f28c6bd02bbac",
   "theoilproblemthatmaybewithusoncetheiranwarisover",
   "965b5a7a018d1401",
@@ -603,9 +599,15 @@
   "60ab6104f658c417",
   "ukenergybillstohitthree",
   "528f3e3d539e01c9",
-  "aftercpcdisruptionskazakhstanwantstorefinemoreoilathome"
+  "aftercpcdisruptionskazakhstanwantstorefinemoreoilathome",
+  "c3ede43e0e51337a",
+  "crudeoilfuturesoct6clmainus",
+  "4404cbfdf3cea170",
+  "iranomanagreeontemporaryhormuzroutewhatweknow"
  ],
- "releases_done": {},
+ "releases_done": {
+  "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+ },
  "last_digest": "2026-08-26",
  "digest_prices": {
   "WTI": 80.32,
@@ -615,7 +617,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T16:50:14.985295+03:00",
+ "last_run": "2026-08-26T16:55:12.417888+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1684,6 +1686,10 @@
   {
    "d": "2026-08-26",
    "t": "UK Energy Bills to Hit Three-Year High as Gas Prices Surge"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Iran, Oman agree on temporary Hormuz route: What we know - Al Jazeera"
   }
  ]
 }
