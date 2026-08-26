@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "aa12f34b52f6fbd8",
-  "highcrudeoilpricespushnevadagaspricesbackup",
   "8601c2e430fb66fa",
   "oilnewscrudeoiltraderseyehormuztrafficassupplyriskbuilds",
   "d0de30e4e6c5a7a2",
@@ -603,7 +601,9 @@
   "b249c92873eeac9d",
   "crudeoilpricedropasiranomantalksraisehormuzhopes",
   "3efebf948cb65dd9",
-  "whatthehormuzcrisishascostfossilfuelimportersmarchtoaugust20"
+  "whatthehormuzcrisishascostfossilfuelimportersmarchtoaugust20",
+  "1b0313430078ca97",
+  "asnigeriasdangoterefinerynearsrecordipoinvestorsfocusonoilsu"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-26",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-08-26T09:10:16.658240+03:00",
+ "last_run": "2026-08-26T09:15:15.421337+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1548,6 +1548,10 @@
   {
    "d": "2026-08-26",
    "t": "What the Hormuz crisis has cost fossil fuel importers — March to August 2026 - Centre for Research on Energy and Clean Air"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "As Nigeria's Dangote refinery nears record IPO, investors focus on oil supply costs - Reuters"
   }
  ]
 }
