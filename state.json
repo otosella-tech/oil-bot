@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "91d9426db9d24929",
-  "thehormuzcrudevolumedebatemaskstherealshortageofrefinedfuels",
-  "cb69c7e8fe926d7b",
-  "chinaisthebiggestbuyerofiransoilcouldussanctionsthreatenthos",
   "f30e07b59b0580a7",
   "beforethebellusfuturesandoilpricesslipwithpressureontreasuri",
   "1fa03edf530f8f9f",
@@ -603,7 +599,11 @@
   "3e4ec134821e7d28",
   "fxdailysnapshot",
   "96eda3064ff82a0b",
-  "iranstankerblacklistraisesnewrisksforgulfoil"
+  "iranstankerblacklistraisesnewrisksforgulfoil",
+  "6041bd88d2647549",
+  "naturalgasandoilforecasthormuztalksofferhopeasuscrudestocksr",
+  "de17a718a46e70fe",
+  "brentslips2ashormuzsupplyfearseasefedhikebetspersist"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T10:40:15.922320+03:00",
+ "last_run": "2026-08-26T10:45:16.825077+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1580,6 +1580,10 @@
   {
    "d": "2026-08-26",
    "t": "Iran’s Tanker Blacklist Raises New Risks for Gulf Oil"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Brent slips 2% as Hormuz supply fears ease, Fed hike bets persist - Anadolu Ajansı"
   }
  ]
 }
