@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "fd2cb09fb2db07c6",
-  "oildropsmorethan2despitenewussanctionsoniran",
   "deac6f4ee16c12ae",
   "europesbiogasplantscouldbecomefertilizerfactories",
   "e5af15e98139b115",
@@ -603,7 +601,9 @@
   "8ceb737732de778e",
   "dowjonesfuturesinflationdatanvidiaearningsduerobinhoodinbuya",
   "286012633cb3bec4",
-  "whyjulysinflationreliefmaybeshortlived"
+  "whyjulysinflationreliefmaybeshortlived",
+  "ae0d9d9ec30ce10b",
+  "japantodiversifycrudesuppliesbackmideastpipelinesinresilienc"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-26",
-  "count": 31
+  "count": 32
  },
- "last_run": "2026-08-26T06:30:19.686342+03:00",
+ "last_run": "2026-08-26T06:35:12.651329+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
