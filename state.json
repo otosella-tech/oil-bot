@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "2cba0ec5a7fe8074",
-  "crudeoilwtistuckinchopzoneat8522livelevels",
-  "8114f3e0fb3d5cc4",
-  "oilpricesdrifthigherasmarketsdigestfreshusiransanctions",
   "5edfa429b2873ce1",
   "woodsidetopsinterimprofitestimatesasmideastcrisisliftsoilpri",
   "ce0bbf935605d8ef",
@@ -603,7 +599,11 @@
   "e2ad9641a0295d64",
   "oilpricesfallus2oniranomantalkstoreopenstraitofhormuz",
   "a8034f23c5ba433e",
-  "oilpricesfallasiranomantalksfuelhopesofstraitreopening"
+  "oilpricesfallasiranomantalksfuelhopesofstraitreopening",
+  "a10f5868ffb445cc",
+  "bspcompletescrudediversification",
+  "b8defb1b76372ed4",
+  "dronesattackwildberrieslogisticshuboneofrussiaslargestoilref"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T09:45:15.382663+03:00",
+ "last_run": "2026-08-26T09:50:14.840311+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1564,6 +1564,10 @@
   {
    "d": "2026-08-26",
    "t": "Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Drones attack Wildberries logistics hub, one of Russia's largest oil refineries – media - Ukrinform"
   }
  ]
 }
