@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "5f5e01fd3261cc68",
-  "totalenergiesshippingoilveryquietlythroughstraitofhormuzceos",
-  "fca62e31f239cc23",
-  "usmilitarysaysitaidedpassageof660millionbarrelsofoilthroughs",
   "860ad7c3db055ce6",
   "oilextendsfallasinvestorsshrugofflatestussanctionsoniran",
   "8c7aff800334ca4b",
@@ -603,7 +599,11 @@
   "9f2ec1624ae32d8b",
   "qatarloses24billionaslngexportscollapse96",
   "90f5d4a451c7a9b5",
-  "25millionbarrelsmovedinmassiveseaofomanshiptoshipoiltransfer"
+  "25millionbarrelsmovedinmassiveseaofomanshiptoshipoiltransfer",
+  "802920c6359a8ebe",
+  "oildropstomorethantwoweeklowoniranomantalkstoreopenstraitofh",
+  "f0c1369c44f79a75",
+  "iranandomanreportprogressintalksonstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T14:05:14.400059+03:00",
+ "last_run": "2026-08-26T14:10:15.304306+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1640,6 +1640,14 @@
   {
    "d": "2026-08-26",
    "t": "Oil prices extend slide as Iran and Oman eye temporary Hormuz deal - MarketWatch"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Oil drops to more than two-week low on Iran-Oman talks to reopen Strait of Hormuz - Reuters"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Iran and Oman Report Progress in Talks on Strait of Hormuz - The New York Times"
   }
  ]
 }
