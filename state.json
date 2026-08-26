@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "a7fd683bb06d82f2",
-  "tennesseegaspricesfallonepenny",
   "e401c9374c3c8404",
   "theenergyreportwhyoiltradersarestayingcalm",
   "f2648a5f2606b59b",
@@ -603,7 +601,9 @@
   "4dd6d8cab86b1389",
   "tokyomarketsettoextendgainsonusstockrallyandcrudeoilslumpfoc",
   "b64dd371518141ad",
-  "crudeoilfellover4metalsshowedmixedperformancelmeandshfezinca"
+  "crudeoilfellover4metalsshowedmixedperformancelmeandshfezinca",
+  "44323093d49d73e0",
+  "iranmayhavelittletoloseasustriestosqueezeitseconomy"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-26",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-08-26T04:10:17.027137+03:00",
+ "last_run": "2026-08-26T04:15:15.414494+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1475,6 +1475,10 @@
   {
    "d": "2026-08-26",
    "t": "Oil prices extend losses after Iran resumes Hormuz talks with Oman - Investing.com"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy - The New York Times"
   }
  ]
 }
