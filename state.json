@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "ae17b8f820c2e094",
-  "oilgiantrussiaturnstofuelimportsasrefinerycrunchdeepens",
-  "6bf290979f5c8581",
-  "kazakhstansaysitskondensatoilrefinerytoprocessrussianoil",
   "0ee5dd9f7d650d23",
   "currentpriceofoilasofaug252026",
   "12600a48ecbfc443",
@@ -603,10 +599,15 @@
   "e082aba800e50608",
   "2oilrefinersoutperformingnvidiaaretheybetterbuysnow",
   "a806c44884be180b",
-  "thepriceofdieseltheworkhorseoffuelsnearsarecordhigh"
+  "thepriceofdieseltheworkhorseoffuelsnearsarecordhigh",
+  "2e419892459428d1",
+  "naturalgasnotoiliskeyinflationconcernineurope",
+  "4b65dd4d9f5c767d",
+  "indiasongctargetstenfoldoiloutputboostinvenezuela"
  ],
  "releases_done": {
-  "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+  "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
+  "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|post": 1
  },
  "last_digest": "2026-08-26",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T17:25:13.881482+03:00",
+ "last_run": "2026-08-26T17:30:19.846557+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1710,6 +1711,10 @@
   {
    "d": "2026-08-26",
    "t": "General Staff confirms strike on Lukoil oil refinery in Russia’s Nizhny Novgorod region - Ukrinform"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "India’s ONGC Targets Tenfold Oil Output Boost in Venezuela"
   }
  ]
 }
