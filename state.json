@@ -4,8 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "7c560de45ca9b7a4",
-  "vivakorraises2026supplytradingoutlookto35billionamidexpandin",
   "8de59fb250f9a293",
   "newsletternorwayspushtopumpmoreoil",
   "f3e82a7a330caecb",
@@ -603,7 +601,9 @@
   "ea623ba3d496a8d5",
   "eiaweeklyuscrudeoilinventories95kvs597kexpected",
   "a28cd9e4f3afc181",
-  "brentcrudeoilpareslosses"
+  "brentcrudeoilpareslosses",
+  "d894669130ed1df8",
+  "uscrudeoilinventoriesincreaseby01millionbarrels"
  ],
  "releases_done": {
   "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T19:45:15.526579+03:00",
+ "last_run": "2026-08-26T19:50:34.546010+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
