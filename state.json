@@ -4,12 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "7f7caca7516aa59e",
-  "wallstreetfuturesriseasoilselloffeasesinflationconcernsdowjo",
-  "94b73ab34975160c",
-  "crudeoiladdstolossesasinvestorsinwaitandseemodeoveriransanct",
-  "72238d192012a5cb",
-  "canadiandollarandbusinessoutlooklooniedowncrudeoilfallsback",
   "30bcf670671d17ab",
   "dropincrudeoilpricesfuelsmarkets",
   "89ed6b61f47462e4",
@@ -603,7 +597,13 @@
   "008bbf9cf4e296d6",
   "azerbaijanisbalancingisraeliarmsiraniandronesandturkishoil",
   "3e98b384278c841e",
-  "currentpriceofoilasofaugust172026"
+  "currentpriceofoilasofaugust172026",
+  "2df931ccbb0dc331",
+  "oilpricesturnpositiveafteriransaysdealreachedwithomantoshare",
+  "bdadea2578a5ea96",
+  "crudeoilpricessliponhopesstraitofhormuztoreopen",
+  "758b4a3894549e1e",
+  "enbridgetobuysaltcreekmidstreamscrudeoilgatheringbusinessfor"
  ],
  "releases_done": {
   "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T22:15:16.544540+03:00",
+ "last_run": "2026-08-26T22:20:17.540668+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1759,6 +1759,14 @@
   {
    "d": "2026-08-26",
    "t": "Azerbaijan is balancing Israeli arms, Iranian drones and Turkish oil - The Jerusalem Post"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Oil prices turn positive after Iran says deal reached with Oman to share revenue from Hormuz - CNBC"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Crude Oil Prices Slip on Hopes Strait of Hormuz to Reopen - Barchart.com"
   }
  ]
 }
