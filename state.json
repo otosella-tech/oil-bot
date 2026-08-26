@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "3445d4b9da053284",
-  "bessentssweepingsanctionsagainstiransendoilpricestotheirbigg",
   "81bccecbfc8ff86f",
   "thejourneyofamillionbarrelswhoreallymakesmoneyinoiltrading",
   "22d2928431c0855f",
@@ -603,7 +601,9 @@
   "9a1d56f36bd858ea",
   "todaysstraitofhormuzmysterywheredidtheoilgo",
   "7b097506583cfac4",
-  "asiaenergystocksslideasoiltumblesoniranomanhormuztalks"
+  "asiaenergystocksslideasoiltumblesoniranomanhormuztalks",
+  "f57991878849c626",
+  "oilpricesslide2oniranomantalkstoreopenstraitofhormuz"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-26",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-08-26T05:05:14.162210+03:00",
+ "last_run": "2026-08-26T05:10:14.326199+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1491,6 +1491,10 @@
   {
    "d": "2026-08-26",
    "t": "Asia energy stocks slide as oil tumbles on Iran-Oman Hormuz talks - Investing.com"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz - Reuters"
   }
  ]
 }
