@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "3c72f9cae078ad31",
-  "ussanctionswellbredcapitaloverlinkstoiranianoilnetwork",
-  "50f8eebfeebd0094",
-  "oilhitsoneweeklowasinvestorsshrugofflatestussanctionsoniran",
   "445492c38153ef12",
   "oilsteadiesasinvestorsweighimpactoflatestussanctionsoniranby",
   "4fb142c5cf523c34",
@@ -603,7 +599,11 @@
   "fd849b4c8ade2b0f",
   "permoilrefinerylostover80ofprimaryrefiningcapacityfollowings",
   "9718014b58cf4ece",
-  "enbridgetoacquiresaltcreekmidstreamscrudeoilgatheringbusines"
+  "enbridgetoacquiresaltcreekmidstreamscrudeoilgatheringbusines",
+  "b6e95d6186cbde65",
+  "enbridgetobuysaltcreekmidstreamcrudegatheringassetsfor600mil",
+  "f2c330b67ea20c4a",
+  "worldstocksinchupasoildropsonhormuzhopesaheadofdatanvidiares"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T15:01:14.186249+03:00",
+ "last_run": "2026-08-26T15:05:12.553056+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1660,6 +1660,10 @@
   {
    "d": "2026-08-26",
    "t": "Perm Oil Refinery Lost Over 80% of Primary Refining Capacity Following Strikes - Satellite Imagery - Мілітарний"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "World stocks inch up as oil drops on Hormuz hopes ahead of data, Nvidia results - Reuters"
   }
  ]
 }
