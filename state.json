@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "7e7824bd3ac32821",
-  "usequitymarketsmixedascrudeoilpricesdropaheadofupcominguseco",
   "2f32f921baa0c4a4",
   "whyhasthepriceofoilremainedbelowwartimeexpectations",
   "429e73430e7453a5",
@@ -603,7 +601,9 @@
   "d57dbee6546a3012",
   "crudeoiltradingalertprogressinestablishingatemporaryshipping",
   "b54ba5f0ccc9109d",
-  "oilfallsoneasingconcernsofrenewedtensionsastheuspivotstoecon"
+  "oilfallsoneasingconcernsofrenewedtensionsastheuspivotstoecon",
+  "967996482176e5f3",
+  "asianstockshesitantbeforenvidiaoilslipsonhormuzhopes"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-26",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-08-26T05:20:15.069392+03:00",
+ "last_run": "2026-08-26T05:25:12.947129+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1503,6 +1503,10 @@
   {
    "d": "2026-08-26",
    "t": "Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran - CNBC"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes - Reuters"
   }
  ]
 }
