@@ -4,12 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "8139b8829bb6aa3c",
-  "lowercrudeoilpricesdrivingdownnationalaverage",
-  "1d918606d7c1d912",
-  "currentpriceofoilasofaugust142026",
-  "9d6d1e045006dc6a",
-  "mexicofallsbehindinthenewglobaloilmap",
   "0bb33ce198d12a81",
   "indiascrudeimportbillsurgesashormuzshippingratessoar",
   "f89f051b865c81d7",
@@ -603,7 +597,13 @@
   "fca62e31f239cc23",
   "usmilitarysaysitaidedpassageof660millionbarrelsofoilthroughs",
   "ec601ccbbc1b9560",
-  "inuscanadatradespatwashingtonleftoutakeylevercanadianoil"
+  "inuscanadatradespatwashingtonleftoutakeylevercanadianoil",
+  "41b0a3a016050c18",
+  "indiasrussianoilimportsslidefromrecordhighassupplytightens",
+  "4f95b7afca86bf06",
+  "enbridgetoextendpermianexportvaluechainwithacquisitionofsalt",
+  "fc6cb9f5efc79833",
+  "thedollarshruggedoffiransanctionsandoilfell3"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T15:25:13.002945+03:00",
+ "last_run": "2026-08-26T15:30:20.626072+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1668,6 +1668,14 @@
   {
    "d": "2026-08-26",
    "t": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May - CNBC"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "India’s Russian Oil Imports Slide From Record High as Supply Tightens"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "The Dollar Shrugged Off Iran Sanctions and Oil Fell 3% - FOREX.com"
   }
  ]
 }
