@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "71c1698d858c23a8",
-  "venezuelasoilrevivalisslowerthantheushoped",
   "78c74ba0e973d6e7",
   "californiascostlyenergyislandingregulationwhybigoilwantstoke",
   "a337cd13b1974444",
@@ -603,7 +601,9 @@
   "f5af581294eb70d4",
   "crudeoilpricesfallasusirandealhopesweighwebookprofitonouroil",
   "909be8ca0dc01396",
-  "crudeoilpricefuturesfallasiranomandiscussmaritimecorridorins"
+  "crudeoilpricefuturesfallasiranomandiscussmaritimecorridorins",
+  "f2f3a7dd928d8a4d",
+  "someoilcompaniestoavoidshipsoniranblacklistsourcessay"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-26",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-08-26T08:10:19.010773+03:00",
+ "last_run": "2026-08-26T08:15:14.779827+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1520,6 +1520,10 @@
   {
    "d": "2026-08-26",
    "t": "Crude oil price: Futures fall as Iran, Oman discuss maritime corridor in Strait of Hormuz - BusinessLine"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Some oil companies to avoid ships on Iran blacklist, sources say - Reuters"
   }
  ]
 }
