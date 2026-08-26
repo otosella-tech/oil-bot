@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "4db44d35c0e143bf",
-  "woodsideenergysfirsthalfprofitbeatsestimatesonhigheroilprice",
   "9bb6f09575c80bc9",
   "oilpricesfellonmondayaugust24asinvestorsbracedfordetailsofau",
   "10f39f3f6e59a717",
@@ -603,7 +601,9 @@
   "ca2cd613c9b9c9e5",
   "crudeoildropsasinvestorstakeprofitsussanctionslooklessdramat",
   "dcdea8c9b30821ab",
-  "dronesattackoilrefineryinrussiaskstovosparkingfirephotosvide"
+  "dronesattackoilrefineryinrussiaskstovosparkingfirephotosvide",
+  "a9cab39b94e2469d",
+  "oilpricesdown250826"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 50
  },
- "last_run": "2026-08-26T08:45:57.631175+03:00",
+ "last_run": "2026-08-26T08:50:15.128766+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
