@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "67646592929cb04f",
-  "oilpricetodayaugust25crudeoilat92asinvestorsdigestuseconomic",
   "91d9426db9d24929",
   "thehormuzcrudevolumedebatemaskstherealshortageofrefinedfuels",
   "cb69c7e8fe926d7b",
@@ -603,7 +601,9 @@
   "ac264d5fe3a92cef",
   "europeansharesedgehigherasoilfallsnvidiaearningsinfocus",
   "3e4ec134821e7d28",
-  "fxdailysnapshot"
+  "fxdailysnapshot",
+  "96eda3064ff82a0b",
+  "iranstankerblacklistraisesnewrisksforgulfoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T10:25:14.570924+03:00",
+ "last_run": "2026-08-26T10:30:18.377827+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1576,6 +1576,10 @@
   {
    "d": "2026-08-26",
    "t": "QatarEnergy offers crude oil for loading within the Strait of Hormuz - Inspenet"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Iran’s Tanker Blacklist Raises New Risks for Gulf Oil"
   }
  ]
 }
