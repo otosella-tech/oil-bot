@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "9db761307bd4f620",
-  "usthreatenssanctionsagainstcountriescompaniesbuyingiranianoi",
-  "6911142942924e72",
-  "usleaveseuropebehindincriticalmineralsrace",
   "aae0f9ea03878809",
   "theuscanadatradefighthasnottouchedoilyet",
   "b4853b7dd044caf3",
@@ -603,7 +599,11 @@
   "cd979fc90c29760a",
   "oilpricesslideover2followingreportofusiranceasefire",
   "c559714478845d19",
-  "asiansharesmostlyriseasoilpricesfallandhopegrowsforai"
+  "asiansharesmostlyriseasoilpricesfallandhopegrowsforai",
+  "300e75bfbca6bbe3",
+  "asianstockssettogainasoilextendsdeclinesmarketswrap",
+  "92fe6b1af4aa38e2",
+  "crudeoilfallsforfourconsecutivesessionsmetalsbroadlyriselmec"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 34
  },
- "last_run": "2026-08-26T07:15:15.579668+03:00",
+ "last_run": "2026-08-26T07:20:13.634356+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
