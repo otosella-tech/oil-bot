@@ -4,12 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "f1070d02ee77bc70",
-  "oilpricessteadyasinvestorsweighimpactofexpandedussanctionsag",
-  "08fdf9a88857b7a0",
-  "howcanadacouldhitbacktohurttheuseconomyandtrump",
-  "583d6db684fcf6ac",
-  "dieselcrisisthreatenstooutlastthemiddleeastwar",
   "9b67002514a308da",
   "oiledgeshigherastradersassessusmeasuresagainstiran",
   "2cba0ec5a7fe8074",
@@ -603,7 +597,13 @@
   "bff9339a3ba84e42",
   "skoreareleasesmorecrudereservesamidelevatedoilprices",
   "c1f445cde33f91bc",
-  "crudeoilfuturesfallamidweakglobalcues"
+  "crudeoilfuturesfallamidweakglobalcues",
+  "7ed9e98a3b102f44",
+  "oilpricesfallasiran",
+  "09f63548bf21d224",
+  "oilwassupposedtogohighandstaythereitstillcould",
+  "e2ad9641a0295d64",
+  "oilpricesfallus2oniranomantalkstoreopenstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-26",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-08-26T09:30:19.820769+03:00",
+ "last_run": "2026-08-26T09:35:11.643136+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1552,6 +1552,14 @@
   {
    "d": "2026-08-26",
    "t": "As Nigeria's Dangote refinery nears record IPO, investors focus on oil supply costs - Reuters"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Oil prices fall US$2 on Iran-Oman talks to reopen Strait of Hormuz - The Standard (HK)"
   }
  ]
 }
