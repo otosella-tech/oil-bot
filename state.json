@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "33737d615f4c2a53",
-  "istheworldsoilsupplybecomingtoodependentonwarzones",
   "7e5c778dc2ebed98",
   "theussaysitllcrackdownoncountriesdoingbusinesswithiranwhosbu",
   "f7422353188c52bb",
@@ -603,7 +601,9 @@
   "70039659274002fb",
   "britishcrudeoiltankerfindsitselfamidstargentinianpowerstrugg",
   "fb7fba661c1dd272",
-  "oilpricesslideover2amidhopesforprogressinmideastdiplomacy"
+  "oilpricesslideover2amidhopesforprogressinmideastdiplomacy",
+  "95968081ab777044",
+  "oilpricesfacedselloffsamidnewsofsanctions"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T13:15:20.613707+03:00",
+ "last_run": "2026-08-26T13:20:16.527605+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
