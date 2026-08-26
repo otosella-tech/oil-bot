@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "2f32f921baa0c4a4",
-  "whyhasthepriceofoilremainedbelowwartimeexpectations",
   "429e73430e7453a5",
   "usgulfboundcaplinecrudeoilpipeflowsfallathirdmonth",
   "4349e60faa46691b",
@@ -603,7 +601,9 @@
   "b54ba5f0ccc9109d",
   "oilfallsoneasingconcernsofrenewedtensionsastheuspivotstoecon",
   "967996482176e5f3",
-  "asianstockshesitantbeforenvidiaoilslipsonhormuzhopes"
+  "asianstockshesitantbeforenvidiaoilslipsonhormuzhopes",
+  "c112683869ff1b41",
+  "strategicchangesinakeycrudeoilshippinglaneasunrestcontinues"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-26",
   "count": 29
  },
- "last_run": "2026-08-26T05:45:14.544697+03:00",
+ "last_run": "2026-08-26T05:50:14.124273+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
