@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "67cf6cc26b74deab",
-  "exxonlyondellamongsuitorsforshellsuschemicalassetscouldfetch",
   "19feb6ecefac6314",
   "oilfallsasusiranuscanadaeconomictensionsfueldemandconcerns",
   "1b660886ff06fbf6",
@@ -603,7 +601,9 @@
   "8a4928a46dc20ddb",
   "crudeoilfuturesfall168to7705onweakglobalcues",
   "9e764e69e6f3e9eb",
-  "indiansharesfallasitreliancedraglossesdeepeninclosingauction"
+  "indiansharesfallasitreliancedraglossesdeepeninclosingauction",
+  "fe966a4df5c05434",
+  "currentpriceofoilasofaugust212026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T14:35:12.704033+03:00",
+ "last_run": "2026-08-26T14:37:03.466094+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
