@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "d407851afc4c5eb0",
-  "usdcadholdsfirmastraderisksoffsetrisingoil",
   "afed9e871d0618fb",
   "crudeoilpricetradedhigherontuesdaymorning",
   "0f9396f8a48ad4d4",
@@ -603,7 +601,9 @@
   "235b584093dd03db",
   "uscrudehoversaround80asoilpricessinkonhormuzdealhopes",
   "ee038af89892f6e1",
-  "chinascnoocrakesinrecordfirsthalfprofitonhighoilpricesamidir"
+  "chinascnoocrakesinrecordfirsthalfprofitonhighoilpricesamidir",
+  "bbc79503b855f98e",
+  "currentpriceofoilasofaug262026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T14:15:15.690726+03:00",
+ "last_run": "2026-08-26T14:20:15.244465+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
