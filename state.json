@@ -4,8 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "0362236e663c4aa9",
-  "middayneedtoknowcrudeoilfallstevainvestigatedinturkeymorespy",
   "415b12a582454a1e",
   "trumpslatestwaveofiransanctionswhich60entitiesaretargeted",
   "864df299102bc70e",
@@ -603,7 +601,9 @@
   "0e3c0119741aea82",
   "danhaleyontheroleofoilandgasincoloradosenergyfuturetheopedge",
   "506eabf49636eddd",
-  "oilpricesdipasoptimismoverirantrumpsnewfearsofarussianescala"
+  "oilpricesdipasoptimismoverirantrumpsnewfearsofarussianescala",
+  "984d4bc327ce9534",
+  "trumphasmadeupto15minoilandgasstockrisespurredinpartbyiranwa"
  ],
  "releases_done": {
   "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-27",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-08-27T00:35:13.450898+03:00",
+ "last_run": "2026-08-27T00:40:15.191545+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1735,6 +1735,10 @@
   {
    "d": "2026-08-27",
    "t": "Oil prices dip as optimism over Iran trumps new fears of a Russian escalation in Ukraine - NBC News"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Trump Has Made Up to $15M in Oil and Gas Stock Rise Spurred in Part by Iran War - Truthout"
   }
  ]
 }
