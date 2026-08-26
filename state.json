@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "12c2deeb2f6b283c",
-  "japanrulesoutadditionalcrudereservereleasesthroughoctober",
   "61feab8d5977840b",
   "oilfallliftsrupeetooveroneweekhighaftercentralbankkeepslidon",
   "ea428f91ab5292ef",
@@ -603,7 +601,9 @@
   "0a0d9e2c8dcd143f",
   "oilpricesdeclineoncontinuingtensionwithiran",
   "cdb829290a49cdea",
-  "iraqioilministerrejectsincreaseinkurdistanregionscrudeoilall"
+  "iraqioilministerrejectsincreaseinkurdistanregionscrudeoilall",
+  "acea2dee9a24ce04",
+  "enbridgebuyingsaltcreekmidstreamscrudeoilgatheringbusinessfo"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T15:55:15.740306+03:00",
+ "last_run": "2026-08-26T16:00:22.333777+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
