@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "0d4cf86311fb5575",
-  "currentpriceofoilasofaugust192026",
   "9db761307bd4f620",
   "usthreatenssanctionsagainstcountriescompaniesbuyingiranianoi",
   "6911142942924e72",
@@ -603,7 +601,9 @@
   "9960a0361bcc4c6b",
   "crudeoilpriceapproachesourpricetargetanalysis26082026",
   "cd979fc90c29760a",
-  "oilpricesslideover2followingreportofusiranceasefire"
+  "oilpricesslideover2followingreportofusiranceasefire",
+  "c559714478845d19",
+  "asiansharesmostlyriseasoilpricesfallandhopegrowsforai"
  ],
  "releases_done": {},
  "last_digest": "2026-08-25",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 34
  },
- "last_run": "2026-08-26T07:05:12.921553+03:00",
+ "last_run": "2026-08-26T07:10:14.562567+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
