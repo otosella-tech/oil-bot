@@ -4,8 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "ccf63fcacb9d0c6f",
-  "oilpricesfallasirannegotiationhopesreturn",
   "53579d83e9add673",
   "adecadeofoildevelopmentinalaskaislockedintoplace",
   "f348f832f80334af",
@@ -603,7 +601,9 @@
   "762a3218b3a5de10",
   "israeliarmsiraniandronesturkishoilazerbaijanshighstakesbalan",
   "4339386a7e2341a5",
-  "oilpricesslideongrowinghopesforstraitofhormuzreopening"
+  "oilpricesslideongrowinghopesforstraitofhormuzreopening",
+  "50e9f1c8e2d37011",
+  "blmannouncesoctober2026saleofoilandgasleasesinmontanadakotas"
  ],
  "releases_done": {
   "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T23:45:15.847585+03:00",
+ "last_run": "2026-08-26T23:50:14.428491+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
