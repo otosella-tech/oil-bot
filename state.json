@@ -4,8 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "b60623e09c9c39c3",
-  "wticrudeoilforecastpricesslideasfearpremiumfades",
   "81a69b475891dfeb",
   "usnaturalgasdropswithoiloneffectsofiranpressureplan",
   "c01fd1bb014fe044",
@@ -603,7 +601,9 @@
   "ce748571619fe3c8",
   "crudeoilfindsthetollboothinsidethehormuzcorridor",
   "6433a8ef41e2e446",
-  "globaloiltrafficshiftstowardtheusamidiranwardisruptions"
+  "globaloiltrafficshiftstowardtheusamidiranwardisruptions",
+  "bf89c6ead691fd80",
+  "ussaysoilispouringthroughhormuztrackerscantfindit"
  ],
  "releases_done": {
   "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T21:05:15.189628+03:00",
+ "last_run": "2026-08-26T21:10:12.203491+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1743,6 +1743,10 @@
   {
    "d": "2026-08-26",
    "t": "Global oil traffic shifts toward the US amid Iran war disruptions - The Hill"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "U.S. Says Oil Is Pouring Through Hormuz. Trackers Can’t Find It. - WSJ"
   }
  ]
 }
