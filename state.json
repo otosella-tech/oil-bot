@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "9bb6f09575c80bc9",
-  "oilpricesfellonmondayaugust24asinvestorsbracedfordetailsofau",
-  "10f39f3f6e59a717",
-  "howussanctionsoniranripplethroughglobalmarketsandconsumers",
   "5a4a4fe743347a75",
   "risingoilandgaspricesinsouthernafghanistanraisepublicconcern",
   "aa12f34b52f6fbd8",
@@ -603,7 +599,11 @@
   "dcdea8c9b30821ab",
   "dronesattackoilrefineryinrussiaskstovosparkingfirephotosvide",
   "a9cab39b94e2469d",
-  "oilpricesdown250826"
+  "oilpricesdown250826",
+  "485a17e234a65578",
+  "asianstocksgainbeforenvidiaoilslipsonhormuzhopes",
+  "b249c92873eeac9d",
+  "crudeoilpricedropasiranomantalksraisehormuzhopes"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-26",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-08-26T08:50:15.128766+03:00",
+ "last_run": "2026-08-26T08:55:13.837789+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1536,6 +1536,14 @@
   {
    "d": "2026-08-26",
    "t": "Drones attack oil refinery in Russia's Kstovo, sparking fire – photos, video - Українська правда"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Asian stocks gain before Nvidia, oil slips on Hormuz hopes - Reuters"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Crude oil price drop as Iran-Oman talks raise Hormuz hopes - BusinessLine"
   }
  ]
 }
