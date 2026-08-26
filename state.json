@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "9b67002514a308da",
-  "oiledgeshigherastradersassessusmeasuresagainstiran",
   "2cba0ec5a7fe8074",
   "crudeoilwtistuckinchopzoneat8522livelevels",
   "8114f3e0fb3d5cc4",
@@ -603,7 +601,9 @@
   "09f63548bf21d224",
   "oilwassupposedtogohighandstaythereitstillcould",
   "e2ad9641a0295d64",
-  "oilpricesfallus2oniranomantalkstoreopenstraitofhormuz"
+  "oilpricesfallus2oniranomantalkstoreopenstraitofhormuz",
+  "a8034f23c5ba433e",
+  "oilpricesfallasiranomantalksfuelhopesofstraitreopening"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-26",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-08-26T09:35:11.643136+03:00",
+ "last_run": "2026-08-26T09:40:14.541407+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1560,6 +1560,10 @@
   {
    "d": "2026-08-26",
    "t": "Oil prices fall US$2 on Iran-Oman talks to reopen Strait of Hormuz - The Standard (HK)"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
