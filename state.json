@@ -4,14 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "32d10acba39e8b12",
-  "commodityvesseltransitsthroughstraitofhormuzhitthreemonthlow",
-  "604b0e0a37e11bc3",
-  "equinoreyesmajoroildiscoveryoffshorenamibia",
-  "b546d82b45f05f13",
-  "wallstreetpointstogainsasusraisespressureoniranandtradewarwi",
-  "8fab898d57bc98fe",
-  "currentpriceofoilasofaugust252026",
   "9dd8b7a6894c42b3",
   "uspushtoisolateiraneconomicallyhitsaroadblockwithchina",
   "1a7ff6b3463cc23d",
@@ -603,7 +595,15 @@
   "599781e97c7ae863",
   "uscrudestocksbarelybudgeasgasolineinventoriesfall",
   "171914145b3ca768",
-  "ustotalcrudeoilstocksfallinweekendedaug21"
+  "ustotalcrudeoilstocksfallinweekendedaug21",
+  "637aef038b48a098",
+  "oilpricestumbleamidrenewedoptimismoverthestraitofhormuz",
+  "f9c8c499e5157ddc",
+  "oilslipsasinvestorsfocusonhormuztalks",
+  "6af47f0f0c92386c",
+  "useiacrudeoilinventories01mlnbarrelsinlatestweekfromprevious",
+  "277ead762c81d7b2",
+  "oilfuturescrudeofflowsastenseusiranstandoffcontinues"
  ],
  "releases_done": {
   "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T18:00:29.399934+03:00",
+ "last_run": "2026-08-26T18:45:48.464269+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1715,6 +1715,14 @@
   {
    "d": "2026-08-26",
    "t": "India’s ONGC Targets Tenfold Oil Output Boost in Venezuela"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Oil prices tumble amid renewed optimism over the Strait of Hormuz - NBC News"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Oil slips as investors focus on Hormuz talks - Reuters"
   }
  ]
 }
