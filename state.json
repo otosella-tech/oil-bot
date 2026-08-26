@@ -4,10 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "0af75e3fec52cda9",
-  "oilsteadiesasinvestorsweighimpactoflatestussanctionsoniran",
-  "592377e03441d983",
-  "opinionchinaistheiranwarsunexpectedwinner",
   "cf919f43a3b372c0",
   "ussanctionsoiltraderwellbredoveriranlinks",
   "1013e3b79b712ace",
@@ -603,7 +599,11 @@
   "e3c9d4c4dd3e98f0",
   "underthreatsaudiarabiareroutesoilexportsyetagain",
   "580fa1ff54d5620a",
-  "wtipriceoutlookuscrudeoilspotpressingagainst0618aupportarc"
+  "wtipriceoutlookuscrudeoilspotpressingagainst0618aupportarc",
+  "c69d1f3ead54749b",
+  "oilfallsonsignsofpotentialhormuzreopening",
+  "cb7e321073522852",
+  "energystocksslideasoilfallsoniranomanhormuztalks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T12:15:18.743422+03:00",
+ "last_run": "2026-08-26T12:20:18.521582+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1616,6 +1616,14 @@
   {
    "d": "2026-08-26",
    "t": "Under Threat, Saudi Arabia Reroutes Oil Exports Yet Again - The New York Times"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Oil Falls on Signs of Potential Hormuz Reopening - WSJ"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "Energy stocks slide as oil falls on Iran-Oman Hormuz talks - Yahoo Finance UK"
   }
  ]
 }
