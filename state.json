@@ -4,12 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "860ad7c3db055ce6",
-  "oilextendsfallasinvestorsshrugofflatestussanctionsoniran",
-  "8c7aff800334ca4b",
-  "jpmorganandsantanderlead15billionfinancingpushforargentinaln",
-  "d53f2458c7f24c3c",
-  "europeanstocksadvanceasoilpricesdropsiemensenergyup",
   "d407851afc4c5eb0",
   "usdcadholdsfirmastraderisksoffsetrisingoil",
   "afed9e871d0618fb",
@@ -603,7 +597,13 @@
   "802920c6359a8ebe",
   "oildropstomorethantwoweeklowoniranomantalkstoreopenstraitofh",
   "f0c1369c44f79a75",
-  "iranandomanreportprogressintalksonstraitofhormuz"
+  "iranandomanreportprogressintalksonstraitofhormuz",
+  "2e0850a6e1965e9d",
+  "chinascnoocmakesrecordinterimprofitonhigheroilpricesoutput",
+  "235b584093dd03db",
+  "uscrudehoversaround80asoilpricessinkonhormuzdealhopes",
+  "ee038af89892f6e1",
+  "chinascnoocrakesinrecordfirsthalfprofitonhighoilpricesamidir"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T14:10:15.304306+03:00",
+ "last_run": "2026-08-26T14:15:15.690726+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
@@ -1648,6 +1648,14 @@
   {
    "d": "2026-08-26",
    "t": "Iran and Oman Report Progress in Talks on Strait of Hormuz - The New York Times"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "U.S. crude hovers around $80 as oil prices sink on Hormuz deal hopes - CNBC"
+  },
+  {
+   "d": "2026-08-26",
+   "t": "China’s CNOOC rakes in record first-half profit on high oil prices amid Iran war - South China Morning Post"
   }
  ]
 }
