@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "e92c87435aa8d3ce",
-  "dieselandgasolinepricesremainhighascrudeoileases",
   "6b336a3581ad6236",
   "chineserefinersinopecturnstobrazilandafricaasmiddleeastconfl",
   "0761458176fe7763",
@@ -603,7 +601,9 @@
   "75fcf874ff066360",
   "bigoilisbettingbillionsonnuclearfusion",
   "80e8be547424b926",
-  "irvingoildetailsplansfor2026turnaroundofcanadaslargestrefine"
+  "irvingoildetailsplansfor2026turnaroundofcanadaslargestrefine",
+  "e0b1c5a816dd927c",
+  "gaspricesriseduetoconflicts"
  ],
  "releases_done": {
   "2026-08-25|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-26",
   "count": 13
  },
- "last_run": "2026-08-26T03:00:22.886051+03:00",
+ "last_run": "2026-08-26T03:05:15.570365+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
