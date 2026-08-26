@@ -4,8 +4,6 @@
   "Brent": 86.08
  },
  "seen": [
-  "afed9e871d0618fb",
-  "crudeoilpricetradedhigherontuesdaymorning",
   "0f9396f8a48ad4d4",
   "asiansharesmostlygainandoilpricesholdsteadyastheusraisespres",
   "ae36dd0bfe29ced6",
@@ -603,7 +601,9 @@
   "ee038af89892f6e1",
   "chinascnoocrakesinrecordfirsthalfprofitonhighoilpricesamidir",
   "bbc79503b855f98e",
-  "currentpriceofoilasofaug262026"
+  "currentpriceofoilasofaug262026",
+  "56a86ae520dd4d3c",
+  "currentpriceofoilasofaugust262026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-26",
   "count": 60
  },
- "last_run": "2026-08-26T14:20:15.244465+03:00",
+ "last_run": "2026-08-26T14:25:12.750363+03:00",
  "sent_stories": [
   {
    "d": "2026-08-23",
