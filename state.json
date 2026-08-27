@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "724973f3e3a9c271",
-  "oilpricesextendslideasiranandomaneyetemporaryhormuzdeal",
   "70039659274002fb",
   "britishcrudeoiltankerfindsitselfamidstargentinianpowerstrugg",
   "fb7fba661c1dd272",
@@ -603,7 +601,9 @@
   "8b7a6ed6f8c7fa2c",
   "enbridgetobuyhoustonpipelinecoscrudeoilbusinessin600mpermian",
   "8a2f6d9cf2938c6b",
-  "oilpricesfallasomanirantalksraisehopesforhormuzreopening"
+  "oilpricesfallasomanirantalksraisehopesforhormuzreopening",
+  "5c1e17cfc559fa17",
+  "northernoilandgasnogstockcouldbecheapasdebtofferinglands"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T22:35:13.339583+03:00",
+ "last_run": "2026-08-27T22:40:16.200344+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
