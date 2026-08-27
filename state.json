@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "9f2ec1624ae32d8b",
-  "qatarloses24billionaslngexportscollapse96",
   "90f5d4a451c7a9b5",
   "25millionbarrelsmovedinmassiveseaofomanshiptoshipoiltransfer",
   "802920c6359a8ebe",
@@ -603,7 +601,9 @@
   "7c8d8d6edaa21042",
   "usintalkswithvenezuelatotakemajorstakeinoilfields",
   "c64a304dcfcb2c5a",
-  "iranqatarholdhormuztalksasusblockadechokesiranoilimportsal"
+  "iranqatarholdhormuztalksasusblockadechokesiranoilimportsal",
+  "9692d217c60d8802",
+  "iraqsgrowingoilexportsthroughbasrashouldnotbecomeanassetfori"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T23:25:16.065877+03:00",
+ "last_run": "2026-08-27T23:30:17.501085+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1944,6 +1944,10 @@
   {
    "d": "2026-08-27",
    "t": "Iran, Qatar hold Hormuz talks as US blockade chokes Iran oil imports - Al-Monitor"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Iraq’s Growing Oil Exports Through Basra Should Not Become an Asset for Iran - Foundation for Defense of Democracies"
   }
  ]
 }
