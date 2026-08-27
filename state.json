@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 81.66,
-  "Brent": 86.04
+  "Brent": 87.77
  },
  "seen": [
-  "92fe6b1af4aa38e2",
-  "crudeoilfallsforfourconsecutivesessionsmetalsbroadlyriselmec",
   "7a428758d988cc20",
   "someoilcompaniestoavoidusingshipsoniranblacklistsourcessay",
   "aae0f9ea03878809",
@@ -603,7 +601,9 @@
   "9cb24834d2de9e85",
   "totalenergiesexitsrussiassanctionedarcticlng2project",
   "9c97f3c0eba9e57c",
-  "vloggersayschinahelpedavertglobaloilcrisiscleanenergyhelpsex"
+  "vloggersayschinahelpedavertglobaloilcrisiscleanenergyhelpsex",
+  "2dd8490dac44fcd8",
+  "wtiandbrentcrudeoilhold200dayemasupportamidgulftensions"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T16:40:18.576593+03:00",
+ "last_run": "2026-08-27T16:45:16.649259+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
