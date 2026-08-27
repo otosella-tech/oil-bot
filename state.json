@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "db9490c27e3eb97f",
-  "severaloilcompaniestoavoidusingshipsoniransblacklistoversecu",
   "98a2acc1ff23bd9e",
   "whycantwefixtheoilproblem",
   "ca2cd613c9b9c9e5",
@@ -603,7 +601,9 @@
   "ddb0bb4d549364c0",
   "finlanddefendsshoresagainstoilspillrisk",
   "5cd00dac69d72e27",
-  "straitofhormuztraffictickshigheramidnewdiplomaticpush"
+  "straitofhormuztraffictickshigheramidnewdiplomaticpush",
+  "ea5d5d2a1725260d",
+  "usintervenedincriminalprobeofoilmanhelpingtrumpinvenezuela"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T18:05:12.308342+03:00",
+ "last_run": "2026-08-27T18:10:21.450034+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1852,6 +1852,10 @@
   {
    "d": "2026-08-27",
    "t": "Strait of Hormuz Traffic Ticks Higher Amid New Diplomatic Push"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "U.S. intervened in criminal probe of oilman helping Trump in Venezuela - The Washington Post"
   }
  ]
 }
