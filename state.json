@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "227594ba5e078da1",
-  "asianmarketsriseamidsttechgainsdipincrudeoilprices",
   "045b9b608d5fcd03",
   "chinasxitovisitkyrgyzstanegypt",
   "6afaec9bf638458d",
@@ -603,7 +601,9 @@
   "12a260e877a64540",
   "oilsettlesup2aftertrumprejectsreturntoiranceasefiredealterms",
   "e40296c75b10b938",
-  "energybriefsoilfallswhileiranmakesmorethreats"
+  "energybriefsoilfallswhileiranmakesmorethreats",
+  "b5f07a04b4d6011b",
+  "oilrisesasirandealhopesfade"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T23:05:12.568323+03:00",
+ "last_run": "2026-08-27T23:10:16.155481+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
