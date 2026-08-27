@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "c1f445cde33f91bc",
-  "crudeoilfuturesfallamidweakglobalcues",
   "7ed9e98a3b102f44",
   "oilpricesfallasiran",
   "09f63548bf21d224",
@@ -603,7 +601,9 @@
   "f7f9205b2ae23e79",
   "crudeoilpricespressuredasmiddleeastcrudesuppliesincrease",
   "637b27b5df04de5f",
-  "shellsceowarnedoilpriceswouldkeeprisinghormuztalksaretesting"
+  "shellsceowarnedoilpriceswouldkeeprisinghormuztalksaretesting",
+  "40dd82d7fa1aad89",
+  "theaiboomisdrivinganeweraofuspowerdemand"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T18:55:15.005500+03:00",
+ "last_run": "2026-08-27T19:00:24.236476+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
