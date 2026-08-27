@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "dcdea8c9b30821ab",
-  "dronesattackoilrefineryinrussiaskstovosparkingfirephotosvide",
-  "a9cab39b94e2469d",
-  "oilpricesdown250826",
   "485a17e234a65578",
   "asianstocksgainbeforenvidiaoilslipsonhormuzhopes",
   "b249c92873eeac9d",
@@ -603,7 +599,11 @@
   "5e5029d26f766efe",
   "turkeyboostsdieselimportsfromusindiaafterrussiabanpromptsdiv",
   "a13c41cc2e39eda9",
-  "asialookstolatamoilbutmexicossupplyislimited"
+  "asialookstolatamoilbutmexicossupplyislimited",
+  "8e801508d910301d",
+  "commentaryasiascrudeoilimportsstaysoftinaugustchallengingush",
+  "156fe5840f1a98f9",
+  "expertsaysiranlosinghormuzleverageasdefensesandoilroledeclin"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T18:15:16.768953+03:00",
+ "last_run": "2026-08-27T18:20:18.719074+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1860,6 +1860,14 @@
   {
    "d": "2026-08-27",
    "t": "Turkey boosts diesel imports from US, India after Russia ban prompts diversification - Reuters"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "COMMENTARY: Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Expert says Iran losing Hormuz leverage as defenses and oil role decline - The Jerusalem Post"
   }
  ]
 }
