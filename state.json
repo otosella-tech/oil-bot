@@ -4,10 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "816e63884d8f34fe",
-  "whycanadianoilescapedthe50tariffpolicy",
-  "22cc8258814e32f4",
-  "calthomaswhycantwefixtheoilproblem",
   "35211c3696cef4eb",
   "crudeoilforecastwtipricescomeunderpressureasmiddleeastriskse",
   "80a9470e422ce0e7",
@@ -603,7 +599,11 @@
   "1619751536d6243b",
   "iguaranteeyoucanfindajobinaksoilandgasindustryaogaconference",
   "e585b38331f6db9b",
-  "roiasiascrudeoilimportsstaysoftinaugustchallengingushormuzcl"
+  "roiasiascrudeoilimportsstaysoftinaugustchallengingushormuzcl",
+  "ee138fcc339b097c",
+  "oildropsmorethan3asusshiftstoeconomicpressureoniraneasingfea",
+  "56bde11b57cd24e2",
+  "oiledgeslowerastradersweighhormuztalksandrussiarisk"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-27",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-08-27T08:30:18.910172+03:00",
+ "last_run": "2026-08-27T08:35:13.240138+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1748,6 +1748,14 @@
   {
    "d": "2026-08-27",
    "t": "ROI-Asia's crude oil imports stay soft in August, challenging US Hormuz claims: Russell - marketscreener.com"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war - CNBC"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Oil Edges Lower as Traders Weigh Hormuz Talks and Russia Risk - Energy Connects"
   }
  ]
 }
