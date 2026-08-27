@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "de97c9c413495786",
-  "oilpricesfallasomanirantalksraisehopesforhormuzreopening",
   "74cd4a02876f0579",
   "oilpricessinkasexpectationsforanimminentusirandealincreasewh",
   "4f24cae564be5900",
@@ -603,7 +601,9 @@
   "b6543d90195cd2c0",
   "6menconvictedpleadguiltytonewmexicooiltheftscheme",
   "3e097659ae602812",
-  "oiljumpsover2aftertrumprejectsreturntoiranceasefiredealterms"
+  "oiljumpsover2aftertrumprejectsreturntoiranceasefiredealterms",
+  "c74031abe7e6a642",
+  "commentaryomnipresentoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T22:10:16.470715+03:00",
+ "last_run": "2026-08-27T22:15:21.300084+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
