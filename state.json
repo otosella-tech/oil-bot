@@ -4,8 +4,6 @@
   "Brent": 86.04
  },
  "seen": [
-  "fc05d3111e4129e4",
-  "useconomicddaytargetsmorethanjustiranianoil",
   "561109d6defe0df1",
   "updatetechnologyhelpspushusequityindexeshigheramiddeclinesin",
   "d48be9c0ae15b241",
@@ -603,7 +601,9 @@
   "9f099b5db1941030",
   "oilextendslossesonhopesmiddleeasttalkscouldeasesupplywoes",
   "ac5f00889ff14acc",
-  "oilpullsbackonimprovedchanceofstraitofhormuzreopening"
+  "oilpullsbackonimprovedchanceofstraitofhormuzreopening",
+  "5f128f18131420fa",
+  "arewemisreadingtheoildemandshockfromhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-27",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-08-27T12:15:15.603729+03:00",
+ "last_run": "2026-08-27T12:20:15.439835+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1788,6 +1788,10 @@
   {
    "d": "2026-08-27",
    "t": "Oil Pulls Back on Improved Chance of Strait of Hormuz Reopening - WSJ"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Are We Misreading The Oil Demand Shock From Hormuz? - Forbes"
   }
  ]
 }
