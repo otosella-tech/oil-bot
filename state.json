@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "e135e741618fe6b4",
-  "chinacouldrescuetheoilmarketagainifitwantedto",
   "c99ae144160c09b0",
   "egyptcontainsoilspillafterpipelineleakoffsouthsinaicoast",
   "fd849b4c8ade2b0f",
@@ -603,7 +601,9 @@
   "fe966a4df5c05434",
   "currentpriceofoilasofaugust212026",
   "4acaa37dc011ab37",
-  "usnearsdealtosecurelongtermaccesstovenezuelasoilreservessour"
+  "usnearsdealtosecurelongtermaccesstovenezuelasoilreservessour",
+  "b8c8708c4fb3264b",
+  "straitofhormuzoilflowsarerising"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-28",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-08-28T01:45:14.980312+03:00",
+ "last_run": "2026-08-28T01:50:15.856836+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1572,6 +1572,10 @@
   {
    "d": "2026-08-28",
    "t": "US nears deal to secure long-term access to Venezuela’s oil reserves, sources say By Reuters - Investing.com"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Strait of Hormuz Oil Flows Are Rising - Bloomberg.com"
   }
  ]
 }
