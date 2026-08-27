@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "bbc79503b855f98e",
-  "currentpriceofoilasofaug262026",
-  "56a86ae520dd4d3c",
-  "currentpriceofoilasofaugust262026",
   "009194e14a1f6030",
   "expertskazakhstansoilexportstrategyfacesgrowingneedfordivers",
   "8a4928a46dc20ddb",
@@ -603,7 +599,11 @@
   "2cd2e482d9478829",
   "japancrudeimportsrecoverinjulywithgreaterrelianceonusoil",
   "c0cf1d4c4369551f",
-  "denveroilcompanymakes460millioninvestment"
+  "denveroilcompanymakes460millioninvestment",
+  "ea337c29c590611f",
+  "wticrudeoilpricetests79supportafterwedgebreakdown",
+  "25f922f28fb260ba",
+  "12mseized6arrestedinhistorictexasoiltheftringbust"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 2
  },
- "last_run": "2026-08-28T00:10:17.356917+03:00",
+ "last_run": "2026-08-28T00:15:18.686215+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
