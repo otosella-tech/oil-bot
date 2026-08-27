@@ -4,8 +4,6 @@
   "Brent": 86.04
  },
  "seen": [
-  "92ae4c798bd6d951",
-  "iranandomandiscussjointshippingrouteinstraitofhormuzandminec",
   "524627bef6c468d6",
   "whyisntthepriceofoilevenhigher",
   "463cb31bdbadb4e8",
@@ -603,7 +601,9 @@
   "72fcb4ae60e994cf",
   "currentpriceofoilasofaugust202026",
   "356b825c62fed77a",
-  "drillbabydrillringsoutinnorway"
+  "drillbabydrillringsoutinnorway",
+  "9c08b93b2a4228b0",
+  "eiareportsasmallriseinuscrudeoilstocks"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 30
  },
- "last_run": "2026-08-27T10:05:12.350582+03:00",
+ "last_run": "2026-08-27T10:10:14.658155+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
