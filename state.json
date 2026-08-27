@@ -4,8 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "b3cba4c823bb05e2",
-  "oilsettlesdownmorethan3investorsshrugoffussanctionsoniran",
   "40a4eb9845e59a27",
   "globalprobleminoilbutbiggerproblemindieselsayspickeringenerg",
   "9c37ca9a9b9d645f",
@@ -603,7 +601,9 @@
   "defba7d72080ec05",
   "depletedsprfacesgrowingoperationalrisks",
   "a57fd4a08dab7735",
-  "currentpriceofoilasofaug192026"
+  "currentpriceofoilasofaug192026",
+  "901618c35c10c715",
+  "oilfuturesfall"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 16
  },
- "last_run": "2026-08-27T07:15:14.977514+03:00",
+ "last_run": "2026-08-27T07:20:15.052842+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
