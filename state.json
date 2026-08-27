@@ -4,10 +4,6 @@
   "Brent": 86.04
  },
  "seen": [
-  "ac5359591c37aea1",
-  "cenovusenergyslidesascrudepullbackappearstoweighonoilproduce",
-  "5d27b26a0a706464",
-  "chinadefiesuseconomicddayagainstiran",
   "fc05d3111e4129e4",
   "useconomicddaytargetsmorethanjustiranianoil",
   "561109d6defe0df1",
@@ -603,7 +599,11 @@
   "c6bdcb1186860866",
   "opeclosesoilmarketswayiniranwaraschinagainsinfluencebyreuter",
   "c09354d0761f34ec",
-  "russiafuelcrisispushescentralasiatoseekalternatives"
+  "russiafuelcrisispushescentralasiatoseekalternatives",
+  "9f099b5db1941030",
+  "oilextendslossesonhopesmiddleeasttalkscouldeasesupplywoes",
+  "ac5f00889ff14acc",
+  "oilpullsbackonimprovedchanceofstraitofhormuzreopening"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-27",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-08-27T12:05:14.870300+03:00",
+ "last_run": "2026-08-27T12:10:17.528435+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1784,6 +1784,10 @@
   {
    "d": "2026-08-27",
    "t": "OPEC+ loses oil market sway in Iran war as China gains influence By Reuters - Investing.com"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Oil Pulls Back on Improved Chance of Strait of Hormuz Reopening - WSJ"
   }
  ]
 }
