@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "5f692fa4c5dd253c",
-  "qatarenergyofferscrudeoilforloadingwithinthestraitofhormuz",
   "ac264d5fe3a92cef",
   "europeansharesedgehigherasoilfallsnvidiaearningsinfocus",
   "3e4ec134821e7d28",
@@ -603,7 +601,9 @@
   "510afe771f9d7a48",
   "45powerplantsinindiarunningoncriticallylowlevelsofcoalstocks",
   "4943509c8c5049b8",
-  "venezuelasoilrevivalgainsmomentum"
+  "venezuelasoilrevivalgainsmomentum",
+  "36b6ec5d9ab267c7",
+  "oilspillpromptsroadclosureineatoncounty"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T20:15:16.845907+03:00",
+ "last_run": "2026-08-27T20:20:15.772514+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
