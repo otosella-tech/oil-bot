@@ -4,12 +4,6 @@
   "Brent": 86.04
  },
  "seen": [
-  "d57dbee6546a3012",
-  "crudeoiltradingalertprogressinestablishingatemporaryshipping",
-  "b54ba5f0ccc9109d",
-  "oilfallsoneasingconcernsofrenewedtensionsastheuspivotstoecon",
-  "967996482176e5f3",
-  "asianstockshesitantbeforenvidiaoilslipsonhormuzhopes",
   "c112683869ff1b41",
   "strategicchangesinakeycrudeoilshippinglaneasunrestcontinues",
   "5372f70d13599bfd",
@@ -603,7 +597,13 @@
   "38650359575fa2c4",
   "currentpriceofoilasofaug272026",
   "f5b631364efa460a",
-  "oilgainsastradersweighprospectsofeasingmiddleeastsupplydisru"
+  "oilgainsastradersweighprospectsofeasingmiddleeastsupplydisru",
+  "4ea05e18b253bcbd",
+  "currentpriceofoilasofaugust272026",
+  "a8f09529ec7908fd",
+  "nasdaqfuturesbuoyedbynvidiaearningssoftwareasoilfalls",
+  "ddf0187c4dfe38ee",
+  "oilfuturescrudesteadiesasfocusstaysonmiddleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-27",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-08-27T15:05:13.217397+03:00",
+ "last_run": "2026-08-27T15:10:16.841225+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1816,6 +1816,10 @@
   {
    "d": "2026-08-27",
    "t": "WTI Crude Oil futures dropped as market shrugged off new Iran sanctions. - CME Group"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Nasdaq Futures Buoyed by Nvidia Earnings, Software as Oil Falls - WSJ"
   }
  ]
 }
