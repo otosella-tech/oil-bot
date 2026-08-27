@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "44c9747f909cecb3",
-  "oilpricesfall2oniranomantalkstoreopenstraitofhormuz",
   "db9490c27e3eb97f",
   "severaloilcompaniestoavoidusingshipsoniransblacklistoversecu",
   "98a2acc1ff23bd9e",
@@ -603,7 +601,9 @@
   "99d67440052feabc",
   "trumpcomplainedaboutbigoilprofitsbutdumpedexxonstockonceasef",
   "ddb0bb4d549364c0",
-  "finlanddefendsshoresagainstoilspillrisk"
+  "finlanddefendsshoresagainstoilspillrisk",
+  "5cd00dac69d72e27",
+  "straitofhormuztraffictickshigheramidnewdiplomaticpush"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T17:55:12.485919+03:00",
+ "last_run": "2026-08-27T18:00:24.317399+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1848,6 +1848,10 @@
   {
    "d": "2026-08-27",
    "t": "Trump Complained About Big Oil Profits, But Dumped Exxon Stock on Ceasefire Day"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Strait of Hormuz Traffic Ticks Higher Amid New Diplomatic Push"
   }
  ]
 }
