@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "261f24fec3786967",
-  "thecommoditiesfeedoilfallsasstraitofhormuztalksadvance",
-  "cb69c7e8fe926d7b",
-  "chinaisthebiggestbuyerofiransoilcouldussanctionsthreatenthos",
   "8caedc2bd9946662",
   "oilpricesfallonhormuzdealhopesuspivotstoeconomicpressureonir",
   "83b4379a0b6e6b81",
@@ -603,7 +599,11 @@
   "3e37a68fb4210134",
   "brazilextendscrudeoilexporttaxfor60daysaftercourtruling",
   "3ba93e032c97c45f",
-  "avenezuelanoilmanfacedaswissarrestwarranttheushadotherplansf"
+  "avenezuelanoilmanfacedaswissarrestwarranttheushadotherplansf",
+  "a5faa94f336e3d9f",
+  "oilindustryanalystsaysrefiningcrunchdrivingprices",
+  "b489ac22f3ebe139",
+  "trumpsoilandgasstocktradesduringiranwarrevealedinfinancialdi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T20:45:15.136801+03:00",
+ "last_run": "2026-08-27T20:50:14.980806+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1896,6 +1896,10 @@
   {
    "d": "2026-08-27",
    "t": "A Venezuelan oilman faced a Swiss arrest warrant. The U.S. had other plans for him. - The Washington Post"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Trump’s Oil and Gas Stock Trades During Iran War Revealed in Financial Disclosures - Yahoo"
   }
  ]
 }
