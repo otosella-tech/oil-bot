@@ -4,8 +4,6 @@
   "Brent": 86.04
  },
  "seen": [
-  "b952bf6f5138556b",
-  "oilprivatesurveyofinventoryshowsheadlinecrudeoilbuildvsdrawe",
   "ac77b7adc1a07b96",
   "israeliarmsiraniandronesandturkishoilazerbaijanshighstakesba",
   "86512979f5ffc8ac",
@@ -603,7 +601,9 @@
   "5db2ac55f6f258a9",
   "londonsharespullbackaseasingmiddleeastoilpanictrimsenergymaj",
   "9dd8b7a6894c42b3",
-  "uspushtoisolateiraneconomicallyhitsaroadblockwithchina"
+  "uspushtoisolateiraneconomicallyhitsaroadblockwithchina",
+  "346ece12e59c9c78",
+  "ukrainesdroneattackshaveleftrussiadesperatelyscramblingforoi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-27",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-08-27T11:00:22.484705+03:00",
+ "last_run": "2026-08-27T11:05:12.520129+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1776,6 +1776,10 @@
   {
    "d": "2026-08-27",
    "t": "Oil prices dip as cautious optimism over Iran trumps new fears of Russian escalation in Ukraine - NBC News"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports - The Guardian"
   }
  ]
 }
