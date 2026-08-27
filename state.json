@@ -4,10 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "9bb11174f04db743",
-  "gdpdurablegoodsordersandcrudeoilinventoriesamongeconomicdata",
-  "8be24176dbbbfcf9",
-  "norwaystrollgasexpansionbuyseuropetimebutnotnewsupply",
   "6c8dbb3f8941742a",
   "uktaxrisesbackonthetableasburnhamfacesfiscalcrunch",
   "a57fd4a08dab7735",
@@ -603,7 +599,11 @@
   "c4d97a863f7a21a2",
   "oilfallsamidhopesforreopeningofstraitofhormuz",
   "abde2b2ad26c9ccb",
-  "pedevcostockhedgesareeatingintotheoilpriceupsidenyseped"
+  "pedevcostockhedgesareeatingintotheoilpriceupsidenyseped",
+  "ab54e6769cffc9bf",
+  "3firmssteerenbridges600mcrudeoilassetsbuy",
+  "9e0a6f62c11ace76",
+  "oilcitykaramayservesuptennisdreams"
  ],
  "releases_done": {
   "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-27",
   "count": 14
  },
- "last_run": "2026-08-27T05:20:14.108209+03:00",
+ "last_run": "2026-08-27T05:25:14.828435+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
