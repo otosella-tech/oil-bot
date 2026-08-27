@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "6041bd88d2647549",
-  "naturalgasandoilforecasthormuztalksofferhopeasuscrudestocksr",
-  "de17a718a46e70fe",
-  "brentslips2ashormuzsupplyfearseasefedhikebetspersist",
   "261f24fec3786967",
   "thecommoditiesfeedoilfallsasstraitofhormuztalksadvance",
   "cb69c7e8fe926d7b",
@@ -603,7 +599,11 @@
   "de61f5bc60245098",
   "energeaninexclusivetalksfor1billionbpegyptgasdeal",
   "8ca57b53732ccc63",
-  "crudeoilmoveshigherdollargeneralsharesgainafterupbeatq2earni"
+  "crudeoilmoveshigherdollargeneralsharesgainafterupbeatq2earni",
+  "3e37a68fb4210134",
+  "brazilextendscrudeoilexporttaxfor60daysaftercourtruling",
+  "3ba93e032c97c45f",
+  "avenezuelanoilmanfacedaswissarrestwarranttheushadotherplansf"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T20:40:14.594792+03:00",
+ "last_run": "2026-08-27T20:45:15.136801+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1892,6 +1892,10 @@
   {
    "d": "2026-08-27",
    "t": "Venezuela’s Oil Revival Gains Momentum"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "A Venezuelan oilman faced a Swiss arrest warrant. The U.S. had other plans for him. - The Washington Post"
   }
  ]
 }
