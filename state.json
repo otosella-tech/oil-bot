@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "cb7e321073522852",
-  "energystocksslideasoilfallsoniranomanhormuztalks",
   "feb564d559f5ea4c",
   "globalsharesmostlyriseasoilpricesfallandhopegrowsforai",
   "6a3f0ae635f0317c",
@@ -603,7 +601,9 @@
   "f33f754a2e6ba7a8",
   "trumpswaronoffshorewindleavesusworkersinlimbo",
   "0ce7d8feff0ad705",
-  "oilrises2aswhitehousesaysnousirantalkshappening"
+  "oilrises2aswhitehousesaysnousirantalkshappening",
+  "c1d3658eac22e8cb",
+  "confusionreignssupremeinrussiasanctionsbill"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T22:00:24.562407+03:00",
+ "last_run": "2026-08-27T22:05:12.034916+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1916,6 +1916,10 @@
   {
    "d": "2026-08-27",
    "t": "Oil rises 2% as White House says no US-Iran talks happening - CNBC"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Confusion Reigns Supreme in Russia Sanctions Bill - Cato Institute"
   }
  ]
 }
