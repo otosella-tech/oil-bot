@@ -4,10 +4,6 @@
   "Brent": 86.04
  },
  "seen": [
-  "c112683869ff1b41",
-  "strategicchangesinakeycrudeoilshippinglaneasunrestcontinues",
-  "5372f70d13599bfd",
-  "commoditycornercrudeoilfalls2onstraitofhormuzhopesgoldsteady",
   "8ceb737732de778e",
   "dowjonesfuturesinflationdatanvidiaearningsduerobinhoodinbuya",
   "286012633cb3bec4",
@@ -603,7 +599,11 @@
   "a8f09529ec7908fd",
   "nasdaqfuturesbuoyedbynvidiaearningssoftwareasoilfalls",
   "ddf0187c4dfe38ee",
-  "oilfuturescrudesteadiesasfocusstaysonmiddleeast"
+  "oilfuturescrudesteadiesasfocusstaysonmiddleeast",
+  "b8f5fe90af595adf",
+  "weakasianoilimportschallengeclaimsofsurgeinhormuztransits",
+  "c383a30e23229193",
+  "iranqatarholdhormuztalksasusblockadechokesiranoilimports"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-27",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-08-27T15:10:16.841225+03:00",
+ "last_run": "2026-08-27T15:15:15.533934+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1820,6 +1820,14 @@
   {
    "d": "2026-08-27",
    "t": "Nasdaq Futures Buoyed by Nvidia Earnings, Software as Oil Falls - WSJ"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Weak Asian Oil Imports Challenge Claims of Surge in Hormuz Transits"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Iran, Qatar hold Hormuz talks as US blockade chokes Iran oil imports - RFI"
   }
  ]
 }
