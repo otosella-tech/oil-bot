@@ -4,12 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "feb564d559f5ea4c",
-  "globalsharesmostlyriseasoilpricesfallandhopegrowsforai",
-  "6a3f0ae635f0317c",
-  "europeanstocksedgehigherasoilslumpcountershawkishecbsignalsd",
-  "6d2ef07215b068eb",
-  "hormuztrafficremainsdepressedasiranandomanweightemporarycorr",
   "de97c9c413495786",
   "oilpricesfallasomanirantalksraisehopesforhormuzreopening",
   "74cd4a02876f0579",
@@ -603,7 +597,13 @@
   "0ce7d8feff0ad705",
   "oilrises2aswhitehousesaysnousirantalkshappening",
   "c1d3658eac22e8cb",
-  "confusionreignssupremeinrussiasanctionsbill"
+  "confusionreignssupremeinrussiasanctionsbill",
+  "34455f387aae6015",
+  "whenwillcrudeoilpricesstabilize",
+  "b6543d90195cd2c0",
+  "6menconvictedpleadguiltytonewmexicooiltheftscheme",
+  "3e097659ae602812",
+  "oiljumpsover2aftertrumprejectsreturntoiranceasefiredealterms"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T22:05:12.034916+03:00",
+ "last_run": "2026-08-27T22:10:16.470715+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1920,6 +1920,10 @@
   {
    "d": "2026-08-27",
    "t": "Confusion Reigns Supreme in Russia Sanctions Bill - Cato Institute"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Oil jumps over $2 after Trump rejects return to Iran ceasefire deal terms - Yahoo Finance"
   }
  ]
 }
