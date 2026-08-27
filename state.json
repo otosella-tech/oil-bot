@@ -4,8 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "9187d9508ef1eb2d",
-  "satelliteimageshowssurgeiniraqspersiangulfoilloadings",
   "67d976babc46e977",
   "octoberwticrudeoilcontractclosesdown265or31settlesat8236perb",
   "9bb11174f04db743",
@@ -603,7 +601,9 @@
   "81116553952153f4",
   "oilpricesclimbinchoppytradeonusstockpiledataandhormuztalks",
   "6678b74e30859be5",
-  "dieselpricesitsarefiningcrisisnotcrude"
+  "dieselpricesitsarefiningcrisisnotcrude",
+  "c4d97a863f7a21a2",
+  "oilfallsamidhopesforreopeningofstraitofhormuz"
  ],
  "releases_done": {
   "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-27",
-  "count": 12
+  "count": 14
  },
- "last_run": "2026-08-27T04:35:13.272020+03:00",
+ "last_run": "2026-08-27T04:40:14.620591+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1739,6 +1739,10 @@
   {
    "d": "2026-08-27",
    "t": "Trump Has Made Up to $15M in Oil and Gas Stock Rise Spurred in Part by Iran War - Truthout"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Oil Falls Amid Hopes for Reopening of Strait of Hormuz - WSJ"
   }
  ]
 }
