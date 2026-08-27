@@ -4,8 +4,6 @@
   "Brent": 86.04
  },
  "seen": [
-  "cd979fc90c29760a",
-  "oilpricesslideover2followingreportofusiranceasefire",
   "c559714478845d19",
   "asiansharesmostlyriseasoilpricesfallandhopegrowsforai",
   "300e75bfbca6bbe3",
@@ -603,7 +601,9 @@
   "17e681f02245a27a",
   "lifeafteroil",
   "c44446fb95e52b05",
-  "opinionwherestheoilasiasimportvolumesquestionmiddleeastflows"
+  "opinionwherestheoilasiasimportvolumesquestionmiddleeastflows",
+  "f687d9cf658e9f54",
+  "hormuzoilflowsrisingasgulfgiantsrampupaccelerates"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-27",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-08-27T16:15:15.413500+03:00",
+ "last_run": "2026-08-27T16:20:14.150624+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1828,6 +1828,10 @@
   {
    "d": "2026-08-27",
    "t": "Iran, Qatar hold Hormuz talks as US blockade chokes Iran oil imports - RFI"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Hormuz Oil Flows Rising as Gulf Giants’ Ramp Up Accelerates - Bloomberg.com"
   }
  ]
 }
