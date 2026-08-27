@@ -4,12 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "a10f5868ffb445cc",
-  "bspcompletescrudediversification",
-  "b8defb1b76372ed4",
-  "dronesattackwildberrieslogisticshuboneofrussiaslargestoilref",
-  "3637658d84d8f76b",
-  "cappingofoilwellatkintlalakecomplete",
   "5e2478d6b83f8d46",
   "wticrudeoilpriceanalysisforaugust262026",
   "1452c9ebbf261104",
@@ -603,7 +597,13 @@
   "e00c704c435c68fb",
   "trumpadministrationusedoilmanfacingswissarrestwarranttohelpi",
   "21171f8ea559e62a",
-  "iranqatarholdhormuztalksasusblockadesqueezesiranoilexports"
+  "iranqatarholdhormuztalksasusblockadesqueezesiranoilexports",
+  "da5efc44df4eb66c",
+  "oilrisesbyover1aswhitehousesaysnousirantalkshappening",
+  "a8034f23c5ba433e",
+  "oilpricesfallasiranomantalksfuelhopesofstraitreopening",
+  "3d323534ab3ec02d",
+  "crudeoilfuturesfallamidweakglobalcues"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T19:20:15.263403+03:00",
+ "last_run": "2026-08-27T19:25:13.931387+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1880,6 +1880,14 @@
   {
    "d": "2026-08-27",
    "t": "Iran, Qatar hold Hormuz talks as US blockade squeezes Iran oil exports - France 24"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Oil rises by over $1 as White House says no US-Iran talks happening - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
