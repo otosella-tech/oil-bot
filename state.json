@@ -4,12 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "86d60853b7572667",
-  "grainexportsstallasukrainestepsupattacksonrussia",
-  "ba776cdb977afacc",
-  "updateequitiesriseintradayoilfallsasmarketsmonitortradedevel",
-  "805547b326e3ad60",
-  "oilfalls4asinvestorsshrugoffussanctionsoniran",
   "9187d9508ef1eb2d",
   "satelliteimageshowssurgeiniraqspersiangulfoilloadings",
   "67d976babc46e977",
@@ -603,7 +597,13 @@
   "63d08310343467a3",
   "americanenergysnapshotinsidetheglobalsqueezeondiesel",
   "fc0e0eb22e9ec754",
-  "iranomanhormuzplanextendsoilslossesasretaliationagainstussan"
+  "iranomanhormuzplanextendsoilslossesasretaliationagainstussan",
+  "3f4eea8b5cfab66c",
+  "oilpricesextendlossesonexpectationstalkstoeasemiddleeastsupp",
+  "81116553952153f4",
+  "oilpricesclimbinchoppytradeonusstockpiledataandhormuztalks",
+  "6678b74e30859be5",
+  "dieselpricesitsarefiningcrisisnotcrude"
  ],
  "releases_done": {
   "2026-08-26|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-08-27",
-  "count": 11
+  "count": 12
  },
- "last_run": "2026-08-27T04:25:11.819323+03:00",
+ "last_run": "2026-08-27T04:30:17.517378+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
