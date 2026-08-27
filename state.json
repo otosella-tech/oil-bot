@@ -4,8 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "118001b105e24bb8",
-  "oilstocksinusstrategicpetroleumreservefallby37millionbarrels",
   "bf6c37665da073c9",
   "exxonfallsasoilerasestheiranpremium",
   "98f47e2b839060b2",
@@ -603,7 +601,9 @@
   "870dfdf3c89348c4",
   "oilextendslossesonhopesformiddleeasttalkstoeasesupplywoes",
   "a66544179203aea6",
-  "oilpricesextendlossesashormuzreopeninghopeseasesupplyfears"
+  "oilpricesextendlossesashormuzreopeninghopeseasesupplyfears",
+  "0bd53016beba59e7",
+  "pedevcohedgesareeatingintotheoilpriceupside"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 18
  },
- "last_run": "2026-08-27T07:40:16.259349+03:00",
+ "last_run": "2026-08-27T07:45:15.255175+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
