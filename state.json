@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "580fa1ff54d5620a",
-  "wtipriceoutlookuscrudeoilspotpressingagainst0618aupportarc",
-  "c69d1f3ead54749b",
-  "oilfallsonsignsofpotentialhormuzreopening",
   "cb7e321073522852",
   "energystocksslideasoilfallsoniranomanhormuztalks",
   "feb564d559f5ea4c",
@@ -603,7 +599,11 @@
   "5e951f78ef0360d0",
   "after6monthsofwarwhyarentoilpricesevenhigher",
   "563c06d9922f62eb",
-  "octoberwticrudeoilcontractclosesup130or16settlesat8353perbar"
+  "octoberwticrudeoilcontractclosesup130or16settlesat8353perbar",
+  "f33f754a2e6ba7a8",
+  "trumpswaronoffshorewindleavesusworkersinlimbo",
+  "0ce7d8feff0ad705",
+  "oilrises2aswhitehousesaysnousirantalkshappening"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T21:55:32.933085+03:00",
+ "last_run": "2026-08-27T22:00:24.562407+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1908,6 +1908,14 @@
   {
    "d": "2026-08-27",
    "t": "Trump says millions of barrels of oil flowing through Strait of Hormuz - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Trump’s War on Offshore Wind Leaves U.S. Workers in Limbo"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Oil rises 2% as White House says no US-Iran talks happening - CNBC"
   }
  ]
 }
