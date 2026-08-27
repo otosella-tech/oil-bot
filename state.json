@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "9718014b58cf4ece",
-  "enbridgetoacquiresaltcreekmidstreamscrudeoilgatheringbusines",
   "b6e95d6186cbde65",
   "enbridgetobuysaltcreekmidstreamcrudegatheringassetsfor600mil",
   "f2c330b67ea20c4a",
@@ -603,7 +601,9 @@
   "507b43ecbdefcb6a",
   "eastafricasoilrivalryspursmultibillion",
   "60c2fdc7e179834e",
-  "eastafricasoilrivalryspursmultibilliondollarprojectsacrossth"
+  "eastafricasoilrivalryspursmultibilliondollarprojectsacrossth",
+  "b2f756cc8802e993",
+  "venezuelaweighsopecexitafterdecadesasitdeepensusties"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-28",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-08-28T02:05:13.035901+03:00",
+ "last_run": "2026-08-28T02:10:15.332163+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1576,6 +1576,10 @@
   {
    "d": "2026-08-28",
    "t": "Strait of Hormuz Oil Flows Are Rising - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Venezuela Weighs OPEC Exit After Decades as It Deepens US Ties - Hart Energy"
   }
  ]
 }
