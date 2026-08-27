@@ -4,12 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "4899e7b5b9226312",
-  "uraniumpricessurgeasnucleardemandaccelerates",
-  "bd763ffd298c995f",
-  "pancakespoliticsandpipelinesthepoliticalwindssupportingthede",
-  "ee138fcc339b097c",
-  "oildropsmorethan3asusshiftstoeconomicpressureoniraneasingfea",
   "816e63884d8f34fe",
   "whycanadianoilescapedthe50tariffpolicy",
   "22cc8258814e32f4",
@@ -603,7 +597,13 @@
   "98c6773c37b76332",
   "japanmaintainsitsoilreserveswithoutnewreleases",
   "5b7bc71d4bcb26d0",
-  "oilnaturalgasresourcesstressedbywarheat"
+  "oilnaturalgasresourcesstressedbywarheat",
+  "9914c044789e1e0e",
+  "asiascrudeoilimportsstaysoftinaugustchallengingushormuzclaim",
+  "1619751536d6243b",
+  "iguaranteeyoucanfindajobinaksoilandgasindustryaogaconference",
+  "e585b38331f6db9b",
+  "roiasiascrudeoilimportsstaysoftinaugustchallengingushormuzcl"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-27",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-08-27T08:25:12.680667+03:00",
+ "last_run": "2026-08-27T08:30:18.910172+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1740,6 +1740,14 @@
   {
    "d": "2026-08-27",
    "t": "Oil Falls Amid Hopes for Reopening of Strait of Hormuz - WSJ"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "ROI-Asia's crude oil imports stay soft in August, challenging US Hormuz claims: Russell - marketscreener.com"
   }
  ]
 }
