@@ -4,10 +4,6 @@
   "Brent": 87.81
  },
  "seen": [
-  "9c37ca9a9b9d645f",
-  "usequityindexesadvanceamidslumpingtreasuryyieldscrudeoil",
-  "8b5a6d0c72e226c8",
-  "commentersoverwhelminglyopposeblmsrollbackofoilandgasruleana",
   "118001b105e24bb8",
   "oilstocksinusstrategicpetroleumreservefallby37millionbarrels",
   "bf6c37665da073c9",
@@ -603,7 +599,11 @@
   "901618c35c10c715",
   "oilfuturesfall",
   "b3cba4c823bb05e2",
-  "oilsettlesdownmorethan3investorsshrugoffussanctionsoniran"
+  "oilsettlesdownmorethan3investorsshrugoffussanctionsoniran",
+  "870dfdf3c89348c4",
+  "oilextendslossesonhopesformiddleeasttalkstoeasesupplywoes",
+  "a66544179203aea6",
+  "oilpricesextendlossesashormuzreopeninghopeseasesupplyfears"
  ],
  "releases_done": {},
  "last_digest": "2026-08-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-27",
-  "count": 17
+  "count": 18
  },
- "last_run": "2026-08-27T07:25:13.120756+03:00",
+ "last_run": "2026-08-27T07:30:19.633161+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
