@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "e2ad9641a0295d64",
-  "oilpricesfallus2oniranomantalkstoreopenstraitofhormuz",
   "a8034f23c5ba433e",
   "oilpricesfallasiranomantalksfuelhopesofstraitreopening",
   "a10f5868ffb445cc",
@@ -603,7 +601,9 @@
   "de3755ebf44cf9ff",
   "nepalglaciercollapsetriggersdeadlyflashflood",
   "9d1e176c5ec2c2e6",
-  "newreportshowstheimpactofoilandgasdrillingnominationsurgeonp"
+  "newreportshowstheimpactofoilandgasdrillingnominationsurgeonp",
+  "e00c704c435c68fb",
+  "trumpadministrationusedoilmanfacingswissarrestwarranttohelpi"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -615,7 +615,7 @@
   "date": "2026-08-27",
   "count": 60
  },
- "last_run": "2026-08-27T19:10:14.896644+03:00",
+ "last_run": "2026-08-27T19:15:15.682506+03:00",
  "sent_stories": [
   {
    "d": "2026-08-24",
@@ -1872,6 +1872,10 @@
   {
    "d": "2026-08-27",
    "t": "Shell's CEO Warned Oil Prices Would Keep Rising. Hormuz Talks Are Testing That Call. Here's What It Means for SHEL Stock. - The Globe and Mail"
+  },
+  {
+   "d": "2026-08-27",
+   "t": "Trump administration used oilman facing Swiss arrest warrant to help in Venezuela - The Washington Post"
   }
  ]
 }
