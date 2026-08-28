@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "2c3ac4ecf593cb22",
-  "stocksmixedasoildropsusinflationstayshigh",
   "3b7bab5d2085b633",
   "oilpricesfallasirannegotiationhopesreturn",
   "7770aa714470ab51",
@@ -603,7 +601,9 @@
   "7bb10e74ca8cdb91",
   "oilpricestodaycrudeholdssteadyheadsforweeklylossesashormuzfl",
   "3e98b384278c841e",
-  "currentpriceofoilasofaugust172026"
+  "currentpriceofoilasofaugust172026",
+  "faa824bc6d8eca4f",
+  "higheroilcostscouldcutaidto15mchildrensavethechildrenwarns"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T14:40:19.266434+03:00",
+ "last_run": "2026-08-28T14:45:15.145930+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
