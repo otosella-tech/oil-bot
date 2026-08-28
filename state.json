@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "6af47f0f0c92386c",
-  "useiacrudeoilinventories01mlnbarrelsinlatestweekfromprevious",
   "277ead762c81d7b2",
   "oilfuturescrudeofflowsastenseusiranstandoffcontinues",
   "8fab898d57bc98fe",
@@ -603,7 +601,9 @@
   "b7a9e8bb5f9440a7",
   "manufacturingoutputpricesover5percenthigherinjuly",
   "655a5842377dac5c",
-  "crudeoilpricesextendlossesdespiteongoingusiranwartensionswha"
+  "crudeoilpricesextendlossesdespiteongoingusiranwartensionswha",
+  "2ba55ea52419c558",
+  "hormuztankertrafficdropsdespiterecoveryinoilflows"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-28",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-08-28T09:55:11.467100+03:00",
+ "last_run": "2026-08-28T10:00:22.943724+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1648,6 +1648,10 @@
   {
    "d": "2026-08-28",
    "t": "Iran War Diplomacy Turns Toward Reopening Hormuz - gCaptain"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Hormuz Tanker Traffic Drops Despite Recovery in Oil Flows"
   }
  ]
 }
