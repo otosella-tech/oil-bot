@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "05e34774897cfa07",
-  "rollbacklikelynextweekasworldcrudeoilpriceseaseabs",
-  "371ecebb10a4bc65",
-  "howa95percentdropinhormuztrafficchangedglobalshipping",
   "5ac4c1ea7505a98a",
   "thailandacceleratescleanenergypushtocutlngdependence",
   "e39af3df6202230d",
@@ -603,7 +599,11 @@
   "0fdde52a228af297",
   "serbiahassecuredanotherliftingofsanctionsontheoilcompanynisw",
   "6aa340f957b0621a",
-  "transmountainceosaysustraderiftaddsurgencytocanadasoilpipeli"
+  "transmountainceosaysustraderiftaddsurgencytocanadasoilpipeli",
+  "99e687af48ccac42",
+  "trumpintervenedtoreviveafraughtsantabarbaraoilpipelinebutwhy",
+  "767f2eccad958bff",
+  "oilisquietlyslippingthoughthestraitofhormuzitskeepingalidonp"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T22:35:14.033876+03:00",
+ "last_run": "2026-08-28T22:40:17.161714+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1921,6 +1921,10 @@
   {
    "d": "2026-08-28",
    "t": "Trans Mountain CEO says US trade rift adds urgency to Canada's oil pipeline plan - Reuters"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Oil Is Quietly Slipping Though the Strait of Hormuz. It’s Keeping a Lid on Prices. - Barron's"
   }
  ]
 }
