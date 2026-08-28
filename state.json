@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "a28cd9e4f3afc181",
-  "brentcrudeoilpareslosses",
   "d894669130ed1df8",
   "uscrudeoilinventoriesincreaseby01millionbarrels",
   "115fcc7d862df782",
@@ -603,7 +601,9 @@
   "086153dc87817793",
   "enbridgebuyingsaltcreekmidstreamscrudeoilgatheringbusinessfo",
   "1b3fd064950668c0",
-  "gulfoilexportsrebounddespiteiranwar"
+  "gulfoilexportsrebounddespiteiranwar",
+  "618cf9843019774f",
+  "indiasurpasses300gwofnon"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 59
  },
- "last_run": "2026-08-28T13:40:17.280684+03:00",
+ "last_run": "2026-08-28T13:45:15.999421+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
