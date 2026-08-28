@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "488bcafc2666be78",
-  "trumpsoilandgasstocktradescontinuedduringiranwarfilingsshow",
   "4f29610722c8bf1a",
   "singaporeoilproductinventoriesreboundtohighestinthreeweeks",
   "73f7248fbc1ed28b",
@@ -603,7 +601,9 @@
   "8fe85265b1d0b22b",
   "europesrussiasanctionshaveamajorblindspot",
   "d0e2da8805f508e4",
-  "inwinfortrumpchevronissaidtobeintalkstoexpandinvenezuela"
+  "inwinfortrumpchevronissaidtobeintalkstoexpandinvenezuela",
+  "d6558c79123d00e2",
+  "petrobrasconsidersexportinglng"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T23:05:14.705577+03:00",
+ "last_run": "2026-08-28T23:10:14.875166+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
