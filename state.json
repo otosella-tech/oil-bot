@@ -4,16 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "bf89c6ead691fd80",
-  "ussaysoilispouringthroughhormuztrackerscantfindit",
-  "8601c2e430fb66fa",
-  "oilnewscrudeoiltraderseyehormuztrafficassupplyriskbuilds",
-  "db0597c925d4855c",
-  "currentpriceofoilasofaugust182026",
-  "8cffe94247f2a769",
-  "millionsofbarrelsofiranianoilsitbeyondtrumpblockadeashevowsz",
-  "ab0fad34f6b5a4b0",
-  "eiauscrudeinventoriesup100000bbl",
   "672afcf9b7af4c4f",
   "oildropsastankersbeginmovingmoregulfcrude",
   "008bbf9cf4e296d6",
@@ -603,7 +593,17 @@
   "e6666dc315969292",
   "silverfuturesreboundnearly2onmcxascrudesoftens",
   "cc2884a0ea9e2e46",
-  "theoilshockisntoverithasmoveddownstream"
+  "theoilshockisntoverithasmoveddownstream",
+  "3ef7424f7e122c2e",
+  "how6monthsofwariniranjoltedoilgasstocksandmore",
+  "a0dc2d727e0c70f8",
+  "whopaysforashadowfleetoilspillnoone",
+  "df0c36ea67496134",
+  "whythesegiantstoragetanksincreasinglyholdverylittleoil",
+  "b81ac22be2e9ddce",
+  "silverfuturesreboundnearly2asweakcrudeoilliftsbulliondemand",
+  "e5eb9ab657cf82b2",
+  "acertatoexpandliquidsrichalbertaproductionwithastaradeal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T14:25:13.391686+03:00",
+ "last_run": "2026-08-28T14:30:17.955470+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1708,6 +1708,10 @@
   {
    "d": "2026-08-28",
    "t": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree - NPR"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "How 6 Months of War in Iran Jolted Oil, Gas, Stocks and More - The New York Times"
   }
  ]
 }
