@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "4958b5c55c8c2830",
-  "lessthan300millionbarrelslefttheengineeringlimitsthreatening",
-  "1274dd62916984a5",
-  "commentersoverwhelminglyopposeblmsrollbackofoilandgasrule",
   "19f358803651d2ae",
   "fromescalationtoexitrampwhyoilswarpremiumisunwindingagain",
   "3d3cef77ea3030ef",
@@ -603,7 +599,11 @@
   "98e6065bdc6a4df2",
   "interiorplansfasttrackforoilexplorationinalaskasnorthslope",
   "be0f004af0185ab0",
-  "iraqoffersoilbeyondhormuzforfirsttimesincewarbegan"
+  "iraqoffersoilbeyondhormuzforfirsttimesincewarbegan",
+  "619d7e7dfea4c257",
+  "venezuelaweighsopecexitasusnegotiatesstakeinoilfields",
+  "65c5c73760bf5075",
+  "whytwotopfundmanagerssay100oiliscomingandthestockstoplayit"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-28",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-08-28T07:20:14.487342+03:00",
+ "last_run": "2026-08-28T07:25:14.273912+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1628,6 +1628,10 @@
   {
    "d": "2026-08-28",
    "t": "Iraq Offers Oil Beyond Hormuz for First Time Since War Began - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Venezuela Weighs OPEC Exit as US Negotiates Stake in Oil Fields - NDTV Profit"
   }
  ]
 }
