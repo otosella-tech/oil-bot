@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "375eef38070da900",
-  "qatarpmtovisittehrantopursuemediationefforts",
-  "bdc683abc65a9bb6",
-  "crudeoilfuturesoct6clmainusagriculturebullrun",
   "0260e82f7ae34753",
   "currentpriceofoilasofaugust242026",
   "705adc414135f752",
@@ -603,7 +599,11 @@
   "ad37b7f4b3fb912f",
   "seatriumpetrobraseyepotentialnaturalgascollaborationtomeetgr",
   "13e0dd9b3eb04223",
-  "highcrudeoilpricespushupnationalaverage"
+  "highcrudeoilpricespushupnationalaverage",
+  "1a8da0f8c3519f05",
+  "usenergysecretaryvisitsmidlandtopromotepermianbasinoilandgas",
+  "58df5a0e33c3b544",
+  "venezuelaweighsopecexitasusdiscussesoilstake"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T16:15:14.770579+03:00",
+ "last_run": "2026-08-28T16:20:16.230727+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1784,6 +1784,10 @@
   {
    "d": "2026-08-28",
    "t": "Every $1 increase in oil prices adds pressure to U.S. Treasuries: The Strait of Hormuz dilemma is rewriting the inflation script - Moomoo"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Venezuela weighs OPEC exit as U.S. discusses oil stake - Transport Topics"
   }
  ]
 }
