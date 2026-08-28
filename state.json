@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "4f95b7afca86bf06",
-  "enbridgetoextendpermianexportvaluechainwithacquisitionofsalt",
   "fc6cb9f5efc79833",
   "thedollarshruggedoffiransanctionsandoilfell3",
   "65c5c73760bf5075",
@@ -603,7 +601,9 @@
   "a7301cd6f3634c91",
   "2killedinoilproductstankerfireoffincheon",
   "91addbebf48ba8d1",
-  "oiledgeshigheronfadinghopesforstraitofhormuzsreopening"
+  "oiledgeshigheronfadinghopesforstraitofhormuzsreopening",
+  "54b6ab5950b20e20",
+  "oilpricesedgelowerwithvenezuelasupplyreportshormuzdealinfocu"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-28",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-08-28T04:20:17.307011+03:00",
+ "last_run": "2026-08-28T04:25:12.642270+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1596,6 +1596,10 @@
   {
    "d": "2026-08-28",
    "t": "Oil Edges Higher on Fading Hopes for Strait of Hormuz’s Reopening - WSJ"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Oil prices edge lower with Venezuela supply reports, Hormuz deal in focus - Investing.com"
   }
  ]
 }
