@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "3b7bab5d2085b633",
-  "oilpricesfallasirannegotiationhopesreturn",
-  "7770aa714470ab51",
-  "octopusbosswarnsukistooexposedtoglobalgasprices",
   "66963e4e631de3a4",
   "russianoilgiantlukoilhaltsallmainrefineriesafterukrainiandro",
   "85fbadf6d07e85d9",
@@ -603,7 +599,11 @@
   "3e98b384278c841e",
   "currentpriceofoilasofaugust172026",
   "faa824bc6d8eca4f",
-  "higheroilcostscouldcutaidto15mchildrensavethechildrenwarns"
+  "higheroilcostscouldcutaidto15mchildrensavethechildrenwarns",
+  "b49b59e2ab27fcea",
+  "chevroncouldbebigwinnerifvenezuelapullsoutofopec",
+  "53ad41a0e8581ad9",
+  "sixmonthsintotheiranwarmarketsbecomeaccustomedtostalematewit"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T14:45:15.145930+03:00",
+ "last_run": "2026-08-28T14:50:15.400931+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1744,6 +1744,14 @@
   {
    "d": "2026-08-28",
    "t": "Oil prices today: Crude holds steady, heads for weekly losses as Hormuz flows remain choppy - The Times of India"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Chevron Could Be Big Winner If Venezuela Pulls Out of OPEC - 24/7 Wall St."
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Six months into the Iran war: Markets become accustomed to stalemate with no end in sight - CNBC"
   }
  ]
 }
