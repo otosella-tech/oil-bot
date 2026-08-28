@@ -4,16 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "6e1b5fccce35d182",
-  "equinortargets27internationalproductiongrowthby2030",
-  "1865f2af828944f7",
-  "rachelindepletedsprfacesgrowingoperationalrisks",
-  "f4daff7f94c513c2",
-  "wticrudeoilfutureseaseasmiddleeasttensionscool",
-  "611bf39922281e5b",
-  "japanrevealsplantoenhanceenergysupplystructure",
-  "246a08ba2b49edaa",
-  "oilandgrainexportsplummetasukraineandrussiaattackshipping",
   "b546cec94c5aa808",
   "oilpricesslideamidhopesforprogressinmideastdiplomacy",
   "d937a2b2ea63b88c",
@@ -603,7 +593,17 @@
   "3c615c555c69eb05",
   "usfuturesmixedwithhopesofmoreclarityfromfedchairwarshinjacks",
   "25a77f2ba1fb1ea8",
-  "iranwarreachessixmonths"
+  "iranwarreachessixmonths",
+  "b3a7c458065d22dc",
+  "hormuzshippingremainssubdueddespiteapparentreopening",
+  "371f170350ab9edc",
+  "theiranwarhashandedrussiaastrategicopeningineurope",
+  "cde382743aaf29d7",
+  "oilselloffoutrunsrealityinhormuz",
+  "dabd93ddbdc629f4",
+  "yourfridayaug28guidefivethingstodointheoilcity",
+  "13be10ffdbd923cb",
+  "forecastupdateforcrudeoil28082026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T15:25:12.981900+03:00",
+ "last_run": "2026-08-28T15:30:21.275769+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1764,6 +1764,18 @@
   {
    "d": "2026-08-28",
    "t": "Iran War Reaches Six Months - KFI AM 640"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Hormuz Shipping Remains Subdued Despite Apparent Reopening"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "The Iran War Has Handed Russia a Strategic Opening in Europe"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Oil Selloff Outruns Reality in Hormuz"
   }
  ]
 }
