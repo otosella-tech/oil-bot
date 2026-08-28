@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "277ead762c81d7b2",
-  "oilfuturescrudeofflowsastenseusiranstandoffcontinues",
   "8fab898d57bc98fe",
   "currentpriceofoilasofaugust252026",
   "29c2ee0b7368a134",
@@ -603,7 +601,9 @@
   "655a5842377dac5c",
   "crudeoilpricesextendlossesdespiteongoingusiranwartensionswha",
   "2ba55ea52419c558",
-  "hormuztankertrafficdropsdespiterecoveryinoilflows"
+  "hormuztankertrafficdropsdespiterecoveryinoilflows",
+  "fa4b168d4f2eedb6",
+  "iraqtodeliveroilbeyondhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-28",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-08-28T10:00:22.943724+03:00",
+ "last_run": "2026-08-28T10:05:12.040369+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1652,6 +1652,10 @@
   {
    "d": "2026-08-28",
    "t": "Hormuz Tanker Traffic Drops Despite Recovery in Oil Flows"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Iraq to Deliver Oil beyond Hormuz - Rigzone"
   }
  ]
 }
