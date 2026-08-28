@@ -4,24 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "672afcf9b7af4c4f",
-  "oildropsastankersbeginmovingmoregulfcrude",
-  "008bbf9cf4e296d6",
-  "azerbaijanisbalancingisraeliarmsiraniandronesandturkishoil",
-  "3e98b384278c841e",
-  "currentpriceofoilasofaugust172026",
-  "2df931ccbb0dc331",
-  "oilpricesturnpositiveafteriransaysdealreachedwithomantoshare",
-  "bdadea2578a5ea96",
-  "crudeoilpricessliponhopesstraitofhormuztoreopen",
-  "758b4a3894549e1e",
-  "enbridgetobuysaltcreekmidstreamscrudeoilgatheringbusinessfor",
-  "c7b5862b322cd1e3",
-  "cnoocpostsrecordprofitaschinapumpsmoreoilathome",
-  "dc923c6328d5af27",
-  "oilsettlesdownafterchoppysessionasinvestorsweighhormuztalks",
-  "30bcf670671d17ab",
-  "dropincrudeoilpricesfuelsmarkets",
   "70fee1171e27e30a",
   "aramcofindsanewwaytokeepsaudicrudeflowingtochina",
   "f5918cf8f4b7ab4e",
@@ -603,7 +585,25 @@
   "b81ac22be2e9ddce",
   "silverfuturesreboundnearly2asweakcrudeoilliftsbulliondemand",
   "e5eb9ab657cf82b2",
-  "acertatoexpandliquidsrichalbertaproductionwithastaradeal"
+  "acertatoexpandliquidsrichalbertaproductionwithastaradeal",
+  "5344613360b312c4",
+  "currentpriceofoilasofaug282026",
+  "66641bfb6f9685f9",
+  "usnavyblockadeslashesiranoilexportsastrumpadministrationshif",
+  "0524c9131736ff85",
+  "onthesixmonthanniversaryoftheiranwardivisionsappearonwallstr",
+  "d0cf8c5e07c607db",
+  "oilpricesticklowerwithvenezuelasupplyreportshormuzdealinfocu",
+  "038e7db7d0aff775",
+  "worldsharesmostlygainafterupbeatresultsfornvidiaandothertech",
+  "e6972847cf6ff852",
+  "ukrainiandronessetmajorrussianrefineryablazeforeighthtimethi",
+  "33be8a79edf248c4",
+  "usmilitaryaround750millionbarrelsofoilhavepassedthroughthest",
+  "db0597c925d4855c",
+  "currentpriceofoilasofaugust182026",
+  "a806c44884be180b",
+  "thepriceofdieseltheworkhorseoffuelsnearsarecordhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T14:30:17.955470+03:00",
+ "last_run": "2026-08-28T14:35:13.000756+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1712,6 +1712,26 @@
   {
    "d": "2026-08-28",
    "t": "How 6 Months of War in Iran Jolted Oil, Gas, Stocks and More - The New York Times"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare - CNBC"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "On the six-month anniversary of the Iran war, divisions appear on Wall Street over the trajectory for oil prices - MarketWatch"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Oil prices tick lower with Venezuela supply reports, Hormuz deal in focus - Investing.com"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Ukrainian Drones Set Major Russian Refinery Ablaze for Eighth Time This Year - Kyiv Post"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "U.S. Military: Around 750 Million Barrels of Oil Have Passed Through the Strait of Hormuz - jordannews.jo"
   }
  ]
 }
