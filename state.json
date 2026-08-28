@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "b3cba4c823bb05e2",
-  "oilsettlesdownmorethan3investorsshrugoffussanctionsoniran",
   "870dfdf3c89348c4",
   "oilextendslossesonhopesformiddleeasttalkstoeasesupplywoes",
   "a66544179203aea6",
@@ -603,7 +601,9 @@
   "81f22c1124aa1819",
   "organochlorideanalysisincrudeoilandnaphthausinggcxsdwithmicr",
   "6660f1bc684f6654",
-  "iranwarmediatorsfocusonreopeningstraitofhormuz"
+  "iranwarmediatorsfocusonreopeningstraitofhormuz",
+  "d6918ccbd8881c83",
+  "minesclearedstraitofhormuzmoreoilflowing"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T18:35:12.820899+03:00",
+ "last_run": "2026-08-28T18:40:14.720521+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1844,6 +1844,10 @@
   {
    "d": "2026-08-28",
    "t": "Iran war mediators focus on reopening Strait of Hormuz - NBC News"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Mines cleared Strait of Hormuz; more oil flowing - Kingsport Times News"
   }
  ]
 }
