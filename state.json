@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "a806c44884be180b",
-  "thepriceofdieseltheworkhorseoffuelsnearsarecordhigh",
   "2e419892459428d1",
   "naturalgasnotoiliskeyinflationconcernineurope",
   "4b65dd4d9f5c767d",
@@ -603,7 +601,9 @@
   "134a840362e7a107",
   "crudeoilpricesfallasusdiscussesbuyingstakesinvenezuelanoilfi",
   "7eebfd8da0e29abb",
-  "oilpricesheadforaweeklylossdespiteescalatingirantensions"
+  "oilpricesheadforaweeklylossdespiteescalatingirantensions",
+  "19fd816d4f31b1c0",
+  "cctvscript190626"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 45
  },
- "last_run": "2026-08-28T08:25:13.045358+03:00",
+ "last_run": "2026-08-28T08:30:18.438920+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
