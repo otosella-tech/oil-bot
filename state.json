@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "6ccbc3712c18b5f5",
-  "wticrudeoilgivesbackgainscanbuyersholdtheline",
   "400fefc32226864a",
   "slbandpdvsaunlock2powerfuloildataadvancesinvenezuela",
   "28b4e948e495e738",
@@ -603,7 +601,9 @@
   "4d70da5a492916f5",
   "goldmansaystheoilmarkethaslearnedtolivewithapartlyclosedstra",
   "c5188a8d51267381",
-  "imnotsellingexxonmobilevenwithoilpriceswheretheyare"
+  "imnotsellingexxonmobilevenwithoilpriceswheretheyare",
+  "ae995c2d14855535",
+  "qatarextendsforcemajeureashormuzcrisisstillblockslngtraffic"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T17:25:12.806655+03:00",
+ "last_run": "2026-08-28T17:30:19.119183+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1820,6 +1820,10 @@
   {
    "d": "2026-08-28",
    "t": "Goldman Says The Oil Market Has Learned To Live With A Partly Closed Strait of Hormuz - thewealthadvisor.com"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Qatar Extends Force Majeure as Hormuz Crisis Still Blocks LNG Traffic"
   }
  ]
 }
