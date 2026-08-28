@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "c4d97a863f7a21a2",
-  "oilfallsamidhopesforreopeningofstraitofhormuz",
-  "abde2b2ad26c9ccb",
-  "pedevcostockhedgesareeatingintotheoilpriceupsidenyseped",
   "ab54e6769cffc9bf",
   "3firmssteerenbridges600mcrudeoilassetsbuy",
   "9e0a6f62c11ace76",
@@ -603,7 +599,11 @@
   "dbeda6baf7dc5639",
   "guyanaeyesdomesticrefineryascornerstoneofnationaloilcompanyp",
   "bf62bfe18b0cc6ea",
-  "cnoocwillsparenoefforttoboostreservesoutputin2h"
+  "cnoocwillsparenoefforttoboostreservesoutputin2h",
+  "39bb7a7517c54c33",
+  "trumpdismissesnatoattackfearsafterciachiefsmoscowtrip",
+  "a1cd98d862f4b466",
+  "saudioilsalesignalsmorehormuzexits"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T16:55:14.477996+03:00",
+ "last_run": "2026-08-28T17:00:23.210645+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1804,6 +1804,14 @@
   {
    "d": "2026-08-28",
    "t": "Oil prices swing between war risk and diplomacy after six months of Iran standoff - thenationalnews.com"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Trump Dismisses NATO Attack Fears After CIA Chief’s Moscow Trip"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Saudi oil sale signals more Hormuz exits - Transport Topics"
   }
  ]
 }
