@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "6678b74e30859be5",
-  "dieselpricesitsarefiningcrisisnotcrude",
   "c4d97a863f7a21a2",
   "oilfallsamidhopesforreopeningofstraitofhormuz",
   "abde2b2ad26c9ccb",
@@ -603,7 +601,9 @@
   "5c1ac8b741d9c486",
   "oilpricesswingbetweenwarriskanddiplomacyaftersixmonthsofiran",
   "dbeda6baf7dc5639",
-  "guyanaeyesdomesticrefineryascornerstoneofnationaloilcompanyp"
+  "guyanaeyesdomesticrefineryascornerstoneofnationaloilcompanyp",
+  "bf62bfe18b0cc6ea",
+  "cnoocwillsparenoefforttoboostreservesoutputin2h"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T16:50:17.104616+03:00",
+ "last_run": "2026-08-28T16:55:14.477996+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
