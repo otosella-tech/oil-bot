@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "2932bc06087145f6",
-  "qatarandkuwaitrestore70ofprewaroilexportsthroughhormuz",
   "e4de24296aaf475c",
   "32805sharesinoildricorporationofamericaodcacquiredbypdtpartn",
   "b1d8d0e2f3e76657",
@@ -603,7 +601,9 @@
   "a5fa55ff80b64d9c",
   "oilpostsweeklylossashormuzoptimismandfedconcernspressurepric",
   "b1b17bbaaf95e79f",
-  "oilpricesfallfortheweekonusirantalksstalemate"
+  "oilpricesfallfortheweekonusirantalksstalemate",
+  "72907a4404da5380",
+  "chevronisintalkstoexpandinvenezuelaapotentialwinfortrump"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-08-29T00:55:12.587176+03:00",
+ "last_run": "2026-08-29T01:00:24.346285+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1585,6 +1585,10 @@
   {
    "d": "2026-08-29",
    "t": "Oil prices fall for the week on US-Iran talks stalemate - CNBC"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Chevron Is in Talks to Expand in Venezuela, a Potential Win for Trump - The New York Times"
   }
  ]
 }
