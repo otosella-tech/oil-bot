@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "69dfe009803b7e4a",
-  "mitusesaitochallengeacentury",
   "674e8f7feac0ba6e",
   "line5shutdownfollowingnaturalgasliquidleakinwisconsin",
   "13e0dd9b3eb04223",
@@ -603,7 +601,9 @@
   "f4daff7f94c513c2",
   "wticrudeoilfutureseaseasmiddleeasttensionscool",
   "1f19c41c1a99b6c5",
-  "usseekingownershipstakeinvenezuelaoilreport"
+  "usseekingownershipstakeinvenezuelaoilreport",
+  "4d7246ca3ccaca2f",
+  "oilpricesstillvolatileoniranwaruncertainty"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T15:40:17.046141+03:00",
+ "last_run": "2026-08-28T15:45:16.969998+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1776,6 +1776,10 @@
   {
    "d": "2026-08-28",
    "t": "Oil Selloff Outruns Reality in Hormuz"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Oil prices still volatile on Iran war uncertainty - Transport Topics"
   }
  ]
 }
