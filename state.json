@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "fc6cb9f5efc79833",
-  "thedollarshruggedoffiransanctionsandoilfell3",
-  "65c5c73760bf5075",
-  "whytwotopfundmanagerssay100oiliscomingandthestockstoplayit",
   "80717be2c6f231d7",
   "japantodiversifycrudesuppliesbackpipelinesthatbypasshormuz",
   "4becdd22b7d9d51c",
@@ -603,7 +599,11 @@
   "91addbebf48ba8d1",
   "oiledgeshigheronfadinghopesforstraitofhormuzsreopening",
   "54b6ab5950b20e20",
-  "oilpricesedgelowerwithvenezuelasupplyreportshormuzdealinfocu"
+  "oilpricesedgelowerwithvenezuelasupplyreportshormuzdealinfocu",
+  "48e4f1a8da94d88d",
+  "crudeoilsettleshigherondiplomacydoubtstoendusiranwar",
+  "4844bd8bdf4a620b",
+  "usclearsstraitofhormuzas50000troopsmaintainblockadeofirancen"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-28",
-  "count": 19
+  "count": 21
  },
- "last_run": "2026-08-28T04:30:17.647603+03:00",
+ "last_run": "2026-08-28T04:35:12.924735+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1600,6 +1600,14 @@
   {
    "d": "2026-08-28",
    "t": "Oil prices edge lower with Venezuela supply reports, Hormuz deal in focus - Investing.com"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Crude Oil Settles Higher on Diplomacy Doubts to End US-Iran War - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "US clears Strait of Hormuz as 50,000 troops maintain blockade of Iran, CENTCOM chief says - The Jerusalem Post"
   }
  ]
 }
