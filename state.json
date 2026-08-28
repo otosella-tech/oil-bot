@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "4becdd22b7d9d51c",
-  "nocinstallsnewcrudeoilflowmeasurementsystematsidraterminal",
   "be91ac0b66c79b59",
   "forecastupdateforcrudeoil26082026",
   "5b49a7e964245a62",
@@ -603,7 +601,9 @@
   "4844bd8bdf4a620b",
   "usclearsstraitofhormuzas50000troopsmaintainblockadeofirancen",
   "50eb3339424a470d",
-  "acertatoacquireastaraforc127mdoublingitsoiloutput"
+  "acertatoacquireastaraforc127mdoublingitsoiloutput",
+  "1664b35608312533",
+  "oilontrackforweeklylossevenasirantensionssimmerbyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-28",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-08-28T04:55:12.958236+03:00",
+ "last_run": "2026-08-28T05:00:22.184693+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1608,6 +1608,10 @@
   {
    "d": "2026-08-28",
    "t": "US clears Strait of Hormuz as 50,000 troops maintain blockade of Iran, CENTCOM chief says - The Jerusalem Post"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Oil on track for weekly loss even as Iran tensions simmer By Reuters - Investing.com"
   }
  ]
 }
