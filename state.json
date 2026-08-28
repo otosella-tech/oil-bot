@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "d968f17b1d15bf0b",
-  "usdieselinventoriesfalltolowestseasonallevelonrecord",
   "f2c918010541eed1",
   "italyextendsdieseltaxcutaspremiermelonifacespressureoverfuel",
   "f70ec472d1ad1012",
@@ -603,7 +601,9 @@
   "cac80c65da9a1080",
   "crudeoildeclinesdespitehormuztensionshavemarketsbeguntooverc",
   "fcdb451110c6c9bc",
-  "chinatakesoverfromopecaskeybalancerofglobalcrudeoilmarket"
+  "chinatakesoverfromopecaskeybalancerofglobalcrudeoilmarket",
+  "5f128f18131420fa",
+  "arewemisreadingtheoildemandshockfromhormuz"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T22:45:16.658001+03:00",
+ "last_run": "2026-08-28T22:50:16.431170+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1933,6 +1933,10 @@
   {
    "d": "2026-08-28",
    "t": "China takes over from OPEC+ as key balancer of global crude oil market - UkrAgroConsult"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Are We Misreading The Oil Demand Shock From Hormuz? - Forbes"
   }
  ]
 }
