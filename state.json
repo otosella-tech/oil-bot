@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "d894669130ed1df8",
-  "uscrudeoilinventoriesincreaseby01millionbarrels",
-  "115fcc7d862df782",
-  "europesheatwavesareputtingnuclearpowerunderpressure",
   "7102de34c6937dcf",
   "cmewticrudeoilfutureseaseasmiddleeasttensionscool",
   "de3f0b826e610dcc",
@@ -603,7 +599,11 @@
   "1b3fd064950668c0",
   "gulfoilexportsrebounddespiteiranwar",
   "618cf9843019774f",
-  "indiasurpasses300gwofnon"
+  "indiasurpasses300gwofnon",
+  "b8bca646676353d1",
+  "goldmansaysgulfoilexportsattwothirdsofprewarlevel",
+  "132310735d42e0db",
+  "thecommoditiesfeedoilpricesupevenashormuzflowsincrease"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-28",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-08-28T14:10:15.887929+03:00",
+ "last_run": "2026-08-28T14:15:16.728837+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1672,6 +1672,14 @@
   {
    "d": "2026-08-28",
    "t": "Gulf Oil Exports Rebound Despite Iran War"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Goldman Says Gulf Oil Exports at Two-Thirds of Pre-War Level - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "The Commodities Feed: Oil prices up even as Hormuz flows increase - ing think"
   }
  ]
 }
