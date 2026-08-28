@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "cea043f49828a023",
-  "oilvolatilitycompressionleavestraderstrappedbetweentwooutcom",
   "c6bdcb1186860866",
   "opeclosesoilmarketswayiniranwaraschinagainsinfluencebyreuter",
   "c09354d0761f34ec",
@@ -603,7 +601,9 @@
   "ce063388b3352390",
   "oilgiantchevronissaidtobeintalkstoexpandinvenezuela",
   "3640fe33f9f15b55",
-  "usextendssanctionswaiverforserbiasrussianownednisoilfirm"
+  "usextendssanctionswaiverforserbiasrussianownednisoilfirm",
+  "20628bd98e7909ea",
+  "octoberwticrudeoilcontractclosesdown013or02settlesat8340perb"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T21:40:17.179395+03:00",
+ "last_run": "2026-08-28T21:45:14.559135+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
