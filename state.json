@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "56bde11b57cd24e2",
-  "oiledgeslowerastradersweighhormuztalksandrussiarisk",
-  "a6ad86197de37939",
-  "indiansharesmutedashdfcbankcountersoilledoptimism",
   "ecd09954832129d6",
   "anothertankerstruckashormuzshippingcrisisdeepens",
   "e72a78ae81783442",
@@ -603,10 +599,15 @@
   "91660c42c6bdb8f0",
   "crudeshottradeisgettingcrowdedandoneinvestorsaysheddefinitel",
   "9059cf4bcab4370c",
-  "after6monthsofiranwarmarketsdefyworstfears"
+  "after6monthsofiranwarmarketsdefyworstfears",
+  "8d450628af4a336f",
+  "oilslidesoncluesaboutfedpolicyrumorsofhormuzdeal",
+  "0ac34c5e0611502d",
+  "gaspricesclimbasaugustapproachesrecordhigh"
  ],
  "releases_done": {
-  "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1
+  "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
+  "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|post": 1
  },
  "last_digest": "2026-08-28",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T19:55:14.607504+03:00",
+ "last_run": "2026-08-28T20:00:29.149333+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1870,6 +1871,10 @@
   {
    "d": "2026-08-28",
    "t": "After 6 Months of Iran War, Markets Defy Worst Fears - The New York Times"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Oil slides on clues about Fed policy, rumors of Hormuz deal - Reuters"
   }
  ]
 }
