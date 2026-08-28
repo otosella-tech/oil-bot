@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "b829f995237ebfbf",
-  "uktaxpolicieshamperingoilgasproductionasenergycrisisintensif",
   "1189646d206311bb",
   "oilslumpsfollowingtrumpsbighormuzclaim",
   "9ab45001eccc2f81",
@@ -603,7 +601,9 @@
   "f4cbe5ec36a39339",
   "asiansharesmostlygainafterupbeatresultsfornvidiaandotherslif",
   "29c2ee0b7368a134",
-  "crudeoilpricesslightlyloweronthepushtoreopenstraitofhormuz"
+  "crudeoilpricesslightlyloweronthepushtoreopenstraitofhormuz",
+  "5c56df1c59b953e6",
+  "watchvenezuelaconsidersleavingopecinblowtooilcartel"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-28",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-08-28T10:25:14.398875+03:00",
+ "last_run": "2026-08-28T10:30:21.475015+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1664,6 +1664,10 @@
   {
    "d": "2026-08-28",
    "t": "Crude Oil Prices Slightly Lower on the Push to Reopen Strait of Hormuz - Barchart.com"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Watch Venezuela Considers Leaving OPEC in Blow to Oil Cartel - Bloomberg"
   }
  ]
 }
