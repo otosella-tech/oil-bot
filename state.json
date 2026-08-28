@@ -4,18 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "2620540d63be2453",
-  "trumpsaystheusdoesntneedcanadaamericaseconomysaysotherwise",
-  "1165ff4807e5af6e",
-  "breakingoilinventoryreportshowsasignificantlysmallerincrease",
-  "11c0a67b86c1e92e",
-  "enbridgetoacquiresaltcreekmidstreamcrudegatheringassetsinper",
-  "5de47f0d29f3fa4e",
-  "whykazakhstansnewpoliticalordermattersforustrade",
-  "ce748571619fe3c8",
-  "crudeoilfindsthetollboothinsidethehormuzcorridor",
-  "6433a8ef41e2e446",
-  "globaloiltrafficshiftstowardtheusamidiranwardisruptions",
   "bf89c6ead691fd80",
   "ussaysoilispouringthroughhormuztrackerscantfindit",
   "8601c2e430fb66fa",
@@ -603,7 +591,19 @@
   "e3c9d4c4dd3e98f0",
   "underthreatsaudiarabiareroutesoilexportsyetagain",
   "07f120927304ddfe",
-  "japanseeksoilroutesthatavoidthestraitofhormuz"
+  "japanseeksoilroutesthatavoidthestraitofhormuz",
+  "c9993527f62d84b1",
+  "oilholdssteadyontrackforweeklyfallonusirantalksstalemate",
+  "67beddd3bd376c96",
+  "thatsuckerisopenusgainstheupperhandinthebattleforhormuz",
+  "2a47f479464c53d7",
+  "ussayspipelineswillmakestraitofhormuzirrelevantenergyexperts",
+  "14d385d5c44c5fdd",
+  "crudeoilpricesdeclineassupplyoutlookimproves",
+  "e6666dc315969292",
+  "silverfuturesreboundnearly2onmcxascrudesoftens",
+  "cc2884a0ea9e2e46",
+  "theoilshockisntoverithasmoveddownstream"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T14:20:14.913593+03:00",
+ "last_run": "2026-08-28T14:25:13.391686+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1696,6 +1696,18 @@
   {
    "d": "2026-08-28",
    "t": "Japan seeks oil routes that avoid the Strait of Hormuz - Inspenet"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Oil holds steady, on track for weekly fall on US-Iran talks stalemate - Reuters"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "\"That sucker is open\": U.S. gains the upper hand in the battle for Hormuz - Axios"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree - NPR"
   }
  ]
 }
