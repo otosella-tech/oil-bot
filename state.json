@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "506eabf49636eddd",
-  "oilpricesdipasoptimismoverirantrumpsnewfearsofarussianescala",
-  "984d4bc327ce9534",
-  "trumphasmadeupto15minoilandgasstockrisespurredinpartbyiranwa",
   "6e1b5fccce35d182",
   "equinortargets27internationalproductiongrowthby2030",
   "1865f2af828944f7",
@@ -603,7 +599,11 @@
   "0d08173718ece827",
   "oilnewscrudeoilanalysisshowsdemandweaknesscappingwarriskprem",
   "b5411c4c2dc83eaf",
-  "theweekinoilpricesfalldespitestalledhormuztalks"
+  "theweekinoilpricesfalldespitestalledhormuztalks",
+  "3c615c555c69eb05",
+  "usfuturesmixedwithhopesofmoreclarityfromfedchairwarshinjacks",
+  "25a77f2ba1fb1ea8",
+  "iranwarreachessixmonths"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T15:20:16.877013+03:00",
+ "last_run": "2026-08-28T15:25:12.981900+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1756,6 +1756,14 @@
   {
    "d": "2026-08-28",
    "t": "The Week in Oil : Prices Fall Despite Stalled Hormuz Talks - marketscreener.com"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "US futures mixed with hopes of more clarity from Fed Chair Warsh in Jackson Hole - The Washington Post"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Iran War Reaches Six Months - KFI AM 640"
   }
  ]
 }
