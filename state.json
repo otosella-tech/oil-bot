@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "19f358803651d2ae",
-  "fromescalationtoexitrampwhyoilswarpremiumisunwindingagain",
   "3d3cef77ea3030ef",
   "oilpricesdiponnewsofprogressinhormuztalks",
   "92bd4d45548f63a0",
@@ -603,7 +601,9 @@
   "619d7e7dfea4c257",
   "venezuelaweighsopecexitasusnegotiatesstakeinoilfields",
   "65c5c73760bf5075",
-  "whytwotopfundmanagerssay100oiliscomingandthestockstoplayit"
+  "whytwotopfundmanagerssay100oiliscomingandthestockstoplayit",
+  "99ab35ad9ad8c25b",
+  "venezuelaweighsopecexitasusdiscussesoilfieldsstake"
  ],
  "releases_done": {},
  "last_digest": "2026-08-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-28",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-08-28T07:30:17.455181+03:00",
+ "last_run": "2026-08-28T07:35:12.677491+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1632,6 +1632,10 @@
   {
    "d": "2026-08-28",
    "t": "Venezuela Weighs OPEC Exit as US Negotiates Stake in Oil Fields - NDTV Profit"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Venezuela Weighs OPEC Exit as US Discusses Oil Fields Stake - Bloomberg.com"
   }
  ]
 }
