@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "2bfa6f86ccbf457a",
-  "canadiandollarandbusinessoutlooklooniecrudeoildecline",
   "599781e97c7ae863",
   "uscrudestocksbarelybudgeasgasolineinventoriesfall",
   "171914145b3ca768",
@@ -603,7 +601,9 @@
   "2ef549a63c464fa0",
   "oilpricesup270826",
   "f69a72da13e0dd46",
-  "crudeoilholdsabove8250asgeopoliticsshiftfocus"
+  "crudeoilholdsabove8250asgeopoliticsshiftfocus",
+  "676d1d3eebaadc6c",
+  "iransoilministersayscrudesalescontinuedespiteusblockades"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 45
  },
- "last_run": "2026-08-28T09:10:15.743024+03:00",
+ "last_run": "2026-08-28T09:15:16.860026+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
