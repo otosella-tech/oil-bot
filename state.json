@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "400fefc32226864a",
-  "slbandpdvsaunlock2powerfuloildataadvancesinvenezuela",
-  "28b4e948e495e738",
-  "quiethormuzcrudeflowlackofproductshavesplitoilmarkettotalene",
   "5c650bcf25ffbe0d",
   "crudeoilinventoriesshowsmallerrisethanexpectedbyinvestingcom",
   "820b7904f84b3ce1",
@@ -603,7 +599,11 @@
   "c5188a8d51267381",
   "imnotsellingexxonmobilevenwithoilpriceswheretheyare",
   "ae995c2d14855535",
-  "qatarextendsforcemajeureashormuzcrisisstillblockslngtraffic"
+  "qatarextendsforcemajeureashormuzcrisisstillblockslngtraffic",
+  "4088a9389962989e",
+  "defenseforcesstrikeoilrefineryinyaroslavlregionofrussianfede",
+  "d8b81d5e5b557a29",
+  "canadiandollarandbusinessoutlooklooniehighercrudeoilinthered"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T17:40:18.275049+03:00",
+ "last_run": "2026-08-28T17:45:17.662646+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1824,6 +1824,10 @@
   {
    "d": "2026-08-28",
    "t": "Qatar Extends Force Majeure as Hormuz Crisis Still Blocks LNG Traffic"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Defense Forces strike oil refinery in Yaroslavl region of Russian Federation - Ukrinform"
   }
  ]
 }
