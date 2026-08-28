@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "9e0a6f62c11ace76",
-  "oilcitykaramayservesuptennisdreams",
   "c9c221d803d91794",
   "japanunveilsenergyplantofundoilpipelinesbypassinghormuz",
   "6ccbc3712c18b5f5",
@@ -603,7 +601,9 @@
   "a1cd98d862f4b466",
   "saudioilsalesignalsmorehormuzexits",
   "fa3e4a8ba4f759eb",
-  "oilpricesslipwithvenezuelasupplyreportshormuzdealinfocus"
+  "oilpricesslipwithvenezuelasupplyreportshormuzdealinfocus",
+  "4d70da5a492916f5",
+  "goldmansaystheoilmarkethaslearnedtolivewithapartlyclosedstra"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T17:15:18.451069+03:00",
+ "last_run": "2026-08-28T17:20:15.233839+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1816,6 +1816,10 @@
   {
    "d": "2026-08-28",
    "t": "Oil prices slip with Venezuela supply reports, Hormuz deal in focus - Investing.com"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Goldman Says The Oil Market Has Learned To Live With A Partly Closed Strait of Hormuz - thewealthadvisor.com"
   }
  ]
 }
