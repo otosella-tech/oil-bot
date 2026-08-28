@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "defba7d72080ec05",
-  "depletedsprfacesgrowingoperationalrisks",
   "a57fd4a08dab7735",
   "currentpriceofoilasofaug192026",
   "901618c35c10c715",
@@ -603,7 +601,9 @@
   "2978bd7515ef9dfb",
   "exclusivechevronotherusfirmsneardealtoinvestbillionsinvenezu",
   "27acd1dc071dacc3",
-  "oilpricesfallafteriranstepsuptruceeffortsussayshormuzminescl"
+  "oilpricesfallafteriranstepsuptruceeffortsussayshormuzminescl",
+  "0ad75cb255b67b6a",
+  "ukrainedronessparkfireatrussianrefineryasfuelcrisisworsens"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T18:25:16.659950+03:00",
+ "last_run": "2026-08-28T18:30:20.615889+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1836,6 +1836,10 @@
   {
    "d": "2026-08-28",
    "t": "Oil prices fall after Iran steps up truce efforts, US says Hormuz mines cleared - Al-Monitor"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Ukraine Drones Spark Fire at Russian Refinery as Fuel Crisis Worsens"
   }
  ]
 }
