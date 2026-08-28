@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "b1d8d0e2f3e76657",
-  "alaskaofficialsrespondtomysteryspillnearidledcookinletoilpla",
   "d64d91f1fc259006",
   "wticrudeoilfuturesdroppedasmarketshruggedoffnewiransanctions",
   "95a83dcfc9a43be7",
@@ -603,7 +601,9 @@
   "72907a4404da5380",
   "chevronisintalkstoexpandinvenezuelaapotentialwinfortrump",
   "e363d3fc65a81787",
-  "sixmonthsafteriranwaramericasoilreservesdroptolowestlevelssi"
+  "sixmonthsafteriranwaramericasoilreservesdroptolowestlevelssi",
+  "3506b9d28bb45acb",
+  "oilsettlesloweroncluesaboutfedpolicyrumorsofhormuzdeal"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 8
+  "count": 10
  },
- "last_run": "2026-08-29T01:20:16.307433+03:00",
+ "last_run": "2026-08-29T01:25:15.283416+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1593,6 +1593,10 @@
   {
    "d": "2026-08-29",
    "t": "Six months after Iran war, America’s oil reserves drop to lowest levels since 1982 - WTAE"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Yahoo Finance"
   }
  ]
 }
