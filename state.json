@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "a51f387d2ce7b4f5",
-  "trumpsaystheusdoesntneedcanadatheeconomysaysotherwise",
   "375eef38070da900",
   "qatarpmtovisittehrantopursuemediationefforts",
   "bdc683abc65a9bb6",
@@ -603,7 +601,9 @@
   "865868c9d6918b73",
   "every1increaseinoilpricesaddspressuretoustreasuriesthestrait",
   "ad37b7f4b3fb912f",
-  "seatriumpetrobraseyepotentialnaturalgascollaborationtomeetgr"
+  "seatriumpetrobraseyepotentialnaturalgascollaborationtomeetgr",
+  "13e0dd9b3eb04223",
+  "highcrudeoilpricespushupnationalaverage"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T16:10:14.573147+03:00",
+ "last_run": "2026-08-28T16:15:14.770579+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
