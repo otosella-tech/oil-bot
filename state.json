@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "ab54e6769cffc9bf",
-  "3firmssteerenbridges600mcrudeoilassetsbuy",
   "9e0a6f62c11ace76",
   "oilcitykaramayservesuptennisdreams",
   "c9c221d803d91794",
@@ -603,7 +601,9 @@
   "39bb7a7517c54c33",
   "trumpdismissesnatoattackfearsafterciachiefsmoscowtrip",
   "a1cd98d862f4b466",
-  "saudioilsalesignalsmorehormuzexits"
+  "saudioilsalesignalsmorehormuzexits",
+  "fa3e4a8ba4f759eb",
+  "oilpricesslipwithvenezuelasupplyreportshormuzdealinfocus"
  ],
  "releases_done": {},
  "last_digest": "2026-08-28",
@@ -615,7 +615,7 @@
   "date": "2026-08-28",
   "count": 60
  },
- "last_run": "2026-08-28T17:00:23.210645+03:00",
+ "last_run": "2026-08-28T17:05:14.507130+03:00",
  "sent_stories": [
   {
    "d": "2026-08-25",
@@ -1812,6 +1812,10 @@
   {
    "d": "2026-08-28",
    "t": "Saudi oil sale signals more Hormuz exits - Transport Topics"
+  },
+  {
+   "d": "2026-08-28",
+   "t": "Oil prices slip with Venezuela supply reports, Hormuz deal in focus - Investing.com"
   }
  ]
 }
