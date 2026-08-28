@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "699320e71b6a68d5",
-  "rupeedipsreversingintradaygainsasimporterdollardemanddominat",
-  "422dd871157a1ec8",
-  "qatarandkuwaitrestore70ofpre",
   "2932bc06087145f6",
   "qatarandkuwaitrestore70ofprewaroilexportsthroughhormuz",
   "e4de24296aaf475c",
@@ -603,7 +599,11 @@
   "f41b31ba3d48639a",
   "kenyapipelineunitinks25yrcrudestoragedeal",
   "377ac498d00cca3f",
-  "iransoilexportsnearzeroaspersiangulfflowsrecover"
+  "iransoilexportsnearzeroaspersiangulfflowsrecover",
+  "a5fa55ff80b64d9c",
+  "oilpostsweeklylossashormuzoptimismandfedconcernspressurepric",
+  "b1b17bbaaf95e79f",
+  "oilpricesfallfortheweekonusirantalksstalemate"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-08-29T00:30:18.725477+03:00",
+ "last_run": "2026-08-29T00:35:12.872934+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1577,6 +1577,14 @@
   {
    "d": "2026-08-29",
    "t": "Oil prices fall on Strait of Hormuz bypass tactics - Oil & Gas Journal"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Oil Posts Weekly Loss as Hormuz Optimism and Fed Concerns Pressure Prices - EnergyNow.com"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Oil prices fall for the week on US-Iran talks stalemate - CNBC"
   }
  ]
 }
