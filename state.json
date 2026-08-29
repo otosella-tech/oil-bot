@@ -4,26 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "36ea3fae7088c682",
-  "puttingaitoworkthedisciplinedapproachtoinnovationinoilandgas",
-  "f7f9205b2ae23e79",
-  "crudeoilpricespressuredasmiddleeastcrudesuppliesincrease",
-  "637b27b5df04de5f",
-  "shellsceowarnedoilpriceswouldkeeprisinghormuztalksaretesting",
-  "40dd82d7fa1aad89",
-  "theaiboomisdrivinganeweraofuspowerdemand",
-  "de3755ebf44cf9ff",
-  "nepalglaciercollapsetriggersdeadlyflashflood",
-  "9d1e176c5ec2c2e6",
-  "newreportshowstheimpactofoilandgasdrillingnominationsurgeonp",
-  "e00c704c435c68fb",
-  "trumpadministrationusedoilmanfacingswissarrestwarranttohelpi",
-  "21171f8ea559e62a",
-  "iranqatarholdhormuztalksasusblockadesqueezesiranoilexports",
-  "da5efc44df4eb66c",
-  "oilrisesbyover1aswhitehousesaysnousirantalkshappening",
-  "a8034f23c5ba433e",
-  "oilpricesfallasiranomantalksfuelhopesofstraitreopening",
   "3d323534ab3ec02d",
   "crudeoilfuturesfallamidweakglobalcues",
   "510afe771f9d7a48",
@@ -603,7 +583,27 @@
   "8b1aed008a80e9b6",
   "trumpsaysusentersdealwithvenezuelatocontrolof65billionbarrel",
   "67bf1d0f77b6a3b3",
-  "accordingtoaxiostheusisclosinginonamassivevenezuelaoildeal3o"
+  "accordingtoaxiostheusisclosinginonamassivevenezuelaoildeal3o",
+  "5a3e791fb1857d14",
+  "trumpsaysusentersdealwithvenezuelatotakecontrolof65bbarrelso",
+  "8e801508d910301d",
+  "commentaryasiascrudeoilimportsstaysoftinaugustchallengingush",
+  "711e0b8308869bc6",
+  "trumpannouncessweepingusgrabforcontrolofvenezuelasvastoilres",
+  "1baaf6a3be12ba8b",
+  "trumpsecuresvastpotentiallycostlyusstakeinvenezuelanoilindus",
+  "b404c55f033f751a",
+  "trumpannouncesbiggestoildealinworldhistorysaysitwillsubstant",
+  "02dfc6f05403ac18",
+  "trumpsaysushasagreeddealwithvenezuelatotakecontrolof65billio",
+  "8a2bf8cb60212d41",
+  "chinahaswrestedcontrolofoilmarketsfromopec",
+  "aa12f34b52f6fbd8",
+  "highcrudeoilpricespushnevadagaspricesbackup",
+  "1201c040f086a7f8",
+  "currentpriceofoilasofaugust62026",
+  "c30fd8c24de9d521",
+  "chinascrudeoilimportsfellinthesecondquarter"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 19
+  "count": 21
  },
- "last_run": "2026-08-29T02:55:12.494446+03:00",
+ "last_run": "2026-08-29T03:00:21.152931+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1613,6 +1613,18 @@
   {
    "d": "2026-08-29",
    "t": "Oil prices jump after Iran publishes restrictive draft plan for Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "COMMENTARY: Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Trump announces sweeping US grab for control of Venezuela's vast oil reserves - Reuters"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Trump secures vast, potentially costly U.S. stake in Venezuelan oil industry - The Washington Post"
   }
  ]
 }
