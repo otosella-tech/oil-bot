@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "86b3a79044e46389",
-  "usenergyfirmsleaverigcountunchangedinlatestweekbakerhughessa",
   "9c0f1f04f0c82c0c",
   "serbiasecuresfurthersanctionswaiverforrussianownednisoilfirm",
   "2e3b076689519499",
@@ -603,7 +601,9 @@
   "72fcb4ae60e994cf",
   "currentpriceofoilasofaugust202026",
   "524627bef6c468d6",
-  "whyisntthepriceofoilevenhigher"
+  "whyisntthepriceofoilevenhigher",
+  "2850568dd4df1f34",
+  "russiasenergycrisisputskazakhstaninatoughspot"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T20:40:15.390688+03:00",
+ "last_run": "2026-08-29T20:45:22.918483+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1860,6 +1860,10 @@
   {
    "d": "2026-08-29",
    "t": "Oil exports from the Gulf rise to more than 60% of level before Iran war, Goldman Sachs estimates - CNBC"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Russia’s Energy Crisis Puts Kazakhstan in a Tough Spot"
   }
  ]
 }
