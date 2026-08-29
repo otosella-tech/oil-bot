@@ -4,14 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "0d08173718ece827",
-  "oilnewscrudeoilanalysisshowsdemandweaknesscappingwarriskprem",
-  "b5411c4c2dc83eaf",
-  "theweekinoilpricesfalldespitestalledhormuztalks",
-  "3c615c555c69eb05",
-  "usfuturesmixedwithhopesofmoreclarityfromfedchairwarshinjacks",
-  "25a77f2ba1fb1ea8",
-  "iranwarreachessixmonths",
   "b3a7c458065d22dc",
   "hormuzshippingremainssubdueddespiteapparentreopening",
   "371f170350ab9edc",
@@ -603,7 +595,15 @@
   "0bf6c864ce2de9a1",
   "howtofindprofitsinoilandgaspipelines",
   "69b93444c10a100f",
-  "usoilrigcountdownforweekendingaug28"
+  "usoilrigcountdownforweekendingaug28",
+  "e4d858ec39c4e01c",
+  "thewhitehouseannouncestheopeningofthestraitofhormuzandthepro",
+  "7ea93a9e76bc541c",
+  "irantransfersus75binoilrevenuestocentralbankdespiteusnavalbl",
+  "3e8a4d7859fdbb46",
+  "oilindustrywarningsectoratriskfromnewtaxes",
+  "23b086e5e2a2d31a",
+  "acertaenergyltdtoacquireastaraenergycorpadding5000boedofoilw"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T11:20:16.154358+03:00",
+ "last_run": "2026-08-29T11:25:14.846427+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1764,6 +1764,10 @@
   {
    "d": "2026-08-29",
    "t": "Hormuz Oil Flows Rising as Gulf Giants’ Ramp Up Accelerates - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "The White House announces the opening of the Strait of Hormuz and the protection of oil tankers - صوت الإمارات"
   }
  ]
 }
