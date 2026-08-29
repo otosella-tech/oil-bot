@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "33be8a79edf248c4",
-  "usmilitaryaround750millionbarrelsofoilhavepassedthroughthest",
   "db0597c925d4855c",
   "currentpriceofoilasofaugust182026",
   "a806c44884be180b",
@@ -603,7 +601,9 @@
   "f20a8d44b2a205ee",
   "trumpadministrationupdatesusreachesdealforcontrolof65billion",
   "c26f7a713adf943d",
-  "natgaspricesfallinsympathywithcrudeoil"
+  "natgaspricesfallinsympathywithcrudeoil",
+  "6c610facd78c1b7c",
+  "oilprices280826"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T09:45:14.573469+03:00",
+ "last_run": "2026-08-29T09:50:14.938754+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
