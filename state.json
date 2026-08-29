@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "bf4756cafb86b0f2",
-  "trumpadministrationweighsdealforusaccesstovenezuelanoil",
   "593cfe5aa0513501",
   "oilpricesfallonstraitofhormuzbypasstactics",
   "f41b31ba3d48639a",
@@ -603,7 +601,9 @@
   "8fe85265b1d0b22b",
   "europesrussiasanctionshaveamajorblindspot",
   "ed7fb04402f1e69a",
-  "trumpsvenezuelanoildealwhatweknowandhowitcouldimpactcanadaso"
+  "trumpsvenezuelanoildealwhatweknowandhowitcouldimpactcanadaso",
+  "7335af6057fac622",
+  "sprcrudeoilacquisitionprocedures"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-30",
   "count": 2
  },
- "last_run": "2026-08-30T00:40:18.677338+03:00",
+ "last_run": "2026-08-30T00:45:16.425971+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
