@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "f7e369580455cdbc",
-  "wtiandbrentcrudeoilhold50dayemaamidmiddleeastrisk",
   "b27c54cddc13973c",
   "oildriftslowerashormuzflowsbalanceslowprogressinirandiplomac",
   "ccb2a56d5319ae6b",
@@ -603,7 +601,9 @@
   "c3795b79b330d89e",
   "iranreports75bninoilrevenuesamidusnavalblockade",
   "04d2ec7d449ded89",
-  "amazonnears1gwofwindpowerinswedenwithfournewdeals"
+  "amazonnears1gwofwindpowerinswedenwithfournewdeals",
+  "0260e82f7ae34753",
+  "currentpriceofoilasofaugust242026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T14:10:17.432508+03:00",
+ "last_run": "2026-08-29T14:15:15.434795+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
