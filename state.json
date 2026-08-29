@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "5dc6dfa7152e4b43",
-  "currentpriceofoilasofaugust282026",
   "91be4de9aea378c4",
   "goldmansayshormuzoilflowsattwothirdsofprewarlevels",
   "bdadea2578a5ea96",
@@ -603,7 +601,9 @@
   "538e0a017e2af2c3",
   "ustotakecontrolofmajorportionofvenezuelanoilwealth",
   "db0597c925d4855c",
-  "currentpriceofoilasofaugust182026"
+  "currentpriceofoilasofaugust182026",
+  "de182af474fe3b3a",
+  "trumpannouncesbiggestoildealinworldhistoryforhugeusstakeinve"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T10:00:21.213979+03:00",
+ "last_run": "2026-08-29T10:05:14.934592+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
