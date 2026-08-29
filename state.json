@@ -4,12 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "cc2884a0ea9e2e46",
-  "theoilshockisntoverithasmoveddownstream",
-  "3ef7424f7e122c2e",
-  "how6monthsofwariniranjoltedoilgasstocksandmore",
-  "a0dc2d727e0c70f8",
-  "whopaysforashadowfleetoilspillnoone",
   "df0c36ea67496134",
   "whythesegiantstoragetanksincreasinglyholdverylittleoil",
   "b81ac22be2e9ddce",
@@ -603,7 +597,13 @@
   "5a650a99dc9f27db",
   "howxijinpingturnedoilfromaweaknessintoageopoliticalweapon",
   "9214b03cb1c1ea18",
-  "whatdrivescrudeoilpricesspotprices"
+  "whatdrivescrudeoilpricesspotprices",
+  "67beddd3bd376c96",
+  "thatsuckerisopenusgainstheupperhandinthebattleforhormuz",
+  "09f89009f49c097f",
+  "gulfoilexportsrebounddespiteiranwar",
+  "8c15f9938f60ea49",
+  "oilmarketreportaugust2026analysis"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-08-29T08:55:11.536686+03:00",
+ "last_run": "2026-08-29T09:00:23.632575+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1728,6 +1728,14 @@
   {
    "d": "2026-08-29",
    "t": "Oil Price Today, August 28, 2026: Brent Falls to $88 as Hormuz Risk Premium Fades - The Eastern Herald"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "\"That sucker is open\": U.S. gains the upper hand in the battle for Hormuz - Axios"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Gulf Oil Exports Rebound Despite Iran War - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
