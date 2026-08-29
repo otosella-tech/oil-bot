@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "3b9dd50978388088",
-  "federalenergysecretarytoutstrumpspoliciesatannualoilgasconfe",
-  "3d3cef77ea3030ef",
-  "oilpricesdiponnewsofprogressinhormuztalks",
   "134a840362e7a107",
   "crudeoilpricesfallasusdiscussesbuyingstakesinvenezuelanoilfi",
   "7eebfd8da0e29abb",
@@ -603,7 +599,11 @@
   "1fa29294376568e0",
   "breakingnewstrumpannouncessweepingusgrabforcontrolofvenezuel",
   "08f2030a232256c1",
-  "trumpsaysusistakingpartialcontrolofvenezuelasoilreserves"
+  "trumpsaysusistakingpartialcontrolofvenezuelasoilreserves",
+  "885300f3e9ee2663",
+  "trumpsaysushasdealforcontroloflargeshareofvenezuelasoil",
+  "99ab35ad9ad8c25b",
+  "venezuelaweighsopecexitasusdiscussesoilfieldsstake"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-08-29T05:45:16.705305+03:00",
+ "last_run": "2026-08-29T05:50:26.507368+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1697,6 +1697,14 @@
   {
    "d": "2026-08-29",
    "t": "US and Venezuela reach 'historic' oil deal, Trump says - BBC"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil - The New York Times"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Venezuela Weighs OPEC Exit as US Discusses Oil Fields Stake - Bloomberg.com"
   }
  ]
 }
