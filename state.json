@@ -4,12 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "59c7827947dff306",
-  "a12billionrefineryiscomingtosouthtexasanditsbeingbuiltonfarm",
-  "4c32951a699433bc",
-  "regulatoryprocesslaunchedfor30moreyearsoftransalaskaoilpipel",
-  "a071ab190208fb4f",
-  "venezuelaisstudyingthepossibilityofleavingopecanddiscussingt",
   "ccf1f12c9411928a",
   "cctvscript250626",
   "35ceca70f2b34272",
@@ -603,7 +597,13 @@
   "60c2fdc7e179834e",
   "eastafricasoilrivalryspursmultibilliondollarprojectsacrossth",
   "a14e4806da137a7e",
-  "usintalkstotakedirectownershipofvenezuelanoilfields"
+  "usintalkstotakedirectownershipofvenezuelanoilfields",
+  "587f1d73a8b270c8",
+  "trumpsayshehassecuredavastusstakeinvenezuelanoilindustry",
+  "8babefa9c34027df",
+  "usandvenezuelareachhistoricoildealtrumpsays",
+  "1682016727a3acae",
+  "usnearsdealtosecurestakeinvenezuelanoilfieldsinsiderssay"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-08-29T04:25:11.822765+03:00",
+ "last_run": "2026-08-29T04:30:20.374813+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1689,6 +1689,14 @@
   {
    "d": "2026-08-29",
    "t": "U.S. In Talks To Take Direct Ownership Of Venezuelan Oil Fields - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Trump says he has secured a vast U.S. stake in Venezuelan oil industry - The Washington Post"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "US and Venezuela reach 'historic' oil deal, Trump says - BBC"
   }
  ]
 }
