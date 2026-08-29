@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "4d70da5a492916f5",
-  "goldmansaystheoilmarkethaslearnedtolivewithapartlyclosedstra",
   "c5188a8d51267381",
   "imnotsellingexxonmobilevenwithoilpriceswheretheyare",
   "ae995c2d14855535",
@@ -603,7 +601,9 @@
   "39bb7a7517c54c33",
   "trumpdismissesnatoattackfearsafterciachiefsmoscowtrip",
   "f60f97df0e49eca8",
-  "americasmurkydealtosecureafifthofvenezuelasoil"
+  "americasmurkydealtosecureafifthofvenezuelasoil",
+  "7ae8ceceb1bdec3a",
+  "irantradefallsassupremeleaderkhameneiurgeslessrelianceontheu"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T15:40:19.459686+03:00",
+ "last_run": "2026-08-29T15:45:17.337695+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1804,6 +1804,10 @@
   {
    "d": "2026-08-29",
    "t": "Trump Dismisses NATO Attack Fears After CIA Chief’s Moscow Trip"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar - CNBC"
   }
  ]
 }
