@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "19fd816d4f31b1c0",
-  "cctvscript190626",
   "2ef549a63c464fa0",
   "oilpricesup270826",
   "f69a72da13e0dd46",
@@ -603,7 +601,9 @@
   "8b0b9321f614fe9e",
   "howtheiranwarunfoldedeveryattackandoilpricechangevisualisedu",
   "27b53ab270b9990d",
-  "howchinasxijinpingturnedoilfromaweaknessintoageopoliticalwea"
+  "howchinasxijinpingturnedoilfromaweaknessintoageopoliticalwea",
+  "8afa10fb85ca22f0",
+  "trumpsaysusinkeddealwithvenezuelatotakecontrolof65billionbar"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-29",
   "count": 45
  },
- "last_run": "2026-08-29T06:15:16.098365+03:00",
+ "last_run": "2026-08-29T06:20:15.983978+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
