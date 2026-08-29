@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "7eebfd8da0e29abb",
-  "oilpricesheadforaweeklylossdespiteescalatingirantensions",
   "19fd816d4f31b1c0",
   "cctvscript190626",
   "2ef549a63c464fa0",
@@ -603,7 +601,9 @@
   "99ab35ad9ad8c25b",
   "venezuelaweighsopecexitasusdiscussesoilfieldsstake",
   "8b0b9321f614fe9e",
-  "howtheiranwarunfoldedeveryattackandoilpricechangevisualisedu"
+  "howtheiranwarunfoldedeveryattackandoilpricechangevisualisedu",
+  "27b53ab270b9990d",
+  "howchinasxijinpingturnedoilfromaweaknessintoageopoliticalwea"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-29",
   "count": 45
  },
- "last_run": "2026-08-29T06:00:22.937536+03:00",
+ "last_run": "2026-08-29T06:05:13.446705+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
