@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "60f29d50942eee92",
-  "oilexportsfromthegulfrisetomorethan60oflevelbeforeiranwargol",
-  "16f6e2c792014fa3",
-  "futurescrudeoilchartdaily",
   "72fcb4ae60e994cf",
   "currentpriceofoilasofaugust202026",
   "dfe8f11ac55c7852",
@@ -603,7 +599,11 @@
   "ff5f355a23753dc7",
   "theiranwarhasturnedvlccsinto650000a",
   "b9e5ccf64b6451ea",
-  "trumpsnewoildealwithvenezuelaisinsaneusnowcontrols71ofproven"
+  "trumpsnewoildealwithvenezuelaisinsaneusnowcontrols71ofproven",
+  "7684eccd3d33f6b2",
+  "usoilrigcountfallsby5asgasrigsrise",
+  "f04e64ce4d405ddb",
+  "venezuelanoppositionupinarmsoverreportsuswantsbigstakeinoila"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T20:15:15.378238+03:00",
+ "last_run": "2026-08-29T20:20:18.321430+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
