@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "0ad75cb255b67b6a",
-  "ukrainedronessparkfireatrussianrefineryasfuelcrisisworsens",
   "81f22c1124aa1819",
   "organochlorideanalysisincrudeoilandnaphthausinggcxsdwithmicr",
   "6660f1bc684f6654",
@@ -603,7 +601,9 @@
   "c402637e07f3b5c1",
   "trumpfoundanunusualsolutiontohisvenezuelaproblem",
   "643a5bc76e03235c",
-  "venezuelahasconfirmedtheoilagreementwiththeuscovering17strat"
+  "venezuelahasconfirmedtheoilagreementwiththeuscovering17strat",
+  "5e881dd100fb0eb7",
+  "oil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T17:55:15.465562+03:00",
+ "last_run": "2026-08-29T18:00:23.675339+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
