@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "13e0dd9b3eb04223",
-  "highcrudeoilpricespushupnationalaverage",
   "1a8da0f8c3519f05",
   "usenergysecretaryvisitsmidlandtopromotepermianbasinoilandgas",
   "58df5a0e33c3b544",
@@ -603,7 +601,9 @@
   "df2797b97ecac9d4",
   "direstraitwhyeconomicthreatsmightescalatethewariniran",
   "74d16db5e2607982",
-  "ussecuresmajoritycontrolof65bbarrelsofvenezuelanoiltrump"
+  "ussecuresmajoritycontrolof65bbarrelsofvenezuelanoiltrump",
+  "27a0cfec9c923c0a",
+  "cpctoleavedomesticgasolinedieselpricesunchangednextweek"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T13:15:16.689762+03:00",
+ "last_run": "2026-08-29T13:20:18.093733+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
