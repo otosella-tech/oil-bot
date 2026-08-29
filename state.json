@@ -4,12 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "df0c36ea67496134",
-  "whythesegiantstoragetanksincreasinglyholdverylittleoil",
-  "b81ac22be2e9ddce",
-  "silverfuturesreboundnearly2asweakcrudeoilliftsbulliondemand",
-  "e5eb9ab657cf82b2",
-  "acertatoexpandliquidsrichalbertaproductionwithastaradeal",
   "5344613360b312c4",
   "currentpriceofoilasofaug282026",
   "66641bfb6f9685f9",
@@ -603,7 +597,13 @@
   "09f89009f49c097f",
   "gulfoilexportsrebounddespiteiranwar",
   "8c15f9938f60ea49",
-  "oilmarketreportaugust2026analysis"
+  "oilmarketreportaugust2026analysis",
+  "3ef7424f7e122c2e",
+  "how6monthsofwariniranjoltedoilgasstocksandmore",
+  "3e24b9066cf7aeb7",
+  "breakingnewspresidenttrumpsaidtheushadsecuredanagreementtota",
+  "5fa5c68045a476b5",
+  "crudeoilpricesfallnearly1tors7915perbarrelonmcx"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-08-29T09:00:23.632575+03:00",
+ "last_run": "2026-08-29T09:05:14.148920+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1736,6 +1736,10 @@
   {
    "d": "2026-08-29",
    "t": "Gulf Oil Exports Rebound Despite Iran War - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "How 6 Months of War in Iran Jolted Oil, Gas, Stocks and More - The New York Times"
   }
  ]
 }
