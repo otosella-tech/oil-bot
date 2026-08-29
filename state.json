@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "0ac34c5e0611502d",
-  "gaspricesclimbasaugustapproachesrecordhigh",
   "f2cc34de5f8176b9",
   "commentaryusenergydominancedescendsintodecadence",
   "ff5f355a23753dc7",
@@ -603,7 +601,9 @@
   "b53b1662ebe5e26a",
   "whatweknowabouttrumpsdealgivingusaccesstovastoilreservesinve",
   "afb8220c3cb6422d",
-  "trumpusvenezuelaagreetobiggestoildealinhistory"
+  "trumpusvenezuelaagreetobiggestoildealinhistory",
+  "cc168213ec05bf3c",
+  "americaselectricityboomisoutrunningitspowergrid"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T19:55:13.260142+03:00",
+ "last_run": "2026-08-29T20:00:23.164926+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
