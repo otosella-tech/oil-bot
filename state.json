@@ -4,12 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "91addbebf48ba8d1",
-  "oiledgeshigheronfadinghopesforstraitofhormuzsreopening",
-  "54b6ab5950b20e20",
-  "oilpricesedgelowerwithvenezuelasupplyreportshormuzdealinfocu",
-  "48e4f1a8da94d88d",
-  "crudeoilsettleshigherondiplomacydoubtstoendusiranwar",
   "4844bd8bdf4a620b",
   "usclearsstraitofhormuzas50000troopsmaintainblockadeofirancen",
   "50eb3339424a470d",
@@ -603,7 +597,13 @@
   "ec0001fae5634a65",
   "indiasrussiancrudeoilimportsdeclineinaugust2026newsandstatis",
   "d4d0d49f5f11a083",
-  "futurescrudeoilbrentchartdaily"
+  "futurescrudeoilbrentchartdaily",
+  "33e63273f8b2d01d",
+  "trumphailsbiggestoildealinworldhistorywithvenezuela",
+  "448611727b530f1a",
+  "crudeoilreboundsastrumpreportedlyrejectsreturntoiranceasefir",
+  "e1ee75f12acc23b2",
+  "oilsettlesloweroncluesaboutfedpolicyrumoursofhormuzdeal"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-08-29T03:40:13.902687+03:00",
+ "last_run": "2026-08-29T03:45:15.567296+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1673,6 +1673,14 @@
   {
    "d": "2026-08-29",
    "t": "Trump says US to take control of 65bn barrels of Venezuelan oil - Financial Times"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Crude oil rebounds as Trump reportedly rejects return to Iran ceasefire deal terms (USO:NYSEARCA) - Seeking Alpha"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Oil settles lower on clues about Fed policy, rumours of Hormuz deal - The Business Times"
   }
  ]
 }
