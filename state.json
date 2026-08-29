@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "b7a9e8bb5f9440a7",
-  "manufacturingoutputpricesover5percenthigherinjuly",
   "655a5842377dac5c",
   "crudeoilpricesextendlossesdespiteongoingusiranwartensionswha",
   "2ba55ea52419c558",
@@ -603,19 +601,21 @@
   "3379128ee8b6145e",
   "trumpsaysushasentereddealwithvenezuelatotakecontrolof65bbarr",
   "c0ab796796452df9",
-  "trumpannouncesbiggestoildealinworldhistorywithvenezuela"
+  "trumpannouncesbiggestoildealinworldhistorywithvenezuela",
+  "a3c756e2d05706a6",
+  "crudeoilpricesendwinningrunwithfirstweeklyfallinnearlyamonth"
  ],
  "releases_done": {},
- "last_digest": "2026-08-28",
+ "last_digest": "2026-08-29",
  "digest_prices": {
-  "WTI": 83.25,
-  "Brent": 88.35
+  "WTI": 83.4,
+  "Brent": 88.1
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 45
+  "count": 51
  },
- "last_run": "2026-08-29T07:55:13.930226+03:00",
+ "last_run": "2026-08-29T08:00:21.368693+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
