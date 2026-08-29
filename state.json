@@ -4,20 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "a878873f6bee5373",
-  "fileusseizessecondoiltanker",
-  "2cd2e482d9478829",
-  "japancrudeimportsrecoverinjulywithgreaterrelianceonusoil",
-  "c0cf1d4c4369551f",
-  "denveroilcompanymakes460millioninvestment",
-  "ea337c29c590611f",
-  "wticrudeoilpricetests79supportafterwedgebreakdown",
-  "25f922f28fb260ba",
-  "12mseized6arrestedinhistorictexasoiltheftringbust",
-  "56a86ae520dd4d3c",
-  "currentpriceofoilasofaugust262026",
-  "13455b59d8729ddc",
-  "crudeoilhowmarketstructurerevealsthenextmoveforfxusoilspotby",
   "f1ab2bf7e50b65c4",
   "enbridgetobuysaltcreekmidstreamspermianoilgatheringassets",
   "b2e3a075449c2a67",
@@ -603,7 +589,21 @@
   "ffd24848241b0263",
   "theimpactofrussiaukrainewaroncrudeoilpricesanemcframework",
   "f5a382778de95fc9",
-  "oilpricesandoutlook"
+  "oilpricesandoutlook",
+  "5e951f78ef0360d0",
+  "after6monthsofwarwhyarentoilpricesevenhigher",
+  "a6fe2ee0243fda86",
+  "japanplansnocrudeoilreleasefromnationalreserveinseptemberoct",
+  "7a39738524963b2c",
+  "wticrudeoilfuturesslipto85asmiddleeasttensionspersist",
+  "6744b59ea0d3e7f5",
+  "whenwillcrudeoilpricesstabilize",
+  "f227fc29fc586e54",
+  "usintalkswithvenezuelatotakemajorstakeinoilfields",
+  "43941c87ab60460c",
+  "scoopusclosetostrikingmassivedealforvenezuelanoilfields",
+  "1b342e22c168e88d",
+  "trumptodiscusshighfuelpriceswithoilrefinersnextweek"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 23
+  "count": 25
  },
- "last_run": "2026-08-29T03:10:15.740709+03:00",
+ "last_run": "2026-08-29T03:15:15.723762+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1649,6 +1649,10 @@
   {
    "d": "2026-08-29",
    "t": "Crude oil prices swing wildly as the Iran war stretches on - NPR"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "US in Talks With Venezuela to Take Major Stake in Oil Fields - Bloomberg.com"
   }
  ]
 }
