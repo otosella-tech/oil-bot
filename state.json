@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "53ad41a0e8581ad9",
-  "sixmonthsintotheiranwarmarketsbecomeaccustomedtostalematewit",
   "27907e46ba663a46",
   "usintalksforstakesin17venezuelanoilfields",
   "877c4727f2f41284",
@@ -603,7 +601,9 @@
   "bdadea2578a5ea96",
   "crudeoilpricessliponhopesstraitofhormuztoreopen",
   "3e98b384278c841e",
-  "currentpriceofoilasofaugust172026"
+  "currentpriceofoilasofaugust172026",
+  "b49b59e2ab27fcea",
+  "chevroncouldbebigwinnerifvenezuelapullsoutofopec"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T10:15:15.644675+03:00",
+ "last_run": "2026-08-29T10:20:17.715188+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1756,6 +1756,10 @@
   {
    "d": "2026-08-29",
    "t": "Crude Oil Prices Slip on Hopes Strait of Hormuz to Reopen - Barchart.com"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Chevron Could Be Big Winner If Venezuela Pulls Out of OPEC - 24/7 Wall St."
   }
  ]
 }
