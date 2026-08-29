@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "4844bd8bdf4a620b",
-  "usclearsstraitofhormuzas50000troopsmaintainblockadeofirancen",
   "50eb3339424a470d",
   "acertatoacquireastaraforc127mdoublingitsoiloutput",
   "1664b35608312533",
@@ -603,7 +601,9 @@
   "448611727b530f1a",
   "crudeoilreboundsastrumpreportedlyrejectsreturntoiranceasefir",
   "e1ee75f12acc23b2",
-  "oilsettlesloweroncluesaboutfedpolicyrumoursofhormuzdeal"
+  "oilsettlesloweroncluesaboutfedpolicyrumoursofhormuzdeal",
+  "442d07630001e82e",
+  "trumpsaysusreachesdealwithvenezuelatocontrol65billionbarrels"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-08-29T03:45:15.567296+03:00",
+ "last_run": "2026-08-29T03:50:14.229725+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1681,6 +1681,10 @@
   {
    "d": "2026-08-29",
    "t": "Oil settles lower on clues about Fed policy, rumours of Hormuz deal - The Business Times"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Trump says US reaches deal with Venezuela to control 65 billion barrels of country’s oil reserves - CNN"
   }
  ]
 }
