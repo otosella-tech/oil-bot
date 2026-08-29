@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "a0dad86460af2d4e",
-  "opecsfuturedarkenswithvenezuelalatestnationtomullexit",
-  "04d2ec7d449ded89",
-  "amazonnears1gwofwindpowerinswedenwithfournewdeals",
   "0260e82f7ae34753",
   "currentpriceofoilasofaugust242026",
   "f7e369580455cdbc",
@@ -603,7 +599,11 @@
   "13e0dd9b3eb04223",
   "highcrudeoilpricespushupnationalaverage",
   "46a3f926de93f2d7",
-  "trumpannouncesvenezuelaoildealasgaspricesstillhigh6monthsint"
+  "trumpannouncesvenezuelaoildealasgaspricesstillhigh6monthsint",
+  "91be4de9aea378c4",
+  "goldmansayshormuzoilflowsattwothirdsofprewarlevels",
+  "c3795b79b330d89e",
+  "iranreports75bninoilrevenuesamidusnavalblockade"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T14:00:22.659984+03:00",
+ "last_run": "2026-08-29T14:05:13.880623+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1792,6 +1792,10 @@
   {
    "d": "2026-08-29",
    "t": "Trump announces Venezuela oil deal, as gas prices still high 6 months into Iran war - The Times of Israel"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Goldman Says Hormuz Oil Flows at Two-Thirds of Pre-War Levels - Yahoo Finance"
   }
  ]
 }
