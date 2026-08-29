@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "134a840362e7a107",
-  "crudeoilpricesfallasusdiscussesbuyingstakesinvenezuelanoilfi",
   "7eebfd8da0e29abb",
   "oilpricesheadforaweeklylossdespiteescalatingirantensions",
   "19fd816d4f31b1c0",
@@ -603,7 +601,9 @@
   "885300f3e9ee2663",
   "trumpsaysushasdealforcontroloflargeshareofvenezuelasoil",
   "99ab35ad9ad8c25b",
-  "venezuelaweighsopecexitasusdiscussesoilfieldsstake"
+  "venezuelaweighsopecexitasusdiscussesoilfieldsstake",
+  "8b0b9321f614fe9e",
+  "howtheiranwarunfoldedeveryattackandoilpricechangevisualisedu"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-08-29T05:50:26.507368+03:00",
+ "last_run": "2026-08-29T05:55:14.138528+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1705,6 +1705,10 @@
   {
    "d": "2026-08-29",
    "t": "Venezuela Weighs OPEC Exit as US Discusses Oil Fields Stake - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "How the Iran war unfolded: every attack and oil price change – visualised | US-Israel war on Iran - The Guardian"
   }
  ]
 }
