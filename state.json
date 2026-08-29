@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "5a2ab0d9bc5fd213",
-  "usentersintooilagreementwithvenezuelatrumpsays",
   "6f6c0195d0ae9158",
   "trumpsaysushasentereddealwithvenezuelatotakecontrolof65billi",
   "a57fd4a08dab7735",
@@ -603,7 +601,9 @@
   "895f4eab79318656",
   "oilsettlesloweroncluesaboutfedpolicyrumorsofhormuzdeal",
   "c47f48eee47e42ac",
-  "tankercarolinebezengiintactandstillleakingcrudeoil"
+  "tankercarolinebezengiintactandstillleakingcrudeoil",
+  "d64d91f1fc259006",
+  "wticrudeoilfuturesdroppedasmarketshruggedoffnewiransanctions"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-30",
-  "count": 11
+  "count": 12
  },
- "last_run": "2026-08-30T02:10:16.161346+03:00",
+ "last_run": "2026-08-30T02:15:15.558830+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
