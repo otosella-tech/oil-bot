@@ -4,12 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "fe966a4df5c05434",
-  "currentpriceofoilasofaugust212026",
-  "4acaa37dc011ab37",
-  "usnearsdealtosecurelongtermaccesstovenezuelasoilreservessour",
-  "b8c8708c4fb3264b",
-  "straitofhormuzoilflowsarerising",
   "507b43ecbdefcb6a",
   "eastafricasoilrivalryspursmultibillion",
   "60c2fdc7e179834e",
@@ -603,7 +597,13 @@
   "56a86ae520dd4d3c",
   "currentpriceofoilasofaugust262026",
   "4d6fadde8d21269c",
-  "usseeksvastpotentiallycostlystakeinvenezuelanoilindustry"
+  "usseeksvastpotentiallycostlystakeinvenezuelanoilindustry",
+  "528c87589682bfa9",
+  "ustotakecontrolofmuchofvenezuelasprovenoilreserves",
+  "695ea5324517bb26",
+  "trumpsaysuswillcontrol65billionbarrelsofvenezuelanoil",
+  "16c04268d8929c47",
+  "trumpsaysvenezueladealgivesuscontrolof65billionbarrelsofoil"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 25
+  "count": 27
  },
- "last_run": "2026-08-29T03:20:15.012053+03:00",
+ "last_run": "2026-08-29T03:25:12.030737+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1653,6 +1653,10 @@
   {
    "d": "2026-08-29",
    "t": "US in Talks With Venezuela to Take Major Stake in Oil Fields - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "U.S. to Take Control of Much of Venezuela’s Proven Oil Reserves - WSJ"
   }
  ]
 }
