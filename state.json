@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "ac3e0b0beea62009",
-  "gaspricesremainelevatedasaugustapproachesrecordhighs",
   "8298b38245d3d71a",
   "whathasbeenhitinukrainesattacksonrussianenergysites",
   "1682016727a3acae",
@@ -603,7 +601,9 @@
   "ef024c9063a1e499",
   "oilpricesriseto9055abarrelasgeopoliticaltensionspersist",
   "6f5bf33c59eb3c65",
-  "usentersagreementwithvenezuelatotakecontrolof65billionbarrel"
+  "usentersagreementwithvenezuelatotakecontrolof65billionbarrel",
+  "f9b1f70ac37f556d",
+  "trumpannouncesdealgivingusmajoritystakeinmassivevenezuelanoi"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-29",
   "count": 37
  },
- "last_run": "2026-08-29T04:15:16.648044+03:00",
+ "last_run": "2026-08-29T04:20:15.270690+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
