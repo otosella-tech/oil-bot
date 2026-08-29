@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "2850568dd4df1f34",
-  "russiasenergycrisisputskazakhstaninatoughspot",
   "86b3a79044e46389",
   "usenergyfirmsleaverigcountunchangedinlatestweekbakerhughessa",
   "9c0f1f04f0c82c0c",
@@ -603,7 +601,9 @@
   "60f29d50942eee92",
   "oilexportsfromthegulfrisetomorethan60oflevelbeforeiranwargol",
   "72fcb4ae60e994cf",
-  "currentpriceofoilasofaugust202026"
+  "currentpriceofoilasofaugust202026",
+  "524627bef6c468d6",
+  "whyisntthepriceofoilevenhigher"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T20:35:12.894558+03:00",
+ "last_run": "2026-08-29T20:40:15.390688+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
