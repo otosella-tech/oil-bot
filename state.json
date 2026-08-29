@@ -4,12 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "ccf1f12c9411928a",
-  "cctvscript250626",
-  "35ceca70f2b34272",
-  "dailybriefenergymaterialsgeoenergyresourcescrudeoilmineraala",
-  "0ae6f301aca21a5d",
-  "oilpricetodayaugust28crudeoilfallsover5thisweekdespitetrumpr",
   "5b49a7e964245a62",
   "dieselpricenearsrecordhighhelpingoilcompaniesandhurtingconsu",
   "bd649681cbfabc2c",
@@ -603,7 +597,13 @@
   "8babefa9c34027df",
   "usandvenezuelareachhistoricoildealtrumpsays",
   "1682016727a3acae",
-  "usnearsdealtosecurestakeinvenezuelanoilfieldsinsiderssay"
+  "usnearsdealtosecurestakeinvenezuelanoilfieldsinsiderssay",
+  "48500ba9a142e156",
+  "dollarstrengthandincreasedmiddleeastoilflowsweighoncrudepric",
+  "d8949f052aabb345",
+  "trumpannounceshistoricusvenezuelaoildealthathesayswilllowerg",
+  "659295b021203dcd",
+  "trumpsaysustotakecontrolof65billionbarrelsofvenezuelaoilrese"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-29",
   "count": 41
  },
- "last_run": "2026-08-29T04:30:20.374813+03:00",
+ "last_run": "2026-08-29T04:35:11.751651+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
