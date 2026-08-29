@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "27907e46ba663a46",
-  "usintalksforstakesin17venezuelanoilfields",
   "877c4727f2f41284",
   "pakistansfiverefineriessetfor6billionupgradepush",
   "0778691ca5986ee1",
@@ -603,7 +601,9 @@
   "3e98b384278c841e",
   "currentpriceofoilasofaugust172026",
   "b49b59e2ab27fcea",
-  "chevroncouldbebigwinnerifvenezuelapullsoutofopec"
+  "chevroncouldbebigwinnerifvenezuelapullsoutofopec",
+  "6e2edc4e8de3e38a",
+  "hormuzoilflowsrisingasgulfgiantsrampupaccelerates"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T10:50:16.141038+03:00",
+ "last_run": "2026-08-29T10:55:15.450101+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1760,6 +1760,10 @@
   {
    "d": "2026-08-29",
    "t": "Chevron Could Be Big Winner If Venezuela Pulls Out of OPEC - 24/7 Wall St."
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Hormuz Oil Flows Rising as Gulf Giants’ Ramp Up Accelerates - Yahoo Finance"
   }
  ]
 }
