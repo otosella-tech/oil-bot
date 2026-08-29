@@ -4,14 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "fa4b168d4f2eedb6",
-  "iraqtodeliveroilbeyondhormuz",
-  "a0f8b94f7d03b543",
-  "usoucobnooiletfssoarin2026butistheenergytradenowtoocrowded",
-  "004bb5062c409473",
-  "howtheiranwarunfoldedeveryattackandoilpricechangevisualised",
-  "80be648a8d866832",
-  "oilfuturescrudeextendslossesasdiplomaticstalematecontinues",
   "7ffdefb92f6e121c",
   "uscrudeoilinventoriesseemodestweeklybuild",
   "8fab898d57bc98fe",
@@ -603,7 +595,15 @@
   "e75b3bceb2716820",
   "yoursaturdayaug29guidefivethingstodointheoilcity",
   "7bf39667d208b7cb",
-  "chevroncvxnearsmajorvenezuelaoildealisanewgrowthengineemergi"
+  "chevroncvxnearsmajorvenezuelaoildealisanewgrowthengineemergi",
+  "b27cd8484a42cdc3",
+  "hormuztankertrafficdropsdespiterecoveryinoilflows",
+  "766e7123c1636142",
+  "trumphailshistoricdealforustocontrol65bnbarrelsofvenezuelaso",
+  "e0da0c87f629b300",
+  "uscrudeoilandnaturalgasprovedreservesyearend2024",
+  "9d9bdf7ccf947f48",
+  "theuswantstoremakevenezuelasoilindustryhistorystandsintheway"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-08-29T08:25:13.976683+03:00",
+ "last_run": "2026-08-29T08:30:18.086239+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1708,6 +1708,18 @@
   {
    "d": "2026-08-29",
    "t": "Chevron (CVX) Nears Major Venezuela Oil Deal: Is a New Growth Engine Emerging? - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Hormuz Tanker Traffic Drops Despite Recovery in Oil Flows - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil - BBC"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "The US wants to remake Venezuela’s oil industry. History stands in the way - AP News"
   }
  ]
 }
