@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "1664b35608312533",
-  "oilontrackforweeklylossevenasirantensionssimmerbyreuters",
   "2316eef91e79ee68",
   "crudeoiltradingalertafterareboundoilpriceshaveretreatedagain",
   "1e978dc5c9364395",
@@ -603,7 +601,9 @@
   "442d07630001e82e",
   "trumpsaysusreachesdealwithvenezuelatocontrol65billionbarrels",
   "a4f3bf6d2d385375",
-  "trumpsaysusnowhasmajoritycontrolofover60billionbarrelsofvene"
+  "trumpsaysusnowhasmajoritycontrolofover60billionbarrelsofvene",
+  "ddc32ebd13d588c9",
+  "trumpsaysushasagreedtodealwithvenezuelatotakecontrolof65bill"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-08-29",
   "count": 37
  },
- "last_run": "2026-08-29T04:00:26.373396+03:00",
+ "last_run": "2026-08-29T04:05:12.548807+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
