@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "a1cd98d862f4b466",
-  "saudioilsalesignalsmorehormuzexits",
   "fa3e4a8ba4f759eb",
   "oilpricesslipwithvenezuelasupplyreportshormuzdealinfocus",
   "4d70da5a492916f5",
@@ -603,7 +601,9 @@
   "d986321c3f8c08aa",
   "nigeriaseeksinvestmentinoilandgassectoratchinaenergyexhibiti",
   "007e65302e3b116f",
-  "globaloilpricesdropasvenezuelaplanstoexitopec"
+  "globaloilpricesdropasvenezuelaplanstoexitopec",
+  "39bb7a7517c54c33",
+  "trumpdismissesnatoattackfearsafterciachiefsmoscowtrip"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T15:15:16.122710+03:00",
+ "last_run": "2026-08-29T15:20:14.851420+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1800,6 +1800,10 @@
   {
    "d": "2026-08-29",
    "t": "Global oil prices drop as Venezuela plans to exit OPEC - Daily Post Nigeria"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Trump Dismisses NATO Attack Fears After CIA Chief’s Moscow Trip"
   }
  ]
 }
