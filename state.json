@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "593cfe5aa0513501",
-  "oilpricesfallonstraitofhormuzbypasstactics",
   "f41b31ba3d48639a",
   "kenyapipelineunitinks25yrcrudestoragedeal",
   "377ac498d00cca3f",
@@ -603,7 +601,9 @@
   "ed7fb04402f1e69a",
   "trumpsvenezuelanoildealwhatweknowandhowitcouldimpactcanadaso",
   "7335af6057fac622",
-  "sprcrudeoilacquisitionprocedures"
+  "sprcrudeoilacquisitionprocedures",
+  "797f2041de6d199e",
+  "anewformofuscolonialismvenezuelansbristleatusoiltakeover"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-30",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-08-30T01:00:23.415569+03:00",
+ "last_run": "2026-08-30T01:05:12.352538+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
@@ -1532,6 +1532,10 @@
   {
    "d": "2026-08-30",
    "t": "Europe’s Russia Sanctions Have a Major Blind Spot"
+  },
+  {
+   "d": "2026-08-30",
+   "t": "‘A New Form of U.S. Colonialism’: Venezuelans Bristle at U.S. Oil Takeover - The New York Times"
   }
  ]
 }
