@@ -4,12 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "b2f756cc8802e993",
-  "venezuelaweighsopecexitafterdecadesasitdeepensusties",
-  "1fe4286d7b3b5585",
-  "hormuzoilflowsrisingasgulfgiantsrampupgatherspace",
-  "8b49b427b04bcee1",
-  "twokilledinoiltankerfireoffsouthkoreayonhapreports",
   "448611727b530f1a",
   "crudeoilreboundsastrumpreportedlyrejectsreturntoiranceasefir",
   "4aae456bf64a36e5",
@@ -603,7 +597,13 @@
   "6326609bd5b671f9",
   "dojturnstoancientbodyoflawtocaptureiranianoiltankerswedhavet",
   "fe966a4df5c05434",
-  "currentpriceofoilasofaugust212026"
+  "currentpriceofoilasofaugust212026",
+  "82bf10f3e03454a9",
+  "trumpsaysusistakingpartialcontrolofvenezuelasvastoilreserves",
+  "7064be84f6faa1fb",
+  "usnearsdealtosecurelongtermaccesstovenezuelasoilreservessour",
+  "77406558fedde5ce",
+  "trumpannouncesmegaoildealwithvenezuelaustotakecontrolof65bnb"
  ],
  "releases_done": {
   "2026-08-28|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-08-29",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-08-29T03:30:18.941204+03:00",
+ "last_run": "2026-08-29T03:35:12.306861+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1661,6 +1661,14 @@
   {
    "d": "2026-08-29",
    "t": "DOJ turns to ancient body of law to capture Iranian oil tankers — 'we’d have to conduct a séance' - Fortune"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Trump says US is taking partial control of Venezuela's vast oil reserves - Reuters"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "US nears deal to secure long-term access to Venezuela's oil reserves, sources say - Reuters"
   }
  ]
 }
