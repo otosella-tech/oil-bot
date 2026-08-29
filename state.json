@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "27acd1dc071dacc3",
-  "oilpricesfallafteriranstepsuptruceeffortsussayshormuzminescl",
   "0ad75cb255b67b6a",
   "ukrainedronessparkfireatrussianrefineryasfuelcrisisworsens",
   "81f22c1124aa1819",
@@ -603,7 +601,9 @@
   "6f84b6392fffb9aa",
   "chinasimportsofiranianoillargelyuntouchedbyussiegereport",
   "c402637e07f3b5c1",
-  "trumpfoundanunusualsolutiontohisvenezuelaproblem"
+  "trumpfoundanunusualsolutiontohisvenezuelaproblem",
+  "643a5bc76e03235c",
+  "venezuelahasconfirmedtheoilagreementwiththeuscovering17strat"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T17:35:13.398940+03:00",
+ "last_run": "2026-08-29T17:40:15.040162+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
