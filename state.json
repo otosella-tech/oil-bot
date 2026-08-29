@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "a5fa55ff80b64d9c",
-  "oilpostsweeklylossashormuzoptimismandfedconcernspressurepric",
-  "b1b17bbaaf95e79f",
-  "oilpricesfallfortheweekonusirantalksstalemate",
   "72907a4404da5380",
   "chevronisintalkstoexpandinvenezuelaapotentialwinfortrump",
   "e363d3fc65a81787",
@@ -603,7 +599,11 @@
   "4059c9faf2408003",
   "theiranwarhasturnedvlccsinto650000adayassets",
   "e7e0aaa6dcc666a1",
-  "trumpannouncesdealforuscontrolofoilinvenezuela"
+  "trumpannouncesdealforuscontrolofoilinvenezuela",
+  "7f80c2f9fabc8ae9",
+  "whatsbehindtheusdealtoseizecontrolofvenezuelanoilreserves",
+  "51c9b2b4a54df088",
+  "presidentdonaldtrumpsayshisadministrationhasenteredasweeping"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-30",
-  "count": 6
+  "count": 7
  },
- "last_run": "2026-08-30T01:40:17.601542+03:00",
+ "last_run": "2026-08-30T01:45:18.087614+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
