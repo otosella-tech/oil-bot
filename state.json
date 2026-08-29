@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "865868c9d6918b73",
-  "every1increaseinoilpricesaddspressuretoustreasuriesthestrait",
-  "ad37b7f4b3fb912f",
-  "seatriumpetrobraseyepotentialnaturalgascollaborationtomeetgr",
   "13e0dd9b3eb04223",
   "highcrudeoilpricespushupnationalaverage",
   "1a8da0f8c3519f05",
@@ -603,7 +599,11 @@
   "bdd31ed85e9a569f",
   "trumpannouncesustakeoverofvenezuelanoil",
   "d9661755c6c7839e",
-  "afteruscapturespresidenttrumplandsworldsbiggestoildealwith65"
+  "afteruscapturespresidenttrumplandsworldsbiggestoildealwith65",
+  "df2797b97ecac9d4",
+  "direstraitwhyeconomicthreatsmightescalatethewariniran",
+  "74d16db5e2607982",
+  "ussecuresmajoritycontrolof65bbarrelsofvenezuelanoiltrump"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T13:10:16.717355+03:00",
+ "last_run": "2026-08-29T13:15:16.689762+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1784,6 +1784,10 @@
   {
    "d": "2026-08-29",
    "t": "Oil Selloff Outruns Reality in Hormuz"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Dire Strait: Why Economic Threats Might Escalate the War in Iran - Time Magazine"
   }
  ]
 }
