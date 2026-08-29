@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "031b8e129ef920d7",
-  "oilfuturescrudedriftslowerasdiplomaticstalematecontinues",
   "727cd23b9d453d64",
   "gulfoiltankersnear650000adayasiranwardisruptsflows",
   "6dc4afbe042d1151",
@@ -603,7 +601,9 @@
   "d1359b89077aafec",
   "scientiststurnoneofthehardestplasticstorecycleintohighperfor",
   "d9ea9e696fd44d1b",
-  "howtomanipulatetheoilmarketforprofit"
+  "howtomanipulatetheoilmarketforprofit",
+  "c48fbade9bb5feac",
+  "oilshrugsofftrumpstoughestsanctionsinhistory"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T18:35:12.590427+03:00",
+ "last_run": "2026-08-29T18:40:15.711107+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1824,6 +1824,10 @@
   {
    "d": "2026-08-29",
    "t": "Oil falls on Fed signals, prospects for restoring Hormuz shipping - سانا"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Oil Shrugs Off Trump’s ‘Toughest Sanctions in History’"
   }
  ]
 }
