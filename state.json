@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "dabd93ddbdc629f4",
-  "yourfridayaug28guidefivethingstodointheoilcity",
   "13be10ffdbd923cb",
   "forecastupdateforcrudeoil28082026",
   "f4daff7f94c513c2",
@@ -603,7 +601,9 @@
   "b3a7c458065d22dc",
   "hormuzshippingremainssubdueddespiteapparentreopening",
   "371f170350ab9edc",
-  "theiranwarhashandedrussiaastrategicopeningineurope"
+  "theiranwarhashandedrussiaastrategicopeningineurope",
+  "cde382743aaf29d7",
+  "oilselloffoutrunsrealityinhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T12:00:26.646656+03:00",
+ "last_run": "2026-08-29T12:05:14.347900+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1780,6 +1780,10 @@
   {
    "d": "2026-08-29",
    "t": "The Iran War Has Handed Russia a Strategic Opening in Europe"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Oil Selloff Outruns Reality in Hormuz"
   }
  ]
 }
