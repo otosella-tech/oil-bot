@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "3640fe33f9f15b55",
-  "usextendssanctionswaiverforserbiasrussianownednisoilfirm",
-  "20628bd98e7909ea",
-  "octoberwticrudeoilcontractclosesdown013or02settlesat8340perb",
   "b0d756c79771b284",
   "thesetankscanhold90millionbarrelsofoiltheyhavejust22million",
   "24567a9ee875c08e",
@@ -603,7 +599,11 @@
   "9f38f2a418237a5a",
   "canadianactivityedgesupdespitemarketvolatility",
   "dc3ebafadc7bc716",
-  "venezuelahelpedbuildopecnowitmayhelpbreakitapart"
+  "venezuelahelpedbuildopecnowitmayhelpbreakitapart",
+  "dfa605d893f315b3",
+  "mexicosgreenenergypushisfinallygainingmomentum",
+  "910145e2cf20612c",
+  "petrolpricerises9ton1310litredespitefallingcrudeoilpricesrep"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T21:55:14.921862+03:00",
+ "last_run": "2026-08-29T22:00:22.519607+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
