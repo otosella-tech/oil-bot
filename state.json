@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "d6558c79123d00e2",
-  "petrobrasconsidersexportinglng",
   "6cf7c7a51eb696fa",
   "crudeoilpostsweeklyloss",
   "bf4756cafb86b0f2",
@@ -603,7 +601,9 @@
   "488bcafc2666be78",
   "trumpsoilandgasstocktradescontinuedduringiranwarfilingsshow",
   "d36a45ed58cb7828",
-  "expansionthevenezuelanoppositionreceivestheoilpactwiththeusw"
+  "expansionthevenezuelanoppositionreceivestheoilpactwiththeusw",
+  "8fe85265b1d0b22b",
+  "europesrussiasanctionshaveamajorblindspot"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -612,351 +612,11 @@
   "Brent": 88.1
  },
  "llm": {
-  "date": "2026-08-29",
-  "count": 60
+  "date": "2026-08-30",
+  "count": 2
  },
- "last_run": "2026-08-30T00:00:21.409816+03:00",
+ "last_run": "2026-08-30T00:05:12.164890+03:00",
  "sent_stories": [
-  {
-   "d": "2026-08-26",
-   "t": "Israeli Arms, Iranian Drones and Turkish Oil: Azerbaijan’s High-Stakes Balancing Act - The Media Line"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "The U.S. Power Play in Iraq That Moscow and Beijing Didn’t See Coming"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "China Defies U.S. Economic D-Day against Iran - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil - The New York Times"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz By Reuters - Investing.com"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil prices extend losses after Iran resumes Hormuz talks with Oman - Investing.com"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy - The New York Times"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "WTI Crude Oil futures dropped as market shrugged off new Iran sanctions. - CME Group"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Today’s Strait of Hormuz Mystery: Where Did the Oil Go? - The New Republic"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Asia energy stocks slide as oil tumbles on Iran-Oman Hormuz talks - Investing.com"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Crude Oil Trading Alert: Progress in establishing a temporary shipping lane in the Strait of Hormuz has eased supply risk expectations, driving a sharp decline in oil prices. - Moomoo"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran - CNBC"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Commodity Corner: Crude oil falls 2% on Strait of Hormuz hopes; gold steady ahead of US inflation data - TradingView"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil prices slide over 2% following report of U.S.-Iran ceasefire - Investing.com"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil falls as the U.S. pivots to economic pressure on Iran - CNBC"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Crude oil price: Futures fall as Iran, Oman discuss maritime corridor in Strait of Hormuz - BusinessLine"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Some oil companies to avoid ships on Iran blacklist, sources say - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "US Has 'no Immediate Plans' For New Strikes On Iran - Report - i24NEWS"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Drones attack oil refinery in Russia's Kstovo, sparking fire – photos, video - Українська правда"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Asian stocks gain before Nvidia, oil slips on Hormuz hopes - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Crude oil price drop as Iran-Oman talks raise Hormuz hopes - BusinessLine"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "What the Hormuz crisis has cost fossil fuel importers — March to August 2026 - Centre for Research on Energy and Clean Air"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "As Nigeria's Dangote refinery nears record IPO, investors focus on oil supply costs - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil prices fall US$2 on Iran-Oman talks to reopen Strait of Hormuz - The Standard (HK)"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Drones attack Wildberries logistics hub, one of Russia's largest oil refineries – media - Ukrinform"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil futures: Crude extends losses as Iran, Oman flag Hormuz plan - Quantum Commodity Intelligence"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "QatarEnergy offers crude oil for loading within the Strait of Hormuz - Inspenet"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Iran’s Tanker Blacklist Raises New Risks for Gulf Oil"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Brent slips 2% as Hormuz supply fears ease, Fed hike bets persist - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "The Commodities Feed: Oil falls as Strait of Hormuz talks advance - ING Think"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "China is the biggest buyer of Iran’s oil. Could US sanctions threaten those ties? - The Guardian"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil prices fall on Hormuz deal hopes, U.S. pivots to economic pressure on Iran - CNBC"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "World stocks gain as oil slips on Hormuz hopes ahead of Nvidia results - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Iran-Oman Talks on Hormuz Reopening Drive Down Oil Prices - Marine News Magazine"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Global energy stocks in the red as oil tumbles on Iran-Oman Hormuz talks - Investing.com"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Soaring Diesel Prices Are Helping Oil Companies and Hurting Consumers - The New York Times"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Under Threat, Saudi Arabia Reroutes Oil Exports Yet Again - The New York Times"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil Falls on Signs of Potential Hormuz Reopening - WSJ"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Energy stocks slide as oil falls on Iran-Oman Hormuz talks - Yahoo Finance UK"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Hormuz Traffic Remains Depressed as Iran and Oman Weigh Temporary Corridor"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil Prices Fall as Oman-Iran Talks Raise Hopes for Hormuz Reopening - WSJ"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Six months into Iran war, almost half of global oil flows from war zones - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil prices extend slide as Iran and Oman eye temporary Hormuz deal - MarketWatch"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil drops to more than two-week low on Iran-Oman talks to reopen Strait of Hormuz - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Iran and Oman Report Progress in Talks on Strait of Hormuz - The New York Times"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "U.S. crude hovers around $80 as oil prices sink on Hormuz deal hopes - CNBC"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "China’s CNOOC rakes in record first-half profit on high oil prices amid Iran war - South China Morning Post"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Perm Oil Refinery Lost Over 80% of Primary Refining Capacity Following Strikes - Satellite Imagery - Мілітарний"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "World stocks inch up as oil drops on Hormuz hopes ahead of data, Nvidia results - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May - CNBC"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "India’s Russian Oil Imports Slide From Record High as Supply Tightens"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "The Dollar Shrugged Off Iran Sanctions and Oil Fell 3% - FOREX.com"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Japan to diversify crude supplies, back pipelines that bypass Hormuz - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "UK Energy Bills to Hit Three-Year High as Gas Prices Surge"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Iran, Oman agree on temporary Hormuz route: What we know - Al Jazeera"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "CIA Director’s Surprise Moscow Trip Raises Questions Over Iran and Ukraine"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil Prices Dip on News of Progress in Hormuz Talks - The New York Times"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil falls as investors focus on Hormuz talks - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Gold, Flights, Cryptocurrency: U.S. Vows to Go After More Than Iran’s Oil - The New York Times"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "General Staff confirms strike on Lukoil oil refinery in Russia’s Nizhny Novgorod region - Ukrinform"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "India’s ONGC Targets Tenfold Oil Output Boost in Venezuela"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil prices tumble amid renewed optimism over the Strait of Hormuz - NBC News"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil slips as investors focus on Hormuz talks - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Crude Oil Prices Slightly Lower on the Push to Reopen Strait of Hormuz - Barchart.com"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil slumps following Trump’s big Hormuz claim - engine.online"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil rises as investors weigh Hormuz talks - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Crude Oil finds the tollbooth inside the Hormuz corridor - FXStreet"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Global oil traffic shifts toward the US amid Iran war disruptions - The Hill"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "U.S. Says Oil Is Pouring Through Hormuz. Trackers Can’t Find It. - WSJ"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil News: Crude Oil Traders Eye Hormuz Traffic as Supply Risk Builds - FXEmpire"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil Drops as Tankers Begin Moving More Gulf Crude"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Azerbaijan is balancing Israeli arms, Iranian drones and Turkish oil - The Jerusalem Post"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil prices turn positive after Iran says deal reached with Oman to share revenue from Hormuz - CNBC"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Crude Oil Prices Slip on Hopes Strait of Hormuz to Reopen - Barchart.com"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil settles down after choppy session as investors weigh Hormuz talks - Reuters"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Aramco Finds a New Way to Keep Saudi Crude Flowing to China"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil prices little changed after Iran says deal reached with Oman to share revenue from Hormuz - CNBC"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Israeli arms, Iranian drones, Turkish oil: Azerbaijan’s high-stakes balancing act - The Jerusalem Post"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil Prices Slide on Growing Hopes for Strait of Hormuz Reopening - EnergyNow.com"
-  },
-  {
-   "d": "2026-08-26",
-   "t": "Oil Prices Fall as Iran Negotiation Hopes Return - Crude Oil Prices Today | OilPrice.com"
-  },
   {
    "d": "2026-08-27",
    "t": "Octopus Boss Warns UK Is Too Exposed to Global Gas Prices"
@@ -1868,6 +1528,10 @@
   {
    "d": "2026-08-29",
    "t": "Venezuela Helped Build OPEC. Now It May Help Break It Apart"
+  },
+  {
+   "d": "2026-08-30",
+   "t": "Europe’s Russia Sanctions Have a Major Blind Spot"
   }
  ]
 }
