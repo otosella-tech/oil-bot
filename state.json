@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "faa824bc6d8eca4f",
-  "higheroilcostscouldcutaidto15mchildrensavethechildrenwarns",
-  "b49b59e2ab27fcea",
-  "chevroncouldbebigwinnerifvenezuelapullsoutofopec",
   "53ad41a0e8581ad9",
   "sixmonthsintotheiranwarmarketsbecomeaccustomedtostalematewit",
   "27907e46ba663a46",
@@ -603,7 +599,11 @@
   "05bd6393f7a351f5",
   "trumpclaimsushascontrolofmajorityofvenezuelas65billionbarrel",
   "6d67ddba20b51d3c",
-  "usgetsmajoritycontrolof65billionbarrelsofvenezuelanoil"
+  "usgetsmajoritycontrolof65billionbarrelsofvenezuelanoil",
+  "bdadea2578a5ea96",
+  "crudeoilpricessliponhopesstraitofhormuztoreopen",
+  "3e98b384278c841e",
+  "currentpriceofoilasofaugust172026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-29",
@@ -615,7 +615,7 @@
   "date": "2026-08-29",
   "count": 60
  },
- "last_run": "2026-08-29T10:10:14.503945+03:00",
+ "last_run": "2026-08-29T10:15:15.644675+03:00",
  "sent_stories": [
   {
    "d": "2026-08-26",
@@ -1752,6 +1752,10 @@
   {
    "d": "2026-08-29",
    "t": "Trump Administration Updates: U.S. Reaches Deal for Control of 65 Billion Barrels of Venezuela’s Oil Reserves - The New York Times"
+  },
+  {
+   "d": "2026-08-29",
+   "t": "Crude Oil Prices Slip on Hopes Strait of Hormuz to Reopen - Barchart.com"
   }
  ]
 }
