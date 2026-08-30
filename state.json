@@ -1,15 +1,9 @@
 {
  "price_base": {
-  "WTI": 83.56,
-  "Brent": 87.77
+  "WTI": 85.28,
+  "Brent": 90.12
  },
  "seen": [
-  "3379128ee8b6145e",
-  "trumpsaysushasentereddealwithvenezuelatotakecontrolof65bbarr",
-  "c0ab796796452df9",
-  "trumpannouncesbiggestoildealinworldhistorywithvenezuela",
-  "a3c756e2d05706a6",
-  "crudeoilpricesendwinningrunwithfirstweeklyfallinnearlyamonth",
   "e75b3bceb2716820",
   "yoursaturdayaug29guidefivethingstodointheoilcity",
   "7bf39667d208b7cb",
@@ -603,7 +597,13 @@
   "c2cfedf6a6735a17",
   "presidenttrumpannouncedwhathecalledthebiggestoildealinworldh",
   "60ad3448ded1557e",
-  "venezuelaoildealtrumpsecurescontrolof65billionbarrelsofoilre"
+  "venezuelaoildealtrumpsecurescontrolof65billionbarrelsofoilre",
+  "b3c742055eb1aabd",
+  "trumpvenezuelanoiltorestockusreserves",
+  "5d331d1d75a6a9a7",
+  "trumpsvenezuelaoilgrabreprisesindustrysneocolonialpast",
+  "9deb08720cbcf869",
+  "crudeoilpricesclimbabove90testingresistanceasgulfshippingris"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 1
+  "count": 3
  },
- "last_run": "2026-08-31T01:15:15.896768+03:00",
+ "last_run": "2026-08-31T01:20:18.255153+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1464,6 +1464,10 @@
   {
    "d": "2026-08-30",
    "t": "Trump says Venezuelan oil will be used to refill U.S. Strategic Petroleum Reserve - World Oil"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Trump’s Venezuela Oil Grab Reprises Industry’s Neocolonial Past - Bloomberg.com"
   }
  ]
 }
