@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "3209b699e5f0bb5e",
-  "asiasaugustcrudeoilimportsstablenoreboundtoprewarlevelsnewsa",
   "48181789d595c7ea",
   "apicrudeoilinventoriesrise42mbarrelsexceedingexpectationsnew",
   "9edb8021bd824af1",
@@ -603,7 +601,9 @@
   "eebb0fa09434b210",
   "trumpsaysvenezuelanoilwillrefilltheussstrategicreservesreali",
   "d8949f052aabb345",
-  "trumpannounceshistoricusvenezuelaoildealthathesayswilllowerg"
+  "trumpannounceshistoricusvenezuelaoildealthathesayswilllowerg",
+  "b36b1c617ce25527",
+  "trumpplanstorefillusemergencyoilreservewithvenezuelancrudeus"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -615,7 +615,7 @@
   "date": "2026-08-30",
   "count": 60
  },
- "last_run": "2026-08-30T21:05:13.487734+03:00",
+ "last_run": "2026-08-30T21:10:18.706128+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
