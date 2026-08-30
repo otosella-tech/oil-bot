@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "99d79f39938af391",
-  "crudeoilpricesfellin2025amidoversupply",
   "6f48aa551d20ef32",
   "eiaforecastsloweroilpricesin2026and2027duetopersistentstockb",
   "686cdb5ce48c3ea6",
@@ -603,7 +601,9 @@
   "9059cf4bcab4370c",
   "after6monthsofiranwarmarketsdefyworstfears",
   "391168cbed5acf9a",
-  "uscouldgain35passivestakeinvenezuelanoilcompanythroughwarran"
+  "uscouldgain35passivestakeinvenezuelanoilcompanythroughwarran",
+  "35d832d7df99eb3a",
+  "mappingiranwarsstrikesongulfenergyanditsimpactonfutureofoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-30",
-  "count": 51
+  "count": 53
  },
- "last_run": "2026-08-30T14:05:13.223696+03:00",
+ "last_run": "2026-08-30T14:10:14.353441+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
@@ -1620,6 +1620,10 @@
   {
    "d": "2026-08-30",
    "t": "After 6 Months of Iran War, Markets Defy Worst Fears - The New York Times"
+  },
+  {
+   "d": "2026-08-30",
+   "t": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil - Al Jazeera"
   }
  ]
 }
