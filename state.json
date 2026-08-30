@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "ac2ea4d54522325b",
-  "oilpriceswaverasgulfshiptrafficfallstolowestlevelinmonths",
   "5d977e275af5f624",
   "usnetimportsofcrudeoilandpetroleumproductsthousandbarrelsper",
   "8ecee94ef6aa8560",
@@ -603,7 +601,9 @@
   "5d42ef9c1cd576ab",
   "theoilisoursfuroregrowsasvenezueladefendsdealwithtrump",
   "44ecf70aae4878f1",
-  "venezuelasinterimpresidentsaysusenergydealwilllast25years"
+  "venezuelasinterimpresidentsaysusenergydealwilllast25years",
+  "dae7cc73a2adfa1f",
+  "mappingiranwarsstrikesongulfenergyandwhatcomesnextforoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-30",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-08-30T11:35:12.202640+03:00",
+ "last_run": "2026-08-30T11:40:18.151782+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
@@ -1600,6 +1600,10 @@
   {
    "d": "2026-08-30",
    "t": "Venezuela's interim president says U.S. energy deal will last 25 years - CNBC"
+  },
+  {
+   "d": "2026-08-30",
+   "t": "Mapping Iran war’s strikes on Gulf energy – and what comes next for oil - Al Jazeera"
   }
  ]
 }
