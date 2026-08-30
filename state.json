@@ -4,10 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "5134b8c90dc6d5e0",
-  "currentpriceofoilasofaugust132026",
-  "7ffdefb92f6e121c",
-  "uscrudeoilinventoriesseemodestweeklybuild",
   "8fab898d57bc98fe",
   "currentpriceofoilasofaugust252026",
   "51330905230da840",
@@ -603,7 +599,11 @@
   "4df0a97a7d14fed8",
   "trumpssaysvenezuelanoilwillfillupuspetroleumreserve",
   "29ad1afde1c99142",
-  "dowjonesfuturesfalloilpricesjumpasusstrikesiran"
+  "dowjonesfuturesfalloilpricesjumpasusstrikesiran",
+  "1a81ee9b0fa6445f",
+  "oilrisesamidrenewedfightinginmiddleeast",
+  "50bd69138b422f2b",
+  "oilpricesjumpmorethan2afterusstrikeoniranco1comcommodity"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 7
+  "count": 8
  },
- "last_run": "2026-08-31T02:35:13.792411+03:00",
+ "last_run": "2026-08-31T02:40:15.685744+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
