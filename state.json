@@ -4,12 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "587f1d73a8b270c8",
-  "trumpsayshehassecuredavastusstakeinvenezuelanoilindustry",
-  "8babefa9c34027df",
-  "usandvenezuelareachhistoricoildealtrumpsays",
-  "1682016727a3acae",
-  "usnearsdealtosecurestakeinvenezuelanoilfieldsinsiderssay",
   "48500ba9a142e156",
   "dollarstrengthandincreasedmiddleeastoilflowsweighoncrudepric",
   "d8949f052aabb345",
@@ -603,7 +597,13 @@
   "8b58b14257ffb6be",
   "trumpsaysuswillrefillitspetroleumreservesusingvenezuelanoil",
   "9c827b222068d677",
-  "fuelpricestostaysteadyforthefifthconsecutiveweek"
+  "fuelpricestostaysteadyforthefifthconsecutiveweek",
+  "c2036b856df32905",
+  "regulatoryprocesslaunchedfor30moreyearsoftransalaskaoilpipel",
+  "389d4846d1269180",
+  "abandonedoilandgaspipesarestillcontributingtonsofmicroplasti",
+  "f2667e7a4d8f5905",
+  "trumpsaysusreachesdealwithvenezuelatocontrol65billionbarrels"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -615,7 +615,7 @@
   "date": "2026-08-30",
   "count": 60
  },
- "last_run": "2026-08-30T20:50:14.411987+03:00",
+ "last_run": "2026-08-30T20:55:13.447213+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
@@ -1672,6 +1672,10 @@
   {
    "d": "2026-08-30",
    "t": "Trump: Venezuelan oil to be used to fill up ‘virtually emptied’ U.S. reserves - Investing.com"
+  },
+  {
+   "d": "2026-08-30",
+   "t": "Trump says US reaches deal with Venezuela to control 65 billion barrels of country’s oil reserves - CNN"
   }
  ]
 }
