@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "d4631727e7b99bc8",
-  "brentcrudeoilpriceannually19762025",
   "e17ade7b96f2f6f0",
   "oilpricesjumpingafteriranreportedlysaysitclosedthestraitofho",
   "09159b6e66d2a079",
@@ -603,7 +601,9 @@
   "421181aff681c622",
   "petrochinah1netprofitjumps22percentboostedbyfuelsalesoilpric",
   "7f17fe859527d880",
-  "caracasopensthedoortobreakingawayfromopecamovethatcouldredra"
+  "caracasopensthedoortobreakingawayfromopecamovethatcouldredra",
+  "717fee4841830a2f",
+  "whatusvenezuelaoildealisandisnotabout"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -615,7 +615,7 @@
   "date": "2026-08-30",
   "count": 55
  },
- "last_run": "2026-08-30T14:55:11.926802+03:00",
+ "last_run": "2026-08-30T15:00:23.086177+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
