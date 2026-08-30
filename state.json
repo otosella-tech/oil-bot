@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "08f2030a232256c1",
-  "trumpsaysusistakingpartialcontrolofvenezuelasoilreserves",
   "885300f3e9ee2663",
   "trumpsaysushasdealforcontroloflargeshareofvenezuelasoil",
   "99ab35ad9ad8c25b",
@@ -603,7 +601,9 @@
   "dfc7bd6529e1f5b7",
   "trumpsaysvenezuelanoilwillbeusedtorefillusstrategicpetroleum",
   "e90ce89e4f4c0778",
-  "opiniontrumptakestheoilinvenezuela"
+  "opiniontrumptakestheoilinvenezuela",
+  "017b03a2d3db0796",
+  "venezuelatargetsbillionsofoildealwithusremainsinforcefor25ye"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -615,7 +615,7 @@
   "date": "2026-08-30",
   "count": 60
  },
- "last_run": "2026-08-30T23:15:17.847330+03:00",
+ "last_run": "2026-08-30T23:20:16.304195+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
