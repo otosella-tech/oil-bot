@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "64e7ba86f689b233",
-  "theunitedstatesproducedmorecrudeoilthananyothercountryin2025",
   "e88d7cba730a12ca",
   "oilmarketreportjuly2026analysis",
   "ac2ea4d54522325b",
@@ -603,7 +601,9 @@
   "017043c54290eee1",
   "oilandgasstockswithdirectexposuretohighercrudeandlngprices",
   "fe9e591da1ccd6a3",
-  "shellendsschwedtrefinerystakesaletalkswithpolandsunimot"
+  "shellendsschwedtrefinerystakesaletalkswithpolandsunimot",
+  "5d42ef9c1cd576ab",
+  "theoilisoursfuroregrowsasvenezueladefendsdealwithtrump"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -615,7 +615,7 @@
   "date": "2026-08-30",
   "count": 39
  },
- "last_run": "2026-08-30T11:05:12.577129+03:00",
+ "last_run": "2026-08-30T11:10:16.320054+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
