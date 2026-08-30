@@ -4,8 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "ffa726f9b380f39a",
-  "cenovuscveenterstheranksoftheworldslargestoilandgasproducers",
   "c4e92b789d4dfbd5",
   "trumpsaysusmakesdealtocontrol65billionbarrelsofvenezuelanoil",
   "1fa29294376568e0",
@@ -603,7 +601,9 @@
   "6b8c7cc6e9ade04a",
   "venezuelavowednottohandoveritsoiltrumpaimstograbawindfall",
   "f38398032922229b",
-  "ubssaysamajorcommodityupcycleistakingshape"
+  "ubssaysamajorcommodityupcycleistakingshape",
+  "3b63515bf2a5ebe5",
+  "trumppromisestofillupsprafterusvenezuelaoildeal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -615,7 +615,7 @@
   "date": "2026-08-30",
   "count": 60
  },
- "last_run": "2026-08-30T22:15:21.931293+03:00",
+ "last_run": "2026-08-30T22:20:15.324439+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
@@ -1688,6 +1688,10 @@
   {
    "d": "2026-08-30",
    "t": "Venezuela vowed not to ‘hand over’ its oil. Trump aims to grab a windfall. - The Washington Post"
+  },
+  {
+   "d": "2026-08-30",
+   "t": "Trump promises to ‘fill up’ SPR after US-Venezuela oil deal - The Hill"
   }
  ]
 }
