@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "c30fd8c24de9d521",
-  "chinascrudeoilimportsfellinthesecondquarter",
-  "d78760bddb925ffc",
-  "trumpannouncesnewusoilagreementwithvenezuela",
   "ba163749f8dd0cb9",
   "ussecures65bbarrelsofoilreservesinsweepingdealwithvenezuelat",
   "05e34774897cfa07",
@@ -603,7 +599,11 @@
   "7b40257de860f952",
   "liveiranrejectsclaimsaboutsouthernhormuzrouteafterustoutshis",
   "7ec7c558b9fa96e5",
-  "attackontheoilrefineryinkirishiafirebrokeoutattheplant"
+  "attackontheoilrefineryinkirishiafirebrokeoutattheplant",
+  "a57fd4a08dab7735",
+  "currentpriceofoilasofaug192026",
+  "902f3f32e14ce282",
+  "eiashowscrudeoilinventoriesstillrising"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -615,7 +615,7 @@
   "date": "2026-08-30",
   "count": 37
  },
- "last_run": "2026-08-30T09:35:12.754749+03:00",
+ "last_run": "2026-08-30T09:40:15.721787+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
