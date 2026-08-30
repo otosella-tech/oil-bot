@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "c41915c4f0dd8e6e",
-  "trumpsplantoseizeandrevitalizevenezuelasoilindustryfacesmajo",
-  "3e974c7a07535432",
-  "unitedstatesproducesmorecrudeoilthananycountryever",
   "600ed37405f6ea2c",
   "uscrudeoilproductionroseby2in2024",
   "31ad762e25d3824b",
@@ -603,7 +599,11 @@
   "400b25456ff430ac",
   "venezuelaninterimpresidentoffersdetailsonusoildeal",
   "a6320ca1d19af01b",
-  "venezuelasaystrumpshistoricoildealtargets15mbarrelsperdaycou"
+  "venezuelasaystrumpshistoricoildealtargets15mbarrelsperdaycou",
+  "31624a2deb1a93b6",
+  "usplans35stakeinvenezuelanbusinessmansoilventure",
+  "a81d1f7ccfee2bce",
+  "controversialvenezuelanexecutivecourtsinvestorsaftertrumpoil"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-30",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-08-30T16:15:14.836391+03:00",
+ "last_run": "2026-08-30T16:20:14.915135+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
@@ -1628,6 +1628,10 @@
   {
    "d": "2026-08-30",
    "t": "Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply - The New York Times"
+  },
+  {
+   "d": "2026-08-30",
+   "t": "Controversial Venezuelan executive courts investors after Trump oil deal - Financial Times"
   }
  ]
 }
