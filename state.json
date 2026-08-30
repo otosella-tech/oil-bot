@@ -4,10 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "e0da0c87f629b300",
-  "uscrudeoilandnaturalgasprovedreservesyearend2024",
-  "9d9bdf7ccf947f48",
-  "theuswantstoremakevenezuelasoilindustryhistorystandsintheway",
   "5134b8c90dc6d5e0",
   "currentpriceofoilasofaugust132026",
   "7ffdefb92f6e121c",
@@ -603,7 +599,11 @@
   "9bbeae1d6a8e397a",
   "oiljumpsmorethan2afterusattackoniranslarakisland",
   "19320c40f32e019f",
-  "ussecures55venezuelaoilproduction"
+  "ussecures55venezuelaoilproduction",
+  "4df0a97a7d14fed8",
+  "trumpssaysvenezuelanoilwillfillupuspetroleumreserve",
+  "29ad1afde1c99142",
+  "dowjonesfuturesfalloilpricesjumpasusstrikesiran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-08-31T02:25:14.036365+03:00",
+ "last_run": "2026-08-31T02:30:20.732490+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1472,6 +1472,10 @@
   {
    "d": "2026-08-31",
    "t": "Oil jumps more than 2% after US attack on Iran's Larak island - Reuters"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Dow Jones Futures Fall, Oil Prices Jump As U.S. Strikes Iran - Investor's Business Daily"
   }
  ]
 }
