@@ -4,10 +4,6 @@
   "Brent": 87.77
  },
  "seen": [
-  "73b6877133bf2b05",
-  "oilsurges35thisweekforbiggestgaininfuturestradinghistorydati",
-  "2384501fbec2a966",
-  "internationalusenergyinformationadministrationeia",
   "99d79f39938af391",
   "crudeoilpricesfellin2025amidoversupply",
   "6f48aa551d20ef32",
@@ -603,7 +599,11 @@
   "8601c2e430fb66fa",
   "oilnewscrudeoiltraderseyehormuztrafficassupplyriskbuilds",
   "724d91ac626dc3f3",
-  "defenseforcesconfirmstrikesonkirishioilrefineryandyeyskairfi"
+  "defenseforcesconfirmstrikesonkirishioilrefineryandyeyskairfi",
+  "9059cf4bcab4370c",
+  "after6monthsofiranwarmarketsdefyworstfears",
+  "391168cbed5acf9a",
+  "uscouldgain35passivestakeinvenezuelanoilcompanythroughwarran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-30",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-08-30T13:40:16.768729+03:00",
+ "last_run": "2026-08-30T13:45:15.554880+03:00",
  "sent_stories": [
   {
    "d": "2026-08-27",
@@ -1616,6 +1616,10 @@
   {
    "d": "2026-08-30",
    "t": "Defense Forces confirm strikes on Kirishi Oil Refinery and Yeysk Airfield in Russia - Ukrinform"
+  },
+  {
+   "d": "2026-08-30",
+   "t": "After 6 Months of Iran War, Markets Defy Worst Fears - The New York Times"
   }
  ]
 }
