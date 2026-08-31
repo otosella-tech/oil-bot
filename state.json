@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "8b58b14257ffb6be",
-  "trumpsaysuswillrefillitspetroleumreservesusingvenezuelanoil",
   "9c827b222068d677",
   "fuelpricestostaysteadyforthefifthconsecutiveweek",
   "c2036b856df32905",
@@ -603,7 +601,9 @@
   "378ca49e0f509837",
   "nasdaq100futuresindextesting50daymasupportascrudeoilspikesto",
   "aea6c2589c240129",
-  "newusiranstrikesthreatenhormuzoilrecovery"
+  "newusiranstrikesthreatenhormuzoilrecovery",
+  "fb4ef620cea83f61",
+  "factcheckteamcouldtheusvenezuelaoildealhelpshortagesandprice"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T21:40:16.342815+03:00",
+ "last_run": "2026-08-31T21:45:18.933473+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
