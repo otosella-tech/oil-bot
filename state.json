@@ -4,16 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "2850568dd4df1f34",
-  "russiasenergycrisisputskazakhstaninatoughspot",
-  "89a5a45d7f39f3c5",
-  "ustocontrol65billionbarrelsofvenezuelanoiltrumpannounces",
-  "5c5e9383fb533d06",
-  "trumptoutsaccessto65billionbarrelsofvenezuelanoilindealhesay",
-  "e135e741618fe6b4",
-  "chinacouldrescuetheoilmarketagainifitwantedto",
-  "4fa611ade81d883c",
-  "russiahasoilsowhyisitimportingpetrolfromindia",
   "9f38f2a418237a5a",
   "canadianactivityedgesupdespitemarketvolatility",
   "dc3ebafadc7bc716",
@@ -603,7 +593,17 @@
   "e06dd4a1a6820744",
   "stockscautiousonusiranescalationbondyieldshitmultiyearhighs",
   "16f6e2c792014fa3",
-  "futurescrudeoilchartdaily"
+  "futurescrudeoilchartdaily",
+  "a2cf8439cd3894e9",
+  "lithiumminerscashinasbatterystoragedemandsurges",
+  "af64f111378d7fd3",
+  "asiansharesaremixedandoilpricessurgeafterusstrikeoniranianro",
+  "06316256b67e678b",
+  "usiranexchangestrikesforfirsttimesincejulyastrumpthreatensst",
+  "72fcb4ae60e994cf",
+  "currentpriceofoilasofaugust202026",
+  "524627bef6c468d6",
+  "whyisntthepriceofoilevenhigher"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T12:45:19.383049+03:00",
+ "last_run": "2026-08-31T12:50:16.218175+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1596,6 +1596,18 @@
   {
    "d": "2026-08-31",
    "t": "Stocks cautious on US-Iran escalation, bond yields hit multi-year highs - Reuters"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Lithium Miners Cash In as Battery Storage Demand Surges"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Asian shares are mixed and oil prices surge after US strike on Iranian rocket launchers - Norwalk Hour"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "U.S., Iran exchange strikes for first time since July as Trump threatens strategic oil hub - CNBC"
   }
  ]
 }
