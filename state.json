@@ -4,10 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "43941c87ab60460c",
-  "scoopusclosetostrikingmassivedealforvenezuelanoilfields",
-  "528c87589682bfa9",
-  "ustotakecontrolofmuchofvenezuelasprovenoilreserves",
   "fe966a4df5c05434",
   "currentpriceofoilasofaugust212026",
   "fdd59ede25b8d8f4",
@@ -603,7 +599,11 @@
   "6fdbd9aa17dfcbdd",
   "texascopsseize60vehiclesworthover28millioninallegedoiltheftr",
   "17bbd0ea39fb9201",
-  "oilnamesmixwithaistocksonelitescreenasthreetradenearbuypoint"
+  "oilnamesmixwithaistocksonelitescreenasthreetradenearbuypoint",
+  "a7bf09188edc05da",
+  "ataleoftwopatchesslopeinletoilgasfortunesdiverge",
+  "cefcd3f24144930f",
+  "currentpriceofoilasofaugust262026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T20:30:21.525729+03:00",
+ "last_run": "2026-08-31T20:35:16.274225+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
