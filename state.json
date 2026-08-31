@@ -4,10 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "20795e0191052c3f",
-  "theusdoesnthaveastateownedoilgiantbutinvenezuelathefederalgo",
-  "d27229af374dab08",
-  "trumpsaysusentersdealwithvenezuelatotakecontrolof65bbarrelso",
   "8e801508d910301d",
   "commentaryasiascrudeoilimportsstaysoftinaugustchallengingush",
   "44590191a7b861e8",
@@ -603,7 +599,11 @@
   "b80e44985dd77569",
   "watchtrumpplanstoseizedirectcontrolofvenezuelasoilreserves",
   "054cdefd223bfef5",
-  "oilupoverweekendstrikesandtankerhitbymines"
+  "oilupoverweekendstrikesandtankerhitbymines",
+  "194300f59cb2f1f3",
+  "brentjumps3toabove90afterflareupinusiranhostilities",
+  "05f47ea33b79ff74",
+  "usstocksmaycomeunderpressureascrudeoilpricesspike"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T16:05:14.207930+03:00",
+ "last_run": "2026-08-31T16:10:20.135584+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1760,6 +1760,10 @@
   {
    "d": "2026-08-31",
    "t": "Oil Up over Weekend Strikes, and Tanker Hit by Mines - Energy News Beat"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Brent jumps 3% to above $90 after flare-up in U.S.-Iran hostilities - CNBC"
   }
  ]
 }
