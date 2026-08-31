@@ -4,12 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "60f29d50942eee92",
-  "oilexportsfromthegulfrisetomorethan60oflevelbeforeiranwargol",
-  "72fcb4ae60e994cf",
-  "currentpriceofoilasofaugust202026",
-  "524627bef6c468d6",
-  "whyisntthepriceofoilevenhigher",
   "2850568dd4df1f34",
   "russiasenergycrisisputskazakhstaninatoughspot",
   "89a5a45d7f39f3c5",
@@ -603,7 +597,13 @@
   "e75f701819c699cc",
   "oilrisesover3asusiranresumesmilitaryattacks",
   "f04e64ce4d405ddb",
-  "venezuelanoppositionupinarmsoverreportsuswantsbigstakeinoila"
+  "venezuelanoppositionupinarmsoverreportsuswantsbigstakeinoila",
+  "0bd71c41cecb339f",
+  "oilpricesupportedbyrenewedgeopoliticalrisk",
+  "e06dd4a1a6820744",
+  "stockscautiousonusiranescalationbondyieldshitmultiyearhighs",
+  "16f6e2c792014fa3",
+  "futurescrudeoilchartdaily"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T12:40:17.999019+03:00",
+ "last_run": "2026-08-31T12:45:19.383049+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1592,6 +1592,10 @@
   {
    "d": "2026-08-31",
    "t": "Oil rises over 3% as US, Iran resumes military attacks - Reuters"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Stocks cautious on US-Iran escalation, bond yields hit multi-year highs - Reuters"
   }
  ]
 }
