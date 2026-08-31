@@ -4,14 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "659a62ad0a7113e9",
-  "usgainscontrolofvenezuelasoilreservesbutgaspricesremainhighi",
-  "2d84cd8ffef76c9d",
-  "trumpsaysushasentereddealwithvenezuelatocontrol65billionbarr",
-  "7e785438ec475093",
-  "trumpvenezuelanoiltobeusedtofillupvirtuallyemptiedusreserves",
-  "f49b5386c402f499",
-  "unitedstatessecures55ofvenezuelas17oilfieldsproduction",
   "33e63273f8b2d01d",
   "trumphailsbiggestoildealinworldhistorywithvenezuela",
   "58055450dd2d3dbf",
@@ -603,7 +595,15 @@
   "324e53017056f9ef",
   "tennesseegaspricesrise2cents",
   "989886c5a868a079",
-  "gulfrecoveryunderthreatusiranclashliftsoilprices"
+  "gulfrecoveryunderthreatusiranclashliftsoilprices",
+  "fcff1aee1b436ffb",
+  "russianoilisnolongerindiaseasybargain",
+  "54ad7b7ddade0f37",
+  "breakingviewscommentaryvenezuelaoildealraisestroublenotcapit",
+  "a45de94d2785a9e8",
+  "willtrumpsvenezuelaoildeallowerusgaspriceshereswhatexpertssa",
+  "f24ee826b140591c",
+  "trumptomeetwithoilexecsaboutcuttinggaspricesashisvenezuelans"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T20:55:13.200676+03:00",
+ "last_run": "2026-08-31T21:00:25.721918+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1852,6 +1852,18 @@
   {
    "d": "2026-08-31",
    "t": "Firms including Chevron, ONGC, GE Vernova on track to sign final pacts in Venezuela, sources say - Reuters"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Russian Oil Is No Longer India’s Easy Bargain"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Breakingviews - COMMENTARY: Venezuela oil deal raises trouble not capital - Reuters"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Trump to meet with oil execs about cutting gas prices, as his Venezuelan SPR plan faces skepticism - MarketWatch"
   }
  ]
 }
