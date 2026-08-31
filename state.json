@@ -4,10 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "8c15f9938f60ea49",
-  "oilmarketreportaugust2026analysis",
-  "3ef7424f7e122c2e",
-  "how6monthsofwariniranjoltedoilgasstocksandmore",
   "3e24b9066cf7aeb7",
   "breakingnewspresidenttrumpsaidtheushadsecuredanagreementtota",
   "5fa5c68045a476b5",
@@ -603,7 +599,11 @@
   "9953a52b783ec029",
   "todaysmarketrecapescalatingusiranconflictpushesoilpast90wars",
   "4c10b6021ae00a1a",
-  "ussecures55ofvenezuelaoilinhistoricdeal"
+  "ussecures55ofvenezuelaoilinhistoricdeal",
+  "5c0e67359093bb51",
+  "oilpricessurgeasusandiranexchangestrikes",
+  "0b5b8dc7319d2abd",
+  "nipponyusendiscussesoilimportstojapanfromafricaandlatinameri"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 24
+  "count": 25
  },
- "last_run": "2026-08-31T05:25:13.252347+03:00",
+ "last_run": "2026-08-31T05:30:19.281439+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
