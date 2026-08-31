@@ -4,12 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "f11c1234f2872455",
-  "trumpsvenezuelanoildealreliesonapowerfulanddivisivepartner",
-  "895f4eab79318656",
-  "oilsettlesloweroncluesaboutfedpolicyrumorsofhormuzdeal",
-  "c47f48eee47e42ac",
-  "tankercarolinebezengiintactandstillleakingcrudeoil",
   "d64d91f1fc259006",
   "wticrudeoilfuturesdroppedasmarketshruggedoffnewiransanctions",
   "4c1c9f233ca1e613",
@@ -603,7 +597,13 @@
   "1f48af81fb680c33",
   "crudeoiljumpsabove90afterusstrikeoniranianlaunchers",
   "7f80c2f9fabc8ae9",
-  "whatsbehindtheusdealtoseizecontrolofvenezuelanoilreserves"
+  "whatsbehindtheusdealtoseizecontrolofvenezuelanoilreserves",
+  "1dd03ccab508e15a",
+  "iranwaradds330billiontoglobalenergyimportbill",
+  "b42437425c5a918e",
+  "oilrisesasusirantensionsescalates",
+  "a636360db5368d61",
+  "japanscrudeoilimportsclimb17injulyonussupplies"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T14:35:13.467571+03:00",
+ "last_run": "2026-08-31T14:40:16.358510+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1680,6 +1680,14 @@
   {
    "d": "2026-08-31",
    "t": "What’s behind the US deal to seize control of Venezuelan oil reserves? - Al Jazeera"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Iran War Adds $330 Billion to Global Energy Import Bill"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Oil Rises as U.S.-Iran Tensions Escalates - WSJ"
   }
  ]
 }
