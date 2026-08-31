@@ -4,12 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "8051b05d2d431197",
-  "trumpannouncesdealwithvenezuelatosecuremorethan65billionbarr",
-  "ea1d66657bc09af2",
-  "floridarepdeletesxpostblastingtrumpsoildealwithvenezuelathen",
-  "374b37dce2a0c432",
-  "trumpsaidtheusgovernmenthasreachedadealtosecure65billionbarr",
   "51ce7d6d0603e18f",
   "howwilltrumpsoildealwithvenezuelawork",
   "53c22ad64b00f175",
@@ -603,7 +597,13 @@
   "524526b17d89a308",
   "thelatesttrumpsaysvenezuelaagreedtogiveuscontrolof65billionb",
   "5f40277216a33fd0",
-  "howtheusandmiddleeastalliesflippedtheoilscriptoniran"
+  "howtheusandmiddleeastalliesflippedtheoilscriptoniran",
+  "08984ac28ee8bf78",
+  "currentpriceofoilasofaug312026",
+  "19b2fa5a6639efbf",
+  "oilpricessurgehigherasusandiranexchangefireforfirsttimeinamo",
+  "48098f8c9797ed84",
+  "usandirantradefireforfirsttimeinamonth"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T15:35:16.107737+03:00",
+ "last_run": "2026-08-31T15:40:15.373652+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1732,6 +1732,14 @@
   {
    "d": "2026-08-31",
    "t": "China's LNG Imports Set to Drop 18% in August as Prices Soar"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Oil prices surge higher as US and Iran exchange fire for first time in a month - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "U.S. and Iran Trade Fire for First Time in a Month - The New York Times"
   }
  ]
 }
