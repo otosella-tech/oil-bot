@@ -4,8 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "c26f7a713adf943d",
-  "natgaspricesfallinsympathywithcrudeoil",
   "6c610facd78c1b7c",
   "oilprices280826",
   "9c167e94655e96e3",
@@ -603,7 +601,9 @@
   "b8d04ca4390bcc46",
   "oilrisesover1afterusforcesstriketwoiranianrocketlaunchersonl",
   "59666c41828312cc",
-  "iranspresidentadmitswehavemanyproblemsastheusblockadechokesi"
+  "iranspresidentadmitswehavemanyproblemsastheusblockadechokesi",
+  "f8e11df528325714",
+  "oilpricesrisemorethan2asusiranescalationthreatenshormuzshipp"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 29
+  "count": 30
  },
- "last_run": "2026-08-31T06:30:20.379226+03:00",
+ "last_run": "2026-08-31T06:35:12.568122+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
