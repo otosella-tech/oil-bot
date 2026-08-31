@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "f04e64ce4d405ddb",
-  "venezuelanoppositionupinarmsoverreportsuswantsbigstakeinoila",
   "16f6e2c792014fa3",
   "futurescrudeoilchartdaily",
   "8b23e4d754f8cceb",
@@ -603,7 +601,9 @@
   "9247121fc75a2d4c",
   "theoilpactthedealthattiestrumpanddelcyrodrgueztogether",
   "51810c83e08e2529",
-  "khargislandthetargetthatcouldchangetheoileconomyandtheiranwa"
+  "khargislandthetargetthatcouldchangetheoileconomyandtheiranwa",
+  "7838598a9ad9262c",
+  "trumpadministrationliveupdatesusandirantradefireforfirsttime"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T12:30:23.324326+03:00",
+ "last_run": "2026-08-31T12:35:12.745880+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1584,6 +1584,10 @@
   {
    "d": "2026-08-31",
    "t": "Brent oil tops $90 after first U.S. and Iran fighting in a month - MarketWatch"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Trump Administration Live Updates: U.S. and Iran Trade Fire for First Time in a Month - The New York Times"
   }
  ]
 }
