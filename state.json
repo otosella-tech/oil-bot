@@ -4,10 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "9f38f2a418237a5a",
-  "canadianactivityedgesupdespitemarketvolatility",
-  "dc3ebafadc7bc716",
-  "venezuelahelpedbuildopecnowitmayhelpbreakitapart",
   "dfa605d893f315b3",
   "mexicosgreenenergypushisfinallygainingmomentum",
   "910145e2cf20612c",
@@ -603,7 +599,11 @@
   "72fcb4ae60e994cf",
   "currentpriceofoilasofaugust202026",
   "524627bef6c468d6",
-  "whyisntthepriceofoilevenhigher"
+  "whyisntthepriceofoilevenhigher",
+  "6a5e3f66dbd14ef8",
+  "hawaiispainatthepumpisoilgiantsgain",
+  "6514d1dff1f03c0c",
+  "themissingpieceintheusoilandgasboomjobs"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T13:00:25.537083+03:00",
+ "last_run": "2026-08-31T13:05:12.607844+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
