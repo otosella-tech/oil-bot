@@ -4,10 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "3e8a4d7859fdbb46",
-  "oilindustrywarningsectoratriskfromnewtaxes",
-  "23b086e5e2a2d31a",
-  "acertaenergyltdtoacquireastaraenergycorpadding5000boedofoilw",
   "4667569d235616f1",
   "iranmakes75binoilrevenuedespiteushormuzblockade",
   "b3a7c458065d22dc",
@@ -603,7 +599,11 @@
   "34bfae8a3864a64f",
   "oilpricesrisebyover2percentfollowingescalationofconflictbetw",
   "9a41cf914784405e",
-  "whatsmartpeoplearesayingabouttrumpsacquisitionofvenezuelanoi"
+  "whatsmartpeoplearesayingabouttrumpsacquisitionofvenezuelanoi",
+  "c5e4a5854ee706e7",
+  "trumpsvenezuelaoildealsoundshugebutitwontslashgaspricesanyti",
+  "fc49a7dff69d44ba",
+  "oilnewslarakstrikeliftscrudeoilfuturesashormuzwarpremiumretu"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-08-31T08:15:15.944453+03:00",
+ "last_run": "2026-08-31T08:20:19.305676+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1516,6 +1516,10 @@
   {
    "d": "2026-08-31",
    "t": "Oil prices rise as US-Iran tensions flare and Warsh fans rate hike - Euronews.com"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Oil News: Larak Strike Lifts Crude Oil Futures as Hormuz War Premium Returns - FXEmpire"
   }
  ]
 }
