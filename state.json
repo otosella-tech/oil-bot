@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "9bbeae1d6a8e397a",
-  "oiljumpsmorethan2afterusattackoniranslarakisland",
   "19320c40f32e019f",
   "ussecures55venezuelaoilproduction",
   "4df0a97a7d14fed8",
@@ -603,7 +601,9 @@
   "aa30756cac333915",
   "oilfuturesekeoutmonthlygainsasusresumesstrikes",
   "edf3f7d33a1549ea",
-  "cmewticrudeoilfuturesholdnear86asmiddleeasttensionspersist"
+  "cmewticrudeoilfuturesholdnear86asmiddleeasttensionspersist",
+  "5d9d779db8f59550",
+  "crudeoilgainsassupplyrisksmount"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 4
  },
- "last_run": "2026-09-01T00:20:20.118524+03:00",
+ "last_run": "2026-09-01T00:25:12.514095+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
