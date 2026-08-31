@@ -4,10 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "56c0a4c3cb64be73",
-  "saudiarabiabacksturkeysrapidrenewableenergybuildout",
-  "5e951f78ef0360d0",
-  "after6monthsofwarwhyarentoilpricesevenhigher",
   "ad09f8a71d790cf0",
   "ontariospremiersaystradewarwouldbedevastatingforusandcanadaa",
   "a8a725174ecce387",
@@ -603,7 +599,11 @@
   "e40cc0d645fb5d71",
   "stocksofcrudeoilintheussprfellbyabout31mlnbarrelsto2866mlnba",
   "3e957355de6515a5",
-  "americansjustenduredthemostexpensiveaugusteveratthepumpoilis"
+  "americansjustenduredthemostexpensiveaugusteveratthepumpoilis",
+  "387a0754b3a7c508",
+  "gastopped4dailyinaugustforthefirsttimenewusstrikesoniranares",
+  "433b01ca6e031cf9",
+  "ascoloradoburnsanovelclimatechangelawsuitseekingdamagesfromo"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T20:00:26.461296+03:00",
+ "last_run": "2026-08-31T20:05:21.279246+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1836,6 +1836,10 @@
   {
    "d": "2026-08-31",
    "t": "Trump says Venezuelan oil will refill US reserves. Is it that simple? - Yahoo Finance"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Gas topped $4 daily in August for the first time. New U.S. strikes on Iran are sending oil prices even higher again - fortune.com"
   }
  ]
 }
