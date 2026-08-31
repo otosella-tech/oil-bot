@@ -4,12 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "92603a16e696947c",
-  "californialawmakersmovetoshieldthecoastfromtrumpsoilagenda",
-  "59b164324c758088",
-  "sentedcruzcallsforelectionsinvenezuelatoproceedrapidly",
-  "899d561e948061fa",
-  "soapcocktailshelpusshaleboostoilproduction",
   "5bdd355b285f0c6d",
   "ustotakemajoritycontrolofvenezuelasoilwealth",
   "27b53ab270b9990d",
@@ -603,7 +597,13 @@
   "8df91e099eb46979",
   "sheriffseekshelpaftercrudeoiltheftnearstanton",
   "e90ce89e4f4c0778",
-  "opiniontrumptakestheoilinvenezuela"
+  "opiniontrumptakestheoilinvenezuela",
+  "606c36557bd0e330",
+  "exclusivetrumpsvenezuelanoilcompanyplansmassivedrillingpush",
+  "6db6c14072c585a9",
+  "brentlastdayfinancialoverview",
+  "db7925494b36efeb",
+  "usequitymarketsendloweraftercrudeoilgovernmentbondyieldsrise"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T23:35:20.024365+03:00",
+ "last_run": "2026-08-31T23:40:18.968904+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1904,6 +1904,10 @@
   {
    "d": "2026-08-31",
    "t": "Valero, Halliburton Stand to Gain from Venezuelan Oil Deal - Barron's"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Exclusive | Trump’s Venezuelan Oil Company Plans Massive Drilling Push - WSJ"
   }
  ]
 }
