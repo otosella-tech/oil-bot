@@ -4,10 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "9c827b222068d677",
-  "fuelpricestostaysteadyforthefifthconsecutiveweek",
-  "c2036b856df32905",
-  "regulatoryprocesslaunchedfor30moreyearsoftransalaskaoilpipel",
   "389d4846d1269180",
   "abandonedoilandgaspipesarestillcontributingtonsofmicroplasti",
   "f2667e7a4d8f5905",
@@ -603,7 +599,11 @@
   "aea6c2589c240129",
   "newusiranstrikesthreatenhormuzoilrecovery",
   "fb4ef620cea83f61",
-  "factcheckteamcouldtheusvenezuelaoildealhelpshortagesandprice"
+  "factcheckteamcouldtheusvenezuelaoildealhelpshortagesandprice",
+  "0b4780253e68845e",
+  "oilsfreshsurgehighlightsagrowingthreattothestockmarketsbigge",
+  "8f12ffc543e49a20",
+  "moreoilflowingthroughstraitofhormuzthanpreviouslyreportedana"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T21:50:17.087670+03:00",
+ "last_run": "2026-08-31T21:55:14.451226+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1880,6 +1880,10 @@
   {
    "d": "2026-08-31",
    "t": "New US-Iran strikes threaten Hormuz oil recovery - TVP World"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "More oil flowing through Strait of Hormuz than previously reported, analyst reveals - New York Post"
   }
  ]
 }
