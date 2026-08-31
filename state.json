@@ -4,10 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "e2ba82c45d0ecafd",
-  "useofoil",
-  "13843d58574366a3",
-  "usfieldproductionofcrudeoilthousandbarrelsperday",
   "66bf2200cbdc3bb6",
   "theunitedstatesisnowthelargestglobalcrudeoilproducer",
   "0f92c5829879f8aa",
@@ -603,7 +599,11 @@
   "d8039da3042818f7",
   "usstrikesoniranianlaunchersthreatenhormuzoilflowsfuellingcru",
   "58ec87aa5bf372d3",
-  "oiljumpsmorethan1afterusattackoniranslarakisland"
+  "oiljumpsmorethan1afterusattackoniranslarakisland",
+  "5a16e713e5c33af6",
+  "wtidipsbrenteasescrudefuturespullback",
+  "fdbfcdfba5b01fc3",
+  "trumpintendstorefillstrategicpetroleumreservewithvenezuelano"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 13
+  "count": 15
  },
- "last_run": "2026-08-31T04:10:20.572418+03:00",
+ "last_run": "2026-08-31T04:15:15.203732+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1484,6 +1484,10 @@
   {
    "d": "2026-08-31",
    "t": "US strikes on Iranian launchers threaten Hormuz oil flows, fuelling crude price and volatility bets - VT Markets"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Trump intends to refill Strategic Petroleum Reserve with Venezuelan oil - Washington Times"
   }
  ]
 }
