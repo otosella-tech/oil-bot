@@ -4,8 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "0260e82f7ae34753",
-  "currentpriceofoilasofaugust242026",
   "92496fe43fad6e1d",
   "americahaslaidclaimtoafifthofvenezuelasoil",
   "f6051bd69f96cbd2",
@@ -603,7 +601,9 @@
   "ad53eae27638cc7f",
   "rbibacktorupeesrescuetocounteroilfedheadwindsstepsintoswapst",
   "13e0dd9b3eb04223",
-  "highcrudeoilpricespushupnationalaverage"
+  "highcrudeoilpricespushupnationalaverage",
+  "1531516df12c1715",
+  "oilpricesclimbafterusstrikesiranianlaunchersonlarakisland"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-08-31T09:50:17.066537+03:00",
+ "last_run": "2026-08-31T09:55:15.269516+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1528,6 +1528,10 @@
   {
    "d": "2026-08-31",
    "t": "Goldman Sachs Sees Diesel Refining Margins Soaring to $63 a Barrel"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Oil prices climb after U.S. strikes Iranian launchers on Larak Island - Investing.com"
   }
  ]
 }
