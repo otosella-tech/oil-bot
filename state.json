@@ -4,8 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "5a650a99dc9f27db",
-  "howxijinpingturnedoilfromaweaknessintoageopoliticalweapon",
   "9214b03cb1c1ea18",
   "whatdrivescrudeoilpricesspotprices",
   "67beddd3bd376c96",
@@ -603,7 +601,9 @@
   "ec3c61b2c30d887f",
   "dowjonesfuturesfalloilpricespopasusstrikesiran",
   "0656ee157791fbc5",
-  "howchinasstrategicoilreservesmitigateiranwardisruptionsanaly"
+  "howchinasstrategicoilreservesmitigateiranwardisruptionsanaly",
+  "0b7718972fa6e1b6",
+  "crudeoilvaultsasfreshusiranescalationtestseffortstokeephormu"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 21
+  "count": 22
  },
- "last_run": "2026-08-31T05:10:17.684218+03:00",
+ "last_run": "2026-08-31T05:15:18.879341+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
