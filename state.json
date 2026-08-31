@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "fe966a4df5c05434",
-  "currentpriceofoilasofaugust212026",
   "fdd59ede25b8d8f4",
   "venezuelanoiltobeusedtofillupvirtuallyemptiedusreservessayst",
   "82bf10f3e03454a9",
@@ -603,7 +601,9 @@
   "a7bf09188edc05da",
   "ataleoftwopatchesslopeinletoilgasfortunesdiverge",
   "cefcd3f24144930f",
-  "currentpriceofoilasofaugust262026"
+  "currentpriceofoilasofaugust262026",
+  "d3a24c7118fb3e65",
+  "californiafishermenexpressconcernoveroffshoreoildrillingciti"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T20:40:15.598665+03:00",
+ "last_run": "2026-08-31T20:45:16.665763+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
