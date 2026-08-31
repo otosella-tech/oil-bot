@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "8e801508d910301d",
-  "commentaryasiascrudeoilimportsstaysoftinaugustchallengingush",
   "44590191a7b861e8",
   "trumpsvenezuelaoildealhasseismicpotentialbutitsanideanotarea",
   "4837ef12b53761d1",
@@ -603,7 +601,9 @@
   "194300f59cb2f1f3",
   "brentjumps3toabove90afterflareupinusiranhostilities",
   "05f47ea33b79ff74",
-  "usstocksmaycomeunderpressureascrudeoilpricesspike"
+  "usstocksmaycomeunderpressureascrudeoilpricesspike",
+  "6c5c59505a10e2a0",
+  "goldslipsaswarshrepricinghormuzoilspikeliftrateriskkitcoamre"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T16:10:20.135584+03:00",
+ "last_run": "2026-08-31T16:15:16.248166+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1764,6 +1764,10 @@
   {
    "d": "2026-08-31",
    "t": "Brent jumps 3% to above $90 after flare-up in U.S.-Iran hostilities - CNBC"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Gold slips as Warsh repricing, Hormuz oil spike lift rate risk - Kitco AM Report - KITCO"
   }
  ]
 }
