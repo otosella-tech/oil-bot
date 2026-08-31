@@ -4,8 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "e4d858ec39c4e01c",
-  "thewhitehouseannouncestheopeningofthestraitofhormuzandthepro",
   "7ea93a9e76bc541c",
   "irantransfersus75binoilrevenuestocentralbankdespiteusnavalbl",
   "3e8a4d7859fdbb46",
@@ -603,7 +601,9 @@
   "9631eb09e36633ef",
   "crudeoilfuturesgainafterusforcesattackiranianisland",
   "dcd15621e848f073",
-  "oilrisestoabove90asusandiranresumestrikes"
+  "oilrisestoabove90asusandiranresumestrikes",
+  "34bfae8a3864a64f",
+  "oilpricesrisebyover2percentfollowingescalationofconflictbetw"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 35
  },
- "last_run": "2026-08-31T07:50:15.448450+03:00",
+ "last_run": "2026-08-31T07:55:12.521187+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
