@@ -4,12 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "51c9b2b4a54df088",
-  "presidentdonaldtrumpsayshisadministrationhasenteredasweeping",
-  "32e2afcb57695abc",
-  "topenergytraderhailstrumpsvenezuelaoildealasagenerationalwin",
-  "1dd03ccab508e15a",
-  "iranwaradds330billiontoglobalenergyimportbill",
   "f11c1234f2872455",
   "trumpsvenezuelanoildealreliesonapowerfulanddivisivepartner",
   "895f4eab79318656",
@@ -603,7 +597,13 @@
   "61b34078ec589dc7",
   "crudeoilvaultsasfreshusiranfightingtestseffortstokeephormuzo",
   "930e2725b337ee2a",
-  "crudeoilfuturessurgefor4thdayasfreshusiranstrikesputhormuzin"
+  "crudeoilfuturessurgefor4thdayasfreshusiranstrikesputhormuzin",
+  "55be5d99370958ad",
+  "petrochinasfirsthalfprofitjumps22despiteiranwaroilsupplycrun",
+  "1f48af81fb680c33",
+  "crudeoiljumpsabove90afterusstrikeoniranianlaunchers",
+  "7f80c2f9fabc8ae9",
+  "whatsbehindtheusdealtoseizecontrolofvenezuelanoilreserves"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T14:30:22.269326+03:00",
+ "last_run": "2026-08-31T14:35:13.467571+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1668,6 +1668,18 @@
   {
    "d": "2026-08-31",
    "t": "Crude Oil Futures Surge For 4th Day As Fresh US-Iran Strikes Put Hormuz In Focus - ETV Bharat"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "PetroChina’s first-half profit jumps 22% despite Iran war oil supply crunch - South China Morning Post"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Crude Oil Jumps Above $90 After U.S. Strike on Iranian Launchers - GuruFocus"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "What’s behind the US deal to seize control of Venezuelan oil reserves? - Al Jazeera"
   }
  ]
 }
