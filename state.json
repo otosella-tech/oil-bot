@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "1a4eaaefaa75ced4",
-  "usvenezuelaoildealpromisescheapergasbutreliefisunlikelysoon",
   "8ef2425e107469c3",
   "whatweknowaboutdealgivingusaccesstovenezuelaoil",
   "6b8c7cc6e9ade04a",
@@ -603,7 +601,9 @@
   "4f0ac6e70fbd6241",
   "brentjumpsabove90afterflareupinusiranhostilities",
   "c7f90380a77bd9b9",
-  "oilsettlesupbymorethan25asusandiranresumemilitaryattacks"
+  "oilsettlesupbymorethan25asusandiranresumemilitaryattacks",
+  "b2816a9bf471ef7a",
+  "chevronongcandgevernovanearfinalvenezuelaenergydeals"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T22:25:16.187510+03:00",
+ "last_run": "2026-08-31T22:30:20.910660+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1896,6 +1896,10 @@
   {
    "d": "2026-08-31",
    "t": "Oil settles up by more than 2.5% as US and Iran resume military attacks - Reuters"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Chevron, ONGC and GE Vernova Near Final Venezuela Energy Deals"
   }
  ]
 }
