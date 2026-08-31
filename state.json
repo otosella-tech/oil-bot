@@ -4,8 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "6c610facd78c1b7c",
-  "oilprices280826",
   "9c167e94655e96e3",
   "irantransfers75binoilrevenuestocentralbankdespiteusnavalbloc",
   "538e0a017e2af2c3",
@@ -603,7 +601,9 @@
   "59666c41828312cc",
   "iranspresidentadmitswehavemanyproblemsastheusblockadechokesi",
   "f8e11df528325714",
-  "oilpricesrisemorethan2asusiranescalationthreatenshormuzshipp"
+  "oilpricesrisemorethan2asusiranescalationthreatenshormuzshipp",
+  "8126a5f5f92a6604",
+  "crudeoilpricepavesthewayforfurthergainsanalysis31082026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 30
  },
- "last_run": "2026-08-31T06:35:12.568122+03:00",
+ "last_run": "2026-08-31T06:40:15.540840+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
