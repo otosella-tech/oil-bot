@@ -4,8 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "92496fe43fad6e1d",
-  "americahaslaidclaimtoafifthofvenezuelasoil",
   "f6051bd69f96cbd2",
   "krgdemandsbaghdadenddiscriminationincrudeoilpricing",
   "4bfd373aad0c9fdb",
@@ -603,7 +601,9 @@
   "13e0dd9b3eb04223",
   "highcrudeoilpricespushupnationalaverage",
   "1531516df12c1715",
-  "oilpricesclimbafterusstrikesiranianlaunchersonlarakisland"
+  "oilpricesclimbafterusstrikesiranianlaunchersonlarakisland",
+  "0260e82f7ae34753",
+  "currentpriceofoilasofaugust242026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 50
  },
- "last_run": "2026-08-31T09:55:15.269516+03:00",
+ "last_run": "2026-08-31T10:00:23.685716+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
