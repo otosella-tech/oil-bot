@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "cd8f6b7f7e61ca26",
-  "crudeoiltankercatchesfirenearkhalapurafterbrakefailure",
   "ae995c2d14855535",
   "qatarextendsforcemajeureashormuzcrisisstillblockslngtraffic",
   "58997de5839ea7d2",
@@ -603,7 +601,9 @@
   "c3795b79b330d89e",
   "iranreports75bninoilrevenuesamidusnavalblockade",
   "632db3b95fe4d2c7",
-  "crudeoilpricesretreatbrentwtislipevenasreboundriskspersist"
+  "crudeoilpricesretreatbrentwtislipevenasreboundriskspersist",
+  "f90c1189df1cff3e",
+  "uscrudeoilreservesincreaseaccordingtotheeia"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 56
  },
- "last_run": "2026-08-31T10:50:18.619549+03:00",
+ "last_run": "2026-08-31T10:55:14.496377+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
