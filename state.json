@@ -4,8 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "d986321c3f8c08aa",
-  "nigeriaseeksinvestmentinoilandgassectoratchinaenergyexhibiti",
   "007e65302e3b116f",
   "globaloilpricesdropasvenezuelaplanstoexitopec",
   "39bb7a7517c54c33",
@@ -603,7 +601,9 @@
   "67bf4edbe1e130ab",
   "uscompaniesscouringfordealsforvenezuelanoil",
   "7a90631ccd2f94c4",
-  "crudeoilwtichargestoward8769resistancelivelevelsbyinvestingc"
+  "crudeoilwtichargestoward8769resistancelivelevelsbyinvestingc",
+  "dfae8a197f8b2d45",
+  "irandismissestrumpspostofattackonkeyenergyhubofkharg"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 52
+  "count": 54
  },
- "last_run": "2026-08-31T10:35:13.732615+03:00",
+ "last_run": "2026-08-31T10:40:16.724390+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1536,6 +1536,10 @@
   {
    "d": "2026-08-31",
    "t": "Crude Oil WTI charges toward $87.69 resistance: Live levels By Investing.com - Investing.com Canada"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Iran dismisses Trump's post of attack on key energy hub of Kharg - Reuters"
   }
  ]
 }
