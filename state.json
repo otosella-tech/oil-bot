@@ -4,8 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "739ab58280a449b8",
-  "crudeoilpricesbrieflytradedbelow0inspring2020buthavesincebee",
   "0e8b41c15b9d52c8",
   "foreignsourcesofcrudeoilimportstocalifornia",
   "e3733016e44fd08a",
@@ -603,7 +601,9 @@
   "9d6e0a99ce9ec1db",
   "trumphailshistoricdealforustocontrol65bnbarrelsofvenezuelaso",
   "8a909156a3678d34",
-  "brentcrudeoilpricesclimbabove90wtitestingresistanceasgulfshi"
+  "brentcrudeoilpricesclimbabove90wtitestingresistanceasgulfshi",
+  "26ed3f74d31f372c",
+  "usstrategicpetroleumreservedropsto44yearlowtrumptorefill"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 10
  },
- "last_run": "2026-08-31T02:55:12.543349+03:00",
+ "last_run": "2026-08-31T03:00:22.776974+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
