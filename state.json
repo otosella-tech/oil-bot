@@ -4,14 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "cd70f2135fba94b7",
-  "tankersinthedarktheplunderofamudaryaoilleavesthenorthstables",
-  "b0d756c79771b284",
-  "thesetankscanhold90millionbarrelsofoiltheyhavejust22million",
-  "01cedfaed746d91e",
-  "whattoknowabouttrumpsdealforaccesstovenezuelasvastoilreserve",
-  "6b0591f774357018",
-  "theaiboomcouldtripledatacenterwateruseby2030",
   "fa4e197602092ab0",
   "historicusvenezueladealgivesamericacontrolover65billionbarre",
   "5344613360b312c4",
@@ -603,7 +595,15 @@
   "2cb18662c391fe6c",
   "oiljumps3toabove90afterflareupinusiranhostilities",
   "8fd7629fa36c5d22",
-  "analysisdepletedusoilstashlosespotencyasiranwargrindson"
+  "analysisdepletedusoilstashlosespotencyasiranwargrindson",
+  "dfa605d893f315b3",
+  "mexicosgreenenergypushisfinallygainingmomentum",
+  "e828e65671d977fd",
+  "depletedusoilstashlosespotencyasiranwargrindson",
+  "ce9232ad838ea9a0",
+  "globaloilpricerisesto90abarrelafterusandirantradeattacks",
+  "4bea8fe6e9678fef",
+  "expertslawyerspuzzledoverusvenezuelaoildealcallforcontracttr"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T13:10:17.910566+03:00",
+ "last_run": "2026-08-31T13:15:17.702561+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1612,6 +1612,18 @@
   {
    "d": "2026-08-31",
    "t": "Oil jumps 3% to above $90 after flare-up in U.S.-Iran hostilities - CNBC"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Depleted US oil stash loses potency as Iran war grinds on - Reuters"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Global Oil Price Rises to $90 a Barrel After U.S. and Iran Trade Attacks - The New York Times"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Experts, lawyers puzzled over US-Venezuela oil deal, call for contract transparency - Reuters"
   }
  ]
 }
