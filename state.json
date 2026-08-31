@@ -4,10 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "371f170350ab9edc",
-  "theiranwarhashandedrussiaastrategicopeningineurope",
-  "cde382743aaf29d7",
-  "oilselloffoutrunsrealityinhormuz",
   "3cab774298523977",
   "usreacheshistoricagreementtocontrolmorethan65billionbarrelso",
   "967bcef1668685bd",
@@ -603,7 +599,11 @@
   "fd84c9748cd380de",
   "sharesskidinasiaasoilclimbsyieldsstayhigh",
   "6e685e9e73d3e853",
-  "quantumcomputingusecasesfortheoilandgasindustry"
+  "quantumcomputingusecasesfortheoilandgasindustry",
+  "ab06b5f8135d2e70",
+  "trumpsaysvenezuelanoilwillrefillusstrategicpetroleumreserve",
+  "d144742c9181e4ba",
+  "oilstockswithdirectexposuretohighercrudeprices"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-08-31T08:30:21.254592+03:00",
+ "last_run": "2026-08-31T08:35:13.697332+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1520,6 +1520,10 @@
   {
    "d": "2026-08-31",
    "t": "Oil News: Larak Strike Lifts Crude Oil Futures as Hormuz War Premium Returns - FXEmpire"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Trump Says Venezuelan Oil Will Refill U.S. Strategic Petroleum Reserve"
   }
  ]
 }
