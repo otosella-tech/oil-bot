@@ -4,10 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "828cb0a989b35a21",
-  "liveiransleaderurgesmuslimrulerstoconfronttrueenemyatislamsd",
-  "19a557f92d403ac8",
-  "momentumcoulddriveoilreachingus87levels",
   "7c55dc075f410d6a",
   "delcyrodrguezsetstheoilagreementwiththeusat25yearsandguarant",
   "0feabd7167010e6b",
@@ -603,7 +599,11 @@
   "47fa9556cfd89514",
   "istaiwantheonlyleveragetheushasingettingchinatotoethelineini",
   "39b7204f6c95da58",
-  "globaloilpricestop91abarrelafterusandiranexchangefireforthef"
+  "globaloilpricestop91abarrelafterusandiranexchangefireforthef",
+  "c85ba0f8da048992",
+  "oilgainsafterfirstusstrikesinweeksoniraniantargets",
+  "390fec11379fffa0",
+  "teslajumps4asoilclimbsto86isthegaspricetradeback"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T18:05:14.661776+03:00",
+ "last_run": "2026-08-31T18:10:21.540351+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1808,6 +1808,10 @@
   {
    "d": "2026-08-31",
    "t": "Global oil prices top $91 a barrel after U.S. and Iran exchange fire for the first time in a month - MarketWatch"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Oil Gains After First U.S. Strikes in Weeks on Iranian Targets - WSJ"
   }
  ]
 }
