@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "5a16e713e5c33af6",
-  "wtidipsbrenteasescrudefuturespullback",
   "fdbfcdfba5b01fc3",
   "trumpintendstorefillstrategicpetroleumreservewithvenezuelano",
   "5a1f8321569b20d9",
@@ -603,7 +601,9 @@
   "ef67b4376d797f6a",
   "trumptoutsvenezuelaoildealexpertsquestionhowitwouldwork",
   "c2b53419dee25984",
-  "trumptomeetwithusrefinersoverhighfuelpricesamidiranwar"
+  "trumptomeetwithusrefinersoverhighfuelpricesamidiranwar",
+  "eca9d2596adb61df",
+  "venezuelanoilexportssurgeastrumpseeksgreatercontrol"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-01",
-  "count": 8
+  "count": 10
  },
- "last_run": "2026-09-01T01:15:18.222909+03:00",
+ "last_run": "2026-09-01T01:20:17.433465+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1552,6 +1552,10 @@
   {
    "d": "2026-09-01",
    "t": "Trump to meet with US refiners over high fuel prices amid Iran war - USA Today"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Venezuelan Oil Exports Surge as Trump Seeks Greater Control - Bloomberg.com"
   }
  ]
 }
