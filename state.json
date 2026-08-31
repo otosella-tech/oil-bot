@@ -4,10 +4,6 @@
   "Brent": 90.12
  },
  "seen": [
-  "5dc6dfa7152e4b43",
-  "currentpriceofoilasofaugust282026",
-  "e3ea4dc5de468ac7",
-  "iransecures75binoilrevenuesdespiteusnavalblockade",
   "05bd6393f7a351f5",
   "trumpclaimsushascontrolofmajorityofvenezuelas65billionbarrel",
   "6d67ddba20b51d3c",
@@ -603,7 +599,11 @@
   "a5cf307437c4fcdf",
   "brentcrudeoilpricegetsridofnegativepressureanalysis31082026",
   "8c15f9938f60ea49",
-  "oilmarketreportaugust2026analysis"
+  "oilmarketreportaugust2026analysis",
+  "6149fb6b94edb170",
+  "oilpricesriseasusirantensionsflareandwarshfansratehike",
+  "db0597c925d4855c",
+  "currentpriceofoilasofaugust182026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-08-31T07:10:15.418933+03:00",
+ "last_run": "2026-08-31T07:15:17.423624+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1512,6 +1512,10 @@
   {
    "d": "2026-08-31",
    "t": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island - CNBC"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Oil prices rise as US-Iran tensions flare and Warsh fans rate hike - Euronews.com"
   }
  ]
 }
