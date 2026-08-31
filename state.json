@@ -4,10 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "8ef2425e107469c3",
-  "whatweknowaboutdealgivingusaccesstovenezuelaoil",
-  "6b8c7cc6e9ade04a",
-  "venezuelavowednottohandoveritsoiltrumpaimstograbawindfall",
   "f38398032922229b",
   "ubssaysamajorcommodityupcycleistakingshape",
   "3b63515bf2a5ebe5",
@@ -603,7 +599,11 @@
   "c7f90380a77bd9b9",
   "oilsettlesupbymorethan25asusandiranresumemilitaryattacks",
   "b2816a9bf471ef7a",
-  "chevronongcandgevernovanearfinalvenezuelaenergydeals"
+  "chevronongcandgevernovanearfinalvenezuelaenergydeals",
+  "34e7755abf966b6a",
+  "whytheoilmarketwontreturntopreconflictnormspickering",
+  "3f9560658ac1ed12",
+  "valerohalliburtonstandtogainfromvenezuelanoildeal"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T22:45:17.902004+03:00",
+ "last_run": "2026-08-31T22:50:20.498663+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1900,6 +1900,10 @@
   {
    "d": "2026-08-31",
    "t": "Chevron, ONGC and GE Vernova Near Final Venezuela Energy Deals"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Valero, Halliburton Stand to Gain from Venezuelan Oil Deal - Barron's"
   }
  ]
 }
