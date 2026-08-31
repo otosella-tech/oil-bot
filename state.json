@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "2c99831e29050715",
-  "trumpsdealgivestheusaccesstovastoilreservesinvenezuelawhatwe",
   "c5013957bbe9d33c",
   "currentpriceofoilasofaug122026",
   "827ac28a7f7a3c5c",
@@ -603,7 +601,9 @@
   "0b5ec6f402911187",
   "oilrisesover3asusandiranresumemilitaryattacks",
   "a3156be4d0f48f6e",
-  "crudeoilpricesinterestratespressureeuropeanboursesmidday"
+  "crudeoilpricesinterestratespressureeuropeanboursesmidday",
+  "fa0caa173d9622e5",
+  "trumppromiseshisvenezuelaoildealwilllowergaspricesbutwhen"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T14:55:15.470182+03:00",
+ "last_run": "2026-08-31T15:00:25.579486+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
