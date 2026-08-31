@@ -4,14 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "31624a2deb1a93b6",
-  "usplans35stakeinvenezuelanbusinessmansoilventure",
-  "a81d1f7ccfee2bce",
-  "controversialvenezuelanexecutivecourtsinvestorsaftertrumpoil",
-  "063b5e87c41921df",
-  "theoilcrisisthatbecameaweaponagainstwelfare",
-  "fca62e31f239cc23",
-  "usmilitarysaysitaidedpassageof660millionbarrelsofoilthroughs",
   "1e3b3fc0e40b8603",
   "gdpdatacrudeoilpriceskeyfactorstodrivestockmarketsthisweeksa",
   "3adf4e69d78d30f4",
@@ -603,7 +595,15 @@
   "34dbc6c05fde2974",
   "crudeoilpricestheminesnotthebarrels",
   "efc7e96e9e9b84f7",
-  "whatsaffectingoilpricesthisweekaug312026"
+  "whatsaffectingoilpricesthisweekaug312026",
+  "beff99c8e685c936",
+  "europegaspricesjump5tohighestlevelsince2023",
+  "8670344457d40abb",
+  "oilstocksinusstrategicpetroleumreservefallby31millionbarrels",
+  "aade40a25b25d058",
+  "preparingcriticaloffshoreassetsforpeakhurricaneseason",
+  "4450ec1ccdc05427",
+  "vancesaysusalreadyseeingsurgeinoilproductionfromvenezuela"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T19:25:13.021164+03:00",
+ "last_run": "2026-08-31T19:30:28.828822+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1824,6 +1824,14 @@
   {
    "d": "2026-08-31",
    "t": "Iran Weakened but Defiant After 6 Months of War"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Oil stocks in US Strategic Petroleum Reserve fall by 3.1 million barrels to lowest level since 1982 - Reuters"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Vance says US already seeing SURGE in oil production from Venezuela - foxnews.com"
   }
  ]
 }
