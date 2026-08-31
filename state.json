@@ -4,10 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "797fb7e83929b123",
-  "venezueladealwillgivetheuscontrolof65bbarrelsofoilpresidentt",
-  "99e687af48ccac42",
-  "trumpintervenedtoreviveafraughtsantabarbaraoilpipelinebutwhy",
   "2f5d24b3d400fe68",
   "trumpunveilslargestoilcontractwithvenezuela",
   "beac66f22d10206a",
@@ -603,7 +599,11 @@
   "b0d756c79771b284",
   "thesetankscanhold90millionbarrelsofoiltheyhavejust22million",
   "f1490be73e1fcf72",
-  "crudeoilsurgesusiranstrikesthreatenhormuzsupply"
+  "crudeoilsurgesusiranstrikesthreatenhormuzsupply",
+  "a24d13fa18f278a2",
+  "filephotoanoilstoragetankandcrudeoilpipelineequipmentisseend",
+  "284a45426039439b",
+  "worldsharesaremixedandoilpricessurgeafterusstrikeoniranianro"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T13:30:20.022164+03:00",
+ "last_run": "2026-08-31T13:35:16.114351+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1628,6 +1628,14 @@
   {
    "d": "2026-08-31",
    "t": "Crude Oil Surges: US-Iran Strikes Threaten Hormuz Supply - Rediff MoneyWiz"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "FILE PHOTO: An oil storage tank and crude oil pipeline equipment is seen during a tour by the Department of Energy at the Strategic Petroleum Reserve in Freeport - The Daily News | Texas' Oldest Newspaper"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "World shares are mixed and oil prices surge after US strike on Iranian rocket launchers - Sun Sentinel"
   }
  ]
 }
