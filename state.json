@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "d36a45ed58cb7828",
-  "expansionthevenezuelanoppositionreceivestheoilpactwiththeusw",
   "8fe85265b1d0b22b",
   "europesrussiasanctionshaveamajorblindspot",
   "ed7fb04402f1e69a",
@@ -603,7 +601,9 @@
   "db89b9e0afa55d9b",
   "iransayssupertankerhitbyminesinstraitofhormuz",
   "4cdd44cf3ed0d654",
-  "oilrisesabove90asusandiranresumestrikes"
+  "oilrisesabove90asusandiranresumestrikes",
+  "2a609f13cb66a1b6",
+  "solarhascrossedacriticaleconomictippingpoint"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T14:00:25.190533+03:00",
+ "last_run": "2026-08-31T14:05:15.660999+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
