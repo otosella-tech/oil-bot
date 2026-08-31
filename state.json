@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "99d7b04270920fcb",
-  "trumpannouncesusvenezuelaoilagreementcovering65billionbarrel",
   "828cb0a989b35a21",
   "liveiransleaderurgesmuslimrulerstoconfronttrueenemyatislamsd",
   "19a557f92d403ac8",
@@ -603,7 +601,9 @@
   "e0064095cb659c02",
   "wallstreetfuturesfallasmiddleeastflareupand60fedhikeodds",
   "47fa9556cfd89514",
-  "istaiwantheonlyleveragetheushasingettingchinatotoethelineini"
+  "istaiwantheonlyleveragetheushasingettingchinatotoethelineini",
+  "39b7204f6c95da58",
+  "globaloilpricestop91abarrelafterusandiranexchangefireforthef"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T18:00:24.953646+03:00",
+ "last_run": "2026-08-31T18:05:14.661776+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1804,6 +1804,10 @@
   {
    "d": "2026-08-31",
    "t": "The Mine-Free Strait of Hormuz - National Review"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Global oil prices top $91 a barrel after U.S. and Iran exchange fire for the first time in a month - MarketWatch"
   }
  ]
 }
