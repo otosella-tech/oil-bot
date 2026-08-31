@@ -4,10 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "d6fddcc42e73012f",
-  "venezuelasaysoildealwithustoremainineffectfor25years",
-  "7a07a5e95a333bc6",
-  "thepriceofcrudehowausoildealisrewritingvenezuelaspowerdynami",
   "017043c54290eee1",
   "oilandgasstockswithdirectexposuretohighercrudeandlngprices",
   "fe9e591da1ccd6a3",
@@ -603,7 +599,11 @@
   "da86c12b263de9ef",
   "historicvenezuelaoildealenergysecuritykeypolicyupdates",
   "ca2ddf2fc93b07d9",
-  "gaspricestickupaheadoflabordayweekend"
+  "gaspricestickupaheadoflabordayweekend",
+  "4bba4ea03b7bdcad",
+  "chevronandexxonmobilrise3asusstrikesoniranpushwticrudeoilto8",
+  "3902a8467004df58",
+  "bitcoinpricepredictionmacropressuremountsasyenslidesandoilcl"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T17:05:15.737627+03:00",
+ "last_run": "2026-08-31T17:10:17.091242+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1792,6 +1792,10 @@
   {
    "d": "2026-08-31",
    "t": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz - Sun Sentinel"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Chevron and Exxon Mobil Rise 3% as U.S. Strikes on Iran Push WTI Crude Oil to $86 - 24/7 Wall St."
   }
  ]
 }
