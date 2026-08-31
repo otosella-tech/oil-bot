@@ -606,16 +606,16 @@
   "oilpricesrisebyover2percentfollowingescalationofconflictbetw"
  ],
  "releases_done": {},
- "last_digest": "2026-08-30",
+ "last_digest": "2026-08-31",
  "digest_prices": {
-  "WTI": 83.4,
-  "Brent": 88.1
+  "WTI": 85.21,
+  "Brent": 90.24
  },
  "llm": {
   "date": "2026-08-31",
-  "count": 35
+  "count": 41
  },
- "last_run": "2026-08-31T07:55:12.521187+03:00",
+ "last_run": "2026-08-31T08:00:22.802503+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
