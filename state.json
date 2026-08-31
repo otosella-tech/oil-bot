@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "8601c2e430fb66fa",
-  "oilnewscrudeoiltraderseyehormuztrafficassupplyriskbuilds",
   "724d91ac626dc3f3",
   "defenseforcesconfirmstrikesonkirishioilrefineryandyeyskairfi",
   "9059cf4bcab4370c",
@@ -603,7 +601,9 @@
   "7c876b60ac1b7719",
   "chartofthedaywhatwillittaketobreakthisstalemateinoilmarkets",
   "adcd6a5671deaf62",
-  "usstocksmostlylowerascrudeoilpricessurge"
+  "usstocksmostlylowerascrudeoilpricessurge",
+  "3301113c93ecea60",
+  "chinacokingcoalpricessetforrecord46monthlysurge"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T18:25:13.728868+03:00",
+ "last_run": "2026-08-31T18:30:23.491354+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1812,6 +1812,10 @@
   {
    "d": "2026-08-31",
    "t": "Oil Gains After First U.S. Strikes in Weeks on Iranian Targets - WSJ"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "China Coking Coal Prices Set for Record 46% Monthly Surge"
   }
  ]
 }
