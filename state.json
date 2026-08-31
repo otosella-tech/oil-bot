@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "96c50b86c83932e3",
-  "marketseyegdpcrudeoilusjobsdatathisweek",
   "66fa2e68d049a34a",
   "ukrainiandroneshityeyskairbaseandrussiaskinefoilrefinery",
   "3bf6c98f15c88476",
@@ -603,7 +601,9 @@
   "4aedbcec95adb827",
   "currentpriceofoilasofaugust312026",
   "151da7f9f38f552d",
-  "oilrisesover2asusandiranresumemilitaryattacks"
+  "oilrisesover2asusandiranresumemilitaryattacks",
+  "d280c889df134819",
+  "oilpricesriseandstocksfallafterushitsiraniansitesinthestrait"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T16:40:17.373618+03:00",
+ "last_run": "2026-08-31T16:45:15.792670+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1788,6 +1788,10 @@
   {
    "d": "2026-08-31",
    "t": "Oil rises over 2% as US and Iran resume military attacks - Reuters"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz - Sun Sentinel"
   }
  ]
 }
