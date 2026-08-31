@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "3bf6c98f15c88476",
-  "uscrudeoilimportsfromiraqdroptozero",
   "ed8eb1fdc0de4a27",
   "thestraitofhormuzcrisisthreatenedasiasoilandgaslifelineheres",
   "03002331e86028fe",
@@ -603,7 +601,9 @@
   "d280c889df134819",
   "oilpricesriseandstocksfallafterushitsiraniansitesinthestrait",
   "a57fd4a08dab7735",
-  "currentpriceofoilasofaug192026"
+  "currentpriceofoilasofaug192026",
+  "0dafa4dc707edb77",
+  "oilcompaniesandbanksfaceukwindfalltaxthreat"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T16:55:15.965296+03:00",
+ "last_run": "2026-08-31T17:00:27.702858+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
