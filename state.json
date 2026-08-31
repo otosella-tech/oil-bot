@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "9deb08720cbcf869",
-  "crudeoilpricesclimbabove90testingresistanceasgulfshippingris",
   "5cbad06d721a7a30",
   "trumpsaysvenezuelanoilwillrefilldepleteduspetroleumreserve",
   "bcf8d2d1af2106b8",
@@ -603,7 +601,9 @@
   "1c12506091277e71",
   "canadatariffsdeepennorthamericassteelandaluminumsqueeze",
   "206aba77c74ace00",
-  "globaloilpricessettleabove90abarrelafterusandiranexchangefir"
+  "globaloilpricessettleabove90abarrelafterusandiranexchangefir",
+  "b44cba8a9f21e956",
+  "usstockscloselowerascrudeoilsurgesbutoffworstlevels"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 2
  },
- "last_run": "2026-09-01T00:05:13.965047+03:00",
+ "last_run": "2026-09-01T00:10:20.472139+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
