@@ -4,10 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "dfa605d893f315b3",
-  "mexicosgreenenergypushisfinallygainingmomentum",
-  "910145e2cf20612c",
-  "petrolpricerises9ton1310litredespitefallingcrudeoilpricesrep",
   "cd70f2135fba94b7",
   "tankersinthedarktheplunderofamudaryaoilleavesthenorthstables",
   "b0d756c79771b284",
@@ -603,7 +599,11 @@
   "6a5e3f66dbd14ef8",
   "hawaiispainatthepumpisoilgiantsgain",
   "6514d1dff1f03c0c",
-  "themissingpieceintheusoilandgasboomjobs"
+  "themissingpieceintheusoilandgasboomjobs",
+  "2cb18662c391fe6c",
+  "oiljumps3toabove90afterflareupinusiranhostilities",
+  "8fd7629fa36c5d22",
+  "analysisdepletedusoilstashlosespotencyasiranwargrindson"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T13:05:12.607844+03:00",
+ "last_run": "2026-08-31T13:10:17.910566+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1608,6 +1608,10 @@
   {
    "d": "2026-08-31",
    "t": "U.S., Iran exchange strikes for first time since July as Trump threatens strategic oil hub - CNBC"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Oil jumps 3% to above $90 after flare-up in U.S.-Iran hostilities - CNBC"
   }
  ]
 }
