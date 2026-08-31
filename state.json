@@ -4,12 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "35d832d7df99eb3a",
-  "mappingiranwarsstrikesongulfenergyanditsimpactonfutureofoil",
-  "0e7fbf30ece9e369",
-  "longlinesforgasiniranshowwarandusblockadesqueezingsupply",
-  "421181aff681c622",
-  "petrochinah1netprofitjumps22percentboostedbyfuelsalesoilpric",
   "7f17fe859527d880",
   "caracasopensthedoortobreakingawayfromopecamovethatcouldredra",
   "717fee4841830a2f",
@@ -603,7 +597,13 @@
   "b3be5d343025ee3c",
   "cryptosfallascrudeoilpricesratehikebetsrise",
   "9ab6de1ccfe59ff4",
-  "martincountyauthoritiesseekpublicshelpinlocatingcrudeoilthef"
+  "martincountyauthoritiesseekpublicshelpinlocatingcrudeoilthef",
+  "5c5cb0b539b8746b",
+  "iranweakenedbutdefiantafter6monthsofwar",
+  "47be3d9e9dabd7e6",
+  "indiasongctoinvest105billionfordeepwaterexplorationchairmans",
+  "e0caeff1a26e3c3f",
+  "thelatesttrumpoildealraisesquestionsvanceandbessentseektorea"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-08-31",
   "count": 60
  },
- "last_run": "2026-08-31T18:55:13.968419+03:00",
+ "last_run": "2026-08-31T19:00:25.434104+03:00",
  "sent_stories": [
   {
    "d": "2026-08-28",
@@ -1820,6 +1820,10 @@
   {
    "d": "2026-08-31",
    "t": "Watch Stocks Fall as US-Iran Strikes Spur Rally in Oil - Bloomberg.com"
+  },
+  {
+   "d": "2026-08-31",
+   "t": "Iran Weakened but Defiant After 6 Months of War"
   }
  ]
 }
