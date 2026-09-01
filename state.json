@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "f8dcb87a12ca5a20",
-  "diversificationofcrudeoilprocurementsteadilyadvanceeffortsto",
   "28824cc476eba4f7",
   "petrochinarevenuerises53inh12026profitgrowsby22",
   "aaabcebb90ac5c9f",
@@ -603,7 +601,9 @@
   "1839687739170b9f",
   "oilpricesriseandstocksfallafterushitsiraniantargetsinthestra",
   "157aa71cb0280b10",
-  "usoildealpusheschinaandrussiaoutofvenezuelanfields"
+  "usoildealpusheschinaandrussiaoutofvenezuelanfields",
+  "ed56805c6450e9f5",
+  "cctvscript010926"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 52
  },
- "last_run": "2026-09-01T09:55:14.540272+03:00",
+ "last_run": "2026-09-01T10:00:24.613991+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
