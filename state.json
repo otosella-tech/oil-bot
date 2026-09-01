@@ -4,8 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "e75f701819c699cc",
-  "oilrisesover3asusiranresumesmilitaryattacks",
   "f04e64ce4d405ddb",
   "venezuelanoppositionupinarmsoverreportsuswantsbigstakeinoila",
   "0bd71c41cecb339f",
@@ -603,7 +601,9 @@
   "09453580dce9c19d",
   "usmovesintovenezuelasoilfieldsdisplacingrussianandchineseope",
   "d6ed42334b1edc87",
-  "trumpsdealforvenezuelasoilreservesunitesnationinanger"
+  "trumpsdealforvenezuelasoilreservesunitesnationinanger",
+  "7acbd1ad3e2f87da",
+  "thestraitofhormuzwitnessesconsecutiveattacksoncrudeoiltanker"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T13:05:16.168593+03:00",
+ "last_run": "2026-09-01T13:10:17.277358+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1668,6 +1668,10 @@
   {
    "d": "2026-09-01",
    "t": "Trump’s Deal for Venezuela’s Oil Reserves Unites Nation in Anger - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "The Strait of Hormuz witnesses consecutive attacks on crude oil tankers - المتداول العربي"
   }
  ]
 }
