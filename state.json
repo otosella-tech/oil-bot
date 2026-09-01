@@ -4,8 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "f04e64ce4d405ddb",
-  "venezuelanoppositionupinarmsoverreportsuswantsbigstakeinoila",
   "0bd71c41cecb339f",
   "oilpricesupportedbyrenewedgeopoliticalrisk",
   "e06dd4a1a6820744",
@@ -603,7 +601,9 @@
   "d6ed42334b1edc87",
   "trumpsdealforvenezuelasoilreservesunitesnationinanger",
   "7acbd1ad3e2f87da",
-  "thestraitofhormuzwitnessesconsecutiveattacksoncrudeoiltanker"
+  "thestraitofhormuzwitnessesconsecutiveattacksoncrudeoiltanker",
+  "1f01edf77fee43ad",
+  "oilpricesriseasrenewedusiranfightingdeepenshormuzsupplyrisks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T13:15:19.661437+03:00",
+ "last_run": "2026-09-01T13:20:18.620561+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1672,6 +1672,10 @@
   {
    "d": "2026-09-01",
    "t": "The Strait of Hormuz witnesses consecutive attacks on crude oil tankers - المتداول العربي"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ"
   }
  ]
 }
