@@ -4,8 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "88ada27694fee020",
-  "oilpricesjumpasusandiranexchangestrikesprolongedstalematekee",
   "f8d69a10ed3e2519",
   "oilfuturescrudeopenshigherafterusstrikesoniranianisland",
   "07bbfb99d15463b6",
@@ -603,7 +601,9 @@
   "3a30e556a7cc2bf7",
   "economicletterfromasialingeringunease",
   "bcc0e485c62e3a1d",
-  "indianprimeministermodiasksputintoendukrainewaramidustarifft"
+  "indianprimeministermodiasksputintoendukrainewaramidustarifft",
+  "f135e482418dbc04",
+  "oilrisesonrenewedusiranhostilities"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-01",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-09-01T11:05:14.341263+03:00",
+ "last_run": "2026-09-01T11:10:19.847044+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1640,6 +1640,10 @@
   {
    "d": "2026-09-01",
    "t": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil - CNBC"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil Rises on Renewed U.S.-Iran Hostilities - WSJ"
   }
  ]
 }
