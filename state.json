@@ -4,12 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "9247121fc75a2d4c",
-  "theoilpactthedealthattiestrumpanddelcyrodrgueztogether",
-  "51810c83e08e2529",
-  "khargislandthetargetthatcouldchangetheoileconomyandtheiranwa",
-  "7838598a9ad9262c",
-  "trumpadministrationliveupdatesusandirantradefireforfirsttime",
   "e75f701819c699cc",
   "oilrisesover3asusiranresumesmilitaryattacks",
   "f04e64ce4d405ddb",
@@ -603,7 +597,13 @@
   "ea575e26d4ab58f7",
   "oiltankerstruckbythreeprojectilesinstraitofhormuz",
   "f8565b91c3a70309",
-  "oilpricesriseasrenewedusiranexchangeskeepsupplyrisksinfocus"
+  "oilpricesriseasrenewedusiranexchangeskeepsupplyrisksinfocus",
+  "f4c484ac077ac33b",
+  "whytrumpsvenezuelaoildealwillnotbringquickrelieftotheus",
+  "09453580dce9c19d",
+  "usmovesintovenezuelasoilfieldsdisplacingrussianandchineseope",
+  "d6ed42334b1edc87",
+  "trumpsdealforvenezuelasoilreservesunitesnationinanger"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T13:00:25.395451+03:00",
+ "last_run": "2026-09-01T13:05:16.168593+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1660,6 +1660,14 @@
   {
    "d": "2026-09-01",
    "t": "Oil Tanker Struck by Three Projectiles in Strait of Hormuz - IranWire"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "US Moves Into Venezuela’s Oil Fields, Displacing Russian and Chinese Operators - UNITED24 Media"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Trump’s Deal for Venezuela’s Oil Reserves Unites Nation in Anger - Bloomberg.com"
   }
  ]
 }
