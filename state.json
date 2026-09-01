@@ -4,8 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "ebac74bf5f2665bc",
-  "oilrisesasusiranresumemilitaryattacks",
   "88ada27694fee020",
   "oilpricesjumpasusandiranexchangestrikesprolongedstalematekee",
   "f8d69a10ed3e2519",
@@ -603,7 +601,9 @@
   "d60ab84316e6c5aa",
   "iraqfasttracksstrategic46bpipelinenetworktoexpandcrudeexport",
   "3a30e556a7cc2bf7",
-  "economicletterfromasialingeringunease"
+  "economicletterfromasialingeringunease",
+  "bcc0e485c62e3a1d",
+  "indianprimeministermodiasksputintoendukrainewaramidustarifft"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-01",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-09-01T11:00:24.358124+03:00",
+ "last_run": "2026-09-01T11:05:14.341263+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1636,6 +1636,10 @@
   {
    "d": "2026-09-01",
    "t": "Iraq Fast-Tracks Strategic $4.6B Pipeline Network to Expand Crude Export Outlets - Pipeline Technology Journal"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil - CNBC"
   }
  ]
 }
