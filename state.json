@@ -4,12 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "7fa0c4fe68fcc0a4",
-  "oilpricessurgeasusandiranexchangestrikes",
-  "404e1ffc2b11606d",
-  "oilrisesonprospectforprolongedsupplydisruptionsinmiddleeast",
-  "262ab8ab997263e4",
-  "exclusiveinsidetrumpsplantogivethepentagonastakeinvenezuelas",
   "a1cd6fd833686744",
   "whitehousereleasestermsofoildealwithnorthamericanblueenergyp",
   "d19660a48328bd61",
@@ -603,7 +597,13 @@
   "29f5b6ed95eb7a97",
   "stockmarkettodaysept1stocksslideandoilsurgesamidusirantensio",
   "a1eac3050a0bbc3d",
-  "majorusoilportselectedfornuclearpowerproject"
+  "majorusoilportselectedfornuclearpowerproject",
+  "2f275c77db51f383",
+  "forthismississippibargelinelaborismoreofaconcernthantariffs",
+  "10baa8c3a9304624",
+  "uscrudeoilinventoriesresumedrawdown",
+  "042d7bec49b4802b",
+  "usenergysecretarywilltraveltovenezuelatounveiloilarrangement"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 19
  },
- "last_run": "2026-09-02T02:00:26.678257+03:00",
+ "last_run": "2026-09-02T02:05:13.788412+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
