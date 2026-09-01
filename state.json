@@ -4,10 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "576b014ed7bed61a",
-  "brentoilsurgesbackabove90asusstrikesiranforfirsttimeinamonth",
-  "c47f48eee47e42ac",
-  "tankercarolinebezengiintactandstillleakingcrudeoil",
   "85e3d4f29353873e",
   "brentcrudeoiltops90afterusstrikesiran",
   "0b5ec6f402911187",
@@ -603,7 +599,11 @@
   "4280c42c0549454f",
   "goldpricehitstwoweeklowaswarshrepricingoilshockliftyieldskit",
   "ef89b081ff199272",
-  "saudiandsouthkoreanoiltankershitinstraitofhormuz"
+  "saudiandsouthkoreanoiltankershitinstraitofhormuz",
+  "d45b40f7dc9af7b1",
+  "trumpsaidhisdealwithvenezuelawouldlowergaspriceswillit",
+  "419e6bc38ed1dc74",
+  "oilupabout2asrenewedusiranstrikesstokesupplyfears"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T16:00:25.254121+03:00",
+ "last_run": "2026-09-01T16:05:15.473027+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1728,6 +1728,14 @@
   {
    "d": "2026-09-01",
    "t": "Saudi and South Korean oil tankers hit in Strait of Hormuz - Financial Times"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Trump said his deal with Venezuela would lower gas prices. Will it? - The Washington Post"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil up about 2% as renewed US-Iran strikes stoke supply fears - Reuters"
   }
  ]
 }
