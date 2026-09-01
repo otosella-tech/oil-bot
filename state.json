@@ -4,8 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "047ba3052aa5bc14",
-  "whymorevenezuelanoilwontsolveamericasgasolineproblem",
   "7bf6d767b8db1ef2",
   "augustbreaksrecordasgaspricestop4nationwideeverydaynbc5dalla",
   "1e8a2a3c53bfd465",
@@ -603,7 +601,9 @@
   "8fab898d57bc98fe",
   "currentpriceofoilasofaugust252026",
   "95a4c70bf4ec7689",
-  "trumpsaysexxonisgoingintovenezuelaasuspushesoildeals"
+  "trumpsaysexxonisgoingintovenezuelaasuspushesoildeals",
+  "b8efdca90aecf566",
+  "crudeoilfuturessurgemorethan4tofiveweekhighonsupplyconcernsa"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-02",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-09-02T01:15:17.439789+03:00",
+ "last_run": "2026-09-02T01:20:17.785623+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1695,6 +1695,10 @@
   {
    "d": "2026-09-02",
    "t": "Trump's \"Historic Deal\" With Venezuela Isn't Fooling Oil Traders - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Crude Oil Futures Surge More Than $4 to Five-Week High on Supply Concerns as U.S.-Iran Fighting Resumes - finance.biggo.com"
   }
  ]
 }
