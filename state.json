@@ -4,8 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "c7f90380a77bd9b9",
-  "oilsettlesupbymorethan25asusandiranresumemilitaryattacks",
   "b2816a9bf471ef7a",
   "chevronongcandgevernovanearfinalvenezuelaenergydeals",
   "34e7755abf966b6a",
@@ -603,7 +601,9 @@
   "8b62e3c4e9c44e1a",
   "middleeastconflictsendsoilupbondsdown",
   "72a8dadaf030cea8",
-  "trumpannouncedamassiveoildealwithvenezuelawhyitwontlowergasp"
+  "trumpannouncedamassiveoildealwithvenezuelawhyitwontlowergasp",
+  "603a528f55af6d84",
+  "globaloilpricessurgetoa6weekhighaftertheusstrikesiraninhormu"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T23:35:14.702691+03:00",
+ "last_run": "2026-09-01T23:40:21.083055+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1955,6 +1955,10 @@
   {
    "d": "2026-09-01",
    "t": "U.S. Stocks Slump As Crude Oil Spikes On New U.S. Attacks Against Iran - rttnews.com"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz - MarketWatch"
   }
  ]
 }
