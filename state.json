@@ -4,12 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "0b4780253e68845e",
-  "oilsfreshsurgehighlightsagrowingthreattothestockmarketsbigge",
-  "8f12ffc543e49a20",
-  "moreoilflowingthroughstraitofhormuzthanpreviouslyreportedana",
-  "86fb4e9a40f93393",
-  "trumpshistoricdealwithvenezuelaisntfoolingoiltraders",
   "70e31595db7a6653",
   "regulatoryprocesslaunchedfor30moreyearsoftransalaskaoilpipel",
   "72a8dadaf030cea8",
@@ -603,7 +597,13 @@
   "822a051ab6bd1870",
   "venezuelasassemblybacksoildealannouncedwithus",
   "524754623e411e4a",
-  "usequityindexesdropasfreshmilitarystrikesoniransendcrudeoils"
+  "usequityindexesdropasfreshmilitarystrikesoniransendcrudeoils",
+  "7be3b93b31fb5673",
+  "trumpmeantitliterallywhenhesaidhewastakingtheoil",
+  "9e704c34a3e98c02",
+  "uscrudeoilhits90perbarrelfollowinglatestusattacksagainstiran",
+  "a0643fd99e4c9058",
+  "anunalignedcasefordevelopingvenezuelasenergysector"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T23:15:17.692521+03:00",
+ "last_run": "2026-09-01T23:20:16.519547+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1942,6 +1942,10 @@
   {
    "d": "2026-09-01",
    "t": "US Equity Indexes Drop as Fresh Military Strikes on Iran Send Crude Oil Sharply Higher - marketscreener.com"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "U.S. crude oil hits $90 per barrel following latest U.S. attacks against Iran - CNBC"
   }
  ]
 }
