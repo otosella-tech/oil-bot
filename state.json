@@ -4,8 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "c85ba0f8da048992",
-  "oilgainsafterfirstusstrikesinweeksoniraniantargets",
   "390fec11379fffa0",
   "teslajumps4asoilclimbsto86isthegaspricetradeback",
   "b326a8c715f5b343",
@@ -603,7 +601,9 @@
   "ac7a79af84c9553f",
   "trumpwantstofillupusstockpileswithvenezuelanoilaftertakingas",
   "125f2b5d852c2f52",
-  "oilfuturescrudeextendsgainsasustargetsirgcinnewstrikes"
+  "oilfuturescrudeextendsgainsasustargetsirgcinnewstrikes",
+  "30bf246e3aec20d3",
+  "crudeoilsurges3ismmanufacturingpmifallsinaugust"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T20:15:15.940511+03:00",
+ "last_run": "2026-09-01T20:20:17.555467+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
