@@ -4,10 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "af64f111378d7fd3",
-  "asiansharesaremixedandoilpricessurgeafterusstrikeoniranianro",
-  "06316256b67e678b",
-  "usiranexchangestrikesforfirsttimesincejulyastrumpthreatensst",
   "72fcb4ae60e994cf",
   "currentpriceofoilasofaugust202026",
   "524627bef6c468d6",
@@ -603,7 +599,11 @@
   "1b72e650ad127fbb",
   "twotankerscarryingsaudioilattackedinstraitofhormuz",
   "e4ba713b3acba118",
-  "indiansharesedgeloweronhighercrudepricesbondyieldsbanksautos"
+  "indiansharesedgeloweronhighercrudepricesbondyieldsbanksautos",
+  "8372d91b4afb30ee",
+  "oilrisesasrenewedusiranstrikesstokesupplyfears",
+  "d11517fb31a771ae",
+  "globaloilpricesextendmoveover90afterreportoftwotankersstruck"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T13:35:14.259825+03:00",
+ "last_run": "2026-09-01T13:40:19.329681+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1684,6 +1684,14 @@
   {
    "d": "2026-09-01",
    "t": "Two tankers carrying Saudi oil attacked in Strait of Hormuz - Reuters"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil rises as renewed US-Iran strikes stoke supply fears - Reuters"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Global oil prices extend move over $90 after report of two tankers struck in Hormuz - marketwatch.com"
   }
  ]
 }
