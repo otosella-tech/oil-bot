@@ -4,8 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "fb4ef620cea83f61",
-  "factcheckteamcouldtheusvenezuelaoildealhelpshortagesandprice",
   "0b4780253e68845e",
   "oilsfreshsurgehighlightsagrowingthreattothestockmarketsbigge",
   "8f12ffc543e49a20",
@@ -603,7 +601,9 @@
   "e2fae2df5db74d02",
   "globaloilpricessurgeabove94abarrelandsettleata6weekhighafter",
   "822a051ab6bd1870",
-  "venezuelasassemblybacksoildealannouncedwithus"
+  "venezuelasassemblybacksoildealannouncedwithus",
+  "524754623e411e4a",
+  "usequityindexesdropasfreshmilitarystrikesoniransendcrudeoils"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T23:10:17.553319+03:00",
+ "last_run": "2026-09-01T23:15:17.692521+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1938,6 +1938,10 @@
   {
    "d": "2026-09-01",
    "t": "Venezuela's assembly backs oil deal announced with U.S. - Reuters"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "US Equity Indexes Drop as Fresh Military Strikes on Iran Send Crude Oil Sharply Higher - marketscreener.com"
   }
  ]
 }
