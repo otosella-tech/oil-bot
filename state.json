@@ -4,16 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "c0d44439e41e9390",
-  "howaremichigangaspriceschangingaheadoflabordayweekend",
-  "ef894f2f13ffedc6",
-  "oilpricetodaybrenttops91asusiranstrikesraisestraitofhormuzsu",
-  "206e57f94273db1c",
-  "indiabuysrecord26mbdrussiancrudeoilrefinessomeofitandnowsend",
-  "46d3a8b43bceb4ef",
-  "brentsurgespast91barrelasfreshusiranfaceoffheatsupoilmarketa",
-  "3c72363ef13521f3",
-  "crudeoilfuturesrise4thdayasusiranstrikesputhormuzinfocus",
   "797f2041de6d199e",
   "anewformofuscolonialismvenezuelansbristleatusoiltakeover",
   "03023a9389edb6e7",
@@ -603,7 +593,17 @@
   "f31eec3322f076de",
   "russiadoublesdarkfleettoshiplngtoasia",
   "771ac9f2d1bf39c4",
-  "usstockfuturesfallasoilpricesandtreasuryyieldsrisedowjonessp"
+  "usstockfuturesfallasoilpricesandtreasuryyieldsrisedowjonessp",
+  "d217ab556ff8065d",
+  "oilthemostsensitiveissueinvenezuelanpolitics",
+  "4467a093d47e0900",
+  "usmarketoutlookrisingcrudeoilpricesfuelinflationfearsintensi",
+  "f9e248d9dead1fb7",
+  "currentpriceofoilasofseptember12026",
+  "4d236fcbada1f871",
+  "westernsanctionsandukrainiandronestrikespushrussianoilproduc",
+  "79e944278636963e",
+  "priceofoilrisesafterrenewedusiranfightinginmiddleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T16:40:19.141865+03:00",
+ "last_run": "2026-09-01T16:45:16.451413+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1752,6 +1752,10 @@
   {
    "d": "2026-09-01",
    "t": "Russia Doubles Dark Fleet to Ship LNG to Asia"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Western Sanctions and Ukrainian Drone Strikes Push Russian Oil Production to Lowest Since 2009 - UNITED24 Media"
   }
  ]
 }
