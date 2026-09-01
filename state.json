@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "8721dbb8ad32e849",
-  "oilpriceshigherasusirantensionsflareandwarshfansratehikes",
   "f20a8d44b2a205ee",
   "trumpadministrationupdatesusreachesdealforcontrolof65billion",
   "465a2f7dfee7a0aa",
@@ -603,7 +601,9 @@
   "e497427510fbd151",
   "howthepentagonisgettingintothevenezuelanoilbusinessundertrum",
   "12d5408636bc01c8",
-  "currentpriceofoilasofaugust282026"
+  "currentpriceofoilasofaugust282026",
+  "b44faa230a5b6fc4",
+  "exclusiveofficialsusfirmtotakeoversomevenezuelaoilfieldsprev"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-01",
-  "count": 22
+  "count": 24
  },
- "last_run": "2026-09-01T05:20:16.467362+03:00",
+ "last_run": "2026-09-01T05:25:15.311443+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1576,6 +1576,10 @@
   {
    "d": "2026-09-01",
    "t": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says - CNBC"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "EXCLUSIVE: Officials: US firm to take over some Venezuela oilfields previously run by Chinese, Russian firms - Reuters"
   }
  ]
 }
