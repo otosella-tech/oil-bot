@@ -4,8 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "8fd7629fa36c5d22",
-  "analysisdepletedusoilstashlosespotencyasiranwargrindson",
   "dfa605d893f315b3",
   "mexicosgreenenergypushisfinallygainingmomentum",
   "e828e65671d977fd",
@@ -603,7 +601,9 @@
   "ceb01d752d07379b",
   "exclusiverussiacutsexpected2026oiloutputto17yearlowonwarfall",
   "2f5d34fb554fc0a7",
-  "firstthingtodaygrainbullskeeptheirfootonthegas"
+  "firstthingtodaygrainbullskeeptheirfootonthegas",
+  "7024e0d0713d4c46",
+  "oilpricesjumpasusiranianattacksstokefearsofescalation"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T14:25:21.013497+03:00",
+ "last_run": "2026-09-01T14:30:22.894183+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1696,6 +1696,10 @@
   {
    "d": "2026-09-01",
    "t": "Ukrainian Drone Barrage Sets Key Russian Oil Port Ablaze"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil prices jump as US, Iranian attacks stoke fears of escalation - Al Jazeera"
   }
  ]
 }
