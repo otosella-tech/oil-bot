@@ -4,12 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "57819bcaac3f259e",
-  "texasrrcnamesdavidlindleydirectorofoilandgasdivision",
-  "0b244cbc1aba2838",
-  "trumpvenezuelaoildealdrawsskepticismoverdemocraticreformimpa",
-  "364a35440e13797f",
-  "stockmarkettodayaug31stocksedgelowerasoilpricessurgeagain",
   "dda826edddd584b5",
   "iranwartriggersbillionsinnewoilpipelineandportinvestment",
   "f5a3164a3ffffa3f",
@@ -603,7 +597,13 @@
   "0cbf15dd27441a65",
   "tsxdownnearly450pointsasoilpricesriseusstockmarketsalsolower",
   "1bf2aa2fbfc6ba80",
-  "wticrudeoilbreakoutputs101targetinplay"
+  "wticrudeoilbreakoutputs101targetinplay",
+  "b8a5eaa3e3c183ee",
+  "trumpsaysvenezuelanoilcouldreplenishdepletedusstockpileswill",
+  "98de230591db0ce6",
+  "360energypulsewhatmatteredthismonthinenergy",
+  "206aba77c74ace00",
+  "globaloilpricessettleabove90abarrelafterusandiranexchangefir"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-02",
-  "count": 3
+  "count": 4
  },
- "last_run": "2026-09-02T00:25:15.402637+03:00",
+ "last_run": "2026-09-02T00:30:27.101016+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
