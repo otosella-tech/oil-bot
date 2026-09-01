@@ -4,8 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "d3a24c7118fb3e65",
-  "californiafishermenexpressconcernoveroffshoreoildrillingciti",
   "0dc0afcccecd258f",
   "usequityindexesfallwhilebenchmarktreasuryyieldjumpswithcrude",
   "324e53017056f9ef",
@@ -603,7 +601,9 @@
   "17d9aa2446713326",
   "crudeoilrisesonescalatingmiddleeasttensions",
   "678ef99c9a7665a3",
-  "vacamuertaoilproductiondrivesargentinatonewcruderecord"
+  "vacamuertaoilproductiondrivesargentinatonewcruderecord",
+  "56a86ae520dd4d3c",
+  "currentpriceofoilasofaugust262026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T22:30:21.279941+03:00",
+ "last_run": "2026-09-01T22:35:14.316580+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
