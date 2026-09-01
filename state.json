@@ -4,8 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "c402637e07f3b5c1",
-  "trumpfoundanunusualsolutiontohisvenezuelaproblem",
   "5e881dd100fb0eb7",
   "oil",
   "e5055bf8b8d29a2f",
@@ -603,7 +601,9 @@
   "d3210414e9a7f39e",
   "crudeoilfuturesriseonpositiveglobaltrends",
   "095d4ecb1358c252",
-  "usreleasesdetailsofitsoildealwithvenezuela"
+  "usreleasesdetailsofitsoildealwithvenezuela",
+  "13e0dd9b3eb04223",
+  "highcrudeoilpricespushupnationalaverage"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 58
  },
- "last_run": "2026-09-01T11:30:19.748159+03:00",
+ "last_run": "2026-09-01T11:35:16.703479+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
