@@ -4,12 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "4bea8fe6e9678fef",
-  "expertslawyerspuzzledoverusvenezuelaoildealcallforcontracttr",
-  "b0d756c79771b284",
-  "thesetankscanhold90millionbarrelsofoiltheyhavejust22million",
-  "f1490be73e1fcf72",
-  "crudeoilsurgesusiranstrikesthreatenhormuzsupply",
   "a24d13fa18f278a2",
   "filephotoanoilstoragetankandcrudeoilpipelineequipmentisseend",
   "284a45426039439b",
@@ -603,7 +597,13 @@
   "3db144cecc1168f4",
   "crudeoilpricesgainonfreshusirantensionssupplydisruptionconce",
   "e828e65671d977fd",
-  "depletedusoilstashlosespotencyasiranwargrindson"
+  "depletedusoilstashlosespotencyasiranwargrindson",
+  "ce9232ad838ea9a0",
+  "globaloilpricerisesto90abarrelafterusandirantradeattacks",
+  "438f1e16e10fe99e",
+  "crudeoilanalysiswhythisdieselcrackspikemattersforpricesatthe",
+  "bbc62ce15e96408b",
+  "wticrudeoilpriceanalysisforseptember12026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T14:50:16.344441+03:00",
+ "last_run": "2026-09-01T14:55:14.799159+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1708,6 +1708,10 @@
   {
    "d": "2026-09-01",
    "t": "Depleted US oil stash loses potency as Iran war grinds on - Reuters"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Global Oil Price Rises to $90 a Barrel After U.S. and Iran Trade Attacks - The New York Times"
   }
  ]
 }
