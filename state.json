@@ -4,16 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "19b2fa5a6639efbf",
-  "oilpricessurgehigherasusandiranexchangefireforfirsttimeinamo",
-  "48098f8c9797ed84",
-  "usandirantradefireforfirsttimeinamonth",
-  "4008836984f103b3",
-  "globaloilpricesjumpafterusandirantradeattacks",
-  "84771493eceed131",
-  "oilpricesjumpafterrenewedattacksbetweenusiran",
-  "8051b05d2d431197",
-  "trumpannouncesdealwithvenezuelatosecuremorethan65billionbarr",
   "c2a6e2b3a64d8f49",
   "japansoilimportsrise17injulyasussuppliesjump",
   "b80e44985dd77569",
@@ -603,7 +593,17 @@
   "cb4d6888e229b109",
   "trumpsdealforvenezuelasoilreservesunitessouthamericannationi",
   "1ed46b315f83295d",
-  "bondyieldssurgeasoilpricesfuelinflationworries"
+  "bondyieldssurgeasoilpricesfuelinflationworries",
+  "2bc9404ddcf41ce7",
+  "usenergystoragecapacityinstallationshitrecordhighinq2",
+  "08984ac28ee8bf78",
+  "currentpriceofoilasofaug312026",
+  "ab91b298c59b6077",
+  "usjudgerulesshaleoilantitrustcasecanproceedagainstmajorprodu",
+  "5bd78f9585f0a1e3",
+  "globaloilpricessurgeabove92abarrelafterreportofstrikesontwot",
+  "04db99e5c6a61ab1",
+  "whoisalejandrobetancourtexchavezallynowtrumpsvenezuelaoilman"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T17:25:13.834669+03:00",
+ "last_run": "2026-09-01T17:30:22.192501+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1772,6 +1772,10 @@
   {
    "d": "2026-09-01",
    "t": "Bond Yields Surge as Oil Prices Fuel Inflation Worries - WSJ"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Global oil prices surge above $92 a barrel after report of strikes on two tankers in the Strait of Hormuz - MarketWatch"
   }
  ]
 }
