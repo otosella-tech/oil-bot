@@ -4,10 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "13e0dd9b3eb04223",
-  "highcrudeoilpricespushupnationalaverage",
-  "1531516df12c1715",
-  "oilpricesclimbafterusstrikesiranianlaunchersonlarakisland",
   "0260e82f7ae34753",
   "currentpriceofoilasofaugust242026",
   "da4a4d5bf614b446",
@@ -603,7 +599,11 @@
   "881097ac33ea6929",
   "oilpricesupagainamidrenewedusirantensions",
   "3e12665dc9632fd2",
-  "wtiandbrentpushupwardextendingyeartodategains"
+  "wtiandbrentpushupwardextendingyeartodategains",
+  "edda0a49d2deb8b1",
+  "commentarytheamericasoilbonanzawilloutlasttheiranconflict",
+  "8dc3ce27072e2d04",
+  "oilpricesclimbasusiranianattacksstokefearsofescalation"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-01",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-09-01T09:10:18.707290+03:00",
+ "last_run": "2026-09-01T09:15:18.275769+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1612,6 +1612,14 @@
   {
    "d": "2026-09-01",
    "t": "Oil Prices Climb as Trump Threatens New Strikes on Iran"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "COMMENTARY: The Americas’ oil bonanza will outlast the Iran conflict - Reuters"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil prices climb as US, Iranian attacks stoke fears of escalation - Al Jazeera"
   }
  ]
 }
