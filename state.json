@@ -4,10 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "adcd6a5671deaf62",
-  "usstocksmostlylowerascrudeoilpricessurge",
-  "3301113c93ecea60",
-  "chinacokingcoalpricessetforrecord46monthlysurge",
   "c7d59d4e49dca160",
   "watchstocksfallasusiranstrikesspurrallyinoil",
   "b3be5d343025ee3c",
@@ -603,7 +599,11 @@
   "e3f5be594f3edbf7",
   "vacamuertasoilandgasisbuildinganargentinaforthefew",
   "fa0106298759c0e9",
-  "presidenttrumptomeetwithleadersinoilandgasasfuelpricescontin"
+  "presidenttrumptomeetwithleadersinoilandgasasfuelpricescontin",
+  "ccb0586a8287f0ce",
+  "globaloilpricessurgeabove94abarrelaftertheusstrikesiranianta",
+  "5ac0b92f009f9e65",
+  "usequityindexesdropastreasuryyieldscrudeoiljumpamidfreshmili"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T20:30:25.917815+03:00",
+ "last_run": "2026-09-01T20:35:17.382006+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1840,6 +1840,14 @@
   {
    "d": "2026-09-01",
    "t": "The U.S. Wants to Pump More Venezuelan Oil. Here’s What to Know. - The New York Times"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Global oil prices surge above $94 a barrel after the U.S. strikes Iranian targets - MarketWatch"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "US Equity Indexes Drop as Treasury Yields, Crude Oil Jump Amid Fresh Military Strikes on Iran - marketscreener.com"
   }
  ]
 }
