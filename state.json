@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "ad53eae27638cc7f",
-  "rbibacktorupeesrescuetocounteroilfedheadwindsstepsintoswapst",
   "13e0dd9b3eb04223",
   "highcrudeoilpricespushupnationalaverage",
   "1531516df12c1715",
@@ -603,7 +601,9 @@
   "ec8f0fb525ea3a0f",
   "wtiinsightsbypvm",
   "881097ac33ea6929",
-  "oilpricesupagainamidrenewedusirantensions"
+  "oilpricesupagainamidrenewedusirantensions",
+  "3e12665dc9632fd2",
+  "wtiandbrentpushupwardextendingyeartodategains"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 44
  },
- "last_run": "2026-09-01T09:00:22.896491+03:00",
+ "last_run": "2026-09-01T09:05:14.398354+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
