@@ -4,8 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "3f9560658ac1ed12",
-  "valerohalliburtonstandtogainfromvenezuelanoildeal",
   "89f849c7612aa7b3",
   "norwaywantseuropesenergymarketwithoutsharingitstrade",
   "26f81bd20cba0262",
@@ -603,7 +601,9 @@
   "e67ca19e13bc3e2f",
   "usshaleproducerslosebidtokilloilprice",
   "1b3cf4f140f32e48",
-  "energyetfstowatchasusvenezuelasignhistoricoildeal"
+  "energyetfstowatchasusvenezuelasignhistoricoildeal",
+  "c7f90380a77bd9b9",
+  "oilsettlesupbymorethan25asusandiranresumemilitaryattacks"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T23:45:17.916496+03:00",
+ "last_run": "2026-09-01T23:50:16.280225+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1959,6 +1959,10 @@
   {
    "d": "2026-09-01",
    "t": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz - MarketWatch"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil settles up by more than 2.5% as US and Iran resume military attacks - Reuters"
   }
  ]
 }
