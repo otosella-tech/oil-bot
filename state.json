@@ -4,10 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "a3156be4d0f48f6e",
-  "crudeoilpricesinterestratespressureeuropeanboursesmidday",
-  "fa0caa173d9622e5",
-  "trumppromiseshisvenezuelaoildealwilllowergaspricesbutwhen",
   "ebc4786a30e4b864",
   "usfuturesfallandoilpricessurgeafterushitsiraniansitesinthest",
   "79e944278636963e",
@@ -603,7 +599,11 @@
   "3c3008e0849876f1",
   "blockadesucceedswheresanctionsfailedasiranoilexportsstall",
   "6b8b0a91f1483f85",
-  "oiluparound2asrenewedusiranstrikesstokesupplyfears"
+  "oiluparound2asrenewedusiranstrikesstokesupplyfears",
+  "62d257d86140d169",
+  "oilclimbsasrenewedusirantensionsraiseriskstohormuzoilflows",
+  "0260e82f7ae34753",
+  "currentpriceofoilasofaugust242026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T16:20:16.776038+03:00",
+ "last_run": "2026-09-01T16:25:18.400265+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1744,6 +1744,10 @@
   {
    "d": "2026-09-01",
    "t": "Oil up around 2% as renewed US-Iran strikes stoke supply fears - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil climbs as renewed U.S.-Iran tensions raise risks to Hormuz oil flows - Investing.com"
   }
  ]
 }
