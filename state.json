@@ -4,20 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "989886c5a868a079",
-  "gulfrecoveryunderthreatusiranclashliftsoilprices",
-  "fcff1aee1b436ffb",
-  "russianoilisnolongerindiaseasybargain",
-  "54ad7b7ddade0f37",
-  "breakingviewscommentaryvenezuelaoildealraisestroublenotcapit",
-  "a45de94d2785a9e8",
-  "willtrumpsvenezuelaoildeallowerusgaspriceshereswhatexpertssa",
-  "f24ee826b140591c",
-  "trumptomeetwithoilexecsaboutcuttinggaspricesashisvenezuelans",
-  "78824486400765f2",
-  "updateequitiesfallintradayasoilpricesriseonrenewedusiranhost",
-  "8af58dd3ff2d3538",
-  "mortgageratessurgetothehighestsincejune2025asnewmiddleeastat",
   "1d34c9add4bc032a",
   "trumptomeetwithusoilrefinersaswhitehousepushestolowergaspric",
   "6911332be678473b",
@@ -603,7 +589,21 @@
   "b14b0d262923da61",
   "oilpricessettleupmorethan4abarrelonrenewedusiranfighting",
   "c8533b6880038312",
-  "oilsurges5onrenewedtensions"
+  "oilsurges5onrenewedtensions",
+  "c875b52c51166dd2",
+  "uslithiumminersfinallyhaveashotatcashingin",
+  "681a8c8c5c60b2bb",
+  "bessentsaysstraitofhormuzobsoletewithintwoyears",
+  "93e54b0f7febcf92",
+  "crudeoilwti",
+  "9da02dac9f19f010",
+  "herewegoagaintrumpsaysiranwillbetotallywipedoutasacountrycru",
+  "ec560e00a0ae3be6",
+  "crudeoilgoesverticalonfreshexplosionsinsoutherniran",
+  "eb49ccbf8ca367c7",
+  "intertankohormuzmineclearancenotsufficienttorestorenormalshi",
+  "a1a6bbda079a66d4",
+  "bondyieldsriseasoilpricesfaninflationfearsstocksslip"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T22:55:13.487296+03:00",
+ "last_run": "2026-09-01T23:00:30.441199+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1910,6 +1910,18 @@
   {
    "d": "2026-09-01",
    "t": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting - Reuters"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Bessent Says Strait of Hormuz Obsolete Within Two Years"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Crude Oil goes vertical on fresh explosions in southern Iran - Mitrade"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "INTERTANKO: Hormuz Mine Clearance ‘Not Sufficient’ to Restore Normal Shipping - gcaptain.com"
   }
  ]
 }
