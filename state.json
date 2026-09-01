@@ -4,8 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "a1cd6fd833686744",
-  "whitehousereleasestermsofoildealwithnorthamericanblueenergyp",
   "d19660a48328bd61",
   "the3trillionoilmarkethasjustgottenmoreaccessiblethanevernolo",
   "e615d7d5bfe5c57d",
@@ -603,7 +601,9 @@
   "10baa8c3a9304624",
   "uscrudeoilinventoriesresumedrawdown",
   "042d7bec49b4802b",
-  "usenergysecretarywilltraveltovenezuelatounveiloilarrangement"
+  "usenergysecretarywilltraveltovenezuelatounveiloilarrangement",
+  "519d935810f0eb25",
+  "usvenezuelaoildealwontreducedomesticgasolinepricesanytimesoo"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 19
  },
- "last_run": "2026-09-02T02:10:19.235964+03:00",
+ "last_run": "2026-09-02T02:15:15.166285+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
