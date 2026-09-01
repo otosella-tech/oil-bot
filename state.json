@@ -4,8 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "972bc4e9c331dde9",
-  "irandismissestrumpclaimofkhargattackashostilitiesreturn",
   "356f2300352b9bf8",
   "theminefreestraitofhormuz",
   "7a6f496ecdef9e8e",
@@ -603,7 +601,9 @@
   "77e052111144cabf",
   "foodinflationjumpsashigherenergycostshitukretailers",
   "292ddbd8af5d42ce",
-  "gaspricestickedhigherinaugustasiranwarenterssixthmonth"
+  "gaspricestickedhigherinaugustasiranwarenterssixthmonth",
+  "56f7816b55907649",
+  "twomoreoiltankersareattackedinthestraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T19:15:18.080526+03:00",
+ "last_run": "2026-09-01T19:20:16.615671+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1824,6 +1824,10 @@
   {
    "d": "2026-09-01",
    "t": "Gas prices ticked higher in August as Iran war enters sixth month - Washington Examiner"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Two More Oil Tankers Are Attacked in the Strait of Hormuz - The New York Times"
   }
  ]
 }
