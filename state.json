@@ -4,10 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "6be9c85e3ab9d434",
-  "indiasongctoinvest1trillionrupeesfordeepwaterexplorationsays",
-  "710a5a8442b53044",
-  "ussecurescontrolofvenezuelanoil",
   "e0064095cb659c02",
   "wallstreetfuturesfallasmiddleeastflareupand60fedhikeodds",
   "47fa9556cfd89514",
@@ -603,7 +599,11 @@
   "8bd246843943e5e8",
   "whyvenezuelaprobablywontsolveamericasemergencyoilproblem",
   "981b9729c806c1d4",
-  "usequityindexesretreatamidsurgingtreasuryyieldshighercrudeoi"
+  "usequityindexesretreatamidsurgingtreasuryyieldshighercrudeoi",
+  "2ae670d1b6cfd84e",
+  "oilpricesrise2asusiranfightingstokessupplyfears",
+  "d6db4f59220bc7ff",
+  "crudeoilmoveshigherstocksmovelowerasreportsofanamericanattac"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T19:40:16.969120+03:00",
+ "last_run": "2026-09-01T19:45:16.005331+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1828,6 +1828,14 @@
   {
    "d": "2026-09-01",
    "t": "Two More Oil Tankers Are Attacked in the Strait of Hormuz - The New York Times"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil prices rise 2% as US-Iran fighting stokes supply fears - Reuters"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Crude oil moves higher. Stocks move lower as reports of an American attack on Iran - investinglive.com"
   }
  ]
 }
