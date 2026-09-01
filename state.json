@@ -4,12 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "e5055bf8b8d29a2f",
-  "asianrefinersturntoargentinaasiranwardisruptsoilsupply",
-  "cf235a5b42218aa3",
-  "europestocksedgelowerasoiljumpsmonthlygaininsight",
-  "e863887dc0eb14eb",
-  "japansoilimportsussharesurgesto37asarabsupplydeclines",
   "036fd4da5a7d7e9f",
   "trumptorefillusreservewithvenezuelanoil",
   "5c494f47e3ad86b2",
@@ -603,7 +597,13 @@
   "13e0dd9b3eb04223",
   "highcrudeoilpricespushupnationalaverage",
   "e688104d1c9dbefb",
-  "daysaftertrumpannouncesvenezuelaoildealwhitehousefillsinsome"
+  "daysaftertrumpannouncesvenezuelaoildealwhitehousefillsinsome",
+  "da5b760e81859617",
+  "whitehouseunveilsmoredetailsoftrumpsvenezuelaoildeal",
+  "739a26404d896a0c",
+  "iranreadytojoinconstructionofoilrefineryinkyrgyzstan",
+  "85f377ca2c16c7ac",
+  "brentcruderisesabove91asusirantensionsescalate"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-01",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-09-01T11:45:16.114626+03:00",
+ "last_run": "2026-09-01T11:50:20.526869+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1644,6 +1644,10 @@
   {
    "d": "2026-09-01",
    "t": "Oil Rises on Renewed U.S.-Iran Hostilities - WSJ"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Iran Ready to Join Construction of Oil Refinery in Kyrgyzstan - Caspian Post"
   }
  ]
 }
