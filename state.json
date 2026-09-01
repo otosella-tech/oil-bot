@@ -4,12 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "eca9d2596adb61df",
-  "venezuelanoilexportssurgeastrumpseeksgreatercontrol",
-  "5a16e713e5c33af6",
-  "wtidipsbrenteasescrudefuturespullback",
-  "3acff7ec03d00ca3",
-  "dontexpectimmediaterelieffromtrumpsvenezuelaoildeal",
   "c55ae5360fc1f9ac",
   "thismaneuverisboostingoilshipmentsthroughthestraitofhormuz",
   "4f81a1a4a064a9b9",
@@ -603,7 +597,13 @@
   "4567c06b30bf4dbc",
   "canadianoilstockedgesintobuyzoneafter200earningsgrowth",
   "a130a0e5e3d264ab",
-  "dowjonesfuturesmarketbreakskeylevelsasoilpricesjumpdellcredo"
+  "dowjonesfuturesmarketbreakskeylevelsasoilpricesjumpdellcredo",
+  "4ab76890d7c18c89",
+  "turkeyshiftsfromrussiantoamericancrudeasiranwardisruptsenerg",
+  "d92c95029e5b6850",
+  "usequityindexesdropastreasuryyieldscrudeoilsurgefollowingfre",
+  "f2af57ec778d3e35",
+  "usdieselpricessoarasdonaldtrumphaulsinrefiners"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-02",
-  "count": 7
+  "count": 9
  },
- "last_run": "2026-09-02T01:00:25.526726+03:00",
+ "last_run": "2026-09-02T01:05:14.561492+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1679,6 +1679,18 @@
   {
    "d": "2026-09-02",
    "t": "Diesel crack spread surges to record $106 a barrel - Transport Topics"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Turkey shifts from Russian to American crude as Iran war disrupts energy supplies - Nordic Monitor"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "US Equity Indexes Drop as Treasury Yields, Crude Oil Surge Following Fresh Military Strikes on Iran - marketscreener.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "US diesel prices soar as Donald Trump hauls in refiners - Financial Times"
   }
  ]
 }
