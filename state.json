@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "dbbbce41de89c21f",
-  "canadatoutsoilpotentialfornewfoundlandandlabrador",
   "ad53eae27638cc7f",
   "rbibacktorupeesrescuetocounteroilfedheadwindsstepsintoswapst",
   "13e0dd9b3eb04223",
@@ -603,7 +601,9 @@
   "b1da7cc2ed25c3a0",
   "marketanalysisasiapacstocksaremostlysubdedafterrecentupsidei",
   "ec8f0fb525ea3a0f",
-  "wtiinsightsbypvm"
+  "wtiinsightsbypvm",
+  "881097ac33ea6929",
+  "oilpricesupagainamidrenewedusirantensions"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 44
  },
- "last_run": "2026-09-01T08:55:12.857195+03:00",
+ "last_run": "2026-09-01T09:00:22.896491+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
