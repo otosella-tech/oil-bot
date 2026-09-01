@@ -4,14 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "797f2041de6d199e",
-  "anewformofuscolonialismvenezuelansbristleatusoiltakeover",
-  "03023a9389edb6e7",
-  "stockmarketsdeclineamidrenewedtensionsinwestasiahighercrudeo",
-  "4684cc4c70a495a1",
-  "trumpsaysushasentereddealwithvenezuelatotakecontrolof65billi",
-  "f11c1234f2872455",
-  "trumpsvenezuelanoildealreliesonapowerfulanddivisivepartner",
   "4ea05e18b253bcbd",
   "currentpriceofoilasofaugust272026",
   "996f57acdc91b4ae",
@@ -603,7 +595,15 @@
   "4d236fcbada1f871",
   "westernsanctionsandukrainiandronestrikespushrussianoilproduc",
   "79e944278636963e",
-  "priceofoilrisesafterrenewedusiranfightinginmiddleeast"
+  "priceofoilrisesafterrenewedusiranfightinginmiddleeast",
+  "abbdc9e2e1d4d06a",
+  "chinarussiaandirantakecenterstageatscosummit",
+  "8211ee61b281d06f",
+  "assessingalbertasproposedwestcoastoilpipeline",
+  "ab618281ac70b649",
+  "oilupmorethan2asrenewedusiranstrikesstokesupplyfears",
+  "78042ddc520183f2",
+  "badawisaysegyptontracktorestoreoilgasproductionafterclearing"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T16:55:14.101967+03:00",
+ "last_run": "2026-09-01T17:00:28.791383+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1756,6 +1756,14 @@
   {
    "d": "2026-09-01",
    "t": "Western Sanctions and Ukrainian Drone Strikes Push Russian Oil Production to Lowest Since 2009 - UNITED24 Media"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "China, Russia, and Iran Take Center Stage at SCO Summit"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil up more than 2% as renewed US-Iran strikes stoke supply fears - Reuters"
   }
  ]
 }
