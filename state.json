@@ -4,12 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "70e31595db7a6653",
-  "regulatoryprocesslaunchedfor30moreyearsoftransalaskaoilpipel",
-  "72a8dadaf030cea8",
-  "trumpannouncedamassiveoildealwithvenezuelawhyitwontlowergasp",
-  "2a2b81ddd07848f7",
-  "aheadoflabordaymiddleeastfightingresumesandoilpricessurge",
   "4f0ac6e70fbd6241",
   "brentjumpsabove90afterflareupinusiranhostilities",
   "c7f90380a77bd9b9",
@@ -603,7 +597,13 @@
   "9e704c34a3e98c02",
   "uscrudeoilhits90perbarrelfollowinglatestusattacksagainstiran",
   "a0643fd99e4c9058",
-  "anunalignedcasefordevelopingvenezuelasenergysector"
+  "anunalignedcasefordevelopingvenezuelasenergysector",
+  "1626f5497a987298",
+  "bessentpredictsstraitofhormuzwillbeworthlessin2years",
+  "43f1c3dd38a177bb",
+  "usstocksslumpascrudeoilspikesonnewusattacksagainstiran",
+  "8b62e3c4e9c44e1a",
+  "middleeastconflictsendsoilupbondsdown"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T23:20:16.519547+03:00",
+ "last_run": "2026-09-01T23:25:16.509704+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1946,6 +1946,14 @@
   {
    "d": "2026-09-01",
    "t": "U.S. crude oil hits $90 per barrel following latest U.S. attacks against Iran - CNBC"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Bessent predicts Strait of Hormuz will be ‘worthless’ in 2 years - The Hill"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "U.S. Stocks Slump As Crude Oil Spikes On New U.S. Attacks Against Iran - rttnews.com"
   }
  ]
 }
