@@ -4,10 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "6a744548b3a24ad0",
-  "onceunderinvestigationvenezuelantycoonnowatcenterofmassiveus",
-  "61c29dc9e64d5411",
-  "venezuelawillrefillamericasoilreservesspx",
   "0f899fe900e2025c",
   "newtechbreakthroughaimstosolvetheworldsplasticwasteproblem",
   "0b9a7c2169754f4e",
@@ -603,7 +599,11 @@
   "1dee071d1d91e805",
   "chevronwillgrowvenezuelanoilproductionitsdifferentthantrumps",
   "a5db4ffdbc6edd13",
-  "realitychecktrumpsvenezuelaoildealmayhavelittleimmediateimpa"
+  "realitychecktrumpsvenezuelaoildealmayhavelittleimmediateimpa",
+  "b583b2c3cddf1166",
+  "usstocksfallasoilbondyieldsspikeusiranwarheatsup",
+  "faf73378f3f7b3b2",
+  "hubspotintuitasanasnowflakeandatlassiansharesarefallingwhaty"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-02",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-09-02T01:30:23.064869+03:00",
+ "last_run": "2026-09-02T01:35:13.597682+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1703,6 +1703,10 @@
   {
    "d": "2026-09-02",
    "t": "Chevron Will Grow Venezuelan Oil Production. It’s Different Than Trump’s Big Bet. - Barron's"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "U.S. Stocks Fall as Oil, Bond Yields Spike, U.S.-Iran War Heats Up - WSJ"
   }
  ]
 }
