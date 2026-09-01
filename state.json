@@ -4,8 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "c2b53419dee25984",
-  "trumptomeetwithusrefinersoverhighfuelpricesamidiranwar",
   "eca9d2596adb61df",
   "venezuelanoilexportssurgeastrumpseeksgreatercontrol",
   "5a16e713e5c33af6",
@@ -603,7 +601,9 @@
   "b6e025055ebb2e05",
   "dieselcrackspreadsurgestorecord106abarrel",
   "4567c06b30bf4dbc",
-  "canadianoilstockedgesintobuyzoneafter200earningsgrowth"
+  "canadianoilstockedgesintobuyzoneafter200earningsgrowth",
+  "a130a0e5e3d264ab",
+  "dowjonesfuturesmarketbreakskeylevelsasoilpricesjumpdellcredo"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 7
  },
- "last_run": "2026-09-02T00:55:15.383123+03:00",
+ "last_run": "2026-09-02T01:00:25.526726+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
