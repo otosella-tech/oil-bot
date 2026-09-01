@@ -4,8 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "dfa605d893f315b3",
-  "mexicosgreenenergypushisfinallygainingmomentum",
   "e828e65671d977fd",
   "depletedusoilstashlosespotencyasiranwargrindson",
   "ce9232ad838ea9a0",
@@ -603,7 +601,9 @@
   "2f5d34fb554fc0a7",
   "firstthingtodaygrainbullskeeptheirfootonthegas",
   "7024e0d0713d4c46",
-  "oilpricesjumpasusiranianattacksstokefearsofescalation"
+  "oilpricesjumpasusiranianattacksstokefearsofescalation",
+  "beed908fd93ee0b4",
+  "twosupertankershitbyunknownprojectilesinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T14:35:13.143212+03:00",
+ "last_run": "2026-09-01T14:40:15.767479+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1700,6 +1700,10 @@
   {
    "d": "2026-09-01",
    "t": "Oil prices jump as US, Iranian attacks stoke fears of escalation - Al Jazeera"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Two Supertankers Hit by Unknown Projectiles in Strait of Hormuz"
   }
  ]
 }
