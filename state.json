@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "85c781a80394e4e9",
-  "trumpsvenezuelaoildealwhatitmeansforglobaloilmarkets",
   "8721dbb8ad32e849",
   "oilpriceshigherasusirantensionsflareandwarshfansratehikes",
   "f20a8d44b2a205ee",
@@ -603,7 +601,9 @@
   "73069a0195328dae",
   "indianpmmodiimploresputintoendukrainewaramidustariffthreaton",
   "e497427510fbd151",
-  "howthepentagonisgettingintothevenezuelanoilbusinessundertrum"
+  "howthepentagonisgettingintothevenezuelanoilbusinessundertrum",
+  "12d5408636bc01c8",
+  "currentpriceofoilasofaugust282026"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 22
  },
- "last_run": "2026-09-01T05:00:23.986327+03:00",
+ "last_run": "2026-09-01T05:05:13.543295+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
