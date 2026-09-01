@@ -4,8 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "f90c1189df1cff3e",
-  "uscrudeoilreservesincreaseaccordingtotheeia",
   "ebac74bf5f2665bc",
   "oilrisesasusiranresumemilitaryattacks",
   "88ada27694fee020",
@@ -603,7 +601,9 @@
   "57da4984de2fd9c6",
   "whitehouseoutlinesvenezueladealastrumpvowstotakealltheoil",
   "d60ab84316e6c5aa",
-  "iraqfasttracksstrategic46bpipelinenetworktoexpandcrudeexport"
+  "iraqfasttracksstrategic46bpipelinenetworktoexpandcrudeexport",
+  "3a30e556a7cc2bf7",
+  "economicletterfromasialingeringunease"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 54
  },
- "last_run": "2026-09-01T10:50:17.590542+03:00",
+ "last_run": "2026-09-01T10:55:15.455666+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
