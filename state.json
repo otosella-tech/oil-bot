@@ -4,14 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "efc7e96e9e9b84f7",
-  "whatsaffectingoilpricesthisweekaug312026",
-  "beff99c8e685c936",
-  "europegaspricesjump5tohighestlevelsince2023",
-  "8670344457d40abb",
-  "oilstocksinusstrategicpetroleumreservefallby31millionbarrels",
-  "aade40a25b25d058",
-  "preparingcriticaloffshoreassetsforpeakhurricaneseason",
   "4450ec1ccdc05427",
   "vancesaysusalreadyseeingsurgeinoilproductionfromvenezuela",
   "565be5425fa2f3cc",
@@ -603,7 +595,15 @@
   "b0201c1d9028d3e0",
   "adpjobsreportoilinventoriesandfedbeigebookduewednesday",
   "163dd0f5e1ca33c5",
-  "oilnewscrudeoilfuturessurgeascentcomstrikesreshapebullishout"
+  "oilnewscrudeoilfuturessurgeascentcomstrikesreshapebullishout",
+  "e9a5053f4b722316",
+  "oiladdstogainsasusconductsmorestrikesagainstiran",
+  "fa1eb120b2d566b4",
+  "canadianoilstockshootsintobuyzoneafter200earningsgrowth",
+  "cc4a686ca59a48ad",
+  "crudeoilsurgestoward90",
+  "9ab6de1ccfe59ff4",
+  "martincountyauthoritiesseekpublicshelpinlocatingcrudeoilthef"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T21:15:18.654373+03:00",
+ "last_run": "2026-09-01T21:20:18.118928+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1864,6 +1864,14 @@
   {
    "d": "2026-09-01",
    "t": "A Venezuelan oilman faced a Swiss arrest warrant. The U.S. had other plans for him. - The Washington Post"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil Adds to Gains As U.S. Conducts More Strikes Against Iran - WSJ"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Crude Oil Surges Toward $90 - TradingView"
   }
  ]
 }
