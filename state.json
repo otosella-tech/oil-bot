@@ -4,14 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "1d34c9add4bc032a",
-  "trumptomeetwithusoilrefinersaswhitehousepushestolowergaspric",
-  "6911332be678473b",
-  "canadiandollarreboundsfromtwoweeklowhelpedbymonthendhedgingf",
-  "e33fb6e5d6657faa",
-  "bpadds80mmcfdtoegyptsgassupplytwoyearsaheadofschedule",
-  "6d98382435835b15",
-  "brentoilsurgesbackabove90astheusstrikesiranforfirsttimeinamo",
   "378ca49e0f509837",
   "nasdaq100futuresindextesting50daymasupportascrudeoilspikesto",
   "aea6c2589c240129",
@@ -603,7 +595,15 @@
   "eb49ccbf8ca367c7",
   "intertankohormuzmineclearancenotsufficienttorestorenormalshi",
   "a1a6bbda079a66d4",
-  "bondyieldsriseasoilpricesfaninflationfearsstocksslip"
+  "bondyieldsriseasoilpricesfaninflationfearsstocksslip",
+  "56fc555461bd767e",
+  "the3trillionoilmarketisbecomingmoreaccessiblethanevernolonge",
+  "2a87b526e4c3546b",
+  "nabepplans100billionvenezuelainvestmenttargets1millionbdoilo",
+  "2e855e2c2a1bb259",
+  "russianoilisnolongerindiaseasybargain",
+  "a45de94d2785a9e8",
+  "willtrumpsvenezuelaoildeallowerusgaspriceshereswhatexpertssa"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T23:00:30.441199+03:00",
+ "last_run": "2026-09-01T23:05:17.612456+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1922,6 +1922,14 @@
   {
    "d": "2026-09-01",
    "t": "INTERTANKO: Hormuz Mine Clearance ‘Not Sufficient’ to Restore Normal Shipping - gcaptain.com"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "NABEP plans $100 billion Venezuela investment, targets 1 million b/d oil output - S&P Global"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Russian Oil Is No Longer India's Easy Bargain - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
