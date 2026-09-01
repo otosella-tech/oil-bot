@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 88.89,
-  "Brent": 91.75
+  "Brent": 93.96
  },
  "seen": [
-  "7a6f496ecdef9e8e",
-  "aheadoflabordaymideastfightingresumesandoilpricessurge",
   "80f5edad319625bc",
   "iranskhargislandthestrategichubattheheartofitsoilindustry",
   "6be9c85e3ab9d434",
@@ -603,7 +601,9 @@
   "56f7816b55907649",
   "twomoreoiltankersareattackedinthestraitofhormuz",
   "490a08463e9398dc",
-  "thebiggestoildealortheftatgunpointusclaimsmajoritycontrolofv"
+  "thebiggestoildealortheftatgunpointusclaimsmajoritycontrolofv",
+  "8bd246843943e5e8",
+  "whyvenezuelaprobablywontsolveamericasemergencyoilproblem"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T19:30:22.147404+03:00",
+ "last_run": "2026-09-01T19:35:13.777089+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
