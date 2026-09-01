@@ -4,10 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "17bbd0ea39fb9201",
-  "oilnamesmixwithaistocksonelitescreenasthreetradenearbuypoint",
-  "a7bf09188edc05da",
-  "ataleoftwopatchesslopeinletoilgasfortunesdiverge",
   "cefcd3f24144930f",
   "currentpriceofoilasofaugust262026",
   "d3a24c7118fb3e65",
@@ -603,7 +599,11 @@
   "c34c90a62bfb31c8",
   "trumppromiseshisvenezuelaoildealwillfillupthestrategicpetrol",
   "4f22a04dc5e596c6",
-  "releasingthetermswhitehousereleasestermsofoildealwithnortham"
+  "releasingthetermswhitehousereleasestermsofoildealwithnortham",
+  "773742018c46aa5d",
+  "brentcrudeoilisupby5",
+  "17d9aa2446713326",
+  "crudeoilrisesonescalatingmiddleeasttensions"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T22:15:19.321748+03:00",
+ "last_run": "2026-09-01T22:20:18.881717+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
