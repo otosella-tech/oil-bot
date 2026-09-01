@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "9631eb09e36633ef",
-  "crudeoilfuturesgainafterusforcesattackiranianisland",
   "dcd15621e848f073",
   "oilrisestoabove90asusandiranresumestrikes",
   "34bfae8a3864a64f",
@@ -603,7 +601,9 @@
   "6e136e72114294fa",
   "thisoilmajorisperfectlypositionedtobenefitfromtrumpsoildealw",
   "78dda0bcd5f3245c",
-  "tradecrudeoilwithjust860cmeshrinkswtifuturescontractsizeto10"
+  "tradecrudeoilwithjust860cmeshrinkswtifuturescontractsizeto10",
+  "d8c573dd180ff093",
+  "istaiwanamericasonlyleverageoverchinaoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-01",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-09-01T05:55:13.262916+03:00",
+ "last_run": "2026-09-01T06:00:26.304668+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1580,6 +1580,10 @@
   {
    "d": "2026-09-01",
    "t": "EXCLUSIVE: Officials: US firm to take over some Venezuela oilfields previously run by Chinese, Russian firms - Reuters"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Is Taiwan America's Only Leverage Over China on Iran?"
   }
  ]
 }
