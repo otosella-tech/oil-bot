@@ -4,8 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "0dc0afcccecd258f",
-  "usequityindexesfallwhilebenchmarktreasuryyieldjumpswithcrude",
   "324e53017056f9ef",
   "tennesseegaspricesrise2cents",
   "989886c5a868a079",
@@ -603,7 +601,9 @@
   "678ef99c9a7665a3",
   "vacamuertaoilproductiondrivesargentinatonewcruderecord",
   "56a86ae520dd4d3c",
-  "currentpriceofoilasofaugust262026"
+  "currentpriceofoilasofaugust262026",
+  "b14b0d262923da61",
+  "oilpricessettleupmorethan4abarrelonrenewedusiranfighting"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T22:35:14.316580+03:00",
+ "last_run": "2026-09-01T22:40:23.888394+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1904,6 +1904,10 @@
   {
    "d": "2026-09-01",
    "t": "Trump promises his Venezuela oil deal will 'fill up' the Strategic Petroleum Reserve. It's not that simple. - finance.yahoo.com"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting - Reuters"
   }
  ]
 }
