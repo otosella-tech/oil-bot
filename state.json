@@ -4,10 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "da86c12b263de9ef",
-  "historicvenezuelaoildealenergysecuritykeypolicyupdates",
-  "ca2ddf2fc93b07d9",
-  "gaspricestickupaheadoflabordayweekend",
   "4bba4ea03b7bdcad",
   "chevronandexxonmobilrise3asusstrikesoniranpushwticrudeoilto8",
   "3902a8467004df58",
@@ -603,7 +599,11 @@
   "d39f8542fb8e1f41",
   "asiaspotlngpriceshit5",
   "944274cac33855c8",
-  "cruderalliesonconcernofprolongeddisruptiontomiddleeastoilsup"
+  "cruderalliesonconcernofprolongeddisruptiontomiddleeastoilsup",
+  "17f05aa7a7ff15e5",
+  "usstocksseeingfurtherdownsideascrudeoilextendssurge",
+  "93c3af1b24b0afb5",
+  "twotankerscarryingsaudicrudeoilattackedinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T18:40:17.470850+03:00",
+ "last_run": "2026-09-01T18:45:17.905630+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1816,6 +1816,10 @@
   {
    "d": "2026-09-01",
    "t": "Asia Spot LNG Prices Hit 5-Month High as Hormuz Blockage Drags On"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Two tankers carrying Saudi crude oil attacked in Strait of Hormuz - سانا"
   }
  ]
 }
