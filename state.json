@@ -4,14 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "dab48397f8966055",
-  "bondmarketsfacefreshsellingasoilpricesjumpstockscautious",
-  "c4a82a070a81861e",
-  "iranstillwantsnegotiatedendtowarpresidentsaysafterexchangeso",
-  "ab752c3ebdeacf21",
-  "asiastepsintofilldieselsupplygapinafricaasmiddleeastexportsc",
-  "da8a1088d85c4a37",
-  "nigeriaseconomyexpandsby44inq2liftedbyoilandnonoilsectors",
   "f2c8e351e498f454",
   "oiljumpsonusiranattackschevronrisesamidvenezueladeal",
   "4aedbcec95adb827",
@@ -603,7 +595,15 @@
   "ac649bfc2fc10ec3",
   "clarksvillecontinuestoranksecondforcheapestgaspricesintennes",
   "edc8587f7791d91b",
-  "blockadesucceedswheresanctionsfailedasiranoilexportsstallal"
+  "blockadesucceedswheresanctionsfailedasiranoilexportsstallal",
+  "0b40cec712aa3b14",
+  "oilbeginsseptemberhigheronrenewedhormuzstrikes",
+  "1319dabe2fc96635",
+  "sellingcontinuesanditsnotjustoil",
+  "8e801508d910301d",
+  "commentaryasiascrudeoilimportsstaysoftinaugustchallengingush",
+  "f4684fbefe6ebf14",
+  "alejandrobetancourtthecontroversialvenezuelanoiltycoontrumpi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T18:05:19.389769+03:00",
+ "last_run": "2026-09-01T18:10:16.545907+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1792,6 +1792,14 @@
   {
    "d": "2026-09-01",
    "t": "Blockade succeeds where sanctions failed as Iran oil exports stall - Al-Monitor"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil Begins September Higher on Renewed Hormuz Strikes - DTN Progressive Farmer"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "COMMENTARY: Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters"
   }
  ]
 }
