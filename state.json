@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "34bfae8a3864a64f",
-  "oilpricesrisebyover2percentfollowingescalationofconflictbetw",
   "9a41cf914784405e",
   "whatsmartpeoplearesayingabouttrumpsacquisitionofvenezuelanoi",
   "c5e4a5854ee706e7",
@@ -603,7 +601,9 @@
   "d8c573dd180ff093",
   "istaiwanamericasonlyleverageoverchinaoniran",
   "12c3e29a001a5241",
-  "palmoilpricesroseascrudeoilandsoyoilfirmed"
+  "palmoilpricesroseascrudeoilandsoyoilfirmed",
+  "55221fda7cfff3aa",
+  "whitehousesaysdealtotakecontrolofvenezuelanoilwillrelyonnort"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 26
  },
- "last_run": "2026-09-01T06:15:17.199585+03:00",
+ "last_run": "2026-09-01T06:20:16.971749+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
