@@ -4,10 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "b42437425c5a918e",
-  "oilrisesasusirantensionsescalates",
-  "a636360db5368d61",
-  "japanscrudeoilimportsclimb17injulyonussupplies",
   "576b014ed7bed61a",
   "brentoilsurgesbackabove90asusstrikesiranforfirsttimeinamonth",
   "c47f48eee47e42ac",
@@ -603,7 +599,11 @@
   "9a8a87ce84b577f0",
   "yourtuesdaysept1guidefivethingstodointheoilcity",
   "220bce344c7626f3",
-  "letterswhyslaptariffsoncanadianoilletsconserveinstead"
+  "letterswhyslaptariffsoncanadianoilletsconserveinstead",
+  "4280c42c0549454f",
+  "goldpricehitstwoweeklowaswarshrepricingoilshockliftyieldskit",
+  "ef89b081ff199272",
+  "saudiandsouthkoreanoiltankershitinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T15:55:17.378373+03:00",
+ "last_run": "2026-09-01T16:00:25.254121+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1724,6 +1724,10 @@
   {
    "d": "2026-09-01",
    "t": "Oil gains as renewed U.S.-Iran tensions raise risks to Hormuz oil flows - Investing.com"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Saudi and South Korean oil tankers hit in Strait of Hormuz - Financial Times"
   }
  ]
 }
