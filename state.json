@@ -4,8 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "036fd4da5a7d7e9f",
-  "trumptorefillusreservewithvenezuelanoil",
   "5c494f47e3ad86b2",
   "theusvenezuelaoildealwontloweryourgaspriceshereswhatyouneedt",
   "e059bf6a825abfdb",
@@ -603,7 +601,9 @@
   "739a26404d896a0c",
   "iranreadytojoinconstructionofoilrefineryinkyrgyzstan",
   "85f377ca2c16c7ac",
-  "brentcruderisesabove91asusirantensionsescalate"
+  "brentcruderisesabove91asusirantensionsescalate",
+  "e1ef33d2c47faa68",
+  "crudeoilpriceforecastcanithit100againinseptemberamidflaringu"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T12:00:27.062662+03:00",
+ "last_run": "2026-09-01T12:05:14.889970+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
