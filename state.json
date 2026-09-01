@@ -4,8 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "10fd2773dc0f6e58",
-  "brentoiltops90afterfirstusandiranfightinginamonth",
   "9e1f8b0af9d62072",
   "aaagaspriceselevatedasholidayweekendapproaches",
   "9247121fc75a2d4c",
@@ -603,7 +601,9 @@
   "b7b201fd293f7c26",
   "whatweknowabouttrumpsdealgivingusaccesstovastoilreservesinve",
   "f3544bc1f298b4d3",
-  "crudeoiltops90abarrelafterusiranstrikes"
+  "crudeoiltops90abarrelafterusiranstrikes",
+  "ea575e26d4ab58f7",
+  "oiltankerstruckbythreeprojectilesinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T12:50:18.167312+03:00",
+ "last_run": "2026-09-01T12:55:13.775452+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1656,6 +1656,10 @@
   {
    "d": "2026-09-01",
    "t": "Crude oil tops $90 a barrel after US-Iran strikes - Latest news from Azerbaijan"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil Tanker Struck by Three Projectiles in Strait of Hormuz - IranWire"
   }
  ]
 }
