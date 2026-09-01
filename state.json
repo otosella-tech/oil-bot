@@ -4,10 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "0bd71c41cecb339f",
-  "oilpricesupportedbyrenewedgeopoliticalrisk",
-  "e06dd4a1a6820744",
-  "stockscautiousonusiranescalationbondyieldshitmultiyearhighs",
   "16f6e2c792014fa3",
   "futurescrudeoilchartdaily",
   "a2cf8439cd3894e9",
@@ -603,7 +599,11 @@
   "7acbd1ad3e2f87da",
   "thestraitofhormuzwitnessesconsecutiveattacksoncrudeoiltanker",
   "1f01edf77fee43ad",
-  "oilpricesriseasrenewedusiranfightingdeepenshormuzsupplyrisks"
+  "oilpricesriseasrenewedusiranfightingdeepenshormuzsupplyrisks",
+  "65c8fb2989136370",
+  "chinasnextmovemaydecidewhetheroilpricessoar",
+  "223fce11a787c71a",
+  "mappingthemarketdeathcrosstogoldencrossforglobaloilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T13:20:18.620561+03:00",
+ "last_run": "2026-09-01T13:25:13.986662+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1676,6 +1676,10 @@
   {
    "d": "2026-09-01",
    "t": "Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "China’s Next Move May Decide Whether Oil Prices Soar - The New York Times"
   }
  ]
 }
