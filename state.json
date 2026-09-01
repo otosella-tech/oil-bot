@@ -4,8 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "e828e65671d977fd",
-  "depletedusoilstashlosespotencyasiranwargrindson",
   "ce9232ad838ea9a0",
   "globaloilpricerisesto90abarrelafterusandirantradeattacks",
   "4bea8fe6e9678fef",
@@ -603,7 +601,9 @@
   "7024e0d0713d4c46",
   "oilpricesjumpasusiranianattacksstokefearsofescalation",
   "beed908fd93ee0b4",
-  "twosupertankershitbyunknownprojectilesinstraitofhormuz"
+  "twosupertankershitbyunknownprojectilesinstraitofhormuz",
+  "3db144cecc1168f4",
+  "crudeoilpricesgainonfreshusirantensionssupplydisruptionconce"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T14:40:15.767479+03:00",
+ "last_run": "2026-09-01T14:45:17.798466+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
