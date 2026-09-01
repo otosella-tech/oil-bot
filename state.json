@@ -4,10 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "151da7f9f38f552d",
-  "oilrisesover2asusandiranresumemilitaryattacks",
-  "d280c889df134819",
-  "oilpricesriseandstocksfallafterushitsiraniansitesinthestrait",
   "a57fd4a08dab7735",
   "currentpriceofoilasofaug192026",
   "0dafa4dc707edb77",
@@ -603,7 +599,11 @@
   "da532dae0c157b62",
   "us",
   "1bca5218fad10cdd",
-  "2oiltankersstruckonstraitofhormuznocasualtiesreported"
+  "2oiltankersstruckonstraitofhormuznocasualtiesreported",
+  "83da6925f9c0fa36",
+  "usiranstrikesput100oilbackinfocus",
+  "87377534480a3175",
+  "bondselloffdeepensandstocksdropasoilpricesstokeinflationfear"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T18:20:17.462997+03:00",
+ "last_run": "2026-09-01T18:25:15.905090+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1808,6 +1808,10 @@
   {
    "d": "2026-09-01",
    "t": "2 oil tankers struck on Strait of Hormuz; no casualties reported - upi.com"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "U.S.-Iran Strikes Put $100 Oil Back in Focus - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
