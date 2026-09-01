@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "2005431da258b565",
-  "asiansharesusfuturesretreatandoilpricessurgeafterusstrikeoni",
   "f8e535e1ae027af3",
   "oilstocksretailinvestorsarewatchingfordirectcrudepriceexposu",
   "926ae8110e698da1",
@@ -603,7 +601,9 @@
   "20827948a36b0239",
   "asusvenezuelaoildealtakesshapeherearethekeypoints",
   "3adf4e69d78d30f4",
-  "trumpsaysuswillrefillstrategicpetroleumreserveusingvenezuela"
+  "trumpsaysuswillrefillstrategicpetroleumreserveusingvenezuela",
+  "2e225325b8fc8d65",
+  "oilclimbspast90asmiddleeastconflictkeepsstraitofhormuzshut"
  ],
  "releases_done": {},
  "last_digest": "2026-08-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-01",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-09-01T07:45:15.032667+03:00",
+ "last_run": "2026-09-01T07:50:18.037371+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1604,6 +1604,10 @@
   {
    "d": "2026-09-01",
    "t": "Trump says US will refill Strategic Petroleum Reserve using Venezuelan oil - Reuters"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil climbs past $90 as Middle East conflict keeps Strait of Hormuz shut - The Times of India"
   }
  ]
 }
