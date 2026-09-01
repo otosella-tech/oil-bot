@@ -4,10 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "524526b17d89a308",
-  "thelatesttrumpsaysvenezuelaagreedtogiveuscontrolof65billionb",
-  "5f40277216a33fd0",
-  "howtheusandmiddleeastalliesflippedtheoilscriptoniran",
   "08984ac28ee8bf78",
   "currentpriceofoilasofaug312026",
   "19b2fa5a6639efbf",
@@ -603,7 +599,11 @@
   "586b7ef301bb1fb0",
   "trumpadministrationunveilsadditionaldetailsinvenezuelaoildea",
   "fd94e73a73f11c1f",
-  "goldhalvesaugustjumponwarfuelledoilfoodpriceinflation"
+  "goldhalvesaugustjumponwarfuelledoilfoodpriceinflation",
+  "df4c1ac39faea8d1",
+  "trumpspeedsupenvironmentalreviewforalaskaoilpipeline",
+  "cb4d6888e229b109",
+  "trumpsdealforvenezuelasoilreservesunitessouthamericannationi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T17:15:18.489439+03:00",
+ "last_run": "2026-09-01T17:20:17.740661+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1764,6 +1764,10 @@
   {
    "d": "2026-09-01",
    "t": "Oil up more than 2% as renewed US-Iran strikes stoke supply fears - Reuters"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Trump’s Deal for Venezuela’s Oil Reserves Unites South American Nation in Anger - Bloomberg.com"
   }
  ]
 }
