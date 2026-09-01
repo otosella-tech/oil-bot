@@ -4,10 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "9ab6de1ccfe59ff4",
-  "martincountyauthoritiesseekpublicshelpinlocatingcrudeoilthef",
-  "5c5cb0b539b8746b",
-  "iranweakenedbutdefiantafter6monthsofwar",
   "47be3d9e9dabd7e6",
   "indiasongctoinvest105billionfordeepwaterexplorationchairmans",
   "e0caeff1a26e3c3f",
@@ -603,7 +599,11 @@
   "f6fdee303238c2af",
   "oilpricessurgeafterusrenewsiranstrikesheighteninginflationfe",
   "fb61c57ad0dcb911",
-  "oilgiantchevronisexpectedtoannounceitwillexpandoperationsinv"
+  "oilgiantchevronisexpectedtoannounceitwillexpandoperationsinv",
+  "3caf85bf3fc2b2d8",
+  "twotankerscarryingsaudioilattackedinstraitofhormuzal",
+  "a81ea0895766b65d",
+  "analystsseesmallwithdrawalinuscrudeoilstockpiles"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T20:50:18.597849+03:00",
+ "last_run": "2026-09-01T20:55:16.873818+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1852,6 +1852,10 @@
   {
    "d": "2026-09-01",
    "t": "Oil prices surge after U.S. renews Iran strikes, heightening inflation fears - NBC News"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Two tankers carrying Saudi oil attacked in Strait of Hormuz - Al-Monitor"
   }
  ]
 }
