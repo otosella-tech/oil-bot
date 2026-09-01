@@ -4,8 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "34dbc6c05fde2974",
-  "crudeoilpricestheminesnotthebarrels",
   "efc7e96e9e9b84f7",
   "whatsaffectingoilpricesthisweekaug312026",
   "beff99c8e685c936",
@@ -603,7 +601,9 @@
   "7a258366d031fb61",
   "driversinoregonandnationwidetopayhighestgaspriceseverforlabo",
   "b0201c1d9028d3e0",
-  "adpjobsreportoilinventoriesandfedbeigebookduewednesday"
+  "adpjobsreportoilinventoriesandfedbeigebookduewednesday",
+  "163dd0f5e1ca33c5",
+  "oilnewscrudeoilfuturessurgeascentcomstrikesreshapebullishout"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T21:10:18.291497+03:00",
+ "last_run": "2026-09-01T21:15:18.654373+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
