@@ -4,10 +4,6 @@
   "Brent": 91.75
  },
  "seen": [
-  "72fcb4ae60e994cf",
-  "currentpriceofoilasofaugust202026",
-  "524627bef6c468d6",
-  "whyisntthepriceofoilevenhigher",
   "6a5e3f66dbd14ef8",
   "hawaiispainatthepumpisoilgiantsgain",
   "6514d1dff1f03c0c",
@@ -603,7 +599,11 @@
   "8372d91b4afb30ee",
   "oilrisesasrenewedusiranstrikesstokesupplyfears",
   "d11517fb31a771ae",
-  "globaloilpricesextendmoveover90afterreportoftwotankersstruck"
+  "globaloilpricesextendmoveover90afterreportoftwotankersstruck",
+  "d13ab0459122af7c",
+  "ukrainiandronebarragesetskeyrussianoilportablaze",
+  "60b289e54f1d8cf8",
+  "whatistheoilgasimpactofstormedouard"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-01",
   "count": 60
  },
- "last_run": "2026-09-01T13:40:19.329681+03:00",
+ "last_run": "2026-09-01T13:45:18.594208+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1692,6 +1692,10 @@
   {
    "d": "2026-09-01",
    "t": "Global oil prices extend move over $90 after report of two tankers struck in Hormuz - marketwatch.com"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Ukrainian Drone Barrage Sets Key Russian Oil Port Ablaze"
   }
  ]
 }
