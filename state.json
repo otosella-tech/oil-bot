@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "67bf4edbe1e130ab",
-  "uscompaniesscouringfordealsforvenezuelanoil",
   "7a90631ccd2f94c4",
   "crudeoilwtichargestoward8769resistancelivelevelsbyinvestingc",
   "dfae8a197f8b2d45",
@@ -603,7 +601,9 @@
   "5843d4685e09f627",
   "sasolearningsup9onhigheroilpricesfuelsalesvolumes",
   "ec52aac29a12797e",
-  "tradecrudeoilwithjust860cmereduceswtifuturescontractsizeto10"
+  "tradecrudeoilwithjust860cmereduceswtifuturescontractsizeto10",
+  "ff7eecb1e0ad9582",
+  "candonaldtrumps65bnbarreldealrevivevenezuelasoilindustry"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-01",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-09-01T09:20:17.996170+03:00",
+ "last_run": "2026-09-01T09:25:15.331798+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1620,6 +1620,10 @@
   {
    "d": "2026-09-01",
    "t": "Oil prices climb as US, Iranian attacks stoke fears of escalation - Al Jazeera"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Can Donald Trump’s 65bn-barrel deal revive Venezuela’s oil industry? - Financial Times"
   }
  ]
 }
