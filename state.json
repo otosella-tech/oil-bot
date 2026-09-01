@@ -4,8 +4,6 @@
   "Brent": 87.64
  },
  "seen": [
-  "7a90631ccd2f94c4",
-  "crudeoilwtichargestoward8769resistancelivelevelsbyinvestingc",
   "dfae8a197f8b2d45",
   "irandismissestrumpspostofattackonkeyenergyhubofkharg",
   "f8dcb87a12ca5a20",
@@ -603,7 +601,9 @@
   "ec52aac29a12797e",
   "tradecrudeoilwithjust860cmereduceswtifuturescontractsizeto10",
   "ff7eecb1e0ad9582",
-  "candonaldtrumps65bnbarreldealrevivevenezuelasoilindustry"
+  "candonaldtrumps65bnbarreldealrevivevenezuelasoilindustry",
+  "1839687739170b9f",
+  "oilpricesriseandstocksfallafterushitsiraniantargetsinthestra"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-01",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-09-01T09:25:15.331798+03:00",
+ "last_run": "2026-09-01T09:30:20.499028+03:00",
  "sent_stories": [
   {
    "d": "2026-08-29",
@@ -1624,6 +1624,10 @@
   {
    "d": "2026-09-01",
    "t": "Can Donald Trump’s 65bn-barrel deal revive Venezuela’s oil industry? - Financial Times"
+  },
+  {
+   "d": "2026-09-01",
+   "t": "Oil prices rise and stocks fall after U.S. hits Iranian targets in the Strait of Hormuz - Los Angeles Times"
   }
  ]
 }
