@@ -4,8 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "3489aa7a1e0ee3c0",
-  "crudeoilhits5weekhigh",
   "6cf9253ca890a7b5",
   "pricenotpoliticsisdrivingmostofindiasoilbuying",
   "93d734134c1f3736",
@@ -603,7 +601,9 @@
   "a9a1658c4f779b5d",
   "wticrudeoilfuturesholdnear86asmiddleeasttensionspersist",
   "8e0fb06a348b7fc0",
-  "theusvenezuelaoildealwontloweryourgaspriceshereswhatyouneedt"
+  "theusvenezuelaoildealwontloweryourgaspriceshereswhatyouneedt",
+  "d404ec15b0e80c4c",
+  "globalbondyieldssurgeasoilpricesfuelinflationworries"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-02",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-09-02T07:29:27.658256+03:00",
+ "last_run": "2026-09-02T07:30:22.767919+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1800,6 +1800,10 @@
   {
    "d": "2026-09-02",
    "t": "Iran Ready to Join Construction of Oil Refinery in Kyrgyzstan - Caspian Post"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Global Bond Yields Surge as Oil Prices Fuel Inflation Worries - wsj.com"
   }
  ]
 }
