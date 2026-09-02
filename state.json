@@ -4,14 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "490a08463e9398dc",
-  "thebiggestoildealortheftatgunpointusclaimsmajoritycontrolofv",
-  "8bd246843943e5e8",
-  "whyvenezuelaprobablywontsolveamericasemergencyoilproblem",
-  "981b9729c806c1d4",
-  "usequityindexesretreatamidsurgingtreasuryyieldshighercrudeoi",
-  "2ae670d1b6cfd84e",
-  "oilpricesrise2asusiranfightingstokessupplyfears",
   "d6db4f59220bc7ff",
   "crudeoilmoveshigherstocksmovelowerasreportsofanamericanattac",
   "d44ea67de98c8efd",
@@ -603,7 +595,15 @@
   "17f05aa7a7ff15e5",
   "usstocksseeingfurtherdownsideascrudeoilextendssurge",
   "93c3af1b24b0afb5",
-  "twotankerscarryingsaudicrudeoilattackedinstraitofhormuz"
+  "twotankerscarryingsaudicrudeoilattackedinstraitofhormuz",
+  "4008836984f103b3",
+  "globaloilpricesjumpafterusandirantradeattacks",
+  "751677aa40971b3e",
+  "oilhoverscloseto95asmiddleeastconflictfurtherpressuresbonds",
+  "56f7816b55907649",
+  "twomoreoiltankersareattackedinthestraitofhormuz",
+  "e9a325dec09aa88e",
+  "thesecrethistoryoftrumpsvenezuelanoilbaron"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T13:25:15.291230+03:00",
+ "last_run": "2026-09-02T13:30:20.529650+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1944,6 +1944,14 @@
   {
    "d": "2026-09-02",
    "t": "Two tankers carrying Saudi crude oil attacked in Strait of Hormuz - سانا"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Global Oil Prices Jump After U.S. and Iran Trade Attacks - The New York Times"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Two More Oil Tankers Are Attacked in the Strait of Hormuz - The New York Times"
   }
  ]
 }
