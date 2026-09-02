@@ -4,8 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "87ecccc2b14ac978",
-  "chevronexpectedtoexpandoiloperationsinvenezuelausofficialsay",
   "7a258366d031fb61",
   "driversinoregonandnationwidetopayhighestgaspriceseverforlabo",
   "b0201c1d9028d3e0",
@@ -603,7 +601,9 @@
   "586b7ef301bb1fb0",
   "trumpadministrationunveilsadditionaldetailsinvenezuelaoildea",
   "60b289e54f1d8cf8",
-  "whatistheoilgasimpactofstormedouard"
+  "whatistheoilgasimpactofstormedouard",
+  "11ab86ebba20982e",
+  "chevronwillexpandvenezuelaoperationsmorethandoublingproducti"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T14:45:19.261806+03:00",
+ "last_run": "2026-09-02T14:50:18.883726+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1972,6 +1972,10 @@
   {
    "d": "2026-09-02",
    "t": "Oil prices surge after U.S. renews Iran strikes, heightening inflation fears - NBC News"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Chevron will expand Venezuela operations, more than doubling production through $7 billion investment - CNBC"
   }
  ]
 }
