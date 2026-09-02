@@ -4,12 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "ce9232ad838ea9a0",
-  "globaloilpricerisesto90abarrelafterusandirantradeattacks",
-  "438f1e16e10fe99e",
-  "crudeoilanalysiswhythisdieselcrackspikemattersforpricesatthe",
-  "bbc62ce15e96408b",
-  "wticrudeoilpriceanalysisforseptember12026",
   "a4ad1ae04f8a7a97",
   "labordayweekendgaspricesexpectedtosurpasspreviousrecordhighf",
   "92ff22479fb85e1e",
@@ -603,7 +597,13 @@
   "6fdbd9aa17dfcbdd",
   "texascopsseize60vehiclesworthover28millioninallegedoiltheftr",
   "1575801f90262682",
-  "bitcoinwithstands90oilandrisingyieldsasgoldslidesafirmdollar"
+  "bitcoinwithstands90oilandrisingyieldsasgoldslidesafirmdollar",
+  "7024e0d0713d4c46",
+  "oilpricesjumpasusiranianattacksstokefearsofescalation",
+  "e828e65671d977fd",
+  "depletedusoilstashlosespotencyasiranwargrindson",
+  "8c87659195517a20",
+  "dukeofoilmunster"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T09:05:16.054167+03:00",
+ "last_run": "2026-09-02T09:10:18.124873+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1840,6 +1840,14 @@
   {
    "d": "2026-09-02",
    "t": "Two tankers carrying Saudi oil attacked in Strait of Hormuz - Reuters"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Oil prices jump as US, Iranian attacks stoke fears of escalation - Al Jazeera"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Depleted US oil stash loses potency as Iran war grinds on - Reuters"
   }
  ]
 }
