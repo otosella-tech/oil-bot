@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "99693a32a1cedfd7",
-  "q2earningsroundupkindermorgannysekmiandtherestoftheinfrastru",
   "616f2794ea0d25aa",
   "dowdipsover400pointsascrudeoilsurgesinvestorsentimentweakens",
   "4ea05e18b253bcbd",
@@ -603,7 +601,9 @@
   "c987869a3e86c4d8",
   "oilhits90asusandirantradefreshstrikesoverstraitofhormuz",
   "ca0930b5925ac6fc",
-  "withusvenezuelaoildealfinalizedquestionsremainaboutdetails"
+  "withusvenezuelaoildealfinalizedquestionsremainaboutdetails",
+  "0532454094a7b2f9",
+  "saudioilexportsdiveastankersatriskfromhormuztoredsea"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T23:40:19.477782+03:00",
+ "last_run": "2026-09-02T23:45:22.066290+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2303,6 +2303,10 @@
   {
    "d": "2026-09-02",
    "t": "Oil hits $90 as US and Iran trade fresh strikes over Strait of Hormuz - Fox Business"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea - gCaptain"
   }
  ]
 }
