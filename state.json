@@ -4,14 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "440a003881e52273",
-  "oilpricessurgeabove94afterusstrikesiraninhormuz",
-  "a7d8f88113e06d5a",
-  "meetthemanbehindtrumpsjointvenezuelaoilventure",
-  "79e31fb8dd1c2fed",
-  "newoilpipelineswillmakestraitofhormuzworthlesssaysustreasury",
-  "439c0c54b3d3e12b",
-  "donaldtrumpsummonsusrefinersasiranwarpushesupfuelprices",
   "6fd7d8b461bb29f3",
   "garystwo",
   "11a3a8312cf5beee",
@@ -603,7 +595,15 @@
   "ea5ac312a1fc80c7",
   "sinopecextendsbumperrussianoilbuyssqueezingteapotstraderssay",
   "8ffdf2cc10dbc962",
-  "russiastepsupoilrefineryprotectionamidsurgeinukrainiandronea"
+  "russiastepsupoilrefineryprotectionamidsurgeinukrainiandronea",
+  "5fb62f4c9ff17b7a",
+  "kazakhstantodoubleoilrefiningcapacityby2040",
+  "6744b59ea0d3e7f5",
+  "whenwillcrudeoilpricesstabilize",
+  "c8324bd643de293a",
+  "crudeoilforecastwtithreatensbreakoutasusirantensionsescalate",
+  "8e801508d910301d",
+  "commentaryasiascrudeoilimportsstaysoftinaugustchallengingush"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T15:25:12.987296+03:00",
+ "last_run": "2026-09-02T15:30:24.085397+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2004,6 +2004,10 @@
   {
    "d": "2026-09-02",
    "t": "Russia steps up oil refinery protection amid surge in Ukrainian drone attacks - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "COMMENTARY: Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters"
   }
  ]
 }
