@@ -4,12 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "4c2c6f6d28621989",
-  "oilpricessteadyastradersweighsupplyriskseuronextmarketsreal",
-  "c760ee62fb171058",
-  "oilpricessteadyastradersweighsupplyrisks",
-  "90b9a1cfaa7d89e8",
-  "stocksbondsextendlossesasoilgainsoniranmarketswrap",
   "99693a32a1cedfd7",
   "q2earningsroundupkindermorgannysekmiandtherestoftheinfrastru",
   "616f2794ea0d25aa",
@@ -603,7 +597,13 @@
   "b8eaa29a6bca1556",
   "howiransmugglesitsoil",
   "4ce42c051ccf0246",
-  "oilrises1asusiranstrikesrisklimitingalreadyimpairedsuppliese"
+  "oilrises1asusiranstrikesrisklimitingalreadyimpairedsuppliese",
+  "07a6b43f4b3275d7",
+  "europejoinsglobalbondselloffasmiddleeasthostilitiesliftoilpr",
+  "c987869a3e86c4d8",
+  "oilhits90asusandirantradefreshstrikesoverstraitofhormuz",
+  "ca0930b5925ac6fc",
+  "withusvenezuelaoildealfinalizedquestionsremainaboutdetails"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T23:35:14.915526+03:00",
+ "last_run": "2026-09-02T23:40:19.477782+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2299,6 +2299,10 @@
   {
    "d": "2026-09-02",
    "t": "Oil rises 1%, as US-Iran strikes risk limiting already impaired supplies - Euronext Markets: Real-time Stock Market Data | live"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Oil hits $90 as US and Iran trade fresh strikes over Strait of Hormuz - Fox Business"
   }
  ]
 }
