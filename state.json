@@ -4,18 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "e55c15b176456f06",
-  "thelatestontheusvenezuelaoildeal",
-  "35a2a13f144b20cb",
-  "oilslonggoodbyefromshockstotransition",
-  "d9f955fc50306cea",
-  "dollarsteadiesneartwoweekhighasmiddleeasthostilitiesliftoil",
-  "6fdbd9aa17dfcbdd",
-  "texascopsseize60vehiclesworthover28millioninallegedoiltheftr",
-  "1575801f90262682",
-  "bitcoinwithstands90oilandrisingyieldsasgoldslidesafirmdollar",
-  "7024e0d0713d4c46",
-  "oilpricesjumpasusiranianattacksstokefearsofescalation",
   "e828e65671d977fd",
   "depletedusoilstashlosespotencyasiranwargrindson",
   "8c87659195517a20",
@@ -603,7 +591,19 @@
   "6d7238fc2de80ba8",
   "thebigproblemswiththebiggestoildealever",
   "2f7d50aa32f9a255",
-  "chevronexpandsvenezuelapresencewith7busplan"
+  "chevronexpandsvenezuelapresencewith7busplan",
+  "40e78d6f7a4ca74a",
+  "usdieselpricescloseinonaprilwarpeak",
+  "ae431cb8789a1faf",
+  "wticrudeoilfuturesjumpto9060onmiddleeasttension",
+  "56b05831cebf2649",
+  "usenergysecretarysaysvenezuelacouldmorethandoubleoilproducti",
+  "1b72e650ad127fbb",
+  "twotankerscarryingsaudioilattackedinstraitofhormuz",
+  "328cb197b0e1954d",
+  "iranscrudeoilpriceinaugust2026",
+  "6fde8aba61579917",
+  "eveningupdateforcrudeoil02092026"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T21:55:13.783425+03:00",
+ "last_run": "2026-09-02T22:00:28.296940+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2243,6 +2243,14 @@
   {
    "d": "2026-09-02",
    "t": "IRGC: 2 Oil Tankers Explode After Entering Mined Hormuz Route - IranWire"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "U.S. Diesel Prices Close In on April War Peak"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Two tankers carrying Saudi oil attacked in Strait of Hormuz - Reuters"
   }
  ]
 }
