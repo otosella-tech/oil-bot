@@ -4,8 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "fee3a2336a5533ec",
-  "cocainesurpassesoilascolombiastopexportsectorstudy",
   "6272aabed1b9f0df",
   "asiausbondyieldsriseasoilpricesstokeinflationfears",
   "20827948a36b0239",
@@ -603,7 +601,9 @@
   "3e98b384278c841e",
   "currentpriceofoilasofaugust172026",
   "5a0acec2a67a0ea1",
-  "brentcrudeoilpricesheadto100asreportsofusattackoniranhitmark"
+  "brentcrudeoilpricesheadto100asreportsofusattackoniranhitmark",
+  "e5f00edfa74b66b1",
+  "matureusoilfieldsstillholdamassiveuntappedprize"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 35
  },
- "last_run": "2026-09-02T04:45:15.179621+03:00",
+ "last_run": "2026-09-02T04:50:18.222115+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
