@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "c31214406f91eadd",
-  "oilfutureshit40dayhighsamidgrowingrisksofescalationinthemidd",
   "6dd48f891e87f277",
   "energypricesurgehitsbondmarketsaseuropeangasreachesthreeyear",
   "51b49eadefce47c9",
@@ -603,7 +601,9 @@
   "aef63e66a6d1aa14",
   "enichevronsignmajorupstreamoilfielddevelopmentdealswithpdvsa",
   "d39ed32f70dc192f",
-  "bondselloffdeepensasoilpricesandpublicdebtfearsjoltmarkets"
+  "bondselloffdeepensasoilpricesandpublicdebtfearsjoltmarkets",
+  "fe5e3acb69fa75f7",
+  "ussprdepletionthreatensfurtheroilpricevolatility"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-03",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-09-03T01:55:13.855692+03:00",
+ "last_run": "2026-09-03T02:00:25.644835+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2159,6 +2159,10 @@
   {
    "d": "2026-09-03",
    "t": "Two More Oil Tankers Are Attacked in the Strait of Hormuz - The New York Times"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "U.S. SPR Depletion Threatens Further Oil Price Volatility"
   }
  ]
 }
