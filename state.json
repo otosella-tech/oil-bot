@@ -4,8 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "a4ad1ae04f8a7a97",
-  "labordayweekendgaspricesexpectedtosurpasspreviousrecordhighf",
   "92ff22479fb85e1e",
   "gasbuddyforecasts403labordaygasin2026highestonrecord",
   "b0d756c79771b284",
@@ -603,7 +601,9 @@
   "e828e65671d977fd",
   "depletedusoilstashlosespotencyasiranwargrindson",
   "8c87659195517a20",
-  "dukeofoilmunster"
+  "dukeofoilmunster",
+  "a56b3ee1377deb04",
+  "commentarytrumpplanrisksderailingvenezuelaoilrecovery"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T09:10:18.124873+03:00",
+ "last_run": "2026-09-02T09:15:16.050722+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1848,6 +1848,10 @@
   {
    "d": "2026-09-02",
    "t": "Depleted US oil stash loses potency as Iran war grinds on - Reuters"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "COMMENTARY: Trump plan risks derailing Venezuela oil recovery - Reuters"
   }
  ]
 }
