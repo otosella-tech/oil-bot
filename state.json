@@ -4,12 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "0eeb55c614103b4a",
-  "motivaexxonpreparingeasttexasrefineriesforstormsourcessay",
-  "86c017279a114c37",
-  "trumpcutsdealwithvenezuelatocontrol65bbarrelsofoil",
-  "33c27c0ee649e14c",
-  "venezuelagrantsusbackedoilfirmnabep100yearconcessionsfor17oi",
   "73069a0195328dae",
   "indianpmmodiimploresputintoendukrainewaramidustariffthreaton",
   "e497427510fbd151",
@@ -603,7 +597,13 @@
   "7cb74e933f748fea",
   "watchhowtheoilpriceispressuringtreasuries",
   "097a55c258e38b75",
-  "saudiarabiaplanstofree1mbdasitinvestsinnuclearpower"
+  "saudiarabiaplanstofree1mbdasitinvestsinnuclearpower",
+  "f11c1234f2872455",
+  "trumpsvenezuelanoildealreliesonapowerfulanddivisivepartner",
+  "4148c2eccbf0d05b",
+  "karoonenergyupdatesonbraziliancrudeoilexporttaxinjunction",
+  "6c62b8a637b5a5d0",
+  "usofficialsdefendvenezuelaoildealamidquestionsoverrebuilding"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-02",
-  "count": 23
+  "count": 25
  },
- "last_run": "2026-09-02T03:15:17.084739+03:00",
+ "last_run": "2026-09-02T03:20:19.206784+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1715,6 +1715,10 @@
   {
    "d": "2026-09-02",
    "t": "Saudi Arabia Plans To Free 1 Mb/d As it Invests in Nuclear Power"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Trump’s Venezuelan Oil Deal Relies on a Powerful and Divisive Partner - The New York Times"
   }
  ]
 }
