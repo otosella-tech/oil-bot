@@ -4,12 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "603a528f55af6d84",
-  "globaloilpricessurgetoa6weekhighaftertheusstrikesiraninhormu",
-  "e67ca19e13bc3e2f",
-  "usshaleproducerslosebidtokilloilprice",
-  "1b3cf4f140f32e48",
-  "energyetfstowatchasusvenezuelasignhistoricoildeal",
   "c7f90380a77bd9b9",
   "oilsettlesupbymorethan25asusandiranresumemilitaryattacks",
   "bf3d08ae84aabb05",
@@ -603,7 +597,13 @@
   "1626f5497a987298",
   "bessentpredictsstraitofhormuzwillbeworthlessin2years",
   "9e704c34a3e98c02",
-  "uscrudeoilhits90perbarrelfollowinglatestusattacksagainstiran"
+  "uscrudeoilhits90perbarrelfollowinglatestusattacksagainstiran",
+  "282d196623fa16d2",
+  "indiaboostsfareastrussianoilimportsaswarupendstraderoutes",
+  "e498dc8738b10d9a",
+  "chevrontoinvestover7binvenezueladoubleoilproduction",
+  "0239dfb437687edf",
+  "oilralliesasirgcvowsretaliationforusstrikes"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T16:25:15.450800+03:00",
+ "last_run": "2026-09-02T16:30:22.469748+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2072,6 +2072,10 @@
   {
    "d": "2026-09-02",
    "t": "U.S. crude oil hits $90 per barrel following latest U.S. attacks against Iran - CNBC"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "India Boosts Far East Russian Oil Imports as War Upends Trade Routes"
   }
  ]
 }
