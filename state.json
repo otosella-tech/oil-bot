@@ -4,12 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "09453580dce9c19d",
-  "usmovesintovenezuelasoilfieldsdisplacingrussianandchineseope",
-  "d6ed42334b1edc87",
-  "trumpsdealforvenezuelasoilreservesunitesnationinanger",
-  "7acbd1ad3e2f87da",
-  "thestraitofhormuzwitnessesconsecutiveattacksoncrudeoiltanker",
   "1f01edf77fee43ad",
   "oilpricesriseasrenewedusiranfightingdeepenshormuzsupplyrisks",
   "65c8fb2989136370",
@@ -603,7 +597,13 @@
   "2bea6d3745848204",
   "oilclimbsfor3rdstraightdaybrenttops96onrenewedusiranfighting",
   "93d734134c1f3736",
-  "trumpsaysvenezuelanoilwillbeusedtorefillusreserve"
+  "trumpsaysvenezuelanoilwillbeusedtorefillusreserve",
+  "61e7bf353a540fa1",
+  "usandvenezuelastrikemajoroildeal",
+  "e20a88f2289ab1bc",
+  "avenezuelanoildealwithmanylayers",
+  "53e7d695fa187744",
+  "oilpricesup010926"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T08:00:25.868830+03:00",
+ "last_run": "2026-09-02T08:05:19.116174+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1820,6 +1820,10 @@
   {
    "d": "2026-09-02",
    "t": "Oil climbs for 3rd straight day, Brent tops $96 on renewed U.S.-Iran fighting - Investing.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "US and Venezuela Strike Major Oil Deal - JPT Homepage"
   }
  ]
 }
