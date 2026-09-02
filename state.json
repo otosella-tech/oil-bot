@@ -4,10 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "9973f31d19957e58",
-  "sprcrudeoilacquisitionprocedures",
-  "c83c9eabb396eb20",
-  "solarovertakescoalaschinaslargestpowersource",
   "37799af75d3b0003",
   "forecastupdateforcrudeoil01092026",
   "9a8a87ce84b577f0",
@@ -603,7 +599,11 @@
   "205ab587f06dd172",
   "trumpsoildealwithvenezuelaraisesredflagsforsomemajorproducer",
   "010c3e58fb1c3b88",
-  "theamericasoilbonanzawilloutlasttheiranconflictatexpenseofmi"
+  "theamericasoilbonanzawilloutlasttheiranconflictatexpenseofmi",
+  "b69b4e78288ac8e7",
+  "crudeoilandrefinedproductmarketsweighonglobalsupplydem",
+  "5ab79fffe331498f",
+  "crudeoilpricewtipricechart"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T10:20:18.754715+03:00",
+ "last_run": "2026-09-02T10:25:16.075747+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
