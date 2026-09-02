@@ -4,10 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "d3210414e9a7f39e",
-  "crudeoilfuturesriseonpositiveglobaltrends",
-  "095d4ecb1358c252",
-  "usreleasesdetailsofitsoildealwithvenezuela",
   "13e0dd9b3eb04223",
   "highcrudeoilpricespushupnationalaverage",
   "e688104d1c9dbefb",
@@ -603,7 +599,11 @@
   "5fc1c07416ea9e9f",
   "rbisbidtoliftindianrupeeputtotestbyoilusyields",
   "024201565484b73b",
-  "oilpricesriseasusiranstrikesdeepenfearsofsupplydisruptions"
+  "oilpricesriseasusiranstrikesdeepenfearsofsupplydisruptions",
+  "65aed2df70973dd9",
+  "dowjonesfuturesdellcredopaloaltoareearningsmoverslateoilpric",
+  "c8815ee51e8f2832",
+  "uscrudestockpilesfell26mbarrelslastweekapisaysusonysearca"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 53
  },
- "last_run": "2026-09-02T06:35:15.479847+03:00",
+ "last_run": "2026-09-02T06:40:15.310391+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
