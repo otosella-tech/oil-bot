@@ -4,10 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "7a258366d031fb61",
-  "driversinoregonandnationwidetopayhighestgaspriceseverforlabo",
-  "b0201c1d9028d3e0",
-  "adpjobsreportoilinventoriesandfedbeigebookduewednesday",
   "163dd0f5e1ca33c5",
   "oilnewscrudeoilfuturessurgeascentcomstrikesreshapebullishout",
   "e9a5053f4b722316",
@@ -603,7 +599,11 @@
   "60b289e54f1d8cf8",
   "whatistheoilgasimpactofstormedouard",
   "11ab86ebba20982e",
-  "chevronwillexpandvenezuelaoperationsmorethandoublingproducti"
+  "chevronwillexpandvenezuelaoperationsmorethandoublingproducti",
+  "85e3d4f29353873e",
+  "brentcrudeoiltops90afterusstrikesiran",
+  "8f380fe4c661d973",
+  "oilpricessteadyastradersweighsupplyrisksbyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T14:50:18.883726+03:00",
+ "last_run": "2026-09-02T14:55:13.437054+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1976,6 +1976,10 @@
   {
    "d": "2026-09-02",
    "t": "Chevron will expand Venezuela operations, more than doubling production through $7 billion investment - CNBC"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Brent crude oil tops $90 after U.S. strikes Iran - qz.com"
   }
  ]
 }
