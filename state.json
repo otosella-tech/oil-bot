@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "5f5192b8f207bf82",
-  "oilgiantchevronisexpectedtoannounceitwillexpandoperationsinv",
   "58ecfe35f90bbfa3",
   "oilnewscrudeoilfuturessurgeascentcomstrikesreshapebullishout",
   "b72a95218fec6856",
@@ -603,7 +601,9 @@
   "f6fdee303238c2af",
   "oilpricessurgeafterusrenewsiranstrikesheighteninginflationfe",
   "a7b23cfdebc7bc1f",
-  "wallstreetstocksrisedespitebondyieldsoilrising"
+  "wallstreetstocksrisedespitebondyieldsoilrising",
+  "e0e8614b9e1a742d",
+  "theusisgobblingupvenezuelanoilbutwillitlowerfuelprices"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-03",
   "count": 25
  },
- "last_run": "2026-09-03T02:30:21.046525+03:00",
+ "last_run": "2026-09-03T02:35:14.281419+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
