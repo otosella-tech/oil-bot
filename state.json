@@ -4,10 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "f6fdee303238c2af",
-  "oilpricessurgeafterusrenewsiranstrikesheighteninginflationfe",
-  "fb61c57ad0dcb911",
-  "oilgiantchevronisexpectedtoannounceitwillexpandoperationsinv",
   "3caf85bf3fc2b2d8",
   "twotankerscarryingsaudioilattackedinstraitofhormuzal",
   "a81ea0895766b65d",
@@ -603,7 +599,11 @@
   "c55bba88f289785f",
   "oilpricesriseforthirdsessionasusirantensionsfuelsupplyconcer",
   "c31214406f91eadd",
-  "oilfutureshit40dayhighsamidgrowingrisksofescalationinthemidd"
+  "oilfutureshit40dayhighsamidgrowingrisksofescalationinthemidd",
+  "6dd48f891e87f277",
+  "energypricesurgehitsbondmarketsaseuropeangasreachesthreeyear",
+  "51b49eadefce47c9",
+  "wallstreetsetforweakopenthreereasonswhyusstockfuturesarefall"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T14:20:18.635594+03:00",
+ "last_run": "2026-09-02T14:25:13.424552+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1964,6 +1964,10 @@
   {
    "d": "2026-09-02",
    "t": "Oil prices rise for third session as US-Iran tensions fuel supply concerns - Investing.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Energy price surge hits bond markets as European gas reaches three-year high - Financial Times"
   }
  ]
 }
