@@ -4,12 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "f4684fbefe6ebf14",
-  "alejandrobetancourtthecontroversialvenezuelanoiltycoontrumpi",
-  "1bca5218fad10cdd",
-  "2oiltankersstruckonstraitofhormuznocasualtiesreported",
-  "83da6925f9c0fa36",
-  "usiranstrikesput100oilbackinfocus",
   "5d9459825422e8f9",
   "opinionthecroniesincaracaswinoverwashington",
   "163a150947356703",
@@ -603,7 +597,13 @@
   "0d3c5947d8dce361",
   "dieselcrackshitrecordhighsasglobalfuelsqueezedeepens",
   "936fb6ea0c0496fe",
-  "exclusivebaytexenergyatenercomdenvertheenergyinvestmentconfe"
+  "exclusivebaytexenergyatenercomdenvertheenergyinvestmentconfe",
+  "f7558618a69c9f13",
+  "whyitsessentialfortheustoimportandexportenergy",
+  "f490bd75f3f20c23",
+  "trumpsbiggestoildealinworldhistoryinvenezuelareeksofcolonial",
+  "1560b6fb90a2b919",
+  "hormuzshippingslumpsasusiranstrikesrattleoilmarkets"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-03",
-  "count": 7
+  "count": 9
  },
- "last_run": "2026-09-03T00:20:21.827359+03:00",
+ "last_run": "2026-09-03T00:25:16.393169+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2147,6 +2147,10 @@
   {
    "d": "2026-09-03",
    "t": "Trump administration says more oil left Hormuz this week than before war, but data says otherwise - Fortune"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Hormuz Shipping Slumps as U.S.-Iran Strikes Rattle Oil Markets - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
