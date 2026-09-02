@@ -4,8 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "d8c573dd180ff093",
-  "istaiwanamericasonlyleverageoverchinaoniran",
   "12c3e29a001a5241",
   "palmoilpricesroseascrudeoilandsoyoilfirmed",
   "55221fda7cfff3aa",
@@ -603,7 +601,9 @@
   "e497427510fbd151",
   "howthepentagonisgettingintothevenezuelanoilbusinessundertrum",
   "3ec90f898b199d52",
-  "diamondbackreaches1millionboeperdayafterproducing3000in2012"
+  "diamondbackreaches1millionboeperdayafterproducing3000in2012",
+  "1964893782629ee2",
+  "ussays17millionbarrelsofoiltransitedthroughhormuzonmondaymos"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-02",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-09-02T04:00:29.662833+03:00",
+ "last_run": "2026-09-02T04:05:13.000342+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1727,6 +1727,10 @@
   {
    "d": "2026-09-02",
    "t": "Crude oil surges, base metals LME outperforms SHFE, SHFE tin falls over 1%, gold and silver plunge, NY silver breaks below 4,400 [Overnight Market] - SMM Metal"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "US says 17 million barrels of oil transited through Hormuz on Monday — most since war began - The Times of Israel"
   }
  ]
 }
