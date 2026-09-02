@@ -4,10 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "6b8b0a91f1483f85",
-  "oiluparound2asrenewedusiranstrikesstokesupplyfears",
-  "62d257d86140d169",
-  "oilclimbsasrenewedusirantensionsraiseriskstohormuzoilflows",
   "0260e82f7ae34753",
   "currentpriceofoilasofaugust242026",
   "f31eec3322f076de",
@@ -603,7 +599,11 @@
   "d45b40f7dc9af7b1",
   "trumpsaidhisdealwithvenezuelawouldlowergaspriceswillit",
   "9262559dded6832d",
-  "oilmajorbpcompletessearchforchairafterboardroomupheaval"
+  "oilmajorbpcompletessearchforchairafterboardroomupheaval",
+  "86ea78967ad1f99e",
+  "chinamaintainsstablerefinedfuelexportsunderrelaxedcontrolsso",
+  "3c3008e0849876f1",
+  "blockadesucceedswheresanctionsfailedasiranoilexportsstall"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T10:45:17.235136+03:00",
+ "last_run": "2026-09-02T10:50:19.983465+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1888,6 +1888,10 @@
   {
    "d": "2026-09-02",
    "t": "Trump said his deal with Venezuela would lower gas prices. Will it? - The Washington Post"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Blockade succeeds where sanctions failed as Iran oil exports stall - Reuters"
   }
  ]
 }
