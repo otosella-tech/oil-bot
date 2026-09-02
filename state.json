@@ -4,12 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "43f1c3dd38a177bb",
-  "usstocksslumpascrudeoilspikesonnewusattacksagainstiran",
-  "8b62e3c4e9c44e1a",
-  "middleeastconflictsendsoilupbondsdown",
-  "72a8dadaf030cea8",
-  "trumpannouncedamassiveoildealwithvenezuelawhyitwontlowergasp",
   "603a528f55af6d84",
   "globaloilpricessurgetoa6weekhighaftertheusstrikesiraninhormu",
   "e67ca19e13bc3e2f",
@@ -603,7 +597,13 @@
   "8b820aee61329045",
   "usenergysecretaryvenezuelanoilproductiontomorethandoubleinye",
   "939ed2f81366cb57",
-  "theoctober7deadlineforclosingbazanwasbasedonafixedconception"
+  "theoctober7deadlineforclosingbazanwasbasedonafixedconception",
+  "8629020de5cebb20",
+  "currentpriceofoilasofsept22026",
+  "1626f5497a987298",
+  "bessentpredictsstraitofhormuzwillbeworthlessin2years",
+  "9e704c34a3e98c02",
+  "uscrudeoilhits90perbarrelfollowinglatestusattacksagainstiran"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T16:20:19.111268+03:00",
+ "last_run": "2026-09-02T16:25:15.450800+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2064,6 +2064,14 @@
   {
    "d": "2026-09-02",
    "t": "Update: Equity Markets Fall Intraday as Oil, Yields Surge - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Bessent predicts Strait of Hormuz will be ‘worthless’ in 2 years - The Hill"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "U.S. crude oil hits $90 per barrel following latest U.S. attacks against Iran - CNBC"
   }
  ]
 }
