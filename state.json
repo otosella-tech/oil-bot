@@ -4,12 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "2f84928a7455dad5",
-  "trumpwantsbigoiltobuildmorerefineriesthatsatoughsell",
-  "524627bef6c468d6",
-  "whyisntthepriceofoilevenhigher",
-  "2774411c6cc2fb12",
-  "singaporesharesopenlowerasrisingoilpricesdentsentiment",
   "db0597c925d4855c",
   "currentpriceofoilasofaugust182026",
   "63f6ca7a405009ee",
@@ -603,7 +597,13 @@
   "5e951f78ef0360d0",
   "after6monthsofwarwhyarentoilpricesevenhigher",
   "be873c9a09780ce2",
-  "oilrisesasusiranstrikesrisklimitingalreadyimpairedsupplies"
+  "oilrisesasusiranstrikesrisklimitingalreadyimpairedsupplies",
+  "04cde21aea420b83",
+  "fearsofanextendedusiranconflictboostcrudeoilprices",
+  "469c28b7febe6d8e",
+  "iranfiresonitsgulfneighborsretaliatingforusstrikesafteramont",
+  "79fac5166f69d232",
+  "moreoilflowedthroughhormuzonmondaythansincebeforeiranwarwrig"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T18:45:20.857362+03:00",
+ "last_run": "2026-09-02T18:50:17.221412+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2163,6 +2163,14 @@
   {
    "d": "2026-09-02",
    "t": "Oil rises, as US-Iran strikes risk limiting already impaired supplies - Oil & Gas 360"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull - NPR"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "More oil flowed through Hormuz on Monday than since before Iran war: Wright - qz.com"
   }
  ]
 }
