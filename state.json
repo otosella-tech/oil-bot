@@ -4,16 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "d58639387ed9d318",
-  "presidenttrumpmeetsoilexecutivesasuseyesvenezuelanoilexpansi",
-  "c0304dbf5e5b7f56",
-  "futuresdellcredoarebigmoversafterbearishmarketaction",
-  "83a1069901821c93",
-  "trumpshistoricdealwithvenezuelaisntfoolingoiltraders",
-  "8fab898d57bc98fe",
-  "currentpriceofoilasofaugust252026",
-  "95a4c70bf4ec7689",
-  "trumpsaysexxonisgoingintovenezuelaasuspushesoildeals",
   "b8efdca90aecf566",
   "crudeoilfuturessurgemorethan4tofiveweekhighonsupplyconcernsa",
   "1dee071d1d91e805",
@@ -603,7 +593,17 @@
   "5ccc3d9d49d00dee",
   "usoilgiantchevronconfirmsitwillexpandoperationsinvenezuelaab",
   "46b9c5fe997003ee",
-  "texasoilregulatornamesnewoilgasdirector"
+  "texasoilregulatornamesnewoilgasdirector",
+  "4f6f7a9861c87bc7",
+  "usoilstocksdropasfueldemandweakens",
+  "a742b9c9489462be",
+  "trumpsoildealcouldscuttlevenezuelandemocracyoppositionfears",
+  "6ad028c069a36007",
+  "canvenezuelasoilproductionbecomeinvestibleseatrade",
+  "3a55f93c6e2bce50",
+  "chevronannouncesplanstodoubleoilproductioninvenezuela",
+  "594c4ac52c560a7c",
+  "stocksbondsbounceasoilhaltswarfueledrallymarketswrap"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T17:35:14.796783+03:00",
+ "last_run": "2026-09-02T17:40:21.619959+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2115,6 +2115,14 @@
   {
    "d": "2026-09-02",
    "t": "Ryanair Warns Some Airlines Could Struggle with Jet Fuel Price Spike"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Chevron Announces Plans To Double Oil Production In Venezuela - Yahoo Finance Singapore"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Stocks, Bonds Bounce as Oil Halts War-Fueled Rally: Markets Wrap - bloomberg.com"
   }
  ]
 }
