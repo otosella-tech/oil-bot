@@ -4,16 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "4148c2eccbf0d05b",
-  "karoonenergyupdatesonbraziliancrudeoilexporttaxinjunction",
-  "6c62b8a637b5a5d0",
-  "usofficialsdefendvenezuelaoildealamidquestionsoverrebuilding",
-  "345025e7bb8954dc",
-  "usoilreservehits44yearlowamidiranwarglobalenergyshortageabcn",
-  "fc9b96e4b98d7317",
-  "crudeoilsurgesbasemetalslmeoutperformsshfeshfetinfallsover1g",
-  "e50adcc3e428dd50",
-  "trumpmeetswithoilexecutivesatwhitehouseinpushtolowergasprice",
   "5dc6dfa7152e4b43",
   "currentpriceofoilasofaugust282026",
   "e21c4b071ffedfa9",
@@ -603,7 +593,17 @@
   "99634495d3daee7b",
   "uscrudeandgasolineinventoriesfelllastweekdistillatesroseeias",
   "042d7bec49b4802b",
-  "usenergysecretarywilltraveltovenezuelatounveiloilarrangement"
+  "usenergysecretarywilltraveltovenezuelatounveiloilarrangement",
+  "097a55c258e38b75",
+  "saudiarabiaplanstofree1mbdasitinvestsinnuclearpower",
+  "4b0baed752925c5b",
+  "uscrudeandgasolineinventoriesfelllastweekanddistillatesrosee",
+  "c5f651356f87370e",
+  "remarkableusoildealpuzzlesanalystsandangersmanyvenezuelans",
+  "155824838a7bdb6e",
+  "morethan17mbarrelsofoiltransitedstraitofhormuzonmondayusener",
+  "ed7ce2ee60b042f2",
+  "crudeoilinventoriesdropsurpassingforecasts"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T18:10:18.258484+03:00",
+ "last_run": "2026-09-02T18:15:18.833168+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2131,6 +2131,18 @@
   {
    "d": "2026-09-02",
    "t": "Ships Adopt Makeshift Anti-Drone Defenses as Black Sea Attacks Intensify - insurancejournal.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Saudi Arabia Plans To Free 1 Mb/d As it Invests in Nuclear Power"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans - bbc.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "More than 17M barrels of oil transited Strait of Hormuz on Monday, U.S. energy secretary says - Seeking Alpha"
   }
  ]
 }
