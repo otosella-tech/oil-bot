@@ -4,16 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "37799af75d3b0003",
-  "forecastupdateforcrudeoil01092026",
-  "9a8a87ce84b577f0",
-  "yourtuesdaysept1guidefivethingstodointheoilcity",
-  "220bce344c7626f3",
-  "letterswhyslaptariffsoncanadianoilletsconserveinstead",
-  "4280c42c0549454f",
-  "goldpricehitstwoweeklowaswarshrepricingoilshockliftyieldskit",
-  "ef89b081ff199272",
-  "saudiandsouthkoreanoiltankershitinstraitofhormuz",
   "d45b40f7dc9af7b1",
   "trumpsaidhisdealwithvenezuelawouldlowergaspriceswillit",
   "419e6bc38ed1dc74",
@@ -603,7 +593,17 @@
   "b69b4e78288ac8e7",
   "crudeoilandrefinedproductmarketsweighonglobalsupplydem",
   "5ab79fffe331498f",
-  "crudeoilpricewtipricechart"
+  "crudeoilpricewtipricechart",
+  "45e587e7a237c1fb",
+  "usdefensedepartmenttotakeminoritystakeinvenezuelanoil",
+  "929aad13da4fb6c7",
+  "crudeoilthreatensbreakoutamidusiranreescalation",
+  "1560b6fb90a2b919",
+  "hormuzshippingslumpsasusiranstrikesrattleoilmarkets",
+  "a8005d21dc955c93",
+  "oilfuturescrudeextendsgainsamidusiranescalationfears",
+  "7335af6057fac622",
+  "sprcrudeoilacquisitionprocedures"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T10:25:16.075747+03:00",
+ "last_run": "2026-09-02T10:30:21.197150+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1876,6 +1876,14 @@
   {
    "d": "2026-09-02",
    "t": "Trump's oil deal with Venezuela raises red flags for some major producers, sources say - Reuters"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Crude Oil Threatens Breakout Amid US-Iran Re-Escalation - Investing.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Hormuz Shipping Slumps as U.S.-Iran Strikes Rattle Oil Markets - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
