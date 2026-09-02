@@ -4,12 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "994b0f860f6b952a",
-  "eustrugglestocurbenergytransitiondependenceonchina",
-  "bc945c881a419ec8",
-  "solarpowerisboominginemergingmarkets",
-  "263f1485c0ed5e49",
-  "uscrudeinventoriesdropamidcontinuedsprdraws",
   "dbdea3281f320ff3",
   "sheriffseekshelpaftercrudeoiltheftnearstanton",
   "a0095d996b66cf79",
@@ -603,7 +597,13 @@
   "6716fe30d995645e",
   "predictionmarketkalshitofileforuscrudeoilperpssourcesays",
   "9fdf4fac2c347839",
-  "vivakorprovidesq32026revenueguidanceofapproximately270millio"
+  "vivakorprovidesq32026revenueguidanceofapproximately270millio",
+  "e3fd8ce189510975",
+  "ugandanamesitscrudeoilpearlsweetaheadofproduction",
+  "6c8fef6a3701964f",
+  "oilpricesedgelowerafterrecentgainsonrenewedusirantensions",
+  "5294e2eb420583a6",
+  "trumpsaysushasentereddealwithvenezuelatotakecontrolof65billi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T16:40:19.359512+03:00",
+ "last_run": "2026-09-02T16:45:18.518213+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2076,6 +2076,10 @@
   {
    "d": "2026-09-02",
    "t": "India Boosts Far East Russian Oil Imports as War Upends Trade Routes"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Oil prices edge lower after recent gains on renewed US-Iran tensions - Investing.com"
   }
  ]
 }
