@@ -4,12 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "d950c865ecf55f69",
-  "crudeoilreboundsfromkeysupportasmiddleeastriskrises",
-  "4ea05e18b253bcbd",
-  "currentpriceofoilasofaugust272026",
-  "586b7ef301bb1fb0",
-  "trumpadministrationunveilsadditionaldetailsinvenezuelaoildea",
   "fd94e73a73f11c1f",
   "goldhalvesaugustjumponwarfuelledoilfoodpriceinflation",
   "df4c1ac39faea8d1",
@@ -603,7 +597,13 @@
   "4c2c6f6d28621989",
   "oilpricessteadyastradersweighsupplyriskseuronextmarketsreal",
   "c760ee62fb171058",
-  "oilpricessteadyastradersweighsupplyrisks"
+  "oilpricessteadyastradersweighsupplyrisks",
+  "90b9a1cfaa7d89e8",
+  "stocksbondsextendlossesasoilgainsoniranmarketswrap",
+  "99693a32a1cedfd7",
+  "q2earningsroundupkindermorgannysekmiandtherestoftheinfrastru",
+  "616f2794ea0d25aa",
+  "dowdipsover400pointsascrudeoilsurgesinvestorsentimentweakens"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T11:45:20.905548+03:00",
+ "last_run": "2026-09-02T11:50:17.435821+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1904,6 +1904,10 @@
   {
    "d": "2026-09-02",
    "t": "Asian markets tumble as US-Iran fighting lifts oil and bond yields - reuters.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Stocks, Bonds Extend Losses as Oil Gains on Iran: Markets Wrap - Bloomberg.com"
   }
  ]
 }
