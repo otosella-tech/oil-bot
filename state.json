@@ -4,12 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "be4b2caedeb314a5",
-  "oilnewstankerhitinhormuzputsbrentabove90asusiranwarriskescal",
-  "8a55e8929409296c",
-  "whatthelatestusiranstrikesmeanforoilsuppliesandmaritimesafet",
-  "7f58a37208605db2",
-  "cheapergasolineandtherecoveryoftheoilindustryanoilexpertexpl",
   "fee3a2336a5533ec",
   "cocainesurpassesoilascolombiastopexportsectorstudy",
   "6272aabed1b9f0df",
@@ -603,7 +597,13 @@
   "f6d1175aaa851fba",
   "wallstreetdropsasusstrikesiniranpushcrudeoilhigherhonolulust",
   "513de4e3e9b80eb3",
-  "usenergysecretarysays17millionbarrelsofoiltransitedstraitofh"
+  "usenergysecretarysays17millionbarrelsofoiltransitedstraitofh",
+  "5e951f78ef0360d0",
+  "after6monthsofwarwhyarentoilpricesevenhigher",
+  "3e98b384278c841e",
+  "currentpriceofoilasofaugust172026",
+  "5a0acec2a67a0ea1",
+  "brentcrudeoilpricesheadto100asreportsofusattackoniranhitmark"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-02",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-09-02T04:35:14.158631+03:00",
+ "last_run": "2026-09-02T04:40:17.534926+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1739,6 +1739,10 @@
   {
    "d": "2026-09-02",
    "t": "US energy secretary says 17 million barrels of oil transited Strait of Hormuz on Monday - Reuters"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Brent Crude Oil Prices Head to $100 as Reports of US Attack on Iran Hit Markets - FXLeaders"
   }
  ]
 }
