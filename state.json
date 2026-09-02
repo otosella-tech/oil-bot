@@ -4,8 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "0260e82f7ae34753",
-  "currentpriceofoilasofaugust242026",
   "f31eec3322f076de",
   "russiadoublesdarkfleettoshiplngtoasia",
   "771ac9f2d1bf39c4",
@@ -603,7 +601,9 @@
   "86ea78967ad1f99e",
   "chinamaintainsstablerefinedfuelexportsunderrelaxedcontrolsso",
   "3c3008e0849876f1",
-  "blockadesucceedswheresanctionsfailedasiranoilexportsstall"
+  "blockadesucceedswheresanctionsfailedasiranoilexportsstall",
+  "86b1ad6197683e3e",
+  "oilclimbsfor3rdstraightdayonrenewedusiranfighting"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T10:55:15.410486+03:00",
+ "last_run": "2026-09-02T11:00:24.618983+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1892,6 +1892,10 @@
   {
    "d": "2026-09-02",
    "t": "Blockade succeeds where sanctions failed as Iran oil exports stall - Reuters"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Oil climbs for 3rd straight day on renewed U.S.-Iran fighting - Investing.com"
   }
  ]
 }
