@@ -4,10 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "1839687739170b9f",
-  "oilpricesriseandstocksfallafterushitsiraniantargetsinthestra",
-  "157aa71cb0280b10",
-  "usoildealpusheschinaandrussiaoutofvenezuelanfields",
   "ed56805c6450e9f5",
   "cctvscript010926",
   "ba1c7c0c5d25156e",
@@ -603,7 +599,11 @@
   "fdb9afe2ba75aa4b",
   "oilpricesjump4asfreshusiranfightingstokessupplyfears",
   "064489d1201e9adf",
-  "usmilitarysaysitcompletedlatestwaveofstrikesoniran"
+  "usmilitarysaysitcompletedlatestwaveofstrikesoniran",
+  "c05bd9ad07a7662f",
+  "usenergysecretarysays17millionbarrelsofoiltransitedhormuzstr",
+  "2918e829c3e4e02f",
+  "insidenewmexicosoilandgassacrificezonethefighttoprotectgreat"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-02",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-09-02T05:45:14.990986+03:00",
+ "last_run": "2026-09-02T05:50:17.439392+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1767,6 +1767,10 @@
   {
    "d": "2026-09-02",
    "t": "US military says it completed latest wave of strikes on Iran - whbl.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "US energy secretary says 17 million barrels of oil transited Hormuz Strait on Monday - Middle East Eye"
   }
  ]
 }
