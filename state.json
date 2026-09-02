@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "e6d413ef99b0d8c1",
-  "theriseofoilpricesoverspillstoothermarkets",
   "0260e82f7ae34753",
   "currentpriceofoilasofaugust242026",
   "b4de515b9b0e01b2",
@@ -603,7 +601,9 @@
   "1a0a1c3b759bb4bb",
   "israeliresearchersdevelopaerogelthatabsorbs100timesitsweight",
   "e3ba3842056a9d84",
-  "oilrisesasusiranstrikesrisklimitingalreadyimpairedsupplieseu"
+  "oilrisesasusiranstrikesrisklimitingalreadyimpairedsupplieseu",
+  "f055da163ca1f510",
+  "opinionstatecontroloveroilbrokevenezuelawhyistrumpdoublingdo"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T23:00:28.871544+03:00",
+ "last_run": "2026-09-02T23:05:17.245520+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
