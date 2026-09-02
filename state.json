@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "6d7238fc2de80ba8",
-  "thebigproblemswiththebiggestoildealever",
-  "7c5594920fecbd78",
-  "yemenkeymessageupdatejuly2026january2027asconflictdynamicssh",
   "1b72e650ad127fbb",
   "twotankerscarryingsaudioilattackedinstraitofhormuz",
   "223fce11a787c71a",
@@ -603,7 +599,11 @@
   "7cb74e933f748fea",
   "watchhowtheoilpriceispressuringtreasuries",
   "42b9629a3538100f",
-  "usstocksfallasoilbondyieldsspikeusiranwarheatsup"
+  "usstocksfallasoilbondyieldsspikeusiranwarheatsup",
+  "f6397db0f94254f5",
+  "alejandrobetancourttrumpsnewlatinamericanoligarch",
+  "f3d95750e231e8d8",
+  "wallstreetpusheshigherasoilpricesyieldshaltsurge"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T21:45:20.852300+03:00",
+ "last_run": "2026-09-02T21:50:18.651578+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2231,6 +2231,10 @@
   {
    "d": "2026-09-02",
    "t": "U.S. Stocks Fall as Oil, Bond Yields Spike, U.S.-Iran War Heats Up - wsj.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Wall Street pushes higher as oil prices, yields halt surge - Investing.com"
   }
  ]
 }
