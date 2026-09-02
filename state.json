@@ -4,12 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "9a7436c0ae63604b",
-  "atfpricesriseforthesecondtimeintwomonthswillindianairfaresfo",
-  "04daa1318ca9e0af",
-  "oilticksupasusarmyresumesstrikesoniranagain",
-  "cf0e1dc147cb06de",
-  "lawsuitinargentinachallengesbritishisraelioilprojectnearthel",
   "7e0e6a4c40bb4d0d",
   "trumpthreatenstoblowkhargislandtosmithereensasusandirantrade",
   "8d675323101a8b81",
@@ -603,7 +597,13 @@
   "d865ea51fc18cbf9",
   "ryanairwarnsairfaresineuropewilljumpnextyearifoilpricestaysh",
   "f52dbe8088cd2732",
-  "currentpriceofoilasofseptember12026"
+  "currentpriceofoilasofseptember12026",
+  "a0a73128674c7f4b",
+  "thebestperformingcommodityetfsof2026oilandbroadbasketsleadth",
+  "d45b40f7dc9af7b1",
+  "trumpsaidhisdealwithvenezuelawouldlowergaspriceswillit",
+  "ab91b298c59b6077",
+  "usjudgerulesshaleoilantitrustcasecanproceedagainstmajorprodu"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-03",
-  "count": 3
+  "count": 4
  },
- "last_run": "2026-09-03T00:05:13.338856+03:00",
+ "last_run": "2026-09-03T00:10:15.938482+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
