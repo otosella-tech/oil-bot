@@ -4,10 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "1964893782629ee2",
-  "ussays17millionbarrelsofoiltransitedthroughhormuzonmondaymos",
-  "bd42586d1f71d740",
-  "dollarholdsfirmasmiddleeasthostilitiesliftoil",
   "b1367fd401d06ab3",
   "diamondbackreaches1millionboeperdayafterproducing3000in2012m",
   "f6d1175aaa851fba",
@@ -603,7 +599,11 @@
   "611bfe72b55972f5",
   "usofficialssayvenezuelaoildealsteptowardprogressdespitelinge",
   "4148c2eccbf0d05b",
-  "karoonenergyupdatesonbraziliancrudeoilexporttaxinjunction"
+  "karoonenergyupdatesonbraziliancrudeoilexporttaxinjunction",
+  "345025e7bb8954dc",
+  "usoilreservehits44yearlowamidiranwarglobalenergyshortageabcn",
+  "419b384440c3f6d0",
+  "italyseniplansmajorincreaseinvenezuelaoilproduction"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T18:20:17.941294+03:00",
+ "last_run": "2026-09-02T18:25:19.383905+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2147,6 +2147,10 @@
   {
    "d": "2026-09-02",
    "t": "U.S. officials say Venezuela oil deal step toward progress despite lingering concerns - Washington Times"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "US oil reserve hits 44-year-low amid Iran war, global energy shortage - ABC News - Breaking News, Latest News and Videos"
   }
  ]
 }
