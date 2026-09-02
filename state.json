@@ -4,8 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "20827948a36b0239",
-  "asusvenezuelaoildealtakesshapeherearethekeypoints",
   "3adf4e69d78d30f4",
   "trumpsaysuswillrefillstrategicpetroleumreserveusingvenezuela",
   "2e225325b8fc8d65",
@@ -603,7 +601,9 @@
   "e5f00edfa74b66b1",
   "matureusoilfieldsstillholdamassiveuntappedprize",
   "51c09c936dc760d3",
-  "asianstockssetfordeclinesasoilextendsgainsmarketswrap"
+  "asianstockssetfordeclinesasoilextendsgainsmarketswrap",
+  "c2e9ef696d0af8f4",
+  "oilextendsadvanceasusiranescalationreviveshormuzrisks"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-02",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-09-02T05:05:13.456957+03:00",
+ "last_run": "2026-09-02T05:10:17.200968+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1743,6 +1743,10 @@
   {
    "d": "2026-09-02",
    "t": "Brent Crude Oil Prices Head to $100 as Reports of US Attack on Iran Hit Markets - FXLeaders"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Oil Extends Advance as US-Iran Escalation Revives Hormuz Risks - Bloomberg.com"
   }
  ]
 }
