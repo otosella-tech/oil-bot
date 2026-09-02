@@ -4,20 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "ec8f0fb525ea3a0f",
-  "wtiinsightsbypvm",
-  "881097ac33ea6929",
-  "oilpricesupagainamidrenewedusirantensions",
-  "3e12665dc9632fd2",
-  "wtiandbrentpushupwardextendingyeartodategains",
-  "edda0a49d2deb8b1",
-  "commentarytheamericasoilbonanzawilloutlasttheiranconflict",
-  "8dc3ce27072e2d04",
-  "oilpricesclimbasusiranianattacksstokefearsofescalation",
-  "5843d4685e09f627",
-  "sasolearningsup9onhigheroilpricesfuelsalesvolumes",
-  "ec52aac29a12797e",
-  "tradecrudeoilwithjust860cmereduceswtifuturescontractsizeto10",
   "ff7eecb1e0ad9582",
   "candonaldtrumps65bnbarreldealrevivevenezuelasoilindustry",
   "1839687739170b9f",
@@ -603,7 +589,21 @@
   "0705933349340c11",
   "analystbreaksdownchallengesuswillfacetounlockvenezuelasoil",
   "84f842f6537101f7",
-  "longerwellsboostpermiancrudeoilandnaturalgasproduction"
+  "longerwellsboostpermiancrudeoilandnaturalgasproduction",
+  "cae8ef1238ae9090",
+  "oilpricesclimbastrumpthreatensnewstrikesoniran",
+  "223ccca494be7f41",
+  "whyadifferentkindofoilmarketistakingshape",
+  "36a19b4fac9d45f9",
+  "thecrudeoilassayforaasgardblendhasbeenupdated",
+  "8a55e8929409296c",
+  "whatthelatestusiranstrikesmeanforoilsuppliesandmaritimesafet",
+  "48366d5b1a7a96f2",
+  "escalatingusiranconflictdrivesupoilpriceswtireturnsabove90go",
+  "51122edeb3cfe82e",
+  "irancrudeexportsthroughhormuzstallforfirsttimeonrecordreuter",
+  "fdb9afe2ba75aa4b",
+  "oilpricesjump4asfreshusiranfightingstokessupplyfears"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-02",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-09-02T05:20:18.267817+03:00",
+ "last_run": "2026-09-02T05:25:14.725270+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1751,6 +1751,18 @@
   {
    "d": "2026-09-02",
    "t": "Oil prices continue to climb as violence flares in Iran war - Transport Topics"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Oil Prices Climb as Trump Threatens New Strikes on Iran - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "What the latest U.S.-Iran strikes mean for oil supplies and maritime safety - PBS"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Iran crude exports through Hormuz stall for first time on record - Reuters - Iran International"
   }
  ]
 }
