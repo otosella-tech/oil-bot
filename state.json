@@ -4,12 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "e70879d476fe04c2",
-  "oiltoholdabove80abarrelasmiddleeastsupplyriskspersist",
-  "43e391fadf077e28",
-  "thebondmarketisinopenrevoltastrumpdeclinestoacceptaniranianp",
-  "8ebd521bcc17108d",
-  "jimcramerthisindustrialstockslipswhencrudeoilishighboeingnys",
   "9973f31d19957e58",
   "sprcrudeoilacquisitionprocedures",
   "c83c9eabb396eb20",
@@ -603,7 +597,13 @@
   "0dd24a7688894e00",
   "oilpricesriseandstocksfallafterushitsiraniansitesinthestrait",
   "0773d723ad378f1d",
-  "venezuelahandstheuscontroloverafifthofitsoilinlandmarkdeal"
+  "venezuelahandstheuscontroloverafifthofitsoilinlandmarkdeal",
+  "82a18ecf66fe783d",
+  "hormuzshippingslumpsasus",
+  "205ab587f06dd172",
+  "trumpsoildealwithvenezuelaraisesredflagsforsomemajorproducer",
+  "010c3e58fb1c3b88",
+  "theamericasoilbonanzawilloutlasttheiranconflictatexpenseofmi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T10:10:19.206594+03:00",
+ "last_run": "2026-09-02T10:15:17.720649+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1868,6 +1868,14 @@
   {
    "d": "2026-09-02",
    "t": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz - AP News"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Hormuz Shipping Slumps as U.S.-Iran Strikes Rattle Oil Markets"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Trump's oil deal with Venezuela raises red flags for some major producers, sources say - Reuters"
   }
  ]
 }
