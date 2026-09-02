@@ -4,8 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "13e0dd9b3eb04223",
-  "highcrudeoilpricespushupnationalaverage",
   "e688104d1c9dbefb",
   "daysaftertrumpannouncesvenezuelaoildealwhitehousefillsinsome",
   "da5b760e81859617",
@@ -603,7 +601,9 @@
   "65aed2df70973dd9",
   "dowjonesfuturesdellcredopaloaltoareearningsmoverslateoilpric",
   "c8815ee51e8f2832",
-  "uscrudestockpilesfell26mbarrelslastweekapisaysusonysearca"
+  "uscrudestockpilesfell26mbarrelslastweekapisaysusonysearca",
+  "5b13e573f21ab2be",
+  "trumpsvenezuelaoildealisafarce"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 53
  },
- "last_run": "2026-09-02T06:45:15.610469+03:00",
+ "last_run": "2026-09-02T06:50:17.758359+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
