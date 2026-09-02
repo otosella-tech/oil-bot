@@ -4,10 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "edc7365f0af415cb",
-  "theuswantstopumpmorevenezuelanoilhereswhattoknow",
-  "28785cfadcbad977",
-  "fourquestionsontheusvenezuelanoildeal",
   "e3f5be594f3edbf7",
   "vacamuertasoilandgasisbuildinganargentinaforthefew",
   "fa0106298759c0e9",
@@ -603,7 +599,11 @@
   "4cab493c4f752cc4",
   "usoilgiantchevronconfirmsitwillexpandoperationsinvenezuela",
   "a3b65695c039d1b6",
-  "rbibackstopkeepsindianrupeestablebluntingimporterdollardeman"
+  "rbibackstopkeepsindianrupeestablebluntingimporterdollardeman",
+  "fa16e353bb9959d5",
+  "chevronexpansioninvenezuelaextendsusinfluenceoveroilriches",
+  "48b1d2d0efff19fa",
+  "crudeoilfuturesclimbfor6thsessionasusirantensionsrevivesuppl"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T13:50:19.499694+03:00",
+ "last_run": "2026-09-02T13:55:13.225541+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1952,6 +1952,10 @@
   {
    "d": "2026-09-02",
    "t": "Two More Oil Tankers Are Attacked in the Strait of Hormuz - The New York Times"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches - The New York Times"
   }
  ]
 }
