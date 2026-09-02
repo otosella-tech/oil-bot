@@ -4,12 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "9ab6de1ccfe59ff4",
-  "martincountyauthoritiesseekpublicshelpinlocatingcrudeoilthef",
-  "9d4db9f130ef95f3",
-  "crudeoilforecastwtithreatensbreakoutasusirantensionsescalate",
-  "8670344457d40abb",
-  "oilstocksinusstrategicpetroleumreservefallby31millionbarrels",
   "943839ae645494c5",
   "usvenezuelareachdealcovering65billionbblofoilreserves",
   "bbc3ab35e93c61b1",
@@ -603,7 +597,13 @@
   "5f5192b8f207bf82",
   "oilgiantchevronisexpectedtoannounceitwillexpandoperationsinv",
   "58ecfe35f90bbfa3",
-  "oilnewscrudeoilfuturessurgeascentcomstrikesreshapebullishout"
+  "oilnewscrudeoilfuturessurgeascentcomstrikesreshapebullishout",
+  "b72a95218fec6856",
+  "indiansharesjoinglobalslideasmideastwoesmount",
+  "468fb379d05806db",
+  "venezuelasnewcropofoilbaronsstepuptheirdealmaking",
+  "cc4a686ca59a48ad",
+  "crudeoilsurgestoward90"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T15:05:15.143551+03:00",
+ "last_run": "2026-09-02T15:10:24.536575+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1984,6 +1984,14 @@
   {
    "d": "2026-09-02",
    "t": "Energy Secretary Chris Wright tells CNBC that more than 17 million barrels of oil transited Hormuz on Monday - CNBC"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Venezuela’s New Crop of Oil Barons Step Up Their Dealmaking - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Crude Oil Surges Toward $90 - TradingView"
   }
  ]
 }
