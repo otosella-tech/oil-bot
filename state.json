@@ -4,10 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "4567c06b30bf4dbc",
-  "canadianoilstockedgesintobuyzoneafter200earningsgrowth",
-  "a130a0e5e3d264ab",
-  "dowjonesfuturesmarketbreakskeylevelsasoilpricesjumpdellcredo",
   "4ab76890d7c18c89",
   "turkeyshiftsfromrussiantoamericancrudeasiranwardisruptsenerg",
   "d92c95029e5b6850",
@@ -603,7 +599,11 @@
   "2375fc69567bf8d1",
   "crudeoillittlechangedabove90",
   "592e72b0037dfe05",
-  "crudeoilpausesadvance"
+  "crudeoilpausesadvance",
+  "8f37736bb4dc7964",
+  "stocksstabilizeascrudeoilpricesandbondyieldsease",
+  "7ffdefb92f6e121c",
+  "uscrudeoilinventoriesseemodestweeklybuild"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T17:20:18.086317+03:00",
+ "last_run": "2026-09-02T17:25:14.514031+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
