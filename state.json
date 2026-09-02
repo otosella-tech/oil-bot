@@ -4,16 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "d45b40f7dc9af7b1",
-  "trumpsaidhisdealwithvenezuelawouldlowergaspriceswillit",
-  "9262559dded6832d",
-  "oilmajorbpcompletessearchforchairafterboardroomupheaval",
-  "86ea78967ad1f99e",
-  "chinamaintainsstablerefinedfuelexportsunderrelaxedcontrolsso",
-  "3c3008e0849876f1",
-  "blockadesucceedswheresanctionsfailedasiranoilexportsstall",
-  "86b1ad6197683e3e",
-  "oilclimbsfor3rdstraightdayonrenewedusiranfighting",
   "e6d413ef99b0d8c1",
   "theriseofoilpricesoverspillstoothermarkets",
   "0260e82f7ae34753",
@@ -603,7 +593,17 @@
   "a8005d21dc955c93",
   "oilfuturescrudeextendsgainsamidusiranescalationfears",
   "9973f31d19957e58",
-  "sprcrudeoilacquisitionprocedures"
+  "sprcrudeoilacquisitionprocedures",
+  "5367ee9a200dba60",
+  "oilsettles1higherasusiranstrikesthreatensupplies",
+  "02ae4ca9f5a110b9",
+  "oilrises1asusiranstrikesrisklimitingalreadyimpairedsupplies",
+  "9b82fb83f2c40fce",
+  "crudeoilpowerturnaroundandtransformationinangolagainsbacking",
+  "1a0a1c3b759bb4bb",
+  "israeliresearchersdevelopaerogelthatabsorbs100timesitsweight",
+  "e3ba3842056a9d84",
+  "oilrisesasusiranstrikesrisklimitingalreadyimpairedsupplieseu"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T22:55:14.276980+03:00",
+ "last_run": "2026-09-02T23:00:28.871544+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2275,6 +2275,18 @@
   {
    "d": "2026-09-02",
    "t": "Crude Oil Threatens Breakout Amid US-Iran Re-Escalation - Investing.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Oil settles 1% higher, as US-Iran strikes threaten supplies - Reuters"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Oil rises 1%, as US-Iran strikes risk limiting already impaired supplies - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Oil rises, as US-Iran strikes risk limiting already impaired supplies - Euronext Markets: Real-time Stock Market Data | live"
   }
  ]
 }
