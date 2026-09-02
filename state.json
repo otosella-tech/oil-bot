@@ -4,12 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "2a87b526e4c3546b",
-  "nabepplans100billionvenezuelainvestmenttargets1millionbdoilo",
-  "2e855e2c2a1bb259",
-  "russianoilisnolongerindiaseasybargain",
-  "a45de94d2785a9e8",
-  "willtrumpsvenezuelaoildeallowerusgaspriceshereswhatexpertssa",
   "e2fae2df5db74d02",
   "globaloilpricessurgeabove94abarrelandsettleata6weekhighafter",
   "822a051ab6bd1870",
@@ -603,7 +597,13 @@
   "6f32eecf9e8a4d9c",
   "forecastupdateforcrudeoil02092026",
   "56f3592c1f8eb73d",
-  "whythemiddleeastoilshockfailedtosaverussiasbudget"
+  "whythemiddleeastoilshockfailedtosaverussiasbudget",
+  "56fc555461bd767e",
+  "the3trillionoilmarketisbecomingmoreaccessiblethanevernolonge",
+  "53f19743feaaa85b",
+  "wallstreetfuturesstabilizeasoilpricesyieldshaltsurge",
+  "ede1f793de113d0c",
+  "crudeoilgoesverticalonfreshexplosionsinsoutherniran"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T16:05:17.604910+03:00",
+ "last_run": "2026-09-02T16:10:21.872127+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2044,6 +2044,14 @@
   {
    "d": "2026-09-02",
    "t": "Bessent Says Strait of Hormuz Obsolete Within Two Years"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Wall Street futures stabilize as oil prices, yields halt surge - Investing.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Crude Oil goes vertical on fresh explosions in southern Iran - FXStreet"
   }
  ]
 }
