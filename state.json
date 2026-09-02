@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "f9e248d9dead1fb7",
-  "currentpriceofoilasofseptember12026",
-  "1163faf3fc5d3b90",
-  "asianmarketstumbleasusiranfightingliftsoilandbondyields",
   "4d5d7e01e62cbd31",
   "pakistanrejectscostlylngcargoasblackoutriskdeepens",
   "07a6b43f4b3275d7",
@@ -603,7 +599,11 @@
   "38cd4b904be66a68",
   "usstocksclimbasbondyieldsstayinspotlight",
   "0260e82f7ae34753",
-  "currentpriceofoilasofaugust242026"
+  "currentpriceofoilasofaugust242026",
+  "bc40c0cda1134888",
+  "blockadesucceedswheresanctionsfailedasiranoilexportsstall",
+  "5f45e39e409db544",
+  "uscrudeoilproductionanddemandincreaseinjunebyinvestingcom"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T23:15:19.244231+03:00",
+ "last_run": "2026-09-02T23:20:18.593479+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2291,6 +2291,10 @@
   {
    "d": "2026-09-02",
    "t": "White House, Caracas release details on historic US-Venezuela oil deal - FDD's Long War Journal"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Blockade succeeds where sanctions failed as Iran oil exports stall - reuters.com"
   }
  ]
 }
