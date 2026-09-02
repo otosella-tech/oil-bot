@@ -4,8 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "86fe732c84512ff1",
-  "asleeperissueinredstatesthisfalldieselprices",
   "9ff43a3af0331bcf",
   "currentpriceofoilasofsept12026",
   "929aad13da4fb6c7",
@@ -603,7 +601,9 @@
   "b0d756c79771b284",
   "thesetankscanhold90millionbarrelsofoiltheyhavejust22million",
   "e6fa2126b902c7dd",
-  "venezuelasnationalassemblybacksmajoroildealwithus"
+  "venezuelasnationalassemblybacksmajoroildealwithus",
+  "cced02648ed64548",
+  "oilsurgesabove95onrenewedusiranfightingandhormuzdisruptionco"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T09:30:20.519524+03:00",
+ "last_run": "2026-09-02T09:35:12.976668+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1856,6 +1856,10 @@
   {
    "d": "2026-09-02",
    "t": "Bessent Hosts G20 Meeting; U.S. Strikes Iran for Second Time in Three Days - The New York Times"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Oil surges above $95 on renewed US-Iran fighting and Hormuz disruption concerns - thenationalnews.com"
   }
  ]
 }
