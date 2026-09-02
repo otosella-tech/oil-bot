@@ -4,14 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "f3544bc1f298b4d3",
-  "crudeoiltops90abarrelafterusiranstrikes",
-  "ea575e26d4ab58f7",
-  "oiltankerstruckbythreeprojectilesinstraitofhormuz",
-  "f8565b91c3a70309",
-  "oilpricesriseasrenewedusiranexchangeskeepsupplyrisksinfocus",
-  "f4c484ac077ac33b",
-  "whytrumpsvenezuelaoildealwillnotbringquickrelieftotheus",
   "09453580dce9c19d",
   "usmovesintovenezuelasoilfieldsdisplacingrussianandchineseope",
   "d6ed42334b1edc87",
@@ -603,7 +595,15 @@
   "b8eaa29a6bca1556",
   "howiransmugglesitsoil",
   "ffb217bfeedb575d",
-  "bessentstraitofhormuzwillbeworthlessintwoyears"
+  "bessentstraitofhormuzwillbeworthlessintwoyears",
+  "ff4bc2028a7ff761",
+  "oilpricesextendgainsasusandirantradefreshstrikes",
+  "9a5caf7eb4c79b69",
+  "whatweknowabouttrumpsdealgivingusaccesstovastoilreservesinve",
+  "2bea6d3745848204",
+  "oilclimbsfor3rdstraightdaybrenttops96onrenewedusiranfighting",
+  "93d734134c1f3736",
+  "trumpsaysvenezuelanoilwillbeusedtorefillusreserve"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T07:50:16.665903+03:00",
+ "last_run": "2026-09-02T07:55:13.439940+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1812,6 +1812,14 @@
   {
    "d": "2026-09-02",
    "t": "Bessent: Strait Of Hormuz Will Be \"Worthless\" In Two Years - iHeart"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Oil prices extend gains as US and Iran trade fresh strikes - Reuters"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Oil climbs for 3rd straight day, Brent tops $96 on renewed U.S.-Iran fighting - Investing.com"
   }
  ]
 }
