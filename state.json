@@ -4,12 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "b14b0d262923da61",
-  "oilpricessettleupmorethan4abarrelonrenewedusiranfighting",
-  "c8533b6880038312",
-  "oilsurges5onrenewedtensions",
-  "c875b52c51166dd2",
-  "uslithiumminersfinallyhaveashotatcashingin",
   "681a8c8c5c60b2bb",
   "bessentsaysstraitofhormuzobsoletewithintwoyears",
   "93e54b0f7febcf92",
@@ -603,7 +597,13 @@
   "773742018c46aa5d",
   "brentcrudeoilisupby5",
   "aa83e61ea816da23",
-  "qatariuaelngcargoestransferredviashiptoshipoutsidestraitofho"
+  "qatariuaelngcargoestransferredviashiptoshipoutsidestraitofho",
+  "8dd694e25094ddbb",
+  "over17mbarrelsofoilpassedthroughhormuzonmondayusenergychief",
+  "71dba29519200926",
+  "energysecretarychriswrightrecordoilthroughhormuzmonday",
+  "56a86ae520dd4d3c",
+  "currentpriceofoilasofaugust262026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T15:50:18.624431+03:00",
+ "last_run": "2026-09-02T15:55:19.278837+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2024,6 +2024,14 @@
   {
    "d": "2026-09-02",
    "t": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz - Reuters"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Over 17M barrels of oil passed through Hormuz on Monday: US energy chief - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Energy Secretary Chris Wright: record oil through Hormuz Monday - qz.com"
   }
  ]
 }
