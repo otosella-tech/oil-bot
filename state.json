@@ -4,10 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "f31eec3322f076de",
-  "russiadoublesdarkfleettoshiplngtoasia",
-  "771ac9f2d1bf39c4",
-  "usstockfuturesfallasoilpricesandtreasuryyieldsrisedowjonessp",
   "d217ab556ff8065d",
   "oilthemostsensitiveissueinvenezuelanpolitics",
   "4467a093d47e0900",
@@ -603,7 +599,11 @@
   "3c3008e0849876f1",
   "blockadesucceedswheresanctionsfailedasiranoilexportsstall",
   "86b1ad6197683e3e",
-  "oilclimbsfor3rdstraightdayonrenewedusiranfighting"
+  "oilclimbsfor3rdstraightdayonrenewedusiranfighting",
+  "e6d413ef99b0d8c1",
+  "theriseofoilpricesoverspillstoothermarkets",
+  "0260e82f7ae34753",
+  "currentpriceofoilasofaugust242026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T11:00:24.618983+03:00",
+ "last_run": "2026-09-02T11:05:19.106058+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
