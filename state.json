@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "e9a325dec09aa88e",
-  "thesecrethistoryoftrumpsvenezuelanoilbaron",
   "8bd246843943e5e8",
   "whyvenezuelaprobablywontsolveamericasemergencyoilproblem",
   "c76e4cf81e8f2050",
@@ -603,7 +601,9 @@
   "6b7131c55b16bb9c",
   "trumpwarnsoilexecsaboutpricegouging",
   "0972eba395c7e49a",
-  "oilisclimbingagainastheusiranconflictdragsonmidlandreporter"
+  "oilisclimbingagainastheusiranconflictdragsonmidlandreporter",
+  "56f7816b55907649",
+  "twomoreoiltankersareattackedinthestraitofhormuz"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-03",
-  "count": 14
+  "count": 16
  },
- "last_run": "2026-09-03T01:15:15.969328+03:00",
+ "last_run": "2026-09-03T01:20:17.989414+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2155,6 +2155,10 @@
   {
    "d": "2026-09-03",
    "t": "Syria, eyeing role as Middle East hub, offers options to bypass Hormuz - The Spokesman-Review"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Two More Oil Tankers Are Attacked in the Strait of Hormuz - The New York Times"
   }
  ]
 }
