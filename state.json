@@ -4,8 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "e65b267112ccff9f",
-  "globalbondyieldssurgeasoilpricesfuelinflationworries",
   "3489aa7a1e0ee3c0",
   "crudeoilhits5weekhigh",
   "6cf9253ca890a7b5",
@@ -603,7 +601,9 @@
   "b4dfac22e69cfcab",
   "dollarholdsfirmatnearlytwoweekhighasmiddleeasthostilitieslif",
   "a9a1658c4f779b5d",
-  "wticrudeoilfuturesholdnear86asmiddleeasttensionspersist"
+  "wticrudeoilfuturesholdnear86asmiddleeasttensionspersist",
+  "8e0fb06a348b7fc0",
+  "theusvenezuelaoildealwontloweryourgaspriceshereswhatyouneedt"
  ],
  "releases_done": {},
  "last_digest": "2026-09-01",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 57
  },
- "last_run": "2026-09-02T07:25:14.161423+03:00",
+ "last_run": "2026-09-02T07:29:27.658256+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
