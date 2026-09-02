@@ -4,10 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "edc8587f7791d91b",
-  "blockadesucceedswheresanctionsfailedasiranoilexportsstallal",
-  "0b40cec712aa3b14",
-  "oilbeginsseptemberhigheronrenewedhormuzstrikes",
   "1319dabe2fc96635",
   "sellingcontinuesanditsnotjustoil",
   "8e801508d910301d",
@@ -603,7 +599,11 @@
   "9a7436c0ae63604b",
   "atfpricesriseforthesecondtimeintwomonthswillindianairfaresfo",
   "04daa1318ca9e0af",
-  "oilticksupasusarmyresumesstrikesoniranagain"
+  "oilticksupasusarmyresumesstrikesoniranagain",
+  "cf0e1dc147cb06de",
+  "lawsuitinargentinachallengesbritishisraelioilprojectnearthel",
+  "7e0e6a4c40bb4d0d",
+  "trumpthreatenstoblowkhargislandtosmithereensasusandirantrade"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T12:35:12.692824+03:00",
+ "last_run": "2026-09-02T12:40:17.427885+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1920,6 +1920,10 @@
   {
    "d": "2026-09-02",
    "t": "Oil ticks up as US army resumes strikes on Iran again - engine.online"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Trump threatens to blow Kharg Island 'to smithereens' as U.S. and Iran trade fresh strikes - Fortune"
   }
  ]
 }
