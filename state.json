@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "637c592b5bb91bd6",
-  "uspartnersvenezuelainmassiveoildealcouldthishappeniniran",
-  "6d98382435835b15",
-  "brentoilsurgesbackabove90astheusstrikesiranforfirsttimeinamo",
   "513a923d58491477",
   "crudeoilpricereachesourfinalpricetargetanalysis02092026",
   "5aac691d63c9aa76",
@@ -603,7 +599,11 @@
   "3e98b384278c841e",
   "currentpriceofoilasofaugust172026",
   "db0597c925d4855c",
-  "currentpriceofoilasofaugust182026"
+  "currentpriceofoilasofaugust182026",
+  "93c1c4ddcb466fe7",
+  "shipsadoptantidronedefensesasblackseaattacksworsen",
+  "93e54b0f7febcf92",
+  "crudeoilwti"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T20:01:03.666675+03:00",
+ "last_run": "2026-09-02T20:05:17.437078+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2191,6 +2191,10 @@
   {
    "d": "2026-09-02",
    "t": "Chevron to expand in Venezuela operations, doubling production through $7 billion investment - CNBC"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Ships Adopt Anti-Drone Defenses as Black Sea Attacks Worsen - Marine Link"
   }
  ]
 }
