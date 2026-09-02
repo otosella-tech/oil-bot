@@ -4,10 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "79e944278636963e",
-  "priceofoilrisesafterrenewedusiranfightinginmiddleeast",
-  "abbdc9e2e1d4d06a",
-  "chinarussiaandirantakecenterstageatscosummit",
   "8211ee61b281d06f",
   "assessingalbertasproposedwestcoastoilpipeline",
   "ab618281ac70b649",
@@ -603,7 +599,11 @@
   "efd608534f1db5dd",
   "indiansharesdeclineasoilpricessurgeonusiranstrikes",
   "51ef82b9f4533fa4",
-  "theuscouldcontrol20ofvenezuelasoilreservescanadasoilpatchisn"
+  "theuscouldcontrol20ofvenezuelasoilreservescanadasoilpatchisn",
+  "f9e248d9dead1fb7",
+  "currentpriceofoilasofseptember12026",
+  "1163faf3fc5d3b90",
+  "asianmarketstumbleasusiranfightingliftsoilandbondyields"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T11:20:16.193960+03:00",
+ "last_run": "2026-09-02T11:25:17.193434+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1900,6 +1900,10 @@
   {
    "d": "2026-09-02",
    "t": "Indian shares decline as oil prices surge on US-Iran strikes - Reuters"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Asian markets tumble as US-Iran fighting lifts oil and bond yields - reuters.com"
   }
  ]
 }
