@@ -4,14 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "0773d723ad378f1d",
-  "venezuelahandstheuscontroloverafifthofitsoilinlandmarkdeal",
-  "82a18ecf66fe783d",
-  "hormuzshippingslumpsasus",
-  "205ab587f06dd172",
-  "trumpsoildealwithvenezuelaraisesredflagsforsomemajorproducer",
-  "010c3e58fb1c3b88",
-  "theamericasoilbonanzawilloutlasttheiranconflictatexpenseofmi",
   "b69b4e78288ac8e7",
   "crudeoilandrefinedproductmarketsweighonglobalsupplydem",
   "5ab79fffe331498f",
@@ -603,7 +595,15 @@
   "2e52bd9297aaf5ad",
   "chevrontodoublevenezuelaoilproductionwith7bnpledge",
   "b8d28c612e7f9eb9",
-  "iranianattackonsauditankerkilledtwofilipinosailorssaudiarabi"
+  "iranianattackonsauditankerkilledtwofilipinosailorssaudiarabi",
+  "f6d1175aaa851fba",
+  "wallstreetdropsasusstrikesiniranpushcrudeoilhigherhonolulust",
+  "68c1e5622222e951",
+  "usoilgiantchevronconfirmsitwillexpandoperationsinvenezuelaun",
+  "81f472605b621377",
+  "usfirmsgainmajoritycontrolof65boilbarrelsinvenezuela",
+  "bfd3aa4b2462482e",
+  "chinasrushforrussiancrudesparksrecordpricepremiums"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T22:25:17.021206+03:00",
+ "last_run": "2026-09-02T22:30:20.394487+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2263,6 +2263,10 @@
   {
    "d": "2026-09-02",
    "t": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says - BBC"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Wall Street drops as U.S. strikes in Iran push crude oil higher - Honolulu Star-Advertiser"
   }
  ]
 }
