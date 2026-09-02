@@ -4,8 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "d45b40f7dc9af7b1",
-  "trumpsaidhisdealwithvenezuelawouldlowergaspriceswillit",
   "419e6bc38ed1dc74",
   "oilupabout2asrenewedusiranstrikesstokesupplyfears",
   "3c3008e0849876f1",
@@ -603,7 +601,9 @@
   "a8005d21dc955c93",
   "oilfuturescrudeextendsgainsamidusiranescalationfears",
   "7335af6057fac622",
-  "sprcrudeoilacquisitionprocedures"
+  "sprcrudeoilacquisitionprocedures",
+  "e5502acba7ec7048",
+  "trumpadministrationsayschevronwillexpandvenezuelaoilproducti"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T10:30:21.197150+03:00",
+ "last_run": "2026-09-02T10:35:14.205180+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
