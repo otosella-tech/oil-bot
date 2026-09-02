@@ -4,16 +4,6 @@
   "Brent": 93.83
  },
  "seen": [
-  "dbdea3281f320ff3",
-  "sheriffseekshelpaftercrudeoiltheftnearstanton",
-  "a0095d996b66cf79",
-  "trumpsaysvenezuelanoilcouldreplenishtheussdepletedstockpiles",
-  "e1cfcfdc5a224d7a",
-  "marketbreakskeylevelsasoilsoarsdellcredoleadmoverslate",
-  "526e0d9c928857b4",
-  "usshaleproducerslosebidtokilloilpricefixingcase",
-  "5a41f3173ffd73aa",
-  "whoknowsifitwillsurviveexpertsquestionhowlongtrumpsvenezuela",
   "074dabf8863211a5",
   "oilprivatesurveyofinventoryshowsaheadlinecrudeoildrawgreater",
   "81a43d4397b6cdac",
@@ -603,7 +593,17 @@
   "6c8fef6a3701964f",
   "oilpricesedgelowerafterrecentgainsonrenewedusirantensions",
   "5294e2eb420583a6",
-  "trumpsaysushasentereddealwithvenezuelatotakecontrolof65billi"
+  "trumpsaysushasentereddealwithvenezuelatotakecontrolof65billi",
+  "994b0f860f6b952a",
+  "eustrugglestocurbenergytransitiondependenceonchina",
+  "bc945c881a419ec8",
+  "solarpowerisboominginemergingmarkets",
+  "263f1485c0ed5e49",
+  "uscrudeinventoriesdropamidcontinuedsprdraws",
+  "5dc45e6e8f26717a",
+  "energysecwrightmorethan17millionbarrelsofoiltransitedthrough",
+  "95fff24fb7cb4203",
+  "letterstrumphurtsourdefensessubsidizingbigoilhelpukraine"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T16:45:18.518213+03:00",
+ "last_run": "2026-09-02T16:50:20.807233+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -2080,6 +2080,14 @@
   {
    "d": "2026-09-02",
    "t": "Oil prices edge lower after recent gains on renewed US-Iran tensions - Investing.com"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "U.S. Crude Inventories Drop amid Continued SPR Draws"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Energy Sec. Wright: More than 17 million barrels of oil transited through Strait of Hormuz on Monday - CNBC"
   }
  ]
 }
