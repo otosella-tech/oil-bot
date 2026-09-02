@@ -4,8 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "3722c2b23f414112",
-  "colombianoilservicefirmsmoveintovenezuelaamiddealannouncemen",
   "a40958bf2a4026de",
   "howarecaracasandwashingtonstructuringamassiveoiloutputdeal",
   "0eeb55c614103b4a",
@@ -603,7 +601,9 @@
   "24d9f68f109bef23",
   "oilrisesamidgrowingusiranhostilities",
   "d526056e96bdf203",
-  "oilpricesriseaslatestfightingresurrectsmiddleeastsupplydisru"
+  "oilpricesriseaslatestfightingresurrectsmiddleeastsupplydisru",
+  "7cb74e933f748fea",
+  "watchhowtheoilpriceispressuringtreasuries"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 21
  },
- "last_run": "2026-09-02T02:55:14.237899+03:00",
+ "last_run": "2026-09-02T03:00:27.048288+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
