@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "b69b4e78288ac8e7",
-  "crudeoilandrefinedproductmarketsweighonglobalsupplydem",
   "5ab79fffe331498f",
   "crudeoilpricewtipricechart",
   "45e587e7a237c1fb",
@@ -603,7 +601,9 @@
   "81f472605b621377",
   "usfirmsgainmajoritycontrolof65boilbarrelsinvenezuela",
   "bfd3aa4b2462482e",
-  "chinasrushforrussiancrudesparksrecordpricepremiums"
+  "chinasrushforrussiancrudesparksrecordpricepremiums",
+  "cc845dfb79b1890d",
+  "chevronmakesitsowndealtodoublevenezuelanproduction"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 60
  },
- "last_run": "2026-09-02T22:30:20.394487+03:00",
+ "last_run": "2026-09-02T22:35:13.612212+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
