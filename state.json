@@ -4,8 +4,6 @@
   "Brent": 93.96
  },
  "seen": [
-  "e497427510fbd151",
-  "howthepentagonisgettingintothevenezuelanoilbusinessundertrum",
   "12d5408636bc01c8",
   "currentpriceofoilasofaugust282026",
   "b44faa230a5b6fc4",
@@ -603,7 +601,9 @@
   "6c62b8a637b5a5d0",
   "usofficialsdefendvenezuelaoildealamidquestionsoverrebuilding",
   "345025e7bb8954dc",
-  "usoilreservehits44yearlowamidiranwarglobalenergyshortageabcn"
+  "usoilreservehits44yearlowamidiranwarglobalenergyshortageabcn",
+  "fc9b96e4b98d7317",
+  "crudeoilsurgesbasemetalslmeoutperformsshfeshfetinfallsover1g"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-02",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-09-02T03:35:14.756642+03:00",
+ "last_run": "2026-09-02T03:40:18.786305+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
@@ -1723,6 +1723,10 @@
   {
    "d": "2026-09-02",
    "t": "US oil reserve hits 44-year-low amid Iran war, global energy shortage - ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "d": "2026-09-02",
+   "t": "Crude oil surges, base metals LME outperforms SHFE, SHFE tin falls over 1%, gold and silver plunge, NY silver breaks below 4,400 [Overnight Market] - SMM Metal"
   }
  ]
 }
