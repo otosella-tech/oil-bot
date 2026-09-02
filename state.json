@@ -4,8 +4,6 @@
   "Brent": 95.85
  },
  "seen": [
-  "12c3e29a001a5241",
-  "palmoilpricesroseascrudeoilandsoyoilfirmed",
   "55221fda7cfff3aa",
   "whitehousesaysdealtotakecontrolofvenezuelanoilwillrelyonnort",
   "205ab587f06dd172",
@@ -603,7 +601,9 @@
   "3ec90f898b199d52",
   "diamondbackreaches1millionboeperdayafterproducing3000in2012",
   "1964893782629ee2",
-  "ussays17millionbarrelsofoiltransitedthroughhormuzonmondaymos"
+  "ussays17millionbarrelsofoiltransitedthroughhormuzonmondaymos",
+  "bd42586d1f71d740",
+  "dollarholdsfirmasmiddleeasthostilitiesliftoil"
  ],
  "releases_done": {
   "2026-09-01|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-02",
   "count": 31
  },
- "last_run": "2026-09-02T04:05:13.000342+03:00",
+ "last_run": "2026-09-02T04:10:17.107912+03:00",
  "sent_stories": [
   {
    "d": "2026-08-30",
