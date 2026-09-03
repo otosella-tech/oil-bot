@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "ddb4b27701a0baeb",
-  "crudeoilinventoriesdropsharplysurpassingexpectationsbyinvest",
   "50fc2ee79622c1ea",
   "asianlngpricessurgetohighestsince2022asiranwarescalates",
   "cf66f725c1731390",
@@ -603,7 +601,9 @@
   "23cf5e8e1500f14a",
   "aidatacenterboompushesuspowerequipmenttothebreakingpoint",
   "2e553b4cba4f66c9",
-  "polymarketmovesbeyondpredictionmarketswithcrudeoilperpetualf"
+  "polymarketmovesbeyondpredictionmarketswithcrudeoilperpetualf",
+  "222ced53168e9844",
+  "crudeoilextendsonsupplydisruptions"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 4
  },
- "last_run": "2026-09-04T01:10:17.911362+03:00",
+ "last_run": "2026-09-04T01:15:16.844727+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
