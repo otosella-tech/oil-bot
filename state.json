@@ -4,20 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "08984ac28ee8bf78",
-  "currentpriceofoilasofaug312026",
-  "75e7737e4412bd12",
-  "iraqboostsoilexportsinaugustaslowpricesdrawbuyers",
-  "d865ea51fc18cbf9",
-  "ryanairwarnsairfaresineuropewilljumpnextyearifoilpricestaysh",
-  "f52dbe8088cd2732",
-  "currentpriceofoilasofseptember12026",
-  "a0a73128674c7f4b",
-  "thebestperformingcommodityetfsof2026oilandbroadbasketsleadth",
-  "d45b40f7dc9af7b1",
-  "trumpsaidhisdealwithvenezuelawouldlowergaspriceswillit",
-  "ab91b298c59b6077",
-  "usjudgerulesshaleoilantitrustcasecanproceedagainstmajorprodu",
   "86accb9d55b862b2",
   "trumpadministrationsaysmoreoillefthormuzthisweekthanbeforewa",
   "61c6361b7d51ee7e",
@@ -603,7 +589,21 @@
   "2db9e15d9966f9cb",
   "superhotgeothermaljustgota180millionvoteofconfidence",
   "329de267f9dc313d",
-  "usdieselpricessurgetowardall"
+  "usdieselpricessurgetowardall",
+  "00c4b0012857983d",
+  "norwayseizesrussiancruiseshiptoenforcenaftogazs422billioncla",
+  "9611a0d847a49e6d",
+  "currentpriceofoilasofseptember32026",
+  "b8f2050127a18bde",
+  "mexicobraziloildealraisesconcernforecosystemsandenergytransi",
+  "86a2a67f0d8194f4",
+  "venezuelansprideisbruisedbydealtogiveusonefifthoftheiroilres",
+  "827dc93673cc6c3b",
+  "asiaoilbuyingspreesendsmecrudepricessoaring",
+  "c7654ec344984933",
+  "enquestisinterestedinbuyingbpsnorthseaassetsceotellscnbc",
+  "cc660f68c2c2988c",
+  "usequityindexesclosehigheramiddecliningtreasuryyieldsrisingc"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T18:25:13.386461+03:00",
+ "last_run": "2026-09-03T18:30:23.637958+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2488,6 +2488,14 @@
   {
    "d": "2026-09-03",
    "t": "U.S. Diesel Prices Surge Toward All-Time High"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Norway Seizes Russian Cruise Ship to Enforce Naftogaz's $4.22 Billion Claim"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Asia Oil Buying Spree Sends ME Crude Prices Soaring - Rigzone"
   }
  ]
 }
