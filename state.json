@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "fe966a4df5c05434",
-  "currentpriceofoilasofaugust212026",
-  "4a8833306452a975",
-  "ugandanamescrudeblendpearlsweetaheadofexpectedoilproduction",
   "c03fe484a6ff026c",
   "chevronbets7billiononvenezuelaoilexpansion",
   "e688104d1c9dbefb",
@@ -603,7 +599,11 @@
   "04e433095157bd60",
   "crudeawakeningthewhitehousesoilnumbersdontaddup",
   "04522a7fd3a1879a",
-  "usstockfutureslittlechangedasoilretreatsandbroadcomissuesrev"
+  "usstockfutureslittlechangedasoilretreatsandbroadcomissuesrev",
+  "8629020de5cebb20",
+  "currentpriceofoilasofsept22026",
+  "2a611747bf5bdcba",
+  "forgetcrudeoiltherealenergycrisisrightnowisindiesel"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T13:45:17.149593+03:00",
+ "last_run": "2026-09-03T13:50:16.881649+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
