@@ -4,14 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "5294e2eb420583a6",
-  "trumpsaysushasentereddealwithvenezuelatotakecontrolof65billi",
-  "994b0f860f6b952a",
-  "eustrugglestocurbenergytransitiondependenceonchina",
-  "bc945c881a419ec8",
-  "solarpowerisboominginemergingmarkets",
-  "263f1485c0ed5e49",
-  "uscrudeinventoriesdropamidcontinuedsprdraws",
   "5dc45e6e8f26717a",
   "energysecwrightmorethan17millionbarrelsofoiltransitedthrough",
   "95fff24fb7cb4203",
@@ -603,7 +595,15 @@
   "1441d2ecb935b823",
   "crudeoilfuturesseparatefromrealityasasiaphysicalmarketbuckle",
   "ba48a17144917900",
-  "usschevronitalysenitoexpandoilprojectsinvenezuela"
+  "usschevronitalysenitoexpandoilprojectsinvenezuela",
+  "02b5641e7a244918",
+  "ugandanamesitscrudeoilpearlsweetaheadofproduction",
+  "4676759f16199822",
+  "hormuzdisruptionriskkeepsoilmarketsonedgedespiteeasingusiran",
+  "0aaf93bb32eb4db9",
+  "wallstreetrisesastechstocksclimbandoilpricesbondyieldssteady",
+  "4b9a2e2f0fed78ad",
+  "crudeoilstrengthensitsupsidepotentialwithnewtechnicalsignals"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-03",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-09-03T07:30:21.736890+03:00",
+ "last_run": "2026-09-03T07:35:14.750653+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2248,6 +2248,10 @@
   {
    "d": "2026-09-03",
    "t": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting - Reuters"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Hormuz disruption risk keeps oil markets on edge despite easing US-Iran clashes - The News Pakistan"
   }
  ]
 }
