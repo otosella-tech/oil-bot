@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "b70217a30b6e30f0",
-  "trumpallydefendsvenezuelaoildealamidgunpointdiplomacycritici",
-  "611bfe72b55972f5",
-  "usofficialssayvenezuelaoildealsteptowardprogressdespitelinge",
   "4148c2eccbf0d05b",
   "karoonenergyupdatesonbraziliancrudeoilexporttaxinjunction",
   "345025e7bb8954dc",
@@ -603,7 +599,11 @@
   "5900d13881a7e2e1",
   "privateequitysbigoilopportunityinvenezuela",
   "75e9db517aa7a446",
-  "russiassecondlargestoilrefineryhaltscrudeprocessingafterukra"
+  "russiassecondlargestoilrefineryhaltscrudeprocessingafterukra",
+  "6c62b8a637b5a5d0",
+  "usofficialsdefendvenezuelaoildealamidquestionsoverrebuilding",
+  "155824838a7bdb6e",
+  "morethan17mbarrelsofoiltransitedstraitofhormuzonmondayusener"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T11:05:50.066459+03:00",
+ "last_run": "2026-09-03T11:10:17.372329+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2324,6 +2324,10 @@
   {
    "d": "2026-09-03",
    "t": "Russia’s Second-Largest Oil Refinery Halts Crude Processing After Ukrainian Drone Strike - UNITED24 Media"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "More than 17M barrels of oil transited Strait of Hormuz on Monday, U.S. energy secretary says - Seeking Alpha"
   }
  ]
 }
