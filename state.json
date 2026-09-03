@@ -4,14 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "237b671e4f618380",
-  "yourwednesdaysept2guidefivethingstodointheoilcity",
-  "ea5ac312a1fc80c7",
-  "sinopecextendsbumperrussianoilbuyssqueezingteapotstraderssay",
-  "8ffdf2cc10dbc962",
-  "russiastepsupoilrefineryprotectionamidsurgeinukrainiandronea",
-  "5fb62f4c9ff17b7a",
-  "kazakhstantodoubleoilrefiningcapacityby2040",
   "6744b59ea0d3e7f5",
   "whenwillcrudeoilpricesstabilize",
   "c8324bd643de293a",
@@ -603,7 +595,15 @@
   "b72a95218fec6856",
   "indiansharesjoinglobalslideasmideastwoesmount",
   "f7c2d566a518a91b",
-  "40shipscentcomescortsrecord18millionbarrelsofoilthroughhormu"
+  "40shipscentcomescortsrecord18millionbarrelsofoilthroughhormu",
+  "6b91407b821723ab",
+  "whyuraniumstocksarefallingasusproductiontriples",
+  "2b0480c7b3a2ae7f",
+  "oilfuturesfallonlikelytechnicalcorrection",
+  "18ae41e29a4b3e8c",
+  "oilsettles1higherasusiranstrikesthreatensupplieseuronextmark",
+  "bbc3ab35e93c61b1",
+  "oilpricespushglobalbondmarketclosertotheedge"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-03",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-09-03T02:55:14.495828+03:00",
+ "last_run": "2026-09-03T03:00:25.521455+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2195,6 +2195,10 @@
   {
    "d": "2026-09-03",
    "t": "40 ships: CentCom escorts record 18 million barrels of oil through Hormuz as US-Iran strikes flare: report - Gulf News"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Oil settles 1% higher, as US-Iran strikes threaten supplies - Euronext Markets: Real-time Stock Market Data | live"
   }
  ]
 }
