@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "563e4fa2043981ab",
-  "thetrumpadministrationsaysmoreoilexitedthemiddleeastthisweek",
-  "b3e506aba120efe2",
-  "60targetsstruck18mbarrelsofoilprotectedtheusmilitarysrecordd",
   "468fb379d05806db",
   "venezuelasnewcropofoilbaronsstepuptheirdealmaking",
   "0473c20142a35e81",
@@ -603,7 +599,11 @@
   "8bd246843943e5e8",
   "whyvenezuelaprobablywontsolveamericasemergencyoilproblem",
   "e8248ab6f55c9edf",
-  "lawsuitinargentinachallengesbritishisraelioilprojectnearthel"
+  "lawsuitinargentinachallengesbritishisraelioilprojectnearthel",
+  "99c8a1c911a71a15",
+  "usstrikesdegradeiransstraitofhormuzcapabilitiesiswsays",
+  "5294e2eb420583a6",
+  "trumpsaysushasentereddealwithvenezuelatotakecontrolof65billi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T19:50:17.713559+03:00",
+ "last_run": "2026-09-03T19:55:16.804838+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2556,6 +2556,10 @@
   {
    "d": "2026-09-03",
    "t": "The biggest unanswered question in Trump's Venezuelan oil deal: Where will the $100B in funding come from? - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "US strikes degrade Iran’s Strait of Hormuz capabilities, ISW says - The Jerusalem Post"
   }
  ]
 }
