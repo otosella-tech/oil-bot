@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "2337ae3e82070223",
-  "usstrikesirantankersundernewtankerfortankerpolicy",
-  "89dacf6e6a194332",
-  "3oilandgasstocksinvestorsarescreeningafterthecrudepricejump",
   "36a19b4fac9d45f9",
   "thecrudeoilassayforaasgardblendhasbeenupdated",
   "c37010e6bb38f386",
@@ -603,7 +599,11 @@
   "320e9b662d581239",
   "charlesstarnaudtrumpsvenezuelanoildealisfurtherproofcanadane",
   "a9a1658c4f779b5d",
-  "wticrudeoilfuturesholdnear86asmiddleeasttensionspersist"
+  "wticrudeoilfuturesholdnear86asmiddleeasttensionspersist",
+  "1abc8cc822e3649d",
+  "crudeoilfuturestradelowerasustargetsiransrocketandradarsyste",
+  "84f842f6537101f7",
+  "longerwellsboostpermiancrudeoilandnaturalgasproduction"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T13:35:15.139790+03:00",
+ "last_run": "2026-09-03T13:40:20.671683+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
