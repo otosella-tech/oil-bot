@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "847ca0920bcd8cca",
-  "eiareportsadeclineinuscrudeoilstocks",
   "1935f2ecfbcb6fb5",
   "asiamovestostrengthenoilandgasreservesafterstraitofhormuzcri",
   "1c2b9ff2cca76db8",
@@ -603,7 +601,9 @@
   "ca35af8a83e614b9",
   "makingelectricvehiclesworkformorepeople",
   "3a12f1b558d85d5a",
-  "crudeoilpricesrallyasnoendinsighttousiranwar"
+  "crudeoilpricesrallyasnoendinsighttousiranwar",
+  "fa3a4edb82d6bdfb",
+  "commentarywhyoilimportersarelearningtolivewithlongertraderou"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 4
  },
- "last_run": "2026-09-04T00:45:16.521372+03:00",
+ "last_run": "2026-09-04T00:50:19.016257+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
