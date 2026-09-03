@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "e67ca19e13bc3e2f",
-  "usshaleproducerslosebidtokilloilprice",
   "3e6b3abe1f5be23b",
   "currentpriceofoilasofseptember22026",
   "a7d9e257e213acd7",
@@ -603,7 +601,9 @@
   "d0bc6a15e4d307dc",
   "crudeoilmoveshigherusfactoryordersriseinjuly",
   "f5e19024a5af9d53",
-  "whitecapresourcesinitiatingwithnomoatsharesfairlyvalued"
+  "whitecapresourcesinitiatingwithnomoatsharesfairlyvalued",
+  "47651addb7779518",
+  "explainervenezuelasheavycrudecouldbeswappedforamericanoiltof"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 56
  },
- "last_run": "2026-09-03T07:05:13.310445+03:00",
+ "last_run": "2026-09-03T07:10:19.212047+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
