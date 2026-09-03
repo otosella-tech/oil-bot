@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "b8eaa29a6bca1556",
-  "howiransmugglesitsoil",
   "4ce42c051ccf0246",
   "oilrises1asusiranstrikesrisklimitingalreadyimpairedsuppliese",
   "07a6b43f4b3275d7",
@@ -603,7 +601,9 @@
   "cd08620d8dfdd7fb",
   "morethan17millionbarrelsofoiltransitedhormuzenergysecretary",
   "63c72d8dc739b86c",
-  "uscrudeoiloutputandpetroleumdemandroseinjuneeiasays"
+  "uscrudeoiloutputandpetroleumdemandroseinjuneeiasays",
+  "999e280ff9c1767c",
+  "euvowstougherrussiameasuresafterleipzigdroneattack"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T16:55:21.731506+03:00",
+ "last_run": "2026-09-03T17:00:34.961026+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2456,6 +2456,10 @@
   {
    "d": "2026-09-03",
    "t": "More than 17 million barrels of oil transited Hormuz: Energy Secretary - CNBC"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "EU Vows Tougher Russia Measures After Leipzig Drone Attack"
   }
  ]
 }
