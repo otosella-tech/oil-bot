@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "5181fc7e3f5b51fd",
-  "oilpricesrise2asusiranfightingstokessupplyfears",
-  "c602d1a594a1d4e9",
-  "newoilpipelineswillmakestraitofhormuzworthlesssaysustreasury",
   "2e04c65ec54a2087",
   "thevenezuelanoildealisastrategicvictoryfortrumpsnewmonroedoc",
   "a9a606f3a3847efa",
@@ -603,7 +599,11 @@
   "323870f929bf5acf",
   "usmilitaryfendedoffiraniandronesasitescortedarecordamountofo",
   "9b201e9493888d6d",
-  "wallstreetrisesastechstocksclimbandoilpricesbondyieldsholdst"
+  "wallstreetrisesastechstocksclimbandoilpricesbondyieldsholdst",
+  "848cbab8c22063eb",
+  "energysecretarychriswrighttellscnbcmorethan17millionbarrelso",
+  "8e801508d910301d",
+  "commentaryasiascrudeoilimportsstaysoftinaugustchallengingush"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-03",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-09-03T03:15:17.027020+03:00",
+ "last_run": "2026-09-03T03:15:47.107844+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2207,6 +2207,14 @@
   {
    "d": "2026-09-03",
    "t": "US military fended off Iranian drones as it escorted a record amount of oil through Strait of Hormuz, sources say - CNN"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday - CNBC"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "COMMENTARY: Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters"
   }
  ]
 }
