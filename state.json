@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "a1eac3050a0bbc3d",
-  "majorusoilportselectedfornuclearpowerproject",
   "e584f9d32cbeb823",
   "chevronsbigbetwhyits7bvenezuelanoilinvestmentmakessense",
   "1bf2aa2fbfc6ba80",
@@ -603,7 +601,9 @@
   "1c2b9ff2cca76db8",
   "thetriplethreathowdelayedmaintenancelowreservesandnewtankerw",
   "a56b3ee1377deb04",
-  "commentarytrumpplanrisksderailingvenezuelaoilrecovery"
+  "commentarytrumpplanrisksderailingvenezuelaoilrecovery",
+  "ddb4b27701a0baeb",
+  "crudeoilinventoriesdropsharplysurpassingexpectationsbyinvest"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T10:20:19.136755+03:00",
+ "last_run": "2026-09-03T10:25:14.858683+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
