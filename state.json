@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "9e704c34a3e98c02",
-  "uscrudeoilhits90perbarrelfollowinglatestusattacksagainstiran",
   "282d196623fa16d2",
   "indiaboostsfareastrussianoilimportsaswarupendstraderoutes",
   "e498dc8738b10d9a",
@@ -603,7 +601,9 @@
   "31098451a302478e",
   "wticrudeoiltakesapausebutbullsstillhavetheupperhand",
   "dfd486f07cae11b0",
-  "palmoilreboundsbutcheapercrudekeepsalidonit"
+  "palmoilreboundsbutcheapercrudekeepsalidonit",
+  "4067e6fb62ec079a",
+  "dollarerasesearlygainsascrudeoilandtnoteyieldsmovelower"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-03",
   "count": 54
  },
- "last_run": "2026-09-03T06:25:13.781393+03:00",
+ "last_run": "2026-09-03T06:30:20.268729+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
