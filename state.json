@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "86ecc60a93de2fde",
-  "ryanairwarnssomeairlinescouldstrugglewithjetfuelpricespike",
   "c5d9d05d4090ad41",
   "oilticksupasusiranmilitaryactionrattlessupplylines",
   "4f6f7a9861c87bc7",
@@ -603,7 +601,9 @@
   "3ac8f6a196208582",
   "whattoknowaboutvenezuelanenergyfollowingtrumpsoildeal",
   "56a86ae520dd4d3c",
-  "currentpriceofoilasofaugust262026"
+  "currentpriceofoilasofaugust262026",
+  "e6be742e379daeea",
+  "usdieselpricessurgetowardalltimehigh"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T23:45:19.332601+03:00",
+ "last_run": "2026-09-03T23:50:17.549598+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2648,6 +2648,10 @@
   {
    "d": "2026-09-03",
    "t": "What to Know About Venezuelan Energy Following Trump’s Oil Deal - The New York Times"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "U.S. Diesel Prices Surge Toward All-Time High - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
