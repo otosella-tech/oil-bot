@@ -4,24 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "0d3c5947d8dce361",
-  "dieselcrackshitrecordhighsasglobalfuelsqueezedeepens",
-  "936fb6ea0c0496fe",
-  "exclusivebaytexenergyatenercomdenvertheenergyinvestmentconfe",
-  "f7558618a69c9f13",
-  "whyitsessentialfortheustoimportandexportenergy",
-  "f490bd75f3f20c23",
-  "trumpsbiggestoildealinworldhistoryinvenezuelareeksofcolonial",
-  "1560b6fb90a2b919",
-  "hormuzshippingslumpsasusiranstrikesrattleoilmarkets",
-  "4674db3687b2c74f",
-  "theiranwarisspreadingacrossthegulfandoilhassurgedmorethan30",
-  "9262559dded6832d",
-  "oilmajorbpcompletessearchforchairafterboardroomupheaval",
-  "47cec79c35140c3a",
-  "syriaeyeingroleasmiddleeasthuboffersoptionstobypasshormuzthe",
-  "c84a6b6696be4f4d",
-  "taiexplungesascrudeoilpricesspikeamidmiddleeastconcerns",
   "041a861331d16ce3",
   "iranfiresonusalliesingulfafternightofamericanstrikesitclaims",
   "5209e67422a4523d",
@@ -603,7 +585,25 @@
   "ab91b298c59b6077",
   "usjudgerulesshaleoilantitrustcasecanproceedagainstmajorprodu",
   "d26fe0040548ea9d",
-  "bondselloffdeepensasoilpricesandpublicdebtfearsjoltmarketsby"
+  "bondselloffdeepensasoilpricesandpublicdebtfearsjoltmarketsby",
+  "443afec8b3d8a156",
+  "simultaneoussurgeindollarandoilaswarinflamesmarkets",
+  "86accb9d55b862b2",
+  "trumpadministrationsaysmoreoillefthormuzthisweekthanbeforewa",
+  "484701c508a0d169",
+  "sixmonthsoftheiranwarsendoilpricessoaringandcleanenergyintoo",
+  "49f0e07eae19aaae",
+  "brentcouldhit100soon",
+  "265edc2b8544ce11",
+  "uscrudestocksfallonstrongrefiningactivityandexportseiasays",
+  "f1d98411f65f6527",
+  "venezuelaemergesasnewbattlegroundforglobaloilmajors",
+  "33cfe5290abd9219",
+  "saudiarabialeavesarablightcrudeoilosptoasiaforoctoberunchang",
+  "62a3509f95c2c1bf",
+  "iowagaspricesdrop14centsto389ascrudeoilcostsclimb",
+  "cbd34b661c0d098b",
+  "syriaeyeingroleasmiddleeasthuboffersoptionstobypasshormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T18:45:25.806735+03:00",
+ "last_run": "2026-09-03T18:50:22.853148+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2496,6 +2496,22 @@
   {
    "d": "2026-09-03",
    "t": "Asia Oil Buying Spree Sends ME Crude Prices Soaring - Rigzone"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Simultaneous Surge in Dollar and Oil as War Inflames Markets - IranWire"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Trump administration says more oil left Hormuz this week than before war, but data says otherwise - Fortune"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Six months of the Iran war send oil prices soaring and clean energy into overdrive - Los Angeles Times"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Syria, eyeing role as Middle East hub, offers options to bypass Hormuz - The Washington Post"
   }
  ]
 }
