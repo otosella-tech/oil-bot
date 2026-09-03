@@ -4,12 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "a7b23cfdebc7bc1f",
-  "wallstreetstocksrisedespitebondyieldsoilrising",
-  "e0e8614b9e1a742d",
-  "theusisgobblingupvenezuelanoilbutwillitlowerfuelprices",
-  "ced822ed2cf8186b",
-  "howthepentagonisgettingintothevenezuelanoilbusinessundertrum",
   "563e4fa2043981ab",
   "thetrumpadministrationsaysmoreoilexitedthemiddleeastthisweek",
   "b3e506aba120efe2",
@@ -603,7 +597,13 @@
   "3fd291e3fabc96e0",
   "chinascarbonpollutionfellinrecentmonthsasoildemandplummeted",
   "ee2760cdab15d90a",
-  "russiawillslightlycutoiloutputthisyeardeputypmnovaksays"
+  "russiawillslightlycutoiloutputthisyeardeputypmnovaksays",
+  "107d00824e95e917",
+  "thebiggestunansweredquestionintrumpsvenezuelanoildealwherewi",
+  "8bd246843943e5e8",
+  "whyvenezuelaprobablywontsolveamericasemergencyoilproblem",
+  "e8248ab6f55c9edf",
+  "lawsuitinargentinachallengesbritishisraelioilprojectnearthel"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T19:45:25.994624+03:00",
+ "last_run": "2026-09-03T19:50:17.713559+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2552,6 +2552,10 @@
   {
    "d": "2026-09-03",
    "t": "Russia will slightly cut oil output this year, deputy PM Novak says - Reuters"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "The biggest unanswered question in Trump's Venezuelan oil deal: Where will the $100B in funding come from? - Yahoo Finance"
   }
  ]
 }
