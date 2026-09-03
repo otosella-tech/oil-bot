@@ -4,22 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "5209e67422a4523d",
-  "highcrudeoilpricespushupnationalaverage",
-  "ec5d261a43e2509a",
-  "whitehydrogendrillingpushgainsmomentumacrossthreecontinents",
-  "dd7f16c4713cb028",
-  "opinionthecroniesincaracaswinoverwashington",
-  "6b7131c55b16bb9c",
-  "trumpwarnsoilexecsaboutpricegouging",
-  "0972eba395c7e49a",
-  "oilisclimbingagainastheusiranconflictdragsonmidlandreporter",
-  "56f7816b55907649",
-  "twomoreoiltankersareattackedinthestraitofhormuz",
-  "6e430333b74be14c",
-  "alaskaschoolssettoreceive115minwardrivenoilrevenuebonusstate",
-  "e9a325dec09aa88e",
-  "thesecrethistoryoftrumpsvenezuelanoilbaron",
   "b8d57960841aa463",
   "avenezuelanoildealwithmanylayersgilguerra",
   "8bd246843943e5e8",
@@ -603,7 +587,23 @@
   "cbd34b661c0d098b",
   "syriaeyeingroleasmiddleeasthuboffersoptionstobypasshormuz",
   "720e1b9a8e38bad3",
-  "ukborrowingcostssurgeasoilshockrattlesglobalmarkets"
+  "ukborrowingcostssurgeasoilshockrattlesglobalmarkets",
+  "2326f5aa17493f1c",
+  "russiasoilrevenuesinksasuralsfallsto59",
+  "29845f9adbbce3e2",
+  "oiltouches97perbarrelasdieselpricessurgetohighestlevelthisye",
+  "668c92dc89457768",
+  "whitehousepicktorunvenezuelaoildealunderinvestigationintwoco",
+  "532f92e474078748",
+  "saudiarabiareportedlysetsoctoberarablightcrudeoilosptoasiaat",
+  "2831a8e563349516",
+  "howmuchoilisgoingthroughhormuzwhydatadoesntmatchusclaims",
+  "36f42ea8523f6a01",
+  "woodsidepemextakeinitialsteptowardexpandedpartnershipinmexic",
+  "0561e5f93aae45c4",
+  "dowreboundsbrieflyup298pointscrudeoilfuturesholdin92range",
+  "c84a6b6696be4f4d",
+  "taiexplungesascrudeoilpricesspikeamidmiddleeastconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T19:10:18.551177+03:00",
+ "last_run": "2026-09-03T19:15:17.897388+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2516,6 +2516,14 @@
   {
    "d": "2026-09-03",
    "t": "UK Borrowing Costs Surge as Oil Shock Rattles Global Markets"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Russia’s Oil Revenue Sinks as Urals Falls to $59"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Taiex plunges as crude oil prices spike amid Middle East concerns - focustaiwan.tw"
   }
  ]
 }
