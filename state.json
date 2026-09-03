@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "8629020de5cebb20",
-  "currentpriceofoilasofsept22026",
   "1626f5497a987298",
   "bessentpredictsstraitofhormuzwillbeworthlessin2years",
   "9e704c34a3e98c02",
@@ -603,7 +601,9 @@
   "fee7244b9dc3962e",
   "sinopecextendsbumperrussianoilbuyssqueezingsmallteapotstrade",
   "86ea78967ad1f99e",
-  "chinamaintainsstablerefinedfuelexportsunderrelaxedcontrolsso"
+  "chinamaintainsstablerefinedfuelexportsunderrelaxedcontrolsso",
+  "31098451a302478e",
+  "wticrudeoiltakesapausebutbullsstillhavetheupperhand"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-03",
   "count": 54
  },
- "last_run": "2026-09-03T06:15:20.064208+03:00",
+ "last_run": "2026-09-03T06:20:18.470665+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
