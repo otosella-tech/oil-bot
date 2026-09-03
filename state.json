@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "302d82498e08351d",
-  "stockspushhigherascrudeoilandbondyieldsstabilize",
-  "72a8dadaf030cea8",
-  "trumpannouncedamassiveoildealwithvenezuelawhyitwontlowergasp",
   "9f6b25a8f42095dd",
   "stocksriseonwallstreetasoilpricesbondyieldsholdrelativelyste",
   "4ba09c441e3514ad",
@@ -603,7 +599,11 @@
   "106bc9869a4ef678",
   "chinasshrinkingappetiteforoilbehindemissionscutforfirsttime",
   "345025e7bb8954dc",
-  "usoilreservehits44yearlowamidiranwarglobalenergyshortageabcn"
+  "usoilreservehits44yearlowamidiranwarglobalenergyshortageabcn",
+  "f8af6ce9876b77ce",
+  "unwarnsglobalwarmingwilltop15cwithinyears",
+  "c4a86554ea5b8113",
+  "oilfallsfromrecenthighsasinvestorsweighuncertaintyoverusiran"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T11:25:14.504701+03:00",
+ "last_run": "2026-09-03T11:30:23.485547+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2332,6 +2332,14 @@
   {
    "d": "2026-09-03",
    "t": "US oil reserve hits 44-year-low amid Iran war, global energy shortage - ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "UN Warns Global Warming Will Top 1.5C Within Years"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Oil falls from recent highs as investors weigh uncertainty over US-Iran strikes - Reuters"
   }
  ]
 }
