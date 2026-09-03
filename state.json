@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "50fc2ee79622c1ea",
-  "asianlngpricessurgetohighestsince2022asiranwarescalates",
   "cf66f725c1731390",
   "kazakhstans40milliontonrefininggoalhingesondomesticmarketinc",
   "fd94d8f873021cf3",
@@ -603,7 +601,9 @@
   "2e553b4cba4f66c9",
   "polymarketmovesbeyondpredictionmarketswithcrudeoilperpetualf",
   "222ced53168e9844",
-  "crudeoilextendsonsupplydisruptions"
+  "crudeoilextendsonsupplydisruptions",
+  "bd0fb786cfcb5e4e",
+  "usoildealsparksangerinvenezuelasaysoppositionleader"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-04",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-09-04T01:20:18.679103+03:00",
+ "last_run": "2026-09-04T01:25:16.607246+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2208,6 +2208,10 @@
   {
    "d": "2026-09-04",
    "t": "Crude Oil Prices Rally as No End in Sight to US-Iran War - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "US oil deal sparks ‘anger’ in Venezuela, says opposition leader - Financial Times"
   }
  ]
 }
