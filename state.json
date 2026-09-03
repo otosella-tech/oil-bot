@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "0184916f76951490",
-  "budgetairlinewarnsjetfuelshockcouldwipeoutrivals",
-  "b60ee4fffcb06452",
-  "chevronconfirmsitwillinvestbillionstoexpandoperationsinoilri",
   "ef17dde430c67720",
   "brentoilpricenear96asiranretaliateswithstrikesonusgulfallies",
   "8cfce82a13e6bc09",
@@ -603,7 +599,11 @@
   "a03851c241ba9bf9",
   "egypttargetsrefineryexpansion",
   "db0597c925d4855c",
-  "currentpriceofoilasofaugust182026"
+  "currentpriceofoilasofaugust182026",
+  "5a38c1391d8955ff",
+  "usoilreservehits44yearlowamidiranwarglobalenergyshortage",
+  "86caa7de436902a9",
+  "oilpricesrallyasustargetsiraniantankersinnewescalation"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T13:20:19.312818+03:00",
+ "last_run": "2026-09-03T13:25:14.044835+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2372,6 +2372,14 @@
   {
    "d": "2026-09-03",
    "t": "OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "US oil reserve hits 44-year-low amid Iran war, global energy shortage - abcnews.com"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Oil Prices Rally as U.S. Targets Iranian Tankers in New Escalation - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
