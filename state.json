@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "fb94a567dc710844",
-  "lowoilpricesattractbuyerstoiraqwhichboostsexportsofcrudeoili",
   "2375fc69567bf8d1",
   "crudeoillittlechangedabove90",
   "592e72b0037dfe05",
@@ -603,7 +601,9 @@
   "5a41f3173ffd73aa",
   "whoknowsifitwillsurviveexpertsquestionhowlongtrumpsvenezuela",
   "bf030454a033f68a",
-  "oilpricesup020926"
+  "oilpricesup020926",
+  "b8a5eaa3e3c183ee",
+  "trumpsaysvenezuelanoilcouldreplenishdepletedusstockpileswill"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T08:50:19.704347+03:00",
+ "last_run": "2026-09-03T08:55:15.649762+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
