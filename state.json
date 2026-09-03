@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "6079f34393eda668",
-  "uscrudeoilstockpilesseelargerthanexpecteddropupdate",
   "5e951f78ef0360d0",
   "after6monthsofwarwhyarentoilpricesevenhigher",
   "be873c9a09780ce2",
@@ -603,7 +601,9 @@
   "c2c17af065b837cf",
   "saudiaramcotheworldsbestoilassetbutwhatisitworthat70brent",
   "eac858d96c0d9d3e",
-  "globalcrudeoilpricesstayabove95amidsupplyconcerns"
+  "globalcrudeoilpricesstayabove95amidsupplyconcerns",
+  "513de4e3e9b80eb3",
+  "usenergysecretarysays17millionbarrelsofoiltransitedstraitofh"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T11:45:18.785917+03:00",
+ "last_run": "2026-09-03T11:50:19.926819+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2344,6 +2344,10 @@
   {
    "d": "2026-09-03",
    "t": "Chinese Refiners Pay Record Premiums for Russian ESPO Crude"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "US energy secretary says 17 million barrels of oil transited Strait of Hormuz on Monday - Reuters"
   }
  ]
 }
