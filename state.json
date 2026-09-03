@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "3b91e8e533874160",
-  "chevrons7billionvenezuelagambleaimstodoubleoiloutput",
-  "5a41f3173ffd73aa",
-  "whoknowsifitwillsurviveexpertsquestionhowlongtrumpsvenezuela",
   "b74df89ce0d213bc",
   "ukrainesrefinerystrikesforcerussiatoprocessoilabroad",
   "82571a9498cb3924",
@@ -603,7 +599,11 @@
   "21d3f70cf5c03e98",
   "uscrudeinventoriesdropamidcontinuedsprdraws",
   "5dc45e6e8f26717a",
-  "energysecwrightmorethan17millionbarrelsofoiltransitedthrough"
+  "energysecwrightmorethan17millionbarrelsofoiltransitedthrough",
+  "c198ba2b1fef4198",
+  "asialookstostoreoilgasclosertohomeafterstraitofhormuzcrisis",
+  "13b60e1f5fecd0b4",
+  "knebam960am1003fmusoilreservehits44yearlowamidiranwarglobale"
  ],
  "releases_done": {},
  "last_digest": "2026-09-02",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T07:40:18.265139+03:00",
+ "last_run": "2026-09-03T07:50:18.714757+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2260,6 +2260,14 @@
   {
    "d": "2026-09-03",
    "t": "Energy Sec. Wright: More than 17 million barrels of oil transited through Strait of Hormuz on Monday - CNBC"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Asia looks to store oil, gas closer to home after Strait of Hormuz crisis - Al Jazeera"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "KNEB-AM 960 AM – 100.3 FM - US oil reserve hits 44-year-low amid Iran war, global energy shortage - Rural Radio Network"
   }
  ]
 }
