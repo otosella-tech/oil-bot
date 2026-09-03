@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "032f9cbda20c5e41",
-  "updateequitymarketsfallintradayasoilyieldssurge",
   "671992124818b7a7",
   "chevronplanstodoubleoilproductioninvenezuelawith7billioninve",
   "8b820aee61329045",
@@ -603,7 +601,9 @@
   "cedddb1bc868b8f0",
   "exclusivevivakortorecognize270millioninq3supplytradingrevenu",
   "4561e15a91203b2a",
-  "exxonmobilxomstockmaytradeatadiscountdespiteiranoilshock"
+  "exxonmobilxomstockmaytradeatadiscountdespiteiranoilshock",
+  "2fff3f66f7e09cf2",
+  "brazils2027budgetexcludesoilexporttax"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-03",
   "count": 53
  },
- "last_run": "2026-09-03T05:30:21.080907+03:00",
+ "last_run": "2026-09-03T05:35:15.714184+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
