@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "328cb197b0e1954d",
-  "iranscrudeoilpriceinaugust2026",
   "6fde8aba61579917",
   "eveningupdateforcrudeoil02092026",
   "639a1e17b73cb328",
@@ -603,7 +601,9 @@
   "c91cd3e5ca0ea52d",
   "uscrudeoilinventoriesdown1inweekendingaug28",
   "e4e1168501a9a9ad",
-  "imperialistdelusionsandthepriceoffuel"
+  "imperialistdelusionsandthepriceoffuel",
+  "ae431cb8789a1faf",
+  "wticrudeoilfuturesjumpto9060onmiddleeasttension"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T14:15:17.185459+03:00",
+ "last_run": "2026-09-03T14:20:15.878508+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
