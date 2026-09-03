@@ -4,16 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "4b0baed752925c5b",
-  "uscrudeandgasolineinventoriesfelllastweekanddistillatesrosee",
-  "c5f651356f87370e",
-  "remarkableusoildealpuzzlesanalystsandangersmanyvenezuelans",
-  "155824838a7bdb6e",
-  "morethan17mbarrelsofoiltransitedstraitofhormuzonmondayusener",
-  "ed7ce2ee60b042f2",
-  "crudeoilinventoriesdropsurpassingforecasts",
-  "6c62b8a637b5a5d0",
-  "usofficialsdefendvenezuelaoildealamidquestionsoverrebuilding",
   "b70217a30b6e30f0",
   "trumpallydefendsvenezuelaoildealamidgunpointdiplomacycritici",
   "611bfe72b55972f5",
@@ -603,7 +593,17 @@
   "2f275c77db51f383",
   "forthismississippibargelinelaborismoreofaconcernthantariffs",
   "8eaaa77a4cf89225",
-  "eiacushingcrudeoilstockschangeaug280080mprev1176m"
+  "eiacushingcrudeoilstockschangeaug280080mprev1176m",
+  "2795e5be84ab0c80",
+  "chevrontoexpandactivityinvenezuelanorthwestarkansasdemocrat",
+  "a7d9e257e213acd7",
+  "currentpriceofoilasofsept12026",
+  "c82ba7b2b911bca6",
+  "saudiaramcostocktheworldsbestoilassetwhatworthat70brentpriva",
+  "5900d13881a7e2e1",
+  "privateequitysbigoilopportunityinvenezuela",
+  "75e9db517aa7a446",
+  "russiassecondlargestoilrefineryhaltscrudeprocessingafterukra"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T11:00:26.666063+03:00",
+ "last_run": "2026-09-03T11:05:50.066459+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2320,6 +2320,10 @@
   {
    "d": "2026-09-03",
    "t": "Asian LNG Prices Surge to Highest Since 2022 as Iran War Escalates"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Russia’s Second-Largest Oil Refinery Halts Crude Processing After Ukrainian Drone Strike - UNITED24 Media"
   }
  ]
 }
