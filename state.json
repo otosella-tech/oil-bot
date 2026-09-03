@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "b74df89ce0d213bc",
-  "ukrainesrefinerystrikesforcerussiatoprocessoilabroad",
-  "691682683abaa8e2",
-  "oilholdsabove90asfightingflares",
   "71464f029b92f196",
   "indiaboostsfareastrussianoilimportsaswarupendstraderoutes",
   "be12362207286532",
@@ -603,7 +599,11 @@
   "5c952199daad5edb",
   "colombiasrichestmantakesoveroilproducerinvenezuelarush",
   "c198ba2b1fef4198",
-  "asialookstostoreoilgasclosertohomeafterstraitofhormuzcrisis"
+  "asialookstostoreoilgasclosertohomeafterstraitofhormuzcrisis",
+  "c1eb180edcc93754",
+  "balticdryindexbreaksoutasaperfectstormhitsshipping",
+  "4ea6cabae2dc8eda",
+  "oilpriceslittlechangedafteriranfiresmissilesatkuwait"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T22:55:14.166498+03:00",
+ "last_run": "2026-09-03T23:00:30.276178+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2632,6 +2632,10 @@
   {
    "d": "2026-09-03",
    "t": "Asia looks to store oil, gas closer to home after Strait of Hormuz crisis - Al Jazeera"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Oil prices little changed after Iran fires missiles at Kuwait - CNBC"
   }
  ]
 }
