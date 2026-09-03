@@ -4,12 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "361b64035389bb79",
-  "oilfuturescrudeholdsgainsamidusiranescalationfears",
-  "5aac691d63c9aa76",
-  "theushasstruckadealtocontrolvenezuelasoilreservesitprobablyw",
-  "84f842f6537101f7",
-  "longerwellsboostpermiancrudeoilandnaturalgasproduction",
   "0a9c98e41b0c04a3",
   "opecsettoholdoiloutputsteadyasiranwardisruptssupply",
   "2a6e8f4faad8aba5",
@@ -603,7 +597,13 @@
   "6435d48a053b360e",
   "chevronstockontrackforrecordhighasoilgiantoutlines7billionpl",
   "3e98b384278c841e",
-  "currentpriceofoilasofaugust172026"
+  "currentpriceofoilasofaugust172026",
+  "3cba5961a66d50df",
+  "crudeoilpricesdeclineastrumpplanstoendiranwar",
+  "2bc0d1ee39aae680",
+  "elizabethlancasterssoloterrainshowexploresherfamilysimmigrat",
+  "657d9254f3f84683",
+  "stocksfallasrisinggeopoliticalrisksboostcrudeoilandbondyield"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T13:00:28.444929+03:00",
+ "last_run": "2026-09-03T13:05:16.601592+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2364,6 +2364,10 @@
   {
    "d": "2026-09-03",
    "t": "Chevron stock on track for record high as oil giant outlines $7 billion plan to expand in Venezuela - marketwatch.com"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Crude Oil Prices Decline As Trump Plans To End Iran War - MarketForces Africa"
   }
  ]
 }
