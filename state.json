@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "a742b9c9489462be",
-  "trumpsoildealcouldscuttlevenezuelandemocracyoppositionfears",
-  "6ad028c069a36007",
-  "canvenezuelasoilproductionbecomeinvestibleseatrade",
   "3a55f93c6e2bce50",
   "chevronannouncesplanstodoubleoilproductioninvenezuela",
   "594c4ac52c560a7c",
@@ -603,7 +599,11 @@
   "86ecc60a93de2fde",
   "ryanairwarnssomeairlinescouldstrugglewithjetfuelpricespike",
   "c5d9d05d4090ad41",
-  "oilticksupasusiranmilitaryactionrattlessupplylines"
+  "oilticksupasusiranmilitaryactionrattlessupplylines",
+  "4f6f7a9861c87bc7",
+  "usoilstocksdropasfueldemandweakens",
+  "3a11ce1caf8e4146",
+  "chevronenileadwaveofdealstoliftvenezuelaoiloutput"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T09:30:21.412218+03:00",
+ "last_run": "2026-09-03T09:35:15.502045+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2292,6 +2292,10 @@
   {
    "d": "2026-09-03",
    "t": "Ryanair Warns Some Airlines Could Struggle with Jet Fuel Price Spike"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Chevron, Eni Lead Wave of Deals to Lift Venezuela Oil Output - Yahoo Finance"
   }
  ]
 }
