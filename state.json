@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "fee7244b9dc3962e",
-  "sinopecextendsbumperrussianoilbuyssqueezingsmallteapotstrade",
-  "86ea78967ad1f99e",
-  "chinamaintainsstablerefinedfuelexportsunderrelaxedcontrolsso",
   "31098451a302478e",
   "wticrudeoiltakesapausebutbullsstillhavetheupperhand",
   "dfd486f07cae11b0",
@@ -603,7 +599,11 @@
   "2e6b34309ebe4f89",
   "usforcesescort18mbarrelsofoilthroughstraitofhormuzreport",
   "e90ce89e4f4c0778",
-  "opiniontrumptakestheoilinvenezuela"
+  "opiniontrumptakestheoilinvenezuela",
+  "edc7365f0af415cb",
+  "theuswantstopumpmorevenezuelanoilhereswhattoknow",
+  "11a69ad07744e0ec",
+  "nigerialookstodoubleenergyinvestmentwithinfiveyears"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T21:05:19.282022+03:00",
+ "last_run": "2026-09-03T21:10:16.921633+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2604,6 +2604,10 @@
   {
    "d": "2026-09-03",
    "t": "US forces escort 18M barrels of oil through Strait of Hormuz: Report - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "The U.S. Wants to Pump More Venezuelan Oil. Here’s What to Know. - The New York Times"
   }
  ]
 }
