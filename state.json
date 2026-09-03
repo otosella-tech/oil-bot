@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "2e26755c0a2fea28",
-  "opinionwhytrumpseemsdedicatedtosavingvenezuelasunelecteddesp",
   "2f275c77db51f383",
   "forthismississippibargelinelaborismoreofaconcernthantariffs",
   "8eaaa77a4cf89225",
@@ -603,7 +601,9 @@
   "00967643315e3a96",
   "oiletfsarecrushingoilitselfthankstothefuturescurve",
   "d5fd19af41d48b8a",
-  "demsenatehopefulvowstounleashalaskaoilbutherrecordtellsadiff"
+  "demsenatehopefulvowstounleashalaskaoilbutherrecordtellsadiff",
+  "65c8fb2989136370",
+  "chinasnextmovemaydecidewhetheroilpricessoar"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-04",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-09-04T01:40:17.702925+03:00",
+ "last_run": "2026-09-04T01:45:18.570428+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2212,6 +2212,10 @@
   {
    "d": "2026-09-04",
    "t": "US oil deal sparks ‘anger’ in Venezuela, says opposition leader - Financial Times"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "China’s Next Move May Decide Whether Oil Prices Soar - The New York Times"
   }
  ]
 }
