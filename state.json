@@ -4,12 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "479c796a116c22c5",
-  "republicansworrytrumpsoilmeddlingcouldstallvenezuelaselectio",
-  "ac1e007d2a65a7f2",
-  "crudeoiltechnicalanalsysisuscrudeoilinventoriesfor4450mbarre",
-  "f5dd8ddb2c4a3ba6",
-  "wallstreetrisesastechstocksclimbandoilpricesbondyieldsholdre",
   "e828e65671d977fd",
   "depletedusoilstashlosespotencyasiranwargrindson",
   "0b03848ea030a66a",
@@ -603,7 +597,13 @@
   "d21c9cf2f685a4ba",
   "oilpriceshitfresh6weekhighsonrenewedmiddleeasttensions",
   "0d7ec1db1b954092",
-  "fearsofanextendedusiranconflictboostcrudeoilprices"
+  "fearsofanextendedusiranconflictboostcrudeoilprices",
+  "0bb970faa5467f47",
+  "iraqhikesoilexportsviahormuzinboonforasianrefiners",
+  "ebd9b764f79a35f1",
+  "brentcrudeathighestinsixweeksonfearsusiranwarcoulddrag",
+  "af5bf8644544e4e0",
+  "westafricancrudeoildifferentialsholdsteadyamiddemandconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T14:55:15.076322+03:00",
+ "last_run": "2026-09-03T15:00:31.026601+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2416,6 +2416,14 @@
   {
    "d": "2026-09-03",
    "t": "Fears of an Extended US-Iran Conflict Boost Crude Oil Prices - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Iraq Hikes Oil Exports via Hormuz in Boon for Asian Refiners"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Brent Crude at Highest in Six Weeks on Fears U.S.-Iran War Could Drag - WSJ"
   }
  ]
 }
