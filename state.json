@@ -4,14 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "c03fe484a6ff026c",
-  "chevronbets7billiononvenezuelaoilexpansion",
-  "e688104d1c9dbefb",
-  "daysaftertrumpannouncesvenezuelaoildealwhitehousefillsinsome",
-  "a57fd4a08dab7735",
-  "currentpriceofoilasofaug192026",
-  "7cb74e933f748fea",
-  "watchhowtheoilpriceispressuringtreasuries",
   "42b9629a3538100f",
   "usstocksfallasoilbondyieldsspikeusiranwarheatsup",
   "f6397db0f94254f5",
@@ -603,7 +595,15 @@
   "8629020de5cebb20",
   "currentpriceofoilasofsept22026",
   "2a611747bf5bdcba",
-  "forgetcrudeoiltherealenergycrisisrightnowisindiesel"
+  "forgetcrudeoiltherealenergycrisisrightnowisindiesel",
+  "5f69b7743162bfe6",
+  "alaskaseeksoilrevivalwhilegrapplingwithawarmingfuture",
+  "36169a129f8b2eb3",
+  "brentandwtiretreatasmarketsmonitorstraitofhormuzcrudeflows",
+  "632736b30a942172",
+  "oilslipsafterthreesessionrallyastrumpdownplaysiranwarhormuzf",
+  "fee2a7eca1139820",
+  "energypriceforecastsrevisedhigheramidstalemate"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T13:50:16.881649+03:00",
+ "last_run": "2026-09-03T13:55:13.980117+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2384,6 +2384,14 @@
   {
    "d": "2026-09-03",
    "t": "Oil Prices Slip Despite Rising Risks From Prolonged U.S.-Iran War - WSJ"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Brent and WTI Retreat as Markets Monitor Strait of Hormuz Crude Flows - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Oil slips after three-session rally as Trump downplays Iran war, Hormuz flows rise - Investing.com"
   }
  ]
 }
