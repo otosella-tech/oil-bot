@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "773742018c46aa5d",
-  "brentcrudeoilisupby5",
-  "aa83e61ea816da23",
-  "qatariuaelngcargoestransferredviashiptoshipoutsidestraitofho",
   "8dd694e25094ddbb",
   "over17mbarrelsofoilpassedthroughhormuzonmondayusenergychief",
   "71dba29519200926",
@@ -603,7 +599,11 @@
   "cd3b2cb80a3b1413",
   "privatecompaniessettostrikenewdealstoexpandvenezuelanoilprod",
   "a9a606f3a3847efa",
-  "usofficialsdefenddealwithcontroversialvenezuelanoilbaron"
+  "usofficialsdefenddealwithcontroversialvenezuelanoilbaron",
+  "0908c6d5c75164a2",
+  "dowjonesfuturesriseasoilpricesfalldellcredopaloaltoareearnin",
+  "3bebd7632e2275d0",
+  "chinasfallingemissionsamidiranwarsparkhopeofdecarbonisationw"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-03",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-09-03T03:45:17.438132+03:00",
+ "last_run": "2026-09-03T03:50:18.576112+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2223,6 +2223,10 @@
   {
    "d": "2026-09-03",
    "t": "Private companies set to strike new deals to expand Venezuelan oil production - Scripps News"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed - The Guardian"
   }
  ]
 }
