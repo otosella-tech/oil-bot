@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "86ecc60a93de2fde",
-  "ryanairwarnssomeairlinescouldstrugglewithjetfuelpricespike",
-  "5ccc3d9d49d00dee",
-  "usoilgiantchevronconfirmsitwillexpandoperationsinvenezuelaab",
   "46b9c5fe997003ee",
   "texasoilregulatornamesnewoilgasdirector",
   "4f6f7a9861c87bc7",
@@ -603,7 +599,11 @@
   "cef9b3698fde6b8b",
   "oilisclimbingagainastheusiranconflictdragson",
   "2375fc69567bf8d1",
-  "crudeoillittlechangedabove90"
+  "crudeoillittlechangedabove90",
+  "f4c7f8b45c857cc2",
+  "venezuelaheavycrudecouldfillusemergencyoilreservewrightsays",
+  "8f37736bb4dc7964",
+  "stocksstabilizeascrudeoilpricesandbondyieldsease"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T09:05:16.068608+03:00",
+ "last_run": "2026-09-03T09:10:16.976845+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
