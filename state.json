@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "b5780344c786bbca",
-  "thesuspicioustimingbehindtrumpsbiggestoildealinhistory",
-  "3e98b384278c841e",
-  "currentpriceofoilasofaugust172026",
   "db0597c925d4855c",
   "currentpriceofoilasofaugust182026",
   "93c1c4ddcb466fe7",
@@ -603,7 +599,11 @@
   "94a86eb9490648c6",
   "venezuelasheavycrudeisntagreatfitfortheusemergencyreserveitc",
   "714707b0b133e25d",
-  "chevrontoexpandinvenezuelaoperationsdoublingproductionthroug"
+  "chevrontoexpandinvenezuelaoperationsdoublingproductionthroug",
+  "95dc099f6c669ad7",
+  "marketscantignorethewaranymore",
+  "c7164f287a879598",
+  "chevronjustexposedthegapbetweenvenezuelarhetoricandreality"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T12:35:15.557409+03:00",
+ "last_run": "2026-09-03T12:40:19.025206+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2356,6 +2356,10 @@
   {
    "d": "2026-09-03",
    "t": "Chevron to expand in Venezuela operations, doubling production through $7 billion investment - CNBC"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Chevron Just Exposed the Gap Between Venezuela Rhetoric and Reality - bloomberg.com"
   }
  ]
 }
