@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "056fcacd46f040f8",
-  "brentoilpriceabove95asiranretaliateswithstrikesonusgulfallie",
-  "cc660f68c2c2988c",
-  "usequityindexesclosehigheramiddecliningtreasuryyieldsrisingc",
   "616f2794ea0d25aa",
   "dowdipsover400pointsascrudeoilsurgesinvestorsentimentweakens",
   "08984ac28ee8bf78",
@@ -603,7 +599,11 @@
   "1bf2aa2fbfc6ba80",
   "wticrudeoilbreakoutputs101targetinplay",
   "16428ac42131a826",
-  "whattheyresayingwhyfuelpricesarentmovinginlockstepwithcrudeo"
+  "whattheyresayingwhyfuelpricesarentmovinginlockstepwithcrudeo",
+  "197f02adc6fd23c5",
+  "russiasaysoiloutputdropistemporaryasrefineriesrestart",
+  "2db9e15d9966f9cb",
+  "superhotgeothermaljustgota180millionvoteofconfidence"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T17:25:15.788384+03:00",
+ "last_run": "2026-09-03T17:30:30.386513+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2480,6 +2480,10 @@
   {
    "d": "2026-09-03",
    "t": "Oil near multi-week highs after fresh Iran strikes; Trump says war won’t last long - Investing.com"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Russia Says Oil Output Drop Is Temporary as Refineries Restart"
   }
  ]
 }
