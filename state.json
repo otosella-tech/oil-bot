@@ -4,30 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "4ce42c051ccf0246",
-  "oilrises1asusiranstrikesrisklimitingalreadyimpairedsuppliese",
-  "07a6b43f4b3275d7",
-  "europejoinsglobalbondselloffasmiddleeasthostilitiesliftoilpr",
-  "c987869a3e86c4d8",
-  "oilhits90asusandirantradefreshstrikesoverstraitofhormuz",
-  "ca0930b5925ac6fc",
-  "withusvenezuelaoildealfinalizedquestionsremainaboutdetails",
-  "0532454094a7b2f9",
-  "saudioilexportsdiveastankersatriskfromhormuztoredsea",
-  "ceb01d752d07379b",
-  "exclusiverussiacutsexpected2026oiloutputto17yearlowonwarfall",
-  "23c69b3f90ef7004",
-  "crudeoilinventoriesdropsharplysurpassingexpectations",
-  "c376e0840e665409",
-  "ustotalcrudeoilstocksfallinweekendedaug28",
-  "977151d492d502e5",
-  "keydetailsremainunclearinusoildealwithvenezuela",
-  "4ea05e18b253bcbd",
-  "currentpriceofoilasofaugust272026",
-  "adeba0cc21b2ae4d",
-  "wticrudeoilsurgesabove91onmiddleeastescalation",
-  "2db9e15d9966f9cb",
-  "superhotgeothermaljustgota180millionvoteofconfidence",
   "056fcacd46f040f8",
   "brentoilpriceabove95asiranretaliateswithstrikesonusgulfallie",
   "cc660f68c2c2988c",
@@ -603,7 +579,31 @@
   "63c72d8dc739b86c",
   "uscrudeoiloutputandpetroleumdemandroseinjuneeiasays",
   "999e280ff9c1767c",
-  "euvowstougherrussiameasuresafterleipzigdroneattack"
+  "euvowstougherrussiameasuresafterleipzigdroneattack",
+  "03538c2dcebde431",
+  "oilnewscrudeoilreverseshigheraskuwaitattacksdeepenhormuzrisk",
+  "5a9cb08a9eb793ab",
+  "brentoilpriceabove96perbarrelafteriranfiresmissilesatkuwait",
+  "f127c2ac1025d157",
+  "oilfuturescrudeconsolidatesgainsamiduneasymideaststandoff",
+  "2c0c1eb12d117d19",
+  "oilpriceseaseafterthreesessionrallyashormuzflowsshowsignsofr",
+  "3c3008e0849876f1",
+  "blockadesucceedswheresanctionsfailedasiranoilexportsstall",
+  "2f4bb8e4d1b1daba",
+  "bitcoinandethereumpricestodaythursdayseptember32026cryptopri",
+  "60205d784f217426",
+  "wticrudeoilpriceanalysisforseptember32026",
+  "8119f4c912706b58",
+  "avenezuelanoildealwithmanylayers",
+  "d50abd92f98d1ad0",
+  "irangetsoverus1blninoilrevenuesin11days",
+  "f89670e2b38c5c51",
+  "oilnearmultiweekhighsafterfreshiranstrikestrumpsayswarwontla",
+  "1bf2aa2fbfc6ba80",
+  "wticrudeoilbreakoutputs101targetinplay",
+  "16428ac42131a826",
+  "whattheyresayingwhyfuelpricesarentmovinginlockstepwithcrudeo"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T17:20:29.920435+03:00",
+ "last_run": "2026-09-03T17:25:15.788384+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2460,6 +2460,26 @@
   {
    "d": "2026-09-03",
    "t": "EU Vows Tougher Russia Measures After Leipzig Drone Attack"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Oil News: Crude Oil Reverses Higher as Kuwait Attacks Deepen Hormuz Risk - FXEmpire"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Brent oil price above $96 per barrel after Iran fires missiles at Kuwait - CNBC"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Oil Prices Ease After Three-Session Rally as Hormuz Flows Show Signs of Recovery - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Blockade succeeds where sanctions failed as Iran oil exports stall - Reuters"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Oil near multi-week highs after fresh Iran strikes; Trump says war won’t last long - Investing.com"
   }
  ]
 }
