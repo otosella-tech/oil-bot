@@ -4,16 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "42b9629a3538100f",
-  "usstocksfallasoilbondyieldsspikeusiranwarheatsup",
-  "f6397db0f94254f5",
-  "alejandrobetancourttrumpsnewlatinamericanoligarch",
-  "f3d95750e231e8d8",
-  "wallstreetpusheshigherasoilpricesyieldshaltsurge",
-  "263a5cd132ff2ba2",
-  "turkeyreplacesrussianoilanddieselimportsfromusaswarsreverber",
-  "957d7b93c6d252c4",
-  "usenergysecretarysaysvenezuelaoiloutputtomorethandoubleinnex",
   "b589daf07a89cdd3",
   "chevronexpandsvenezuelaacreagetargets600000bdproduction",
   "49fa85a6233f0b57",
@@ -603,7 +593,17 @@
   "632736b30a942172",
   "oilslipsafterthreesessionrallyastrumpdownplaysiranwarhormuzf",
   "fee2a7eca1139820",
-  "energypriceforecastsrevisedhigheramidstalemate"
+  "energypriceforecastsrevisedhigheramidstalemate",
+  "da0c22d37dd0f6c4",
+  "globalrefiningcrunchcouldkeepfuelpriceshighinto2027",
+  "c03fe484a6ff026c",
+  "chevronbets7billiononvenezuelaoilexpansion",
+  "9d0c56aa93c83b6c",
+  "globalbondmarketstakeabreather",
+  "302d82498e08351d",
+  "stockspushhigherascrudeoilandbondyieldsstabilize",
+  "aceaa4866107159f",
+  "akmalnasrullahoilandgasheretostayevenasmalaysiapushesforgree"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T13:55:13.980117+03:00",
+ "last_run": "2026-09-03T14:00:27.935726+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2392,6 +2392,10 @@
   {
    "d": "2026-09-03",
    "t": "Oil slips after three-session rally as Trump downplays Iran war, Hormuz flows rise - Investing.com"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Chevron Bets $7 Billion on Venezuela Oil Expansion"
   }
  ]
 }
