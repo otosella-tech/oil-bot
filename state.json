@@ -4,12 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "ddb4b27701a0baeb",
-  "crudeoilinventoriesdropsharplysurpassingexpectationsbyinvest",
-  "027329235d6061ad",
-  "ugandanamesitsoilpearlsweetasitpreparesforfirstexports",
-  "8fab898d57bc98fe",
-  "currentpriceofoilasofaugust252026",
   "c2f0482622c4cad1",
   "raythinkshowcasesgasleakdetectionsolutionsfortheoilgasindust",
   "9687187342dc16c3",
@@ -603,7 +597,13 @@
   "c1236921b9055be6",
   "usescorts40tankerscarrying18mbarrelsofoilthroughhormuzreport",
   "bd54a3136393d4ef",
-  "crudeoilpriceseaseasinvestorsassessrenewedusiranmilitarytens"
+  "crudeoilpriceseaseasinvestorsassessrenewedusiranmilitarytens",
+  "317efac68e9f372e",
+  "uscrudeoilinventoriesdecreaseby45millionbarrels",
+  "ec1e952314834ba6",
+  "commentarywhyoilimportersarelearningtolivewithlongertraderou",
+  "847ca0920bcd8cca",
+  "eiareportsadeclineinuscrudeoilstocks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T10:00:26.517066+03:00",
+ "last_run": "2026-09-03T10:05:14.569537+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
