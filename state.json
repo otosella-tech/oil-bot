@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "b74df89ce0d213bc",
-  "ukrainesrefinerystrikesforcerussiatoprocessoilabroad",
   "82571a9498cb3924",
   "chevronpledgestodoubleitsvenezuelanoilproduction",
   "8dce04ba10c09d67",
@@ -603,19 +601,21 @@
   "c198ba2b1fef4198",
   "asialookstostoreoilgasclosertohomeafterstraitofhormuzcrisis",
   "13b60e1f5fecd0b4",
-  "knebam960am1003fmusoilreservehits44yearlowamidiranwarglobale"
+  "knebam960am1003fmusoilreservehits44yearlowamidiranwarglobale",
+  "56fc555461bd767e",
+  "the3trillionoilmarketisbecomingmoreaccessiblethanevernolonge"
  ],
  "releases_done": {},
- "last_digest": "2026-09-02",
+ "last_digest": "2026-09-03",
  "digest_prices": {
-  "WTI": 90.56,
-  "Brent": 95.31
+  "WTI": 90.62,
+  "Brent": 95.07
  },
  "llm": {
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T07:55:15.867794+03:00",
+ "last_run": "2026-09-03T08:00:26.353179+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
