@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "3e6b3abe1f5be23b",
-  "currentpriceofoilasofseptember22026",
   "f1ba0f8017fb6a22",
   "usenergyfirmssignificantlyexpandoperationsinvenezuelaafterwa",
   "3a327afa183e73d6",
@@ -603,7 +601,9 @@
   "25fbf54d1f472fe4",
   "octoberwticrudeoilcontractclosesup029or03settlesat9130perbar",
   "7cda2a397fba2e2d",
-  "usshaleproducersmustfaceoilpricefixingclaimsjudgerules"
+  "usshaleproducersmustfaceoilpricefixingclaimsjudgerules",
+  "e7096b4c7dcb6ef2",
+  "electrictruckshavemovedfromimpossibletoinevitable"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T21:55:19.339469+03:00",
+ "last_run": "2026-09-03T22:00:28.862932+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
