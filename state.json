@@ -4,12 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "5a41f3173ffd73aa",
-  "whoknowsifitwillsurviveexpertsquestionhowlongtrumpsvenezuela",
-  "bf030454a033f68a",
-  "oilpricesup020926",
-  "b8a5eaa3e3c183ee",
-  "trumpsaysvenezuelanoilcouldreplenishdepletedusstockpileswill",
   "80b8f0938ab5cc5a",
   "teekaytankersltdtnkundervaluedoilshippingcompany",
   "fb94a567dc710844",
@@ -603,7 +597,13 @@
   "e253f6b9d6078436",
   "oilpricesmixedasinvestorsweighmiddleeastescalationchanceofru",
   "ad6eac6e0a07a00b",
-  "dieselpriceshitalltimehighastrumpadministrationbrandishesene"
+  "dieselpriceshitalltimehighastrumpadministrationbrandishesene",
+  "60acf65c5be65e32",
+  "oiesvenezuelarecoveryhingesoninfrastructurepowerinvestmentru",
+  "11d6e293d920d88e",
+  "eiauscrudeinventoriesdown45millionbbl",
+  "84e3dc123b94ff48",
+  "chevrontoexpandinvenezueladaysaftertheusandvenezuelastrikeoi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T23:25:14.706275+03:00",
+ "last_run": "2026-09-03T23:30:22.676871+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2640,6 +2640,10 @@
   {
    "d": "2026-09-03",
    "t": "Oil prices mixed as investors weigh Middle East escalation, chance of Russia-Ukraine peace deal - Reuters"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal - NPR"
   }
  ]
 }
