@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "e4877871f23032f5",
-  "shipsadoptmakeshiftantidronedefencesasblackseaattacksintensi",
-  "681a8c8c5c60b2bb",
-  "bessentsaysstraitofhormuzobsoletewithintwoyears",
   "aa3080fafb1d112c",
   "oilpricesfallafterhittingoveronemonthhightradersweighsupplyr",
   "6f32eecf9e8a4d9c",
@@ -603,7 +599,11 @@
   "72a93ee7fc7f234d",
   "2filipinoseafarerskilledinoiltankerattacknearstraitofhormuzd",
   "92d130f13a269b00",
-  "brentandwtihithighestlevelsresistancenowsincelatejulyasmiddl"
+  "brentandwtihithighestlevelsresistancenowsincelatejulyasmiddl",
+  "2e6b34309ebe4f89",
+  "usforcesescort18mbarrelsofoilthroughstraitofhormuzreport",
+  "84c5ac0df46c16cf",
+  "usiranstrikespushcrudeoilpricestowards100yourgroceriesanddai"
  ],
  "releases_done": {
   "2026-09-02|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-03",
-  "count": 48
+  "count": 49
  },
- "last_run": "2026-09-03T04:50:15.691038+03:00",
+ "last_run": "2026-09-03T04:55:17.149719+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
