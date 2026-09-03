@@ -1,17 +1,9 @@
 {
  "price_base": {
-  "WTI": 90.77,
+  "WTI": 92.6,
   "Brent": 95.72
  },
  "seen": [
-  "2a577b929641dad4",
-  "usoilgiantchevronhasconfirmedplanstoexpanditsoperationsinven",
-  "86caa7de436902a9",
-  "oilpricesrallyasustargetsiraniantankersinnewescalation",
-  "500e2a30c2c534c2",
-  "iraqitruckshauloilthoughsyriatoavoidthestraitofhormuz",
-  "524627bef6c468d6",
-  "whyisntthepriceofoilevenhigher",
   "0184916f76951490",
   "budgetairlinewarnsjetfuelshockcouldwipeoutrivals",
   "b60ee4fffcb06452",
@@ -603,7 +595,15 @@
   "6989756868d55433",
   "ugandanamesitscrudeoilblendpearlsweetaheadofcommercialproduc",
   "10389332d94be1c2",
-  "recordhighgaspricesexpectedforlaborday"
+  "recordhighgaspricesexpectedforlaborday",
+  "e6ec108fad7000ac",
+  "kalshiseekscftcapprovalforwticrudeperpetualfuturesreport",
+  "cad17eb8efeb9249",
+  "palmoilreboundsondaliangainselniorisks",
+  "a03851c241ba9bf9",
+  "egypttargetsrefineryexpansion",
+  "db0597c925d4855c",
+  "currentpriceofoilasofaugust182026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T13:15:18.478664+03:00",
+ "last_run": "2026-09-03T13:20:19.312818+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
