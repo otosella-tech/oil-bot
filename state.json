@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "097a55c258e38b75",
-  "saudiarabiaplanstofree1mbdasitinvestsinnuclearpower",
   "4b0baed752925c5b",
   "uscrudeandgasolineinventoriesfelllastweekanddistillatesrosee",
   "c5f651356f87370e",
@@ -603,7 +601,9 @@
   "2e26755c0a2fea28",
   "opinionwhytrumpseemsdedicatedtosavingvenezuelasunelecteddesp",
   "2f275c77db51f383",
-  "forthismississippibargelinelaborismoreofaconcernthantariffs"
+  "forthismississippibargelinelaborismoreofaconcernthantariffs",
+  "8eaaa77a4cf89225",
+  "eiacushingcrudeoilstockschangeaug280080mprev1176m"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T10:55:14.711320+03:00",
+ "last_run": "2026-09-03T11:00:26.666063+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
