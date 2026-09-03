@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "d39ed32f70dc192f",
-  "bondselloffdeepensasoilpricesandpublicdebtfearsjoltmarkets",
-  "fe5e3acb69fa75f7",
-  "ussprdepletionthreatensfurtheroilpricevolatility",
   "b63e9e155351292d",
   "moreoilflowedthroughthestraitofhormuzonmondaythansincebefore",
   "46851bab19893a4f",
@@ -603,7 +599,11 @@
   "56f7816b55907649",
   "twomoreoiltankersareattackedinthestraitofhormuz",
   "8d5fe2dda991797c",
-  "usoilgiantchevronconfirmsitwillexpandoperationsinvenezuela"
+  "usoilgiantchevronconfirmsitwillexpandoperationsinvenezuela",
+  "71598cefe527c598",
+  "oilextendsrallywithiranconflictseendraggingon",
+  "03e9a37567cd3a0d",
+  "insidetheusvenezuelaoilagreementsbigpromiseslittleclarity"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T19:25:23.717326+03:00",
+ "last_run": "2026-09-03T19:30:23.711637+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2536,6 +2536,10 @@
   {
    "d": "2026-09-03",
    "t": "Two More Oil Tankers Are Attacked in the Strait of Hormuz - The New York Times"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Oil Extends Rally With Iran Conflict Seen Dragging On - WSJ"
   }
  ]
 }
