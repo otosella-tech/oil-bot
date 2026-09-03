@@ -4,12 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "e6d413ef99b0d8c1",
-  "theriseofoilpricesoverspillstoothermarkets",
-  "107d00824e95e917",
-  "thebiggestunansweredquestionintrumpsvenezuelanoildealwherewi",
-  "aef63e66a6d1aa14",
-  "enichevronsignmajorupstreamoilfielddevelopmentdealswithpdvsa",
   "d39ed32f70dc192f",
   "bondselloffdeepensasoilpricesandpublicdebtfearsjoltmarkets",
   "fe5e3acb69fa75f7",
@@ -603,7 +597,13 @@
   "e74bf755f10579d9",
   "russiarevisesoiloutputforecastsanddefendsopecsrole",
   "5209e67422a4523d",
-  "highcrudeoilpricespushupnationalaverage"
+  "highcrudeoilpricespushupnationalaverage",
+  "9e704c34a3e98c02",
+  "uscrudeoilhits90perbarrelfollowinglatestusattacksagainstiran",
+  "56f7816b55907649",
+  "twomoreoiltankersareattackedinthestraitofhormuz",
+  "8d5fe2dda991797c",
+  "usoilgiantchevronconfirmsitwillexpandoperationsinvenezuela"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T19:20:19.090138+03:00",
+ "last_run": "2026-09-03T19:25:23.717326+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2528,6 +2528,14 @@
   {
    "d": "2026-09-03",
    "t": "Russia Revises Oil Output Forecasts and Defends OPEC+'s Role - energynews.pro"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "U.S. crude oil hits $90 per barrel following latest U.S. attacks against Iran - CNBC"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Two More Oil Tankers Are Attacked in the Strait of Hormuz - The New York Times"
   }
  ]
 }
