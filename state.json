@@ -4,12 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "5dc45e6e8f26717a",
-  "energysecwrightmorethan17millionbarrelsofoiltransitedthrough",
-  "c198ba2b1fef4198",
-  "asialookstostoreoilgasclosertohomeafterstraitofhormuzcrisis",
-  "13b60e1f5fecd0b4",
-  "knebam960am1003fmusoilreservehits44yearlowamidiranwarglobale",
   "56fc555461bd767e",
   "the3trillionoilmarketisbecomingmoreaccessiblethanevernolonge",
   "b74df89ce0d213bc",
@@ -603,7 +597,13 @@
   "176937ba804249b3",
   "ugandanamesitscrudeoilpearlsweetaheadofproduction",
   "ba48a17144917900",
-  "usschevronitalysenitoexpandoilprojectsinvenezuela"
+  "usschevronitalysenitoexpandoilprojectsinvenezuela",
+  "1fcf13ead796eff2",
+  "newdatatwooiltradersincreasedcrudeshipmentstoisraelduringgaz",
+  "5e9972a80dc0b216",
+  "crudeoilpricessettlehigheronusirantensions",
+  "5c952199daad5edb",
+  "colombiasrichestmantakesoveroilproducerinvenezuelarush"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-03",
   "count": 60
  },
- "last_run": "2026-09-03T22:20:20.481237+03:00",
+ "last_run": "2026-09-03T22:25:16.418045+03:00",
  "sent_stories": [
   {
    "d": "2026-08-31",
@@ -2624,6 +2624,10 @@
   {
    "d": "2026-09-03",
    "t": "War Risk Claims Top $2 Billion as Shipping Attacks Spread Beyond Hormuz - gCaptain"
+  },
+  {
+   "d": "2026-09-03",
+   "t": "Colombia’s Richest Man Takes Over Oil Producer in Venezuela Rush - Bloomberg.com"
   }
  ]
 }
