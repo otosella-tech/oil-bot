@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "f8af6ce9876b77ce",
-  "unwarnsglobalwarmingwilltop15cwithinyears",
-  "c4a86554ea5b8113",
-  "oilfallsfromrecenthighsasinvestorsweighuncertaintyoverusiran",
   "96fc805305669196",
   "chineserefinerspayrecordpremiumsforrussianespocrude",
   "c2c17af065b837cf",
@@ -603,7 +599,11 @@
   "ca918d5c33ca71f1",
   "usoildealpromisesafloodofinvestmentinvenezuelawhenwillitspeo",
   "106bc9869a4ef678",
-  "chinasshrinkingappetiteforoilbehindemissionscutforfirsttime"
+  "chinasshrinkingappetiteforoilbehindemissionscutforfirsttime",
+  "984a0bd57a0956b4",
+  "usvenezuelaoildealthreatenschinasoil",
+  "1e8539a6dd546cc5",
+  "ugandanamescrudeoilblendpearlsweetaheadofcommercialproductio"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-04",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-09-04T02:56:31.335344+03:00",
+ "last_run": "2026-09-04T03:00:27.195443+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2220,6 +2220,10 @@
   {
    "d": "2026-09-04",
    "t": "147-year-old oil giant just made high-stakes bet in Venezuela - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "U.S.-Venezuela Oil Deal Threatens China’s Oil-Backed Loans"
   }
  ]
 }
