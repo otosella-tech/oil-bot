@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "e4d2ea191232f38e",
-  "machadobacksusoilpartnershipbutquestionsvenezueladeal",
-  "3fd291e3fabc96e0",
-  "chinascarbonpollutionfellinrecentmonthsasoildemandplummeted",
   "ee2760cdab15d90a",
   "russiawillslightlycutoiloutputthisyeardeputypmnovaksays",
   "107d00824e95e917",
@@ -603,7 +599,11 @@
   "3227a16286a38fe6",
   "venezuelaistheblueprintforwhatwashingtonwilldemandfromiran",
   "861d66a336cb16fd",
-  "usnaturalgasdrillingrigsfallby2asoilrigsrise"
+  "usnaturalgasdrillingrigsfallby2asoilrigsrise",
+  "f058f63b0dbc6f01",
+  "citadeleyesusshaleasoiltradingmovesclosertothewellhead",
+  "3a23faa6966bf212",
+  "cmewticrudeoilfuturespullbackfrom3monthhighs"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T20:40:20.667763+03:00",
+ "last_run": "2026-09-04T20:45:20.577131+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
