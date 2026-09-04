@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 92.6,
+  "WTI": 90.72,
   "Brent": 95.72
  },
  "seen": [
-  "2a611747bf5bdcba",
-  "forgetcrudeoiltherealenergycrisisrightnowisindiesel",
   "5f69b7743162bfe6",
   "alaskaseeksoilrevivalwhilegrapplingwithawarmingfuture",
   "36169a129f8b2eb3",
@@ -603,7 +601,9 @@
   "1ea06aca188249de",
   "usdieselpricessetnewhigh",
   "91a6c0d51168ab89",
-  "argentinasmileivowstougherfalklandsoilsanctionsdeepeningdisp"
+  "argentinasmileivowstougherfalklandsoilsanctionsdeepeningdisp",
+  "7dfbf0a7736ba0ff",
+  "oilheadedforlargestweeklygainsincejuly"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 52
  },
- "last_run": "2026-09-04T10:55:15.311287+03:00",
+ "last_run": "2026-09-04T11:00:27.426115+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
