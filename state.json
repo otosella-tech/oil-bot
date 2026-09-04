@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "98cefacff82094a8",
-  "chevronvsexxonwhichoilmajorstockoffersmoreupsideamidboomingp",
   "a3b889c6454ed13c",
   "alvopetroannouncesaugustsalesvolumesandanoperationalupdate",
   "02ae4ca9f5a110b9",
@@ -603,7 +601,9 @@
   "60be93f806e69ae9",
   "stocksstabilizeascrudeoilpricesandbondyieldsease",
   "87b0de6e94ff8182",
-  "crudeoilpricespostbiggestweeklygainsincejuly"
+  "crudeoilpricespostbiggestweeklygainsincejuly",
+  "efde58be6a1f0b53",
+  "37deadinoiltheftattemptafterinhalingtoxicfumesinnigeria"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T14:30:22.388179+03:00",
+ "last_run": "2026-09-04T14:35:13.622354+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
