@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "46b7f762526a0f52",
-  "oiljumpsforfourthstraightdayanddieselnearsrecordhigh",
-  "062098812ec304bb",
-  "currentpriceofoilasofsept32026",
   "c3bd19d41f48ff27",
   "usdisplacesrussiaasturkiyestopcrudesupplier",
   "d422459cf552c1ce",
@@ -603,7 +599,11 @@
   "5a9971dd4b22a094",
   "oilfuturescrudesteadiesasirantensionsdriveweeklysurge",
   "380530107f9b0770",
-  "tryingtostealcrudeoil37dieinnigeriaafterinhalingtoxicfumesen"
+  "tryingtostealcrudeoil37dieinnigeriaafterinhalingtoxicfumesen",
+  "fb654985c93a5abd",
+  "usdieselpriceshitall",
+  "2227c94b866b3fb8",
+  "gaspricesaresurgingjustbeforelabordayasdieselhitsanalltimehi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T13:45:17.149960+03:00",
+ "last_run": "2026-09-04T13:50:17.254643+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
