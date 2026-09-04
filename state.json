@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "a03851c241ba9bf9",
-  "egypttargetsrefineryexpansion",
-  "db0597c925d4855c",
-  "currentpriceofoilasofaugust182026",
   "5a38c1391d8955ff",
   "usoilreservehits44yearlowamidiranwarglobalenergyshortage",
   "86caa7de436902a9",
@@ -603,7 +599,11 @@
   "2a6e8f4faad8aba5",
   "ugandanamesitscrudeoilblendpearlsweetaheadofcommercialproduc",
   "6e7c316ae7276280",
-  "argentinasmileiescalatesfalklandsdisputeseizingontrumpcommen"
+  "argentinasmileiescalatesfalklandsdisputeseizingontrumpcommen",
+  "6000aba969ac6314",
+  "argentinatosanctionoilfirmsasfalklandsdisputewithukheatsup",
+  "1542d6d2ebc2a176",
+  "naturalgasandoilforecast"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-04",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-09-04T09:05:14.097054+03:00",
+ "last_run": "2026-09-04T09:10:18.823124+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2260,6 +2260,10 @@
   {
    "d": "2026-09-04",
    "t": "Crude Oil Steadies as Hormuz Eases Supply Fears - tradingpedia.com"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Argentina to sanction oil firms as Falklands dispute with UK heats up - BBC"
   }
  ]
 }
