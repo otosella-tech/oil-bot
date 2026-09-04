@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "a3b889c6454ed13c",
-  "alvopetroannouncesaugustsalesvolumesandanoperationalupdate",
   "02ae4ca9f5a110b9",
   "oilrises1asusiranstrikesrisklimitingalreadyimpairedsupplies",
   "1a0a1c3b759bb4bb",
@@ -603,7 +601,9 @@
   "87b0de6e94ff8182",
   "crudeoilpricespostbiggestweeklygainsincejuly",
   "efde58be6a1f0b53",
-  "37deadinoiltheftattemptafterinhalingtoxicfumesinnigeria"
+  "37deadinoiltheftattemptafterinhalingtoxicfumesinnigeria",
+  "5367ee9a200dba60",
+  "oilsettles1higherasusiranstrikesthreatensupplies"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T14:35:13.622354+03:00",
+ "last_run": "2026-09-04T14:40:20.229901+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2348,6 +2348,10 @@
   {
    "d": "2026-09-04",
    "t": "Oil rallies for the week as U.S.-Iran fighting resumes; diesel hits record high - Reuters"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Oil settles 1% higher, as US-Iran strikes threaten supplies - Reuters"
   }
  ]
 }
