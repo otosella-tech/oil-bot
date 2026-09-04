@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "e74bf755f10579d9",
-  "russiarevisesoiloutputforecastsanddefendsopecsrole",
-  "5209e67422a4523d",
-  "highcrudeoilpricespushupnationalaverage",
-  "9e704c34a3e98c02",
-  "uscrudeoilhits90perbarrelfollowinglatestusattacksagainstiran",
   "56f7816b55907649",
   "twomoreoiltankersareattackedinthestraitofhormuz",
   "8d5fe2dda991797c",
@@ -603,7 +597,13 @@
   "59720dfb2d045b96",
   "18wheelercrashshutsdowni30inroysecityafteroilspillpolicesay",
   "9b997265f4e9f15e",
-  "gaspricessetrecordhighforlabordayweekendhereswhy"
+  "gaspricessetrecordhighforlabordayweekendhereswhy",
+  "b711d253704b8e40",
+  "rosneftceochinacallstheshotsinoilmarketsnotopec",
+  "281775eed411a7c4",
+  "recorddieselpricespushbrenttoward95",
+  "b9ff91f6ac0e4df3",
+  "icecanolafeelingpressurefromcrudeoilsoycomplex"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T19:25:18.288276+03:00",
+ "last_run": "2026-09-04T19:30:21.727203+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2410,6 +2410,14 @@
   {
    "d": "2026-09-04",
    "t": "NEWSLETTER: Wartime oil diet boosts renewables - Reuters"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Rosneft CEO: China Calls The Shots in Oil Markets, Not OPEC"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Record Diesel Prices Push Brent Toward $95"
   }
  ]
 }
