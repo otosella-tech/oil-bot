@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "6b9421db8705be5e",
-  "iraqaimstodoubleoilcapacityto10mbpd",
   "f32acafbaec5c9ee",
   "usgetsvenezuelasoilvenezuelansdontgetdemocracyopinion",
   "8c97f208c6a55fb3",
@@ -603,7 +601,9 @@
   "11effa5dddb6e41c",
   "oilheadsforsharpweeklygainsonescalatingusirantensions",
   "579f9c95b7803aaa",
-  "mileivowstoughersanctionsdefensepushoverfalklandsoildrilling"
+  "mileivowstoughersanctionsdefensepushoverfalklandsoildrilling",
+  "513de4e3e9b80eb3",
+  "usenergysecretarysays17millionbarrelsofoiltransitedstraitofh"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-04",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-09-04T05:25:14.493264+03:00",
+ "last_run": "2026-09-04T05:30:22.713979+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2236,6 +2236,10 @@
   {
    "d": "2026-09-04",
    "t": "Milei vows tougher sanctions, defense push over Falklands oil drilling - reuters.com"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "US energy secretary says 17 million barrels of oil transited Strait of Hormuz on Monday - Reuters"
   }
  ]
 }
