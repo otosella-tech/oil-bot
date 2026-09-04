@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "da0c22d37dd0f6c4",
-  "globalrefiningcrunchcouldkeepfuelpriceshighinto2027",
   "c03fe484a6ff026c",
   "chevronbets7billiononvenezuelaoilexpansion",
   "9d0c56aa93c83b6c",
@@ -603,7 +601,9 @@
   "b5b4389c54b3813c",
   "ukpoisedtoapprovejackdawgasfieldasenergycostssoar",
   "a6892ba1dbd4204c",
-  "argentineleaderthreatenstosanctionoilfirmsandreiteratesfalkl"
+  "argentineleaderthreatenstosanctionoilfirmsandreiteratesfalkl",
+  "233501f1930b973d",
+  "trumplinkedcompaniesracetosecuredealsforvenezuelasoil"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-04",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-09-04T11:15:19.217365+03:00",
+ "last_run": "2026-09-04T11:20:20.105679+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2300,6 +2300,10 @@
   {
    "d": "2026-09-04",
    "t": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim - BBC"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Trump-linked companies race to secure deals for Venezuela’s oil - Financial Times"
   }
  ]
 }
