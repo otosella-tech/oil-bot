@@ -4,8 +4,6 @@
   "Brent": 93.62
  },
  "seen": [
-  "b8f2050127a18bde",
-  "mexicobraziloildealraisesconcernforecosystemsandenergytransi",
   "86a2a67f0d8194f4",
   "venezuelansprideisbruisedbydealtogiveusonefifthoftheiroilres",
   "827dc93673cc6c3b",
@@ -603,7 +601,9 @@
   "6a4cbbb1b1f455d1",
   "mappedthebiggestbuyersofusoil",
   "d8865baaa113b48e",
-  "ukpetrolpriceshithighestlevelsinceiranwarbegan"
+  "ukpetrolpriceshithighestlevelsinceiranwarbegan",
+  "1c641256733245ff",
+  "currentpriceofoilasofseptember32026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T17:10:19.955418+03:00",
+ "last_run": "2026-09-04T17:15:18.704325+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
