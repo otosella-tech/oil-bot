@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "69ee1c277ae6beb3",
-  "oilpricesareelevated2highyieldstockstobuyinseptember",
   "d21c9cf2f685a4ba",
   "oilpriceshitfresh6weekhighsonrenewedmiddleeasttensions",
   "0d7ec1db1b954092",
@@ -603,7 +601,9 @@
   "ae431cb8789a1faf",
   "wticrudeoilfuturesjumpto9060onmiddleeasttension",
   "b6b07e09c438a746",
-  "restrictedoilimportshavespedupelectrificationinchina"
+  "restrictedoilimportshavespedupelectrificationinchina",
+  "b52b8b959025b181",
+  "trumpsstrategicoilreleasestocurbpriceserodeusenergysecurity"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T12:50:18.486806+03:00",
+ "last_run": "2026-09-04T12:55:15.551104+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
