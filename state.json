@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "8d5fe2dda991797c",
-  "usoilgiantchevronconfirmsitwillexpandoperationsinvenezuela",
   "71598cefe527c598",
   "oilextendsrallywithiranconflictseendraggingon",
   "03e9a37567cd3a0d",
@@ -603,7 +601,9 @@
   "b9ff91f6ac0e4df3",
   "icecanolafeelingpressurefromcrudeoilsoycomplex",
   "36428c912fa4e333",
-  "usirantradestrikesinstraitofhormuzasbothbattleonsocialmedia"
+  "usirantradestrikesinstraitofhormuzasbothbattleonsocialmedia",
+  "0c32ffbdd892fcc9",
+  "eveningupdateforcrudeoil04092026"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T19:35:14.643559+03:00",
+ "last_run": "2026-09-04T19:36:56.867351+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
