@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "82f178b698aac818",
-  "woodsidepemexeyenewgulfofmexicodeepwateroilgasexplorationopp",
   "5a3e00a4c4056d7b",
   "aaafuelprices",
   "b031116b368e802e",
@@ -603,7 +601,9 @@
   "fcf95e50ddea5e71",
   "rhodeislanddriverspayingrecordhighgaspricesthislabordayweeke",
   "d4ab505e314c27df",
-  "oilpricespostweeklygainonusiranfighting"
+  "oilpricespostweeklygainonusiranfighting",
+  "4d3284e59454c404",
+  "oilendsweekhigheronrenewedusiranstrikesdieselhitsrecord"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 4
+  "count": 5
  },
- "last_run": "2026-09-05T02:12:01.436051+03:00",
+ "last_run": "2026-09-05T02:15:17.673392+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
