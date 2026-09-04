@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "8c97f208c6a55fb3",
-  "uscrudeoilstockpilesseelargerthanexpecteddrop",
   "f639d695ed476825",
   "wticrudeoilpriceanalysisbearsfavoredbelow90",
   "eac68e4c58fd6e80",
@@ -603,7 +601,9 @@
   "513de4e3e9b80eb3",
   "usenergysecretarysays17millionbarrelsofoiltransitedstraitofh",
   "a3509d0aa2fb54e1",
-  "gunsoilandalliances"
+  "gunsoilandalliances",
+  "abc4d7eea3375543",
+  "santoswoodsidelookoverseasforoilasaustraliasreservesslidefur"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 22
  },
- "last_run": "2026-09-04T05:45:18.438809+03:00",
+ "last_run": "2026-09-04T05:50:53.912291+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
