@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "b84d4302d1754d25",
-  "wtipriceforecastconsolidatesabove8900bullishbiasremainsamidi",
   "6b9421db8705be5e",
   "iraqaimstodoubleoilcapacityto10mbpd",
   "f32acafbaec5c9ee",
@@ -603,7 +601,9 @@
   "3408b50ac54063ac",
   "usdieselpriceshitrecordhighasconflictsintensifysupplycrunch",
   "11effa5dddb6e41c",
-  "oilheadsforsharpweeklygainsonescalatingusirantensions"
+  "oilheadsforsharpweeklygainsonescalatingusirantensions",
+  "579f9c95b7803aaa",
+  "mileivowstoughersanctionsdefensepushoverfalklandsoildrilling"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-04",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-09-04T05:00:27.858223+03:00",
+ "last_run": "2026-09-04T05:05:12.537813+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2232,6 +2232,10 @@
   {
    "d": "2026-09-04",
    "t": "Oil heads for sharp weekly gains on escalating U.S.-Iran tensions - Investing.com"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Milei vows tougher sanctions, defense push over Falklands oil drilling - reuters.com"
   }
  ]
 }
