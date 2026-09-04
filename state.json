@@ -4,14 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "bbc3ab35e93c61b1",
-  "oilpricespushglobalbondmarketclosertotheedge",
-  "f65ce9cc3b764c51",
-  "asubduedasiansummitsharpensthecontrastbetweenxiandtrump",
-  "2e49951f4d191ca1",
-  "cushingoilinventoryremainsstagnant",
-  "0081bd1fe50e54bc",
-  "bondyieldseasestocksrallyfollowingfedgovernorwallercomments",
   "73a8a671bf25d16e",
   "oiledgesdownasinvestorsweighuncertaintyoverusiranstrikes",
   "cd3b2cb80a3b1413",
@@ -603,7 +595,15 @@
   "b0f7a963dc4d8acd",
   "blmmovestofasttrackoilpermitsinalaskapetroleumreserve",
   "439a9d86713bad78",
-  "crudeoilpostsstrongestweeklygainsincejuly"
+  "crudeoilpostsstrongestweeklygainsincejuly",
+  "4288b550bbe46329",
+  "bilateralhostilitiesraiseoilprices",
+  "f901dfce87fd9b80",
+  "360energypulsewhatmatteredthisweekinenergy",
+  "6db6c14072c585a9",
+  "brentlastdayfinancialoverview",
+  "512644c856563d81",
+  "ussprdepletionthreatensfurtheroilpricevolatility"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 1
+  "count": 3
  },
- "last_run": "2026-09-05T01:10:18.753932+03:00",
+ "last_run": "2026-09-05T01:15:17.899549+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2033,6 +2033,10 @@
   {
    "d": "2026-09-04",
    "t": "‘We Are Stalled’: US-Iran War Stuck With No End in Sight - gCaptain"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "U.S. SPR Depletion Threatens Further Oil Price Volatility - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
