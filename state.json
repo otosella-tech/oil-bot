@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "d50abd92f98d1ad0",
-  "irangetsoverus1blninoilrevenuesin11days",
   "f89670e2b38c5c51",
   "oilnearmultiweekhighsafterfreshiranstrikestrumpsayswarwontla",
   "1bf2aa2fbfc6ba80",
@@ -603,7 +601,9 @@
   "b8952ce6e2c9fe63",
   "oilheadsforweeklygainasusiranfightingresumesdieselhitsrecord",
   "60b8b11c52d6ab58",
-  "higheroilpricesandtheaiboomrekindleglobalinflationfears"
+  "higheroilpricesandtheaiboomrekindleglobalinflationfears",
+  "d1a13d636efe02d9",
+  "iransaysitsfoundwaystododgeusoilblockade"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T16:25:15.432101+03:00",
+ "last_run": "2026-09-04T16:30:24.001444+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2372,6 +2372,10 @@
   {
    "d": "2026-09-04",
    "t": "The coming verdict on Trump's Strait of Hormuz claims - Axios"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Iran Says It's Found Ways to Dodge U.S. Oil Blockade"
   }
  ]
 }
