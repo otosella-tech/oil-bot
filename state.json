@@ -4,8 +4,6 @@
   "Brent": 93.62
  },
  "seen": [
-  "484701c508a0d169",
-  "sixmonthsoftheiranwarsendoilpricessoaringandcleanenergyintoo",
   "49f0e07eae19aaae",
   "brentcouldhit100soon",
   "265edc2b8544ce11",
@@ -603,7 +601,9 @@
   "25ec2736098706da",
   "oildipsnearsixweekhighsasirantensionskeephormuzsupplyrisksel",
   "bb133413983884e4",
-  "usirantensionsreignitesupplyshockhitsmiddleeastsdualstraitsc"
+  "usirantensionsreignitesupplyshockhitsmiddleeastsdualstraitsc",
+  "06556c1240f9dabb",
+  "oilpricesareexpectedtoriseinthesecondweekofseptemberasglobal"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T17:50:19.885721+03:00",
+ "last_run": "2026-09-04T17:55:14.465457+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2388,6 +2388,10 @@
   {
    "d": "2026-09-04",
    "t": "US-Iran tensions reignite, supply shock hits Middle East's dual straits, crude oil posts strongest weekly gain since July - Moomoo"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Oil prices are expected to rise in the second week of September as global crude prices are pushed higher with tensions in the Middle East and disruptions around the Strait of Hormuz. I via ANC 24/7 Link to full story in the comments section. - facebook.com"
   }
  ]
 }
