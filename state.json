@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "2d38f1ceb5f06aed",
-  "weeklygasstorageinventoriesincreaseby30bcf",
   "8d36deec0cff78a3",
   "oilandgasoilvandalsdieinriversstate",
   "615ac4659477be6e",
@@ -603,7 +601,9 @@
   "6c75fb2669fb6705",
   "crudeoilnears97abarreldieselathighestsince2022",
   "f8851167656910e7",
-  "factcheckwhenwilltrumpdealwithvenezuelalowergaspricesintheus"
+  "factcheckwhenwilltrumpdealwithvenezuelalowergaspricesintheus",
+  "d0e6e00b926017ca",
+  "opinionourcrystalballandtrumpsoildeal"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-05",
   "count": 1
  },
- "last_run": "2026-09-05T00:35:14.936476+03:00",
+ "last_run": "2026-09-05T00:40:17.399618+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
