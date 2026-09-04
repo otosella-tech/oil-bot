@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "9ea13b049b51df83",
-  "whytrumpsvenezuelaoilgrabisnoquickfixforgasprices",
   "01070318ff4c1907",
   "crudeoilpricessupportedbyescalationofusiranhostilities",
   "2e6b34309ebe4f89",
@@ -603,7 +601,9 @@
   "668c92dc89457768",
   "whitehousepicktorunvenezuelaoildealunderinvestigationintwoco",
   "5a3e00a4c4056d7b",
-  "aaafuelprices"
+  "aaafuelprices",
+  "02bea9256ad77882",
+  "claimsandfactsaboutvenezuelaoildealitwontsavethespr"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-09-05T02:50:20.305080+03:00",
+ "last_run": "2026-09-05T02:55:14.640474+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2037,6 +2037,10 @@
   {
    "d": "2026-09-05",
    "t": "U.S. SPR Depletion Threatens Further Oil Price Volatility - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "Claims And Facts About Venezuela Oil Deal - It Won’t Save The SPR - Forbes"
   }
  ]
 }
