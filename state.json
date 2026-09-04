@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "320e9b662d581239",
-  "charlesstarnaudtrumpsvenezuelanoildealisfurtherproofcanadane",
   "a9a1658c4f779b5d",
   "wticrudeoilfuturesholdnear86asmiddleeasttensionspersist",
   "1abc8cc822e3649d",
@@ -603,7 +601,9 @@
   "c6c22ae77be6eed7",
   "cantrumpstopthesurgeinoilpricesexpertsweighin",
   "25306f984403539c",
-  "currentpriceofoilasofaugust242026"
+  "currentpriceofoilasofaugust242026",
+  "d5f67a93910af272",
+  "russiasayschinanotopecisdrivingglobaloilmarketstability"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-04",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-09-04T10:10:18.358723+03:00",
+ "last_run": "2026-09-04T10:15:19.452557+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2276,6 +2276,10 @@
   {
    "d": "2026-09-04",
    "t": "Russia’s Sechin says China, not OPEC, calls shots on global energy markets - Reuters"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Russia Says China, Not OPEC, Is Driving Global Oil Market Stability - Modern Diplomacy"
   }
  ]
 }
