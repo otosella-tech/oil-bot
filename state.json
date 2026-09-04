@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "71598cefe527c598",
-  "oilextendsrallywithiranconflictseendraggingon",
   "03e9a37567cd3a0d",
   "insidetheusvenezuelaoilagreementsbigpromiseslittleclarity",
   "fe5e3acb69fa75f7",
@@ -603,7 +601,9 @@
   "36428c912fa4e333",
   "usirantradestrikesinstraitofhormuzasbothbattleonsocialmedia",
   "0c32ffbdd892fcc9",
-  "eveningupdateforcrudeoil04092026"
+  "eveningupdateforcrudeoil04092026",
+  "a5395ea2bf6e53b8",
+  "thisoilstockflirtswithentryasprofitssurge108amidstraitofhorm"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T19:40:17.696459+03:00",
+ "last_run": "2026-09-04T19:45:18.243767+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2422,6 +2422,10 @@
   {
    "d": "2026-09-04",
    "t": "U.S., Iran Trade Strikes in Strait of Hormuz as Both Battle on Social Media - USNI News"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "This Oil Stock Flirts With Entry As Profits Surge 108% Amid Strait Of Hormuz Crisis - Investor's Business Daily"
   }
  ]
 }
