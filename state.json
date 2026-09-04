@@ -4,8 +4,6 @@
   "Brent": 93.62
  },
  "seen": [
-  "86a2a67f0d8194f4",
-  "venezuelansprideisbruisedbydealtogiveusonefifthoftheiroilres",
   "827dc93673cc6c3b",
   "asiaoilbuyingspreesendsmecrudepricessoaring",
   "c7654ec344984933",
@@ -603,7 +601,9 @@
   "d8865baaa113b48e",
   "ukpetrolpriceshithighestlevelsinceiranwarbegan",
   "1c641256733245ff",
-  "currentpriceofoilasofseptember32026"
+  "currentpriceofoilasofseptember32026",
+  "2ddddc7c34c5c462",
+  "crudeexportsdidnotstopevenforonehourunderbombardmentiranoilm"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T17:20:19.666970+03:00",
+ "last_run": "2026-09-04T17:25:15.427193+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
