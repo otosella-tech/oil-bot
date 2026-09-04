@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "5be0a548249d7f9e",
-  "riskappetiteinglobalmarketsriseasgeopoliticaltensionssomewha",
   "4443c40757e5edcf",
   "enibecomesoperatorofvenezuelasgiantjunn5oilfield",
   "b70217a30b6e30f0",
@@ -603,7 +601,9 @@
   "3e6b3abe1f5be23b",
   "currentpriceofoilasofseptember22026",
   "714c4fc7efcf2191",
-  "venezuelascomplicatedusoildeal"
+  "venezuelascomplicatedusoildeal",
+  "4e341040e5f384ff",
+  "crudeoilsconfluencezonesturnoldresistanceintonewsupport"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 14
  },
- "last_run": "2026-09-04T04:00:25.161376+03:00",
+ "last_run": "2026-09-04T04:05:13.564560+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
