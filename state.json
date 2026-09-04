@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "6989756868d55433",
-  "ugandanamesitscrudeoilblendpearlsweetaheadofcommercialproduc",
-  "10389332d94be1c2",
-  "recordhighgaspricesexpectedforlaborday",
   "e6ec108fad7000ac",
   "kalshiseekscftcapprovalforwticrudeperpetualfuturesreport",
   "cad17eb8efeb9249",
@@ -603,7 +599,11 @@
   "957bf01ec1d4bfd9",
   "oilpricesup030926",
   "a2b77d155151c2c9",
-  "brentnears96asiranconflictkeepsoilmarketonedge"
+  "brentnears96asiranconflictkeepsoilmarketonedge",
+  "2a43ada8040e796a",
+  "crudeoilsteadiesashormuzeasessupplyfears",
+  "b5dbb4ebf31c58bd",
+  "manwantedforstealingover80barrelsofcrudeoilinmartincounty"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-04",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-09-04T08:55:17.506149+03:00",
+ "last_run": "2026-09-04T09:00:30.957834+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2256,6 +2256,10 @@
   {
    "d": "2026-09-04",
    "t": "Brent Nears $96 as Iran Conflict Keeps Oil Market on Edge"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Crude Oil Steadies as Hormuz Eases Supply Fears - tradingpedia.com"
   }
  ]
 }
