@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "7ca1415f7131f8f7",
-  "analystswarnthattheoildealwillnotreducepricessoon",
   "0a9c98e41b0c04a3",
   "opecsettoholdoiloutputsteadyasiranwardisruptssupply",
   "6989756868d55433",
@@ -603,7 +601,9 @@
   "4dac15efba773bed",
   "oilsetforsteepestweeklygainsincemidjulyfuelledbyusiranclashe",
   "c652866ed3ce2d88",
-  "theusandvenezuelaacenturyoldrelationshipdrenchedinoil"
+  "theusandvenezuelaacenturyoldrelationshipdrenchedinoil",
+  "957bf01ec1d4bfd9",
+  "oilpricesup030926"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 36
  },
- "last_run": "2026-09-04T08:20:17.311436+03:00",
+ "last_run": "2026-09-04T08:25:20.123893+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
