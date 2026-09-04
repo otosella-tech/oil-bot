@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "26f1eec56e8cfb54",
-  "willtheusbignewvenezuelanoildealendupadryhole",
-  "dcce52836252e389",
-  "proudoftheiroilvenezuelansviewusstakeintheirreservesasasurre",
   "d39ed32f70dc192f",
   "bondselloffdeepensasoilpricesandpublicdebtfearsjoltmarkets",
   "e4d2ea191232f38e",
@@ -603,7 +599,11 @@
   "69ed3b43f88599a3",
   "oilslidesonfridayheadsforweeklygainonusiranfight",
   "4224c709d71b4197",
-  "venezuelasjumbooildealdoeslittletoappeaseitscreditors"
+  "venezuelasjumbooildealdoeslittletoappeaseitscreditors",
+  "aec131cd40dbdabe",
+  "usoilrigcountrisesasgasrigactivitydeclines",
+  "3227a16286a38fe6",
+  "venezuelaistheblueprintforwhatwashingtonwilldemandfromiran"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T20:25:13.859097+03:00",
+ "last_run": "2026-09-04T20:30:23.490738+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2439,6 +2439,10 @@
   {
    "d": "2026-09-04",
    "t": "Venezuela’s jumbo oil deal does little to appease its creditors - Financial Times"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Venezuela is the blueprint for what Washington will demand from Iran - The Hill"
   }
  ]
 }
