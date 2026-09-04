@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "04e433095157bd60",
-  "crudeawakeningthewhitehousesoilnumbersdontaddup",
   "04522a7fd3a1879a",
   "usstockfutureslittlechangedasoilretreatsandbroadcomissuesrev",
   "8629020de5cebb20",
@@ -603,7 +601,9 @@
   "4f7f758040207d48",
   "oilpricessetforweeklygainasusiranhostilitiesintensify",
   "a9a1658c4f779b5d",
-  "wticrudeoilfuturesholdnear86asmiddleeasttensionspersist"
+  "wticrudeoilfuturesholdnear86asmiddleeasttensionspersist",
+  "84bdb275cda4f454",
+  "crudeoilfuturesriseasvancedeclinestogivetimelinetoendusiranc"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 50
  },
- "last_run": "2026-09-04T10:45:18.360237+03:00",
+ "last_run": "2026-09-04T10:50:18.754552+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
