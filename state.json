@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "08fec6e047881fd6",
-  "trumpwantsbigoiltobuildmorerefineriesthatsatoughsell",
   "b84d4302d1754d25",
   "wtipriceforecastconsolidatesabove8900bullishbiasremainsamidi",
   "6b9421db8705be5e",
@@ -603,7 +601,9 @@
   "9b3e6cc3e17f0ad6",
   "whybigoiliswaryoftrumpsforayintovenezuelasoilpatch",
   "3408b50ac54063ac",
-  "usdieselpriceshitrecordhighasconflictsintensifysupplycrunch"
+  "usdieselpriceshitrecordhighasconflictsintensifysupplycrunch",
+  "11effa5dddb6e41c",
+  "oilheadsforsharpweeklygainsonescalatingusirantensions"
  ],
  "releases_done": {},
  "last_digest": "2026-09-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-04",
-  "count": 16
+  "count": 18
  },
- "last_run": "2026-09-04T04:35:12.627926+03:00",
+ "last_run": "2026-09-04T04:40:18.658270+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2228,6 +2228,10 @@
   {
    "d": "2026-09-04",
    "t": "Why Big Oil Is Wary of Trump’s Foray Into Venezuela’s Oil Patch - WSJ"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Oil heads for sharp weekly gains on escalating U.S.-Iran tensions - Investing.com"
   }
  ]
 }
