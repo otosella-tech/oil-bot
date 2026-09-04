@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "5a38c1391d8955ff",
-  "usoilreservehits44yearlowamidiranwarglobalenergyshortage",
   "86caa7de436902a9",
   "oilpricesrallyasustargetsiraniantankersinnewescalation",
   "0184916f76951490",
@@ -603,7 +601,9 @@
   "6000aba969ac6314",
   "argentinatosanctionoilfirmsasfalklandsdisputewithukheatsup",
   "1542d6d2ebc2a176",
-  "naturalgasandoilforecast"
+  "naturalgasandoilforecast",
+  "224460299a1301b6",
+  "naturalgasandoilforecasthormuzrisksliftwtiasuscrudestocksfal"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 42
  },
- "last_run": "2026-09-04T09:20:17.863226+03:00",
+ "last_run": "2026-09-04T09:25:17.201543+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
