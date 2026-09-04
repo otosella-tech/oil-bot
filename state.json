@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "5cb396bc34dda0b5",
-  "howusoilcompaniesareexpandingastrumpreshapesglobalenergy",
   "263a5cd132ff2ba2",
   "turkeyreplacesrussianoilanddieselimportsfromusaswarsreverber",
   "fde7d0648b01221d",
@@ -603,7 +601,9 @@
   "074b9b0c9dd968b8",
   "thecommoditiesfeedoilmaintainsgainsamidpersiangulfescalation",
   "ef9e56a99561523a",
-  "astronomicalfuelpricesurgehitsfarmersinukandus"
+  "astronomicalfuelpricesurgehitsfarmersinukandus",
+  "a58c131f00255752",
+  "crudeoilpriceseaseasstraitofhormuzroutegetsbusy"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T12:05:15.039969+03:00",
+ "last_run": "2026-09-04T12:10:22.180127+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2308,6 +2308,10 @@
   {
    "d": "2026-09-04",
    "t": "Oil slips near six-week highs as Iran tensions keep Hormuz supply risks elevated - Investing.com"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Crude Oil Prices Ease As Strait Of Hormuz Route Gets Busy - MarketForces Africa"
   }
  ]
 }
