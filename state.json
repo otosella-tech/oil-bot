@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "0a9c98e41b0c04a3",
-  "opecsettoholdoiloutputsteadyasiranwardisruptssupply",
   "6989756868d55433",
   "ugandanamesitscrudeoilblendpearlsweetaheadofcommercialproduc",
   "10389332d94be1c2",
@@ -603,7 +601,9 @@
   "c652866ed3ce2d88",
   "theusandvenezuelaacenturyoldrelationshipdrenchedinoil",
   "957bf01ec1d4bfd9",
-  "oilpricesup030926"
+  "oilpricesup030926",
+  "a2b77d155151c2c9",
+  "brentnears96asiranconflictkeepsoilmarketonedge"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-04",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-09-04T08:35:15.799377+03:00",
+ "last_run": "2026-09-04T08:40:19.549073+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2252,6 +2252,10 @@
   {
    "d": "2026-09-04",
    "t": "Oil set for steepest weekly gain since mid-July, fuelled by US-Iran clashes - Reuters"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Brent Nears $96 as Iran Conflict Keeps Oil Market on Edge"
   }
  ]
 }
