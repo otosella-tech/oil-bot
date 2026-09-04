@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "20f51c9c2fbc346f",
-  "hormuzdisruptionscoulddragintonextyearjapanesetankergiantwar",
   "7dc5c0403c8518bf",
   "dividebetweenenergytrackersandthewhitehousedeepensoverhowmuc",
   "bada1df7d1ab0930",
@@ -603,7 +601,9 @@
   "657e5e0af5da40cf",
   "crudeoilfuturesdeclinenearly1tors8565barrelbrentslipsbelowus",
   "6e4c8b64a541c44e",
-  "dozensdieinnigeriaoiltheftattemptafterinhalingtoxicfumes"
+  "dozensdieinnigeriaoiltheftattemptafterinhalingtoxicfumes",
+  "f0996e854d8f969e",
+  "argentinasmileistepsupfalklandssovereigntyclaimswithoilsanct"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T14:00:33.725356+03:00",
+ "last_run": "2026-09-04T14:05:17.908436+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2340,6 +2340,10 @@
   {
    "d": "2026-09-04",
    "t": "Oil futures: Crude steadies as Iran tensions drive weekly surge - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Argentina's Milei steps up Falklands sovereignty claims with oil sanctions - Reuters"
   }
  ]
 }
