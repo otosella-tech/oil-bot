@@ -4,8 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "03538c2dcebde431",
-  "oilnewscrudeoilreverseshigheraskuwaitattacksdeepenhormuzrisk",
   "5a9cb08a9eb793ab",
   "brentoilpriceabove96perbarrelafteriranfiresmissilesatkuwait",
   "f127c2ac1025d157",
@@ -603,7 +601,9 @@
   "43f14cc1dd70ce37",
   "wtibackabove91aswarpremiumreturns",
   "bd333aedfdd5ca06",
-  "europegaspricesheadforfourthstraightweeklygain"
+  "europegaspricesheadforfourthstraightweeklygain",
+  "2b14972f66d14fc1",
+  "chinabaseresourcesingaporepteltdtojoinasiafueloilpapermoc"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -615,7 +615,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T15:30:24.492245+03:00",
+ "last_run": "2026-09-04T15:35:16.387156+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
