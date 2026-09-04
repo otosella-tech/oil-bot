@@ -4,10 +4,6 @@
   "Brent": 95.72
  },
  "seen": [
-  "04522a7fd3a1879a",
-  "usstockfutureslittlechangedasoilretreatsandbroadcomissuesrev",
-  "8629020de5cebb20",
-  "currentpriceofoilasofsept22026",
   "2a611747bf5bdcba",
   "forgetcrudeoiltherealenergycrisisrightnowisindiesel",
   "5f69b7743162bfe6",
@@ -603,7 +599,11 @@
   "a9a1658c4f779b5d",
   "wticrudeoilfuturesholdnear86asmiddleeasttensionspersist",
   "84bdb275cda4f454",
-  "crudeoilfuturesriseasvancedeclinestogivetimelinetoendusiranc"
+  "crudeoilfuturesriseasvancedeclinestogivetimelinetoendusiranc",
+  "1ea06aca188249de",
+  "usdieselpricessetnewhigh",
+  "91a6c0d51168ab89",
+  "argentinasmileivowstougherfalklandsoilsanctionsdeepeningdisp"
  ],
  "releases_done": {},
  "last_digest": "2026-09-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-04",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-09-04T10:50:18.754552+03:00",
+ "last_run": "2026-09-04T10:55:15.311287+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2284,6 +2284,10 @@
   {
    "d": "2026-09-04",
    "t": "Oil prices set for weekly gain as US-Iran hostilities intensify - Reuters"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Argentina’s Milei vows tougher Falklands oil sanctions, deepening dispute with Britain - CNN"
   }
  ]
 }
