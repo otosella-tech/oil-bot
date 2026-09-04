@@ -4,14 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "563e4fa2043981ab",
-  "thetrumpadministrationsaysmoreoilexitedthemiddleeastthisweek",
-  "401aebecd4f605b5",
-  "highoilpricesspeedupchinasshiftawayfromcrude",
-  "58975670d413b6c7",
-  "crudeoilnears97abarreldieselathighestsince2022",
-  "848cbab8c22063eb",
-  "energysecretarychriswrighttellscnbcmorethan17millionbarrelso",
   "72450625fac76ff3",
   "ukraineattacksshipusedtorepairkeyblackseaoilmoorings",
   "4385fa0c7731c6dc",
@@ -603,7 +595,15 @@
   "a5194c6afcaf79d1",
   "whywasexxonmobilholdingsxomleftoutoftrumpsoilexecutivemeetin",
   "ae01464328433adf",
-  "scheduleforusenergydatainholidayweek"
+  "scheduleforusenergydatainholidayweek",
+  "0ea23356fa96c58a",
+  "oilfuturespostweeklygainsonmiddleeastescalation",
+  "f9c8f8e5e530e358",
+  "usrigcountholdsat588asoildrillingrisesandgasactivityslips",
+  "4e0ae85a156d3064",
+  "iraqisinprocessofseekingoiltankersforhormuzstraitruns",
+  "976b2ec07273fc53",
+  "wearestalledusiranwarstuckwithnoendinsight"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T23:50:18.809402+03:00",
+ "last_run": "2026-09-04T23:55:14.927387+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
@@ -2453,6 +2453,14 @@
   {
    "d": "2026-09-04",
    "t": "Gulf Shipping Traffic Via Hormuz Keeps Below 10-Day Average, Data Shows - EnergyNow.com"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "Iraq Is in Process of Seeking Oil Tankers for Hormuz Strait Runs - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-04",
+   "t": "‘We Are Stalled’: US-Iran War Stuck With No End in Sight - gCaptain"
   }
  ]
 }
