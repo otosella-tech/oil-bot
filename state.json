@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "03e9a37567cd3a0d",
-  "insidetheusvenezuelaoilagreementsbigpromiseslittleclarity",
   "fe5e3acb69fa75f7",
   "ussprdepletionthreatensfurtheroilpricevolatility",
   "5c26621a1f293d40",
@@ -603,7 +601,9 @@
   "0c32ffbdd892fcc9",
   "eveningupdateforcrudeoil04092026",
   "a5395ea2bf6e53b8",
-  "thisoilstockflirtswithentryasprofitssurge108amidstraitofhorm"
+  "thisoilstockflirtswithentryasprofitssurge108amidstraitofhorm",
+  "fe6191098ddd8c10",
+  "alaskaschoolssettoreceive115minwardrivenoilrevenuebonusstate"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-04",
   "count": 60
  },
- "last_run": "2026-09-04T20:05:15.924222+03:00",
+ "last_run": "2026-09-04T20:10:18.931105+03:00",
  "sent_stories": [
   {
    "d": "2026-09-01",
