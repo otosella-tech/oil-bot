@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "9534893bc735be30",
-  "depwilmothinterestsincimproperlydisposedofoilcontaminatedsoi",
-  "f8767f1f672286f9",
-  "chevrons7billionbetonvenezuelanoil",
-  "4629924898a683c9",
-  "kalshimovestobringnoexpirycrudeoiltradingtoregulatedusmarket",
   "1117ddc6c9503e7b",
   "oilrisesamidelevatedsupplydisruptionconcerns",
   "046091e27330441e",
@@ -603,7 +597,13 @@
   "daa54d705a5fcf93",
   "usstrikesiranianoiltankersafterirantargets2navywarships",
   "ca918d5c33ca71f1",
-  "usoildealpromisesafloodofinvestmentinvenezuelawhenwillitspeo"
+  "usoildealpromisesafloodofinvestmentinvenezuelawhenwillitspeo",
+  "5639dc6cf24a6161",
+  "greenbondshitrecordhighdespitepersistentchallenges",
+  "8457fb242ff86aab",
+  "usmilitarysaysdestroysiranianoiltankersaftermissileattacks",
+  "4627cd4d7cd324b1",
+  "usvenezuelaoildealthreatenschinasoilbackedloans"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-09-05T17:55:25.559127+03:00",
+ "last_run": "2026-09-05T18:00:28.379711+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2172,6 +2172,14 @@
   {
    "d": "2026-09-05",
    "t": "US oil deal promises a flood of investment in Venezuela. When will its people feel the benefits? - CNN"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US military says destroys Iranian oil tankers after missile attacks - france24.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "U.S.-Venezuela Oil Deal Threatens China's Oil-Backed Loans - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
