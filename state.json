@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "984a0bd57a0956b4",
-  "usvenezuelaoildealthreatenschinasoil",
-  "1e8539a6dd546cc5",
-  "ugandanamescrudeoilblendpearlsweetaheadofcommercialproductio",
-  "4627cd4d7cd324b1",
-  "usvenezuelaoildealthreatenschinasoilbackedloans",
   "9534893bc735be30",
   "depwilmothinterestsincimproperlydisposedofoilcontaminatedsoi",
   "f8767f1f672286f9",
@@ -603,7 +597,13 @@
   "5858deccbe9371ab",
   "usmilitarystrikesthreeiraniancrudeoilcarrierssayscentralcomm",
   "bb7bc0a6c6b51a6e",
-  "ussaysitsforcesdestroyedthreeiranianoiltankersafterirgctarge"
+  "ussaysitsforcesdestroyedthreeiranianoiltankersafterirgctarge",
+  "832ea74a8e154487",
+  "ussaysithitiranoiltankershelpingfinanceregionalproxies",
+  "daa54d705a5fcf93",
+  "usstrikesiranianoiltankersafterirantargets2navywarships",
+  "ca918d5c33ca71f1",
+  "usoildealpromisesafloodofinvestmentinvenezuelawhenwillitspeo"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-09-05T17:50:18.937219+03:00",
+ "last_run": "2026-09-05T17:55:25.559127+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2160,6 +2160,18 @@
   {
    "d": "2026-09-05",
    "t": "US says its forces destroyed three Iranian oil tankers after IRGC targeted navy warships - Yahoo News Canada"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US says it hit Iran oil tankers helping finance ‘regional proxies’ - Al Jazeera"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US strikes Iranian oil tankers after Iran targets 2 Navy warships - USA Today"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US oil deal promises a flood of investment in Venezuela. When will its people feel the benefits? - CNN"
   }
  ]
 }
