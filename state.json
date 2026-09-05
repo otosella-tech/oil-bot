@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "176937ba804249b3",
-  "ugandanamesitscrudeoilpearlsweetaheadofproduction",
-  "ba48a17144917900",
-  "usschevronitalysenitoexpandoilprojectsinvenezuela",
   "1fcf13ead796eff2",
   "newdatatwooiltradersincreasedcrudeshipmentstoisraelduringgaz",
   "5e9972a80dc0b216",
@@ -603,7 +599,11 @@
   "3a327afa183e73d6",
   "predictionmarketkalshitofileforuscrudeoilperpssourcesays",
   "3a6dc07c19f80b5d",
-  "highoilpricesspeedupchinasshiftawayfromcrude"
+  "highoilpricesspeedupchinasshiftawayfromcrude",
+  "524627bef6c468d6",
+  "whyisntthepriceofoilevenhigher",
+  "44093cb708504649",
+  "60targetsstruck18mbarrelsofoilprotectedtheusmilitarysrecordd"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-09-05T09:55:14.858983+03:00",
+ "last_run": "2026-09-05T10:00:29.411231+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2040,6 +2040,10 @@
   {
    "d": "2026-09-05",
    "t": "US Treasury Secretary Scott Bessent sees crude oil as low as $40 post-Iran war, lower bond yields - The Economic Times"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "60 targets struck, 18M barrels of oil protected: The US military’s record day in the Strait of Hormuz - cnn.com"
   }
  ]
 }
