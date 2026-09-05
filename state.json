@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "847ca0920bcd8cca",
-  "eiareportsadeclineinuscrudeoilstocks",
-  "23cf5e8e1500f14a",
-  "aidatacenterboompushesuspowerequipmenttothebreakingpoint",
   "2e553b4cba4f66c9",
   "polymarketmovesbeyondpredictionmarketswithcrudeoilperpetualf",
   "222ced53168e9844",
@@ -603,7 +599,11 @@
   "1f789a3e1ea7c5a6",
   "iraniantankerhitbyusattackneariranskhargislandtasnimsays",
   "6de73c371c0e1af2",
-  "usmilitarystrikesthreeiraniancrudeoilcarrierscentralcommands"
+  "usmilitarystrikesthreeiraniancrudeoilcarrierscentralcommands",
+  "3e08c6e84809f530",
+  "usstrikesthreeiranianoiltankersaftermissileattacks",
+  "265637adf759af14",
+  "usmilitarysaysitdestroyed3iranianoiltankersaftermissileattac"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-09-05T17:00:27.252932+03:00",
+ "last_run": "2026-09-05T17:05:14.164858+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2080,6 +2080,14 @@
   {
    "d": "2026-09-05",
    "t": "US military strikes three Iranian crude oil carriers, Central Command says - marketscreener.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "U.S. Strikes Three Iranian Oil Tankers After Missile Attacks - Quiver Quantitative"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US military says it destroyed 3 Iranian oil tankers after missile attacks - Anadolu Ajansı"
   }
  ]
 }
