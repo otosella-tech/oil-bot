@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "2a43ada8040e796a",
-  "crudeoilsteadiesashormuzeasessupplyfears",
   "b5dbb4ebf31c58bd",
   "manwantedforstealingover80barrelsofcrudeoilinmartincounty",
   "2a6e8f4faad8aba5",
@@ -603,7 +601,9 @@
   "64a5205e2b8184c2",
   "usstrikes3iranianoiltankersafternavywarshipsevadedmissilesce",
   "7979d07df3f338b9",
-  "centcomannouncesstrikesonthreeiranianoiltankers"
+  "centcomannouncesstrikesonthreeiranianoiltankers",
+  "c893a952ffd5bd20",
+  "usstrikes3iranianoiltankersvowstodestroyentirefleetifnecessa"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T19:35:15.494859+03:00",
+ "last_run": "2026-09-05T19:40:16.807947+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2256,6 +2256,10 @@
   {
    "d": "2026-09-05",
    "t": "CENTCOM announces strikes on three Iranian oil tankers - Politico"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "U.S. strikes 3 Iranian oil tankers, vows to ‘destroy’ entire fleet ‘if necessary’ - MS NOW"
   }
  ]
 }
