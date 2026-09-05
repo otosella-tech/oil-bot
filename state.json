@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "c1eb180edcc93754",
-  "balticdryindexbreaksoutasaperfectstormhitsshipping",
-  "4ea6cabae2dc8eda",
-  "oilpriceslittlechangedafteriranfiresmissilesatkuwait",
-  "a04b054a575de239",
-  "thepublicsupportsclimatesuperfundbillstheoillobbyistankingth",
   "04dfd434aa843b3c",
   "chevronceosayspatiencepaysoffinvenezuelaoildeal",
   "9ae92e7bf122c647",
@@ -603,7 +597,13 @@
   "2fd8938091c3ec3f",
   "theoverlookedrussiaukrainewargrowsitsoutsizedimpactonenergya",
   "ffde753eba64616a",
-  "astronomicalfuelpricesurgehitsfarmersinukandusoil"
+  "astronomicalfuelpricesurgehitsfarmersinukandusoil",
+  "58d98006455af392",
+  "usoilrigcountupforweekendingsept4",
+  "c03ead176e867a66",
+  "ustreasurysecretarybessentnotedthatthecurrentriseinoilprice",
+  "477acd426beac78b",
+  "iranianoiltankertargetedinmissileattacknearkhargisland"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-09-05T11:35:14.603122+03:00",
+ "last_run": "2026-09-05T11:40:18.580420+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2044,6 +2044,10 @@
   {
    "d": "2026-09-05",
    "t": "60 targets struck, 18M barrels of oil protected: The US military’s record day in the Strait of Hormuz - cnn.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "Iranian Oil Tanker Targeted in Missile Attack Near Kharg Island - 8AM Media"
   }
  ]
 }
