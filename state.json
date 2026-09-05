@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "f9af6a705a72e40a",
-  "oilpricesdipascautiousoptimismoverirantrumpsnewfearsofrussia",
   "a41195d73cf8e611",
   "yourthursdaysept3guidefivethingstodointheoilcity",
   "bb10e0bf524ab9b3",
@@ -603,7 +601,9 @@
   "6d02fe2f60ef98d9",
   "ustreasurysecretarypredictscrudeoilwillreturnto4050signaling",
   "6611c4e6b0b0fadf",
-  "uscrudeoilhits90perbarrelfollowinglatestusattacksagainstiran"
+  "uscrudeoilhits90perbarrelfollowinglatestusattacksagainstiran",
+  "d0fa6f940c14b90f",
+  "crudeoilpricespushhigheraheadofholidayweekend"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-05",
   "count": 8
  },
- "last_run": "2026-09-05T05:10:16.456973+03:00",
+ "last_run": "2026-09-05T05:15:16.535047+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
