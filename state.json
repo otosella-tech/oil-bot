@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "fff7e6a4aae11ef0",
-  "oilslipsnearsixweekhighsasirantensionskeephormuzsupplyriskse",
   "b3530f5b1ae723e4",
   "withthemidtermsloomingtrumphasnorealwayoutofhisgaspriceprobl",
   "41b50a9b330011fe",
@@ -603,7 +601,9 @@
   "b2fe6c8107965870",
   "usmilitarysaysdestroysiranianoiltankersaftermissileattacksal",
   "92214e26d21f77d5",
-  "russiasgiantvostokoilloadsfirstcrudeonarctictanker"
+  "russiasgiantvostokoilloadsfirstcrudeonarctictanker",
+  "ee21c51148a7e8dc",
+  "usmilitarysaysithit3iraniantankersafternavyshipstargeted"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T21:05:16.137804+03:00",
+ "last_run": "2026-09-05T21:10:18.241689+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2332,6 +2332,10 @@
   {
    "d": "2026-09-05",
    "t": "Russia’s Giant Vostok Oil Loads First Crude on Arctic Tanker - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "U.S. military says it hit 3 Iranian tankers after Navy ships targeted - The Washington Post"
   }
  ]
 }
