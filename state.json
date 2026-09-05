@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "89175165254899b9",
-  "40oiltankersloadedwith18millionbarrelsofoilforasiacrosshormu",
-  "8fab898d57bc98fe",
-  "currentpriceofoilasofaugust252026",
   "69a8ff09cc1f59c1",
   "after6monthsofwarwhyarentoilpricesevenhigher",
   "cc7c3c7d8c6b20d5",
@@ -603,7 +599,11 @@
   "eb46946c7f2b9c96",
   "centcomdestroys3irgcoiltankersafterirantargets2usnavywarship",
   "4cebfed1ff61b577",
-  "theusmilitarysaysithasstruckthreeiranianoiltankerslinkedtoir"
+  "theusmilitarysaysithasstruckthreeiranianoiltankerslinkedtoir",
+  "2fe8d2d46d1f1098",
+  "launchofthevostokoilproject",
+  "41bc6647c4fd32a2",
+  "mileifindsunityinpushbackagainstfalklandislandsoilproject"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T21:40:18.581312+03:00",
+ "last_run": "2026-09-05T21:45:18.531978+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
