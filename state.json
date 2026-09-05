@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "c6c22ae77be6eed7",
-  "cantrumpstopthesurgeinoilpricesexpertsweighin",
-  "25306f984403539c",
-  "currentpriceofoilasofaugust242026",
   "d5f67a93910af272",
   "russiasayschinanotopecisdrivingglobaloilmarketstability",
   "373d4b0a4c6919a7",
@@ -603,7 +599,11 @@
   "303e88f672a9a351",
   "ushitsthreeiranianoiltankersaftersayingitswarshipsweretarget",
   "a8a9318bfaaef79d",
-  "usmilitarysaysitstruck3iranianoiltankersaftermissileattacks"
+  "usmilitarysaysitstruck3iranianoiltankersaftermissileattacks",
+  "11e6d9d130bc182d",
+  "usvenezuelaoildealwontreducedomesticgasolinepricesanytimesoo",
+  "e0cb54ed99055bd9",
+  "usstrikesthreeiranianoiltankersnearkhargislandcentcomsays"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T20:15:18.157376+03:00",
+ "last_run": "2026-09-05T20:20:16.872804+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2284,6 +2284,10 @@
   {
    "d": "2026-09-05",
    "t": "US military says it struck 3 Iranian oil tankers after missile attacks - France 24"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "U.S. strikes three Iranian oil tankers near Kharg Island, CENTCOM says - Investing.com"
   }
  ]
 }
