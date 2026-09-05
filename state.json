@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "e6be742e379daeea",
-  "usdieselpricessurgetowardalltimehigh",
   "5dc6dfa7152e4b43",
   "currentpriceofoilasofaugust282026",
   "90102f3fee6d40dd",
@@ -603,7 +601,9 @@
   "6a04fd8bc5cedd6d",
   "americanshitwithrecordhighlabordayweekendgasolineprices",
   "d218d9252452615b",
-  "cpctoleavedomesticgasolinedieselpricesunchangednextweek"
+  "cpctoleavedomesticgasolinedieselpricesunchangednextweek",
+  "bad8e20cb6a5330b",
+  "iranaccusesusofstrikingoiltankernearkeypersiangulfterminal"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-09-05T15:05:17.837491+03:00",
+ "last_run": "2026-09-05T15:10:20.087080+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2060,6 +2060,10 @@
   {
    "d": "2026-09-05",
    "t": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal - Reuters"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "Iran Accuses U.S. of Striking Oil Tanker Near Key Persian Gulf Terminal - Haaretz"
   }
  ]
 }
