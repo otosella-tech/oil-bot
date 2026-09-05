@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "5dca6def53ffd73b",
-  "oilpricessteadyasussignalsnoplansforindefinitewarwithiran",
   "b5b4389c54b3813c",
   "ukpoisedtoapprovejackdawgasfieldasenergycostssoar",
   "a6892ba1dbd4204c",
@@ -603,7 +601,9 @@
   "61def49b2b7400b1",
   "ussaysitstruckthreeiranianoiltankersafterattacksonwarships",
   "3bfe6635f0ecdb4e",
-  "remotecontrolleddronetargetslibyanfueldepotweeksafteranother"
+  "remotecontrolleddronetargetslibyanfueldepotweeksafteranother",
+  "6283c989ccf1ae48",
+  "ushitsthreeiranianoiltankersaftersayingnavywarshipsweretarge"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T20:45:18.873604+03:00",
+ "last_run": "2026-09-05T20:50:18.515615+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2316,6 +2316,10 @@
   {
    "d": "2026-09-05",
    "t": "Remote-controlled drone targets Libyan fuel depot weeks after another attack destroyed 4.5-million-litre tank - Business Insider Africa"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US hits three Iranian oil tankers after saying Navy warships were targeted with missiles - The New Indian Express"
   }
  ]
 }
