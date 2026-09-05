@@ -605,12 +605,7 @@
   "40bb38f69155ae83",
   "exclusivegraniteridgeresourcesatenercomdenvertheenergyinvest"
  ],
- "releases_done": {
-  "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
-  "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|post": 1,
-  "2026-09-04|דוח פוזיציות ספקולנטים (CFTC COT)|pre": 1,
-  "2026-09-04|דוח פוזיציות ספקולנטים (CFTC COT)|post": 1
- },
+ "releases_done": {},
  "last_digest": "2026-09-04",
  "digest_prices": {
   "WTI": 91.68,
@@ -620,7 +615,7 @@
   "date": "2026-09-05",
   "count": 9
  },
- "last_run": "2026-09-05T06:55:15.139076+03:00",
+ "last_run": "2026-09-05T07:00:27.614255+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
