@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "637db91e3d790fe8",
-  "alaskaseeksoilrevivalwhilegrapplingwithawarmingfuture",
   "7e5fe91d59cbdf9d",
   "iraqhikesoilexportsviahormuzinboonforasianrefiners",
   "ab8d24ab1fddbba7",
@@ -603,7 +601,9 @@
   "6135fd266e4fa95e",
   "usmilitarydestroysthreeiranianoiltankersaftermissilesfiredat",
   "b1f99abd82f2a6a1",
-  "worksonugandascrudeoilrefineryfacilityover99percentcompletea"
+  "worksonugandascrudeoilrefineryfacilityover99percentcompletea",
+  "efe760b9b925bf05",
+  "liveiranthreatensharsherstrikesonuswarshipsashegsethvowstosi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T23:25:14.368366+03:00",
+ "last_run": "2026-09-05T23:30:22.801758+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2388,6 +2388,10 @@
   {
    "d": "2026-09-05",
    "t": "US Military Destroys Three Iranian Oil Tankers After Missiles Fired at Navy Warships - Northeast Times"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tankers - Iran International"
   }
  ]
 }
