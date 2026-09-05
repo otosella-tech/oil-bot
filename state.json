@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "73fcefed9ac127f8",
-  "opinionoiltankerstakethelongrouteasbuyerspayupforpeaceofmind",
   "0892d9a62688d4fb",
   "crudefuturesendmixedwithnoendinsighttousiranconflict",
   "3a327afa183e73d6",
@@ -603,7 +601,9 @@
   "9ac4cfcd1a9fb023",
   "elevatedcrackspreadscrudeoilpricescontributetohigherpricesat",
   "6c03318de70f3ef9",
-  "whyisfuelexpensivewhencrudeoilhasnthitrecordhighs"
+  "whyisfuelexpensivewhencrudeoilhasnthitrecordhighs",
+  "c4cfecee39dd5c60",
+  "apidatauscrudeoilinventoriesdropsprdrawscontinueoilmarketupd"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 15
  },
- "last_run": "2026-09-05T08:20:16.773931+03:00",
+ "last_run": "2026-09-05T08:25:14.183880+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
