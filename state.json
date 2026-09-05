@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "ef9e56a99561523a",
-  "astronomicalfuelpricesurgehitsfarmersinukandus",
-  "a58c131f00255752",
-  "crudeoilpriceseaseasstraitofhormuzroutegetsbusy",
-  "5618c898db272128",
-  "crudeoilstrengthensrecoveryprospectswithstrongtechnicalsuppo",
   "7959c5f08265e021",
   "groupsays37killedfromfumeswhiletryingtotapnigerianoilpipelin",
   "9f9b05bf39ab0131",
@@ -603,7 +597,13 @@
   "b3530f5b1ae723e4",
   "withthemidtermsloomingtrumphasnorealwayoutofhisgaspriceprobl",
   "2badea016fb4d32f",
-  "ussanctionsturkishbankaccusingitofhelpingirantransferoilreve"
+  "ussanctionsturkishbankaccusingitofhelpingirantransferoilreve",
+  "d33439c11d7c94f3",
+  "usstrikes3iranianoiltankersaftermissileattacksonnavywarships",
+  "c661adfbe8d2a574",
+  "irancondemnsusstrikesonoiltankersasillegalaggressive",
+  "37ba0ce80045afa4",
+  "usforcesstruckthreeiranianoiltankers"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T21:30:22.236531+03:00",
+ "last_run": "2026-09-05T21:35:16.079221+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2344,6 +2344,18 @@
   {
    "d": "2026-09-05",
    "t": "U.S. sanctions Turkish bank, accusing it of helping Iran transfer oil revenue from China to Turkey - Fortune"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US Strikes 3 Iranian Oil Tankers After Missile Attacks on Navy Warships - The Media Line"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "Iran condemns US strikes on oil tankers as 'illegal, aggressive' - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "U.S. forces struck three Iranian oil tankers - kyma.com"
   }
  ]
 }
