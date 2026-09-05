@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "90102f3fee6d40dd",
-  "putinpeacesignalsreininoilpricesurgesparkedbyusstrikes",
-  "f90c54ad7a8bdc00",
-  "publicstillinthedarkmorethanaweekaftertoxicpipelinespill",
   "0cdf436059a7597a",
   "photosshowbrokenoilinfrastructureandblackoutsonvenezuelaslak",
   "1206073380027e35",
@@ -603,7 +599,11 @@
   "bad8e20cb6a5330b",
   "iranaccusesusofstrikingoiltankernearkeypersiangulfterminal",
   "339025fda91a1307",
-  "treasurychiefbessentpredictsoilpricedropto40followingendofir"
+  "treasurychiefbessentpredictsoilpricedropto40followingendofir",
+  "430ff374fb505cc2",
+  "trumpsstatecapitalismcomestotheoilindustrywithhisunprecedent",
+  "5dc6dfa7152e4b43",
+  "currentpriceofoilasofaugust282026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-09-05T15:20:18.318522+03:00",
+ "last_run": "2026-09-05T15:25:13.571343+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2064,6 +2064,10 @@
   {
    "d": "2026-09-05",
    "t": "Iran Accuses U.S. of Striking Oil Tanker Near Key Persian Gulf Terminal - Haaretz"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal - CNBC"
   }
  ]
 }
