@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "41b50a9b330011fe",
-  "labordaygaspricesontracktosetrecordhighaaasays",
   "074b9b0c9dd968b8",
   "thecommoditiesfeedoilmaintainsgainsamidpersiangulfescalation",
   "ef9e56a99561523a",
@@ -603,7 +601,9 @@
   "ee21c51148a7e8dc",
   "usmilitarysaysithit3iraniantankersafternavyshipstargeted",
   "7f69740f19f784b7",
-  "ushitsiraniantankersandwarnsitwilldestroyoilfleetifnecessary"
+  "ushitsiraniantankersandwarnsitwilldestroyoilfleetifnecessary",
+  "b3530f5b1ae723e4",
+  "withthemidtermsloomingtrumphasnorealwayoutofhisgaspriceprobl"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T21:15:19.629362+03:00",
+ "last_run": "2026-09-05T21:20:18.575174+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
