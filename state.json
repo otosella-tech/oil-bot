@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "8c97f208c6a55fb3",
-  "uscrudeoilstockpilesseelargerthanexpecteddrop",
   "30559f91742e0251",
   "oilfuturescruderisesasirantensionsdriveweeklysurge",
   "f639d695ed476825",
@@ -603,7 +601,9 @@
   "d2dd2e9ca834f12f",
   "enbridgebuyingsaltcreekcrudegatheringassetsmidlandreporter",
   "10f60678a10349bb",
-  "usdestroys3iranianoiltankersundernewretaliatorypolicy"
+  "usdestroys3iranianoiltankersundernewretaliatorypolicy",
+  "bfb2e35b19bc5967",
+  "usmilitarysaysitstruckthreeiraniancrudeoilcarriersnearkhargi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T18:20:18.901143+03:00",
+ "last_run": "2026-09-05T18:25:14.174153+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
