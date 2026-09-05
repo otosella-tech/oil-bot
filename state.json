@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "2227c94b866b3fb8",
-  "gaspricesaresurgingjustbeforelabordayasdieselhitsanalltimehi",
-  "46b7f762526a0f52",
-  "oiljumpsforfourthstraightdayanddieselnearsrecordhigh",
   "657e5e0af5da40cf",
   "crudeoilfuturesdeclinenearly1tors8565barrelbrentslipsbelowus",
   "6e4c8b64a541c44e",
@@ -603,7 +599,11 @@
   "f3bb6abd42faf1d1",
   "errorinarecentblmleasesalehaswyomingresidentsconcernedoverne",
   "df27f864e030ae57",
-  "worksonugandascrudeoilrefineryfacilityover99percentcomplete"
+  "worksonugandascrudeoilrefineryfacilityover99percentcomplete",
+  "20242a933797772f",
+  "iransaysitattackedtankersuslinkedvesselsinhormuzescalation",
+  "39efdf3e01e063fc",
+  "nigeriafishingcommunitiesdemandcleanupaftercrudeloadingspill"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-09-06T00:40:18.085392+03:00",
+ "last_run": "2026-09-06T00:45:16.888847+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1760,6 +1760,10 @@
   {
    "d": "2026-09-06",
    "t": "US military strikes oil tankers as Iran vows tougher reprisals - France 24"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Iran says it attacked tankers, US-linked vessels in Hormuz escalation - Euronews.com"
   }
  ]
 }
