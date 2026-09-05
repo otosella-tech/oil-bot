@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "1542d6d2ebc2a176",
-  "naturalgasandoilforecast",
-  "224460299a1301b6",
-  "naturalgasandoilforecasthormuzrisksliftwtiasuscrudestocksfal",
-  "8cc41c0f5be96024",
-  "savethechildrenaidfor15millioninneedwipedoutbyiranwaroilshoc",
   "eedc3b900398e79c",
   "adnockeepsloadinglngashormuzrisksintensify",
   "2479df8d9248d298",
@@ -603,7 +597,13 @@
   "2a6e8f4faad8aba5",
   "ugandanamesitscrudeoilblendpearlsweetaheadofcommercialproduc",
   "154b752e8907286d",
-  "usmilitarysaysitdestroyed3iranianoiltankersafterirgctargeted"
+  "usmilitarysaysitdestroyed3iranianoiltankersafterirgctargeted",
+  "eefa7fb89bd6538b",
+  "thiscattlefeedlotturnsmanureinto12millionmmbtuofnaturalgasay",
+  "ff031ee5d6e48b37",
+  "usmilitarystrikesthreeiraniantankersinretaliationformissilea",
+  "375c943d85a2c101",
+  "usmilitaryblasts3iranianoiltankersafternavywarshipsattackedw"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T19:55:16.172289+03:00",
+ "last_run": "2026-09-05T20:00:26.688659+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2268,6 +2268,14 @@
   {
    "d": "2026-09-05",
    "t": "US military says it destroyed 3 Iranian oil tankers after IRGC targeted its warships - The Times of Israel"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US military strikes three Iranian tankers in retaliation for missile attacks - CNN"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US military blasts 3 Iranian oil tankers after Navy warships attacked with ballistic missiles - CBS17.com"
   }
  ]
 }
