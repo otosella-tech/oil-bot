@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "a6892ba1dbd4204c",
-  "argentineleaderthreatenstosanctionoilfirmsandreiteratesfalkl",
-  "233501f1930b973d",
-  "trumplinkedcompaniesracetosecuredealsforvenezuelasoil",
   "fff7e6a4aae11ef0",
   "oilslipsnearsixweekhighsasirantensionskeephormuzsupplyriskse",
   "b3530f5b1ae723e4",
@@ -603,7 +599,11 @@
   "6283c989ccf1ae48",
   "ushitsthreeiranianoiltankersaftersayingnavywarshipsweretarge",
   "41e11a716bec9741",
-  "centcomannouncesretaliatorystrikeson3iranianoiltankers"
+  "centcomannouncesretaliatorystrikeson3iranianoiltankers",
+  "b2fe6c8107965870",
+  "usmilitarysaysdestroysiranianoiltankersaftermissileattacksal",
+  "92214e26d21f77d5",
+  "russiasgiantvostokoilloadsfirstcrudeonarctictanker"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T20:55:13.210683+03:00",
+ "last_run": "2026-09-05T21:00:26.805550+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2324,6 +2324,14 @@
   {
    "d": "2026-09-05",
    "t": "CENTCOM announces retaliatory strikes on 3 Iranian oil tankers - Politico"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US military says destroys Iranian oil tankers after missile attacks - Al-Monitor"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "Russia’s Giant Vostok Oil Loads First Crude on Arctic Tanker - Bloomberg.com"
   }
  ]
 }
