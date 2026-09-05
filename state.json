@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "d5f67a93910af272",
-  "russiasayschinanotopecisdrivingglobaloilmarketstability",
-  "373d4b0a4c6919a7",
-  "oilfuturescrudecementsweeklygainsbrentat6weekhigh",
-  "4f7f758040207d48",
-  "oilpricessetforweeklygainasusiranhostilitiesintensify",
   "a9a1658c4f779b5d",
   "wticrudeoilfuturesholdnear86asmiddleeasttensionspersist",
   "84bdb275cda4f454",
@@ -603,7 +597,13 @@
   "11e6d9d130bc182d",
   "usvenezuelaoildealwontreducedomesticgasolinepricesanytimesoo",
   "e0cb54ed99055bd9",
-  "usstrikesthreeiranianoiltankersnearkhargislandcentcomsays"
+  "usstrikesthreeiranianoiltankersnearkhargislandcentcomsays",
+  "e3ed92ad7e5ff002",
+  "liveupdatesussaysitstruck3iranianoiltankersaftermissilesfire",
+  "0260e82f7ae34753",
+  "currentpriceofoilasofaugust242026",
+  "291938614ff4a8ba",
+  "usstrikesiranianoiltankersmilitaryobjectivesandeconomicwarfa"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T20:20:16.872804+03:00",
+ "last_run": "2026-09-05T20:25:15.798676+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2288,6 +2288,14 @@
   {
    "d": "2026-09-05",
    "t": "U.S. strikes three Iranian oil tankers near Kharg Island, CENTCOM says - Investing.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "Live updates • U.S. says it struck 3 Iranian oil tankers after missiles fired at American ships - Haaretz"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US Strikes Iranian Oil Tankers: Military Objectives and Economic Warfare Under IHL - Diplomacy and Law"
   }
  ]
 }
