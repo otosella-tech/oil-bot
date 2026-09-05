@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "11a69ad07744e0ec",
-  "nigerialookstodoubleenergyinvestmentwithinfiveyears",
   "2ba4643219e8fcb8",
   "oilpricesriseonmiddleeastescalation",
   "f9af6a705a72e40a",
@@ -603,7 +601,9 @@
   "fc6446f1350e6b94",
   "bessentforecastacollapseinoilpricesto40aftertheendofthewarwi",
   "2831a8e563349516",
-  "howmuchoilisgoingthroughhormuzwhydatadoesntmatchusclaims"
+  "howmuchoilisgoingthroughhormuzwhydatadoesntmatchusclaims",
+  "6d02fe2f60ef98d9",
+  "ustreasurysecretarypredictscrudeoilwillreturnto4050signaling"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-05",
   "count": 7
  },
- "last_run": "2026-09-05T04:40:18.357653+03:00",
+ "last_run": "2026-09-05T04:45:18.122685+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
