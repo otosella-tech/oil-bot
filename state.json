@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "bd0fb786cfcb5e4e",
-  "usoildealsparksangerinvenezuelasaysoppositionleader",
-  "08984ac28ee8bf78",
-  "currentpriceofoilasofaug312026",
   "9733518d6cb478e3",
   "cantrumpstopthesurgeinoilpricesexpertsweighinabcnews",
   "a1fe0130eaede02a",
@@ -603,7 +599,11 @@
   "9f05d6bc10640e16",
   "newscentcomdestroys3irgcoiltankersafterirantargets2usnavywar",
   "1dc54e6545a84ea8",
-  "mappedamericasoilimportsbycountry"
+  "mappedamericasoilimportsbycountry",
+  "ceddeff7a30785c7",
+  "usmilitarysaysthreeiraniantankersstruckingulf",
+  "0de57090ce3ce2e3",
+  "usmilitarysaysitdestroyed3iranianoiltankers"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 45
+  "count": 47
  },
- "last_run": "2026-09-05T17:10:17.578328+03:00",
+ "last_run": "2026-09-05T17:15:51.479146+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2092,6 +2092,14 @@
   {
    "d": "2026-09-05",
    "t": "News - CENTCOM Destroys 3 IRGC Oil Tankers After Iran Targets 2 U.S. Navy Warships - DVIDS"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US military says three Iranian tankers struck in Gulf - cnn.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US military says it destroyed 3 Iranian oil tankers - Inquirer.net"
   }
  ]
 }
