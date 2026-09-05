@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "84a44f9585e96022",
-  "crudeoilinterestratesiranwarhow3riskscanshakeindianstockmark",
-  "5a25f952930ad23c",
-  "rupeesinflowlinkedrbibackedoptimismfacesoiltest",
-  "186d7892a7870253",
-  "argentineleadersaysoilfirmsworkingofffalklandsfacesanctions",
   "95dc099f6c669ad7",
   "marketscantignorethewaranymore",
   "1015b9235c38ef7c",
@@ -603,7 +597,13 @@
   "7d94f36b1fc4bda9",
   "enbridgebuyingsaltcreekcrudegatheringassets",
   "fe355d7faccbdb64",
-  "rrcnamesnewdirectorofoilandgasdivision"
+  "rrcnamesnewdirectorofoilandgasdivision",
+  "e16fbed6da25dc0e",
+  "theunitedstatesstruckthreeiraniancrudeoiltankers",
+  "3a79d5693fc2ee29",
+  "usforcesstrike3iranianoilshipsundernewlyauthorizedtankerfort",
+  "19cb715d349f8d48",
+  "chineseenergygiantstapbrazilforimportsoilfieldexploration"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T18:30:21.078646+03:00",
+ "last_run": "2026-09-05T18:35:15.698725+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2208,6 +2208,14 @@
   {
    "d": "2026-09-05",
    "t": "U.S. Destroys 3 Iranian Oil Tankers Under New Retaliatory Policy - Forbes"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "The United States struck three Iranian crude oil tankers - Українські Національні Новини (УНН)"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "U.S. Forces Strike 3 Iranian Oil Ships Under Newly Authorized 'Tanker For Tanker' Policy - Forbes"
   }
  ]
 }
