@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "a2b77d155151c2c9",
-  "brentnears96asiranconflictkeepsoilmarketonedge",
   "2a43ada8040e796a",
   "crudeoilsteadiesashormuzeasessupplyfears",
   "b5dbb4ebf31c58bd",
@@ -603,7 +601,9 @@
   "415823f9a0b87103",
   "usforcesstrike3iranianoiltankersnearkhargislandafterunprovok",
   "64a5205e2b8184c2",
-  "usstrikes3iranianoiltankersafternavywarshipsevadedmissilesce"
+  "usstrikes3iranianoiltankersafternavywarshipsevadedmissilesce",
+  "7979d07df3f338b9",
+  "centcomannouncesstrikesonthreeiranianoiltankers"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T19:25:15.439729+03:00",
+ "last_run": "2026-09-05T19:30:21.573079+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2252,6 +2252,10 @@
   {
    "d": "2026-09-05",
    "t": "US strikes 3 Iranian oil tankers after Navy warships evaded missiles, CENTCOM says - stripes.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "CENTCOM announces strikes on three Iranian oil tankers - Politico"
   }
  ]
 }
