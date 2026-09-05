@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "3a327afa183e73d6",
-  "predictionmarketkalshitofileforuscrudeoilperpssourcesays",
-  "47651addb7779518",
-  "explainervenezuelasheavycrudecouldbeswappedforamericanoiltof",
   "67ca207d4683802c",
   "exxonsdividendlookssafetodaybutwhatifoilpricestumble",
   "f637587385ccd48e",
@@ -603,7 +599,11 @@
   "c4cfecee39dd5c60",
   "apidatauscrudeoilinventoriesdropsprdrawscontinueoilmarketupd",
   "77bb206b4c444c58",
-  "tristategaspricestop4agallonforlabordaytravelwithnychighesta"
+  "tristategaspricestop4agallonforlabordaytravelwithnychighesta",
+  "9271421a2c447fde",
+  "130oilbeforeyearendtheyearofhardassetsmaybesavingitsbiggestm",
+  "d2ebf70c0476d0e7",
+  "ustreasurysecretaryscottbessentseescrudeoilaslowas40postiran"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-09-05T09:15:18.411843+03:00",
+ "last_run": "2026-09-05T09:20:19.196502+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2036,6 +2036,10 @@
   {
    "d": "2026-09-05",
    "t": "Claims And Facts About Venezuela Oil Deal - It Won’t Save The SPR - Forbes"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US Treasury Secretary Scott Bessent sees crude oil as low as $40 post-Iran war, lower bond yields - The Economic Times"
   }
  ]
 }
