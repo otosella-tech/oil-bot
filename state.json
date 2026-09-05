@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "a728e22e7f32c920",
-  "commentarybondblowbacktrumpsoilgrabandbroadcombluesthefinanc",
   "60be93f806e69ae9",
   "stocksstabilizeascrudeoilpricesandbondyieldsease",
   "87b0de6e94ff8182",
@@ -603,7 +601,9 @@
   "724577d2a8aba442",
   "iranwarforcesarewriteofglobaloiltraderoutes",
   "66e668068205a37e",
-  "labordaytravelcostssurgeasgasairfarepricesclimb"
+  "labordaytravelcostssurgeasgasairfarepricesclimb",
+  "12143da4f25bdc8d",
+  "usiranianforcesfireatvesselsinwatersneariran"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 7
+  "count": 8
  },
- "last_run": "2026-09-06T02:10:18.101356+03:00",
+ "last_run": "2026-09-06T02:15:16.753997+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
