@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "25fbf54d1f472fe4",
-  "octoberwticrudeoilcontractclosesup029or03settlesat9130perbar",
   "7cda2a397fba2e2d",
   "usshaleproducersmustfaceoilpricefixingclaimsjudgerules",
   "e7096b4c7dcb6ef2",
@@ -603,7 +601,9 @@
   "98bfd5b12efc80ae",
   "yoursaturdaysept5guidefivethingstodointheoilcity",
   "13e0dd9b3eb04223",
-  "highcrudeoilpricespushupnationalaverage"
+  "highcrudeoilpricespushupnationalaverage",
+  "40bb38f69155ae83",
+  "exclusivegraniteridgeresourcesatenercomdenvertheenergyinvest"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-05",
   "count": 9
  },
- "last_run": "2026-09-05T06:20:16.751213+03:00",
+ "last_run": "2026-09-05T06:25:14.994799+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
