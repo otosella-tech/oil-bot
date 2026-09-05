@@ -606,16 +606,16 @@
   "fedsseektostreamlinearcticoilpermittingendingenvironmentstud"
  ],
  "releases_done": {},
- "last_digest": "2026-09-04",
+ "last_digest": "2026-09-05",
  "digest_prices": {
-  "WTI": 91.68,
-  "Brent": 95.61
+  "WTI": 91.48,
+  "Brent": 96.28
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 9
+  "count": 15
  },
- "last_run": "2026-09-05T07:55:13.975153+03:00",
+ "last_run": "2026-09-05T08:00:24.735183+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
