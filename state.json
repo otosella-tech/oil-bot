@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "a9a1658c4f779b5d",
-  "wticrudeoilfuturesholdnear86asmiddleeasttensionspersist",
-  "84bdb275cda4f454",
-  "crudeoilfuturesriseasvancedeclinestogivetimelinetoendusiranc",
   "1ea06aca188249de",
   "usdieselpricessetnewhigh",
   "91a6c0d51168ab89",
@@ -603,7 +599,11 @@
   "0260e82f7ae34753",
   "currentpriceofoilasofaugust242026",
   "291938614ff4a8ba",
-  "usstrikesiranianoiltankersmilitaryobjectivesandeconomicwarfa"
+  "usstrikesiranianoiltankersmilitaryobjectivesandeconomicwarfa",
+  "3e185ee9cee1ebb9",
+  "usforcesdestroy3iranianoiltankersnearkhargislandgulfofomanaf",
+  "c29240915d8badab",
+  "usstrikes3iraniantankersinretaliationforirgcattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T20:30:20.991907+03:00",
+ "last_run": "2026-09-05T20:35:14.318756+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2296,6 +2296,14 @@
   {
    "d": "2026-09-05",
    "t": "US Strikes Iranian Oil Tankers: Military Objectives and Economic Warfare Under IHL - Diplomacy and Law"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US forces destroy 3 Iranian oil tankers near Kharg Island, Gulf of Oman after 'unprovoked' attacks - New York Post"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US Strikes 3 Iranian Tankers in Retaliation for IRGC Attacks - Bloomberg.com"
   }
  ]
 }
