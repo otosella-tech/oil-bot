@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "579f9c95b7803aaa",
-  "mileivowstoughersanctionsdefensepushoverfalklandsoildrilling",
-  "513de4e3e9b80eb3",
-  "usenergysecretarysays17millionbarrelsofoiltransitedstraitofh",
   "a3509d0aa2fb54e1",
   "gunsoilandalliances",
   "abc4d7eea3375543",
@@ -603,7 +599,11 @@
   "046091e27330441e",
   "proudoftheiroilvenezuelansviewmajorusstakeintheirreservesasa",
   "953f919a0ce4a1a6",
-  "usstrikes3iranianoiltankersvowstodestroyentirefleet"
+  "usstrikes3iranianoiltankersvowstodestroyentirefleet",
+  "56a02aa88dafa586",
+  "rrcnamesnewdirectorofoilandgasdivisionmidlandreporter",
+  "e143513be18c41e5",
+  "centcomsaysitstruckthreeiranianoiltankersafterirgctargetedtw"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T18:10:17.831505+03:00",
+ "last_run": "2026-09-05T18:15:18.166237+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2200,6 +2200,10 @@
   {
    "d": "2026-09-05",
    "t": "U.S. strikes 3 Iranian oil tankers, vows to ‘destroy’ entire fleet - MS NOW"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "CENTCOM says it struck three Iranian oil tankers after IRGC targeted two US warships - Al Arabiya English"
   }
  ]
 }
