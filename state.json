@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "657e5e0af5da40cf",
-  "crudeoilfuturesdeclinenearly1tors8565barrelbrentslipsbelowus",
-  "6e4c8b64a541c44e",
-  "dozensdieinnigeriaoiltheftattemptafterinhalingtoxicfumes",
   "f0996e854d8f969e",
   "argentinasmileistepsupfalklandssovereigntyclaimswithoilsanct",
   "71e07fae967a99d0",
@@ -603,7 +599,11 @@
   "20242a933797772f",
   "iransaysitattackedtankersuslinkedvesselsinhormuzescalation",
   "39efdf3e01e063fc",
-  "nigeriafishingcommunitiesdemandcleanupaftercrudeloadingspill"
+  "nigeriafishingcommunitiesdemandcleanupaftercrudeloadingspill",
+  "4f38c60a4db45975",
+  "usstrikesthreeiranianoiltankersashormuzbecomesthefocusoftheo",
+  "7a75cc7ebca387ce",
+  "canbricsbreaktheoilembargoagainstcuba"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-09-06T00:50:18.692417+03:00",
+ "last_run": "2026-09-06T00:55:12.837547+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1764,6 +1764,14 @@
   {
    "d": "2026-09-06",
    "t": "Iran says it attacked tankers, US-linked vessels in Hormuz escalation - Euronews.com"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "U.S. Strikes Three Iranian Oil Tankers as Hormuz Becomes the Focus of the Oil Market - finchannel"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Can BRICS Break the Oil Embargo Against Cuba? - Orinoco Tribune"
   }
  ]
 }
