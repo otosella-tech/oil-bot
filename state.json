@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "7959c5f08265e021",
-  "groupsays37killedfromfumeswhiletryingtotapnigerianoilpipelin",
-  "9f9b05bf39ab0131",
-  "alejandrobetancourttrumpspartnerinvenezuelanoildealhasfacedi",
   "89175165254899b9",
   "40oiltankersloadedwith18millionbarrelsofoilforasiacrosshormu",
   "8fab898d57bc98fe",
@@ -603,7 +599,11 @@
   "c661adfbe8d2a574",
   "irancondemnsusstrikesonoiltankersasillegalaggressive",
   "37ba0ce80045afa4",
-  "usforcesstruckthreeiranianoiltankers"
+  "usforcesstruckthreeiranianoiltankers",
+  "eb46946c7f2b9c96",
+  "centcomdestroys3irgcoiltankersafterirantargets2usnavywarship",
+  "4cebfed1ff61b577",
+  "theusmilitarysaysithasstruckthreeiranianoiltankerslinkedtoir"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T21:35:16.079221+03:00",
+ "last_run": "2026-09-05T21:40:18.581312+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2356,6 +2356,14 @@
   {
    "d": "2026-09-05",
    "t": "U.S. forces struck three Iranian oil tankers - kyma.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "CENTCOM Destroys 3 IRGC Oil Tankers After Iran Targets 2 U.S. Navy Warships - centcom.mil"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "The US military says it has struck three Iranian oil tankers linked to Iran's Revolutionary Guard. US Central Command (CENTCOM) released footage it says shows the attacks near Kharg Island, the Strait of Hormuz and the Gulf of Oman. According to the CENT - facebook.com"
   }
  ]
 }
