@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "87b0de6e94ff8182",
-  "crudeoilpricespostbiggestweeklygainsincejuly",
   "efde58be6a1f0b53",
   "37deadinoiltheftattemptafterinhalingtoxicfumesinnigeria",
   "5367ee9a200dba60",
@@ -603,7 +601,9 @@
   "12143da4f25bdc8d",
   "usiranianforcesfireatvesselsinwatersneariran",
   "57331a20564c285b",
-  "iraqboostsoilexportcapacityabove3mbpdtargets5mvianewroutes"
+  "iraqboostsoilexportcapacityabove3mbpdtargets5mvianewroutes",
+  "b7ba4bcd60b75985",
+  "vostokoilloadsfirstcrudeatseverbay"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 8
  },
- "last_run": "2026-09-06T02:50:19.495579+03:00",
+ "last_run": "2026-09-06T02:55:13.850389+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
