@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "f1749760ed88b036",
-  "whitehouseannouncespresidentsvenezuelanoilinvestmentdeal",
-  "d21c9cf2f685a4ba",
-  "oilpriceshitfresh6weekhighsonrenewedmiddleeasttensions",
   "e405bb5caad623a4",
   "chinaleadingoilsuctionanddischargehosesuppliershowcasesinnov",
   "637db91e3d790fe8",
@@ -603,7 +599,11 @@
   "193bfa9c9d3cfba9",
   "iranushits3irgclinkedoiltankers",
   "ae431cb8789a1faf",
-  "wticrudeoilfuturesjumpto9060onmiddleeasttension"
+  "wticrudeoilfuturesjumpto9060onmiddleeasttension",
+  "7335af6057fac622",
+  "sprcrudeoilacquisitionprocedures",
+  "6135fd266e4fa95e",
+  "usmilitarydestroysthreeiranianoiltankersaftermissilesfiredat"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T22:45:17.287387+03:00",
+ "last_run": "2026-09-05T22:50:19.071522+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2384,6 +2384,10 @@
   {
    "d": "2026-09-05",
    "t": "Iran: US hits 3 IRGC-linked oil tankers - DW.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US Military Destroys Three Iranian Oil Tankers After Missiles Fired at Navy Warships - Northeast Times"
   }
  ]
 }
