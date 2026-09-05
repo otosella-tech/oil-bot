@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "6cb4425fb1ae9799",
-  "thecomingverdictontrumpsstraitofhormuzstrategy",
   "ae431cb8789a1faf",
   "wticrudeoilfuturesjumpto9060onmiddleeasttension",
   "b6b07e09c438a746",
@@ -603,7 +601,9 @@
   "7b0eb47b82984a6d",
   "americaisbettingbigonanewgenerationofsmallnuclearreactors",
   "87382e201491ead1",
-  "usstrikes3iranianoiltankersafterirgcballisticmissileattackon"
+  "usstrikes3iranianoiltankersafterirgcballisticmissileattackon",
+  "b2ab45231a1a349e",
+  "usforcesdestroy3iranianoiltankersnearkhargislandandgulfofoma"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T22:05:13.603804+03:00",
+ "last_run": "2026-09-05T22:10:17.810671+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2368,6 +2368,10 @@
   {
    "d": "2026-09-05",
    "t": "US Strikes 3 Iranian Oil Tankers After IRGC Ballistic Missile Attack on U.S. Navy Warships: how 23 outlets framed it - NewsCord"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US forces destroy 3 Iranian oil tankers near Kharg Island and Gulf of Oman: ‘You have 3 minutes’ - New York Post"
   }
  ]
 }
