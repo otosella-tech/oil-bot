@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "7e5fe91d59cbdf9d",
-  "iraqhikesoilexportsviahormuzinboonforasianrefiners",
-  "ab8d24ab1fddbba7",
-  "eurusdforecasttrumplosesgriponmarketsamidreescalationoftensi",
   "b814d73e02726a4f",
   "1bigthingalaskaseeksoilrevivalwithawarmingfuture",
   "8629020de5cebb20",
@@ -603,7 +599,11 @@
   "b1f99abd82f2a6a1",
   "worksonugandascrudeoilrefineryfacilityover99percentcompletea",
   "efe760b9b925bf05",
-  "liveiranthreatensharsherstrikesonuswarshipsashegsethvowstosi"
+  "liveiranthreatensharsherstrikesonuswarshipsashegsethvowstosi",
+  "6dbd6a70fd6709b0",
+  "usfightersanddronesstrike3iranianoiltankersinretaliationfors",
+  "a5c69e783d3d2bca",
+  "usstrikes3iranianoiltankersaftermissilesfiredatnavyships"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T23:45:17.650936+03:00",
+ "last_run": "2026-09-05T23:50:20.137425+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2392,6 +2392,14 @@
   {
    "d": "2026-09-05",
    "t": "Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tankers - Iran International"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US Fighters and Drones Strike 3 Iranian Oil Tankers in Retaliation for Ship Attacks - airandspaceforces.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US strikes 3 Iranian oil tankers after missiles fired at Navy ships - LiveNOW from FOX"
   }
  ]
 }
