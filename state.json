@@ -4,14 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "5522120da75a62fc",
-  "jdvancepointsoutthatthetrumpadministrationisusingvenezuelasc",
-  "1dc79e5605ed5707",
-  "indiacentralbankintervenestoprotectrupeefromoilstraintraders",
-  "916121b11566ca85",
-  "theembarrassingrealitybehindputins95oilexcuse",
-  "9d64203764c1ce90",
-  "932026oilsurgesonirantensionsyieldsswingtechholdsup",
   "7ebed93123ec36ea",
   "expertspokeholesinlandmarkvenezuelaoildealhailedbytrump",
   "4dac15efba773bed",
@@ -603,7 +595,15 @@
   "3311c96e84e13a47",
   "ustankerattacksneariransshoreswidenfromjasktoitsoilheartland",
   "2e2b89479a84a245",
-  "usstrikes3iranianoiltankersafterirantargetsnavywarshipsmilit"
+  "usstrikes3iranianoiltankersafterirantargetsnavywarshipsmilit",
+  "2f4c68870d4f5e4f",
+  "breakingnewstheussaiditstruckthreeiranianoiltankersinretalia",
+  "0cc4cc8a9cb54e5a",
+  "usstrikes3iranianoiltankersinretaliationfortargetingwarships",
+  "ef7961b9be694f68",
+  "usstrikesthreeiranianoiltankerscentralcommandsays",
+  "ae51b642bdc141ab",
+  "currentpriceofoilasofaugust272026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T18:55:13.934276+03:00",
+ "last_run": "2026-09-05T19:00:28.639555+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2228,6 +2228,18 @@
   {
    "d": "2026-09-05",
    "t": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says - NBC News"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "Breaking News: The U.S. said it struck three Iranian oil tankers in retaliation for what it said were unprovoked attempts by Iran to attack two U.S. warships. The strikes came days after the two sides exchanged some of their most intense fire in weeks. - facebook.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US strikes 3 Iranian oil tankers in retaliation for targeting warships - KVIA"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US strikes three Iranian oil tankers, Central Command says - Lee News Central"
   }
  ]
 }
