@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "f33f79cdef7e6491",
-  "renogaspricesreach518aslabordayweekendapproaches",
-  "5900d13881a7e2e1",
-  "privateequitysbigoilopportunityinvenezuela",
-  "21158d409db50d04",
-  "chevronpledgestodoubleitsvenezuelanoilproduction",
   "0e9a81c6229c1377",
   "trumpmeetsoilchiefsasrefineriesmaxoutgaspricesrefusetobudge",
   "886fa6c94c7c8f92",
@@ -603,7 +597,13 @@
   "df2522e508615df1",
   "usstrikesthreeiraniancrudeoiltankersdestroyingone",
   "6e86731431efc554",
-  "whyoilmajorsdontwanttobuildnewusrefineries"
+  "whyoilmajorsdontwanttobuildnewusrefineries",
+  "8a13ba99a891ac97",
+  "uslaunchesretaliatorystrikeson3iranianoilcarriersinresponset",
+  "a7d9e257e213acd7",
+  "currentpriceofoilasofsept12026",
+  "ff48eff5f62eaa87",
+  "iranianmediasaysusstrikesoiltankeratkeyexporthubkhargisland"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-05",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-09-05T17:30:21.343720+03:00",
+ "last_run": "2026-09-05T17:35:14.811790+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2136,6 +2136,14 @@
   {
    "d": "2026-09-05",
    "t": "US Strikes Three Iranian Crude Oil Tankers, Destroying One - Benzinga"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US launches retaliatory strikes on 3 Iranian oil carriers in response to attacks against Navy warships - The Hill"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "Iranian media says US strikes oil tanker at key export hub Kharg Island - The Times of Israel"
   }
  ]
 }
