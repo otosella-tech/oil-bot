@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "6e7c316ae7276280",
-  "argentinasmileiescalatesfalklandsdisputeseizingontrumpcommen",
-  "6000aba969ac6314",
-  "argentinatosanctionoilfirmsasfalklandsdisputewithukheatsup",
   "1542d6d2ebc2a176",
   "naturalgasandoilforecast",
   "224460299a1301b6",
@@ -603,7 +599,11 @@
   "ee773962acc9604e",
   "venezuelansskepticalofusoildealreshapingtheirfuture",
   "f9703a2e687ed2d0",
-  "ussaysithit3iranianoiltankersincludingonenearkhargisland"
+  "ussaysithit3iranianoiltankersincludingonenearkhargisland",
+  "2a6e8f4faad8aba5",
+  "ugandanamesitscrudeoilblendpearlsweetaheadofcommercialproduc",
+  "154b752e8907286d",
+  "usmilitarysaysitdestroyed3iranianoiltankersafterirgctargeted"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T19:50:18.171161+03:00",
+ "last_run": "2026-09-05T19:55:16.172289+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2264,6 +2264,10 @@
   {
    "d": "2026-09-05",
    "t": "U.S. says it hit 3 Iranian oil tankers, including one near Kharg Island - washingtonpost.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US military says it destroyed 3 Iranian oil tankers after IRGC targeted its warships - The Times of Israel"
   }
  ]
 }
