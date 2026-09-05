@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "edc7365f0af415cb",
-  "theuswantstopumpmorevenezuelanoilhereswhattoknow",
   "11a69ad07744e0ec",
   "nigerialookstodoubleenergyinvestmentwithinfiveyears",
   "2ba4643219e8fcb8",
@@ -603,7 +601,9 @@
   "ec7371cf82328f78",
   "venezuelaoilproductioncouldreach2mmbpdasinvestmentaccelerate",
   "fc6446f1350e6b94",
-  "bessentforecastacollapseinoilpricesto40aftertheendofthewarwi"
+  "bessentforecastacollapseinoilpricesto40aftertheendofthewarwi",
+  "2831a8e563349516",
+  "howmuchoilisgoingthroughhormuzwhydatadoesntmatchusclaims"
  ],
  "releases_done": {
   "2026-09-04|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-05",
   "count": 7
  },
- "last_run": "2026-09-05T04:25:14.805965+03:00",
+ "last_run": "2026-09-05T04:30:22.285235+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
