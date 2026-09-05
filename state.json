@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "56a86ae520dd4d3c",
-  "currentpriceofoilasofaugust262026",
   "e6be742e379daeea",
   "usdieselpricessurgetowardalltimehigh",
   "5dc6dfa7152e4b43",
@@ -603,7 +601,9 @@
   "04e433095157bd60",
   "crudeawakeningthewhitehousesoilnumbersdontaddup",
   "6a04fd8bc5cedd6d",
-  "americanshitwithrecordhighlabordayweekendgasolineprices"
+  "americanshitwithrecordhighlabordayweekendgasolineprices",
+  "d218d9252452615b",
+  "cpctoleavedomesticgasolinedieselpricesunchangednextweek"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 30
  },
- "last_run": "2026-09-05T15:00:28.814539+03:00",
+ "last_run": "2026-09-05T15:05:17.837491+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
