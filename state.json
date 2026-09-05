@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "eedc3b900398e79c",
-  "adnockeepsloadinglngashormuzrisksintensify",
-  "2479df8d9248d298",
-  "russiassechinsayschinanotopeccallsshotsonglobalenergymarkets",
   "c6c22ae77be6eed7",
   "cantrumpstopthesurgeinoilpricesexpertsweighin",
   "25306f984403539c",
@@ -603,7 +599,11 @@
   "ff031ee5d6e48b37",
   "usmilitarystrikesthreeiraniantankersinretaliationformissilea",
   "375c943d85a2c101",
-  "usmilitaryblasts3iranianoiltankersafternavywarshipsattackedw"
+  "usmilitaryblasts3iranianoiltankersafternavywarshipsattackedw",
+  "303e88f672a9a351",
+  "ushitsthreeiranianoiltankersaftersayingitswarshipsweretarget",
+  "a8a9318bfaaef79d",
+  "usmilitarysaysitstruck3iranianoiltankersaftermissileattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T20:00:26.688659+03:00",
+ "last_run": "2026-09-05T20:05:15.509595+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
@@ -2276,6 +2276,14 @@
   {
    "d": "2026-09-05",
    "t": "US military blasts 3 Iranian oil tankers after Navy warships attacked with ballistic missiles - CBS17.com"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US hits three Iranian oil tankers after saying its warships were targeted - BBC"
+  },
+  {
+   "d": "2026-09-05",
+   "t": "US military says it struck 3 Iranian oil tankers after missile attacks - France 24"
   }
  ]
 }
