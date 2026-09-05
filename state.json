@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "b814d73e02726a4f",
-  "1bigthingalaskaseeksoilrevivalwithawarmingfuture",
   "8629020de5cebb20",
   "currentpriceofoilasofsept22026",
   "5a9971dd4b22a094",
@@ -603,7 +601,9 @@
   "6dbd6a70fd6709b0",
   "usfightersanddronesstrike3iranianoiltankersinretaliationfors",
   "a5c69e783d3d2bca",
-  "usstrikes3iranianoiltankersaftermissilesfiredatnavyships"
+  "usstrikes3iranianoiltankersaftermissilesfiredatnavyships",
+  "55d1291a3b3df4a3",
+  "howcubansarenavigatingtheusoilblockadewithrechargeablefansan"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-05",
   "count": 60
  },
- "last_run": "2026-09-05T23:50:20.137425+03:00",
+ "last_run": "2026-09-05T23:55:14.841715+03:00",
  "sent_stories": [
   {
    "d": "2026-09-02",
