@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "6c75fb2669fb6705",
-  "crudeoilnears97abarreldieselathighestsince2022",
-  "f8851167656910e7",
-  "factcheckwhenwilltrumpdealwithvenezuelalowergaspricesintheus",
   "d0e6e00b926017ca",
   "opinionourcrystalballandtrumpsoildeal",
   "0003be19d4109e05",
@@ -603,7 +599,11 @@
   "2b4834cc66ba68a7",
   "willwecontrolaiorwillaicontrolus",
   "be3d52f713ca8d9d",
-  "blmmovestofast"
+  "blmmovestofast",
+  "848cbab8c22063eb",
+  "energysecretarychriswrighttellscnbcmorethan17millionbarrelso",
+  "56a354022c897d95",
+  "formertrumpeconomicadviseriransoilexportshavefallentozeroher"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T19:20:20.614299+03:00",
+ "last_run": "2026-09-06T19:25:14.865954+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1900,6 +1900,10 @@
   {
    "d": "2026-09-06",
    "t": "US Energy Secretary says Hormuz oil flows averaging over 9 million bpd - iranintl.com"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday - CNBC"
   }
  ]
 }
