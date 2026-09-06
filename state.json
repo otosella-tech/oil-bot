@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "98bfd5b12efc80ae",
-  "yoursaturdaysept5guidefivethingstodointheoilcity",
   "13e0dd9b3eb04223",
   "highcrudeoilpricespushupnationalaverage",
   "40bb38f69155ae83",
@@ -603,7 +601,9 @@
   "d0fa6f940c14b90f",
   "crudeoilpricespushhigheraheadofholidayweekend",
   "a5246bad00dc1a3c",
-  "trumphighlightsfallingiranoilexportsreboundinhormuzflows"
+  "trumphighlightsfallingiranoilexportsreboundinhormuzflows",
+  "72fcb4ae60e994cf",
+  "currentpriceofoilasofaugust202026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T22:55:14.026493+03:00",
+ "last_run": "2026-09-06T23:00:26.034952+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
