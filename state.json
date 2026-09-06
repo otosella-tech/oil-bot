@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "2ae0d6ef16946824",
-  "wticrudeoilpriceanalysisforseptember42026",
   "bd2b826a1d81cae8",
   "britainfacesanorthseacrossroadsasjackdawandrosebankawaitappr",
   "6a4cbbb1b1f455d1",
@@ -603,7 +601,9 @@
   "2347b769fc5c1177",
   "usgriponvenezuelanoilthreatensbillionsowedtochina",
   "76d9dcf754e81594",
-  "crudeoilrallynears100willgeopoliticalriskspushpriceshigher"
+  "crudeoilrallynears100willgeopoliticalriskspushpriceshigher",
+  "44d10712b501c342",
+  "usstrikesthreeiraniantankersinretaliationforattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-09-06T08:45:17.740920+03:00",
+ "last_run": "2026-09-06T08:50:16.761954+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1784,6 +1784,10 @@
   {
    "d": "2026-09-06",
    "t": "US and Iran trade retaliatory attacks on ships as conflict flares - BBC"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "US Strikes Three Iranian Tankers in Retaliation for Attacks - Energy Connects"
   }
  ]
 }
