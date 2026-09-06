@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "b0f7a963dc4d8acd",
-  "blmmovestofasttrackoilpermitsinalaskapetroleumreserve",
-  "439a9d86713bad78",
-  "crudeoilpostsstrongestweeklygainsincejuly",
-  "4288b550bbe46329",
-  "bilateralhostilitiesraiseoilprices",
   "f901dfce87fd9b80",
   "360energypulsewhatmatteredthisweekinenergy",
   "6db6c14072c585a9",
@@ -603,7 +597,13 @@
   "6c75fb2669fb6705",
   "crudeoilnears97abarreldieselathighestsince2022",
   "be338448f38e139c",
-  "irantoutsmilitaryresponseasusmaintainsblockadehitstankers"
+  "irantoutsmilitaryresponseasusmaintainsblockadehitstankers",
+  "0003be19d4109e05",
+  "howtheusfellbehindchinaonnuclearpower",
+  "e1eedf82f9cdb0a9",
+  "opecplusholdsoilproductionsteadyasusiranstrikesresume",
+  "dc49ee669bc1e6a6",
+  "recordhighgaspricesforrhodeislanddriversthislabordayweekend"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T19:35:15.477810+03:00",
+ "last_run": "2026-09-06T19:40:19.826760+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1908,6 +1908,10 @@
   {
    "d": "2026-09-06",
    "t": "Iran touts military response as US maintains blockade, hits tankers - Al Jazeera"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume - The New York Times"
   }
  ]
 }
