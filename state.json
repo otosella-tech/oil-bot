@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "24757c5b26d4ded9",
-  "wtitests91assupplyriskssupportcrudeoilrally",
   "f1a1268bc09afc7a",
   "trifuel114000dwtproductandcrudeoiltankergetsnodduringsmm",
   "696cec23e9e170eb",
@@ -603,7 +601,9 @@
   "b082b6a99841024f",
   "usstrikesiransshadowfleetindangerouswarescalation",
   "b060a56d555bed69",
-  "usandirantraderetaliatoryattacksonshipsasconflictflares"
+  "usandirantraderetaliatoryattacksonshipsasconflictflares",
+  "da14a4fda8e13062",
+  "thecomingverdictontrumpsstraitofhormuzclaims"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 19
+  "count": 20
  },
- "last_run": "2026-09-06T07:30:22.614923+03:00",
+ "last_run": "2026-09-06T07:35:13.092476+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
