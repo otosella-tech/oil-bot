@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "43f14cc1dd70ce37",
-  "wtibackabove91aswarpremiumreturns",
   "bd333aedfdd5ca06",
   "europegaspricesheadforfourthstraightweeklygain",
   "2b14972f66d14fc1",
@@ -603,7 +601,9 @@
   "0ab96a21d8da07f9",
   "thenorwegiangasplantthatcouldsafeguardeuropefromtrump",
   "8fab898d57bc98fe",
-  "currentpriceofoilasofaugust252026"
+  "currentpriceofoilasofaugust252026",
+  "72ba0c72fa8e7627",
+  "howmuchoilisreallygettingthroughthestraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 11
+  "count": 12
  },
- "last_run": "2026-09-06T04:45:17.771079+03:00",
+ "last_run": "2026-09-06T04:50:19.797347+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
