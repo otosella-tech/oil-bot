@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "8b12ed0f15627144",
-  "theoilmarketshurricanepremiumthatnevershowedup",
   "de0274bb8aba419e",
   "timeisnolongeroniranssideinthebattleoftheblockades",
   "98bfd5b12efc80ae",
@@ -603,7 +601,9 @@
   "c4813e524aa2bb62",
   "5stocksiwantifoilhits100",
   "0b24416fa456aa62",
-  "trumpadministrationfocusesonboostingoiloutputwrightsaysbyinv"
+  "trumpadministrationfocusesonboostingoiloutputwrightsaysbyinv",
+  "d0fa6f940c14b90f",
+  "crudeoilpricespushhigheraheadofholidayweekend"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T22:20:17.555501+03:00",
+ "last_run": "2026-09-06T22:25:15.010605+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
