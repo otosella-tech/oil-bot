@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "6c03318de70f3ef9",
-  "whyisfuelexpensivewhencrudeoilhasnthitrecordhighs",
   "c4cfecee39dd5c60",
   "apidatauscrudeoilinventoriesdropsprdrawscontinueoilmarketupd",
   "77bb206b4c444c58",
@@ -603,7 +601,9 @@
   "f0139f22445dbae6",
   "wrightushasalotofleverageinvenezuelaafteroildealreached",
   "13e0dd9b3eb04223",
-  "highcrudeoilpricespushupnationalaverage"
+  "highcrudeoilpricespushupnationalaverage",
+  "8bd8c646db90ae80",
+  "fedsseektostreamlinearcticoilpermittingendingenvironmentstud"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T23:10:18.616893+03:00",
+ "last_run": "2026-09-06T23:15:19.077355+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
