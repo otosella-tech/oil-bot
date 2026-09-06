@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "4cafbc8ad64e1416",
-  "polishoilandgascongress",
-  "db6ac753c6ea3e69",
-  "crudeoiltechnicalanalysiscrudeoilfuturesareupstronglythiswee",
   "bbe17465a7d456d2",
   "chinarareearthfirmsfreezeusexportsweeksbeforexi",
   "3dcb7f75f0b92b48",
@@ -603,7 +599,11 @@
   "84fdaca4a6533914",
   "iraqsayscrudeoilexportcapacityexceeds3millionbarrelsperday",
   "fb55e2bad7b29683",
-  "gpcpostsrecord12oildiscoveriesinfy202526planshorizontaldrill"
+  "gpcpostsrecord12oildiscoveriesinfy202526planshorizontaldrill",
+  "4383498980973c59",
+  "rulesofthegamehavechangedghalibafwarnsus",
+  "dc8c6dd689d72f35",
+  "theuswantstheoilfromthese17venezuelanfields"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-09-06T13:20:17.353854+03:00",
+ "last_run": "2026-09-06T13:25:15.041418+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1812,6 +1812,14 @@
   {
    "d": "2026-09-06",
    "t": "Iran’s Attacks Keep the Strait of Hormuz in a Lethal Stalemate - The New York Times"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "‘Rules of the game have changed,’ Ghalibaf warns US - Iran International"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "The U.S. Wants the Oil From These 17 Venezuelan Fields - The New York Times"
   }
  ]
 }
