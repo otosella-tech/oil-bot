@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "1c641256733245ff",
-  "currentpriceofoilasofseptember32026",
   "2ddddc7c34c5c462",
   "crudeexportsdidnotstopevenforonehourunderbombardmentiranoilm",
   "573e44856e366265",
@@ -603,7 +601,9 @@
   "5e951f78ef0360d0",
   "after6monthsofwarwhyarentoilpricesevenhigher",
   "bf4523afb95f8faf",
-  "ryazanoilrefineryandrostovtargetedindronewave"
+  "ryazanoilrefineryandrostovtargetedindronewave",
+  "b704bc4d7efdac0b",
+  "ukpetrolpriceshithighestlevelsinceiranwarbegan"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-09-06T10:00:27.653096+03:00",
+ "last_run": "2026-09-06T10:05:14.530288+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1788,6 +1788,10 @@
   {
    "d": "2026-09-06",
    "t": "US Strikes Three Iranian Tankers in Retaliation for Attacks - Energy Connects"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "UK petrol prices hit highest level since Iran war began - BBC"
   }
  ]
 }
