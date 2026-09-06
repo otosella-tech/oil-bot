@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "281775eed411a7c4",
-  "recorddieselpricespushbrenttoward95",
-  "b9ff91f6ac0e4df3",
-  "icecanolafeelingpressurefromcrudeoilsoycomplex",
   "36428c912fa4e333",
   "usirantradestrikesinstraitofhormuzasbothbattleonsocialmedia",
   "0c32ffbdd892fcc9",
@@ -603,7 +599,11 @@
   "08512898f5620f75",
   "usiranengagedintankerwarwhereisthemonthslongconflictheaded",
   "97bd2b500fa37e5f",
-  "usmilitarystrikesthreeiranianoiltankersinthegulfofoman"
+  "usmilitarystrikesthreeiranianoiltankersinthegulfofoman",
+  "b711d253704b8e40",
+  "rosneftceochinacallstheshotsinoilmarketsnotopec",
+  "72c81766fb2ad8e1",
+  "iranwarnsofmorepainfulresponsetousattacksaseconomicpressurem"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-09-06T15:05:14.995048+03:00",
+ "last_run": "2026-09-06T15:10:53.908458+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1836,6 +1836,14 @@
   {
    "d": "2026-09-06",
    "t": "Opec+ keeps oil output policy unchanged for October amid Iran war uncertainty - thenationalnews.com"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Rosneft CEO: China Calls The Shots in Oil Markets, Not OPEC"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts - CNBC"
   }
  ]
 }
