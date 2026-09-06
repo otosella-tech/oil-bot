@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "0003be19d4109e05",
-  "howtheusfellbehindchinaonnuclearpower",
   "b0f7a963dc4d8acd",
   "blmmovestofasttrackoilpermitsinalaskapetroleumreserve",
   "439a9d86713bad78",
@@ -603,7 +601,9 @@
   "56a354022c897d95",
   "formertrumpeconomicadviseriransoilexportshavefallentozeroher",
   "6c75fb2669fb6705",
-  "crudeoilnears97abarreldieselathighestsince2022"
+  "crudeoilnears97abarreldieselathighestsince2022",
+  "be338448f38e139c",
+  "irantoutsmilitaryresponseasusmaintainsblockadehitstankers"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T19:30:59.984041+03:00",
+ "last_run": "2026-09-06T19:35:15.477810+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1904,6 +1904,10 @@
   {
    "d": "2026-09-06",
    "t": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday - CNBC"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Iran touts military response as US maintains blockade, hits tankers - Al Jazeera"
   }
  ]
 }
