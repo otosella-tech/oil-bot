@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "3227a16286a38fe6",
-  "venezuelaistheblueprintforwhatwashingtonwilldemandfromiran",
-  "861d66a336cb16fd",
-  "usnaturalgasdrillingrigsfallby2asoilrigsrise",
   "f058f63b0dbc6f01",
   "citadeleyesusshaleasoiltradingmovesclosertothewellhead",
   "3a23faa6966bf212",
@@ -603,7 +599,11 @@
   "aa5a3e71953bf71b",
   "iransaysittargetedoiltankersinresponsetousstrikes",
   "a0f4c8abd199a60a",
-  "israeliscientistsdevelophugespongetomopupandeatoilspills"
+  "israeliscientistsdevelophugespongetomopupandeatoilspills",
+  "aec131cd40dbdabe",
+  "usoilrigcountrisesasgasrigactivitydeclines",
+  "e752c53270e107db",
+  "iranwarnsoftougherresponseoilgoldandstockstowatchovertheholi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T16:20:17.310239+03:00",
+ "last_run": "2026-09-06T16:25:12.953818+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1864,6 +1864,10 @@
   {
    "d": "2026-09-06",
    "t": "Iran Says It Targeted Oil Tankers in Response to US Strikes - Yahoo! Finance Canada"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Iran warns of tougher response: Oil, gold and stocks to watch over the holiday weekend - investingLive"
   }
  ]
 }
