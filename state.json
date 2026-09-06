@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "a5395ea2bf6e53b8",
-  "thisoilstockflirtswithentryasprofitssurge108amidstraitofhorm",
-  "fe6191098ddd8c10",
-  "alaskaschoolssettoreceive115minwardrivenoilrevenuebonusstate",
   "c26c6c9fa96ffe91",
   "iranwarhelpstodriveusdieselpricestonewhigh",
   "687a4aecb080acb0",
@@ -603,7 +599,11 @@
   "281775eed411a7c4",
   "recorddieselpricespushbrenttoward95",
   "84ccea7ac892c9d0",
-  "venezuelasidentitytiedtooiltakesbruisingoverdealwithustheark"
+  "venezuelasidentitytiedtooiltakesbruisingoverdealwithustheark",
+  "6d809ed57ff5249d",
+  "oilsurgedthenslumpedyeartodatein2026heresmypredictionforwhat",
+  "36428c912fa4e333",
+  "usirantradestrikesinstraitofhormuzasbothbattleonsocialmedia"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 51
+  "count": 53
  },
- "last_run": "2026-09-06T15:15:18.062690+03:00",
+ "last_run": "2026-09-06T15:20:17.195158+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1844,6 +1844,10 @@
   {
    "d": "2026-09-06",
    "t": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts - CNBC"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "U.S., Iran Trade Strikes in Strait of Hormuz as Both Battle on Social Media - USNI News"
   }
  ]
 }
