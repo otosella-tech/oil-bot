@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "60b8b11c52d6ab58",
-  "higheroilpricesandtheaiboomrekindleglobalinflationfears",
   "d1a13d636efe02d9",
   "iransaysitsfoundwaystododgeusoilblockade",
   "24757c5b26d4ded9",
@@ -603,7 +601,9 @@
   "eda285d00af77ede",
   "asxonedgeasoilwarrattlesmarkets",
   "68910b64006c6729",
-  "yoursundaysept6guidewhattodointheoilcity"
+  "yoursundaysept6guidewhattodointheoilcity",
+  "b082b6a99841024f",
+  "usstrikesiransshadowfleetindangerouswarescalation"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 16
+  "count": 17
  },
- "last_run": "2026-09-06T07:00:25.623330+03:00",
+ "last_run": "2026-09-06T07:05:14.268555+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
