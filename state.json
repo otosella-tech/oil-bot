@@ -4,14 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "156e55215bb86832",
-  "glenviewsoillamptheatersecureslargerspacefornewhome",
-  "aae00a970bc7d989",
-  "louisianapoisedtocashinonvenezuelasoilcomeback",
-  "2969cea700689043",
-  "currentpriceofoilasofseptember42026",
-  "81a1bceb86ad6865",
-  "oilpricessetformorethan7weeklygainamidusirantensions",
   "4ed63af2d1ef14d6",
   "argentinaescalatesfalklandsdisputewiththeukseizingontrumpcom",
   "25ec2736098706da",
@@ -603,7 +595,15 @@
   "9611a0d847a49e6d",
   "currentpriceofoilasofseptember32026",
   "c307b7ab23bdb1f7",
-  "iranattacksnavaldronenearhormuzafterusstrikes3oiltankers"
+  "iranattacksnavaldronenearhormuzafterusstrikes3oiltankers",
+  "b363ad777314e202",
+  "oilontroubledwaters",
+  "b8e6cc47a02b0de8",
+  "iranretaliatesafterusstrikesoiltankers",
+  "980a2dddde0e00cc",
+  "usfightersdronesstrike3iranianoiltankersafteriranfiresonnavy",
+  "60ad26f12a1f4623",
+  "liveusandiranexchangefireaftermissileattackonusnavyships"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-09-06T10:15:18.537561+03:00",
+ "last_run": "2026-09-06T10:20:17.141750+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1796,6 +1796,18 @@
   {
    "d": "2026-09-06",
    "t": "Iran attacks naval drone near Hormuz after US strikes 3 oil tankers - South China Morning Post"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Iran retaliates after U.S. strikes oil tankers - The Japan Times"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "US Fighters, Drones Strike 3 Iranian Oil Tankers After Iran Fires on Navy Ships - Air & Space Forces Magazine"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "live U.S. and Iran exchange fire after missile attack on US Navy ships - AnewZ"
   }
  ]
 }
