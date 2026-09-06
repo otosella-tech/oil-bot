@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "20125815196accb8",
-  "blumenthalcallsfortaxonoilprofitsrebatesforconsumers",
-  "99d2a3a1d9f87329",
-  "californiagaspricestosetrecordatthepumpforlabordaywhatyoullp",
   "8e2428a5c62a61e9",
   "trumpsbigvenezueladealleavesusoilindustryblindsided",
   "c2a4428a949b23ab",
@@ -603,7 +599,11 @@
   "5406c44b65975ac1",
   "iranwarcausesashiftinoilandenergymarkets",
   "49e2d932796b4b7e",
-  "irgccommandersayshijabmonitoringtaskforcestoreturninnortheas"
+  "irgccommandersayshijabmonitoringtaskforcestoreturninnortheas",
+  "1add0a073a69772e",
+  "iranusescalateattacksonoiltankersaswardragson",
+  "b02d1ebf523602f2",
+  "usenergychiefsaysnomagicbehindhormuzcrossingclaims"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T17:40:19.943203+03:00",
+ "last_run": "2026-09-06T17:45:18.179546+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1884,6 +1884,14 @@
   {
    "d": "2026-09-06",
    "t": "Iran War Causes a Shift in Oil and Energy Markets - Energy News Beat"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Iran, U.S. escalate attacks on oil tankers as war drags on - World Oil"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "US energy chief says no 'magic' behind Hormuz crossing claims - thenationalnews.com"
   }
  ]
 }
