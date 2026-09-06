@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "0719a9704c63be54",
-  "forecastupdateforcrudeoil04092026",
   "40406ff939288ff8",
   "theiranwarhasputvenezuelasoilbackinthespotlight",
   "b5432d4bc5ac3987",
@@ -603,7 +601,9 @@
   "f3edefda481eb88f",
   "gasolinepeakshistoricpricesintheusduringlabordayweekend",
   "c652866ed3ce2d88",
-  "theusandvenezuelaacenturyoldrelationshipdrenchedinoil"
+  "theusandvenezuelaacenturyoldrelationshipdrenchedinoil",
+  "94ea5ee9c8ea0abc",
+  "exclusivehedgefundgiantcitadelseekingtobuyusshaleoilproducti"
  ],
  "releases_done": {},
  "last_digest": "2026-09-05",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 11
  },
- "last_run": "2026-09-06T03:40:18.508195+03:00",
+ "last_run": "2026-09-06T03:45:18.149191+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
