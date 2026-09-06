@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "07a879b8180e2012",
-  "wtitests93aspersiangulfrisksfueloilvolatility",
   "3b73d3b88ee675ba",
   "a16bquantetfpivotstohugeoilbetasadviserexits",
   "18f72c0908226560",
@@ -603,7 +601,9 @@
   "f058f63b0dbc6f01",
   "citadeleyesusshaleasoiltradingmovesclosertothewellhead",
   "9347d6558afabee3",
-  "opecplustokeepoilproductionsteady"
+  "opecplustokeepoilproductionsteady",
+  "4cf07f2115e6b9e5",
+  "ukrainepushescongressforrussiasanctionsbeforeelectionrecess"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T16:39:48.290099+03:00",
+ "last_run": "2026-09-06T16:40:17.964542+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1872,6 +1872,10 @@
   {
    "d": "2026-09-06",
    "t": "OPEC Plus to Keep Oil Production Steady - The New York Times"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Ukraine Pushes Congress for Russia Sanctions Before Election Recess"
   }
  ]
 }
