@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "fcf95e50ddea5e71",
-  "rhodeislanddriverspayingrecordhighgaspricesthislabordayweeke",
   "d4ab505e314c27df",
   "oilpricespostweeklygainonusiranfighting",
   "4d3284e59454c404",
@@ -603,7 +601,9 @@
   "a0ed26e894d25573",
   "iraqtostartexportingcrudeoilthroughsyria",
   "f7bc111dc7e6f111",
-  "iraqliftsoilexportcapacitytargets5mbpdvianewroutes"
+  "iraqliftsoilexportcapacitytargets5mbpdvianewroutes",
+  "269457f2171e65a2",
+  "usforcesstrike3iraniancrudeoiltankersinactofretaliationforir"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T20:25:15.146751+03:00",
+ "last_run": "2026-09-06T20:30:20.989928+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1916,6 +1916,10 @@
   {
    "d": "2026-09-06",
    "t": "Deadly Iran wedding strike likely due to US bomb missing a nearby target - WaPo - iranintl.com"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "U.S. Forces Strike 3 Iranian Crude Oil tankers in Act of Retaliation for Iranian Missiles – CENTCOM - EnergyNow.com"
   }
  ]
 }
