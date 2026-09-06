@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "4e0ae85a156d3064",
-  "iraqisinprocessofseekingoiltankersforhormuzstraitruns",
   "976b2ec07273fc53",
   "wearestalledusiranwarstuckwithnoendinsight",
   "2b4834cc66ba68a7",
@@ -603,7 +601,9 @@
   "2b8f3507d37d612b",
   "risingfuelcostsputusfarmmarginsbackinfocus",
   "26978f42b2425aaa",
-  "usenergysecretarysayshormuzoilflowsaveragingover9millionbpd"
+  "usenergysecretarysayshormuzoilflowsaveragingover9millionbpd",
+  "f9ae151083aaab18",
+  "elevatedcrackspreadsandcrudeoilpricescontributetohigherprice"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T18:45:17.910098+03:00",
+ "last_run": "2026-09-06T18:50:54.193542+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
