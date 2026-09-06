@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "f901dfce87fd9b80",
-  "360energypulsewhatmatteredthisweekinenergy",
   "6db6c14072c585a9",
   "brentlastdayfinancialoverview",
   "512644c856563d81",
@@ -603,7 +601,9 @@
   "e1eedf82f9cdb0a9",
   "opecplusholdsoilproductionsteadyasusiranstrikesresume",
   "dc49ee669bc1e6a6",
-  "recordhighgaspricesforrhodeislanddriversthislabordayweekend"
+  "recordhighgaspricesforrhodeislanddriversthislabordayweekend",
+  "baa075f0d6422ec0",
+  "deadlyiranweddingstrikelikelyduetousbombmissinganearbytarget"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T19:50:17.552743+03:00",
+ "last_run": "2026-09-06T19:55:14.083158+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1912,6 +1912,10 @@
   {
    "d": "2026-09-06",
    "t": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume - The New York Times"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Deadly Iran wedding strike likely due to US bomb missing a nearby target - WaPo - iranintl.com"
   }
  ]
 }
