@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "8b8c661b636109e5",
-  "newsletterwartimeoildietboostsrenewables",
-  "e7e75d7025dbd3fa",
-  "turkmenistanmovestotacklemajormethaneleaks",
   "59720dfb2d045b96",
   "18wheelercrashshutsdowni30inroysecityafteroilspillpolicesay",
   "9b997265f4e9f15e",
@@ -603,7 +599,11 @@
   "db5ea1611025efb7",
   "controversyswirlsaroundtrumpsvenezuelabusinesspartner",
   "79a2dd3ff34affba",
-  "liveussaysiransoilsupplyforchinaisrunningoutastehranwarnsofh"
+  "liveussaysiransoilsupplyforchinaisrunningoutastehranwarnsofh",
+  "3467c36744f5aac6",
+  "opecalliesagreetokeepoiloutputsteadyinoctober",
+  "c1d3f1202f343d8d",
+  "opeckeepsoiloutputpolicyunchangedforoctoberamidiranwaruncert"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-09-06T14:40:17.462965+03:00",
+ "last_run": "2026-09-06T14:45:17.873626+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1828,6 +1828,14 @@
   {
    "d": "2026-09-06",
    "t": "Live - US says Iran’s oil supply for China is running out as Tehran warns of heavier response - Iran International"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "OPEC, Allies Agree to Keep Oil Output Steady in October - WSJ"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Opec+ keeps oil output policy unchanged for October amid Iran war uncertainty - thenationalnews.com"
   }
  ]
 }
