@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "ba607fe04cfcb238",
-  "istrumpplayingchesswiththeoilmarkets",
-  "2d560a41ba51b483",
-  "weeklyenergymarketreportcrudeoilnaturalgasandfuelpricessept4",
   "0ca5c2bc7cbaa37c",
   "dieselfearsmountasoilheadstowards6weeklyrise",
   "20125815196accb8",
@@ -603,7 +599,11 @@
   "3733252f6b5c2586",
   "treasurysecretaryscottbessentiranhasjust30millionbarrelsofoi",
   "f69128a02b73166a",
-  "iranattacksusshipinstraitofhormuz"
+  "iranattacksusshipinstraitofhormuz",
+  "67c5b7f87705be15",
+  "structuralshocknotaspikewhyoilcouldstayabove70foryears",
+  "5406c44b65975ac1",
+  "iranwarcausesashiftinoilandenergymarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T17:10:16.993141+03:00",
+ "last_run": "2026-09-06T17:15:20.231254+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1880,6 +1880,10 @@
   {
    "d": "2026-09-06",
    "t": "Iran attacks US ship in Strait of Hormuz - The Hill"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Iran War Causes a Shift in Oil and Energy Markets - Energy News Beat"
   }
  ]
 }
