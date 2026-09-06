@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "2ddddc7c34c5c462",
-  "crudeexportsdidnotstopevenforonehourunderbombardmentiranoilm",
   "573e44856e366265",
   "indiaplansmandatorybatterystorageatsolarandwindprojects",
   "156e55215bb86832",
@@ -603,7 +601,9 @@
   "bf4523afb95f8faf",
   "ryazanoilrefineryandrostovtargetedindronewave",
   "b704bc4d7efdac0b",
-  "ukpetrolpriceshithighestlevelsinceiranwarbegan"
+  "ukpetrolpriceshithighestlevelsinceiranwarbegan",
+  "9611a0d847a49e6d",
+  "currentpriceofoilasofseptember32026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 31
  },
- "last_run": "2026-09-06T10:05:14.530288+03:00",
+ "last_run": "2026-09-06T10:10:16.614679+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
