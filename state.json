@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "25ec2736098706da",
-  "oildipsnearsixweekhighsasirantensionskeephormuzsupplyrisksel",
   "bb133413983884e4",
   "usirantensionsreignitesupplyshockhitsmiddleeastsdualstraitsc",
   "06556c1240f9dabb",
@@ -603,7 +601,9 @@
   "60ad26f12a1f4623",
   "liveusandiranexchangefireaftermissileattackonusnavyships",
   "2969cea700689043",
-  "currentpriceofoilasofseptember42026"
+  "currentpriceofoilasofseptember42026",
+  "35149ec4d04ce5e6",
+  "dronesattackryazanoilrefineryinrussiavideo"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 35
+  "count": 36
  },
- "last_run": "2026-09-06T10:30:21.431522+03:00",
+ "last_run": "2026-09-06T10:35:15.890086+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
