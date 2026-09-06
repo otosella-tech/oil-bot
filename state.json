@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "78f65663f9977a86",
-  "usacrudeoilstocksdropweekonweek",
   "2ea70274641459b2",
   "tristatedriversfacerisinggaspricesforlaborday",
   "65b3f21db95d375f",
@@ -603,7 +601,9 @@
   "3dbc2cd3fea06f72",
   "commentarytheresmoretopetroleumthangasoline",
   "f9e248d9dead1fb7",
-  "currentpriceofoilasofseptember12026"
+  "currentpriceofoilasofseptember12026",
+  "5ff26a3bd513c38e",
+  "iransattackskeepthestraitofhormuzinalethalstalemate"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-09-06T12:15:16.877880+03:00",
+ "last_run": "2026-09-06T12:20:18.162101+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1808,6 +1808,10 @@
   {
    "d": "2026-09-06",
    "t": "live U.S. and Iran exchange fire after missile attack on US Navy ships - AnewZ"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Iran’s Attacks Keep the Strait of Hormuz in a Lethal Stalemate - The New York Times"
   }
  ]
 }
