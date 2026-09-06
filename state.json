@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "2d274990a43bdd42",
-  "exclusivekeltexplorationatenercomdenvertheenergyinvestmentco",
   "4467db586da3c721",
   "gulfshippingtrafficviahormuzkeepsbelow10dayaveragedatashows",
   "a5194c6afcaf79d1",
@@ -603,7 +601,9 @@
   "99f12cb26b3834e0",
   "russiaopensmassivevostokoilprojectandseverbayarcticportmarit",
   "6d065dafb992ad67",
-  "oil"
+  "oil",
+  "2369693f3d58168b",
+  "whyaretheusandiranattackingoiltankerscouldthestraitofhormuzc"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T18:05:16.373324+03:00",
+ "last_run": "2026-09-06T18:10:16.756284+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1892,6 +1892,10 @@
   {
    "d": "2026-09-06",
    "t": "US energy chief says no 'magic' behind Hormuz crossing claims - thenationalnews.com"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Why are the US and Iran attacking oil tankers? Could the Strait of Hormuz crisis push oil above $100? | Hindustan Times - Hindustan Times"
   }
  ]
 }
