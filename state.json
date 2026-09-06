@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "524627bef6c468d6",
-  "whyisntthepriceofoilevenhigher",
   "44093cb708504649",
   "60targetsstruck18mbarrelsofoilprotectedtheusmilitarysrecordd",
   "176937ba804249b3",
@@ -603,7 +601,9 @@
   "8dba7959335129a1",
   "farmersaregoingbrokeamidrisinggaspriceswhiletheagsecretarypr",
   "dbb9c8cbe8eeac52",
-  "iransaysitplanstoannounceanewexclusionzonenearthestraitofhor"
+  "iransaysitplanstoannounceanewexclusionzonenearthestraitofhor",
+  "7be9a98fc5b274f3",
+  "iranustradetankerattacksastehranwarnsofrestrictedzone"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-07",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-09-07T00:50:18.974972+03:00",
+ "last_run": "2026-09-07T00:55:13.527188+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1444,6 +1444,10 @@
   {
    "d": "2026-09-07",
    "t": "Iran says it plans to announce a new 'exclusion zone' near the Strait of Hormuz - PBS"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Iran, US Trade Tanker Attacks as Tehran Warns of Restricted Zone - Bloomberg.com"
   }
  ]
 }
