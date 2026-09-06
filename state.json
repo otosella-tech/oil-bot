@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "f9c8f8e5e530e358",
-  "usrigcountholdsat588asoildrillingrisesandgasactivityslips",
   "4e0ae85a156d3064",
   "iraqisinprocessofseekingoiltankersforhormuzstraitruns",
   "976b2ec07273fc53",
@@ -603,7 +601,9 @@
   "e70a433774fa0e2b",
   "notheusdoesnothaveonly14daysofoilleft",
   "2b8f3507d37d612b",
-  "risingfuelcostsputusfarmmarginsbackinfocus"
+  "risingfuelcostsputusfarmmarginsbackinfocus",
+  "26978f42b2425aaa",
+  "usenergysecretarysayshormuzoilflowsaveragingover9millionbpd"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T18:40:17.511073+03:00",
+ "last_run": "2026-09-06T18:45:17.910098+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1896,6 +1896,10 @@
   {
    "d": "2026-09-06",
    "t": "Why are the US and Iran attacking oil tankers? Could the Strait of Hormuz crisis push oil above $100? | Hindustan Times - Hindustan Times"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "US Energy Secretary says Hormuz oil flows averaging over 9 million bpd - iranintl.com"
   }
  ]
 }
