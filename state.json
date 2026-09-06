@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "668c92dc89457768",
-  "whitehousepicktorunvenezuelaoildealunderinvestigationintwoco",
   "5a3e00a4c4056d7b",
   "aaafuelprices",
   "02bea9256ad77882",
@@ -603,7 +601,9 @@
   "47e4e720f91dd683",
   "usenergychiefsaysnavytodefendhormuzuntiliranbacksdown",
   "07c43fb083b97e01",
-  "centcomstrikesthreeiranianoiltankersaftercarrierattack"
+  "centcomstrikesthreeiranianoiltankersaftercarrierattack",
+  "9f0ebdb273b3e9ee",
+  "usenergysecretarywrightsaysirannucleardealmayneverhappen"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T21:15:16.452774+03:00",
+ "last_run": "2026-09-06T21:20:18.669299+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1928,6 +1928,10 @@
   {
    "d": "2026-09-06",
    "t": "CENTCOM Strikes Three Iranian Oil Tankers After Carrier Attack - MiGFlug"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen - CNBC"
   }
  ]
 }
