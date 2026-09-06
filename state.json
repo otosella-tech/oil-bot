@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "687a4aecb080acb0",
-  "barrelofoilnowcarriesupto8inwarriskinsuranceexpertsays",
   "69ed3b43f88599a3",
   "oilslidesonfridayheadsforweeklygainonusiranfight",
   "4224c709d71b4197",
@@ -603,7 +601,9 @@
   "36428c912fa4e333",
   "usirantradestrikesinstraitofhormuzasbothbattleonsocialmedia",
   "0e6353e99b6056d0",
-  "ustowithdrawalldefensesystemsfromiraqskurdistanbysept30rudaw"
+  "ustowithdrawalldefensesystemsfromiraqskurdistanbysept30rudaw",
+  "c26c6c9fa96ffe91",
+  "iranwarhelpstodriveusdieselpricestonewhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-06",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-09-06T15:25:18.030868+03:00",
+ "last_run": "2026-09-06T15:30:21.532359+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1852,6 +1852,10 @@
   {
    "d": "2026-09-06",
    "t": "US to withdraw all defense systems from Iraq's Kurdistan by Sept 30 – Rudaw - Iran International"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Iran War Helps to Drive U.S. Diesel Prices to New High - The New York Times"
   }
  ]
 }
