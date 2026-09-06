@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "be3d52f713ca8d9d",
-  "blmmovestofast",
   "848cbab8c22063eb",
   "energysecretarychriswrighttellscnbcmorethan17millionbarrelso",
   "6c75fb2669fb6705",
@@ -603,7 +601,9 @@
   "1e4de7bdb3c37d84",
   "brentforecastsriseascititargets86andanzsees95inshortterm",
   "7eca8d33e53d2071",
-  "fuelpricestoremainstable"
+  "fuelpricestoremainstable",
+  "2b4834cc66ba68a7",
+  "willwecontrolaiorwillaicontrolus"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T19:10:19.984095+03:00",
+ "last_run": "2026-09-06T19:15:19.814212+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
