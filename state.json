@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "6d02fe2f60ef98d9",
-  "ustreasurysecretarypredictscrudeoilwillreturnto4050signaling",
   "6611c4e6b0b0fadf",
   "uscrudeoilhits90perbarrelfollowinglatestusattacksagainstiran",
   "d0fa6f940c14b90f",
@@ -603,7 +601,9 @@
   "5ebc2a78a3df2a57",
   "rebuildingthevenezuelanoilindustrybetweenthelegacyofchavismo",
   "9f7fef0fd6da8787",
-  "trumpadministrationfocusesonboostingoiloutputwrightsays"
+  "trumpadministrationfocusesonboostingoiloutputwrightsays",
+  "b07f84a6092cb784",
+  "usstrikesthreeiranianoiltankersaftermissileattackonnavyships"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T22:10:18.132394+03:00",
+ "last_run": "2026-09-06T22:15:18.033050+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1940,6 +1940,10 @@
   {
    "d": "2026-09-06",
    "t": "Iran claims a strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it - PBS"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "U.S. Strikes Three Iranian Oil Tankers After Missile Attack on Navy Ships - kotaradio.com"
   }
  ]
 }
