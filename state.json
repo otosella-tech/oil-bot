@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "4d3284e59454c404",
-  "oilendsweekhigheronrenewedusiranstrikesdieselhitsrecord",
   "668c92dc89457768",
   "whitehousepicktorunvenezuelaoildealunderinvestigationintwoco",
   "5a3e00a4c4056d7b",
@@ -603,7 +601,9 @@
   "269457f2171e65a2",
   "usforcesstrike3iraniancrudeoiltankersinactofretaliationforir",
   "47e4e720f91dd683",
-  "usenergychiefsaysnavytodefendhormuzuntiliranbacksdown"
+  "usenergychiefsaysnavytodefendhormuzuntiliranbacksdown",
+  "07c43fb083b97e01",
+  "centcomstrikesthreeiranianoiltankersaftercarrierattack"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T20:55:14.921594+03:00",
+ "last_run": "2026-09-06T21:00:26.470041+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1924,6 +1924,10 @@
   {
    "d": "2026-09-06",
    "t": "US energy chief says Navy to defend Hormuz until Iran backs down - stripes.com"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "CENTCOM Strikes Three Iranian Oil Tankers After Carrier Attack - MiGFlug"
   }
  ]
 }
