@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "de0274bb8aba419e",
-  "timeisnolongeroniranssideinthebattleoftheblockades",
   "98bfd5b12efc80ae",
   "yoursaturdaysept5guidefivethingstodointheoilcity",
   "13e0dd9b3eb04223",
@@ -603,7 +601,9 @@
   "0b24416fa456aa62",
   "trumpadministrationfocusesonboostingoiloutputwrightsaysbyinv",
   "d0fa6f940c14b90f",
-  "crudeoilpricespushhigheraheadofholidayweekend"
+  "crudeoilpricespushhigheraheadofholidayweekend",
+  "a5246bad00dc1a3c",
+  "trumphighlightsfallingiranoilexportsreboundinhormuzflows"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T22:45:17.890145+03:00",
+ "last_run": "2026-09-06T22:50:18.113120+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1944,6 +1944,10 @@
   {
    "d": "2026-09-06",
    "t": "U.S. Strikes Three Iranian Oil Tankers After Missile Attack on Navy Ships - kotaradio.com"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Trump highlights falling Iran oil exports, rebound in Hormuz flows - Iran International"
   }
  ]
 }
