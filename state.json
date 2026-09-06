@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "2fd8938091c3ec3f",
-  "theoverlookedrussiaukrainewargrowsitsoutsizedimpactonenergya",
   "ffde753eba64616a",
   "astronomicalfuelpricesurgehitsfarmersinukandusoil",
   "58d98006455af392",
@@ -603,7 +601,9 @@
   "cd82d193cb499fc2",
   "usnavyescortskeephormuzoilflowingenergychiefsaysco1comcommod",
   "60be93f806e69ae9",
-  "stocksstabilizeascrudeoilpricesandbondyieldsease"
+  "stocksstabilizeascrudeoilpricesandbondyieldsease",
+  "cfb91e7d47d24661",
+  "usstrikesthreeiranianoiltankersaftermissileattacksonnavywars"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-07",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-09-07T01:26:18.095072+03:00",
+ "last_run": "2026-09-07T01:30:22.352731+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1448,6 +1448,10 @@
   {
    "d": "2026-09-07",
    "t": "Iran, US Trade Tanker Attacks as Tehran Warns of Restricted Zone - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "U.S. Strikes Three Iranian Oil Tankers After Missile Attacks on Navy Warships - EnergyNow.com"
   }
  ]
 }
