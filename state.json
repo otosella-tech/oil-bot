@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "ce5b766fa6770be1",
-  "crudeoildemulsifierblendsmarketto2035matureoilfieldwatercutd",
-  "ec7371cf82328f78",
-  "venezuelaoilproductioncouldreach2mmbpdasinvestmentaccelerate",
-  "fc6446f1350e6b94",
-  "bessentforecastacollapseinoilpricesto40aftertheendofthewarwi",
   "2831a8e563349516",
   "howmuchoilisgoingthroughhormuzwhydatadoesntmatchusclaims",
   "6d02fe2f60ef98d9",
@@ -603,7 +597,13 @@
   "4ea47379409cde9f",
   "turnsoutthetricktolowergaspricesisdrivinglessaccordingtotheu",
   "069898f20a03c31c",
-  "iranthreatensgreaterforceifuslaunchesmoreattacksal"
+  "iranthreatensgreaterforceifuslaunchesmoreattacksal",
+  "3e5b6ab1dc22402a",
+  "highfuelpricesarepoweringanelectricmotorcycleboom",
+  "deb658708e9b0eb0",
+  "iranclaimsastrikeonausshipinthestraitofhormuzbuttheusdeniesi",
+  "5ebc2a78a3df2a57",
+  "rebuildingthevenezuelanoilindustrybetweenthelegacyofchavismo"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-06",
   "count": 60
  },
- "last_run": "2026-09-06T21:55:16.691192+03:00",
+ "last_run": "2026-09-06T22:00:25.468678+03:00",
  "sent_stories": [
   {
    "d": "2026-09-03",
@@ -1936,6 +1936,10 @@
   {
    "d": "2026-09-06",
    "t": "Iran threatens greater force if US launches more attacks - Al-Monitor"
+  },
+  {
+   "d": "2026-09-06",
+   "t": "Iran claims a strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it - PBS"
   }
  ]
 }
