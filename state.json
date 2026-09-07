@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "099e374ea90bfdd5",
-  "usstrikesthreeiranianoiltankersinresponsetoattacksonwarships",
-  "c38e4f44dada7fe3",
-  "plainsallamericanplanningcactusiiiexpansion",
   "046091e27330441e",
   "proudoftheiroilvenezuelansviewmajorusstakeintheirreservesasa",
   "953f919a0ce4a1a6",
@@ -603,7 +599,11 @@
   "de5ad138656cdbd9",
   "southkoreaeyes223billiontexasgasplanttopoweraidatacenters",
   "6b834b6e3f75e100",
-  "iranexporteditscrudeoilduringusisraeliaggression"
+  "iranexporteditscrudeoilduringusisraeliaggression",
+  "3e6b3abe1f5be23b",
+  "currentpriceofoilasofseptember22026",
+  "ca95455fe5e14260",
+  "usattacks3iranianoiltankersaftermissilestargetnavywarships"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T10:15:19.198021+03:00",
+ "last_run": "2026-09-07T10:20:18.068720+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1548,6 +1548,10 @@
   {
    "d": "2026-09-07",
    "t": "Venezuela-US oil deal risks violating local law, say experts - Financial Times"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships - cnbc.com"
   }
  ]
 }
