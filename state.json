@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "d2b806fc20e6c042",
-  "3oilstockstowatchasdieselpricesclimb",
   "193bfa9c9d3cfba9",
   "iranushits3irgclinkedoiltankers",
   "ae431cb8789a1faf",
@@ -603,7 +601,9 @@
   "bd0368b71274a992",
   "stocksdentedbyinflationriskfromrisingoildiceygeopolitics",
   "9aa5ebf2b679c4c6",
-  "iranwartensionsescalateasusstrikesmoreoiltankersinhormuz"
+  "iranwartensionsescalateasusstrikesmoreoiltankersinhormuz",
+  "fcb6cfdcc20f4e13",
+  "forecastupdateforcrudeoil07092026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T14:50:20.870927+03:00",
+ "last_run": "2026-09-07T14:55:13.719902+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
