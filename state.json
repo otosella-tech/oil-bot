@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "76d9dcf754e81594",
-  "crudeoilrallynears100willgeopoliticalriskspushpriceshigher",
-  "44d10712b501c342",
-  "usstrikesthreeiraniantankersinretaliationforattacks",
   "4aedbcec95adb827",
   "currentpriceofoilasofaugust312026",
   "5e951f78ef0360d0",
@@ -603,7 +599,11 @@
   "3ab4a3cf5de5c133",
   "indiarampsuprailcoaldeliveriesaspowerplantstockpilesdwindle",
   "7b6ee9519216b5fb",
-  "kplervenezuelaweighspotentialopecexitasoilproductionrecovers"
+  "kplervenezuelaweighspotentialopecexitasoilproductionrecovers",
+  "898d73abcb1d5d72",
+  "oilclosesinon100asrenewedsupplycrunchlooms",
+  "b8e30e25786b5dd8",
+  "ugandaenlistsvitoltomarketitscrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T18:50:17.587813+03:00",
+ "last_run": "2026-09-07T18:55:15.880684+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
