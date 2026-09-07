@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "e143513be18c41e5",
-  "centcomsaysitstruckthreeiranianoiltankersafterirgctargetedtw",
   "d2dd2e9ca834f12f",
   "enbridgebuyingsaltcreekcrudegatheringassetsmidlandreporter",
   "10f60678a10349bb",
@@ -603,7 +601,9 @@
   "b73b4fb0be01f2ed",
   "wtiandbrentpricesdeclineafterrecentgains",
   "a7534abeeb576b71",
-  "europeansharesdipasriseinoilpricesweighsnovartisslips"
+  "europeansharesdipasriseinoilpricesweighsnovartisslips",
+  "63a01d2b66211516",
+  "crudeoilfuturesclimbamidpositiveglobaltrends"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T11:00:26.313194+03:00",
+ "last_run": "2026-09-07T11:05:14.340234+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
