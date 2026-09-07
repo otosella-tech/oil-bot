@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "0de57090ce3ce2e3",
-  "usmilitarysaysitdestroyed3iranianoiltankers",
   "08984ac28ee8bf78",
   "currentpriceofoilasofaug312026",
   "43fdc307825e6ea9",
@@ -603,7 +601,9 @@
   "71848a7c30d53ca1",
   "thegamblebehindusattacksoniransoiltankers",
   "8ccbad2060861af8",
-  "palmoilrisesascrudeoilkeepsclimbing"
+  "palmoilrisesascrudeoilkeepsclimbing",
+  "d2d2db77f2c6157e",
+  "chinascrudeoilimportsstayedweakinaugustcanthiscontinuerussel"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 39
  },
- "last_run": "2026-09-07T06:15:18.035187+03:00",
+ "last_run": "2026-09-07T06:20:16.967925+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
