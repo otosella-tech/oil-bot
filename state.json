@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "1dc54e6545a84ea8",
-  "mappedamericasoilimportsbycountry",
   "ceddeff7a30785c7",
   "usmilitarysaysthreeiraniantankersstruckingulf",
   "0de57090ce3ce2e3",
@@ -603,7 +601,9 @@
   "2741c0b982f667ce",
   "thecommoditiesfeedoiledgeshigheramidpersiangulftankerattacks",
   "d2e09cb3553a0c0d",
-  "sochioildepotreportedlyeruptsinflamesagaindaysafterukrainian"
+  "sochioildepotreportedlyeruptsinflamesagaindaysafterukrainian",
+  "71848a7c30d53ca1",
+  "thegamblebehindusattacksoniransoiltankers"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-07",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-09-07T06:00:30.151006+03:00",
+ "last_run": "2026-09-07T06:05:14.770357+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1520,6 +1520,10 @@
   {
    "d": "2026-09-07",
    "t": "The Commodities Feed: Oil edges higher amid Persian Gulf tanker attacks - ING Think"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "The gamble behind US attacks on Iran’s oil tankers - Iran International"
   }
  ]
 }
