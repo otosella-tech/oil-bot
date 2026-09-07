@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "8c98e0e5168e8c36",
-  "thevenezuelanbillionairetheusinvestigatedformoneylaunderingn",
   "95b0be00baf635d0",
   "wticrudeoilfuturespullbackfrom3monthhighs",
   "d422459cf552c1ce",
@@ -603,7 +601,9 @@
   "a1eb18b9fed3df42",
   "oilandpoliticswhattrumpshistoricdealmeansforvenezuela",
   "a7465bd383ef3a66",
-  "roichinascrudeoilimportsstayedweakinaugustcanthiscontinuerus"
+  "roichinascrudeoilimportsstayedweakinaugustcanthiscontinuerus",
+  "b5a7934dbfad40a6",
+  "grainpricessurgeamidwaroilelniopressures"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-07",
-  "count": 13
+  "count": 14
  },
- "last_run": "2026-09-07T03:12:46.694158+03:00",
+ "last_run": "2026-09-07T03:15:17.794210+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
