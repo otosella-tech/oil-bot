@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "08984ac28ee8bf78",
-  "currentpriceofoilasofaug312026",
   "43fdc307825e6ea9",
   "centcomvideoshowsusforcesstriking3iraniancrudeoilcarriers",
   "3a12f1b558d85d5a",
@@ -603,7 +601,9 @@
   "8ccbad2060861af8",
   "palmoilrisesascrudeoilkeepsclimbing",
   "d2d2db77f2c6157e",
-  "chinascrudeoilimportsstayedweakinaugustcanthiscontinuerussel"
+  "chinascrudeoilimportsstayedweakinaugustcanthiscontinuerussel",
+  "16114f3155a6f33a",
+  "chinascrudeoilimportsstayedweakinaugustcanthiscontinuethechi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 39
  },
- "last_run": "2026-09-07T06:20:16.967925+03:00",
+ "last_run": "2026-09-07T06:25:14.191980+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
