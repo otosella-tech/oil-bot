@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "1f60209942893255",
-  "usmilitarystrikesthreeiranianoiltankersastehranvowstougherre",
   "cdf8ec4ad989dc17",
   "dailyworldbriefingsept6",
   "351eb68f2181d43d",
@@ -603,7 +601,9 @@
   "8ff5d0a5a265a5db",
   "europeansharesdipashigheroilpricesweighnovartisslipswnwn",
   "19b35d61b4416cb1",
-  "americanandafricancrudessoaraschinasoilimportsrebound"
+  "americanandafricancrudessoaraschinasoilimportsrebound",
+  "91b72b2fe0cdb5a5",
+  "venezuelaopecexitstructurallylikely"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T17:35:15.245139+03:00",
+ "last_run": "2026-09-07T17:40:18.740387+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1724,6 +1724,10 @@
   {
    "d": "2026-09-07",
    "t": "American and African Crudes Soar as China's Oil Imports Rebound"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Venezuela OPEC Exit 'Structurally Likely' - Rigzone"
   }
  ]
 }
