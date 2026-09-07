@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "a57fd4a08dab7735",
-  "currentpriceofoilasofaug192026",
   "3e98b384278c841e",
   "currentpriceofoilasofaugust172026",
   "db0597c925d4855c",
@@ -603,7 +601,9 @@
   "1ee7bf159647119f",
   "crudeoilpricesriseasusiranstrikesraisefearsofprolongedhormuz",
   "f2db9043a6e5f847",
-  "ussaysitdisabled3irgclinkedoiltankersafteriranianattacksonna"
+  "ussaysitdisabled3irgclinkedoiltankersafteriranianattacksonna",
+  "4191e8734af78430",
+  "proukrainianpartisanssabotagedcommunicationtoweraheadofoilre"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-07",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-09-07T05:10:17.984194+03:00",
+ "last_run": "2026-09-07T05:15:18.349876+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1496,6 +1496,10 @@
   {
    "d": "2026-09-07",
    "t": "US says it disabled 3 IRGC-linked oil tankers after Iranian attacks on navy warships - Shipping Telegraph"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Pro-Ukrainian partisans sabotaged communication tower ahead of oil refinery strike, Atesh group claims - The Kyiv Independent"
   }
  ]
 }
