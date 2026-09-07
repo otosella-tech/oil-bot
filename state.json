@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "6de73c371c0e1af2",
-  "usmilitarystrikesthreeiraniancrudeoilcarrierscentralcommands",
   "3e08c6e84809f530",
   "usstrikesthreeiranianoiltankersaftermissileattacks",
   "265637adf759af14",
@@ -603,7 +601,9 @@
   "b8734daeefa907a2",
   "trumpsenergybosswaversongasolinepricepath",
   "6fd1e99362669bb8",
-  "crudeoilpricesopenhigherwithirantodeclarehormuzrestrictedzon"
+  "crudeoilpricesopenhigherwithirantodeclarehormuzrestrictedzon",
+  "6d4c71fe24bdce1e",
+  "oilpricetodayseptember7crudeoilapproaches100asusiranstrikesh"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-07",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-09-07T05:30:22.499219+03:00",
+ "last_run": "2026-09-07T05:35:13.421218+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1508,6 +1508,10 @@
   {
    "d": "2026-09-07",
    "t": "Crude Oil Prices Open Higher with Iran to Declare Hormuz Restricted Zone After US Attacks - FXLeaders"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Oil Price Today (September 7): Crude oil approaches $100 as US, Iran strikes hit oil vessels in Hormuz. Ex - economictimes.indiatimes.com"
   }
  ]
 }
