@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "c26c6c9fa96ffe91",
-  "iranwarhelpstodriveusdieselpricestonewhigh",
   "82082dbbb431c502",
   "iranthreatensgreaterforceifuslaunchesmoreattacks",
   "aa5a3e71953bf71b",
@@ -603,7 +601,9 @@
   "d3ead1cdd90d43a4",
   "oilhitssixweekhighonrenewediranianthreats",
   "13b95973b1eb9a2a",
-  "energybriefsoilpricesgainsodoiranianthreats"
+  "energybriefsoilpricesgainsodoiranianthreats",
+  "34d0244e9d8bec69",
+  "threewaystheiranwarchangedtheglobaleconomy"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T23:30:22.937543+03:00",
+ "last_run": "2026-09-07T23:35:15.342130+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1792,6 +1792,10 @@
   {
    "d": "2026-09-07",
    "t": "Burnham, Trump discuss Hormuz reopening, Iran nuclear program - Iran International"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Three ways the Iran war changed the global economy - CNN"
   }
  ]
 }
