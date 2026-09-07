@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "fe355d7faccbdb64",
-  "rrcnamesnewdirectorofoilandgasdivision",
-  "e16fbed6da25dc0e",
-  "theunitedstatesstruckthreeiraniancrudeoiltankers",
   "3a79d5693fc2ee29",
   "usforcesstrike3iranianoilshipsundernewlyauthorizedtankerfort",
   "19cb715d349f8d48",
@@ -603,7 +599,11 @@
   "1d05ef2dec4a5d9b",
   "qatarmovessixlngtankerstowardgulfasexportrestartlooms",
   "cd56760da53445ff",
-  "stocksrattledbyinflationriskfromrisingoildiceygeopolitics"
+  "stocksrattledbyinflationriskfromrisingoildiceygeopolitics",
+  "8c97f208c6a55fb3",
+  "uscrudeoilstockpilesseelargerthanexpecteddrop",
+  "7c4c6cf3aed0f780",
+  "crudemaytakeupto12monthstonormalisefullyjuliusbaersmarkmatth"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T11:30:23.067839+03:00",
+ "last_run": "2026-09-07T11:35:16.424562+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
