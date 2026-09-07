@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "f69128a02b73166a",
-  "iranattacksusshipinstraitofhormuz",
-  "67c5b7f87705be15",
-  "structuralshocknotaspikewhyoilcouldstayabove70foryears",
   "5406c44b65975ac1",
   "iranwarcausesashiftinoilandenergymarkets",
   "49e2d932796b4b7e",
@@ -603,7 +599,11 @@
   "9ba3df348abb5c3c",
   "washingtonsvenezuelaoildealisaboutmuchmorethancrude",
   "3f7b2ee9924bb8df",
-  "fuelpricesatrecordlabordayhighinusduetoiranwarrefineryissues"
+  "fuelpricesatrecordlabordayhighinusduetoiranwarrefineryissues",
+  "bc53e5b9080f7dd8",
+  "goldmanrystadseeroomfor120oilifusiranconflictcontinues",
+  "a0e050619a2b28fd",
+  "dowfuturesfalloilkeepsrisingnvidiasandiskmicronarenewbuys"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 3
  },
- "last_run": "2026-09-08T01:00:28.298051+03:00",
+ "last_run": "2026-09-08T01:05:15.140773+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
