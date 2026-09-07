@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "5639dc6cf24a6161",
-  "greenbondshitrecordhighdespitepersistentchallenges",
   "8457fb242ff86aab",
   "usmilitarysaysdestroysiranianoiltankersaftermissileattacks",
   "4627cd4d7cd324b1",
@@ -603,7 +601,9 @@
   "f8ccb21bc29513bf",
   "rupeeshrugsoffoilstrainasrbiinterventionholdsfirm",
   "a07259fd9f7b0717",
-  "oilextendsgainsbrenttops97bblafterusiranattacksinhormuz"
+  "oilextendsgainsbrenttops97bblafterusiranattacksinhormuz",
+  "f1c8dfea090e1cec",
+  "iranustradetankerattacksassixmonthconflictescalates"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-07",
-  "count": 56
+  "count": 57
  },
- "last_run": "2026-09-07T09:20:17.589535+03:00",
+ "last_run": "2026-09-07T09:25:13.737389+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
