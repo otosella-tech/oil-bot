@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "a7d9e257e213acd7",
-  "currentpriceofoilasofsept12026",
   "ff48eff5f62eaa87",
   "iranianmediasaysusstrikesoiltankeratkeyexporthubkhargisland",
   "ff36641aa68072d4",
@@ -603,7 +601,9 @@
   "176937ba804249b3",
   "ugandanamesitscrudeoilpearlsweetaheadofproduction",
   "9fec957d2910d6b9",
-  "kazakhstanplans327millionexpansionofoilpipelineroutestochina"
+  "kazakhstanplans327millionexpansionofoilpipelineroutestochina",
+  "ce8f8ab460b25b95",
+  "emstocksjumpto2monthhighastechrallyoffsetshigheroil"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 51
  },
- "last_run": "2026-09-07T08:00:30.787280+03:00",
+ "last_run": "2026-09-07T08:05:16.070324+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
