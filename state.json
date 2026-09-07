@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "da368309ad7a4db5",
-  "iransaysusattacked3oiltankersoffsiraniancoasts",
   "1f60209942893255",
   "usmilitarystrikesthreeiranianoiltankersastehranvowstougherre",
   "cdf8ec4ad989dc17",
@@ -603,7 +601,9 @@
   "17496f6d015b7cd8",
   "crudeoiltradersreaddailychartsthatthemultiyearmapdenies",
   "8ff5d0a5a265a5db",
-  "europeansharesdipashigheroilpricesweighnovartisslipswnwn"
+  "europeansharesdipashigheroilpricesweighnovartisslipswnwn",
+  "19b35d61b4416cb1",
+  "americanandafricancrudessoaraschinasoilimportsrebound"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T17:25:17.187642+03:00",
+ "last_run": "2026-09-07T17:30:22.990076+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1720,6 +1720,10 @@
   {
    "d": "2026-09-07",
    "t": "Oil settles 1% higher, as US-Iran strikes threaten supplies - Reuters"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "American and African Crudes Soar as China's Oil Imports Rebound"
   }
  ]
 }
