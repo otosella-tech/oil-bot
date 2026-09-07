@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "7cfa29dfd7d1e1fc",
-  "usstrikes3iranianoilcarriersafternavywarshipsevadedmissilesc",
   "9c4de43a4615378a",
   "usstrikes3iranianoiltankersafterirantargetsnavywarshipscentc",
   "5e9972a80dc0b216",
@@ -603,7 +601,9 @@
   "9a7e5d948dde2c33",
   "oilpricesclimbafterusstrikesthreeiraniantankersandiranvowsre",
   "c8adde0481325db4",
-  "chinaraisesoilimportsbutkeepsasiansupplynearly40belowpreconf"
+  "chinaraisesoilimportsbutkeepsasiansupplynearly40belowpreconf",
+  "a866a6b26703449e",
+  "palmopenhigheronfirmerrivaldaliancrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 40
  },
- "last_run": "2026-09-07T06:45:18.396297+03:00",
+ "last_run": "2026-09-07T06:50:17.909007+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
