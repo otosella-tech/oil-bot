@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "ee21c51148a7e8dc",
-  "usmilitarysaysithit3iraniantankersafternavyshipstargeted",
   "7f69740f19f784b7",
   "ushitsiraniantankersandwarnsitwilldestroyoilfleetifnecessary",
   "b3530f5b1ae723e4",
@@ -603,7 +601,9 @@
   "41e11a716bec9741",
   "centcomannouncesretaliatorystrikeson3iranianoiltankers",
   "04a6fa15dabc8528",
-  "oilpriceschurnafterusandirantradestrikes"
+  "oilpriceschurnafterusandirantradestrikes",
+  "5a56eef6a7cc10be",
+  "rosneftbeginsoilshipmentsfromvostokoilprojectinarctic"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T14:20:19.365871+03:00",
+ "last_run": "2026-09-07T14:25:16.221081+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
