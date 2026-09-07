@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "b8e6cc47a02b0de8",
-  "iranretaliatesafterusstrikesoiltankers",
   "980a2dddde0e00cc",
   "usfightersdronesstrike3iranianoiltankersafteriranfiresonnavy",
   "60ad26f12a1f4623",
@@ -603,7 +601,9 @@
   "2b8bf27cedd8bfb6",
   "copperslongestrallysince1994collideswithashrinkingsupplychai",
   "3a327afa183e73d6",
-  "predictionmarketkalshitofileforuscrudeoilperpssourcesays"
+  "predictionmarketkalshitofileforuscrudeoilperpssourcesays",
+  "509a81a1319b7973",
+  "oilpricesrisetosixweekhighsonworseningmiddleeastconflict"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T20:05:14.666984+03:00",
+ "last_run": "2026-09-07T20:10:19.898302+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
