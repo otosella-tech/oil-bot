@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "cf55779381d4ba01",
-  "crudeoilbenchmarksbrentwtisweetvssourlightvsheavy",
-  "2bd6d9b92387137c",
-  "iranhasonly30millionbarrelsofoilleftforchinabessentsays",
   "84fdaca4a6533914",
   "iraqsayscrudeoilexportcapacityexceeds3millionbarrelsperday",
   "fb55e2bad7b29683",
@@ -603,7 +599,11 @@
   "2969cea700689043",
   "currentpriceofoilasofseptember42026",
   "10cdf14658cae7ae",
-  "iransoildollarsaredryingupandplungingitdeeperintocrisis"
+  "iransoildollarsaredryingupandplungingitdeeperintocrisis",
+  "a72bf3c1256d2d82",
+  "chinaoildemandrevivalspurspricespikesfromcongotobrazil",
+  "f9e248d9dead1fb7",
+  "currentpriceofoilasofseptember12026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T20:30:25.065652+03:00",
+ "last_run": "2026-09-07T20:35:16.561749+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1768,6 +1768,10 @@
   {
    "d": "2026-09-07",
    "t": "Iran’s Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis - WSJ"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "China Oil Demand Revival Spurs Price Spikes From Congo to Brazil - Bloomberg.com"
   }
  ]
 }
