@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "73642c7575649416",
-  "usmilitarysaysitdestroyedthreeiranianoiltankers",
   "506dfb0c85306e21",
   "ussaysitstruckthreeiranianoiltankers",
   "bde0766033145249",
@@ -603,7 +601,9 @@
   "f8dab472dc573842",
   "oilnewstankerstrikesopecholdkeepcrudeoilbuyersincontrol",
   "4f92b373566ce378",
-  "chinascrudeoilimportsstayedweakinaugustcanthiscontinue"
+  "chinascrudeoilimportsstayedweakinaugustcanthiscontinue",
+  "670f6eaec5e10fdc",
+  "crudeoilfuturesriseasusiranattackeachothersships"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-07",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-09-07T07:15:20.450178+03:00",
+ "last_run": "2026-09-07T07:20:19.360193+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1524,6 +1524,10 @@
   {
    "d": "2026-09-07",
    "t": "The gamble behind US attacks on Iran’s oil tankers - Iran International"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Crude oil futures rise as US, Iran attack each other’s ships - BusinessLine"
   }
  ]
 }
