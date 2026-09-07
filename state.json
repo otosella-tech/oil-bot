@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "46851bab19893a4f",
-  "analysischinasco2emissionsfallinq22026duetoplummetingoiluse",
-  "d7e45c9c54d1ae29",
-  "iransoilblockadeleverageweakensasuskeepsgulfcrudeflowing",
-  "72450625fac76ff3",
-  "ukraineattacksshipusedtorepairkeyblackseaoilmoorings",
   "169060dc8d1b3187",
   "chevrontoexpandinvenezueladaysaftertheusandvenezuelastrikeoi",
   "1cc2fa19449de612",
@@ -603,7 +597,13 @@
   "bfbdd7446cc65c20",
   "oilextendsgainsafterusandiranstrikeships",
   "ee9c0800b7d44954",
-  "thetricktoloweringgaspricesisdrivinglessusenergysecretarysay"
+  "thetricktoloweringgaspricesisdrivinglessusenergysecretarysay",
+  "478542e216b32757",
+  "commentarychinascrudeoilimportsstayedweakinaugustcanthiscont",
+  "84cc06afb1aaff59",
+  "wticrudeoilfuturespullbackfrom3monthhighs",
+  "bfbe860d36559661",
+  "votersinkeymidtermracespushbackondatacentersandtheusstrikesi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-07",
-  "count": 16
+  "count": 17
  },
- "last_run": "2026-09-07T03:25:15.754554+03:00",
+ "last_run": "2026-09-07T03:30:22.137565+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
