@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "d218d9252452615b",
-  "cpctoleavedomesticgasolinedieselpricesunchangednextweek",
-  "bad8e20cb6a5330b",
-  "iranaccusesusofstrikingoiltankernearkeypersiangulfterminal",
   "339025fda91a1307",
   "treasurychiefbessentpredictsoilpricedropto40followingendofir",
   "430ff374fb505cc2",
@@ -603,7 +599,11 @@
   "b4886fb5c8750e4d",
   "shipfuelshortageloomsasrefinersstrainedbywarfavourotherprodu",
   "144eb211b2ea14df",
-  "iranstrikesbackafterattacksonoiltankers"
+  "iranstrikesbackafterattacksonoiltankers",
+  "3f7ea7a02d434fe9",
+  "analysisshipfuelshortageloomsasrefinersstrainedbywarfavourot",
+  "7bff34e5bef011cc",
+  "oilpricesfallasusrollsoutglobalsanctionsfocusedoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-07",
-  "count": 19
+  "count": 21
  },
- "last_run": "2026-09-07T04:20:18.563418+03:00",
+ "last_run": "2026-09-07T04:25:13.842251+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1472,6 +1472,10 @@
   {
    "d": "2026-09-07",
    "t": "Iran strikes back after attacks on oil tankers - global.chinadaily.com.cn"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Oil prices fall as U.S. rolls out global sanctions focused on Iran - CNBC"
   }
  ]
 }
