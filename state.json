@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "55d1291a3b3df4a3",
-  "howcubansarenavigatingtheusoilblockadewithrechargeablefansan",
-  "ff6bcd7f238e33e3",
-  "japansouthkoreaandtheusforgeanewnuclearalliance",
-  "c110314a470a5d8e",
-  "usmilitarystrikesoiltankersasiranvowstougherreprisals",
   "f3bb6abd42faf1d1",
   "errorinarecentblmleasesalehaswyomingresidentsconcernedoverne",
   "df27f864e030ae57",
@@ -603,7 +597,13 @@
   "d1b9a991e1993dcd",
   "goldforecastxauusdunderpressureasinvestorswatchoilandinflati",
   "cab8dbbbf1cb00f9",
-  "oiltickshigherafterfreshusiranattacksinstraitofhormuz"
+  "oiltickshigherafterfreshusiranattacksinstraitofhormuz",
+  "5eecf6ba3879705a",
+  "saudiaramcosjizanrefineryhitagainashouthiattacksescalate",
+  "b06d785f09e0785e",
+  "bipartisanlegislationintroducedtomodernizesprmidlandreporter",
+  "29b04f2164599f90",
+  "goldmansachswarnsoilcouldsurgeto120abarrelifattacksonhormuzc"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T15:30:24.868059+03:00",
+ "last_run": "2026-09-07T15:35:14.708703+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1680,6 +1680,14 @@
   {
    "d": "2026-09-07",
    "t": "Oil ticks higher after fresh U.S.-Iran attacks in Strait of Hormuz - Investing.com"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Saudi Aramco's Jizan Refinery Hit Again as Houthi Attacks Escalate"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Goldman Sachs warns oil could surge to $120 a barrel if attacks on Hormuz continue - The Independent"
   }
  ]
 }
