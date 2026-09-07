@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "8fab898d57bc98fe",
-  "currentpriceofoilasofaugust252026",
   "72ba0c72fa8e7627",
   "howmuchoilisreallygettingthroughthestraitofhormuz",
   "98e540d18d7834f6",
@@ -603,7 +601,9 @@
   "8a6d283c492b7564",
   "crudeoilforecastwtibrentbullstargetkeybreakouts",
   "18d4e19af514eff4",
-  "russiashipsfirstcrudefromitsgiantvostokoilprojectthrougharct"
+  "russiashipsfirstcrudefromitsgiantvostokoilprojectthrougharct",
+  "75fd6765f3479127",
+  "europeansharesdipashigheroilpricesweighnovartisslips"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T17:05:15.685451+03:00",
+ "last_run": "2026-09-07T17:10:24.629960+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
