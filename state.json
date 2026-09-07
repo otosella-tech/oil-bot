@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "ae431cb8789a1faf",
-  "wticrudeoilfuturesjumpto9060onmiddleeasttension",
   "7335af6057fac622",
   "sprcrudeoilacquisitionprocedures",
   "6135fd266e4fa95e",
@@ -603,7 +601,9 @@
   "fcb6cfdcc20f4e13",
   "forecastupdateforcrudeoil07092026",
   "5d8c3fef4d5e7ff2",
-  "wartestedoiltradersdescendonsingaporeas100beckons"
+  "wartestedoiltradersdescendonsingaporeas100beckons",
+  "668404810d8a0b78",
+  "oilpricesclimbafterreportsofsaudiaramcorefinerybeinghitbyhou"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T15:10:18.957178+03:00",
+ "last_run": "2026-09-07T15:15:17.935330+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1672,6 +1672,10 @@
   {
    "d": "2026-09-07",
    "t": "War-Tested Oil Traders Descend on Singapore as $100 Beckons - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels - marketwatch.com"
   }
  ]
 }
