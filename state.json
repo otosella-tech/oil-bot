@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "d3f9b413f1742049",
-  "iraniantankerhitnearkhargislandinusattacktasnimreports",
   "73642c7575649416",
   "usmilitarysaysitdestroyedthreeiranianoiltankers",
   "506dfb0c85306e21",
@@ -603,7 +601,9 @@
   "4bc61e7a64b107e9",
   "brentcrudeoilpreparestoattackakeyresistanceanalysis07092026",
   "f8dab472dc573842",
-  "oilnewstankerstrikesopecholdkeepcrudeoilbuyersincontrol"
+  "oilnewstankerstrikesopecholdkeepcrudeoilbuyersincontrol",
+  "4f92b373566ce378",
+  "chinascrudeoilimportsstayedweakinaugustcanthiscontinue"
  ],
  "releases_done": {},
  "last_digest": "2026-09-06",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 41
  },
- "last_run": "2026-09-07T07:10:18.123551+03:00",
+ "last_run": "2026-09-07T07:15:20.450178+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
