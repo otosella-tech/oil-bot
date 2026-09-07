@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "2e19e038c38b400c",
-  "ussaysithitiranoiltankersaccusedofhelpingregionalproxies",
   "5367ee9a200dba60",
   "oilsettles1higherasusiranstrikesthreatensupplies",
   "f559cc2bde77f6fa",
@@ -603,7 +601,9 @@
   "c46c0dee728705e2",
   "oilpricesriseafterusandirantradestrikes",
   "e9c83297636b78f1",
-  "warningcrudeoilcouldreach120perbarrelifmiddleeasttensionsdon"
+  "warningcrudeoilcouldreach120perbarrelifmiddleeasttensionsdon",
+  "eaa6e14ad9e7b73b",
+  "crudeoiloptionvolumeopeninterest"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T16:40:18.339940+03:00",
+ "last_run": "2026-09-07T16:45:17.260803+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
