@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "7979d07df3f338b9",
-  "centcomannouncesstrikesonthreeiranianoiltankers",
-  "c893a952ffd5bd20",
-  "usstrikes3iranianoiltankersvowstodestroyentirefleetifnecessa",
-  "ee773962acc9604e",
-  "venezuelansskepticalofusoildealreshapingtheirfuture",
   "f9703a2e687ed2d0",
   "ussaysithit3iranianoiltankersincludingonenearkhargisland",
   "2a6e8f4faad8aba5",
@@ -603,7 +597,13 @@
   "8648af0056248d84",
   "crudeoilpriceforecastescalatingusirantankerattacksandstraito",
   "c93a26958b449e50",
-  "donaldtrumpsdealforvenezuelanoilcouldbegoodnewsforlouisianae"
+  "donaldtrumpsdealforvenezuelanoilcouldbegoodnewsforlouisianae",
+  "08984ac28ee8bf78",
+  "currentpriceofoilasofaug312026",
+  "5dc6dfa7152e4b43",
+  "currentpriceofoilasofaugust282026",
+  "4ea05e18b253bcbd",
+  "currentpriceofoilasofaugust272026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T12:15:17.479788+03:00",
+ "last_run": "2026-09-07T12:20:19.795042+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
