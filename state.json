@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "b2ab45231a1a349e",
-  "usforcesdestroy3iranianoiltankersnearkhargislandandgulfofoma",
-  "152f10bdb2199833",
-  "dwnewstheusmilitarysaysithasstruckthreeiranianoiltankerslink",
-  "5b4866d43893e003",
-  "usmilitarystrikesoiltankersasiranvowstougherreprisalsal",
   "d2b806fc20e6c042",
   "3oilstockstowatchasdieselpricesclimb",
   "193bfa9c9d3cfba9",
@@ -603,7 +597,13 @@
   "946eca534d64c365",
   "iranthreatensmorepainfulretaliationtousstrikesoniranianoilta",
   "ca1b9d956d192a4c",
-  "oildaxforecasttwotradestowatch"
+  "oildaxforecasttwotradestowatch",
+  "36b65cf3da129ac0",
+  "iransaysitwillcontrolnewhormuzshippingcorridor",
+  "bd0368b71274a992",
+  "stocksdentedbyinflationriskfromrisingoildiceygeopolitics",
+  "9aa5ebf2b679c4c6",
+  "iranwartensionsescalateasusstrikesmoreoiltankersinhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T14:45:17.421340+03:00",
+ "last_run": "2026-09-07T14:50:20.870927+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1660,6 +1660,14 @@
   {
    "d": "2026-09-07",
    "t": "Iran threatens \"more painful\" retaliation to U.S. strikes on Iranian oil tankers - CBS News"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Iran Says It Will Control New Hormuz Shipping Corridor"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Iran war: Tensions escalate as US strikes more oil tankers in Hormuz - engine.online"
   }
  ]
 }
