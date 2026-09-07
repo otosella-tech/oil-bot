@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "666cc6f0c7a1ba6f",
-  "astronomicalfuelpricesurgehitsfarmersinukandus",
-  "724577d2a8aba442",
-  "iranwarforcesarewriteofglobaloiltraderoutes",
   "66e668068205a37e",
   "labordaytravelcostssurgeasgasairfarepricesclimb",
   "12143da4f25bdc8d",
@@ -603,7 +599,11 @@
   "55041bd7ba75791f",
   "indianstockssliptosixweeklowasitslidesoilworriesmount",
   "1b2c35f6e2fdb3ae",
-  "oilhigheronhormuzescalationweighingonsentiment"
+  "oilhigheronhormuzescalationweighingonsentiment",
+  "af378df1a437b91d",
+  "fuelpricesatrecordlabordayhighinusduetoiranwarandrefineryiss",
+  "940daf848b32b3c3",
+  "brentholdsnearsixweekpeakasusiranattacksputhormuzshippinginf"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T16:15:17.930532+03:00",
+ "last_run": "2026-09-07T16:20:18.518634+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1692,6 +1692,14 @@
   {
    "d": "2026-09-07",
    "t": "Oil Higher on Hormuz Escalation, Weighing on Sentiment - WSJ"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Fuel prices at record Labor Day high in U.S. due to Iran war and refinery issues - NBC News"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Brent Holds Near Six-Week Peak as U.S.-Iran Attacks Put Hormuz Shipping in Focus - Yahoo Finance UK"
   }
  ]
 }
