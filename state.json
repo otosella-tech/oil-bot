@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 90.79,
+  "WTI": 92.61,
   "Brent": 95.5
  },
  "seen": [
-  "5406c44b65975ac1",
-  "iranwarcausesashiftinoilandenergymarkets",
   "49e2d932796b4b7e",
   "irgccommandersayshijabmonitoringtaskforcestoreturninnortheas",
   "1add0a073a69772e",
@@ -603,7 +601,9 @@
   "bc53e5b9080f7dd8",
   "goldmanrystadseeroomfor120oilifusiranconflictcontinues",
   "a0e050619a2b28fd",
-  "dowfuturesfalloilkeepsrisingnvidiasandiskmicronarenewbuys"
+  "dowfuturesfalloilkeepsrisingnvidiasandiskmicronarenewbuys",
+  "fe51c6a0f61e4d2c",
+  "goldmanflagsriskof120oil"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 3
  },
- "last_run": "2026-09-08T01:20:17.995141+03:00",
+ "last_run": "2026-09-08T01:25:15.381523+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
