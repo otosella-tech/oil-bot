@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "eb4cd5bf4a0f7478",
-  "russiaopensmassivevostokoilprojectandseverbayarcticport",
   "13b7a09dace85b92",
   "crudeoilweeklyoutlookwtiholdsabove7monthresistance",
   "99f12cb26b3834e0",
@@ -603,7 +601,9 @@
   "0bc7366b2a5ab520",
   "newyorksnuclearcomebackisgatheringsteam",
   "7b2939af2f112615",
-  "ugandanamesvitolinternationalmarketerforitscrudeoilexports"
+  "ugandanamesvitolinternationalmarketerforitscrudeoilexports",
+  "ce45ca368cde103b",
+  "brentcrudeoilpricenears100asattacksontankersthreatentoworsen"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-08",
-  "count": 5
+  "count": 6
  },
- "last_run": "2026-09-08T02:25:15.387764+03:00",
+ "last_run": "2026-09-08T02:30:23.313774+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
