@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "b7ba4bcd60b75985",
-  "vostokoilloadsfirstcrudeatseverbay",
-  "56a86ae520dd4d3c",
-  "currentpriceofoilasofaugust262026",
   "2e19e038c38b400c",
   "ussaysithitiranoiltankersaccusedofhelpingregionalproxies",
   "5367ee9a200dba60",
@@ -603,7 +599,11 @@
   "ceceeed72a49a8db",
   "highcrudeandlngpricesweighonindiasoilandgassector",
   "3257d94f5bf71dc2",
-  "iranvowstorespondtousstrikessaysusenergycompaniesfacilitiesa"
+  "iranvowstorespondtousstrikessaysusenergycompaniesfacilitiesa",
+  "c46c0dee728705e2",
+  "oilpricesriseafterusandirantradestrikes",
+  "e9c83297636b78f1",
+  "warningcrudeoilcouldreach120perbarrelifmiddleeasttensionsdon"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T16:35:15.206300+03:00",
+ "last_run": "2026-09-07T16:40:18.339940+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1708,6 +1708,10 @@
   {
    "d": "2026-09-07",
    "t": "Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - Reuters"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Oil Prices Rise After U.S. and Iran Trade Strikes - The New York Times"
   }
  ]
 }
