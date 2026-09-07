@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "66e668068205a37e",
-  "labordaytravelcostssurgeasgasairfarepricesclimb",
   "12143da4f25bdc8d",
   "usiranianforcesfireatvesselsinwatersneariran",
   "57331a20564c285b",
@@ -603,7 +601,9 @@
   "af378df1a437b91d",
   "fuelpricesatrecordlabordayhighinusduetoiranwarandrefineryiss",
   "940daf848b32b3c3",
-  "brentholdsnearsixweekpeakasusiranattacksputhormuzshippinginf"
+  "brentholdsnearsixweekpeakasusiranattacksputhormuzshippinginf",
+  "724577d2a8aba442",
+  "iranwarforcesarewriteofglobaloiltraderoutes"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T16:20:18.518634+03:00",
+ "last_run": "2026-09-07T16:25:14.349352+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1700,6 +1700,10 @@
   {
    "d": "2026-09-07",
    "t": "Brent Holds Near Six-Week Peak as U.S.-Iran Attacks Put Hormuz Shipping in Focus - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Iran War Forces a Rewrite of Global Oil Trade Routes"
   }
  ]
 }
