@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "bfb2e35b19bc5967",
-  "usmilitarysaysitstruckthreeiraniancrudeoilcarriersnearkhargi",
   "8c97f208c6a55fb3",
   "uscrudeoilstockpilesseelargerthanexpecteddrop",
   "7d94f36b1fc4bda9",
@@ -603,7 +601,9 @@
   "7a3ff7e58863053d",
   "crudeoilwtidoubletopat9364resistancelivelevels",
   "f6e71ccd99bfae63",
-  "oilpricehikepetroleumproductsareexpectedtoseeapriceincreases"
+  "oilpricehikepetroleumproductsareexpectedtoseeapriceincreases",
+  "7e52a60d54f1027d",
+  "oilrisesasrenewedusirantensionsfuelsupplyconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T11:15:19.975635+03:00",
+ "last_run": "2026-09-07T11:20:17.428077+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
