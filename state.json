@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "b060a56d555bed69",
-  "usandirantraderetaliatoryattacksonshipsasconflictflares",
   "da14a4fda8e13062",
   "thecomingverdictontrumpsstraitofhormuzclaims",
   "cf9e4716621a204b",
@@ -603,7 +601,9 @@
   "f2da05425a443bef",
   "iranislosingitsgriponhormuzasuspressurerestoresgulfflows",
   "9b7832cd6e7d7a6b",
-  "warningcrudeoilcouldreach120abarrelifmiddleeasttensionsdonot"
+  "warningcrudeoilcouldreach120abarrelifmiddleeasttensionsdonot",
+  "4ea4e31e431393fc",
+  "oilpricesriseto6weekhighafteriranandustradeblowssaudiaramcof"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T18:05:15.040745+03:00",
+ "last_run": "2026-09-07T18:10:19.163612+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1740,6 +1740,10 @@
   {
    "d": "2026-09-07",
    "t": "Iran is losing its grip on Hormuz as US pressure restores Gulf flows - The Jerusalem Post"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit - CNBC"
   }
  ]
 }
