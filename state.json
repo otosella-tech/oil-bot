@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "84ccea7ac892c9d0",
-  "venezuelasidentitytiedtooiltakesbruisingoverdealwithustheark",
-  "6d809ed57ff5249d",
-  "oilsurgedthenslumpedyeartodatein2026heresmypredictionforwhat",
   "36428c912fa4e333",
   "usirantradestrikesinstraitofhormuzasbothbattleonsocialmedia",
   "0e6353e99b6056d0",
@@ -603,7 +599,11 @@
   "93c12e915af786a6",
   "rosneftceochinacallstheshotsinoilmarketsnotopec",
   "556c9654d81bb52b",
-  "crudeoilwtitests9364resistancewithoverboughtrsilivelevels"
+  "crudeoilwtitests9364resistancewithoverboughtrsilivelevels",
+  "a609a6cc544edbcd",
+  "gmfordturnevbatterybustintoenergystoragebet",
+  "769a80b10019e37b",
+  "burnhamtrumpdiscusshormuzreopeningirannuclearprogram"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T22:55:16.402726+03:00",
+ "last_run": "2026-09-07T23:00:27.663913+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1788,6 +1788,10 @@
   {
    "d": "2026-09-07",
    "t": "Rosneft CEO China Calls The Shots in Oil Markets, Not OPEC - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Burnham, Trump discuss Hormuz reopening, Iran nuclear program - Iran International"
   }
  ]
 }
