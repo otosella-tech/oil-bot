@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "3dbc2cd3fea06f72",
-  "commentarytheresmoretopetroleumthangasoline",
-  "f9e248d9dead1fb7",
-  "currentpriceofoilasofseptember12026",
-  "5ff26a3bd513c38e",
-  "iransattackskeepthestraitofhormuzinalethalstalemate",
   "cf55779381d4ba01",
   "crudeoilbenchmarksbrentwtisweetvssourlightvsheavy",
   "2bd6d9b92387137c",
@@ -603,7 +597,13 @@
   "b060a56d555bed69",
   "usandirantraderetaliatoryattacksonshipsasconflictflares",
   "ee85e0ad73ae0006",
-  "researchersstudyoileatingmicrobesoffhudsonbaycoast"
+  "researchersstudyoileatingmicrobesoffhudsonbaycoast",
+  "63afc19356b98049",
+  "russiavowstokeepsellingoiltoindiadespiteustariffthreat",
+  "2969cea700689043",
+  "currentpriceofoilasofseptember42026",
+  "10cdf14658cae7ae",
+  "iransoildollarsaredryingupandplungingitdeeperintocrisis"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T20:25:15.468408+03:00",
+ "last_run": "2026-09-07T20:30:25.065652+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1760,6 +1760,14 @@
   {
    "d": "2026-09-07",
    "t": "US and Iran trade retaliatory attacks on ships as conflict flares - BBC"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Iran’s Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis - WSJ"
   }
  ]
 }
