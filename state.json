@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "98e540d18d7834f6",
-  "usmilitarystrikesthreeiraniantankers",
   "da368309ad7a4db5",
   "iransaysusattacked3oiltankersoffsiraniancoasts",
   "1f60209942893255",
@@ -603,7 +601,9 @@
   "75fd6765f3479127",
   "europeansharesdipashigheroilpricesweighnovartisslips",
   "17496f6d015b7cd8",
-  "crudeoiltradersreaddailychartsthatthemultiyearmapdenies"
+  "crudeoiltradersreaddailychartsthatthemultiyearmapdenies",
+  "8ff5d0a5a265a5db",
+  "europeansharesdipashigheroilpricesweighnovartisslipswnwn"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T17:15:17.708673+03:00",
+ "last_run": "2026-09-07T17:20:18.452988+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
