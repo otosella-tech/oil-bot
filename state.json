@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "eda285d00af77ede",
-  "asxonedgeasoilwarrattlesmarkets",
   "68910b64006c6729",
   "yoursundaysept6guidewhattodointheoilcity",
   "b082b6a99841024f",
@@ -603,7 +601,9 @@
   "990302699050471f",
   "goldmansachsprojectscrudeoilmaysurgeto120amidescalatingmiddl",
   "ee0b4a85608e8767",
-  "anewnormalisdevelopingintheglobalcrudeoilmarketsaysjapanesea"
+  "anewnormalisdevelopingintheglobalcrudeoilmarketsaysjapanesea",
+  "182b5993b3e32174",
+  "caniraqreallyreplacesaudiarabiaasthemiddleeaststopoilproduce"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T17:55:14.664539+03:00",
+ "last_run": "2026-09-07T18:00:28.690730+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1732,6 +1732,10 @@
   {
    "d": "2026-09-07",
    "t": "Saudi Aramco oil facilities hit in new strikes - Financial Times"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Can Iraq Really Replace Saudi Arabia As The Middle East’s Top Oil Producer?"
   }
  ]
 }
