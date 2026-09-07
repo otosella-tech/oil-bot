@@ -4,20 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "b3530f5b1ae723e4",
-  "withthemidtermsloomingtrumphasnorealwayoutofhisgaspriceprobl",
-  "2badea016fb4d32f",
-  "ussanctionsturkishbankaccusingitofhelpingirantransferoilreve",
-  "d33439c11d7c94f3",
-  "usstrikes3iranianoiltankersaftermissileattacksonnavywarships",
-  "c661adfbe8d2a574",
-  "irancondemnsusstrikesonoiltankersasillegalaggressive",
-  "37ba0ce80045afa4",
-  "usforcesstruckthreeiranianoiltankers",
-  "eb46946c7f2b9c96",
-  "centcomdestroys3irgcoiltankersafterirantargets2usnavywarship",
-  "4cebfed1ff61b577",
-  "theusmilitarysaysithasstruckthreeiranianoiltankerslinkedtoir",
   "2fe8d2d46d1f1098",
   "launchofthevostokoilproject",
   "41bc6647c4fd32a2",
@@ -603,7 +589,21 @@
   "5a56eef6a7cc10be",
   "rosneftbeginsoilshipmentsfromvostokoilprojectinarctic",
   "d67385f43f5a39c0",
-  "usavenoildealnotaneartermsprfiller"
+  "usavenoildealnotaneartermsprfiller",
+  "83259ee763a56dcf",
+  "crudepetroleumhs2709producttradeexportersandimporters",
+  "ec0743e9240eb3dd",
+  "iranandukrainewarswhyshipfuelisrunningshortandwhyitmatters",
+  "6db6c14072c585a9",
+  "brentlastdayfinancialoverview",
+  "2e3fa42a38c55cd5",
+  "venezuelarespectsoildealssignedwithchinaandrussia",
+  "df0d4cf262448e4d",
+  "pearlsweetcrudeoildebutsinsingapore",
+  "69bd8eb7888280db",
+  "indiascrudeoilbasketexceeds100perbarrel",
+  "3505261d5162e07e",
+  "ukrainiandroneblitzhits3russianoilrefinerieszelenskyconfirms"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T14:30:22.287271+03:00",
+ "last_run": "2026-09-07T14:35:16.059833+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
@@ -1640,6 +1640,14 @@
   {
    "d": "2026-09-07",
    "t": "Oil Prices Churn After U.S. and Iran Trade Strikes - The New York Times"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Venezuela \"respects\" oil deals signed with China and Russia - Plataforma Media"
+  },
+  {
+   "d": "2026-09-07",
+   "t": "Ukrainian drone blitz hits 3 Russian oil refineries, Zelensky confirms - The Kyiv Independent"
   }
  ]
 }
