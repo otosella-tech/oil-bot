@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "6f8bfb2dcf9781dd",
-  "usstrikes3iranianoiltankersafteriranfiresatnavyships",
   "61def49b2b7400b1",
   "ussaysitstruckthreeiranianoiltankersafterattacksonwarships",
   "3bfe6635f0ecdb4e",
@@ -603,7 +601,9 @@
   "ef587966afdda4ad",
   "watchcrudeoilpricespoisedforsignificantleghigherenergyaspect",
   "43304437caf49472",
-  "oilpricesriseamidlowestshiptrafficinthestraitofhormuz"
+  "oilpricesriseamidlowestshiptrafficinthestraitofhormuz",
+  "edccd2a686d82f05",
+  "wticrudeoilfuturesholdnear86asmiddleeasttensionspersist"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-07",
   "count": 60
  },
- "last_run": "2026-09-07T13:40:19.592788+03:00",
+ "last_run": "2026-09-07T13:45:18.714736+03:00",
  "sent_stories": [
   {
    "d": "2026-09-04",
