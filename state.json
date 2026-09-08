@@ -4,10 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "2bd6d9b92387137c",
-  "iranhasonly30millionbarrelsofoilleftforchinabessentsays",
-  "0795076514cf7529",
-  "andrewzimmernandiagreethis15oliveoilcrushesitsgrocerystoreco",
   "4aedbcec95adb827",
   "currentpriceofoilasofaugust312026",
   "39685ed819f59c92",
@@ -603,7 +599,11 @@
   "5a571ec7dfd755ce",
   "oilpricesholdnearsixweekhighafterhouthishitsaudisites",
   "2969cea700689043",
-  "currentpriceofoilasofseptember42026"
+  "currentpriceofoilasofseptember42026",
+  "10cdf14658cae7ae",
+  "iransoildollarsaredryingupandplungingitdeeperintocrisis",
+  "b0f2b8b4b98ef994",
+  "propetropumpstocktradesuphereiswhy"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T22:10:21.330005+03:00",
+ "last_run": "2026-09-08T22:15:18.692250+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1888,6 +1888,10 @@
   {
    "d": "2026-09-08",
    "t": "Oil prices hold near six-week high after Houthis hit Saudi sites - Reuters"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Iran’s Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis - WSJ"
   }
  ]
 }
