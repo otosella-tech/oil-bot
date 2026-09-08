@@ -4,10 +4,6 @@
   "Brent": 99.42
  },
  "seen": [
-  "920e37fa3eaab5f4",
-  "goldmanflagsriskof120oilifmideastshipattacksintensify",
-  "878fec893e89802a",
-  "fuelpricesatrecordlabordayhighinusthankstoiranwarrefineryiss",
   "44137d3ab748029b",
   "iranclaimsstrikeonausshipinthestraitofhormuzbuttheusdeniesit",
   "47e1ef9a5e55c9b1",
@@ -603,7 +599,11 @@
   "176937ba804249b3",
   "ugandanamesitscrudeoilpearlsweetaheadofproduction",
   "d921974dcc72fcd2",
-  "oilnears100abarrelagainwhythingscouldgetmessyformarkets"
+  "oilnears100abarrelagainwhythingscouldgetmessyformarkets",
+  "159dccc98f1beaea",
+  "rupeeenduressharpestfallinoveramonthasbrentoilbarrelstowards",
+  "7dc14474f5e27dea",
+  "opechaslostcontroloftheoilmarket"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T13:40:18.792087+03:00",
+ "last_run": "2026-09-08T13:45:18.388938+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1664,6 +1664,14 @@
   {
    "d": "2026-09-08",
    "t": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people, officials say - ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Rupee endures sharpest fall in over a month as Brent oil barrels towards $100 - Reuters"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "OPEC+ has lost control of the oil market - thestreet.com"
   }
  ]
 }
