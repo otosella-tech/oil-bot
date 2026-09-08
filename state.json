@@ -4,8 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "3a327afa183e73d6",
-  "predictionmarketkalshitofileforuscrudeoilperpssourcesays",
   "509a81a1319b7973",
   "oilpricesrisetosixweekhighsonworseningmiddleeastconflict",
   "225d75da44190b83",
@@ -603,7 +601,9 @@
   "18caba2a55ef8b43",
   "oilpricescouldhit120analysisfindsasamericansabsorb100billion",
   "25ba5c0a14d32810",
-  "adpemploymentenergyoutlookandoilinventoriesduewednesday"
+  "adpemploymentenergyoutlookandoilinventoriesduewednesday",
+  "7f2c3721a1de14db",
+  "octoberwticrudeoilcontractclosesup155or17settlesat9303perbar"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T21:45:19.529968+03:00",
+ "last_run": "2026-09-08T21:50:20.810996+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
