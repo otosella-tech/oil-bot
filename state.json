@@ -4,14 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "56a86ae520dd4d3c",
-  "currentpriceofoilasofaugust262026",
-  "4f2a598639792ddc",
-  "trumpenvoysshuttlebetweenmoscowandkyivasusrevivesukrainepeac",
-  "92c32e4850a38301",
-  "gasolinepricesover4pergallonhitrecordhighforlaborday",
-  "8a6d283c492b7564",
-  "crudeoilforecastwtibrentbullstargetkeybreakouts",
   "18d4e19af514eff4",
   "russiashipsfirstcrudefromitsgiantvostokoilprojectthrougharct",
   "75fd6765f3479127",
@@ -603,7 +595,15 @@
   "ae7fae6d4233dfaa",
   "commodityinflationishotbutfedisstillfocusedoncoreinflation",
   "35c973bb1a6842fc",
-  "stocksofcrudeoilintheussprfellbyabout12mlnbarrelsto2854mlnba"
+  "stocksofcrudeoilintheussprfellbyabout12mlnbarrelsto2854mlnba",
+  "5e225177278071fc",
+  "oilrisestosixweekhighfollowinghouthiattackonsaudisites",
+  "5c312a87f0d111aa",
+  "iranthreatenstotargetusenergyassetsingulfifusstrikesagain",
+  "6eb3874d355623ba",
+  "oilsettles1higherasusiranstrikesthreatensupplies",
+  "546ad57099c94f5a",
+  "usequityindexesfallasstrikesonsaudiarabianenergysitessendcru"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T19:45:19.619730+03:00",
+ "last_run": "2026-09-08T19:50:19.392450+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1824,6 +1824,22 @@
   {
    "d": "2026-09-08",
    "t": "Oil futures: Crude higher amid escalation fears, attacks on Saudi - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Oil rises to six-week high following Houthi attack on Saudi sites - reuters.com"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Iran Threatens to Target U.S. Energy Assets in Gulf If U.S. Strikes Again - Time Magazine"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Oil settles 1% higher, as US-Iran strikes threaten supplies - reuters.com"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "US Equity Indexes Fall as Strikes on Saudi Arabian Energy Sites Send Crude Oil Higher - marketscreener.com"
   }
  ]
 }
