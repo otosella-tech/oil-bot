@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "4ea47379409cde9f",
-  "turnsoutthetricktolowergaspricesisdrivinglessaccordingtotheu",
   "069898f20a03c31c",
   "iranthreatensgreaterforceifuslaunchesmoreattacksal",
   "3e5b6ab1dc22402a",
@@ -603,7 +601,9 @@
   "cadb42bb4dbc3336",
   "oilextendsgainsasrenewedmideasthostilitiesraiseworriesofprol",
   "7b60441ee53bca31",
-  "grainpricesetfssurgeamidusiranwarhighoil"
+  "grainpricesetfssurgeamidusiranwarhighoil",
+  "3783a50167ecd89a",
+  "vitolceoseeschinaoildemandpickingupflagsunsustainablegap"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 15
  },
- "last_run": "2026-09-08T05:30:21.903093+03:00",
+ "last_run": "2026-09-08T05:35:13.059524+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
