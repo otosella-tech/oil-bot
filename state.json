@@ -4,8 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "cf55779381d4ba01",
-  "crudeoilbenchmarksbrentwtisweetvssourlightvsheavy",
   "1a3c52d9efbc7515",
   "crudeoilpriceshowhighcanbrentgobeforetheendof2026",
   "bdb7d61c47e74bde",
@@ -603,7 +601,9 @@
   "fe1c78a0192b8032",
   "crudeoilpricesriseasglobalsuppliestighten",
   "2bd6d9b92387137c",
-  "iranhasonly30millionbarrelsofoilleftforchinabessentsays"
+  "iranhasonly30millionbarrelsofoilleftforchinabessentsays",
+  "0adce77b1687043b",
+  "tennesseegaspricesrise13cents"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T22:25:15.994803+03:00",
+ "last_run": "2026-09-08T22:30:24.367220+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
