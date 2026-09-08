@@ -4,10 +4,6 @@
   "Brent": 97.42
  },
  "seen": [
-  "8bd8c646db90ae80",
-  "fedsseektostreamlinearcticoilpermittingendingenvironmentstud",
-  "73419932a8fd8f75",
-  "whyisfuelexpensivewhencrudeoilhasnthitrecordhighs",
   "8102f2900f6c9c9a",
   "opeckeepsoctoberoilproductionquotasunchangedamidiranwar",
   "6294662442d4e675",
@@ -603,7 +599,11 @@
   "6fa06b0c10e06926",
   "brentcrudeoilpreparestoattackakeyresistanceanalysis08092026",
   "14400136b44e0567",
-  "chinascrudeimportsstrengthenasrefinersdiversifysupply"
+  "chinascrudeimportsstrengthenasrefinersdiversifysupply",
+  "f3c7ca0edda3a329",
+  "whyisntoilabove100despitesupplydisruptions",
+  "813a9cd486f668ad",
+  "oilrisesasrisksofprolongedmideastconflictfansupplyworries"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 17
  },
- "last_run": "2026-09-08T07:25:14.987292+03:00",
+ "last_run": "2026-09-08T07:30:23.087178+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
