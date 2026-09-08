@@ -4,8 +4,6 @@
   "Brent": 97.42
  },
  "seen": [
-  "cfb91e7d47d24661",
-  "usstrikesthreeiranianoiltankersaftermissileattacksonnavywars",
   "202f47e427f32ea6",
   "oilpricesriseslightlyafterusandirantradestrikes",
   "5a94c2e74806f92c",
@@ -603,7 +601,9 @@
   "1b4bb045930e5844",
   "opeckeepsoctobercrudeoiloutputpolicyunchanged",
   "b374171f8439c2cb",
-  "dronesattackedthesaratovoilrefineryafirebrokeoutneartheplant"
+  "dronesattackedthesaratovoilrefineryafirebrokeoutneartheplant",
+  "6ac113adbe3913dc",
+  "oilpricesup070926"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 31
  },
- "last_run": "2026-09-08T08:55:14.493584+03:00",
+ "last_run": "2026-09-08T09:00:28.081044+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
