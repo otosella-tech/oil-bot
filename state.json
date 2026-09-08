@@ -4,10 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "7b6ee9519216b5fb",
-  "kplervenezuelaweighspotentialopecexitasoilproductionrecovers",
-  "898d73abcb1d5d72",
-  "oilclosesinon100asrenewedsupplycrunchlooms",
   "b8e30e25786b5dd8",
   "ugandaenlistsvitoltomarketitscrudeoil",
   "5cc8af003db55832",
@@ -603,7 +599,11 @@
   "4ea4e31e431393fc",
   "oilpricesriseto6weekhighafteriranandustradeblowssaudiaramcof",
   "47dffba1236dc3d8",
-  "americansarefootinga100billionenergybillfromtheiranwar"
+  "americansarefootinga100billionenergybillfromtheiranwar",
+  "ebc26b096ee08da9",
+  "marcorubioenjoyedmajorsupportamongvenezuelansthencametrumpso",
+  "b570336eff8c68e5",
+  "tamarackvalleytomergewithheadwaterexplorationinover724billio"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T20:50:19.846381+03:00",
+ "last_run": "2026-09-08T20:55:14.935487+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1876,6 +1876,10 @@
   {
    "d": "2026-09-08",
    "t": "Americans are footing a $100 billion energy bill from the Iran war - kezi.com"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Marco Rubio enjoyed major support among Venezuelans. Then came Trump’s oil deal. - The Washington Post"
   }
  ]
 }
