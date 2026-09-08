@@ -4,8 +4,6 @@
   "Brent": 99.42
  },
  "seen": [
-  "04a6fa15dabc8528",
-  "oilpriceschurnafterusandirantradestrikes",
   "5a56eef6a7cc10be",
   "rosneftbeginsoilshipmentsfromvostokoilprojectinarctic",
   "d67385f43f5a39c0",
@@ -603,7 +601,9 @@
   "034673f5ae3262c4",
   "brentcrudeoilnear98afteriranshouthialliesattackmultiplesaudi",
   "ee516d624693c236",
-  "europeanstocksflatasinvestorsweighimminentecbhikeandoilspike"
+  "europeanstocksflatasinvestorsweighimminentecbhikeandoilspike",
+  "1d6e739691510ec5",
+  "usstockmarkettodaydowsp500declineoncrudeoiljitterschipstocks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T16:45:20.793859+03:00",
+ "last_run": "2026-09-08T16:50:22.163235+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
