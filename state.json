@@ -4,10 +4,6 @@
   "Brent": 99.42
  },
  "seen": [
-  "63a01d2b66211516",
-  "crudeoilfuturesclimbamidpositiveglobaltrends",
-  "7a3ff7e58863053d",
-  "crudeoilwtidoubletopat9364resistancelivelevels",
   "f6e71ccd99bfae63",
   "oilpricehikepetroleumproductsareexpectedtoseeapriceincreases",
   "7e52a60d54f1027d",
@@ -603,7 +599,11 @@
   "e7ece7fb6e7362a0",
   "saudiarabiavowsretaliationafterhouthiattacksinjuredozens",
   "0eca9f05f045592e",
-  "oilfuturescrudeextendsrallyamidescalationfearsattacksonsaudi"
+  "oilfuturescrudeextendsrallyamidescalationfearsattacksonsaudi",
+  "5a5ccc881055273a",
+  "asiaispoisedtotakeup70ofcanadianoilexportspipelineexecutives",
+  "bb389bb41fd17b0e",
+  "oilpricesurgehitsstockmarketsentiment"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T14:50:19.425307+03:00",
+ "last_run": "2026-09-08T14:55:19.097062+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1700,6 +1700,10 @@
   {
    "d": "2026-09-08",
    "t": "Oil futures: Crude extends rally amid escalation fears, attacks on Saudi - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Asia is poised to take up 70% of Canadian oil exports, pipeline executive says - Reuters"
   }
  ]
 }
