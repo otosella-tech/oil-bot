@@ -4,10 +4,6 @@
   "Brent": 99.42
  },
  "seen": [
-  "cfaf972bea3e0898",
-  "asianstocksrallyaschipmakerssurgeoilandfedbetskeeprisksinvie",
-  "41e11a716bec9741",
-  "centcomannouncesretaliatorystrikeson3iranianoiltankers",
   "04a6fa15dabc8528",
   "oilpriceschurnafterusandirantradestrikes",
   "5a56eef6a7cc10be",
@@ -603,7 +599,11 @@
   "18a1b528808e44a1",
   "brazilboostsoiloutputandexportsasiranwardisruptsglobalsupply",
   "ec164c396b8fb5ab",
-  "indiascrudeoilbenchmarktops100asmiddleeastwarescalates"
+  "indiascrudeoilbenchmarktops100asmiddleeastwarescalates",
+  "034673f5ae3262c4",
+  "brentcrudeoilnear98afteriranshouthialliesattackmultiplesaudi",
+  "ee516d624693c236",
+  "europeanstocksflatasinvestorsweighimminentecbhikeandoilspike"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T16:41:34.008216+03:00",
+ "last_run": "2026-09-08T16:45:20.793859+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1772,6 +1772,14 @@
   {
    "d": "2026-09-08",
    "t": "India's Crude Oil Benchmark Tops $100 as Middle East War Escalates - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Brent crude oil near $98 after Iran's Houthi allies attack multiple Saudi energy facilities - CNBC"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "European stocks flat as investors weigh imminent ECB hike and oil spike By Investing.com - Investing.com"
   }
  ]
 }
