@@ -4,8 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "1a0d50d74b4bfde9",
-  "crudeoiltechnicalsbuyerstestkeyresistancenear9350",
   "3467c36744f5aac6",
   "opecalliesagreetokeepoiloutputsteadyinoctober",
   "500590c4302d73e5",
@@ -603,7 +601,9 @@
   "e926d8bfafb6a9eb",
   "singleengineplanemakesemergencylandinginkempercounty",
   "bf3b8f3b7e9f9242",
-  "labordaygasolinejusthitarecordhereswhatcomesnext"
+  "labordaygasolinejusthitarecordhereswhatcomesnext",
+  "4a673d90d93ee58a",
+  "usvenezuelaoildealgoesfarbeyondcrude"
  ],
  "releases_done": {
   "2026-09-08|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T23:10:19.798843+03:00",
+ "last_run": "2026-09-08T23:12:08.532540+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
