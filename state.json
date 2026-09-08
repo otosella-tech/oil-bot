@@ -4,8 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "2969cea700689043",
-  "currentpriceofoilasofseptember42026",
   "10cdf14658cae7ae",
   "iransoildollarsaredryingupandplungingitdeeperintocrisis",
   "a72bf3c1256d2d82",
@@ -603,7 +601,9 @@
   "94725d2b30fbdd5a",
   "crudeoilgains15abmpostsupbeatq3earnings",
   "412566de27d7fd27",
-  "middleeastconflicttriggersferociousbackwardationinoilmarkets"
+  "middleeastconflicttriggersferociousbackwardationinoilmarkets",
+  "89e386ba5cb45747",
+  "afterthebellcrudeoilextendsgainsasdollarfades"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T22:00:32.369099+03:00",
+ "last_run": "2026-09-08T22:05:15.249822+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
