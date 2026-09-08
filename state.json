@@ -4,10 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "9b7832cd6e7d7a6b",
-  "warningcrudeoilcouldreach120abarrelifmiddleeasttensionsdonot",
-  "4ea4e31e431393fc",
-  "oilpricesriseto6weekhighafteriranandustradeblowssaudiaramcof",
   "df01e21b64223a13",
   "monetarypolicyandforeverwars",
   "3ab4a3cf5de5c133",
@@ -603,7 +599,11 @@
   "83e8ca4b7f07f517",
   "wallstreetdipsasyenoilgainamidmiddleeaststrife",
   "5dab5c10abb55921",
-  "chevrontodoubleoilrigsinvenezuelaaspartofgrowthplan"
+  "chevrontodoubleoilrigsinvenezuelaaspartofgrowthplan",
+  "3229b0f611c14bd7",
+  "libertyenergygreenplainsmurphyoilpattersonutiandtexaspacific",
+  "eb34d49ba7d43512",
+  "saudiarabiaandyemenshouthisedgebacktothebrinkofwar"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T20:35:15.853114+03:00",
+ "last_run": "2026-09-08T20:40:19.187536+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1864,6 +1864,10 @@
   {
    "d": "2026-09-08",
    "t": "Chevron to double oil rigs in Venezuela as part of growth plan - Reuters"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War - The New York Times"
   }
  ]
 }
