@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 92.61,
+  "WTI": 94.48,
   "Brent": 97.42
  },
  "seen": [
-  "eee17fa2853682de",
-  "cnbcdailyopentrumpslittleexcursionbecomesanuphillbattleasira",
   "1a802c29ca44b895",
   "trumpsstatecapitalismcomestotheoilindustrywithhisunprecedent",
   "b10f1c92b9de81b1",
@@ -603,7 +601,9 @@
   "62e07c914736fc75",
   "brentcrudeapproaches99asusoiltops94forfirsttimeinthreemonths",
   "8584b1089d630095",
-  "hormuztrafficslowsafteriranthreatensretaliationforusattacks"
+  "hormuztrafficslowsafteriranthreatensretaliationforusattacks",
+  "314421f26eb417d6",
+  "reportiransoffshoreoilstockpilecouldrunoutbyoctoberasusblock"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 47
  },
- "last_run": "2026-09-08T11:10:20.756675+03:00",
+ "last_run": "2026-09-08T11:15:18.165018+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
