@@ -4,10 +4,6 @@
   "Brent": 97.42
  },
  "seen": [
-  "7bff34e5bef011cc",
-  "oilpricesfallasusrollsoutglobalsanctionsfocusedoniran",
-  "6b635b3aa7f4a1dc",
-  "stockmarkettodaygiftniftytocrudeoilpricesfivekeyfactorsthatm",
   "eee17fa2853682de",
   "cnbcdailyopentrumpslittleexcursionbecomesanuphillbattleasira",
   "1a802c29ca44b895",
@@ -603,7 +599,11 @@
   "3df05abe1b7237bb",
   "crudeoilfuturesriseamidpositiveglobaltrends",
   "32483a9489569a36",
-  "globaldieselsupplycrunchissettolastthroughwinter"
+  "globaldieselsupplycrunchissettolastthroughwinter",
+  "62e07c914736fc75",
+  "brentcrudeapproaches99asusoiltops94forfirsttimeinthreemonths",
+  "8584b1089d630095",
+  "hormuztrafficslowsafteriranthreatensretaliationforusattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-08",
-  "count": 45
+  "count": 47
  },
- "last_run": "2026-09-08T11:00:28.499695+03:00",
+ "last_run": "2026-09-08T11:05:15.465140+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1624,6 +1624,10 @@
   {
    "d": "2026-09-08",
    "t": "Brent crude nears $99 after strikes on Saudi energy sites amid renewed Mideast hostilities - CNBC"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Hormuz traffic slows after Iran threatens retaliation for US attacks - The Jerusalem Post"
   }
  ]
 }
