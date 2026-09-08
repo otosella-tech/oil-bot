@@ -4,12 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "b8e30e25786b5dd8",
-  "ugandaenlistsvitoltomarketitscrudeoil",
-  "5cc8af003db55832",
-  "uzbekistanscalesbacknuclearcooperationwithrussia",
-  "698d5bafc3bcd59e",
-  "usgasolinepriceshitlabordayrecord",
   "78e9037fb4e522da",
   "cpofuturesendhigheronfirmercrudeoildcepalmoleingains",
   "ef124b1259de643e",
@@ -603,7 +597,13 @@
   "ebc26b096ee08da9",
   "marcorubioenjoyedmajorsupportamongvenezuelansthencametrumpso",
   "b570336eff8c68e5",
-  "tamarackvalleytomergewithheadwaterexplorationinover724billio"
+  "tamarackvalleytomergewithheadwaterexplorationinover724billio",
+  "7733f0a83b039bac",
+  "howtheusistargetingiransoilmoney",
+  "fad5604e4f6db085",
+  "aforgottensovietwaterwaycouldgivechinaanewarctictraderoute",
+  "d63cbc81d87b181e",
+  "chevrontodoublevenezuelarigcountin7billionoilpush"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T20:55:14.935487+03:00",
+ "last_run": "2026-09-08T21:00:30.430789+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1880,6 +1880,10 @@
   {
    "d": "2026-09-08",
    "t": "Marco Rubio enjoyed major support among Venezuelans. Then came Trump’s oil deal. - The Washington Post"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Chevron to Double Venezuela Rig Count in $7 Billion Oil Push"
   }
  ]
 }
