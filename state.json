@@ -4,10 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "4aedbcec95adb827",
-  "currentpriceofoilasofaugust312026",
-  "39685ed819f59c92",
-  "modernwarfareisburningthroughthemetalsneededforahigh",
   "cf55779381d4ba01",
   "crudeoilbenchmarksbrentwtisweetvssourlightvsheavy",
   "1a3c52d9efbc7515",
@@ -603,7 +599,11 @@
   "10cdf14658cae7ae",
   "iransoildollarsaredryingupandplungingitdeeperintocrisis",
   "b0f2b8b4b98ef994",
-  "propetropumpstocktradesuphereiswhy"
+  "propetropumpstocktradesuphereiswhy",
+  "fe1c78a0192b8032",
+  "crudeoilpricesriseasglobalsuppliestighten",
+  "2bd6d9b92387137c",
+  "iranhasonly30millionbarrelsofoilleftforchinabessentsays"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T22:15:18.692250+03:00",
+ "last_run": "2026-09-08T22:20:22.131593+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
