@@ -4,8 +4,6 @@
   "Brent": 97.42
  },
  "seen": [
-  "5a94c2e74806f92c",
-  "oilrichomanbetsbigonrenewableenergy",
   "1336821a2627be41",
   "russiaisredrawingitsenergymapthroughthearctic",
   "fa01543a58c35110",
@@ -603,7 +601,9 @@
   "6ac113adbe3913dc",
   "oilpricesup070926",
   "95156ed07975e497",
-  "stocksinasiapoisedtoedgedownyeninfocusmarketswrap"
+  "stocksinasiapoisedtoedgedownyeninfocusmarketswrap",
+  "89524cc1571e6004",
+  "cnbcdailyopenbrentcrudebarrelsbacktowards100"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-08",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-09-08T09:10:18.123528+03:00",
+ "last_run": "2026-09-08T09:15:18.842510+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1596,6 +1596,10 @@
   {
    "d": "2026-09-08",
    "t": "Drones attacked the Saratov oil refinery: a fire broke out near the plant - UkrMedia News"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "CNBC Daily Open: Brent crude barrels back towards $100 - CNBC"
   }
  ]
 }
