@@ -4,12 +4,6 @@
   "Brent": 97.42
  },
  "seen": [
-  "8102f2900f6c9c9a",
-  "opeckeepsoctoberoilproductionquotasunchangedamidiranwar",
-  "6294662442d4e675",
-  "liveiransaysnewrestrictedzonetobeannouncedinpersiangulf",
-  "81d1a69bb1c8ef5b",
-  "oilmajorsseekbiggerbargainingpowerinlabordisputes",
   "8dba7959335129a1",
   "farmersaregoingbrokeamidrisinggaspriceswhiletheagsecretarypr",
   "dbb9c8cbe8eeac52",
@@ -603,7 +597,13 @@
   "f3c7ca0edda3a329",
   "whyisntoilabove100despitesupplydisruptions",
   "813a9cd486f668ad",
-  "oilrisesasrisksofprolongedmideastconflictfansupplyworries"
+  "oilrisesasrisksofprolongedmideastconflictfansupplyworries",
+  "9c4ffc7837f4459b",
+  "chinasoilimportsstrengthenasrefinersdiversifysupply",
+  "73419932a8fd8f75",
+  "whyisfuelexpensivewhencrudeoilhasnthitrecordhighs",
+  "7d8568495049119c",
+  "crudeoilfuturesriseafteriranthreatensretaliatorystrikeonener"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-08",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-09-08T07:30:23.087178+03:00",
+ "last_run": "2026-09-08T07:35:14.236908+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1576,6 +1576,10 @@
   {
    "d": "2026-09-08",
    "t": "TRUMP’S $2 GAS PROMISE | Americans Are Paying $4.15. Can Winning the Iran War Really Halve It? - Open Magazine"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Crude oil futures rise after Iran threatens retaliatory strike on energy assets - BusinessLine"
   }
  ]
 }
