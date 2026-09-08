@@ -4,8 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "5367ee9a200dba60",
-  "oilsettles1higherasusiranstrikesthreatensupplies",
   "56a86ae520dd4d3c",
   "currentpriceofoilasofaugust262026",
   "4f2a598639792ddc",
@@ -603,7 +601,9 @@
   "52f3d0b5e24d8a15",
   "eveningupdateforcrudeoil08092026",
   "ae7fae6d4233dfaa",
-  "commodityinflationishotbutfedisstillfocusedoncoreinflation"
+  "commodityinflationishotbutfedisstillfocusedoncoreinflation",
+  "35c973bb1a6842fc",
+  "stocksofcrudeoilintheussprfellbyabout12mlnbarrelsto2854mlnba"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T19:40:21.791685+03:00",
+ "last_run": "2026-09-08T19:45:19.619730+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
