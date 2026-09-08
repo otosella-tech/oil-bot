@@ -4,10 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "940daf848b32b3c3",
-  "brentholdsnearsixweekpeakasusiranattacksputhormuzshippinginf",
-  "724577d2a8aba442",
-  "iranwarforcesarewriteofglobaloiltraderoutes",
   "ceceeed72a49a8db",
   "highcrudeandlngpricesweighonindiasoilandgassector",
   "3257d94f5bf71dc2",
@@ -603,7 +599,11 @@
   "3c4084cad478f50c",
   "usequityindexesfallascrudeoiladvancesfollowingattacksonsaudi",
   "2eaeeaea8e9369c8",
-  "oilcoordinationgroupnoimmediatesecurityofoilsupplyconcernsin"
+  "oilcoordinationgroupnoimmediatesecurityofoilsupplyconcernsin",
+  "aa2255cd04ca439e",
+  "driversinformorepainasoilrocketsbacktoward100perbarrel",
+  "fe951a36999dc44f",
+  "bitcoinfaceskeysupporttestat783kasuscrudeoilhitsthreemonthhi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T19:10:22.448267+03:00",
+ "last_run": "2026-09-08T19:15:18.844015+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1808,6 +1808,10 @@
   {
    "d": "2026-09-08",
    "t": "US Equity Indexes Fall as Crude Oil Advances Following Attacks on Saudi Arabian Energy Sites - marketscreener.com"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Drivers in for more pain as oil rockets back toward $100 per barrel - The Washington Post"
   }
  ]
 }
