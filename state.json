@@ -4,8 +4,6 @@
   "Brent": 97.42
  },
  "seen": [
-  "4191e8734af78430",
-  "proukrainianpartisanssabotagedcommunicationtoweraheadofoilre",
   "c7ec22db319a7816",
   "oilrisesasescalatingusiranconflictstokessupplydisruptionfear",
   "b8734daeefa907a2",
@@ -603,7 +601,9 @@
   "2625a5ecb8532c0f",
   "oilhitsmultiweekhighsafterhouthiattacksonsaudienergyfaciliti",
   "430ff374fb505cc2",
-  "trumpsstatecapitalismcomestotheoilindustrywithhisunprecedent"
+  "trumpsstatecapitalismcomestotheoilindustrywithhisunprecedent",
+  "dcca66db89c18e0e",
+  "wtioilpricesurgesaboveus93cancrudeoilhitus100ashormuzdisrupt"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-08",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-09-08T11:30:23.946577+03:00",
+ "last_run": "2026-09-08T11:35:16.942201+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1636,6 +1636,10 @@
   {
    "d": "2026-09-08",
    "t": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal - CNBC"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "WTI Oil Price Surges Above US$93: Can Crude Oil Hit US$100 as Hormuz Disruption Deepens? - Mitrade"
   }
  ]
 }
