@@ -4,12 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "c9e2eba553c98508",
-  "wticrudeoilforecastcanpricesbreakabove94thisweek",
-  "c98b076398fe5d77",
-  "russianambassadortoindiasayscountrybuysoilforenergysecurity",
-  "e70a433774fa0e2b",
-  "notheusdoesnothaveonly14daysofoilleft",
   "2b8f3507d37d612b",
   "risingfuelcostsputusfarmmarginsbackinfocus",
   "26978f42b2425aaa",
@@ -603,7 +597,13 @@
   "434eae01d1264f73",
   "germanyspowergridcouldbenatosweakestlink",
   "16a90870659d4943",
-  "andrewzimmerntoutsthis15extravirginoliveoilasoneofthebestont"
+  "andrewzimmerntoutsthis15extravirginoliveoilasoneofthebestont",
+  "9edc4c82b27c126d",
+  "usenergydominancerisksworseningoilsdisorderlyendgame",
+  "0ea307a681556f5c",
+  "oilsurgestoward100asiranwarthreatensglobalsupplies",
+  "c6d59cb2b08683da",
+  "playingtheoilendgameoilproducersandthegeopoliticsofdeclining"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-08",
-  "count": 7
+  "count": 8
  },
- "last_run": "2026-09-08T03:05:14.968256+03:00",
+ "last_run": "2026-09-08T03:10:18.418133+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
