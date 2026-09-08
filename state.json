@@ -4,10 +4,6 @@
   "Brent": 97.42
  },
  "seen": [
-  "fa01543a58c35110",
-  "whatsinsideusmattressescrudeoilvocsandflameretardantsexperts",
-  "ad5b156aec7e2a10",
-  "oilrisesamidescalationinusiranconflict",
   "bfaa7ccca9f8982e",
   "oilfuturescrudehigherasusiranresumeattacksonoiltankers",
   "a1eb18b9fed3df42",
@@ -603,7 +599,11 @@
   "89524cc1571e6004",
   "cnbcdailyopenbrentcrudebarrelsbacktowards100",
   "32e5d130eaaeaec9",
-  "howrealisticareplanstobypassthestraitofhormuzwithnewoilpipel"
+  "howrealisticareplanstobypassthestraitofhormuzwithnewoilpipel",
+  "16579f7e4414f6eb",
+  "probabilityoffedratehikerisesto60oilpricesapproach100whyisgo",
+  "31050daaa8e53b60",
+  "russiaopensmassivearcticvostokoilprojectdespitesustainedwest"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-08",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-09-08T09:35:13.749212+03:00",
+ "last_run": "2026-09-08T09:40:18.525793+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1604,6 +1604,10 @@
   {
    "d": "2026-09-08",
    "t": "How realistic are plans to bypass the Strait of Hormuz with new oil pipelines? - arabnews.jp"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Russia Opens Massive Arctic Vostok Oil Project Despite Sustained Western Sanctions - High North News"
   }
  ]
 }
