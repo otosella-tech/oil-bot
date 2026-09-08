@@ -4,8 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "3ab4a3cf5de5c133",
-  "indiarampsuprailcoaldeliveriesaspowerplantstockpilesdwindle",
   "7b6ee9519216b5fb",
   "kplervenezuelaweighspotentialopecexitasoilproductionrecovers",
   "898d73abcb1d5d72",
@@ -603,7 +601,9 @@
   "eb34d49ba7d43512",
   "saudiarabiaandyemenshouthisedgebacktothebrinkofwar",
   "4ea4e31e431393fc",
-  "oilpricesriseto6weekhighafteriranandustradeblowssaudiaramcof"
+  "oilpricesriseto6weekhighafteriranandustradeblowssaudiaramcof",
+  "47dffba1236dc3d8",
+  "americansarefootinga100billionenergybillfromtheiranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T20:45:27.992569+03:00",
+ "last_run": "2026-09-08T20:50:19.846381+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1872,6 +1872,10 @@
   {
    "d": "2026-09-08",
    "t": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit - CNBC"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Americans are footing a $100 billion energy bill from the Iran war - kezi.com"
   }
  ]
 }
