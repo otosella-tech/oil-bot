@@ -4,8 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "94ce641ead9a75a5",
-  "2safehighyieldenergydividendstocksyouveprobablyneverheardof",
   "1a0d50d74b4bfde9",
   "crudeoiltechnicalsbuyerstestkeyresistancenear9350",
   "3467c36744f5aac6",
@@ -603,7 +601,9 @@
   "5764bd51bdd29023",
   "oilpriceshitsixweekhighafterhouthisattacksaudisites",
   "e926d8bfafb6a9eb",
-  "singleengineplanemakesemergencylandinginkempercounty"
+  "singleengineplanemakesemergencylandinginkempercounty",
+  "bf3b8f3b7e9f9242",
+  "labordaygasolinejusthitarecordhereswhatcomesnext"
  ],
  "releases_done": {
   "2026-09-08|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T22:55:17.655551+03:00",
+ "last_run": "2026-09-08T23:00:29.787213+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
