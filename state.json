@@ -4,8 +4,6 @@
   "Brent": 97.42
  },
  "seen": [
-  "1336821a2627be41",
-  "russiaisredrawingitsenergymapthroughthearctic",
   "fa01543a58c35110",
   "whatsinsideusmattressescrudeoilvocsandflameretardantsexperts",
   "ad5b156aec7e2a10",
@@ -603,7 +601,9 @@
   "95156ed07975e497",
   "stocksinasiapoisedtoedgedownyeninfocusmarketswrap",
   "89524cc1571e6004",
-  "cnbcdailyopenbrentcrudebarrelsbacktowards100"
+  "cnbcdailyopenbrentcrudebarrelsbacktowards100",
+  "32e5d130eaaeaec9",
+  "howrealisticareplanstobypassthestraitofhormuzwithnewoilpipel"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-08",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-09-08T09:20:20.578413+03:00",
+ "last_run": "2026-09-08T09:25:14.091906+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1600,6 +1600,10 @@
   {
    "d": "2026-09-08",
    "t": "CNBC Daily Open: Brent crude barrels back towards $100 - CNBC"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "How realistic are plans to bypass the Strait of Hormuz with new oil pipelines? - arabnews.jp"
   }
  ]
 }
