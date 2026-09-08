@@ -4,8 +4,6 @@
   "Brent": 99.42
  },
  "seen": [
-  "44137d3ab748029b",
-  "iranclaimsstrikeonausshipinthestraitofhormuzbuttheusdeniesit",
   "47e1ef9a5e55c9b1",
   "shippingfuelshortageloomsasrefinersprioritizediesel",
   "ff36641aa68072d4",
@@ -603,7 +601,9 @@
   "159dccc98f1beaea",
   "rupeeenduressharpestfallinoveramonthasbrentoilbarrelstowards",
   "7dc14474f5e27dea",
-  "opechaslostcontroloftheoilmarket"
+  "opechaslostcontroloftheoilmarket",
+  "e3f122b09e23b24f",
+  "iranbackedhouthisattackfoursaudicitiesinexpansionofmiddleeas"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T13:45:18.388938+03:00",
+ "last_run": "2026-09-08T13:50:19.108090+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1672,6 +1672,10 @@
   {
    "d": "2026-09-08",
    "t": "OPEC+ has lost control of the oil market - thestreet.com"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt - The Detroit News"
   }
  ]
 }
