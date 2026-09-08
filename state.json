@@ -4,10 +4,6 @@
   "Brent": 99.35
  },
  "seen": [
-  "9ba3df348abb5c3c",
-  "washingtonsvenezuelaoildealisaboutmuchmorethancrude",
-  "3f7b2ee9924bb8df",
-  "fuelpricesatrecordlabordayhighinusduetoiranwarrefineryissues",
   "bc53e5b9080f7dd8",
   "goldmanrystadseeroomfor120oilifusiranconflictcontinues",
   "a0e050619a2b28fd",
@@ -603,7 +599,11 @@
   "50bc6fb6b57c6d98",
   "wticrudeoilforecastbreakouttargets98101zone",
   "efc9ca26f6a3fead",
-  "refiningbottlenecksareemergingasthenextbigoilproblemasmiddle"
+  "refiningbottlenecksareemergingasthenextbigoilproblemasmiddle",
+  "7a8521617651dd1b",
+  "oilpricesnear100liftthisenergyincomeetf",
+  "fe13f30dfd0e22dc",
+  "crudeoilhitssixweekhigh"
  ],
  "releases_done": {
   "2026-09-08|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 6
  },
- "last_run": "2026-09-09T00:35:15.381234+03:00",
+ "last_run": "2026-09-09T00:40:19.109593+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
