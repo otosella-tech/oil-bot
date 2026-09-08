@@ -4,8 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "1e4de7bdb3c37d84",
-  "brentforecastsriseascititargets86andanzsees95inshortterm",
   "7eca8d33e53d2071",
   "fuelpricestoremainstable",
   "2b4834cc66ba68a7",
@@ -603,7 +601,9 @@
   "2e0575e7f763d838",
   "oilrisesamidfearsofmoresupplydisruptionsinmiddleeast",
   "9a19209eb4216997",
-  "venezuelasoilindustryexpansioncouldbenefitlouisiana"
+  "venezuelasoilindustryexpansioncouldbenefitlouisiana",
+  "f9ae151083aaab18",
+  "elevatedcrackspreadsandcrudeoilpricescontributetohigherprice"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 8
  },
- "last_run": "2026-09-08T03:35:14.524352+03:00",
+ "last_run": "2026-09-08T03:40:18.434259+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
