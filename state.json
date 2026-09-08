@@ -4,8 +4,6 @@
   "Brent": 97.42
  },
  "seen": [
-  "98bfd5b12efc80ae",
-  "yoursaturdaysept5guidefivethingstodointheoilcity",
   "b4886fb5c8750e4d",
   "shipfuelshortageloomsasrefinersstrainedbywarfavourotherprodu",
   "144eb211b2ea14df",
@@ -603,7 +601,9 @@
   "c4a9da6fc23b2fdf",
   "oilpricesriseasusirantensionsthreatenmiddleeastsupplies",
   "603e5092fc497da8",
-  "oilrisesasrisksofprolongedmideastconflictfansupplyworrieseur"
+  "oilrisesasrisksofprolongedmideastconflictfansupplyworrieseur",
+  "84cc06afb1aaff59",
+  "wticrudeoilfuturespullbackfrom3monthhighs"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 43
  },
- "last_run": "2026-09-08T10:35:14.201146+03:00",
+ "last_run": "2026-09-08T10:40:20.293513+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
