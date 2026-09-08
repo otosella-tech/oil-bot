@@ -4,8 +4,6 @@
   "Brent": 97.4
  },
  "seen": [
-  "2e19e038c38b400c",
-  "ussaysithitiranoiltankersaccusedofhelpingregionalproxies",
   "5367ee9a200dba60",
   "oilsettles1higherasusiranstrikesthreatensupplies",
   "56a86ae520dd4d3c",
@@ -603,7 +601,9 @@
   "b7e60b899de0831b",
   "canadasoilpivottoasiaisstartingtomaterialize",
   "52f3d0b5e24d8a15",
-  "eveningupdateforcrudeoil08092026"
+  "eveningupdateforcrudeoil08092026",
+  "ae7fae6d4233dfaa",
+  "commodityinflationishotbutfedisstillfocusedoncoreinflation"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -615,7 +615,7 @@
   "date": "2026-09-08",
   "count": 60
  },
- "last_run": "2026-09-08T19:30:24.004021+03:00",
+ "last_run": "2026-09-08T19:35:17.433619+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
