@@ -4,10 +4,6 @@
   "Brent": 95.5
  },
  "seen": [
-  "6c75fb2669fb6705",
-  "crudeoilnears97abarreldieselathighestsince2022",
-  "be338448f38e139c",
-  "irantoutsmilitaryresponseasusmaintainsblockadehitstankers",
   "0003be19d4109e05",
   "howtheusfellbehindchinaonnuclearpower",
   "e1eedf82f9cdb0a9",
@@ -603,7 +599,11 @@
   "1c1b0c4fa72ee026",
   "bipartisanlegislationintroducedtomodernizespr",
   "f905a3f243bd44d6",
-  "iranplansexclusionzoneoutsidehormuz"
+  "iranplansexclusionzoneoutsidehormuz",
+  "2895f9fdf935d9e5",
+  "trumpsaysoilpriceswillfallprecipitouslyafteriranwarevenasbre",
+  "d9337c2fbbf5c299",
+  "energysecretarychriswrighttellscnbcmorethan17millionbarrelso"
  ],
  "releases_done": {},
  "last_digest": "2026-09-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-08",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-09-08T04:05:15.245033+03:00",
+ "last_run": "2026-09-08T04:10:18.262665+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1564,6 +1564,14 @@
   {
    "d": "2026-09-08",
    "t": "Iran plans 'exclusion zone' outside Hormuz - China Daily Global Edition"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Trump Says Oil Prices Will Fall ‘Precipitously’ After Iran War Even As Brent Crude Soars Past $97 A Barrel - Stocktwits"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday - cnbc.com"
   }
  ]
 }
