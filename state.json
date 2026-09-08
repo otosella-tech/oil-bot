@@ -4,8 +4,6 @@
   "Brent": 97.42
  },
  "seen": [
-  "dbb9c8cbe8eeac52",
-  "iransaysitplanstoannounceanewexclusionzonenearthestraitofhor",
   "7be9a98fc5b274f3",
   "iranustradetankerattacksastehranwarnsofrestrictedzone",
   "1414de4d26220971",
@@ -603,7 +601,9 @@
   "7d8568495049119c",
   "crudeoilfuturesriseafteriranthreatensretaliatorystrikeonener",
   "b3d68ad8e48a05c5",
-  "goldmanraisesoilforecastsasthemarketlearnstotradearoundhormu"
+  "goldmanraisesoilforecastsasthemarketlearnstotradearoundhormu",
+  "86782b5cf61df7ec",
+  "oilextendsclimbafteriranthreattogulfenergyinfrastructure"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-08",
-  "count": 25
+  "count": 27
  },
- "last_run": "2026-09-08T08:05:15.388125+03:00",
+ "last_run": "2026-09-08T08:10:18.040254+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1580,6 +1580,10 @@
   {
    "d": "2026-09-08",
    "t": "Crude oil futures rise after Iran threatens retaliatory strike on energy assets - BusinessLine"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Oil extends climb after Iran threat to Gulf energy infrastructure - Investing.com"
   }
  ]
 }
