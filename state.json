@@ -4,10 +4,6 @@
   "Brent": 99.42
  },
  "seen": [
-  "9a7e5d948dde2c33",
-  "oilpricesclimbafterusstrikesthreeiraniantankersandiranvowsre",
-  "c8adde0481325db4",
-  "chinaraisesoilimportsbutkeepsasiansupplynearly40belowpreconf",
   "a866a6b26703449e",
   "palmopenhigheronfirmerrivaldaliancrudeoil",
   "4bc61e7a64b107e9",
@@ -603,7 +599,11 @@
   "d11a2323dc14b33b",
   "wallstfuturesslipasoilsurgeputsmarketsonedge",
   "0f2a32ecb0e0d909",
-  "ukrainehitssaratovrefineryagainasrussianfuelcrisisdeepens"
+  "ukrainehitssaratovrefineryagainasrussianfuelcrisisdeepens",
+  "9d7f92625261795e",
+  "oilsriskpremiumseemsexceptionallybloated",
+  "d26b8e7c30f79c65",
+  "brentcrudenears100afterstrikesonsaudienergysitesamidrenewedm"
  ],
  "releases_done": {},
  "last_digest": "2026-09-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-08",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-09-08T12:25:19.372053+03:00",
+ "last_run": "2026-09-08T12:30:24.631916+03:00",
  "sent_stories": [
   {
    "d": "2026-09-05",
@@ -1652,6 +1652,10 @@
   {
    "d": "2026-09-08",
    "t": "Wall St futures slip as oil surge puts markets on edge - Reuters"
+  },
+  {
+   "d": "2026-09-08",
+   "t": "Brent crude nears $100 after strikes on Saudi energy sites amid renewed Mideast hostilities - CNBC"
   }
  ]
 }
