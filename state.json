@@ -4,12 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "2fcea92b65d36d49",
-  "uscentralcommandsaystheirforcesdestroyedfiveiraniancrudeoilc",
-  "3ff38081aaae4772",
-  "blmoilandgasleasesthreatencriticalcoloradowildlifecorridorsl",
-  "6d4433bccb065227",
-  "usmilitarydestroys5iranianoiltankers",
   "e1780f48d6a7ab54",
   "middleeastliveusdestroysfiveiranianoiltankersasiranthreatens",
   "9fd6b477054fe32b",
@@ -603,7 +597,13 @@
   "d913fc86c5dc7c14",
   "oilrisesto99onreportiranlaunchedsecondundisclosedattackonusn",
   "3ae896f96cfb0c4f",
-  "crudeoilpricessoaronescalationofmiddleeasthostilities"
+  "crudeoilpricessoaronescalationofmiddleeasthostilities",
+  "a3a58ab11b6b95ca",
+  "hedgefundspileintofuelsasussupplysqueezedeepens",
+  "62ce518df1f78ad0",
+  "brentcrudeoiltops101forfirsttimesincejulyasfightingescalates",
+  "67226d91288a77ee",
+  "analystspredictweeklydrawinuscrudeoilstockpiles"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T18:45:23.503936+03:00",
+ "last_run": "2026-09-09T18:50:19.958803+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
