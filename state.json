@@ -4,10 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "294961c8e6a42533",
-  "oilrisestomultimonthhighsonmiddleeastescalation",
-  "9da81ee9fd13d3ed",
-  "centcomreleasesvideoshowinglatestseriesofusstrikestargetingf",
   "422e56cc54fb6ba1",
   "uscentcomcentcomforcesdestroyedfiveiraniancrudeoilcarriersse",
   "8e988683ccaee345",
@@ -603,7 +599,11 @@
   "7385fdce7d0047de",
   "usequityindexesdropascrudeoiltops100markamidworseningiranwar",
   "69d11b2753490d51",
-  "uscentralcommanddestroysfiveiraniancrudeoilcarriers"
+  "uscentralcommanddestroysfiveiraniancrudeoilcarriers",
+  "72a1cc10721833c9",
+  "britaincansave500byscrappingnetzeroifitignoresmostofthebill",
+  "5f799d46a96a8799",
+  "oilhits100abarrelforfirsttimesincejulyasusandirantradestrike"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T21:55:15.901859+03:00",
+ "last_run": "2026-09-09T22:00:31.659701+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -2179,6 +2179,10 @@
   {
    "d": "2026-09-09",
    "t": "US Equity Indexes Drop as Crude Oil Tops $100 Mark Amid Worsening Iran War, Yields Surge After Treasury Triples Government-Debt Buybacks - marketscreener.com"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "Oil Hits $100 a Barrel for First Time Since July as U.S. and Iran Trade Strikes - Time Magazine"
   }
  ]
 }
