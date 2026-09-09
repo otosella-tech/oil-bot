@@ -4,12 +4,6 @@
   "Brent": 99.35
  },
  "seen": [
-  "8992c60d7fc1a6a6",
-  "algeriacouldlose87ofoilrevenueandnigeriamorethan60asglobalde",
-  "2625a5ecb8532c0f",
-  "oilhitsmultiweekhighsafterhouthiattacksonsaudienergyfaciliti",
-  "430ff374fb505cc2",
-  "trumpsstatecapitalismcomestotheoilindustrywithhisunprecedent",
   "dcca66db89c18e0e",
   "wtioilpricesurgesaboveus93cancrudeoilhitus100ashormuzdisrupt",
   "123bbd259fe01a11",
@@ -603,7 +597,13 @@
   "7c40021fd6714d25",
   "oilpricesup080926",
   "9c03e5e6b441a134",
-  "watchoilpricescloserto100afterusattacksiraniantankers"
+  "watchoilpricescloserto100afterusattacksiraniantankers",
+  "6b2ea3efd66303a1",
+  "indiansharesdeclineoncrudespikecoforgetumblesafterchairmanse",
+  "ef612fb54633f4cc",
+  "chinaoildemandtofall89in2026sinopecresearchsays",
+  "9aacd219e3ceffcf",
+  "oilheadsfor100asiastockssubduedasmiddleeasttensionsescalate"
  ],
  "releases_done": {},
  "last_digest": "2026-09-09",
@@ -615,7 +615,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T08:30:21.579055+03:00",
+ "last_run": "2026-09-09T08:35:15.419282+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -1768,6 +1768,14 @@
   {
    "d": "2026-09-09",
    "t": "Watch Oil Prices Closer to $100 After US Attacks Iranian Tankers - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "Indian shares decline on crude spike; Coforge tumbles after chairman's exit - Reuters"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "China oil demand to fall 8.9% in 2026, Sinopec research says - Reuters"
   }
  ]
 }
