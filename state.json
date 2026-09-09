@@ -4,10 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "6990bd4a65ce7e22",
-  "useffortstochoketehraneconomyareworkingwsjreports",
-  "579417c5eef8cb5e",
-  "oilnears100asfreshmiddleeaststrikesraisesupplyrisks",
   "7bf0795f069a03c5",
   "dowfuturesslipsp500nasdaqfuturesclimbasoilnears100abarrelrkl",
   "c26c1603575699ce",
@@ -603,7 +599,11 @@
   "600c4ef0cdb6ccbc",
   "oilsurgesbackabove100abarrelasdieselclimbstoarecord594pergal",
   "21b7b76adeb9af43",
-  "crudeoilpricessurgeasnoendinsighttousiranconflict"
+  "crudeoilpricessurgeasnoendinsighttousiranconflict",
+  "245b95e482f53c04",
+  "oilsurgespast101tohighestclosinglevelsincemayasmiddleeastcon",
+  "97e943737fd91ff2",
+  "enbridgeacquiresnewcrudeoilassets"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T22:25:15.547722+03:00",
+ "last_run": "2026-09-09T22:30:24.890899+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
