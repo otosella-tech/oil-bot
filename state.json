@@ -4,12 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "4208abc95d1b809e",
-  "dollarfallsforthirddaycrudeoilextendsgainsbasemetalsshowdome",
-  "0362389ff3cdd80c",
-  "iranattacksusbaseinjordanshipsnearhormuzaftertankerssunk",
-  "49a6ace7ac9685b9",
-  "aniraniancrudeoilcarrieridentifiedasmtriescoburnsasitsinks",
   "7af2488bc9e6825e",
   "iransaysithitamericanvesselsoiltankersinhormuzinretaliationf",
   "c85b7708a307026a",
@@ -603,7 +597,13 @@
   "2159ee9a0ce13fcb",
   "canadasenbridgesaidtoneardealformajorusoilpipeline",
   "579417c5eef8cb5e",
-  "oilnears100asfreshmiddleeaststrikesraisesupplyrisks"
+  "oilnears100asfreshmiddleeaststrikesraisesupplyrisks",
+  "294ffa6e906e9d8d",
+  "usadministrationeyesvenezuelascriticalminerals",
+  "2731b4cc1d3ea8ca",
+  "brentcrudetops100abarrelonmiddleeastescalation",
+  "4b31dca2a9588ba1",
+  "analystsskepticaloftrumpadmineffortstocurbgasprices"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T22:55:16.333616+03:00",
+ "last_run": "2026-09-09T23:00:30.905826+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -2203,6 +2203,10 @@
   {
    "d": "2026-09-09",
    "t": "Oil nears $100 as fresh Middle East strikes raise supply risks - Reuters"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "U.S. Administration Eyes Venezuela’s Critical Minerals"
   }
  ]
 }
