@@ -4,10 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "5e282e4486f2a520",
-  "usmilitarysaysitdestroyedfiveiranianoilcarriersafterattempte",
-  "15c8fb570a02b9a8",
-  "saudioilattackedusstrikesiranstankersandmore",
   "868838981e504e96",
   "goldpriceslidesbelow4370asbrentnears100kitcopmreport",
   "3853db2beec599da",
@@ -603,7 +599,11 @@
   "b6bd3ac38f01171b",
   "bankofenglandwarnsiranwarcouldpushukinflationabove4",
   "b53f1028674d7bd5",
-  "nothingworseenergypricesareclosinginongopsmidtermchances"
+  "nothingworseenergypricesareclosinginongopsmidtermchances",
+  "9ae7170fdad6eddf",
+  "oilssurgebackabove100fuelsfreshinflationfearsatacrucialtimef",
+  "f9ae151083aaab18",
+  "elevatedcrackspreadsandcrudeoilpricescontributetohigherprice"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T19:05:18.791216+03:00",
+ "last_run": "2026-09-09T19:10:21.432697+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -2123,6 +2123,10 @@
   {
    "d": "2026-09-09",
    "t": "Bank of England Warns Iran War Could Push UK Inflation Above 4%"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates - marketwatch.com"
   }
  ]
 }
