@@ -4,8 +4,6 @@
   "Brent": 99.35
  },
  "seen": [
-  "0cf1c3d5b25024e9",
-  "3oilstockstoresearchascrudepricestestsixweekhighs",
   "df3da831c46a334a",
   "argentinasuesisraelioilfirmasbengvirurgesnetanyahutobackitsf",
   "13b85f7a8f3d07b0",
@@ -603,7 +601,9 @@
   "dd5eb0ed228d5617",
   "iranustradeblowsashormuzimpassedeepens",
   "36b488f11e28e8bc",
-  "centcomdestroysfiveiraniantankersiranstrikesjordan"
+  "centcomdestroysfiveiraniantankersiranstrikesjordan",
+  "1b215f7aa91a775e",
+  "risingoilpricesthreatenchinasindependentrefiners"
  ],
  "releases_done": {},
  "last_digest": "2026-09-09",
@@ -615,7 +615,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T10:00:31.020412+03:00",
+ "last_run": "2026-09-09T10:05:19.674526+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
