@@ -4,12 +4,6 @@
   "Brent": 99.35
  },
  "seen": [
-  "6072bb5e3ec21674",
-  "oilpricesareonceagainonthebrinkof100",
-  "aba16a3acd9b656f",
-  "bofaraisesitsoilpriceforecastsforlate2026and2027",
-  "2f1a2e65303b60b5",
-  "whatsmartpeoplearesayingaboutoilpricessurgingbacktoward100",
   "953d66d15907f009",
   "ugandasettobecomeworldsnewestoilexporterinearly2027",
   "0c87c0edc8e68830",
@@ -603,7 +597,13 @@
   "2856ce9491e1ffc6",
   "oilhits100againhereswhyconsumerscouldfeelitsoonkxlf",
   "f33f9d31b08f0c83",
-  "usmilitarydestroys5iranianoiltankersandthesmithsonianheadres"
+  "usmilitarydestroys5iranianoiltankersandthesmithsonianheadres",
+  "42e9cedbd0c61f61",
+  "crudeoilpricesclimbover100abarrel",
+  "ae0e207a87fb35f9",
+  "oilhits100againhereswhyconsumerscouldfeelitsoon",
+  "b4ba4e63f75544e2",
+  "trumpsoilinvestmentshavegainedmillionsduringiranwarashisacco"
  ],
  "releases_done": {},
  "last_digest": "2026-09-09",
@@ -615,7 +615,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T14:15:19.367504+03:00",
+ "last_run": "2026-09-09T14:20:19.811625+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -1968,6 +1968,10 @@
   {
    "d": "2026-09-09",
    "t": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns - Iowa Public Radio"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "Trump's oil investments have gained millions during Iran war as his accounts keep trading - CNBC"
   }
  ]
 }
