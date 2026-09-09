@@ -4,10 +4,6 @@
   "Brent": 99.35
  },
  "seen": [
-  "1b4bb045930e5844",
-  "opeckeepsoctobercrudeoiloutputpolicyunchanged",
-  "b374171f8439c2cb",
-  "dronesattackedthesaratovoilrefineryafirebrokeoutneartheplant",
   "6ac113adbe3913dc",
   "oilpricesup070926",
   "95156ed07975e497",
@@ -603,7 +599,11 @@
   "0b04b13152c52a91",
   "iranretaliatesagainstusalliesafteritsoiltankersdestroyed",
   "294961c8e6a42533",
-  "oilrisestomultimonthhighsonmiddleeastescalation"
+  "oilrisestomultimonthhighsonmiddleeastescalation",
+  "9da81ee9fd13d3ed",
+  "centcomreleasesvideoshowinglatestseriesofusstrikestargetingf",
+  "422e56cc54fb6ba1",
+  "uscentcomcentcomforcesdestroyedfiveiraniancrudeoilcarriersse"
  ],
  "releases_done": {
   "2026-09-08|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T05:15:18.655006+03:00",
+ "last_run": "2026-09-09T05:20:18.814942+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -1715,6 +1715,14 @@
   {
    "d": "2026-09-09",
    "t": "Iran retaliates against US allies after its oil tankers destroyed - Nikkei Asia"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "CENTCOM releases video showing latest series of US strikes targeting five Iranian crude oil tankers - AP News"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "US CENTCOM: 'CENTCOM forces destroyed five Iranian crude oil carriers, Sept. 8, after the Islamic Revolutionary Guard Corps (IRGC) targeted a U.S. Navy warship with ballistic missiles twice over the past two days. The U.S. warship successfully evaded the - news.cgtn.com"
   }
  ]
 }
