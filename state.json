@@ -4,12 +4,6 @@
   "Brent": 99.35
  },
  "seen": [
-  "69a8ff09cc1f59c1",
-  "after6monthsofwarwhyarentoilpricesevenhigher",
-  "87cb9c5339d91d1f",
-  "instantviewchinasaugustcrudeoilimportsfallyearonyear",
-  "6fa06b0c10e06926",
-  "brentcrudeoilpreparestoattackakeyresistanceanalysis08092026",
   "14400136b44e0567",
   "chinascrudeimportsstrengthenasrefinersdiversifysupply",
   "f3c7ca0edda3a329",
@@ -603,7 +597,13 @@
   "a9fc676100d33a03",
   "oilpricessurgeasusiranstrikesintensifyinstraitofhormuz",
   "2051424a9e9872c4",
-  "usforceshitfiveiraniantankersastehrantargetsamericanbaseinjo"
+  "usforceshitfiveiraniantankersastehrantargetsamericanbaseinjo",
+  "590ee6694123d894",
+  "thelongroadusoildealshavevenezuelapoisedforlongtermgrowthbut",
+  "6e6f9c3adf4f0e4f",
+  "centralcommandusstrikesdestroysfiveiraniantankers",
+  "62abd77ad0d8356c",
+  "usmilitarysaysitdestroyed5moreiranianoiltankersinlatestescal"
  ],
  "releases_done": {
   "2026-09-08|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-09",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-09-09T04:10:23.509950+03:00",
+ "last_run": "2026-09-09T04:15:17.608841+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -1679,6 +1679,14 @@
   {
    "d": "2026-09-09",
    "t": "US forces hit five Iranian tankers as Tehran targets American base in Jordan - BBC"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "Central Command: U.S. strikes, destroys five Iranian tankers - upi.com"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "U.S. military says it destroyed 5 more Iranian oil tankers in latest escalation - CBC"
   }
  ]
 }
