@@ -4,10 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "c9bd3f958bb0a2ac",
-  "usstrikesiranianoiltankersdrawingthreatofreprisal",
-  "27ef17143ff288d2",
-  "usmilitarysaysithasdestroyed5iranianoiltankersaftermissileat",
   "425b0a92d29cfbcb",
   "dieselpriceshitrecordhighintexoma",
   "d913fc86c5dc7c14",
@@ -603,7 +599,11 @@
   "254ef40393348a4b",
   "usstocksseeingfurtherdownsideascrudeoilpricesextendsurge",
   "c316a1ba25f2e070",
-  "michigangaspricesjump20centsovernightasmideasttensionsrise"
+  "michigangaspricesjump20centsovernightasmideasttensionsrise",
+  "5d68d48243bca0d7",
+  "usmilitarystrikes5iraniancrudeoiltankers",
+  "9e2765369749582e",
+  "predictionmarketsabandoncheapoilasbrentpasses100"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T18:20:24.907813+03:00",
+ "last_run": "2026-09-09T18:25:15.522037+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -2107,6 +2107,10 @@
   {
    "d": "2026-09-09",
    "t": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates - The Northern Virginia Daily"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "US military strikes 5 Iranian crude oil tankers - fox9.com"
   }
  ]
 }
