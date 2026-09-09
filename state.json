@@ -4,10 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "1b215f7aa91a775e",
-  "risingoilpricesthreatenchinasindependentrefiners",
-  "e2e945661b6a14b5",
-  "crudeoilfuturesriseamidpositiveglobaltrends",
   "33f3d18b88fdccdb",
   "oilpriceheadstoward100afterusandhouthistrikes",
   "a3646dade2f326f6",
@@ -603,7 +599,11 @@
   "d881a9d4a35a91e8",
   "brentcrudeoilsurgespast100asmiddleeasttensionsescalate",
   "1e5f62bafb835c5d",
-  "commentaryoilpricesflyblindasthehormuzenigmadeepens"
+  "commentaryoilpricesflyblindasthehormuzenigmadeepens",
+  "e92ef186b84fc561",
+  "stocksfallasoilpricesjumpbackabove100abarrel",
+  "b9c7357b7f46e66e",
+  "crudeoilhitshighestsincemayonusiranwar"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-10",
-  "count": 2
+  "count": 3
  },
- "last_run": "2026-09-10T00:45:22.658627+03:00",
+ "last_run": "2026-09-10T00:50:21.771628+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
