@@ -4,8 +4,6 @@
   "Brent": 99.35
  },
  "seen": [
-  "49734c2814b074c7",
-  "oilpricesclimbtoward100asmiddleeastpeacehopesfade",
   "aa60a13e06f33e85",
   "stockmarketstodaysensexniftydiponwestasiacrisisoilprices",
   "1b4bb045930e5844",
@@ -603,7 +601,9 @@
   "30eb0e51f9c3fd6b",
   "usattacks5iranianoiltankerstehranretaliateswithstrikesonjord",
   "f2f0ce75d9c5ecf6",
-  "middleeastwarexpandsashouthisstrikesaudicitieshonolulustar"
+  "middleeastwarexpandsashouthisstrikesaudicitieshonolulustar",
+  "0b04b13152c52a91",
+  "iranretaliatesagainstusalliesafteritsoiltankersdestroyed"
  ],
  "releases_done": {
   "2026-09-08|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T05:00:29.617554+03:00",
+ "last_run": "2026-09-09T05:05:14.206512+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -1711,6 +1711,10 @@
   {
    "d": "2026-09-09",
    "t": "Middle East war expands as Houthis strike Saudi cities - Honolulu Star-Advertiser"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "Iran retaliates against US allies after its oil tankers destroyed - Nikkei Asia"
   }
  ]
 }
