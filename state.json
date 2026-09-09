@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "6e6f9c3adf4f0e4f",
-  "centralcommandusstrikesdestroysfiveiraniantankers",
   "62abd77ad0d8356c",
   "usmilitarysaysitdestroyed5moreiranianoiltankersinlatestescal",
   "0113499a51279a30",
@@ -603,7 +601,9 @@
   "da10327e97751711",
   "usmovestoisolateiransaviationsectorfromtheglobaleconomy",
   "916103c76fdcfb46",
-  "argentinaforcesoilcompaniestochoosebetweenvacamuertaandthefa"
+  "argentinaforcesoilcompaniestochoosebetweenvacamuertaandthefa",
+  "6ff7b2c9c01825b6",
+  "crudeoilhitseightweekhigh"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T21:05:17.978127+03:00",
+ "last_run": "2026-09-09T21:10:20.565974+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
