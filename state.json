@@ -4,10 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "1e5f62bafb835c5d",
-  "commentaryoilpricesflyblindasthehormuzenigmadeepens",
-  "dd5eb0ed228d5617",
-  "iranustradeblowsashormuzimpassedeepens",
   "36b488f11e28e8bc",
   "centcomdestroysfiveiraniantankersiranstrikesjordan",
   "1b215f7aa91a775e",
@@ -603,7 +599,11 @@
   "32f817a4e45a6b63",
   "usenergysecretarywrightsayscurrentrefiningcapacityisabiggerp",
   "413f1db0e4c4456f",
-  "cnbcdailyopengulfstrikesjoltoiltowardtripledigits"
+  "cnbcdailyopengulfstrikesjoltoiltowardtripledigits",
+  "47bf1a32f3ab54ec",
+  "brentsettlesatover100abarrelasmiddleeastconflictintensifiesa",
+  "d881a9d4a35a91e8",
+  "brentcrudeoilsurgespast100asmiddleeasttensionsescalate"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-10",
   "count": 1
  },
- "last_run": "2026-09-10T00:35:14.365307+03:00",
+ "last_run": "2026-09-10T00:40:19.898471+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
