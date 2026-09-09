@@ -4,10 +4,6 @@
   "Brent": 99.35
  },
  "seen": [
-  "536ab984902b5b60",
-  "marketsmovetothedownsideamiduptickinoilprices",
-  "1a0d00e52d8c13e4",
-  "oilpricesclimbafterreportsofsaudiaramcorefinerybeinghitbyhou",
   "6072bb5e3ec21674",
   "oilpricesareonceagainonthebrinkof100",
   "aba16a3acd9b656f",
@@ -603,7 +599,11 @@
   "64b7fec05ef0ad5e",
   "stockspressuredbyrisingcrudeoilprices",
   "784555effb1c0715",
-  "priceofcrudeoilnears100abarrelasusiranstalematecontinues"
+  "priceofcrudeoilnears100abarrelasusiranstalematecontinues",
+  "2856ce9491e1ffc6",
+  "oilhits100againhereswhyconsumerscouldfeelitsoonkxlf",
+  "f33f9d31b08f0c83",
+  "usmilitarydestroys5iranianoiltankersandthesmithsonianheadres"
  ],
  "releases_done": {},
  "last_digest": "2026-09-09",
@@ -615,7 +615,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T14:10:20.179005+03:00",
+ "last_run": "2026-09-09T14:15:19.367504+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -1964,6 +1964,10 @@
   {
    "d": "2026-09-09",
    "t": "Petrol prices rise by 5p over a week as Iran war sends oil higher - BBC"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns - Iowa Public Radio"
   }
  ]
 }
