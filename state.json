@@ -4,10 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "5ae31da464b2779d",
-  "usstrikesoiltankersoffcoastofiran",
-  "7d83a6308d1e0ea6",
-  "cnbcdailyopensanctionsstrikesandtheroadto100oil",
   "27e2f776cd7c6abd",
   "iranretaliatesagainstusalliesafteritsoiltankersdestroyedal",
   "30eb0e51f9c3fd6b",
@@ -603,7 +599,11 @@
   "39ff9a974a38c0cb",
   "fuelcostreliefunlikelyforsometime",
   "820f50654d5d19ee",
-  "comparingenergyetfspositioningportfoliosasoilhits100"
+  "comparingenergyetfspositioningportfoliosasoilhits100",
+  "f0f65e8c3aca91b3",
+  "sugarpricesfinishsharplyhigherascrudeoilsurges",
+  "d1a4dbf0be92f231",
+  "useiahikesoilpriceforecastsasiranwardrainsglobalstockpilebyr"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T21:40:21.494252+03:00",
+ "last_run": "2026-09-09T21:45:19.898959+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -2163,6 +2163,10 @@
   {
    "d": "2026-09-09",
    "t": "U.S. Moves to Isolate Iran’s Aviation Sector From the Global Economy"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "US EIA hikes oil price forecasts as Iran war drains global stockpile By Reuters - Investing.com"
   }
  ]
 }
