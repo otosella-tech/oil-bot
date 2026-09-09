@@ -4,12 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "425b0a92d29cfbcb",
-  "dieselpriceshitrecordhighintexoma",
-  "d913fc86c5dc7c14",
-  "oilrisesto99onreportiranlaunchedsecondundisclosedattackonusn",
-  "2c5558e70fc5d015",
-  "usdestroys5irgctankersafterirantargetsanotheramericanwarship",
   "20ffa9741b16ae72",
   "oilgroupsaysglobalsupplyshocksusrefinerylimitsarebothdriving",
   "07354a4577896cbf",
@@ -603,7 +597,13 @@
   "5d68d48243bca0d7",
   "usmilitarystrikes5iraniancrudeoiltankers",
   "9e2765369749582e",
-  "predictionmarketsabandoncheapoilasbrentpasses100"
+  "predictionmarketsabandoncheapoilasbrentpasses100",
+  "bc9279ff850e44b7",
+  "exxonmobilanpgnotch20thdiscoveryinangolasblock15",
+  "239bbae5bd21ceff",
+  "stocksandbondsfallascrudeoilsurges",
+  "aa8cb66a592bf1c3",
+  "brentcruderisesabove100abarrelamidmiddleeasttension"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T18:25:15.522037+03:00",
+ "last_run": "2026-09-09T18:30:27.577346+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
