@@ -4,10 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "20ffa9741b16ae72",
-  "oilgroupsaysglobalsupplyshocksusrefinerylimitsarebothdriving",
-  "07354a4577896cbf",
-  "carbajalpadillaschifffileamicusbriefchallengingtrumpadminist",
   "a3a58ab11b6b95ca",
   "hedgefundspileintofuelsasussupplysqueezedeepens",
   "2fcea92b65d36d49",
@@ -603,7 +599,11 @@
   "239bbae5bd21ceff",
   "stocksandbondsfallascrudeoilsurges",
   "aa8cb66a592bf1c3",
-  "brentcruderisesabove100abarrelamidmiddleeasttension"
+  "brentcruderisesabove100abarrelamidmiddleeasttension",
+  "2c5558e70fc5d015",
+  "usdestroys5irgctankersafterirantargetsanotheramericanwarship",
+  "d913fc86c5dc7c14",
+  "oilrisesto99onreportiranlaunchedsecondundisclosedattackonusn"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T18:30:27.577346+03:00",
+ "last_run": "2026-09-09T18:35:17.012678+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -2111,6 +2111,14 @@
   {
    "d": "2026-09-09",
    "t": "US military strikes 5 Iranian crude oil tankers - fox9.com"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "U.S. Destroys 5 IRGC Tankers After Iran Targets Another American Warship - centcom.mil"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "Oil rises to $99 on report Iran launched second undisclosed attack on U.S. Navy ships - CNBC"
   }
  ]
 }
