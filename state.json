@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "1294b65ba5a89388",
-  "whyusiranwaroverhormuzisthreateningthegulfswaters",
   "1c4666fca5233e23",
   "asianchipstockssetforgainsbrentnears100marketswrap",
   "fe7e187b2edeab06",
@@ -603,7 +601,9 @@
   "b68ce4c7e3f0fbd6",
   "stocksfallonoilyieldsbutmetajumpsinflationdatadue",
   "233902b286d0bcb8",
-  "theglobalpriceofoilreached100abarrelonwednesdayforthefirstti"
+  "theglobalpriceofoilreached100abarrelonwednesdayforthefirstti",
+  "6c15e8314c5dd423",
+  "enbridgenears2billiondealforblackstonesponyexpresscrudepipel"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T23:40:21.352668+03:00",
+ "last_run": "2026-09-09T23:45:17.648131+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -2215,6 +2215,10 @@
   {
    "d": "2026-09-09",
    "t": "The global price of oil reached $100 a barrel on Wednesday for the first time since July as tensions in the Middle East escalated. That’s nearly 40 percent higher than on the eve of the war in Iran. - facebook.com"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "Enbridge nears $2 billion deal for Blackstone's Pony Express crude pipeline, Bloomberg News reports - Reuters"
   }
  ]
 }
