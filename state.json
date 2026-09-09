@@ -4,10 +4,6 @@
   "Brent": 99.35
  },
  "seen": [
-  "76230b78a110c240",
-  "coppersurgesabove14500assupplysqueezedeepens",
-  "7ec23e8229a813c1",
-  "currentpriceofoilasofseptember82026",
   "1fb2517210315a52",
   "federaldatashowsenbridgeleakisthelargestreportedoilandgasspi",
   "b023e8adb14d791c",
@@ -603,7 +599,11 @@
   "6e0e98ba69b42456",
   "crudeoilpricescanoilextendtherallyafterbreaking100",
   "dc6942ff1a8a99e9",
-  "oilnears100onreportsofnewusstrikeiniranandattacksonsaudiinfr"
+  "oilnears100onreportsofnewusstrikeiniranandattacksonsaudiinfr",
+  "9b110a6f384fdb88",
+  "oilpricesriseasmiddleeastconflictescalates",
+  "d47ff74f42977541",
+  "wticrudeoilfuturesreach14weekhighonmiddleeasttensions"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T17:20:21.314655+03:00",
+ "last_run": "2026-09-09T17:25:18.257449+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
