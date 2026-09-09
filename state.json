@@ -4,14 +4,6 @@
   "Brent": 99.35
  },
  "seen": [
-  "375253081960a518",
-  "dowjonesindustrialaverageispayingforasixthdayofcrudeoil",
-  "0de522a916a037af",
-  "oilgainsashouthisattacksaudienergyinfrastructure",
-  "3c4084cad478f50c",
-  "usequityindexesfallascrudeoiladvancesfollowingattacksonsaudi",
-  "2eaeeaea8e9369c8",
-  "oilcoordinationgroupnoimmediatesecurityofoilsupplyconcernsin",
   "aa2255cd04ca439e",
   "driversinformorepainasoilrocketsbacktoward100perbarrel",
   "fe951a36999dc44f",
@@ -603,7 +595,15 @@
   "6c08b64e9156f890",
   "hasirancapturedanunmannedussubmarinewhatweknow",
   "a7bf9114dd24f87f",
-  "centcomdestroysfiveiranianoiltankers"
+  "centcomdestroysfiveiranianoiltankers",
+  "989924e1627f979d",
+  "brentcrudeoilhits100abarrelforfirsttimesincejuly",
+  "8b6a0f2b3fbad5a5",
+  "brentcrudehit100butoiltradersarereportedlynotmakinglongtermb",
+  "c9385ce27f6d3df3",
+  "indianstocksfalltothreemonthlowasbrentoilsurgespast100",
+  "172adbb84b743c20",
+  "angolasanpgexxonmobilandblock15partnersannouncenewoffshoredi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-09",
@@ -615,7 +615,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T14:30:25.240990+03:00",
+ "last_run": "2026-09-09T14:35:16.100595+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -1984,6 +1984,10 @@
   {
    "d": "2026-09-09",
    "t": "CENTCOM Destroys Five Iranian Oil Tankers - IranWire"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "Indian stocks fall to three-month low as Brent oil surges past $100 - Reuters"
   }
  ]
 }
