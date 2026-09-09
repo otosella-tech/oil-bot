@@ -4,16 +4,6 @@
   "Brent": 99.35
  },
  "seen": [
-  "be52e98796ca4161",
-  "gulfproducersfindworkaroundsashormuztensionspersist",
-  "64d6c3e49b0d2990",
-  "oilclimbstoward100abarrelfollowinghouthiattacks",
-  "809a3f6db8ff3065",
-  "gaspriceshitrecordhighforlabordayweekend2026",
-  "ace57fe91b0c8b77",
-  "oilpricesapproach100asmiddleeastconflictflaresgoldmanseespot",
-  "0a94088f43e044aa",
-  "yourtuesdaysept8guidefivethingstodointheoilcity",
   "79a9695d8e414af7",
   "brentcrudenears100ashouthistrikeshitsaudioilsites",
   "8c97f208c6a55fb3",
@@ -603,7 +593,17 @@
   "a84b5b5837e277a0",
   "azeribtcdailycrudeoilexportsfromceyhantoinchupinoctobervssep",
   "91f7c0918457c881",
-  "iransendswaveofmissilestowardusbaseinjordanaftervowingescala"
+  "iransendswaveofmissilestowardusbaseinjordanaftervowingescala",
+  "5a5ccc881055273a",
+  "asiaispoisedtotakeup70ofcanadianoilexportspipelineexecutives",
+  "a19ee61ecae242a4",
+  "oilhits100abarrelforfirsttimeinmonthsasmiddleeastconflictint",
+  "626b787946b0a3fe",
+  "oilpricespushpast100asusiranconflictcontinues",
+  "8a1e8576cc2159f4",
+  "crudeoilrisesto3monthhigh",
+  "563c279d7eeb36ae",
+  "oilpricerisesabove100afterusandhouthistrikes"
  ],
  "releases_done": {},
  "last_digest": "2026-09-09",
@@ -615,7 +615,7 @@
   "date": "2026-09-09",
   "count": 60
  },
- "last_run": "2026-09-09T11:40:18.741845+03:00",
+ "last_run": "2026-09-09T11:45:18.337188+03:00",
  "sent_stories": [
   {
    "d": "2026-09-06",
@@ -1872,6 +1872,14 @@
   {
    "d": "2026-09-09",
    "t": "Iran sends wave of missiles toward U.S. base in Jordan after vowing escalation - The Washington Post"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "Asia is poised to take up 70% of Canadian oil exports, pipeline executive says - Reuters"
+  },
+  {
+   "d": "2026-09-09",
+   "t": "Oil prices push past $100 as US-Iran conflict continues - Yahoo Finance"
   }
  ]
 }
