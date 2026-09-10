@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "965b5d794eb70f61",
-  "watchoilpricesbrentat100abarrelforfirsttimesincejuly",
   "c8d4040e17916041",
   "usstockfuturessteadytreasurysweakenafteroiltops100",
   "0c68e188c4ca5128",
@@ -603,7 +601,9 @@
   "1adc3b13fcb79807",
   "oilbreaks100andthisrallyhaslegs",
   "0112e12bb67fbe50",
-  "oilpricesreach100abarrel"
+  "oilpricesreach100abarrel",
+  "58ca998005e79792",
+  "globaloilpriceshit100perbarrelasmiddleeastconflictroilsmarke"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-10",
   "count": 5
  },
- "last_run": "2026-09-10T03:00:28.577731+03:00",
+ "last_run": "2026-09-10T03:05:19.820815+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
