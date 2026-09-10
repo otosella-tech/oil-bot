@@ -4,8 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "a6cd8d97c757e4f1",
-  "floridagaspricessoarbackabove4agallon",
   "76d8dc19a981cefa",
   "usforcesstrikefiveiranianoiltankersuscentralcommandsays",
   "6efdb513704c6e4d",
@@ -603,7 +601,9 @@
   "758f29e99524fcff",
   "crudeoilanalysisgeopoliticalriskcontinuestodrivethewtibarrel",
   "fedd55dddd581098",
-  "globaloilhits105perbarrelandbondyieldssurge"
+  "globaloilhits105perbarrelandbondyieldssurge",
+  "0eeaf59102e56796",
+  "blmoilandgasleasesthreatencriticalcoloradowildlifecorridorsl"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T17:15:19.243218+03:00",
+ "last_run": "2026-09-10T17:20:20.521215+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
