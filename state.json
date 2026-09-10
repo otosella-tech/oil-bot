@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "8c97f208c6a55fb3",
-  "uscrudeoilstockpilesseelargerthanexpecteddrop",
   "94db7732061bfa20",
   "oilcrosses100perbarrelasiranwarescalatesamidrenewedstrikeson",
   "eb151530734e501a",
@@ -603,7 +601,9 @@
   "652880db7eb10a77",
   "gaspricesinminnesotaspikeovernightasoilpricesclimb",
   "6e3cc6bd1b45de3b",
-  "100oilisntturningcramerbearishonstockshereare3reasonswhy"
+  "100oilisntturningcramerbearishonstockshereare3reasonswhy",
+  "4d2f2e4a8b6697cf",
+  "watchdorepublicansblametrumpforhighoilprices"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-10",
   "count": 14
  },
- "last_run": "2026-09-10T05:10:18.345191+03:00",
+ "last_run": "2026-09-10T05:15:17.317348+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
