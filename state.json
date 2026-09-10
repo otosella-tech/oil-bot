@@ -4,12 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "10b2c535751f0964",
-  "oilrisespast100abarrelafterthelatestwaveofmiddleeastattacks",
-  "0824da03a238792f",
-  "indiansharestoopenmutedasmideastconflictkeepsoilabove100",
-  "c9e9b85f7f857fc3",
-  "crudeoilfutureshitnewhighsincemayasusiranconflictintensifies",
   "d95003fb48e916e5",
   "iraqpushesopecforahugeincreaseinitsoilquota",
   "ca023300150e66d4",
@@ -603,7 +597,13 @@
   "6202c00856a91b75",
   "averagegaspricesclimbpast450pergalloninphilly",
   "88a0f7a0981cb0a8",
-  "usaveragedieselpricecrosses6agallonforthefirsttimegasbuddysa"
+  "usaveragedieselpricecrosses6agallonforthefirsttimegasbuddysa",
+  "66c3d9ecfb7f1c73",
+  "exclusivetherelentlesscryptobillionairewhomovedtovenezuelain",
+  "cca1c6d5e725de1e",
+  "enbridgetallgrasscrudeoildeallocksin255billionpipelineexpans",
+  "b276c7c4ea5169ef",
+  "usstockscloselowerasrisingyieldsand100oilpricespressurethein"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-11",
-  "count": 3
+  "count": 4
  },
- "last_run": "2026-09-11T01:16:48.010941+03:00",
+ "last_run": "2026-09-11T01:20:19.701328+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
