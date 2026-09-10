@@ -4,8 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "579417c5eef8cb5e",
-  "oilnears100asfreshmiddleeaststrikesraisesupplyrisks",
   "294ffa6e906e9d8d",
   "usadministrationeyesvenezuelascriticalminerals",
   "2731b4cc1d3ea8ca",
@@ -603,7 +601,9 @@
   "ea4cdc3c3fcd7f48",
   "oilsurges5brentanduscrudebothover100onmoretankerattacks",
   "ff4699746bdc69eb",
-  "usoiljumpsabove100andstockfuturesslumpnationalnews2newscom"
+  "usoiljumpsabove100andstockfuturesslumpnationalnews2newscom",
+  "0b4c91051b9383a2",
+  "nationalaveragejumps13centsinoneweek"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T19:35:15.420851+03:00",
+ "last_run": "2026-09-10T19:40:22.807900+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
