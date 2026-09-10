@@ -4,10 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "576a7b2ee164cc74",
-  "thecommoditybullmarketjustenteredadangerousnewphase",
-  "92ebbc719070dda3",
-  "oilprivatesurveyofinventoryshowsaheadlinecrudeoildrawsmaller",
   "139dd5d86bfe2ae0",
   "oilpriceshitveryunwelcomelevels",
   "c05b8168925b80b2",
@@ -603,7 +599,11 @@
   "50d4a7e216036cea",
   "aaafuelprices",
   "f28c8060aebe42f9",
-  "3firmssteer255benbridgetallgrasscrudeoildeal"
+  "3firmssteer255benbridgetallgrasscrudeoildeal",
+  "ca40c09a2eff05b2",
+  "shorttermenergyoutlookseptember2026",
+  "f8756e116914028a",
+  "canadiandollaredgeslowerbondyieldsjumpasoiltops100abarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T22:15:22.846493+03:00",
+ "last_run": "2026-09-10T22:20:20.403450+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
