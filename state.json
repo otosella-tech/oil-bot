@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "ddf05573ef741c8e",
-  "oilpricesclimbover100perbarrelasuswarinirancontinuesabcnews",
   "e081aef8661576e2",
   "vostokoilsfirsttankercannotconcealrosneftsemptypromises",
   "bb7d7e0e298d7be1",
@@ -603,7 +601,9 @@
   "b3b561defc90f7bd",
   "oilhits100abarrelforfirsttimesincejulyafterusandhouthistrike",
   "7e32ae9306327225",
-  "morningbidlagardetakesthespotlightasoilsitsabove100"
+  "morningbidlagardetakesthespotlightasoilsitsabove100",
+  "16a92124453801fd",
+  "trumpmakescaseforiranwarpromises5000payoutsifgopwinsmidterms"
  ],
  "releases_done": {},
  "last_digest": "2026-09-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-10",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-09-10T07:40:23.398457+03:00",
+ "last_run": "2026-09-10T07:45:17.499643+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2040,6 +2040,10 @@
   {
    "d": "2026-09-10",
    "t": "Brent holds above $100 as tanker attacks deepen supply fear - Reuters"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms - The Washington Post"
   }
  ]
 }
