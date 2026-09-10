@@ -4,8 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "d22afcc228af9046",
-  "oilsurgesabove100abarrelasusandiranlaunchnewattacksgasolinep",
   "4602b281de3d6b7e",
   "californiacoastalcommissionisthelatesttargetfortrumpadminist",
   "128b0428ac5a58bc",
@@ -603,7 +601,9 @@
   "974921867a9f4b60",
   "oilsurges6afternewtankerattacksinmiddleeast",
   "0ba1f029240bebd2",
-  "icecanolafuturesriseassoyproductsandcrudeoilgain"
+  "icecanolafuturesriseassoyproductsandcrudeoilgain",
+  "4a94f71eeb0d719e",
+  "tightsupplyworriesliftoilasmiddleeastconflictheatsup"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 1
  },
- "last_run": "2026-09-11T00:10:21.975813+03:00",
+ "last_run": "2026-09-11T00:15:18.704767+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
