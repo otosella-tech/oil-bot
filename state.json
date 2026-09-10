@@ -4,8 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "5d0cbe9d42843547",
-  "whyusiranwaroverhormuzisthreateningthegulfswaters",
   "983d4d17d35d72a5",
   "oilsurgesabove100abarrelamidescalationofusiranwar",
   "9405139b5616855d",
@@ -603,7 +601,9 @@
   "46ee69443ab7d7d6",
   "crudeoilcrosses100asmacropressurecontinuestobuild",
   "9c7993b5d9735791",
-  "oilsurges6brentanduscrudebothsurpass100onmoretankerattacks"
+  "oilsurges6brentanduscrudebothsurpass100onmoretankerattacks",
+  "172efb29cb449558",
+  "enbridgeexpandsfootprint"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T21:05:17.217482+03:00",
+ "last_run": "2026-09-10T21:10:18.955621+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
