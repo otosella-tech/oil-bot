@@ -4,8 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "6bd282b2bd30e438",
-  "usequityindexesdropascrudeoiltops100marktreasuryyieldssurge",
   "1c84832a383b271b",
   "brentsettlesatover100abarrelasmiddleeastconflictintensifies",
   "570e292166b84c1e",
@@ -603,7 +601,9 @@
   "8b5a5f23ab10782c",
   "mortgageratestop7asoilhits100andyieldsclimb",
   "2731b4cc1d3ea8ca",
-  "brentcrudetops100abarrelonmiddleeastescalation"
+  "brentcrudetops100abarrelonmiddleeastescalation",
+  "be53fea70729ce65",
+  "uscrudeoiloutputrisestofreshrecordofnearly14millionbarrelsad"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T19:50:20.434406+03:00",
+ "last_run": "2026-09-10T19:55:21.742460+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
