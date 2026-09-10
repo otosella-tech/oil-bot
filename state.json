@@ -4,8 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "239bbae5bd21ceff",
-  "stocksandbondsfallascrudeoilsurges",
   "aa8cb66a592bf1c3",
   "brentcruderisesabove100abarrelamidmiddleeasttension",
   "2c5558e70fc5d015",
@@ -603,7 +601,9 @@
   "16c047e61916a82d",
   "brentcrudeoiltops100hereswhatthatmeansforusoilprices",
   "a116c7ad2cc0c9dc",
-  "silverpriceforecastfallsto66as100crudeoilpressuresmetals"
+  "silverpriceforecastfallsto66as100crudeoilpressuresmetals",
+  "f2212e7e4608c2b1",
+  "saudiarabiasoilproductionslumpstolowestin36yearsaswarbitesal"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T16:20:19.398991+03:00",
+ "last_run": "2026-09-10T16:25:15.929100+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2188,6 +2188,10 @@
   {
    "d": "2026-09-10",
    "t": "Oil jumps to $105 a barrel after Middle East tanker attacks escalate - The Lufkin Daily News"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Saudi Arabia’s oil production slumps to lowest in 36 years as war bites - Al-Monitor"
   }
  ]
 }
