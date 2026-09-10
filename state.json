@@ -4,10 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "f33f9d31b08f0c83",
-  "usmilitarydestroys5iranianoiltankersandthesmithsonianheadres",
-  "42e9cedbd0c61f61",
-  "crudeoilpricesclimbover100abarrel",
   "ae0e207a87fb35f9",
   "oilhits100againhereswhyconsumerscouldfeelitsoon",
   "b4ba4e63f75544e2",
@@ -603,7 +599,11 @@
   "a3f0187ebc47b3bd",
   "singaporerefinerlookstowestafricaandlatinamericaforcrudeasir",
   "320d2eef35563a46",
-  "useiaraisesoilpriceforecastsamidmiddleeastsupplydisruptions"
+  "useiaraisesoilpriceforecastsamidmiddleeastsupplydisruptions",
+  "d331a6cd8eb5a490",
+  "globalcleaninvestmentfalls17aschinapullbacktakesitstoll",
+  "4dbece207a865cd4",
+  "trumpsaysoilpricesthatspikedbecauseofiranwarlikelywontcomedo"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-10",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-09-10T11:10:19.955303+03:00",
+ "last_run": "2026-09-10T11:15:18.778090+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2096,6 +2096,10 @@
   {
    "d": "2026-09-10",
    "t": "Singapore refiner looks to West Africa and Latin America for crude as Iran war disrupts Middle East supplies - Business Insider Africa"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - apnews.com"
   }
  ]
 }
