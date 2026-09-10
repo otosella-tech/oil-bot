@@ -4,14 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "d10abab69a2c68a8",
-  "eurusdforecastoilusinflationdataandecballinfocus",
-  "254e23d05ebaead9",
-  "oilstocksinusstrategicpetroleumreservefallby12millionbarrels",
-  "cd925b0face27196",
-  "oilpricesaddtotwomonthhighsafterusdestroysfiveiranianoiltank",
-  "4c0a8eec595965c4",
-  "oilrisespast100abarrelafterthelatestwaveofmiddleeastattackss",
   "e84fcf5563de2f24",
   "oilsurgespast100abarrelafterfreshmiddleeastattacks",
   "92c61a0de119a865",
@@ -603,7 +595,15 @@
   "92464cca58274f71",
   "ryanairceosaystobraceforasignificantupliftinairfaresasoilpri",
   "37c5e9a9b484e644",
-  "opeckeepsoiloutputpolicyunchangedforoctober"
+  "opeckeepsoiloutputpolicyunchangedforoctober",
+  "3d6850a672213244",
+  "oilpricesextendgainsbrentstaysabove100abarrelonmideastworrie",
+  "0a6ac71e58d24682",
+  "oilpriceforecastsclimbaswallstreetgivesuponaquickendtotheglo",
+  "ca53046131bb7c0d",
+  "exglencoreheadofoilpleadsnotguiltytoukbriberychargesaheadof2",
+  "2eaeeaea8e9369c8",
+  "oilcoordinationgroupnoimmediatesecurityofoilsupplyconcernsin"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 59
  },
- "last_run": "2026-09-10T12:50:19.988982+03:00",
+ "last_run": "2026-09-10T12:55:15.399568+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
