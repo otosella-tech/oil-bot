@@ -4,8 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "683c9868d317ffd7",
-  "oilrisesamidescalationinmideastconflict",
   "d22afcc228af9046",
   "oilsurgesabove100abarrelasusandiranlaunchnewattacksgasolinep",
   "4602b281de3d6b7e",
@@ -603,7 +601,9 @@
   "b8b48a57fe2e0c51",
   "usontrackforrecordcrudeoilproductionin2026",
   "974921867a9f4b60",
-  "oilsurges6afternewtankerattacksinmiddleeast"
+  "oilsurges6afternewtankerattacksinmiddleeast",
+  "0ba1f029240bebd2",
+  "icecanolafuturesriseassoyproductsandcrudeoilgain"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 1
  },
- "last_run": "2026-09-11T00:05:17.166738+03:00",
+ "last_run": "2026-09-11T00:10:21.975813+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
