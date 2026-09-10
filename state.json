@@ -4,10 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "1e5e8ac394a2e8b3",
-  "globaloilpriceshit101perbarrelasmiddleeastconflictroilsmarke",
-  "20162d7ccdbdeca0",
-  "surgingcrudeoilpricescontinuetoweighonwallstreet",
   "c38c3fff303d6524",
   "sp500endsdownasoiltops100perbarrel",
   "6fd5dc330c8c5837",
@@ -603,7 +599,11 @@
   "135f458381951900",
   "opeclowers2026globaloildemandoutlookamidhighenergyprices",
   "478542e216b32757",
-  "commentarychinascrudeoilimportsstayedweakinaugustcanthiscont"
+  "commentarychinascrudeoilimportsstayedweakinaugustcanthiscont",
+  "2e175df1957d1704",
+  "crudeoilextendsthegainsforthedayreaching102iranreportedlyare",
+  "a824f2057b8456ea",
+  "oilpricestradeabove100abarrelforthefirsttimeinmonths"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T20:40:20.330236+03:00",
+ "last_run": "2026-09-10T20:45:18.014549+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2256,6 +2256,10 @@
   {
    "d": "2026-09-10",
    "t": "Global oil hits $107 per barrel and bond yields surge - CNN"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Crude oil extends the gains for the day reaching $102. Iran reportedly are producing ballistic missiles again - investingLive"
   }
  ]
 }
