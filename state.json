@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "8b6a0f2b3fbad5a5",
-  "brentcrudehit100butoiltradersarereportedlynotmakinglongtermb",
   "c9385ce27f6d3df3",
   "indianstocksfalltothreemonthlowasbrentoilsurgespast100",
   "172adbb84b743c20",
@@ -603,7 +601,9 @@
   "60bc52a92e013f3e",
   "canadasenbridgetobuytallgrasscrudeoilbusinessfor255bn",
   "f8282513b989c83a",
-  "indiacallsforbiggerbiofuelpushasoilpricessoar"
+  "indiacallsforbiggerbiofuelpushasoilpricessoar",
+  "19f7df0ac6d81394",
+  "brentcrudeoilhits100abarrelforfirsttimesincejuly"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 57
  },
- "last_run": "2026-09-10T12:30:24.316396+03:00",
+ "last_run": "2026-09-10T12:35:16.440029+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
