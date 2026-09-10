@@ -4,10 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "67226d91288a77ee",
-  "analystspredictweeklydrawinuscrudeoilstockpiles",
-  "b6bd3ac38f01171b",
-  "bankofenglandwarnsiranwarcouldpushukinflationabove4",
   "b53f1028674d7bd5",
   "nothingworseenergypricesareclosinginongopsmidtermchances",
   "9ae7170fdad6eddf",
@@ -603,7 +599,11 @@
   "930cab10c84d1c90",
   "brentcrudeoilrisesabove100abarrelasmiddleeastconflictintensi",
   "d913fc86c5dc7c14",
-  "oilrisesto99onreportiranlaunchedsecondundisclosedattackonusn"
+  "oilrisesto99onreportiranlaunchedsecondundisclosedattackonusn",
+  "3fced99297e26d5c",
+  "ryazanoilrefineryshutsdownafterdroneattackreutersreports",
+  "488bb48f0f6a1657",
+  "stockfuturesfallasoilsurgespast100ppitopsforecasts"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T16:35:16.497717+03:00",
+ "last_run": "2026-09-10T16:40:20.554278+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2200,6 +2200,10 @@
   {
    "d": "2026-09-10",
    "t": "Oil rises to $99 on report Iran launched second undisclosed attack on U.S. Navy ships - CNBC"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Ryazan oil refinery shuts down after drone attack, Reuters reports - Ukrinform"
   }
  ]
 }
