@@ -4,12 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "0112e12bb67fbe50",
-  "oilpricesreach100abarrel",
-  "58ca998005e79792",
-  "globaloilpriceshit100perbarrelasmiddleeastconflictroilsmarke",
-  "c42f178ba0f7d3bd",
-  "enbridgetoacquiretallgrassenergyscrudetransportationbusiness",
   "bbc88f357412746d",
   "enbridgetobuyanothercrudeoilpipelinesystemfor255billionahead",
   "7b77c16e93f24857",
@@ -603,7 +597,13 @@
   "293035e023ff5ce9",
   "usontrackforrecordcrudeoilproductionin2026midlandreporter",
   "178d52a8eaf0ec44",
-  "usequitymarketsendlowerascrudeoilsurgesbondyieldsrise"
+  "usequitymarketsendlowerascrudeoilsurgesbondyieldsrise",
+  "bad0fd079cd5b3c1",
+  "globalbondselloffreignitesasoiljumpsto108",
+  "9733518d6cb478e3",
+  "cantrumpstopthesurgeinoilpricesexpertsweighinabcnews",
+  "c5f23ae141947034",
+  "ukraineattackskeyrussianblackseaportnavalbase"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T23:50:18.981072+03:00",
+ "last_run": "2026-09-10T23:55:15.792249+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2288,6 +2288,10 @@
   {
    "d": "2026-09-10",
    "t": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates - theguardian.com"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Ukraine attacks key Russian Black Sea port, Naval base - Farm Progress"
   }
  ]
 }
