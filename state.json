@@ -4,8 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "4b31dca2a9588ba1",
-  "analystsskepticaloftrumpadmineffortstocurbgasprices",
   "6bd282b2bd30e438",
   "usequityindexesdropascrudeoiltops100marktreasuryyieldssurge",
   "1c84832a383b271b",
@@ -603,7 +601,9 @@
   "a13d8dd24483e92a",
   "crudeoilpricessoaronfearsusiranwartopersist",
   "8b5a5f23ab10782c",
-  "mortgageratestop7asoilhits100andyieldsclimb"
+  "mortgageratestop7asoilhits100andyieldsclimb",
+  "2731b4cc1d3ea8ca",
+  "brentcrudetops100abarrelonmiddleeastescalation"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T19:45:19.463285+03:00",
+ "last_run": "2026-09-10T19:50:20.434406+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
