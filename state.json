@@ -4,14 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "2e75bd2ecb7327a3",
-  "iranattacksvesselsusbaseinjordanaftertankerssunk",
-  "81a92a9a977e4ca3",
-  "brentoiltops100asmiddleeastconflictintensifiesstokingsupplyf",
-  "b723d74317ff977e",
-  "tehrantargetsusbaseinjordaninretaliationforusdestroyingirani",
-  "08ccffe94ebe2ab0",
-  "brentoilcrosses100forfirsttimeintwomonthsasmiddleeastconflic",
   "b4b2596bcf108c2f",
   "oilhits100abarrelforfirstsincejulyasmiddleeastconflictintens",
   "bb93b65482543a8c",
@@ -603,7 +595,15 @@
   "1fd76e9b6271e49f",
   "skyrocketingoilpricebringsin500mtonlsaysfinanceministerhelpi",
   "81c41a06cc152dff",
-  "eurusdforecastoilusinflationdataandecballinfocus"
+  "eurusdforecastoilusinflationdataandecballinfocus",
+  "36970377d36858ef",
+  "marketminuteusstrategicpetroleumreservecontinuestodrop",
+  "ed449c97172e741a",
+  "oilclosesathighestlevelin4months",
+  "087c1f35c49e6e06",
+  "wallstreetdipsas100oilinflationworriesweighoninvestors",
+  "73cd5d3481dbca7e",
+  "primeministerorderspreemptivesecuringofcrudeamidrekindledmid"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 59
  },
- "last_run": "2026-09-10T13:05:16.936287+03:00",
+ "last_run": "2026-09-10T13:10:18.646203+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
