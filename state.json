@@ -4,10 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "c38c3fff303d6524",
-  "sp500endsdownasoiltops100perbarrel",
-  "6fd5dc330c8c5837",
-  "iranandusstriketankersinbiggestshippingattacksincewarbegan",
   "b68ce4c7e3f0fbd6",
   "stocksfallonoilyieldsbutmetajumpsinflationdatadue",
   "233902b286d0bcb8",
@@ -603,7 +599,11 @@
   "2e175df1957d1704",
   "crudeoilextendsthegainsforthedayreaching102iranreportedlyare",
   "a824f2057b8456ea",
-  "oilpricestradeabove100abarrelforthefirsttimeinmonths"
+  "oilpricestradeabove100abarrelforthefirsttimeinmonths",
+  "10df384cdd413fd9",
+  "oilgasandborrowingcostssurgeasfearsovermiddleeastescalate",
+  "079aade54ff27010",
+  "globaloilpriceshit101perbarrelasmiddleeastconflictroilsmarke"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T20:45:18.014549+03:00",
+ "last_run": "2026-09-10T20:50:19.513412+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2260,6 +2260,10 @@
   {
    "d": "2026-09-10",
    "t": "Crude oil extends the gains for the day reaching $102. Iran reportedly are producing ballistic missiles again - investingLive"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Oil, gas and borrowing costs surge as fears over Middle East escalate - bbc.com"
   }
  ]
 }
