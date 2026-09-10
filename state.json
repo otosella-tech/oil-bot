@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "1ecfaa8bc292602f",
-  "oilrisesabove100perbarrelafterthelatestwaveofmiddleeastattac",
   "c300121a046dbc3a",
   "iranwarcrudeoilintripledigitterritory",
   "9775c0ceb9bf8fcb",
@@ -603,7 +601,9 @@
   "edc75de6f85ef49f",
   "chinasevpenetrationcouldreach80by2030sinopecresearchersays",
   "cd80c6baa44ee464",
-  "aniraniancrudeoilcarrieridentifiedasmtriescosinks"
+  "aniraniancrudeoilcarrieridentifiedasmtriescosinks",
+  "546ff69481b35c85",
+  "asiansharesfallandoilpricestradeabove100abarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 37
  },
- "last_run": "2026-09-10T09:30:23.137776+03:00",
+ "last_run": "2026-09-10T09:35:20.261837+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
