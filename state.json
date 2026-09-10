@@ -1,17 +1,9 @@
 {
  "price_base": {
-  "WTI": 96.33,
-  "Brent": 101.41
+  "WTI": 98.62,
+  "Brent": 103.44
  },
  "seen": [
-  "750924b5e760926c",
-  "stocksfallonwallstreetasoilpricesjumpabove100abarrelafterusa",
-  "be04657e0bb66196",
-  "oilbreaches100onfreshmiddleeastflareup",
-  "ee92a51f5945769d",
-  "usmarketoutlookcrudeoilpricesremainhighamidescalatingtension",
-  "b43580b5091a7084",
-  "oilpricesjumptreasuryyieldsfirmwithbessentsettocalmfever",
   "ec226d2101dab14c",
   "oilhits100howwegothereagainandwhatitmeans",
   "bf3b8f3b7e9f9242",
@@ -603,7 +595,15 @@
   "2969cea700689043",
   "currentpriceofoilasofseptember42026",
   "583e407e61578055",
-  "iraqtenderingfortwooilsupertankerstogothroughhormuz"
+  "iraqtenderingfortwooilsupertankerstogothroughhormuz",
+  "335263c720bc4bd9",
+  "oilextendsrallyasbrentholdsabove100andwtinearstripledigits",
+  "903c6b6a03c0f0f7",
+  "saudistellopecthatoutputslumpedagaintolowestsince1990",
+  "1761615c2cd42f8d",
+  "wasdeloomsasharvestpressureoilspikerattlegrainandcattlemarke",
+  "bed5efe3d43f9728",
+  "dowfalls300pointsasbrentcrudeoilhits100abarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T15:05:19.437085+03:00",
+ "last_run": "2026-09-10T15:10:20.880008+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2164,6 +2164,10 @@
   {
    "d": "2026-09-10",
    "t": "Iraq Tendering for Two Oil Supertankers to Go Through Hormuz - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Saudis Tell OPEC That Output Slumped Again to Lowest Since 1990 - Bloomberg.com"
   }
  ]
 }
