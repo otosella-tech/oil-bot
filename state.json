@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "7bbafe06a3e60e4e",
-  "brentoilpricebreaks100perbarrel",
   "199ce0c5f5e8ef83",
   "shippingtrafficviastraitofhormuzstaysbelow10dayaveragedatash",
   "d813be4ddb244dca",
@@ -603,7 +601,9 @@
   "06fa439b2e0d9626",
   "theguardianviewondonaldtrumpsoildealvenezuelapaysforhisvanit",
   "973d134cb67a458f",
-  "trumpreportedlysaysoilpriceswonttumbleuntilaftermidtermswhil"
+  "trumpreportedlysaysoilpriceswonttumbleuntilaftermidtermswhil",
+  "0ea6bdf5b6a96a66",
+  "asiansharesfallandoilpricesholdsteadyabove100aba"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-10",
   "count": 16
  },
- "last_run": "2026-09-10T06:50:17.755886+03:00",
+ "last_run": "2026-09-10T06:55:15.191161+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
