@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "be3e14a70f99fb76",
-  "usstockfuturessteadytreasuryyieldsriseweakenafteroiltops100",
   "6c08b64e9156f890",
   "hasirancapturedanunmannedussubmarinewhatweknow",
   "a7bf9114dd24f87f",
@@ -603,7 +601,9 @@
   "744ce19c0957c47a",
   "willtheratehikeshockreturncrudeoilhits100employmentdataistoo",
   "ac6ffd5181d601c0",
-  "worldsharesretreatandoilpricestradeabove100abarrel"
+  "worldsharesretreatandoilpricestradeabove100abarrel",
+  "c68fc7befa3a295e",
+  "worldsharesretreatandoilpricestradeabove100abarrelnationalne"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 53
  },
- "last_run": "2026-09-10T11:55:15.032979+03:00",
+ "last_run": "2026-09-10T12:00:28.553682+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
