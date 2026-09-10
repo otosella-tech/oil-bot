@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "c6d59cb2b08683da",
-  "playingtheoilendgameoilproducersandthegeopoliticsofdeclining",
   "4dff3b0a589cb294",
   "indiasrefineriesrunatupto108asdieseldemandsurges",
   "73419932a8fd8f75",
@@ -603,7 +601,9 @@
   "8236cba67ad0b9c6",
   "oilholdsabove100asus",
   "8a205b109cff2a17",
-  "oilholdsabove100asusirantankerwarescalates"
+  "oilholdsabove100asusirantankerwarescalates",
+  "f19ecfbb1275a2ac",
+  "colombiatargets1millionbarrelsofoiladayagain"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 33
  },
- "last_run": "2026-09-10T09:00:28.747729+03:00",
+ "last_run": "2026-09-10T09:05:16.277740+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
