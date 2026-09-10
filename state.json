@@ -4,8 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "8a5b590ad03aba2d",
-  "oiltops100asmiddleeastsupplyrisksintensify",
   "cdb022ddc2946384",
   "usmilitarysaysitdestroyed5moreiranianoiltankersaftermissilea",
   "a6cd8d97c757e4f1",
@@ -603,7 +601,9 @@
   "a519f320466d3dad",
   "uscrudeoilhits100forthefirsttimesincemay",
   "4d9091c9bcaf0fbf",
-  "enbridgetobuytallgrasscrudeoilbusinessfor255b"
+  "enbridgetobuytallgrasscrudeoilbusinessfor255b",
+  "758f29e99524fcff",
+  "crudeoilanalysisgeopoliticalriskcontinuestodrivethewtibarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T17:05:14.812074+03:00",
+ "last_run": "2026-09-10T17:10:23.171970+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
