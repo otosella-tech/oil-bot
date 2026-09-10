@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "73419932a8fd8f75",
-  "whyisfuelexpensivewhencrudeoilhasnthitrecordhighs",
   "2a475f6bf52ff1e5",
   "secretdocumentsexposenewnetworksellingsanctionediranianoil",
   "1734b7d0d5634bda",
@@ -603,7 +601,9 @@
   "f19ecfbb1275a2ac",
   "colombiatargets1millionbarrelsofoiladayagain",
   "8a55ecbdf3c58583",
-  "oilmarketcouldbeoutofbalanceuntilmid2027sayshsbc"
+  "oilmarketcouldbeoutofbalanceuntilmid2027sayshsbc",
+  "4bde2bad4dbc7f5a",
+  "trumpsaysiranwartoendafterusmidtermelectionsthreatenstoattac"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-10",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-09-10T09:20:22.875230+03:00",
+ "last_run": "2026-09-10T09:25:15.513841+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2060,6 +2060,10 @@
   {
    "d": "2026-09-10",
    "t": "Oil Holds Above $100 as U.S.-Iran Tanker War Escalates - oilprice.com"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Trump says Iran war to end after US midterm elections, threatens to attack Pickaxe Mountain - Reuters"
   }
  ]
 }
