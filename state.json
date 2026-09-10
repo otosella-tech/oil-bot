@@ -4,10 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "9bc8b564ee5ba96f",
-  "negativepowerpricesarepilingupacrosseurope",
-  "3f6e841ce9ad17fd",
-  "uscrudestocksedgelowerasoiltops100",
   "05a212d6eafd0820",
   "commentarytradingday100oilbites",
   "8b044fd2c42ba929",
@@ -603,7 +599,11 @@
   "2b4c11486d5b2a64",
   "globalbondselloffresumesassurgingoilpricesstokefearsaboutinf",
   "18b7cc79f26c0c5e",
-  "globalbondselloffresumesassurgingoilpricesstokesfearsaboutin"
+  "globalbondselloffresumesassurgingoilpricesstokesfearsaboutin",
+  "be1afb446a7a247f",
+  "eiauscrudeinventoriesdown400000bbl",
+  "1a4b6557c2e299bd",
+  "likelyoilslicksinstraitofhormuzafterustankerstrikesexperts"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T21:25:15.483905+03:00",
+ "last_run": "2026-09-10T21:30:23.730732+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2272,6 +2272,10 @@
   {
    "d": "2026-09-10",
    "t": "Oil surges 6%, Brent and US crude both surpass $100 on more tanker attacks - Reuters"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Likely oil slicks in Strait of Hormuz after US tanker strikes: experts - France 24"
   }
  ]
 }
