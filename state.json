@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "64b7fec05ef0ad5e",
-  "stockspressuredbyrisingcrudeoilprices",
   "784555effb1c0715",
   "priceofcrudeoilnears100abarrelasusiranstalematecontinues",
   "2856ce9491e1ffc6",
@@ -603,7 +601,9 @@
   "34735f1d78f20351",
   "brentholdsabove100onusiranescalation",
   "e6462180b66076c4",
-  "enbridgetobuytallgrasscrudeoiltransportbusinessfor25bn"
+  "enbridgetobuytallgrasscrudeoiltransportbusinessfor25bn",
+  "806ea6e83b34d1c5",
+  "currentpriceofoilasofsept92026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 47
  },
- "last_run": "2026-09-10T10:45:18.371800+03:00",
+ "last_run": "2026-09-10T10:50:20.507194+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
