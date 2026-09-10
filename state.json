@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "58a5680a988a5e05",
-  "ubsraisesoilpriceforecastsforthenextthreequarters",
   "f6b8e15d36a6ee6e",
   "coloradooilandgaswellstartslagdespitehighcrudeprices",
   "cfef9485a66e6014",
@@ -603,7 +601,9 @@
   "593d81ec5214e643",
   "oiltops100onconflictworrieswhyisntitevenhigher",
   "32010f020a9263ef",
-  "cleanhydrogeninvestmenttops130billion"
+  "cleanhydrogeninvestmenttops130billion",
+  "eb8f91581732de01",
+  "opecoiloutputfallsinaugustreuterssurveyshows"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T14:30:26.426255+03:00",
+ "last_run": "2026-09-10T14:35:16.474288+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2152,6 +2152,10 @@
   {
    "d": "2026-09-10",
    "t": "Oil Prices Rise as Brent Stays Above $100 Following Strait of Hormuz Attacks - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "OPEC oil output falls in August, Reuters survey shows - Reuters"
   }
  ]
 }
