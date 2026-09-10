@@ -1,13 +1,9 @@
 {
  "price_base": {
   "WTI": 100.74,
-  "Brent": 105.51
+  "Brent": 107.99
  },
  "seen": [
-  "9405139b5616855d",
-  "canadasenbridgetobuytallgrasscrudeoilbusinessfor255billion",
-  "f421ea9f63257d69",
-  "oilpricesareupagainamidiranwarhereswhatthiscouldmeanforfuelc",
   "766098e73e477c56",
   "100abarreloilmeanspriciergasforsometime",
   "9bc8b564ee5ba96f",
@@ -603,7 +599,11 @@
   "172efb29cb449558",
   "enbridgeexpandsfootprint",
   "e817db31d79f3be7",
-  "oilpricesclimbhigherdraggingwallstreetlower"
+  "oilpricesclimbhigherdraggingwallstreetlower",
+  "3819a13c7b93d00c",
+  "eiaforecastscontinuedgrowthinuscrudeoilproductionthrough2026",
+  "2b4c11486d5b2a64",
+  "globalbondselloffresumesassurgingoilpricesstokefearsaboutinf"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T21:15:19.421438+03:00",
+ "last_run": "2026-09-10T21:20:21.962901+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
