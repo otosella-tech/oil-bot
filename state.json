@@ -4,10 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "871343565c6965a0",
-  "stocksfallonwallstreetasoilpricesjumpbackabove100abarrel",
-  "bb8c8a3b7b693ab6",
-  "dowjonesfuturesoilpricesyieldshitstocksappleunfoldsiphoneinf",
   "10a124a285272248",
   "chinaoildemandtofall89in2026sinopecresearchsays",
   "7046ff7a07bbd80a",
@@ -603,7 +599,11 @@
   "3f75df8b6aa82e39",
   "dollargainsascrudeoilpricesandtnoteyieldssurge",
   "b9608047aac54fc0",
-  "globaloilhits108perbarrelwhilebondyieldssurge"
+  "globaloilhits108perbarrelwhilebondyieldssurge",
+  "2b36d5f938983d6c",
+  "oilhits100abarrelasturmoilintensifiesinmiddleeast",
+  "afff84965530e4c9",
+  "oilpricesriseabove100abarrelforfirsttimesincejulyasiranwares"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T22:45:19.453042+03:00",
+ "last_run": "2026-09-10T22:50:21.139465+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2284,6 +2284,10 @@
   {
    "d": "2026-09-10",
    "t": "Oil surges 6% after new tanker attacks in Middle East - Honolulu Star-Advertiser"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates - theguardian.com"
   }
  ]
 }
