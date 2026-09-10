@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "ceff1e41af83dd51",
-  "oiltops100abarrelasmideastconflictescalates",
   "f30a99be8c843f99",
   "oilpricessurpass100amidsupplyconcerns",
   "c6d59cb2b08683da",
@@ -603,7 +601,9 @@
   "9fc6b6975b0d2496",
   "japansnikkeisinksamidriseinoilasiranwarescalates",
   "9f9496dc78f310ee",
-  "indiansharesmutedasmideastconflictkeepsoilabove100"
+  "indiansharesmutedasmideastconflictkeepsoilabove100",
+  "8236cba67ad0b9c6",
+  "oilholdsabove100asus"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-10",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-09-10T08:40:20.974683+03:00",
+ "last_run": "2026-09-10T08:45:18.633199+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2052,6 +2052,10 @@
   {
    "d": "2026-09-10",
    "t": "Japan's Nikkei sinks amid rise in oil as Iran war escalates - アラブニュース"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Oil Holds Above $100 as U.S.-Iran Tanker War Escalates"
   }
  ]
 }
