@@ -4,10 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "245b95e482f53c04",
-  "oilsurgespast101tohighestclosinglevelsincemayasmiddleeastcon",
-  "97e943737fd91ff2",
-  "enbridgeacquiresnewcrudeoilassets",
   "14dead9e60f5f884",
   "crudeoilsrallyhandscentralbanksahawkishinflationproblem",
   "c5007086165fdb64",
@@ -603,7 +599,11 @@
   "b7ee71a29db204cf",
   "uscrudeinventoriesfallasbrentpricessoar",
   "3a308d4e80fa3e4f",
-  "oilsurgesabove100abarrelasusandiranlaunchnewattackswhilegaso"
+  "oilsurgesabove100abarrelasusandiranlaunchnewattackswhilegaso",
+  "e5029f9407a93526",
+  "globalbondselloffreignitesasoiljumpsto107",
+  "a482ae7a06601951",
+  "uksftse100fallsforfifthstraightdayasratehikeinflationfearsbi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T19:20:20.459212+03:00",
+ "last_run": "2026-09-10T19:25:16.879358+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
