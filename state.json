@@ -4,10 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "76230b78a110c240",
-  "coppersurgesabove14500assupplysqueezedeepens",
-  "7ec23e8229a813c1",
-  "currentpriceofoilasofseptember82026",
   "298b6bb999475bcb",
   "oilsreturnabove100abarrelputsinflationbackatthecenterofwalls",
   "1fb2517210315a52",
@@ -603,7 +599,11 @@
   "8d166ec661e54040",
   "wealthyinvestorsseekoilandgasassetsbutbargainsarescarce",
   "9b110a6f384fdb88",
-  "oilpricesriseasmiddleeastconflictescalates"
+  "oilpricesriseasmiddleeastconflictescalates",
+  "d47ff74f42977541",
+  "wticrudeoilfuturesreach14weekhighonmiddleeasttensions",
+  "3c90b0243c871100",
+  "iranwarwontenduntilafterusmidtermelectionssaystrump"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T15:55:16.031056+03:00",
+ "last_run": "2026-09-10T16:00:29.526533+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2172,6 +2172,10 @@
   {
    "d": "2026-09-10",
    "t": "Houthis seize key Yemeni Red Sea port, sources say, threatening global energy flows - Reuters"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Iran war won't end until after US midterm elections, says Trump - BBC"
   }
  ]
 }
