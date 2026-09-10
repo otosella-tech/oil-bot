@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "784555effb1c0715",
-  "priceofcrudeoilnears100abarrelasusiranstalematecontinues",
   "2856ce9491e1ffc6",
   "oilhits100againhereswhyconsumerscouldfeelitsoonkxlf",
   "f33f9d31b08f0c83",
@@ -603,7 +601,9 @@
   "e6462180b66076c4",
   "enbridgetobuytallgrasscrudeoiltransportbusinessfor25bn",
   "806ea6e83b34d1c5",
-  "currentpriceofoilasofsept92026"
+  "currentpriceofoilasofsept92026",
+  "a3f0187ebc47b3bd",
+  "singaporerefinerlookstowestafricaandlatinamericaforcrudeasir"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-10",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-09-10T10:55:17.454584+03:00",
+ "last_run": "2026-09-10T11:01:05.154561+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2092,6 +2092,10 @@
   {
    "d": "2026-09-10",
    "t": "Brent Holds Above $100 on U.S.-Iran Escalation - WSJ"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Singapore refiner looks to West Africa and Latin America for crude as Iran war disrupts Middle East supplies - Business Insider Africa"
   }
  ]
 }
