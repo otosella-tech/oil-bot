@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "091289bb33a8177a",
-  "oilhits100forfirsttimesincejulyaschaoscontinuesinstraitofhor",
   "65b908d81ec7c448",
   "brentcruderisesabove100abarrelasmiddleeastconflictintensifie",
   "8c97f208c6a55fb3",
@@ -603,7 +601,9 @@
   "6fcdbfe380985327",
   "oiljusttopped100abarrel2canadianenergystockstobuybeforethera",
   "6fdda59ca039eab0",
-  "brentholdsabove100astankerattacksdeepensupplyfear"
+  "brentholdsabove100astankerattacksdeepensupplyfear",
+  "652880db7eb10a77",
+  "gaspricesinminnesotaspikeovernightasoilpricesclimb"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-10",
   "count": 14
  },
- "last_run": "2026-09-10T04:40:18.707249+03:00",
+ "last_run": "2026-09-10T04:45:17.401394+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
