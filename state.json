@@ -4,10 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "a54b4122e9eb734b",
-  "whyarepetrolanddieselpricesrisingagain",
-  "2159ee9a0ce13fcb",
-  "canadasenbridgesaidtoneardealformajorusoilpipeline",
   "579417c5eef8cb5e",
   "oilnears100asfreshmiddleeaststrikesraisesupplyrisks",
   "294ffa6e906e9d8d",
@@ -603,7 +599,11 @@
   "245b95e482f53c04",
   "oilsurgespast101tohighestclosinglevelsincemayasmiddleeastcon",
   "df8efd01a7a90124",
-  "crudeoilat100getsalltheattentionwatchthese5chartstotrackthee"
+  "crudeoilat100getsalltheattentionwatchthese5chartstotrackthee",
+  "ea4cdc3c3fcd7f48",
+  "oilsurges5brentanduscrudebothover100onmoretankerattacks",
+  "ff4699746bdc69eb",
+  "usoiljumpsabove100andstockfuturesslumpnationalnews2newscom"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T19:30:27.332226+03:00",
+ "last_run": "2026-09-10T19:35:15.420851+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2244,6 +2244,10 @@
   {
    "d": "2026-09-10",
    "t": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Oil surges 5%, Brent and US crude both over $100 on more tanker attacks - Reuters"
   }
  ]
 }
