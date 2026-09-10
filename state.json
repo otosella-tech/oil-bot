@@ -4,14 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "d8d99ce4eb6067e9",
-  "stjosephsrecoverycenterprovidesmethadonetreatmentinsaranacla",
-  "24cc3780ec7d3127",
-  "oilpricespikefromiranattacksintrudesongopsmidtermconvention",
-  "26c765b88a761a7b",
-  "canadianoilpushesdeeperintousgulfcoastmarket",
-  "1098be4704a0ea52",
-  "artistjaminixrahntosimultaneouslyshowcasetwodifferentstyleso",
   "5d8827e6384ac6b1",
   "bostonhomeheatingoilcompanymakingadvancecallstocustomerstoav",
   "35f72a6cf753efcf",
@@ -603,7 +595,15 @@
   "5079f84de0a35d29",
   "aaagaspricesincreaseascrudeoilreturnsabove100",
   "23962f1a5ab37d99",
-  "copperstockssinkaswhitehousetariffuncertaintyspookstraders"
+  "copperstockssinkaswhitehousetariffuncertaintyspookstraders",
+  "a4c7267757f4106f",
+  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
+  "38967d6760d5b0bc",
+  "russiascrudeoutputfellinaugust",
+  "54dfebc300db9554",
+  "usequityindexesfallashotproducerpricessoaringcrudeoilboosttr",
+  "65a674bf66bd755a",
+  "demandratesoilwhatsnextforagriculture"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T23:05:18.157230+03:00",
+ "last_run": "2026-09-10T23:10:21.106262+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
