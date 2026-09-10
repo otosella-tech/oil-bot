@@ -4,10 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "4731b996bf5f20d5",
-  "oilpricesapproach100asmiddleeastconflictflaresgoldmanseespot",
-  "64d6c3e49b0d2990",
-  "oilclimbstoward100abarrelfollowinghouthiattacks",
   "cffef341fe67dcde",
   "oilcrosses100abarrelasiranconflictintensifies",
   "d4ca1f2ef45949a8",
@@ -603,7 +599,11 @@
   "b9f614274d2c97cf",
   "centcomdestroysfiveiraniancrudeoilcarriers",
   "75c442a68c543c89",
-  "oilgaspricesjumpsharplyovernight"
+  "oilgaspricesjumpsharplyovernight",
+  "6764c99b6832fbf4",
+  "oilsurgespast100abarrelasusandiranlaunchnewattacks",
+  "9ac5617a2a5404a1",
+  "brazilslulasignsmeasurestocutfueltaxesandsubsidizedieselahea"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-10",
-  "count": 11
+  "count": 12
  },
- "last_run": "2026-09-10T03:50:19.438141+03:00",
+ "last_run": "2026-09-10T03:55:16.520151+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
