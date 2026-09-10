@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "9775c0ceb9bf8fcb",
-  "indiascrudeoilbenchmarktops100asmiddleeastwarescalates",
   "60ecb79527049583",
   "oilpricesclimbover100perbarrelasuswarinirancontinues",
   "b6eb6d2032c64622",
@@ -603,7 +601,9 @@
   "546ff69481b35c85",
   "asiansharesfallandoilpricestradeabove100abarrel",
   "f072a57c37f2ded1",
-  "saudioilexportsplungeasspreadofwarshutsoffshippingroutes"
+  "saudioilexportsplungeasspreadofwarshutsoffshippingroutes",
+  "4c6b770db7a778ba",
+  "savedthedayhowchinahelpedkeepthelidonoilpricesurgeasiranward"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-10",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-09-10T09:40:22.300504+03:00",
+ "last_run": "2026-09-10T09:45:17.920616+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2072,6 +2072,10 @@
   {
    "d": "2026-09-10",
    "t": "Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes - The New York Times"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "'Saved the day': How China helped keep the lid on oil price surge as Iran war disrupted supplies - CNBC"
   }
  ]
 }
