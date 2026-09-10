@@ -4,12 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "f0f65e8c3aca91b3",
-  "sugarpricesfinishsharplyhigherascrudeoilsurges",
-  "d1a4dbf0be92f231",
-  "useiahikesoilpriceforecastsasiranwardrainsglobalstockpilebyr",
-  "b7f75c5d24d4322e",
-  "belarusrefineriespostdecade",
   "5a1835a3592b864e",
   "usstrikesoiltankersoffcoastofiran",
   "7385fdce7d0047de",
@@ -603,7 +597,13 @@
   "9e837102b4f902e6",
   "usstocksslideasbondyieldsjumpandoilclimbs",
   "e0c03b22b527032d",
-  "sebastiancountycompanyfacespossiblefinesoverviolationsattwoo"
+  "sebastiancountycompanyfacespossiblefinesoverviolationsattwoo",
+  "4349315603c55c04",
+  "senegaltooffer109oilandgasblockstoinvestors",
+  "1a04b4f6ab849492",
+  "saudioiloutputslumpsasiranwarhouthithreatsdisruptvitalexport",
+  "c486698d2544fec3",
+  "yemenrisksreturntocivilwarashouthistargetvitaloilshippingrou"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T18:40:20.298562+03:00",
+ "last_run": "2026-09-10T18:45:17.609417+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2228,6 +2228,10 @@
   {
    "d": "2026-09-10",
    "t": "Saudi Arabia says its crude oil production plunged last month to lowest since 1990 - Seeking Alpha"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Saudi Oil Output Slumps as Iran War, Houthi Threats Disrupt Vital Export Routes - WSJ"
   }
  ]
 }
