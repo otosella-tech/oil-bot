@@ -4,18 +4,6 @@
   "Brent": 105.51
  },
  "seen": [
-  "8f30023438fa8f12",
-  "wtioilnear95asmiddleeasttensionsdrivevolatility",
-  "72eeee62f9a5b1ce",
-  "oilpushespast100aswaveofusiranattacksexposesdwindlingsafetyn",
-  "e52b4d0c19891040",
-  "copperhitsrecordhighswhilesmelterslosemoneyoneveryton",
-  "c98fe0c383c9d88b",
-  "brentcrudeoiltops100hereswhatthatmeansforusoilprices",
-  "c524f8e41281816d",
-  "theoilpricebreakoutisconfirmingandthatsabigproblem",
-  "9d7a35c9e9386f70",
-  "usmilitarystrikes5iraniancrudeoiltankersfox9minneapolis",
   "9192e3986320a183",
   "onethirdofgulfoilisstillmissingdespitedarkcrossingsdatashows",
   "3ba4e107abe5c282",
@@ -603,7 +591,19 @@
   "92c39d22ca3b273c",
   "usoiljumpsabove100andstockfuturesslumpfront",
   "6858b76a3d2012dd",
-  "brentcrudeoilrisesabove100abarrelasiranconflictintensifies"
+  "brentcrudeoilrisesabove100abarrelasiranconflictintensifies",
+  "4a66eec13ec69e78",
+  "unitedstatesontrackforrecordcrudeoilproductionin2026",
+  "92f6b2abb4319a49",
+  "crudeoilforecastwtibrenttestbreakoutsonsupplyfears",
+  "bab07e3a433abaa4",
+  "uscrudeoiltops100againlastseeninmayasmarketbracesforprolonge",
+  "f7bed2516c0528ba",
+  "currentpriceofoilasofseptember92026",
+  "3d4c633e9804b73b",
+  "usstocksmayseecontinuedweaknessascrudeoilpricestop100abarrel",
+  "1fb2517210315a52",
+  "federaldatashowsenbridgeleakisthelargestreportedoilandgasspi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T16:05:16.722799+03:00",
+ "last_run": "2026-09-10T16:10:18.366365+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2176,6 +2176,10 @@
   {
    "d": "2026-09-10",
    "t": "Iran war won't end until after US midterm elections, says Trump - BBC"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war - CNBC"
   }
  ]
 }
