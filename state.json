@@ -4,8 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "a84b5b5837e277a0",
-  "azeribtcdailycrudeoilexportsfromceyhantoinchupinoctobervssep",
   "91f7c0918457c881",
   "iransendswaveofmissilestowardusbaseinjordanaftervowingescala",
   "5a5ccc881055273a",
@@ -603,7 +601,9 @@
   "bbc88f357412746d",
   "enbridgetobuyanothercrudeoilpipelinesystemfor255billionahead",
   "7b77c16e93f24857",
-  "opiniontrumpsoilcrisis"
+  "opiniontrumpsoilcrisis",
+  "b7e09d47232ebb2b",
+  "oilextendsgainswithbrentabove101afterusdestroysiranianoiltan"
  ],
  "releases_done": {
   "2026-09-09|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-10",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-09-10T03:20:19.368794+03:00",
+ "last_run": "2026-09-10T03:25:14.328945+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2027,6 +2027,10 @@
   {
    "d": "2026-09-09",
    "t": "Oil surges above $100 a barrel amid escalation of U.S., Iran war - Hays Post"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "Oil extends gains, with Brent above $101 after U.S. destroys Iranian oil tankers - CNBC"
   }
  ]
 }
