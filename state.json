@@ -4,10 +4,6 @@
   "Brent": 101.41
  },
  "seen": [
-  "ccdcccc5b01cd2a9",
-  "yourwednesdaysept9guidefivethingstodointheoilcity",
-  "bad5f878f25f2cef",
-  "despitetheoildealvenezuelasdictatorshipisstillblockingprogre",
   "289a4f6a07f3b430",
   "dowjonesfuturesfallasoilpricespushstockstowardbreakingpointa",
   "71a66289d9715483",
@@ -603,7 +599,11 @@
   "94e79034f90f6748",
   "intermodalusvenezuelaoildealsignalsmajorshiftincrudetrade",
   "8813fb3fffd1cfd3",
-  "usstockfuturessliptreasurysweakenafteroiltops100"
+  "usstockfuturessliptreasurysweakenafteroiltops100",
+  "14f5ec95af5d22fc",
+  "commentarymorningbidforeverwar",
+  "0b51aca101b21338",
+  "opecoiloutputfallsinaugustreuterssurveyshowsbyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-10",
   "count": 60
  },
- "last_run": "2026-09-10T13:45:18.657541+03:00",
+ "last_run": "2026-09-10T13:50:20.178698+03:00",
  "sent_stories": [
   {
    "d": "2026-09-07",
@@ -2132,6 +2132,14 @@
   {
    "d": "2026-09-10",
    "t": "Oil tanker hit in Iraqi waters, as vessels get caught in US-Iran attacks - Reuters"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "COMMENTARY: Morning Bid: Forever war? - Reuters"
+  },
+  {
+   "d": "2026-09-10",
+   "t": "OPEC oil output falls in August, Reuters survey shows By Reuters - Investing.com"
   }
  ]
 }
