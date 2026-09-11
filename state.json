@@ -4,8 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "8236cba67ad0b9c6",
-  "oilholdsabove100asus",
   "8a205b109cff2a17",
   "oilholdsabove100asusirantankerwarescalates",
   "f19ecfbb1275a2ac",
@@ -603,7 +601,9 @@
   "2fa6a0fb6b093871",
   "oiljusttopped109isittoolatetobuychevroncvxhistoryhasaclearan",
   "ad0801889bcef56f",
-  "breakingnewsjapansnikkeistockindexplungesover3amidrisingcrud"
+  "breakingnewsjapansnikkeistockindexplungesover3amidrisingcrud",
+  "07b671bbf8072592",
+  "futuressp500breaks50dayasoilyieldssoarcpiinflationdue"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 11
  },
- "last_run": "2026-09-11T03:40:21.632792+03:00",
+ "last_run": "2026-09-11T03:45:18.336823+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
