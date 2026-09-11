@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "4a66eec13ec69e78",
-  "unitedstatesontrackforrecordcrudeoilproductionin2026",
   "92f6b2abb4319a49",
   "crudeoilforecastwtibrenttestbreakoutsonsupplyfears",
   "bab07e3a433abaa4",
@@ -603,7 +601,9 @@
   "7ec23e8229a813c1",
   "currentpriceofoilasofseptember82026",
   "7804f1adfe6fd287",
-  "bondsstocksselloffpausesasoilfallspivotalcpireportdue"
+  "bondsstocksselloffpausesasoilfallspivotalcpireportdue",
+  "654ac04f36a96d9c",
+  "ieawarnsglobaloilrefiningsystemstretchedtothelimitasiranukra"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-11",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-09-11T14:50:20.375282+03:00",
+ "last_run": "2026-09-11T14:55:16.117637+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2012,6 +2012,10 @@
   {
    "d": "2026-09-11",
    "t": "Trump says war to end \"immediately\" after midterms as Iran damages U.S. jets in strikes - CBS News"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market - cnbc.com"
   }
  ]
 }
