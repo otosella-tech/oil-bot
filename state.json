@@ -4,10 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "9733518d6cb478e3",
-  "cantrumpstopthesurgeinoilpricesexpertsweighinabcnews",
-  "c5f23ae141947034",
-  "ukraineattackskeyrussianblackseaportnavalbase",
   "a4a79ff0dadabe4f",
   "howchinabecametheworldsfirstelectrostate",
   "b8b48a57fe2e0c51",
@@ -603,7 +599,11 @@
   "0ec7b3d9c8c81451",
   "thecaseforwhyinvestorsshouldnotgetoutofanyoilstocksrightnow",
   "feac74692d0be9da",
-  "crudeoilfuturesoverview"
+  "crudeoilfuturesoverview",
+  "3b9420c15f6bfa4c",
+  "mapiransallypoisedtochokeadditional10percentofoiltradebysea",
+  "8be409defce4365e",
+  "wticrudeoilpullsbackoffsessionhighstotradeat9903"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-12T00:00:31.233683+03:00",
+ "last_run": "2026-09-12T00:05:15.977464+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
