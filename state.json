@@ -4,8 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "4c6b770db7a778ba",
-  "savedthedayhowchinahelpedkeepthelidonoilpricesurgeasiranward",
   "f3f817ab6e9b5044",
   "oilreversescoursetoslipbutbrentstaysabove100abarrelonmideast",
   "2648aab0fc567a80",
@@ -603,7 +601,9 @@
   "f4568e839b7d7220",
   "usaveragedieselpricepasses6agallonforthefirsttimegasbuddysay",
   "0f2f59c656beb772",
-  "exportpowerdemanddrivemawaveacrossmidstream"
+  "exportpowerdemanddrivemawaveacrossmidstream",
+  "75379be75261a881",
+  "dangoteoilrefinerybuys16millionbarrelsofnigeriancrudeforocto"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-11",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-09-11T04:45:19.781289+03:00",
+ "last_run": "2026-09-11T04:50:19.130808+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -1944,6 +1944,10 @@
   {
    "d": "2026-09-11",
    "t": "Yemen risks return to civil war as Iran-backed Houthis target vital oil shipping route - PBS"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Dangote oil refinery buys 16 million barrels of Nigerian crude for October, sources say - Reuters"
   }
  ]
 }
