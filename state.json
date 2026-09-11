@@ -4,12 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "c6c22ae77be6eed7",
-  "cantrumpstopthesurgeinoilpricesexpertsweighin",
-  "483f744f435148b5",
-  "likelyoilslicksinstraitofhormuzafterustankerstrikesexpertsal",
-  "c93f41ad7ac645b8",
-  "oilsurges6afternewtankerattacksinmiddleeasthonolulustar",
   "3f75df8b6aa82e39",
   "dollargainsascrudeoilpricesandtnoteyieldssurge",
   "b9608047aac54fc0",
@@ -603,7 +597,13 @@
   "769521f4ea3a8768",
   "canadasenbridgetobuytallgrasscrudeoilbusinessfor255billion",
   "0a73a4eb8063eedd",
-  "eiaraises2027usoiloutputforecast"
+  "eiaraises2027usoiloutputforecast",
+  "668c36b502716ef5",
+  "trumpsgridbatterybanleavesdevelopersguessing",
+  "84cb412441bcdc40",
+  "oilpricesfallfridaybutpostsharpweeklygainsastensionsinthemid",
+  "6544b303d535276d",
+  "oilfallsbutheadfor8weeklygainontightsupplyusdieselhitsrecord"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T22:55:15.353005+03:00",
+ "last_run": "2026-09-11T23:00:34.029328+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
