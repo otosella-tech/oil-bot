@@ -1,15 +1,9 @@
 {
  "price_base": {
-  "WTI": 100.84,
+  "WTI": 98.74,
   "Brent": 103.56
  },
  "seen": [
-  "758f29e99524fcff",
-  "crudeoilanalysisgeopoliticalriskcontinuestodrivethewtibarrel",
-  "fedd55dddd581098",
-  "globaloilhits105perbarrelandbondyieldssurge",
-  "0eeaf59102e56796",
-  "blmoilandgasleasesthreatencriticalcoloradowildlifecorridorsl",
   "68a93cc92d86462e",
   "wholesaleinflationsurgesonoilprices",
   "44bcc398847f9388",
@@ -603,7 +597,13 @@
   "16f6e367fcda7ab0",
   "russiasoilexportsandrevenuebothslumpinaugustcounteringputins",
   "8f5ba274945b84f8",
-  "sp500slidesfourthstraightdayasoilpricesyieldssurge"
+  "sp500slidesfourthstraightdayasoilpricesyieldssurge",
+  "1fb6c1684d78587d",
+  "crudeoilraisesinflationconcernsastreasuryyieldsweighonstocks",
+  "e36ed5b9b63a747e",
+  "oilreservereleasessupplymorethancrudeduringenergyemergencies",
+  "61b62991fdd422fd",
+  "ukraineseesrussianiraniansanctionsnetworksconvergingasustarg"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T16:35:08.237297+03:00",
+ "last_run": "2026-09-11T16:40:19.493650+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2044,6 +2044,10 @@
   {
    "d": "2026-09-11",
    "t": "Oil shipments through Strait of Hormuz rise with US military assistance - stripes.com"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Ukraine Sees Russian-Iranian Sanctions Networks Converging As US Targets Tankers - Radio Free Europe/Radio Liberty"
   }
  ]
 }
