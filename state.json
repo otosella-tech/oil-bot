@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "a13d8dd24483e92a",
-  "crudeoilpricessoaronfearsusiranwartopersist",
   "8b5a5f23ab10782c",
   "mortgageratestop7asoilhits100andyieldsclimb",
   "2731b4cc1d3ea8ca",
@@ -603,10 +601,13 @@
   "a0ca8abcffe0533a",
   "wallstbouncesasoilcoolsinflationriskskeepsfedinfocus",
   "d6cafc505121846c",
-  "oilfallsbutontrackforsharpweeklygainonsupplyconcernsusdiesel"
+  "oilfallsbutontrackforsharpweeklygainonsupplyconcernsusdiesel",
+  "94b8d893c4c8940b",
+  "uscrudeoilfallsbackbelow100butheadstoweeklygain"
  ],
  "releases_done": {
-  "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1
+  "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
+  "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|post": 1
  },
  "last_digest": "2026-09-11",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T19:55:18.780366+03:00",
+ "last_run": "2026-09-11T20:00:32.474085+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
