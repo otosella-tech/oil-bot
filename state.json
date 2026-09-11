@@ -4,8 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "c68fc7befa3a295e",
-  "worldsharesretreatandoilpricestradeabove100abarrelnationalne",
   "c03c4cf68d165cf7",
   "brentholdsabove100astankerattacksdampenhopesforhormuztraffic",
   "60bc52a92e013f3e",
@@ -603,7 +601,9 @@
   "aa4c68bafa9ac2d8",
   "oilpricessurgetofour",
   "452669043481a982",
-  "oilcoatedbubblefragmentationhelpspredicttoxicatmosphericaero"
+  "oilcoatedbubblefragmentationhelpspredicttoxicatmosphericaero",
+  "762e453af011b39d",
+  "oilisscaryagain"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 28
  },
- "last_run": "2026-09-11T08:30:22.231064+03:00",
+ "last_run": "2026-09-11T08:35:15.224097+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
