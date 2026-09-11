@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "3f75df8b6aa82e39",
-  "dollargainsascrudeoilpricesandtnoteyieldssurge",
   "b9608047aac54fc0",
   "globaloilhits108perbarrelwhilebondyieldssurge",
   "2b36d5f938983d6c",
@@ -603,7 +601,9 @@
   "84cb412441bcdc40",
   "oilpricesfallfridaybutpostsharpweeklygainsastensionsinthemid",
   "6544b303d535276d",
-  "oilfallsbutheadfor8weeklygainontightsupplyusdieselhitsrecord"
+  "oilfallsbutheadfor8weeklygainontightsupplyusdieselhitsrecord",
+  "a4b21c82751db77b",
+  "saudiarabiashutsdownpipelinethatwasacrucialhormuzbypass"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T23:00:34.029328+03:00",
+ "last_run": "2026-09-11T23:05:15.323976+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2145,6 +2145,10 @@
   {
    "d": "2026-09-11",
    "t": "Chevron CEO Mike Wirth: Oil price buffers are 'played out' as risks from Iran war increase - The Business Journals"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Saudi Arabia Shuts Down Pipeline That Was a Crucial Hormuz Bypass - wsj.com"
   }
  ]
 }
