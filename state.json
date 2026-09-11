@@ -4,10 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "0ba1f029240bebd2",
-  "icecanolafuturesriseassoyproductsandcrudeoilgain",
-  "4a94f71eeb0d719e",
-  "tightsupplyworriesliftoilasmiddleeastconflictheatsup",
   "e1a300bf138f2a98",
   "fromgaspricestohomesaleslatesteconomicindicatorspaintableakp",
   "53115698c41ab783",
@@ -603,7 +599,11 @@
   "befdba6c7e52db32",
   "dollareasesascrudeoilpricesfall",
   "65c7c85d4ee0f1c4",
-  "thehouthishaveopenedanewfrontinthemiddleeastoilwarthatspushi"
+  "thehouthishaveopenedanewfrontinthemiddleeastoilwarthatspushi",
+  "718d3bac8d113242",
+  "oilpricespostbigweeklygainamidsupplyrisks",
+  "9e5a58eb7ce5d387",
+  "gulfoilthreatenedanewashouthisreachkeyislandandpipelineisshu"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-09-12",
-  "count": 1
+  "count": 2
  },
- "last_run": "2026-09-12T00:25:14.615475+03:00",
+ "last_run": "2026-09-12T00:30:24.250515+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
