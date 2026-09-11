@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "e02a266a14eb3b6a",
-  "oiljumpsto105abarrelaftermiddleeasttankerattacksescalate",
   "f92c6c7cf8a97033",
   "wholesaleinflationsurgesinaugustonoilpricesnationalnewsusnew",
   "d38e51560b62dac0",
@@ -603,7 +601,9 @@
   "d93e39f4e34d1e04",
   "futuresrisewithhelpfromoraclesbeatandcooleroilprices",
   "6cfbb0d15cd09274",
-  "wticrudeoilelliottwaveanalysisandforecastfor110926180926"
+  "wticrudeoilelliottwaveanalysisandforecastfor110926180926",
+  "36156635c7c3c90c",
+  "oilfuturescrudeoffhighsheadsforsolidweeklygains"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 57
  },
- "last_run": "2026-09-11T15:15:21.114554+03:00",
+ "last_run": "2026-09-11T15:20:20.128050+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
