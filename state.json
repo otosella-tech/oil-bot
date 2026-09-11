@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "488bb48f0f6a1657",
-  "stockfuturesfallasoilsurgespast100ppitopsforecasts",
   "2f4a06a638d88610",
   "crudeoilpipelinebusinesssoldfor255billiontoenbridge",
   "78783c2f09407d25",
@@ -603,7 +601,9 @@
   "c5339d0ddce2efee",
   "wticrudeoilandbrentforecastbullseyevalueonpullback",
   "7edb5044a72012b5",
-  "mexicoandthegradualrestructuringoftheoilsector"
+  "mexicoandthegradualrestructuringoftheoilsector",
+  "69ca80d37f4eeff9",
+  "epatoloosenmethanerulesboostingpollutionfromoilandgaswells"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T16:00:30.306263+03:00",
+ "last_run": "2026-09-11T16:05:15.507776+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
