@@ -4,8 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "f54c5fca6775cffc",
-  "marketquicktakecrudeoilremainsfocusecbsettohikerates10septem",
   "a666d06443a59a1a",
   "weworrynowoiltops100dieselhitsrecordhighsamidiranwarescalati",
   "d5ebcfafb07757fe",
@@ -603,7 +601,9 @@
   "d324144e25468267",
   "globalbondsbuckleassurgingoilpricesinflameinflationrisks",
   "41b732ce8630c877",
-  "rupeetoextendslideoilrallysurgingusyieldschipawayatrbisuppor"
+  "rupeetoextendslideoilrallysurgingusyieldschipawayatrbisuppor",
+  "9748d827031acf59",
+  "thatdastardlybrentcrudeischargingmorethan100forabarrelofoila"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 15
  },
- "last_run": "2026-09-11T05:50:21.909406+03:00",
+ "last_run": "2026-09-11T05:55:14.687698+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
