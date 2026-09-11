@@ -4,8 +4,6 @@
   "Brent": 105.71
  },
  "seen": [
-  "36970377d36858ef",
-  "marketminuteusstrategicpetroleumreservecontinuestodrop",
   "ed449c97172e741a",
   "oilclosesathighestlevelin4months",
   "087c1f35c49e6e06",
@@ -603,7 +601,9 @@
   "7532c91426e03349",
   "oilpriceseasebutremainabove100asmideastsupplyriskspersist",
   "2dc15fab506e11ff",
-  "stockmarketsfallinearlytradeamidsoaringcrudeoilpriceswestasi"
+  "stockmarketsfallinearlytradeamidsoaringcrudeoilpriceswestasi",
+  "fd3980f20abcd278",
+  "eiareportsanotherdrawinuscrudeoilstocks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 32
  },
- "last_run": "2026-09-11T10:35:16.194507+03:00",
+ "last_run": "2026-09-11T10:40:21.256319+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
