@@ -4,10 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "d56cca46999574d0",
-  "dowjonesfuturessp500breakssupportasoilpricesyieldssurgeoracl",
-  "4fde2c7b1005b353",
-  "opecfurtherlowers2026globaloildemandgrowthforecast",
   "781e39241a87d077",
   "opecseesoildemandgrowthexplodesixfoldin2027",
   "c2af55724b09aac2",
@@ -603,7 +599,11 @@
   "611323fa68e0bec8",
   "usstocksreboundedonthe11thbuoyedbyfallingcrudeoilprices",
   "86c952bb3d6d4128",
-  "stocksjumpafteroilpriceseaseandaninflationupdatecomesinneare"
+  "stocksjumpafteroilpriceseaseandaninflationupdatecomesinneare",
+  "6f48756904984d8e",
+  "saudioilexportsfaceheightenedthreatsafterattacksonpipeline",
+  "0d7a9740b71def67",
+  "saudiarabiashutskeypipelineaddingpressuretooilsupplies"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-09-12",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-09-12T00:45:19.872069+03:00",
+ "last_run": "2026-09-12T00:50:54.267510+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
@@ -1817,6 +1817,14 @@
   {
    "d": "2026-09-11",
    "t": "Oil, gas and borrowing costs surge as fears over Middle East escalate - BBC"
+  },
+  {
+   "d": "2026-09-12",
+   "t": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline - nytimes.com"
+  },
+  {
+   "d": "2026-09-12",
+   "t": "Saudi Arabia Shuts Key Pipeline, Adding Pressure to Oil Supplies - Barron's"
   }
  ]
 }
