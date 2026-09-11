@@ -4,12 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "974439b4c4c500d5",
-  "arkansasgaspricesjumpascrudeoilmarketremainsvolatile",
-  "e97e1de450c0f2a6",
-  "uscrudestocksedgelowerasoiltops100",
-  "e6a5d78e5aece8a5",
-  "sugarpricesclimbascrudeoilsoars",
   "56038d9786c1a7b6",
   "usoiljumpsabove100andstockfuturesslumppost",
   "6199ba6baddd8888",
@@ -603,7 +597,13 @@
   "273f52988cff2ea3",
   "saudiarabiashutdowneastwestcrudeoilpipelineaftermultipleatta",
   "01dbf04e0a422b56",
-  "smallpricetopaywhathastrumpsaidaboutoilpricesduringtheiranwa"
+  "smallpricetopaywhathastrumpsaidaboutoilpricesduringtheiranwa",
+  "f5f6e85b18e085dc",
+  "oilpricesdiveonsignsofhormuzdiplomacywhilesaudiarabiaislefth",
+  "1b373ecc30b9e952",
+  "crudepricesfallbackafterieaforecastssharpdropinoildemand",
+  "d7ce1d1e0f25b7af",
+  "dronestrikeshitsaudiarabiasvitaleastwestoilpipeline"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T22:10:20.109329+03:00",
+ "last_run": "2026-09-11T22:15:22.053701+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2124,6 +2124,14 @@
   {
    "d": "2026-09-11",
    "t": "'Small price to pay': What has Trump said about oil prices during the Iran war? - ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Oil prices dive on signs of Hormuz diplomacy while Saudi Arabia is left hanging in fight vs. Houthis - Fortune"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Drone Strikes Hit Saudi Arabia's Vital East-West Oil Pipeline - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
