@@ -4,12 +4,6 @@
   "Brent": 105.71
  },
  "seen": [
-  "506ea605a63361d7",
-  "oiltankerrateshitrecordhighsasmiddleeastshippingriskssoar",
-  "e4afe54412e83542",
-  "totalenergiesplans10billioninangolaoilinvestments",
-  "63d0cc547bc7bbfb",
-  "usstrikesfiveiranianoiltankersasiranattacks10shipsjordanbase",
   "05fc3c1d1e3a0a51",
   "oiltankerhitiniraqiwatersasvesselsgetcaughtinusiranattacks",
   "94e79034f90f6748",
@@ -603,7 +597,13 @@
   "f58127515745c481",
   "oilmarketreportseptember2026analysis",
   "9299f4a8235a2ac1",
-  "oilpricesslipafterrecentsurgeamidsupplyrisks"
+  "oilpricesslipafterrecentsurgeamidsupplyrisks",
+  "311817afc5843cb8",
+  "chinaindependentrefinersscrambleforoilunderpinningspotpremiu",
+  "904fcb3cf72916f7",
+  "howchinasoilmajorshelpedbeijingprepareforanenergycrisis",
+  "48cb15522ef49442",
+  "ieafurthercutsrussianoiloutputforecastsonukrainianattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-11",
-  "count": 34
+  "count": 35
  },
- "last_run": "2026-09-11T11:05:14.991475+03:00",
+ "last_run": "2026-09-11T11:10:18.402565+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
