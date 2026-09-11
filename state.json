@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "b9608047aac54fc0",
-  "globaloilhits108perbarrelwhilebondyieldssurge",
   "2b36d5f938983d6c",
   "oilhits100abarrelasturmoilintensifiesinmiddleeast",
   "afff84965530e4c9",
@@ -603,7 +601,9 @@
   "6544b303d535276d",
   "oilfallsbutheadfor8weeklygainontightsupplyusdieselhitsrecord",
   "a4b21c82751db77b",
-  "saudiarabiashutsdownpipelinethatwasacrucialhormuzbypass"
+  "saudiarabiashutsdownpipelinethatwasacrucialhormuzbypass",
+  "c8ad64b6e17aac09",
+  "energymarketsrattledaftersaudipipelineattacks"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T23:05:15.323976+03:00",
+ "last_run": "2026-09-11T23:10:23.540236+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2149,6 +2149,10 @@
   {
    "d": "2026-09-11",
    "t": "Saudi Arabia Shuts Down Pipeline That Was a Crucial Hormuz Bypass - wsj.com"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Energy Markets Rattled After Saudi Pipeline Attacks - The New York Times"
   }
  ]
 }
