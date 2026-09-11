@@ -4,8 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "f19ecfbb1275a2ac",
-  "colombiatargets1millionbarrelsofoiladayagain",
   "8a55ecbdf3c58583",
   "oilmarketcouldbeoutofbalanceuntilmid2027sayshsbc",
   "4bde2bad4dbc7f5a",
@@ -603,7 +601,9 @@
   "07b671bbf8072592",
   "futuressp500breaks50dayasoilyieldssoarcpiinflationdue",
   "884f1772eabb5410",
-  "uscrudeoilinventoriesdecreaseby04millionbarrels"
+  "uscrudeoilinventoriesdecreaseby04millionbarrels",
+  "5c58423e27cb4115",
+  "globalbondsfallassurgingoilpricesinflameinflationrisks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 11
  },
- "last_run": "2026-09-11T04:00:28.685344+03:00",
+ "last_run": "2026-09-11T04:05:19.077603+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
