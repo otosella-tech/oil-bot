@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "5764bd51bdd29023",
-  "oilpriceshitsixweekhighafterhouthisattacksaudisites",
   "930cab10c84d1c90",
   "brentcrudeoilrisesabove100abarrelasmiddleeastconflictintensi",
   "d913fc86c5dc7c14",
@@ -603,7 +601,9 @@
   "7a20a276262c0362",
   "oilsurgestoward110dieselabove6asiranescalates",
   "097ea1d427e16845",
-  "theusoildealwithvenezuelaisaboutmuchmorethanoil"
+  "theusoildealwithvenezuelaisaboutmuchmorethanoil",
+  "b6881a3c13d35bb7",
+  "oilmarketsfeelthepainofaprotractedwar"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T15:40:21.169896+03:00",
+ "last_run": "2026-09-11T15:45:17.579987+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2032,6 +2032,10 @@
   {
    "d": "2026-09-11",
    "t": "Oil Surges Toward $110, Diesel Above $6 as Iran Escalates - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Oil Markets Feel the Pain of a Protracted War - Bloomberg.com"
   }
  ]
 }
