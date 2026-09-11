@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "b423eb0a917c1611",
-  "permiangashasbeenworthlessthannothingfor118daysthisyear",
   "33105488843dec33",
   "eiaseesbrentnear90bblinsecondhalf2026amidmiddleeastdisruptio",
   "19ebef1af8de0abe",
@@ -603,7 +601,9 @@
   "b6dcf00b079a2a01",
   "currentpriceofoilasofsept112026",
   "102eb1f653048ff0",
-  "oilextendslossesbutremainsontrackforsignificantweeklygain"
+  "oilextendslossesbutremainsontrackforsignificantweeklygain",
+  "0c7db4ea4c6e42fd",
+  "opecreportssharpdropiniraniancrudeproduction"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T17:30:25.872071+03:00",
+ "last_run": "2026-09-11T17:35:16.206691+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2052,6 +2052,10 @@
   {
    "d": "2026-09-11",
    "t": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "OPEC Reports Sharp Drop in Iranian Crude Production - IranWire"
   }
  ]
 }
