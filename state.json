@@ -4,12 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "1783443f1c1121fb",
-  "usstocksseefurtherdownsideascrudeoilpricessurgebackabove100a",
-  "168b9fa3412ca445",
-  "crudeoilsurges6macyssharesfallafterq2results",
-  "40d323cdb9bc3db7",
-  "oilpricesleaptotheirhighestsincemayanddragwallstreetlower",
   "d0d75c9e4dde2397",
   "thisisthefirstoildividendstockidbuyinseptember",
   "fa513ee847833e9f",
@@ -603,7 +597,13 @@
   "5f25029be00431e7",
   "oilpricesriseabove100abarrelforfirsttimesincejulyasiranwares",
   "f68bfdd659ec74f0",
-  "crudeoilbucklesearlyandgrindsbackontalkofahormuzarrangement"
+  "crudeoilbucklesearlyandgrindsbackontalkofahormuzarrangement",
+  "179f9420dab0e558",
+  "oilfuturesjumpasmiddleeastescalationraisessupplyworries",
+  "886e123bc2e9e7a2",
+  "usstocksshowsignificantreboundascrudeoilpullsbacksharply",
+  "da1e40f11a71926c",
+  "usequitymarketsendhigheramidbroadbasedrallyascrudeoilpricesd"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T23:30:25.908269+03:00",
+ "last_run": "2026-09-11T23:35:15.810452+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
