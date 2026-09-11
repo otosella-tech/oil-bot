@@ -4,12 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "92f6b2abb4319a49",
-  "crudeoilforecastwtibrenttestbreakoutsonsupplyfears",
-  "bab07e3a433abaa4",
-  "uscrudeoiltops100againlastseeninmayasmarketbracesforprolonge",
-  "f7bed2516c0528ba",
-  "currentpriceofoilasofseptember92026",
   "3d4c633e9804b73b",
   "usstocksmayseecontinuedweaknessascrudeoilpricestop100abarrel",
   "1fb2517210315a52",
@@ -603,7 +597,13 @@
   "7804f1adfe6fd287",
   "bondsstocksselloffpausesasoilfallspivotalcpireportdue",
   "654ac04f36a96d9c",
-  "ieawarnsglobaloilrefiningsystemstretchedtothelimitasiranukra"
+  "ieawarnsglobaloilrefiningsystemstretchedtothelimitasiranukra",
+  "4a66eec13ec69e78",
+  "unitedstatesontrackforrecordcrudeoilproductionin2026",
+  "0a04e482e77e7ca0",
+  "uaesharesgainasregionalconflictfuelsoilsupplyconcerns",
+  "8ffb0460c4cb37a3",
+  "dollarholdsgainsastradersawaituspricedataafteroiljumps"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 55
  },
- "last_run": "2026-09-11T14:55:16.117637+03:00",
+ "last_run": "2026-09-11T15:00:30.390735+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
