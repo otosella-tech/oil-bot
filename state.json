@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "d056cd8650f11725",
-  "eiaraises2027usoiloutputforecast",
   "db323245c24f0326",
   "usnaturalgasmarketvergingonrecordgrowth",
   "2c5059e40e4a3d69",
@@ -603,7 +601,9 @@
   "974439b4c4c500d5",
   "arkansasgaspricesjumpascrudeoilmarketremainsvolatile",
   "9e2e6bbe1f8faa4e",
-  "houthisseizeakeyredseaislandthreateninganotherglobaloilroute"
+  "houthisseizeakeyredseaislandthreateninganotherglobaloilroute",
+  "20eda0da0fa3ceaf",
+  "saudioilpipelineshutdownafterattacktriggersfires"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T22:30:44.308342+03:00",
+ "last_run": "2026-09-11T22:35:14.996541+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2137,6 +2137,10 @@
   {
    "d": "2026-09-11",
    "t": "Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route - The New York Times"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Saudi oil pipeline shut down after attack triggers fires - cnn.com"
   }
  ]
 }
