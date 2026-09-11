@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "b8b48a57fe2e0c51",
-  "usontrackforrecordcrudeoilproductionin2026",
   "974921867a9f4b60",
   "oilsurges6afternewtankerattacksinmiddleeast",
   "0ba1f029240bebd2",
@@ -603,7 +601,9 @@
   "8be409defce4365e",
   "wticrudeoilpullsbackoffsessionhighstotradeat9903",
   "b0ca6e45fb1da192",
-  "oilfuturespullbackaftermajorgains"
+  "oilfuturespullbackaftermajorgains",
+  "befdba6c7e52db32",
+  "dollareasesascrudeoilpricesfall"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-12T00:15:18.591837+03:00",
+ "last_run": "2026-09-12T00:20:18.728397+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
