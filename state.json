@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "f8756e116914028a",
-  "canadiandollaredgeslowerbondyieldsjumpasoiltops100abarrel",
   "c6c22ae77be6eed7",
   "cantrumpstopthesurgeinoilpricesexpertsweighin",
   "483f744f435148b5",
@@ -603,7 +601,9 @@
   "50d4a7e216036cea",
   "aaafuelprices",
   "769521f4ea3a8768",
-  "canadasenbridgetobuytallgrasscrudeoilbusinessfor255billion"
+  "canadasenbridgetobuytallgrasscrudeoilbusinessfor255billion",
+  "0a73a4eb8063eedd",
+  "eiaraises2027usoiloutputforecast"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T22:50:19.059195+03:00",
+ "last_run": "2026-09-11T22:55:15.353005+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
