@@ -4,10 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "ca4ed031488346b8",
-  "theracetocutmethaneemissionsisexposingaglobaldivide",
-  "83e6c5e952df7182",
-  "viewalongwarwillpermanentlydamageoildemand",
   "e516f0ae5ff4e737",
   "oilpricessurgeasstocksandbondswobble",
   "a5f658576e053599",
@@ -603,7 +599,11 @@
   "621979cdbfcc25b4",
   "stocksfallforweekasoilpricesyieldssoarbutendonhighnote",
   "24dde31947593f63",
-  "meetthemechanicalengineerrunningtoregulatethetexasoilandgasi"
+  "meetthemechanicalengineerrunningtoregulatethetexasoilandgasi",
+  "1a04b4f6ab849492",
+  "saudioiloutputslumpsasiranwarhouthithreatsdisruptvitalexport",
+  "03b071950ad047c6",
+  "currentpriceofoilasofseptember112026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T18:20:20.184211+03:00",
+ "last_run": "2026-09-11T18:25:16.452652+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2064,6 +2064,10 @@
   {
    "d": "2026-09-11",
    "t": "Houthis Seize a Key Red Sea Island, Threatening Yet Another Global Oil Route - The New York Times"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Saudi Oil Output Slumps as Iran War, Houthi Threats Disrupt Vital Export Routes - WSJ"
   }
  ]
 }
