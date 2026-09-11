@@ -4,10 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "3d4c633e9804b73b",
-  "usstocksmayseecontinuedweaknessascrudeoilpricestop100abarrel",
-  "1fb2517210315a52",
-  "federaldatashowsenbridgeleakisthelargestreportedoilandgasspi",
   "11f28337756424b6",
   "usoiljumpsabove100andstockfuturesslump",
   "df76ad1e5554ac36",
@@ -603,7 +599,11 @@
   "0a04e482e77e7ca0",
   "uaesharesgainasregionalconflictfuelsoilsupplyconcerns",
   "8ffb0460c4cb37a3",
-  "dollarholdsgainsastradersawaituspricedataafteroiljumps"
+  "dollarholdsgainsastradersawaituspricedataafteroiljumps",
+  "bab07e3a433abaa4",
+  "uscrudeoiltops100againlastseeninmayasmarketbracesforprolonge",
+  "f7bed2516c0528ba",
+  "currentpriceofoilasofseptember92026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-11",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-09-11T15:00:30.390735+03:00",
+ "last_run": "2026-09-11T15:05:18.502796+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2016,6 +2016,10 @@
   {
    "d": "2026-09-11",
    "t": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market - cnbc.com"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war - CNBC"
   }
  ]
 }
