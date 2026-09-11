@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "d47ff74f42977541",
-  "wticrudeoilfuturesreach14weekhighonmiddleeasttensions",
   "3c90b0243c871100",
   "iranwarwontenduntilafterusmidtermelectionssaystrump",
   "7ec23e8229a813c1",
@@ -603,7 +601,9 @@
   "2db4c75b4b605e6c",
   "oilsetforweeklygainofover7onsupplydisruptionsusdieselhitsrec",
   "d7e50008b197ba99",
-  "currentpriceofoilasofsept102026"
+  "currentpriceofoilasofsept102026",
+  "fb4a7be0a9b0e446",
+  "higheroilandratesaresettotestthemarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 53
  },
- "last_run": "2026-09-11T14:20:18.435552+03:00",
+ "last_run": "2026-09-11T14:25:15.140760+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
