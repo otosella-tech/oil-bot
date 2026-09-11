@@ -4,10 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "46ee69443ab7d7d6",
-  "crudeoilcrosses100asmacropressurecontinuestobuild",
-  "9c7993b5d9735791",
-  "oilsurges6brentanduscrudebothsurpass100onmoretankerattacks",
   "172efb29cb449558",
   "enbridgeexpandsfootprint",
   "e817db31d79f3be7",
@@ -603,7 +599,11 @@
   "649f5c3a8421728f",
   "ieaseesoildemanddeclinedeepeningasmiddleeastdisruptionspersi",
   "e28f3097a0c9165f",
-  "ukinterestratescouldrisefourtimesoverthenextyear"
+  "ukinterestratescouldrisefourtimesoverthenextyear",
+  "981c34f27d5701e7",
+  "oildemandlossmoredamagingfordevelopingcountries",
+  "2939630f7d2e6c2b",
+  "3oilstocksretailinvestorsmayscreenifcrudestaysabove100"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T21:00:31.638356+03:00",
+ "last_run": "2026-09-11T21:05:17.563335+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
