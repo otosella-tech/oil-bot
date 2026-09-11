@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "db5018927c3d65ad",
-  "currentpriceofoilasofseptember102026",
   "7010e91c57a31f8d",
   "oiljumpsto105pushingupchancesofausinterestrateincrease",
   "fe3ea3ade450f946",
@@ -603,7 +601,9 @@
   "ce99b54b7e3c4c77",
   "ieasees57millionbpdoilsupplyplungeasgulfrecoveryslipsto2027",
   "e516f0ae5ff4e737",
-  "oilpricessurgeasstocksandbondswobble"
+  "oilpricessurgeasstocksandbondswobble",
+  "5010bd7329121126",
+  "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T18:50:20.318493+03:00",
+ "last_run": "2026-09-11T18:55:16.327548+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
