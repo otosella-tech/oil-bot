@@ -4,10 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "f5cd905549f153a4",
-  "oilpricessurgeto107forthefirsttimesincemayasbondyieldsjump",
-  "4c7a8e1b8152e7c6",
-  "uscrudeoilstockpilesfallproductionhitsrecord",
   "1c84832a383b271b",
   "brentsettlesatover100abarrelasmiddleeastconflictintensifies",
   "c07faad3e762dd5e",
@@ -603,7 +599,11 @@
   "9a478568c35f0906",
   "iwenttocaracasforvenezuelasnewoildealshereswhatstoodout",
   "fa8f2e967cb528f5",
-  "crudeoilgaspricessurgeamidmiddleeastfighting"
+  "crudeoilgaspricessurgeamidmiddleeastfighting",
+  "903c6b6a03c0f0f7",
+  "saudistellopecthatoutputslumpedagaintolowestsince1990",
+  "8aec223d6125a9f2",
+  "saudiarabianoilpipelinesystemhitbyprojectilestriggeringfires"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T20:11:10.258308+03:00",
+ "last_run": "2026-09-11T20:15:20.503077+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2099,6 +2099,14 @@
   {
    "d": "2026-09-11",
    "t": "I went to Caracas for Venezuela’s new oil deals. Here’s what stood out - CNBC"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Saudis Tell OPEC That Output Slumped Again to Lowest Since 1990 - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Saudi Arabian oil pipeline system hit by projectiles triggering fires - CNN"
   }
  ]
 }
