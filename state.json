@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "e1a300bf138f2a98",
-  "fromgaspricestohomesaleslatesteconomicindicatorspaintableakp",
   "53115698c41ab783",
   "goldsilverpricestumbleashotppioilshockliftyieldskitcopmrepor",
   "d56cca46999574d0",
@@ -603,7 +601,9 @@
   "718d3bac8d113242",
   "oilpricespostbigweeklygainamidsupplyrisks",
   "9e5a58eb7ce5d387",
-  "gulfoilthreatenedanewashouthisreachkeyislandandpipelineisshu"
+  "gulfoilthreatenedanewashouthisreachkeyislandandpipelineisshu",
+  "611323fa68e0bec8",
+  "usstocksreboundedonthe11thbuoyedbyfallingcrudeoilprices"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-12",
   "count": 2
  },
- "last_run": "2026-09-12T00:35:15.199566+03:00",
+ "last_run": "2026-09-12T00:40:18.162708+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
