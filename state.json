@@ -4,8 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "289447f9bea0fe3d",
-  "usmilitarydestroys5iranianoiltankersandthesmithsonianheadres",
   "e803fc712bb6bc2f",
   "eurofirmaheadofecbdecision100oildampensactivity",
   "0642ac01f38790b8",
@@ -603,7 +601,9 @@
   "e6462180b66076c4",
   "enbridgetobuytallgrasscrudeoiltransportbusinessfor25bn",
   "b3b561defc90f7bd",
-  "oilhits100abarrelforfirsttimesincejulyafterusandhouthistrike"
+  "oilhits100abarrelforfirsttimesincejulyafterusandhouthistrike",
+  "72c2274111b73512",
+  "oilpricessettoendweekabove100forfirsttimeinnearly4months"
  ],
  "releases_done": {},
  "last_digest": "2026-09-10",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 18
  },
- "last_run": "2026-09-11T07:15:17.808162+03:00",
+ "last_run": "2026-09-11T07:20:18.036405+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
