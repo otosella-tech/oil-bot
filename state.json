@@ -4,12 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "db323245c24f0326",
-  "usnaturalgasmarketvergingonrecordgrowth",
-  "2c5059e40e4a3d69",
-  "canadasenbridgetobuytallgrasscrudeoilbusinessfor255billion",
-  "50d4a7e216036cea",
-  "aaafuelprices",
   "f28c8060aebe42f9",
   "3firmssteer255benbridgetallgrasscrudeoildeal",
   "ca40c09a2eff05b2",
@@ -603,7 +597,13 @@
   "9e2e6bbe1f8faa4e",
   "houthisseizeakeyredseaislandthreateninganotherglobaloilroute",
   "20eda0da0fa3ceaf",
-  "saudioilpipelineshutdownafterattacktriggersfires"
+  "saudioilpipelineshutdownafterattacktriggersfires",
+  "0a8acc3674b5c050",
+  "oilextendsrallyonfurthermiddleeastdisruptions",
+  "049babcedadd74c2",
+  "chevronceomikewirthoilpricebuffersareplayedoutasrisksfromira",
+  "b4cb066545f80b38",
+  "magnolias4bwildfiredealtobetestedbyaustinchalkdevelopment"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T22:35:14.996541+03:00",
+ "last_run": "2026-09-11T22:40:18.914953+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2141,6 +2141,10 @@
   {
    "d": "2026-09-11",
    "t": "Saudi oil pipeline shut down after attack triggers fires - cnn.com"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Chevron CEO Mike Wirth: Oil price buffers are 'played out' as risks from Iran war increase - The Business Journals"
   }
  ]
 }
