@@ -4,10 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "7010e91c57a31f8d",
-  "oiljumpsto105pushingupchancesofausinterestrateincrease",
-  "fe3ea3ade450f946",
-  "crudeoilinventoriesdeclinelessthanexpectedsignalingdemandshi",
   "b7ee71a29db204cf",
   "uscrudeinventoriesfallasbrentpricessoar",
   "3a308d4e80fa3e4f",
@@ -603,7 +599,11 @@
   "e516f0ae5ff4e737",
   "oilpricessurgeasstocksandbondswobble",
   "5010bd7329121126",
-  "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices"
+  "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices",
+  "e5972e6784b175ad",
+  "supertankerrateshit800000adayasgulftensionsescalate",
+  "ddb95dc92d7253e3",
+  "currentpriceofoilasofseptember102026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T18:55:16.327548+03:00",
+ "last_run": "2026-09-11T19:00:31.833052+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2076,6 +2076,10 @@
   {
    "d": "2026-09-11",
    "t": "Oil Prices Surge as Stocks and Bonds Wobble - The New York Times"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate"
   }
  ]
 }
