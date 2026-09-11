@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "a219d99e8fa5a500",
-  "gaspricesclimbpast450pergallonaverageinphilly",
   "9da8607ee1797d87",
   "usdieselpriceaveragecrosses6agallonforthefirsttimegasbuddysa",
   "1f4c9eca28cf408d",
@@ -603,7 +601,9 @@
   "a6be307d036cdddc",
   "opecseesoildemandgrowthexplodesixfoldin2027",
   "7104f7e4508d9779",
-  "saudieastwestoilpipelinewastemporarilyshutdownafterattacksst"
+  "saudieastwestoilpipelinewastemporarilyshutdownafterattacksst",
+  "cd3903cff5425f2b",
+  "europeslessisdoingmorethananyonegivesitcreditfor"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-12",
   "count": 6
  },
- "last_run": "2026-09-12T00:59:25.056822+03:00",
+ "last_run": "2026-09-12T01:00:32.076395+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
