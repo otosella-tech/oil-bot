@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "19ebef1af8de0abe",
-  "saudiarabiasaysitscrudeoilproductionplungedlastmonthtolowest",
   "33ce5a00d5f48986",
   "thelikelihoodofafedinterestratehikenextweekjustgotalothigher",
   "b418e6c67e43e8c7",
@@ -603,7 +601,9 @@
   "0c7db4ea4c6e42fd",
   "opecreportssharpdropiniraniancrudeproduction",
   "5fae5e34b42829b4",
-  "oiltankerrateshitrecordhighsfollowingiranusshippingattacks"
+  "oiltankerrateshitrecordhighsfollowingiranusshippingattacks",
+  "950a4ca19c9f791d",
+  "analysisputinswrongrussiasoilexportsandrevenuebothslumpinaug"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T17:45:20.053584+03:00",
+ "last_run": "2026-09-11T17:50:18.749846+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
