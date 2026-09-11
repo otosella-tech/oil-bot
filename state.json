@@ -4,10 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "05eb1dbc4ffd9085",
-  "usstocksfallasoiltops100yieldshitmultiyearhighs",
-  "96b49b152b84e7a9",
-  "higheroilpricesletmexicopullbackbillionsinpemexsupport",
   "a219d99e8fa5a500",
   "gaspricesclimbpast450pergallonaverageinphilly",
   "9da8607ee1797d87",
@@ -603,7 +599,11 @@
   "4325b37b9166356d",
   "ieaslashesoildemandviewonwarwarnsoffurtherslump",
   "a734150cd3889533",
-  "permiangulfexpectedtodriverecordcrudeproductionin2026evenasu"
+  "permiangulfexpectedtodriverecordcrudeproductionin2026evenasu",
+  "a6be307d036cdddc",
+  "opecseesoildemandgrowthexplodesixfoldin2027",
+  "7104f7e4508d9779",
+  "saudieastwestoilpipelinewastemporarilyshutdownafterattacksst"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-09-12",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-09-12T00:55:16.043041+03:00",
+ "last_run": "2026-09-12T00:59:25.056822+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
@@ -1825,6 +1825,14 @@
   {
    "d": "2026-09-12",
    "t": "Saudi Arabia Shuts Key Pipeline, Adding Pressure to Oil Supplies - Barron's"
+  },
+  {
+   "d": "2026-09-12",
+   "t": "OPEC Sees Oil Demand Growth Explode Sixfold in 2027 - oilprice.com"
+  },
+  {
+   "d": "2026-09-12",
+   "t": "Saudi East-West ⁠oil pipeline was temporarily shut down after attacks, state media reports - reuters.com"
   }
  ]
 }
