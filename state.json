@@ -4,18 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "f92c6c7cf8a97033",
-  "wholesaleinflationsurgesinaugustonoilpricesnationalnewsusnew",
-  "d38e51560b62dac0",
-  "futuresmutedaheadofppidataoraclesaisignalingresults",
-  "16c047e61916a82d",
-  "brentcrudeoiltops100hereswhatthatmeansforusoilprices",
-  "a116c7ad2cc0c9dc",
-  "silverpriceforecastfallsto66as100crudeoilpressuresmetals",
-  "f2212e7e4608c2b1",
-  "saudiarabiasoilproductionslumpstolowestin36yearsaswarbitesal",
-  "8b7bde9aa0ff0067",
-  "hsbcraises2026brentforecastto90ashormuzcrisisdragson",
   "4808b0e1d3e0b23b",
   "nasdaqfuturesfalltreasuryyieldsextendmultiyearhighsasoiltops",
   "675c3083fdd84e9e",
@@ -603,7 +591,19 @@
   "6cfbb0d15cd09274",
   "wticrudeoilelliottwaveanalysisandforecastfor110926180926",
   "36156635c7c3c90c",
-  "oilfuturescrudeoffhighsheadsforsolidweeklygains"
+  "oilfuturescrudeoffhighsheadsforsolidweeklygains",
+  "737aade38e9a064c",
+  "houthisadvanceonbabal",
+  "34893ce7c012f5c7",
+  "vostokoilonetankerfourtrillionrubles",
+  "95d7af8e80381463",
+  "wtibreaks100asmiddleeastsupplycrisisdeepens",
+  "05f9d19fa8b77ae0",
+  "energyaspectsoilmarkethasreachedaninflectionpoint",
+  "fd0300e169d55d94",
+  "werestartingtoseechinareallypickupitscrudeoilpurchasessaysci",
+  "873274083db027a0",
+  "yemenshouthisreachstrategicislandatmouthofvitalshippinglane"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-11",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-09-11T15:25:15.615079+03:00",
+ "last_run": "2026-09-11T15:30:22.896652+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2020,6 +2020,14 @@
   {
    "d": "2026-09-11",
    "t": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war - CNBC"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Houthis Advance on Bab al-Mandeb as Saudi Oil Route Comes Under Threat"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Vostok Oil: One Tanker, Four Trillion Rubles"
   }
  ]
 }
