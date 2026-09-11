@@ -4,8 +4,6 @@
   "Brent": 105.71
  },
  "seen": [
-  "05fc3c1d1e3a0a51",
-  "oiltankerhitiniraqiwatersasvesselsgetcaughtinusiranattacks",
   "94e79034f90f6748",
   "intermodalusvenezuelaoildealsignalsmajorshiftincrudetrade",
   "8813fb3fffd1cfd3",
@@ -603,7 +601,9 @@
   "904fcb3cf72916f7",
   "howchinasoilmajorshelpedbeijingprepareforanenergycrisis",
   "48cb15522ef49442",
-  "ieafurthercutsrussianoiloutputforecastsonukrainianattacks"
+  "ieafurthercutsrussianoiloutputforecastsonukrainianattacks",
+  "65c4838d1c7c5f18",
+  "ukrainestrikesdegraderussianoilrefiningindustryieasays"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-11",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-09-11T11:10:18.402565+03:00",
+ "last_run": "2026-09-11T11:15:21.945462+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -1972,6 +1972,10 @@
   {
    "d": "2026-09-11",
    "t": "Oil Prices Slip After Recent Surge Amid Supply Risks - WSJ"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Ukraine Strikes Degrade Russian Oil-Refining Industry, IEA Says - Bloomberg.com"
   }
  ]
 }
