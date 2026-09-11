@@ -4,10 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "e803fc712bb6bc2f",
-  "eurofirmaheadofecbdecision100oildampensactivity",
-  "0642ac01f38790b8",
-  "homeheatingoilbillsarerising",
   "744ce19c0957c47a",
   "willtheratehikeshockreturncrudeoilhits100employmentdataistoo",
   "ac6ffd5181d601c0",
@@ -603,7 +599,11 @@
   "b3b561defc90f7bd",
   "oilhits100abarrelforfirsttimesincejulyafterusandhouthistrike",
   "72c2274111b73512",
-  "oilpricessettoendweekabove100forfirsttimeinnearly4months"
+  "oilpricessettoendweekabove100forfirsttimeinnearly4months",
+  "86f17713cf65db64",
+  "oilnewscrudeoilmomentumbuildsasmiddleeastsupplymathgetsworse",
+  "20ac25c3ad5aa19f",
+  "chinadipsbackintooilmarketashormuzhostilitiesstokeprices"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-11",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-09-11T08:05:13.931758+03:00",
+ "last_run": "2026-09-11T08:10:17.222382+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -1952,6 +1952,10 @@
   {
    "d": "2026-09-11",
    "t": "Oil hits $100 a barrel for first time since July after US and Houthi strikes - BBC"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "China dips back into oil market as Hormuz hostilities stoke prices - Nikkei Asia"
   }
  ]
 }
