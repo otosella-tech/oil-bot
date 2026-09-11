@@ -4,12 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "2731b4cc1d3ea8ca",
-  "brentcrudetops100abarrelonmiddleeastescalation",
-  "be53fea70729ce65",
-  "uscrudeoiloutputrisestofreshrecordofnearly14millionbarrelsad",
-  "a86aa9d9377f1366",
-  "thedimoutlookfortrumpenergydominancelegal",
   "f5cd905549f153a4",
   "oilpricessurgeto107forthefirsttimesincemayasbondyieldsjump",
   "4c7a8e1b8152e7c6",
@@ -603,7 +597,13 @@
   "94b8d893c4c8940b",
   "uscrudeoilfallsbackbelow100butheadstoweeklygain",
   "bdb46ea3a9ff4960",
-  "dronestrikeshitsaudiarabiasvitaleast"
+  "dronestrikeshitsaudiarabiasvitaleast",
+  "dd73e2673c8786b0",
+  "cushinghubseesnoimprovementinoilinventory",
+  "9a478568c35f0906",
+  "iwenttocaracasforvenezuelasnewoildealshereswhatstoodout",
+  "fa8f2e967cb528f5",
+  "crudeoilgaspricessurgeamidmiddleeastfighting"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T20:05:15.557182+03:00",
+ "last_run": "2026-09-11T20:10:22.020051+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2095,6 +2095,10 @@
   {
    "d": "2026-09-11",
    "t": "Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "I went to Caracas for Venezuela’s new oil deals. Here’s what stood out - CNBC"
   }
  ]
 }
