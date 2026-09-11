@@ -4,14 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "afff84965530e4c9",
-  "oilpricesriseabove100abarrelforfirsttimesincejulyasiranwares",
-  "5079f84de0a35d29",
-  "aaagaspricesincreaseascrudeoilreturnsabove100",
-  "23962f1a5ab37d99",
-  "copperstockssinkaswhitehousetariffuncertaintyspookstraders",
-  "a4c7267757f4106f",
-  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
   "38967d6760d5b0bc",
   "russiascrudeoutputfellinaugust",
   "54dfebc300db9554",
@@ -603,7 +595,15 @@
   "c8ad64b6e17aac09",
   "energymarketsrattledaftersaudipipelineattacks",
   "6c65d25556717055",
-  "globaloilhits108perbarrelwhilebondyieldssurge"
+  "globaloilhits108perbarrelwhilebondyieldssurge",
+  "2b36d5f938983d6c",
+  "oilhits100abarrelasturmoilintensifiesinmiddleeast",
+  "055881c81a0a00f2",
+  "saudiarabiashutsdownmajoroilpipelinecitingattacksamidfightin",
+  "c19ceb1024a97bd1",
+  "gulftankersarerunningoutofwaystoexportoilthesewatersarentsaf",
+  "9ca9cbd6dccf6591",
+  "updateequitiesriseintradayastradersparseinflationreportoilre"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T23:15:19.300040+03:00",
+ "last_run": "2026-09-11T23:20:19.432234+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2157,6 +2157,14 @@
   {
    "d": "2026-09-11",
    "t": "Global oil hits $108 per barrel while bond yields surge - CNN"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Saudi Arabia shuts down major oil pipeline, citing attacks amid fighting in Yemen, as prices rise - abc7chicago.com"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Gulf Tankers Are Running Out of Ways to Export Oil: ‘These Waters Aren’t Safe’ - The New York Times"
   }
  ]
 }
