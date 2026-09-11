@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "56038d9786c1a7b6",
-  "usoiljumpsabove100andstockfuturesslumppost",
   "6199ba6baddd8888",
   "aaatexasgaspricesclimbascrudeoilreturnsabove100",
   "d056cd8650f11725",
@@ -603,7 +601,9 @@
   "1b373ecc30b9e952",
   "crudepricesfallbackafterieaforecastssharpdropinoildemand",
   "d7ce1d1e0f25b7af",
-  "dronestrikeshitsaudiarabiasvitaleastwestoilpipeline"
+  "dronestrikeshitsaudiarabiasvitaleastwestoilpipeline",
+  "974439b4c4c500d5",
+  "arkansasgaspricesjumpascrudeoilmarketremainsvolatile"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T22:15:22.053701+03:00",
+ "last_run": "2026-09-11T22:20:18.947210+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
