@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "2b36d5f938983d6c",
-  "oilhits100abarrelasturmoilintensifiesinmiddleeast",
   "afff84965530e4c9",
   "oilpricesriseabove100abarrelforfirsttimesincejulyasiranwares",
   "5079f84de0a35d29",
@@ -603,7 +601,9 @@
   "a4b21c82751db77b",
   "saudiarabiashutsdownpipelinethatwasacrucialhormuzbypass",
   "c8ad64b6e17aac09",
-  "energymarketsrattledaftersaudipipelineattacks"
+  "energymarketsrattledaftersaudipipelineattacks",
+  "6c65d25556717055",
+  "globaloilhits108perbarrelwhilebondyieldssurge"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-11",
   "count": 60
  },
- "last_run": "2026-09-11T23:10:23.540236+03:00",
+ "last_run": "2026-09-11T23:15:19.300040+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -2153,6 +2153,10 @@
   {
    "d": "2026-09-11",
    "t": "Energy Markets Rattled After Saudi Pipeline Attacks - The New York Times"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Global oil hits $108 per barrel while bond yields surge - CNN"
   }
  ]
 }
