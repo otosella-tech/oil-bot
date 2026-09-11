@@ -4,8 +4,6 @@
   "Brent": 107.99
  },
  "seen": [
-  "c03c4cf68d165cf7",
-  "brentholdsabove100astankerattacksdampenhopesforhormuztraffic",
   "60bc52a92e013f3e",
   "canadasenbridgetobuytallgrasscrudeoilbusinessfor255bn",
   "f8282513b989c83a",
@@ -603,7 +601,9 @@
   "452669043481a982",
   "oilcoatedbubblefragmentationhelpspredicttoxicatmosphericaero",
   "762e453af011b39d",
-  "oilisscaryagain"
+  "oilisscaryagain",
+  "842db08270538ea7",
+  "oilpricessurgetofourmonthhighsaswarrisksmount"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-11",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-09-11T08:35:15.224097+03:00",
+ "last_run": "2026-09-11T08:40:19.178558+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
@@ -1960,6 +1960,10 @@
   {
    "d": "2026-09-11",
    "t": "Oil Prices Surge to Four-Month Highs as War Risks Mount"
+  },
+  {
+   "d": "2026-09-11",
+   "t": "Oil Prices Surge to Four-Month Highs as War Risks Mount - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
