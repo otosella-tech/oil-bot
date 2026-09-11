@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "9b110a6f384fdb88",
-  "oilpricesriseasmiddleeastconflictescalates",
   "d47ff74f42977541",
   "wticrudeoilfuturesreach14weekhighonmiddleeasttensions",
   "3c90b0243c871100",
@@ -603,7 +601,9 @@
   "16e89d8453822bd2",
   "wallstreetfuturesriseupto06ascrudeoilpriceseasecpidataawaite",
   "2db4c75b4b605e6c",
-  "oilsetforweeklygainofover7onsupplydisruptionsusdieselhitsrec"
+  "oilsetforweeklygainofover7onsupplydisruptionsusdieselhitsrec",
+  "d7e50008b197ba99",
+  "currentpriceofoilasofsept102026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-11",
   "count": 53
  },
- "last_run": "2026-09-11T14:10:21.728083+03:00",
+ "last_run": "2026-09-11T14:15:18.774668+03:00",
  "sent_stories": [
   {
    "d": "2026-09-08",
