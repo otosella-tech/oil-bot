@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "c2b0e1254eddb55d",
-  "enbridgetoacquiretallgrassenergycrudeoilassetsfor255billion",
   "ae858077ba529339",
   "thecommoditiesfeedoilsurgesasmarketrepricesmiddleeastescalat",
   "a4a288fc4d1ef9f5",
@@ -603,7 +601,9 @@
   "e83fc3d561f32cba",
   "cobbgasolinepricestop4overnightasmiddleeastregionalwarexpand",
   "c203537c2b8676d1",
-  "egyptiantvhostamradibwarnsofoilpricesurge"
+  "egyptiantvhostamradibwarnsofoilpricesurge",
+  "4c6b770db7a778ba",
+  "savedthedayhowchinahelpedkeepthelidonoilpricesurgeasiranward"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-12",
-  "count": 31
+  "count": 32
  },
- "last_run": "2026-09-12T14:55:27.148308+03:00",
+ "last_run": "2026-09-12T15:00:33.526025+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
