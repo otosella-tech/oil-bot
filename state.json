@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "4c6b770db7a778ba",
-  "savedthedayhowchinahelpedkeepthelidonoilpricesurgeasiranward",
   "c2b0e1254eddb55d",
   "enbridgetoacquiretallgrassenergycrudeoilassetsfor255billion",
   "ae858077ba529339",
@@ -603,7 +601,9 @@
   "f3ef1b623f399ae6",
   "energymarketssignalwintercrisisandrisinginterestrates",
   "e83fc3d561f32cba",
-  "cobbgasolinepricestop4overnightasmiddleeastregionalwarexpand"
+  "cobbgasolinepricestop4overnightasmiddleeastregionalwarexpand",
+  "c203537c2b8676d1",
+  "egyptiantvhostamradibwarnsofoilpricesurge"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-12",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-09-12T14:50:19.646054+03:00",
+ "last_run": "2026-09-12T14:55:27.148308+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
@@ -1848,6 +1848,10 @@
   {
    "d": "2026-09-12",
    "t": "Saudi Arabia’s shutdown of key pipeline limits oil flow as Yemen hits back against Houthis - NBC News"
+  },
+  {
+   "d": "2026-09-12",
+   "t": "Egyptian TV host Amr Adib warns of oil price surge - Egypt Independent"
   }
  ]
 }
