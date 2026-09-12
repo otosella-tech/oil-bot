@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "a06548fe96638cf8",
-  "yieldson30yearbondsandoilmakenewdecadelonghighsdraggingdowng",
   "2bf5386f1498d681",
   "aaanewmexicogaspricesjumpascrudeoilclimbsabove100perbarrel",
   "12684ab594e589e6",
@@ -603,7 +601,9 @@
   "060ef73f62d87458",
   "ansarullahforcesadvancealongredseaassaudisshutdownkeyoilpipe",
   "623f42e40b09c3c4",
-  "cantheoilmarketsurviveaforeverwarwithiran"
+  "cantheoilmarketsurviveaforeverwarwithiran",
+  "ec199641b217b5ab",
+  "saudiarabiasshutdownofkeypipelinelimitsoilflowasyemenhitsbac"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-12",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-09-12T13:35:15.559270+03:00",
+ "last_run": "2026-09-12T13:40:18.415713+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
@@ -1844,6 +1844,10 @@
   {
    "d": "2026-09-12",
    "t": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq - BBC"
+  },
+  {
+   "d": "2026-09-12",
+   "t": "Saudi Arabia’s shutdown of key pipeline limits oil flow as Yemen hits back against Houthis - NBC News"
   }
  ]
 }
