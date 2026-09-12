@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "a4a288fc4d1ef9f5",
-  "somecordovansexpressconcernover30yearalaskapipelinerenewal",
   "60ecb79527049583",
   "oilpricesclimbover100perbarrelasuswarinirancontinues",
   "0b1983e7793b0eee",
@@ -603,7 +601,9 @@
   "4c6b770db7a778ba",
   "savedthedayhowchinahelpedkeepthelidonoilpricesurgeasiranward",
   "af59e67153c02273",
-  "whatissaudiarabiaseastwestpipelineandwhatitsprecautionaryshu"
+  "whatissaudiarabiaseastwestpipelineandwhatitsprecautionaryshu",
+  "fe55378a0b3569dd",
+  "watchcanvenezuelarescuetheoilmarket"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-12",
-  "count": 33
+  "count": 34
  },
- "last_run": "2026-09-12T15:10:16.932426+03:00",
+ "last_run": "2026-09-12T15:15:20.419034+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
