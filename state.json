@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "9748d827031acf59",
-  "thatdastardlybrentcrudeischargingmorethan100forabarrelofoila",
   "dfc946ff716a2354",
   "dowjonesfuturesoraclejumpsafteroilpricesyieldssurgecpiinflat",
   "9b1a95104e44b33b",
@@ -603,7 +601,9 @@
   "f7467de36915bda1",
   "asnetlongpositionsinwticrudeoilhita20weekhighthetrumpadminis",
   "3e6b3abe1f5be23b",
-  "currentpriceofoilasofseptember22026"
+  "currentpriceofoilasofseptember22026",
+  "4d519948c7225ae2",
+  "uscrudeoilpricestop100amidmiddleeasttensionsandchinasrisingi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -615,7 +615,7 @@
   "date": "2026-09-12",
   "count": 35
  },
- "last_run": "2026-09-12T16:00:31.665284+03:00",
+ "last_run": "2026-09-12T16:05:14.799825+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
