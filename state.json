@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "df151d2880c3a2ae",
-  "enbridgetobuytallgrasscrudeoiltransportbusinessfor25bnoffsho",
   "a2a9ec6cc3acb2f2",
   "unpackingq2earningsmurphyoilnysemurinthecontextofothermixedo",
   "a5102e420614dd0d",
@@ -603,7 +601,9 @@
   "c28df73f4be06efc",
   "factboxhouthiadvanceonyemenportthreatenskeyoilshippingroute",
   "33a21351100ddfab",
-  "saudisshutdownoilpipelineashouthistightengriponredseashippin"
+  "saudisshutdownoilpipelineashouthistightengriponredseashippin",
+  "691bab1b626b7628",
+  "thesaudiarabiapipelineattacksjustredefinedmiddleeastoilrisk"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-09-12",
-  "count": 13
+  "count": 15
  },
- "last_run": "2026-09-12T05:25:16.556716+03:00",
+ "last_run": "2026-09-12T05:30:27.781213+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
@@ -1841,6 +1841,10 @@
   {
    "d": "2026-09-12",
    "t": "Strikes set Saudi oil pipeline on fire as Iran-backed Houthis tighten grip on key shipping corridor - New York Post"
+  },
+  {
+   "d": "2026-09-12",
+   "t": "The Saudi Arabia Pipeline Attacks Just Redefined Middle East Oil Risk - Barron's"
   }
  ]
 }
