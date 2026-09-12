@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "10b2c535751f0964",
-  "oilrisespast100abarrelafterthelatestwaveofmiddleeastattacks",
   "bc5f5e1088221c74",
   "soaringcrudeoilpricesliftsugar",
   "e826b6ed47cb07ba",
@@ -603,7 +601,9 @@
   "4925d7c7fa70e950",
   "usdieselpricesjustsurpassedarecord6pergallonherearethreeways",
   "c64e5b8c98691255",
-  "strikessetsaudioilpipelineonfireasiranbackedhouthistightengr"
+  "strikessetsaudioilpipelineonfireasiranbackedhouthistightengr",
+  "ede555e51f02d71e",
+  "gulfoilthreatenedanewashouthisreachkeyislandpipelineisshutdo"
  ],
  "releases_done": {
   "2026-09-11|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-12",
   "count": 12
  },
- "last_run": "2026-09-12T03:10:17.380405+03:00",
+ "last_run": "2026-09-12T03:15:18.995278+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
