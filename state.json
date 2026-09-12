@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "2bf5386f1498d681",
-  "aaanewmexicogaspricesjumpascrudeoilclimbsabove100perbarrel",
   "12684ab594e589e6",
   "oilpricessettoendweekover100forfirsttimeinnearly4months",
   "f9d0d75d25221505",
@@ -603,7 +601,9 @@
   "623f42e40b09c3c4",
   "cantheoilmarketsurviveaforeverwarwithiran",
   "ec199641b217b5ab",
-  "saudiarabiasshutdownofkeypipelinelimitsoilflowasyemenhitsbac"
+  "saudiarabiasshutdownofkeypipelinelimitsoilflowasyemenhitsbac",
+  "250279a248812f5c",
+  "opinionwaroilshockdebtandinflationfourhorsemenofthefallapoca"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -615,7 +615,7 @@
   "date": "2026-09-12",
   "count": 28
  },
- "last_run": "2026-09-12T13:40:18.415713+03:00",
+ "last_run": "2026-09-12T13:45:19.051397+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
