@@ -4,10 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "f6ffc23b9eb62160",
-  "theoilrollercoasterreachesnewheightsanditsabumpyrideahead",
-  "817e331a5d8d486c",
-  "opec2026demandgrowthforecastcutto400mbd",
   "70d79e43bb26ed6a",
   "audusdbucklesasyieldscrudeoilandusdollarsurgeintouscpi",
   "c6441380086ae92c",
@@ -603,7 +599,11 @@
   "4e634ba4beae6e92",
   "coinbasecofoundersvenezuelaoilbetcouldrippleintocrypto",
   "e8f3512711e4fca8",
-  "saudiarabiashutskeyoilpipelineafterdroneattacklaunchedfromir"
+  "saudiarabiashutskeyoilpipelineafterdroneattacklaunchedfromir",
+  "77caa2d5fa05e2e0",
+  "wticrudeoilfuturespullbackafter8sessionrally",
+  "d3c82524ea3ae878",
+  "chevronsceosaystheoilbuffersaregone"
  ],
  "releases_done": {},
  "last_digest": "2026-09-11",
@@ -615,7 +615,7 @@
   "date": "2026-09-12",
   "count": 17
  },
- "last_run": "2026-09-12T07:30:44.759746+03:00",
+ "last_run": "2026-09-12T07:35:14.959626+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
