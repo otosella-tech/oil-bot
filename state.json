@@ -4,12 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "0a6ac71e58d24682",
-  "oilpriceforecastsclimbaswallstreetgivesuponaquickendtotheglo",
-  "44639982a79d7c35",
-  "crudeoilpricetakesabreatherafterastrongrallyanalysis11092026",
-  "2eaeeaea8e9369c8",
-  "oilcoordinationgroupnoimmediatesecurityofoilsupplyconcernsin",
   "ca53046131bb7c0d",
   "exglencoreheadofoilpleadsnotguiltytoukbriberychargesaheadof2",
   "bfdf1dde2a77899c",
@@ -603,7 +597,13 @@
   "8d995af8d7acaf8c",
   "this58yieldingdividendstockhasmade3dealsincludingnearly32bil",
   "5565ec449edd45a2",
-  "colombiatargets1millionbarrelsofoiladayagain"
+  "colombiatargets1millionbarrelsofoiladayagain",
+  "e3fa515875d2ccec",
+  "wtibreaks100andthisrallyhaslegs",
+  "b06ea2dca9f6e4ad",
+  "oilbreaks100andthisrallyhaslegs",
+  "3f75df8b6aa82e39",
+  "dollargainsascrudeoilpricesandtnoteyieldssurge"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -615,7 +615,7 @@
   "date": "2026-09-12",
   "count": 54
  },
- "last_run": "2026-09-12T21:15:18.381823+03:00",
+ "last_run": "2026-09-12T21:20:18.300794+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
