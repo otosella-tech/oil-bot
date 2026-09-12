@@ -4,10 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "3968dd65fae198ef",
-  "wticrudeoilfutureshit16weekhighastensionsescalate",
-  "3992ebcb8f9dff3b",
-  "crudeoiltops100amidmiddleeasttensions",
   "e6462180b66076c4",
   "enbridgetobuytallgrasscrudeoiltransportbusinessfor25bn",
   "b3b561defc90f7bd",
@@ -603,7 +599,11 @@
   "25dd95e5c189f837",
   "usoilgiantchevronconfirmsitwillexpandoperationsinvenezuela",
   "eb5c91bdc1a8352b",
-  "threepipelinegiantsofferstablehighyieldd"
+  "threepipelinegiantsofferstablehighyieldd",
+  "70e08405d12a0b58",
+  "doecdcommercialoilinventorieshavebarelydrawnsincethewarbegan",
+  "abf9bf24eec4aae9",
+  "saudiarabiashutsdownkeyoilpipelineblamingdronesfromiraq"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-12",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-09-12T17:25:15.675338+03:00",
+ "last_run": "2026-09-12T17:30:22.912574+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
@@ -1856,6 +1856,14 @@
   {
    "d": "2026-09-12",
    "t": "Drone strikes on a key Saudi oil pipeline and Houthi advances in the Red Sea are putting vital oil routes under pressure. Saudi crude could face a much tougher path to global markets. #dwnews - facebook.com"
+  },
+  {
+   "d": "2026-09-12",
+   "t": "d OECD commercial oil inventories have “barely drawn since the war began,” reflecting a smaller-than-expected supply deficit and the concentration of inventory declines in strategic reserves, oil stored on water and China. - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-12",
+   "t": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq - The Guardian"
   }
  ]
 }
