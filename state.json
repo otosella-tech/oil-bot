@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "bd4532e71c99242f",
-  "uscrudeoilhits100forfirsttimesincemaydailynewsdigest20260911",
   "2fa6a0fb6b093871",
   "oiljusttopped109isittoolatetobuychevroncvxhistoryhasaclearan",
   "ad0801889bcef56f",
@@ -603,7 +601,9 @@
   "7033f77a1e98272c",
   "stocksjumpamideasingoilpricesinflationupdatenorthwestarkansa",
   "5c2a617f0be7dbf5",
-  "newdatarevealsmorethan19milliongallonsofoilandgaswastehaspol"
+  "newdatarevealsmorethan19milliongallonsofoilandgaswastehaspol",
+  "9fd6b477054fe32b",
+  "elevatedcrackspreadsandcrudeoilpricescontributetohigherprice"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -615,7 +615,7 @@
   "date": "2026-09-12",
   "count": 23
  },
- "last_run": "2026-09-12T10:20:18.655157+03:00",
+ "last_run": "2026-09-12T10:25:14.264615+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
