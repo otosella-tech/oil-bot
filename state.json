@@ -4,10 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "d0149bd565626376",
-  "eiaweeklyuscrudeoilinventories391kvs1554kexpected",
-  "12610fd003493287",
-  "usdieselpricestop6agallonforfirsttimeever",
   "f56602d5a9c3d029",
   "explainerhowchinasoilmajorshelpedbeijingprepareforanenergycr",
   "87010ef34525ede4",
@@ -603,7 +599,11 @@
   "eec5cc6bbe3e180a",
   "iraqscramblestoaddressfalloutfromallegedmilitiaattackonsaudi",
   "4aedbcec95adb827",
-  "currentpriceofoilasofaugust312026"
+  "currentpriceofoilasofaugust312026",
+  "aece6402a67ab6c4",
+  "cantheoilmarketsurviveaforeverwarwithirannewschannel3",
+  "89937bdadc0310fb",
+  "gaspricesclimbascrudeoilreturnsabove100"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-12",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-09-12T19:35:15.781535+03:00",
+ "last_run": "2026-09-12T19:40:19.094758+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
@@ -1876,6 +1876,10 @@
   {
    "d": "2026-09-12",
    "t": "Iraq scrambles to address fallout from alleged militia attack on Saudi oil pipeline - CBC"
+  },
+  {
+   "d": "2026-09-12",
+   "t": "Can the oil market survive a forever war with Iran? - News Channel 3-12"
   }
  ]
 }
