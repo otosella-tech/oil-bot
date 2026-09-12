@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "904fcb3cf72916f7",
-  "howchinasoilmajorshelpedbeijingprepareforanenergycrisis",
   "48cb15522ef49442",
   "ieafurthercutsrussianoiloutputforecastsonukrainianattacks",
   "65c4838d1c7c5f18",
@@ -603,7 +601,9 @@
   "54dbdcc28439c07c",
   "oilmarketreportseptember2026analysis",
   "f9e248d9dead1fb7",
-  "currentpriceofoilasofseptember12026"
+  "currentpriceofoilasofseptember12026",
+  "aacf9118eda4f967",
+  "enbridgeacquiresponyexpressandstrengthensitscrudeoilnetworki"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -615,7 +615,7 @@
   "date": "2026-09-12",
   "count": 60
  },
- "last_run": "2026-09-13T00:15:22.857954+03:00",
+ "last_run": "2026-09-13T00:20:18.406103+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
