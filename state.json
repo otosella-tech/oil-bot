@@ -4,8 +4,6 @@
   "Brent": 103.56
  },
  "seen": [
-  "b3b561defc90f7bd",
-  "oilhits100abarrelforfirsttimesincejulyafterusandhouthistrike",
   "72c2274111b73512",
   "oilpricessettoendweekabove100forfirsttimeinnearly4months",
   "86f17713cf65db64",
@@ -603,7 +601,9 @@
   "abf9bf24eec4aae9",
   "saudiarabiashutsdownkeyoilpipelineblamingdronesfromiraq",
   "e3d048578c3e57c3",
-  "theoilofthenext50yearstrumptoutsaidatacentersdeliveringwealt"
+  "theoilofthenext50yearstrumptoutsaidatacentersdeliveringwealt",
+  "c3bbe148cd66a12c",
+  "enbridgetobuytallgrasscrudeoiltransportbusinessfor25bn"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -615,7 +615,7 @@
   "date": "2026-09-12",
   "count": 40
  },
- "last_run": "2026-09-12T17:50:20.641494+03:00",
+ "last_run": "2026-09-12T17:55:15.259701+03:00",
  "sent_stories": [
   {
    "d": "2026-09-09",
