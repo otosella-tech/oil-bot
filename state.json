@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "b0ca73cc02196c24",
-  "chinascrudeimportssettoholdat72millionbpdinseptember",
   "08a7f982fd535bed",
   "theweekinnumbersapplesfoldablelaunchcrudeoilhits100",
   "e7a95f18dba5dcc8",
@@ -603,7 +601,9 @@
   "17f40c7c6d3f1a3d",
   "crudeoilweeklyoutlookbricssummitcallsformaximumrestraint",
   "e19f0ad12e9b99d8",
-  "oilpricesriseaftersaudiarabiashutdowncriticalpipelinethatbyp"
+  "oilpricesriseaftersaudiarabiashutdowncriticalpipelinethatbyp",
+  "c574ef29eea18a51",
+  "trumpwantsukrainetostopstrikingrussianrefinerieswhatwouldtha"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-14",
-  "count": 3
+  "count": 4
  },
- "last_run": "2026-09-14T01:35:15.269967+03:00",
+ "last_run": "2026-09-14T01:40:26.698109+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
