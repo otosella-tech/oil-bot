@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "95d7af8e80381463",
-  "wtibreaks100asmiddleeastsupplycrisisdeepens",
   "05f9d19fa8b77ae0",
   "energyaspectsoilmarkethasreachedaninflectionpoint",
   "fd0300e169d55d94",
@@ -603,7 +601,9 @@
   "f1dedb623189f56a",
   "trumpcallsonukrainetostopstrikingrussianoilrefineries",
   "0a71d2ea34968e19",
-  "hormuzdiplomacystallsasattacksdeepenpressureonpersiangulfoil"
+  "hormuzdiplomacystallsasattacksdeepenpressureonpersiangulfoil",
+  "e021a7b4b626fbb3",
+  "oilpricesjumpover3onmoremeastactionhormuzmeetingdelay"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-14",
-  "count": 12
+  "count": 13
  },
- "last_run": "2026-09-14T02:50:19.272521+03:00",
+ "last_run": "2026-09-14T02:55:13.911500+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
