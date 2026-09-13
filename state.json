@@ -4,10 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "737aade38e9a064c",
-  "houthisadvanceonbabal",
-  "34893ce7c012f5c7",
-  "vostokoilonetankerfourtrillionrubles",
   "95d7af8e80381463",
   "wtibreaks100asmiddleeastsupplycrisisdeepens",
   "05f9d19fa8b77ae0",
@@ -603,7 +599,11 @@
   "a75f1ccde6a2f432",
   "asianstockmarketsfallamidsurgeinoilprices",
   "eca0ff802c9b7525",
-  "risingoilpricescreatehugeworryaswinterlooms"
+  "risingoilpricescreatehugeworryaswinterlooms",
+  "f1dedb623189f56a",
+  "trumpcallsonukrainetostopstrikingrussianoilrefineries",
+  "0a71d2ea34968e19",
+  "hormuzdiplomacystallsasattacksdeepenpressureonpersiangulfoil"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-14",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-09-14T02:40:18.364931+03:00",
+ "last_run": "2026-09-14T02:45:17.328808+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -984,6 +984,14 @@
   {
    "d": "2026-09-14",
    "t": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Trump calls on Ukraine to stop striking Russian oil refineries - Financial Times"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Hormuz diplomacy stalls as attacks deepen pressure on Persian Gulf oil routes - iranintl.com"
   }
  ]
 }
