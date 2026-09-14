@@ -4,12 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "01dbf04e0a422b56",
-  "smallpricetopaywhathastrumpsaidaboutoilpricesduringtheiranwa",
-  "f5f6e85b18e085dc",
-  "oilpricesdiveonsignsofhormuzdiplomacywhilesaudiarabiaislefth",
-  "1b373ecc30b9e952",
-  "crudepricesfallbackafterieaforecastssharpdropinoildemand",
   "d7ce1d1e0f25b7af",
   "dronestrikeshitsaudiarabiasvitaleastwestoilpipeline",
   "974439b4c4c500d5",
@@ -603,7 +597,13 @@
   "d91afa7f3cce11d8",
   "oilfuturescruderesumesrallyafterkeysaudipipelineclosed",
   "bd48f4595e2d0e33",
-  "saudipipelineshutdownaddsfreshbullishpressuretoglobalcrudeoi"
+  "saudipipelineshutdownaddsfreshbullishpressuretoglobalcrudeoi",
+  "4e02b9a283183b8d",
+  "saudiarabiashutdowneastwestcrudeoilpipelineaftermultipleatta",
+  "c4601569c41642bc",
+  "oiljumpsnasdaqfuturesslideasairelatedstockstumbleworldwide",
+  "d2ff40fb88da83a1",
+  "southafricanrandweakensashigheroilweighsfedmeetinglooms"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T11:40:18.228145+03:00",
+ "last_run": "2026-09-14T11:45:20.946873+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1128,6 +1128,10 @@
   {
    "d": "2026-09-14",
    "t": "Saudi Pipeline Shutdown Adds Fresh Bullish Pressure to Global Crude Oil Prices - ChemAnalyst"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq - CNBC"
   }
  ]
 }
