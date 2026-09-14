@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "47f0e164f540482f",
-  "oilsurges6brentanduscrudebothsurpass100onmoretankerattacks",
   "6253ae4465e35ff6",
   "exclusivewhitehouseweighshowtousedefenseproductionacttoexpan",
   "a8778b1ae19ad17b",
@@ -603,7 +601,9 @@
   "13f5465d3a8f5698",
   "oilsurgespast108ashormuzattackandsaudipipelineshutdownrattle",
   "7efd9d20fb0b02e4",
-  "sharesskidinasiaasoilclimbsratehikesloom"
+  "sharesskidinasiaasoilclimbsratehikesloom",
+  "2e582733d0b43887",
+  "oilsurgespast108afterhormuzattackandsaudipipelineshutdown"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T11:20:18.448287+03:00",
+ "last_run": "2026-09-14T11:25:17.495073+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1112,6 +1112,10 @@
   {
    "d": "2026-09-14",
    "t": "Oil surges past $108 as Hormuz attack and Saudi pipeline shutdown rattle markets - Euronews.com"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil surges past $108 after Hormuz attack and Saudi pipeline shutdown - Euronews.com"
   }
  ]
 }
