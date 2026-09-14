@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "9e2e6bbe1f8faa4e",
-  "houthisseizeakeyredseaislandthreateninganotherglobaloilroute",
   "20eda0da0fa3ceaf",
   "saudioilpipelineshutdownafterattacktriggersfires",
   "0a8acc3674b5c050",
@@ -603,7 +601,9 @@
   "4c7a8e1b8152e7c6",
   "uscrudeoilstockpilesfallproductionhitsrecord",
   "cc6dfb5de6e42461",
-  "crudeoilfallsastraderswatchsupplyandeconomicdata"
+  "crudeoilfallsastraderswatchsupplyandeconomicdata",
+  "489041b1b642d90f",
+  "satelliteimagesshowextentofdamagetosaudiarabiasoilpipelineth"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T11:55:55.801945+03:00",
+ "last_run": "2026-09-14T12:00:34.284501+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1132,6 +1132,10 @@
   {
    "d": "2026-09-14",
    "t": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq - CNBC"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz - CNBC"
   }
  ]
 }
