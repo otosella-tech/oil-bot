@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "399979f4b5134ca7",
-  "theracetosolvenuclearenergysbiggestproblem",
   "f63ba840c2c90054",
   "yoursaturdaysept12guidefivethingstodointheoilcity",
   "1f086ce10e2e3eca",
@@ -603,7 +601,9 @@
   "1d87945ea5315e9b",
   "enbridgeenbexpandsitsusoilfootprintwithtallgrassacquisition",
   "1c8b49c85b8f27bc",
-  "crudeoilelevatedupsideriskwithctasmaxlongtdsecurities"
+  "crudeoilelevatedupsideriskwithctasmaxlongtdsecurities",
+  "3ee835793d617fa9",
+  "howiransregionalalliesattacksinyemenarecompoundingthewarsimp"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T18:10:20.364519+03:00",
+ "last_run": "2026-09-14T18:15:19.521975+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1344,6 +1344,10 @@
   {
    "d": "2026-09-14",
    "t": "Oil Prices Soar Over 4% to 16-Week High After Saudi Strikes - GV Wire"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "How Iran's regional allies' attacks in Yemen are compounding the war's impact on oil prices - CBS News"
   }
  ]
 }
