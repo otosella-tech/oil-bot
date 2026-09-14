@@ -4,8 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "e07b4da7e4dcd560",
-  "baghdadconfirmsattackonsaudipipelinecamefromiraq",
   "2ee5ce4eacd39eb7",
   "acrisprlibrarypointstooilboostinggenesinrapeseednewswise",
   "fee03e53bb37adab",
@@ -603,7 +601,9 @@
   "42c8f7028a8ac68d",
   "worldsharesslideasoilpricesjumpandbondyieldsclimb",
   "a77996c9de6cbc9a",
-  "10yeartreasuryyieldeasesbackfromcrucial5leveldespiteconcerns"
+  "10yeartreasuryyieldeasesbackfromcrucial5leveldespiteconcerns",
+  "7a6cc7b16d86d3d8",
+  "trumpsaysoilwilldroplikearockafteriranconflictendsusoucoinfo"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T21:40:19.867219+03:00",
+ "last_run": "2026-09-14T21:45:19.942815+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1404,6 +1404,10 @@
   {
    "d": "2026-09-14",
    "t": "10-year Treasury yield eases back from crucial 5% level despite concerns about AI and the surge in oil prices - MarketWatch"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Trump Says Oil Will ‘Drop Like A Rock’ After Iran Conflict Ends — USO, UCO In Focus - Yahoo Finance"
   }
  ]
 }
