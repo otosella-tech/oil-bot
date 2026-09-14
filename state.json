@@ -4,8 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "4fdebb92d61fc032",
-  "crudeoilfuturesoct6clmainusbrentlastdayfinancialfuturescurre",
   "c20d035f57a634b1",
   "iraqsaidoriginpointofstrikesonsaudioilthearkansasdemocrat",
   "a1325e4c95b2b46f",
@@ -603,7 +601,9 @@
   "5d41f7f42e0c22b3",
   "orlendoesnotexpectanyimmediatedisruptionstosupplyassaudioild",
   "3f8833defbe4a762",
-  "venezuelasreturntotheglobalenergymarketwhatrecentusandvenezu"
+  "venezuelasreturntotheglobalenergymarketwhatrecentusandvenezu",
+  "34f496a39ee51cdb",
+  "whythesp500isntpanickingasoilsurgeswarspreadsthefedhikes"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T20:40:22.538050+03:00",
+ "last_run": "2026-09-14T20:45:20.521326+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1384,6 +1384,10 @@
   {
    "d": "2026-09-14",
    "t": "As the oil surge continues, trader Mike Khouw sees more upside in this surging name - cnbc.com"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Why The S&P 500 Isn't Panicking As Oil Surges, War Spreads, The Fed Hikes - Investor's Business Daily"
   }
  ]
 }
