@@ -4,12 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "0eb1a78c6ca85b6d",
-  "nystocksreboundafter4daysdowup547pointscrudeoilplunges",
-  "e943f50ba0c0b89e",
-  "houthisseizekeyredseaislandthreateninganotherglobaloilroute",
-  "56d1f8767df83a8a",
-  "attacksonsaudipipelinerattleenergymarkets",
   "1e2c064281713422",
   "saudisshutdowncrucialpipelineafterdroneattackfromiraq",
   "4925d7c7fa70e950",
@@ -603,7 +597,13 @@
   "79d4149550dbd989",
   "opecseesoildemandgrowthexplodesixfoldin2027",
   "33012a809dc32b9a",
-  "oilhits107assaudipipelineshutdownandstraitattackstightenglob"
+  "oilhits107assaudipipelineshutdownandstraitattackstightenglob",
+  "61fdc173ed6d4327",
+  "eiasees2026oilpricecomingin22higherthanlastyear",
+  "0975f10a0abcc653",
+  "aialarmbellsreachcapitolhillanddieselpriceshitalltimehighaft",
+  "2f2b9f5faed19623",
+  "northernirelandconsumersfacerisingenergyprices"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T14:50:19.587661+03:00",
+ "last_run": "2026-09-14T14:55:16.016425+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
