@@ -4,14 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "da1e40f11a71926c",
-  "usequitymarketsendhigheramidbroadbasedrallyascrudeoilpricesd",
-  "37c477c6d4b2f3f1",
-  "spglobalmiddleeastcrudeflowstostaybelowprewarlevelsthrough20",
-  "73d02837125fdcd2",
-  "venezuelaswithdrawalfromopecgainstractionintheoil",
-  "7bf44f25800bf3b7",
-  "oilgasandborrowingcostssurgeasfearsovermiddleeastescalate",
   "0ec7b3d9c8c81451",
   "thecaseforwhyinvestorsshouldnotgetoutofanyoilstocksrightnow",
   "feac74692d0be9da",
@@ -603,7 +595,15 @@
   "d20c8c87aa820cdd",
   "sterlinghitsonemonthlowasoilpricejumpboostsdollar",
   "2171be1c64253f18",
-  "oilpricesriseastalkspostponedoverstraitofhormuz"
+  "oilpricesriseastalkspostponedoverstraitofhormuz",
+  "ec0ef26a11566e3a",
+  "asianrefinersseekanswersaftersaudipipelineshutdown",
+  "bfd1ae660e9acded",
+  "ouchfloridagaspricesreacttorisingtensionsinmiddleeast",
+  "df7574f7097f564a",
+  "middleeasttensionsglobaloilpricesrisebymorethan3",
+  "a147eb6b794198cc",
+  "3oilandgasstockswithpricingpowerascrudejumps"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T13:25:15.271674+03:00",
+ "last_run": "2026-09-14T13:30:27.456106+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1192,6 +1192,10 @@
   {
    "d": "2026-09-14",
    "t": "Oil prices rise as talks postponed over Strait of Hormuz - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Asian Refiners Seek Answers After Saudi Pipeline Shutdown"
   }
  ]
 }
