@@ -4,14 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "c670296d3861c038",
-  "crudeoilpriceoutlookwtiandbrentleadthemarketnarrative",
-  "16f6e367fcda7ab0",
-  "russiasoilexportsandrevenuebothslumpinaugustcounteringputins",
-  "8f5ba274945b84f8",
-  "sp500slidesfourthstraightdayasoilpricesyieldssurge",
-  "1fb6c1684d78587d",
-  "crudeoilraisesinflationconcernsastreasuryyieldsweighonstocks",
   "e36ed5b9b63a747e",
   "oilreservereleasessupplymorethancrudeduringenergyemergencies",
   "61b62991fdd422fd",
@@ -603,7 +595,15 @@
   "1f0dbb73c9015039",
   "ciccwarns100oilcouldbringdemanddestructionintoview",
   "e4ea87eab69028a9",
-  "thecommoditiesfeedoilstrongeronsaudipipelineshutdown"
+  "thecommoditiesfeedoilstrongeronsaudipipelineshutdown",
+  "14c37a27d4ef2fcb",
+  "wideningmideastinstabilitysqueezesglobaloilsupplies",
+  "3df24a0ce984c08d",
+  "santabarbaracountysettobannewonshoreoilandgasdrillingandbloc",
+  "c0b51b34ee7fce7a",
+  "repeatsaudipipelineoutagethreatenslossof4ofglobaloilsupply",
+  "9d55deca407be032",
+  "oilpricesjumpmorethan2afternewstrikesonsaudiarabiastraitofho"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-14",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-09-14T06:00:31.832991+03:00",
+ "last_run": "2026-09-14T06:05:15.011068+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1020,6 +1020,14 @@
   {
    "d": "2026-09-14",
    "t": "The Commodities Feed: Oil stronger on Saudi pipeline shutdown - ing think"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "REPEAT Saudi pipeline outage threatens loss of 4% of global oil supply - Reuters"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil prices jump more than 2% after new strikes on Saudi Arabia, Strait of Hormuz - The Business Standard"
   }
  ]
 }
