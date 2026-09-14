@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "69d7945914de8f1e",
-  "oilfallsbutontrackfor8weeklygainonsupplyconcernsusdieselhits",
   "564fa3498dbdcfea",
   "usoilpricesfallforfirsttimein2weeksprovidingarelieftostockin",
   "370b606862f12d35",
@@ -603,7 +601,9 @@
   "fd695e8760260d65",
   "ciccshorttermcrudeoilpremiumexhibitssignificantelasticitybre",
   "1cade8ce55334b18",
-  "roiwhenitcomestocrudeoilpricesitslocationlocationlocationrus"
+  "roiwhenitcomestocrudeoilpricesitslocationlocationlocationrus",
+  "b8ea74ceb018ebaf",
+  "globalcrudeoilpricesriseovertwopercent"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 26
  },
- "last_run": "2026-09-14T05:15:19.034847+03:00",
+ "last_run": "2026-09-14T05:20:17.614249+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
