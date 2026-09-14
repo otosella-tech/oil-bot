@@ -4,10 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "7033f77a1e98272c",
-  "stocksjumpamideasingoilpricesinflationupdatenorthwestarkansa",
-  "5c2a617f0be7dbf5",
-  "newdatarevealsmorethan19milliongallonsofoilandgaswastehaspol",
   "9fd6b477054fe32b",
   "elevatedcrackspreadsandcrudeoilpricescontributetohigherprice",
   "f3f83ffb2de881eb",
@@ -603,7 +599,11 @@
   "f6ffc23b9eb62160",
   "theoilrollercoasterreachesnewheightsanditsabumpyrideahead",
   "8ba44b06efcbf4f1",
-  "brentat108gulfstateshalthormuztalksashouthisstrikesaudiairba"
+  "brentat108gulfstateshalthormuztalksashouthisstrikesaudiairba",
+  "836f8097089687a2",
+  "dieselpushestonewalltimehighasoilpricesjumpafterkeysaudipipe",
+  "d4f06ae71eb5375b",
+  "russiasaysgulfinstabilityrapidlyworseningglobaloilmarketsitu"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T15:55:15.736762+03:00",
+ "last_run": "2026-09-14T16:00:32.156133+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-09-14",
    "t": "Brent at $108: Gulf States Halt Hormuz Talks as Houthis Strike Saudi Airbase"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Diesel pushes to new all-time high as oil prices jump after key Saudi pipeline is shut - Yahoo Finance"
   }
  ]
 }
