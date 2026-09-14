@@ -4,14 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "bdb46ea3a9ff4960",
-  "dronestrikeshitsaudiarabiasvitaleast",
-  "dd73e2673c8786b0",
-  "cushinghubseesnoimprovementinoilinventory",
-  "9a478568c35f0906",
-  "iwenttocaracasforvenezuelasnewoildealshereswhatstoodout",
-  "fa8f2e967cb528f5",
-  "crudeoilgaspricessurgeamidmiddleeastfighting",
   "903c6b6a03c0f0f7",
   "saudistellopecthatoutputslumpedagaintolowestsince1990",
   "8aec223d6125a9f2",
@@ -603,7 +595,15 @@
   "0803995d27865edc",
   "crudeoilwtistallsnear10446highsonfadingmomentumlive",
   "eba3ea7971464df2",
-  "crudeoilisstiflingdowfuturesupsidebutbluechipbalancesheetsre"
+  "crudeoilisstiflingdowfuturesupsidebutbluechipbalancesheetsre",
+  "2097189457172881",
+  "oilpricesupnearly3followingnewstrikesonsaudistraitofhormuz",
+  "9c88b9e9ef832aed",
+  "oilstocksthatcouldbenefitifstraitofhormuztensionskeeprising",
+  "cd2a9376cf946bf3",
+  "sellingpressuredominatedamidrisingcrudeoilpricesdrivenbyunce",
+  "8d1db9105837a30b",
+  "trumpsaysukraineshouldhaltrussianrefinerystrikesamidsurgingd"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-14",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-09-14T10:25:14.508197+03:00",
+ "last_run": "2026-09-14T10:30:25.653922+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1072,6 +1072,18 @@
   {
    "d": "2026-09-14",
    "t": "Iran live updates: Oil prices rise after strikes in Saudi Arabia, Strait of Hormuz - Yahoo News Canada"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil prices up nearly 3% following new strikes on Saudi, Strait of Hormuz - Reuters"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil Stocks That Could Benefit If Strait Of Hormuz Tensions Keep Rising - simplywall.st"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Trump says Ukraine should halt Russian refinery strikes amid surging diesel prices - The Hill"
   }
  ]
 }
