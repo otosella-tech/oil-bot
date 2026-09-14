@@ -4,14 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "5f25029be00431e7",
-  "oilpricesriseabove100abarrelforfirsttimesincejulyasiranwares",
-  "f68bfdd659ec74f0",
-  "crudeoilbucklesearlyandgrindsbackontalkofahormuzarrangement",
-  "179f9420dab0e558",
-  "oilfuturesjumpasmiddleeastescalationraisessupplyworries",
-  "886e123bc2e9e7a2",
-  "usstocksshowsignificantreboundascrudeoilpullsbacksharply",
   "da1e40f11a71926c",
   "usequitymarketsendhigheramidbroadbasedrallyascrudeoilpricesd",
   "37c477c6d4b2f3f1",
@@ -603,7 +595,15 @@
   "c751af0582fc5562",
   "focusunwantedintheusoldoilequipmentfindsanewhomeinvenezuela",
   "64ab14c5dc542f60",
-  "breakingviewscommentarymakinghormuzworthlessisalonggame"
+  "breakingviewscommentarymakinghormuzworthlessisalonggame",
+  "92ae6d6db920f96f",
+  "brentcrudejumpsabove108aftersaudiarabiashutsdowncriticalpipe",
+  "a4c7267757f4106f",
+  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
+  "d20c8c87aa820cdd",
+  "sterlinghitsonemonthlowasoilpricejumpboostsdollar",
+  "2171be1c64253f18",
+  "oilpricesriseastalkspostponedoverstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T13:20:19.432519+03:00",
+ "last_run": "2026-09-14T13:25:15.271674+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1184,6 +1184,14 @@
   {
    "d": "2026-09-14",
    "t": "Breakingviews - COMMENTARY: Making Hormuz worthless is a long game - Reuters"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Brent crude jumps above $108 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz - cnbc.com"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil prices rise as talks postponed over Strait of Hormuz - Yahoo Finance"
   }
  ]
 }
