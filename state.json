@@ -4,12 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "2df8fd6ebf57532b",
-  "trumpscaucasustradecorridordelayeduntil2027",
-  "c0c5c43965bd580c",
-  "ukwindpowerhitsrecordhighasenergysecurityrisksmount",
-  "605166a42008ccd9",
-  "oilindustrybracesforyears",
   "131acc8f5fd94515",
   "howanoilsupplycrisiscouldbringaboutaninvestmentboom",
   "2289a8bbb011656b",
@@ -603,7 +597,13 @@
   "0525c626605667a4",
   "petrolanddieselpriceshithighestsince2022",
   "b912a95ea5ef3741",
-  "costcoraisespriceforkirklandmotoroilsetspurchaselimit"
+  "costcoraisespriceforkirklandmotoroilsetspurchaselimit",
+  "2b0985a0563b04c3",
+  "chevrontargetsfourcontinentsinnewlngexpansiondrive",
+  "0d93d8a2431cb378",
+  "oilpricesclimbover2afterstrikesonsaudipipelineandshipsinmidd",
+  "087f0ef7cc753cca",
+  "brentcrudetops106aftersaudiarabiashutsdowncriticalpipelineth"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T19:25:17.320191+03:00",
+ "last_run": "2026-09-14T19:30:26.275402+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1360,6 +1360,14 @@
   {
    "d": "2026-09-14",
    "t": "The U.S.-China AI War Has Kazakhstan Caught in the Crossfire"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil prices climb over 2% after strikes on Saudi pipeline and ships in Middle East - Reuters"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Brent crude tops $106 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz - CNBC"
   }
  ]
 }
