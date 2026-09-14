@@ -4,12 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "9ca9cbd6dccf6591",
-  "updateequitiesriseintradayastradersparseinflationreportoilre",
-  "b67d8e3201881ba7",
-  "whitehouseweighsdefenseproductionactasusrefineriesmaxedout",
-  "a4c7267757f4106f",
-  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
   "5f25029be00431e7",
   "oilpricesriseabove100abarrelforfirsttimesincejulyasiranwares",
   "f68bfdd659ec74f0",
@@ -603,7 +597,13 @@
   "2531954af7be90d8",
   "opinionmarypeltolasenergypoliticsfitsalaskademocratsneedher",
   "05775a6b9c4d8e58",
-  "oilpricesrisemorethan3afterhouthiattacksandhormuztalksdelay"
+  "oilpricesrisemorethan3afterhouthiattacksandhormuztalksdelay",
+  "f93e7b06efcda6ba",
+  "getreadyfora30jumpinheatingoilcoststhiswinterasiranwardrives",
+  "c751af0582fc5562",
+  "focusunwantedintheusoldoilequipmentfindsanewhomeinvenezuela",
+  "64ab14c5dc542f60",
+  "breakingviewscommentarymakinghormuzworthlessisalonggame"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T13:15:19.613784+03:00",
+ "last_run": "2026-09-14T13:20:19.432519+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1172,6 +1172,18 @@
   {
    "d": "2026-09-14",
    "t": "Oil Prices Rise More Than 3% After Houthi Attacks and Hormuz Talks Delay - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Get ready for a 30% jump in heating oil costs this winter as Iran war drives up prices - cnn.com"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Focus: Unwanted in the U.S., old oil equipment finds a new home in Venezuela - Reuters"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Breakingviews - COMMENTARY: Making Hormuz worthless is a long game - Reuters"
   }
  ]
 }
