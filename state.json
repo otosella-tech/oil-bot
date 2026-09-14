@@ -4,12 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "d61950c008565542",
-  "wantedoiltankersatanycostastensionsinthegulftriggeraglobalsc",
-  "16c047e61916a82d",
-  "brentcrudeoiltops100hereswhatthatmeansforusoilprices",
-  "ec5ed842dc6244ab",
-  "newattacksinhormuzandsauditestnervesaswarsspreadworsensoildi",
   "7f962595b2c521ce",
   "oilindustrybracesforyearslongiranwar",
   "1780e36c6342ba85",
@@ -603,7 +597,13 @@
   "15f48fce88bc2739",
   "crudeoiltrimsmondaysurge",
   "4c9aaab66b746919",
-  "opiniontrumpandputinarebothwrongtheycantwintheirwars"
+  "opiniontrumpandputinarebothwrongtheycantwintheirwars",
+  "1a04b4f6ab849492",
+  "saudioiloutputslumpsasiranwarhouthithreatsdisruptvitalexport",
+  "dee492268da27a66",
+  "middleeastsupplyconstraintsliftcrudeoilprices",
+  "ae339a477e50983f",
+  "oilpricessurgepastus100bamidmiddleeastattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T22:20:17.994788+03:00",
+ "last_run": "2026-09-14T22:25:16.545696+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1412,6 +1412,14 @@
   {
    "d": "2026-09-14",
    "t": "What does the closure of Saudi-Arabia's East-West pipeline mean for gas prices? - ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Saudi Oil Output Slumps as Iran War, Houthi Threats Disrupt Vital Export Routes - WSJ"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil Prices Surge Past US$100/b Amid Middle East Attacks - Mexico Business News"
   }
  ]
 }
