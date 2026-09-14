@@ -4,12 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "fee03e53bb37adab",
-  "saudiarabiamayrunoutofoilstocksduetostrikesoneastwestpipelin",
-  "cdcde51fe1ba3947",
-  "averagepricesforoilandgasoctgpipesintheusroseby11inaugust",
-  "11160c3e54e4f47c",
-  "trumpsaidthattheuscouldstayiniranandcontroltheoil",
   "d61950c008565542",
   "wantedoiltankersatanycostastensionsinthegulftriggeraglobalsc",
   "16c047e61916a82d",
@@ -603,7 +597,13 @@
   "7a6cc7b16d86d3d8",
   "trumpsaysoilwilldroplikearockafteriranconflictendsusoucoinfo",
   "65b1e414fdfe181d",
-  "thenextoilshockisneverthelast"
+  "thenextoilshockisneverthelast",
+  "a5bb3498f589fd56",
+  "whatdoestheclosureofsaudiarabiaseastwestpipelinemeanforgaspr",
+  "15f48fce88bc2739",
+  "crudeoiltrimsmondaysurge",
+  "4c9aaab66b746919",
+  "opiniontrumpandputinarebothwrongtheycantwintheirwars"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T22:00:31.809239+03:00",
+ "last_run": "2026-09-14T22:05:50.294897+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1408,6 +1408,10 @@
   {
    "d": "2026-09-14",
    "t": "Trump Says Oil Will ‘Drop Like A Rock’ After Iran Conflict Ends — USO, UCO In Focus - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "What does the closure of Saudi-Arabia's East-West pipeline mean for gas prices? - ABC News - Breaking News, Latest News and Videos"
   }
  ]
 }
