@@ -4,12 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "e6fac486391af4be",
-  "oilisscaryagain",
-  "eec5cc6bbe3e180a",
-  "iraqscramblestoaddressfalloutfromallegedmilitiaattackonsaudi",
-  "4aedbcec95adb827",
-  "currentpriceofoilasofaugust312026",
   "aece6402a67ab6c4",
   "cantheoilmarketsurviveaforeverwarwithirannewschannel3",
   "89937bdadc0310fb",
@@ -603,7 +597,13 @@
   "4f839d7acac8c2ec",
   "syriadieselpricesjump40triggeringwidespreadunrest",
   "762d9eb21429f7e4",
-  "stephenmoorediscussesrisingoilpricesdonaldtrumpsdividendprop"
+  "stephenmoorediscussesrisingoilpricesdonaldtrumpsdividendprop",
+  "020136876e02df9a",
+  "aistocksdroponcallsforaglobalslowdownasbrentoilspricehits109",
+  "4b322667c1e72b45",
+  "dollarclimbsasstockssinkandcrudeoilsurges",
+  "4a205257069f07d6",
+  "oiljumps10yeartreasuryyieldhits5asairelatedstockstumbleworld"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T17:35:15.273796+03:00",
+ "last_run": "2026-09-14T17:40:21.884824+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
