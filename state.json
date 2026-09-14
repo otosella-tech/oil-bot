@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "c07faad3e762dd5e",
-  "brentcrudeoiltops101tocloseathighestlevelsincemayasfightinge",
   "1c84832a383b271b",
   "brentsettlesatover100abarrelasmiddleeastconflictintensifies",
   "fe001f20d5751ae1",
@@ -603,7 +601,9 @@
   "05a740cd2e656131",
   "saudioillifelineshutafterattackasredseathreatgrows",
   "6c04b187c7f9c482",
-  "oilsurgespast107ashormuzattackandsaudipipelineshutdownrattle"
+  "oilsurgespast107ashormuzattackandsaudipipelineshutdownrattle",
+  "a343fd345cc73aae",
+  "soaringoilpricesputfedontrackforseptemberratehike"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T10:55:16.243918+03:00",
+ "last_run": "2026-09-14T11:00:31.717550+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1100,6 +1100,10 @@
   {
    "d": "2026-09-14",
    "t": "Oil surges past $107 as Hormuz attack and Saudi pipeline shutdown rattle markets - Euronews.com"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Soaring Oil Prices Put Fed on Track for September Rate Hike"
   }
  ]
 }
