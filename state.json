@@ -4,10 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "f74d4b57fb69eb77",
-  "whicheuropeancountriesimportthemostcrudeoil",
-  "e2d872d3e205281e",
-  "explainerwhatissaudiarabiaseastwestpipelineandwhatitsprecaut",
   "f3ef1b623f399ae6",
   "energymarketssignalwintercrisisandrisinginterestrates",
   "e83fc3d561f32cba",
@@ -603,7 +599,11 @@
   "623f42e40b09c3c4",
   "cantheoilmarketsurviveaforeverwarwithiran",
   "593fbf90dcd95bc7",
-  "billionairedangotelaunchesoilrefinerypeoplesipoafricasbigges"
+  "billionairedangotelaunchesoilrefinerypeoplesipoafricasbigges",
+  "63ad0112e3806fde",
+  "whysaudiarabiaseastwestpipelinemattersforglobaloil",
+  "621c294d19b7547d",
+  "saudiarabiashutscriticaloilpipelineafterdroneattackwhatitmea"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T16:20:20.581766+03:00",
+ "last_run": "2026-09-14T16:25:16.692212+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-09-14",
    "t": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - Reuters"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means - Al Jazeera"
   }
  ]
 }
