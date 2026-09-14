@@ -4,10 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "e021a7b4b626fbb3",
-  "oilpricesjumpover3onmoremeastactionhormuzmeetingdelay",
-  "58f6551673df94e3",
-  "oilpricesjumpmorethan2afternewstrikesonsaudistraitofhormuz",
   "2b50594e4d9ca501",
   "crudeoilfuturessurgemorethan3onfreshattacksinsaudiarabiaands",
   "76e912c43c0d7b62",
@@ -603,7 +599,11 @@
   "b311aab89b82fd11",
   "houthislaunchnewattackagainstsaudiarabia",
   "99efb45b9c5172c1",
-  "costconearlydoubleskirklandmotoroilpriceswhileimplementingpu"
+  "costconearlydoubleskirklandmotoroilpriceswhileimplementingpu",
+  "8c162c8ef135f26c",
+  "cantheoilmarketsurviveanendlesswarwithiran",
+  "7bffb3a3da400146",
+  "usstocksretreatonaiwarningsasoilpricesbondyieldsrise"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T23:45:18.942077+03:00",
+ "last_run": "2026-09-14T23:50:23.079460+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1460,6 +1460,14 @@
   {
    "d": "2026-09-14",
    "t": "Houthis Launch New Attack Against Saudi Arabia - Marine News Magazine"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Can the oil market survive an endless war with Iran? - Ynetnews"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "US stocks retreat on AI warnings as oil prices, bond yields rise - Yahoo Finance"
   }
  ]
 }
