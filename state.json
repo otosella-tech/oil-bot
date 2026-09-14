@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "84cb412441bcdc40",
-  "oilpricesfallfridaybutpostsharpweeklygainsastensionsinthemid",
   "6544b303d535276d",
   "oilfallsbutheadfor8weeklygainontightsupplyusdieselhitsrecord",
   "a4b21c82751db77b",
@@ -603,7 +601,9 @@
   "3d0a32368bdb085d",
   "europeansharesmutedastechslidesoilsurgeweighs",
   "3b3147c60234d0aa",
-  "chadsanticorruptioninstitutionsbuckleunderpoliticalpressure"
+  "chadsanticorruptioninstitutionsbuckleunderpoliticalpressure",
+  "261635c376c67f38",
+  "iranwarnowatestofglobaleconomicendurance"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T12:35:14.307120+03:00",
+ "last_run": "2026-09-14T12:40:18.434495+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1156,6 +1156,10 @@
   {
    "d": "2026-09-14",
    "t": "European shares muted as tech slides, oil surge weighs - reuters.com"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Iran war now a test of global economic endurance - The Arab Weekly"
   }
  ]
 }
