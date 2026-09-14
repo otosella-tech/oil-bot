@@ -4,10 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "d5e215e8e6f2272c",
-  "defenseforcesconfirmstrikesonoilrefineriesinkubanandtatarsta",
-  "beb57a5e30788b3d",
-  "cpcraisesdomesticgasolineanddieselprices",
   "0045854948d0b0bd",
   "vesselstruckinstraitofhormuzukmtosaysasprospectsforusirandip",
   "946a48bc8e5e7ddc",
@@ -603,7 +599,11 @@
   "6f4bf261d20c5134",
   "blmwyomingleasesalegenerates82millioncoloradossalefetches47m",
   "e0540a37ce7fc319",
-  "chinasgrowingirantradeismovingoverlandthroughcentralasia"
+  "chinasgrowingirantradeismovingoverlandthroughcentralasia",
+  "e442c29b3c67e6ee",
+  "saudiarabiahasshutacriticaloilpipelinehereswhyitmattersforth",
+  "288fe30837404ee9",
+  "iranwarday199trumpsaysusmightstayandkeeptheoiliniran"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T21:00:29.526887+03:00",
+ "last_run": "2026-09-14T21:05:15.864947+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1392,6 +1392,14 @@
   {
    "d": "2026-09-14",
    "t": "China’s Growing Iran Trade Is Moving Overland Through Central Asia"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Saudi Arabia has shut a critical oil pipeline. Here’s why it matters for the global oil market - CNN"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Iran War Day 199: Trump Says U.S. Might ‘Stay and Keep the Oil’ in Iran - The American Conservative"
   }
  ]
 }
