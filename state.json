@@ -4,12 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "4a66eec13ec69e78",
-  "unitedstatesontrackforrecordcrudeoilproductionin2026",
-  "5b7a84880e241085",
-  "oiljumpsasshutdownofsaudipipelinedeepensenergycrisis",
-  "d68135dacde57678",
-  "sharesslipinasiaasoilclimbsratehikesloom",
   "bab07e3a433abaa4",
   "uscrudeoiltops100againlastseeninmayasmarketbracesforprolonge",
   "20563626dc20d219",
@@ -603,7 +597,13 @@
   "a658017f59670f81",
   "iraqplanstodoublecrudeoilproductioncapacityto10millionbpd",
   "3a0d034e26fd80e6",
-  "crudeoilspikesonashutsaudipipelineandunwindsontrumpsposts"
+  "crudeoilspikesonashutsaudipipelineandunwindsontrumpsposts",
+  "8750494e3a1629f1",
+  "oilpricesupafternewstrikesonsaudiinfrastructure",
+  "3a5bd7f1f42af07c",
+  "westvirginialaunchesonlinekinshiphubforfosterandkinshipfamil",
+  "7ec23e8229a813c1",
+  "currentpriceofoilasofseptember82026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T23:25:15.182033+03:00",
+ "last_run": "2026-09-14T23:30:25.116313+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1440,6 +1440,10 @@
   {
    "d": "2026-09-14",
    "t": "Crude Oil spikes on a shut Saudi pipeline and unwinds on Trump's posts - FXStreet"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil prices up after new strikes on Saudi infrastructure - The Hill"
   }
  ]
 }
