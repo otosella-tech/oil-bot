@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "632b070dce631237",
-  "increasedpowerdemandswillgrowmorethisyearandnextinus",
   "8b51c098bfc0ccfa",
   "thebabalmandebstraitalifelinefortheglobaleconomyisinjeopardy",
   "c07faad3e762dd5e",
@@ -603,7 +601,9 @@
   "651e57eb4c8d250d",
   "oilrisesonsaudipipelineattackhormuzsupplyrisks",
   "afd2bf254a778b75",
-  "globalmarketstrademixedduetoaigeopoliticalriskconcerns"
+  "globalmarketstrademixedduetoaigeopoliticalriskconcerns",
+  "05a740cd2e656131",
+  "saudioillifelineshutafterattackasredseathreatgrows"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T10:45:20.013838+03:00",
+ "last_run": "2026-09-14T10:50:18.020305+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1092,6 +1092,10 @@
   {
    "d": "2026-09-14",
    "t": "Oil rises on Saudi pipeline attack, Hormuz supply risks - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Saudi Oil Lifeline Shut After Attack as Red Sea Threat Grows - Marine News Magazine"
   }
  ]
 }
