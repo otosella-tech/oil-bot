@@ -4,16 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "60ecb79527049583",
-  "oilpricesclimbover100perbarrelasuswarinirancontinues",
-  "f7467de36915bda1",
-  "asnetlongpositionsinwticrudeoilhita20weekhighthetrumpadminis",
-  "3e6b3abe1f5be23b",
-  "currentpriceofoilasofseptember22026",
-  "4d519948c7225ae2",
-  "uscrudeoilpricestop100amidmiddleeasttensionsandchinasrisingi",
-  "3faadf1fbaf2b285",
-  "trumpseesiranwarendingsoonaftermidtermelectionspredictsoilpr",
   "d15a3ff4f39b9e16",
   "dronestrikesonakeysaudioilpipelineandhouthiadvancesinthereds",
   "b74812960040484e",
@@ -603,7 +593,17 @@
   "bcdc365852c556dc",
   "oilover100hasjpmorganstrategistswarningstockmarketinvestorsa",
   "63094b98c80f1d38",
-  "stocksteeterasoilandinterestratessurge"
+  "stocksteeterasoilandinterestratessurge",
+  "fbda9db00ceb2672",
+  "oilsroundtripbackto100whychinacoulddeterminewhathappensnext",
+  "4ad7190c8f664c87",
+  "crudeoilfuturesreboundafterfridaysdrop",
+  "e21921978b85b8d5",
+  "saudioilpipelinehitinstrikeswillbemostlyoutofserviceforsever",
+  "723e1a4cda4e8fc1",
+  "closureofsaudipipelinesendscrudeoilpumppricessoaring",
+  "684039e51cb97b13",
+  "oilstockswithdirectcrudepriceexposureafterthesaudisupplyshoc"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T16:40:20.652619+03:00",
+ "last_run": "2026-09-14T16:45:18.606845+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1296,6 +1296,14 @@
   {
    "d": "2026-09-14",
    "t": "Oil over $100 has JPMorgan strategists warning stock-market investors against missing out on a sudden turnaround - MarketWatch"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Saudi oil pipeline hit in strikes will be mostly out of service for several weeks - pbs.org"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Closure of Saudi pipeline sends crude oil, pump prices soaring - Yahoo! Finance Canada"
   }
  ]
 }
