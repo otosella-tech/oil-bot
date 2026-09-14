@@ -4,10 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "903c6b6a03c0f0f7",
-  "saudistellopecthatoutputslumpedagaintolowestsince1990",
-  "8aec223d6125a9f2",
-  "saudiarabianoilpipelinesystemhitbyprojectilestriggeringfires",
   "8efb03bddb886679",
   "usoilrigcountrisesasoiltops100",
   "4c7a8e1b8152e7c6",
@@ -603,7 +599,11 @@
   "cd2a9376cf946bf3",
   "sellingpressuredominatedamidrisingcrudeoilpricesdrivenbyunce",
   "8d1db9105837a30b",
-  "trumpsaysukraineshouldhaltrussianrefinerystrikesamidsurgingd"
+  "trumpsaysukraineshouldhaltrussianrefinerystrikesamidsurgingd",
+  "5b461c7e9b112a01",
+  "trumpurgesukrainetostopknockingoutrussianoilrefineriesasusdi",
+  "42d9619eaa5d3647",
+  "oilpricerisesagainasconflictintensifiesinmiddleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-14",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-09-14T10:30:25.653922+03:00",
+ "last_run": "2026-09-14T10:35:15.837975+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1084,6 +1084,10 @@
   {
    "d": "2026-09-14",
    "t": "Trump says Ukraine should halt Russian refinery strikes amid surging diesel prices - The Hill"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record - CNBC Africa"
   }
  ]
 }
