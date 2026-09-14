@@ -4,10 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "ab41438649165c36",
-  "crudeoilpricesjump3afterfreshstrikesonstraitofhormuzbrentabo",
-  "2836433402aea300",
-  "morningwrapsingaporenonoilexportssurge274inq2sgxreportsstron",
   "c77675f8b00084a1",
   "trumpcallsonukrainetohaltstrikesonrussiandieselfuelsayingatt",
   "fd695e8760260d65",
@@ -603,7 +599,11 @@
   "37dc867001a20ac4",
   "stocksofcrudeoilinussprfellbyabout36mlnbarrelsto285mlnbarrel",
   "4be3c83f12ed2734",
-  "updateusequityindexesfallas10yeartreasuryyieldrisesabove5mar"
+  "updateusequityindexesfallas10yeartreasuryyieldrisesabove5mar",
+  "63b7b47d516966ef",
+  "costconearlydoublescostofmotoroillimitspurchases",
+  "4d9b5c211c4f3907",
+  "10yeartreasuryyieldhits5asoilpricesjumpandfedmeetinglooms"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 2
  },
- "last_run": "2026-09-15T00:20:19.144640+03:00",
+ "last_run": "2026-09-15T00:25:14.544058+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
