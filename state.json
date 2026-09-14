@@ -4,10 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "cd3903cff5425f2b",
-  "europeslessisdoingmorethananyonegivesitcreditfor",
-  "5382dd37aca59e5d",
-  "usstocksriseasoilretreats",
   "0eb1a78c6ca85b6d",
   "nystocksreboundafter4daysdowup547pointscrudeoilplunges",
   "e943f50ba0c0b89e",
@@ -603,7 +599,11 @@
   "c526513718bc739b",
   "oilpricesjumpmorethan2percentasmideasttensionsdeepensupplyfe",
   "2a463574d26b43b7",
-  "theoilmarketneedsaquicksaudipipelinerestart"
+  "theoilmarketneedsaquicksaudipipelinerestart",
+  "79d4149550dbd989",
+  "opecseesoildemandgrowthexplodesixfoldin2027",
+  "33012a809dc32b9a",
+  "oilhits107assaudipipelineshutdownandstraitattackstightenglob"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T14:40:21.638140+03:00",
+ "last_run": "2026-09-14T14:45:18.523269+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1236,6 +1236,14 @@
   {
    "d": "2026-09-14",
    "t": "The Oil Market Needs a Quick Saudi Pipeline Restart - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "OPEC Sees Oil Demand Growth Explode Sixfold in 2027 - oilprice.com"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil Hits $107 as Saudi Pipeline Shutdown and Strait Attacks Tighten Global Supply - Northeast Times"
   }
  ]
 }
