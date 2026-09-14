@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "6c65d25556717055",
-  "globaloilhits108perbarrelwhilebondyieldssurge",
   "2b36d5f938983d6c",
   "oilhits100abarrelasturmoilintensifiesinmiddleeast",
   "055881c81a0a00f2",
@@ -603,7 +601,9 @@
   "e91404317837688a",
   "stocksrattledbyaiceowarningsoilandbondsaddtogloom",
   "a5969a743ebb82aa",
-  "marketanalysistnotefuturesarerangeboundaheadofmajorcentralba"
+  "marketanalysistnotefuturesarerangeboundaheadofmajorcentralba",
+  "bc405a38f6f466e4",
+  "oilpricescontinuesurgerising3amidsaudipipelineoutageafteratt"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T12:50:19.626464+03:00",
+ "last_run": "2026-09-14T12:55:14.577321+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1164,6 +1164,10 @@
   {
    "d": "2026-09-14",
    "t": "Stocks rattled by AI CEO warnings; oil and bonds add to gloom - Reuters"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil prices continue surge, rising 3% amid Saudi pipeline outage after attack - Reuters"
   }
  ]
 }
