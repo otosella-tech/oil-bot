@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "86c952bb3d6d4128",
-  "stocksjumpafteroilpriceseaseandaninflationupdatecomesinneare",
   "6f48756904984d8e",
   "saudioilexportsfaceheightenedthreatsafterattacksonpipeline",
   "0d7a9740b71def67",
@@ -603,7 +601,9 @@
   "ecbd1fa02998ddab",
   "firstthingtodaygrainsnarrowlymixedovernightbullsneedafreshsp",
   "1e1e79d09f5715f9",
-  "howescalatingattacksinyemenimpactglobaloiltrade"
+  "howescalatingattacksinyemenimpactglobaloiltrade",
+  "8c4ec38df7bd2054",
+  "morningbidgoslowai"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T14:10:17.931019+03:00",
+ "last_run": "2026-09-14T14:15:20.137595+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
