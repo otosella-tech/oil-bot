@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "0c7db4ea4c6e42fd",
-  "opecreportssharpdropiniraniancrudeproduction",
   "5fae5e34b42829b4",
   "oiltankerrateshitrecordhighsfollowingiranusshippingattacks",
   "950a4ca19c9f791d",
@@ -603,7 +601,9 @@
   "4fef55521a981f63",
   "unitedstatesstallsspanishinvestigationintoalejandrobetancour",
   "d93d4d6a693be8ce",
-  "goldslipsasoilrallyfansratehikebetsaheadoffedmeeting"
+  "goldslipsasoilrallyfansratehikebetsaheadoffedmeeting",
+  "ddd130df7b6a27b2",
+  "oilpricesupover3followingnewstrikesonsaudistraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-14",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-09-14T07:25:15.737426+03:00",
+ "last_run": "2026-09-14T07:30:58.982111+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1032,6 +1032,10 @@
   {
    "d": "2026-09-14",
    "t": "Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall - CNBC"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil prices up over 3% following new strikes on Saudi, Strait of Hormuz - Reuters"
   }
  ]
 }
