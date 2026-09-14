@@ -4,10 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "e83d6c0d805a6c9e",
-  "theoilshockistestingprivatecreditborrowersalreadyburdenedbyh",
-  "17f40c7c6d3f1a3d",
-  "crudeoilweeklyoutlookbricssummitcallsformaximumrestraint",
   "e19f0ad12e9b99d8",
   "oilpricesriseaftersaudiarabiashutdowncriticalpipelinethatbyp",
   "c574ef29eea18a51",
@@ -603,7 +599,11 @@
   "0a602c95beddc028",
   "oilpricesriseaftersaudiarabiashutsdowncriticalpipelinethatby",
   "60ecb79527049583",
-  "oilpricesclimbover100perbarrelasuswarinirancontinues"
+  "oilpricesclimbover100perbarrelasuswarinirancontinues",
+  "ffc3dcc6470118e6",
+  "dollaredgeshigherasstocksfallandcrudeoilrallies",
+  "b99eacbff3b63204",
+  "epatoloosenmethanerulesboostingpollutionfromoilandgaswells"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T22:35:15.235271+03:00",
+ "last_run": "2026-09-14T22:40:19.279186+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
