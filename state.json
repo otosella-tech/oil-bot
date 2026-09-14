@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "564fa3498dbdcfea",
-  "usoilpricesfallforfirsttimein2weeksprovidingarelieftostockin",
   "370b606862f12d35",
   "understandingtheusvenezuelaoildeal",
   "0218aa27e71a8691",
@@ -603,7 +601,9 @@
   "1cade8ce55334b18",
   "roiwhenitcomestocrudeoilpricesitslocationlocationlocationrus",
   "b8ea74ceb018ebaf",
-  "globalcrudeoilpricesriseovertwopercent"
+  "globalcrudeoilpricesriseovertwopercent",
+  "57cd56609d835311",
+  "oilpricetodayseptember14crudeoiljumps3tonear108barrelasmiddl"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 26
  },
- "last_run": "2026-09-14T05:20:17.614249+03:00",
+ "last_run": "2026-09-14T05:25:15.556899+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
