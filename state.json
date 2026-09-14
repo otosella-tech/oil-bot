@@ -4,12 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "abf9bf24eec4aae9",
-  "saudiarabiashutsdownkeyoilpipelineblamingdronesfromiraq",
-  "e3d048578c3e57c3",
-  "theoilofthenext50yearstrumptoutsaidatacentersdeliveringwealt",
-  "c3bbe148cd66a12c",
-  "enbridgetobuytallgrasscrudeoiltransportbusinessfor25bn",
   "f65ebcd0f942fa80",
   "whymorehomesareswitchingfromgastoheatpumps",
   "b986f7b7eaf07219",
@@ -603,7 +597,13 @@
   "73410682d9c8909e",
   "goldbelow4300fed90suretoraiseratesasoiljumps",
   "2e31eeef7c6517e2",
-  "southafricanrandfallsover1asoiljumpsandinvestorsawaitfedmeet"
+  "southafricanrandfallsover1asoiljumpsandinvestorsawaitfedmeet",
+  "258e921b18807cdc",
+  "whyasiaandeuropeareturningtouscrudeoil",
+  "3c1ec2ea2fca4989",
+  "iransaysitdestroyedusadvanceddroneoverhormuzasmiddleeastconf",
+  "e166f7e3cdf5677d",
+  "aisafetyfearsrisingoilpricesabigseasonforpredictionmarketsan"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T17:00:32.410872+03:00",
+ "last_run": "2026-09-14T17:05:14.804360+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1312,6 +1312,10 @@
   {
    "d": "2026-09-14",
    "t": "The Problem With Trying to Bypass Hormuz Using Pipelines"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Iran says it destroyed U.S. advanced drone over Hormuz as Middle East conflict intensifies - CNBC"
   }
  ]
 }
