@@ -4,10 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "1271c8c5f95ea1c0",
-  "oilpricesjumponenergysupplyworries",
-  "1ba06d26aafa6ad4",
-  "saudipipelineoutagethreatens4ofglobaloilsupplyco1comcommodit",
   "29e50a730676c284",
   "aumorningwrapasx200littlechangedasoilsurgeandfedhikejitterso",
   "d81d0082afcdd371",
@@ -603,7 +599,11 @@
   "306e060086d0be93",
   "wallstreetslipsamidconcernsaboutoilpricesandinterestrates",
   "69095e1cd954c357",
-  "costcobeginslimitingmotoroilsalesaspricesup61inpast9months"
+  "costcobeginslimitingmotoroilsalesaspricesup61inpast9months",
+  "8c404a1bfa0f809e",
+  "oilexecutivessaythegreatfuelcrisisishere",
+  "d2be56cda246a97b",
+  "keysaudioilpipelinedamagedindroneattack"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -612,255 +612,11 @@
   "Brent": 107.3
  },
  "llm": {
-  "date": "2026-09-14",
-  "count": 60
+  "date": "2026-09-15",
+  "count": 2
  },
- "last_run": "2026-09-15T00:05:15.883897+03:00",
+ "last_run": "2026-09-15T00:10:18.426182+03:00",
  "sent_stories": [
-  {
-   "d": "2026-09-11",
-   "t": "Soaring Crude Oil Prices Lift Sugar - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Houthis advance along Yemeni coast, threaten Saudi oil exports in the Red Sea - reuters.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Yemen risks return to civil war as Iran-backed Houthis target vital oil shipping route - PBS"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Dangote oil refinery buys 16 million barrels of Nigerian crude for October, sources say - Reuters"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil hits $100 a barrel for first time since July after US and Houthi strikes - BBC"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "China dips back into oil market as Hormuz hostilities stoke prices - Nikkei Asia"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil Prices Surge to Four-Month Highs as War Risks Mount"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil Prices Surge to Four-Month Highs as War Risks Mount - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears - Reuters"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil Prices Slip After Recent Surge Amid Supply Risks - WSJ"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Ukraine Strikes Degrade Russian Oil-Refining Industry, IEA Says - Bloomberg.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "IEA warns of ‘lost period’ in global oil demand - Financial Times"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "U.S.-Iran Escalation to Delay Oil Flow Recovery Into Next Year, IEA Says - WSJ"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Analyst warns of 'late-stage bubble' as rates and oil prices surge - abc.net.au"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - apnews.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Saudi oil output plunges to lowest since 1990 amid fallout from US-Iran war - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Hormuz Shipping Traffic Plunges as Middle East War Escalates"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "GasBuddy: Record $6 diesel is 'unavoidable' amid Iran oil disruptions - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Mapping the Market: Mind the gap in US oil as Iran tensions escalate - Reuters"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Trump says war to end \"immediately\" after midterms as Iran damages U.S. jets in strikes - CBS News"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market - cnbc.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war - CNBC"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Houthis Advance on Bab al-Mandeb as Saudi Oil Route Comes Under Threat"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Vostok Oil: One Tanker, Four Trillion Rubles"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil Surges Toward $110, Diesel Above $6 as Iran Escalates - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil Markets Feel the Pain of a Protracted War - Bloomberg.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Houthis Advance on Bab al-Mandeb as Saudi Oil Route Comes Under Threat - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil shipments through Strait of Hormuz rise with US military assistance - stripes.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Ukraine Sees Russian-Iranian Sanctions Networks Converging As US Targets Tankers - Radio Free Europe/Radio Liberty"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "OPEC Reports Sharp Drop in Iranian Crude Production - IranWire"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil tanker rates hit record highs following Iran, US shipping attacks - Yahoo! Finance Canada"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Houthis Seize a Key Red Sea Island, Threatening Yet Another Global Oil Route - The New York Times"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Saudi Oil Output Slumps as Iran War, Houthi Threats Disrupt Vital Export Routes - WSJ"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil Prices Surge as Stocks and Bonds Wobble - The New York Times"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Saudi Arabia’s Critical Oil Bypass Comes Under Threat"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "I went to Caracas for Venezuela’s new oil deals. Here’s what stood out - CNBC"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Saudis Tell OPEC That Output Slumped Again to Lowest Since 1990 - Bloomberg.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Saudi Arabian oil pipeline system hit by projectiles triggering fires - CNN"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "The Bab al-Mandeb Strait, a lifeline for the global economy, is in jeopardy - CNN"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil surges 6%, Brent and US crude both surpass $100 on more tanker attacks - reuters.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks - CNBC"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "'Small price to pay': What has Trump said about oil prices during the Iran war? - ABC News - Breaking News, Latest News and Videos"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil prices dive on signs of Hormuz diplomacy while Saudi Arabia is left hanging in fight vs. Houthis - Fortune"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Drone Strikes Hit Saudi Arabia's Vital East-West Oil Pipeline - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route - The New York Times"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Saudi oil pipeline shut down after attack triggers fires - cnn.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Chevron CEO Mike Wirth: Oil price buffers are 'played out' as risks from Iran war increase - The Business Journals"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Saudi Arabia Shuts Down Pipeline That Was a Crucial Hormuz Bypass - wsj.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Energy Markets Rattled After Saudi Pipeline Attacks - The New York Times"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Global oil hits $108 per barrel while bond yields surge - CNN"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Saudi Arabia shuts down major oil pipeline, citing attacks amid fighting in Yemen, as prices rise - abc7chicago.com"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Gulf Tankers Are Running Out of Ways to Export Oil: ‘These Waters Aren’t Safe’ - The New York Times"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates - The Guardian"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Crude Oil buckles early and grinds back on talk of a Hormuz arrangement - FXStreet"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Venezuela's withdrawal from OPEC gains traction in the oil - Inspenet"
-  },
-  {
-   "d": "2026-09-11",
-   "t": "Oil, gas and borrowing costs surge as fears over Middle East escalate - BBC"
-  },
   {
    "d": "2026-09-12",
    "t": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline - nytimes.com"
@@ -1468,6 +1224,10 @@
   {
    "d": "2026-09-14",
    "t": "US stocks retreat on AI warnings as oil prices, bond yields rise - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Key Saudi Oil Pipeline Damaged in Drone Attack - Industrial Info Resources"
   }
  ]
 }
