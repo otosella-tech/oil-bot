@@ -4,10 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "bab07e3a433abaa4",
-  "uscrudeoiltops100againlastseeninmayasmarketbracesforprolonge",
-  "20563626dc20d219",
-  "tallgrassenergysoldin25billiondealtoenbridge",
   "f7bed2516c0528ba",
   "currentpriceofoilasofseptember92026",
   "a75f1ccde6a2f432",
@@ -603,7 +599,11 @@
   "3a5bd7f1f42af07c",
   "westvirginialaunchesonlinekinshiphubforfosterandkinshipfamil",
   "7ec23e8229a813c1",
-  "currentpriceofoilasofseptember82026"
+  "currentpriceofoilasofseptember82026",
+  "99a22debb67385e8",
+  "unitedstatesontrackforrecordcrudeoilproductionin2026",
+  "f5233ce23703aa94",
+  "iranbackedhouthiattackonsaudipipelinethreatensglobalsupply"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T23:30:25.116313+03:00",
+ "last_run": "2026-09-14T23:35:19.624808+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1444,6 +1444,10 @@
   {
    "d": "2026-09-14",
    "t": "Oil prices up after new strikes on Saudi infrastructure - The Hill"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Iran backed Houthi attack on Saudi pipeline threatens global supply - The Center Square"
   }
  ]
 }
