@@ -4,10 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "f41c010151524108",
-  "chinesescientistsdevelopoilrefiningmethodthatmaycutenergyuse",
-  "bb8c33b43ededd45",
-  "livetrumpsaysiranwarcouldendaroundmidtermsasiranianvesselstr",
   "7df7afca3a51da52",
   "uscrudeoilproductiontohitrecord138millionbdin2026eianewsands",
   "abab2d3a59930739",
@@ -603,7 +599,11 @@
   "2ecb35322f7bba5b",
   "usborrowingcostshit5forfirsttimesince2023amidbondselloff",
   "85ac82c57fd25514",
-  "up3600thisfreightfundhaspostedthebiggestgainsofalloniranwaro"
+  "up3600thisfreightfundhaspostedthebiggestgainsofalloniranwaro",
+  "a226cc643ac8db9f",
+  "astheoilsurgecontinuestradermikekhouwseesmoreupsideinthissur",
+  "d3c030bb8f84e3f9",
+  "iranbackedhouthiscapturestrategicpositionsintheredsea"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T20:15:21.227083+03:00",
+ "last_run": "2026-09-14T20:20:20.193502+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-09-14",
    "t": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock - CNBC"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "As the oil surge continues, trader Mike Khouw sees more upside in this surging name - cnbc.com"
   }
  ]
 }
