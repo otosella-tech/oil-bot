@@ -4,10 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "a4b21c82751db77b",
-  "saudiarabiashutsdownpipelinethatwasacrucialhormuzbypass",
-  "c8ad64b6e17aac09",
-  "energymarketsrattledaftersaudipipelineattacks",
   "6c65d25556717055",
   "globaloilhits108perbarrelwhilebondyieldssurge",
   "2b36d5f938983d6c",
@@ -603,7 +599,11 @@
   "261635c376c67f38",
   "iranwarnowatestofglobaleconomicendurance",
   "9adb2ed1bae6c1a5",
-  "oilpricesfallfridaybutpostsharpweeklygainsastensionsinthemid"
+  "oilpricesfallfridaybutpostsharpweeklygainsastensionsinthemid",
+  "e91404317837688a",
+  "stocksrattledbyaiceowarningsoilandbondsaddtogloom",
+  "a5969a743ebb82aa",
+  "marketanalysistnotefuturesarerangeboundaheadofmajorcentralba"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T12:45:17.919694+03:00",
+ "last_run": "2026-09-14T12:50:19.626464+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1160,6 +1160,10 @@
   {
    "d": "2026-09-14",
    "t": "Iran war now a test of global economic endurance - The Arab Weekly"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Stocks rattled by AI CEO warnings; oil and bonds add to gloom - Reuters"
   }
  ]
 }
