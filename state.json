@@ -4,8 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "699702736724bd72",
-  "soybeansriseonchinesedemandhighercrudeoilprices",
   "7adf0faefb5a1398",
   "oilleavesbitcoinandgoldbehindaheadofwednesdaysfeddecision",
   "735e2a49604269c2",
@@ -603,7 +601,9 @@
   "91900cbe79071e6f",
   "costcorationskirklandmotoroilraisespriceto5799",
   "eb03c5e90ae4e86d",
-  "oilrisesonconcernsofextendedmiddleeastdisruptions"
+  "oilrisesonconcernsofextendedmiddleeastdisruptions",
+  "1e625439b09bdfc2",
+  "trendofoilshipmentsthroughhormuzrisingusswrightsays"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-15",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-09-15T01:35:14.370675+03:00",
+ "last_run": "2026-09-15T01:40:20.527001+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1228,6 +1228,10 @@
   {
    "d": "2026-09-15",
    "t": "Key Saudi Oil Pipeline Damaged in Drone Attack - Industrial Info Resources"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Trend of Oil Shipments Through Hormuz Rising, US’s Wright Says - EnergyNow.com"
   }
  ]
 }
