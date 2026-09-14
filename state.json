@@ -4,8 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "b8ea74ceb018ebaf",
-  "globalcrudeoilpricesriseovertwopercent",
   "57cd56609d835311",
   "oilpricetodayseptember14crudeoiljumps3tonear108barrelasmiddl",
   "2ae43ac63326ad76",
@@ -603,7 +601,9 @@
   "ee4f5d7651106fb2",
   "fromgabartotrkiyesoilfuture",
   "76a61f086602e11f",
-  "theoilmarketissendinganincreasinglyloudwarningaboutgasprices"
+  "theoilmarketissendinganincreasinglyloudwarningaboutgasprices",
+  "b768a7a8a78131b6",
+  "costcohikesmotoroilpricesandputslimitsonhowmuchmemberscanbuy"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 3
  },
- "last_run": "2026-09-15T00:35:16.040551+03:00",
+ "last_run": "2026-09-15T00:40:19.968007+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
