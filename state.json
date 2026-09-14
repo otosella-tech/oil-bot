@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "94b8d893c4c8940b",
-  "uscrudeoilfallsbackbelow100butheadstoweeklygain",
   "bdb46ea3a9ff4960",
   "dronestrikeshitsaudiarabiasvitaleast",
   "dd73e2673c8786b0",
@@ -603,7 +601,9 @@
   "20812db20f69ea2a",
   "iranliveupdatesoilpricesriseafterstrikesinsaudiarabiastraito",
   "0803995d27865edc",
-  "crudeoilwtistallsnear10446highsonfadingmomentumlive"
+  "crudeoilwtistallsnear10446highsonfadingmomentumlive",
+  "eba3ea7971464df2",
+  "crudeoilisstiflingdowfuturesupsidebutbluechipbalancesheetsre"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 57
  },
- "last_run": "2026-09-14T10:20:18.514624+03:00",
+ "last_run": "2026-09-14T10:25:14.508197+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
