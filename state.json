@@ -4,12 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "575cb5d1afae8727",
-  "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
-  "621979cdbfcc25b4",
-  "stocksfallforweekasoilpricesyieldssoarbutendonhighnote",
-  "24dde31947593f63",
-  "meetthemechanicalengineerrunningtoregulatethetexasoilandgasi",
   "1a04b4f6ab849492",
   "saudioiloutputslumpsasiranwarhouthithreatsdisruptvitalexport",
   "03b071950ad047c6",
@@ -603,7 +597,13 @@
   "e8148579e1ebf181",
   "oilpricesjumpmorethan2afternewstrikesonsaudistraitofhormuzeu",
   "dcb979b02fb8c890",
-  "indiaflaggedtankerdeshgarimaunloadscrudeoilatanoffloadingter"
+  "indiaflaggedtankerdeshgarimaunloadscrudeoilatanoffloadingter",
+  "7da6c30bf4eecf5d",
+  "brenthits108assaudipipelineshutdowndeepenssupplyfears",
+  "d67be71eff956322",
+  "morningbidshippingoilgetseverhardercostlier",
+  "6b0fe8f68736bee1",
+  "oilpricesurgerevivesprospectofbankofenglandraterisethisyear"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-14",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-09-14T08:35:14.270288+03:00",
+ "last_run": "2026-09-14T08:40:18.341055+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1052,6 +1052,14 @@
   {
    "d": "2026-09-14",
    "t": "India-flagged tanker Desh Garima unloads crude oil at an offloading terminal after transiting the Strait of Hormuz, amid supply disruptions linked to the U.S.-Israeli conflict with Iran, in Mumbai - The Daily News | Texas' Oldest Newspaper"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil price surge revives prospect of Bank of England rate rise this year - Financial Times"
   }
  ]
 }
