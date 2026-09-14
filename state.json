@@ -4,10 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "e36ed5b9b63a747e",
-  "oilreservereleasessupplymorethancrudeduringenergyemergencies",
-  "61b62991fdd422fd",
-  "ukraineseesrussianiraniansanctionsnetworksconvergingasustarg",
   "56a3b0fe1b7a2f64",
   "imbuyingoccidentalonthisdipnotbecauseofoilbutbecauseofthis",
   "2f166c8301d6d1b4",
@@ -603,7 +599,11 @@
   "c0b51b34ee7fce7a",
   "repeatsaudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "9d55deca407be032",
-  "oilpricesjumpmorethan2afternewstrikesonsaudiarabiastraitofho"
+  "oilpricesjumpmorethan2afternewstrikesonsaudiarabiastraitofho",
+  "d785cbc4e78894b1",
+  "trumpsaysusmaykeepiranianoillikevenezuelaasgulfiranhormuztal",
+  "699702736724bd72",
+  "soybeansriseonchinesedemandhighercrudeoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-14",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-09-14T06:05:15.011068+03:00",
+ "last_run": "2026-09-14T06:10:19.350488+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1028,6 +1028,10 @@
   {
    "d": "2026-09-14",
    "t": "Oil prices jump more than 2% after new strikes on Saudi Arabia, Strait of Hormuz - The Business Standard"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall - CNBC"
   }
  ]
 }
