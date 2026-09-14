@@ -4,10 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "1d1281df3dd72133",
-  "crudeoilpricesreboundagainafteromanweekendmeetingpostponed",
-  "b94f76ef2a969a9d",
-  "oilpricesjumpmorethan3afternewstrikesonsaudistraitofhormuz",
   "9e1d22e4e962f2af",
   "trumpblamesukraineforglobaldieselshortage",
   "3e535c16beb2965c",
@@ -603,7 +599,11 @@
   "64541e58c28ade06",
   "gaspricesjumpacrossnewyorkascrudeoilcostsclimb",
   "45b725055c112bd0",
-  "appealscourtupholdsregulatorsdeterminationnopollutionexisted"
+  "appealscourtupholdsregulatorsdeterminationnopollutionexisted",
+  "3804fc00e7efa90b",
+  "canutilitiescashinonaiwithoutmakingconsumerspay",
+  "3a1c2efb12bc6bd4",
+  "costcoraisespriceofkirklandmotoroilsetspurchaselimit"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T22:55:17.196031+03:00",
+ "last_run": "2026-09-14T23:00:31.267415+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
