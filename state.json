@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "03ce988a24934f46",
-  "stolenelectricityispoweringillegalcryptofarmsacrosstheglobe",
   "54dbdcc28439c07c",
   "oilmarketreportseptember2026analysis",
   "f9e248d9dead1fb7",
@@ -603,7 +601,9 @@
   "d57f767b87dde9dd",
   "unipertosellgaspipelinestaketomeeteustateaidconditions",
   "a3ebeb8f46ba6273",
-  "willtheoiltankershadowfleeteverbebroughtbackintoline"
+  "willtheoiltankershadowfleeteverbebroughtbackintoline",
+  "b05151baf2bac10e",
+  "oilpricesjumpasattackschokeoffsaudienergysupply"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T18:50:21.013422+03:00",
+ "last_run": "2026-09-14T18:55:16.054070+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1352,6 +1352,10 @@
   {
    "d": "2026-09-14",
    "t": "Uniper to Sell Gas Pipeline Stake to Meet EU State Aid Conditions"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply - The New York Times"
   }
  ]
 }
