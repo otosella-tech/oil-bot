@@ -4,10 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "6253ae4465e35ff6",
-  "exclusivewhitehouseweighshowtousedefenseproductionacttoexpan",
-  "a8778b1ae19ad17b",
-  "thehouthiadvanceinyemenraisesconcernsaboutakeyshippingchokep",
   "20c8c5bd40c61c2f",
   "oilcompanyfined17millionfordelayingcawelltestsincludinginslo",
   "883ccbd51927e7c3",
@@ -603,7 +599,11 @@
   "7efd9d20fb0b02e4",
   "sharesskidinasiaasoilclimbsratehikesloom",
   "2e582733d0b43887",
-  "oilsurgespast108afterhormuzattackandsaudipipelineshutdown"
+  "oilsurgespast108afterhormuzattackandsaudipipelineshutdown",
+  "6e1f0d3978c32b81",
+  "oilpricesriseassaudieastwestpipelineattackthreatensexportrou",
+  "ae6d70f11909bf29",
+  "prosharesultrashortbloombergcrudeoiletflo"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T11:25:17.495073+03:00",
+ "last_run": "2026-09-14T11:30:24.819603+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1116,6 +1116,10 @@
   {
    "d": "2026-09-14",
    "t": "Oil surges past $108 after Hormuz attack and Saudi pipeline shutdown - Euronews.com"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes - WSJ"
   }
  ]
 }
