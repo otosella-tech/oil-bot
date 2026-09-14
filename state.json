@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "aece6402a67ab6c4",
-  "cantheoilmarketsurviveaforeverwarwithirannewschannel3",
   "89937bdadc0310fb",
   "gaspricesclimbascrudeoilreturnsabove100",
   "d6f77d2501c268d5",
@@ -603,7 +601,9 @@
   "4b322667c1e72b45",
   "dollarclimbsasstockssinkandcrudeoilsurges",
   "4a205257069f07d6",
-  "oiljumps10yeartreasuryyieldhits5asairelatedstockstumbleworld"
+  "oiljumps10yeartreasuryyieldhits5asairelatedstockstumbleworld",
+  "76aa49f195c478f1",
+  "trumpsaysoilpricesthatspikedbecauseofiranwarlikelywontcomedo"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T17:40:21.884824+03:00",
+ "last_run": "2026-09-14T17:45:22.519093+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1324,6 +1324,10 @@
   {
    "d": "2026-09-14",
    "t": "Syria Diesel Prices Jump 40% Triggering Widespread Unrest"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News"
   }
  ]
 }
