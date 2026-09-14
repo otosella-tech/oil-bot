@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "b06ea2dca9f6e4ad",
-  "oilbreaks100andthisrallyhaslegs",
   "3f75df8b6aa82e39",
   "dollargainsascrudeoilpricesandtnoteyieldssurge",
   "2eaeeaea8e9369c8",
@@ -603,7 +601,9 @@
   "2615cf455ef31a23",
   "recordfreightcostssqueezerussiasblackseacrudeexports",
   "cdd620be12007f7d",
-  "whatissaudiarabiaseastwestpipelineandwhyisitrockingoilmarket"
+  "whatissaudiarabiaseastwestpipelineandwhyisitrockingoilmarket",
+  "fcb42cfe7cd3053a",
+  "theaccidentonenbridgesline5innortheastwisconsinwasoneofthela"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T18:00:32.323597+03:00",
+ "last_run": "2026-09-14T18:05:16.544864+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
