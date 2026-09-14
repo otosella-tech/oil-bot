@@ -4,12 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "7f962595b2c521ce",
-  "oilindustrybracesforyearslongiranwar",
-  "1780e36c6342ba85",
-  "saudisshutdownkeyoilpipelineashouthistightengriponredseaship",
-  "f9c36c001dc7eebd",
-  "usdieselpricessoarpast6agallondeepeningstrainforhaulingevery",
   "e83d6c0d805a6c9e",
   "theoilshockistestingprivatecreditborrowersalreadyburdenedbyh",
   "17f40c7c6d3f1a3d",
@@ -603,7 +597,13 @@
   "dee492268da27a66",
   "middleeastsupplyconstraintsliftcrudeoilprices",
   "ae339a477e50983f",
-  "oilpricessurgepastus100bamidmiddleeastattacks"
+  "oilpricessurgepastus100bamidmiddleeastattacks",
+  "07b336c090aafd6d",
+  "oilsettleshigheraftersaudistrikesstokesupplyworries",
+  "0a602c95beddc028",
+  "oilpricesriseaftersaudiarabiashutsdowncriticalpipelinethatby",
+  "60ecb79527049583",
+  "oilpricesclimbover100perbarrelasuswarinirancontinues"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T22:25:16.545696+03:00",
+ "last_run": "2026-09-14T22:30:25.513338+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1420,6 +1420,18 @@
   {
    "d": "2026-09-14",
    "t": "Oil Prices Surge Past US$100/b Amid Middle East Attacks - Mexico Business News"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil settles higher after Saudi strikes stoke supply worries - Reuters"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil prices rise after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil prices climb over $100 per barrel as US war in Iran continues - ABC7 Bay Area"
   }
  ]
 }
