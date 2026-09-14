@@ -4,12 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "1a78d30f6735e472",
-  "sugarpricesfallascrudeoilgivesbacksomegains",
-  "48ac6f42fbbddb9d",
-  "oilpricesarehighbutthese2refiningstocksarestillcrushingit",
-  "4b9f9f887c4f66bd",
-  "theinsidestoryonthehistoricusvenezuelaoildealandhowitwillwor",
   "a0ca8abcffe0533a",
   "wallstbouncesasoilcoolsinflationriskskeepsfedinfocus",
   "d6cafc505121846c",
@@ -603,7 +597,13 @@
   "8cb8b484dbe4c490",
   "rainforces17thannualmusicinoilcountryhighschoolmarchingbandf",
   "3777731008e9c17e",
-  "asx200slidesasoilyieldsandrateriskshitsentiment"
+  "asx200slidesasoilyieldsandrateriskshitsentiment",
+  "f3d35510bad72830",
+  "oilsurgesabove100abarrelasusandiranlaunchnewattackswhilegaso",
+  "72ab6cc35592ba15",
+  "howdoesalikodangotesoilrefineryfitintohisconglomerate",
+  "cc27af5a441fd680",
+  "chartbookuschartcrudeoilfuturesextendinggainsfromthejulylow"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-14",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-09-14T10:10:17.838881+03:00",
+ "last_run": "2026-09-14T10:15:20.119346+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1064,6 +1064,10 @@
   {
    "d": "2026-09-14",
    "t": "Drone strike hits Saudi pipeline and threatens oil supply - www.israelhayom.com"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - apnews.com"
   }
  ]
 }
