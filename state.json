@@ -4,10 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "85ac82c57fd25514",
-  "up3600thisfreightfundhaspostedthebiggestgainsofalloniranwaro",
-  "38d6e4c47cddc4bb",
-  "trumpfloatsideatostayandkeeptheoilinirannotingvenezueladeal",
   "9d4c9e864ad9729b",
   "saudiarabiaclosesitseastwestpipelineafterattacksfromiraq",
   "1b5dff218c8fbc61",
@@ -603,7 +599,11 @@
   "131acc8f5fd94515",
   "howanoilsupplycrisiscouldbringaboutaninvestmentboom",
   "fb1fa3aff7b1d6ad",
-  "aistocksdroponcallsforaslowdownasrisingoilpricespushthe10yea"
+  "aistocksdroponcallsforaslowdownasrisingoilpricespushthe10yea",
+  "8d601ef1145f05d8",
+  "crudeoilpricesjumpevenhigher",
+  "b993e5477a279fcb",
+  "orlenseesnoimmediatesupplydisruptionsassaudioildeliveriesset"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T19:45:18.586099+03:00",
+ "last_run": "2026-09-14T19:50:19.405246+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1368,6 +1368,10 @@
   {
    "d": "2026-09-14",
    "t": "Brent crude tops $106 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Orlen sees no immediate supply disruptions as Saudi oil deliveries set to drop - Reuters"
   }
  ]
 }
