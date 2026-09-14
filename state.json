@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "977470ca275f4c3f",
-  "us10yearborrowingcostspullbackfrom5inreprieveforbessent",
   "575cb5d1afae8727",
   "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
   "621979cdbfcc25b4",
@@ -603,7 +601,9 @@
   "1948971a13c4313e",
   "crudeoilpricesjumpmorethan107perbarrelfollowinghouthiattacks",
   "e8148579e1ebf181",
-  "oilpricesjumpmorethan2afternewstrikesonsaudistraitofhormuzeu"
+  "oilpricesjumpmorethan2afternewstrikesonsaudistraitofhormuzeu",
+  "dcb979b02fb8c890",
+  "indiaflaggedtankerdeshgarimaunloadscrudeoilatanoffloadingter"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-14",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-09-14T08:25:16.349315+03:00",
+ "last_run": "2026-09-14T08:30:23.881708+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1048,6 +1048,10 @@
   {
    "d": "2026-09-14",
    "t": "Oil prices jump more than 2% after new strikes on Saudi, Strait of Hormuz - Euronext Markets: Real-time Stock Market Data | live"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "India-flagged tanker Desh Garima unloads crude oil at an offloading terminal after transiting the Strait of Hormuz, amid supply disruptions linked to the U.S.-Israeli conflict with Iran, in Mumbai - The Daily News | Texas' Oldest Newspaper"
   }
  ]
 }
