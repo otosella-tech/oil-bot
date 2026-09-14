@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "33f5ec729dade207",
-  "uaerethinks5",
   "b6dcf00b079a2a01",
   "currentpriceofoilasofsept112026",
   "102eb1f653048ff0",
@@ -603,7 +601,9 @@
   "9e825d04078b2f0f",
   "whenitcomestocrudeoilpricesitsallaboutlocationlocationlocati",
   "6efd6b528d273e8b",
-  "oilmarketsplitsasstraitriskspushsomecrudepricesdownandothers"
+  "oilmarketsplitsasstraitriskspushsomecrudepricesdownandothers",
+  "02b528ea69711ac7",
+  "sharesdropinasiaasoilrisesratehikesloom"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 34
  },
- "last_run": "2026-09-14T06:45:19.812560+03:00",
+ "last_run": "2026-09-14T06:50:18.910109+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
