@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "54dbdcc28439c07c",
-  "oilmarketreportseptember2026analysis",
   "f9e248d9dead1fb7",
   "currentpriceofoilasofseptember12026",
   "aacf9118eda4f967",
@@ -603,7 +601,9 @@
   "a3ebeb8f46ba6273",
   "willtheoiltankershadowfleeteverbebroughtbackintoline",
   "b05151baf2bac10e",
-  "oilpricesjumpasattackschokeoffsaudienergysupply"
+  "oilpricesjumpasattackschokeoffsaudienergysupply",
+  "dd705287f84b8c33",
+  "theus"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T18:55:16.054070+03:00",
+ "last_run": "2026-09-14T19:00:33.495373+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1356,6 +1356,10 @@
   {
    "d": "2026-09-14",
    "t": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply - The New York Times"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "The U.S.-China AI War Has Kazakhstan Caught in the Crossfire"
   }
  ]
 }
