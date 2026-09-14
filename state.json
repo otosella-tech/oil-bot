@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "f65ebcd0f942fa80",
-  "whymorehomesareswitchingfromgastoheatpumps",
   "b986f7b7eaf07219",
   "thetrumpadministrationwantstofasttrackarcticdrilling",
   "8d513c0d68a6f3f2",
@@ -603,7 +601,9 @@
   "3c1ec2ea2fca4989",
   "iransaysitdestroyedusadvanceddroneoverhormuzasmiddleeastconf",
   "e166f7e3cdf5677d",
-  "aisafetyfearsrisingoilpricesabigseasonforpredictionmarketsan"
+  "aisafetyfearsrisingoilpricesabigseasonforpredictionmarketsan",
+  "caafa884e64ff16d",
+  "saudiarabiaunderattackoilshouldbeabove200nysearcaspy"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T17:05:14.804360+03:00",
+ "last_run": "2026-09-14T17:10:22.441431+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -1316,6 +1316,10 @@
   {
    "d": "2026-09-14",
    "t": "Iran says it destroyed U.S. advanced drone over Hormuz as Middle East conflict intensifies - CNBC"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "Saudi Arabia Under Attack: Oil Should Be Above $200? (NYSEARCA:SPY) - Seeking Alpha"
   }
  ]
 }
