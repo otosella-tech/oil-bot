@@ -4,10 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "097ea1d427e16845",
-  "theusoildealwithvenezuelaisaboutmuchmorethanoil",
-  "b6881a3c13d35bb7",
-  "oilmarketsfeelthepainofaprotractedwar",
   "27c663e0604d9af7",
   "yourfridaysept11guidefivethingstodointheoilcity",
   "c5339d0ddce2efee",
@@ -603,7 +599,11 @@
   "76e912c43c0d7b62",
   "werestartingtoseechinareallypickupitscrudeoilpurchasessaysci",
   "5367ee9a200dba60",
-  "oilsettles1higherasusiranstrikesthreatensupplies"
+  "oilsettles1higherasusiranstrikesthreatensupplies",
+  "6632578f70d19349",
+  "commentaryoilmarketssurvivedtheiranwarsprintnowcomesthemarat",
+  "1271c8c5f95ea1c0",
+  "oilpricesjumponenergysupplyworries"
  ],
  "releases_done": {},
  "last_digest": "2026-09-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-14",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-09-14T03:15:19.095373+03:00",
+ "last_run": "2026-09-14T03:20:18.255496+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
@@ -996,6 +996,10 @@
   {
    "d": "2026-09-14",
    "t": "Oil settles 1% higher, as US-Iran strikes threaten supplies - Reuters"
+  },
+  {
+   "d": "2026-09-14",
+   "t": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters"
   }
  ]
 }
