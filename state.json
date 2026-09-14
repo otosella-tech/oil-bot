@@ -4,8 +4,6 @@
   "Brent": 107.95
  },
  "seen": [
-  "d3c82524ea3ae878",
-  "chevronsceosaystheoilbuffersaregone",
   "f6ffc23b9eb62160",
   "theoilrollercoasterreachesnewheightsanditsabumpyrideahead",
   "7fe1de13705bf78e",
@@ -603,7 +601,9 @@
   "759b48ca973fdda0",
   "saudiarabiacouldrunoutofoilforexportwithindaysaspipelineshut",
   "56c18a1241116608",
-  "usdjpynasdaqoutlookratehikesaiconcernsandoilprices"
+  "usdjpynasdaqoutlookratehikesaiconcernsandoilprices",
+  "1f81db4f904ba9f9",
+  "chevronexpectslngpricestoremainhighintheshortterm"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-14",
   "count": 60
  },
- "last_run": "2026-09-14T15:25:14.833133+03:00",
+ "last_run": "2026-09-14T15:30:24.837216+03:00",
  "sent_stories": [
   {
    "d": "2026-09-11",
