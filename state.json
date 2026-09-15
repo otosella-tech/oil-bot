@@ -1,13 +1,9 @@
 {
  "price_base": {
   "WTI": 102.97,
-  "Brent": 102.46
+  "Brent": 108.2
  },
  "seen": [
-  "ac13bfd08b8bfc71",
-  "currentpriceofoilasofseptember142026",
-  "f667f5e6ac1c307c",
-  "techstocksdroponwarningsaboutaiasbrentoilspricehits109",
   "73410682d9c8909e",
   "goldbelow4300fed90suretoraiseratesasoiljumps",
   "2e31eeef7c6517e2",
@@ -603,7 +599,11 @@
   "49d4d129590166f4",
   "iranalliestargetflowofoilasconflictgrows",
   "b7433afffe27b132",
-  "crudepricessoarasglobaloilsuppliescontinuetotighten"
+  "crudepricessoarasglobaloilsuppliescontinuetotighten",
+  "a7b6bcf930b3f127",
+  "yieldon10yearustreasurybondspasses5asmideastwardrivesupoilpr",
+  "0da0b2b8ed33be0a",
+  "iransexportfloordisappearsascrudefallsto210kbd"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T18:40:17.775648+03:00",
+ "last_run": "2026-09-15T18:45:16.982212+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
