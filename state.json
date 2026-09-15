@@ -4,8 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "c8b719117b9d7832",
-  "trumpssilenceonhormuzisnowafedproblemwhatmarketsarepricingin",
   "4dc16961605aa537",
   "kylebasswarnsonairegulationchinatechthreatsamidrisingoilpric",
   "bcdc365852c556dc",
@@ -603,7 +601,9 @@
   "d1e4d66417d47482",
   "chinascrudeoilfutureshaveneverbeensoexpensive",
   "3e1807823514685a",
-  "goldedgesdownasoildriveninflationfearsliftratehikebets"
+  "goldedgesdownasoildriveninflationfearsliftratehikebets",
+  "ee52a67f8ef3c8a4",
+  "costcoraisespriceofitsmotoroil"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T17:40:19.103052+03:00",
+ "last_run": "2026-09-15T17:45:20.727147+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
