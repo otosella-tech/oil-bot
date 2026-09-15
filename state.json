@@ -4,8 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "24b138585d74a2bf",
-  "oilandgaspricesclimbaftersaudiarabiacloseseastwestpipeline",
   "8f2949fec0c657a2",
   "oilpricesgainasconflictspreads",
   "22ab7330ae38590b",
@@ -603,7 +601,9 @@
   "3f8c463b35875e1a",
   "australiasenergyministerheadstosaudiarabiaforpipelineanswers",
   "b3899103c01685fa",
-  "depwindtippedoverconventionalcrudeoiltankspilltravelsnearly1"
+  "depwindtippedoverconventionalcrudeoiltankspilltravelsnearly1",
+  "7bf44f25800bf3b7",
+  "oilgasandborrowingcostssurgeasfearsovermiddleeastescalate"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T14:35:16.398600+03:00",
+ "last_run": "2026-09-15T14:40:19.450464+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1348,6 +1348,10 @@
   {
    "d": "2026-09-15",
    "t": "Australia's Energy Minister Heads to Saudi Arabia for Pipeline Answers"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Oil, gas and borrowing costs surge as fears over Middle East escalate - BBC"
   }
  ]
 }
