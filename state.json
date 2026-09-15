@@ -4,10 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "131acc8f5fd94515",
-  "howanoilsupplycrisiscouldbringaboutaninvestmentboom",
-  "fb1fa3aff7b1d6ad",
-  "aistocksdroponcallsforaslowdownasrisingoilpricespushthe10yea",
   "8d601ef1145f05d8",
   "crudeoilpricesjumpevenhigher",
   "b993e5477a279fcb",
@@ -603,7 +599,11 @@
   "e34b4e679a26f965",
   "costcoraisespriceforkirklandmotoroilsetspurchaselimit",
   "fd29ac3b04aaf0c5",
-  "usborrowingcostshithighestlevelsince2007asoilpricesjump"
+  "usborrowingcostshithighestlevelsince2007asoilpricesjump",
+  "ee22aca3eb148d82",
+  "whatisthestatusoftheusiranpeacetalkshereswhatbothsidesaresay",
+  "dcf1edc1d0a29bb4",
+  "cbotcornfuturesclimbfollowingstrengthinsoywheatandcrudeoil"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T23:05:15.568785+03:00",
+ "last_run": "2026-09-15T23:10:19.391604+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
