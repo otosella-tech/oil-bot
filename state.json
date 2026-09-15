@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "ae339a477e50983f",
-  "oilpricessurgepastus100bamidmiddleeastattacks",
   "07b336c090aafd6d",
   "oilsettleshigheraftersaudistrikesstokesupplyworries",
   "0a602c95beddc028",
@@ -603,7 +601,9 @@
   "6c082f0b4234fe74",
   "chinasyuancrudeoilfuturesreachrecordhighonmiddleeastsupplyfe",
   "018d93858e4a34ac",
-  "pumppricessoarineverystatewithdieselatrecordhighs"
+  "pumppricessoarineverystatewithdieselatrecordhighs",
+  "2ced320286257df2",
+  "wticrudeoilfutureshitnewhighamidsupplyconcerns"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 10
  },
- "last_run": "2026-09-16T02:35:13.844000+03:00",
+ "last_run": "2026-09-16T02:40:19.205903+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
