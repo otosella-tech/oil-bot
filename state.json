@@ -4,8 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "9839d25e95224740",
-  "oilnewsweekendattackserasefridayscrudeoilselloff",
   "5acecc0f9752d23e",
   "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices",
   "e516f0ae5ff4e737",
@@ -603,7 +601,9 @@
   "d91e90f93b1506c6",
   "costcoraisespriceofkirklandmotoroilandlimitshowmuchshoppersc",
   "03b071950ad047c6",
-  "currentpriceofoilasofseptember112026"
+  "currentpriceofoilasofseptember112026",
+  "1853215bac923bb9",
+  "costcohikeskirklandmotoroilpriceto58l"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 16
  },
- "last_run": "2026-09-15T05:35:15.162341+03:00",
+ "last_run": "2026-09-15T05:40:17.595435+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
