@@ -4,10 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "20812db20f69ea2a",
-  "iranliveupdatesoilpricesriseafterstrikesinsaudiarabiastraito",
-  "0803995d27865edc",
-  "crudeoilwtistallsnear10446highsonfadingmomentumlive",
   "eba3ea7971464df2",
   "crudeoilisstiflingdowfuturesupsidebutbluechipbalancesheetsre",
   "2097189457172881",
@@ -603,7 +599,11 @@
   "3a308d4e80fa3e4f",
   "oilsurgesabove100abarrelasusandiranlaunchnewattackswhilegaso",
   "e75ea1f16c5448c3",
-  "indiancentralbanklikelyintervenestoshieldrupeeasoilpricescli"
+  "indiancentralbanklikelyintervenestoshieldrupeeasoilpricescli",
+  "d746501c9a59eecd",
+  "oilpricessurgeashouthisattacksaudiarabiahormuztalksdelayed",
+  "cb77b8c06e9332ef",
+  "houthisseizestrategicredseaislandsasanalystswarnofimpendingo"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-15",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-09-15T07:20:20.077453+03:00",
+ "last_run": "2026-09-15T07:25:49.645351+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1248,6 +1248,14 @@
   {
    "d": "2026-09-15",
    "t": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Oil prices surge as Houthis attack Saudi Arabia, Hormuz talks delayed - Investing.com"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch - The Guardian"
   }
  ]
 }
