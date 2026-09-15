@@ -4,8 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "a5969a743ebb82aa",
-  "marketanalysistnotefuturesarerangeboundaheadofmajorcentralba",
   "bc405a38f6f466e4",
   "oilpricescontinuesurgerising3amidsaudipipelineoutageafteratt",
   "8be8015cc1c4c263",
@@ -603,7 +601,9 @@
   "67c4acc423fecd81",
   "wallstfuturesslipasrisingoiltreasuryyieldscompoundaianxiety",
   "ee90a74b9cc7cb2b",
-  "houthisseizetwoislandsinredseanorthwestarkansasdemocrat"
+  "houthisseizetwoislandsinredseanorthwestarkansasdemocrat",
+  "84cb412441bcdc40",
+  "oilpricesfallfridaybutpostsharpweeklygainsastensionsinthemid"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 57
  },
- "last_run": "2026-09-15T12:10:18.940104+03:00",
+ "last_run": "2026-09-15T12:15:19.669145+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
