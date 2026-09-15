@@ -4,10 +4,6 @@
   "Brent": 107.48
  },
  "seen": [
-  "c07faad3e762dd5e",
-  "brentcrudeoiltops101tocloseathighestlevelsincemayasfightinge",
-  "b1852b39e9a06be5",
-  "oilpricesriseafterdroneattacksshutdownsaudiarabiaseastwestpi",
   "c863b812a9043939",
   "wtioilpriceforecastoilstaysaboveus100asmiddleeastsupplyrisks",
   "478542e216b32757",
@@ -603,7 +599,11 @@
   "fbc0c1c23afc2da5",
   "oilpricesriseonsaudipipelineoutageandrisingredsearisks",
   "97225e5ae8a4443c",
-  "fomcpreviewyieldstouched5oiltops100whattowatchhowtoposition"
+  "fomcpreviewyieldstouched5oiltops100whattowatchhowtoposition",
+  "9b4daaa39e0656bf",
+  "bondsslumpasus10yeartreasuryyieldshithighestsince2007",
+  "eefbdbdcd23b0772",
+  "soaringoilpricesputfedontrackforseptemberratehike"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-15",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-09-15T09:20:19.819564+03:00",
+ "last_run": "2026-09-15T09:25:15.445435+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1272,6 +1272,10 @@
   {
    "d": "2026-09-15",
    "t": "Oil Prices Rise on Saudi Pipeline Outage and Rising Red Sea Risks"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Soaring Oil Prices Put Fed on Track for September Rate Hike - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
