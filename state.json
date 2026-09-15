@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "0525c626605667a4",
-  "petrolanddieselpriceshithighestsince2022",
   "b912a95ea5ef3741",
   "costcoraisespriceforkirklandmotoroilsetspurchaselimit",
   "2b0985a0563b04c3",
@@ -603,7 +601,9 @@
   "b05151baf2bac10e",
   "oilpricesjumpasattackschokeoffsaudienergysupply",
   "d491327a6b0bf0a0",
-  "libyaoilsecurityforceshuts2fieldsthreatensfullproductionhalt"
+  "libyaoilsecurityforceshuts2fieldsthreatensfullproductionhalt",
+  "56f510d74ab0b9e2",
+  "iraqseeksgermaninvestmenthintsofoilexportstogermany"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T22:35:15.124725+03:00",
+ "last_run": "2026-09-15T22:40:18.599100+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
