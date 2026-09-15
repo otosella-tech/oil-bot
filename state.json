@@ -4,10 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "9049655c321d17b2",
-  "dangotepricesafricasbiggestipoat47billion",
-  "24bd90c949399703",
-  "tennesseegaspricesclimb11centsascrudeoilsurges",
   "4d847c6eb575abe4",
   "gaspricesinlynchburgjumpsnearly19centsinpastweek",
   "d466e636e7451b7b",
@@ -603,7 +599,11 @@
   "2ecb35322f7bba5b",
   "usborrowingcostshit5forfirsttimesince2023amidbondselloff",
   "a3f9dba132dd18ea",
-  "updateequitieslogbacktobackdeclinesbeforefeddecisionasyields"
+  "updateequitieslogbacktobackdeclinesbeforefeddecisionasyields",
+  "8e742d7d246499b8",
+  "samaltmanissellingutilitiesthecureforacyberattackhisownaihel",
+  "4bb2a7426727b8a8",
+  "libyanocchiefsaysproductionnotgreatlyaffectedafterprotestshi"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -615,103 +615,11 @@
   "Brent": 107.46
  },
  "llm": {
-  "date": "2026-09-15",
-  "count": 60
+  "date": "2026-09-16",
+  "count": 2
  },
- "last_run": "2026-09-15T23:55:16.176855+03:00",
+ "last_run": "2026-09-16T00:00:31.881152+03:00",
  "sent_stories": [
-  {
-   "d": "2026-09-12",
-   "t": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline - nytimes.com"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Saudi Arabia Shuts Key Pipeline, Adding Pressure to Oil Supplies - Barron's"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "OPEC Sees Oil Demand Growth Explode Sixfold in 2027 - oilprice.com"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Saudi East-West ⁠oil pipeline was temporarily shut down after attacks, state media reports - reuters.com"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Houthis Seize Key Red Sea Island, Threatening Another Global Oil Route - The New York Times"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Strikes set Saudi oil pipeline on fire as Iran-backed Houthis tighten grip on key shipping corridor - New York Post"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "The Saudi Arabia Pipeline Attacks Just Redefined Middle East Oil Risk - Barron's"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq - BBC"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Saudi Arabia’s shutdown of key pipeline limits oil flow as Yemen hits back against Houthis - NBC News"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Egyptian TV host Amr Adib warns of oil price surge - Egypt Independent"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Drone strikes on a key Saudi oil pipeline and Houthi advances in the Red Sea are putting vital oil routes under pressure. Saudi crude could face a much tougher path to global markets. #dwnews - facebook.com"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "d OECD commercial oil inventories have “barely drawn since the war began,” reflecting a smaller-than-expected supply deficit and the concentration of inventory declines in strategic reserves, oil stored on water and China. - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq - The Guardian"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Iraq confirms Saudi pipeline attacks originated from its territory, and other Mideast news - WHEC.com"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Closure of Critical Saudi Oil Pipeline Puts Iraq Under Pressure - Bloomberg.com"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Iraq scrambles to address fallout from alleged militia attack on Saudi oil pipeline - CBC"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Can the oil market survive a forever war with Iran? - News Channel 3-12"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Iran’s Security Crackdown Runs Into Resistance From Within"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Saudi oil pipeline attack could raise global gas prices - DW.com"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S. - The New York Times"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks - Financial Times"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know. - The New York Times"
-  },
-  {
-   "d": "2026-09-12",
-   "t": "After attack on Saudi pipeline, Trump says 'everything’s going to work out fine and dandy' - Fortune"
-  },
   {
    "d": "2026-09-14",
    "t": "Oil Industry Braces for Years-Long Iran War"
@@ -1511,6 +1419,14 @@
   {
    "d": "2026-09-15",
    "t": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure - CNBC"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Sam Altman Is Selling Utilities the Cure for a Cyberattack His Own AI Helped Cau"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Libya NOC chief says production not greatly affected after protests hit oil facilities - Reuters"
   }
  ]
 }
