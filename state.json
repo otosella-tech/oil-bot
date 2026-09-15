@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "f3fac977798b1a1b",
-  "goldfallstooveronemonthlowasoilrallyinflationdataboostratehi",
   "e8e3e009573d96a0",
   "georgiagaspricesclimbabove4agallonascrudeoilcostsrise",
   "1db5955114b0093b",
@@ -603,7 +601,9 @@
   "f2e71cfc4952c0e5",
   "theoilcrisishasreachedcostcosmotoroilaisle",
   "a1a00b6f414b793e",
-  "chinatapscrudeinventoriesagain"
+  "chinatapscrudeinventoriesagain",
+  "b36328aa5800935c",
+  "saudicancelssomeoilcargoesafterpipelinehittopbuyerchasingalt"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T19:50:18.965578+03:00",
+ "last_run": "2026-09-15T19:55:14.791950+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1432,6 +1432,10 @@
   {
    "d": "2026-09-15",
    "t": "Chinese Firms Used Binance to Launder Iranian Oil Money, Prosecutors Say - The New York Times"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Saudi cancels some oil cargoes after pipeline hit, top buyer chasing alternatives - Reuters"
   }
  ]
 }
