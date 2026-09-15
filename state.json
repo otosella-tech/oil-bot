@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "c1a2fd8e1def7653",
-  "gulfstatescalloffmeetingwithiranhouthislaunchnewattack",
   "2615cf455ef31a23",
   "recordfreightcostssqueezerussiasblackseacrudeexports",
   "cdd620be12007f7d",
@@ -603,7 +601,9 @@
   "816156b063873b4a",
   "saudioilcrisisdeepensasaramcosuspendsyanbuloadings",
   "5f51568e1b27aaf5",
-  "usenergysecretarysaudipipelinecouldbebackinservicewithindays"
+  "usenergysecretarysaudipipelinecouldbebackinservicewithindays",
+  "60db2b7a1bb62ae4",
+  "usenergychiefsayssaudiarabiaoilpipelineshouldbebackonlinewit"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T20:35:16.399794+03:00",
+ "last_run": "2026-09-15T20:40:20.654080+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1444,6 +1444,10 @@
   {
    "d": "2026-09-15",
    "t": "US Energy Secretary: Saudi Pipeline Could Be Back in Service Within Days"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "US energy chief says Saudi Arabia oil pipeline should be back online within days - reuters.com"
   }
  ]
 }
