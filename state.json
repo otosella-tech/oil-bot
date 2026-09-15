@@ -4,8 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "5acecc0f9752d23e",
-  "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices",
   "e516f0ae5ff4e737",
   "oilpricessurgeasstocksandbondswobble",
   "37b2a6be88226a76",
@@ -603,7 +601,9 @@
   "03b071950ad047c6",
   "currentpriceofoilasofseptember112026",
   "1853215bac923bb9",
-  "costcohikeskirklandmotoroilpriceto58l"
+  "costcohikeskirklandmotoroilpriceto58l",
+  "620ffe72b7ead1e7",
+  "oilandtreasuryyieldshaventmovedthiscloselyinsevenyearsthatsb"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 16
  },
- "last_run": "2026-09-15T05:55:15.252624+03:00",
+ "last_run": "2026-09-15T06:00:28.943657+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
