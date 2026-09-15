@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "07b336c090aafd6d",
-  "oilsettleshigheraftersaudistrikesstokesupplyworries",
   "0a602c95beddc028",
   "oilpricesriseaftersaudiarabiashutsdowncriticalpipelinethatby",
   "60ecb79527049583",
@@ -603,7 +601,9 @@
   "018d93858e4a34ac",
   "pumppricessoarineverystatewithdieselatrecordhighs",
   "2ced320286257df2",
-  "wticrudeoilfutureshitnewhighamidsupplyconcerns"
+  "wticrudeoilfutureshitnewhighamidsupplyconcerns",
+  "8d9eb413ae98e5b9",
+  "whyjpmorgansaystheuseconomycanwithstandsurgingoilprices"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 10
  },
- "last_run": "2026-09-16T02:42:21.985826+03:00",
+ "last_run": "2026-09-16T02:45:17.386055+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
