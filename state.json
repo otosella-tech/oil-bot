@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "4d847c6eb575abe4",
-  "gaspricesinlynchburgjumpsnearly19centsinpastweek",
   "d466e636e7451b7b",
   "tennesseegaspricesrise11cents",
   "1b9e17179d6453f4",
@@ -603,7 +601,9 @@
   "8e742d7d246499b8",
   "samaltmanissellingutilitiesthecureforacyberattackhisownaihel",
   "4bb2a7426727b8a8",
-  "libyanocchiefsaysproductionnotgreatlyaffectedafterprotestshi"
+  "libyanocchiefsaysproductionnotgreatlyaffectedafterprotestshi",
+  "29121294ac2a4601",
+  "usoilinventoriesjumpascushingstockskeepfalling"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 2
  },
- "last_run": "2026-09-16T00:00:31.881152+03:00",
+ "last_run": "2026-09-16T00:05:15.293065+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
