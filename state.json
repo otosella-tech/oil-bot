@@ -4,8 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "684039e51cb97b13",
-  "oilstockswithdirectcrudepriceexposureafterthesaudisupplyshoc",
   "471054f08d436228",
   "trumpseesiranwarendingsoonaftermidtermelectionspredictsoilpr",
   "e4d89a209486cfe6",
@@ -603,7 +601,9 @@
   "1c84832a383b271b",
   "brentsettlesatover100abarrelasmiddleeastconflictintensifies",
   "7ce714351a49a73a",
-  "africasrichestmandangotesipooutofreachinnigeria"
+  "africasrichestmandangotesipooutofreachinnigeria",
+  "a67f501b98971630",
+  "editorialdieselpricescauseinflationincreases"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T18:25:15.058821+03:00",
+ "last_run": "2026-09-15T18:30:22.939833+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
