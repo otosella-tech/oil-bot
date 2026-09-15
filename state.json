@@ -4,14 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "020136876e02df9a",
-  "aistocksdroponcallsforaglobalslowdownasbrentoilspricehits109",
-  "4b322667c1e72b45",
-  "dollarclimbsasstockssinkandcrudeoilsurges",
-  "4a205257069f07d6",
-  "oiljumps10yeartreasuryyieldhits5asairelatedstockstumbleworld",
-  "76aa49f195c478f1",
-  "trumpsaysoilpricesthatspikedbecauseofiranwarlikelywontcomedo",
   "435ad3dda1b13869",
   "top5chartsforthisweekyieldsoilandusdjpy",
   "8715642d779b8c4c",
@@ -603,7 +595,15 @@
   "483cb93bb5846b4f",
   "offshoreoilstocksrallywhilethebroadmarketslipstransoceanclim",
   "a5ba139cbdff4a3b",
-  "smenergycrescentenergysolarisenergyinfrastructuretalosenergy"
+  "smenergycrescentenergysolarisenergyinfrastructuretalosenergy",
+  "2fc3b44313c0c322",
+  "libyathreatensforcemajeureasoilguardsshutfields",
+  "d393c33d5bf81cfc",
+  "oilfuturesriseoncontinuingsupplydisruptionworries",
+  "86a37a9d9744d43b",
+  "saudipipelineclosureisabriefinterruptionthatwilllastdaysusen",
+  "5d35592ab908d5ed",
+  "chinesefirmsusedbinancetolaunderiranianoilmoneyprosecutorssa"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T19:25:15.108618+03:00",
+ "last_run": "2026-09-15T19:30:29.817097+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1420,6 +1420,18 @@
   {
    "d": "2026-09-15",
    "t": "Oil jumps nearly $3 as Saudi export halt, Libya outages stoke supply fears - Reuters"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Libya Threatens Force Majeure as Oil Guards Shut Fields"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC - cnbc.com"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Chinese Firms Used Binance to Launder Iranian Oil Money, Prosecutors Say - The New York Times"
   }
  ]
 }
