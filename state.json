@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "0a602c95beddc028",
-  "oilpricesriseaftersaudiarabiashutsdowncriticalpipelinethatby",
   "60ecb79527049583",
   "oilpricesclimbover100perbarrelasuswarinirancontinues",
   "ffc3dcc6470118e6",
@@ -603,7 +601,9 @@
   "2ced320286257df2",
   "wticrudeoilfutureshitnewhighamidsupplyconcerns",
   "8d9eb413ae98e5b9",
-  "whyjpmorgansaystheuseconomycanwithstandsurgingoilprices"
+  "whyjpmorgansaystheuseconomycanwithstandsurgingoilprices",
+  "998fe5e6ec259482",
+  "uscrudeoiltops105assaudiarabiasaidtocancelsomeeuropeancargoe"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 10
  },
- "last_run": "2026-09-16T02:45:17.386055+03:00",
+ "last_run": "2026-09-16T02:50:19.709682+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
