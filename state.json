@@ -4,8 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "68644346445fdddc",
-  "oilrallyhingesonchinaasmiddleeastconflictescalates",
   "e3481b6eb97b82a6",
   "niconsumersfaceanothersharpriseinenergyprices",
   "8f3be68d135af3c5",
@@ -603,7 +601,9 @@
   "266eae64174fb829",
   "crudeoildrivesupyieldsandusd",
   "5d383c6c8dfd2b4a",
-  "oilpricesperbarrelsurgetodaywhatitmeansforgasprices"
+  "oilpricesperbarrelsurgetodaywhatitmeansforgasprices",
+  "70197825056e00a2",
+  "oilssafetynetisfrayingassaudiarabiaracestorestartakeypipelin"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T15:50:19.927438+03:00",
+ "last_run": "2026-09-15T15:55:14.700648+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1368,6 +1368,10 @@
   {
    "d": "2026-09-15",
    "t": "Oil prices climb as attacks, pipeline outage deepen Saudi supply concerns - Reuters"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline - CNBC"
   }
  ]
 }
