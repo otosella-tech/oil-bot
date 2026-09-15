@@ -4,16 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "8ba44b06efcbf4f1",
-  "brentat108gulfstateshalthormuztalksashouthisstrikesaudiairba",
-  "836f8097089687a2",
-  "dieselpushestonewalltimehighasoilpricesjumpafterkeysaudipipe",
-  "d4f06ae71eb5375b",
-  "russiasaysgulfinstabilityrapidlyworseningglobaloilmarketsitu",
-  "0f2914334aeb1299",
-  "crudeoilrisesto4monthhigh",
-  "7637527d047ecbe9",
-  "watchusenergysecretarywrightonmideastoilflowshormuzrefining",
   "421e1ab961b4163c",
   "averagepriceofdieselinminnesotarisesabove6agallon",
   "4171bf2ad7d04146",
@@ -603,7 +593,17 @@
   "9f48410d2f8d97aa",
   "wallstreetpointstomorelossesasoilbondyieldsriseandoddsofafed",
   "cb2dda82ccf36026",
-  "saudiarabiacouldrunoutofoilforexportwithindaysaspipelineshut"
+  "saudiarabiacouldrunoutofoilforexportwithindaysaspipelineshut",
+  "11fc21607bbc9dc7",
+  "howtrumpspostscanstillmatterforinvestors",
+  "6ec23ee6590f9074",
+  "usdieselpriceshitnewrecordhighasfuelsqueezebites",
+  "d06f2c3d692b89c6",
+  "silverpricesteadiesgoldpricefallsasoilshockliftsratepressure",
+  "c6c0c95b241df5aa",
+  "dojsaysbinancecustomersusedcryptoexchangetofunneliranoilmone",
+  "f6ffc23b9eb62160",
+  "theoilrollercoasterreachesnewheightsanditsabumpyrideahead"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T16:40:19.943230+03:00",
+ "last_run": "2026-09-15T16:45:19.461140+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1376,6 +1376,10 @@
   {
    "d": "2026-09-15",
    "t": "U.S. seizes $61 million in crypto from Iranian oil sales on Binance - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "DOJ Says Binance Customers Used Crypto Exchange to Funnel Iran Oil Money - WSJ"
   }
  ]
 }
