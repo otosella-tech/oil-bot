@@ -4,8 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "3b3147c60234d0aa",
-  "chadsanticorruptioninstitutionsbuckleunderpoliticalpressure",
   "261635c376c67f38",
   "iranwarnowatestofglobaleconomicendurance",
   "9adb2ed1bae6c1a5",
@@ -603,7 +601,9 @@
   "a6717bb58b2c4af8",
   "goldslipsasoilgainsstrengthencaseforelevatedinterestrates",
   "6d3ff56ae3bd69a8",
-  "southafricanrandslidesasoilpricesurgepressuresemergingmarket"
+  "southafricanrandslidesasoilpricesurgepressuresemergingmarket",
+  "29c98fae83837b24",
+  "irangainsleveragewithbabalmandabstraitunderhouthicontrol"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-15",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-09-15T12:00:30.048778+03:00",
+ "last_run": "2026-09-15T12:05:14.588672+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1308,6 +1308,10 @@
   {
    "d": "2026-09-15",
    "t": "South African rand slides as oil price surge pressures emerging market currencies - Reuters"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Iran gains leverage with Bab al-Mandab strait under Houthi control - The Washington Post"
   }
  ]
 }
