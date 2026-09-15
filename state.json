@@ -4,10 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "92b09e40f7f3102f",
-  "spacexturnsturbinemakerasmuskwarnsofyears",
-  "ac6157048af96dca",
-  "tennesseegaspricescontinuetoriseascrudeoilpasses100perbarrel",
   "c79ccceb5eddf787",
   "costcoraisespriceforkirklandmotoroilsetspurchaselimitabcnews",
   "2ecb35322f7bba5b",
@@ -603,7 +599,11 @@
   "1b8e171dbe5582c4",
   "usoiltops105assaudiarabiareportedlycancelssomecrudecargoesaf",
   "ce0479d28a800e93",
-  "gaspricesinorlandohit415pergallonasoilcostsclimb"
+  "gaspricesinorlandohit415pergallonasoilcostsclimb",
+  "a3172430172a860f",
+  "oilpricesclimbhigher",
+  "424ff1d38e97cc02",
+  "10yeartreasuryyieldtops5asoilsurgesanddieselhitsalltimehigh"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T23:20:19.447981+03:00",
+ "last_run": "2026-09-15T23:25:14.812794+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
