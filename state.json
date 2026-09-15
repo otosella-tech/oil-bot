@@ -4,8 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "d2ff40fb88da83a1",
-  "southafricanrandweakensashigheroilweighsfedmeetinglooms",
   "4c7a8e1b8152e7c6",
   "uscrudeoilstockpilesfallproductionhitsrecord",
   "cc6dfb5de6e42461",
@@ -603,7 +601,9 @@
   "541c6b339b4ab253",
   "oilpricesriseasmiddleeastsupplyconcernspersist",
   "4e02b9a283183b8d",
-  "saudiarabiashutdowneastwestcrudeoilpipelineaftermultipleatta"
+  "saudiarabiashutdowneastwestcrudeoilpipelineaftermultipleatta",
+  "ee1ee44657f64edb",
+  "oilextendsgainsbrentcrudenears108followinghouthistrikesonsau"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-15",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-09-15T11:10:19.071822+03:00",
+ "last_run": "2026-09-15T11:15:19.673392+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1300,6 +1300,10 @@
   {
    "d": "2026-09-15",
    "t": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq - CNBC"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Oil extends gains, Brent crude nears $108 following Houthi strikes on Saudi Arabia - CNBC"
   }
  ]
 }
