@@ -4,8 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "bfd1ae660e9acded",
-  "ouchfloridagaspricesreacttorisingtensionsinmiddleeast",
   "df7574f7097f564a",
   "middleeasttensionsglobaloilpricesrisebymorethan3",
   "a147eb6b794198cc",
@@ -603,7 +601,9 @@
   "a4c7267757f4106f",
   "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
   "0e16cc6c153e2b6e",
-  "sterlingpinnedatonemonthlowsasoilstayshighfedratehikeexpecte"
+  "sterlingpinnedatonemonthlowsasoilstayshighfedratehikeexpecte",
+  "97242cc79cd2614c",
+  "amountofoiltransportedthroughthestraitofhormuzandbabelmandeb"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T14:00:31.589072+03:00",
+ "last_run": "2026-09-15T14:05:15.162289+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1336,6 +1336,10 @@
   {
    "d": "2026-09-15",
    "t": "Poland’s Orlen rushes to find alternatives to Saudi oil supply, traders say - Reuters"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Amount of oil transported through the Strait of Hormuz and Bab el-Mandeb Strait - Anadolu Ajansı"
   }
  ]
 }
