@@ -4,10 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "0a75c6bc8ea85211",
-  "wticrudeoilbreakoutorreversal",
-  "47857a9bd440c0ed",
-  "europegaspricesjump6assaudipipelineshutdownrattlesmarkets",
   "5d383c6c8dfd2b4a",
   "oilpricesperbarrelsurgetodaywhatitmeansforgasprices",
   "c526513718bc739b",
@@ -603,7 +599,11 @@
   "d554bd68dd8aad5e",
   "studieslinknewmexicodrillingtoradiationairpollutionhealthris",
   "a3e62046c1563f0f",
-  "in1972timesbeachhiredawasteoilhaulertosprayitsdirtroadstokee"
+  "in1972timesbeachhiredawasteoilhaulertosprayitsdirtroadstokee",
+  "18959902549afc90",
+  "dronestrikescripplehalfofrussiastopdieselrefineries",
+  "724dd809107b60b1",
+  "ussaysitsclearinghormuztrafficwhyareoilfuturesbeyond100"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T15:25:16.177162+03:00",
+ "last_run": "2026-09-15T15:30:25.125876+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1352,6 +1352,10 @@
   {
    "d": "2026-09-15",
    "t": "Oil, gas and borrowing costs surge as fears over Middle East escalate - BBC"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Drone Strikes Cripple Half of Russia's Top Diesel Refineries"
   }
  ]
 }
