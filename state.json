@@ -4,8 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "b8cf29aeb2720a2a",
-  "averagefloridagaspricesriseabove4agallon",
   "9839d25e95224740",
   "oilnewsweekendattackserasefridayscrudeoilselloff",
   "5acecc0f9752d23e",
@@ -603,7 +601,9 @@
   "e31554f8cd6fbfa8",
   "globalstrainonoilwillincreaseheatcoststhiswinter",
   "d91e90f93b1506c6",
-  "costcoraisespriceofkirklandmotoroilandlimitshowmuchshoppersc"
+  "costcoraisespriceofkirklandmotoroilandlimitshowmuchshoppersc",
+  "03b071950ad047c6",
+  "currentpriceofoilasofseptember112026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 16
  },
- "last_run": "2026-09-15T05:25:13.999178+03:00",
+ "last_run": "2026-09-15T05:30:23.309393+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
