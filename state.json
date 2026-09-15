@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "079a098d0bcf50f0",
-  "whatsnextforoilrefinersafteranunprecedentedruntoalltimehighs",
   "4261599385a5b53c",
   "oilgoldforecasttwotradestowatch140926",
   "0525c626605667a4",
@@ -603,7 +601,9 @@
   "aad71fa0226ed656",
   "middleeastconflictdrivesgemstategaspriceshigher",
   "5734289356b474cb",
-  "oilsoarsassaudipipelinefacesweekslongoutageschorksaysusreser"
+  "oilsoarsassaudipipelinefacesweekslongoutageschorksaysusreser",
+  "b05151baf2bac10e",
+  "oilpricesjumpasattackschokeoffsaudienergysupply"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T22:10:21.199094+03:00",
+ "last_run": "2026-09-15T22:15:19.181395+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1492,6 +1492,10 @@
   {
    "d": "2026-09-15",
    "t": "Oil Soars As Saudi Pipeline Faces Weeks-Long Outage — Schork Says US Reserves Could Hit ‘Operational Limits’ By November - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply - The New York Times"
   }
  ]
 }
