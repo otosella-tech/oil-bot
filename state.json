@@ -4,10 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "e3481b6eb97b82a6",
-  "niconsumersfaceanothersharpriseinenergyprices",
-  "8f3be68d135af3c5",
-  "asianmarketsweighedbyaiworriescrudeoilpricespike",
   "7fc3875a84f6b257",
   "stocksdentedbyaiwarningsoiljumpsagain",
   "239bdd382095e0b2",
@@ -603,7 +599,11 @@
   "5d383c6c8dfd2b4a",
   "oilpricesperbarrelsurgetodaywhatitmeansforgasprices",
   "70197825056e00a2",
-  "oilssafetynetisfrayingassaudiarabiaracestorestartakeypipelin"
+  "oilssafetynetisfrayingassaudiarabiaracestorestartakeypipelin",
+  "6cff7458a893099f",
+  "brentcrudeoiltestsdefiningresistancelevel",
+  "c77199390ff58164",
+  "eurusdforecastsentimentdeterioratesamidturmoilinbondandoilma"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T15:55:14.700648+03:00",
+ "last_run": "2026-09-15T16:00:31.194577+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
