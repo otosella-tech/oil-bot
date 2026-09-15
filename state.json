@@ -4,10 +4,6 @@
   "Brent": 107.48
  },
  "seen": [
-  "7efd9d20fb0b02e4",
-  "sharesskidinasiaasoilclimbsratehikesloom",
-  "2e582733d0b43887",
-  "oilsurgespast108afterhormuzattackandsaudipipelineshutdown",
   "6e1f0d3978c32b81",
   "oilpricesriseassaudieastwestpipelineattackthreatensexportrou",
   "ae6d70f11909bf29",
@@ -603,7 +599,11 @@
   "99a60b425bf80728",
   "saudipipelinestrikeraisesalarmoverkoreascrudeoilsupply",
   "8f5f0593cd6fd65d",
-  "chinasreturntotheoilmarketcouldpushcrudepriceshigheranalyst"
+  "chinasreturntotheoilmarketcouldpushcrudepriceshigheranalyst",
+  "f1b91d61f651d1cc",
+  "wallstreetdipsasaistocksslideoilpricesclimbnorthwestarkansas",
+  "ff201acfcd3bedd0",
+  "usseekstoseize61millionofcryptoitclaimsareproceedsfromirania"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-15",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-09-15T10:05:15.100615+03:00",
+ "last_run": "2026-09-15T10:10:18.489430+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-09-15",
    "t": "Saudi pipeline strike raises alarm over Korea’s crude oil supply - Korea JoongAng Daily"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers - CNBC"
   }
  ]
 }
