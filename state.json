@@ -4,8 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "caf4cc7a7f690adf",
-  "shippingoilgetseverhardercostlier",
   "8085c9402e9232bb",
   "uscrudeoiloutputforecasttoreachrecordhighin2026",
   "6d992d4c88574a70",
@@ -603,7 +601,9 @@
   "51dc1eabcc8302a2",
   "qathiscomedyseriesistakingaimatbigoilsprmachine",
   "0198ba358f5098fb",
-  "saudipipelineoutagethreatenslossof4ofglobaloilsupply"
+  "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
+  "27650019435e2577",
+  "houthisstrikesauditargetsanewastalksoverstraitofhormuzstall"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-15",
-  "count": 9
+  "count": 10
  },
- "last_run": "2026-09-15T03:20:18.446537+03:00",
+ "last_run": "2026-09-15T03:25:16.040196+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
