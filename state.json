@@ -4,10 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "d57f767b87dde9dd",
-  "unipertosellgaspipelinestaketomeeteustateaidconditions",
-  "a3ebeb8f46ba6273",
-  "willtheoiltankershadowfleeteverbebroughtbackintoline",
   "b05151baf2bac10e",
   "oilpricesjumpasattackschokeoffsaudienergysupply",
   "dd705287f84b8c33",
@@ -603,7 +599,11 @@
   "383b1b7a42a047b5",
   "thenewsintheoilmarketkeepsgettingworseaswtihits106",
   "1c72714a33990091",
-  "saudirunningoutofoilexportoptionsasiranallieschokeroutes"
+  "saudirunningoutofoilexportoptionsasiranallieschokeroutes",
+  "9fc3fdb8648fd67e",
+  "followthebarrelthenextoilshockishittingdownstream",
+  "9eded1207f7af073",
+  "somephysicaloilcargoestop130abarrelnearingaprilsrecordonsaud"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T21:55:14.404695+03:00",
+ "last_run": "2026-09-15T22:00:31.129078+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1484,6 +1484,10 @@
   {
    "d": "2026-09-15",
    "t": "Saudi running out of oil export options as Iran, allies choke routes - Yahoo"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Some physical oil cargoes top $130 a barrel, nearing April's record, on Saudi disruptions - Reuters"
   }
  ]
 }
