@@ -4,10 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "b05151baf2bac10e",
-  "oilpricesjumpasattackschokeoffsaudienergysupply",
-  "dd705287f84b8c33",
-  "theus",
   "079a098d0bcf50f0",
   "whatsnextforoilrefinersafteranunprecedentedruntoalltimehighs",
   "4261599385a5b53c",
@@ -603,7 +599,11 @@
   "9fc3fdb8648fd67e",
   "followthebarrelthenextoilshockishittingdownstream",
   "9eded1207f7af073",
-  "somephysicaloilcargoestop130abarrelnearingaprilsrecordonsaud"
+  "somephysicaloilcargoestop130abarrelnearingaprilsrecordonsaud",
+  "aad71fa0226ed656",
+  "middleeastconflictdrivesgemstategaspriceshigher",
+  "5734289356b474cb",
+  "oilsoarsassaudipipelinefacesweekslongoutageschorksaysusreser"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T22:05:15.761150+03:00",
+ "last_run": "2026-09-15T22:10:21.199094+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1488,6 +1488,10 @@
   {
    "d": "2026-09-15",
    "t": "Some physical oil cargoes top $130 a barrel, nearing April's record, on Saudi disruptions - Reuters"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Oil Soars As Saudi Pipeline Faces Weeks-Long Outage — Schork Says US Reserves Could Hit ‘Operational Limits’ By November - Yahoo Finance"
   }
  ]
 }
