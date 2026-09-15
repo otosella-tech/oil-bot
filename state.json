@@ -4,8 +4,6 @@
   "Brent": 107.48
  },
  "seen": [
-  "dda6ea93e58d6085",
-  "108crudeoilreturnswhybitcoinandtechstocksarefeelingtheheat",
   "13f5465d3a8f5698",
   "oilsurgespast108ashormuzattackandsaudipipelineshutdownrattle",
   "7efd9d20fb0b02e4",
@@ -603,7 +601,9 @@
   "0f89f4e97b88ae75",
   "crudeoilrallyrunninglowongas",
   "b35e350f472a1c3e",
-  "chinasbenchmarkcrudeoilfutureshaveneverbeensoexpensive"
+  "chinasbenchmarkcrudeoilfutureshaveneverbeensoexpensive",
+  "99a60b425bf80728",
+  "saudipipelinestrikeraisesalarmoverkoreascrudeoilsupply"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-15",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-09-15T09:45:18.235786+03:00",
+ "last_run": "2026-09-15T09:50:19.307362+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-09-15",
    "t": "Soaring Oil Prices Put Fed on Track for September Rate Hike - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Saudi pipeline strike raises alarm over Korea’s crude oil supply - Korea JoongAng Daily"
   }
  ]
 }
