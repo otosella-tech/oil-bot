@@ -4,10 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "fcb42cfe7cd3053a",
-  "theaccidentonenbridgesline5innortheastwisconsinwasoneofthela",
-  "5206975475871484",
-  "oilpricessoarover4to16weekhighaftersaudistrikes",
   "c2bd4b803915967c",
   "usstockspullingbacksharplyascrudeoilpricesrebound",
   "1d87945ea5315e9b",
@@ -603,7 +599,11 @@
   "1aab808d9dcef534",
   "willvenezuelanoilsendcrudepriceslower",
   "fced48c52d2aeb76",
-  "twochinesefirmsusedbinancetolaunderiranianoilmoneyussays"
+  "twochinesefirmsusedbinancetolaunderiranianoilmoneyussays",
+  "ce68d19273b2f258",
+  "thenewmeccaalliancewarnsiranoverhouthiattacksonsaudiarabia",
+  "f1bbf51461b2070f",
+  "bricssummittakesaimatusinfluenceovertheglobaleconomy"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T20:55:17.391289+03:00",
+ "last_run": "2026-09-15T21:00:30.518954+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1452,6 +1452,10 @@
   {
    "d": "2026-09-15",
    "t": "Two Chinese Firms Used Binance to Launder Iranian Oil Money, US Says - The New York Times"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "The New ‘Mecca Alliance’ Warns Iran Over Houthi Attacks on Saudi Arabia"
   }
  ]
 }
