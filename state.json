@@ -4,8 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "df7574f7097f564a",
-  "middleeasttensionsglobaloilpricesrisebymorethan3",
   "a147eb6b794198cc",
   "3oilandgasstockswithpricingpowerascrudejumps",
   "6c65d25556717055",
@@ -603,7 +601,9 @@
   "0e16cc6c153e2b6e",
   "sterlingpinnedatonemonthlowsasoilstayshighfedratehikeexpecte",
   "97242cc79cd2614c",
-  "amountofoiltransportedthroughthestraitofhormuzandbabelmandeb"
+  "amountofoiltransportedthroughthestraitofhormuzandbabelmandeb",
+  "498c67bb16f7de9c",
+  "crudeoilrisesfor2ndsession"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T14:05:15.162289+03:00",
+ "last_run": "2026-09-15T14:10:19.866157+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
