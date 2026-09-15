@@ -4,14 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "61fdc173ed6d4327",
-  "eiasees2026oilpricecomingin22higherthanlastyear",
-  "0975f10a0abcc653",
-  "aialarmbellsreachcapitolhillanddieselpriceshitalltimehighaft",
-  "2f2b9f5faed19623",
-  "northernirelandconsumersfacerisingenergyprices",
-  "22fd4e86d5dcc871",
-  "firstthingoilpricessurgeasattacksonsaudiarabiastokesupplyfea",
   "2ecb9c43a29336bb",
   "houthisseize2strategicredseaislandsandothermideastdevelopmen",
   "68644346445fdddc",
@@ -603,7 +595,15 @@
   "a72822e2e356d1ea",
   "crudeoildrivesupyieldsandusdollar",
   "afa961e100687ef4",
-  "russialeadstrkiyesoilimportsinjuly"
+  "russialeadstrkiyesoilimportsinjuly",
+  "8476f39c3ca88452",
+  "opecseesoildemandgrowthexplodesixfoldin2027",
+  "5a8247e8a7c5723e",
+  "oilpricesclimbasattackspipelineoutagedeepensaudisupplyconcer",
+  "ff2d898b0b3da948",
+  "usstrategicpetroleumreservehitslowestlevelsince1982",
+  "266eae64174fb829",
+  "crudeoildrivesupyieldsandusd"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T15:40:18.813298+03:00",
+ "last_run": "2026-09-15T15:45:17.323583+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1360,6 +1360,14 @@
   {
    "d": "2026-09-15",
    "t": "EXCLUSIVE: UAE's ADNOC buys millions of barrels of Iraqi crude, sources say - Reuters"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "OPEC Sees Oil Demand Growth Explode Sixfold in 2027 - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Oil prices climb as attacks, pipeline outage deepen Saudi supply concerns - Reuters"
   }
  ]
 }
