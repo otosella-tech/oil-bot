@@ -4,8 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "8e980150c90138ff",
-  "oilpricesupover2followingnewstrikesonsaudistraitofhormuz",
   "ecbd1fa02998ddab",
   "firstthingtodaygrainsnarrowlymixedovernightbullsneedafreshsp",
   "1e1e79d09f5715f9",
@@ -603,7 +601,9 @@
   "0125c9b144cb05da",
   "whyhouthicontrolofthegateoftearsmaybeiransbiggestvictoryyet",
   "00c5cce063827a4f",
-  "stocksdropoilclimbsandtreasuryyieldshit19yearhigh"
+  "stocksdropoilclimbsandtreasuryyieldshit19yearhigh",
+  "18fcd48714b7dfde",
+  "oilfuturescrudemaintainsupsideamidsaudisupplycrunch"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T15:05:17.374030+03:00",
+ "last_run": "2026-09-15T15:10:21.710860+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
