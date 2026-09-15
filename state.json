@@ -4,10 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "e4d89a209486cfe6",
-  "usmarketoutlookaiboomcoolingandrisingoilpricescreateheadwind",
-  "0d390ebe3d455578",
-  "theproblemwithtryingtobypasshormuzusingpipelines",
   "ac13bfd08b8bfc71",
   "currentpriceofoilasofseptember142026",
   "f667f5e6ac1c307c",
@@ -603,7 +599,11 @@
   "a67f501b98971630",
   "editorialdieselpricescauseinflationincreases",
   "70110a38117dea98",
-  "saudiaramcocancelseuropeancrudecargoesaskeypipelinestaysshut"
+  "saudiaramcocancelseuropeancrudecargoesaskeypipelinestaysshut",
+  "49d4d129590166f4",
+  "iranalliestargetflowofoilasconflictgrows",
+  "b7433afffe27b132",
+  "crudepricessoarasglobaloilsuppliescontinuetotighten"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T18:35:15.470543+03:00",
+ "last_run": "2026-09-15T18:40:17.775648+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
