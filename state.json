@@ -4,8 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "bd48f4595e2d0e33",
-  "saudipipelineshutdownaddsfreshbullishpressuretoglobalcrudeoi",
   "4e02b9a283183b8d",
   "saudiarabiashutdowneastwestcrudeoilpipelineaftermultipleatta",
   "c4601569c41642bc",
@@ -603,7 +601,9 @@
   "a7bb59b356709b74",
   "commentarychinadrawsoncrudeinventoriesinaugustasrefineryruns",
   "c6f763d2b79cb6f7",
-  "indianrupeedropstoweakestlevelinoveramonthonoilworries"
+  "indianrupeedropstoweakestlevelinoveramonthonoilworries",
+  "d0c4a0af456e90df",
+  "bofaseeschanceof150oiloncriticalinfrastructurerisk"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 47
  },
- "last_run": "2026-09-15T10:50:19.428608+03:00",
+ "last_run": "2026-09-15T10:55:14.427412+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
