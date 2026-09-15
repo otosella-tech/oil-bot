@@ -4,10 +4,6 @@
   "Brent": 102.46
  },
  "seen": [
-  "2171be1c64253f18",
-  "oilpricesriseastalkspostponedoverstraitofhormuz",
-  "ec0ef26a11566e3a",
-  "asianrefinersseekanswersaftersaudipipelineshutdown",
   "bfd1ae660e9acded",
   "ouchfloridagaspricesreacttorisingtensionsinmiddleeast",
   "df7574f7097f564a",
@@ -603,7 +599,11 @@
   "38702e09ac7c0dcd",
   "polandsorlenrushestofindalternativestosaudioilsupplytraderss",
   "4cc2fae562cb648e",
-  "oilfuturescruderesumesupsideamidsaudisupplycrunch"
+  "oilfuturescruderesumesupsideamidsaudisupplycrunch",
+  "a4c7267757f4106f",
+  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
+  "0e16cc6c153e2b6e",
+  "sterlingpinnedatonemonthlowsasoilstayshighfedratehikeexpecte"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-15",
   "count": 60
  },
- "last_run": "2026-09-15T13:50:53.075240+03:00",
+ "last_run": "2026-09-15T13:55:19.112557+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
