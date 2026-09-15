@@ -4,10 +4,6 @@
   "Brent": 105.36
  },
  "seen": [
-  "da86469a4c5d88b9",
-  "asianstockssinkoncrudeoilsurge",
-  "1948971a13c4313e",
-  "crudeoilpricesjumpmorethan107perbarrelfollowinghouthiattacks",
   "e8148579e1ebf181",
   "oilpricesjumpmorethan2afternewstrikesonsaudistraitofhormuzeu",
   "dcb979b02fb8c890",
@@ -603,7 +599,11 @@
   "19312ebbdc0f84ee",
   "pinkponyclubenbridgesaddlesupforexpandedcrudeservicewithpony",
   "82d953d766a45d93",
-  "oilpricesriseashouthisattacksaudiarabiahormuztalksdelayed"
+  "oilpricesriseashouthisattacksaudiarabiahormuztalksdelayed",
+  "a86c24d3c8692638",
+  "asianshareswaverasoilandyieldsriseaheadoffedbojmeetings",
+  "b10049788e1c48e8",
+  "thenexthormuzrefinerylosseswhichdriveoilto150abarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-09-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-15",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-09-15T04:45:19.259403+03:00",
+ "last_run": "2026-09-15T04:50:18.733630+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1232,6 +1232,10 @@
   {
    "d": "2026-09-15",
    "t": "Trend of Oil Shipments Through Hormuz Rising, US’s Wright Says - EnergyNow.com"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "The Next Hormuz. Refinery Losses Which Drive Oil To $150 A Barrel - Yahoo Finance UK"
   }
  ]
 }
