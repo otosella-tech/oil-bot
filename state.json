@@ -4,8 +4,6 @@
   "Brent": 107.48
  },
  "seen": [
-  "6e1f0d3978c32b81",
-  "oilpricesriseassaudieastwestpipelineattackthreatensexportrou",
   "ae6d70f11909bf29",
   "prosharesultrashortbloombergcrudeoiletflo",
   "e53c197a10066728",
@@ -603,7 +601,9 @@
   "f1b91d61f651d1cc",
   "wallstreetdipsasaistocksslideoilpricesclimbnorthwestarkansas",
   "ff201acfcd3bedd0",
-  "usseekstoseize61millionofcryptoitclaimsareproceedsfromirania"
+  "usseekstoseize61millionofcryptoitclaimsareproceedsfromirania",
+  "46439b381c2682d6",
+  "saudioilpipelinerepairscouldtakeweeksafterdroneattack"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-15",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-09-15T10:10:18.489430+03:00",
+ "last_run": "2026-09-15T10:15:18.466178+03:00",
  "sent_stories": [
   {
    "d": "2026-09-12",
@@ -1284,6 +1284,10 @@
   {
    "d": "2026-09-15",
    "t": "U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers - CNBC"
+  },
+  {
+   "d": "2026-09-15",
+   "t": "Saudi Oil Pipeline Repairs Could Take Weeks After Drone Attack"
   }
  ]
 }
