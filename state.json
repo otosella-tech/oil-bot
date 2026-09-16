@@ -4,10 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "a67f501b98971630",
-  "editorialdieselpricescauseinflationincreases",
-  "70110a38117dea98",
-  "saudiaramcocancelseuropeancrudecargoesaskeypipelinestaysshut",
   "49d4d129590166f4",
   "iranalliestargetflowofoilasconflictgrows",
   "b7433afffe27b132",
@@ -603,7 +599,11 @@
   "4b184d683e7f7750",
   "usfedraisesinterestratesasinflationweighsoneconomy",
   "fbda9db00ceb2672",
-  "oilsroundtripbackto100whychinacoulddeterminewhathappensnext"
+  "oilsroundtripbackto100whychinacoulddeterminewhathappensnext",
+  "15d848c54e3f9fb0",
+  "usprobesiranlinktocyberattacksontexasboundenergytankers",
+  "84a655b31c997bea",
+  "trumpallyharoldhammstrikesvenezuelaoildeal"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T22:15:20.811440+03:00",
+ "last_run": "2026-09-16T22:20:18.320404+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1659,6 +1659,14 @@
   {
    "d": "2026-09-16",
    "t": "Poland's Orlen buys 16 extra crude cargoes to cover Saudi disruption - Reuters"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "U.S. Probes Iran Link to Cyberattacks on Texas-Bound Energy Tankers - WSJ"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal - The New York Times"
   }
  ]
 }
