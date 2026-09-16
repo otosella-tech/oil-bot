@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "51dc1eabcc8302a2",
-  "qathiscomedyseriesistakingaimatbigoilsprmachine",
   "0198ba358f5098fb",
   "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "27650019435e2577",
@@ -603,7 +601,9 @@
   "5d09656ce5a230e0",
   "oilpricesunderpressurefromeasingtensionstighterfedpolicyoutl",
   "a8ab8525a11191e3",
-  "wticrudeoilfuturesreach19weekhighsonsupplyrisks"
+  "wticrudeoilfuturesreach19weekhighsonsupplyrisks",
+  "3968dd65fae198ef",
+  "wticrudeoilfutureshit16weekhighastensionsescalate"
  ],
  "releases_done": {},
  "last_digest": "2026-09-16",
@@ -615,7 +615,7 @@
   "date": "2026-09-16",
   "count": 41
  },
- "last_run": "2026-09-16T11:00:26.200093+03:00",
+ "last_run": "2026-09-16T11:05:14.519169+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
