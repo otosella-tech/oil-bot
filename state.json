@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "8f5f0593cd6fd65d",
-  "chinasreturntotheoilmarketcouldpushcrudepriceshigheranalyst",
   "f1b91d61f651d1cc",
   "wallstreetdipsasaistocksslideoilpricesclimbnorthwestarkansas",
   "ff201acfcd3bedd0",
@@ -603,7 +601,9 @@
   "5750a517f3d26079",
   "equityfuturesclimbintofomcasoilcools",
   "e5d1b91fa0eae226",
-  "globalfuelsqueezetriggersusrefinersstocksrally"
+  "globalfuelsqueezetriggersusrefinersstocksrally",
+  "09aaf702bea64170",
+  "usinvestigatessuspectedcyberattacksontexasboundtankers"
  ],
  "releases_done": {},
  "last_digest": "2026-09-16",
@@ -615,7 +615,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T15:35:14.274255+03:00",
+ "last_run": "2026-09-16T15:40:19.662674+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1536,6 +1536,10 @@
   {
    "d": "2026-09-16",
    "t": "U.S. Investigates Suspected Cyber Attacks on Texas-Bound Tankers"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "U.S. Investigates Suspected Cyber Attacks on Texas-Bound Tankers - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
