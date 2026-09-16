@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "03b071950ad047c6",
-  "currentpriceofoilasofseptember112026",
   "1853215bac923bb9",
   "costcohikeskirklandmotoroilpriceto58l",
   "620ffe72b7ead1e7",
@@ -603,7 +601,9 @@
   "dc7371d2ca021422",
   "saudipipelineattackrisksdisastrouslossofmillionsofbarrelsofo",
   "376c5c096f516d58",
-  "vietnamssouthernmostprovinceproposesoilrefiningpetrochemical"
+  "vietnamssouthernmostprovinceproposesoilrefiningpetrochemical",
+  "0fffcc6549b8eb0e",
+  "japaneserefinersrushforomancrudeaftersaudipipelineshutdown"
  ],
  "releases_done": {},
  "last_digest": "2026-09-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-16",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-09-16T12:25:14.653515+03:00",
+ "last_run": "2026-09-16T12:30:22.761662+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1496,6 +1496,10 @@
   {
    "d": "2026-09-16",
    "t": "Saudi Pipeline Attack Risks ‘Disastrous’ Loss of Millions of Barrels of Oil - The New York Times"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown"
   }
  ]
 }
