@@ -4,10 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "04d48e1a84def61e",
-  "usseizes61millionincryptofromiranianoilsalesonbinance",
-  "8321d7c5a2153703",
-  "chinasyuancrudeoilfuturesjumptorecordhigh",
   "8160f59899290026",
   "howpolands424millionvenezuelaoildealwentwrongafterusdtpaymen",
   "b061c36fd23a7ba7",
@@ -603,7 +599,11 @@
   "b7e399fe15adf050",
   "nasdaqsp500climbasoilretreattempersprefedjitters",
   "2aba759f6482f21a",
-  "europeansharesriseasoilpausesaheadoffedratedecision"
+  "europeansharesriseasoilpausesaheadoffedratedecision",
+  "f4b2fa5049ae7443",
+  "continentalresourcesstrikesvenezuelaoildevelopmentdeal",
+  "4ea55cf1103e5b91",
+  "analystspredictgaspricejumplongdisruptionfromdamagedpipeline"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T19:50:22.860588+03:00",
+ "last_run": "2026-09-16T19:55:17.762117+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1615,6 +1615,14 @@
   {
    "d": "2026-09-16",
    "t": "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham - CNBC"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Continental Resources strikes Venezuela oil development deal - foxbusiness.com"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Analysts predict gas price jump, long disruption from damaged pipeline - The Washington Post"
   }
  ]
 }
