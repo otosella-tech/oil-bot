@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "b8e3d193bb3ccb31",
-  "peoriagaspricesjump40centsinoneweek",
   "9679a009751f06d3",
   "oilclimbsassaudipipelineoutagefreshattacksheightensupplyconc",
   "81d31c2b2f7c8d33",
@@ -603,7 +601,9 @@
   "d81e56238ee1c5ae",
   "usstockfuturesriseaheadoffeddecisionasoilpriceseaseandaideve",
   "d8de36fecdebb0ab",
-  "goldreboundsasoilpriceseaseaheadofkeyfeddecision"
+  "goldreboundsasoilpriceseaseaheadofkeyfeddecision",
+  "20475145ce4bd70f",
+  "cansaudisupplyconcernskeepwtioilabove105"
  ],
  "releases_done": {},
  "last_digest": "2026-09-16",
@@ -615,7 +615,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T14:00:28.704660+03:00",
+ "last_run": "2026-09-16T14:05:14.137297+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
