@@ -4,10 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "81d31c2b2f7c8d33",
-  "chinasaugustoilthroughputrisesasfuelexportsreboundamidiranwa",
-  "a920286c907ed947",
-  "usdojseeks61millioninwhatitcallsiranscryptolaunderedblackmar",
   "4175f927cfb44c00",
   "oiltankersearn1millionadayaswarleavesshipshortage",
   "d0b642efbe028d81",
@@ -603,7 +599,11 @@
   "20475145ce4bd70f",
   "cansaudisupplyconcernskeepwtioilabove105",
   "a779b51c00306f18",
-  "southafricaturnsusedcookingoilintojetfuelfor120000luxuryflig"
+  "southafricaturnsusedcookingoilintojetfuelfor120000luxuryflig",
+  "77e6fca017f98f45",
+  "currentpriceofoilasofsept162026",
+  "f2da24468152df83",
+  "globaloilpricescouldhithighestlevelsinmonthsaftersaudipipeli"
  ],
  "releases_done": {},
  "last_digest": "2026-09-16",
@@ -615,7 +615,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T14:20:18.355283+03:00",
+ "last_run": "2026-09-16T14:25:14.697399+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1520,6 +1520,10 @@
   {
    "d": "2026-09-16",
    "t": "Oil slips as Saudi Arabia offers more crude via Oman By Reuters - Investing.com"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Global Oil Prices Could Hit Highest Levels in Months After Saudi Pipeline Attacks - The New York Times"
   }
  ]
 }
