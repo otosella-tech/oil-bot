@@ -4,12 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "49d4d129590166f4",
-  "iranalliestargetflowofoilasconflictgrows",
-  "b7433afffe27b132",
-  "crudepricessoarasglobaloilsuppliescontinuetotighten",
-  "a7b6bcf930b3f127",
-  "yieldon10yearustreasurybondspasses5asmideastwardrivesupoilpr",
   "0da0b2b8ed33be0a",
   "iransexportfloordisappearsascrudefallsto210kbd",
   "b771d205d52a454f",
@@ -603,7 +597,13 @@
   "15d848c54e3f9fb0",
   "usprobesiranlinktocyberattacksontexasboundenergytankers",
   "84a655b31c997bea",
-  "trumpallyharoldhammstrikesvenezuelaoildeal"
+  "trumpallyharoldhammstrikesvenezuelaoildeal",
+  "7f5a76abf05978f6",
+  "crudeoilpricessharplylowerasmiddleeastdisruptionsease",
+  "658d27513b2003ea",
+  "middleeastcrudeoilpricessurgeomancrudeclimbsto132asmarketonc",
+  "9ccd95555eb511fd",
+  "saudiaramcocancelseuropeancrudecargoesaskeypipelinestaysshut"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T22:20:18.320404+03:00",
+ "last_run": "2026-09-16T22:25:14.443957+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1667,6 +1667,10 @@
   {
    "d": "2026-09-16",
    "t": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal - The New York Times"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Saudi Aramco Cancels European Crude Cargoes as Key Pipeline Stays Shut - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
