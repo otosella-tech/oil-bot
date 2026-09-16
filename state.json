@@ -4,12 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "ffc3dcc6470118e6",
-  "dollaredgeshigherasstocksfallandcrudeoilrallies",
-  "b99eacbff3b63204",
-  "epatoloosenmethanerulesboostingpollutionfromoilandgaswells",
-  "64541e58c28ade06",
-  "gaspricesjumpacrossnewyorkascrudeoilcostsclimb",
   "45b725055c112bd0",
   "appealscourtupholdsregulatorsdeterminationnopollutionexisted",
   "3804fc00e7efa90b",
@@ -603,7 +597,13 @@
   "998fe5e6ec259482",
   "uscrudeoiltops105assaudiarabiasaidtocancelsomeeuropeancargoe",
   "0a602c95beddc028",
-  "oilpricesriseaftersaudiarabiashutsdowncriticalpipelinethatby"
+  "oilpricesriseaftersaudiarabiashutsdowncriticalpipelinethatby",
+  "bede1765ad678e2f",
+  "saudipipelineoutagehitsanoilmarketrunningoutofbuffers",
+  "eb9227493c722091",
+  "theoilwarcomeshome",
+  "f18382ced693e9d5",
+  "sunocostockbreaksoutoilpricesrisewithnoclearendtohormuzclosu"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-16",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-09-16T02:55:16.084195+03:00",
+ "last_run": "2026-09-16T03:00:28.829560+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1439,6 +1439,14 @@
   {
    "d": "2026-09-16",
    "t": "Chinese Solar Panels Drop to 12 Cents a Watt, Rooftop Installs Surge Worldwide"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure - Investor's Business Daily"
   }
  ]
 }
