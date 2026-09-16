@@ -4,12 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "e69270ccdf4d26b5",
-  "oilpricesriseasmarketawaitsupdatesonsaudipipelineoutage",
-  "3578562fdfd48295",
-  "costcoraisespricesofkirklandmotoroillimitshowmuchshopperscan",
-  "623f42e40b09c3c4",
-  "cantheoilmarketsurviveaforeverwarwithiran",
   "0483d22bd06da645",
   "saudiseastwestoilpipelinedamagedbydrones",
   "8e35e640c2178223",
@@ -603,7 +597,13 @@
   "e00decf413ed280a",
   "itfelthumiliatingmanfindsracialslurinsidetruckaftergettingoi",
   "39c7c0fd57c7f880",
-  "exclusiveadnoctradingbuysmillionsofbarrelsofiraqicrudesource"
+  "exclusiveadnoctradingbuysmillionsofbarrelsofiraqicrudesource",
+  "72d54a3c8137b644",
+  "exportconstraintscurbkazakhstansabilitytooffsettheglobaloils",
+  "a988afe896aceb64",
+  "hungaryneedsoilfromcroatiacanthetwosidesburythehatchet",
+  "eb7d74fda87c60c5",
+  "trumpoilallyharoldhammtoinvestinvenezuela"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T20:55:17.001635+03:00",
+ "last_run": "2026-09-16T21:00:32.735916+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1639,6 +1639,10 @@
   {
    "d": "2026-09-16",
    "t": "EXCLUSIVE: ADNOC Trading buys millions of barrels of Iraqi crude, sources say - Reuters"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Trump oil ally Harold Hamm to invest in Venezuela - Financial Times"
   }
  ]
 }
