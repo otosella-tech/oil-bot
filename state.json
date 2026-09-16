@@ -4,10 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "93161a3e709ee342",
-  "willsaudispipelineoutagerevivetheoilmarketdeficithsbcweighsi",
-  "8191b4091a5923b6",
-  "oilpricesriseastradersgaugelostsaudiarabianvolumesafterpipel",
   "91932a17c4d31608",
   "oilsnexttestsaudiarabiaracestorestoreakeysafetyvalveforprice",
   "9c7993b5d9735791",
@@ -603,7 +599,11 @@
   "993318b01e0fdc26",
   "ttfgashits9295asgulftensionsweighonenergymarkets",
   "58b80d0b318da6ea",
-  "indiaconsiderscuttingvegetableoilimporttaxesaspricesclimb"
+  "indiaconsiderscuttingvegetableoilimporttaxesaspricesclimb",
+  "1e22eb46752d0fc3",
+  "samaltmanissellingutilitiesthecureforacyberattackhisownaicau",
+  "84cb412441bcdc40",
+  "oilpricesfallfridaybutpostsharpweeklygainsastensionsinthemid"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T17:30:23.817600+03:00",
+ "last_run": "2026-09-16T17:35:15.464049+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1563,6 +1563,10 @@
   {
    "d": "2026-09-16",
    "t": "Sweeping Russia-Iran Sanctions Bill Advances Toward House Vote"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Sam Altman Is Selling Utilities the Cure for a Cyberattack His Own AI Caused"
   }
  ]
 }
