@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "3a0d034e26fd80e6",
-  "crudeoilspikesonashutsaudipipelineandunwindsontrumpsposts",
   "8750494e3a1629f1",
   "oilpricesupafternewstrikesonsaudiinfrastructure",
   "3a5bd7f1f42af07c",
@@ -603,7 +601,9 @@
   "afc67a615f39ffe8",
   "oilfallsasuscrudeinventoriesrisedespitesaudisupplyconcernswn",
   "6eba07a06878749d",
-  "oilpricesfallasusinventoriesrise"
+  "oilpricesfallasusinventoriesrise",
+  "955ccbc1bc8b8143",
+  "crudepricessurgeonglobalsupplyrisks"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-16",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-09-16T04:30:21.534126+03:00",
+ "last_run": "2026-09-16T04:35:18.232179+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1451,6 +1451,10 @@
   {
    "d": "2026-09-16",
    "t": "Oil falls as US crude inventories rise despite Saudi supply concerns - Reuters"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Crude Prices Surge on Global Supply Risks - Yahoo Finance"
   }
  ]
 }
