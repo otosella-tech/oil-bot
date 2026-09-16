@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "ff7a65c139ab20f1",
-  "crudeoiltugsatthe100thresholdstraitofhormuztalksemergeasthis",
   "4bc312b3fb22681c",
   "oilextendsgainsfollowinghouthistrikesonsaudiarabia",
   "95977d6c4068daa3",
@@ -603,7 +601,9 @@
   "4b82a3c80506c2cf",
   "oilpricesedgeloweraheadoffeddecision",
   "785c234193d222ce",
-  "aspipelinenearsfinishresistanceinugandaholdsfirm"
+  "aspipelinenearsfinishresistanceinugandaholdsfirm",
+  "f06d276bc1a8ca1c",
+  "oilpricesclimbagainassaudiarabiacancelscrudecargoesafterpipe"
  ],
  "releases_done": {},
  "last_digest": "2026-09-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-16",
-  "count": 45
+  "count": 46
  },
- "last_run": "2026-09-16T11:55:15.718194+03:00",
+ "last_run": "2026-09-16T12:00:26.570580+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
