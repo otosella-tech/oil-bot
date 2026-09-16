@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "8f7d0fbeda74c5f8",
-  "saudiarabiadiscovers110milliontonnesofuranium",
   "a658017f59670f81",
   "iraqplanstodoublecrudeoilproductioncapacityto10millionbpd",
   "3a0d034e26fd80e6",
@@ -603,7 +601,9 @@
   "4cb4e5f70971a3d2",
   "japanaugustimportsjumpasoilpricesliftcostsexportsstayfirm",
   "e0c3f6544d9e9f38",
-  "oilfallsasuscrudeinventoriesrisedespitesaudisupplyconcerns"
+  "oilfallsasuscrudeinventoriesrisedespitesaudisupplyconcerns",
+  "afc67a615f39ffe8",
+  "oilfallsasuscrudeinventoriesrisedespitesaudisupplyconcernswn"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 15
  },
- "last_run": "2026-09-16T04:05:13.875198+03:00",
+ "last_run": "2026-09-16T04:10:20.190136+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
