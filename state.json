@@ -4,12 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "e81ee3e880b5b272",
-  "usstocksfallonfearsaicompaniesfedwillslamthebrakes",
-  "de114765ede5581e",
-  "saudiarabiamaybejustdaysawayfromnotbeingabletoexportmuchoil",
-  "b311aab89b82fd11",
-  "houthislaunchnewattackagainstsaudiarabia",
   "99efb45b9c5172c1",
   "costconearlydoubleskirklandmotoroilpriceswhileimplementingpu",
   "8c162c8ef135f26c",
@@ -603,7 +597,13 @@
   "3bb2403aca503fa2",
   "saudicoalitionsayshouthidronedestroyednearmecca",
   "4a66eec13ec69e78",
-  "unitedstatesontrackforrecordcrudeoilproductionin2026"
+  "unitedstatesontrackforrecordcrudeoilproductionin2026",
+  "bab07e3a433abaa4",
+  "uscrudeoiltops100againlastseeninmayasmarketbracesforprolonge",
+  "85ac82c57fd25514",
+  "up3600thisfreightfundhaspostedthebiggestgainsofalloniranwaro",
+  "3a3182532b36442a",
+  "oilfallsasuscrudeinventoriesrisedespitesaudisupplyconcernseu"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-16",
-  "count": 19
+  "count": 21
  },
- "last_run": "2026-09-16T05:35:14.300204+03:00",
+ "last_run": "2026-09-16T05:40:19.088458+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1459,6 +1459,14 @@
   {
    "d": "2026-09-16",
    "t": "Saudi coalition says Houthi drone destroyed near Mecca - The Mighty 790 KFGO"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war - CNBC"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock - CNBC"
   }
  ]
 }
