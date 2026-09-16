@@ -4,10 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "c77199390ff58164",
-  "eurusdforecastsentimentdeterioratesamidturmoilinbondandoilma",
-  "a35acdae1ab04b6c",
-  "currentpriceofoilasofsept152026",
   "85d1e66310ac5431",
   "newsfromtheoilpatchdieselpricessetuskansasrecords",
   "ef78dcaf154f73a4",
@@ -603,7 +599,11 @@
   "253c43cf75bb6955",
   "iraqtruckssoutherncrudenorthinbidtoraiseexportsviaturkey",
   "9be7e7a9d9207c01",
-  "chinachargesbackintotheoilmarketashormuzchaossendscrudetowar"
+  "chinachargesbackintotheoilmarketashormuzchaossendscrudetowar",
+  "70197825056e00a2",
+  "oilssafetynetisfrayingassaudiarabiaracestorestartakeypipelin",
+  "b70485c8be382ee5",
+  "coastguardfbiboardedtexasboundoiltankeraftershipsnetworkwasp"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T19:25:14.159040+03:00",
+ "last_run": "2026-09-16T19:30:46.714434+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1607,6 +1607,10 @@
   {
    "d": "2026-09-16",
    "t": "China charges back into the oil market as Hormuz chaos sends crude toward $110 - Heartlander News"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline - CNBC"
   }
  ]
 }
