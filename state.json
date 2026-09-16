@@ -4,14 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "9f48410d2f8d97aa",
-  "wallstreetpointstomorelossesasoilbondyieldsriseandoddsofafed",
-  "cb2dda82ccf36026",
-  "saudiarabiacouldrunoutofoilforexportwithindaysaspipelineshut",
-  "11fc21607bbc9dc7",
-  "howtrumpspostscanstillmatterforinvestors",
-  "6ec23ee6590f9074",
-  "usdieselpriceshitnewrecordhighasfuelsqueezebites",
   "d06f2c3d692b89c6",
   "silverpricesteadiesgoldpricefallsasoilshockliftsratepressure",
   "c6c0c95b241df5aa",
@@ -603,7 +595,15 @@
   "c1a67cd2296b72bd",
   "leakedeudraftwouldscraphydrogenmandatesforeu",
   "2b9bc709b0a6e04c",
-  "chinasyuancrudeoilfuturesjumptorecordhigh"
+  "chinasyuancrudeoilfuturesjumptorecordhigh",
+  "9fdfc6607b7fea7d",
+  "equinortargets15milliontonsoflngasqatarexportsstayblocked",
+  "ece213287ff1ba07",
+  "matadorresourceschordenergymagnoliaoilgassmenergyandnorthern",
+  "03b1b56e02d962d6",
+  "saudisseektoresumehalfofkeyoilpipelinewithindays",
+  "dcbfa24ff045e70a",
+  "crescentenergyhighpeakenergyandkosmosenergystockstradedownwh"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T20:00:29.364144+03:00",
+ "last_run": "2026-09-16T20:04:40.095407+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1623,6 +1623,10 @@
   {
    "d": "2026-09-16",
    "t": "Analysts predict gas price jump, long disruption from damaged pipeline - The Washington Post"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Saudis seek to resume half of key oil pipeline within days - Transport Topics"
   }
  ]
 }
