@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "d491327a6b0bf0a0",
-  "libyaoilsecurityforceshuts2fieldsthreatensfullproductionhalt",
   "56f510d74ab0b9e2",
   "iraqseeksgermaninvestmenthintsofoilexportstogermany",
   "e8657e458aa82cba",
@@ -603,7 +601,9 @@
   "6e1413b3d82c48a0",
   "tankerratessmash1millionadayasoilshippingcrisisdeepens",
   "20ca3eaa1710c0a1",
-  "housepassesbillaimedatpunishingtopimportersofrussianoilandga"
+  "housepassesbillaimedatpunishingtopimportersofrussianoilandga",
+  "2521cb98baf66b32",
+  "usmilitaryclaimsstraitofhormuzremainsopenamidongoingblockade"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-17",
-  "count": 14
+  "count": 16
  },
- "last_run": "2026-09-17T02:25:14.297426+03:00",
+ "last_run": "2026-09-17T02:30:23.160556+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1703,6 +1703,10 @@
   {
    "d": "2026-09-17",
    "t": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "US military claims Strait of Hormuz remains open amid ongoing blockade - Al Jazeera"
   }
  ]
 }
