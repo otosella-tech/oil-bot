@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "27c6f4c406336fb3",
-  "gaspricesjumpover20centsinpennsylvaniaascostofcrudeoilrisesa",
   "8f7d0fbeda74c5f8",
   "saudiarabiadiscovers110milliontonnesofuranium",
   "a658017f59670f81",
@@ -603,7 +601,9 @@
   "b98a2758f2edf20a",
   "invenezuelasouthamericaslargestlakeisdyingfromoilpollution",
   "4cb4e5f70971a3d2",
-  "japanaugustimportsjumpasoilpricesliftcostsexportsstayfirm"
+  "japanaugustimportsjumpasoilpricesliftcostsexportsstayfirm",
+  "e0c3f6544d9e9f38",
+  "oilfallsasuscrudeinventoriesrisedespitesaudisupplyconcerns"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-16",
-  "count": 13
+  "count": 15
  },
- "last_run": "2026-09-16T03:45:19.321554+03:00",
+ "last_run": "2026-09-16T03:50:18.799574+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1447,6 +1447,10 @@
   {
    "d": "2026-09-16",
    "t": "Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure - Investor's Business Daily"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Oil falls as US crude inventories rise despite Saudi supply concerns - Reuters"
   }
  ]
 }
