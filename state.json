@@ -4,12 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "76a61f086602e11f",
-  "theoilmarketissendinganincreasinglyloudwarningaboutgasprices",
-  "b768a7a8a78131b6",
-  "costcohikesmotoroilpricesandputslimitsonhowmuchmemberscanbuy",
-  "b16762560d6ee543",
-  "priceofoiltops100abarrelonsept14pertradingeconomics",
   "fcf0a7d462500ee9",
   "whattheclosureofsaudiarabiaseastwestpipelinecouldmeanforoilf",
   "3d71cf1cb27a537c",
@@ -603,7 +597,13 @@
   "e642005151696a34",
   "dalalstreetopensingreenbutcautionprevailsfeddecisioncrudeoil",
   "46e5fddc3ff36998",
-  "oilfallsasianstocksriseaheadoffedratedecision"
+  "oilfallsasianstocksriseaheadoffedratedecision",
+  "db4a48b5cd7c4494",
+  "chinacouldcurbfuelexportsasdieselandgasolinestockssink",
+  "77f335af120004d0",
+  "oilpricesup150926",
+  "9bf7a863c7193a89",
+  "oilfuturescrudeholdsnearhighsassupplycrunchfearsgrow"
  ],
  "releases_done": {},
  "last_digest": "2026-09-16",
@@ -615,7 +615,7 @@
   "date": "2026-09-16",
   "count": 32
  },
- "last_run": "2026-09-16T08:45:17.073434+03:00",
+ "last_run": "2026-09-16T08:50:19.022577+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
