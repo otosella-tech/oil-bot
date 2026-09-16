@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "8750494e3a1629f1",
-  "oilpricesupafternewstrikesonsaudiinfrastructure",
   "3a5bd7f1f42af07c",
   "westvirginialaunchesonlinekinshiphubforfosterandkinshipfamil",
   "7ec23e8229a813c1",
@@ -603,7 +601,9 @@
   "6eba07a06878749d",
   "oilpricesfallasusinventoriesrise",
   "955ccbc1bc8b8143",
-  "crudepricessurgeonglobalsupplyrisks"
+  "crudepricessurgeonglobalsupplyrisks",
+  "583e7a8b9cff7bc1",
+  "japansexportgrowthstayssolidasshipmentsofchipsjump"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 17
  },
- "last_run": "2026-09-16T04:55:50.038138+03:00",
+ "last_run": "2026-09-16T05:00:26.348824+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
