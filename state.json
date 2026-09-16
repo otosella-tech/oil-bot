@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "5734289356b474cb",
-  "oilsoarsassaudipipelinefacesweekslongoutageschorksaysusreser",
   "b05151baf2bac10e",
   "oilpricesjumpasattackschokeoffsaudienergysupply",
   "d491327a6b0bf0a0",
@@ -603,7 +601,9 @@
   "855f3bac561024fa",
   "housepassesmeasureaimedatpunishingtopimportersofrussianoilan",
   "9eded1207f7af073",
-  "somephysicaloilcargoestop130abarrelnearingaprilsrecordonsaud"
+  "somephysicaloilcargoestop130abarrelnearingaprilsrecordonsaud",
+  "6e1413b3d82c48a0",
+  "tankerratessmash1millionadayasoilshippingcrisisdeepens"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-17",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-09-17T01:55:13.905467+03:00",
+ "last_run": "2026-09-17T02:00:28.329467+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1699,6 +1699,10 @@
   {
    "d": "2026-09-17",
    "t": "Some physical oil cargoes top $130 a barrel, nearing April's record, on Saudi disruptions - Reuters"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens"
   }
  ]
 }
