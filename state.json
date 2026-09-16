@@ -4,10 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "70197825056e00a2",
-  "oilssafetynetisfrayingassaudiarabiaracestorestartakeypipelin",
-  "6cff7458a893099f",
-  "brentcrudeoiltestsdefiningresistancelevel",
   "c77199390ff58164",
   "eurusdforecastsentimentdeterioratesamidturmoilinbondandoilma",
   "a35acdae1ab04b6c",
@@ -603,7 +599,11 @@
   "6cd1226c5cba5ba4",
   "bundyieldsdipfrom17yearhighsasoilfallswithfedinfocus",
   "9a50d507f84586ca",
-  "dowjonesforecastdjiacautiousaheadofthefedratedecision"
+  "dowjonesforecastdjiacautiousaheadofthefedratedecision",
+  "253c43cf75bb6955",
+  "iraqtruckssoutherncrudenorthinbidtoraiseexportsviaturkey",
+  "9be7e7a9d9207c01",
+  "chinachargesbackintotheoilmarketashormuzchaossendscrudetowar"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T19:20:19.270382+03:00",
+ "last_run": "2026-09-16T19:25:14.159040+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1599,6 +1599,14 @@
   {
    "d": "2026-09-16",
    "t": "Poland's Orlen buys 16 extra crude cargoes amid Saudi disruption - Reuters"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Iraq trucks southern crude north in bid to raise exports via Turkey - Reuters"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "China charges back into the oil market as Hormuz chaos sends crude toward $110 - Heartlander News"
   }
  ]
 }
