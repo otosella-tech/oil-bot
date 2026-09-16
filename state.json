@@ -4,10 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "1853215bac923bb9",
-  "costcohikeskirklandmotoroilpriceto58l",
-  "620ffe72b7ead1e7",
-  "oilandtreasuryyieldshaventmovedthiscloselyinsevenyearsthatsb",
   "5acecc0f9752d23e",
   "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices",
   "9462dd17862b26a2",
@@ -603,7 +599,11 @@
   "376c5c096f516d58",
   "vietnamssouthernmostprovinceproposesoilrefiningpetrochemical",
   "0fffcc6549b8eb0e",
-  "japaneserefinersrushforomancrudeaftersaudipipelineshutdown"
+  "japaneserefinersrushforomancrudeaftersaudipipelineshutdown",
+  "03b071950ad047c6",
+  "currentpriceofoilasofseptember112026",
+  "5098f958531a579f",
+  "libyaoiloutputholdsnear14millionbpddespitefieldshutdowns"
  ],
  "releases_done": {},
  "last_digest": "2026-09-16",
@@ -615,7 +615,7 @@
   "date": "2026-09-16",
   "count": 50
  },
- "last_run": "2026-09-16T12:30:22.761662+03:00",
+ "last_run": "2026-09-16T12:35:15.454009+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
