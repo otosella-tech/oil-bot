@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "a658017f59670f81",
-  "iraqplanstodoublecrudeoilproductioncapacityto10millionbpd",
   "3a0d034e26fd80e6",
   "crudeoilspikesonashutsaudipipelineandunwindsontrumpsposts",
   "8750494e3a1629f1",
@@ -603,7 +601,9 @@
   "e0c3f6544d9e9f38",
   "oilfallsasuscrudeinventoriesrisedespitesaudisupplyconcerns",
   "afc67a615f39ffe8",
-  "oilfallsasuscrudeinventoriesrisedespitesaudisupplyconcernswn"
+  "oilfallsasuscrudeinventoriesrisedespitesaudisupplyconcernswn",
+  "6eba07a06878749d",
+  "oilpricesfallasusinventoriesrise"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 15
  },
- "last_run": "2026-09-16T04:25:14.684648+03:00",
+ "last_run": "2026-09-16T04:30:21.534126+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
