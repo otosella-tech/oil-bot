@@ -4,10 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "4e409c7f0b0dc980",
-  "oilpricesclimbasirantalksfadesaudisupplyrisksgrow",
-  "489041b1b642d90f",
-  "satelliteimagesshowextentofdamagetosaudiarabiasoilpipelineth",
   "7453ce5299d58916",
   "usseeks61millionincryptocurrencytiedtoiranoilsales",
   "cc6dfb5de6e42461",
@@ -603,7 +599,11 @@
   "4e02b9a283183b8d",
   "saudiarabiashutdowneastwestcrudeoilpipelineaftermultipleatta",
   "946985e344393e88",
-  "oilpricesfallafterussaysdamagedsaudipipelinewillrestartopera"
+  "oilpricesfallafterussaysdamagedsaudipipelinewillrestartopera",
+  "eb56acebd93266dd",
+  "chevronsvenezuelancrudedealboostspascagoularefineryproductio",
+  "4c7a8e1b8152e7c6",
+  "uscrudeoilstockpilesfallproductionhitsrecord"
  ],
  "releases_done": {},
  "last_digest": "2026-09-16",
@@ -615,7 +615,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T16:40:20.041205+03:00",
+ "last_run": "2026-09-16T16:45:18.749312+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1552,6 +1552,10 @@
   {
    "d": "2026-09-16",
    "t": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days - CNBC"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Chevron’s Venezuelan crude deal boosts Pascagoula refinery production - WLOX"
   }
  ]
 }
