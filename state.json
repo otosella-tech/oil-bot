@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "85d1e66310ac5431",
-  "newsfromtheoilpatchdieselpricessetuskansasrecords",
   "ef78dcaf154f73a4",
   "whyiscrudeoilsrallydrivingupnylon6chipprices",
   "21aca32dcb2aed78",
@@ -603,7 +601,9 @@
   "70197825056e00a2",
   "oilssafetynetisfrayingassaudiarabiaracestorestartakeypipelin",
   "b70485c8be382ee5",
-  "coastguardfbiboardedtexasboundoiltankeraftershipsnetworkwasp"
+  "coastguardfbiboardedtexasboundoiltankeraftershipsnetworkwasp",
+  "a35acdae1ab04b6c",
+  "currentpriceofoilasofsept152026"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T19:30:46.714434+03:00",
+ "last_run": "2026-09-16T19:35:16.033724+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
