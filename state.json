@@ -4,10 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "21aca32dcb2aed78",
-  "costcoraisespriceofitsmotoroilthearkansasdemocrat",
-  "2fe6089dbc77c192",
-  "usstrategicpetroleumreservesinkstoitslowestlevelsince1982",
   "57a4b118b588b0e6",
   "antioxidantsforcrudeoilmarkettoaccelerateby2035drivenbyrisin",
   "10b2c535751f0964",
@@ -603,7 +599,11 @@
   "a35acdae1ab04b6c",
   "currentpriceofoilasofsept152026",
   "40264d65293362e6",
-  "diamondbackenergypermianresourcesapacorporationviperenergyan"
+  "diamondbackenergypermianresourcesapacorporationviperenergyan",
+  "59fe29e7f41c4a4f",
+  "rivalscryfoulasfrenchoilgianttotalenergieskeepsgaspricescapp",
+  "33b760936d68a4cd",
+  "housesettopasssweepingrussiasanctionsbillhonoringlindseygrah"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T19:40:18.022872+03:00",
+ "last_run": "2026-09-16T19:45:22.908570+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1611,6 +1611,10 @@
   {
    "d": "2026-09-16",
    "t": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline - CNBC"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham - CNBC"
   }
  ]
 }
