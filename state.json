@@ -4,10 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "483cb93bb5846b4f",
-  "offshoreoilstocksrallywhilethebroadmarketslipstransoceanclim",
-  "a5ba139cbdff4a3b",
-  "smenergycrescentenergysolarisenergyinfrastructuretalosenergy",
   "2fc3b44313c0c322",
   "libyathreatensforcemajeureasoilguardsshutfields",
   "d393c33d5bf81cfc",
@@ -603,7 +599,11 @@
   "bc161f1817b3c503",
   "trumpdonorharoldhammscontinentalresourcestodevelopoilregioni",
   "12e6f235d939685f",
-  "oilpricestickupasconflictwidensdisruptionsgrowinmiddleeast"
+  "oilpricestickupasconflictwidensdisruptionsgrowinmiddleeast",
+  "80c4310d212445bc",
+  "stockssupportedbyloweroilpricesandstrengthinusretailsales",
+  "d129e890b2e052e5",
+  "continentalresourcespdvsasignmouforpotentialvenezuelaoildeve"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T23:20:16.949818+03:00",
+ "last_run": "2026-09-16T23:30:22.573445+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
