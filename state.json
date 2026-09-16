@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "4a25f1aaefb6c2cb",
-  "palmoilfuturesroseagainascrudeoilkeptclimbing",
   "52cc5f62c57a1019",
   "asianstockstofallonaikeyusyieldtops5marketswrap",
   "873eacb132b796aa",
@@ -603,7 +601,9 @@
   "225160ce81b61ab3",
   "kenyaintalkswithdangotegroupfor20blamuturkanacrudepipeline",
   "5acecc0f9752d23e",
-  "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices"
+  "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices",
+  "e516f0ae5ff4e737",
+  "oilpricessurgeasstocksandbondswobble"
  ],
  "releases_done": {},
  "last_digest": "2026-09-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-16",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-09-16T12:45:17.034558+03:00",
+ "last_run": "2026-09-16T12:50:17.959147+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1500,6 +1500,10 @@
   {
    "d": "2026-09-16",
    "t": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Oil Prices Surge as Stocks and Bonds Wobble - The New York Times"
   }
  ]
 }
