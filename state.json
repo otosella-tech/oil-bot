@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "eefbdbdcd23b0772",
-  "soaringoilpricesputfedontrackforseptemberratehike",
   "0f89f4e97b88ae75",
   "crudeoilrallyrunninglowongas",
   "b35e350f472a1c3e",
@@ -603,7 +601,9 @@
   "87a60e70b261426b",
   "consumershitbyonetwopunchofoilandratesfromiranwartheestimate",
   "a600316500777686",
-  "europeansharesriseasoilrallypausesaheadoffeddecision"
+  "europeansharesriseasoilrallypausesaheadoffeddecision",
+  "555ab8fff85cd7ce",
+  "oilnewssaudibarrelscapcrudeasdieseltightnessholdsthefloor"
  ],
  "releases_done": {},
  "last_digest": "2026-09-16",
@@ -615,7 +615,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T15:20:18.672327+03:00",
+ "last_run": "2026-09-16T15:25:15.296138+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
