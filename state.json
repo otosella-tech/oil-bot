@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "f6ffc23b9eb62160",
-  "theoilrollercoasterreachesnewheightsanditsabumpyrideahead",
   "f075b53cd7302f3d",
   "russiaandukraineexchangestrikesdespitetrumpsclaimofatruce",
   "d57c54814518416a",
@@ -603,7 +601,9 @@
   "41de5a4fdd101cd8",
   "inlasomeblackresidentsmaysoonreceiveenvironmentalreparations",
   "19c43ff1fcb38ea6",
-  "haroldhammscontinentalresourcessignspreliminaryoildealinvene"
+  "haroldhammscontinentalresourcessignspreliminaryoildealinvene",
+  "da65ea8b99de02e6",
+  "continentalresourcestodevelopmassiveoilpatchinvenezuela"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T20:20:19.101186+03:00",
+ "last_run": "2026-09-16T20:25:14.311214+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1631,6 +1631,10 @@
   {
    "d": "2026-09-16",
    "t": "Harold Hamm’s Continental Resources Signs Preliminary Oil Deal in Venezuela - wsj.com"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Continental Resources to develop massive oil patch in Venezuela - CNBC"
   }
  ]
 }
