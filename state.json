@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "1e625439b09bdfc2",
-  "trendofoilshipmentsthroughhormuzrisingusswrightsays",
   "df03be9da00ad14d",
   "watchoilsurgesassaudiarabiashutsdownmajorcrudepipeline",
   "f203457703d6a306",
@@ -603,7 +601,9 @@
   "551bddb74fe4119d",
   "hormuzshippingtrafficremainsstuckinsingledigits",
   "fbaf907e38904e5a",
-  "ustreasuryyieldssurgeasfedandoilpressurebonds"
+  "ustreasuryyieldssurgeasfedandoilpressurebonds",
+  "76a61f086602e11f",
+  "theoilmarketissendinganincreasinglyloudwarningaboutgasprices"
  ],
  "releases_done": {},
  "last_digest": "2026-09-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-16",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-09-16T10:05:15.560126+03:00",
+ "last_run": "2026-09-16T10:10:19.166767+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1468,6 +1468,10 @@
   {
    "d": "2026-09-16",
    "t": "Coast Guard, FBI boarded Texas-bound commercial oil tanker to investigate cyberattack - CBS News"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "The oil market is sending an increasingly loud warning about gas prices at the pump - MarketWatch"
   }
  ]
 }
