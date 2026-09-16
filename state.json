@@ -4,10 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "498c67bb16f7de9c",
-  "crudeoilrisesfor2ndsession",
-  "cdcc67276f83bae0",
-  "omantowsoiltankerattackedoffitscoasttwocrewmissing",
   "77caa2d5fa05e2e0",
   "wticrudeoilfuturespullbackafter8sessionrally",
   "3f8c463b35875e1a",
@@ -603,7 +599,11 @@
   "075ab3fbd27107b8",
   "useiacrudeoilinventories06mlnbarrelsinlatestweekfromprevious",
   "a4c7267757f4106f",
-  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump"
+  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
+  "a2b015cce9f2f553",
+  "fueloilanddieselpricesareatrecordhighsasiranconflictcontinue",
+  "39a00b57f003c387",
+  "uscrudeoilstockpilespostmoderatedraw"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-16",
   "count": 60
  },
- "last_run": "2026-09-16T18:10:18.132251+03:00",
+ "last_run": "2026-09-16T18:15:19.028207+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
