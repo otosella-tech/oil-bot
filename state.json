@@ -4,10 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "7bffb3a3da400146",
-  "usstocksretreatonaiwarningsasoilpricesbondyieldsrise",
-  "516d16a33d45deab",
-  "aaagaspricesjump30centsascrudeoilrises",
   "8e09eefb53354afe",
   "newmitprocesscouldsolvehydrogensbiggestsupplychainproblem",
   "306e060086d0be93",
@@ -603,7 +599,11 @@
   "93e7f6f15ecb0a79",
   "indiansharesseenopeninghigherafterselloffhigheroilfedcaution",
   "e04cc2dc630886f9",
-  "japanrecordsatradedeficitfor4thmonthasoilimportssoar"
+  "japanrecordsatradedeficitfor4thmonthasoilimportssoar",
+  "60f4f58e73884ce9",
+  "trumpislookingfordieselinallthewrongplaces",
+  "33f2a84cb11f20a9",
+  "coastguardfbiboardedtexasboundcommercialoiltankertoinvestiga"
  ],
  "releases_done": {
   "2026-09-15|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-16",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-09-16T05:55:14.537405+03:00",
+ "last_run": "2026-09-16T06:00:28.610364+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1467,6 +1467,10 @@
   {
    "d": "2026-09-16",
    "t": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock - CNBC"
+  },
+  {
+   "d": "2026-09-16",
+   "t": "Coast Guard, FBI boarded Texas-bound commercial oil tanker to investigate cyberattack - CBS News"
   }
  ]
 }
