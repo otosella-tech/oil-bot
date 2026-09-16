@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "39c567b51750c1ee",
-  "heatingcoststospikethiswinterasiranwardrivesupglobalenergyco",
   "051cf05dff7c36f7",
   "saudirunningoutofoilexportoptionsasiranallieschokeroutesal",
   "1e0d690b1e6b33b0",
@@ -603,7 +601,9 @@
   "b482a45f83a930d0",
   "oilabove100pushesusfuelpricestonewrecords",
   "6e166b54b8d1522e",
-  "anyiranceasefireneedsaplanfortheshipsandoilalreadyseized"
+  "anyiranceasefireneedsaplanfortheshipsandoilalreadyseized",
+  "d17b4084ce5f52eb",
+  "oilfuturescruderowsbackfromhighsmideastsupplyrouteseyed"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-17",
   "count": 6
  },
- "last_run": "2026-09-17T01:15:18.165391+03:00",
+ "last_run": "2026-09-17T01:20:18.387187+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
