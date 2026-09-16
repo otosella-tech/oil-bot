@@ -4,8 +4,6 @@
   "Brent": 108.2
  },
  "seen": [
-  "d2be56cda246a97b",
-  "keysaudioilpipelinedamagedindroneattack",
   "37dc867001a20ac4",
   "stocksofcrudeoilinussprfellbyabout36mlnbarrelsto285mlnbarrel",
   "4be3c83f12ed2734",
@@ -603,7 +601,9 @@
   "2d03f446d26cc5a1",
   "oilrisesagainonreportsofsaudiarabiacrudeloadingslowdown",
   "84ed357b9c15b303",
-  "oilfallsasuscrudeinventoriesreportedlyrisetradersweighsaudip"
+  "oilfallsasuscrudeinventoriesreportedlyrisetradersweighsaudip",
+  "154985d676f282e6",
+  "indiansharesopenhigherafterselloffhigheroilfedcautioncapgain"
  ],
  "releases_done": {},
  "last_digest": "2026-09-15",
@@ -615,7 +615,7 @@
   "date": "2026-09-16",
   "count": 24
  },
- "last_run": "2026-09-16T07:20:20.287247+03:00",
+ "last_run": "2026-09-16T07:25:13.820140+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
