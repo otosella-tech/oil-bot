@@ -4,10 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "8cf29203eec0bafe",
-  "usstockfuturesriseasoilpricesretreataheadoffederalreservedec",
-  "6d0a887fd7feb79b",
-  "wheatfutureseaseontechnicalsellingandweakercrudeoil",
   "a6a13c7060d50e86",
   "europeanstocksriseasoilpricesstabiliseaheadoffeddecisiondaxc",
   "ac83849faec1b63b",
@@ -603,7 +599,11 @@
   "b7da86eb4ef2f172",
   "russiasyaroslavlrefineryshutsprocessingafteradroneattacksour",
   "2aa1d4e1f85fbfda",
-  "ieachiefelectrificationstillenergystopbetdespiteaifears"
+  "ieachiefelectrificationstillenergystopbetdespiteaifears",
+  "9d0de7e86cf848cd",
+  "trumpwantstosendacheckpayamericansbackthe108billionhisiranwa",
+  "97d6d153426f5991",
+  "chinesescientistsdevelopnewoilrefiningmethodthatcutsenergyus"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T20:05:14.206793+03:00",
+ "last_run": "2026-09-17T20:10:19.990342+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1876,6 +1876,10 @@
   {
    "d": "2026-09-17",
    "t": "Russia's Yaroslavl refinery shuts processing after a drone attack, sources say - Reuters"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "Trump wants to send a check? Pay Americans back the $108 billion his Iran War cost them at the pump first - California State Portal | CA.gov"
   }
  ]
 }
