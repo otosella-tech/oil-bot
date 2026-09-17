@@ -4,10 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "78d2bac4be6414ef",
-  "uscrudeoilinventoriesdeclineasfuelstocksincreasebyinvestingc",
-  "69957359c61b349e",
-  "costcolimitsmotoroilpurchasesascrudehits4monthhighs",
   "9035283f6e1ac645",
   "totalenergiesupcontroversyinfrancewithcappedgasolineprices",
   "7bf44f25800bf3b7",
@@ -603,7 +599,11 @@
   "9fbbdbeeea08d3a1",
   "continuedslowdrainingofoilatoklahomascushinghub",
   "a4c7267757f4106f",
-  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump"
+  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
+  "ffacd37cd93ca659",
+  "uscrudeoilstockpilespostmoderatedraw",
+  "ad480948b9e1f168",
+  "surgingheatingoilcostspromptgillibrandtocallforswiftenergyai"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T22:00:32.257536+03:00",
+ "last_run": "2026-09-17T22:05:15.409463+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
