@@ -4,8 +4,6 @@
   "Brent": 101.7
  },
  "seen": [
-  "f06d276bc1a8ca1c",
-  "oilpricesclimbagainassaudiarabiacancelscrudecargoesafterpipe",
   "119bb7de2a99503f",
   "massachusettsheatingoilcostssurgingbeforecoldweatherevenarri",
   "33cb8f973a790953",
@@ -603,7 +601,9 @@
   "b2012cb4e98426ac",
   "ukenergybillscouldjump25",
   "92b2fda9220498f2",
-  "hereswhattheworldisdoingandnotdoingtostaveoffthenextoilshock"
+  "hereswhattheworldisdoingandnotdoingtostaveoffthenextoilshock",
+  "61965aa522de41a1",
+  "wallstreetfuturesreboundascrudedropsbelow100andbondyieldseas"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T16:35:14.556416+03:00",
+ "last_run": "2026-09-17T16:40:19.528923+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
