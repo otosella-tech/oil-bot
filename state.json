@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "a4bf19844381a5d8",
-  "oiljumpsascrudeloadingsatsaudiarabiasyanbuportreportedlysusp",
   "fa3b9765c63c4fcc",
   "crudeoilralliesagainassaudiarabiasroutearoundhormuzshuts",
   "e34b4e679a26f965",
@@ -603,7 +601,9 @@
   "1305fa86e8d25ec1",
   "energymarketsunderchokepointstressthe2026hormuzshock",
   "efbdd554aa7f446e",
-  "cmewticrudeoilfutureseaseasdieselhitsrecordhigh"
+  "cmewticrudeoilfutureseaseasdieselhitsrecordhigh",
+  "d16d775a50470fda",
+  "stanchartseeshigheroilfloorashormuzcrisisspreadstosaudiexpor"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-17",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-09-17T02:55:14.138399+03:00",
+ "last_run": "2026-09-17T03:00:28.926010+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1707,6 +1707,10 @@
   {
    "d": "2026-09-17",
    "t": "US military claims Strait of Hormuz remains open amid ongoing blockade - Al Jazeera"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes"
   }
  ]
 }
