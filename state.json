@@ -4,10 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "ac83849faec1b63b",
-  "petroleumcouncilgathersinwatfordcitytocelebrategrowthplotbak",
-  "788d751356bb4cda",
-  "wallstreetholdssteadyaheadofthefedsdecisionasoilpricesandbon",
   "b9efc484a2f7cfea",
   "eianowseesbiggeroilcrunchin2026glutin2027",
   "169b01f0a61daec6",
@@ -603,7 +599,11 @@
   "97d6d153426f5991",
   "chinesescientistsdevelopnewoilrefiningmethodthatcutsenergyus",
   "5a67a6a344d9c0d0",
-  "dieselpricessurgeasglobalsuppliestighten"
+  "dieselpricessurgeasglobalsuppliestighten",
+  "b6cc12ea97bbac75",
+  "oilpricesfallassaudiarabiareportedlyoffersmorecrudeviahormuz",
+  "67e7373f9e9431d6",
+  "californiaresourcesunloadsuintaassets"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T20:20:19.281687+03:00",
+ "last_run": "2026-09-17T20:25:15.049447+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1880,6 +1880,10 @@
   {
    "d": "2026-09-17",
    "t": "Trump wants to send a check? Pay Americans back the $108 billion his Iran War cost them at the pump first - California State Portal | CA.gov"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack - CNBC"
   }
  ]
 }
