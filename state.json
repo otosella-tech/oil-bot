@@ -4,14 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "23a4809fdf0c4320",
-  "oilslipsassaudiarabiaoffersmorecrudeviaomaneuronextmarketsre",
-  "6404c8d85f4737d1",
-  "guyanaoilexportstopus15billioninfirsthalfof2026",
-  "61bd774c20111193",
-  "crudeoilfallsbelow103",
-  "f6ac121855a675de",
-  "polandsorlenbuys16extracrudecargoesamidsaudidisruption",
   "7606699ac2d0ccb4",
   "oilproducersslideascruderetreatseogresourcesdrops6conocophil",
   "6cd1226c5cba5ba4",
@@ -603,7 +595,15 @@
   "d3adc0fb4015924e",
   "ruralidahodrivershithardbyhighfuelcosts",
   "9792f4865b167a94",
-  "yaroslavloilrefinerysuspendsoperationsafterdroneattackreuter"
+  "yaroslavloilrefinerysuspendsoperationsafterdroneattackreuter",
+  "055d095e1c4f44b7",
+  "usstocksriseoninflationcontainmenthopes",
+  "e5540b348df26752",
+  "lowercrudeoilpricestreasuryyieldssparkrallyonwallstreet",
+  "12fb48d6b0549f5a",
+  "usequitymarketsendhigheraftergovernmentbondyieldscrudeoilpri",
+  "0ca0a3c8b4277531",
+  "usstocksrallytotheirbestdayin6weeksafteroilpricesandbondyiel"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T23:20:21.962947+03:00",
+ "last_run": "2026-09-17T23:25:15.202064+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
