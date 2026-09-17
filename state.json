@@ -4,10 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "6c082f0b4234fe74",
-  "chinasyuancrudeoilfuturesreachrecordhighonmiddleeastsupplyfe",
-  "018d93858e4a34ac",
-  "pumppricessoarineverystatewithdieselatrecordhighs",
   "2ced320286257df2",
   "wticrudeoilfutureshitnewhighamidsupplyconcerns",
   "8d9eb413ae98e5b9",
@@ -603,7 +599,11 @@
   "75cd3a4286e54055",
   "uscrudeoilinventoriesdown02inweekendingsept11",
   "93437939e396391d",
-  "saudiarabiasatelliteimagerevealsmajordamagethatshutcrucialoi"
+  "saudiarabiasatelliteimagerevealsmajordamagethatshutcrucialoi",
+  "432a8a1cfb476280",
+  "soaringlngpricespushasiandemandtowardsecondannualdecline",
+  "d99e0cdf83a7cb88",
+  "iraqmovessoutherncrudebytrucktoboosttrkiyeexports"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-17",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-09-17T09:40:20.695015+03:00",
+ "last_run": "2026-09-17T09:45:31.223673+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1736,6 +1736,10 @@
   {
    "d": "2026-09-17",
    "t": "Saudi Arabia: Satellite image reveals major damage that shut crucial oil pipeline - BBC"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "Soaring LNG Prices Push Asian Demand Toward Second Annual Decline"
   }
  ]
 }
