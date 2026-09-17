@@ -4,10 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "177c9996e73c6f59",
-  "nocommentfromriyadhonoilcancellationsaseuropeanrefinerswait",
-  "b460c812856274b4",
-  "germanyweighsmarketincentivestoboostrecordlowgasstoragelevel",
   "3f749cf8b6762a67",
   "chineseoilpriceshitrecordhighsafterattacksonsaudipipeline",
   "4e02b9a283183b8d",
@@ -603,7 +599,11 @@
   "6883ce77f041b945",
   "usstocksrallyingamidfallingcrudeoilpricestreasuryyields",
   "c105c7b90333d696",
-  "oilfalls2tooneweeklowasmiddleeastsupplydisruptionfearsease"
+  "oilfalls2tooneweeklowasmiddleeastsupplydisruptionfearsease",
+  "771e21e5a82d3fc9",
+  "canstrongoilpricesdriveexxonmobilsbusinessgrowth",
+  "41c31e0d5e0d5f1b",
+  "foreigntankersmovemillionsinoilwithouttellingusagency"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T19:35:15.723510+03:00",
+ "last_run": "2026-09-17T19:40:20.594036+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1856,6 +1856,10 @@
   {
    "d": "2026-09-17",
    "t": "Oil prices ease as flows from Strait of Hormuz remain limited - Transport Topics"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "Foreign Tankers Move Millions in Oil Without Telling US Agency - Bloomberg Government News"
   }
  ]
 }
