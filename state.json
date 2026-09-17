@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "ce0479d28a800e93",
-  "gaspricesinorlandohit415pergallonasoilcostsclimb",
   "a3172430172a860f",
   "oilpricesclimbhigher",
   "424ff1d38e97cc02",
@@ -603,7 +601,9 @@
   "580233c232ac38cc",
   "usfirmheeneycapitaltooperatevenezuelagoldminecontinentalseek",
   "5fffec9b447f535d",
-  "oilfuturesriseasmoreoilroutesareobstructed"
+  "oilfuturesriseasmoreoilroutesareobstructed",
+  "1b8e171dbe5582c4",
+  "usoiltops105assaudiarabiareportedlycancelssomecrudecargoesaf"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-17",
-  "count": 20
+  "count": 21
  },
- "last_run": "2026-09-17T04:25:13.611350+03:00",
+ "last_run": "2026-09-17T04:30:26.235031+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
