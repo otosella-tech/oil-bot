@@ -4,12 +4,6 @@
   "Brent": 100.28
  },
  "seen": [
-  "4be622d9d54134e8",
-  "americanshavespent100billionmoreonfuelduringtheiranwar",
-  "f3f5e029c420471c",
-  "saudioffersmorecrudeviaomanloadingafterpipelineattackssource",
-  "8c404a1bfa0f809e",
-  "oilexecutivessaythegreatfuelcrisisishere",
   "ade13c5f9ea0421a",
   "oilslipsonusstockbuildmiddleeastdisruptionslimitlosses",
   "e642005151696a34",
@@ -603,7 +597,13 @@
   "1e67bc9aab7b66cb",
   "trumpgainsatariffweaponagainstchinaandindiawillheuseit",
   "760644ccbc3ffbe8",
-  "fromyanbutosohartrackingsaudiarabiasalternativeoilroutes"
+  "fromyanbutosohartrackingsaudiarabiasalternativeoilroutes",
+  "9137e40ad5ea3bbb",
+  "brentcrudeoilpricehasstagnatedisitacalmbeforethestorm",
+  "9807af2ea7a9d14f",
+  "oilpricesdeclineassaudiarabiatakesstepstomaintaincrudeexport",
+  "3263c57246ce349c",
+  "uspassesbilltargetingimportersofrussianoil"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-17",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-09-17T13:05:15.284441+03:00",
+ "last_run": "2026-09-17T13:10:19.376376+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1764,6 +1764,14 @@
   {
    "d": "2026-09-17",
    "t": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia-Houthis trade strikes - CNBC"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "Oil Prices Decline as Saudi Arabia Takes Steps to Maintain Crude Exports - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "US passes bill targeting importers of Russian oil - Financial Times"
   }
  ]
 }
