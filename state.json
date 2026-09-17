@@ -4,8 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "0492ea7c0d11a6f8",
-  "costcoputsapriceontheoilcrunch",
   "861d4893c76278a2",
   "marketssteadyasinvestorsawaitratedecision",
   "07e37643a6c7d74e",
@@ -603,7 +601,9 @@
   "84cb412441bcdc40",
   "oilpricesfallfridaybutpostsharpweeklygainsastensionsinthemid",
   "9d9b8b81d2254ee6",
-  "exclusiveusshaleoilproducerhighpeakenergyexploringsalesource"
+  "exclusiveusshaleoilproducerhighpeakenergyexploringsalesource",
+  "c2903b8068567cf6",
+  "crudeoilsellsoffandtakesitallbackonsaudicargoesthroughoman"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T21:20:20.407989+03:00",
+ "last_run": "2026-09-17T21:25:15.475476+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
