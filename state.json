@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "afc67a615f39ffe8",
-  "oilfallsasuscrudeinventoriesrisedespitesaudisupplyconcernswn",
   "6eba07a06878749d",
   "oilpricesfallasusinventoriesrise",
   "955ccbc1bc8b8143",
@@ -603,7 +601,9 @@
   "6a6e0d52a3f71ec9",
   "thailandseesenergytransitionasshieldagainstoilvolatility",
   "e319878f80742b3a",
-  "eiareportsanotherdropinuscrudeoilstocks"
+  "eiareportsanotherdropinuscrudeoilstocks",
+  "62b18045388b0750",
+  "howtheoilpainmayworsen"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 47
  },
- "last_run": "2026-09-17T10:55:14.042823+03:00",
+ "last_run": "2026-09-17T11:00:29.740281+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
