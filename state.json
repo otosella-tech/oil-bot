@@ -4,8 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "7748496e0c789b42",
-  "costtoshipuscrudeoiltoasiahitsrecord448m",
   "d7fc80655dc0bc8c",
   "usstocksregaininggroundascrudeoilpricespullbacksharply",
   "23a4809fdf0c4320",
@@ -603,7 +601,9 @@
   "b09119f739660752",
   "oilfalls1asinvestorswatchmiddleeastsupplydisruptions",
   "20e7664faf98dead",
-  "oilfallsasmideastflowsimprove"
+  "oilfallsasmideastflowsimprove",
+  "d3adc0fb4015924e",
+  "ruralidahodrivershithardbyhighfuelcosts"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T23:10:20.854235+03:00",
+ "last_run": "2026-09-17T23:15:18.856596+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
