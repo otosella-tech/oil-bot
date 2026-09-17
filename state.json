@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "9fefae0522c7b85c",
-  "whyoilbearsmaymakeastandaspricesapproachhighs",
   "3bb2403aca503fa2",
   "saudicoalitionsayshouthidronedestroyednearmecca",
   "4a66eec13ec69e78",
@@ -603,7 +601,9 @@
   "246d22d48f3755fe",
   "oilfuturescrudeeasesaspartialrestarteyedonsaudiewpipeline",
   "e18279d9b28b45f8",
-  "oilpricesextendlossesassupplydisruptionfearsease"
+  "oilpricesextendlossesassupplydisruptionfearsease",
+  "4f563a5a20095cbf",
+  "stocksrallyyieldsfallasloweroilboostsmarketmood"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 50
  },
- "last_run": "2026-09-17T11:50:20.101564+03:00",
+ "last_run": "2026-09-17T11:55:14.630368+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
