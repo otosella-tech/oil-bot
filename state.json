@@ -4,8 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "19c43ff1fcb38ea6",
-  "haroldhammscontinentalresourcessignspreliminaryoildealinvene",
   "da65ea8b99de02e6",
   "continentalresourcestodevelopmassiveoilpatchinvenezuela",
   "1e032dab5ecd7251",
@@ -603,7 +601,9 @@
   "abfceae14cf1a7a9",
   "stocksrallytotheirbestdayin6weeksafteroilpricesandbondyields",
   "f0c7a97b1acc66d4",
-  "saudipipelineoutagecoulddeepentheglobalfuelcrunch"
+  "saudipipelineoutagecoulddeepentheglobalfuelcrunch",
+  "5eb1042a599943e8",
+  "sp500nasdaqdowendhigherasdropinoilpricesallaysinflationaryco"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-18",
   "count": 9
  },
- "last_run": "2026-09-18T02:10:21.030743+03:00",
+ "last_run": "2026-09-18T02:15:19.097802+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
