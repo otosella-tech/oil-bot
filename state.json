@@ -4,8 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "a33bf259f6ba8d2c",
-  "currentpriceofoilasofseptember162026",
   "ab31d4ed45e107fb",
   "kenyaintalkswithdangotegroupfor20blamuturkanacrudepipelinepi",
   "0b21fa62ba79eba7",
@@ -603,7 +601,9 @@
   "4bb9909f01f1d14d",
   "oilpriceseaseasflowsfromstraitofhormuzremainlimited",
   "ebde3ab7f23f2253",
-  "usstocksriseafteroilpricesfallandpressurefromthebondmarketea"
+  "usstocksriseafteroilpricesfallandpressurefromthebondmarketea",
+  "7c0f06aebe1c93db",
+  "dowjonesindustrialaveragereboundsascrudeoilandbondyieldsfall"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T19:20:21.450120+03:00",
+ "last_run": "2026-09-17T19:25:14.905700+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
