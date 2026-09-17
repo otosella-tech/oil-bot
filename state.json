@@ -4,8 +4,6 @@
   "Brent": 101.7
  },
  "seen": [
-  "71a740be45a3ae83",
-  "oilslipsassaudiarabiaoffersmorecrudeviaomandieselnearrecordh",
   "a825d4617a1e947b",
   "oilparesgainsstockfuturessteadyascautiousoptimismheraldsfedd",
   "c972d0dab5fbd758",
@@ -603,7 +601,9 @@
   "317d96881fd65d53",
   "barrelsofsakeandrooftopgalasenergytraderstoastthewarboom",
   "5acecc0f9752d23e",
-  "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices"
+  "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices",
+  "d43438977a101362",
+  "ukrainehitsrefineryasmoscowpreparestoextenddieselexportban"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T17:25:15.561105+03:00",
+ "last_run": "2026-09-17T17:30:24.432084+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1816,6 +1816,10 @@
   {
    "d": "2026-09-17",
    "t": "Barrels of Sake and Rooftop Galas: Energy Traders Toast the War Boom - WSJ"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "Ukraine Hits Refinery as Moscow Prepares to Extend Diesel Export Ban"
   }
  ]
 }
