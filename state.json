@@ -4,8 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "6cd1226c5cba5ba4",
-  "bundyieldsdipfrom17yearhighsasoilfallswithfedinfocus",
   "9a50d507f84586ca",
   "dowjonesforecastdjiacautiousaheadofthefedratedecision",
   "253c43cf75bb6955",
@@ -603,7 +601,9 @@
   "0ca0a3c8b4277531",
   "usstocksrallytotheirbestdayin6weeksafteroilpricesandbondyiel",
   "33ce7a12fab26ebc",
-  "howasaudipipelineattackisputtingeuropesoilsecuritytothetest"
+  "howasaudipipelineattackisputtingeuropesoilsecuritytothetest",
+  "0ea8b9c8173ab938",
+  "stockssettlesharplyhigherascrudeoilandbondyieldsfall"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T23:35:14.609735+03:00",
+ "last_run": "2026-09-17T23:40:19.132775+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
