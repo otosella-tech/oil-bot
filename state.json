@@ -4,10 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "afdde6fc82fc7c85",
-  "texasgaspricesnearseptemberrecordhighaveragehits386agallon",
-  "4402050d39b41a9c",
-  "energyshockputsbankofenglandunderpressuretoraiserates",
   "7748496e0c789b42",
   "costtoshipuscrudeoiltoasiahitsrecord448m",
   "d7fc80655dc0bc8c",
@@ -603,7 +599,11 @@
   "750e252924d99d15",
   "aaagaspricescontinuetoclimbascrudeoilremainshighdieselreache",
   "478e7b2d3669b633",
-  "usandhouthisopentalksassaudioilcrisisdeepens"
+  "usandhouthisopentalksassaudioilcrisisdeepens",
+  "b09119f739660752",
+  "oilfalls1asinvestorswatchmiddleeastsupplydisruptions",
+  "20e7664faf98dead",
+  "oilfallsasmideastflowsimprove"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T23:00:29.305024+03:00",
+ "last_run": "2026-09-17T23:05:19.682064+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
