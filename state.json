@@ -4,10 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "3f749cf8b6762a67",
-  "chineseoilpriceshitrecordhighsafterattacksonsaudipipeline",
-  "4e02b9a283183b8d",
-  "saudiarabiashutdowneastwestcrudeoilpipelineaftermultipleatta",
   "946985e344393e88",
   "oilpricesfallafterussaysdamagedsaudipipelinewillrestartopera",
   "eb56acebd93266dd",
@@ -603,7 +599,11 @@
   "771e21e5a82d3fc9",
   "canstrongoilpricesdriveexxonmobilsbusinessgrowth",
   "41c31e0d5e0d5f1b",
-  "foreigntankersmovemillionsinoilwithouttellingusagency"
+  "foreigntankersmovemillionsinoilwithouttellingusagency",
+  "8b8a2cccd1b8d240",
+  "trumpsaysustakingmillionsofbarrelsofoilfromvenezuela",
+  "6053aed3a2bcd83d",
+  "goldpricesriseamidweakeningusdollarfallingoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T19:40:20.594036+03:00",
+ "last_run": "2026-09-17T19:45:19.611956+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
