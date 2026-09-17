@@ -4,10 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "250b29cfa070fea7",
-  "oilprivatesurveyofinventoryshowsaheadlinecrudeoilbuildvsdraw",
-  "055306c2edf7b2b3",
-  "mideastescalationrisksanoilshockaheadofthemidterms",
   "6077bdcb2bf5a668",
   "2chartsshowinghowoilisbecomingtheglobalmarketsbiggestwildcar",
   "9b6ef8be3c75c108",
@@ -603,7 +599,11 @@
   "57f9f0480c9017f8",
   "goldrisesover1asinvestorsdigestfedhikeoilrallystalls",
   "0f91b8aa71745042",
-  "haroldhammsoilcompanyannouncesvenezueladeal"
+  "haroldhammsoilcompanyannouncesvenezueladeal",
+  "2856aca9f933a5cd",
+  "itcostsarecord448milliontoshipuscrudeoiltoasia",
+  "b68135408c385b0b",
+  "usoilinventoriesjumpascushingstockskeepfalling"
  ],
  "releases_done": {
   "2026-09-16|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-17",
   "count": 24
  },
- "last_run": "2026-09-17T05:40:18.156995+03:00",
+ "last_run": "2026-09-17T05:45:18.095408+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
