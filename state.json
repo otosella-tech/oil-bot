@@ -4,10 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "861d4893c76278a2",
-  "marketssteadyasinvestorsawaitratedecision",
-  "07e37643a6c7d74e",
-  "uscrudeoilinventoriesfalllessthanexpected",
   "075ab3fbd27107b8",
   "useiacrudeoilinventories06mlnbarrelsinlatestweekfromprevious",
   "a4c7267757f4106f",
@@ -603,7 +599,11 @@
   "9d9b8b81d2254ee6",
   "exclusiveusshaleoilproducerhighpeakenergyexploringsalesource",
   "c2903b8068567cf6",
-  "crudeoilsellsoffandtakesitallbackonsaudicargoesthroughoman"
+  "crudeoilsellsoffandtakesitallbackonsaudicargoesthroughoman",
+  "7a03c531e195880f",
+  "analyzingtheimplicationsofthenewusroleinvenezuelanoil",
+  "a48a8a1413bc1a61",
+  "jpmorgananalystsunsurehowtomodeloilasiranwardragson"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T21:30:27.026869+03:00",
+ "last_run": "2026-09-17T21:35:16.886162+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1884,6 +1884,10 @@
   {
    "d": "2026-09-17",
    "t": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack - CNBC"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "JP Morgan Analysts Unsure How to Model Oil as Iran War Drags On - Bloomberg.com"
   }
  ]
 }
