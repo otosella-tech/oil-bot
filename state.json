@@ -4,10 +4,6 @@
   "Brent": 101.7
  },
  "seen": [
-  "119bb7de2a99503f",
-  "massachusettsheatingoilcostssurgingbeforecoldweatherevenarri",
-  "33cb8f973a790953",
-  "eurogainsagainstcanadiandollarasoilpricesretreatonrisinguscr",
   "dc7371d2ca021422",
   "saudipipelineattackrisksdisastrouslossofmillionsofbarrelsofo",
   "376c5c096f516d58",
@@ -603,7 +599,11 @@
   "92b2fda9220498f2",
   "hereswhattheworldisdoingandnotdoingtostaveoffthenextoilshock",
   "61965aa522de41a1",
-  "wallstreetfuturesreboundascrudedropsbelow100andbondyieldseas"
+  "wallstreetfuturesreboundascrudedropsbelow100andbondyieldseas",
+  "e9b257b0b2bc1086",
+  "stocksandbondsrallyafterfedhikesratesandoilpricesfall",
+  "c29b51f764360b3d",
+  "oilpricesfallassaudicrudeflowseasesupplyconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T16:40:19.528923+03:00",
+ "last_run": "2026-09-17T16:45:19.686296+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
