@@ -4,12 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "865f0a6748ed68af",
-  "saudipipelinehitbydroneswillbeoutofserviceforweeksfurtherres",
-  "a34967d77db62c2f",
-  "wallstreetcloseslowerasyieldsriseandcrudeoilsurges",
-  "1f38a0c7dd098518",
-  "kosmosenergykosstockisupwhatyouneedtoknow",
   "d56c6abc3651a013",
   "howtheiranwaristransformingtherelationshipbetweenstocksbonds",
   "1a346e0178a38a68",
@@ -603,7 +597,13 @@
   "7225cc5942116b48",
   "oilpricesslideassaudiarabiareroutescrudeviaoman",
   "636df1c5952c11ca",
-  "wallstendslowerafterfedhikesinterestratesseesmoretighteninga"
+  "wallstendslowerafterfedhikesinterestratesseesmoretighteninga",
+  "debe6caad30f3398",
+  "goldrisesasinvestorsdigestfedhikeoilrallystalls",
+  "768485dc813426a7",
+  "hormuzriskopens40pluspricegapbetweencrudegrades",
+  "e442c29b3c67e6ee",
+  "saudiarabiahasshutacriticaloilpipelinehereswhyitmattersforth"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-17",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-09-17T08:20:19.511098+03:00",
+ "last_run": "2026-09-17T08:25:17.535115+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1720,6 +1720,14 @@
   {
    "d": "2026-09-17",
    "t": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades - oilprice.com"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "Saudi Arabia has shut a critical oil pipeline. Here’s why it matters for the global oil market - CNN"
   }
  ]
 }
