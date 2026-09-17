@@ -4,10 +4,6 @@
   "Brent": 100.28
  },
  "seen": [
-  "fbaf907e38904e5a",
-  "ustreasuryyieldssurgeasfedandoilpressurebonds",
-  "76a61f086602e11f",
-  "theoilmarketissendinganincreasinglyloudwarningaboutgasprices",
   "913d965b491ba4fe",
   "oilslipsonusstockbuildmiddleeastdisruptionsinfocus",
   "27c6864bba88e983",
@@ -603,7 +599,11 @@
   "93ed8f05738fcc40",
   "goldsilverreboundaseasingoilrallytempersinflationconcerns",
   "6bf996dfc8b0fae4",
-  "investorsseeelevatedpriceswellintonextyear"
+  "investorsseeelevatedpriceswellintonextyear",
+  "529b1a5109ed516e",
+  "lngpricescouldjumpfurtherashormuzsupplycrunchpersists",
+  "f24b2eb2582ad7b9",
+  "iraqmovessoutherncrudebytrucktoboosttrkiyeexportsegyptoil"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T14:40:18.113609+03:00",
+ "last_run": "2026-09-17T14:45:20.132418+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1784,6 +1784,10 @@
   {
    "d": "2026-09-17",
    "t": "The Morning Risk Report: Exxon Is Nearing a Preliminary Deal to Invest in Venezuela’s Oil Fields - WSJ"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "LNG Prices Could Jump Further as Hormuz Supply Crunch Persists"
   }
  ]
 }
