@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "4f0703ce476f9834",
-  "oildeclinesbutremainselevatedamidsupplyconcernsgeopoliticalr",
   "9fefae0522c7b85c",
   "whyoilbearsmaymakeastandaspricesapproachhighs",
   "3bb2403aca503fa2",
@@ -603,7 +601,9 @@
   "89e5996d9ec52bc8",
   "oilpricesdriftloweramidcoolingmeastsupplyjitters",
   "246d22d48f3755fe",
-  "oilfuturescrudeeasesaspartialrestarteyedonsaudiewpipeline"
+  "oilfuturescrudeeasesaspartialrestarteyedonsaudiewpipeline",
+  "e18279d9b28b45f8",
+  "oilpricesextendlossesassupplydisruptionfearsease"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 50
  },
- "last_run": "2026-09-17T11:35:16.156342+03:00",
+ "last_run": "2026-09-17T11:40:19.070485+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
