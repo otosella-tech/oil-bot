@@ -4,10 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "955ccbc1bc8b8143",
-  "crudepricessurgeonglobalsupplyrisks",
-  "583e7a8b9cff7bc1",
-  "japansexportgrowthstayssolidasshipmentsofchipsjump",
   "084b2784e6d0a2aa",
   "plushdatedbrentpremiumatteststooilmarkettightness",
   "4f0703ce476f9834",
@@ -603,7 +599,11 @@
   "62b18045388b0750",
   "howtheoilpainmayworsen",
   "3b80cbef486edfaa",
-  "crudegiantenbridgeexpandscushingroutesin255btallgrassacquisi"
+  "crudegiantenbridgeexpandscushingroutesin255btallgrassacquisi",
+  "2d16fb205ff0db16",
+  "indiapushesbackonustariffthreatoverrussianoil",
+  "89e5996d9ec52bc8",
+  "oilpricesdriftloweramidcoolingmeastsupplyjitters"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-17",
-  "count": 47
+  "count": 48
  },
- "last_run": "2026-09-17T11:10:18.590887+03:00",
+ "last_run": "2026-09-17T11:15:18.633499+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
