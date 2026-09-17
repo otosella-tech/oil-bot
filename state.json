@@ -4,8 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "4b90f5e3493e0ae3",
-  "yourwednesdaysept16guidefivethingstodointheoilcity",
   "15feb9390b2b1cb9",
   "oilparesgainsstockfuturesriseascautiousoptimismheraldsfedday",
   "a33bf259f6ba8d2c",
@@ -603,7 +601,9 @@
   "d022c8fa9b3bfbf3",
   "wticrudeoilloweronbutholdskeysupportcanbuyersretakethe100hou",
   "f454b2911c003c83",
-  "uscoastguardandfbiboardoiltankertoinvestigatecyberattack"
+  "uscoastguardandfbiboardoiltankertoinvestigatecyberattack",
+  "4bb9909f01f1d14d",
+  "oilpriceseaseasflowsfromstraitofhormuzremainlimited"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T19:05:13.636275+03:00",
+ "last_run": "2026-09-17T19:10:20.376299+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1852,6 +1852,10 @@
   {
    "d": "2026-09-17",
    "t": "US Coast Guard and FBI board oil tanker to investigate cyber attack - Bitdefender"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "Oil prices ease as flows from Strait of Hormuz remain limited - Transport Topics"
   }
  ]
 }
