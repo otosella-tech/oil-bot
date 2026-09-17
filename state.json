@@ -4,10 +4,6 @@
   "Brent": 101.7
  },
  "seen": [
-  "620ffe72b7ead1e7",
-  "oilandtreasuryyieldshaventmovedthiscloselyinsevenyearsthatsb",
-  "225160ce81b61ab3",
-  "kenyaintalkswithdangotegroupfor20blamuturkanacrudepipeline",
   "5acecc0f9752d23e",
   "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices",
   "e516f0ae5ff4e737",
@@ -603,7 +599,11 @@
   "378fd3e8f74e2a2c",
   "usstocksjumpafteroilpricesfallandpressurefromthebondmarketea",
   "6a3778a9c4985c97",
-  "housepassesrussiasanctionsbillovercomingoppositionfromdemocr"
+  "housepassesrussiasanctionsbillovercomingoppositionfromdemocr",
+  "79e98d22b730b861",
+  "usstockfuturesriseasoilpricesandtreasuryyieldsdeclinedowjone",
+  "03b071950ad047c6",
+  "currentpriceofoilasofseptember112026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T17:00:31.255587+03:00",
+ "last_run": "2026-09-17T17:05:14.971731+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
