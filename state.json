@@ -4,8 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "916d1c4008648c77",
-  "saudispivottosendmoreoilthroughstraitofhormuz",
   "d63b7eb9de7cd39f",
   "crudeoilpricesretreatassupplyfearsease",
   "afdde6fc82fc7c85",
@@ -603,7 +601,9 @@
   "c31289dc6dc89096",
   "trumpsfriendsarealreadysigningdealstotakevenezuelasoil",
   "c8e9fcd71c33d3a2",
-  "oilisbackabove100buteconomistssaythatnumberisnttherealthreat"
+  "oilisbackabove100buteconomistssaythatnumberisnttherealthreat",
+  "750e252924d99d15",
+  "aaagaspricescontinuetoclimbascrudeoilremainshighdieselreache"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T22:50:21.076719+03:00",
+ "last_run": "2026-09-17T22:55:16.234530+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
