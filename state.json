@@ -4,10 +4,6 @@
   "Brent": 100.28
  },
  "seen": [
-  "2ae43ac63326ad76",
-  "commentarywhenitcomestocrudeoilpricesitslocationlocationloca",
-  "2297d14e35ea85bb",
-  "theoilwarcomeshomemichael",
   "5169ab74bc4c8e28",
   "howjapanisdealingwiththehormuzenergyshock",
   "617cac084a4e0ca0",
@@ -603,7 +599,11 @@
   "89288101010b200a",
   "investorsseehigherenergypriceswellintonextyear",
   "e8ff021f2a6db8fd",
-  "plainstobuysilvercreekspowderrivercrudeassetsfor585m"
+  "plainstobuysilvercreekspowderrivercrudeassetsfor585m",
+  "80535c23e90ac02c",
+  "themorningriskreportexxonisnearingapreliminarydealtoinvestin",
+  "1e06f12213e77302",
+  "boomingbusinessatlantafirmcreatescleanerwaytosopupoilspills"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 60
  },
- "last_run": "2026-09-17T14:25:16.267260+03:00",
+ "last_run": "2026-09-17T14:30:22.782915+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
@@ -1780,6 +1780,10 @@
   {
    "d": "2026-09-17",
    "t": "Oil India explores ways to get back Russian dividend - reuters.com"
+  },
+  {
+   "d": "2026-09-17",
+   "t": "The Morning Risk Report: Exxon Is Nearing a Preliminary Deal to Invest in Venezuela’s Oil Fields - WSJ"
   }
  ]
 }
