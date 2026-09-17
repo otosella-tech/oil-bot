@@ -4,10 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "b98a2758f2edf20a",
-  "invenezuelasouthamericaslargestlakeisdyingfromoilpollution",
-  "4cb4e5f70971a3d2",
-  "japanaugustimportsjumpasoilpricesliftcostsexportsstayfirm",
   "e0c3f6544d9e9f38",
   "oilfallsasuscrudeinventoriesrisedespitesaudisupplyconcerns",
   "afc67a615f39ffe8",
@@ -603,7 +599,11 @@
   "dbb1b95d716531e7",
   "thailandseeksmorecrudeoilsuppliesoutsidemideast",
   "109ab955e9066f2d",
-  "europeansharesriseasoilslipsyieldsstall"
+  "europeansharesriseasoilslipsyieldsstall",
+  "e584c916430a0e91",
+  "oilpricesdeclineassaudiarabiaoffersadditionalcrudetoasia",
+  "6a6e0d52a3f71ec9",
+  "thailandseesenergytransitionasshieldagainstoilvolatility"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-17",
   "count": 47
  },
- "last_run": "2026-09-17T10:35:14.355517+03:00",
+ "last_run": "2026-09-17T10:40:21.110292+03:00",
  "sent_stories": [
   {
    "d": "2026-09-14",
