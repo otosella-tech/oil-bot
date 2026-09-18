@@ -4,8 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "945b94e004a0a712",
-  "risingoilratesandyieldsbrewupstagflationcocktailformarkets",
   "e94115a9e7f42cfc",
   "bitcoinethereumrippleforecastkeyscenariosinsight",
   "1c76a68354cc6725",
@@ -603,7 +601,9 @@
   "3a645e629a917ac1",
   "inflationrunningtoohotevenwithoutoilfedsschmidsays",
   "a3bc264b3044fae2",
-  "usoilgasrigcountcreepsupwithstrongprices"
+  "usoilgasrigcountcreepsupwithstrongprices",
+  "ed3f7f9d3ed9d0fa",
+  "saudiarabiacutseuropeofffromoctobercrudeasgulfexportssurge"
  ],
  "releases_done": {
   "2026-09-18|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-18",
   "count": 60
  },
- "last_run": "2026-09-18T20:25:16.493142+03:00",
+ "last_run": "2026-09-18T20:30:26.040556+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
@@ -1611,6 +1611,10 @@
   {
    "d": "2026-09-18",
    "t": "Oil prices little changed as market assesses disruption from Saudi pipeline closure - CNBC"
+  },
+  {
+   "d": "2026-09-18",
+   "t": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge"
   }
  ]
 }
