@@ -4,8 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "5d383c6c8dfd2b4a",
-  "oilpricesperbarrelsurgetodaywhatitmeansforgasprices",
   "f33b520e9559da70",
   "continentalstrikesvenezuelaoildealwithpdvsa",
   "bd5c110ac9e761b2",
@@ -603,7 +601,9 @@
   "de57eadfc8de7e28",
   "stocksriseasoildipsyenwobblesaheadofboj",
   "4c11e9ad89e2cf09",
-  "jpmorgansaysithasnoclearoilmarketendgameasiranconflictdragso"
+  "jpmorgansaysithasnoclearoilmarketendgameasiranconflictdragso",
+  "d4b05809e7735667",
+  "oilpricesfallassaudisupplyhopesoutweighfreshhouthistrikes"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-18",
-  "count": 12
+  "count": 13
  },
- "last_run": "2026-09-18T04:45:18.564901+03:00",
+ "last_run": "2026-09-18T04:50:19.486942+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
