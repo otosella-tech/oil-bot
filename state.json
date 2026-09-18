@@ -4,10 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "ce0ae2e676c1e0e4",
-  "crudeoilfallsfor2ndsession",
-  "d913fc86c5dc7c14",
-  "oilrisesto99onreportiranlaunchedsecondundisclosedattackonusn",
   "7d7ef841ca4904ee",
   "currentpriceofoilasofsept172026",
   "05e9c809cf8bf4f2",
@@ -603,7 +599,11 @@
   "d5763a156f9e77b2",
   "saudiexportpivotsendsbrentbelow105",
   "8ed794eab25c5b3c",
-  "angolatoshipfewercrudeoilcargoesinnovember"
+  "angolatoshipfewercrudeoilcargoesinnovember",
+  "4bca3820dc583dc6",
+  "totalenergiesandblackrocksign18bdealforafricanoilandgasasset",
+  "04c0edddb366b9c4",
+  "whatgoesintodieselprices"
  ],
  "releases_done": {
   "2026-09-18|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-18",
   "count": 60
  },
- "last_run": "2026-09-18T19:25:14.647206+03:00",
+ "last_run": "2026-09-18T19:30:27.192741+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
