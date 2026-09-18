@@ -4,8 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "3f749cf8b6762a67",
-  "chineseoilpriceshitrecordhighsafterattacksonsaudipipeline",
   "57c607f4e51c6c51",
   "chinastockpiledoilandnowitcoulddominatetheenergylandscape",
   "946985e344393e88",
@@ -603,7 +601,9 @@
   "f2f49889195e3b95",
   "theiranwarismintingnewonedaymillionairesoiltankersbraveenoug",
   "02f60ef6aa721595",
-  "oaklandcountyapproves125bbudgetwithnewprogramstohelppeoplein"
+  "oaklandcountyapproves125bbudgetwithnewprogramstohelppeoplein",
+  "81d31c2b2f7c8d33",
+  "chinasaugustoilthroughputrisesasfuelexportsreboundamidiranwa"
  ],
  "releases_done": {
   "2026-09-18|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-09-19",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-09-19T01:00:27.709353+03:00",
+ "last_run": "2026-09-19T01:05:15.293461+03:00",
  "sent_stories": [
   {
    "d": "2026-09-16",
@@ -1393,6 +1393,10 @@
   {
    "d": "2026-09-19",
    "t": "The Iran war is minting new one-day millionaires: oil tankers brave enough to sail across the Strait of Hormuz - Fortune"
+  },
+  {
+   "d": "2026-09-19",
+   "t": "China's August oil throughput rises as fuel exports rebound amid Iran war - Reuters"
   }
  ]
 }
