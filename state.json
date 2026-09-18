@@ -4,10 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "62fc41b21cbe2672",
-  "chinafacesoilchallengeaspricessoarandsupplyoptionsnarrow",
-  "2a7a696f6972682b",
-  "oilpricesextendlossesamideasingmideastsupplyjitters",
   "4e6af1047123c410",
   "explainerhowasaudipipelineattackistestingeusoilsecurity",
   "f2da24468152df83",
@@ -603,7 +599,11 @@
   "fe95b6b6c9fcd5ab",
   "oilfinishestheweekflatasthemarketseessaudipipelineoutageasle",
   "0d8a8a65a668e893",
-  "oilslidesafterchinaasksirantolimithouthiattacksonsaudioilfac"
+  "oilslidesafterchinaasksirantolimithouthiattacksonsaudioilfac",
+  "7d973651c22eb0ce",
+  "oilpricesswingatendofupanddownweek",
+  "3ccb25fa80f016bb",
+  "usequitymarketsmixedaftergovernmentbondyieldsrisecrudeoilpri"
  ],
  "releases_done": {
   "2026-09-18|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-18",
   "count": 60
  },
- "last_run": "2026-09-18T23:15:18.727098+03:00",
+ "last_run": "2026-09-18T23:20:18.849548+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
