@@ -4,8 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "ac13bfd08b8bfc71",
-  "currentpriceofoilasofseptember142026",
   "5084a0d5e9280c5b",
   "whattheredseaoilhaltcouldmeanforcostarica",
   "c231935c14097a9c",
@@ -603,7 +601,9 @@
   "599c5f9fb7948387",
   "equitiesandbondsroseintandemcrudeoilbrieflysurpassed100perba",
   "68a2ea64743182a5",
-  "oilpricesheadforweeklylossassaudiexportfearsease"
+  "oilpricesheadforweeklylossassaudiexportfearsease",
+  "b54e4c95510a7dd6",
+  "omanoilescaperoutehowshiptoshiptransfersworkdespitebigrisks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-18",
@@ -615,7 +615,7 @@
   "date": "2026-09-18",
   "count": 23
  },
- "last_run": "2026-09-18T09:05:14.793418+03:00",
+ "last_run": "2026-09-18T09:10:18.251727+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
