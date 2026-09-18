@@ -4,8 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "d11b394b635f7b7a",
-  "congresssendssweepingrussia",
   "378fd3e8f74e2a2c",
   "usstocksjumpafteroilpricesfallandpressurefromthebondmarketea",
   "6a3778a9c4985c97",
@@ -603,7 +601,9 @@
   "957eb7891070115e",
   "ussanctionsbilltargetsrussianenergybutgivestrumpbroaddiscret",
   "28c5f95ae9c99a6b",
-  "kazakhstanturnstorussiangasasdomesticdemandsurges"
+  "kazakhstanturnstorussiangasasdomesticdemandsurges",
+  "698e2c846eedad05",
+  "austriadiscoversupto45millionbarrelsofoilinanorthafricannati"
  ],
  "releases_done": {
   "2026-09-18|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-18",
   "count": 60
  },
- "last_run": "2026-09-18T21:00:28.940988+03:00",
+ "last_run": "2026-09-18T21:05:16.698076+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
