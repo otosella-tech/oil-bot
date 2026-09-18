@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 94.94,
+  "WTI": 96.94,
   "Brent": 97.91
  },
  "seen": [
-  "e1560cd3aac1a064",
-  "indiafaces100tariffthreatoverrussianoilafterushousevote",
   "7e237f9e783b2c2f",
   "thursdaybriefingyemenswarcontinuestothreatenoilsuppliesbutwh",
   "75cd3a4286e54055",
@@ -603,7 +601,9 @@
   "ec8ebfaa27e0a9cb",
   "wallstsetfortepidopenasoilpricesfalltreasuryyieldsrise",
   "6a122ea905a35a9b",
-  "oilpricesslideassaudiarabiareroutescrudeviaoman"
+  "oilpricesslideassaudiarabiareroutescrudeviaoman",
+  "e442c29b3c67e6ee",
+  "saudiarabiahasshutacriticaloilpipelinehereswhyitmattersforth"
  ],
  "releases_done": {},
  "last_digest": "2026-09-18",
@@ -615,7 +615,7 @@
   "date": "2026-09-18",
   "count": 60
  },
- "last_run": "2026-09-18T16:05:17.425875+03:00",
+ "last_run": "2026-09-18T16:10:20.193852+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
@@ -1520,6 +1520,10 @@
   {
    "d": "2026-09-18",
    "t": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-09-18",
+   "t": "Saudi Arabia has shut a critical oil pipeline. Here’s why it matters for the global oil market - CNN"
   }
  ]
 }
