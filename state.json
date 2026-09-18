@@ -4,8 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "d43438977a101362",
-  "ukrainehitsrefineryasmoscowpreparestoextenddieselexportban",
   "846f225868e91b8f",
   "dollarweakenswithcrudeoilpricesandtnoteyields",
   "c349f9ede33809d4",
@@ -603,7 +601,9 @@
   "5dc4edf46c067e98",
   "louisnavelliersstockscoringsystemspots3oiltankerstocks",
   "1dd0aac9c961ba74",
-  "iranclaimsitstruckanoiltankerinthestraitofhormuzandothermide"
+  "iranclaimsitstruckanoiltankerinthestraitofhormuzandothermide",
+  "a086c7195419db40",
+  "louisnavelliersstockscoringsystemspots3oiltankerstockstri"
  ],
  "releases_done": {
   "2026-09-18|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-09-18",
   "count": 60
  },
- "last_run": "2026-09-18T21:55:16.680963+03:00",
+ "last_run": "2026-09-18T22:00:31.152055+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
