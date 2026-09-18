@@ -4,8 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "e06fa3683ecbf48b",
-  "wallstreetholdssteadyaheadoffedsdecisionasoilpricesandbondyi",
   "15dd2b512fd938ef",
   "oilsurgestankerratessoaretfsinplay",
   "bc161f1817b3c503",
@@ -603,7 +601,9 @@
   "ac13bfd08b8bfc71",
   "currentpriceofoilasofseptember142026",
   "6942dd5c4e06a307",
-  "indonesianrupiahgainsgroundascrudeoilpricesretreat"
+  "indonesianrupiahgainsgroundascrudeoilpricesretreat",
+  "7d098aca55d2b0d6",
+  "gaspricesareabouttotakeabigjumpanalystssaywiththeworststillt"
  ],
  "releases_done": {},
  "last_digest": "2026-09-18",
@@ -615,7 +615,7 @@
   "date": "2026-09-18",
   "count": 23
  },
- "last_run": "2026-09-18T09:15:18.264160+03:00",
+ "last_run": "2026-09-18T09:20:17.588242+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
