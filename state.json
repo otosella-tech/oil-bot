@@ -4,8 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "5acecc0f9752d23e",
-  "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices",
   "d43438977a101362",
   "ukrainehitsrefineryasmoscowpreparestoextenddieselexportban",
   "846f225868e91b8f",
@@ -603,7 +601,9 @@
   "66aa1482f6afe554",
   "wesimplydontknowjpmorganstrugglingtoforecastoilpricesduetous",
   "5dc4edf46c067e98",
-  "louisnavelliersstockscoringsystemspots3oiltankerstocks"
+  "louisnavelliersstockscoringsystemspots3oiltankerstocks",
+  "1dd0aac9c961ba74",
+  "iranclaimsitstruckanoiltankerinthestraitofhormuzandothermide"
  ],
  "releases_done": {
   "2026-09-18|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-18",
   "count": 60
  },
- "last_run": "2026-09-18T21:40:24.019240+03:00",
+ "last_run": "2026-09-18T21:45:18.494536+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
@@ -1639,6 +1639,10 @@
   {
    "d": "2026-09-18",
    "t": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to US-Iran war - BBC"
+  },
+  {
+   "d": "2026-09-18",
+   "t": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - ClickOnDetroit | WDIV Local 4"
   }
  ]
 }
