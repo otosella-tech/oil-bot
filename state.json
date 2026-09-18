@@ -4,8 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "9ccd95555eb511fd",
-  "saudiaramcocancelseuropeancrudecargoesaskeypipelinestaysshut",
   "862ecb671ee2c232",
   "damagedsaudipipelinecouldbebackonlinewithindaysaccordingusen",
   "a5e375b5e8ba683f",
@@ -603,7 +601,9 @@
   "a448e5cd2ed89842",
   "chevronceosoundsthealarmonglobaloilsupplies",
   "e4ea4afc859075d5",
-  "goldriseslikelysupportedbyoilpullback"
+  "goldriseslikelysupportedbyoilpullback",
+  "5d383c6c8dfd2b4a",
+  "oilpricesperbarrelsurgetodaywhatitmeansforgasprices"
  ],
  "releases_done": {},
  "last_digest": "2026-09-17",
@@ -615,7 +615,7 @@
   "date": "2026-09-18",
   "count": 15
  },
- "last_run": "2026-09-18T07:45:18.288799+03:00",
+ "last_run": "2026-09-18T07:50:18.813224+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
