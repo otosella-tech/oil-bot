@@ -4,8 +4,6 @@
   "Brent": 103.84
  },
  "seen": [
-  "a82f9226a52a37c7",
-  "oilfuturespullbackfromfourmonthhighs",
   "840d18a4bb127de3",
   "usenergysecretary18mlnbarrelsofoilflowedthroughgulf",
   "bee6d89d75172b5e",
@@ -603,7 +601,9 @@
   "f9dd259e1c6590f4",
   "oilpricesfall2onhopesoflimitedsaudisupplydisruptions",
   "962b8ac42413192d",
-  "oilpricesurgeraisesfuelcostsinflationpressuresinus"
+  "oilpricesurgeraisesfuelcostsinflationpressuresinus",
+  "57a99708f11e8a14",
+  "chevysnewv8enginesditchthedipstickandgodigital"
  ],
  "releases_done": {},
  "last_digest": "2026-09-18",
@@ -615,7 +615,7 @@
   "date": "2026-09-18",
   "count": 25
  },
- "last_run": "2026-09-18T10:10:18.872713+03:00",
+ "last_run": "2026-09-18T10:15:21.089265+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
