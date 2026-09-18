@@ -4,12 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "e1226b33f9307183",
-  "oilpricesslipafterfedsfirstratehikeinthreeyears",
-  "cce6d53b5f2241e7",
-  "nearly3000acresofohiosonlynationalforestauctionedoffforoilan",
-  "d911ba879c36ab5c",
-  "oilpricesdriftloweramideasingmideastsupplyjitters",
   "4a66eec13ec69e78",
   "unitedstatesontrackforrecordcrudeoilproductionin2026",
   "bab07e3a433abaa4",
@@ -603,7 +597,13 @@
   "207ea576d6fb3712",
   "heatingoilcostsaresettosurgemorethan30thiswinterasiranwardri",
   "fb37d00fd9b817ed",
-  "goldclimbstooneweekhighheadsforweeklygainoneasingoilprices"
+  "goldclimbstooneweekhighheadsforweeklygainoneasingoilprices",
+  "48b7cbb96f49e9d4",
+  "goldreachesoneweekhighascrudeoilpricesease",
+  "c09675da97ecf47a",
+  "brentcrudeoilpriceonseptember212026at500pmedt",
+  "8ae210a803a172f9",
+  "usstocksdrifttowardtheendofabumpyweek"
  ],
  "releases_done": {},
  "last_digest": "2026-09-18",
@@ -615,7 +615,7 @@
   "date": "2026-09-18",
   "count": 60
  },
- "last_run": "2026-09-18T17:10:19.758090+03:00",
+ "last_run": "2026-09-18T17:15:20.441182+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
