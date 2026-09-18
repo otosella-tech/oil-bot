@@ -4,8 +4,6 @@
   "Brent": 97.91
  },
  "seen": [
-  "8d8fb547b4b72957",
-  "delixyholdingssignsnonbindingloiforupto48stakeinkazakhstanss",
   "9b0c14ee5310ad0b",
   "gaspricessurgingonceagainincachevalleystatelocalnewshjnewsco",
   "43c0e3c22e0eac26",
@@ -603,7 +601,9 @@
   "1a215b4f3da0a048",
   "saudipipelineclosureisabriefinterruptionthatwilllastdaysusen",
   "3ae1a7ac0a345de3",
-  "oilpricesfall2oneasingfearsoversaudisupplydisruption"
+  "oilpricesfall2oneasingfearsoversaudisupplydisruption",
+  "99d157ecb69ac0d2",
+  "oilpricesfallforthirddayaswtislipsbelow100"
  ],
  "releases_done": {},
  "last_digest": "2026-09-18",
@@ -615,7 +615,7 @@
   "date": "2026-09-18",
   "count": 31
  },
- "last_run": "2026-09-18T11:40:18.762063+03:00",
+ "last_run": "2026-09-18T11:45:19.591081+03:00",
  "sent_stories": [
   {
    "d": "2026-09-15",
