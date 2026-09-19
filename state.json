@@ -4,14 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "31112ebc3f740255",
-  "thenewoffensiveraisingoilpricesandcomplicatingtrumpsiranwar",
-  "7030b654f2604e8b",
-  "russianfuelexportsreboundinaugustbutstilldown50fromlastyear",
-  "9914625775e80e6e",
-  "americaispayingalotforfuelnotrunningoutofgasoline",
-  "7b3fe139118b1c06",
-  "lacooffersgrantsafterboyleheightsfireeastlaoilspill",
   "c31289dc6dc89096",
   "trumpsfriendsarealreadysigningdealstotakevenezuelasoil",
   "c8e9fcd71c33d3a2",
@@ -603,7 +595,15 @@
   "8fc41d9704e73884",
   "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
   "38151be132038d27",
-  "regionaltensionsputsaudioilexportsunderpressurerattleglobale"
+  "regionaltensionsputsaudioilexportsunderpressurerattleglobale",
+  "ffacd37cd93ca659",
+  "uscrudeoilstockpilespostmoderatedraw",
+  "17f1f2eecbe30b2a",
+  "wallstreetslidesascrudeoilsurgespast102andtreasuryyieldsspik",
+  "3a308d4e80fa3e4f",
+  "oilsurgesabove100abarrelasusandiranlaunchnewattackswhilegaso",
+  "39d4376ecfc48938",
+  "wticrudeoilpullsbackoffsessionhighstotradeat9589"
  ],
  "releases_done": {},
  "last_digest": "2026-09-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-19",
-  "count": 25
+  "count": 27
  },
- "last_run": "2026-09-19T08:10:18.964114+03:00",
+ "last_run": "2026-09-19T08:15:19.212730+03:00",
  "sent_stories": [
   {
    "d": "2026-09-16",
@@ -1412,6 +1412,14 @@
   {
    "d": "2026-09-19",
    "t": "Oil Prices Fall as Saudi Arabia Reroutes Crude via Oman Amid Pipeline Repairs - News and Statistics - IndexBox"
+  },
+  {
+   "d": "2026-09-19",
+   "t": "Wall Street Slides as Crude Oil Surges Past $102 and Treasury Yields Spike - Blockonomi"
+  },
+  {
+   "d": "2026-09-19",
+   "t": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News"
   }
  ]
 }
