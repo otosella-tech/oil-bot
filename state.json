@@ -605,12 +605,7 @@
   "61f7ef296f6c85f8",
   "yoursaturdaysept19guidefivethingstodointheoilcity"
  ],
- "releases_done": {
-  "2026-09-18|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
-  "2026-09-18|ספירת אסדות קידוח (Baker Hughes)|post": 1,
-  "2026-09-18|דוח פוזיציות ספקולנטים (CFTC COT)|pre": 1,
-  "2026-09-18|דוח פוזיציות ספקולנטים (CFTC COT)|post": 1
- },
+ "releases_done": {},
  "last_digest": "2026-09-18",
  "digest_prices": {
   "WTI": 100.97,
@@ -620,7 +615,7 @@
   "date": "2026-09-19",
   "count": 15
  },
- "last_run": "2026-09-19T06:55:15.419297+03:00",
+ "last_run": "2026-09-19T07:00:28.209274+03:00",
  "sent_stories": [
   {
    "d": "2026-09-16",
