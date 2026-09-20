@@ -4,8 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "baa1de949d7a0a69",
-  "saudioilexportsreboundathormuzwhileeastwestpipelineremainsof",
   "7712ec58a370139e",
   "wtiretreatsassaudioilworkaroundeasessupplyfears",
   "a7fd0b2c44b755fa",
@@ -603,7 +601,9 @@
   "b265521221885dd0",
   "stockmarketsthisweekmomentumtolargelydependoncrudeoilwestasi",
   "9cd88ff1affb1869",
-  "ukrainehitsmoscowoilrefineryinmajorovernightattackzelenskysa"
+  "ukrainehitsmoscowoilrefineryinmajorovernightattackzelenskysa",
+  "00aea07d8445cd67",
+  "russiasaugustcrudeoutputdrops160000barrelsperdayamidukrainia"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-20",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-09-20T15:10:19.246621+03:00",
+ "last_run": "2026-09-20T15:15:17.541700+03:00",
  "sent_stories": [
   {
    "d": "2026-09-17",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-09-20",
    "t": "Ukraine Hits Moscow Oil Refinery in Major Overnight Attack, Zelensky Says - Kyiv Post"
+  },
+  {
+   "d": "2026-09-20",
+   "t": "Russia's August crude output drops 160,000 barrels per day amid Ukrainian strikes on oil infrastructure - Energies Media"
   }
  ]
 }
