@@ -4,8 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "e3155602f42a64d0",
-  "globalmarketsriseasoilpricesbondyieldsdrop",
   "1a215b4f3da0a048",
   "saudipipelineclosureisabriefinterruptionthatwilllastdaysusen",
   "3ae1a7ac0a345de3",
@@ -603,7 +601,9 @@
   "db4fda59dcc94859",
   "usfacilitatesthepassageof1billionbarrelsofoilthroughthestrai",
   "4c7a8e1b8152e7c6",
-  "uscrudeoilstockpilesfallproductionhitsrecord"
+  "uscrudeoilstockpilesfallproductionhitsrecord",
+  "7a064a10dba148b9",
+  "uscentralcommandover1billionbarrelsofcrudeoiltransportedthro"
  ],
  "releases_done": {},
  "last_digest": "2026-09-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-20",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-09-20T02:55:15.050495+03:00",
+ "last_run": "2026-09-20T03:00:29.179114+03:00",
  "sent_stories": [
   {
    "d": "2026-09-17",
@@ -1232,6 +1232,10 @@
   {
    "d": "2026-09-20",
    "t": "US facilitates the passage of 1 billion barrels of oil through the Strait of Hormuz amid war with Iran - voz.us"
+  },
+  {
+   "d": "2026-09-20",
+   "t": "US Central Command: Over 1 Billion Barrels of Crude Oil Transported Through Strait of Hormuz with US Support, Zero for Iran - news.sbs.co.kr"
   }
  ]
 }
