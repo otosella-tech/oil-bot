@@ -4,12 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "a49120d72c8d95f3",
-  "aramcotoboostgulfexportsto60millionbarrelsinseptemberoctober",
-  "1ec32ef21bd6a019",
-  "oilpricesfallforthirddayonsaudiarabiasupplyhopesuscrudebrief",
-  "a895434d230b9d11",
-  "indiansharespostlongestweeklylosingstreakinsixyearsonoilrate",
   "9d6ad5e2314ee9fd",
   "crudeoileasestoward100",
   "95a7918dbc7c0f33",
@@ -603,7 +597,13 @@
   "2b36d5f938983d6c",
   "oilhits100abarrelasturmoilintensifiesinmiddleeast",
   "191d85975d717e2d",
-  "russiaukrainiandronestrikeonmoscowkills2"
+  "russiaukrainiandronestrikeonmoscowkills2",
+  "4cdf71af0d6fab49",
+  "whichcountriesfacethegreatestfuelvulnerabilityinthemiddleeas",
+  "e916eb3ca318d9bc",
+  "usretailerrationsmotoroilaspricesquadrupleandsuppliesrundry",
+  "2474985752b14de3",
+  "columnthoughtsonoilpricespaypermilescandalsandpolymarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -615,7 +615,7 @@
   "date": "2026-09-20",
   "count": 38
  },
- "last_run": "2026-09-20T13:00:29.406150+03:00",
+ "last_run": "2026-09-20T13:05:15.245630+03:00",
  "sent_stories": [
   {
    "d": "2026-09-17",
