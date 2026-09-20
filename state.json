@@ -4,8 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "25b6bb8fa4c0827f",
-  "russianfareastcrudetops120perbarrelasmiddleeastsupplyshocksd",
   "8c404a1bfa0f809e",
   "oilexecutivessaythegreatfuelcrisisishere",
   "854be11867a49d2a",
@@ -603,7 +601,9 @@
   "79728b6797d18dd5",
   "oilsteadyastraderslooktomideastsupplyrisksanddiplomacy",
   "600e3859a70a8fd6",
-  "straitofhormuzoilshipmentshitsixmonthhighuscommandersays"
+  "straitofhormuzoilshipmentshitsixmonthhighuscommandersays",
+  "8bc4f55d4b958753",
+  "3oilstocksretailinvestorsmayrevisitascrudepricesresetenergyp"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 8
  },
- "last_run": "2026-09-21T02:35:15.703561+03:00",
+ "last_run": "2026-09-21T02:40:17.239940+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
