@@ -4,8 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "48b7cbb96f49e9d4",
-  "goldreachesoneweekhighascrudeoilpricesease",
   "c09675da97ecf47a",
   "brentcrudeoilpriceonseptember212026at500pmedt",
   "8ae210a803a172f9",
@@ -603,7 +601,9 @@
   "8f7a5f0b5a28e5f0",
   "thisisourcompanynigeriansshowoffoilwealthaftersharebuyingfre",
   "afc69655a97ab1bf",
-  "hassettdefendstrumpsactionsoniranthehill"
+  "hassettdefendstrumpsactionsoniranthehill",
+  "4c68c75c8e9aba95",
+  "currentpriceofoilasofsept182026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -615,7 +615,7 @@
   "date": "2026-09-20",
   "count": 60
  },
- "last_run": "2026-09-20T22:40:19.026008+03:00",
+ "last_run": "2026-09-20T22:45:19.784305+03:00",
  "sent_stories": [
   {
    "d": "2026-09-17",
