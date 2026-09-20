@@ -4,8 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "90dc09a853f4e4d0",
-  "newyorkgaspricesclimbabove447ascrudeoilremainselevated",
   "c9a5d8355c691cf1",
   "nasdaqfuturesgaingroundasfederalreserveeyesadditionalrateinc",
   "3f7c57795087bca7",
@@ -603,7 +601,9 @@
   "a421f34cb6962f8a",
   "uschinatradeteamssettohuddleinnewyorkonaiiran",
   "f53307b55b60a775",
-  "fedskashkarireportedlysaysinflationisstilltoohighacrosstheus"
+  "fedskashkarireportedlysaysinflationisstilltoohighacrosstheus",
+  "1cdeb7d59fb3c4b2",
+  "automa2026whereaiinoilgasmovesfrompilottoproduction"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -615,7 +615,7 @@
   "date": "2026-09-20",
   "count": 60
  },
- "last_run": "2026-09-20T21:35:14.914675+03:00",
+ "last_run": "2026-09-20T21:40:18.923757+03:00",
  "sent_stories": [
   {
    "d": "2026-09-17",
