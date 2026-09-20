@@ -4,8 +4,6 @@
   "Brent": 99.97
  },
  "seen": [
-  "c33cb52c3277fefc",
-  "line5returnstoserviceafter13milliongallonspillinwisconsinbut",
   "7cfed5c818119fcb",
   "asianstockstrackwallstreetrallyasoilpricesdecline",
   "5c486131a01d1a76",
@@ -603,7 +601,9 @@
   "1b917f99985bf612",
   "hormuzoilshipmentshitsixmonthhighusmilitarycommandersays",
   "478542e216b32757",
-  "commentarychinascrudeoilimportsstayedweakinaugustcanthiscont"
+  "commentarychinascrudeoilimportsstayedweakinaugustcanthiscont",
+  "4d1bf2ef9be1a7e0",
+  "ukrainiandronestargetmoscowoilrefineryindeadlyattackrussiano"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-20",
-  "count": 33
+  "count": 34
  },
- "last_run": "2026-09-20T11:20:18.962841+03:00",
+ "last_run": "2026-09-20T11:25:13.749048+03:00",
  "sent_stories": [
   {
    "d": "2026-09-17",
