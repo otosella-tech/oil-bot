@@ -4,8 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "0cdf541acf1b180f",
-  "currentpriceofoilasofseptember172026",
   "802fd64e2afac656",
   "enhancedoilrecoveryusingco2couldunlock137billionbarrelsmidla",
   "1d7dc89b89ccf3cd",
@@ -603,7 +601,9 @@
   "2b9bc709b0a6e04c",
   "chinasyuancrudeoilfuturesjumptorecordhigh",
   "d913fc86c5dc7c14",
-  "oilrisesto99onreportiranlaunchedsecondundisclosedattackonusn"
+  "oilrisesto99onreportiranlaunchedsecondundisclosedattackonusn",
+  "679887774c66afc8",
+  "jpmanalystsnolongerhaveusairanconflictbaseline"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T13:55:15.654290+03:00",
+ "last_run": "2026-09-21T14:00:30.612734+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
