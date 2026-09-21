@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "91035c7581b403fb",
-  "hormuzcrisistopushglobalcoaldemandtorecordhigh",
   "5615580536d0eef2",
   "algeriaisthefourthlargestexporterofcrudeoilinafrica",
   "14e0feccee457c25",
@@ -603,7 +601,9 @@
   "8934b9cbf576bd25",
   "tradetensionstearatrussiaseurasianeconomicunion",
   "0db8edd26d564703",
-  "northafricannationwithafricaslargestoilreservesseesrevenuest"
+  "northafricannationwithafricaslargestoilreservesseesrevenuest",
+  "3effc9576eac5eb5",
+  "oilpricestumblebackbelow100perbarrelaftertrumpsayshesopentot"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T21:05:15.347203+03:00",
+ "last_run": "2026-09-21T21:10:19.373566+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-09-21",
    "t": "Trade Tensions Tear at Russia’s Eurasian Economic Union"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran - CNBC"
   }
  ]
 }
