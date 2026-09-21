@@ -4,10 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "05f4843ab9e6c497",
-  "surgeinheatingcostsexpectedtoworsenpricecrunch",
-  "23cd1e0fc55e3cf3",
-  "fromyanbutosohartrackingsaudiarabiasalternativeoilroutes",
   "10b2c535751f0964",
   "oilrisespast100abarrelafterthelatestwaveofmiddleeastattacks",
   "e2cd5cc6fb95c2fc",
@@ -603,7 +599,11 @@
   "d7e316b0f57a2718",
   "stocksriseonaioptimismloweroilhelpsbonds",
   "6b7d5f679f929f31",
-  "stocksriseinupbeatstarttoweekasoildropsmarketswrap"
+  "stocksriseinupbeatstarttoweekasoildropsmarketswrap",
+  "b6d9039b1a06b62a",
+  "theglobaloiltankermarkethasfacedashortageduetothewarbetweent",
+  "f13cb3b9243da1f0",
+  "slideinoilpricesdrivesreboundinbatteredgovernmentbonds"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T12:55:13.705556+03:00",
+ "last_run": "2026-09-21T13:00:28.466809+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-09-21",
    "t": "The attack on the Moscow Oil Refinery knocked out about 4% of Russia's production capacity - UA.NEWS"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "The global oil tanker market has faced a shortage due to the war between the U.S. and Iran - UA.NEWS"
   }
  ]
 }
