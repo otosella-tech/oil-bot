@@ -4,8 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "4bca3820dc583dc6",
-  "totalenergiesandblackrocksign18bdealforafricanoilandgasasset",
   "04c0edddb366b9c4",
   "whatgoesintodieselprices",
   "6da338bea3e10768",
@@ -603,7 +601,9 @@
   "0bdf038182809eea",
   "usstockfuturesupaheadoftalksdollarsteadymarketswrap",
   "b75cbaa283751070",
-  "techleadsshareshigherinasiaoileasesbyreuters"
+  "techleadsshareshigherinasiaoileasesbyreuters",
+  "047cc1177108da41",
+  "oildeclinesasconcernsoverextendedsupplydisruptionsease"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 14
  },
- "last_run": "2026-09-21T04:45:16.744550+03:00",
+ "last_run": "2026-09-21T04:50:17.647549+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
