@@ -4,10 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "61f7ef296f6c85f8",
-  "yoursaturdaysept19guidefivethingstodointheoilcity",
-  "cb249745a3fc5230",
-  "oilupdatescrudedownrussiachinastopoilsupplierinjulypetrobras",
   "40c6ff11d643e870",
   "fivewaystheiranenergyshockiswrongfootingtheworld",
   "9d7ed7f4ffdbfa33",
@@ -603,7 +599,11 @@
   "2b3afadc15a91c85",
   "wticrudeoilfuturesslideonsaudiexportsignals",
   "736020d5a1eb9be1",
-  "moscowrefineryhitinmajordroneattackbyukraine"
+  "moscowrefineryhitinmajordroneattackbyukraine",
+  "f0fff7a1f92bb0f7",
+  "hereswhatthesaudieastwestpipelineshutdownmeansforasiasbigges",
+  "f7b3a0752a17a432",
+  "dowjonesfuturesriseaslowercrudeoilpricesimprovemarketsentime"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-21",
-  "count": 58
+  "count": 59
  },
- "last_run": "2026-09-21T11:30:22.789541+03:00",
+ "last_run": "2026-09-21T11:35:18.710728+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
