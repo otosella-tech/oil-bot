@@ -4,12 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "b3c3b510f79ef595",
-  "about100gallonsofcrudeoilleaknearmound18mileroadsinsterlingh",
-  "3a645e629a917ac1",
-  "inflationrunningtoohotevenwithoutoilfedsschmidsays",
-  "a3bc264b3044fae2",
-  "usoilgasrigcountcreepsupwithstrongprices",
   "ed3f7f9d3ed9d0fa",
   "saudiarabiacutseuropeofffromoctobercrudeasgulfexportssurge",
   "f26119de52caaba3",
@@ -603,7 +597,13 @@
   "bc577fa648363e6d",
   "iranseconomyfacesanotherblockaderedtapeandgridlockarecloggin",
   "ac8d16344baba7f0",
-  "weeklymarketwrapthefedfinallyraisedratesbutoilsretreatgavest"
+  "weeklymarketwrapthefedfinallyraisedratesbutoilsretreatgavest",
+  "d7cbc3dbd80ddb33",
+  "indianshareslikelytoopenmutedonoilpriceconcerns",
+  "6692b78365de6570",
+  "oilhitsover1weeklowonhopesofboosttodiplomacyiniranwar",
+  "819e11829046a96b",
+  "attackshavereachedthesaudicapitalisoilpoisedtoresumeitsupwar"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-21",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-09-21T05:40:18.178250+03:00",
+ "last_run": "2026-09-21T05:45:17.691518+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1112,6 +1112,14 @@
   {
    "d": "2026-09-21",
    "t": "Oil slips as investors assess Saudi export recovery - Reuters"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Oil hits over 1-week low on hopes of boost to diplomacy in Iran war - Reuters"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Attacks have reached the Saudi capital; is oil poised to resume its upward trend? - Moomoo"
   }
  ]
 }
