@@ -4,10 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "7ec23e8229a813c1",
-  "currentpriceofoilasofseptember82026",
-  "b54e4c95510a7dd6",
-  "omanoilescaperoutehowshiptoshiptransfersworkdespitebigrisks",
   "ac13bfd08b8bfc71",
   "currentpriceofoilasofseptember142026",
   "752e7f05d4301472",
@@ -603,7 +599,11 @@
   "f9d6e09bcae229db",
   "yourmondaysept21guidefivethingstodointheoilcity",
   "4d982d2367731208",
-  "wallstfuturesriseasaistocksgainoilpricesslidebyreuters"
+  "wallstfuturesriseasaistocksgainoilpricesslidebyreuters",
+  "985dfb7aa469c1c9",
+  "trafiguralaunchesvolareshippingtocashinonrecordtankerrates",
+  "f00a8325cc9b7cce",
+  "tankerrateswillforceoilbuyingbylocationpaperoilpricevsphysic"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T15:25:17.285914+03:00",
+ "last_run": "2026-09-21T15:30:23.358256+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-09-21",
    "t": "Centcom: Over 1B crude oil barrels passed through Hormuz strait in recent months - NewsNation"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Trafigura Launches Volare Shipping to Cash In on Record Tanker Rates"
   }
  ]
 }
