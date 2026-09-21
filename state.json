@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "cd6357067f05dab9",
-  "usstockfuturesadvancebrentcrudeholdslosses",
   "36c552fbc7a9d154",
   "goldreboundsastheoilshockfadesandyieldsstall",
   "2e9ec819979b5c22",
@@ -603,7 +601,9 @@
   "48dd53cf7169f99a",
   "ashortageofoiltankersisthreateningtokeepgaspriceshigh",
   "3b4902b410150a71",
-  "wallstreetendssharplyhigherasaioptimismreignitesandtreasuryy"
+  "wallstreetendssharplyhigherasaioptimismreignitesandtreasuryy",
+  "605eb16244f0ac6e",
+  "usequityindexesjumpascommunicationservicestechnologygiantssu"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T23:20:18.938757+03:00",
+ "last_run": "2026-09-21T23:25:15.628143+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
