@@ -4,8 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "a086c7195419db40",
-  "louisnavelliersstockscoringsystemspots3oiltankerstockstri",
   "09f16a7e7d87f5ee",
   "texasoilgasupstreamsectoradds400jobsbetweenjulyandaugust2026",
   "86eeb5fbe52e1c2c",
@@ -603,7 +601,9 @@
   "9289d171ca98a6ac",
   "bessentissittingdownwithiransbiggestoilcustomer",
   "3fe6e22f2b848af5",
-  "indiansharesopenmutedashighoilpricesiporushweigh"
+  "indiansharesopenmutedashighoilpricesiporushweigh",
+  "51a34b56e3a3b0e3",
+  "crudeoilfellmetalsbroadlyroselithiumcarbonatesurgedover4shfe"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 31
  },
- "last_run": "2026-09-21T07:15:17.636503+03:00",
+ "last_run": "2026-09-21T07:20:20.987347+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
