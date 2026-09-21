@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "afcb3fc6bd3ac07b",
-  "jpmorgangaveuptryingtocalltheendoftheoilwar",
   "bab07e3a433abaa4",
   "uscrudeoiltops100againlastseeninmayasmarketbracesforprolonge",
   "cd6357067f05dab9",
@@ -603,7 +601,9 @@
   "abc63f8524a40ab3",
   "whatwillwticrudeoilwtihitweekofseptember212026playfreewinrew",
   "52b49268a427aafe",
-  "dwindlingnationalemergencyoilreserve"
+  "dwindlingnationalemergencyoilreserve",
+  "48dd53cf7169f99a",
+  "ashortageofoiltankersisthreateningtokeepgaspriceshigh"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T23:10:19.790747+03:00",
+ "last_run": "2026-09-21T23:15:17.902528+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1404,6 +1404,10 @@
   {
    "d": "2026-09-21",
    "t": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High - WSJ"
   }
  ]
 }
