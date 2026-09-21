@@ -4,10 +4,6 @@
   "Brent": 101.37
  },
  "seen": [
-  "664f335125eb21cb",
-  "saudistelleuropeanrefinerstheyllgetnocrudenextmonth",
-  "a0b034850321b676",
-  "massivedroneattackonmoscowregionseesukrainehitoilrefinery",
   "b265521221885dd0",
   "stockmarketsthisweekmomentumtolargelydependoncrudeoilwestasi",
   "9cd88ff1affb1869",
@@ -603,7 +599,11 @@
   "2866ddc5def72c4e",
   "hungaryasksustowaivetariffsoverrussianoilpurchases",
   "5aacfc8357d54358",
-  "moscowoilrefineryoutputhaltedaftersundaydroneattacksourcessa"
+  "moscowoilrefineryoutputhaltedaftersundaydroneattacksourcessa",
+  "076b64d02d4ba57a",
+  "stockpricesupasoilpricesslide",
+  "3f844cbb564fc095",
+  "aistocksliftwallstasoilfallstreasuryyieldsdecline"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T18:30:25.418961+03:00",
+ "last_run": "2026-09-21T18:35:15.775570+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
