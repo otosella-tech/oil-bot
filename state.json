@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "fff1fe2d7feb4dca",
-  "indiasaugustcrudeoilimportsfallover11monthonmonth",
   "802c2ad11eb6e983",
   "blmannouncesnovember2026saleofoilandgasleasesinnewmexicookla",
   "0ea8b9c8173ab938",
@@ -603,7 +601,9 @@
   "88932d29ece26f5e",
   "saudigulfoilexportspickupafterpipelineattack",
   "9b680505ac195500",
-  "octoberwticrudeoilcontractclosesdown452or45settlesat9578perb"
+  "octoberwticrudeoilcontractclosesdown452or45settlesat9578perb",
+  "4b647aa6e3ea48d4",
+  "oilpricedipsto100onhopesofusirandiplomacypartialrecoveryinsa"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T22:40:17.841675+03:00",
+ "last_run": "2026-09-21T22:45:18.381440+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1392,6 +1392,10 @@
   {
    "d": "2026-09-21",
    "t": "Saudi Gulf Oil Exports Pick Up After Pipeline Attack - marinelink.com"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Oil price dips to $100 on hopes of US-Iran diplomacy, partial recovery in Saudi exports - Reuters"
   }
  ]
 }
