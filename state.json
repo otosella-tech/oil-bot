@@ -4,10 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "ffacd37cd93ca659",
-  "uscrudeoilstockpilespostmoderatedraw",
-  "17f1f2eecbe30b2a",
-  "wallstreetslidesascrudeoilsurgespast102andtreasuryyieldsspik",
   "3a308d4e80fa3e4f",
   "oilsurgesabove100abarrelasusandiranlaunchnewattackswhilegaso",
   "39d4376ecfc48938",
@@ -603,7 +599,11 @@
   "be22ef7554c019f1",
   "coscoshipbuildingiposhoresupmaritimeambition",
   "a4c7267757f4106f",
-  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump"
+  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
+  "03c535f87d062a1f",
+  "pakistansecuressecondqatarilngcargothroughhormuzafterirandea",
+  "e6bc5588eef7ca5c",
+  "europesstoxx600risesontechrallyeasingoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T12:25:17.440150+03:00",
+ "last_run": "2026-09-21T12:30:23.435493+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1204,6 +1204,10 @@
   {
    "d": "2026-09-21",
    "t": "Hungary Asks US to Withhold Penalties for Russian Oil Purchases - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Pakistan Secures Second Qatari LNG Cargo Through Hormuz After Iran Deal"
   }
  ]
 }
