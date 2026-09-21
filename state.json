@@ -4,14 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "eeb05762aae99e04",
-  "saudioilrefinerscutoctobershipmentstoeurope",
-  "8967f0c17d2bda79",
-  "100gallonsofcrudeoilleakinsterlingheights",
-  "49846cf1ccfeba3c",
-  "oilpricesfallassaudiarabiareportedlyoffersmorecrudeviahormuz",
-  "2fab2fa644c7eebd",
-  "wti5betflipstonearcertainyesasoiltops100onhormuzcrisistech",
   "e60eafd995255dee",
   "dowdropstorecordworstweekinsixmonthsamidelevatedyieldsoilnvd",
   "ee2db2d4fb546e39",
@@ -603,7 +595,15 @@
   "946985e344393e88",
   "oilpricesfallafterussaysdamagedsaudipipelinewillrestartopera",
   "4d7b5562d3f2e3ac",
-  "europeanstocksbounceasoileasesbutgermanpoliticalshockecbhawk"
+  "europeanstocksbounceasoileasesbutgermanpoliticalshockecbhawk",
+  "edd4872f37b0fd61",
+  "oilpricesslideonhopesofdiplomacyiniranwar",
+  "f5d31465aa31f1af",
+  "iraqoilministryclarifiesseptembercrudeexportsaverage26mbpd",
+  "2051717940cdb71b",
+  "oilhitsover1weeklowonhopesofboosttodiplomacyiniranwarbyreute",
+  "3331992963ea6b86",
+  "mplxexpandsrapidlyinnaturalgasandoilsh"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-21",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-09-21T10:40:18.133207+03:00",
+ "last_run": "2026-09-21T10:45:22.851101+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1188,6 +1188,14 @@
   {
    "d": "2026-09-21",
    "t": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days - CNBC"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Oil prices slide on hopes of diplomacy in Iran war - Reuters"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Oil hits over 1-week low on hopes of boost to diplomacy in Iran war By Reuters - Investing.com"
   }
  ]
 }
