@@ -4,12 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "10b2c535751f0964",
-  "oilrisespast100abarrelafterthelatestwaveofmiddleeastattacks",
-  "e2cd5cc6fb95c2fc",
-  "worldrunningshortofsupertankersthreatenslonghauloilflow",
-  "b54665e7033a2c7d",
-  "3oilandgasstocksgainingrelevanceasbuyersseekrussiansupplyalt",
   "c3b79d8501f0c4ee",
   "nevadagaspricesjump18centsamidhighcrudeoilprices",
   "50c7078c13b89ef2",
@@ -603,7 +597,13 @@
   "b6d9039b1a06b62a",
   "theglobaloiltankermarkethasfacedashortageduetothewarbetweent",
   "f13cb3b9243da1f0",
-  "slideinoilpricesdrivesreboundinbatteredgovernmentbonds"
+  "slideinoilpricesdrivesreboundinbatteredgovernmentbonds",
+  "0b177302460da22b",
+  "trumpsvenezuelaoildealhingesondecrepitanddistantfields",
+  "e278fcffb2902c0f",
+  "howoilandgascompaniespoisonedthenigerdelta",
+  "58a7baede20a1059",
+  "wtioildipsbelow9400amidreportsofhighersaudicrudesupplies"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T13:00:28.466809+03:00",
+ "last_run": "2026-09-21T13:05:15.421155+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-09-21",
    "t": "The global oil tanker market has faced a shortage due to the war between the U.S. and Iran - UA.NEWS"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Trump's Venezuela Oil Deal Hinges on Decrepit and Distant Fields - Bloomberg.com"
   }
  ]
 }
