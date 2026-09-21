@@ -4,8 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "11d4174f42b1e9f8",
-  "siuprofessordieselfuelheatingoilpricescouldcontinueclimbwith",
   "2b3afadc15a91c85",
   "wticrudeoilfuturesslideonsaudiexportsignals",
   "db9fe7fb0974ac9c",
@@ -603,7 +601,9 @@
   "bef9533a23f59060",
   "workerfileslawsuitoneyearafterorphanwellexplosioninohioswayn",
   "9d51ecd69f8ccf6b",
-  "europesstoxx600gainsastechralliesoilretreateasesnerves"
+  "europesstoxx600gainsastechralliesoilretreateasesnerves",
+  "c4e2050ffcdcf04c",
+  "canadasellsmoreoilandgastochinaasrelationswithussour"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 56
  },
- "last_run": "2026-09-21T11:00:28.375028+03:00",
+ "last_run": "2026-09-21T11:05:14.921448+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
