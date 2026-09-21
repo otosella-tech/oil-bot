@@ -4,12 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "e60eafd995255dee",
-  "dowdropstorecordworstweekinsixmonthsamidelevatedyieldsoilnvd",
-  "ee2db2d4fb546e39",
-  "wallstreetendsmixedasoiltakesapause",
-  "c09d0314330f926a",
-  "marketsdigestfedratehikeoilprices",
   "10b210390d637855",
   "saudiarabiacutsoctobercrudeoilsupplytoeuropeans",
   "eb9688f1326a4958",
@@ -603,7 +597,13 @@
   "2051717940cdb71b",
   "oilhitsover1weeklowonhopesofboosttodiplomacyiniranwarbyreute",
   "3331992963ea6b86",
-  "mplxexpandsrapidlyinnaturalgasandoilsh"
+  "mplxexpandsrapidlyinnaturalgasandoilsh",
+  "7088e59fb375d5a1",
+  "oilfallsmorethan2asusirandiplomacygainsmomentum",
+  "e102a4872d1626e6",
+  "techliftssharemarketsinasiaasoilslipsbyreuters",
+  "d81fe58fbf650015",
+  "crudeoilfuturesfallamidweakglobalcues"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 55
  },
- "last_run": "2026-09-21T10:45:22.851101+03:00",
+ "last_run": "2026-09-21T10:50:18.479501+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
