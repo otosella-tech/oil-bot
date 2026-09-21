@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "feb8a34b192a11fe",
-  "newyorks75billionclimateliabilitylawfacesanuncertainfuture",
   "6ce71f4e1660b578",
   "highestcrudeoilpricewtihistoricalchartnominalinflationadjust",
   "e0a1b6c4ff96f5b8",
@@ -603,7 +601,9 @@
   "eb5a5fc2a30ed12d",
   "michiganhashighestaverageweeklygasolinepricesurgeinthenation",
   "6984bff5eae9f8cc",
-  "chipmakersfuelglobalstockgainsasoilretreats"
+  "chipmakersfuelglobalstockgainsasoilretreats",
+  "6756680b70b17d10",
+  "middayneedtoknowamdhits1tvaluationcrudeoildropsmorespynysear"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T19:30:24.373216+03:00",
+ "last_run": "2026-09-21T19:35:15.112517+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
