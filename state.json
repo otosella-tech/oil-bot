@@ -4,12 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "5f5592068c4f5328",
-  "whatexpensivesulfurmeansforyourdinnertable",
-  "5f7840a98f4a0880",
-  "phoenixareagaspricesclimbanothereightcentsthisweek",
-  "8c56ff6d84288c14",
-  "housepassesbillallowingnewtariffsonrussiaoilbuyers",
   "a95a29a2bb45345b",
   "oilpriceslittlechangedasmarketassessesdisruptionfromsaudipip",
   "b3c3b510f79ef595",
@@ -603,7 +597,13 @@
   "9611a0d847a49e6d",
   "currentpriceofoilasofseptember32026",
   "01029edcdf85a8d3",
-  "aramcohaltsoctobercrudedeliveriestosomeeuropeanrefinersafter"
+  "aramcohaltsoctobercrudedeliveriestosomeeuropeanrefinersafter",
+  "19be74374551ee8d",
+  "techleadsshareshigherinasiaasoilslips",
+  "046baf28f7c92724",
+  "oilfallsascrudeflowsremainsurprisinglystrong",
+  "bc577fa648363e6d",
+  "iranseconomyfacesanotherblockaderedtapeandgridlockarecloggin"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 15
  },
- "last_run": "2026-09-21T05:15:16.492018+03:00",
+ "last_run": "2026-09-21T05:20:17.523243+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
