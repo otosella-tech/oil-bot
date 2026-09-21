@@ -4,10 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "c57dd0605a49c205",
-  "denouementtothelatestoilpricescare",
-  "cf8f93e83ef73c4d",
-  "macroncallsforanotheremergencyoilreleaseaseuropelosessupply",
   "086cc1996cb16367",
   "russiasanctionsbillgivestrumpsweepingnewtariffpowers",
   "75a183d6e1e20493",
@@ -603,7 +599,11 @@
   "e6e80c42a97555da",
   "brentsetforlongestlosingrunsincejunefocusondiplomacy",
   "c290ed4b36ec48bf",
-  "space"
+  "space",
+  "f36c27e3ae3d2695",
+  "techliftssharemarketsinasiaasoilslips",
+  "18119f1d055eef05",
+  "techleadsshareshigherinasiaasoilslipsbyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 46
  },
- "last_run": "2026-09-21T09:45:17.272981+03:00",
+ "last_run": "2026-09-21T09:50:19.066502+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
