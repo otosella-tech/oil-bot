@@ -4,10 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "0af5ad5cd7ff620e",
-  "whatdothehouthiswantthethreattosaudioilmaybeaboutmorethanjus",
-  "ddf05573ef741c8e",
-  "oilpricesclimbover100perbarrelasuswarinirancontinuesabcnews",
   "e516f0ae5ff4e737",
   "oilpricessurgeasstocksandbondswobble",
   "5a16e713e5c33af6",
@@ -603,7 +599,11 @@
   "116b2a92e522182d",
   "sensexniftyriseforfourthstraightsessionaseasingcrudeoilprice",
   "be06b5b35f5fb12b",
-  "minneapolisfedskashkarisaysinflationistoohighacrossallsector"
+  "minneapolisfedskashkarisaysinflationistoohighacrossallsector",
+  "bc3266863499c963",
+  "supertankershortagesendsoilshippingratestorecords",
+  "6bb530fa46eb628b",
+  "michigangaspriceshitnewhighfor2026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T15:35:14.822976+03:00",
+ "last_run": "2026-09-21T15:40:17.918500+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1284,6 +1284,10 @@
   {
    "d": "2026-09-21",
    "t": "Trafigura Launches Volare Shipping to Cash In on Record Tanker Rates"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Supertanker shortage sends oil shipping rates to records - Yahoo Finance"
   }
  ]
 }
