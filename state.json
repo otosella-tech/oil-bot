@@ -4,8 +4,6 @@
   "Brent": 101.37
  },
  "seen": [
-  "59b7e9f90481e2db",
-  "hormuzoilshipmentshitsixmonthhighstatesuscommander",
   "5d383c6c8dfd2b4a",
   "oilpricesperbarrelsurgetodaywhatitmeansforgasprices",
   "0870e3c70724f5e8",
@@ -603,7 +601,9 @@
   "ee04b085d1513af5",
   "risingcrudefuturessupportmidstreamgrowth",
   "0fcb3e4e9f06d250",
-  "majorusairlineandcruisestocksriseasoilpricesdrop"
+  "majorusairlineandcruisestocksriseasoilpricesdrop",
+  "ec6bb69c87ad12c9",
+  "indiascoaldemandsettojump42asplantstockshitcriticallows"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T16:25:14.441531+03:00",
+ "last_run": "2026-09-21T16:30:25.367864+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
