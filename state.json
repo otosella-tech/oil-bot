@@ -4,8 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "c3b79d8501f0c4ee",
-  "nevadagaspricesjump18centsamidhighcrudeoilprices",
   "50c7078c13b89ef2",
   "whypeopleinthenortheastwillbepayinghigherheatingbillsthiswin",
   "928fa5b730ed8e07",
@@ -603,7 +601,9 @@
   "e278fcffb2902c0f",
   "howoilandgascompaniespoisonedthenigerdelta",
   "58a7baede20a1059",
-  "wtioildipsbelow9400amidreportsofhighersaudicrudesupplies"
+  "wtioildipsbelow9400amidreportsofhighersaudicrudesupplies",
+  "d5dca8db2785a2f1",
+  "europeanvegetableoilpricesdivergeassunfloweroilriseswhilerap"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T13:05:15.421155+03:00",
+ "last_run": "2026-09-21T13:10:23.404487+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
