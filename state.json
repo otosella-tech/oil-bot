@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "ba2810651c343314",
-  "runningoutofoptionsconflictrestrictssaudioilexportsmaritime",
   "79728b6797d18dd5",
   "oilsteadyastraderslooktomideastsupplyrisksanddiplomacy",
   "600e3859a70a8fd6",
@@ -603,7 +601,9 @@
   "a709c78fd0707a24",
   "bigagandbigoilgoheadtoheadoverdieselexportban",
   "b4b010bf833af73b",
-  "improvedcrudeflowsthroughthestraitofhormuzsinkoilprices"
+  "improvedcrudeflowsthroughthestraitofhormuzsinkoilprices",
+  "d4973fe9414527b9",
+  "bigoilsproductionkeepssoaringdespitedeepspendingcuts"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T22:25:15.600711+03:00",
+ "last_run": "2026-09-21T22:30:23.642536+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1384,6 +1384,10 @@
   {
    "d": "2026-09-21",
    "t": "Improved Crude Flows Through the Strait of Hormuz Sink Oil Prices - Barchart.com"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Big Oil's Production Keeps Soaring Despite Deep Spending Cuts - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
