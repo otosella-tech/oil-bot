@@ -4,8 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "a35acdae1ab04b6c",
-  "currentpriceofoilasofsept152026",
   "511241cebce9ccbf",
   "usmilitarysaysover1bbarrelsofoilshippedthroughstraitofhormuz",
   "a8ae6400546bf268",
@@ -603,7 +601,9 @@
   "5e1831121bca23ab",
   "usdieselhitsrecord650asglobalfuelcrunchdeepens",
   "75621b0d6a2f3234",
-  "chevronvsoccidentalpetroleumwhichoilstockisabetterbuyin2026"
+  "chevronvsoccidentalpetroleumwhichoilstockisabetterbuyin2026",
+  "f48aa326662450f2",
+  "canadianoilandgasindustryontrackforbiggestdealmakingboominad"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T13:30:22.837257+03:00",
+ "last_run": "2026-09-21T13:35:15.224449+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
