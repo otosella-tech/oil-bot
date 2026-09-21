@@ -4,12 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "f2e579826d1d64b0",
-  "enhancedoilrecoveryusingco2couldunlock137billionbarrels",
-  "e677a40cbb7bf0a2",
-  "risingcrudeoilpricespushupcostofmotoroilcarmaintenance",
-  "7d76f8d3e677e60e",
-  "ahugeproblemtrumphastradedmorestocksthanallofcongresscombine",
   "91a4425fa64217fc",
   "centcomover1bcrudeoilbarrelspassedthroughhormuzstraitinrecen",
   "4813868b1c5e52e2",
@@ -603,7 +597,13 @@
   "0b5d4a79f2b5cc67",
   "oilpriceshit11daylowhowusirantalkssaudishipmentsdrivecrudelo",
   "2923a25fb9235077",
-  "oilpricesfalltolowestlevelinaweek"
+  "oilpricesfalltolowestlevelinaweek",
+  "c3bcaacac2e54919",
+  "oilpricesfallto11daylowasinvestorsassessusirandiplomacyandsa",
+  "43ff2cb67759dac4",
+  "dronesreportedlyattackbashneftoilrefineriesinrussiasufa",
+  "0a10f4ad304b2691",
+  "kazakhstansoillogisticstraphigherpriceslimitedgains"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T14:50:17.832328+03:00",
+ "last_run": "2026-09-21T14:55:14.021621+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1268,6 +1268,14 @@
   {
    "d": "2026-09-21",
    "t": "Centcom: More than 1B crude oil barrels passed through Hormuz strait in recent months - The Hill"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Oil Prices Fall to 11-Day Low as Investors Assess US-Iran Diplomacy and Saudi Exports - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Drones Reportedly Attack Bashneft Oil Refineries in Russia’s Ufa - Kyiv Post"
   }
  ]
 }
