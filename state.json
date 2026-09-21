@@ -4,8 +4,6 @@
   "Brent": 101.37
  },
  "seen": [
-  "9f1aedd6a55bfa84",
-  "centcomover1billioncrudeoilbarrelscrossedstraitofhormuz",
   "486e49fee8c0d44a",
   "ukrainesgeneralstaffdetailsstrikeonmoscowoilrefineryreportsh",
   "5b05abca71900b4e",
@@ -603,7 +601,9 @@
   "8e62985a30d87fee",
   "thesecrethouthiusdealthatcouldpushsaudiarabiabacktobeijing",
   "edce8edb90777365",
-  "globalstocksrallyonloweroilpricesuschinahopes"
+  "globalstocksrallyonloweroilpricesuschinahopes",
+  "8a2a0910d5309d3f",
+  "painatthepumpfloridagaspricessurge21centsinoneweek"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T18:15:19.072496+03:00",
+ "last_run": "2026-09-21T18:20:19.111717+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
