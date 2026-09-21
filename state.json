@@ -4,8 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "e9b257b0b2bc1086",
-  "stocksandbondsrallyafterfedhikesratesandoilpricesfall",
   "957eb7891070115e",
   "ussanctionsbilltargetsrussianenergybutgivestrumpbroaddiscret",
   "28c5f95ae9c99a6b",
@@ -603,7 +601,9 @@
   "1c76a68354cc6725",
   "oilslipsassaudiarabiaoffersmorecrudeviaoman",
   "a57581cf381a2fc8",
-  "dollarwonratenears1400thresholdamidfedtighteninghighoilprice"
+  "dollarwonratenears1400thresholdamidfedtighteninghighoilprice",
+  "a6b79214ab540301",
+  "palmoiltickedupasedibleoilsrosebutcrudeslid"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 24
  },
- "last_run": "2026-09-21T06:25:13.500632+03:00",
+ "last_run": "2026-09-21T06:30:22.958197+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
