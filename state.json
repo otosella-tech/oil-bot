@@ -4,10 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "07566988e59ac37a",
-  "iranwarcausesglobalpainatthepump",
-  "019131c0e91e0374",
-  "crudeoilpostsbacktobacklossesassaudisupplyoutlookimprovesuso",
   "511f64ed2a863e03",
   "indiaisagainsqueezedbetweenthethreatoftrumptariffsandrussian",
   "f195ed58ffe5f8ce",
@@ -603,7 +599,11 @@
   "d41e2a8247dfb318",
   "whyiscryptouptodayoilpricesdropshortsellerssqueezedandbitcoi",
   "e677a40cbb7bf0a2",
-  "risingcrudeoilpricespushupcostofmotoroilcarmaintenance"
+  "risingcrudeoilpricespushupcostofmotoroilcarmaintenance",
+  "4813868b1c5e52e2",
+  "britainfaces150billiongridoverhaultopowerrenewableenergyboom",
+  "1ae81078250fae58",
+  "centcomover1bcrudeoilbarrelspassedthroughhormuzstraitinrecen"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T15:00:32.428278+03:00",
+ "last_run": "2026-09-21T15:05:17.061287+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-09-21",
    "t": "Drones Reportedly Attack Bashneft Oil Refineries in Russia’s Ufa - Kyiv Post"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Centcom: Over 1B crude oil barrels passed through Hormuz strait in recent months - NewsNation"
   }
  ]
 }
