@@ -4,10 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "b2902a0dfc5b6bbc",
-  "chevroncvxsuperchargesitsvenezuelabetwithmoreoilrigs",
-  "ad5fcbe86b6cc40d",
-  "oilshippingmarketpricessurgetenfoldinhalfayearunprecedentedw",
   "1e13b88a3f3b25d5",
   "fedskashkarisaysinflationisstilltoohighacrossuseconomyinfoxn",
   "839078dbf4c1f552",
@@ -603,7 +599,11 @@
   "272018278c8e082a",
   "aistocksliftwallstreetasoilfallstreasuryyieldsdecline",
   "ab14a26b3b6ca998",
-  "chipmakerspushusequityindexeshigherastreasuryyieldscrudeoild"
+  "chipmakerspushusequityindexeshigherastreasuryyieldscrudeoild",
+  "b8aba2b0b5f8fe71",
+  "europesstoxx600ralliesontechbanksstrengthasoilpricesretreat",
+  "6dd0e88f916fd427",
+  "texasoilandgasindustryshowsimprovementafterreportingmonthsof"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T19:50:19.665912+03:00",
+ "last_run": "2026-09-21T19:55:15.405478+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
