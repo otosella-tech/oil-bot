@@ -4,12 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "57c607f4e51c6c51",
-  "chinastockpiledoilandnowitcoulddominatetheenergylandscape",
-  "946985e344393e88",
-  "oilpricesfallafterussaysdamagedsaudipipelinewillrestartopera",
-  "f10931eab2b35c15",
-  "metrodetroiti96projecthitsmajormilestoneastrafficmovesontone",
   "1f2011fe41da1711",
   "jpmorgansendsstarkwarningon100oil",
   "5ec688bfce593cfc",
@@ -603,7 +597,13 @@
   "34a17913413de032",
   "ukrainiandroneattackdamagesmoscowoilrefinery",
   "a4b3ab85b6cabc74",
-  "nasdaqbreakoutbuildsascrudefallsandchipstockssurge"
+  "nasdaqbreakoutbuildsascrudefallsandchipstockssurge",
+  "69df2fa5b8f3b329",
+  "crudeoilwtitests94supportafterdoubletoplivelevels",
+  "0937e211d3934e06",
+  "oilfuturescrudelowerassupplyfearsease",
+  "238944b6436549d2",
+  "escalationonthearabianpeninsulastrikeonastrategicoilpipeline"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-21",
-  "count": 50
+  "count": 51
  },
- "last_run": "2026-09-21T10:15:18.522369+03:00",
+ "last_run": "2026-09-21T10:20:18.191670+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
