@@ -1,17 +1,9 @@
 {
  "price_base": {
-  "WTI": 94.58,
+  "WTI": 92.67,
   "Brent": 101.37
  },
  "seen": [
-  "47caea79db8729d2",
-  "twodeadinmoscowregiondroneshitoilrefineryinrussiancapital",
-  "cdba907ee342cf7d",
-  "centcomover1billioncrudeoilbarrelscrossedstraitofhormuzashar",
-  "481e9d9b005442d0",
-  "crudeoilussanctionstodrivestockmarketthisweek",
-  "2df32cf4d2fd6e93",
-  "moscowclaimsrecorddroneattackasoilrefineryandwarehousecomple",
   "80c5dfabae196c45",
   "videoamajoroilrefinerycaughtfireinmoscowfollowingadroneattac",
   "94973e3468c0beea",
@@ -603,7 +595,15 @@
   "26a5855f7ebf18c5",
   "usstockfuturesadvanceasoilretreatsandaioptimismreturnsdowjon",
   "d60a1bf09abfbbd9",
-  "chinaandtheoilmarketepisode2"
+  "chinaandtheoilmarketepisode2",
+  "a56a77f4db476396",
+  "saudiarabiareroutesoilexportsashouthistrikestargetyanbu",
+  "7918d7f5c79b7243",
+  "europeanstocksriseasfallingoilpriceseaseinflationconcernsdax",
+  "dc72fb155540d5a7",
+  "wallstsetforhigheropenasaistocksriseoilslidesbyreuters",
+  "f5a3a349cf07daf7",
+  "gtvoicechinasoilmarketresilienceboostsglobalenergystability"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T16:50:23.751324+03:00",
+ "last_run": "2026-09-21T16:55:17.746646+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1304,6 +1304,10 @@
   {
    "d": "2026-09-21",
    "t": "Satellite Snapshot Points to Increase in Saudis’ Gulf Oil Flows - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu"
   }
  ]
 }
