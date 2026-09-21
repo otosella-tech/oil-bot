@@ -4,10 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "75a183d6e1e20493",
-  "democraticleadersfearthenewrussiasanctionsbillcouldharmameri",
-  "a33bf259f6ba8d2c",
-  "currentpriceofoilasofseptember162026",
   "6f634c149cf3863e",
   "sp500nasdaqadvanceturningthepageonatumultuousweek",
   "d4299b79b3d0eb9f",
@@ -603,7 +599,11 @@
   "18119f1d055eef05",
   "techleadsshareshigherinasiaasoilslipsbyreuters",
   "cf8f93e83ef73c4d",
-  "macroncallsforanotheremergencyoilreleaseaseuropelosessupply"
+  "macroncallsforanotheremergencyoilreleaseaseuropelosessupply",
+  "c520f6f14b747e39",
+  "straitofhormuzshippingtrafficfallsfurtherassaudioilflowsrise",
+  "0b4c00fc2bccd2a7",
+  "oilnewssaudiexportsrecoverthroughhormuzbutdieselkeepscrudesf"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-21",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-09-21T09:55:16.721760+03:00",
+ "last_run": "2026-09-21T10:00:28.911916+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1172,6 +1172,14 @@
   {
    "d": "2026-09-21",
    "t": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household - CNBC"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Strait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "Oil News: Saudi Exports Recover Through Hormuz but Diesel Keeps Crude’s Floor Intact - FXEmpire"
   }
  ]
 }
