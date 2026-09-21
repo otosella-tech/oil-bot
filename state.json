@@ -4,8 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "1dd0aac9c961ba74",
-  "iranclaimsitstruckanoiltankerinthestraitofhormuzandothermide",
   "a086c7195419db40",
   "louisnavelliersstockscoringsystemspots3oiltankerstockstri",
   "09f16a7e7d87f5ee",
@@ -603,7 +601,9 @@
   "bb9c0e9496ae3874",
   "asianstocksriseasaichipdemandgrowswhileoilpricesfall",
   "9289d171ca98a6ac",
-  "bessentissittingdownwithiransbiggestoilcustomer"
+  "bessentissittingdownwithiransbiggestoilcustomer",
+  "3fe6e22f2b848af5",
+  "indiansharesopenmutedashighoilpricesiporushweigh"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 31
  },
- "last_run": "2026-09-21T07:10:18.748063+03:00",
+ "last_run": "2026-09-21T07:15:17.636503+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
