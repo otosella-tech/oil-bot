@@ -4,10 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "db9fe7fb0974ac9c",
-  "enbridgelaunchesopenseasonforwesttexasexpressnaturalgaspipel",
-  "6ff587ad09a59e5d",
-  "wesimplydontknowjpmorganstrugglingtoforecastoilpricesduetotr",
   "61f7ef296f6c85f8",
   "yoursaturdaysept19guidefivethingstodointheoilcity",
   "cb249745a3fc5230",
@@ -603,7 +599,11 @@
   "c4e2050ffcdcf04c",
   "canadasellsmoreoilandgastochinaasrelationswithussour",
   "ab3942f13e5e5464",
-  "europesfuelcrisisspreadsfromdieseltojetfuel"
+  "europesfuelcrisisspreadsfromdieseltojetfuel",
+  "2b3afadc15a91c85",
+  "wticrudeoilfuturesslideonsaudiexportsignals",
+  "736020d5a1eb9be1",
+  "moscowrefineryhitinmajordroneattackbyukraine"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-21",
-  "count": 57
+  "count": 58
  },
- "last_run": "2026-09-21T11:15:17.524857+03:00",
+ "last_run": "2026-09-21T11:20:18.773859+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
