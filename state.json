@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "2ced320286257df2",
-  "wticrudeoilfutureshitnewhighamidsupplyconcerns",
   "f23fea62e402b61f",
   "fedskashkarisaysinflationreachingallcornersofuseconomy",
   "30002d968852475c",
@@ -603,7 +601,9 @@
   "0327807d4e758906",
   "middayneedtoknowamdhits1tvaluationcrudeoildropsmore",
   "eed19d4aafd5356b",
-  "gaspricesinidahotakeonlyasmallstepupsinceaweekago"
+  "gaspricesinidahotakeonlyasmallstepupsinceaweekago",
+  "c8fdb604de95f5ad",
+  "ussprcrudeoilstocksdrewbytheleastsincewarreleasesbegan"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T20:15:17.867621+03:00",
+ "last_run": "2026-09-21T20:20:20.523830+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1348,6 +1348,10 @@
   {
    "d": "2026-09-21",
    "t": "Hormuz Blockage Puts Qatar's $83 Billion LNG Bet at Risk"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "US SPR crude oil stocks drew by the least since war releases began - Quantum Commodity Intelligence"
   }
  ]
 }
