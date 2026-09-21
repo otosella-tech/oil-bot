@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "0a602c95beddc028",
-  "oilpricesriseaftersaudiarabiashutsdowncriticalpipelinethatby",
   "a421f34cb6962f8a",
   "uschinatradeteamssettohuddleinnewyorkonaiiran",
   "f53307b55b60a775",
@@ -603,7 +601,9 @@
   "f48092684a80e77f",
   "marketindexesrallyasoilretreatsandchipstockssurge",
   "1ddcddb72fe456d7",
-  "saudiarabiarampsupgulfoilexportsafterpipelineattackdatashows"
+  "saudiarabiarampsupgulfoilexportsafterpipelineattackdatashows",
+  "b3228f9e0443d3df",
+  "canadianstocksreversecoursetotradehigherasoilfallsmackleminf"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T20:35:14.748466+03:00",
+ "last_run": "2026-09-21T20:40:18.407761+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
