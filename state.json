@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "2ae43ac63326ad76",
-  "commentarywhenitcomestocrudeoilpricesitslocationlocationloca",
   "2d8aa2cdf6198f37",
   "oilslipsasinvestorsassesssaudiexportrecovery",
   "794aafe1c518a500",
@@ -603,7 +601,9 @@
   "df9faf10f240281f",
   "uscrudeoiltumblesbackbelow100aftertrumpsayshesopentotalkingt",
   "d61afbf5915eef9a",
-  "techstockspowermarketsurgeasbondyieldsandoilpricestumble"
+  "techstockspowermarketsurgeasbondyieldsandoilpricestumble",
+  "d6376ffbc537b9b1",
+  "wallstreetrallieswithin04ofitsrecordafteroilpricesandbondyie"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T23:35:17.568718+03:00",
+ "last_run": "2026-09-21T23:40:19.696660+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
