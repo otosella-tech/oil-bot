@@ -4,8 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "73e508d4f167b033",
-  "cpctoleavedomesticgasolinedieselpricesunchangednextweek",
   "3fabf5603f144f04",
   "uscentralcommandchief1billionbarrelsofcrudeoilallowedtoexitt",
   "1b8ced7e4664bd8e",
@@ -603,7 +601,9 @@
   "68e5f6053c60f387",
   "oilpricesslideto11daylowonhopesofusirandiplomacysaudiexports",
   "f141ef1ee4fc3e67",
-  "crudeoilfallsondeescalationhopesasfocusshiftstotheusgenerala"
+  "crudeoilfallsondeescalationhopesasfocusshiftstotheusgenerala",
+  "4c4c7b12151ab5a1",
+  "crudeoilfuturespostbacktobacklosses"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T13:20:19.458185+03:00",
+ "last_run": "2026-09-21T13:25:16.089537+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
