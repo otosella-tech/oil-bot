@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "6692b78365de6570",
-  "oilhitsover1weeklowonhopesofboosttodiplomacyiniranwar",
   "819e11829046a96b",
   "attackshavereachedthesaudicapitalisoilpoisedtoresumeitsupwar",
   "a3bc264b3044fae2",
@@ -603,7 +601,9 @@
   "b53edc5c0527d725",
   "northdakotaoiloutputseenrisinginauguststateregulatorsays",
   "2db85262ab44bb31",
-  "gaspricescouldfallascrudeoildropsfox10talksfox10phoenix"
+  "gaspricescouldfallascrudeoildropsfox10talksfox10phoenix",
+  "61b5b9f7c7e614e4",
+  "gaspricescouldfallascrudeoildropsfox10talks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-22",
   "count": 1
  },
- "last_run": "2026-09-22T01:20:19.594504+03:00",
+ "last_run": "2026-09-22T01:25:14.838340+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
