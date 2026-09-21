@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "4c72db5cb869bd75",
-  "about100gallonsofcrudeoilleaknearmound18mileroadsinsterlingh",
   "84576acc0fe1457e",
   "oilslipsasinvestorsassesssaudiexportrecoverybyreuters",
   "ed3f7f9d3ed9d0fa",
@@ -603,7 +601,9 @@
   "e8eaf54871fe3a64",
   "recordgaspricessqueezenewmexicodriverswhilefuelingstatereven",
   "ea1780a9352c8994",
-  "newussanctionslawthreatensindiashugerussianoiltrade"
+  "newussanctionslawthreatensindiashugerussianoiltrade",
+  "dab02952d3102fd3",
+  "globaltensionsdriveidahogaspriceshigher"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-22",
   "count": 3
  },
- "last_run": "2026-09-22T02:50:22.167666+03:00",
+ "last_run": "2026-09-22T02:55:17.751690+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
