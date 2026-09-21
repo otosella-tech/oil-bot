@@ -4,8 +4,6 @@
   "Brent": 101.37
  },
  "seen": [
-  "06e0368a2348e96e",
-  "southwestairlinesbuythetransformationdespitetheoilshocknysel",
   "2b36d5f938983d6c",
   "oilhits100abarrelasturmoilintensifiesinmiddleeast",
   "191d85975d717e2d",
@@ -603,7 +601,9 @@
   "921e7df1db6dcde6",
   "usstockfuturesriseasinvestorsmonitormiddleeastoilsuppliesand",
   "f90e9effbf4e4fa9",
-  "sp500forecastspxhigherasoilyieldsfallaistocksrise"
+  "sp500forecastspxhigherasoilyieldsfallaistocksrise",
+  "62d9b30df132c5cc",
+  "uscrudeoilfallsbackbelow100perbarrelaftertrumpsayshesopentot"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T17:30:24.582284+03:00",
+ "last_run": "2026-09-21T17:35:16.295564+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
@@ -1312,6 +1312,10 @@
   {
    "d": "2026-09-21",
    "t": "Trafigura Sees Mideast Oil-Tanker Buying Spree Prolonging Boom - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-21",
+   "t": "U.S. crude oil falls back below $100 per barrel after Trump says he's open to talking to Iran - CNBC"
   }
  ]
 }
