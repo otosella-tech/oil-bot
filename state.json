@@ -4,12 +4,6 @@
   "Brent": 97.86
  },
  "seen": [
-  "ed3f7f9d3ed9d0fa",
-  "saudiarabiacutseuropeofffromoctobercrudeasgulfexportssurge",
-  "f26119de52caaba3",
-  "sterlingheightsrespondingtocrudeoilleaknearmound18mileroads",
-  "4263217e02321b3a",
-  "100gallonsofoilleakinsterlingheights",
   "6b24a10b7940483d",
   "usequityfundspostfourthweeklyoutflowoninflationworriesrateco",
   "71895f5faacbfae5",
@@ -603,7 +597,13 @@
   "6692b78365de6570",
   "oilhitsover1weeklowonhopesofboosttodiplomacyiniranwar",
   "819e11829046a96b",
-  "attackshavereachedthesaudicapitalisoilpoisedtoresumeitsupwar"
+  "attackshavereachedthesaudicapitalisoilpoisedtoresumeitsupwar",
+  "a3bc264b3044fae2",
+  "usoilgasrigcountcreepsupwithstrongprices",
+  "4c72db5cb869bd75",
+  "about100gallonsofcrudeoilleaknearmound18mileroadsinsterlingh",
+  "84576acc0fe1457e",
+  "oilslipsasinvestorsassesssaudiexportrecoverybyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-09-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-21",
-  "count": 17
+  "count": 18
  },
- "last_run": "2026-09-21T05:45:17.691518+03:00",
+ "last_run": "2026-09-21T05:50:18.475841+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
