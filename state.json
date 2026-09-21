@@ -4,10 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "3c67a490c354f0a3",
-  "chevronceosendsastrongmessageonoilpriceandtheeconomy",
-  "f08805e64f97d5ae",
-  "currentpriceofoilasofseptember182026",
   "2ced320286257df2",
   "wticrudeoilfutureshitnewhighamidsupplyconcerns",
   "f23fea62e402b61f",
@@ -603,7 +599,11 @@
   "b0ecf0bfc8bee321",
   "usdollarmajorsbitcoingoldoilweeklytechnicaloutlook",
   "11d9e77db0b1be25",
-  "risingimportsofoilbychinaposeanotherrisktothepriceofcrude"
+  "risingimportsofoilbychinaposeanotherrisktothepriceofcrude",
+  "0327807d4e758906",
+  "middayneedtoknowamdhits1tvaluationcrudeoildropsmore",
+  "eed19d4aafd5356b",
+  "gaspricesinidahotakeonlyasmallstepupsinceaweekago"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -615,7 +615,7 @@
   "date": "2026-09-21",
   "count": 60
  },
- "last_run": "2026-09-21T20:10:18.881764+03:00",
+ "last_run": "2026-09-21T20:15:17.867621+03:00",
  "sent_stories": [
   {
    "d": "2026-09-18",
