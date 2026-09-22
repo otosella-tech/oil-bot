@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "13a03cc89d289b76",
-  "globalshippingcostsexplodeashormuzdisruptionshitkeytraderout",
   "e6e80c42a97555da",
   "brentsetforlongestlosingrunsincejunefocusondiplomacy",
   "c290ed4b36ec48bf",
@@ -603,7 +601,9 @@
   "e3f1548d92e2185c",
   "oilpricesclimbaheadofpotentialusirantalks",
   "b2c83a0abc8e5f82",
-  "usthreatenstogroundiranianairlinesworldwide"
+  "usthreatenstogroundiranianairlinesworldwide",
+  "4779d87aa523272c",
+  "howwilltheusrefillitsdwindlingoilreservestheindicatorfrompla"
  ],
  "releases_done": {},
  "last_digest": "2026-09-22",
@@ -615,7 +615,7 @@
   "date": "2026-09-22",
   "count": 35
  },
- "last_run": "2026-09-22T10:05:18.973486+03:00",
+ "last_run": "2026-09-22T10:10:20.460766+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
