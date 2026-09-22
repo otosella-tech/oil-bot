@@ -4,8 +4,6 @@
   "Brent": 99.27
  },
  "seen": [
-  "a1d183af6af67a96",
-  "recorddieselpricesraisefearsoflocalfuelshortages",
   "ac0b0ed792aa9300",
   "whyoilpricesareslidingagainaftertheirlatest100abarrelspike",
   "ef6cd75ff1c7dd6a",
@@ -603,7 +601,9 @@
   "fc15fe618fcc648f",
   "exclusivesaudiaramcoplansreorganisationtocreategasdivisionso",
   "d5b7c668af2a8e7a",
-  "saudiarabiarestartseastwestoilpipeline"
+  "saudiarabiarestartseastwestoilpipeline",
+  "a7e398490a67ff22",
+  "saudisinprocessofstartingupkeyeastwestoilpipeline"
  ],
  "releases_done": {},
  "last_digest": "2026-09-22",
@@ -615,7 +615,7 @@
   "date": "2026-09-22",
   "count": 60
  },
- "last_run": "2026-09-22T22:30:24.858492+03:00",
+ "last_run": "2026-09-22T22:35:16.158562+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
@@ -1412,6 +1412,10 @@
   {
    "d": "2026-09-22",
    "t": "Saudi Arabia Restarts East-West Oil Pipeline - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-09-22",
+   "t": "Saudis in process of starting up key East-West oil pipeline - Transport Topics"
   }
  ]
 }
