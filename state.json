@@ -4,10 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "0edba8acd77752ab",
-  "pumppriceskeepclimbingascrudeoilremainshigh",
-  "d12de90070c00c36",
-  "sensexgains500ptsniftyabove23400easingcrudeoilpricesamongkey",
   "cccb4e5c41d37f02",
   "100gallonsofcrudeoilleaksinsterlingheightsimpactingtraffic",
   "b58c8b1c3794aec2",
@@ -603,7 +599,11 @@
   "970f14d5a1c18bca",
   "amidgrowingvolatilityincrudeoilpricesduetorecentinternationa",
   "bab07e3a433abaa4",
-  "uscrudeoiltops100againlastseeninmayasmarketbracesforprolonge"
+  "uscrudeoiltops100againlastseeninmayasmarketbracesforprolonge",
+  "f81cdf149f904f71",
+  "videodronesattackedoneofrussiaslargestoilrefineries",
+  "5bfb8784fb720d9c",
+  "gulfchinasupertankerfreightnears30ofoilprice"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-22",
-  "count": 15
+  "count": 16
  },
- "last_run": "2026-09-22T07:30:21.943035+03:00",
+ "last_run": "2026-09-22T07:35:18.001888+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
