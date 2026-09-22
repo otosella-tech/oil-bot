@@ -4,10 +4,6 @@
   "Brent": 101.3
  },
  "seen": [
-  "0b4c00fc2bccd2a7",
-  "oilnewssaudiexportsrecoverthroughhormuzbutdieselkeepscrudesf",
-  "a33bf259f6ba8d2c",
-  "currentpriceofoilasofseptember162026",
   "ec46ada2e655415b",
   "iraqsoilexportsaverage26mbpdinseptemberministry",
   "701b3094d8944037",
@@ -603,7 +599,11 @@
   "56d9965a23f67b8c",
   "fsswarnsas90ofoilandnaturalgasetpscarryhighrisk",
   "d522e0aa7b1ac6d2",
-  "soaringoilandgaspricespusheuropesinflationfightinto2027"
+  "soaringoilandgaspricespusheuropesinflationfightinto2027",
+  "66d7ec72113246e9",
+  "whyaredieselandgasolinepricesexplodingwhilecrudeoilisnt",
+  "fdbbf0350fba7ad4",
+  "straitofhormuzshippingtrafficfallsfurtherassaudioilflowsrise"
  ],
  "releases_done": {},
  "last_digest": "2026-09-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-22",
-  "count": 42
+  "count": 43
  },
- "last_run": "2026-09-22T11:00:29.238275+03:00",
+ "last_run": "2026-09-22T11:05:18.854144+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
