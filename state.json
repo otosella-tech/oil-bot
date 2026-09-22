@@ -4,12 +4,6 @@
   "Brent": 99.27
  },
  "seen": [
-  "a56a77f4db476396",
-  "saudiarabiareroutesoilexportsashouthistrikestargetyanbu",
-  "7918d7f5c79b7243",
-  "europeanstocksriseasfallingoilpriceseaseinflationconcernsdax",
-  "dc72fb155540d5a7",
-  "wallstsetforhigheropenasaistocksriseoilslidesbyreuters",
   "f5a3a349cf07daf7",
   "gtvoicechinasoilmarketresilienceboostsglobalenergystability",
   "68e2d720bc1c2e3e",
@@ -603,7 +597,13 @@
   "698e7c18ce3af222",
   "cmecrudeoilextendslossesoneasingsupplyfears",
   "ce0c9b0c13024ac5",
-  "crudeanddollarreboundastrumpsaysdealpossibleaftertheelection"
+  "crudeanddollarreboundastrumpsaysdealpossibleaftertheelection",
+  "6275afadcd862dbe",
+  "oilpricesfallonusirandiplomacyhopes",
+  "e482222bf3b45d85",
+  "usequityindexescrudeoilpricesmixedinmiddaytrading",
+  "c156543e8f785b21",
+  "rubiosaysukraineunintentionallyhitamericanlinkedoilinfrastru"
  ],
  "releases_done": {},
  "last_digest": "2026-09-22",
@@ -615,7 +615,7 @@
   "date": "2026-09-22",
   "count": 60
  },
- "last_run": "2026-09-22T19:50:19.140880+03:00",
+ "last_run": "2026-09-22T19:55:15.633321+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-09-22",
    "t": "WCS crude oil discount to Mars weakens amid US refinery outages - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-09-22",
+   "t": "Oil Prices Fall on U.S.-Iran Diplomacy Hopes - WSJ"
   }
  ]
 }
