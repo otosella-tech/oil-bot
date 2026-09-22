@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "fe95b6b6c9fcd5ab",
-  "oilfinishestheweekflatasthemarketseessaudipipelineoutageasle",
   "0d8a8a65a668e893",
   "oilslidesafterchinaasksirantolimithouthiattacksonsaudioilfac",
   "30ad4113dd19c201",
@@ -603,7 +601,9 @@
   "ebbd89433813e8a3",
   "goldedgeshigherasloweroilpricesdampchanceofratehikes",
   "7f11d20ea0e568cc",
-  "oilrisesamidworriesofgrowingiranustensionsafterbessentissues"
+  "oilrisesamidworriesofgrowingiranustensionsafterbessentissues",
+  "e2676784d3e0523a",
+  "oilpricesslideastradersbetonirandiplomacy"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-22",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-09-22T07:50:19.819194+03:00",
+ "last_run": "2026-09-22T07:55:15.496774+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
@@ -1160,6 +1160,10 @@
   {
    "d": "2026-09-22",
    "t": "Oil Prices Gain as Hopes Fade for U.S.-Iran Talks - wsj.com"
+  },
+  {
+   "d": "2026-09-22",
+   "t": "Oil Prices Slide as Traders Bet on Iran Diplomacy - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
