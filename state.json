@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "c290ed4b36ec48bf",
-  "space",
   "f36c27e3ae3d2695",
   "techliftssharemarketsinasiaasoilslips",
   "18119f1d055eef05",
@@ -603,7 +601,9 @@
   "4779d87aa523272c",
   "howwilltheusrefillitsdwindlingoilreservestheindicatorfrompla",
   "664f335125eb21cb",
-  "saudistelleuropeanrefinerstheyllgetnocrudenextmonth"
+  "saudistelleuropeanrefinerstheyllgetnocrudenextmonth",
+  "44456b7cffa908fc",
+  "oilpricesriseasstraitofhormuzshippingriskspersist"
  ],
  "releases_done": {},
  "last_digest": "2026-09-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-22",
-  "count": 37
+  "count": 38
  },
- "last_run": "2026-09-22T10:25:17.350281+03:00",
+ "last_run": "2026-09-22T10:30:23.821292+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
