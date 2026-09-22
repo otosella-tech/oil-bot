@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "4a4cfdff8b5e0d68",
-  "oilpricestodaybrentcrudeeasesassaudisupplyrecoveryoffsetshou",
   "1c76a68354cc6725",
   "oilslipsassaudiarabiaoffersmorecrudeviaoman",
   "a57581cf381a2fc8",
@@ -603,7 +601,9 @@
   "4c72db5cb869bd75",
   "about100gallonsofcrudeoilleaknearmound18mileroadsinsterlingh",
   "39bb5f52801bc2fd",
-  "nearly80ofvenezuelansinpollrejectoildealwiththeunitedstates"
+  "nearly80ofvenezuelansinpollrejectoildealwiththeunitedstates",
+  "f10544f4a3931c08",
+  "astheiranwarcontinuesdieselpriceshitalltimehigh"
  ],
  "releases_done": {},
  "last_digest": "2026-09-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-22",
-  "count": 3
+  "count": 4
  },
- "last_run": "2026-09-22T03:30:25.961864+03:00",
+ "last_run": "2026-09-22T03:35:14.907181+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
