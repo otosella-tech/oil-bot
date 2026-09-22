@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "8fad44cc32cb30d7",
-  "rupeenudgesupasforeignbankdollarsalescountercorporatedemand",
   "13a03cc89d289b76",
   "globalshippingcostsexplodeashormuzdisruptionshitkeytraderout",
   "e6e80c42a97555da",
@@ -603,7 +601,9 @@
   "12ec80ed2165d523",
   "oilpricesreversecourseastraderswatchusirandiplomacy",
   "e3f1548d92e2185c",
-  "oilpricesclimbaheadofpotentialusirantalks"
+  "oilpricesclimbaheadofpotentialusirantalks",
+  "b2c83a0abc8e5f82",
+  "usthreatenstogroundiranianairlinesworldwide"
  ],
  "releases_done": {},
  "last_digest": "2026-09-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-22",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-09-22T09:40:19.061732+03:00",
+ "last_run": "2026-09-22T09:45:19.199181+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
@@ -1180,6 +1180,10 @@
   {
    "d": "2026-09-22",
    "t": "Oil prices climb ahead of potential US-Iran talks - Reuters"
+  },
+  {
+   "d": "2026-09-22",
+   "t": "U.S. Threatens to Ground Iranian Airlines Worldwide"
   }
  ]
 }
