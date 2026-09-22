@@ -4,8 +4,6 @@
   "Brent": 96.14
  },
  "seen": [
-  "e6e80c42a97555da",
-  "brentsetforlongestlosingrunsincejunefocusondiplomacy",
   "c290ed4b36ec48bf",
   "space",
   "f36c27e3ae3d2695",
@@ -603,7 +601,9 @@
   "b2c83a0abc8e5f82",
   "usthreatenstogroundiranianairlinesworldwide",
   "4779d87aa523272c",
-  "howwilltheusrefillitsdwindlingoilreservestheindicatorfrompla"
+  "howwilltheusrefillitsdwindlingoilreservestheindicatorfrompla",
+  "664f335125eb21cb",
+  "saudistelleuropeanrefinerstheyllgetnocrudenextmonth"
  ],
  "releases_done": {},
  "last_digest": "2026-09-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-22",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-09-22T10:15:19.761543+03:00",
+ "last_run": "2026-09-22T10:20:20.020437+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
@@ -1184,6 +1184,10 @@
   {
    "d": "2026-09-22",
    "t": "U.S. Threatens to Ground Iranian Airlines Worldwide"
+  },
+  {
+   "d": "2026-09-22",
+   "t": "Saudis Tell European Refiners They’ll Get No Crude Next Month - Bloomberg.com"
   }
  ]
 }
