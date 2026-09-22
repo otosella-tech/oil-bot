@@ -4,8 +4,6 @@
   "Brent": 101.3
  },
  "seen": [
-  "ec46ada2e655415b",
-  "iraqsoilexportsaverage26mbpdinseptemberministry",
   "701b3094d8944037",
   "crudeoilpriceforecastcanbrenthold100assaudiexportrecoverywei",
   "f6eb2f846cf4f336",
@@ -603,7 +601,9 @@
   "66d7ec72113246e9",
   "whyaredieselandgasolinepricesexplodingwhilecrudeoilisnt",
   "fdbbf0350fba7ad4",
-  "straitofhormuzshippingtrafficfallsfurtherassaudioilflowsrise"
+  "straitofhormuzshippingtrafficfallsfurtherassaudioilflowsrise",
+  "a33bf259f6ba8d2c",
+  "currentpriceofoilasofseptember162026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-22",
@@ -615,7 +615,7 @@
   "date": "2026-09-22",
   "count": 43
  },
- "last_run": "2026-09-22T11:05:18.854144+03:00",
+ "last_run": "2026-09-22T11:10:19.024199+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
