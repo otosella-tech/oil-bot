@@ -4,14 +4,6 @@
   "Brent": 99.27
  },
  "seen": [
-  "736020d5a1eb9be1",
-  "moscowrefineryhitinmajordroneattackbyukraine",
-  "f0fff7a1f92bb0f7",
-  "hereswhatthesaudieastwestpipelineshutdownmeansforasiasbigges",
-  "f7b3a0752a17a432",
-  "dowjonesfuturesriseaslowercrudeoilpricesimprovemarketsentime",
-  "f2e916002f378767",
-  "riskappetitesupportedbypositiveuscntalksandthecontinueddecli",
   "6ccc476d4ec9b908",
   "isthetrumpxisummitnowaniransummitbitcoinstocksandoilaretradi",
   "fb8e43a79a4fdc25",
@@ -603,7 +595,15 @@
   "94ec7928701e1e91",
   "oilpricesdroponreportiranhasofferedtoopenhormuzin7days",
   "8fa3c4ecfc49d48e",
-  "oilpricesoverus1003singaporestocksmostatrisk"
+  "oilpricesoverus1003singaporestocksmostatrisk",
+  "a07b8b7548251c25",
+  "traderspushfordiscountsforvenezuelanoilasshippingcostssoarso",
+  "2b3afadc15a91c85",
+  "wticrudeoilfuturesslideonsaudiexportsignals",
+  "58b854098b317167",
+  "polymermembraneofferslowenergyalternativetocrudeoildistillat",
+  "c4e2050ffcdcf04c",
+  "canadasellsmoreoilandgastochinaasrelationswithussour"
  ],
  "releases_done": {},
  "last_digest": "2026-09-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-22",
-  "count": 53
+  "count": 54
  },
- "last_run": "2026-09-22T13:10:18.046115+03:00",
+ "last_run": "2026-09-22T13:15:19.172260+03:00",
  "sent_stories": [
   {
    "d": "2026-09-19",
