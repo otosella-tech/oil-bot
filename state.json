@@ -4,10 +4,6 @@
   "Brent": 95.25
  },
  "seen": [
-  "a5c75e2fc5de9d45",
-  "afugeneralstaffconfirmsstrikesonoilrefineriesinrussiasufaand",
-  "8ae9433c98691c60",
-  "trumptopresszelenskyyforenergytrucesaysrussiahaslostcontrolo",
   "04bfa922cce334b1",
   "rankedtheworldslargestoilimportersvisualcapitalist",
   "33301ab0790ce988",
@@ -603,7 +599,11 @@
   "d03a8ccd23ffcc9f",
   "crudeoilfallsfor6thsession",
   "e1d5ea88cff38217",
-  "wticrudeoiltestsstabilityasmiddleeastriskspersist"
+  "wticrudeoiltestsstabilityasmiddleeastriskspersist",
+  "30987337f8a02172",
+  "asiascrudeimportshithighestlevelsincetheiranwarbegan",
+  "caeb09d1059c4187",
+  "treasuryyieldslittlechangedasoilpriceoscillates"
  ],
  "releases_done": {},
  "last_digest": "2026-09-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-23",
-  "count": 47
+  "count": 48
  },
- "last_run": "2026-09-23T13:55:15.259963+03:00",
+ "last_run": "2026-09-23T14:00:30.406829+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
