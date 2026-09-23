@@ -4,10 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "41bed9b81da2eaa1",
-  "oilpricestumbleto2weeklowonhopesforcriticalpipelinereopening",
-  "dcad39bbec51028d",
-  "saudiarabiarestartseastwestoilpipelinesourcessay",
   "ddc0c7a8cdffbb1f",
   "caribbeanbasincrudeoilexportsjump45",
   "4c4c7b12151ab5a1",
@@ -603,7 +599,11 @@
   "5ae2c9a5c5982784",
   "uscrudeoilstocksunexpectedlyriseeia",
   "e1c434c7df8fb539",
-  "energybriefsworldeventscontinuetobringdownoilprices"
+  "energybriefsworldeventscontinuetobringdownoilprices",
+  "e2c0233d28e91670",
+  "hereswhatweknowaboutthefuelpipelineprojectproposedforemigrat",
+  "025c6a8cc2c8ac7f",
+  "usstocksslipafterbondyieldsjumponhigheroilpricesandastrongec"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-23",
   "count": 60
  },
- "last_run": "2026-09-23T18:50:21.821491+03:00",
+ "last_run": "2026-09-23T18:55:15.207050+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
