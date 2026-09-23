@@ -4,10 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "1745d64161a5e1d7",
-  "oilpricesfallafterreportsaudiarabiaaimstorestartcriticalpipe",
-  "df7bfc7bd0058d50",
-  "stocksriseonaibuzzoilpricescool",
   "a9e5138bf1ae4198",
   "fallingoilprices",
   "5fd2c9cddd411eaf",
@@ -603,7 +599,11 @@
   "220f9d8022cb708b",
   "africaslargestoilreserveholderwithanew45millionbarreldiscove",
   "2675c416f53ac6aa",
-  "crudeoilgains1cintasearningstopviews"
+  "crudeoilgains1cintasearningstopviews",
+  "e4fd2bfc83b6b8f5",
+  "treasuryyieldssurgetonear20yearhighasoiljumpsbackabove102per",
+  "05d8b1b1ad816774",
+  "russianinsurgentsblowuptankcarscarryingover10000metrictonsof"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-23",
   "count": 60
  },
- "last_run": "2026-09-23T21:15:22.306205+03:00",
+ "last_run": "2026-09-23T21:20:22.080587+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
@@ -1455,6 +1455,10 @@
   {
    "d": "2026-09-23",
    "t": "China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-09-23",
+   "t": "Russian Insurgents Blow Up Tank Cars Carrying Over 10,000 Metric Tons of Oil - Мілітарний"
   }
  ]
 }
