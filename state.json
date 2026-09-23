@@ -4,8 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "ca9169e605d346ed",
-  "saudiarabiasignalsreopeningofeastwestpipeline",
   "5b09858c32fb4363",
   "europesoffshorewindslowdownissqueezingmanufacturers",
   "1a01062e8173ffbd",
@@ -603,7 +601,9 @@
   "03b0f09ea87b3fb5",
   "treasuryyieldsresumetheirrise",
   "434734531da253ff",
-  "iowacorngrowersassociationasksfordieselreliefasharvestkickso"
+  "iowacorngrowersassociationasksfordieselreliefasharvestkickso",
+  "41b91011002e9301",
+  "semitruckrolloverresultsinoilspill"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-23",
   "count": 60
  },
- "last_run": "2026-09-24T00:50:19.412600+03:00",
+ "last_run": "2026-09-24T00:55:14.546071+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
