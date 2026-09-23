@@ -4,12 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "e10c8e6317c6d1cb",
-  "stockssupportedascrudeoilpricesease",
-  "87ea0d370f17fe6f",
-  "oilpricesbackbelow100perbarrelsaudipipelinetorestart",
-  "dbc0df7b36f7e2b8",
-  "stocksclimbasoilslidesaibuzzreturns",
   "e7a3a18b4823a498",
   "oilpricesfallastrumpheadstomakeorbreakunconference",
   "8ff6ac5962683a26",
@@ -603,7 +597,13 @@
   "bb9ede3dc98d1a5d",
   "whytrumpbanningdieselexportswouldupsettheusoilsectorandupend",
   "b7a2586d500d1398",
-  "hormuzsupplycrisistochangelngmarketforever"
+  "hormuzsupplycrisistochangelngmarketforever",
+  "38942ab82c72eda1",
+  "oilpricesrisesnapfivedaylosingstreakasiranvowsitwillnotsurre",
+  "995e25c592309344",
+  "minnesotaautoshopsraisepricesasoilcostsincrease",
+  "28b1aae7d9fa9dd4",
+  "oilfuturescrudereboundsafterrunoflossesusirantalkseyed"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-23",
   "count": 60
  },
- "last_run": "2026-09-23T22:30:28.377707+03:00",
+ "last_run": "2026-09-23T22:35:14.388126+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
@@ -1463,6 +1463,10 @@
   {
    "d": "2026-09-23",
    "t": "Hormuz Supply Crisis to Change LNG Market Forever"
+  },
+  {
+   "d": "2026-09-23",
+   "t": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender - CNBC"
   }
  ]
 }
