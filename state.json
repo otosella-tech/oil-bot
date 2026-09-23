@@ -4,10 +4,6 @@
   "Brent": 95.25
  },
  "seen": [
-  "4779d87aa523272c",
-  "howwilltheusrefillitsdwindlingoilreservestheindicatorfrompla",
-  "664f335125eb21cb",
-  "saudistelleuropeanrefinerstheyllgetnocrudenextmonth",
   "44456b7cffa908fc",
   "oilpricesriseasstraitofhormuzshippingriskspersist",
   "035dda3aea30cd6b",
@@ -603,7 +599,11 @@
   "105ca08aecc16cd8",
   "asrenewedchaosgripstheoilmarketonecountryiskeepingglobalpric",
   "b72c14c49e6528f6",
-  "oilfuturescrudesteadiesafterrunoflossesusirantalkseyed"
+  "oilfuturescrudesteadiesafterrunoflossesusirantalkseyed",
+  "4d5c4b6d089c12ab",
+  "oilsetforlongestlosingstreaksinceaugust2025",
+  "a17990f15c2271a9",
+  "uksftse100upasbanksgainoilpricessteady"
  ],
  "releases_done": {},
  "last_digest": "2026-09-23",
@@ -615,7 +615,7 @@
   "date": "2026-09-23",
   "count": 44
  },
- "last_run": "2026-09-23T12:55:16.445927+03:00",
+ "last_run": "2026-09-23T13:00:30.556168+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
