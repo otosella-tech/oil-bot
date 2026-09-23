@@ -4,10 +4,6 @@
   "Brent": 95.25
  },
  "seen": [
-  "d522e0aa7b1ac6d2",
-  "soaringoilandgaspricespusheuropesinflationfightinto2027",
-  "66d7ec72113246e9",
-  "whyaredieselandgasolinepricesexplodingwhilecrudeoilisnt",
   "fdbbf0350fba7ad4",
   "straitofhormuzshippingtrafficfallsfurtherassaudioilflowsrise",
   "a33bf259f6ba8d2c",
@@ -603,7 +599,11 @@
   "43446a079afa412d",
   "oilpricesmixedafterusandirantalkforhoursatunmeeting",
   "a03a76bc742dd992",
-  "acriticalweekforoil"
+  "acriticalweekforoil",
+  "36597f47a7c35cb0",
+  "europestocksedgehigherasoileasespmidatabeatsforecasts",
+  "f9f030c51253d2af",
+  "asiansharesaremixedandoilpricesfallaftertrumpsaysusandiranme"
  ],
  "releases_done": {},
  "last_digest": "2026-09-23",
@@ -615,7 +615,7 @@
   "date": "2026-09-23",
   "count": 47
  },
- "last_run": "2026-09-23T13:35:14.899912+03:00",
+ "last_run": "2026-09-23T13:40:18.791608+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
