@@ -4,8 +4,6 @@
   "Brent": 95.25
  },
  "seen": [
-  "58108a72a7b9546b",
-  "crudeoilisfallingbutwhenwillpumpreliefarrivemercedsun",
   "dec551d316d296e6",
   "oilpricesgainashopesfadeforusirantalks",
   "adb6d324c0f7fa53",
@@ -603,7 +601,9 @@
   "9faf23e341729e3b",
   "asiastocksridetechwavehigheroilslipsagainbyreuters",
   "e9154a073519ad58",
-  "stockmarketholdsnearrecordasoilpricesdropthearkansasdemocrat"
+  "stockmarketholdsnearrecordasoilpricesdropthearkansasdemocrat",
+  "39f87ce8fde11ea8",
+  "oilpricesfallasusirandiplomacysaudiflowseasesupplyconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-09-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-23",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-09-23T10:45:18.686856+03:00",
+ "last_run": "2026-09-23T10:50:18.265974+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-09-23",
    "t": "Oil slips as Saudi Arabia offers more crude via Oman - reuters.com"
+  },
+  {
+   "d": "2026-09-23",
+   "t": "Oil prices fall as US-Iran diplomacy, Saudi flows ease supply concerns - Anadolu Ajansı"
   }
  ]
 }
