@@ -4,8 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "f65e73eb2237cc96",
-  "laresidentsarefeelingtheheatasurbanoilfieldstakeatollonhealt",
   "1745d64161a5e1d7",
   "oilpricesfallafterreportsaudiarabiaaimstorestartcriticalpipe",
   "df7bfc7bd0058d50",
@@ -603,7 +601,9 @@
   "6279bcfb93ca47ea",
   "uzbekistaneyescaspianandblackseaportstobreakoutofcentralasia",
   "220f9d8022cb708b",
-  "africaslargestoilreserveholderwithanew45millionbarreldiscove"
+  "africaslargestoilreserveholderwithanew45millionbarreldiscove",
+  "2675c416f53ac6aa",
+  "crudeoilgains1cintasearningstopviews"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-23",
   "count": 60
  },
- "last_run": "2026-09-23T21:10:18.061643+03:00",
+ "last_run": "2026-09-23T21:15:22.306205+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
