@@ -4,8 +4,6 @@
   "Brent": 95.25
  },
  "seen": [
-  "adb6d324c0f7fa53",
-  "stocksriseonaibuzzdropinoilprices",
   "8278e05352d02cac",
   "indianrupeetoedgehigherasoilslipsinflowhaulcapsbearishbets",
   "2ae43ac63326ad76",
@@ -603,7 +601,9 @@
   "39f87ce8fde11ea8",
   "oilpricesfallasusirandiplomacysaudiflowseasesupplyconcerns",
   "9139f7c99a43b02a",
-  "oilfallsonbettersupplyoutlookhopesforusirantalks"
+  "oilfallsonbettersupplyoutlookhopesforusirantalks",
+  "51980079d4607fcb",
+  "michiganjudgetossesstatesantitrustsuitagainstbigoil"
  ],
  "releases_done": {},
  "last_digest": "2026-09-23",
@@ -615,7 +615,7 @@
   "date": "2026-09-23",
   "count": 35
  },
- "last_run": "2026-09-23T10:55:15.347965+03:00",
+ "last_run": "2026-09-23T11:00:31.391028+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
