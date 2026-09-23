@@ -4,8 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "f946f1f27e680eb3",
-  "currentpriceofoilasofseptember222026",
   "effcdeeb534bc908",
   "saudicrudeoilexportshitfourmonthhighinjulydatashows",
   "dec59457f7c4aeea",
@@ -603,7 +601,9 @@
   "203ceacaba08973c",
   "10yeartreasuryyieldleapstofresh19yearhighafterhoteconomicrea",
   "f28df293451b4d7f",
-  "globaloilpricedropsbelow100abarrel"
+  "globaloilpricedropsbelow100abarrel",
+  "eacb8072d2417d0e",
+  "dangoteskenyarefineryprojectlaunchesthisweekatupto20b"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-23",
   "count": 60
  },
- "last_run": "2026-09-23T19:25:16.310331+03:00",
+ "last_run": "2026-09-23T19:30:28.652819+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
@@ -1439,6 +1439,10 @@
   {
    "d": "2026-09-23",
    "t": "Saudi Arabia restarts East-West oil pipeline, sources say - Reuters"
+  },
+  {
+   "d": "2026-09-23",
+   "t": "Dangote's Kenya Refinery Project Launches This Week at Up to $20B"
   }
  ]
 }
