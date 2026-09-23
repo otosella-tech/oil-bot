@@ -4,12 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "ffacd37cd93ca659",
-  "uscrudeoilstockpilespostmoderatedraw",
-  "79f3e164b384dd36",
-  "oilnewshormuzdiplomacysinkscrudefuturesasdieselstaystight",
-  "c6a05bbe9a89f472",
-  "crudeoilremainsunderpressureasdeescalationbetsincreaseamidmo",
   "8c3476d3615ff9bb",
   "oildipsbelow100asiranreportedlyofferstoreopenhormuzamiddiplo",
   "3a308d4e80fa3e4f",
@@ -603,7 +597,13 @@
   "5351df9d33347507",
   "climatestartupsignsco2dealswiththreeusoilproducers",
   "cc9277b35e244029",
-  "eurusdnasdaqpriceoutlookreversalrisksbuild"
+  "eurusdnasdaqpriceoutlookreversalrisksbuild",
+  "ec51ca36c2dbc26d",
+  "wallstreetfallsasoilticksupyieldsriseaheadofuschinasummit",
+  "56b480adc18a391c",
+  "crudeoilinventoriessurgedefyingmarketexpectations",
+  "436e183a489c8e70",
+  "trumpspeculatesondieselfuelexportbanashighpricesrippleacross"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-23",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-09-23T17:30:25.416687+03:00",
+ "last_run": "2026-09-23T17:35:16.894734+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
@@ -1423,6 +1423,10 @@
   {
    "d": "2026-09-23",
    "t": "China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit"
+  },
+  {
+   "d": "2026-09-23",
+   "t": "Crude Oil Inventories Surge, Defying Market Expectations - Investing.com"
   }
  ]
 }
