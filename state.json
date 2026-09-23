@@ -4,12 +4,6 @@
   "Brent": 99.27
  },
  "seen": [
-  "e99bcadd1659136f",
-  "moscowoilrefineryhashaltedoperationsafterukrainiandroneattac",
-  "84e3b7f8d6df99cc",
-  "whereisopecriyadhandmoscowssilenceisbecomingdeafening",
-  "17bf69f00249734c",
-  "middleeasttensionsaredrivingfloridagaspricestotheirhighestsi",
   "abc63f8524a40ab3",
   "whatwillwticrudeoilwtihitweekofseptember212026playfreewinrew",
   "52b49268a427aafe",
@@ -603,7 +597,13 @@
   "9e0ebb580d2f0ac0",
   "oregongaspricesdecline",
   "62b01e0ed1f0d6fa",
-  "updatenasdaqcompositehitsnewpeakasoilretreats"
+  "updatenasdaqcompositehitsnewpeakasoilretreats",
+  "c3142a56a5b814b7",
+  "crudeoilextendslossesoneasingsupplyfears",
+  "8e3c49e906472092",
+  "palmslidesforfourthsessiononweakerrivaloilscrudeoil",
+  "eabe48b689701e76",
+  "oilpricesfallassaudiarabiarestorespipelineandirantalksraises"
  ],
  "releases_done": {
   "2026-09-22|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-23",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-09-23T06:25:16.892849+03:00",
+ "last_run": "2026-09-23T06:30:22.968958+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
@@ -1351,6 +1351,10 @@
   {
    "d": "2026-09-23",
    "t": "Saudi Arabia ramps up Gulf oil exports after pipeline attack, data shows - Reuters"
+  },
+  {
+   "d": "2026-09-23",
+   "t": "Oil Prices Fall as Saudi Arabia Restores Pipeline and Iran Talks Raise Supply Hopes - Межа. Новини України."
   }
  ]
 }
