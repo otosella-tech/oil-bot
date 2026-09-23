@@ -4,10 +4,6 @@
   "Brent": 95.25
  },
  "seen": [
-  "94ec7928701e1e91",
-  "oilpricesdroponreportiranhasofferedtoopenhormuzin7days",
-  "8fa3c4ecfc49d48e",
-  "oilpricesoverus1003singaporestocksmostatrisk",
   "a07b8b7548251c25",
   "traderspushfordiscountsforvenezuelanoilasshippingcostssoarso",
   "2b3afadc15a91c85",
@@ -603,7 +599,11 @@
   "946985e344393e88",
   "oilpricesfallafterussaysdamagedsaudipipelinewillrestartopera",
   "09174e72465ae646",
-  "saudiarabiarestartseastwestpipelinetoresumeexportsdaysafterd"
+  "saudiarabiarestartseastwestpipelinetoresumeexportsdaysafterd",
+  "d414888398e9db83",
+  "oilpricesdroppingbutgaspricesremainhigh",
+  "e1d88f50517664de",
+  "siebertfinancialforgetcrudeoilthisisthenumberdrivingdieselpr"
  ],
  "releases_done": {},
  "last_digest": "2026-09-23",
@@ -615,7 +615,7 @@
   "date": "2026-09-23",
   "count": 56
  },
- "last_run": "2026-09-23T16:05:16.169751+03:00",
+ "last_run": "2026-09-23T16:10:19.608690+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
