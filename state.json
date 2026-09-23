@@ -4,8 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "e7a3a18b4823a498",
-  "oilpricesfallastrumpheadstomakeorbreakunconference",
   "8ff6ac5962683a26",
   "libyaslargestoilfieldhitbynewarmedgroupblockade",
   "5cc79632cba21664",
@@ -603,7 +601,9 @@
   "995e25c592309344",
   "minnesotaautoshopsraisepricesasoilcostsincrease",
   "28b1aae7d9fa9dd4",
-  "oilfuturescrudereboundsafterrunoflossesusirantalkseyed"
+  "oilfuturescrudereboundsafterrunoflossesusirantalkseyed",
+  "239afb1831957288",
+  "oilindustrywarnsadieselexportbanwillraisefuelpricesastrumpwe"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-23",
   "count": 60
  },
- "last_run": "2026-09-23T22:35:14.388126+03:00",
+ "last_run": "2026-09-23T22:40:18.593004+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
@@ -1467,6 +1467,10 @@
   {
    "d": "2026-09-23",
    "t": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender - CNBC"
+  },
+  {
+   "d": "2026-09-23",
+   "t": "Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions - cnbc.com"
   }
  ]
 }
