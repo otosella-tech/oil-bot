@@ -4,8 +4,6 @@
   "Brent": 99.27
  },
  "seen": [
-  "c8308da9df12d746",
-  "usequityindexesadvanceascommunicationservicestechnologygiant",
   "4c68c75c8e9aba95",
   "currentpriceofoilasofsept182026",
   "f09ec9f1856f7e1d",
@@ -603,7 +601,9 @@
   "95af7b443ca4d3f2",
   "stgeorgesgasaveragepushespast5pergallonisthestatenext",
   "7293aea4a8d68600",
-  "theoilmarketsbackupplanisbreakingdown"
+  "theoilmarketsbackupplanisbreakingdown",
+  "743a4318c717f5d6",
+  "howglobaldisruptionsareimpactingheatingoilprices"
  ],
  "releases_done": {
   "2026-09-22|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-23",
   "count": 8
  },
- "last_run": "2026-09-23T03:15:17.924357+03:00",
+ "last_run": "2026-09-23T03:20:17.762446+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
