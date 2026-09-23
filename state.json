@@ -4,8 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "5b09858c32fb4363",
-  "europesoffshorewindslowdownissqueezingmanufacturers",
   "1a01062e8173ffbd",
   "atleast2400oilandgasspillsoccurredacrosscoloradowyomingandne",
   "0ab6b8f4929ed1a7",
@@ -603,7 +601,9 @@
   "434734531da253ff",
   "iowacorngrowersassociationasksfordieselreliefasharvestkickso",
   "41b91011002e9301",
-  "semitruckrolloverresultsinoilspill"
+  "semitruckrolloverresultsinoilspill",
+  "83c3b539ce0750d9",
+  "whitehouserulesoutdieselexportbanaspricessurgeabove650"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -615,115 +615,11 @@
   "Brent": 98.13
  },
  "llm": {
-  "date": "2026-09-23",
-  "count": 60
+  "date": "2026-09-24",
+  "count": 2
  },
- "last_run": "2026-09-24T00:55:14.546071+03:00",
+ "last_run": "2026-09-24T01:00:33.339368+03:00",
  "sent_stories": [
-  {
-   "d": "2026-09-20",
-   "t": "Oil prices climb over $100 per barrel as US war in Iran continues - ABC News - Breaking News, Latest News and Videos"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Europe Outbids Asia for LNG as Prices Surge 150%"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Oil prices climb over $100 per barrel as US war in Iran continues - abcnews.com"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "US facilitates the passage of 1 billion barrels of oil through the Strait of Hormuz amid war with Iran - voz.us"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "US Central Command: Over 1 Billion Barrels of Crude Oil Transported Through Strait of Hormuz with US Support, Zero for Iran - news.sbs.co.kr"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC - CNBC"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline - CNBC"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Hormuz Oil Shipments Hit Six-Month High, States US Commander - Energy News Beat"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Two dead in Moscow region, drones hit oil refinery in Russian capital - Reuters"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Largest Drone Attack on Moscow Hits Refinery and Logistics Sites - kyivpost.com"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Zelenskyy confirmed the strike on the Moscow Oil Refinery - UA.NEWS"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Russia: Ukrainian drone strike on Moscow kills 2 - DW.com"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Iran says Strait of Hormuz to remain closed until US fulfills commitments - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Saudis Tell European Refiners They’ll Get No Crude Next Month - Bloomberg.com"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery - BBC"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Ukraine Hits Moscow Oil Refinery in Major Overnight Attack, Zelensky Says - Kyiv Post"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Russia's August crude output drops 160,000 barrels per day amid Ukrainian strikes on oil infrastructure - Energies Media"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Saudi Aramco halts crude oil supply to European customers - Investing.com"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Chevron plans drilling spree as it overhauls oil and gas search - Financial Times"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Chevron (CVX) Supercharges its Venezuela Bet with More Oil Rigs - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Like ‘a rabbi buying a church’: Delta once bought an entire oil refinery because it got tired of guessing at fuel prices - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Oil prices rise after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz - CNBC"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Hormuz Crisis to Push Global Coal Demand to Record High"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Oil, gas and borrowing costs surge as fears over Middle East escalate - BBC"
-  },
-  {
-   "d": "2026-09-20",
-   "t": "Hassett on Iran war: ‘The president had to act’ - The Hill"
-  },
   {
    "d": "2026-09-21",
    "t": "Crude Oil Prices Slide as Hormuz Traffic Rebounds, WTI Eyes $90 - FXLeaders"
@@ -1483,6 +1379,10 @@
   {
    "d": "2026-09-23",
    "t": "Traders Push for Discounts for Venezuelan Oil as Shipping Costs Soar - gCaptain"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "White House Rules Out Diesel Export Ban as Prices Surge Above $6.50"
   }
  ]
 }
