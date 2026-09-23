@@ -1,17 +1,9 @@
 {
  "price_base": {
   "WTI": 90.86,
-  "Brent": 95.25
+  "Brent": 97.3
  },
  "seen": [
-  "f0fff7a1f92bb0f7",
-  "hereswhatthesaudieastwestpipelineshutdownmeansforasiasbigges",
-  "126b7ea48c1e50cf",
-  "oilpricesfallforfourthdayassupplyconcernsease",
-  "0a1f7daeca1b6e10",
-  "oilfuturescrudeextendslossesoniranoffertoopenhormuz",
-  "bb3e8835ef22febd",
-  "saudioillifelinemayreopenasaramcoeyesyanburestart",
   "292cf02c587ff72e",
   "saudiarabiarestartstheeastwestoilpipelineandpreparestoresume",
   "adbc9c05d853dcd4",
@@ -603,7 +595,15 @@
   "7dd41b41bd65dfe7",
   "oilpriceanalysisthedivergencebetweenrefinedproductdestocking",
   "d1f49305e03a443f",
-  "usstocksdriftneartheiralltimehighascrudeoilpricesturnhighern"
+  "usstocksdriftneartheiralltimehighascrudeoilpricesturnhighern",
+  "0a4f5d04f8775a3a",
+  "chinas80griponiranianoilloomsovertrump",
+  "659e59bde38c4f9e",
+  "currentpriceofoilasofseptember232026",
+  "f63567bc8b887516",
+  "usstocksdriftafteroilpriceshalttheirweeklongdrop",
+  "9f06fbe3be76db8e",
+  "oilnewscrudegetsgulfsupplyreliefasdieselpremiumhitsarecord"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -615,9 +615,9 @@
  },
  "llm": {
   "date": "2026-09-23",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-09-23T16:55:15.864909+03:00",
+ "last_run": "2026-09-23T17:05:16.909371+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
@@ -1418,6 +1418,10 @@
   {
    "d": "2026-09-23",
    "t": "Saudi Arabia Restarts East-West Pipeline to Resume Exports Days After Drone Attack - Pipeline Technology Journal"
+  },
+  {
+   "d": "2026-09-23",
+   "t": "China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit"
   }
  ]
 }
