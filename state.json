@@ -4,8 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "05836533bf1945ba",
-  "franceurgeseutorelaxfuelrulesasoilcrunchlooms",
   "0a2e699dc642adf4",
   "egyptplans136bstrategiccrudeoilreservebyend2026",
   "24f9ef02d8cfc8e6",
@@ -603,7 +601,9 @@
   "7337c05560c8b053",
   "ustotalcrudeoilstocksriseinweekendedsept18",
   "1bff86a7c9f7e6d2",
-  "dollarjumpsto8weekhighonfedratehikebets"
+  "dollarjumpsto8weekhighonfedratehikebets",
+  "f2a8194e6d0595bc",
+  "uscrudeoilstockpilespostunexpectedbuild"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-23",
   "count": 60
  },
- "last_run": "2026-09-23T18:10:19.190915+03:00",
+ "last_run": "2026-09-23T18:15:20.870686+03:00",
  "sent_stories": [
   {
    "d": "2026-09-20",
