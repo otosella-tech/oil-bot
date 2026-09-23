@@ -4,8 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "f274c075a31cfd3d",
-  "oilpricesriseontrumptimelineforiranpeacedealafteruselections",
   "d1f6d444156c4a1c",
   "saudipipelinerestartfailstoendoilmarkettightness",
   "781bd773617fb718",
@@ -603,7 +601,9 @@
   "a03c2764dc8eb382",
   "3thingstoknowaboutrisingdieselpricesandhowtheyaffectyou",
   "a832112aeaed106a",
-  "oilfuturespickupafterlosingstreak"
+  "oilfuturespickupafterlosingstreak",
+  "bf3662174abe5112",
+  "risingimportsofoilbychinaposeanotherrisktothepriceofcrude"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-24",
   "count": 2
  },
- "last_run": "2026-09-24T01:30:25.922135+03:00",
+ "last_run": "2026-09-24T01:35:19.818844+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
