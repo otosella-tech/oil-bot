@@ -4,12 +4,6 @@
   "Brent": 99.84
  },
  "seen": [
-  "da1b13a17809fbbd",
-  "risingsupplyandweakercrudeoilpricespressurevegetableoilmarke",
-  "f0c04d63966f576f",
-  "oilslipsbelow100asusirantalksputcrudepricesandtreasuryyields",
-  "5bef90a29e6e230c",
-  "rarehotlovingmicrobesdrivetoxicsouringinoilreservoirs",
   "91ed7a1c62e0892e",
   "activityintheoilpatchdesignedtolowergaspricesatthepump",
   "8619c6ab147f8030",
@@ -603,7 +597,13 @@
   "909c64c385d00a03",
   "yourthursdaysept24guidefivethingstodointheoilcity",
   "ec4acb42c9f428d7",
-  "saudiarabiasells100millionbarrelsofcrudetoasiaviahormuz"
+  "saudiarabiasells100millionbarrelsofcrudetoasiaviahormuz",
+  "3ad0022e75697e77",
+  "oilfieldtheftinpermianbasinsubjectoftestimonyintexassenatehe",
+  "f5ee457e0aa63c1d",
+  "usstocksmayextendpullbackamidhigheryieldscrudeoilprices",
+  "fb9588237287a480",
+  "tankersofiranianoilthatwereseizedbyusareinatlantictrackersho"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T16:15:19.771667+03:00",
+ "last_run": "2026-09-24T16:20:20.661471+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1536,6 +1536,10 @@
   {
    "d": "2026-09-24",
    "t": "Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Hormuz"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Tankers of Iranian oil that were seized by US are in Atlantic, tracker shows - The Times of Israel"
   }
  ]
 }
