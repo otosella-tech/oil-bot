@@ -1,15 +1,9 @@
 {
  "price_base": {
-  "WTI": 96.38,
-  "Brent": 107.86
+  "WTI": 93.81,
+  "Brent": 104.75
  },
  "seen": [
-  "5a1a386144f2c7e9",
-  "chriswrightsellstrumpsenergydominancevision",
-  "b4a7326fa9ba4c48",
-  "globalstocksstalloilticksupasinvestorsawaitmideastpeacesigna",
-  "a02f7a9065236a9a",
-  "yourwednesdaysept23guidefivethingstodointheoilcity",
   "b1302894acc0876c",
   "trumpsoilalliesfearlosingbattleinbidtostopdieselexportban",
   "e527312138e76722",
@@ -603,7 +597,13 @@
   "6bd0eb86e5d2aef1",
   "bigoilmobilizestoblocktrumpsdieselexportbanideawsjcl1comcomm",
   "1e52af3d82f4b54e",
-  "russiatiesblackseagraindealwithukrainetohaltinoilrefinerystr"
+  "russiatiesblackseagraindealwithukrainetohaltinoilrefinerystr",
+  "916b536e4c3fc163",
+  "vitolemergesasoneofiraqstopcrudebuyerssourcessay",
+  "717b258829a2de69",
+  "oilpricesriseasiranianpresidentwarnstehranwontbowtouswhiteho",
+  "929132e517499295",
+  "uscommercialcrudeoilinventoriesriseby3millionbarrels"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T19:25:16.925819+03:00",
+ "last_run": "2026-09-24T19:30:27.484768+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1588,6 +1588,14 @@
   {
    "d": "2026-09-24",
    "t": "Russia ties Black Sea grain deal with Ukraine to halt in oil refinery strikes - Middle East Eye"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Vitol emerges as one of Iraq's top crude buyers, sources say - Reuters"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Oil prices rise as Iranian president warns Tehran won't bow to US, White House considers diesel export ban - Yahoo Finance"
   }
  ]
 }
