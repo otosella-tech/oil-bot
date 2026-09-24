@@ -4,8 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "a7e398490a67ff22",
-  "saudisinprocessofstartingupkeyeastwestoilpipeline",
   "80057420971e91c9",
   "norwaysliquidsoutputreboundsbynearly100000bpdbutstilltrails2",
   "821005e8393a5725",
@@ -603,7 +601,9 @@
   "87cda546a27a8587",
   "crudeoilfuturesdeclineonreportofiranfavouringdiplomacytoendw",
   "a4c7267757f4106f",
-  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump"
+  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
+  "1a212bee05d60d30",
+  "brentholdsabove102asirantalksstalloverhormuzconditions"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-24",
-  "count": 25
+  "count": 27
  },
- "last_run": "2026-09-24T08:05:15.666857+03:00",
+ "last_run": "2026-09-24T08:10:19.436162+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1412,6 +1412,10 @@
   {
    "d": "2026-09-24",
    "t": "Crude oil futures decline on report of Iran favouring diplomacy to end war - BusinessLine"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Brent Holds Above $102 as Iran Talks Stall Over Hormuz Conditions"
   }
  ]
 }
