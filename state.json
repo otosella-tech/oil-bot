@@ -4,10 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "52de9a0f62aca38c",
-  "pmidataandcrudeoilinventorieshighlightwednesdayseconomiccale",
-  "c1668feab0c329e2",
-  "oilstocksinusstrategicpetroleumreservefalltolowestlevelsince",
   "7f1424708cadc29b",
   "oilpricesofflowsontrumpsmixediranmessageatun",
   "07a7a2e2271cf8b5",
@@ -603,7 +599,11 @@
   "ffacd37cd93ca659",
   "uscrudeoilstockpilespostmoderatedraw",
   "831e4af5da250b1b",
-  "oilpricestodaybrentcrudeeasesasirankeepsdooropentodiplomacy"
+  "oilpricestodaybrentcrudeeasesasirankeepsdooropentodiplomacy",
+  "341bfeeb53b7da4c",
+  "oilfallsonlargerthanexpectedbuildinusinventories",
+  "08dd4ec7c9ab91a9",
+  "bankofamericasaysbrentcrudeoilcouldtop150abarrelifiranwardis"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-24",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-09-24T06:10:18.361082+03:00",
+ "last_run": "2026-09-24T06:15:20.035963+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1395,6 +1395,10 @@
   {
    "d": "2026-09-24",
    "t": "Traders push for discounts for Venezuelan oil as shipping costs soar, sources say - Reuters"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Bank of America says Brent crude oil could top $150 a barrel if Iran war disruptions persist - CNBC"
   }
  ]
 }
