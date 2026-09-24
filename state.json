@@ -4,10 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "74f0fabf74ec7864",
-  "usequityindexesclosemixedwhiletreasuryyieldsretreatwithcrude",
-  "0a6754aa0a6ece66",
-  "wticrudeoilforecastkeysupporttestputs9047infocus",
   "d9159d69595f34da",
   "chinesepresidentarrivesinuswithnewenergyleverageaswarrattles",
   "98490a25f057fa4b",
@@ -603,7 +599,11 @@
   "a48e58ba01e1341d",
   "indiansharesdownonoilriseinsuranceoverhaulworriesnsemakessub",
   "e8389a210b93a31f",
-  "oilpricestumbleagain"
+  "oilpricestumbleagain",
+  "fe5d85c6a1b90562",
+  "uscrudeoilinventoriesup07inweekendingsept18",
+  "3d335d3710e972db",
+  "oilfuturescrudedriftssidewaysasdiplomacymideastsupplieseyed"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 29
  },
- "last_run": "2026-09-24T09:25:15.381891+03:00",
+ "last_run": "2026-09-24T09:30:28.361909+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
