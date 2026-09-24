@@ -4,14 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "b3c3b510f79ef595",
-  "about100gallonsofcrudeoilleaknearmound18mileroadsinsterlingh",
-  "52c589af424ee811",
-  "nasdaqhitsnewrecordascrudeoilslidesfurtherinvestorsentimenti",
-  "5a34bd65ccb8ef35",
-  "lawsuitchallengessecondtrumpadministrationpermitforcaliforni",
-  "89af551bfbd61044",
-  "chinalaunchesmineralexplorationoffensiveamidgrowingglobalunc",
   "fcdd4f084367dc51",
   "stockmarketholdsnearrecordasoilpricesdropnorthwestarkansasde",
   "a5bebe9a4b97da93",
@@ -603,7 +595,15 @@
   "a35acdae1ab04b6c",
   "currentpriceofoilasofsept152026",
   "97e78fbbbea43eb3",
-  "indiasrussianoilimportsfellinaugustseenlowerinseptemberdatas"
+  "indiasrussianoilimportsfellinaugustseenlowerinseptemberdatas",
+  "b21e938859f48fe7",
+  "oilpricesrisesharplyasinvestorsseekprogressonusirantalks",
+  "1751f705cdeff9de",
+  "bitcoins100kbreakoutcouldbeits2008oilmomentmikemcglonewarns",
+  "504c8c607ebbe1e0",
+  "rupeedeclinestooneweeklowasoilrallyfansglobalratehikeworries",
+  "082194b7966ef267",
+  "backlashasindianoilheirmadeprofessorofsustainabilitybynewcas"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T14:25:17.788199+03:00",
+ "last_run": "2026-09-24T14:30:25.538590+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1512,6 +1512,10 @@
   {
    "d": "2026-09-24",
    "t": "India's Russian oil imports fell in August, seen lower in September, data shows - Reuters"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Oil prices rise sharply as investors seek progress on U.S.-Iran talks - CNBC"
   }
  ]
 }
