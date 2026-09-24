@@ -4,10 +4,6 @@
   "Brent": 104.75
  },
  "seen": [
-  "e0b40275e9f1865b",
-  "oiloscillatesaround100asinvestorsawaitupdatesonirantalksbyin",
-  "946985e344393e88",
-  "oilpricesfallafterussaysdamagedsaudipipelinewillrestartopera",
   "09174e72465ae646",
   "saudiarabiarestartseastwestpipelinetoresumeexportsdaysafterd",
   "d414888398e9db83",
@@ -603,7 +599,11 @@
   "23fb6a6baed9c168",
   "crudeoilfuturesparegainsusheatingoilbrieflyturnsnegativeasth",
   "d6ec027d2cde8c07",
-  "crudeoilextendsgains"
+  "crudeoilextendsgains",
+  "46be284a684adf0d",
+  "iranwarnsusstrikescouldpushwarintoindianocean",
+  "afe2132ca1633360",
+  "howtopositionbeforetheoilcushionhitsempty"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T19:55:16.467314+03:00",
+ "last_run": "2026-09-24T20:00:34.003468+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1600,6 +1600,10 @@
   {
    "d": "2026-09-24",
    "t": "Crude oil futures pare gains, US heating oil briefly turns negative, as the US and Iran discuss phased deal to reopen Hormuz and end blockade - marketscreener.com"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Iran Warns U.S. Strikes Could Push War Into Indian Ocean"
   }
  ]
 }
