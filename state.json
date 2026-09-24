@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "a5bebe9a4b97da93",
-  "oilslipsassaudiarabiaoffersmorecrudeviaoman",
   "fe7c2b55d59e6c04",
   "treasuryyieldsedgelowerasbrentcrudefallsbelow99",
   "3e7db5d689cb3101",
@@ -603,7 +601,9 @@
   "082194b7966ef267",
   "backlashasindianoilheirmadeprofessorofsustainabilitybynewcas",
   "b3c3b510f79ef595",
-  "about100gallonsofcrudeoilleaknearmound18mileroadsinsterlingh"
+  "about100gallonsofcrudeoilleaknearmound18mileroadsinsterlingh",
+  "6a8425ce9fd71475",
+  "iranproposesstrikecoverageacrosstheentiregulfregionliftingcr"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T14:35:17.685026+03:00",
+ "last_run": "2026-09-24T14:40:18.585227+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1516,6 +1516,10 @@
   {
    "d": "2026-09-24",
    "t": "Oil prices rise sharply as investors seek progress on U.S.-Iran talks - CNBC"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Iran proposes strike coverage across the entire Gulf region, lifting crude oil risk premium - 富途牛牛"
   }
  ]
 }
