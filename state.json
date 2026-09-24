@@ -4,10 +4,6 @@
   "Brent": 99.84
  },
  "seen": [
-  "bdf1605a400332c0",
-  "europeanstocksgainasoilslidesaibuzzliftstech",
-  "906bd59bb75b42c8",
-  "oilpricesmixedastradersweighusirantalkssaudipipelineprogress",
   "4224824fbc0b4230",
   "whycrudeoilslidwhilemiddleeasttensionskeptbui",
   "616981ba7a873c65",
@@ -603,7 +599,11 @@
   "56d5bbfe9333f267",
   "southkoreafollowsjapansplaybookwith223billiontexasgasbet",
   "c6c2c4c820342d56",
-  "oilpricesroseby2whiledieselineuropeisbreakingrecords"
+  "oilpricesroseby2whiledieselineuropeisbreakingrecords",
+  "04e4d7e268a1f76d",
+  "currentpriceofoilasofsept242026",
+  "fe95b6b6c9fcd5ab",
+  "oilfinishestheweekflatasthemarketseessaudipipelineoutageasle"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T17:00:31.867230+03:00",
+ "last_run": "2026-09-24T17:05:17.094050+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1556,6 +1556,10 @@
   {
    "d": "2026-09-24",
    "t": "Iraq offers prompt heavy oil cargo via tender, document shows - Reuters"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Oil finishes the week flat as the market sees Saudi pipeline outage as less disruptive than feared - CNBC"
   }
  ]
 }
