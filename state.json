@@ -4,12 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "31b74a03fa4a3f52",
-  "ustotalweeklyeiacrudeoilstocksriseby26millionbarrelsafterpri",
-  "d21505b30a4de1fc",
-  "eiareports3mbarrelcrudebuildasdistillatestocksfall12belowave",
-  "6af5f3f921cd4758",
-  "wallstfallsasoilticksupyieldsriseaheadofuschinasummit",
   "1d71e2b176d84d0d",
   "useiacrudeoilinventories30mlnbarrelsinlatestweekfromprevious",
   "bed6b0d6441f86a3",
@@ -603,7 +597,13 @@
   "e281fb5abb07f8b3",
   "trumpdismantledusclimatepolicybuthiswariscuttingemissions",
   "2d41cc8f830513a7",
-  "trumpspeculatesondieselfuelexportbanashighpricesrippleacross"
+  "trumpspeculatesondieselfuelexportbanashighpricesrippleacross",
+  "d2b1871d27711f2b",
+  "saudioilexportcostssurgeasredsearisksmount",
+  "3f93dc202a415b01",
+  "oilpricesjumponhouthiattacksusiranescalationfears",
+  "152091eabead8fe6",
+  "usequityindexesfallas30yeartreasuryyieldjumpstohighestin2dec"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T21:25:20.164808+03:00",
+ "last_run": "2026-09-24T21:30:26.320758+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1632,6 +1632,14 @@
   {
    "d": "2026-09-24",
    "t": "Trump dismantled U.S. climate policy. But his war is cutting emissions. - The Washington Post"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Saudi Oil Export Costs Surge as Red Sea Risks Mount"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Oil Prices Jump on Houthi Attacks, U.S.-Iran Escalation Fears - WSJ"
   }
  ]
 }
