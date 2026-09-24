@@ -4,10 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "75796113a4276add",
-  "nasdaqhitsrecordhighasoilpricesfallbelow100",
-  "16249119e1c294f1",
-  "howistheeurespondingtorecordfuelprices",
   "08dd4ec7c9ab91a9",
   "bankofamericasaysbrentcrudeoilcouldtop150abarrelifiranwardis",
   "52de9a0f62aca38c",
@@ -603,7 +599,11 @@
   "032c4b6031331566",
   "crudeoilpricespressuredbydiplomatichopesinthemiddleeast",
   "d9be4a88979a1a30",
-  "stockssupportedascrudeoilpricesease"
+  "stockssupportedascrudeoilpricesease",
+  "2dea28e5f9cc2ff2",
+  "spoilgasetfsriseasbrentcrudereturnsto103endingafivedaylosing",
+  "ffacd37cd93ca659",
+  "uscrudeoilstockpilespostmoderatedraw"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-24",
   "count": 10
  },
- "last_run": "2026-09-24T05:50:17.753771+03:00",
+ "last_run": "2026-09-24T05:55:16.696638+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
