@@ -4,8 +4,6 @@
   "Brent": 99.31
  },
  "seen": [
-  "1c5c5e64e92d3535",
-  "southkoreaplanstocutitsrelianceonmiddleeastcrudeoilimportsto",
   "4344142e0daf0237",
   "oilfallsafterusandirantalkforhoursatunmeeting",
   "1a1d1a44afdd0f4e",
@@ -603,7 +601,9 @@
   "58c8fb892f7bfb1e",
   "oilpricesriseasusirantalksstalledoverhormuzdemands",
   "7293aea4a8d68600",
-  "theoilmarketsbackupplanisbreakingdown"
+  "theoilmarketsbackupplanisbreakingdown",
+  "fb873bdf2f0b9a1e",
+  "oilpricesjumpbrentcrudesurgesnearly3to106perbarrelamidusiran"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-24",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-09-24T11:45:22.969954+03:00",
+ "last_run": "2026-09-24T11:50:21.191861+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1460,6 +1460,10 @@
   {
    "d": "2026-09-24",
    "t": "Oil prices rise as US-Iran talks stalled over Hormuz demands - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Oil Prices Jump: Brent Crude Surges Nearly 3% To $106 Per Barrel Amid US-Iran Truce Talk Uncertainty - NDTV Profit"
   }
  ]
 }
