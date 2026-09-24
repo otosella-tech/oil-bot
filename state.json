@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "cc9277b35e244029",
-  "eurusdnasdaqpriceoutlookreversalrisksbuild",
   "ec51ca36c2dbc26d",
   "wallstreetfallsasoilticksupyieldsriseaheadofuschinasummit",
   "56b480adc18a391c",
@@ -603,7 +601,9 @@
   "ad337bc870bf9c8f",
   "azerbaijanscrudeoilexportstoromaniaseestronggrowth",
   "5bbafad0b70f1025",
-  "bahrainleadscountriescallforfullreopeningofstraitofhormuzwit"
+  "bahrainleadscountriescallforfullreopeningofstraitofhormuzwit",
+  "c21e71df215b26f5",
+  "updateusequityindexesfallas30yeartreasuryyieldjumpstohighest"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T21:05:16.860539+03:00",
+ "last_run": "2026-09-24T21:10:24.516761+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
