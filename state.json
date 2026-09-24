@@ -4,8 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "7d530d33c3d18ae6",
-  "nuclearsafetybringsamericaintorussiasuzbekenergyproject",
   "75796113a4276add",
   "nasdaqhitsrecordhighasoilpricesfallbelow100",
   "16249119e1c294f1",
@@ -603,7 +601,9 @@
   "06492372a4e040f2",
   "oilfallsonreportasiawillimporthighestvolumeofcrudesincestart",
   "032c4b6031331566",
-  "crudeoilpricespressuredbydiplomatichopesinthemiddleeast"
+  "crudeoilpricespressuredbydiplomatichopesinthemiddleeast",
+  "d9be4a88979a1a30",
+  "stockssupportedascrudeoilpricesease"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-24",
   "count": 10
  },
- "last_run": "2026-09-24T05:45:17.280568+03:00",
+ "last_run": "2026-09-24T05:50:17.753771+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
