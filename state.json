@@ -4,16 +4,6 @@
   "Brent": 99.31
  },
  "seen": [
-  "eacfb7aa2141905b",
-  "oilpricesslideaistockbuzzfades",
-  "bfbf50ee8f5f5be8",
-  "thedifferencebetweenthepaperpriceofbrentcrudeandwhatrefiners",
-  "4cbfffd6bb2c227b",
-  "washingtonneedsthislngdealmorethanbeijingdoes",
-  "bef9de93a777787a",
-  "howtheoilboomimpactedeasttexaspeopletheirchurches",
-  "87e3a4e99a5f65d6",
-  "newyorkersdealingwithriseinheatingoilprices",
   "95af7b443ca4d3f2",
   "stgeorgesgasaveragepushespast5pergallonisthestatenext",
   "7293aea4a8d68600",
@@ -603,7 +593,17 @@
   "38cb94072283e421",
   "willtheusridetotherescueofglobalcrudejustwait",
   "7a685b72c7b3624a",
-  "crudeoilpricefallsasiransignalsdiplomacytoendwar"
+  "crudeoilpricefallsasiransignalsdiplomacytoendwar",
+  "07b7335b42cd8fa6",
+  "oilpricesriseasinvestorsseekprogressonusirantalks",
+  "17b6fad05c8c683b",
+  "serbiasrussianownednisoilfirmseeksnewussanctionswaiver",
+  "1ddcddb72fe456d7",
+  "saudiarabiarampsupgulfoilexportsafterpipelineattackdatashows",
+  "ab9dfecf20efdfde",
+  "globalbondselloffspreadsasoilholdsabove100",
+  "3711d30a02066dd2",
+  "oilusdjpyforecasttwotradestowatch"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-24",
-  "count": 43
+  "count": 44
  },
- "last_run": "2026-09-24T11:30:26.581118+03:00",
+ "last_run": "2026-09-24T11:35:15.582116+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
