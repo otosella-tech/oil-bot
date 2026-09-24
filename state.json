@@ -4,8 +4,6 @@
   "Brent": 104.75
  },
  "seen": [
-  "9f06fbe3be76db8e",
-  "oilnewscrudegetsgulfsupplyreliefasdieselpremiumhitsarecord",
   "fc68d32883bdc1b8",
   "whyaresoybeanoilfuturesstuckinneutralworld",
   "cd66f1777f3700ad",
@@ -603,7 +601,9 @@
   "313a8ce3cb69cbc6",
   "reportsindicatethattheusandiranarediscussingaphasedreopening",
   "b733c58f426c78a8",
-  "dieselexportbanbackedbytrumpcouldresultinunintendedconsequen"
+  "dieselexportbanbackedbytrumpcouldresultinunintendedconsequen",
+  "659e59bde38c4f9e",
+  "currentpriceofoilasofseptember232026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T20:35:15.940083+03:00",
+ "last_run": "2026-09-24T20:40:22.588706+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
