@@ -4,12 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "220f9d8022cb708b",
-  "africaslargestoilreserveholderwithanew45millionbarreldiscove",
-  "2675c416f53ac6aa",
-  "crudeoilgains1cintasearningstopviews",
-  "e4fd2bfc83b6b8f5",
-  "treasuryyieldssurgetonear20yearhighasoiljumpsbackabove102per",
   "05d8b1b1ad816774",
   "russianinsurgentsblowuptankcarscarryingover10000metrictonsof",
   "5d296d3bc3f5cc90",
@@ -603,7 +597,13 @@
   "7997803eece473f5",
   "presidentleelaunchescrudeoilcriticalresourcesdialoguewithmex",
   "6878c671fb7ad634",
-  "soaringfreightcostsmakejapanscrudeimportstheworldsmostexpens"
+  "soaringfreightcostsmakejapanscrudeimportstheworldsmostexpens",
+  "764443269e99c7f7",
+  "bondyieldssurgetofreshtwodecadehighsbutoilpricesarebuffetedb",
+  "93a8121b5f025e59",
+  "letspushpricesdownwrightasksoilindustrytocurbexports",
+  "c8a588e407a8f221",
+  "saudicrudeoilexportshitfourmonthhighinjulydatashows"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 3
+  "count": 5
  },
- "last_run": "2026-09-25T02:00:30.523706+03:00",
+ "last_run": "2026-09-25T02:05:36.461905+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1340,6 +1340,14 @@
   {
    "d": "2026-09-25",
    "t": "Soaring Freight Costs Make Japan’s Crude Imports the World’s Most Expensive"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Bond yields surge to fresh two-decade highs, but oil prices are buffeted by Iran headlines - NBC News"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Saudi crude oil exports hit four-month high in July, data shows - reuters.com"
   }
  ]
 }
