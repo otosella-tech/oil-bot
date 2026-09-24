@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "5351df9d33347507",
-  "climatestartupsignsco2dealswiththreeusoilproducers",
   "cc9277b35e244029",
   "eurusdnasdaqpriceoutlookreversalrisksbuild",
   "ec51ca36c2dbc26d",
@@ -603,7 +601,9 @@
   "17f8e6c00311221a",
   "whyaredieselpricessohigh",
   "ad337bc870bf9c8f",
-  "azerbaijanscrudeoilexportstoromaniaseestronggrowth"
+  "azerbaijanscrudeoilexportstoromaniaseestronggrowth",
+  "5bbafad0b70f1025",
+  "bahrainleadscountriescallforfullreopeningofstraitofhormuzwit"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T21:00:36.595716+03:00",
+ "last_run": "2026-09-24T21:05:16.860539+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1624,6 +1624,10 @@
   {
    "d": "2026-09-24",
    "t": "Reports indicate that the U.S. and Iran are discussing a phased reopening of the Strait of Hormuz, causing crude oil prices to swiftly halve their earlier gains. - 富途牛牛"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Bahrain Leads Countries’ Call for Full Reopening of Strait of Hormuz Without Tolls - gCaptain"
   }
  ]
 }
