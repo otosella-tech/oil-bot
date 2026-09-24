@@ -4,8 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "ce0c9b0c13024ac5",
-  "crudeanddollarreboundastrumpsaysdealpossibleaftertheelection",
   "6275afadcd862dbe",
   "oilpricesfallonusirandiplomacyhopes",
   "e482222bf3b45d85",
@@ -603,7 +601,9 @@
   "2de40b5c0fdf6401",
   "usdieselfuturesfallafterreportofexportbanplanwhichthewhiteho",
   "92d197bfed75022a",
-  "crudeoilreboundsafterlosingstreakdieselfuturesdropafterexpor"
+  "crudeoilreboundsafterlosingstreakdieselfuturesdropafterexpor",
+  "9ecc2d1a1c6ee4df",
+  "trumpsayshesupportsbanningdieselexportstobringdownprices"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-24",
   "count": 4
  },
- "last_run": "2026-09-24T03:15:18.669077+03:00",
+ "last_run": "2026-09-24T03:20:19.017657+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
