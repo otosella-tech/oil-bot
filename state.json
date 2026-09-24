@@ -4,10 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "441dea8d051978ad",
-  "indiasrussianoilimportsslideasrefinershuntforalternatives",
-  "49bf82e14fc39c1d",
-  "updateequitiesmixedintradayasoilpricesfluctuate",
   "7d530d33c3d18ae6",
   "nuclearsafetybringsamericaintorussiasuzbekenergyproject",
   "75796113a4276add",
@@ -603,7 +599,11 @@
   "b3413d84997380e9",
   "brentcrudeoilpriceonseptember242026at500pmedt",
   "a07b8b7548251c25",
-  "traderspushfordiscountsforvenezuelanoilasshippingcostssoarso"
+  "traderspushfordiscountsforvenezuelanoilasshippingcostssoarso",
+  "06492372a4e040f2",
+  "oilfallsonreportasiawillimporthighestvolumeofcrudesincestart",
+  "032c4b6031331566",
+  "crudeoilpricespressuredbydiplomatichopesinthemiddleeast"
  ],
  "releases_done": {
   "2026-09-23|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-24",
-  "count": 9
+  "count": 10
  },
- "last_run": "2026-09-24T05:15:17.129721+03:00",
+ "last_run": "2026-09-24T05:20:17.606743+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
