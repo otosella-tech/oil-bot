@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "8b951c9d1f8b289c",
-  "southkoreatocutmiddleeastcrudeoildependencebelow50by2035",
   "f09ec9f1856f7e1d",
   "rallyintechsharesunlockedbydropinoilprices",
   "6547cbc860ac97fa",
@@ -603,7 +601,9 @@
   "e9c83167fdef6cd9",
   "crudeoilisfallingbutwhenwillpumpreliefarrive",
   "7b00b3ba599541a7",
-  "indiansharespostworstdayin10weeksonoilspikeproposedinsurance"
+  "indiansharespostworstdayin10weeksonoilspikeproposedinsurance",
+  "491e88c2e562c50e",
+  "oilextendsgainsamidusirandiplomacydoubts"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T13:36:23.989095+03:00",
+ "last_run": "2026-09-24T13:40:20.207038+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1488,6 +1488,10 @@
   {
    "d": "2026-09-24",
    "t": "Indian shares post worst day in 10 weeks on oil spike, proposed insurance curbs - Reuters"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Oil extends gains amid U.S.-Iran diplomacy doubts - Investing.com"
   }
  ]
 }
