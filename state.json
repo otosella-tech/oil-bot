@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "1d71e2b176d84d0d",
-  "useiacrudeoilinventories30mlnbarrelsinlatestweekfromprevious",
   "bed6b0d6441f86a3",
   "chevronscfoonelevatedoilpricesandleadingthroughvolatility",
   "cf75fedd0124c67a",
@@ -603,7 +601,9 @@
   "3f93dc202a415b01",
   "oilpricesjumponhouthiattacksusiranescalationfears",
   "152091eabead8fe6",
-  "usequityindexesfallas30yeartreasuryyieldjumpstohighestin2dec"
+  "usequityindexesfallas30yeartreasuryyieldjumpstohighestin2dec",
+  "56a94a851369eace",
+  "usstocksswingasthebondmarketoilpriceskeepupthepressuresanant"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T21:30:26.320758+03:00",
+ "last_run": "2026-09-24T21:35:15.646302+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
