@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 96.38,
-  "Brent": 102.22
+  "Brent": 107.86
  },
  "seen": [
-  "2ae43ac63326ad76",
-  "commentarywhenitcomestocrudeoilpricesitslocationlocationloca",
   "35e775644da9b473",
   "trumpsoilalliesseenightmarescenarioofdieselexportbanbecoming",
   "f7f1221f11bccb0a",
@@ -603,7 +601,9 @@
   "7513f38a51ec38c8",
   "russiabeginsoilexportsfromitsgiantvostokarcticproject",
   "87e220acf54c35c7",
-  "oilfuturesgainwithlittleusirandiplomaticprogressseen"
+  "oilfuturesgainwithlittleusirandiplomaticprogressseen",
+  "67bc3d492807ee96",
+  "sptsxcompositedowndespiteenergysectorgainsaspriceofoilclimbs"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T18:40:20.614281+03:00",
+ "last_run": "2026-09-24T18:45:19.408734+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
