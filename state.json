@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "31ac9b772656f724",
-  "eiaraisesusaoilproductionforecastsfor20262027",
   "31b74a03fa4a3f52",
   "ustotalweeklyeiacrudeoilstocksriseby26millionbarrelsafterpri",
   "d21505b30a4de1fc",
@@ -603,7 +601,9 @@
   "5c439e528d6589b7",
   "updateequitiesdropintradayasyieldsoiladvance",
   "e281fb5abb07f8b3",
-  "trumpdismantledusclimatepolicybuthiswariscuttingemissions"
+  "trumpdismantledusclimatepolicybuthiswariscuttingemissions",
+  "2d41cc8f830513a7",
+  "trumpspeculatesondieselfuelexportbanashighpricesrippleacross"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T21:20:19.013922+03:00",
+ "last_run": "2026-09-24T21:25:20.164808+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
