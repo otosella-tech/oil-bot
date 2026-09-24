@@ -4,10 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "f2a8194e6d0595bc",
-  "uscrudeoilstockpilespostunexpectedbuild",
-  "1c96c04ea22258fc",
-  "goldmansachsinterestratepredictionhingesonoilprices",
   "5a1e6a422dd2506c",
   "hormuztrafficrunning80belowits10dayaverage",
   "e688a862a121fe33",
@@ -603,7 +599,11 @@
   "f40b099d4b1268d8",
   "usstocksswingwithbondyieldsandoilpricesbeforerecoveringmucho",
   "f7f1221f11bccb0a",
-  "anexistentialthreattotheoilindustry"
+  "anexistentialthreattotheoilindustry",
+  "81421417554515ec",
+  "texasrrcwarnsoilandgasoperatorsofgrowingcyberthreats",
+  "e14a51d850869deb",
+  "usjudgebacksiraqasnetcreditorinoildisputewithturkey"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T22:35:15.748844+03:00",
+ "last_run": "2026-09-24T22:40:19.503704+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
