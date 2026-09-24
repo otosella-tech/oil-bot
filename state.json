@@ -4,12 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "24b69e9fc7844608",
-  "currentpriceofoilasofsept222026",
-  "68abf1bdf424ce78",
-  "oilfuturescruderetreatsforsixthsessionafterusirantalks",
-  "4b6efbd567889c36",
-  "asiastocksridetechwavehigheroilslipsagain",
   "3726e3bdadd538da",
   "southkoreaaimstocutmiddleeastcruderelianceto50by2035",
   "42ac9ec72b660425",
@@ -603,7 +597,13 @@
   "498128676c32f02b",
   "shorttermandlongtermdebtinamericapriceylubricantstheendofthe",
   "8b6b13896d642137",
-  "rupeeplunges23paiseto9596againstusdollaramidspikeincrudeoil"
+  "rupeeplunges23paiseto9596againstusdollaramidspikeincrudeoil",
+  "245029d7aca679b8",
+  "justonecommodityvesselleftthestraitofhormuzonwednesday",
+  "251cc936f15a48fc",
+  "oilpricesreboundasbrenttops105abarrelonusiranescalationfears",
+  "30f1f5070e3a0499",
+  "chinaisbuyingoilbutdontpanicjustyet"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T13:55:14.760434+03:00",
+ "last_run": "2026-09-24T14:00:32.959510+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1500,6 +1500,14 @@
   {
    "d": "2026-09-24",
    "t": "Rupee plunges 23 paise to 95.96 against US dollar amid spike in crude oil - Deccan Herald"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Just One Commodity Vessel Left the Strait of Hormuz on Wednesday"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Oil Prices Rebound as Brent Tops $105 a Barrel on U.S.-Iran Escalation Fears - WSJ"
   }
  ]
 }
