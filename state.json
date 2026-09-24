@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "dbef3e58c8cea374",
-  "expecthighheatingpricesandvolatilitythiswinter",
   "3d0e19e55f5e25be",
   "isthereagapbetweenreportedandunreportedoilandgasspillsinthew",
   "bb733d6ade862826",
@@ -603,7 +601,9 @@
   "5babcb582d8a55bd",
   "francetodeployforcestoprotectsaudiredseaoilport",
   "ff883d725c3e23b2",
-  "macronsaysciadidnotinformfrenchservicesofpossiblerussiandron"
+  "macronsaysciadidnotinformfrenchservicesofpossiblerussiandron",
+  "73720a5d1ba507f1",
+  "oilpricerisecreatesmorepressureonukpolicymakersbeforebudget"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T23:40:19.192858+03:00",
+ "last_run": "2026-09-24T23:45:19.344189+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
