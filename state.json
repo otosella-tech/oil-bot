@@ -4,10 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "fc15fe618fcc648f",
-  "exclusivesaudiaramcoplansreorganisationtocreategasdivisionso",
-  "d5b7c668af2a8e7a",
-  "saudiarabiarestartseastwestoilpipeline",
   "a7e398490a67ff22",
   "saudisinprocessofstartingupkeyeastwestoilpipeline",
   "80057420971e91c9",
@@ -603,7 +599,11 @@
   "bda6b8cdb981eed3",
   "oilpricesfallasiransaysitisopentodiplomacytoendthewar",
   "0b4d2b6e68ed52df",
-  "crudepricessinkonlargerflowsofoilthroughthestraitofhormuz"
+  "crudepricessinkonlargerflowsofoilthroughthestraitofhormuz",
+  "87cda546a27a8587",
+  "crudeoilfuturesdeclineonreportofiranfavouringdiplomacytoendw",
+  "a4c7267757f4106f",
+  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-24",
-  "count": 23
+  "count": 25
  },
- "last_run": "2026-09-24T08:00:28.515694+03:00",
+ "last_run": "2026-09-24T08:05:15.666857+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1408,6 +1408,10 @@
   {
    "d": "2026-09-24",
    "t": "Oil prices fall as Iran says it is open to diplomacy to end the war - Reuters"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Crude oil futures decline on report of Iran favouring diplomacy to end war - BusinessLine"
   }
  ]
 }
