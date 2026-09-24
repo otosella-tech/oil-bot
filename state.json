@@ -4,8 +4,6 @@
   "Brent": 104.75
  },
  "seen": [
-  "e1d88f50517664de",
-  "siebertfinancialforgetcrudeoilthisisthenumberdrivingdieselpr",
   "0e46d77e5b53105b",
   "thefomcseeszerodownsideeconomicrisks",
   "d247416aeab5408a",
@@ -603,7 +601,9 @@
   "d7165f573a5515d1",
   "updateusequityindexesdropas30yeartreasuryyieldsurpassestwode",
   "19ce2de0b21fa1f0",
-  "peterschiffpredictseconomicdownturnhigheroilpricesidontthink"
+  "peterschiffpredictseconomicdownturnhigheroilpricesidontthink",
+  "79a602b256802f43",
+  "saudioilexportstrategyhitsnewhurdleasredseainsurancecostssoa"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-24",
   "count": 60
  },
- "last_run": "2026-09-24T20:05:29.531973+03:00",
+ "last_run": "2026-09-24T20:10:19.720758+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1604,6 +1604,10 @@
   {
    "d": "2026-09-24",
    "t": "Iran Warns U.S. Strikes Could Push War Into Indian Ocean"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Saudi oil export strategy hits new hurdle as Red Sea insurance costs soar - reuters.com"
   }
  ]
 }
