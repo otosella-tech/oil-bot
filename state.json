@@ -4,10 +4,6 @@
   "Brent": 99.31
  },
  "seen": [
-  "de3ad231dd8d1914",
-  "oilfallsasmideastdevelopmentsremaininfocus",
-  "4c68c75c8e9aba95",
-  "currentpriceofoilasofsept182026",
   "1c5c5e64e92d3535",
   "southkoreaplanstocutitsrelianceonmiddleeastcrudeoilimportsto",
   "4344142e0daf0237",
@@ -603,7 +599,11 @@
   "bfbf50ee8f5f5be8",
   "thedifferencebetweenthepaperpriceofbrentcrudeandwhatrefiners",
   "3eac08b475ae0f9f",
-  "thinstraitofhormuztrafficshowswhyoilsriskpremiumisprovingsti"
+  "thinstraitofhormuztrafficshowswhyoilsriskpremiumisprovingsti",
+  "58c8fb892f7bfb1e",
+  "oilpricesriseasusirantalksstalledoverhormuzdemands",
+  "7293aea4a8d68600",
+  "theoilmarketsbackupplanisbreakingdown"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-24",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-09-24T11:40:18.008275+03:00",
+ "last_run": "2026-09-24T11:45:22.969954+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1456,6 +1456,10 @@
   {
    "d": "2026-09-24",
    "t": "Thin Strait of Hormuz traffic shows why oil’s risk premium is proving sticky - investingLive"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Oil prices rise as US-Iran talks stalled over Hormuz demands - Anadolu Ajansı"
   }
  ]
 }
