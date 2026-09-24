@@ -4,8 +4,6 @@
   "Brent": 105.41
  },
  "seen": [
-  "5d8a25519dea559d",
-  "oilpriceontrackforlongestlosingstreakinmorethan12months",
   "e9c83167fdef6cd9",
   "crudeoilisfallingbutwhenwillpumpreliefarrive",
   "212c2308cb795ddb",
@@ -603,7 +601,9 @@
   "d25f6f90a1721ba2",
   "saudiaramcochiefsaysanyinterruptioncanbefixedwithindays",
   "7283d3f9d8193f9c",
-  "oilfuturescrudeextendsreboundasdiplomacyhopesfade"
+  "oilfuturescrudeextendsreboundasdiplomacyhopesfade",
+  "df9faf10f240281f",
+  "uscrudeoiltumblesbackbelow100aftertrumpsayshesopentotalkingt"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-24",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-09-24T13:20:20.469225+03:00",
+ "last_run": "2026-09-24T13:25:15.339330+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1476,6 +1476,10 @@
   {
    "d": "2026-09-24",
    "t": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High - WSJ"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN - cnbc.com"
   }
  ]
 }
