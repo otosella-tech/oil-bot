@@ -4,8 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "eca7a52eb17d4633",
-  "modetradelaunches247tradingforcrudeoilrwas",
   "65c3df5ebe7a6923",
   "usequitymarketsmixedafterdatashowscoolingtrendcrudeoilpriced",
   "8eadce615b948e71",
@@ -603,7 +601,9 @@
   "6b0bca41ae1bcc6d",
   "europesfuelcrisisthe10oilstocksthatralliedin2026",
   "5a15aa6dd48b3714",
-  "goldmutedasfedpolicytighteningprospectsweigh"
+  "goldmutedasfedpolicytighteningprospectsweigh",
+  "7ab2eedb4bf2718e",
+  "oilpricesseesawasmarketsweightrumpsunspeechpotentialsaudipip"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-24",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-09-24T09:00:32.083937+03:00",
+ "last_run": "2026-09-24T09:05:15.877429+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1416,6 +1416,10 @@
   {
    "d": "2026-09-24",
    "t": "Brent Holds Above $102 as Iran Talks Stall Over Hormuz Conditions"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix - NBC News"
   }
  ]
 }
