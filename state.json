@@ -4,8 +4,6 @@
   "Brent": 97.3
  },
  "seen": [
-  "0b4d2b6e68ed52df",
-  "crudepricessinkonlargerflowsofoilthroughthestraitofhormuz",
   "f8b40d1e3e0cf106",
   "floridagaspricessurge21centsto4monthhighascrudeoilcostsclimb",
   "fc15fe618fcc648f",
@@ -603,7 +601,9 @@
   "5aacfc8357d54358",
   "moscowoilrefineryoutputhaltedaftersundaydroneattacksourcessa",
   "57795b0651a5f99e",
-  "uscrudeoilinventoriesrise2969mbarrelsvsexpected0700mdrawnews"
+  "uscrudeoilinventoriesrise2969mbarrelsvsexpected0700mdrawnews",
+  "bda6b8cdb981eed3",
+  "oilpricesfallasiransaysitisopentodiplomacytoendthewar"
  ],
  "releases_done": {},
  "last_digest": "2026-09-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-24",
-  "count": 14
+  "count": 16
  },
- "last_run": "2026-09-24T07:45:17.948479+03:00",
+ "last_run": "2026-09-24T07:50:19.121570+03:00",
  "sent_stories": [
   {
    "d": "2026-09-21",
@@ -1404,6 +1404,10 @@
   {
    "d": "2026-09-24",
    "t": "Moscow oil refinery output halted after Sunday drone attack, sources say - Reuters"
+  },
+  {
+   "d": "2026-09-24",
+   "t": "Oil prices fall as Iran says it is open to diplomacy to end the war - Reuters"
   }
  ]
 }
