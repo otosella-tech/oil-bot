@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "4213002186a0909a",
-  "adieselexportbanwontcutfuelprices",
   "061dbc0e8cd1a80e",
   "traderspushfordiscountsforvenezuelanoilasshippingcostssoar",
   "9ec0bdd78502b7fa",
@@ -603,7 +601,9 @@
   "7e60c6d86c92c475",
   "oilsettlesuparound4asiranspresidentvowstoneversurrender",
   "e0f0b64fc77abc25",
-  "oilpricesslip1astradershopeforusirantruceamidfreshattacksons"
+  "oilpricesslip1astradershopeforusirantruceamidfreshattacksons",
+  "6143f95a8bb6ef2d",
+  "treasuryyieldssurgetonear20yearhighasoiljumpsbackabove103per"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-25",
   "count": 17
  },
- "last_run": "2026-09-25T06:20:19.301492+03:00",
+ "last_run": "2026-09-25T06:25:14.847212+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
