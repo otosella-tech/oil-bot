@@ -4,14 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "41b91011002e9301",
-  "semitruckrolloverresultsinoilspill",
-  "83c3b539ce0750d9",
-  "whitehouserulesoutdieselexportbanaspricessurgeabove650",
-  "5ce213448e46b1af",
-  "euplanstomaintainbanonoilandgasdevelopmentinarctic",
-  "a03c2764dc8eb382",
-  "3thingstoknowaboutrisingdieselpricesandhowtheyaffectyou",
   "a832112aeaed106a",
   "oilfuturespickupafterlosingstreak",
   "bf3662174abe5112",
@@ -603,19 +595,27 @@
   "9ec0bdd78502b7fa",
   "stocksmixedascrudeoilpricesandfinancialstocksfall",
   "d59e8b41e78f5ba2",
-  "asiansharesaremixedafterglobalbondselloffanddropinoilpricesu"
+  "asiansharesaremixedafterglobalbondselloffanddropinoilpricesu",
+  "e37832016f9cfbae",
+  "gulfofomanshiptoshipoiltransfersreachlimitassaudiexportssurg",
+  "822b109f1829181e",
+  "asiansharesaremixedafterglobalbondselloffanddropinoilprices",
+  "4c4c7b12151ab5a1",
+  "crudeoilfuturespostbacktobacklosses",
+  "0edba8acd77752ab",
+  "pumppriceskeepclimbingascrudeoilremainshigh"
  ],
  "releases_done": {},
- "last_digest": "2026-09-24",
+ "last_digest": "2026-09-25",
  "digest_prices": {
-  "WTI": 91.43,
-  "Brent": 97.42
+  "WTI": 93.14,
+  "Brent": 105.68
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 19
+  "count": 27
  },
- "last_run": "2026-09-25T07:55:14.500697+03:00",
+ "last_run": "2026-09-25T08:00:27.909451+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-09-25",
    "t": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities - Al Jazeera"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Gulf of Oman ship-to-ship oil transfers reach limit as Saudi exports surge - Reuters"
   }
  ]
 }
