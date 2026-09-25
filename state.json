@@ -4,8 +4,6 @@
   "Brent": 99.25
  },
  "seen": [
-  "3711d30a02066dd2",
-  "oilusdjpyforecasttwotradestowatch",
   "a4b0e1b64adadf61",
   "crudeoilpricesedgehigherbrenttops103onsupplyrisk",
   "bfbf50ee8f5f5be8",
@@ -603,7 +601,9 @@
   "391c4f352f6448fe",
   "oilpricesbackupasusandirantradefreshthreatstoexpand7monthwar",
   "653957ff70bb9e9f",
-  "indiasharesloglongestweeklylosingrunsince2020asoilpricesbite"
+  "indiasharesloglongestweeklylosingrunsince2020asoilpricesbite",
+  "91fa5e23c33c55d9",
+  "oilgrainexportsfuelrecordcargoatportofvancouverastradeshifts"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -615,7 +615,7 @@
   "date": "2026-09-25",
   "count": 60
  },
- "last_run": "2026-09-25T14:35:17.091663+03:00",
+ "last_run": "2026-09-25T14:40:22.622932+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
