@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "534cd481ff857cab",
-  "novemberwticrudeoilcontractclosesup164or18settlesat9216perba",
   "503fbf1192648b3a",
   "shellcompletes840milliongulfoilassetsale",
   "bb9ede3dc98d1a5d",
@@ -603,7 +601,9 @@
   "1fc6af341d69d846",
   "5energystockspositionedforaprolongediranwar",
   "dcf8c6e6cae62546",
-  "trumpisstayingoutofsaudiarabiaswaramericanscouldpayatthepump"
+  "trumpisstayingoutofsaudiarabiaswaramericanscouldpayatthepump",
+  "baf51d98a7b2394b",
+  "usofficial60shipspassedthroughstraitofhormuzinoneday"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 7
+  "count": 9
  },
- "last_run": "2026-09-25T03:05:15.948570+03:00",
+ "last_run": "2026-09-25T03:10:18.347987+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1356,6 +1356,10 @@
   {
    "d": "2026-09-25",
    "t": "Trump is staying out of Saudi Arabia’s war. Americans could pay at the pump - CNN"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "US official: 60 ships passed through Strait of Hormuz in one day - アラブニュース"
   }
  ]
 }
