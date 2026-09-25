@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "d89a0c5a77b13df9",
-  "skyquarryincreceivesairpermitandrestartseaglespringsrefinery",
   "cb03383ef0b16feb",
   "oilpricesriseabove106asiranusdiplomacystallsatun",
   "9c40efc3a63c5d13",
@@ -603,7 +601,9 @@
   "ec20974ef5a4b6b3",
   "oilpricesdropabout3asusiranexplorepathoutofwareuronextmarket",
   "d4320fd6d1290899",
-  "iranlinkedoiltankersseizedbynavysailingslowlytowardus"
+  "iranlinkedoiltankersseizedbynavysailingslowlytowardus",
+  "d97133f94aabe279",
+  "saudiarabiacrudeoilexportshithighestlevelsinceiranwarbegande"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-25",
   "count": 60
  },
- "last_run": "2026-09-25T20:45:18.458325+03:00",
+ "last_run": "2026-09-25T20:50:18.365903+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1539,6 +1539,10 @@
   {
    "d": "2026-09-25",
    "t": "Iran-Linked Oil Tankers Seized by Navy Sailing Slowly Toward US - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage - CNBC"
   }
  ]
 }
