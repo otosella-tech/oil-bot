@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "04e4d7e268a1f76d",
-  "currentpriceofoilasofsept242026",
   "fe95b6b6c9fcd5ab",
   "oilfinishestheweekflatasthemarketseessaudipipelineoutageasle",
   "243ec8f21712b80a",
@@ -603,7 +601,9 @@
   "121284af1abea622",
   "obituariesoldlandbrow",
   "88074a172e8eee3f",
-  "thebondmarketishavingawildmonthoilismakingthingsevenworse"
+  "thebondmarketishavingawildmonthoilismakingthingsevenworse",
+  "f4c69ff61cd20f19",
+  "usequityindexesjumpascrudeoilslidesamidiransconditionalpropo"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-25",
   "count": 60
  },
- "last_run": "2026-09-25T22:40:19.705659+03:00",
+ "last_run": "2026-09-25T22:45:18.149286+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1561,6 +1561,10 @@
   {
    "d": "2026-09-25",
    "t": "Oil prices decline as investors look for signals on Hormuz - Transport Topics"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "US Equity Indexes Jump as Crude Oil Slides Amid Iran's Conditional Proposal to Reopen Hormuz Chokepoint - marketscreener.com"
   }
  ]
 }
