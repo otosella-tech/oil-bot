@@ -4,14 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "bccc34e129703c45",
-  "russiastartsexportsfromarcticvostokoilprojectinboosttolongte",
-  "49679436c95d442b",
-  "oilneversleepscantokenisationchangehowcrudefindsitsprice",
-  "ef0365cfdcf2fa79",
-  "usreceivesnearly600millionworthofseizediraniancrudeoil",
-  "adbd971c53b24cbb",
-  "whatgoesintodieselpricesusenergyinformationadministrationana",
   "206018f992025613",
   "wallstreetfuturesdeclineas10yeartreasuryyieldreacheshighests",
   "5573d3964d79f52f",
@@ -603,7 +595,15 @@
   "8cdaac7dca2313ef",
   "updateusequityindexesjumpascrudeoilslidesamidiransconditiona",
   "b4c86cf8803581b5",
-  "crudeoilbreaksbelowshorttermsupportcansellerskeepcontrol"
+  "crudeoilbreaksbelowshorttermsupportcansellerskeepcontrol",
+  "32f8c5b9142b85e9",
+  "whyrecordheatfailedtoliftusnaturalgasprices",
+  "92f4e2a8612cb184",
+  "currentpriceofoilasofseptember242026",
+  "11100462db9eabfa",
+  "nevadasonlyoilrefineryrestartingnorthoflasvegas",
+  "7c8a27c7890705c8",
+  "usmarsoilpipeflowsslidethunderhorsecrudesystemjumps"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-25",
   "count": 60
  },
- "last_run": "2026-09-25T22:55:14.388623+03:00",
+ "last_run": "2026-09-25T23:00:31.962977+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
