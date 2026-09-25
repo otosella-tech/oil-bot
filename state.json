@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "46be284a684adf0d",
-  "iranwarnsusstrikescouldpushwarintoindianocean",
   "afe2132ca1633360",
   "howtopositionbeforetheoilcushionhitsempty",
   "d7165f573a5515d1",
@@ -603,7 +601,9 @@
   "916b536e4c3fc163",
   "vitolemergesasoneofiraqstopcrudebuyerssourcessay",
   "d76bfacd386c984d",
-  "chinaaccountingfor19ofglobalcrudeoiltrade"
+  "chinaaccountingfor19ofglobalcrudeoiltrade",
+  "2e23f1c510b0a788",
+  "iranlinkedoiltankersseizedbynavysailingtowardus"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-09-26",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-09-26T02:40:18.883414+03:00",
+ "last_run": "2026-09-26T02:45:19.048472+03:00",
  "sent_stories": [
   {
    "d": "2026-09-23",
@@ -1329,6 +1329,10 @@
   {
    "d": "2026-09-26",
    "t": "US Appears Set to Seize $600M in Iranian Crude Oil From Three Tankers - maritime-executive.com"
+  },
+  {
+   "d": "2026-09-26",
+   "t": "Iran-Linked Oil Tankers Seized by Navy Sailing Toward US - Bloomberg"
   }
  ]
 }
