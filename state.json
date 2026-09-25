@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "434734531da253ff",
-  "iowacorngrowersassociationasksfordieselreliefasharvestkickso",
   "41b91011002e9301",
   "semitruckrolloverresultsinoilspill",
   "83c3b539ce0750d9",
@@ -603,7 +601,9 @@
   "9e4e17c627d720bb",
   "oilpricetodayseptember25crudeoilslipsto105astrucehopesclashw",
   "9ec0bdd78502b7fa",
-  "stocksmixedascrudeoilpricesandfinancialstocksfall"
+  "stocksmixedascrudeoilpricesandfinancialstocksfall",
+  "d59e8b41e78f5ba2",
+  "asiansharesaremixedafterglobalbondselloffanddropinoilpricesu"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-25",
   "count": 19
  },
- "last_run": "2026-09-25T07:50:19.319291+03:00",
+ "last_run": "2026-09-25T07:55:14.500697+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
