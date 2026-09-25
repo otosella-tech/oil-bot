@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "b21e938859f48fe7",
-  "oilpricesrisesharplyasinvestorsseekprogressonusirantalks",
   "1751f705cdeff9de",
   "bitcoins100kbreakoutcouldbeits2008oilmomentmikemcglonewarns",
   "504c8c607ebbe1e0",
@@ -603,10 +601,13 @@
   "4bd4e23b2b06cd58",
   "oilfuturescruderetreatsastalkstoreopenhormuzcontinue",
   "a35acdae1ab04b6c",
-  "currentpriceofoilasofsept152026"
+  "currentpriceofoilasofsept152026",
+  "da920db81f0b9601",
+  "dieselexportfightstrainsgoptieswithbigoil"
  ],
  "releases_done": {
-  "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1
+  "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
+  "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|post": 1
  },
  "last_digest": "2026-09-25",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-09-25",
   "count": 60
  },
- "last_run": "2026-09-25T19:55:15.154350+03:00",
+ "last_run": "2026-09-25T20:00:32.426532+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
