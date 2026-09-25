@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "23fb6a6baed9c168",
-  "crudeoilfuturesparegainsusheatingoilbrieflyturnsnegativeasth",
   "d6ec027d2cde8c07",
   "crudeoilextendsgains",
   "46be284a684adf0d",
@@ -603,7 +601,9 @@
   "41b4b41a35075032",
   "whatwouldausdieselexportbanmeanforglobalfuelprices",
   "3e344469772f6db0",
-  "usappearssettoseize600miniraniancrudeoilfromthreetankersmari"
+  "usappearssettoseize600miniraniancrudeoilfromthreetankersmari",
+  "916b536e4c3fc163",
+  "vitolemergesasoneofiraqstopcrudebuyerssourcessay"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-09-26",
-  "count": 10
+  "count": 11
  },
- "last_run": "2026-09-26T02:25:16.023019+03:00",
+ "last_run": "2026-09-26T02:30:23.154077+03:00",
  "sent_stories": [
   {
    "d": "2026-09-23",
