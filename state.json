@@ -4,10 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "cb5090b9b3a8b40b",
-  "goldatoneweeklowashigheroilhawkishfedweigh",
-  "69bbeae78a92551a",
-  "djiboutiethiopiaanddangotetobuild660millionpetroleumpipeline",
   "a56458cc8b66933e",
   "trumpandxivieforenergysupremacyasthegulfsoilcartelcrumbles",
   "c606fe2d90fa7d93",
@@ -603,7 +599,11 @@
   "af33742bad1574ce",
   "oilpricesfallasusirandiplomacyregionaltensionsremaininfocus",
   "01db2095a809f96d",
-  "usequitymarketsendhigheramidfallingoilpricesfollowingiranspr"
+  "usequitymarketsendhigheramidfallingoilpricesfollowingiranspr",
+  "7d1ede0fcc447087",
+  "4thrussianfuelplantshutdowninoneweekfollowingdroneattacks",
+  "5cfe34a5c3bfd619",
+  "areprievefromrisingoilpriceshelpsusstocksfinishtheweekhigher"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-25",
   "count": 60
  },
- "last_run": "2026-09-25T23:35:15.188490+03:00",
+ "last_run": "2026-09-25T23:40:18.706440+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1585,6 +1585,10 @@
   {
    "d": "2026-09-25",
    "t": "US Equity Markets End Higher Amid Falling Oil Prices Following Iran's Proposal to Reopen Strait of Hormuz - ca.finance.yahoo.com"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "4th Russian Fuel Plant Shut Down in One Week Following Drone Attacks - united24media.com"
   }
  ]
 }
