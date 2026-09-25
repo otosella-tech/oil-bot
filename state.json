@@ -4,10 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "fb1cf2e88248a26e",
-  "canadasoilpatchontrackforbiggestmawaveinadecade",
-  "85bc6e4b297dc989",
-  "wallstreetendsdownasoilpricestreasuryyieldsrise",
   "ca9169e605d346ed",
   "saudiarabiasignalsreopeningofeastwestpipeline",
   "f5bf4d41984a2fdc",
@@ -603,7 +599,11 @@
   "08fecc80c3bb2853",
   "brentsetforweeklygainashouthiattacksrattlesaudioilsupply",
   "f09ec9f1856f7e1d",
-  "rallyintechsharesunlockedbydropinoilprices"
+  "rallyintechsharesunlockedbydropinoilprices",
+  "d8cf8d3e44fda3e2",
+  "theshalewildcatterlambastingexxon",
+  "11d9e77db0b1be25",
+  "risingimportsofoilbychinaposeanotherrisktothepriceofcrude"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -615,7 +615,7 @@
   "date": "2026-09-25",
   "count": 29
  },
- "last_run": "2026-09-25T08:30:23.763247+03:00",
+ "last_run": "2026-09-25T08:35:14.854463+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
