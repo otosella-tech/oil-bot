@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "a832112aeaed106a",
-  "oilfuturespickupafterlosingstreak",
   "bf3662174abe5112",
   "risingimportsofoilbychinaposeanotherrisktothepriceofcrude",
   "fb1cf2e88248a26e",
@@ -603,7 +601,9 @@
   "4c4c7b12151ab5a1",
   "crudeoilfuturespostbacktobacklosses",
   "0edba8acd77752ab",
-  "pumppriceskeepclimbingascrudeoilremainshigh"
+  "pumppriceskeepclimbingascrudeoilremainshigh",
+  "08fecc80c3bb2853",
+  "brentsetforweeklygainashouthiattacksrattlesaudioilsupply"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-09-25T08:00:27.909451+03:00",
+ "last_run": "2026-09-25T08:05:15.661324+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1384,6 +1384,10 @@
   {
    "d": "2026-09-25",
    "t": "Gulf of Oman ship-to-ship oil transfers reach limit as Saudi exports surge - Reuters"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Brent Set for Weekly Gain as Houthi Attacks Rattle Saudi Oil Supply"
   }
  ]
 }
