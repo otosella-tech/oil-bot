@@ -4,8 +4,6 @@
   "Brent": 99.25
  },
  "seen": [
-  "e2dc3d87aad2ff28",
-  "dowjonestopenergyheadlinesat12ametbehindtheoilandgasindustry",
   "1bc76b2400131646",
   "gulfnationshavefoundwaystokeepoilflowingthroughtheiranwarbut",
   "5aacfc8357d54358",
@@ -603,7 +601,9 @@
   "2c8a3a051eb9e4cf",
   "wticrudeoilmullsbouncefrom90",
   "3afbe6cae861bd7d",
-  "hormuzcrudeoilflowsreach337millionbarrelsthisweek"
+  "hormuzcrudeoilflowsreach337millionbarrelsthisweek",
+  "8b5e874b5a7a3f81",
+  "majorrussianlukoilrefinerytargetedinseconddroneattacksinceau"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 43
+  "count": 44
  },
- "last_run": "2026-09-25T11:10:19.963869+03:00",
+ "last_run": "2026-09-25T11:15:53.716324+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
