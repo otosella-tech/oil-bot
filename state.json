@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "ca9169e605d346ed",
-  "saudiarabiasignalsreopeningofeastwestpipeline",
   "f5bf4d41984a2fdc",
   "euoilimportbilljumps56aseuropebuysalmostnomorecrude",
   "2de40b5c0fdf6401",
@@ -603,7 +601,9 @@
   "d8cf8d3e44fda3e2",
   "theshalewildcatterlambastingexxon",
   "11d9e77db0b1be25",
-  "risingimportsofoilbychinaposeanotherrisktothepriceofcrude"
+  "risingimportsofoilbychinaposeanotherrisktothepriceofcrude",
+  "e32c7736d03e041b",
+  "3oilstocksthatcouldbenefitifcrudestaysabove100"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -615,7 +615,7 @@
   "date": "2026-09-25",
   "count": 29
  },
- "last_run": "2026-09-25T08:35:14.854463+03:00",
+ "last_run": "2026-09-25T08:40:20.001782+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
