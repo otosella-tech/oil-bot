@@ -4,12 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "77bf45ab0fbe8a56",
-  "zueitinaoilrestartscruderecoverysystematalintisarfield",
-  "35e64e20af569b2f",
-  "saudiseaseasiaoilcrunchwith100millionbarrelsalesflurry",
-  "9ea5625b50eff35c",
-  "iraqofferspromptheavyoilcargoviatenderdocumentshows",
   "56d5bbfe9333f267",
   "southkoreafollowsjapansplaybookwith223billiontexasgasbet",
   "c6c2c4c820342d56",
@@ -603,7 +597,13 @@
   "0cdea0ce72b56f91",
   "novemberwticrudeoilcontractclosesdown220or23settlesat9241per",
   "f44de859c6963aa4",
-  "oilnewscrudesellsdiplomacyasdieselandfreightkeepsupplyriskal"
+  "oilnewscrudesellsdiplomacyasdieselandfreightkeepsupplyriskal",
+  "d85fcea6e9520172",
+  "russiaspermoilrefineryhaltedoperationsafterfridaydroneattack",
+  "3d11f6f746c4f75a",
+  "oilpricesdeclineasinvestorslookforsignalsonhormuz",
+  "1e76cd6d8f5bb8d4",
+  "duneoiladvancesseismicworkafter3mraiseicymi"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-09-25",
   "count": 60
  },
- "last_run": "2026-09-25T22:05:14.820522+03:00",
+ "last_run": "2026-09-25T22:15:21.572675+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1552,6 +1552,14 @@
   {
    "d": "2026-09-25",
    "t": "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Russia's Perm oil refinery halted operations after Friday drone attack, sources say - Reuters"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Oil prices decline as investors look for signals on Hormuz - Transport Topics"
   }
  ]
 }
