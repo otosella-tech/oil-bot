@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "9ec0bdd78502b7fa",
-  "stocksmixedascrudeoilpricesandfinancialstocksfall",
   "2097d7bb3a693a58",
   "chinasnewestpowerplantswapssteamforsupercriticalco2",
   "03b0f09ea87b3fb5",
@@ -603,7 +601,9 @@
   "6143f95a8bb6ef2d",
   "treasuryyieldssurgetonear20yearhighasoiljumpsbackabove103per",
   "80cfcb360930da22",
-  "crudepricesrallyonheightenedriskstomiddleeastoilsupplies"
+  "crudepricesrallyonheightenedriskstomiddleeastoilsupplies",
+  "c5cc0ebad987d202",
+  "oilpricesjumpafteryemenshouthisclaimattacksonsaudifacilities"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-09-25T06:45:19.070693+03:00",
+ "last_run": "2026-09-25T06:50:19.410727+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1376,6 +1376,10 @@
   {
    "d": "2026-09-25",
    "t": "Oil prices slip 1% as traders hope for US-Iran truce amid fresh attacks on Saudi pipeline - The Times of India"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities - Al Jazeera"
   }
  ]
 }
