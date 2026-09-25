@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "ffacd37cd93ca659",
-  "uscrudeoilstockpilespostmoderatedraw",
   "831e4af5da250b1b",
   "oilpricestodaybrentcrudeeasesasirankeepsdooropentodiplomacy",
   "341bfeeb53b7da4c",
@@ -603,7 +601,9 @@
   "716e89af83c7d667",
   "oilpricesfallastradersweighpossibleusirantruce",
   "32fadfdcd9fa4ce2",
-  "oilfallsamidoptimismoverpotentialdiplomaticsolutiontotheiran"
+  "oilfallsamidoptimismoverpotentialdiplomaticsolutiontotheiran",
+  "864d805330d15939",
+  "hormuztankertransitscrashtosingledigitsascrisisdeepens"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 38
+  "count": 39
  },
- "last_run": "2026-09-25T10:25:18.569829+03:00",
+ "last_run": "2026-09-25T10:30:59.799774+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
