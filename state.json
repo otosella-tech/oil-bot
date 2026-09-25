@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "9495fb20460e7dc7",
-  "crudefuturespickupafterstringoflosses",
   "b1fed1e716cfb140",
   "cushinghubandusseesurprisinggaininstoredoil",
   "cf76f8e59418e632",
@@ -603,7 +601,9 @@
   "f60ce90e6aa8cf41",
   "usirannegotiationsrattletheoilchokepointsendinginternational",
   "2629e6cbf6fc0690",
-  "asianstocksweatherbondstormoilretreatsslightly"
+  "asianstocksweatherbondstormoilretreatsslightly",
+  "82bd231ef20f4be5",
+  "oilpricesfallasmarketslooktoirantrucebutremainwaryofattackso"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 13
+  "count": 15
  },
- "last_run": "2026-09-25T05:30:24.147514+03:00",
+ "last_run": "2026-09-25T05:35:16.294867+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-09-25",
    "t": "Brent crude jumps above $106 after Houthi attack against Saudi sites (USO:NYSEARCA) - Seeking Alpha"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities - Reuters"
   }
  ]
 }
