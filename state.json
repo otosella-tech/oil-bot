@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "9736960a7cfd1f44",
-  "dowjonesfuturesfallastreasuryyieldsoilpriceskeeprisingmetaev",
   "07276500edd80c28",
   "tankerratesareonthecrestofawave",
   "a21963a8424e31b4",
@@ -603,7 +601,9 @@
   "cbac3fd9977ba86c",
   "usequityindexesjumpascrudeoilslidesfollowingiransconditional",
   "7464ef421e5a1575",
-  "updateusequityindexesjumpascrudeoilslidesfollowingiranscondi"
+  "updateusequityindexesjumpascrudeoilslidesfollowingiranscondi",
+  "93b3c99d3b1eb7da",
+  "forwardeverjennifermullontheoilgasindustryprices"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-25",
   "count": 60
  },
- "last_run": "2026-09-25T21:25:14.372539+03:00",
+ "last_run": "2026-09-25T21:30:24.625704+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
