@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "97e78fbbbea43eb3",
-  "indiasrussianoilimportsfellinaugustseenlowerinseptemberdatas",
   "b21e938859f48fe7",
   "oilpricesrisesharplyasinvestorsseekprogressonusirantalks",
   "1751f705cdeff9de",
@@ -603,7 +601,9 @@
   "c95e2cc5d0ea6521",
   "oilpricesfallafteriranasksustoreturntofailedmemorandumofunde",
   "4bd4e23b2b06cd58",
-  "oilfuturescruderetreatsastalkstoreopenhormuzcontinue"
+  "oilfuturescruderetreatsastalkstoreopenhormuzcontinue",
+  "a35acdae1ab04b6c",
+  "currentpriceofoilasofsept152026"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-25",
   "count": 60
  },
- "last_run": "2026-09-25T19:50:18.476492+03:00",
+ "last_run": "2026-09-25T19:55:15.154350+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
