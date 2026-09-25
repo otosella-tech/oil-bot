@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "f84ca9e58bb208b9",
-  "usstocksdriftneartheiralltimehighascrudeoilpricesturnhighera",
   "e248ecba70e3791b",
   "cmewticrudeoilfuturesreboundondieselexportbantalk",
   "4d39c050fd465f09",
@@ -603,7 +601,9 @@
   "1842d6821c37e123",
   "ashakydayforoilpricesandthebondmarketleavesstockslittlechang",
   "d8640603f4122326",
-  "gashasrisen28centspergalloninamonthperaaa"
+  "gashasrisen28centspergalloninamonthperaaa",
+  "0b60b6cc0e80faf2",
+  "brentcrudejumpsabove106afterhouthiattackagainstsaudisitesuso"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-09-25T04:25:14.439317+03:00",
+ "last_run": "2026-09-25T04:30:23.479612+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1360,6 +1360,10 @@
   {
    "d": "2026-09-25",
    "t": "US official: 60 ships passed through Strait of Hormuz in one day - アラブニュース"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Brent crude jumps above $106 after Houthi attack against Saudi sites (USO:NYSEARCA) - Seeking Alpha"
   }
  ]
 }
