@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "582b2a5d833bc663",
-  "usacrudeoilstocksriseweekonweek",
   "cb5090b9b3a8b40b",
   "goldatoneweeklowashigheroilhawkishfedweigh",
   "69bbeae78a92551a",
@@ -603,7 +601,9 @@
   "8adbeaa4fbc8a2ec",
   "oilfinishestheweekflatasthemarketseessaudipipelineoutageasle",
   "af33742bad1574ce",
-  "oilpricesfallasusirandiplomacyregionaltensionsremaininfocus"
+  "oilpricesfallasusirandiplomacyregionaltensionsremaininfocus",
+  "01db2095a809f96d",
+  "usequitymarketsendhigheramidfallingoilpricesfollowingiranspr"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-09-25",
   "count": 60
  },
- "last_run": "2026-09-25T23:25:19.022604+03:00",
+ "last_run": "2026-09-25T23:30:23.545232+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1581,6 +1581,10 @@
   {
    "d": "2026-09-25",
    "t": "Oil Prices Fall as U.S.-Iran Diplomacy, Regional Tensions Remain in Focus - WSJ"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "US Equity Markets End Higher Amid Falling Oil Prices Following Iran's Proposal to Reopen Strait of Hormuz - ca.finance.yahoo.com"
   }
  ]
 }
