@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "4d39c050fd465f09",
-  "hormuzworkaroundskeepgulfoilflowingatasteepcost",
   "836b66f947b77597",
   "oilrisesasdieselexporttalkswirls",
   "f832b38b263c546c",
@@ -603,7 +601,9 @@
   "0b60b6cc0e80faf2",
   "brentcrudejumpsabove106afterhouthiattackagainstsaudisitesuso",
   "c9cb606d7d25f7c8",
-  "vietnamrefinerysignscrudeoildealwithexxonmobilasiapacific"
+  "vietnamrefinerysignscrudeoildealwithexxonmobilasiapacific",
+  "fbf95c71d8ab6a0f",
+  "currentpriceofoilasofseptember172026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-24",
@@ -615,7 +615,7 @@
   "date": "2026-09-25",
   "count": 13
  },
- "last_run": "2026-09-25T05:05:14.698979+03:00",
+ "last_run": "2026-09-25T05:10:21.655418+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
