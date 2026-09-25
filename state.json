@@ -4,14 +4,6 @@
   "Brent": 99.25
  },
  "seen": [
-  "b6accfce226ef69d",
-  "naturalgasandoilforecastirandiplomacyeasescruderiskaslngstay",
-  "07f8f31e4827b431",
-  "oilextendsgainsonlittlesignofprogressinusirantalks",
-  "8f1fb0f947a72f8d",
-  "thetreasurymarketistradingliketheoilmarketaneconomistsays",
-  "1b27c02b764c4932",
-  "oilpricesfallonoptimismaroundusirandiplomacysaudipipelineres",
   "ee5811da76dd4035",
   "demandholdingstrongbut100crudeoilakeyrisktowatchsayspidilite",
   "a21ce024b720fab8",
@@ -603,7 +595,15 @@
   "3c1392addbf1cd66",
   "worldsharesmostlyadvanceafterglobalbondselloffanddropinoilpr",
   "0227d02397c55fbd",
-  "crudeoilpricesfallasmarketsexpectaceasefirebetweentheusandir"
+  "crudeoilpricesfallasmarketsexpectaceasefirebetweentheusandir",
+  "b44626b723dd9f7c",
+  "uksharessetforweeklygainsasoilpricesretreat",
+  "3ba48ba39d45ed30",
+  "alikodangoteethiopiaanddjiboutitobuild600mfuelpipeline",
+  "ce7349c96ea83fa6",
+  "oildipsaftersharpgainsasusiranreportedlyexplorehormuzdeal",
+  "a78e46e28aced3af",
+  "dronesattackoilrefineriesindustrialfacilitiesinrussiaovernig"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-09-25T13:21:25.836809+03:00",
+ "last_run": "2026-09-25T13:25:15.890524+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1440,6 +1440,18 @@
   {
    "d": "2026-09-25",
    "t": "Crude oil prices fall as markets expect a ceasefire between the US and Iran - UkrAgroConsult"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Aliko Dangote, Ethiopia and Djibouti to build $600m fuel pipeline - BBC"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Oil dips after sharp gains as U.S., Iran reportedly explore Hormuz deal - Investing.com"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Drones attack oil refineries, industrial facilities in Russia overnight – media - Ukrinform"
   }
  ]
 }
