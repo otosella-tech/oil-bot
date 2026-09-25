@@ -4,10 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "032c4b6031331566",
-  "crudeoilpricespressuredbydiplomatichopesinthemiddleeast",
-  "d9be4a88979a1a30",
-  "stockssupportedascrudeoilpricesease",
   "2dea28e5f9cc2ff2",
   "spoilgasetfsriseasbrentcrudereturnsto103endingafivedaylosing",
   "ffacd37cd93ca659",
@@ -603,7 +599,11 @@
   "c0b60a14983d3400",
   "bsrsignscrudeoilpurchaseframeworkagreementwithexxonmobilasia",
   "88fee822515f8409",
-  "southkoreatargetslowerrelianceonmiddleeasternoilandgasby2035"
+  "southkoreatargetslowerrelianceonmiddleeasternoilandgasby2035",
+  "1754267328e96166",
+  "oilslidesasusirantrucehopesoutweighhouthiattacksonsaudiarabi",
+  "716e89af83c7d667",
+  "oilpricesfallastradersweighpossibleusirantruce"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-09-25T10:15:18.509060+03:00",
+ "last_run": "2026-09-25T10:20:20.076505+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1400,6 +1400,10 @@
   {
    "d": "2026-09-25",
    "t": "Crude oil prices slip toward $106 as US-Iran talks raise hopes of Hormuz reopening - The Statesman"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia - Reuters"
   }
  ]
 }
