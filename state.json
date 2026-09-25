@@ -4,8 +4,6 @@
   "Brent": 99.25
  },
  "seen": [
-  "17b6fad05c8c683b",
-  "serbiasrussianownednisoilfirmseeksnewussanctionswaiver",
   "1ddcddb72fe456d7",
   "saudiarabiarampsupgulfoilexportsafterpipelineattackdatashows",
   "ab9dfecf20efdfde",
@@ -603,7 +601,9 @@
   "622a6ccd0468c37d",
   "theroleofdronesandrobotsinoilpipelines",
   "870dee49576b57c9",
-  "the10yearustreasuryyieldisfrontrunningcrudeoilasinflationpre"
+  "the10yearustreasuryyieldisfrontrunningcrudeoilasinflationpre",
+  "dda27a9db354c05f",
+  "ukrainiandefenseforcesstrikeoilrefineriesinpermandnovoshakht"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-09-25T14:20:17.892488+03:00",
+ "last_run": "2026-09-25T14:25:20.694908+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1456,6 +1456,10 @@
   {
    "d": "2026-09-25",
    "t": "The role of drones and robots in oil pipelines - Yahoo! Finance Canada"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Ukrainian Defense Forces strike oil refineries in Perm and Novoshakhtinsk and two Russian radar stations - Ukrinform"
   }
  ]
 }
