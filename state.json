@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "a21963a8424e31b4",
-  "oilgainsonlittlesignofprogressinusirantalks",
   "5279163b9628412d",
   "crudeoilextendsgainsasexpectationsforanearlierendtotheiranwa",
   "77bf45ab0fbe8a56",
@@ -603,7 +601,9 @@
   "93b3c99d3b1eb7da",
   "forwardeverjennifermullontheoilgasindustryprices",
   "3394f87e39472763",
-  "crudeoildownover2usconsumersentimenteasesinseptember"
+  "crudeoildownover2usconsumersentimenteasesinseptember",
+  "0cdea0ce72b56f91",
+  "novemberwticrudeoilcontractclosesdown220or23settlesat9241per"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-25",
   "count": 60
  },
- "last_run": "2026-09-25T21:40:19.498558+03:00",
+ "last_run": "2026-09-25T21:45:19.703022+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
