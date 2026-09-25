@@ -4,8 +4,6 @@
   "Brent": 99.25
  },
  "seen": [
-  "6b0bca41ae1bcc6d",
-  "europesfuelcrisisthe10oilstocksthatralliedin2026",
   "5a15aa6dd48b3714",
   "goldmutedasfedpolicytighteningprospectsweigh",
   "7ab2eedb4bf2718e",
@@ -603,7 +601,9 @@
   "4bdd9047989e310e",
   "theusstrategicpetroleumreserveisrunninglowcanvenezuelanoilhe",
   "a4c7267757f4106f",
-  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump"
+  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
+  "1649b4d2770f1349",
+  "satelliteimageryrevealsdamageatrussiaskuibyshevoilrefineryfo"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-09-25T12:25:15.778615+03:00",
+ "last_run": "2026-09-25T12:30:25.486769+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1432,6 +1432,10 @@
   {
    "d": "2026-09-25",
    "t": "The U.S. Strategic Petroleum Reserve is running low. Can Venezuelan oil help? - NPR"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Satellite Imagery Reveals Damage at Russia’s Kuibyshev Oil Refinery Following Ukrainian Drone Strike - UNITED24 Media"
   }
  ]
 }
