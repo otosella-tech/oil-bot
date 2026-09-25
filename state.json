@@ -4,10 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "b3413d84997380e9",
-  "brentcrudeoilpriceonseptember242026at500pmedt",
-  "a07b8b7548251c25",
-  "traderspushfordiscountsforvenezuelanoilasshippingcostssoarso",
   "06492372a4e040f2",
   "oilfallsonreportasiawillimporthighestvolumeofcrudesincestart",
   "032c4b6031331566",
@@ -603,7 +599,11 @@
   "9bc1c6f6023071a8",
   "vlccrateshitrecord127millionaday",
   "e3e2891aba13ce69",
-  "naturalgasandoilforecastirantrucetalkseasecruderiskassaudith"
+  "naturalgasandoilforecastirantrucetalkseasecruderiskassaudith",
+  "0e33e183f6f6bf98",
+  "currentpriceofoilasofsept212026",
+  "c0b60a14983d3400",
+  "bsrsignscrudeoilpurchaseframeworkagreementwithexxonmobilasia"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -615,7 +615,7 @@
   "date": "2026-09-25",
   "count": 35
  },
- "last_run": "2026-09-25T10:05:16.238282+03:00",
+ "last_run": "2026-09-25T10:10:19.592855+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
