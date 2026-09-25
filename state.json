@@ -4,10 +4,6 @@
   "Brent": 99.25
  },
  "seen": [
-  "6aaf914e7143401d",
-  "southeastasiakeepsbuildinggasplantsdespitehormuzlngshock",
-  "b03bbbd50f1314b0",
-  "fromimportertoexporteroilshocksandtheuseconomy",
   "b6accfce226ef69d",
   "naturalgasandoilforecastirandiplomacyeasescruderiskaslngstay",
   "07f8f31e4827b431",
@@ -603,7 +599,11 @@
   "8ec1f3a6ec8d54cd",
   "vietnamsbsrinkscrudeoilsupplyagreementwithexxonmobiloffshore",
   "95869f16f8d3ff24",
-  "globalbondselloffeasesasoilpricesretreatfromrecenthighs"
+  "globalbondselloffeasesasoilpricesretreatfromrecenthighs",
+  "3c1392addbf1cd66",
+  "worldsharesmostlyadvanceafterglobalbondselloffanddropinoilpr",
+  "0227d02397c55fbd",
+  "crudeoilpricesfallasmarketsexpectaceasefirebetweentheusandir"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-25",
-  "count": 52
+  "count": 54
  },
- "last_run": "2026-09-25T13:10:18.724095+03:00",
+ "last_run": "2026-09-25T13:15:18.033008+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
@@ -1436,6 +1436,10 @@
   {
    "d": "2026-09-25",
    "t": "Satellite Imagery Reveals Damage at Russia’s Kuibyshev Oil Refinery Following Ukrainian Drone Strike - UNITED24 Media"
+  },
+  {
+   "d": "2026-09-25",
+   "t": "Crude oil prices fall as markets expect a ceasefire between the US and Iran - UkrAgroConsult"
   }
  ]
 }
