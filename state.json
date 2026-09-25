@@ -4,10 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "831e4af5da250b1b",
-  "oilpricestodaybrentcrudeeasesasirankeepsdooropentodiplomacy",
-  "341bfeeb53b7da4c",
-  "oilfallsonlargerthanexpectedbuildinusinventories",
   "08dd4ec7c9ab91a9",
   "bankofamericasaysbrentcrudeoilcouldtop150abarrelifiranwardis",
   "c42a8378f2f8e558",
@@ -603,7 +599,11 @@
   "32fadfdcd9fa4ce2",
   "oilfallsamidoptimismoverpotentialdiplomaticsolutiontotheiran",
   "864d805330d15939",
-  "hormuztankertransitscrashtosingledigitsascrisisdeepens"
+  "hormuztankertransitscrashtosingledigitsascrisisdeepens",
+  "69946c9235e76b8b",
+  "wticrudeoilrejectionatthemiddleoftherisingchannelwhatcomesne",
+  "ffacd37cd93ca659",
+  "uscrudeoilstockpilespostmoderatedraw"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -615,7 +615,7 @@
   "date": "2026-09-25",
   "count": 39
  },
- "last_run": "2026-09-25T10:30:59.799774+03:00",
+ "last_run": "2026-09-25T10:35:15.872062+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
