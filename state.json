@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "c6c2c4c820342d56",
-  "oilpricesroseby2whiledieselineuropeisbreakingrecords",
   "04e4d7e268a1f76d",
   "currentpriceofoilasofsept242026",
   "fe95b6b6c9fcd5ab",
@@ -603,7 +601,9 @@
   "1e76cd6d8f5bb8d4",
   "duneoiladvancesseismicworkafter3mraiseicymi",
   "121284af1abea622",
-  "obituariesoldlandbrow"
+  "obituariesoldlandbrow",
+  "88074a172e8eee3f",
+  "thebondmarketishavingawildmonthoilismakingthingsevenworse"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-09-25",
   "count": 60
  },
- "last_run": "2026-09-25T22:20:19.865716+03:00",
+ "last_run": "2026-09-25T22:22:15.783294+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
