@@ -4,8 +4,6 @@
   "Brent": 106.98
  },
  "seen": [
-  "06492372a4e040f2",
-  "oilfallsonreportasiawillimporthighestvolumeofcrudesincestart",
   "032c4b6031331566",
   "crudeoilpricespressuredbydiplomatichopesinthemiddleeast",
   "d9be4a88979a1a30",
@@ -603,7 +601,9 @@
   "0e33e183f6f6bf98",
   "currentpriceofoilasofsept212026",
   "c0b60a14983d3400",
-  "bsrsignscrudeoilpurchaseframeworkagreementwithexxonmobilasia"
+  "bsrsignscrudeoilpurchaseframeworkagreementwithexxonmobilasia",
+  "88fee822515f8409",
+  "southkoreatargetslowerrelianceonmiddleeasternoilandgasby2035"
  ],
  "releases_done": {},
  "last_digest": "2026-09-25",
@@ -615,7 +615,7 @@
   "date": "2026-09-25",
   "count": 35
  },
- "last_run": "2026-09-25T10:10:19.592855+03:00",
+ "last_run": "2026-09-25T10:15:18.509060+03:00",
  "sent_stories": [
   {
    "d": "2026-09-22",
