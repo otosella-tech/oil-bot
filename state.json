@@ -4,12 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "bca17393c03a500c",
-  "bondyieldssurgetofreshtwodecadehighsasoilpriceshit107perbarr",
-  "7513f38a51ec38c8",
-  "russiabeginsoilexportsfromitsgiantvostokarcticproject",
-  "87e220acf54c35c7",
-  "oilfuturesgainwithlittleusirandiplomaticprogressseen",
   "67bc3d492807ee96",
   "sptsxcompositedowndespiteenergysectorgainsaspriceofoilclimbs",
   "aafa2dc6711a4c4c",
@@ -603,7 +597,13 @@
   "b7c6121ef773dfa5",
   "marketspickupgainsinfaceofoilbondyieldsurge",
   "9c63efe2b8af6869",
-  "saaskshowwouldausdieselexportbanimpacttheoilsectorbpnyse"
+  "saaskshowwouldausdieselexportbanimpacttheoilsectorbpnyse",
+  "d1935609ddc18d4e",
+  "saudiarabiasreturntohormuzputsoiltransfernetworktothetestal",
+  "5d8a2648c35b56d1",
+  "batteredbondsdrawsupportfromfallingoilprices",
+  "f4fb2169b0c0e596",
+  "canadianfinancialcloselooniecrudeoilendweekonlownotes"
  ],
  "releases_done": {
   "2026-09-25|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -617,291 +617,11 @@
   "Brent": 105.68
  },
  "llm": {
-  "date": "2026-09-25",
-  "count": 60
+  "date": "2026-09-26",
+  "count": 2
  },
- "last_run": "2026-09-26T00:05:15.740669+03:00",
+ "last_run": "2026-09-26T00:10:18.646837+03:00",
  "sent_stories": [
-  {
-   "d": "2026-09-22",
-   "t": "New U.S. Sanctions Law Threatens India’s Huge Russian Oil Trade"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil rises slightly ahead of potential US-Iran talks - Reuters"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil slips as Saudi Arabia offers more crude via Oman - Reuters"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil rises slightly ahead of potential US-Iran talks By Reuters - Investing.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil Prices Gain as Hopes Fade for U.S.-Iran Talks - wsj.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil Prices Slide as Traders Bet on Iran Diplomacy - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil finishes the week flat as the market sees Saudi pipeline outage as less disruptive than feared - CNBC"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Vessels trickle through Strait of Hormuz as Middle East conflict persists - Reuters"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil Prices Reverse Course as Traders Watch US-Iran Diplomacy"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil prices climb ahead of potential US-Iran talks - Reuters"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "U.S. Threatens to Ground Iranian Airlines Worldwide"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudis Tell European Refiners They’ll Get No Crude Next Month - Bloomberg.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil Prices Rise as Hormuz Shipping Risks Persist - WSJ"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Soaring Oil and Gas Prices Push Europe’s Inflation Fight Into 2027"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "AFU General Staff confirms strikes on oil refineries in Russia’s Ufa and Samara - Ukrinform"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war - CNBC"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Journalist ties tanker attacks to oil middlemen, drawing treason accusations - Iran International"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudi Arabia Increases Gulf Oil Exports Following East-West Pipeline Attack - Egypt Oil & Gas"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil falls 1% after reports suggest Iran could reopen Hormuz within seven days - Reuters"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil Prices Drop on Report Iran Has Offered to Open Hormuz in 7 Days - Barron's"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudi Oil Lifeline May Reopen as Aramco Eyes Yanbu Restart"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudi Arabia restarts the East-West oil pipeline and prepares to resume crude oil exports from Yanbu port later on Tuesday, according to trade sources - Newsquawk"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil Prices Rebound as Traders Monitor US-Iran Diplomacy and Saudi Supply Flows - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil prices reverse gains as United Nations General Assembly meeting lifts hopes for Iran war diplomacy - CNBC"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil News: Hormuz Diplomacy Sinks Crude Futures as Diesel Stays Tight - FXEmpire"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil dips below $100 as Iran reportedly offers to reopen Hormuz amid diplomacy push - Investing.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "PUSHING FOR DISCOUNTS” Traders Push for Discounts for Venezuelan Oil as Shipping Costs Soar - EnergyNow.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Indian shares fall as IT drags; oil slides ahead of potential US-Iran talks - Reuters"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Brent Falls Below $100 a Barrel on U.S.-Iran Diplomacy Hopes - WSJ"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil price falls below $98 as Saudi Arabia signals reopening of East-West pipeline - Financial Times"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil Tumbles 3% as Iran Floats Hormuz Reopening Within a Week"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil prices tumble to 2-week low on hopes for critical pipeline reopening and Iran diplomacy - NBC News"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudi Arabia restarts East-West oil pipeline, sources say - Reuters"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudi Aramco Ramps Up Gulf Oil Loadings in Response to Pipeline Attack - Pipeline Technology Journal"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil price falls to $98 as Saudi Arabia signals reopening of East-West pipeline - Financial Times"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil Prices Drop Below $100 on Report Iran Has Offered to Open Hormuz in 7 Days - Barron's"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Gold price holds above $4,330 as Hormuz diplomacy pressures oil - Kitco AM Report - Kitco"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudi Aramco Ramps Up Gulf Oil Loadings in Response to Pipeline Attack - pipeline-journal.net"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil prices extend decline as Saudi Arabia restarts East-West pipeline, prepares to resume crude exports - investingLive"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil prices fall after report Saudi Arabia aims to restart critical pipeline this week - CNBC"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Dollar falters after Iran's offer to reopen Hormuz sends oil lower - Reuters"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil prices back below $100 per barrel; Saudi pipeline to restart - upi.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Libya’s Largest Oilfield Hit by New Armed Group Blockade"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Global Oil Prices Drop as Saudi Arabia Restarts East-West Pipeline After Drone Attack - united24media.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil price falls as Saudi Arabia signals reopening of East-West pipeline - Financial Times"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil prices fall as Iran signals Strait of Hormuz reopening: What it means for crude prices | Hindustan Times - hindustantimes.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Russian Oil Flows Dip as US Sanctions, Saudi Supplies Loom - Bloomberg.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "World in Brief: Saudi Arabia to reopen vital oil pipeline; Netanyahu slams Mamdani ahead of New York visit - The Economist"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Middle East sees growing oil spill threat as Iran war continues - usatoday.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudi Arabia signals reopening of East-West pipeline - Financial Times"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudi Arabia Restarts East-West Oil Pipeline"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil erases losses after Trump says Iran war could be settled after midterms - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil prices rise on Trump timeline for Iran peace deal: after US elections - Reuters"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudi Pipeline Restart Fails to End Oil Market Tightness"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "WCS crude oil discount to Mars weakens amid US refinery outages - Quantum Commodity Intelligence"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil Prices Fall on U.S.-Iran Diplomacy Hopes - WSJ"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil little changed after Trump tells UN that Iran will make a deal after midterm elections - CNBC"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "India’s Russian Oil Imports Slide as Refiners Hunt for Alternatives"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Nuclear Safety Brings America Into Russia's Uzbek Energy Project"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Bank of America says Brent crude oil could top $150 a barrel if Iran war disruptions persist - CNBC"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Moscow oil refinery output halted after Sunday drone attack, sources say - Reuters"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudi Arabia denies Iraqi claim of oil tanker purchases - Investing.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "The U.S. Has More Leverage in Iraq Than It Thinks"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz - Barchart.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "EXCLUSIVE: Saudi Aramco plans reorganisation to create gas division, sources say - Reuters"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudi Arabia Restarts East-West Oil Pipeline - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Saudis in process of starting up key East-West oil pipeline - Transport Topics"
-  },
-  {
-   "d": "2026-09-22",
-   "t": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix - NBC News"
-  },
   {
    "d": "2026-09-23",
    "t": "Is China’s Secret Power Advantage About To Trigger An 89% Crash In U.S. AI Stock"
@@ -1589,6 +1309,10 @@
   {
    "d": "2026-09-25",
    "t": "4th Russian Fuel Plant Shut Down in One Week Following Drone Attacks - united24media.com"
+  },
+  {
+   "d": "2026-09-26",
+   "t": "Saudi Arabia’s return to Hormuz puts oil transfer network to the test - Al-Monitor"
   }
  ]
 }
