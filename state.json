@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "84c08812d49fae94",
-  "italyreturnstonuclearafter40",
   "f3bcb196b706f560",
   "willcrudeoilpricesremainvolatilefortherestof2026",
   "c4076c34b93f4df0",
@@ -603,7 +601,9 @@
   "53b0b06a5ec294d2",
   "areprievefromrisingoilpriceshelpsstocksfinishtheweekhigher",
   "b119aa5aa69c2a4a",
-  "behindthescenessummitrowandoildealtesthungaryukraineties"
+  "behindthescenessummitrowandoildealtesthungaryukraineties",
+  "9183a950d8cc75fb",
+  "ilskyoilrefinerycatchesfireinrussiaskrasnodarkraifollowingat"
  ],
  "releases_done": {},
  "last_digest": "2026-09-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-26",
-  "count": 33
+  "count": 34
  },
- "last_run": "2026-09-26T14:05:14.635411+03:00",
+ "last_run": "2026-09-26T14:10:17.778276+03:00",
  "sent_stories": [
   {
    "d": "2026-09-23",
