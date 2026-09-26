@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "ec3760ae04a36178",
-  "wticrudeoilfuturesslideonsaudiexportsignals",
   "1fc6af341d69d846",
   "5energystockspositionedforaprolongediranwar",
   "dcf8c6e6cae62546",
@@ -603,7 +601,9 @@
   "4f94d75243799a17",
   "epaadministratorpushesline5tunnelplansafetyduringmichigansto",
   "d1aa0a4d698052a5",
-  "didcashdividendnewsjustshiftnorthernoilandgasnoginvestmentna"
+  "didcashdividendnewsjustshiftnorthernoilandgasnoginvestmentna",
+  "bb733d6ade862826",
+  "saudicrudeoilexportshitfourmonthhighinjulydatashows"
  ],
  "releases_done": {},
  "last_digest": "2026-09-26",
@@ -612,167 +612,11 @@
   "Brent": 97.44
  },
  "llm": {
-  "date": "2026-09-26",
-  "count": 47
+  "date": "2026-09-27",
+  "count": 1
  },
- "last_run": "2026-09-27T00:01:18.565788+03:00",
+ "last_run": "2026-09-27T00:05:16.425391+03:00",
  "sent_stories": [
-  {
-   "d": "2026-09-23",
-   "t": "Is China’s Secret Power Advantage About To Trigger An 89% Crash In U.S. AI Stock"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Demand Grows For Supplies Of Oil And Gas East Of Hormuz - Forbes"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "COMMENTARY: Hormuz shuttles keep oil flowing, but at a high cost - Reuters"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil prices fall for fifth day after Trump says U.S. met with Iran for three hours - cnbc.com"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Trump Weighs Diesel Export Ban as Fuel Prices Soar - WSJ"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Saudi Arabia ramps up Gulf oil exports after pipeline attack, data shows - Reuters"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil Prices Fall as Saudi Arabia Restores Pipeline and Iran Talks Raise Supply Hopes - Межа. Новини України."
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil falls on increased Gulf supply and hopes for US-Iran talks - Reuters"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping - Financial Times"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil price dips to $100 on hopes of US-Iran diplomacy, partial recovery in Saudi exports - Reuters"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN - CNBC"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "How Ukraine’s devastating attacks on Putin’s oil refineries brought the war to Russia’s doorstep - nz.news.yahoo.com"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Saudi Arabia Running Tests to Resume East-West Oil Pipeline - Bloomberg.com"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil slips as Saudi Arabia offers more crude via Oman - reuters.com"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil prices fall as US-Iran diplomacy, Saudi flows ease supply concerns - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms - CNBC"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Iraq offers prompt heavy oil cargo via tender, document shows - Reuters"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil finishes the week flat as the market sees Saudi pipeline outage as less disruptive than feared - CNBC"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Saudis Tell European Refiners They’ll Get No Crude Next Month - Bloomberg"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Hormuz Traffic Running 80% Below Its 10-Day Average"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil oscillates around $100 as investors await updates on Iran talks By Investing.com - Investing.com"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days - CNBC"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Saudi Arabia Restarts East-West Pipeline to Resume Exports Days After Drone Attack - Pipeline Technology Journal"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Crude Oil Inventories Surge, Defying Market Expectations - Investing.com"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Hormuz Traffic Running 80% Below Its 10-Day Average - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil prices see-saw, as markets weigh Trump’s UN speech against potential Saudi pipeline fix - NBC News"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Saudi Arabia restarts East-West oil pipeline, sources say - Reuters"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Dangote's Kenya Refinery Project Launches This Week at Up to $20B"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Saudi crude oil exports hit four-month high in July, data shows - Reuters"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil up almost 2% as Iran's president vows to never surrender - Reuters"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Russian Insurgents Blow Up Tank Cars Carrying Over 10,000 Metric Tons of Oil - Мілітарний"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Hormuz Supply Crisis to Change LNG Market Forever"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender - CNBC"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions - cnbc.com"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Hormuz Workarounds Keep Gulf Oil Flowing—at a Steep Cost"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Oil settles up around 4% as Iran's president vows to never surrender - Reuters"
-  },
-  {
-   "d": "2026-09-23",
-   "t": "Traders Push for Discounts for Venezuelan Oil as Shipping Costs Soar - gCaptain"
-  },
   {
    "d": "2026-09-24",
    "t": "White House Rules Out Diesel Export Ban as Prices Surge Above $6.50"
