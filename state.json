@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "baf51d98a7b2394b",
-  "usofficial60shipspassedthroughstraitofhormuzinoneday",
   "bd7e33e6f0229026",
   "saudiseaseasiaoilcrunch",
   "cd5c575f011f7aa6",
@@ -603,7 +601,9 @@
   "2b3afadc15a91c85",
   "wticrudeoilfuturesslideonsaudiexportsignals",
   "9c7993b5d9735791",
-  "oilsurges6brentanduscrudebothsurpass100onmoretankerattacks"
+  "oilsurges6brentanduscrudebothsurpass100onmoretankerattacks",
+  "2b0a1f31d6b3fa9e",
+  "averagegaspriceinlosangelescountyapproachesalltimerecordhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-09-26",
@@ -615,7 +615,7 @@
   "date": "2026-09-27",
   "count": 2
  },
- "last_run": "2026-09-27T01:20:18.024071+03:00",
+ "last_run": "2026-09-27T01:25:16.155770+03:00",
  "sent_stories": [
   {
    "d": "2026-09-24",
