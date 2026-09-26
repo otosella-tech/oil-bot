@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "1b9a7f2ab77d1466",
-  "updateusequityindexesclosemixedashighercrudeoilhawkishfedspe",
   "5cf72cb9ff5909f6",
   "publiccompaniesproducemostuscrudeoilandnaturalgas",
   "ff6c20eae3d8a6b6",
@@ -603,7 +601,9 @@
   "4791fadc938125ec",
   "majorrussianoilrefineryhaltsoperationsafterukrainiandronestr",
   "7dd5090f6248c803",
-  "firstcargoof2930tonnesofmachineryarriveskenyanportasdangoteb"
+  "firstcargoof2930tonnesofmachineryarriveskenyanportasdangoteb",
+  "513c68ad16e1f9dc",
+  "fromhormuztosauditoussanctionsworldfeelstheoilheat"
  ],
  "releases_done": {},
  "last_digest": "2026-09-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-26",
-  "count": 43
+  "count": 44
  },
- "last_run": "2026-09-26T21:30:24.975134+03:00",
+ "last_run": "2026-09-26T21:35:14.335530+03:00",
  "sent_stories": [
   {
    "d": "2026-09-23",
