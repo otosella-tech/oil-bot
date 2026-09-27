@@ -4,10 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "e0f0b64fc77abc25",
-  "oilpricesslip1astradershopeforusirantruceamidfreshattacksons",
-  "6143f95a8bb6ef2d",
-  "treasuryyieldssurgetonear20yearhighasoiljumpsbackabove103per",
   "80cfcb360930da22",
   "crudepricesrallyonheightenedriskstomiddleeastoilsupplies",
   "c5cc0ebad987d202",
@@ -603,7 +599,11 @@
   "a4f2e64cf096de87",
   "letspushpricesdownwrightasksoilindustrytocurbexports",
   "e18700ae1e3a7199",
-  "petrosannanexceedsfy202526naturalgasproductiontargetsby36egy"
+  "petrosannanexceedsfy202526naturalgasproductiontargetsby36egy",
+  "7e60c6d86c92c475",
+  "oilsettlesuparound4asiranspresidentvowstoneversurrender",
+  "72ce149d2c6dac02",
+  "petrosannanexceedsfy202526naturalgasproductiontargetsby36"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-27",
-  "count": 14
+  "count": 16
  },
- "last_run": "2026-09-27T11:00:27.112250+03:00",
+ "last_run": "2026-09-27T11:05:13.952274+03:00",
  "sent_stories": [
   {
    "d": "2026-09-24",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-09-27",
    "t": "France to Deploy Forces to Protect Saudi Red Sea Oil Port - WSJ"
+  },
+  {
+   "d": "2026-09-27",
+   "t": "Oil settles up around 4% as Iran's president vows to never surrender - Reuters"
   }
  ]
 }
