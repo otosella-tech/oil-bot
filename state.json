@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "ffacd37cd93ca659",
-  "uscrudeoilstockpilespostmoderatedraw",
   "b2d4dcade5257364",
   "oilpricesfallonusirandiplomaticsignalseasinguschinatradetens",
   "7761cc9feea27f13",
@@ -603,7 +601,9 @@
   "9ec0bdd78502b7fa",
   "stocksmixedascrudeoilpricesandfinancialstocksfall",
   "14e0feccee457c25",
-  "theoilmarketsbackupplanisbreakingdown"
+  "theoilmarketsbackupplanisbreakingdown",
+  "b38d4618fb70efa0",
+  "lacountygasaveragehits6387106centsshortofrecordafter39straig"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -615,7 +615,7 @@
   "date": "2026-09-27",
   "count": 25
  },
- "last_run": "2026-09-27T16:30:22.096697+03:00",
+ "last_run": "2026-09-27T16:35:16.863984+03:00",
  "sent_stories": [
   {
    "d": "2026-09-24",
