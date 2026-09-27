@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "0227d02397c55fbd",
-  "crudeoilpricesfallasmarketsexpectaceasefirebetweentheusandir",
   "b44626b723dd9f7c",
   "uksharessetforweeklygainsasoilpricesretreat",
   "3ba48ba39d45ed30",
@@ -603,7 +601,9 @@
   "240adf7510ae53f6",
   "tunisia82dropinoilproduction",
   "4e3361439ea50078",
-  "vietnamsbsrinkscrudeoilsupplyagreementwithexxonmobil"
+  "vietnamsbsrinkscrudeoilsupplyagreementwithexxonmobil",
+  "a50bcae62a6482e6",
+  "trumpsaysuswillwinagainstiranexpectingoilpricestofall"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -615,7 +615,7 @@
   "date": "2026-09-27",
   "count": 37
  },
- "last_run": "2026-09-28T00:35:15.514258+03:00",
+ "last_run": "2026-09-28T00:40:20.061457+03:00",
  "sent_stories": [
   {
    "d": "2026-09-24",
