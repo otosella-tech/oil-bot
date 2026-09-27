@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "0e33e183f6f6bf98",
-  "currentpriceofoilasofsept212026",
   "c0b60a14983d3400",
   "bsrsignscrudeoilpurchaseframeworkagreementwithexxonmobilasia",
   "88fee822515f8409",
@@ -603,7 +601,9 @@
   "b95c95cd717f5efe",
   "iraqimportspetrolthroughsyriainanotherusbackedsteptowardsclo",
   "a516106d2745d764",
-  "stockmarketsthisweekgeopoliticaldevelopmentscrudeoiltobekeyd"
+  "stockmarketsthisweekgeopoliticaldevelopmentscrudeoiltobekeyd",
+  "49157c28e1f42d4f",
+  "updateusequityindexestrademixedamidhighercrudeoiltreasuryyie"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -615,7 +615,7 @@
   "date": "2026-09-27",
   "count": 23
  },
- "last_run": "2026-09-27T15:25:18.954983+03:00",
+ "last_run": "2026-09-27T15:30:24.553573+03:00",
  "sent_stories": [
   {
    "d": "2026-09-24",
