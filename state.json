@@ -4,10 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "d5da87e79be0c223",
-  "europesdieselshockismovingintoborrowingcostspermutableanalys",
-  "4bdd9047989e310e",
-  "theusstrategicpetroleumreserveisrunninglowcanvenezuelanoilhe",
   "a4c7267757f4106f",
   "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump",
   "1649b4d2770f1349",
@@ -603,7 +599,11 @@
   "743450286a59d871",
   "forlibyathehormuzcrisiscanbeatraporanopportunity",
   "7ae629e54426c67e",
-  "3oilstocksretailinvestorsarewatchingashormuzriskkeepscrudein"
+  "3oilstocksretailinvestorsarewatchingashormuzriskkeepscrudein",
+  "b0fd37040bd194a2",
+  "hormuzoilflowsrisedespiteiranthreatsagainstshipping",
+  "0bb5f93b35499d9b",
+  "crudeoilpricesdeclinebrenthoversbelow106"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-27",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-09-27T18:40:16.774534+03:00",
+ "last_run": "2026-09-27T18:45:18.189812+03:00",
  "sent_stories": [
   {
    "d": "2026-09-24",
@@ -1244,6 +1244,10 @@
   {
    "d": "2026-09-27",
    "t": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal - bbc.com"
+  },
+  {
+   "d": "2026-09-27",
+   "t": "Hormuz oil flows rise despite Iran threats against shipping - Iran International"
   }
  ]
 }
