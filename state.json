@@ -4,10 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "048f8312384dc363",
-  "whyausdieselexportbanmaynotlowerprices",
-  "0bb5f93b35499d9b",
-  "crudeoilpricesdeclinebrenthoversbelow106",
   "d5da87e79be0c223",
   "europesdieselshockismovingintoborrowingcostspermutableanalys",
   "4bdd9047989e310e",
@@ -603,7 +599,11 @@
   "083c1d7a018cd28d",
   "trumpoilpriceswillplummetafterwarendsverysoon",
   "323170d0986f9242",
-  "egyptsrefiningactivityjumps224inq3fy202526egyptoil"
+  "egyptsrefiningactivityjumps224inq3fy202526egyptoil",
+  "743450286a59d871",
+  "forlibyathehormuzcrisiscanbeatraporanopportunity",
+  "7ae629e54426c67e",
+  "3oilstocksretailinvestorsarewatchingashormuzriskkeepscrudein"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-27",
-  "count": 31
+  "count": 32
  },
- "last_run": "2026-09-27T18:35:15.161840+03:00",
+ "last_run": "2026-09-27T18:40:16.774534+03:00",
  "sent_stories": [
   {
    "d": "2026-09-24",
