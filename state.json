@@ -4,10 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "1649b4d2770f1349",
-  "satelliteimageryrevealsdamageatrussiaskuibyshevoilrefineryfo",
-  "9428dc018d2f46b6",
-  "europeanstocksriseasoilpriceseaseandinvestorsmonitorbondyiel",
   "e5a763b000189057",
   "vietnamsbsrinkscrudeoilsupplyagreementwithexxonmobil",
   "771e44260055cce9",
@@ -603,7 +599,11 @@
   "0bb5f93b35499d9b",
   "crudeoilpricesdeclinebrenthoversbelow106",
   "255bc179073e02ea",
-  "egyptsrefiningactivityjumps224inq3fy202526"
+  "egyptsrefiningactivityjumps224inq3fy202526",
+  "4bdd9047989e310e",
+  "theusstrategicpetroleumreserveisrunninglowcanvenezuelanoilhe",
+  "a4c7267757f4106f",
+  "oilpricessoarto108forthefirsttimesincemayasbondyieldsjump"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-27",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-09-27T18:50:18.412371+03:00",
+ "last_run": "2026-09-27T18:55:14.168426+03:00",
  "sent_stories": [
   {
    "d": "2026-09-24",
@@ -1248,6 +1248,10 @@
   {
    "d": "2026-09-27",
    "t": "Hormuz oil flows rise despite Iran threats against shipping - Iran International"
+  },
+  {
+   "d": "2026-09-27",
+   "t": "The U.S. Strategic Petroleum Reserve is running low. Can Venezuelan oil help? - NPR"
   }
  ]
 }
