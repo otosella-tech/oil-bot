@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "95869f16f8d3ff24",
-  "globalbondselloffeasesasoilpricesretreatfromrecenthighs",
   "3c1392addbf1cd66",
   "worldsharesmostlyadvanceafterglobalbondselloffanddropinoilpr",
   "0227d02397c55fbd",
@@ -603,7 +601,9 @@
   "df0b6fb5f9c1c257",
   "crudeoilpricesdroponusirantalksbutst",
   "0e23026ba89c6aa8",
-  "volcanodaysrecallsriseandfallofoilboomtown"
+  "volcanodaysrecallsriseandfallofoilboomtown",
+  "240adf7510ae53f6",
+  "tunisia82dropinoilproduction"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -615,7 +615,7 @@
   "date": "2026-09-27",
   "count": 37
  },
- "last_run": "2026-09-28T00:05:14.621785+03:00",
+ "last_run": "2026-09-28T00:10:18.373078+03:00",
  "sent_stories": [
   {
    "d": "2026-09-24",
