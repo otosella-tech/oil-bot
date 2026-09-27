@@ -4,10 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "b07a896a98246c1c",
-  "gulfnationshavefoundwaystokeepoilflowingthroughtheiranwarbut",
-  "3628b8fd64a3d954",
-  "oilpricessteadyat105after10surgeamidirancrisis",
   "048f8312384dc363",
   "whyausdieselexportbanmaynotlowerprices",
   "0bb5f93b35499d9b",
@@ -603,7 +599,11 @@
   "664d061678fd59f1",
   "thetruthbehinddonaldtrumpsbiggestoildealinworldhistorytrumpa",
   "1723866416926469",
-  "theusstrategicpetroleumreserveislowhereswhyyoushouldcare"
+  "theusstrategicpetroleumreserveislowhereswhyyoushouldcare",
+  "083c1d7a018cd28d",
+  "trumpoilpriceswillplummetafterwarendsverysoon",
+  "323170d0986f9242",
+  "egyptsrefiningactivityjumps224inq3fy202526egyptoil"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-27",
-  "count": 30
+  "count": 31
  },
- "last_run": "2026-09-27T18:20:18.326661+03:00",
+ "last_run": "2026-09-27T18:25:16.066195+03:00",
  "sent_stories": [
   {
    "d": "2026-09-24",
