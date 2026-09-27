@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "03374a9a34ecfe82",
-  "rupeefalls26pto9599againstdollaramidcrudeoilspike",
   "38942ab82c72eda1",
   "oilpricesrisesnapfivedaylosingstreakasiranvowsitwillnotsurre",
   "1842d6821c37e123",
@@ -603,7 +601,9 @@
   "9bceaac4cb3762ee",
   "up30thisyeararebpsharesreallyinrecoveryorridingtheoilspikewa",
   "bd2092b8ca030459",
-  "iransoilindustryhastoomanymasters"
+  "iransoilindustryhastoomanymasters",
+  "bab07e3a433abaa4",
+  "uscrudeoiltops100againlastseeninmayasmarketbracesforprolonge"
  ],
  "releases_done": {},
  "last_digest": "2026-09-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-27",
-  "count": 3
+  "count": 5
  },
- "last_run": "2026-09-27T03:10:25.276269+03:00",
+ "last_run": "2026-09-27T03:15:16.442520+03:00",
  "sent_stories": [
   {
    "d": "2026-09-24",
@@ -1212,6 +1212,10 @@
   {
    "d": "2026-09-26",
    "t": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days - BBC"
+  },
+  {
+   "d": "2026-09-27",
+   "t": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war - CNBC"
   }
  ]
 }
