@@ -4,8 +4,6 @@
   "Brent": 99.01
  },
  "seen": [
-  "0aa2e3ba861a0420",
-  "eurusdweeklyoutlookoilinflationandnfpinfocus",
   "135d1bbc83b66328",
   "3oilandgasstockswithdirectexposuretohighercrudeprices",
   "71a269036d28305f",
@@ -603,7 +601,9 @@
   "14d765cc50fd0567",
   "crudeoilparesgains",
   "108ce8b6625fb217",
-  "oilpricesrisemorethan2asiranmaintainshormuzreopeningconditio"
+  "oilpricesrisemorethan2asiranmaintainshormuzreopeningconditio",
+  "d36c19133efdf113",
+  "oilpricesriseastrumprejectsiranianproposaltoreopenstraitofho"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T18:08:31.409132+03:00",
+ "last_run": "2026-09-28T18:14:08.545898+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-09-28",
    "t": "Oil Prices Rise More Than 2% as Iran Maintains Hormuz Reopening Conditions - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Oil prices rise as Trump rejects Iranian proposal to reopen Strait of Hormuz - CNBC"
   }
  ]
 }
