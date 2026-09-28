@@ -4,8 +4,6 @@
   "Brent": 99.1
  },
  "seen": [
-  "d85fcea6e9520172",
-  "russiaspermoilrefineryhaltedoperationsafterfridaydroneattack",
   "3d11f6f746c4f75a",
   "oilpricesdeclineasinvestorslookforsignalsonhormuz",
   "1e76cd6d8f5bb8d4",
@@ -603,7 +601,9 @@
   "190daac051655dba",
   "golddeclinesashormuzimpassekeepsratehikebetselevated",
   "de77e1a0cb9cd15a",
-  "uaeoutmaneuversiranshormuzstrategystatetvanalystssay"
+  "uaeoutmaneuversiranshormuzstrategystatetvanalystssay",
+  "37acee2e84a33b8c",
+  "southafricanrandslipsasusiranstalematepushesoilpriceshigher"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-28",
-  "count": 56
+  "count": 57
  },
- "last_run": "2026-09-28T11:10:18.425364+03:00",
+ "last_run": "2026-09-28T11:15:18.881914+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
