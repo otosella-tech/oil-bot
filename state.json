@@ -4,12 +4,6 @@
   "Brent": 101.12
  },
  "seen": [
-  "9183a950d8cc75fb",
-  "ilskyoilrefinerycatchesfireinrussiaskrasnodarkraifollowingat",
-  "64d43afa7a32b3b3",
-  "ukrainianforcesstrikeilskyoilrefineryinrussiaskrasnodarkrai",
-  "f3bcb196b706f560",
-  "willcrudeoilpricesremainvolatilefortherestof2026",
   "3a308d4e80fa3e4f",
   "oilsurgesabove100abarrelasusandiranlaunchnewattackswhilegaso",
   "5acecc0f9752d23e",
@@ -603,7 +597,13 @@
   "bf09781c61bae578",
   "oilbondaioutlooksdampwallstreetprebellasiaoffeuropeup",
   "96a7acc1e88e55b9",
-  "yourmondaysept28guidefourthingstodointheoilcity"
+  "yourmondaysept28guidefourthingstodointheoilcity",
+  "cab39ea682222f42",
+  "oilpricesjumpover4astrumprejectsiranianproposaltoreopenstrai",
+  "5fa58893dac43846",
+  "bondselloffdeepensasoilrisesabove108",
+  "d58d9388ae64fe3b",
+  "oilfuturescruderalliesafteruspushesbackoniranproposals"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T15:05:18.169696+03:00",
+ "last_run": "2026-09-28T15:10:19.277236+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1136,6 +1136,10 @@
   {
    "d": "2026-09-28",
    "t": "Oil prices surge 4% as Trump rejects Iran's Hormuz deal - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Oil prices jump over 4% as Trump rejects Iranian proposal to reopen Strait of Hormuz - cnbc.com"
   }
  ]
 }
