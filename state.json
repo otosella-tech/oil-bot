@@ -4,8 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "17c575fb7ff2e768",
-  "eupressuresuktomatchitstariffsonchinese",
   "1c5c5e64e92d3535",
   "southkoreaplanstocutitsrelianceonmiddleeastcrudeoilimportsto",
   "4d5b3dc118d442f3",
@@ -603,7 +601,9 @@
   "029e1e7803aa5dd7",
   "oilpricetodayseptember28crudeoilgainsto106astrumprejectsiran",
   "cf6e37a19ece9f82",
-  "crudeoilinventoriessurgedefyingmarketexpectations"
+  "crudeoilinventoriessurgedefyingmarketexpectations",
+  "2bae341b7e664aa4",
+  "oilrisesongeopoliticalrisksstockpiledecline"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 14
  },
- "last_run": "2026-09-28T05:40:17.935856+03:00",
+ "last_run": "2026-09-28T05:45:20.364178+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
