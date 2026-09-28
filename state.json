@@ -4,8 +4,6 @@
   "Brent": 96.48
  },
  "seen": [
-  "1723866416926469",
-  "theusstrategicpetroleumreserveislowhereswhyyoushouldcare",
   "083c1d7a018cd28d",
   "trumpoilpriceswillplummetafterwarendsverysoon",
   "323170d0986f9242",
@@ -603,7 +601,9 @@
   "08dd4ec7c9ab91a9",
   "bankofamericasaysbrentcrudeoilcouldtop150abarrelifiranwardis",
   "8bb79578d9280433",
-  "oilstocksinusstrategicpetroleumreservefalltolowestlevelsince"
+  "oilstocksinusstrategicpetroleumreservefalltolowestlevelsince",
+  "6c25002d1fbbfa78",
+  "trumpbroughtvenezuelangoldtotheusbutrefinerswonttouchit"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T22:50:20.016890+03:00",
+ "last_run": "2026-09-28T22:55:15.961477+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1304,6 +1304,10 @@
   {
    "d": "2026-09-28",
    "t": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It - The New York Times"
   }
  ]
 }
