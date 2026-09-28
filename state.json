@@ -4,8 +4,6 @@
   "Brent": 101.12
  },
  "seen": [
-  "c0c787d578f052f9",
-  "ukrainiandroneshitrussiasilskyoilrefineryovernight",
   "ff11160280f0a64d",
   "crudeoilweeklyoutlookbricssummitcallsformaximumrestraint",
   "5b550de71a77b086",
@@ -603,7 +601,9 @@
   "f519b49175960586",
   "crudeoilq42026outlookwillanewenergysecurityregimeemerge",
   "3e344469772f6db0",
-  "usappearssettoseize600miniraniancrudeoilfromthreetankersmari"
+  "usappearssettoseize600miniraniancrudeoilfromthreetankersmari",
+  "028dda9ac3412bc5",
+  "oilpricessurge4astrumprejectsiranshormuzdeal"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T14:35:20.235805+03:00",
+ "last_run": "2026-09-28T14:40:17.888717+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1132,6 +1132,10 @@
   {
    "d": "2026-09-28",
    "t": "US Appears Set to Seize $600M in Iranian Crude Oil From Three Tankers - maritime-executive.com"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Oil prices surge 4% as Trump rejects Iran's Hormuz deal - Yahoo Finance"
   }
  ]
 }
