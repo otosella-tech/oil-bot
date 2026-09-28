@@ -4,10 +4,6 @@
   "Brent": 96.48
  },
  "seen": [
-  "231dd299b7fa1be2",
-  "egyptsoilrefiningactivitygrows87infy202526egyptoil",
-  "2a3d503ed69ffc1d",
-  "nocchairmanurgesstabilityasshararazawiyaoilpipelineflowsresu",
   "414dd5a99247ccde",
   "weekaheadondstreetautosalescrudeoilusiranconflictamongkeytri",
   "0ea66ee7321be33f",
@@ -603,7 +599,11 @@
   "629363ae178b5e6a",
   "crudeoilroundtripsbetweenarejectediranplanandasanctionsoffer",
   "0cdb25c8b4a7bc59",
-  "oildropsonreportsaudiarabiaresumescrudeexportsthroughpipelin"
+  "oildropsonreportsaudiarabiaresumescrudeexportsthroughpipelin",
+  "78c7f81cc99682e1",
+  "oilpricegainsparedasqatarusirantalksloom",
+  "40ce0c186c9c76b3",
+  "saudiarabiasoilrevenuerisesto210billionamidwar"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T20:50:20.097015+03:00",
+ "last_run": "2026-09-28T20:55:15.904385+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1260,6 +1260,10 @@
   {
    "d": "2026-09-28",
    "t": "Oil Drops on Report Saudi Arabia Resumes Crude Exports Through Pipeline -- Barrons.com - Moomoo"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Saudi Arabia’s Oil Revenue Rises to $210 Billion Amid War - tokenpost.com"
   }
  ]
 }
