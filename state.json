@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 91.92,
+  "WTI": 94.01,
   "Brent": 97.03
  },
  "seen": [
-  "6e1a15058f6056cd",
-  "us",
   "bcd634c3ed2524d1",
   "aramcorestoreseast",
   "17c575fb7ff2e768",
@@ -603,7 +601,9 @@
   "bb82190c36f6ef37",
   "oilpricesrisemorethan1astrumprejectsiranshormuzproposal",
   "43426bfc492616e3",
-  "crudeoilattemptstoeaseoversoldconditionsanalysis28092026"
+  "crudeoilattemptstoeaseoversoldconditionsanalysis28092026",
+  "029e1e7803aa5dd7",
+  "oilpricetodayseptember28crudeoilgainsto106astrumprejectsiran"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 14
  },
- "last_run": "2026-09-28T05:15:18.138176+03:00",
+ "last_run": "2026-09-28T05:20:19.844526+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
