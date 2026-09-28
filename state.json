@@ -4,10 +4,6 @@
   "Brent": 99.1
  },
  "seen": [
-  "3e344469772f6db0",
-  "usappearssettoseize600miniraniancrudeoilfromthreetankersmari",
-  "916b536e4c3fc163",
-  "vitolemergesasoneofiraqstopcrudebuyerssourcessay",
   "d76bfacd386c984d",
   "chinaaccountingfor19ofglobalcrudeoiltrade",
   "2e23f1c510b0a788",
@@ -603,7 +599,11 @@
   "af4d65f99c2cab00",
   "futuresfalloilyieldsriseamidtrumpsirancomments",
   "bc4fb8d286fa50a1",
-  "globalbenchmarksaremixeddespitewallstreetsrallyfinishlastwee"
+  "globalbenchmarksaremixeddespitewallstreetsrallyfinishlastwee",
+  "8b145a2acaf48cf7",
+  "oilgainsover3asusiranpeacetalksinstalemate",
+  "6aa55cd723c91fe1",
+  "cashrichoilmajorsfacepostiranstrategyrethink"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T13:15:19.850457+03:00",
+ "last_run": "2026-09-28T13:20:18.146735+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1100,6 +1100,10 @@
   {
    "d": "2026-09-28",
    "t": "COMMENTARY: Cash-rich oil majors face post-Iran strategy rethink: Bousso - Reuters"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Oil gains over 3% as US-Iran peace talks in stalemate - Reuters"
   }
  ]
 }
