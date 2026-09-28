@@ -4,10 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "740b9236a157e742",
-  "thenextglobalenergycrisiswontcomefromjustonedirection",
-  "5f8bb4cdfa149936",
-  "3oilstocksinvestorsarewatchingasstraitofhormuzriskskeepcrude",
   "df0b6fb5f9c1c257",
   "crudeoilpricesdroponusirantalksbutst",
   "0e23026ba89c6aa8",
@@ -603,7 +599,11 @@
   "6e31526c55f1906f",
   "nevadasonlycrudeoilrefineryisbackinoperationlasvegasreview",
   "df94c7674b473a45",
-  "ussprcrudeoilstockshoveringnear44yearlows"
+  "ussprcrudeoilstockshoveringnear44yearlows",
+  "dc67cbc8a7e98087",
+  "sugarpricesturnmixedascrudeoilerasesanearlyrally",
+  "342e55b8dbae9f0e",
+  "persiangulfoilexportshit72ofprewarlevelsasussaysiranisexhaus"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -612,259 +612,11 @@
   "Brent": 99.13
  },
  "llm": {
-  "date": "2026-09-28",
-  "count": 60
+  "date": "2026-09-29",
+  "count": 2
  },
- "last_run": "2026-09-29T00:25:15.684791+03:00",
+ "last_run": "2026-09-29T00:30:23.905739+03:00",
  "sent_stories": [
-  {
-   "d": "2026-09-25",
-   "t": "Soaring Freight Costs Make Japan’s Crude Imports the World’s Most Expensive"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Bond yields surge to fresh two-decade highs, but oil prices are buffeted by Iran headlines - NBC News"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Saudi crude oil exports hit four-month high in July, data shows - reuters.com"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "5 Energy Stocks Positioned for a Prolonged Iran War"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Trump is staying out of Saudi Arabia’s war. Americans could pay at the pump - CNN"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "US official: 60 ships passed through Strait of Hormuz in one day - アラブニュース"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Brent crude jumps above $106 after Houthi attack against Saudi sites (USO:NYSEARCA) - Seeking Alpha"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities - Reuters"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil settles up around 4% as Iran's president vows to never surrender - Reuters"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil prices slip 1% as traders hope for US-Iran truce amid fresh attacks on Saudi pipeline - The Times of India"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities - Al Jazeera"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Gulf of Oman ship-to-ship oil transfers reach limit as Saudi exports surge - Reuters"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Brent Set for Weekly Gain as Houthi Attacks Rattle Saudi Oil Supply"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days - CNBC"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil futures: Crude off highs as talks to reopen Hormuz continue - Quantum Commodity Intelligence"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Crude oil prices slip toward $106 as US-Iran talks raise hopes of Hormuz reopening - The Statesman"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia - Reuters"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Crude oil exports via Hormuz at 33.7 million barrels this week, data shows - Reuters"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Bank of America says Brent crude oil could top $150 a barrel if Iran war disruptions persist - CNBC"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil Prices Fall as U.S.-Iran Diplomacy and Regional Tensions Remain in Focus - wsj.com"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Hormuz Crude Oil Flows Reach 33.7 Million Barrels This Week - Marine Link"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting - ABC News - Breaking News, Latest News and Videos"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil prices steady at $105 after 10% surge amid Iran crisis - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "The U.S. Strategic Petroleum Reserve is running low. Can Venezuelan oil help? - NPR"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Satellite Imagery Reveals Damage at Russia’s Kuibyshev Oil Refinery Following Ukrainian Drone Strike - UNITED24 Media"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Crude oil prices fall as markets expect a ceasefire between the US and Iran - UkrAgroConsult"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Aliko Dangote, Ethiopia and Djibouti to build $600m fuel pipeline - BBC"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil dips after sharp gains as U.S., Iran reportedly explore Hormuz deal - Investing.com"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Drones attack oil refineries, industrial facilities in Russia overnight – media - Ukrinform"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "The role of drones and robots in oil pipelines - Yahoo! Finance Canada"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Ukrainian Defense Forces strike oil refineries in Perm and Novoshakhtinsk and two Russian radar stations - Ukrinform"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil prices back up as U.S. and Iran trade fresh threats to expand 7-month war - CBS News"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "U.S.-Iran Talks Revive June Plan for Ending Hormuz Standoff"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Aramco Restores East-West Pipeline as War Risk Closes In on Yanbu"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "COMMENTARY: Asia's crude oil imports hit post-Iran conflict high in September, but remain weak - Reuters"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Beijing's Iran Oil Trade Draws Fresh Criticism From Capitol Hill"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Italy Pushes Refineries to Raise Fuel Output Amid Price Surge"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High - WSJ"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN - CNBC"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil prices ease as US-Iran truce hopes counter Saudi supply risk - Euronext Markets: Real-time Stock Market Data | live"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Iran Regime’s Warmongering Turns $600 Million in Oil Into a Symbol of National Loss - irannewsupdate.com"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil prices drop about 3% as US, Iran explore path out of war - reuters.com"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil prices fall after Iran asks U.S. to return to failed memorandum of understanding from June - CNBC"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil futures: Crude retreats as talks to reopen Hormuz continue - Quantum Commodity Intelligence"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Crude Prices Fall as Iran Offers to Reopen Strait of Hormuz - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz - marketscreener.com"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil prices drop about 3% as US, Iran explore path out of war - Euronext Markets: Real-time Stock Market Data | live"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Iran-Linked Oil Tankers Seized by Navy Sailing Slowly Toward US - Bloomberg.com"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage - CNBC"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint - marketscreener.com"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Russia's Perm oil refinery halted operations after Friday drone attack, sources say - Reuters"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil prices decline as investors look for signals on Hormuz - Transport Topics"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "US Equity Indexes Jump as Crude Oil Slides Amid Iran's Conditional Proposal to Reopen Hormuz Chokepoint - marketscreener.com"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Update: US Equity Indexes Jump as Crude Oil Slides Amid Iran's Conditional Proposal to Reopen Hormuz Chokepoint - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil finishes the week flat as the market sees Saudi pipeline outage as less disruptive than feared - cnbc.com"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "Oil Prices Fall as U.S.-Iran Diplomacy, Regional Tensions Remain in Focus - WSJ"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "US Equity Markets End Higher Amid Falling Oil Prices Following Iran's Proposal to Reopen Strait of Hormuz - ca.finance.yahoo.com"
-  },
-  {
-   "d": "2026-09-25",
-   "t": "4th Russian Fuel Plant Shut Down in One Week Following Drone Attacks - united24media.com"
-  },
   {
    "d": "2026-09-26",
    "t": "Saudi Arabia’s return to Hormuz puts oil transfer network to the test - Al-Monitor"
@@ -1316,6 +1068,10 @@
   {
    "d": "2026-09-28",
    "t": "Saudi Arabia Resumes Red Sea Oil Exports in Blow to Iran - WSJ"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Persian Gulf oil exports hit 72% of prewar levels — as US says Iran is 'exhausted' by blockade - nypost.com"
   }
  ]
 }
