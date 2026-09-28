@@ -4,8 +4,6 @@
   "Brent": 96.48
  },
  "seen": [
-  "946985e344393e88",
-  "oilpricesfallafterussaysdamagedsaudipipelinewillrestartopera",
   "231dd299b7fa1be2",
   "egyptsoilrefiningactivitygrows87infy202526egyptoil",
   "2a3d503ed69ffc1d",
@@ -603,7 +601,9 @@
   "14c980881d8e9365",
   "oilpricegainsparedasqatarusirantalksloombyreuters",
   "629363ae178b5e6a",
-  "crudeoilroundtripsbetweenarejectediranplanandasanctionsoffer"
+  "crudeoilroundtripsbetweenarejectediranplanandasanctionsoffer",
+  "0cdb25c8b4a7bc59",
+  "oildropsonreportsaudiarabiaresumescrudeexportsthroughpipelin"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T20:40:19.266449+03:00",
+ "last_run": "2026-09-28T20:45:24.194133+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-09-28",
    "t": "Crude Oil round-trips between a rejected Iran plan and a sanctions offer - FXStreet"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Oil Drops on Report Saudi Arabia Resumes Crude Exports Through Pipeline -- Barrons.com - Moomoo"
   }
  ]
 }
