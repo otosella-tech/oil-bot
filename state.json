@@ -4,12 +4,6 @@
   "Brent": 99.1
  },
  "seen": [
-  "5cfe34a5c3bfd619",
-  "areprievefromrisingoilpriceshelpsusstocksfinishtheweekhigher",
-  "07395115e24aceaa",
-  "avolatileweekforcrudeendswithlowerprices",
-  "8aa21f2bf1c75e69",
-  "usstocksclosemostlyhigheramidsharppullbackbycrudeoil",
   "b7c6121ef773dfa5",
   "marketspickupgainsinfaceofoilbondyieldsurge",
   "9c63efe2b8af6869",
@@ -603,7 +597,13 @@
   "4b75476643250504",
   "brentcrudetops108astrumprejectsiranianproposaltoreopenhormuz",
   "fe95b6b6c9fcd5ab",
-  "oilfinishestheweekflatasthemarketseessaudipipelineoutageasle"
+  "oilfinishestheweekflatasthemarketseessaudipipelineoutageasle",
+  "c7c0556644dc0df7",
+  "wtitechnicalanalysiscancrudeoilbreakabove100again",
+  "250db035c47c6981",
+  "goldhits7weeklowasoildriveninflationfearsboostratehikebets",
+  "4cc00b4e21b60e38",
+  "nasdaqsp500futuresfallasoilspikesontrumpssnubtoiranmunvdaskh"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T12:20:22.006708+03:00",
+ "last_run": "2026-09-28T12:25:53.230306+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1072,6 +1072,10 @@
   {
    "d": "2026-09-28",
    "t": "Oil finishes the week flat as the market sees Saudi pipeline outage as less disruptive than feared - CNBC"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Nasdaq, S&P 500 Futures Fall As Oil Spikes On Trump’s Snub To Iran: MU, NVDA, SKHY, SPCX, NIO Stocks In Focus - Yahoo Finance"
   }
  ]
 }
