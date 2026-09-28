@@ -4,8 +4,6 @@
   "Brent": 96.48
  },
  "seen": [
-  "935d72eae87083bb",
-  "bondtradersarepayingtoomuchattentiontotheoilprice",
   "b95c95cd717f5efe",
   "iraqimportspetrolthroughsyriainanotherusbackedsteptowardsclo",
   "a516106d2745d764",
@@ -603,7 +601,9 @@
   "f6839e2252a3f92c",
   "kimmeridgeusshaleoilreservereplacementweakensasgasremainsabu",
   "ab4b30eda0d86b2f",
-  "oilpricessurgeasusandiranpushbackonpeacetalkhopes"
+  "oilpricessurgeasusandiranpushbackonpeacetalkhopes",
+  "2fd01145b6250f6a",
+  "oilpricesoffhighsafterreportssaudipipelinerampingbackup"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T21:10:18.658316+03:00",
+ "last_run": "2026-09-28T21:15:20.018809+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1272,6 +1272,10 @@
   {
    "d": "2026-09-28",
    "t": "Oil Prices Surge as U.S. and Iran Push Back on Peace Talk Hopes - barrons.com"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Oil prices off highs after reports Saudi pipeline ramping back up - CNBC"
   }
  ]
 }
