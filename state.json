@@ -4,10 +4,6 @@
   "Brent": 99.1
  },
  "seen": [
-  "cbac3fd9977ba86c",
-  "usequityindexesjumpascrudeoilslidesfollowingiransconditional",
-  "7464ef421e5a1575",
-  "updateusequityindexesjumpascrudeoilslidesfollowingiranscondi",
   "93b3c99d3b1eb7da",
   "forwardeverjennifermullontheoilgasindustryprices",
   "3394f87e39472763",
@@ -603,7 +599,11 @@
   "f140c150e7f5077c",
   "chinesestockssinkto13monthlowastechsharestumbleonoilratescon",
   "3a4e4a9eff0e9277",
-  "3oilstocksretailinvestorsarewatchingascrudenears107"
+  "3oilstocksretailinvestorsarewatchingascrudenears107",
+  "12380888eda53cc2",
+  "oilrisesamidfadinghopesforneartermusiranceasefire",
+  "bab2cb7b03bf02d1",
+  "usdinrrisesto9615oncrudeoilsurgeandusyields"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-28",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-09-28T10:40:51.283910+03:00",
+ "last_run": "2026-09-28T10:45:17.135105+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1044,6 +1044,10 @@
   {
    "d": "2026-09-28",
    "t": "Gold Slumps as Hormuz Impasse Keeps Rate-Hike Bets Elevated - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Oil rises amid fading hopes for near-term US-Iran ceasefire - Anadolu Ajansı"
   }
  ]
 }
