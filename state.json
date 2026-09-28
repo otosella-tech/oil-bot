@@ -4,10 +4,6 @@
   "Brent": 96.48
  },
  "seen": [
-  "89e5f0e54b30f09d",
-  "trumpwemovedarecordamountofoilthroughthestraitofhormuz",
-  "7d7dd765ff44c551",
-  "wticrudeoilcantraderstrustthelatestheadlines",
   "664d061678fd59f1",
   "thetruthbehinddonaldtrumpsbiggestoildealinworldhistorytrumpa",
   "1723866416926469",
@@ -603,7 +599,11 @@
   "0e33e183f6f6bf98",
   "currentpriceofoilasofsept212026",
   "1ed95b915066829a",
-  "usstocksdropafteroilpricesandbondyieldscrankhigherabcnews"
+  "usstocksdropafteroilpricesandbondyieldscrankhigherabcnews",
+  "3decdfe41ad7e373",
+  "tipsforbookingairlinetrips",
+  "08dd4ec7c9ab91a9",
+  "bankofamericasaysbrentcrudeoilcouldtop150abarrelifiranwardis"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T22:40:19.468553+03:00",
+ "last_run": "2026-09-28T22:45:21.191461+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1296,6 +1296,10 @@
   {
    "d": "2026-09-28",
    "t": "Crude oil exports via Hormuz at 33.7 million barrels this week, data shows - Reuters"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Bank of America says Brent crude oil could top $150 a barrel if Iran war disruptions persist - CNBC"
   }
  ]
 }
