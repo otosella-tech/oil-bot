@@ -4,8 +4,6 @@
   "Brent": 96.48
  },
  "seen": [
-  "14e0feccee457c25",
-  "theoilmarketsbackupplanisbreakingdown",
   "b38d4618fb70efa0",
   "lacountygasaveragehits6387106centsshortofrecordafter39straig",
   "86bf55939ce051cd",
@@ -603,7 +601,9 @@
   "90fb56ac43a39288",
   "blmannouncesdecember2026saleofoilandgasleasesinwyoming",
   "b791b934be10e206",
-  "europesgasforecastsarenotanenergystrategy"
+  "europesgasforecastsarenotanenergystrategy",
+  "2ef45900a4b16e2c",
+  "inreversaljusticesamuelalitostepsasidefrommajorclimatecase"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T22:05:18.540684+03:00",
+ "last_run": "2026-09-28T22:10:26.552086+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
