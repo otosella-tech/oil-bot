@@ -4,8 +4,6 @@
   "Brent": 96.48
  },
  "seen": [
-  "664f335125eb21cb",
-  "saudistelleuropeanrefinerstheyllgetnocrudenextmonth",
   "9ec0bdd78502b7fa",
   "stocksmixedascrudeoilpricesandfinancialstocksfall",
   "14e0feccee457c25",
@@ -603,7 +601,9 @@
   "6dd90a841ec18a9a",
   "novemberwticrudeoilcontractclosesup019or02settlesat9260perba",
   "721010cbd6d3f250",
-  "averagegaspriceinvirginiarisesascrudeoilcostsclimb"
+  "averagegaspriceinvirginiarisesascrudeoilcostsclimb",
+  "90fb56ac43a39288",
+  "blmannouncesdecember2026saleofoilandgasleasesinwyoming"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T21:50:20.068716+03:00",
+ "last_run": "2026-09-28T21:55:17.673739+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
