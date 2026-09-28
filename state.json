@@ -4,12 +4,6 @@
   "Brent": 101.12
  },
  "seen": [
-  "139b620aee2c83b0",
-  "dieselfuelpricesincthitrecordhighheatingoilup50in3months",
-  "80c31a6cddd6b698",
-  "rankedtheworldslargestoilexportersin2025",
-  "09af92fde2bcd1dc",
-  "3oilstockslinkedtohighercrudepricesrightnow",
   "c0c787d578f052f9",
   "ukrainiandroneshitrussiasilskyoilrefineryovernight",
   "ff11160280f0a64d",
@@ -603,7 +597,13 @@
   "2cbe41621dd11693",
   "middleeastsmostimportantnewenergycorridorcontinuestogrowanal",
   "5d731499a061896b",
-  "middleeastwaroilspikesamidnosignsofdeescalation"
+  "middleeastwaroilspikesamidnosignsofdeescalation",
+  "ff4ca6dd73148fe9",
+  "middleeastoilexportsreachpostoutbreakhigh",
+  "f519b49175960586",
+  "crudeoilq42026outlookwillanewenergysecurityregimeemerge",
+  "3e344469772f6db0",
+  "usappearssettoseize600miniraniancrudeoilfromthreetankersmari"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T14:30:24.103738+03:00",
+ "last_run": "2026-09-28T14:35:20.235805+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1128,6 +1128,10 @@
   {
    "d": "2026-09-28",
    "t": "Middle East war: Oil spikes amid no signs of de-escalation - engine.online"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "US Appears Set to Seize $600M in Iranian Crude Oil From Three Tankers - maritime-executive.com"
   }
  ]
 }
