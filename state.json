@@ -4,10 +4,6 @@
   "Brent": 96.48
  },
  "seen": [
-  "b95c95cd717f5efe",
-  "iraqimportspetrolthroughsyriainanotherusbackedsteptowardsclo",
-  "a516106d2745d764",
-  "stockmarketsthisweekgeopoliticaldevelopmentscrudeoiltobekeyd",
   "49157c28e1f42d4f",
   "updateusequityindexestrademixedamidhighercrudeoiltreasuryyie",
   "0e33e183f6f6bf98",
@@ -603,7 +599,11 @@
   "ab4b30eda0d86b2f",
   "oilpricessurgeasusandiranpushbackonpeacetalkhopes",
   "2fd01145b6250f6a",
-  "oilpricesoffhighsafterreportssaudipipelinerampingbackup"
+  "oilpricesoffhighsafterreportssaudipipelinerampingbackup",
+  "0cf9719e52e7e35e",
+  "usstrategicpetroleumreservefallstolowestlevelsince1982",
+  "a7654c81b6a9499e",
+  "oilpricesupbutoffhighsasqatarimediatorsplanusirantalks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T21:25:18.533189+03:00",
+ "last_run": "2026-09-28T21:30:24.934767+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-09-28",
    "t": "Oil prices off highs after reports Saudi pipeline ramping back up - CNBC"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982"
   }
  ]
 }
