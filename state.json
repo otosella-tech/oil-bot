@@ -4,12 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "aeaf09d7f751aa8c",
-  "oilpricessetformixedweekasusirandiplomacyhormuzuncertaintyre",
-  "1d6936f2a9b1b3b4",
-  "yourfridaysept25guidefivethingstodointheoilcity",
-  "4157f7552cad254a",
-  "eurozonebondyieldsfallasoilpricesdeclineustreasuryyieldsstab",
   "054cc7604fce388a",
   "usgrainoilseedreviewsoybeanstumblewithcrudeoil",
   "20432e8dfb429aab",
@@ -603,7 +597,13 @@
   "bfbf50ee8f5f5be8",
   "thedifferencebetweenthepaperpriceofbrentcrudeandwhatrefiners",
   "1ec220226465c4a8",
-  "oilpricesriseasiranusremainatoddsoverhormuzreopening"
+  "oilpricesriseasiranusremainatoddsoverhormuzreopening",
+  "bb393ab938e48851",
+  "indianrupeebondsvulnerabletooilpangsonwaningirandiplomacyhop",
+  "69e07fd241761f7a",
+  "crudeoilpricesrise1aftertrumprejectsiranpeaceproposalbrentne",
+  "f94a860e7df5ec77",
+  "asianmarketstradedcautiouslyamidasurgeinoilpriceschannelnews"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-28",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-09-28T04:35:50.311577+03:00",
+ "last_run": "2026-09-28T04:40:19.407294+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -980,6 +980,14 @@
   {
    "d": "2026-09-28",
    "t": "Oil prices rise as Iran, U.S. remain at odds over Hormuz reopening - Investing.com"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Indian rupee, bonds vulnerable to oil pangs on waning Iran diplomacy hopes - Reuters"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Crude Oil Prices Rise 1% After Trump Rejects Iran Peace Proposal; Brent Near $98, Hormuz In Focus - NDTV Profit"
   }
  ]
 }
