@@ -4,10 +4,6 @@
   "Brent": 96.48
  },
  "seen": [
-  "7be240c8c17547c9",
-  "iranianministersaysonlynegotiationcanendconflictaftertrumpre",
-  "78062fee605571d8",
-  "epapowerplantrollbacktoadd123millionmoretonsofco2",
   "08dd4ec7c9ab91a9",
   "bankofamericasaysbrentcrudeoilcouldtop150abarrelifiranwardis",
   "89e5f0e54b30f09d",
@@ -603,7 +599,11 @@
   "d0800fb0073be8af",
   "oilpricessettleslightlyhigheronsupplyworriesastrumprejectsir",
   "118b2e3cd2457088",
-  "oilpricesjumppast100aftertrumprejectsiranproposal"
+  "oilpricesjumppast100aftertrumprejectsiranproposal",
+  "7761cc9feea27f13",
+  "crudeoilexportsviahormuzat337millionbarrelsthisweekdatashows",
+  "0e33e183f6f6bf98",
+  "currentpriceofoilasofsept212026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T22:30:24.668983+03:00",
+ "last_run": "2026-09-28T22:35:16.243824+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1292,6 +1292,10 @@
   {
    "d": "2026-09-28",
    "t": "Stocks fall, bond yields surge and oil fluctuates as war keeps markets on edge - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Crude oil exports via Hormuz at 33.7 million barrels this week, data shows - Reuters"
   }
  ]
 }
