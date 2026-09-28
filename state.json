@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 91.47,
-  "Brent": 96.48
+  "Brent": 98.42
  },
  "seen": [
-  "743450286a59d871",
-  "forlibyathehormuzcrisiscanbeatraporanopportunity",
   "7ae629e54426c67e",
   "3oilstocksretailinvestorsarewatchingashormuzriskkeepscrudein",
   "b0fd37040bd194a2",
@@ -603,7 +601,9 @@
   "838ded68cef2818f",
   "theworldisenteringaneweraofenergysecurity",
   "c122600e2f4e9880",
-  "marketquicktakefreshsurgeincrudeoilonhormuzwoesspikesrisksen"
+  "marketquicktakefreshsurgeincrudeoilonhormuzwoesspikesrisksen",
+  "cb2886872c80cf58",
+  "evenbidenrejectedcrudeoilanddieselexportbans"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T23:05:15.683966+03:00",
+ "last_run": "2026-09-28T23:10:19.679222+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
