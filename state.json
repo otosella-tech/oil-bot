@@ -4,8 +4,6 @@
   "Brent": 96.48
  },
  "seen": [
-  "fbda9db00ceb2672",
-  "oilsroundtripbackto100whychinacoulddeterminewhathappensnext",
   "664f335125eb21cb",
   "saudistelleuropeanrefinerstheyllgetnocrudenextmonth",
   "9ec0bdd78502b7fa",
@@ -603,7 +601,9 @@
   "3cdb0a96cb35dada",
   "oilpricesupbutoffhighsasqatarimediatorsplanusirantalksbyreut",
   "6dd90a841ec18a9a",
-  "novemberwticrudeoilcontractclosesup019or02settlesat9260perba"
+  "novemberwticrudeoilcontractclosesup019or02settlesat9260perba",
+  "721010cbd6d3f250",
+  "averagegaspriceinvirginiarisesascrudeoilcostsclimb"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T21:45:17.886915+03:00",
+ "last_run": "2026-09-28T21:50:20.068716+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
