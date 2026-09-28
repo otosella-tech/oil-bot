@@ -4,12 +4,6 @@
   "Brent": 101.12
  },
  "seen": [
-  "605dcd5523aa9cfe",
-  "whyaredieselpricessohigh",
-  "7e3d16772fceecbc",
-  "bsrsignscrudeoilsupplyframeworkwithexxonmobiltodiversifydung",
-  "a1b0cc716c5a5978",
-  "middleeastukrainewarsweighonsaudirussianoil",
   "139b620aee2c83b0",
   "dieselfuelpricesincthitrecordhighheatingoilup50in3months",
   "80c31a6cddd6b698",
@@ -603,7 +597,13 @@
   "659e59bde38c4f9e",
   "currentpriceofoilasofseptember232026",
   "27607cdba78b24ff",
-  "10yearyieldtops5mag7leadstocksoilpriceuncertainty3chartstowa"
+  "10yearyieldtops5mag7leadstocksoilpriceuncertainty3chartstowa",
+  "d38153473c37f5a2",
+  "europeangaspricesrallyonus",
+  "2cbe41621dd11693",
+  "middleeastsmostimportantnewenergycorridorcontinuestogrowanal",
+  "5d731499a061896b",
+  "middleeastwaroilspikesamidnosignsofdeescalation"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T14:25:15.803407+03:00",
+ "last_run": "2026-09-28T14:30:24.103738+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1120,6 +1120,14 @@
   {
    "d": "2026-09-28",
    "t": "Brent Climbs Above $107 as Iran Maintains Strait of Hormuz Conditions - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "European Gas Prices Rally on U.S.-Iran Stalemate"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Middle East war: Oil spikes amid no signs of de-escalation - engine.online"
   }
  ]
 }
