@@ -4,10 +4,6 @@
   "Brent": 101.12
  },
  "seen": [
-  "b2ed422728bd8962",
-  "russiabeginsoilexportsfromitsgiantvostokarcticproject",
-  "882b7c43f92b1b09",
-  "oilstocksretailinvestorsarewatchingasstraitofhormuzriskretur",
   "659e59bde38c4f9e",
   "currentpriceofoilasofseptember232026",
   "c316298f7c134706",
@@ -603,7 +599,11 @@
   "bb1e0a3a3e571d85",
   "crudeoilisupby4",
   "848e69fb52d39252",
-  "oilfuturescrudejumps4asuspushesbackoniranproposals"
+  "oilfuturescrudejumps4asuspushesbackoniranproposals",
+  "fb0dce656a779a13",
+  "lovelettercaliforniaagtakesaimattrumpslinkstobigoil",
+  "8e0bbdfd8b39e87e",
+  "oilrisesover2asiranholdsfirmonhormuzreopeningterms"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T14:00:31.523326+03:00",
+ "last_run": "2026-09-28T14:05:17.735867+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1112,6 +1112,10 @@
   {
    "d": "2026-09-28",
    "t": "Mideast oil exports hit highest level since Iran war began - Reuters - Iran International"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Oil rises over 2% as Iran holds firm on Hormuz reopening terms - Investing.com"
   }
  ]
 }
