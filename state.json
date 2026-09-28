@@ -4,10 +4,6 @@
   "Brent": 97.03
  },
  "seen": [
-  "653957ff70bb9e9f",
-  "indiasharesloglongestweeklylosingrunsince2020asoilpricesbite",
-  "91fa5e23c33c55d9",
-  "oilgrainexportsfuelrecordcargoatportofvancouverastradeshifts",
   "824da57c3807a898",
   "easingoilpricestechstrengthliftwallstreetprebellasiamixedeur",
   "1e779335a67907f5",
@@ -603,7 +599,11 @@
   "c68c76dec0ec52fc",
   "oilupstockfuturesslipasiranofferrejected",
   "4581281c65cda2af",
-  "worldsharesmostlyadvanceafterglobalbondselloffanddropinoilpr"
+  "worldsharesmostlyadvanceafterglobalbondselloffanddropinoilpr",
+  "8d29666e18479144",
+  "stockscautiousinasiaasoilgainsyieldsrise",
+  "913b3415e4f061c0",
+  "brentcrudeoilpricesrise1aftertrumprejectsiranpeaceproposalbr"
  ],
  "releases_done": {},
  "last_digest": "2026-09-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-28",
-  "count": 7
+  "count": 8
  },
- "last_run": "2026-09-28T03:55:18.387342+03:00",
+ "last_run": "2026-09-28T04:00:29.875453+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
