@@ -4,12 +4,6 @@
   "Brent": 101.12
  },
  "seen": [
-  "8b4a768508e43531",
-  "cpctokeepdomesticgasolinedieselpricesunchangednextweek",
-  "71438cd9a222ab8a",
-  "inargentinasoilboomtownworkerschaseafrackingfortune",
-  "3466cd75c6c23d15",
-  "itsafrighteningprospectexpecthighwinterheatingbills",
   "1c76a68354cc6725",
   "oilslipsassaudiarabiaoffersmorecrudeviaoman",
   "6591754d331e83ea",
@@ -603,7 +597,13 @@
   "9c3f83608150031b",
   "blownawaybythe20billiondangoterefineryinnigeriarutopromisest",
   "6aae1fc5d313bc7d",
-  "oilpricesspikeaftertrumprejectsirantruceoffer"
+  "oilpricesspikeaftertrumprejectsirantruceoffer",
+  "604ac7bfa1d904ca",
+  "oilpricessurgeaftertrumprejectsiransplantoreopenstraitofhorm",
+  "06415d09db98cd69",
+  "whyfuelpricesmaygohigherstill",
+  "94acadd88f57a9ae",
+  "oiesoilmonthlyissue57"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T15:45:18.364066+03:00",
+ "last_run": "2026-09-28T15:50:40.334444+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1160,6 +1160,10 @@
   {
    "d": "2026-09-28",
    "t": "Oil prices spike after Trump rejects Iran truce offer - Yahoo Finance Singapore"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz - aljazeera.com"
   }
  ]
 }
