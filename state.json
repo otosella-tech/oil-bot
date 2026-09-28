@@ -4,12 +4,6 @@
   "Brent": 101.12
  },
  "seen": [
-  "fa44a763cbb333dc",
-  "direstraitshowtheunitedstatescouldbreakcanadatoownit",
-  "ac13bfd08b8bfc71",
-  "currentpriceofoilasofseptember142026",
-  "ea4ac6c7bfa6d832",
-  "uscrudeoilstockpilespostunexpectedbuild",
   "1b8e171dbe5582c4",
   "usoiltops105assaudiarabiareportedlycancelssomecrudecargoesaf",
   "5d11ccf3b1a11e6c",
@@ -603,7 +597,13 @@
   "86655be9a086cc52",
   "dollarneartwomonthhighasusiranstalematebolstersoilfedratehik",
   "b412361c63982f3c",
-  "theiraqsyriaborderisbecomingthemiddleeastsmostimportantnewen"
+  "theiraqsyriaborderisbecomingthemiddleeastsmostimportantnewen",
+  "01832252b7f50608",
+  "ukgridoperatorwarnsoftightpowermargins",
+  "b2776e2618c7955b",
+  "crudeoilatacrossroadswillhormuzdiplomacybreakthe95ceiling",
+  "b9e06526154ef802",
+  "saudiarabiaresumesyanbuoilexportsafterpipelinerepair"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T15:25:21.788302+03:00",
+ "last_run": "2026-09-28T15:30:26.772898+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1144,6 +1144,18 @@
   {
    "d": "2026-09-28",
    "t": "Dollar near two-month high as US-Iran stalemate bolsters oil, Fed rate hike bets - Reuters"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "UK Grid Operator Warns of Tight Power Margins"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Crude Oil at a Crossroads: Will Hormuz Diplomacy Break the $95 Ceiling? - Barchart.com"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Saudi Arabia resumes Yanbu oil exports after pipeline repair - Yahoo Finance"
   }
  ]
 }
