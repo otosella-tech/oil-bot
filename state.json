@@ -4,8 +4,6 @@
   "Brent": 99.1
  },
  "seen": [
-  "81846c9bda65dbb0",
-  "exclusivepentagonbackedoilcompanyissettovieforchevronscrowni",
   "44edca92f00bf9ee",
   "nigeriajoinsieaascrudeoutputhitssix",
   "aede6ffa4e5d6010",
@@ -603,7 +601,9 @@
   "56fff349e429d4e6",
   "oilgoldforecasttwotradestowatch280926",
   "ae392b874d1dcee9",
-  "uspressureisawakeninganenergygiantincanada"
+  "uspressureisawakeninganenergygiantincanada",
+  "ed1ef0495ab173ed",
+  "oilpricesclimboncontinuedimpasseinusirantalks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-28",
   "count": 60
  },
- "last_run": "2026-09-28T12:45:18.949768+03:00",
+ "last_run": "2026-09-28T12:50:22.064183+03:00",
  "sent_stories": [
   {
    "d": "2026-09-25",
@@ -1088,6 +1088,10 @@
   {
    "d": "2026-09-28",
    "t": "Oil Prices Jump 3% on Rekindled War Fears"
+  },
+  {
+   "d": "2026-09-28",
+   "t": "Oil Prices Climb on Continued Impasse in U.S.-Iran Talks - The New York Times"
   }
  ]
 }
