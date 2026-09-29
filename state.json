@@ -4,12 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "6591754d331e83ea",
-  "northcarolinaregulatorsrejectdukeenergygaspowerplant",
-  "5e7945498c10f6f9",
-  "wallsttoopenlowerasoilspikesaftertrumprejectsiranpeacepropos",
-  "f4dd06a8e310b112",
-  "anglogoldashantisharesfall73asoilpricesandtreasuryyieldsrise",
   "f4799627d8ff4088",
   "indonesiascoalexportssink23asglobaldemandheadsforarecord",
   "fa00673748b29a14",
@@ -603,7 +597,13 @@
   "7a92d6303cae10f8",
   "oilpricesfallonsignsmiddleeastcrudeflowsrecovering",
   "21d2255513fc2ab3",
-  "analystsanticipateloweruscrudeoilstockpiles"
+  "analystsanticipateloweruscrudeoilstockpiles",
+  "fc8680a1ef622578",
+  "trumpandxibuytimebutsolvealmostnothing",
+  "00b40dc73ec7ac18",
+  "ustoloanupto40millionbarrelsofoilfromsprlastbatchfromglobald",
+  "beb07c33fa94b47b",
+  "pumppriceseasein32statesincludingoregon"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 60
  },
- "last_run": "2026-09-29T20:55:17.174040+03:00",
+ "last_run": "2026-09-29T21:00:31.083470+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-09-29",
    "t": "Iraq begins importing gasoline via Syrian port to bypass the closed Strait of Hormuz - Newsday"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "US to loan up to 40 million barrels of oil from SPR, last batch from global deal - Reuters"
   }
  ]
 }
