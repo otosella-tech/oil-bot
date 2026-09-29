@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "65f5d56bd36a496b",
-  "understandingdaycostimingbeltinoiltechnologyisbecomingmoreim",
   "0c9d3b4fd453dcbf",
   "usstocksunderpressureascrudeoilpricestreasuryyieldssurge",
   "084c5a56e5bf6fff",
@@ -603,7 +601,9 @@
   "2389810ce1dbe2e8",
   "crudeoilinventoriesrisedefyingforecastsandpreviousdata",
   "000f61f3437d1b41",
-  "thetaxingchallengeofproducedwater"
+  "thetaxingchallengeofproducedwater",
+  "64709f37cd064671",
+  "whitehouseweighsred"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -615,75 +615,11 @@
   "Brent": 99.83
  },
  "llm": {
-  "date": "2026-09-29",
-  "count": 60
+  "date": "2026-09-30",
+  "count": 1
  },
- "last_run": "2026-09-29T23:55:15.941809+03:00",
+ "last_run": "2026-09-30T00:00:29.851240+03:00",
  "sent_stories": [
-  {
-   "d": "2026-09-26",
-   "t": "Saudi Arabia’s return to Hormuz puts oil transfer network to the test - Al-Monitor"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "Exclusive | Pentagon-Backed Oil Company Is Set to Vie for Chevron’s Crown in Venezuela - WSJ"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "US Appears Set to Seize $600M in Iranian Crude Oil From Three Tankers - The Maritime Executive"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength, Easing Oil Amid Signs Of Easing US-Iran Conflict — META, COST, MSFT, CRWD, SKHY In Focus - Yahoo Finance"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "US Appears Set to Seize $600M in Iranian Crude Oil From Three Tankers - maritime-executive.com"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "Iran-Linked Oil Tankers Seized by Navy Sailing Toward US - Bloomberg"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "US Receives Nearly $600 Million Worth of Seized Iranian Crude Oil - IranWire"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "Oil prices slide about 2% as US, Iran explore path out of war - Euronext Markets: Real-time Stock Market Data | live"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "Russia Begins Oil Exports From Its Giant Vostok Arctic Project - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "Oil Stocks Retail Investors Are Watching As Strait Of Hormuz Risk Returns - simplywall.st"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "Perm oil refinery halts operations after drone attack – Reuters - Ukrinform"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "Ukrainian Drones Hit Russia’s Ilsky Oil Refinery Overnight - Kyiv Post"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "Ukrainian forces strike Ilsky oil refinery in Russia's Krasnodar Krai - Українська правда"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure - CNBC"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "Oil slips as Saudi Arabia offers more crude via Oman - Reuters"
-  },
-  {
-   "d": "2026-09-26",
-   "t": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days - BBC"
-  },
   {
    "d": "2026-09-27",
    "t": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war - CNBC"
