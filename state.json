@@ -4,10 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "da187f9ea139c93e",
-  "uscrudeoilfallsnearly8fortheweekaftertehranandwashingtonhold",
-  "600a19f26d564770",
-  "thepriceofoilrosesharplyagainwhatconsequenceswillbihfeel",
   "32f8c5b9142b85e9",
   "whyrecordheatfailedtoliftusnaturalgasprices",
   "574d261ab194e82f",
@@ -603,7 +599,11 @@
   "47d8a7f64b694c9a",
   "oilpricesslideabout2asusiranexplorepathoutofwar",
   "5b65289a2f1ee796",
-  "usstockfuturesflatastechbouncemeetscrudedrivencaution"
+  "usstockfuturesflatastechbouncemeetscrudedrivencaution",
+  "a0be26f2ece45a67",
+  "latestnewsgaspricescouldseesomereliefascrudeoilpricescomedow",
+  "8657df1572393c7e",
+  "oilgainsover2asusiranpeacetalksinstalemate"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-29",
-  "count": 51
+  "count": 53
  },
- "last_run": "2026-09-29T15:00:30.673245+03:00",
+ "last_run": "2026-09-29T15:05:15.412145+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
@@ -1156,6 +1156,10 @@
   {
    "d": "2026-09-29",
    "t": "Oil prices slide about 2% as US, Iran explore path out of war - reuters.com"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Oil gains over 2% as US-Iran peace talks in stalemate - Yahoo Finance"
   }
  ]
 }
