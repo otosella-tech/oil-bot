@@ -4,8 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "2c0f4debdf20eb04",
-  "dowjonesfuturesfalloilpricesriseamidtrumpirancommentsmicrons",
   "8f903e65385286b4",
   "oilheadshigherasusiranpeacetalksinstalemate",
   "bfbf50ee8f5f5be8",
@@ -603,7 +601,9 @@
   "06ec48105664fa6e",
   "middleeastoilexportsreboundasiranschokeholdonhormuzbreaksdow",
   "379f395c604100fb",
-  "jimcramersaysthesestockscanwinevenasoilandbondyieldssqueezet"
+  "jimcramersaysthesestockscanwinevenasoilandbondyieldssqueezet",
+  "4a732c1567393144",
+  "saudiarabiaresumesredseacrudeoilexportsfollowingrepairstohit"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-29",
-  "count": 8
+  "count": 10
  },
- "last_run": "2026-09-29T04:45:17.982671+03:00",
+ "last_run": "2026-09-29T04:50:17.840235+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
@@ -1080,6 +1080,10 @@
   {
    "d": "2026-09-29",
    "t": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments - Reuters"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Saudi Arabia Resumes Red Sea Crude Oil Exports Following Repairs to Hit East-West Pipeline - news.sbs.co.kr"
   }
  ]
 }
