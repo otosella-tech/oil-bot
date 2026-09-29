@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "bd511f93e345e924",
-  "nasdaq100forecastndxfallsasoiljumpsandtreasuryyieldsrise",
   "c682e88dd815fd77",
   "saudiaramcoconsideringdiscountsforomanstscrudetocounterhighf",
   "31960e89e89adbc2",
@@ -603,7 +601,9 @@
   "f59e047bc58e5e35",
   "correctiontoanalystsanticipateloweruscrudeoilstockpiles",
   "19d20f6c9211464b",
-  "unitedstatesoilfundusoslidestuesdaywhatsdrivingtheaction"
+  "unitedstatesoilfundusoslidestuesdaywhatsdrivingtheaction",
+  "65b70928fabbb6e7",
+  "alphacomputeoperatingoilandgasassetsduediligence"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 60
  },
- "last_run": "2026-09-29T21:40:20.255193+03:00",
+ "last_run": "2026-09-29T21:45:19.925626+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
