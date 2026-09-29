@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "bc4fb8d286fa50a1",
-  "globalbenchmarksaremixeddespitewallstreetsrallyfinishlastwee",
   "8b145a2acaf48cf7",
   "oilgainsover3asusiranpeacetalksinstalemate",
   "6aa55cd723c91fe1",
@@ -603,7 +601,9 @@
   "a1d3891304b579bb",
   "lngcanadatodoubleexportcapacityaftershellapprovesphase2",
   "ae9d01baf9bf0d1c",
-  "oilrisesforseconddayasmiddleeastsupplyriskspersist"
+  "oilrisesforseconddayasmiddleeastsupplyriskspersist",
+  "863094f7a4a6ba02",
+  "oilpricesreversegainsasgulfcrudeexportsrecover"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 58
  },
- "last_run": "2026-09-29T16:35:22.855071+03:00",
+ "last_run": "2026-09-29T16:40:18.430338+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
