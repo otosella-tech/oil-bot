@@ -4,8 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "dd68323b8e625944",
-  "japancouldredrawtheglobaloilmap",
   "3941df9020f37b96",
   "kazakhoilproducersweighnewtranscaspianroutetoavoidrussia",
   "e7428a288372185b",
@@ -603,7 +601,9 @@
   "9ca3e0423d6336cd",
   "oilpricestodaybrentcruderisesforsecondsessionasusiranconflic",
   "139a19a0e1a09d50",
-  "indiansharesdiptonearsixmonthlowsonoilsurge"
+  "indiansharesdiptonearsixmonthlowsonoilsurge",
+  "1ef39fa9763fb556",
+  "oilpricesup280926"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 25
  },
- "last_run": "2026-09-29T09:00:28.548106+03:00",
+ "last_run": "2026-09-29T09:05:14.329891+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
