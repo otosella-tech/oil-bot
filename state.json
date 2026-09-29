@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "b412361c63982f3c",
-  "theiraqsyriaborderisbecomingthemiddleeastsmostimportantnewen",
   "01832252b7f50608",
   "ukgridoperatorwarnsoftightpowermargins",
   "b2776e2618c7955b",
@@ -603,7 +601,9 @@
   "c182894d93866869",
   "stocksmovelowerdespiteoilpricesdropping",
   "c48ef6446227020f",
-  "tankersareloadingoilagainfromavitalsaudipipeline"
+  "tankersareloadingoilagainfromavitalsaudipipeline",
+  "cc7256a87a1d48c5",
+  "oilpricesfallascrudeexportsrecoveratsaudiarabiasredseaports"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 60
  },
- "last_run": "2026-09-29T19:45:20.644992+03:00",
+ "last_run": "2026-09-29T19:50:18.939680+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
@@ -1204,6 +1204,10 @@
   {
    "d": "2026-09-29",
    "t": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline - The New York Times"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Oil prices fall as crude exports recover at Saudi Arabia's Red Sea ports - CNBC"
   }
  ]
 }
