@@ -4,8 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "c68c76dec0ec52fc",
-  "oilupstockfuturesslipasiranofferrejected",
   "4581281c65cda2af",
   "worldsharesmostlyadvanceafterglobalbondselloffanddropinoilpr",
   "8d29666e18479144",
@@ -603,7 +601,9 @@
   "d7216d88d9d051f6",
   "itstimefortrumptochallengetheoilindustry",
   "9e45056f5f556585",
-  "mideastoilexportsreboundinseptemberassaudiarabiaboostsshipme"
+  "mideastoilexportsreboundinseptemberassaudiarabiaboostsshipme",
+  "aff7da7a52dc31b1",
+  "oilpricesknockdownstocks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 7
  },
- "last_run": "2026-09-29T03:55:14.761072+03:00",
+ "last_run": "2026-09-29T04:00:29.381589+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
