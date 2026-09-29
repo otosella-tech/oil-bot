@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "ff11160280f0a64d",
-  "crudeoilweeklyoutlookbricssummitcallsformaximumrestraint",
   "bf09781c61bae578",
   "oilbondaioutlooksdampwallstreetprebellasiaoffeuropeup",
   "96a7acc1e88e55b9",
@@ -603,7 +601,9 @@
   "4725fa69f74f6513",
   "ieacouldweighfurtheroilreservereleasesaseuenergycostssoar",
   "9b275eab4f49ec89",
-  "crudepricespressuredasmoreoilflowsthroughthestraitofhormuz"
+  "crudepricespressuredasmoreoilflowsthroughthestraitofhormuz",
+  "341d48e650a4cf7e",
+  "saudiarabiaresumesyanbuoilloadingafterpipelinerestart"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 60
  },
- "last_run": "2026-09-29T18:45:20.842034+03:00",
+ "last_run": "2026-09-29T18:50:19.454461+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-09-29",
    "t": "Crude Prices Pressured as More Oil Flows Through the Strait of Hormuz - Barchart.com"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Saudi Arabia resumes Yanbu oil loading after pipeline restart - Reuters"
   }
  ]
 }
