@@ -4,10 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "a4ac91b8a8899fd1",
-  "oilpricesgetbacktorisingandknockdownusstocks",
-  "54a83144f04292a3",
-  "callstooverhaultheunsecuritycouncilgainnewmomentum",
   "912dde49dc7379cc",
   "oilpricestop108abarrelonfearsofaresumptionofusiranwar",
   "bd511f93e345e924",
@@ -603,7 +599,11 @@
   "fece122ec2dc298a",
   "ustapsstrategicoilreserveagainasdieseltops6",
   "09a433662816845c",
-  "ustowithdrawmoreoilfromemergencystockpileascountryfacesrisin"
+  "ustowithdrawmoreoilfromemergencystockpileascountryfacesrisin",
+  "2083c49d2603c995",
+  "nowcompletelyshunningthedropinoil",
+  "f59e047bc58e5e35",
+  "correctiontoanalystsanticipateloweruscrudeoilstockpiles"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 60
  },
- "last_run": "2026-09-29T21:25:15.008232+03:00",
+ "last_run": "2026-09-29T21:30:26.919891+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
