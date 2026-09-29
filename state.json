@@ -4,8 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "21da0c74d6f20027",
-  "marketanalysisdxyekesmarginalgainsamidhigheroilpricesandfedr",
   "636d9f22a7f07390",
   "marketanalysistnotefuturesmildlydeclinedamidhigheroilpricesa",
   "99a22debb67385e8",
@@ -603,7 +601,9 @@
   "4b65056dfbdc82b1",
   "pumpthebrakesonthewestcoastoilpipelinewashingtonsays",
   "2ffdbd0268242dfd",
-  "oilpriceandustreasuryyieldsintightestrelationshipsince1990"
+  "oilpriceandustreasuryyieldsintightestrelationshipsince1990",
+  "1c5c5e64e92d3535",
+  "southkoreaplanstocutitsrelianceonmiddleeastcrudeoilimportsto"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 14
  },
- "last_run": "2026-09-29T07:15:17.675781+03:00",
+ "last_run": "2026-09-29T07:20:18.766776+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
