@@ -4,10 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "bb82190c36f6ef37",
-  "oilpricesrisemorethan1astrumprejectsiranshormuzproposal",
-  "43426bfc492616e3",
-  "crudeoilattemptstoeaseoversoldconditionsanalysis28092026",
   "029e1e7803aa5dd7",
   "oilpricetodayseptember28crudeoilgainsto106astrumprejectsiran",
   "cf6e37a19ece9f82",
@@ -603,7 +599,11 @@
   "e34fa21274d85509",
   "oilextendsgainsasmiddleeastsupplyconcernspersist",
   "b86f6d78c61f47bc",
-  "oilrisesamiddeadlockinusiranceasefiretalks"
+  "oilrisesamiddeadlockinusiranceasefiretalks",
+  "50029b254ea94e57",
+  "newmexicostatelandofficefinalizesincreasedbondingrequirement",
+  "92b436690cc12602",
+  "oilextendsgainsasusiranstalemateovershadowssaudiflows"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-29",
-  "count": 12
+  "count": 13
  },
- "last_run": "2026-09-29T05:25:15.496467+03:00",
+ "last_run": "2026-09-29T05:30:25.829362+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
