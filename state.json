@@ -4,10 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "3ae81067f0dff7e8",
-  "goldmanwarnsdieselexportbanwouldsendgasolinepriceshigher",
-  "190daac051655dba",
-  "golddeclinesashormuzimpassekeepsratehikebetselevated",
   "de77e1a0cb9cd15a",
   "uaeoutmaneuversiranshormuzstrategystatetvanalystssay",
   "37acee2e84a33b8c",
@@ -603,7 +599,11 @@
   "dce50458655adb75",
   "oilbillsbondyieldstechjittersdampasianstockmarkets",
   "9d6836aaddbb95bc",
-  "oilnewsgulfexportssurgebuthormuzriskkeepscrudepremiumalive"
+  "oilnewsgulfexportssurgebuthormuzriskkeepscrudepremiumalive",
+  "8de44d33534fe467",
+  "useheatingoilinthewinterexpectyourbilltobe900more",
+  "d5bc7c660dcd3027",
+  "iranwarnsregionaloilexportscouldstopifitscrudeisblockedmiddl"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 47
  },
- "last_run": "2026-09-29T14:00:30.314664+03:00",
+ "last_run": "2026-09-29T14:05:15.002776+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
