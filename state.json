@@ -4,10 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "c682e88dd815fd77",
-  "saudiaramcoconsideringdiscountsforomanstscrudetocounterhighf",
-  "31960e89e89adbc2",
-  "exchangetradedfundsequityfutureslowerprebellmondayasoilprice",
   "9d232420f00e39dc",
   "oilpricesgetbacktorisingandknockdownusstocksunion",
   "c04924c658c74617",
@@ -603,7 +599,11 @@
   "19d20f6c9211464b",
   "unitedstatesoilfundusoslidestuesdaywhatsdrivingtheaction",
   "65b70928fabbb6e7",
-  "alphacomputeoperatingoilandgasassetsduediligence"
+  "alphacomputeoperatingoilandgasassetsduediligence",
+  "816286c3ca46bf17",
+  "iranthreatensmiddleeastenergyinfrastructureashormuzstandoffd",
+  "2b4a65a817860ce5",
+  "currentpriceofoilasofsept292026"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 60
  },
- "last_run": "2026-09-29T21:55:15.304822+03:00",
+ "last_run": "2026-09-29T22:00:31.073576+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-09-29",
    "t": "US to loan up to 40 million barrels of oil from SPR, last batch from global deal - Reuters"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Iran Threatens Middle East Energy Infrastructure as Hormuz Standoff Deepens"
   }
  ]
 }
