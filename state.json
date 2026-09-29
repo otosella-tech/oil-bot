@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "0c9d3b4fd453dcbf",
-  "usstocksunderpressureascrudeoilpricestreasuryyieldssurge",
   "084c5a56e5bf6fff",
   "usstocksdropafteroilpricesclimbandthebondmarketcranksthepres",
   "76497fd852f95277",
@@ -603,7 +601,9 @@
   "000f61f3437d1b41",
   "thetaxingchallengeofproducedwater",
   "64709f37cd064671",
-  "whitehouseweighsred"
+  "whitehouseweighsred",
+  "f4842923f16f844e",
+  "usdistillatestockscontinuetofallascrudeinventoriesbuild"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 1
  },
- "last_run": "2026-09-30T00:00:29.851240+03:00",
+ "last_run": "2026-09-30T00:05:17.596276+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
