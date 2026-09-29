@@ -4,10 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "108ce8b6625fb217",
-  "oilpricesrisemorethan2asiranmaintainshormuzreopeningconditio",
-  "d36c19133efdf113",
-  "oilpricesriseastrumprejectsiranianproposaltoreopenstraitofho",
   "65f5d56bd36a496b",
   "understandingdaycostimingbeltinoiltechnologyisbecomingmoreim",
   "0c9d3b4fd453dcbf",
@@ -603,7 +599,11 @@
   "4436ff4ce0b9dc21",
   "stockmarketcommentarytrumpsignalsamajordropinoilpriceswillus",
   "d9f899f7f493f50f",
-  "oilextendslosses"
+  "oilextendslosses",
+  "2389810ce1dbe2e8",
+  "crudeoilinventoriesrisedefyingforecastsandpreviousdata",
+  "000f61f3437d1b41",
+  "thetaxingchallengeofproducedwater"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-29",
   "count": 60
  },
- "last_run": "2026-09-29T23:50:20.261531+03:00",
+ "last_run": "2026-09-29T23:55:15.941809+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
