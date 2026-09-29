@@ -4,10 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "17fec64db816482a",
-  "oilgoldforecasttwotradestowatch",
-  "bb1e0a3a3e571d85",
-  "crudeoilisupby4",
   "848e69fb52d39252",
   "oilfuturescrudejumps4asuspushesbackoniranproposals",
   "fb0dce656a779a13",
@@ -603,7 +599,11 @@
   "7666a7051079f96c",
   "nasdaq100forecastndxrisesasoileasesandtechgains",
   "929ff2ac007e0191",
-  "threeeunationscallfornew2040renewableenergygoal"
+  "threeeunationscallfornew2040renewableenergygoal",
+  "76365716bc36a762",
+  "stockmarkettodaysept292026sp500fallsoneasingoilpricestreasur",
+  "9c2219c0a481ee52",
+  "arecurrentoilpriceshighenoughtofuelexxonmobilsgrowth"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 60
  },
- "last_run": "2026-09-29T17:35:17.328253+03:00",
+ "last_run": "2026-09-29T17:40:18.959520+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
