@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "9c64643bfd359ea5",
-  "whyisoilpricerisingbrentjumps25aftertrumprejectsiranpeacepro",
   "ff11160280f0a64d",
   "crudeoilweeklyoutlookbricssummitcallsformaximumrestraint",
   "bf09781c61bae578",
@@ -603,7 +601,9 @@
   "74c13140ca1b8a4c",
   "oilcoordinationgroupcontinuedconcernaboutpriceswhilesupplyre",
   "4725fa69f74f6513",
-  "ieacouldweighfurtheroilreservereleasesaseuenergycostssoar"
+  "ieacouldweighfurtheroilreservereleasesaseuenergycostssoar",
+  "9b275eab4f49ec89",
+  "crudepricespressuredasmoreoilflowsthroughthestraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 60
  },
- "last_run": "2026-09-29T18:40:22.095457+03:00",
+ "last_run": "2026-09-29T18:45:20.842034+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
@@ -1192,6 +1192,10 @@
   {
    "d": "2026-09-29",
    "t": "Iran Talks Take the Heat Out of the Oil Rally"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Crude Prices Pressured as More Oil Flows Through the Strait of Hormuz - Barchart.com"
   }
  ]
 }
