@@ -4,10 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "ab5742b3b27cad06",
-  "europeanstocksmixedasoilpricesriseandtechnologysharesdecline",
-  "9c3e85a87d1c1c49",
-  "asianbenchmarksaremixeddespitewallstreetsrallyfinishlastweek",
   "44edca92f00bf9ee",
   "nigeriajoinsieaascrudeoutputhitssix",
   "aede6ffa4e5d6010",
@@ -603,7 +599,11 @@
   "6cfa22d5763bc06a",
   "alphacomputeoperatingoilandgasassetsduediligenceestimates29m",
   "2302ac49e23b5bad",
-  "stockfuturesrisetreasuryyieldsedgelowerasoilpullsback"
+  "stockfuturesrisetreasuryyieldsedgelowerasoilpullsback",
+  "eb4918f593f40954",
+  "oilpricesreversesharplyintradayaswtiandbrentturnfromgainstod",
+  "ed1ef0495ab173ed",
+  "oilpricesclimboncontinuedimpasseinusirantalks"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-29",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-09-29T16:00:32.543010+03:00",
+ "last_run": "2026-09-29T16:05:16.979408+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
@@ -1164,6 +1164,14 @@
   {
    "d": "2026-09-29",
    "t": "More oil passing through the Strait of Hormuz, data suggests - Yahoo"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Oil Prices Reverse Sharply Intraday as WTI and Brent Turn From Gains to Drop Over 2%; Strait of Hormuz Situation in Focus - TradingKey"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Oil Prices Climb on Continued Impasse in U.S.-Iran Talks - The New York Times"
   }
  ]
 }
