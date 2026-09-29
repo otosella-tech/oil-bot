@@ -4,8 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "36fd8db302dff9a5",
-  "dollarslipsascrudeoilpricesdecline",
   "dd68323b8e625944",
   "japancouldredrawtheglobaloilmap",
   "3941df9020f37b96",
@@ -603,7 +601,9 @@
   "a92e963ad2a213c7",
   "iraqmiddleeasterncountriesrecordhighestrecoveryinoilexports",
   "9ca3e0423d6336cd",
-  "oilpricestodaybrentcruderisesforsecondsessionasusiranconflic"
+  "oilpricestodaybrentcruderisesforsecondsessionasusiranconflic",
+  "139a19a0e1a09d50",
+  "indiansharesdiptonearsixmonthlowsonoilsurge"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-29",
-  "count": 24
+  "count": 25
  },
- "last_run": "2026-09-29T08:50:48.405636+03:00",
+ "last_run": "2026-09-29T08:55:13.419302+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
