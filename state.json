@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "820ecc4569cceca0",
-  "sugarpricesreboundascrudeoiljumps",
   "6cc1364b8622c58e",
   "saudiarabiaisreapingamassiveoilwindfallmakingitperhapstheira",
   "3ac5e1a803f002ff",
@@ -603,7 +601,9 @@
   "7ee0c2c05674cd7a",
   "usgovernmentpresentsregulatorygifttogasautomakers",
   "f2cb5cc5035d7bd6",
-  "cmewticrudeoilfuturesfallbelow90aspipelineseasesupply"
+  "cmewticrudeoilfuturesfallbelow90aspipelineseasesupply",
+  "bf9520a09c7f53be",
+  "wallstreetdriftslowerdespiteretreatinoilprices"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 3
  },
- "last_run": "2026-09-30T01:30:22.457162+03:00",
+ "last_run": "2026-09-30T01:35:16.499814+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
