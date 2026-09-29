@@ -4,8 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "4581281c65cda2af",
-  "worldsharesmostlyadvanceafterglobalbondselloffanddropinoilpr",
   "8d29666e18479144",
   "stockscautiousinasiaasoilgainsyieldsrise",
   "913b3415e4f061c0",
@@ -603,7 +601,9 @@
   "9e45056f5f556585",
   "mideastoilexportsreboundinseptemberassaudiarabiaboostsshipme",
   "aff7da7a52dc31b1",
-  "oilpricesknockdownstocks"
+  "oilpricesknockdownstocks",
+  "742e6c42ab75a6fc",
+  "sugarpricessettlemixedascrudeoilerasesanearlyrally"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 7
  },
- "last_run": "2026-09-29T04:10:18.178113+03:00",
+ "last_run": "2026-09-29T04:15:20.872766+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
