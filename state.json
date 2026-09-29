@@ -4,12 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "084c5a56e5bf6fff",
-  "usstocksdropafteroilpricesclimbandthebondmarketcranksthepres",
-  "76497fd852f95277",
-  "highfreightcostspushmoreuslngtowardeurope",
-  "c9cb606d7d25f7c8",
-  "vietnamrefinerysignscrudeoildealwithexxonmobilasiapacific",
   "e2c9d0ff9f02797f",
   "oilpricesrise2aftertrumprejectsiranpeacedeal",
   "888971743856e903",
@@ -603,7 +597,13 @@
   "64709f37cd064671",
   "whitehouseweighsred",
   "f4842923f16f844e",
-  "usdistillatestockscontinuetofallascrudeinventoriesbuild"
+  "usdistillatestockscontinuetofallascrudeinventoriesbuild",
+  "c92aa81df4ebd21a",
+  "crudeoilisdownby4",
+  "6a4e4d7dcc8af247",
+  "bondyieldskeeprisingdespitedropinoilpricedovishfedspeech",
+  "aed51e79020c2901",
+  "whitehousetapsstrategicpetroleumreserve"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 1
  },
- "last_run": "2026-09-30T00:05:17.596276+03:00",
+ "last_run": "2026-09-30T00:10:18.960597+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
