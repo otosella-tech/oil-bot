@@ -4,12 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "717493648a1fc8c8",
-  "vegoilspalmoilrisesonstrongcrudeoilweakerrivalscapgains",
-  "93b6add33afa5803",
-  "naturalgasandoilforecastirantalksstallasgulfcrudeflowsrecove",
-  "75913c2759ac4204",
-  "crudeoilpricesspikebrentjumps3tocross107perbarrelasusiranwar",
   "5caf52df71946415",
   "oilpricesjumpaftertrumprejectsiranstruceoffer",
   "2a7279002cb2a278",
@@ -603,7 +597,13 @@
   "d419ec5476830313",
   "billionaireoiltycoonharoldhammdonates150mtotheuniversityofok",
   "20c3ea376fcd8029",
-  "californiagaspricesnearingalltimerecordsasnewsomapprovesearl"
+  "californiagaspricesnearingalltimerecordsasnewsomapprovesearl",
+  "b15c587cb816c01a",
+  "argentinathreatensukwithcourtactionoverfalklandsoildrilling",
+  "f46c6cd6eec66e36",
+  "oilpricesriseasusirantalksremainuncertain",
+  "a3929f99484d7c0e",
+  "lindseyograhamsanctioningrussiaandiranact2026restrictiveusta"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-29",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-09-29T10:55:15.195574+03:00",
+ "last_run": "2026-09-29T11:00:28.021537+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
@@ -1116,6 +1116,14 @@
   {
    "d": "2026-09-29",
    "t": "U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high - CNBC"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Oil Prices Rise as U.S.-Iran Talks Remain Uncertain - WSJ"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Lindsey O. Graham sanctioning Russia and Iran Act 2026: restrictive U.S. tariff measures targeting all imports from major buyers of Russian energy - Stephenson Harwood"
   }
  ]
 }
