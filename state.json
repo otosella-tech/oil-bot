@@ -4,10 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "947c06fbb618876e",
-  "rupeeslips20paiseagainstusdollarascrudeoiltops106foreignoutf",
-  "c7182c25dea5da11",
-  "eushrugsoffgassupplyfearsdespitelowstoragelevels",
   "f75791119e6f3985",
   "oilnewscrudeoiloutlookturnshigherashormuzpeacetalksstall",
   "3074d5bb13c0f680",
@@ -603,7 +599,11 @@
   "1ed09e8fa794fa26",
   "commentarychinasmetalheavycommodityimportsmapamessyenergytra",
   "adfae356464dad04",
-  "middleeastoilexportsreachawartimehighassaudishipmentssurge"
+  "middleeastoilexportsreachawartimehighassaudishipmentssurge",
+  "7ab2153ba64ecf07",
+  "saudiresumesyanbuoilloadingafterpipelinerestart",
+  "a22c34a7de1abfa3",
+  "iransoilstockpilenearsemptyasusledhormuzblockadeholds"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-29",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-09-29T09:40:18.839604+03:00",
+ "last_run": "2026-09-29T09:45:19.422354+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
@@ -1100,6 +1100,14 @@
   {
    "d": "2026-09-29",
    "t": "Middle East Oil Exports Reach a Wartime High as Saudi Shipments Surge - Межа. Новини України."
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Saudi resumes Yanbu oil loading after pipeline restart - reuters.com"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Iran's oil stockpile nears empty as US-led Hormuz blockade holds - www.israelhayom.com"
   }
  ]
 }
