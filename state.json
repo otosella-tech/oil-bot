@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "af6ecee41be8e0ff",
-  "floridagaspricesroseanother18centslastweekwpbbocaremainshigh",
   "bbc535eb3b244a01",
   "qatarextendslngforcemajeureashormuzcrisisdragson",
   "e78e51b5b5b8decb",
@@ -603,7 +601,9 @@
   "2f710df450b0065a",
   "middleeasternoilexportsrisetohighestlevelsinceiranwarbegan",
   "8f1623215a6f8a11",
-  "crudeoiltumblestolowestinamonthmarkettalk"
+  "crudeoiltumblestolowestinamonthmarkettalk",
+  "c704b240ea8f69fe",
+  "californiaandtheeumovetoreinintheenvironmentalcostofai"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-09-29",
   "count": 60
  },
- "last_run": "2026-09-29T22:55:17.290285+03:00",
+ "last_run": "2026-09-29T23:00:30.121031+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
