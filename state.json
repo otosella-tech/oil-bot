@@ -4,8 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "c5bf4343e3ac66e4",
-  "malaysiamorningwrapusstocksriseasoilfallsringgitfirmsaheadof",
   "c68c76dec0ec52fc",
   "oilupstockfuturesslipasiranofferrejected",
   "4581281c65cda2af",
@@ -603,7 +601,9 @@
   "d45eedcead165183",
   "oilpricesriseforsecondsessiononcontinuedmiddleeastsupplyconc",
   "d7216d88d9d051f6",
-  "itstimefortrumptochallengetheoilindustry"
+  "itstimefortrumptochallengetheoilindustry",
+  "9e45056f5f556585",
+  "mideastoilexportsreboundinseptemberassaudiarabiaboostsshipme"
  ],
  "releases_done": {},
  "last_digest": "2026-09-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-29",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-09-29T03:40:18.493819+03:00",
+ "last_run": "2026-09-29T03:45:18.104011+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
@@ -1076,6 +1076,10 @@
   {
    "d": "2026-09-29",
    "t": "Saudi Arabia’s Crucial Oil Pipeline Starts Exports After Repairs - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments - Reuters"
   }
  ]
 }
