@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "ed1ef0495ab173ed",
-  "oilpricesclimboncontinuedimpasseinusirantalks",
   "ab5742b3b27cad06",
   "europeanstocksmixedasoilpricesriseandtechnologysharesdecline",
   "9c3e85a87d1c1c49",
@@ -603,7 +601,9 @@
   "2fff322e8079e089",
   "justicealitorecuseshimselfdaysbeforemajorclimatechangecase",
   "6cfa22d5763bc06a",
-  "alphacomputeoperatingoilandgasassetsduediligenceestimates29m"
+  "alphacomputeoperatingoilandgasassetsduediligenceestimates29m",
+  "2302ac49e23b5bad",
+  "stockfuturesrisetreasuryyieldsedgelowerasoilpullsback"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 55
  },
- "last_run": "2026-09-29T15:55:16.252444+03:00",
+ "last_run": "2026-09-29T16:00:32.543010+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
