@@ -4,10 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "bab2cb7b03bf02d1",
-  "usdinrrisesto9615oncrudeoilsurgeandusyields",
-  "9b90a0dc0fedab53",
-  "updateusequityindexesjumpascrudeoilslidesfollowingiranscondi",
   "3ae81067f0dff7e8",
   "goldmanwarnsdieselexportbanwouldsendgasolinepriceshigher",
   "190daac051655dba",
@@ -603,7 +599,11 @@
   "d00c29363e674a40",
   "indiansharesextendlosingrunonelevatedoilbondyields",
   "f71f2d6d2f4284c0",
-  "crudeoilisdrivingtheforexmarket"
+  "crudeoilisdrivingtheforexmarket",
+  "dce50458655adb75",
+  "oilbillsbondyieldstechjittersdampasianstockmarkets",
+  "9d6836aaddbb95bc",
+  "oilnewsgulfexportssurgebuthormuzriskkeepscrudepremiumalive"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-29",
-  "count": 45
+  "count": 47
  },
- "last_run": "2026-09-29T13:55:16.893421+03:00",
+ "last_run": "2026-09-29T14:00:30.314664+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
@@ -1144,6 +1144,10 @@
   {
    "d": "2026-09-29",
    "t": "Iran war: Oil remains well supported as Trump rejects Iran’s proposal - engine.online"
+  },
+  {
+   "d": "2026-09-29",
+   "t": "Oil News: Gulf Exports Surge, but Hormuz Risk Keeps Crude Premium Alive - FXEmpire"
   }
  ]
 }
