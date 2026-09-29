@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "3fa0c7a6a129b06b",
-  "stocksofcrudeoilintheussprfellto2838mlnbblslastweek",
   "3cc62816ce4148ad",
   "stocksfalloilrisesandbondyieldssurgeasgeopoliticskeepsmarket",
   "edff28a1ed284bf9",
@@ -603,7 +601,9 @@
   "11db98c762be7212",
   "currentpriceofoilasofsept282026",
   "bc001d3d825da461",
-  "uscrudeoilinventoriesroseby1millionbarrelsdistillatestocksfe"
+  "uscrudeoilinventoriesroseby1millionbarrelsdistillatestocksfe",
+  "b386ac8467f03d75",
+  "virginiagaspricessitabove420amidrisingcrudeoilcosts"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 3
  },
- "last_run": "2026-09-30T00:30:23.161925+03:00",
+ "last_run": "2026-09-30T00:35:16.764655+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
