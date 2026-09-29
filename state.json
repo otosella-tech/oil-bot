@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "9214ea8df3905ff7",
-  "crescentenergyandkosmosenergystockstradeupwhatyouneedtoknow",
   "dc8bad180d122979",
   "trumpshiddentaxoneveryamericanhowdieseltoucheseverythingthat",
   "9c4cbd12dbfb9a01",
@@ -603,10 +601,13 @@
   "7cebe75e8268d74d",
   "federalindictmentallegespermianbasincrudeoiltheftschememidla",
   "b04f9e928491f779",
-  "oiltycoondangoteafricawillbemostlyselfsufficientinfuelby2030"
+  "oiltycoondangoteafricawillbemostlyselfsufficientinfuelby2030",
+  "d2568f4bc7f32592",
+  "whitehouselookingtoeuropetoreleasedieselfromstrategicreserve"
  ],
  "releases_done": {
-  "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
+  "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
+  "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|post": 1
  },
  "last_digest": "2026-09-29",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-09-29",
   "count": 60
  },
- "last_run": "2026-09-29T23:25:15.790309+03:00",
+ "last_run": "2026-09-29T23:30:26.834099+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
