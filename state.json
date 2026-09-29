@@ -4,8 +4,6 @@
   "Brent": 98.42
  },
  "seen": [
-  "356e4e419f15bae3",
-  "asiansharestrademixedasoilpricesrise",
   "5289d643d8869d74",
   "crudeoilfallsasmarketsweighprospectsforatrucebetweenusandira",
   "36fd8db302dff9a5",
@@ -603,7 +601,9 @@
   "fd27e25e658b7dd3",
   "oilextendsrallydespitehigherhormuzvolumereports",
   "b7d51e5559e30867",
-  "indiacantstopbuyingrussianoildespitenewuslawanalystssay"
+  "indiacantstopbuyingrussianoildespitenewuslawanalystssay",
+  "a92e963ad2a213c7",
+  "iraqmiddleeasterncountriesrecordhighestrecoveryinoilexports"
  ],
  "releases_done": {},
  "last_digest": "2026-09-29",
@@ -615,7 +615,7 @@
   "date": "2026-09-29",
   "count": 24
  },
- "last_run": "2026-09-29T08:35:15.239163+03:00",
+ "last_run": "2026-09-29T08:40:18.460003+03:00",
  "sent_stories": [
   {
    "d": "2026-09-26",
