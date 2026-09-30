@@ -4,10 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "44624107d8b3af9d",
-  "governornewsomtakesactiontohelplowerpricesamidtrumpsnationwi",
-  "91036e0be012a07c",
-  "stocksfalloilpricesoffhighsamidrenewedhopesformiddleeastnego",
   "0ed9b246dd77664f",
   "wallstreetfallsonrisingyieldsoilconcerns",
   "5d37a65e46dce134",
@@ -603,7 +599,11 @@
   "0f688ae6959f1712",
   "straitofhormuzoilflowsrebound",
   "0e33e183f6f6bf98",
-  "currentpriceofoilasofsept212026"
+  "currentpriceofoilasofsept212026",
+  "73abda5bbe0a80bd",
+  "oilgainsaftertrumpdeniesheiswillingtoeaseiransanctions",
+  "4d54374aac100898",
+  "crudeoilfuturesgainastrumpdeniesreportsofeasingiransanctions"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-30",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-09-30T10:40:19.929849+03:00",
+ "last_run": "2026-09-30T10:45:19.046196+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1260,6 +1260,14 @@
   {
    "d": "2026-09-30",
    "t": "Strait of Hormuz oil flows rebound - Oil & Gas Middle East"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Oil gains after Trump denies he is willing to ease Iran sanctions - Reuters"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Crude oil futures gain as Trump denies reports of easing Iran sanctions - BusinessLine"
   }
  ]
 }
