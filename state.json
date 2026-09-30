@@ -4,10 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "a3458ef8c8b102d5",
-  "standardcharteredrecordctalongbetsarecappingoilsupside",
-  "64b863e2fd1038aa",
-  "oilexecsflockingtovensetoffhuntforgolfclubs",
   "221cc485f9159ce6",
   "cmewticrudeoilfuturesreversegainsonmiddleeasttalks",
   "44624107d8b3af9d",
@@ -603,7 +599,11 @@
   "e284562f1f910069",
   "groundhogdayiranisunlikelytoletthewarenduntilafterthemidterm",
   "a5bebe9a4b97da93",
-  "oilslipsassaudiarabiaoffersmorecrudeviaoman"
+  "oilslipsassaudiarabiaoffersmorecrudeviaoman",
+  "a4ee985b1e98885a",
+  "morningwrapaidrivesnikkei225gainsoilpricesdecline30092026",
+  "0f688ae6959f1712",
+  "straitofhormuzoilflowsrebound"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-30",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-09-30T10:30:22.596582+03:00",
+ "last_run": "2026-09-30T10:35:14.932309+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-09-30",
    "t": "JP Morgan, Goldman Diverge on Hormuz Oil Flow Estimates"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Strait of Hormuz oil flows rebound - Oil & Gas Middle East"
   }
  ]
 }
