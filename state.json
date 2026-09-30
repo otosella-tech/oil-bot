@@ -4,10 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "df94c7674b473a45",
-  "ussprcrudeoilstockshoveringnear44yearlows",
-  "dc67cbc8a7e98087",
-  "sugarpricesturnmixedascrudeoilerasesanearlyrally",
   "342e55b8dbae9f0e",
   "persiangulfoilexportshit72ofprewarlevelsasussaysiranisexhaus",
   "add2359c93b111b5",
@@ -603,7 +599,11 @@
   "634f00b00dd8d581",
   "africaswealthiestmancommencesconstructiontodayoneastafricas1",
   "555920fcd2402072",
-  "wallstreetseeslossesastreasuryyieldsincreasenorthwestarkansa"
+  "wallstreetseeslossesastreasuryyieldsincreasenorthwestarkansa",
+  "a220efe03d9c993c",
+  "jpmorgangoldmandivergeonhormuzoilflowestimates",
+  "50f149ee039c819e",
+  "wallstreetseeslossesastreasuryyieldsincrease"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-30",
-  "count": 45
+  "count": 47
  },
- "last_run": "2026-09-30T09:55:19.122924+03:00",
+ "last_run": "2026-09-30T10:00:28.896005+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1252,6 +1252,10 @@
   {
    "d": "2026-09-30",
    "t": "Middle East Oil Exports Rebound Sharply As Shippers Regain Confidence In Strait Of Hormuz - i24NEWS"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "JP Morgan, Goldman Diverge on Hormuz Oil Flow Estimates"
   }
  ]
 }
