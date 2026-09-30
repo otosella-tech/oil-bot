@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "48a7ab3b4888e29b",
-  "stocksdropandoilrisesashormuzhopesfade",
   "0edba8acd77752ab",
   "pumppriceskeepclimbingascrudeoilremainshigh",
   "2bae341b7e664aa4",
@@ -603,7 +601,9 @@
   "10da7baf4b9c71e4",
   "trumpandtehranareboxedinuntilthemidtermsbecauseiranwantsusga",
   "7d5af9099f561aad",
-  "oilfuturescrudeedgesupastrumppushesbackoniranterms"
+  "oilfuturescrudeedgesupastrumppushesbackoniranterms",
+  "af0f2856d45baac6",
+  "crudeoilreboundsto90"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -615,7 +615,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T13:10:19.171605+03:00",
+ "last_run": "2026-09-30T13:15:20.723643+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
