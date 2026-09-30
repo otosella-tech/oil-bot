@@ -1,15 +1,9 @@
 {
  "price_base": {
-  "WTI": 89.62,
+  "WTI": 91.46,
   "Brent": 98.43
  },
  "seen": [
-  "4ba3a18417903286",
-  "alphacomputeupdateonoperatingoilandgasassetsdue",
-  "1885681c7e37bee4",
-  "oilsupplyfromthemiddleeastrisessharplywhathappenstocrudepric",
-  "dbcb9d8356ca596b",
-  "indialookstoboostexplorationashormuzcrisisthreatenssupply",
   "5ab90ebf77de9c8c",
   "aijittersoilbondoutlookscapwallstreetprebellasiaoffeuropeup",
   "f7d8e401c0359fcb",
@@ -603,7 +597,13 @@
   "5f280ccf2a3bc79f",
   "eiareportscrudebuildasdieselstocksfall14belowaverage",
   "751dadaffe0e1305",
-  "oilpricesandindiain2026howcrudeoilaffectsgasolinedieseltheru"
+  "oilpricesandindiain2026howcrudeoilaffectsgasolinedieseltheru",
+  "4ffc00f2dbacf1da",
+  "uscrudeoilinventories0922mversus0264millionestimate",
+  "d07b8b1be2c7d361",
+  "ustotalcrudeoilstocksriseinweekendedsept25",
+  "fa152215d19482df",
+  "breakingdropindistillatestocksencouragesoiltorebound"
  ],
  "releases_done": {
   "2026-09-30|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T17:50:20.457710+03:00",
+ "last_run": "2026-09-30T17:55:19.640281+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
