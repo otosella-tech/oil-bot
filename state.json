@@ -4,12 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "9c2219c0a481ee52",
-  "arecurrentoilpriceshighenoughtofuelexxonmobilsgrowth",
-  "ced7b65eccfdfafd",
-  "canadaknowriskmarketoutlookcanolaandcrudeoilhigher",
-  "bd8c4c635b113cfb",
-  "iranhaslostconsiderableleverageinthestraitofhormuzitcantgoon",
   "2904d887db89e939",
   "ieacouldconsidermoreoilreservereleasesaseuropefacestoughwint",
   "6107407579829cc1",
@@ -603,7 +597,13 @@
   "c6e3098e7f930a15",
   "guyanasoilrichesaretransformingitseconomyatbreakneckspeed",
   "d5edf3777e57faec",
-  "oilpricesreboundasmiddleeastriskspersist"
+  "oilpricesreboundasmiddleeastriskspersist",
+  "b9e2978d5641de4d",
+  "persiangulfoilexportshavenormalizedanalystssaytheresstillabu",
+  "61fe7b6cf1ad32aa",
+  "howoilandtrumpareescalatingthefalklandsdispute",
+  "d3339a347e86e97f",
+  "threevesselsstruckinstraitofhormuzasiransgriploosens"
  ],
  "releases_done": {
   "2026-09-30|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T22:00:33.376719+03:00",
+ "last_run": "2026-09-30T22:05:18.699513+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1431,6 +1431,10 @@
   {
    "d": "2026-09-30",
    "t": "Texas oil, gas production increases slightly in third quarter as Iran War uncertainty remains - Houston Public Media"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Three Vessels Struck in Strait of Hormuz as Iran’s Grip Loosens - The Maritime Executive"
   }
  ]
 }
