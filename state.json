@@ -4,10 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "ba5a1533d5016439",
-  "russiascrudeexportsriseasdieselbanlimitsgainsfromhigheroilpr",
-  "b058a80f201641e8",
-  "indianfirmbuilding15bntrumpannouncedsteelmillhasdeeprussiati",
   "ec62d540d112d9db",
   "crudeoildown1usjobopeningsfallinaugust",
   "53594b159d52f3d9",
@@ -603,7 +599,11 @@
   "71deb5517c0b2bb9",
   "texasoilandgasactivitycontinuestoincreasesofarin2026despitec",
   "df0b28e2b2de46d1",
-  "canquantumcomputingtameaisenergyappetite"
+  "canquantumcomputingtameaisenergyappetite",
+  "bd8c4c635b113cfb",
+  "iranhaslostconsiderableleverageinthestraitofhormuzitcantgoon",
+  "3d5d2db5e043a60f",
+  "crudeoilfuturesextendgainsbrentposts14monthlysurgegeopolitic"
  ],
  "releases_done": {
   "2026-09-30|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -615,51 +615,11 @@
   "Brent": 96.3
  },
  "llm": {
-  "date": "2026-09-30",
-  "count": 60
+  "date": "2026-10-01",
+  "count": 2
  },
- "last_run": "2026-10-01T00:00:28.681664+03:00",
+ "last_run": "2026-10-01T00:05:15.317945+03:00",
  "sent_stories": [
-  {
-   "d": "2026-09-27",
-   "t": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war - CNBC"
-  },
-  {
-   "d": "2026-09-27",
-   "t": "France to Deploy Forces to Protect Saudi Red Sea Oil Port - WSJ"
-  },
-  {
-   "d": "2026-09-27",
-   "t": "Oil settles up around 4% as Iran's president vows to never surrender - Reuters"
-  },
-  {
-   "d": "2026-09-27",
-   "t": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities - Al Jazeera"
-  },
-  {
-   "d": "2026-09-27",
-   "t": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days - CNBC"
-  },
-  {
-   "d": "2026-09-27",
-   "t": "Saudis Tell European Refiners They’ll Get No Crude Next Month - Bloomberg.com"
-  },
-  {
-   "d": "2026-09-27",
-   "t": "Crude oil exports via Hormuz at 33.7 million barrels this week, data shows - reuters.com"
-  },
-  {
-   "d": "2026-09-27",
-   "t": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal - bbc.com"
-  },
-  {
-   "d": "2026-09-27",
-   "t": "Hormuz oil flows rise despite Iran threats against shipping - Iran International"
-  },
-  {
-   "d": "2026-09-27",
-   "t": "The U.S. Strategic Petroleum Reserve is running low. Can Venezuelan oil help? - NPR"
-  },
   {
    "d": "2026-09-28",
    "t": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments - Reuters"
@@ -1451,6 +1411,14 @@
   {
    "d": "2026-09-30",
    "t": "Iran Talks Take the Heat Out of the Oil Rally - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Iran has lost considerable leverage in the Strait of Hormuz. It can’t go on like this forever - CNN"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Crude Oil Futures Extend Gains, Brent Posts 14% Monthly Surge—Geopolitical Premium Persists as Iran Talks Stall - finance.biggo.com"
   }
  ]
 }
