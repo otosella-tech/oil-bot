@@ -4,12 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "3d500c2ad54364b0",
-  "californiagaspriceshitnewrecordfor2026withfurtherincreasespo",
-  "44abf279116b7fd9",
-  "tsxcloserindexfallsastelecomandbasemetalsweighoiledgeshigher",
-  "e84182a81bcc26d3",
-  "currentpriceofoilasofseptember252026",
   "e4664dcf849a5251",
   "oiltakesoffagainwallstreetdipsaftertrumprejectsirantruceoffe",
   "4524bc9cbfb22040",
@@ -603,7 +597,13 @@
   "575e7c1846587f64",
   "oilclimbsaftertrumpdeniesheiswillingtoeasesanctionsoniranbyr",
   "4b9450350a26a399",
-  "brentcrudeabove103hormuzoilflowsrecover80despiteiranconflict"
+  "brentcrudeabove103hormuzoilflowsrecover80despiteiranconflict",
+  "e7d9c20795f437aa",
+  "saudiarabiaresumesredseaoilexportsinblowtoiran",
+  "6782d9deb98db277",
+  "oilpricesjumpsastrumpsaysheofferedirannothingonsanctions",
+  "6c9835c1ca498eca",
+  "middleeasterncrudeoilexportshaverecoveredto98ofprewarlevelsa"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-30",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-09-30T08:55:15.630690+03:00",
+ "last_run": "2026-09-30T09:00:27.069225+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1240,6 +1240,14 @@
   {
    "d": "2026-09-30",
    "t": "Brent Crude Above $103: Hormuz Oil Flows Recover 80% Despite Iran Conflict - News and Statistics - IndexBox"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Saudi Arabia Resumes Red Sea Oil Exports in Blow to Iran - WSJ"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Oil Prices Jumps as Trump Says He Offered Iran ‘Nothing’ on Sanctions - Yahoo Finance"
   }
  ]
 }
