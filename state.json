@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "a201089512a0482a",
-  "howasiahassurvivedtheenergycrisis",
   "2a725875946bf02d",
   "mideastoilexportsreboundevenaspricesremainelevated",
   "165908397ef4578a",
@@ -603,7 +601,9 @@
   "cb098eb6dad6a264",
   "yourwednesdaysept30guidefivethingstodointheoilcity",
   "6b1bf8c9bca04446",
-  "jpmorganandgoldmanseemideastoilflowsnearprewarlevels"
+  "jpmorganandgoldmanseemideastoilflowsnearprewarlevels",
+  "e2f7cf2c156e6bea",
+  "unknownprojectilestrikescrudeoiltankerinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -615,7 +615,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T15:55:17.776508+03:00",
+ "last_run": "2026-09-30T16:00:31.033659+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1356,6 +1356,10 @@
   {
    "d": "2026-09-30",
    "t": "Russia Extends Diesel Export Ban Through Oct. 31"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Unknown projectile strikes crude oil tanker in Strait of Hormuz - AzerNews"
   }
  ]
 }
