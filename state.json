@@ -4,8 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "86c9671ce026279d",
-  "uaesnext25billionbetonindiaincludesenergysector",
   "0f0e245b7233b99f",
   "gaspricescouldseesomereliefascrudeoilpricesstarttodecrease",
   "37f301a4f102946c",
@@ -603,7 +601,9 @@
   "815aca97f76dacdb",
   "theenergycrisisismovingdownstreamsp500",
   "d0e31443e4b05d87",
-  "isiranlosingitsleverageoverthestraitofhormuz"
+  "isiranlosingitsleverageoverthestraitofhormuz",
+  "74caac6c81164d77",
+  "usoilandgasproductionrisesinq32026butpriceuncertaintyplagues"
  ],
  "releases_done": {
   "2026-09-30|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T18:25:17.809397+03:00",
+ "last_run": "2026-09-30T18:30:23.894127+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
