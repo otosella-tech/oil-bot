@@ -4,8 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "ae9d01baf9bf0d1c",
-  "oilrisesforseconddayasmiddleeastsupplyriskspersist",
   "863094f7a4a6ba02",
   "oilpricesreversegainsasgulfcrudeexportsrecover",
   "c8590343d48b3204",
@@ -603,7 +601,9 @@
   "581e92a5db5e6a31",
   "fbicrackingdownonstolenoil",
   "3516faf62ecbddc5",
-  "trumpshandlingofvenezuelasoilmoneythreatensaconstitutionalcr"
+  "trumpshandlingofvenezuelasoilmoneythreatensaconstitutionalcr",
+  "76b4bde3187a3e36",
+  "shaleexecutivessayiranwarissowingchaosinoilmarkets"
  ],
  "releases_done": {
   "2026-09-30|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T20:10:18.782463+03:00",
+ "last_run": "2026-09-30T20:15:19.798540+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1411,6 +1411,10 @@
   {
    "d": "2026-09-30",
    "t": "Deadly Blast Hits Major Indian Refinery as Fuel Markets Tighten"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Shale Executives Say Iran War Is Sowing Chaos in Oil Markets - Bloomberg.com"
   }
  ]
 }
