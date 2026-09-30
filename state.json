@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "bfe7b2c13bba36c0",
-  "hormuzreroutingdoublescapetrafficwithoutdeliveringawindfall",
   "124328e5241d2871",
   "fasterslowerthensteady",
   "55b32269f1acf6d2",
@@ -603,7 +601,9 @@
   "87cb694c998e9ff8",
   "oilretreatfailstohaltbondyieldriseinjapanus",
   "ab7ff7bac85f36ca",
-  "naturalgasandoilforecastiranstandoffrevivessupplyriskaslngst"
+  "naturalgasandoilforecastiranstandoffrevivessupplyriskaslngst",
+  "6e011d2a30fb269a",
+  "asianstockssetforreboundasoilpriceseasemarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -615,7 +615,7 @@
   "date": "2026-09-30",
   "count": 54
  },
- "last_run": "2026-09-30T10:55:14.982712+03:00",
+ "last_run": "2026-09-30T11:01:05.219381+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
