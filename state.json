@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "78c7f81cc99682e1",
-  "oilpricegainsparedasqatarusirantalksloom",
   "40ce0c186c9c76b3",
   "saudiarabiasoilrevenuerisesto210billionamidwar",
   "f24ebf37bcc6e5b5",
@@ -603,7 +601,9 @@
   "620e2aa755f323ce",
   "mideastcrudeoilflowshit98ofprewarleveljpmorgansays",
   "b1f6c697b7e43d19",
-  "goldsteadyastradersweighloweroilagainsthigheryields"
+  "goldsteadyastradersweighloweroilagainsthigheryields",
+  "b76e9dd8cfe5be89",
+  "oilclimbsaftertrumpdeniesheiswillingtoeasesanctionsoniran"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-09-30",
-  "count": 11
+  "count": 12
  },
- "last_run": "2026-09-30T04:45:17.713915+03:00",
+ "last_run": "2026-09-30T04:50:17.234333+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
