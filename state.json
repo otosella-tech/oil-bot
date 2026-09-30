@@ -4,8 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "4725fa69f74f6513",
-  "ieacouldweighfurtheroilreservereleasesaseuenergycostssoar",
   "9b275eab4f49ec89",
   "crudepricespressuredasmoreoilflowsthroughthestraitofhormuz",
   "341d48e650a4cf7e",
@@ -603,7 +601,9 @@
   "e72e925276bd8bc6",
   "irantalkstaketheheatoutoftheoilrally",
   "7eb1ad29db983c97",
-  "oilfuturesrisedespiteincreasingflows"
+  "oilfuturesrisedespiteincreasingflows",
+  "e252e05a12b2b7aa",
+  "texasoilgasactivitycontinuestoincreasedespitecostpressures"
  ],
  "releases_done": {
   "2026-09-30|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T23:45:19.602377+03:00",
+ "last_run": "2026-09-30T23:50:20.775392+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
