@@ -4,10 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "74c91400b5f84010",
-  "treasuryyieldsclimbtofreshhighswhileoilrises",
-  "9647e19d68b27530",
-  "oilpricesandbondyieldskeeprisingputtingadamperonstocks",
   "e9640eec18159876",
   "alitostepsasideinamajorclimatecaseafterscrutinyoveroilstockh",
   "6e31526c55f1906f",
@@ -603,7 +599,11 @@
   "c973391789d887a0",
   "oilfuturescrudesteadiesastrumppushesbackoniranconditions",
   "35e7ec50857cf996",
-  "canadiandollarremainssubduedneartwomonthlowsasfallingoilpric"
+  "canadiandollarremainssubduedneartwomonthlowsasfallingoilpric",
+  "2dae34e279788284",
+  "middleeastoilexportsreboundsharplyasshippersregainconfidence",
+  "6d646c6a8d306509",
+  "oilpricesedgehigheraftersharpdropasmiddleeastsupplyrecovers"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-09-30",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-09-30T09:30:23.075389+03:00",
+ "last_run": "2026-09-30T09:35:15.667140+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1248,6 +1248,10 @@
   {
    "d": "2026-09-30",
    "t": "Oil Prices Jumps as Trump Says He Offered Iran ‘Nothing’ on Sanctions - Yahoo Finance"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Middle East Oil Exports Rebound Sharply As Shippers Regain Confidence In Strait Of Hormuz - i24NEWS"
   }
  ]
 }
