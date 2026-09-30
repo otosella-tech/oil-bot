@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "98d40733fa45c212",
-  "stocksfallashigheroilpricestreasuryyieldsweigh",
   "02cd666710841fd6",
   "jeffersonenergytoacquireusdgroupcrudeoillogisticsassetsfor25",
   "6b05f26222cf5455",
@@ -603,7 +601,9 @@
   "06ec48105664fa6e",
   "middleeastoilexportsreboundasiranschokeholdonhormuzbreaksdow",
   "a05eec491c6a5d15",
-  "whyareboundofoilshipmentsisntbringingabigdropinprices"
+  "whyareboundofoilshipmentsisntbringingabigdropinprices",
+  "ed143899ad0ed0e2",
+  "oilsteadiesasstalledusirantalksoffsetsupplyrecovery"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -615,7 +615,7 @@
   "date": "2026-09-30",
   "count": 59
  },
- "last_run": "2026-09-30T12:05:16.122819+03:00",
+ "last_run": "2026-09-30T12:10:19.559818+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
