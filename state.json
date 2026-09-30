@@ -4,10 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "6fe1eb401f0f868e",
-  "stocksholdsteadyonwallstreetasoilpriceseasetreasuryyieldsrem",
-  "4282404395ea8b89",
-  "eueyesmethanelawdelayieatodiscussoilstockreleasesifneeded",
   "707cd92282a32c5d",
   "irantalkstaketheheatoutoftheoilrally",
   "ebb0642f471cb181",
@@ -603,7 +599,11 @@
   "7fa6c7bbda8c4d08",
   "theoilandaitugofwartheaiopecideaandgradingseptembersmarket",
   "6e5a853c5ff16d43",
-  "warexposesthecostofthewestsretreatfromoilrefining"
+  "warexposesthecostofthewestsretreatfromoilrefining",
+  "0cc07a4b845e004e",
+  "africasmassivecementexpansioncoulddriveanenergyboom",
+  "c801e9f6c85dfdf1",
+  "threevesselsstruckinstraitofhormuzasiransgriploosensmaritime"
  ],
  "releases_done": {
   "2026-09-30|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T22:55:16.711608+03:00",
+ "last_run": "2026-09-30T23:00:28.015601+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1443,6 +1443,10 @@
   {
    "d": "2026-09-30",
    "t": "War Exposes the Cost of the West’s Retreat From Oil Refining - Bloomberg.com"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Three Vessels Struck in Strait of Hormuz as Iran’s Grip Loosens - maritime-executive.com"
   }
  ]
 }
