@@ -4,10 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "d0800fb0073be8af",
-  "oilpricessettleslightlyhigheronsupplyworriesastrumprejectsir",
-  "118b2e3cd2457088",
-  "oilpricesjumppast100aftertrumprejectsiranproposal",
   "7761cc9feea27f13",
   "crudeoilexportsviahormuzat337millionbarrelsthisweekdatashows",
   "0e33e183f6f6bf98",
@@ -603,7 +599,11 @@
   "286617da3e53c62c",
   "oilgainsaftertrumpdeniesheiswillingtoeasesanctionsoniran",
   "57ce49170d400c1c",
-  "gulfcrudeoilexportsreturnto2025levelgoldmansachssays"
+  "gulfcrudeoilexportsreturnto2025levelgoldmansachssays",
+  "7ff6523dfe7d0b31",
+  "oilremainselevateddespitepersiangulfexportsrecovery",
+  "3ecc755ff151acdd",
+  "petrovietnamsrefineryunittobuyatleast2millionbarrelsofcrudeo"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -615,7 +615,7 @@
   "date": "2026-09-30",
   "count": 31
  },
- "last_run": "2026-09-30T08:10:18.215730+03:00",
+ "last_run": "2026-09-30T08:15:18.305418+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
