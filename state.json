@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "608bcde223d7922c",
-  "usiranholdseparatemediatortalksasmideastoilexportshitwartime",
   "20bb8544c5045e88",
   "oiljustjumpedontrumpsiranrejectionandtotalenergiesisalreadyc",
   "e6182470a8a30c8c",
@@ -603,7 +601,9 @@
   "d09acfd9a30bfbc5",
   "africanheadsofstatebreakgroundfor16boilrefineryprojectabcnew",
   "0fbbe755671dbd4a",
-  "apicrudeoilinventoriesrise1019mbarrelsdefying19mdrawforecast"
+  "apicrudeoilinventoriesrise1019mbarrelsdefying19mdrawforecast",
+  "3074d5bb13c0f680",
+  "uscrudeoiltumblesbackbelow100aftertrumpsayshesopentotalkingt"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -615,7 +615,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T15:00:31.619114+03:00",
+ "last_run": "2026-09-30T15:05:16.554354+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1340,6 +1340,10 @@
   {
    "d": "2026-09-30",
    "t": "Aliko Dangote launches Kenya oil refinery amid land protest in Lamu - bbc.com"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN - CNBC"
   }
  ]
 }
