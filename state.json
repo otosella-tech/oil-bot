@@ -4,10 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "296787e75b4f514e",
-  "impactofsurgeinoilprices",
-  "d45eedcead165183",
-  "oilpricesriseforsecondsessiononcontinuedmiddleeastsupplyconc",
   "d7216d88d9d051f6",
   "itstimefortrumptochallengetheoilindustry",
   "9e45056f5f556585",
@@ -603,7 +599,11 @@
   "ec6db2f3d3bb3c5e",
   "mostequitiesriseafteroilpriceplungeusdatainfocus",
   "b7dd1e1ddbb0abf4",
-  "oilfallsonsignsofmiddleeastexportrecovery"
+  "oilfallsonsignsofmiddleeastexportrecovery",
+  "ebfd87fe3602bcef",
+  "oilpricesslipfurtherasgulfexportsrecover",
+  "cc2c6e99ec686489",
+  "usstocksriseaspceandmicronposekeytestsmarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -615,7 +615,7 @@
   "date": "2026-09-30",
   "count": 54
  },
- "last_run": "2026-09-30T11:15:19.640274+03:00",
+ "last_run": "2026-09-30T11:20:18.851372+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
