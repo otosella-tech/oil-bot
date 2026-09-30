@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "4b61b9fdd6b5177c",
-  "usequityindexesfallinmiddaytrading",
   "14c980881d8e9365",
   "oilpricegainsparedasqatarusirantalksloombyreuters",
   "629363ae178b5e6a",
@@ -603,7 +601,9 @@
   "792a29512891941a",
   "brentcrudeoilholdsabove100asstraitofhormuzuncertaintyoffsets",
   "0f28fe9ee87ccbe5",
-  "comebackstorynewpipelinesboostpermiannaturalgaseconomicsbuto"
+  "comebackstorynewpipelinesboostpermiannaturalgaseconomicsbuto",
+  "23b2fc0aed4ebd9d",
+  "bitcoinrisesto835kamidafallinoilpricesandaletupintreasuryyie"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 7
  },
- "last_run": "2026-09-30T04:10:17.921169+03:00",
+ "last_run": "2026-09-30T04:15:18.330650+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
