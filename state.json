@@ -4,8 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "2904d887db89e939",
-  "ieacouldconsidermoreoilreservereleasesaseuropefacestoughwint",
   "6107407579829cc1",
   "middleeasternoilexportsimprovetobestsincefebruarycrudeoilpri",
   "d5e1697c5c8d7b1e",
@@ -603,7 +601,9 @@
   "61fe7b6cf1ad32aa",
   "howoilandtrumpareescalatingthefalklandsdispute",
   "d3339a347e86e97f",
-  "threevesselsstruckinstraitofhormuzasiransgriploosens"
+  "threevesselsstruckinstraitofhormuzasiransgriploosens",
+  "835d12a24d00f837",
+  "oilandgasactivityincreasesdespitecostpressureslongersupplier"
  ],
  "releases_done": {
   "2026-09-30|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T22:15:19.803257+03:00",
+ "last_run": "2026-09-30T22:20:18.056755+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
