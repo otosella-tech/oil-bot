@@ -4,8 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "7596f6846e8cdb6a",
-  "whydomicrochannelsformincoldproductionofheavyoil",
   "d3d11c2c1d8bfdfc",
   "oilriskpremiumisbecomingstructural",
   "8107a6707a28279c",
@@ -603,7 +601,9 @@
   "74e771d866d6c404",
   "opecexpectedtokeepoilproductionquotasunchanged",
   "dd523a5233c076cd",
-  "brentcrudeoilpricetodaywhyareoilpricesrisingassaudiexportsre"
+  "brentcrudeoilpricetodaywhyareoilpricesrisingassaudiexportsre",
+  "3fddc418a2be2075",
+  "economicwarisiranlosingitsleverageoverthestraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -615,7 +615,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T16:30:27.554642+03:00",
+ "last_run": "2026-09-30T16:35:15.036425+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-09-30",
    "t": "OPEC+ Expected to Keep Oil Production Quotas Unchanged"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz? - Al Jazeera"
   }
  ]
 }
