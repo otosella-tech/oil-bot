@@ -606,16 +606,16 @@
   "gulfcrudeoilexportsreturnto2025levelgoldmansachssays"
  ],
  "releases_done": {},
- "last_digest": "2026-09-29",
+ "last_digest": "2026-09-30",
  "digest_prices": {
-  "WTI": 94.3,
-  "Brent": 99.83
+  "WTI": 89.5,
+  "Brent": 96.3
  },
  "llm": {
   "date": "2026-09-30",
-  "count": 25
+  "count": 31
  },
- "last_run": "2026-09-30T07:55:14.896226+03:00",
+ "last_run": "2026-09-30T08:00:25.920792+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
