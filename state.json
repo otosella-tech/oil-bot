@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "2fd01145b6250f6a",
-  "oilpricesoffhighsafterreportssaudipipelinerampingbackup",
   "0cf9719e52e7e35e",
   "usstrategicpetroleumreservefallstolowestlevelsince1982",
   "a7654c81b6a9499e",
@@ -603,7 +601,9 @@
   "63de6433bb12e89a",
   "middleeasterncrudeoilexportshavereboundedto98ofprewarlevelsa",
   "b76637519a2c39c2",
-  "oilstaysabove103aftertrumpdenieseasingsanctionsoniran"
+  "oilstaysabove103aftertrumpdenieseasingsanctionsoniran",
+  "e9a127be61326fc9",
+  "stockstempergainsasoilparesheavylossesusdatainfocus"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 13
  },
- "last_run": "2026-09-30T05:50:18.133578+03:00",
+ "last_run": "2026-09-30T05:55:16.186021+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
