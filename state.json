@@ -4,12 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "d3d11c2c1d8bfdfc",
-  "oilriskpremiumisbecomingstructural",
-  "8107a6707a28279c",
-  "oilpricesclimbforseconddayovermiddleeastsupplyconcerns",
-  "79f29b2fb3e06ec4",
-  "europeanstocksedgehigherasbondyieldsandoilpricesremaininfocu",
   "f30d0227a5ed83f8",
   "saudiarabiarestartsredseacrudeoilloadings",
   "d97133f94aabe279",
@@ -603,7 +597,13 @@
   "dd523a5233c076cd",
   "brentcrudeoilpricetodaywhyareoilpricesrisingassaudiexportsre",
   "3fddc418a2be2075",
-  "economicwarisiranlosingitsleverageoverthestraitofhormuz"
+  "economicwarisiranlosingitsleverageoverthestraitofhormuz",
+  "e3f4368f438a240a",
+  "middleeastcrudeoilexportsbackatprewarlevelsanalystssay",
+  "d3137cf936b73a36",
+  "crudeoiloilpricesdeclineassaudiarabiaincreasescrudesupplyvia",
+  "074aa22a17bc6f95",
+  "40millionbarrelsofcrudeoilslatedforsalewhyisbitcoinignoringi"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -615,7 +615,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T16:35:15.036425+03:00",
+ "last_run": "2026-09-30T16:40:18.254261+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1368,6 +1368,14 @@
   {
    "d": "2026-09-30",
    "t": "‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz? - Al Jazeera"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Middle East Crude Oil Exports Back at Prewar Levels, Analysts Say - WSJ"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Crude Oil: Oil prices decline as Saudi Arabia increases crude supply via key pipelines - 富途牛牛"
   }
  ]
 }
