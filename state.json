@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "6dd90a841ec18a9a",
-  "novemberwticrudeoilcontractclosesup019or02settlesat9260perba",
   "721010cbd6d3f250",
   "averagegaspriceinvirginiarisesascrudeoilcostsclimb",
   "90fb56ac43a39288",
@@ -603,7 +601,9 @@
   "ec7f265fc96c76d5",
   "dangotetobeginconstructionof16billioneastafricarefineryinken",
   "3709900bc3191696",
-  "whitehouseweighsreddyeddieselreliefasfuelpricessoar"
+  "whitehouseweighsreddyeddieselreliefasfuelpricessoar",
+  "bd92e8b788157f02",
+  "howtheoilcrisesof1973andtodaydiffer"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 19
  },
- "last_run": "2026-09-30T06:40:18.885752+03:00",
+ "last_run": "2026-09-30T06:45:52.737875+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
