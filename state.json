@@ -4,12 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "a3929f99484d7c0e",
-  "lindseyograhamsanctioningrussiaandiranact2026restrictiveusta",
-  "d35f2085588d5e88",
-  "oilrisesdespitesaudipipelinerepairasusirantalksstall",
-  "f68e52dc0ebbda8f",
-  "usdgrouptosellportarthurcrudeoilterminaltojeffersonenergycos",
   "c66741f1766b2a8b",
   "oilpricesriseasconflictingusiranstatementssustainsupplyrisk",
   "668564f91884c7b4",
@@ -603,7 +597,13 @@
   "79b2d686b31f2ad8",
   "usurgeseuropetoreleasemoreemergencyoilreservesaspricessurge",
   "5f253272363c3576",
-  "threeshipsincludingcrudeoilandlngtankershitbyunknownprojecti"
+  "threeshipsincludingcrudeoilandlngtankershitbyunknownprojecti",
+  "fe70f70aa48d6b47",
+  "russiaextendsdieselexportbanthroughoct31",
+  "2fde05434ad77475",
+  "oilpricesfallasopecandieaslash2026demandoutlooks",
+  "30053053e721521f",
+  "uspresseseuropetoreleasemoreemergencyoilreservesaspricessurg"
  ],
  "releases_done": {},
  "last_digest": "2026-09-30",
@@ -615,7 +615,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T15:25:17.565812+03:00",
+ "last_run": "2026-09-30T15:30:25.643228+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1352,6 +1352,10 @@
   {
    "d": "2026-09-30",
    "t": "Three ships, including crude oil and LNG tankers, hit by unknown projectiles in Strait of Hormuz in one day - Hindustan Times"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Russia Extends Diesel Export Ban Through Oct. 31"
   }
  ]
 }
