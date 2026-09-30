@@ -4,8 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "ebb0642f471cb181",
-  "dangotetargets10millioninvestorsinafricasbiggestipo",
   "74c13140ca1b8a4c",
   "oilcoordinationgroupcontinuedconcernaboutpriceswhilesupplyre",
   "4725fa69f74f6513",
@@ -603,7 +601,9 @@
   "c801e9f6c85dfdf1",
   "threevesselsstruckinstraitofhormuzasiransgriploosensmaritime",
   "6c8934d45c6a57a0",
-  "cmewticrudeoilfuturesclimbpast91ontightsupply"
+  "cmewticrudeoilfuturesclimbpast91ontightsupply",
+  "e72e925276bd8bc6",
+  "irantalkstaketheheatoutoftheoilrally"
  ],
  "releases_done": {
   "2026-09-30|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T23:05:17.099861+03:00",
+ "last_run": "2026-09-30T23:10:19.697354+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
@@ -1447,6 +1447,10 @@
   {
    "d": "2026-09-30",
    "t": "Three Vessels Struck in Strait of Hormuz as Iran’s Grip Loosens - maritime-executive.com"
+  },
+  {
+   "d": "2026-09-30",
+   "t": "Iran Talks Take the Heat Out of the Oil Rally - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
