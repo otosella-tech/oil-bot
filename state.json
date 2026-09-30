@@ -4,10 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "929ff2ac007e0191",
-  "threeeunationscallfornew2040renewableenergygoal",
-  "76365716bc36a762",
-  "stockmarkettodaysept292026sp500fallsoneasingoilpricestreasur",
   "9c2219c0a481ee52",
   "arecurrentoilpriceshighenoughtofuelexxonmobilsgrowth",
   "ced7b65eccfdfafd",
@@ -603,7 +599,11 @@
   "0eaffe7ea68ebb8e",
   "texasoilgasproductionincreasesslightlyinthirdquarterasiranwa",
   "47fbc6bfde58155b",
-  "novemberwticrudeoilcontractclosesup104or12settlesat9042perba"
+  "novemberwticrudeoilcontractclosesup104or12settlesat9042perba",
+  "c6e3098e7f930a15",
+  "guyanasoilrichesaretransformingitseconomyatbreakneckspeed",
+  "d5edf3777e57faec",
+  "oilpricesreboundasmiddleeastriskspersist"
  ],
  "releases_done": {
   "2026-09-30|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 60
  },
- "last_run": "2026-09-30T21:55:15.492979+03:00",
+ "last_run": "2026-09-30T22:00:33.376719+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
