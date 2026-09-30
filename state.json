@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "f24ebf37bcc6e5b5",
-  "recorddieselcostsaddfreshpressureonukeconomy",
   "8baafbd5ae6ae0ba",
   "irantoutshormuzattacksasoilflowsincreasedespitetensions",
   "a242abc346a15ff5",
@@ -603,7 +601,9 @@
   "b76e9dd8cfe5be89",
   "oilclimbsaftertrumpdeniesheiswillingtoeasesanctionsoniran",
   "59b24133aa82e4a0",
-  "womannoticesherchevroletsoilgaugeisathalffullsosheadds10quar"
+  "womannoticesherchevroletsoilgaugeisathalffullsosheadds10quar",
+  "3692f167507e136f",
+  "federalindictmenttargets3meninpermianbasincrudeoiltheftschem"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 12
  },
- "last_run": "2026-09-30T05:15:26.047514+03:00",
+ "last_run": "2026-09-30T05:20:18.581986+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
