@@ -4,8 +4,6 @@
   "Brent": 96.37
  },
  "seen": [
-  "34449dcd8f4ca11c",
-  "gasolinepricerises32centsin2weeksto458",
   "30a503eafc25a1c7",
   "russiatightenssecrecyonenergyexports",
   "55352063dd82aa1f",
@@ -603,7 +601,9 @@
   "3114716ddfa8fcfc",
   "crudeoilpulledbackmetalsshowedmixedchangeslmealuminumlmenick",
   "daebffbf00dd6ccc",
-  "oilpricesmixedbutproductionrecoverymayweigh"
+  "oilpricesmixedbutproductionrecoverymayweigh",
+  "3dc42e114fde9e63",
+  "oilprivatesurveyofinventoryshowsaheadlinecrudeoilbuildvsdraw"
  ],
  "releases_done": {
   "2026-09-29|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-09-30",
   "count": 5
  },
- "last_run": "2026-09-30T03:40:17.980943+03:00",
+ "last_run": "2026-09-30T03:45:21.611895+03:00",
  "sent_stories": [
   {
    "d": "2026-09-27",
