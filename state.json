@@ -4,10 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "b04f9e928491f779",
-  "oiltycoondangoteafricawillbemostlyselfsufficientinfuelby2030",
-  "d2568f4bc7f32592",
-  "whitehouselookingtoeuropetoreleasedieselfromstrategicreserve",
   "ac5cfaf04bfd2506",
   "longtermtreasuryyieldspushhigherdespitedeclineinoilprices",
   "642dd4471f6fccf4",
@@ -603,7 +599,11 @@
   "9a792cca419f8d19",
   "threeoiltankershitbyprojectilesinhormuzstraitontuesdaymarisk",
   "cc2d13f7a971e290",
-  "chineserefinerssuspendoctfuelexportspetrochinacancelscargoes"
+  "chineserefinerssuspendoctfuelexportspetrochinacancelscargoes",
+  "ad0bc5719ea577a6",
+  "uscrudeoilinventoriesup02inweekendingsept25",
+  "01d502c03f27bdc8",
+  "dallasfedoilfirmssee88wti"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 28
  },
- "last_run": "2026-10-01T10:00:31.009922+03:00",
+ "last_run": "2026-10-01T10:05:15.354719+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
