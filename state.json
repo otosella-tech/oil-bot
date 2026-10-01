@@ -4,12 +4,6 @@
   "Brent": 100.57
  },
  "seen": [
-  "286617da3e53c62c",
-  "oilgainsaftertrumpdeniesheiswillingtoeasesanctionsoniran",
-  "57ce49170d400c1c",
-  "gulfcrudeoilexportsreturnto2025levelgoldmansachssays",
-  "7ff6523dfe7d0b31",
-  "oilremainselevateddespitepersiangulfexportsrecovery",
   "3ecc755ff151acdd",
   "petrovietnamsrefineryunittobuyatleast2millionbarrelsofcrudeo",
   "2641a49f8697ea8d",
@@ -603,7 +597,13 @@
   "e125e45c00a4c05a",
   "venezuelasoilcomebackputsthese4energystocksinfocus",
   "92f4e2a8612cb184",
-  "currentpriceofoilasofseptember242026"
+  "currentpriceofoilasofseptember242026",
+  "efcfeaf02a5cb590",
+  "shiftingoilmarketpositioningduringthestraitofhormuzcrisis",
+  "b7be33c3918014cc",
+  "thelatestoilpriceshockripplingthroughtheeconomyisarefiningcr",
+  "0a3ec0e128829290",
+  "trumptheenvironmentalisthowhisiranwarexposedthefragilityofdi"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-01",
-  "count": 45
+  "count": 47
  },
- "last_run": "2026-10-01T15:55:15.369490+03:00",
+ "last_run": "2026-10-01T16:00:32.089076+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
@@ -1488,6 +1488,10 @@
   {
    "d": "2026-10-01",
    "t": "Venezuela's Oil Comeback Puts These 4 Energy Stocks in Focus - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Shifting Oil Market Positioning During the Strait of Hormuz Crisis - oxfordenergy.org"
   }
  ]
 }
