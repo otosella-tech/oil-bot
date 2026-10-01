@@ -4,8 +4,6 @@
   "Brent": 102.83
  },
  "seen": [
-  "47d2d373a664673f",
-  "analystsraise2026oilforecastsonprolongedgulfdisruption",
   "c201fa96591e23ff",
   "rupeelingersaroundbottomofasiafxpileasglobalheadwindsdeepen",
   "79b2d686b31f2ad8",
@@ -603,7 +601,9 @@
   "1b0837df96bce584",
   "wticrudeoilpriceforecastbullishreversaltestskeyresistance",
   "85054e1683d46c3e",
-  "globaloilrefiningoutlook"
+  "globaloilrefiningoutlook",
+  "ce09bad5e216e841",
+  "powerdemandissurgingfasterthangridscankeepup"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 3
  },
- "last_run": "2026-10-02T00:55:14.731504+03:00",
+ "last_run": "2026-10-02T01:01:04.096215+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
