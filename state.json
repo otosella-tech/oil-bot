@@ -4,8 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "4436ff4ce0b9dc21",
-  "stockmarketcommentarytrumpsignalsamajordropinoilpriceswillus",
   "d9f899f7f493f50f",
   "oilextendslosses",
   "2389810ce1dbe2e8",
@@ -603,7 +601,9 @@
   "5267d4bb5b73a693",
   "naturalgasandoilforecastgulfexportsrecoverasuscrudestocksris",
   "ac5cfaf04bfd2506",
-  "longtermtreasuryyieldspushhigherdespitedeclineinoilprices"
+  "longtermtreasuryyieldspushhigherdespitedeclineinoilprices",
+  "b3207c94ad4d8b6f",
+  "gulfoilexportsreboundtoprewarlevelsdespiteiranianattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-01",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-10-01T10:45:18.058374+03:00",
+ "last_run": "2026-10-01T10:50:18.246229+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
@@ -1460,6 +1460,10 @@
   {
    "d": "2026-10-01",
    "t": "Oil steadies as Gulf exports recover, US-Iran diplomacy in focus - Reuters"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Gulf Oil Exports Rebound to Prewar Levels, Despite Iranian Attacks - The Maritime Executive"
   }
  ]
 }
