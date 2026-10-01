@@ -4,8 +4,6 @@
   "Brent": 100.57
  },
  "seen": [
-  "583b1309a0b19d23",
-  "updatewallstreetdriftslowerdespiteretreatinoilprices",
   "11db98c762be7212",
   "currentpriceofoilasofsept282026",
   "bc001d3d825da461",
@@ -603,7 +601,9 @@
   "b2e668ea04f5cdde",
   "wticrudeoilfuturesfallbelow90aspipelineseasesupply",
   "eec373881cde34ab",
-  "hasiranlostitsgripongulfoilexports"
+  "hasiranlostitsgripongulfoilexports",
+  "888971743856e903",
+  "wticrudeoilfuturesfellbelow93aspeacetalksadvanced"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 36
  },
- "last_run": "2026-10-01T12:00:29.036686+03:00",
+ "last_run": "2026-10-01T12:05:15.588637+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
