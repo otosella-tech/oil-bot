@@ -4,10 +4,6 @@
   "Brent": 100.57
  },
  "seen": [
-  "3ecc755ff151acdd",
-  "petrovietnamsrefineryunittobuyatleast2millionbarrelsofcrudeo",
-  "2641a49f8697ea8d",
-  "oilpricessettleslightlyhigheronsupplyworriesastrumprejectsir",
   "99773f7aba4a64bf",
   "explainerhowtheuscontrolsiraqsoilrevenues",
   "b908888525f587ce",
@@ -603,7 +599,11 @@
   "b7be33c3918014cc",
   "thelatestoilpriceshockripplingthroughtheeconomyisarefiningcr",
   "0a3ec0e128829290",
-  "trumptheenvironmentalisthowhisiranwarexposedthefragilityofdi"
+  "trumptheenvironmentalisthowhisiranwarexposedthefragilityofdi",
+  "e2942bcf705f0088",
+  "dallasfedsurveyoilexecutivesexpect88wtiatend2026asiranwarclo",
+  "32144d769eabfb6a",
+  "3shipsincludingcrudeoiltankerlngtankerstruckinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-01",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-10-01T16:00:32.089076+03:00",
+ "last_run": "2026-10-01T16:05:18.747742+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
@@ -1492,6 +1492,14 @@
   {
    "d": "2026-10-01",
    "t": "Shifting Oil Market Positioning During the Strait of Hormuz Crisis - oxfordenergy.org"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Dallas Fed survey: oil executives expect $88 WTI at end-2026 as Iran war clouds planning - Oil & Gas Middle East"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "3 Ships, Including Crude Oil Tanker & LNG Tanker, Struck In Strait Of Hormuz - Marine Insight"
   }
  ]
 }
