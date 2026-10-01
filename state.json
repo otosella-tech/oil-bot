@@ -4,8 +4,6 @@
   "Brent": 100.57
  },
  "seen": [
-  "35e7ec50857cf996",
-  "canadiandollarremainssubduedneartwomonthlowsasfallingoilpric",
   "2dae34e279788284",
   "middleeastoilexportsreboundsharplyasshippersregainconfidence",
   "6d646c6a8d306509",
@@ -603,7 +601,9 @@
   "23e22fc982033d9f",
   "trumpdoesntruleoutannihilatingiranasoilpricesrise2andbrentcr",
   "e84182a81bcc26d3",
-  "currentpriceofoilasofseptember252026"
+  "currentpriceofoilasofseptember252026",
+  "a5bea8a594161c93",
+  "gulfoilexportsreboundtoprewarlevelsdespiteiranianattacksmari"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-01",
-  "count": 49
+  "count": 50
  },
- "last_run": "2026-10-01T17:35:20.437113+03:00",
+ "last_run": "2026-10-01T17:40:18.123942+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
