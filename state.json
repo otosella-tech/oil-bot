@@ -4,8 +4,6 @@
   "Brent": 100.57
  },
  "seen": [
-  "2e6c8052cfedce43",
-  "somalipirateskilledfivecrewmembersonhijackedtankerofficialss",
   "286617da3e53c62c",
   "oilgainsaftertrumpdeniesheiswillingtoeasesanctionsoniran",
   "57ce49170d400c1c",
@@ -603,7 +601,9 @@
   "9c1b4d0fe7b4249d",
   "recurringenergyshocksfromtemporarypaintopermanentcosts",
   "e125e45c00a4c05a",
-  "venezuelasoilcomebackputsthese4energystocksinfocus"
+  "venezuelasoilcomebackputsthese4energystocksinfocus",
+  "92f4e2a8612cb184",
+  "currentpriceofoilasofseptember242026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 45
  },
- "last_run": "2026-10-01T15:35:18.997764+03:00",
+ "last_run": "2026-10-01T15:40:19.257607+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
