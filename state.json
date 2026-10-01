@@ -4,8 +4,6 @@
   "Brent": 100.57
  },
  "seen": [
-  "36aff76096e019a8",
-  "usstockfuturesdrifthigherasyieldspauseoilpricesslide",
   "ec7f265fc96c76d5",
   "dangotetobeginconstructionof16billioneastafricarefineryinken",
   "3709900bc3191696",
@@ -603,7 +601,9 @@
   "b4d33f31238a06b5",
   "oilandinterestratesdominatedthethirdquarter",
   "94560f5e513b85cb",
-  "oilbillsbondyieldsoutweightechoptimismineuropeanboursesmidda"
+  "oilbillsbondyieldsoutweightechoptimismineuropeanboursesmidda",
+  "c5f1a56cfc907112",
+  "crudeoilpriceforecastcrudeoilbouncesearlyonthursday"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 41
  },
- "last_run": "2026-10-01T15:15:18.365378+03:00",
+ "last_run": "2026-10-01T15:20:21.129269+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
