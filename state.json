@@ -4,12 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "c704b240ea8f69fe",
-  "californiaandtheeumovetoreinintheenvironmentalcostofai",
-  "094a115716bf20c1",
-  "equitiesdipasbondyieldsholdnearmultidecadehighs",
-  "7cebe75e8268d74d",
-  "federalindictmentallegespermianbasincrudeoiltheftschememidla",
   "b04f9e928491f779",
   "oiltycoondangoteafricawillbemostlyselfsufficientinfuelby2030",
   "d2568f4bc7f32592",
@@ -603,7 +597,13 @@
   "a1b2e54d77e1afe7",
   "oilpricessettledown25onsignsmiddleeastexportsrecovering",
   "3dce66cb65e23384",
-  "chineserefinerssuspendoctoberfuelexportsonecancelscargoessou"
+  "chineserefinerssuspendoctoberfuelexportsonecancelscargoessou",
+  "a90f98eae876fe20",
+  "trumpadmitsdieselusexportbancouldraisegasolineprices",
+  "9a792cca419f8d19",
+  "threeoiltankershitbyprojectilesinhormuzstraitontuesdaymarisk",
+  "cc2d13f7a971e290",
+  "chineserefinerssuspendoctfuelexportspetrochinacancelscargoes"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-01",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-10-01T09:55:14.131233+03:00",
+ "last_run": "2026-10-01T10:00:31.009922+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
@@ -1452,6 +1452,10 @@
   {
    "d": "2026-10-01",
    "t": "Serbia secures US sanctions waiver for its Russian-owned NIS oil firm - TVP World"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Three oil tankers hit by projectiles in Hormuz strait on Tuesday, Marisks says - Reuters"
   }
  ]
 }
