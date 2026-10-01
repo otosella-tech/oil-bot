@@ -4,10 +4,6 @@
   "Brent": 102.83
  },
  "seen": [
-  "a3bae62281f4f483",
-  "oilgainsasstalledusirantalkstrumpsupplyrecovery",
-  "9961f7abe0d9b6a5",
-  "bitcoinisittheinflationhedgewethoughtitwouldbeoilrisesabove1",
   "0edba8acd77752ab",
   "pumppriceskeepclimbingascrudeoilremainshigh",
   "bc9cd469fba3cb87",
@@ -603,7 +599,11 @@
   "00f576e18080800d",
   "canadatofasttrackoilpipelinemeanttodiversifyeconomyawayfromu",
   "dda97221b551b2ee",
-  "energybriefswhatsaffectingenergyprices"
+  "energybriefswhatsaffectingenergyprices",
+  "202fbde7f9b21f03",
+  "oklahomascushingoilinventoriesmadeanotherslightincrease",
+  "1f9cbbb741c1d4b2",
+  "nigeriasdangotebreaksgroundon16billioneastafricanoilrefinery"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 60
  },
- "last_run": "2026-10-01T22:10:53.797830+03:00",
+ "last_run": "2026-10-01T22:15:21.121812+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
@@ -1532,6 +1532,10 @@
   {
    "d": "2026-10-01",
    "t": "Saudi Arabia leads Japan’s oil imports in August; U.S. share surges - アラブニュース"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya - Reuters"
   }
  ]
 }
