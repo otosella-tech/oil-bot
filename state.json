@@ -4,12 +4,6 @@
   "Brent": 100.57
  },
  "seen": [
-  "8fcf93f801517088",
-  "foreigninvestorspull32billionfromindianmarketsasoilrallyretu",
-  "5867a84ec217a30a",
-  "doecontinuesstrategicreservereleasewith40mbarrelsofcrudeoil",
-  "57b6c4854437f9ca",
-  "gbpusdoilforecasttwotradestowatch",
   "1a44033e19f2e842",
   "onegroupoffundsisholdingupthestockmarketbarclayssaysoilprice",
   "6330745e38605746",
@@ -603,7 +597,13 @@
   "7bc63e17157a088c",
   "canadafasttracks1millionbpdpacificlinkoilpipelinetoasia",
   "91d7a619d1141e94",
-  "newpipelinewilldiversifycanadaseconomyawayfromus"
+  "newpipelinewilldiversifycanadaseconomyawayfromus",
+  "a11369006f168c50",
+  "carneyhopesanoilpipelinecanhelpcanadafightatradewar",
+  "65cd071bab69cfc6",
+  "oilisagainflowingoutofhormuz",
+  "667edb71837a8565",
+  "wticrudeoilfuturesreversegainsonmiddleeasttalks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-01",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-10-01T20:50:19.226204+03:00",
+ "last_run": "2026-10-01T20:55:14.979056+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
@@ -1520,6 +1520,14 @@
   {
    "d": "2026-10-01",
    "t": "Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Carney hopes an oil pipeline can help Canada fight a trade war - BBC"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Oil Is Again Flowing Out of Hormuz - Foreign Policy"
   }
  ]
 }
