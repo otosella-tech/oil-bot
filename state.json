@@ -4,8 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "2b4a65a817860ce5",
-  "currentpriceofoilasofsept292026",
   "6807142e7702cb28",
   "oilfallsonclimbingmiddleeastexportsdecliningiranianbargainin",
   "95e15762d23c3c0e",
@@ -603,7 +601,9 @@
   "e77ed9c19464bc20",
   "oiledgeslowerwithmiddleeastshipmentsbackinthespotlight",
   "b9deac4f144b2dde",
-  "brenttumblesto96asgulfoilflowsbounceback"
+  "brenttumblesto96asgulfoilflowsbounceback",
+  "7a22fdee5c9dd0ef",
+  "oilfallsasmiddleeastexportsrecovereasingsupplyworries"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 22
  },
- "last_run": "2026-10-01T08:35:19.235306+03:00",
+ "last_run": "2026-10-01T08:40:20.357575+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
