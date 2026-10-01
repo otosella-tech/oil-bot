@@ -4,8 +4,6 @@
   "Brent": 100.57
  },
  "seen": [
-  "2e8006656216403d",
-  "moreoiloutofthegulftranslatingtolowerprices",
   "36aff76096e019a8",
   "usstockfuturesdrifthigherasyieldspauseoilpricesslide",
   "ec7f265fc96c76d5",
@@ -603,7 +601,9 @@
   "52538f8d05bdbc4e",
   "analystslookatwtibrentspread",
   "b4d33f31238a06b5",
-  "oilandinterestratesdominatedthethirdquarter"
+  "oilandinterestratesdominatedthethirdquarter",
+  "94560f5e513b85cb",
+  "oilbillsbondyieldsoutweightechoptimismineuropeanboursesmidda"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 41
  },
- "last_run": "2026-10-01T15:05:16.275182+03:00",
+ "last_run": "2026-10-01T15:10:18.475551+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
