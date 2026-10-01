@@ -1,13 +1,9 @@
 {
  "price_base": {
-  "WTI": 91.41,
-  "Brent": 100.57
+  "WTI": 93.48,
+  "Brent": 102.83
  },
  "seen": [
-  "6330745e38605746",
-  "ukmtosaysthatacrudeoiltankerwasstruckontheportsidebyanunknow",
-  "2561ba4fb807ff72",
-  "oiltankerhitbyunknownprojectileinstraitofhormuzmaritimeagenc",
   "10da7baf4b9c71e4",
   "trumpandtehranareboxedinuntilthemidtermsbecauseiranwantsusga",
   "7d5af9099f561aad",
@@ -603,7 +599,11 @@
   "667edb71837a8565",
   "wticrudeoilfuturesreversegainsonmiddleeasttalks",
   "d89286529d189cf2",
-  "amazonsecures20yearsofnuclearpowerfromconstellation"
+  "amazonsecures20yearsofnuclearpowerfromconstellation",
+  "fb03340329b4bc56",
+  "brentoilrisesbackabove100aschineserefinersreportedlybanoctob",
+  "481539bf79c8a9d0",
+  "analysiscontainerratesandcrudeoilsignalfreightcostshavenotye"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 60
  },
- "last_run": "2026-10-01T21:05:20.286773+03:00",
+ "last_run": "2026-10-01T21:10:17.484772+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
