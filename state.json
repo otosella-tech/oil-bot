@@ -4,8 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "816286c3ca46bf17",
-  "iranthreatensmiddleeastenergyinfrastructureashormuzstandoffd",
   "2b4a65a817860ce5",
   "currentpriceofoilasofsept292026",
   "6807142e7702cb28",
@@ -603,7 +601,9 @@
   "f2d4a6d78e0abddf",
   "oilfuturescrudeeasesasmideastexportvolumespickup",
   "e77ed9c19464bc20",
-  "oiledgeslowerwithmiddleeastshipmentsbackinthespotlight"
+  "oiledgeslowerwithmiddleeastshipmentsbackinthespotlight",
+  "b9deac4f144b2dde",
+  "brenttumblesto96asgulfoilflowsbounceback"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 22
  },
- "last_run": "2026-10-01T08:15:18.494681+03:00",
+ "last_run": "2026-10-01T08:20:19.315114+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
