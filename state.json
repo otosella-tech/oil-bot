@@ -4,12 +4,6 @@
   "Brent": 100.57
  },
  "seen": [
-  "d6d8d0b109fcc459",
-  "oilpricesclimbastrumprulesouteasingiransanctions",
-  "10ee02fd9a756981",
-  "howtheuscontrolsiraqsoilrevenues",
-  "e8f6cd929e941402",
-  "oilpricesdown290926",
   "820ecc4569cceca0",
   "sugarpricesreboundascrudeoiljumps",
   "575e7c1846587f64",
@@ -603,7 +597,13 @@
   "22ddbc04cc7c4dd8",
   "currentpriceofoilasofoct12026",
   "b3e7820a513947e6",
-  "trumpsproposedbanondieselexportscouldhaveunintendedconsequen"
+  "trumpsproposedbanondieselexportscouldhaveunintendedconsequen",
+  "35e00962157e59e0",
+  "oilpricesriseaschinasuspendsfuelexports",
+  "3885bbbbf88fcdcd",
+  "dieselpricessurgeasglobalsuppliestighten",
+  "979bd4a41dffd6cd",
+  "blmannouncesnovember2026saleofoilandgasleasesinnewmexicookla"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 49
  },
- "last_run": "2026-10-01T16:45:22.551925+03:00",
+ "last_run": "2026-10-01T16:50:20.469460+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
