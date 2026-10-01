@@ -4,8 +4,6 @@
   "Brent": 100.57
  },
  "seen": [
-  "1a44033e19f2e842",
-  "onegroupoffundsisholdingupthestockmarketbarclayssaysoilprice",
   "6330745e38605746",
   "ukmtosaysthatacrudeoiltankerwasstruckontheportsidebyanunknow",
   "2561ba4fb807ff72",
@@ -603,7 +601,9 @@
   "65cd071bab69cfc6",
   "oilisagainflowingoutofhormuz",
   "667edb71837a8565",
-  "wticrudeoilfuturesreversegainsonmiddleeasttalks"
+  "wticrudeoilfuturesreversegainsonmiddleeasttalks",
+  "d89286529d189cf2",
+  "amazonsecures20yearsofnuclearpowerfromconstellation"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 60
  },
- "last_run": "2026-10-01T20:55:14.979056+03:00",
+ "last_run": "2026-10-01T21:00:31.603783+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
