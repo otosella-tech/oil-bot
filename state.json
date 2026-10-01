@@ -4,10 +4,6 @@
   "Brent": 102.83
  },
  "seen": [
-  "e0bdbec9404c64e5",
-  "africasrichestmanlauncheskenyaoilrefinerydespitelandprotests",
-  "684643f17aaf2489",
-  "watchjpmorganandgoldmanseemideastoilflowsnearprewarlevels",
   "6f6223ba808f794d",
   "alikodangotelauncheskenyaoilrefineryamidlandprotestinlamu",
   "72438caee9ed5154",
@@ -603,7 +599,11 @@
   "fe2e4ccf164b2ce9",
   "indiaoilrefinersshifttactics",
   "3fe15a47daea6ade",
-  "fasttrackinganoilpipelinetothefraserriverestuarygambleswiths"
+  "fasttrackinganoilpipelinetothefraserriverestuarygambleswiths",
+  "4abf351c72c95b5a",
+  "canadasproposedoilpipelineofferscarneyrelieffromdomesticandg",
+  "b872f0f304cbdd3f",
+  "crudeoilexportsfromhormuznearlyreturntoprewarlevels"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 60
  },
- "last_run": "2026-10-01T23:10:19.636670+03:00",
+ "last_run": "2026-10-01T23:15:20.936948+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
@@ -1540,6 +1540,14 @@
   {
    "d": "2026-10-01",
    "t": "Crude Oil Prices Surge on Possible Escalation of US-Iran War - Barchart.com"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Canada’s Proposed Oil Pipeline Offers Carney Relief From Domestic and Global Turmoil - The New York Times"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Crude Oil Exports from Hormuz Nearly Return to Pre-War Levels - Nacionale"
   }
  ]
 }
