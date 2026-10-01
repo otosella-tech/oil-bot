@@ -4,10 +4,6 @@
   "Brent": 102.83
  },
  "seen": [
-  "be1f5ffae07923dd",
-  "oilpricesreboundasmiddleeastsupplyconcernspersistdespitereco",
-  "08dd4ec7c9ab91a9",
-  "bankofamericasaysbrentcrudeoilcouldtop150abarrelifiranwardis",
   "42e086eb93e23690",
   "analystscutchinasq4crudeimportforecastsby400000bpd",
   "472d1b58dbca8675",
@@ -603,7 +599,11 @@
   "a239fe3bbee07765",
   "oiljumpsonrenewedconflictfears",
   "b9ff137bec52a68e",
-  "dollarindexbreaksitsjunepeakastheeurosinksondearercrudeoil"
+  "dollarindexbreaksitsjunepeakastheeurosinksondearercrudeoil",
+  "da570cfe0b7dcf07",
+  "oiljumps4onreportschinahaltsfuelexportsustroopsheadtomiddlee",
+  "bc2d1af6c5d745f0",
+  "trumpstalkofdieselexportbansplitsbrentandwtioilpricesuniteds"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 60
  },
- "last_run": "2026-10-01T22:50:18.830700+03:00",
+ "last_run": "2026-10-01T22:55:16.439452+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
