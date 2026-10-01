@@ -4,8 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "19d20f6c9211464b",
-  "unitedstatesoilfundusoslidestuesdaywhatsdrivingtheaction",
   "65b70928fabbb6e7",
   "alphacomputeoperatingoilandgasassetsduediligence",
   "816286c3ca46bf17",
@@ -603,7 +601,9 @@
   "4dab39b2a0f0b8e6",
   "oilpricesedgeloweronsignsofrisingcrudeexportsfrommiddleeast",
   "d7c400eec4839984",
-  "indiasharesopenlowerasforeignoutflowsdentrisksentiment"
+  "indiasharesopenlowerasforeignoutflowsdentrisksentiment",
+  "f2d4a6d78e0abddf",
+  "oilfuturescrudeeasesasmideastexportvolumespickup"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 22
  },
- "last_run": "2026-10-01T08:00:29.146243+03:00",
+ "last_run": "2026-10-01T08:05:15.596192+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
