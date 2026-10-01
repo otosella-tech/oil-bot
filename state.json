@@ -4,8 +4,6 @@
   "Brent": 100.57
  },
  "seen": [
-  "e9a127be61326fc9",
-  "stockstempergainsasoilparesheavylossesusdatainfocus",
   "c1b72ccbeff652bc",
   "oilpricesoffhighsafterreportssaudipipelinerampingbackup",
   "2e8006656216403d",
@@ -603,7 +601,9 @@
   "6741bdbdd3ee127a",
   "eucommissionspokespersonsaystheyarehavinghighlevelcontactswi",
   "ca411348563c6ab4",
-  "oilpricesriseaschineserefinersreportedlybanoctoberfuelexport"
+  "oilpricesriseaschineserefinersreportedlybanoctoberfuelexport",
+  "52538f8d05bdbc4e",
+  "analystslookatwtibrentspread"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 41
  },
- "last_run": "2026-10-01T14:50:18.196235+03:00",
+ "last_run": "2026-10-01T14:55:16.010269+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
