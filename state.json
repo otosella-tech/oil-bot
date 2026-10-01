@@ -4,12 +4,6 @@
   "Brent": 102.83
  },
  "seen": [
-  "7d5af9099f561aad",
-  "oilfuturescrudeedgesupastrumppushesbackoniranterms",
-  "af0f2856d45baac6",
-  "crudeoilreboundsto90",
-  "6ab9bd1a20d97ee4",
-  "straitofhormuzoilflowsnearprewarlevelsasiransgripslipsandbre",
   "69475b40efa37312",
   "wticrudeoilwhypricesremainvulnerabletoreversals",
   "5c75f4639f52664e",
@@ -603,7 +597,13 @@
   "481539bf79c8a9d0",
   "analysiscontainerratesandcrudeoilsignalfreightcostshavenotye",
   "d61e34b45ad72313",
-  "trumpsthreattobandieselexportssetsoffglobalalarms"
+  "trumpsthreattobandieselexportssetsoffglobalalarms",
+  "c5fee1a43fe8c98d",
+  "wticrudeoilfuturesclimbpast91ontightsupply",
+  "ea41447257d1d6fd",
+  "saudiarabialeadsjapansoilimportsinaugustussharesurges",
+  "6b633fa08f46ff80",
+  "novemberwticrudeoilcontractclosesup245or27settlesat9287perba"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 60
  },
- "last_run": "2026-10-01T21:40:17.864310+03:00",
+ "last_run": "2026-10-01T21:45:17.774837+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
@@ -1528,6 +1528,10 @@
   {
    "d": "2026-10-01",
    "t": "Oil Is Again Flowing Out of Hormuz - Foreign Policy"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Saudi Arabia leads Japan’s oil imports in August; U.S. share surges - アラブニュース"
   }
  ]
 }
