@@ -4,8 +4,6 @@
   "Brent": 100.57
  },
  "seen": [
-  "92f4e2a8612cb184",
-  "currentpriceofoilasofseptember242026",
   "2e6c8052cfedce43",
   "somalipirateskilledfivecrewmembersonhijackedtankerofficialss",
   "286617da3e53c62c",
@@ -603,7 +601,9 @@
   "a8901adb68abcd28",
   "yourthursdayoct1guidefivethingstodointheoilcity",
   "9c1b4d0fe7b4249d",
-  "recurringenergyshocksfromtemporarypaintopermanentcosts"
+  "recurringenergyshocksfromtemporarypaintopermanentcosts",
+  "e125e45c00a4c05a",
+  "venezuelasoilcomebackputsthese4energystocksinfocus"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-01",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-10-01T15:30:24.328201+03:00",
+ "last_run": "2026-10-01T15:35:18.997764+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
@@ -1484,6 +1484,10 @@
   {
    "d": "2026-10-01",
    "t": "Indian Refiners Seek Tankers for Hormuz Oil"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Venezuela's Oil Comeback Puts These 4 Energy Stocks in Focus - Yahoo Finance"
   }
  ]
 }
