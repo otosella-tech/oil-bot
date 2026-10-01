@@ -4,8 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "c92aa81df4ebd21a",
-  "crudeoilisdownby4",
   "6a4e4d7dcc8af247",
   "bondyieldskeeprisingdespitedropinoilpricedovishfedspeech",
   "aed51e79020c2901",
@@ -603,7 +601,9 @@
   "cd6b7731aa3e6eff",
   "bearsmaintaingriponoilimportingasiancurrenciesascrudepricesb",
   "4c4904c6021db6b0",
-  "thecommoditiesfeedoilfallsasmiddleeastsupplyfearsease"
+  "thecommoditiesfeedoilfallsasmiddleeastsupplyfearsease",
+  "b6011248b6d8a39d",
+  "usdistillatestockscontinuetofallascrudeinventoriesbuild"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -615,7 +615,7 @@
   "date": "2026-10-01",
   "count": 34
  },
- "last_run": "2026-10-01T11:25:17.019360+03:00",
+ "last_run": "2026-10-01T11:30:23.495352+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
