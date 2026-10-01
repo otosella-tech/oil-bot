@@ -4,8 +4,6 @@
   "Brent": 98.43
  },
  "seen": [
-  "2fc83e5a34fccd99",
-  "usofferstoloanupto40millionbarrelsofoilfromreservethenationa",
   "c3c1a1205db7e8ec",
   "adpjobsdatagdpcorepceandoilinventoriesduewednesday",
   "40266f0820a8a697",
@@ -603,7 +601,9 @@
   "d02c5b6896b758c5",
   "indiasharesheadfornegativeopenasforeignoutflowsoffsetoilreli",
   "00b40dc73ec7ac18",
-  "ustoloanupto40millionbarrelsofoilfromsprlastbatchfromglobald"
+  "ustoloanupto40millionbarrelsofoilfromsprlastbatchfromglobald",
+  "cef24ee2a170ac18",
+  "oilupdateseptember2026"
  ],
  "releases_done": {
   "2026-09-30|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-01",
   "count": 12
  },
- "last_run": "2026-10-01T05:50:16.717535+03:00",
+ "last_run": "2026-10-01T05:55:14.140199+03:00",
  "sent_stories": [
   {
    "d": "2026-09-28",
