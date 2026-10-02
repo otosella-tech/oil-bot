@@ -4,10 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "b2e668ea04f5cdde",
-  "wticrudeoilfuturesfallbelow90aspipelineseasesupply",
-  "eec373881cde34ab",
-  "hasiranlostitsgripongulfoilexports",
   "888971743856e903",
   "wticrudeoilfuturesfellbelow93aspeacetalksadvanced",
   "11fa2a1997eb6135",
@@ -603,7 +599,11 @@
   "75d5fe63871554cb",
   "g7agreestorelease100millionbarrelsofoilpoliticoeurope",
   "30eec854393878c7",
-  "g7agreestorelease100mbarrelsofoilasdieselpricessoar"
+  "g7agreestorelease100mbarrelsofoilasdieselpricessoar",
+  "d62f0fe953d4f260",
+  "g7movestorelease100millionbarrelstocounterdieselcrisis",
+  "73e7975d96d830eb",
+  "crudeoilslidesto1monthlow"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T18:20:18.872599+03:00",
+ "last_run": "2026-10-02T18:25:16.650696+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
