@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "ec335b064eabdeed",
-  "saudiarabiaresumescrudeoilloadingsatredseaportofyanbuamidstr",
   "1ced0792d523f253",
   "adisturbanceintheforce",
   "6908fcc390eae665",
@@ -603,7 +601,9 @@
   "c3912b9bff549603",
   "crudeoilbreaksbelowsupportasstockpilereleaseheadlinespressur",
   "c4b1dac010aa5d4e",
-  "usoilandgasrigcountfallsbyoneto598thisweek"
+  "usoilandgasrigcountfallsbyoneto598thisweek",
+  "68ce309c41c9f663",
+  "g7torelease100mbarrelsofoilreservestotacklerisingfuelcosts"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T21:00:29.866270+03:00",
+ "last_run": "2026-10-02T21:05:15.136552+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
