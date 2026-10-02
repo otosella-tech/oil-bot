@@ -4,8 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "e75b913aac418c18",
-  "eiauscrudeoilinventoriesup900000bbl",
   "5a61c770517ac6cb",
   "a16billionoilrefineryiscomingtoeastafricawithcapacityfor7000",
   "7117c452b21e33a6",
@@ -603,7 +601,9 @@
   "c0103d558940fb6d",
   "crudeoilfuturesfallaftereutalksonreleasingdieselstockpilesre",
   "dde85807bbe98bb3",
-  "oilfallsabout3ontalksoverdieselcrudestockreleases"
+  "oilfallsabout3ontalksoverdieselcrudestockreleases",
+  "14dc6140edd220a9",
+  "chinafuelexportsuspensiontochokesuppliesinasia"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 29
  },
- "last_run": "2026-10-02T12:05:15.529238+03:00",
+ "last_run": "2026-10-02T12:10:18.541579+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
