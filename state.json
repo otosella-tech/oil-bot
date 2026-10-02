@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "a0a40d33c30b9e58",
-  "thesurprisingalliesbackingbouldersclimatecasebeforethesuprem",
   "9a2ba0edb9b2eb9f",
   "magnoliaoilgasprovidesinterimfinancialandoperationsupdateaft",
   "1f38fd8355589884",
@@ -603,7 +601,9 @@
   "11db98c762be7212",
   "currentpriceofoilasofsept282026",
   "8cbdc28d86d8594c",
-  "carboncapturefirmssayeuloopholeboostsoil"
+  "carboncapturefirmssayeuloopholeboostsoil",
+  "4246a32287b856a2",
+  "theg7willrelease100millionbarrelsofoilamidrisingprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T18:35:17.745900+03:00",
+ "last_run": "2026-10-02T18:40:55.428918+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
