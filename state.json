@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "1d693b2ff1671531",
-  "oilpricesrise3aschinasuspendsfuelexports",
-  "516d81835e94c90f",
-  "kenyabreaksgroundon16bnrefineryasenvironmentalconcernsgrow",
   "7372cd8864ab0a4b",
   "blmopens35000californiaacrestodecemberoilandgasleasesale",
   "7bc63e17157a088c",
@@ -603,7 +599,11 @@
   "e84182a81bcc26d3",
   "currentpriceofoilasofseptember252026",
   "92f4e2a8612cb184",
-  "currentpriceofoilasofseptember242026"
+  "currentpriceofoilasofseptember242026",
+  "c481112db8c544a6",
+  "oilpriceslowerasg7nationstoreleasedieselstockssaudisreported",
+  "8fff561f3ab81497",
+  "cmegroupcmehaltslaunchofnew10barrelcrudeoilfuturescontractam"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T23:45:17.391003+03:00",
+ "last_run": "2026-10-02T23:50:19.769288+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
@@ -1345,6 +1345,10 @@
   {
    "d": "2026-10-02",
    "t": "Canada to fast track oil pipeline designed to diversify economy away from US - Reuters"
+  },
+  {
+   "d": "2026-10-02",
+   "t": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis - CNBC"
   }
  ]
 }
