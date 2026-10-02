@@ -4,10 +4,6 @@
   "Brent": 102.83
  },
  "seen": [
-  "5f280ccf2a3bc79f",
-  "eiareportscrudebuildasdieselstocksfall14belowaverage",
-  "751dadaffe0e1305",
-  "oilpricesandindiain2026howcrudeoilaffectsgasolinedieseltheru",
   "4ffc00f2dbacf1da",
   "uscrudeoilinventories0922mversus0264millionestimate",
   "d07b8b1be2c7d361",
@@ -603,7 +599,11 @@
   "0f5cad6351ff695b",
   "conocophillipssigns20",
   "9720930b28c78f8b",
-  "oiltreadswaterasmarketweighsmixedsupplysignals"
+  "oiltreadswaterasmarketweighsmixedsupplysignals",
+  "39521020d1868492",
+  "crudeoilforecast0210bullstarget95video",
+  "7f2049eaf88224dc",
+  "alikodangotelauncheskenyaoilrefineryamidlandprotestinlamu"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-02",
-  "count": 22
+  "count": 23
  },
- "last_run": "2026-10-02T10:10:19.360218+03:00",
+ "last_run": "2026-10-02T10:15:20.091235+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
