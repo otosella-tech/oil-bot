@@ -4,10 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "e72e925276bd8bc6",
-  "irantalkstaketheheatoutoftheoilrally",
-  "7eb1ad29db983c97",
-  "oilfuturesrisedespiteincreasingflows",
   "e252e05a12b2b7aa",
   "texasoilgasactivitycontinuestoincreasedespitecostpressures",
   "71deb5517c0b2bb9",
@@ -603,7 +599,11 @@
   "b9a094bfd0ab1bb4",
   "ukrainewarday1681zelenskyourballisticmissileusedfor1sttimevr",
   "61d24fd61ed70682",
-  "goldtakesabreathbecauseofoilnotnfp"
+  "goldtakesabreathbecauseofoilnotnfp",
+  "9f516d90acd88d75",
+  "nolightsnoradiogettingoilthroughstraitofhormuzisariskyjob",
+  "7ef831c1e5fafb38",
+  "managingoilsdeclinethecomingpetrostatereckoning"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-02",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-10-02T15:00:29.690230+03:00",
+ "last_run": "2026-10-02T15:05:15.284645+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-10-02",
    "t": "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say - Reuters"
+  },
+  {
+   "d": "2026-10-02",
+   "t": "No Lights, No Radio: Getting Oil Through Strait of Hormuz Is a Risky Job - Insurance Journal"
   }
  ]
 }
