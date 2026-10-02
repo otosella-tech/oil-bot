@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "052b7ffd6318aaf1",
-  "chartofthedaywticruderemainsinaviolentuptrend",
-  "efce6ebac6a6c27d",
-  "globalsupplyrisksunderpincrudeoilprices",
   "f096a9b4b7415de3",
   "conocophillipsexploressaleofnorwaybusinessandukteessideasset",
   "bc8c08381abe73ee",
@@ -603,7 +599,11 @@
   "2074ddfff0b2a1bc",
   "g7announcesoilreservereleaseastrumphailseuropedieseldeal",
   "5e36ef39f325b2ec",
-  "bengurionuniversitymodifiesaerogelspongeforoilspills"
+  "bengurionuniversitymodifiesaerogelspongeforoilspills",
+  "72eb799d01c82093",
+  "iranianoilstartsflowingtotajikistandespiteussanctionsrisk",
+  "2caa33455ca2dd5d",
+  "g7countriesagreetoreleasedieselandoilstocksafteruspressure"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T21:55:16.106702+03:00",
+ "last_run": "2026-10-02T22:00:30.223564+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
@@ -1332,6 +1332,10 @@
   {
    "d": "2026-10-02",
    "t": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies - CNBC"
+  },
+  {
+   "d": "2026-10-02",
+   "t": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk"
   }
  ]
 }
