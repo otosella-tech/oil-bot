@@ -4,8 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "a1cd091d40b9661f",
-  "uscrudeoilstockpilesjump",
   "03ff4013154bdcdb",
   "analystsraise2026oilforecastsonprolongedgulfdisruptionreuter",
   "9b235abaca59d7ca",
@@ -603,7 +601,9 @@
   "da2c915c83aeb11a",
   "ukrainianforcesreportedlystrikeoilfacilitiesinrussiasvolgogr",
   "d4160bf70a56d6e5",
-  "chevronand2othertopoilandgasdividendstocks"
+  "chevronand2othertopoilandgasdividendstocks",
+  "854f123b676f9027",
+  "canadasoilpivotawayfromtrumpcouldcostusrefineriesentireinter"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 29
  },
- "last_run": "2026-10-02T11:40:20.364954+03:00",
+ "last_run": "2026-10-02T11:45:17.244283+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
