@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "a7ec94106dcf41a6",
-  "burnhampromisespragmaticnorthseaapproach",
   "fba7d9f57e60ae98",
   "fileabandonedoilwellsinwesttexas",
   "23431792ab542051",
@@ -603,7 +601,9 @@
   "413eb5729a114494",
   "canadatofasttrackoilpipelinedesignedtodiversifyeconomyawayfr",
   "3fcb1970f83b1a33",
-  "g7totapoilreservesafteruspressure"
+  "g7totapoilreservesafteruspressure",
+  "c70d73dfa912d512",
+  "oilsettlesloweraftereuropeagreestotapdieselreserves"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T22:55:15.787797+03:00",
+ "last_run": "2026-10-02T23:00:27.525270+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
