@@ -4,8 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "ea4ac6c7bfa6d832",
-  "uscrudeoilstockpilespostunexpectedbuild",
   "84c0ba7372d48bed",
   "oilnewsdieseltightnesskeepsthecrudepremiumalivedespitesupply",
   "d0226f472da8a54c",
@@ -603,7 +601,9 @@
   "f67f7b098c1a065f",
   "futuresriseintojobsteslanikeseagatearebiglosers",
   "350ba469b8822729",
-  "canmidstreamenergyfirmsweatheravolatileenergymarket"
+  "canmidstreamenergyfirmsweatheravolatileenergymarket",
+  "e8781d86920be1dd",
+  "crudeoilhits4weeklow"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 48
  },
- "last_run": "2026-10-02T16:20:19.187600+03:00",
+ "last_run": "2026-10-02T16:25:19.580334+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
