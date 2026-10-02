@@ -4,10 +4,6 @@
   "Brent": 98.6
  },
  "seen": [
-  "6883e426fd2f37e8",
-  "eiareportsariseinuscrudeoilstocks",
-  "6fed9ef805aeaca6",
-  "oilpricesrisedespiteimprovedmiddleeastcrudeexportseasingsupp",
   "26d96d572ab6230f",
   "bondyieldskeeprisingdespitedropinoilpricedovishfedspeech",
   "c9cb606d7d25f7c8",
@@ -603,7 +599,11 @@
   "e9569f4e9b9b7f19",
   "canadalistspacificlinkasprojectofnationalinterest",
   "5d6c6a3f475b4bb0",
-  "3chargedwithstealingusedcookingoilfromlocalrestaurantspolice"
+  "3chargedwithstealingusedcookingoilfromlocalrestaurantspolice",
+  "a5cb77b518a557b3",
+  "usacrudeoilstocksrisealmost1mmbarrelswow",
+  "6b07b0bd0e595c4e",
+  "europesdieselreserveshowareleasecouldlowerpumpprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T18:05:16.532031+03:00",
+ "last_run": "2026-10-02T18:10:18.414783+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
