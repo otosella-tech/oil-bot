@@ -4,8 +4,6 @@
   "Brent": 102.83
  },
  "seen": [
-  "d7b324f1c1b3c601",
-  "howtheusgotoilshipmentsmovingandwhatitwouldtaketobringprices",
   "b3f7c3c0e1f1d77e",
   "3menindictedinallegedschemetostealthousandsofbarrelsofpermia",
   "cb098eb6dad6a264",
@@ -603,7 +601,9 @@
   "741cbd3ca828ea03",
   "globalinstitutedialoguesjasonbordoffonthegeopoliticsofenergy",
   "2fde05434ad77475",
-  "oilpricesfallasopecandieaslash2026demandoutlooks"
+  "oilpricesfallasopecandieaslash2026demandoutlooks",
+  "422ce50e97d721bf",
+  "5energyetfsthathavesoaredin2026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-02",
-  "count": 3
+  "count": 5
  },
- "last_run": "2026-10-02T02:55:13.745844+03:00",
+ "last_run": "2026-10-02T03:00:29.448446+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
@@ -1212,6 +1212,10 @@
   {
    "d": "2026-10-02",
    "t": "US: Iran loaded zero crude oil onto tankers in September - breakingthenews.net"
+  },
+  {
+   "d": "2026-10-02",
+   "t": "5 Energy ETFs That Have Soared in 2026"
   }
  ]
 }
