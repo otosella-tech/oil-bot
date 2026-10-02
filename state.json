@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "d754b6b96ac2f018",
-  "crudeoilextendsitsrallyasthepentagonaddsanothercarriergroup",
   "fe2e4ccf164b2ce9",
   "indiaoilrefinersshifttactics",
   "3fe15a47daea6ade",
@@ -603,7 +601,9 @@
   "1707c4fb5607f9d4",
   "oiljumps4onreportschinahaltsfuelexportsustroopsheadtomiddlee",
   "4a6d42f1f6440e39",
-  "oilspillcleanupunderwayafterboatcatchesfiresinksinhuntington"
+  "oilspillcleanupunderwayafterboatcatchesfiresinksinhuntington",
+  "a5436f8fb393332e",
+  "g7countriesagreeonreleaseofdieselandoilstocksafteruspressure"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-03",
   "count": 7
  },
- "last_run": "2026-10-03T02:50:17.518326+03:00",
+ "last_run": "2026-10-03T02:55:14.750872+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
