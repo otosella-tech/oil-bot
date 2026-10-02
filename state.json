@@ -4,8 +4,6 @@
   "Brent": 102.83
  },
  "seen": [
-  "8916df0365b24bda",
-  "useiacrudeoilstockschangesep250922mvsexp03mprev2969m",
   "bb50bf72173d2122",
   "useiacrudeoilimportschangesep250468mprev0369m",
   "dbd796c85d368c31",
@@ -603,7 +601,9 @@
   "00be924a494563bb",
   "nolightsnoradiogettingoilthroughhormuzisariskyjob",
   "20a362a04eea82eb",
-  "wtioiledgesdownbelow9100amidreportsofhigherflowsfromthegulf"
+  "wtioiledgesdownbelow9100amidreportsofhigherflowsfromthegulf",
+  "9b3f3bc05dc19ea1",
+  "oilfuturescrudeeasesasincreasedflowsoffsetrisingtensions"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 24
  },
- "last_run": "2026-10-02T10:50:38.429744+03:00",
+ "last_run": "2026-10-02T10:55:14.267303+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
