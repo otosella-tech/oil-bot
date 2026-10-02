@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "0a3ec0e128829290",
-  "trumptheenvironmentalisthowhisiranwarexposedthefragilityofdi",
   "e2942bcf705f0088",
   "dallasfedsurveyoilexecutivesexpect88wtiatend2026asiranwarclo",
   "32144d769eabfb6a",
@@ -603,7 +601,9 @@
   "64e1f1e5c909c40e",
   "worldinbriefg7toreleaseoilreservesamericasjobmarketslumps",
   "1e84f7bebaa83afd",
-  "oilpricesdropaseuropeagreestoreleasedieselreserves"
+  "oilpricesdropaseuropeagreestoreleasedieselreserves",
+  "c1093cf962591c53",
+  "persiangulfoilshipmentsreboundraisinghopesforlowergasprices"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T20:05:16.462862+03:00",
+ "last_run": "2026-10-02T20:10:20.904402+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
