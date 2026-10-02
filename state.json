@@ -4,8 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "76b4bde3187a3e36",
-  "shaleexecutivessayiranwarissowingchaosinoilmarkets",
   "6e6673b86a46295a",
   "pemexcrudeoilexportsfall45inaugustamidrefiningpush",
   "c5ece6d3b9aeb448",
@@ -603,7 +601,9 @@
   "a4d72320c0ada8f5",
   "futuresriseintojobsteslabuysignalformicron",
   "f7c00c5bf8d521ad",
-  "macronplansg7leaderscallonoilpricesassoonaspossible"
+  "macronplansg7leaderscallonoilpricesassoonaspossible",
+  "485e5bc992216479",
+  "usoilgasoutputupinq3producerswaryofpriceoutlookdallasfedsays"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 31
  },
- "last_run": "2026-10-02T12:35:15.497910+03:00",
+ "last_run": "2026-10-02T12:40:17.826239+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
