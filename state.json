@@ -4,12 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "d7454efe00046f53",
-  "middleeastcrudeoilexportsnearprewarlevelsasshipmentsthroughh",
-  "8d28739df3beac83",
-  "ustapsstrategicoilreserveagainasdieseltops6",
-  "4dab39b2a0f0b8e6",
-  "oilpricesedgeloweronsignsofrisingcrudeexportsfrommiddleeast",
   "d7c400eec4839984",
   "indiasharesopenlowerasforeignoutflowsdentrisksentiment",
   "f2d4a6d78e0abddf",
@@ -603,7 +597,13 @@
   "a38a48fb48a820a1",
   "oilfuturescrudelowerasincreasedflowsoffsetrisingtensions",
   "eb3d937d166740f0",
-  "oildrops2aseumullsdieselcrudestockreleasesfinancenews"
+  "oildrops2aseumullsdieselcrudestockreleasesfinancenews",
+  "9cf745da52fc8236",
+  "europessoaringgasbillissendingutilitiesbacktocoal",
+  "ec0b90b6f6b9d872",
+  "exclusivedemocraticsenatorschallengetrumpofficialsonpentagon",
+  "3f6c83208ef8e663",
+  "ustosendthirdcarriergrouptomideastastrumpwarnsofnewiranstrik"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-02",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-10-02T16:55:14.694530+03:00",
+ "last_run": "2026-10-02T17:00:29.861739+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
@@ -1280,6 +1280,18 @@
   {
    "d": "2026-10-02",
    "t": "US to loan up to 40 million barrels of oil from SPR, last batch from global deal - Reuters"
+  },
+  {
+   "d": "2026-10-02",
+   "t": "Europe's Soaring Gas Bill Is Sending Utilities Back to Coal"
+  },
+  {
+   "d": "2026-10-02",
+   "t": "Exclusive | Democratic Senators Challenge Trump Officials on Pentagon’s Venezuela Oil Deal - WSJ"
+  },
+  {
+   "d": "2026-10-02",
+   "t": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes - CNBC"
   }
  ]
 }
