@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "dda97221b551b2ee",
-  "energybriefswhatsaffectingenergyprices",
-  "202fbde7f9b21f03",
-  "oklahomascushingoilinventoriesmadeanotherslightincrease",
   "1f9cbbb741c1d4b2",
   "nigeriasdangotebreaksgroundon16billioneastafricanoilrefinery",
   "7494a949387090f8",
@@ -603,7 +599,11 @@
   "4a49b75f6f258daa",
   "decliningoilreservessetstageforrenewedexploration",
   "a6e2a2db16fdeaae",
-  "crudeoilcutslossesastraderseyeg7fuelrelease"
+  "crudeoilcutslossesastraderseyeg7fuelrelease",
+  "d61c33f70ef46935",
+  "washingtonstateleadersraisealarmoverplanstofasttrackoilpipel",
+  "c2ea8de857c9cfd5",
+  "g7agreestorelease100millionbarrelsofoilanddieseltrumpsays87o"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-03",
   "count": 5
  },
- "last_run": "2026-10-03T02:10:19.451669+03:00",
+ "last_run": "2026-10-03T02:15:19.818710+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
