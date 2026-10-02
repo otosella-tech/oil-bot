@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "481539bf79c8a9d0",
-  "analysiscontainerratesandcrudeoilsignalfreightcostshavenotye",
   "d61e34b45ad72313",
   "trumpsthreattobandieselexportssetsoffglobalalarms",
   "c5fee1a43fe8c98d",
@@ -603,7 +601,9 @@
   "abd42e8d6f5b2dec",
   "trumpsayssouthkoreadealincludes84billionusoilproject",
   "4d513bec8877fc95",
-  "trackingtrumpg7opensoilreservesmilitarypreparesforamiddleeas"
+  "trackingtrumpg7opensoilreservesmilitarypreparesforamiddleeas",
+  "f267e69380c4f62b",
+  "twomoretankersinhormuzreportstrikesbringingtotaltosixinaweek"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-10-03",
-  "count": 1
+  "count": 3
  },
- "last_run": "2026-10-03T00:50:18.758401+03:00",
+ "last_run": "2026-10-03T00:55:15.493333+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
@@ -1181,6 +1181,10 @@
   {
    "d": "2026-10-02",
    "t": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis - CNBC"
+  },
+  {
+   "d": "2026-10-03",
+   "t": "Two More Tankers in Hormuz Report Strikes, Bringing Total to Six in a Week - The Maritime Executive"
   }
  ]
 }
