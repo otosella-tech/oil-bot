@@ -4,8 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "a201089512a0482a",
-  "howasiahassurvivedtheenergycrisis",
   "df4ee24af54d42fe",
   "oilpricesclimboninflationiranwar",
   "0eaffe7ea68ebb8e",
@@ -603,7 +601,9 @@
   "8e736919abe4da2e",
   "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue",
   "f97cf660b30b6373",
-  "crudeoilfallsaseuropeconsidersstrategicoilreserverelease"
+  "crudeoilfallsaseuropeconsidersstrategicoilreserverelease",
+  "03f72ae12d06b590",
+  "kapturmurrayslamtrumpadministrationsoilreservereleaseasmonth"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 33
  },
- "last_run": "2026-10-02T13:20:19.294186+03:00",
+ "last_run": "2026-10-02T13:25:13.508544+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
