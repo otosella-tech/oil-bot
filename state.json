@@ -4,10 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "7fa6c7bbda8c4d08",
-  "theoilandaitugofwartheaiopecideaandgradingseptembersmarket",
-  "6e5a853c5ff16d43",
-  "warexposesthecostofthewestsretreatfromoilrefining",
   "0cc07a4b845e004e",
   "africasmassivecementexpansioncoulddriveanenergyboom",
   "c801e9f6c85dfdf1",
@@ -603,7 +599,11 @@
   "3e5d005f3a64fe55",
   "exclusiveopecdelaysoilcapacityreviewafteriranwardisruptsexpa",
   "8c354c25f30cbd99",
-  "usturnsuppressureoneuropetoreleaseemergencydieselstocks"
+  "usturnsuppressureoneuropetoreleaseemergencydieselstocks",
+  "6c200cf2286d329f",
+  "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
+  "0f973b9945e8bd41",
+  "persiangulfcrudeoilflowshavelargelyrecoveredfordieselandgaso"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-02",
-  "count": 38
+  "count": 39
  },
- "last_run": "2026-10-02T14:25:14.810330+03:00",
+ "last_run": "2026-10-02T14:30:23.440036+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
