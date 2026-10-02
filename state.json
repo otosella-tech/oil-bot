@@ -4,8 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "929742e505bbab8f",
-  "shrinkinggasolineanddieselsuppliesliftscrudeoilprices",
   "fa922d5b4e5bbabe",
   "crudeoilrisesover1conagrabrandsearningstopviews",
   "286cec85f792ffc6",
@@ -603,7 +601,9 @@
   "1b676ce603e86e0d",
   "wtisinksnearly4aseuweighsemergencystockpilerelease",
   "b3eb7efbcfafe324",
-  "usurgeseuropetoimmediatelyreleasedieselreservesasiranwarfuel"
+  "usurgeseuropetoimmediatelyreleasedieselreservesasiranwarfuel",
+  "835d12a24d00f837",
+  "oilandgasactivityincreasesdespitecostpressureslongersupplier"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 36
  },
- "last_run": "2026-10-02T14:05:16.091336+03:00",
+ "last_run": "2026-10-02T14:10:19.239025+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
