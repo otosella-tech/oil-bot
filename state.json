@@ -4,10 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "e252e05a12b2b7aa",
-  "texasoilgasactivitycontinuestoincreasedespitecostpressures",
-  "71deb5517c0b2bb9",
-  "texasoilandgasactivitycontinuestoincreasesofarin2026despitec",
   "df0b28e2b2de46d1",
   "canquantumcomputingtameaisenergyappetite",
   "bd8c4c635b113cfb",
@@ -603,7 +599,11 @@
   "9f516d90acd88d75",
   "nolightsnoradiogettingoilthroughstraitofhormuzisariskyjob",
   "7ef831c1e5fafb38",
-  "managingoilsdeclinethecomingpetrostatereckoning"
+  "managingoilsdeclinethecomingpetrostatereckoning",
+  "bd14b4b3c9ef624f",
+  "euconsidersreleasing100mbarrelsofdieselandcrudeoil",
+  "e72e925276bd8bc6",
+  "irantalkstaketheheatoutoftheoilrally"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-02",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-10-02T15:05:15.284645+03:00",
+ "last_run": "2026-10-02T15:10:17.745397+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
@@ -1260,6 +1260,10 @@
   {
    "d": "2026-10-02",
    "t": "No Lights, No Radio: Getting Oil Through Strait of Hormuz Is a Risky Job - Insurance Journal"
+  },
+  {
+   "d": "2026-10-02",
+   "t": "Iran Talks Take the Heat Out of the Oil Rally - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
