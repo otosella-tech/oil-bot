@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "91d7a619d1141e94",
-  "newpipelinewilldiversifycanadaseconomyawayfromus",
   "a11369006f168c50",
   "carneyhopesanoilpipelinecanhelpcanadafightatradewar",
   "65cd071bab69cfc6",
@@ -603,7 +601,9 @@
   "bb87326e6f2b98a1",
   "g7nationstorelease100millionbarrelsofoilanddieselfuelasprice",
   "54e900a11197c95a",
-  "inboostfortrumpg7nationstorelease100millionbarrelsofdieselan"
+  "inboostfortrumpg7nationstorelease100millionbarrelsofdieselan",
+  "52f8b49f805a8f30",
+  "g7countriestofightoilpricesbyoutpouringreserves"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-03T00:05:15.847540+03:00",
+ "last_run": "2026-10-03T00:10:20.138722+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
