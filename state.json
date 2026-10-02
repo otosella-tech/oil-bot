@@ -4,12 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "1ced0792d523f253",
-  "adisturbanceintheforce",
-  "6908fcc390eae665",
-  "beyondoilpriceswings3midstreamstocksbuiltforresilience",
-  "aea266fb49cd886f",
-  "trumpsspiralingnarrativesfromgreenlandtovenezuelatoiran",
   "aa02f1c533250b48",
   "exclusiveustellsfranceandgermanytoreleasedieselstocksorfaceu",
   "975d1a4c053b27fc",
@@ -603,7 +597,13 @@
   "c4b1dac010aa5d4e",
   "usoilandgasrigcountfallsbyoneto598thisweek",
   "68ce309c41c9f663",
-  "g7torelease100mbarrelsofoilreservestotacklerisingfuelcosts"
+  "g7torelease100mbarrelsofoilreservestotacklerisingfuelcosts",
+  "4fc1977b70dcfe0a",
+  "g7agreestoreleaseoilreservestoreducefuelpricesafteruspressur",
+  "a8f2e8d9608ae55b",
+  "g7agreestorelease100millionbarrelsofoilanddiesel",
+  "ab137a57ba337e97",
+  "blackmaileuropefumesagainstwhitehousedemandformorediesel"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T21:05:15.136552+03:00",
+ "last_run": "2026-10-02T21:10:18.769798+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
