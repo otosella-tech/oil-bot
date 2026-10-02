@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "861380940eea5caf",
-  "chinajustgavetheenergymarketanotherreasontostress",
   "85c320f68b7320be",
   "blmannouncesdecember2026saleofoilandgasleasesincalifornia",
   "4633fb964432ea1f",
@@ -603,7 +601,9 @@
   "ee1fa86c35098eb9",
   "g7torelease100millionbarrelsofoildieselreservesamidunprecede",
   "e964b9ad4ab1ea6c",
-  "oilfallsasg7tapsemergencysupplies"
+  "oilfallsasg7tapsemergencysupplies",
+  "78a98f8b882ea9b8",
+  "cmegroupsuspendsplanfor24710barrelcrudeoilcontractcmenasdaq"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T23:15:18.518606+03:00",
+ "last_run": "2026-10-02T23:20:54.076758+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
