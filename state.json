@@ -4,8 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "0cc07a4b845e004e",
-  "africasmassivecementexpansioncoulddriveanenergyboom",
   "c801e9f6c85dfdf1",
   "threevesselsstruckinstraitofhormuzasiransgriploosensmaritime",
   "6c8934d45c6a57a0",
@@ -603,7 +601,9 @@
   "6c200cf2286d329f",
   "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
   "0f973b9945e8bd41",
-  "persiangulfcrudeoilflowshavelargelyrecoveredfordieselandgaso"
+  "persiangulfcrudeoilflowshavelargelyrecoveredfordieselandgaso",
+  "82cbc49c07804f7a",
+  "oilpricesfallover3onreportofpotentialdieselcrudestockrelease"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 39
  },
- "last_run": "2026-10-02T14:45:17.996556+03:00",
+ "last_run": "2026-10-02T14:50:18.749790+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
