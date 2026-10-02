@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "6b633fa08f46ff80",
-  "novemberwticrudeoilcontractclosesup245or27settlesat9287perba",
   "e41d5a9de8e665d6",
   "eusemergencydieselstocksaremainlyingermanyandfrance",
   "d6151d795e5d3406",
@@ -603,7 +601,9 @@
   "0d2b3fe3a4ae01b5",
   "southkoreatoinvest84billioninoilproductionincreasewarnsofdou",
   "c5fee1a43fe8c98d",
-  "wticrudeoilfuturesclimbpast91ontightsupply"
+  "wticrudeoilfuturesclimbpast91ontightsupply",
+  "281b535b161eadfe",
+  "cmegroupsuspends247crudeoiltradingplanamidmarketriskconcerns"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-03",
   "count": 5
  },
- "last_run": "2026-10-03T01:05:17.202203+03:00",
+ "last_run": "2026-10-03T01:10:18.197518+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
