@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "fba7d9f57e60ae98",
-  "fileabandonedoilwellsinwesttexas",
   "23431792ab542051",
   "europeanstocksclosesharplylowerinthursdaytradingasbondyields",
   "861380940eea5caf",
@@ -603,7 +601,9 @@
   "3fcb1970f83b1a33",
   "g7totapoilreservesafteruspressure",
   "c70d73dfa912d512",
-  "oilsettlesloweraftereuropeagreestotapdieselreserves"
+  "oilsettlesloweraftereuropeagreestotapdieselreserves",
+  "ee1fa86c35098eb9",
+  "g7torelease100millionbarrelsofoildieselreservesamidunprecede"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T23:05:15.282790+03:00",
+ "last_run": "2026-10-02T23:10:19.220202+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
