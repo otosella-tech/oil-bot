@@ -4,8 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "74caac6c81164d77",
-  "usoilandgasproductionrisesinq32026butpriceuncertaintyplagues",
   "a1cd091d40b9661f",
   "uscrudeoilstockpilesjump",
   "03ff4013154bdcdb",
@@ -603,7 +601,9 @@
   "7e54110559a68b02",
   "oilpricesstableamidmixedsupplysignalsfromthemiddleeast",
   "da2c915c83aeb11a",
-  "ukrainianforcesreportedlystrikeoilfacilitiesinrussiasvolgogr"
+  "ukrainianforcesreportedlystrikeoilfacilitiesinrussiasvolgogr",
+  "d4160bf70a56d6e5",
+  "chevronand2othertopoilandgasdividendstocks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 29
  },
- "last_run": "2026-10-02T11:35:16.086539+03:00",
+ "last_run": "2026-10-02T11:40:20.364954+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
