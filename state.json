@@ -4,14 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "e46ef6d87b798681",
-  "opinionifyouthinkrisingoilpricesarebadjustwaitfortheinevitab",
-  "70bd31627d3bbd4e",
-  "rupeedropstotwomonthlowasglobalbondroutdeepensoiljumps",
-  "620e2aa755f323ce",
-  "mideastcrudeoilflowshit98ofprewarleveljpmorgansays",
-  "1e084e8fe1a99dd1",
-  "oilpricesriseasmarketsassessmiddleeastsupplyanddiplomaticdev",
   "92c97c0629efdff3",
   "chineserefinerssuspendoctoberfuelexportstobolsterstockssourc",
   "2d17444435277806",
@@ -603,7 +595,15 @@
   "868344ddd2ac9d8b",
   "g7toreleaseupto100millionbarrelsofdieselandcrudeoilinbidtost",
   "b759cc6e2b3425f5",
-  "exclusiveg7countriesagreeonreleaseofdieselandoilstocksafteru"
+  "exclusiveg7countriesagreeonreleaseofdieselandoilstocksafteru",
+  "911c89528949c42d",
+  "oilpricesdropong7fuelreleaseusjobsdataboostsstocks",
+  "d5740307361f7b2d",
+  "chinareintroducesfuelexportrestrictions",
+  "a51c561aae720e0a",
+  "g7toreleaseupto100mbarrelsofemergencyoilanddieselreserves",
+  "ff50b5c28ceb16ed",
+  "g7torelease100mbarrelsofoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T19:00:29.515677+03:00",
+ "last_run": "2026-10-02T19:05:17.973010+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
