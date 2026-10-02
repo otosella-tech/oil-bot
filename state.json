@@ -4,8 +4,6 @@
   "Brent": 102.83
  },
  "seen": [
-  "4ffc00f2dbacf1da",
-  "uscrudeoilinventories0922mversus0264millionestimate",
   "d07b8b1be2c7d361",
   "ustotalcrudeoilstocksriseinweekendedsept25",
   "fa152215d19482df",
@@ -603,7 +601,9 @@
   "39521020d1868492",
   "crudeoilforecast0210bullstarget95video",
   "7f2049eaf88224dc",
-  "alikodangotelauncheskenyaoilrefineryamidlandprotestinlamu"
+  "alikodangotelauncheskenyaoilrefineryamidlandprotestinlamu",
+  "e276f59c7e8ef2bb",
+  "oilretreatsasmarketweighsmixedsupplysignals"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 23
  },
- "last_run": "2026-10-02T10:15:20.091235+03:00",
+ "last_run": "2026-10-02T10:20:19.049495+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
