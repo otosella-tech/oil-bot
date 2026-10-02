@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "e41d5a9de8e665d6",
-  "eusemergencydieselstocksaremainlyingermanyandfrance",
   "d6151d795e5d3406",
   "middleeastoilexportsstagearemarkablecomeback",
   "00f576e18080800d",
@@ -603,7 +601,9 @@
   "c5fee1a43fe8c98d",
   "wticrudeoilfuturesclimbpast91ontightsupply",
   "281b535b161eadfe",
-  "cmegroupsuspends247crudeoiltradingplanamidmarketriskconcerns"
+  "cmegroupsuspends247crudeoiltradingplanamidmarketriskconcerns",
+  "2c573d511661b453",
+  "waleaderspushbackoncanadasplanfornewoilpipeline"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-03",
   "count": 5
  },
- "last_run": "2026-10-03T01:10:18.197518+03:00",
+ "last_run": "2026-10-03T01:15:18.394296+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
