@@ -4,14 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "8096d076f8f5d25f",
-  "europegetshitbyanotherenergy",
-  "485e5bc992216479",
-  "usoilgasoutputupinq3producerswaryofpriceoutlookdallasfedsays",
-  "581e92a5db5e6a31",
-  "fbicrackingdownonstolenoil",
-  "3516faf62ecbddc5",
-  "trumpshandlingofvenezuelasoilmoneythreatensaconstitutionalcr",
   "76b4bde3187a3e36",
   "shaleexecutivessayiranwarissowingchaosinoilmarkets",
   "6e6673b86a46295a",
@@ -603,7 +595,15 @@
   "4337440426079b58",
   "europediscussingplanfordieselstockreleasesafteruspressuresou",
   "c602d6e6ae51b954",
-  "uspressureseuropetoreleasedieselreservesastrumpthreatensexpo"
+  "uspressureseuropetoreleasedieselreservesastrumpthreatensexpo",
+  "a1f0be1c2c058a6d",
+  "unsaysglobalfuelsubsidiescouldtop1trillion",
+  "a1d3feceffe44fe4",
+  "tajikistanbeginsreceivingiranianoiltestingnewsupplyrouteande",
+  "a4d72320c0ada8f5",
+  "futuresriseintojobsteslabuysignalformicron",
+  "f7c00c5bf8d521ad",
+  "macronplansg7leaderscallonoilpricesassoonaspossible"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-02",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-10-02T12:30:21.524687+03:00",
+ "last_run": "2026-10-02T12:35:15.497910+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
@@ -1236,6 +1236,10 @@
   {
    "d": "2026-10-02",
    "t": "Ukrainian forces reportedly strike oil facilities in Russia's Volgograd, Samara regions - The Kyiv Independent"
+  },
+  {
+   "d": "2026-10-02",
+   "t": "Tajikistan Begins Receiving Iranian Oil, Testing New Supply Route And Extent Of US Sanctions - Radio Free Europe/Radio Liberty"
   }
  ]
 }
