@@ -4,12 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "aa02f1c533250b48",
-  "exclusiveustellsfranceandgermanytoreleasedieselstocksorfaceu",
-  "975d1a4c053b27fc",
-  "uraniumhitsrecordhighwhilenuclearstocksslide",
-  "a08a753cf1bef968",
-  "crudeoilhigheronsupplyissues",
   "aa7dc70ea9ae9367",
   "canadatofasttrackoilpipelinedesignedtodiversifyeconomyawayfr",
   "052b7ffd6318aaf1",
@@ -603,7 +597,13 @@
   "a8f2e8d9608ae55b",
   "g7agreestorelease100millionbarrelsofoilanddiesel",
   "ab137a57ba337e97",
-  "blackmaileuropefumesagainstwhitehousedemandformorediesel"
+  "blackmaileuropefumesagainstwhitehousedemandformorediesel",
+  "33c8c71a893b7dd2",
+  "g7announcesreleaseofdieselcrudeoilreservestocurbhighprices",
+  "8a085b0ad888ecce",
+  "uscoastguardsaysitseizedshipswiththousandsofgallonsofoildest",
+  "2074ddfff0b2a1bc",
+  "g7announcesoilreservereleaseastrumphailseuropedieseldeal"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T21:11:56.749364+03:00",
+ "last_run": "2026-10-02T21:15:18.359905+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
