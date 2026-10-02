@@ -4,8 +4,6 @@
   "Brent": 102.83
  },
  "seen": [
-  "631639f0c2c72656",
-  "currentpriceofoilasofsept302026",
   "d97133f94aabe279",
   "saudiarabiacrudeoilexportshithighestlevelsinceiranwarbegande",
   "c7f0b14624721575",
@@ -603,7 +601,9 @@
   "1c4368ad1086de99",
   "cnbcdailyopenthreesacrowduscarrierbuildupinmiddleeastsendsoi",
   "855f572959a92025",
-  "brentholdsabove102asgulfexportreboundoffsetsusmilitarymoves"
+  "brentholdsabove102asgulfexportreboundoffsetsusmilitarymoves",
+  "3074d5bb13c0f680",
+  "uscrudeoiltumblesbackbelow100aftertrumpsayshesopentotalkingt"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-02",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-10-02T08:20:19.100911+03:00",
+ "last_run": "2026-10-02T08:25:14.762634+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-10-02",
    "t": "Scott Bessent Says Iran Transported 'Zero' Oil Onto Tankers Last Month — Trump’s Sanctions Are Targeting - Benzinga"
+  },
+  {
+   "d": "2026-10-02",
+   "t": "U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN - CNBC"
   }
  ]
 }
