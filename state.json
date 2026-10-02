@@ -4,12 +4,6 @@
   "Brent": 98.6
  },
  "seen": [
-  "cd6b7731aa3e6eff",
-  "bearsmaintaingriponoilimportingasiancurrenciesascrudepricesb",
-  "4c4904c6021db6b0",
-  "thecommoditiesfeedoilfallsasmiddleeastsupplyfearsease",
-  "b6011248b6d8a39d",
-  "usdistillatestockscontinuetofallascrudeinventoriesbuild",
   "6883e426fd2f37e8",
   "eiareportsariseinuscrudeoilstocks",
   "6fed9ef805aeaca6",
@@ -603,7 +597,13 @@
   "dac2674cad2a0dbd",
   "g7agreesmajorreleaseofoilstocksfollowingpressurefromtheus",
   "fc2bbfde9d058196",
-  "g7nationsagreetorelease100millionbarrelsofoilincludingdiesel"
+  "g7nationsagreetorelease100millionbarrelsofoilincludingdiesel",
+  "449c515a721366ef",
+  "lngshipmentsthroughhormuzhithighestlevelsinceiranwarbegan",
+  "e9569f4e9b9b7f19",
+  "canadalistspacificlinkasprojectofnationalinterest",
+  "5d6c6a3f475b4bb0",
+  "3chargedwithstealingusedcookingoilfromlocalrestaurantspolice"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-02",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-10-02T17:55:14.591995+03:00",
+ "last_run": "2026-10-02T18:01:08.750308+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
@@ -1308,6 +1308,10 @@
   {
    "d": "2026-10-02",
    "t": "Iran has lost considerable leverage in the Strait of Hormuz. It can’t go on like this forever - CNN"
+  },
+  {
+   "d": "2026-10-02",
+   "t": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began"
   }
  ]
 }
