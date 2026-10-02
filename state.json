@@ -4,10 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "a17784bd19b0857f",
-  "howwillcongressandthepubliclearnthedetailsoftrumpsvenezuelao",
-  "bccbdba15f7ca85b",
-  "usthreatensdieselexportbanunlesseuropereleasesstockpiles",
   "9c50c527b6d4ce34",
   "oiltheftstealsbillionstexasleadersmustlistentolocalsopinion",
   "91b91643d94e9196",
@@ -603,7 +599,11 @@
   "d59fef5fec826b56",
   "g7nationstoreleasedieselstocksaswarsineuropeandmiddleeastcon",
   "8854f2884f512de6",
-  "g7agreedtorelease100millionbarrelsofoilanddieselreserves"
+  "g7agreedtorelease100millionbarrelsofoilanddieselreserves",
+  "d9e046ffc0dc3b6d",
+  "brazilspetrobrasmakesnewoildiscoveryoffthecoastofamapa",
+  "7c334400d1de0dd1",
+  "g7torelease100mbarrelsasoilholdsatus102"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T20:30:25.073146+03:00",
+ "last_run": "2026-10-02T20:35:14.643495+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
