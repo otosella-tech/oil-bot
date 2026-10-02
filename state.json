@@ -4,8 +4,6 @@
   "Brent": 98.6
  },
  "seen": [
-  "a90f98eae876fe20",
-  "trumpadmitsdieselusexportbancouldraisegasolineprices",
   "9a792cca419f8d19",
   "threeoiltankershitbyprojectilesinhormuzstraitontuesdaymarisk",
   "cc2d13f7a971e290",
@@ -603,7 +601,9 @@
   "51acbce549011fcf",
   "oilpriceforecastcrudefallsintotheweekend",
   "964e048dc95841de",
-  "surginggulfoilflowsmaybetoolatetostopaterrifyingwinter"
+  "surginggulfoilflowsmaybetoolatetostopaterrifyingwinter",
+  "a1b2e54d77e1afe7",
+  "oilpricessettledown25onsignsmiddleeastexportsrecovering"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 55
  },
- "last_run": "2026-10-02T17:35:17.253501+03:00",
+ "last_run": "2026-10-02T17:40:19.316531+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
