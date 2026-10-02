@@ -4,8 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "cef24ee2a170ac18",
-  "oilupdateseptember2026",
   "6b210ea92f4b2c4f",
   "japangovernmentplansbillstodiversifycrudeoilprocurement",
   "ec0b90b6f6b9d872",
@@ -603,7 +601,9 @@
   "1a186f69c3caf8f1",
   "oilpricedropsmorethan3ontalksoverdieselcrudestockreleases",
   "949baa485056383f",
-  "franceproposes50mbarrelsdiesel50mcrudereleasefromieastocksne"
+  "franceproposes50mbarrelsdiesel50mcrudereleasefromieastocksne",
+  "00b40dc73ec7ac18",
+  "ustoloanupto40millionbarrelsofoilfromsprlastbatchfromglobald"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-02",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-10-02T16:35:14.862946+03:00",
+ "last_run": "2026-10-02T16:40:18.619113+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-10-02",
    "t": "The GOP Sells the Mirage of a Hormuz Victory - The Nation"
+  },
+  {
+   "d": "2026-10-02",
+   "t": "US to loan up to 40 million barrels of oil from SPR, last batch from global deal - Reuters"
   }
  ]
 }
