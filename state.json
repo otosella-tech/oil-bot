@@ -4,12 +4,6 @@
   "Brent": 100.76
  },
  "seen": [
-  "6e6673b86a46295a",
-  "pemexcrudeoilexportsfall45inaugustamidrefiningpush",
-  "c5ece6d3b9aeb448",
-  "usoilandgasproductionclimbsdespiteextremeoilpricevolatility",
-  "9af92dcc0eadd80b",
-  "indiacutswindfalltaxesondieselaviationfuelexports",
   "96da3efaa79399dc",
   "insidemileistwoweekultimatumtoukoverfalklandsoilexploration",
   "318ab2c078579386",
@@ -603,7 +597,13 @@
   "f7c00c5bf8d521ad",
   "macronplansg7leaderscallonoilpricesassoonaspossible",
   "485e5bc992216479",
-  "usoilgasoutputupinq3producerswaryofpriceoutlookdallasfedsays"
+  "usoilgasoutputupinq3producerswaryofpriceoutlookdallasfedsays",
+  "2b8a7edb16fdcd99",
+  "oilpricescomeunderpressure",
+  "8533c103015722d2",
+  "crudeoilfuturesfallaftereureportedlydiscussesdieselstockrele",
+  "1a73f08c089a4793",
+  "euholdscrisismeetingasuspressuremountstoreleaseemergencyoils"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-02",
   "count": 31
  },
- "last_run": "2026-10-02T12:40:17.826239+03:00",
+ "last_run": "2026-10-02T12:45:16.763654+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
