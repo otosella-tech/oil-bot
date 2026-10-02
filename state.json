@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "a9672b51be2c5f29",
-  "usequityindexesfallascrudeoiljumpsamiddivergentmanufacturing",
   "47021cbb2946541f",
   "updateusequityindexesfallascrudeoiljumpsamiddivergentmanufac",
   "1d693b2ff1671531",
@@ -603,7 +601,9 @@
   "40145e03345d74e1",
   "officialshackersaccessedoiltankerspropulsionsystem",
   "064387e2a003b9df",
-  "g7torelease100moilbarrelsastrumphailseuropedieseldeal"
+  "g7torelease100moilbarrelsastrumphailseuropedieseldeal",
+  "e84182a81bcc26d3",
+  "currentpriceofoilasofseptember252026"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-02",
   "count": 60
  },
- "last_run": "2026-10-02T23:35:15.549947+03:00",
+ "last_run": "2026-10-02T23:40:17.957934+03:00",
  "sent_stories": [
   {
    "d": "2026-09-29",
