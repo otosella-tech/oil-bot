@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "4c5e74746f3b20c9",
-  "oiledgeshigheramidrisingmideasttensions",
   "9389222a467ac59c",
   "oilpricesnear103brentcrudeextendsgainsasusirantensionsescala",
   "50a90715c00cb983",
@@ -603,7 +601,9 @@
   "9815f5bbdffb87c3",
   "g7torelease100millionbarrelsofoilanddieselfromreserves",
   "ba1eddc624f6fe89",
-  "ukmtocrudeoiltankerstruckbyunknownprojectileoffoman"
+  "ukmtocrudeoiltankerstruckbyunknownprojectileoffoman",
+  "a998e03cd7f864f1",
+  "oilprices021026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -615,7 +615,7 @@
   "date": "2026-10-03",
   "count": 17
  },
- "last_run": "2026-10-03T09:50:18.755113+03:00",
+ "last_run": "2026-10-03T09:55:14.607654+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
