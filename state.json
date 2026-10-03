@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "14dc6140edd220a9",
-  "chinafuelexportsuspensiontochokesuppliesinasia",
   "8188ea93ab26dd79",
   "oilfalls1despitemiddleeastescalationfears",
   "56b3bbb27c098a20",
@@ -603,7 +601,9 @@
   "6a768246443a328f",
   "gettingoilthroughhormuzisariskyjob",
   "2b192b0a78009d9e",
-  "ieasays325moilbarrelsreleasedbymembersreserves"
+  "ieasays325moilbarrelsreleasedbymembersreserves",
+  "bda4717411f8a180",
+  "newresearchstrengthensthelinkbetweenwarmingandextremeweather"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-03",
-  "count": 33
+  "count": 34
  },
- "last_run": "2026-10-03T19:55:51.559153+03:00",
+ "last_run": "2026-10-03T20:00:29.231703+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
