@@ -4,12 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "d4160bf70a56d6e5",
-  "chevronand2othertopoilandgasdividendstocks",
-  "854f123b676f9027",
-  "canadasoilpivotawayfromtrumpcouldcostusrefineriesentireinter",
-  "a1cd091d40b9661f",
-  "uscrudeoilstockpilesjump",
   "ae521445434391dc",
   "whiletheworldshiftsfromfossilfuelstoevsafricasrichestmanisbu",
   "6bec338982efeaf7",
@@ -603,7 +597,13 @@
   "fbf95c71d8ab6a0f",
   "currentpriceofoilasofseptember172026",
   "f08805e64f97d5ae",
-  "currentpriceofoilasofseptember182026"
+  "currentpriceofoilasofseptember182026",
+  "bc60e013ad626da5",
+  "oilpricesfallasg7agreestorelease100millionbarrelsofreserves",
+  "2ae43ac63326ad76",
+  "commentarywhenitcomestocrudeoilpricesitslocationlocationloca",
+  "c9cb606d7d25f7c8",
+  "vietnamrefinerysignscrudeoildealwithexxonmobilasiapacific"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-03",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-10-03T17:45:16.987859+03:00",
+ "last_run": "2026-10-03T17:50:19.358303+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
@@ -1212,6 +1212,10 @@
   {
    "d": "2026-10-03",
    "t": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters"
+  },
+  {
+   "d": "2026-10-03",
+   "t": "Vietnam refinery signs crude oil deal with ExxonMobil Asia Pacific - Reuters"
   }
  ]
 }
