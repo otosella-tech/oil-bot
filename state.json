@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "5d8b386197d1515c",
-  "carneyputsoilpipelineatcenterofbidtokeepalbertaincanada",
   "62e6b2b0dbe0c284",
   "guidelinesforupstreamscaleriskestablishedinoilandgasindustry",
   "5b817208902ef6cd",
@@ -603,7 +601,9 @@
   "775270f16f175282",
   "crudeoiltankerattackedoffomancoastukmaritimeagencysays",
   "b2aa03b9bb3a933d",
-  "crudeoiltankerhitbyunknownprojectileoffomanukmtosays"
+  "crudeoiltankerhitbyunknownprojectileoffomanukmtosays",
+  "4d4a2aa96bab6ae0",
+  "g7oilreservereleasepressurescrudepricesascolgatepalmoli"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-03",
   "count": 8
  },
- "last_run": "2026-10-03T04:40:16.965350+03:00",
+ "last_run": "2026-10-03T04:45:17.151097+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
