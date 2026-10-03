@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "8558c3e922e61917",
-  "thebondroutisdeepeningevenasoiltankersreturntothestraitofhor",
   "4c5e74746f3b20c9",
   "oiledgeshigheramidrisingmideasttensions",
   "9389222a467ac59c",
@@ -603,7 +601,9 @@
   "c243b9de61d7937b",
   "crudeoilparesearlygains",
   "9815f5bbdffb87c3",
-  "g7torelease100millionbarrelsofoilanddieselfromreserves"
+  "g7torelease100millionbarrelsofoilanddieselfromreserves",
+  "ba1eddc624f6fe89",
+  "ukmtocrudeoiltankerstruckbyunknownprojectileoffoman"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -615,7 +615,7 @@
   "date": "2026-10-03",
   "count": 17
  },
- "last_run": "2026-10-03T09:36:11.364553+03:00",
+ "last_run": "2026-10-03T09:40:19.726180+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
