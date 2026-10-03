@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "ce09bad5e216e841",
-  "powerdemandissurgingfasterthangridscankeepup",
   "05e4c653db481332",
   "smalloilleakscausemoreoceanpollutionthanbigspills",
   "1c44ffe4842227c5",
@@ -603,7 +601,9 @@
   "3679788381a8d4a2",
   "g7nationsbowtouspressureandavoidcripplingdieselban",
   "2e463af3abeef05d",
-  "chinacrudeoilimportsseenflatasbrentabove100iraniansupplydrie"
+  "chinacrudeoilimportsseenflatasbrentabove100iraniansupplydrie",
+  "d1863cc7b7f959ed",
+  "omanhadpreviouslybannedtheflydubaiattackerfromflying"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-03",
-  "count": 8
+  "count": 9
  },
- "last_run": "2026-10-03T07:20:17.813843+03:00",
+ "last_run": "2026-10-03T07:25:14.611186+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
