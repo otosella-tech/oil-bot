@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "102e5f6ab0e0617d",
-  "usiranloadedzerocrudeoilontotankersinseptember",
-  "f657524ced1320d5",
-  "crudeoilspikesnearly3",
   "eb4228f3c6210763",
   "ustreasurysecretarybessentsaysiranloadedzerocrudeoilontotank",
   "1b0837df96bce584",
@@ -603,7 +599,11 @@
   "8a5981ec53249985",
   "brentoiljumpsmorethan4asusreportedlysendsthirdaircraftcarrie",
   "27297c583d745ac9",
-  "g7nationswillrelease100millionbarrelsofoilanddieseltocombath"
+  "g7nationswillrelease100millionbarrelsofoilanddieseltocombath",
+  "e63276f911603e16",
+  "economistsaysg7oilreservereleasemayofferonlyshorttermrelief",
+  "77986efa11dd988c",
+  "g7plans100millionbarreloilreleaseasdieselpricessurge"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-03",
   "count": 8
  },
- "last_run": "2026-10-03T06:25:16.203900+03:00",
+ "last_run": "2026-10-03T06:30:24.775471+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
