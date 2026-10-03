@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "a4d72320c0ada8f5",
-  "futuresriseintojobsteslabuysignalformicron",
   "f7c00c5bf8d521ad",
   "macronplansg7leaderscallonoilpricesassoonaspossible",
   "485e5bc992216479",
@@ -603,7 +601,9 @@
   "fe95b6b6c9fcd5ab",
   "oilfinishestheweekflatasthemarketseessaudipipelineoutageasle",
   "01f0d1a85264601c",
-  "trumptoutsg7plantoreleaseoilanddieselreservestoaddresshighpr"
+  "trumptoutsg7plantoreleaseoilanddieselreservestoaddresshighpr",
+  "a1d3feceffe44fe4",
+  "tajikistanbeginsreceivingiranianoiltestingnewsupplyrouteande"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-03",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-10-03T21:40:20.105753+03:00",
+ "last_run": "2026-10-03T21:45:17.213613+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-10-03",
    "t": "Vietnam refinery signs crude oil deal with ExxonMobil Asia Pacific - Reuters"
+  },
+  {
+   "d": "2026-10-03",
+   "t": "Tajikistan Begins Receiving Iranian Oil, Testing New Supply Route And Extent Of US Sanctions - Radio Free Europe/Radio Liberty"
   }
  ]
 }
