@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "dde85807bbe98bb3",
-  "oilfallsabout3ontalksoverdieselcrudestockreleases",
   "14dc6140edd220a9",
   "chinafuelexportsuspensiontochokesuppliesinasia",
   "8188ea93ab26dd79",
@@ -603,7 +601,9 @@
   "bac468aa9dc0b00f",
   "ieasays325millionbarrelsreleasedfromemergencyoilstockssincem",
   "6a768246443a328f",
-  "gettingoilthroughhormuzisariskyjob"
+  "gettingoilthroughhormuzisariskyjob",
+  "2b192b0a78009d9e",
+  "ieasays325moilbarrelsreleasedbymembersreserves"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -615,7 +615,7 @@
   "date": "2026-10-03",
   "count": 33
  },
- "last_run": "2026-10-03T19:09:02.357302+03:00",
+ "last_run": "2026-10-03T19:10:16.489622+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
