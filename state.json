@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "6a9ce181ba6923f3",
-  "gulfoilisfinallyflowingagainbutitmightnotstopaterrifyingwint",
-  "733b57b1e3ec3188",
-  "oilpricesup011026",
   "7039a62006aa3efc",
   "usenergygiantexpandsintoafricaslargestoilreserveholderaskbre",
   "42eada345a4f8118",
@@ -603,7 +599,11 @@
   "0caea43f29ba93b5",
   "laconsiderstherareclosureofanactiveoilsiteinjeffersonpark",
   "631639f0c2c72656",
-  "currentpriceofoilasofsept302026"
+  "currentpriceofoilasofsept302026",
+  "e91604e0d4e95f80",
+  "crudeoiltankerstruckbyunknownprojectileoffomanegyptian",
+  "3074d5bb13c0f680",
+  "uscrudeoiltumblesbackbelow100aftertrumpsayshesopentotalkingt"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-03",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-10-03T13:15:18.437008+03:00",
+ "last_run": "2026-10-03T13:20:17.216871+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-10-03",
    "t": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies - The New York Times"
+  },
+  {
+   "d": "2026-10-03",
+   "t": "U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN - CNBC"
   }
  ]
 }
