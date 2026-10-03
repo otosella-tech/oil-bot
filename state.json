@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "dbd796c85d368c31",
-  "majorwallstreetbanksliftoilpriceforecastsurveyshows",
-  "e8ebc99bbd77bb29",
-  "onegreenshootatatimethewomenrestoringmangroveforestsintheoil",
   "4b75a3ac4be63c87",
   "oilpricesslideabout2asusiranexplorepathoutofwar",
   "7f7dbe191e21854b",
@@ -603,7 +599,11 @@
   "853a69209c44b39a",
   "usrussiatalksonukraineinvolvemultibilliondollaroildealnytrep",
   "a5bebe9a4b97da93",
-  "oilslipsassaudiarabiaoffersmorecrudeviaoman"
+  "oilslipsassaudiarabiaoffersmorecrudeviaoman",
+  "d50c5a8903ecb5ae",
+  "crudeoiljumpsasusreportedlysendsthirdcarriermoretroopstomidd",
+  "0e33e183f6f6bf98",
+  "currentpriceofoilasofsept212026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -615,7 +615,7 @@
   "date": "2026-10-03",
   "count": 28
  },
- "last_run": "2026-10-03T16:40:17.973538+03:00",
+ "last_run": "2026-10-03T16:45:18.045819+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
