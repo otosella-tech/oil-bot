@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "5b817208902ef6cd",
-  "chinahaltsoctoberfuelexportsasglobaldieselcrunchdeepens",
-  "8a5981ec53249985",
-  "brentoiljumpsmorethan4asusreportedlysendsthirdaircraftcarrie",
   "867d478b2eeea1ac",
   "europeswinterenergycrunchmayalreadybeunderwaytwousstocksthat",
   "f1400595d75adde3",
@@ -603,7 +599,11 @@
   "4d4a2aa96bab6ae0",
   "g7oilreservereleasepressurescrudepricesascolgatepalmoli",
   "44aefdbee0c60634",
-  "g7countriesagreetoanemergencyreleaseof100mbarrelsofoildiesel"
+  "g7countriesagreetoanemergencyreleaseof100mbarrelsofoildiesel",
+  "c3ceaecf4d17801a",
+  "stocksremainunderthethrallofhigheryieldsandhigheroilhereswha",
+  "3da1a0b6f9f53394",
+  "localmoverfeelsdieselcostsasg7releases100millionbarrelsofoil"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-03",
   "count": 8
  },
- "last_run": "2026-10-03T05:00:26.131517+03:00",
+ "last_run": "2026-10-03T05:05:14.482602+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
