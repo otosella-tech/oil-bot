@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "9389222a467ac59c",
-  "oilpricesnear103brentcrudeextendsgainsasusirantensionsescala",
-  "50a90715c00cb983",
-  "weeklygasstorageinventoriesincreaseby64bcf",
   "3d679414697ca6da",
   "vietnamsnghisonrefinerysecurescrudesuppliestorunat125capacit",
   "2a725875946bf02d",
@@ -603,7 +599,11 @@
   "ba1eddc624f6fe89",
   "ukmtocrudeoiltankerstruckbyunknownprojectileoffoman",
   "a998e03cd7f864f1",
-  "oilprices021026"
+  "oilprices021026",
+  "6366f4f67dbd719e",
+  "worldinbriefg7toreleaseoilreservesrussiatargetskyivsbridges",
+  "8236a5075dc3199e",
+  "crudeoiltankerhitbyunknownprojectileoffomanscoast"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -615,7 +615,7 @@
   "date": "2026-10-03",
   "count": 17
  },
- "last_run": "2026-10-03T10:25:15.639275+03:00",
+ "last_run": "2026-10-03T10:30:22.442019+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
