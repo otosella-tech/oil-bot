@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "956a47bde822132d",
-  "willrussianoilbeeconomicallyviableforindiaiftrumptariffsretu",
   "8839089ecfa15422",
   "oilpricedropsmorethan2ontalksoverdieselcrudestockreleases",
   "bd662343dfb3c26e",
@@ -603,7 +601,9 @@
   "2859aeab59254e2b",
   "iranscurrencycrashesastheregimerunsoutofoiltosellandcantgeti",
   "6a10ba9655f668f9",
-  "texasoilgasactivitycontinuestoincreasein2026despitecostpress"
+  "texasoilgasactivitycontinuestoincreasein2026despitecostpress",
+  "208533f3d48fe09a",
+  "theiranwarisshowingwhatadnocsaicanreallydo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-10-04T01:55:14.669614+03:00",
+ "last_run": "2026-10-04T02:00:29.579681+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
@@ -960,6 +960,10 @@
   {
    "d": "2026-10-04",
    "t": "Iran's currency crashes as the regime runs out of oil to sell and can’t get its money from customers - Fortune"
+  },
+  {
+   "d": "2026-10-04",
+   "t": "The Iran War Is Showing What ADNOC’s AI Can Really Do"
   }
  ]
 }
