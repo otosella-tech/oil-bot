@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "1c4368ad1086de99",
-  "cnbcdailyopenthreesacrowduscarrierbuildupinmiddleeastsendsoi",
   "855f572959a92025",
   "brentholdsabove102asgulfexportreboundoffsetsusmilitarymoves",
   "3074d5bb13c0f680",
@@ -603,7 +601,9 @@
   "2dd35ce21d89ae0d",
   "oilflowsareupbutiranisstillmenacingthestraitofhormuz",
   "e3f4368f438a240a",
-  "middleeastcrudeoilexportsbackatprewarlevelsanalystssay"
+  "middleeastcrudeoilexportsbackatprewarlevelsanalystssay",
+  "ac2a7528fec9d4e9",
+  "usrussiatalksonukrainenowinvolveanoildealtiedtotrumpallies"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-03",
-  "count": 19
+  "count": 21
  },
- "last_run": "2026-10-03T12:45:18.154996+03:00",
+ "last_run": "2026-10-03T12:50:19.076734+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
@@ -1192,6 +1192,10 @@
   {
    "d": "2026-10-03",
    "t": "Saudi Arabia Resumes Yanbu Crude Loadings as East-West Pipeline Partially Restarts - News and Statistics - IndexBox"
+  },
+  {
+   "d": "2026-10-03",
+   "t": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies - The New York Times"
   }
  ]
 }
