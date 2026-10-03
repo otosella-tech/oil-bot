@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "fe2e4ccf164b2ce9",
-  "indiaoilrefinersshifttactics",
   "3fe15a47daea6ade",
   "fasttrackinganoilpipelinetothefraserriverestuarygambleswiths",
   "4abf351c72c95b5a",
@@ -603,7 +601,9 @@
   "4a6d42f1f6440e39",
   "oilspillcleanupunderwayafterboatcatchesfiresinksinhuntington",
   "a5436f8fb393332e",
-  "g7countriesagreeonreleaseofdieselandoilstocksafteruspressure"
+  "g7countriesagreeonreleaseofdieselandoilstocksafteruspressure",
+  "435f27836fb85fc7",
+  "brentcrudeisnowtradingabove100whatdoesthatmeanforthecryptoma"
  ],
  "releases_done": {
   "2026-10-02|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-03",
   "count": 7
  },
- "last_run": "2026-10-03T03:00:29.735875+03:00",
+ "last_run": "2026-10-03T03:05:14.348643+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
