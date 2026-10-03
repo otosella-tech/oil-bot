@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "85054e1683d46c3e",
-  "globaloilrefiningoutlook",
   "ce09bad5e216e841",
   "powerdemandissurgingfasterthangridscankeepup",
   "05e4c653db481332",
@@ -603,7 +601,9 @@
   "fca0bde69301c378",
   "ecuadorannounceslaunchofnewoilauctionforendof2026",
   "3679788381a8d4a2",
-  "g7nationsbowtouspressureandavoidcripplingdieselban"
+  "g7nationsbowtouspressureandavoidcripplingdieselban",
+  "2e463af3abeef05d",
+  "chinacrudeoilimportsseenflatasbrentabove100iraniansupplydrie"
  ],
  "releases_done": {},
  "last_digest": "2026-10-02",
@@ -615,7 +615,7 @@
   "date": "2026-10-03",
   "count": 8
  },
- "last_run": "2026-10-03T07:05:17.026161+03:00",
+ "last_run": "2026-10-03T07:10:53.020711+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
