@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "f7c00c5bf8d521ad",
-  "macronplansg7leaderscallonoilpricesassoonaspossible",
   "485e5bc992216479",
   "usoilgasoutputupinq3producerswaryofpriceoutlookdallasfedsays",
   "2b8a7edb16fdcd99",
@@ -603,7 +601,9 @@
   "01f0d1a85264601c",
   "trumptoutsg7plantoreleaseoilanddieselreservestoaddresshighpr",
   "a1d3feceffe44fe4",
-  "tajikistanbeginsreceivingiranianoiltestingnewsupplyrouteande"
+  "tajikistanbeginsreceivingiranianoiltestingnewsupplyrouteande",
+  "16d6c32f9e5594d7",
+  "iranislosingsomeofitsleverageoverthestraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-03",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-10-03T21:55:16.165092+03:00",
+ "last_run": "2026-10-03T22:00:26.796910+03:00",
  "sent_stories": [
   {
    "d": "2026-09-30",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-10-03",
    "t": "Tajikistan Begins Receiving Iranian Oil, Testing New Supply Route And Extent Of US Sanctions - Radio Free Europe/Radio Liberty"
+  },
+  {
+   "d": "2026-10-03",
+   "t": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz"
   }
  ]
 }
