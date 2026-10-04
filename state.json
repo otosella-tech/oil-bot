@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "0513b751f09be245",
-  "oilpricesfall3onreportsoftalksoverdieselandcrudestockrelease",
   "71bf3c155f9e8c83",
   "dowjonesforecastdjiarisesafterweakerjobsdata",
   "1ae2f3ba08104b5b",
@@ -603,7 +601,9 @@
   "d9644b1b51303ff3",
   "justicestohearfiresuitagainstoilfirmsthearkansasdemocrat",
   "62e7f37e90f28f9b",
-  "usseizedashipwithcrudeoilthatwasheadedtocubaandsentittomexic"
+  "usseizedashipwithcrudeoilthatwasheadedtocubaandsentittomexic",
+  "2bc0cee1a1cd9152",
+  "howchinamanagedtheoilshock"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -615,7 +615,7 @@
   "date": "2026-10-04",
   "count": 33
  },
- "last_run": "2026-10-04T19:05:15.786942+03:00",
+ "last_run": "2026-10-04T19:10:19.423038+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
