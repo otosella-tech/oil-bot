@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "b3160056285b25ae",
-  "energyaspectsamritasenonthestateofoilmarket",
   "c8fe40a92e1b4fa0",
   "softerbondyieldsoilbillsbuoyeuropeanboursesmidday",
   "4ab958521b31b740",
@@ -603,7 +601,9 @@
   "07ea4cf60da315a6",
   "theg7hasagreedtorelease100millionbarrelsofoilandreservediese",
   "71286134f3765315",
-  "g7torelease1000millionbarrelsofoilanddiesel"
+  "g7torelease1000millionbarrelsofoilanddiesel",
+  "d3b8711f375ca821",
+  "irantalkstaketheheatoutoftheoilrally"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 17
+  "count": 18
  },
- "last_run": "2026-10-04T12:35:14.562990+03:00",
+ "last_run": "2026-10-04T12:40:16.937032+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
