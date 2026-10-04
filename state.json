@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "1ae2f3ba08104b5b",
-  "middleeastwaroilpricesrallyasusdeploysmoretroopsintheregion",
   "2d4da0bf43d6a0f5",
   "globalsharesgainbondssupportedasoildropsjobsdatamissesexpect",
   "ef72eafb0685e219",
@@ -603,7 +601,9 @@
   "2bc0cee1a1cd9152",
   "howchinamanagedtheoilshock",
   "ef0c1517fdc24bfa",
-  "saudiarabiaanduaetobolsterasiasoilreserves"
+  "saudiarabiaanduaetobolsterasiasoilreserves",
+  "f0cc43db00bc4fa6",
+  "floatingpowerplantsareopeninganewenergyfrontier"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -615,7 +615,7 @@
   "date": "2026-10-04",
   "count": 33
  },
- "last_run": "2026-10-04T19:55:13.818372+03:00",
+ "last_run": "2026-10-04T20:00:06.280658+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
