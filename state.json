@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "6b07b0bd0e595c4e",
-  "europesdieselreserveshowareleasecouldlowerpumpprices",
-  "7855d402947774cf",
-  "g7agreestorelease100millionbarrelsofoilandfuelaftertrumppres",
   "fdb2d7d13a6d9eb2",
   "letterskellywalshsportsdebacleandgopleadership",
   "75d5fe63871554cb",
@@ -603,7 +599,11 @@
   "87e8145c87e8867f",
   "europesdieselwoesjustgotevenworse",
   "04f353c666ad0692",
-  "thereturnofmiddleeastoil"
+  "thereturnofmiddleeastoil",
+  "483b3be72328eae0",
+  "g7agreestorelease100millionbarrelsofoilanddieselasfuelprices",
+  "f5e40acd3804c7a2",
+  "opecdecidestokeepitsoilsupplyfrozeninnovember"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -612,155 +612,11 @@
   "Brent": 102.25
  },
  "llm": {
-  "date": "2026-10-04",
-  "count": 52
+  "date": "2026-10-05",
+  "count": 2
  },
- "last_run": "2026-10-05T00:05:16.061325+03:00",
+ "last_run": "2026-10-05T00:10:19.777054+03:00",
  "sent_stories": [
-  {
-   "d": "2026-10-01",
-   "t": "Iran has lost considerable leverage in the Strait of Hormuz. It can’t go on like this forever - CNN"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Crude Oil Futures Extend Gains, Brent Posts 14% Monthly Surge—Geopolitical Premium Persists as Iran Talks Stall - finance.biggo.com"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Saudi Arabia resumes Yanbu oil loading after pipeline restart - Reuters"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Crude Oil Lower As Saudi Arabia Resumes Red Sea Oil Exports - WSJ"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "US to loan up to 40 million barrels of oil from SPR, last batch from global deal - Reuters"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Exclusive | Democratic Senators Challenge Trump Officials on Pentagon’s Venezuela Oil Deal - WSJ"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Middle East crude oil exports near pre-war levels as shipments through Hormuz Strait rebound - 巴士的報"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Watch Mitchell: Hormuz Oil Exports Up With Shuttle Tankers Use - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Oil dips as recovering Gulf exports ease supply fears, US-Iran diplomacy in focus - Reuters"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Serbia secures US sanctions waiver for its Russian-owned NIS oil firm - TVP World"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Three oil tankers hit by projectiles in Hormuz strait on Tuesday, Marisks says - Reuters"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Oil steadies as Gulf exports recover, US-Iran diplomacy in focus - Reuters"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Gulf Oil Exports Rebound to Prewar Levels, Despite Iranian Attacks - The Maritime Executive"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Oil Rises as Supply Concerns Persist Despite Middle East Crude Exports Recovering to Prewar Levels - WSJ"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Vietnam refinery signs crude oil deal with ExxonMobil Asia Pacific - Reuters"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Mideast Crude Oil Flows Hit 98% of Pre-War Level, JPMorgan Says - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Three Tankers Struck by Unknown Projectiles in Strait of Hormuz"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Indian Refiners Seek Tankers for Hormuz Oil"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Venezuela's Oil Comeback Puts These 4 Energy Stocks in Focus - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Shifting Oil Market Positioning During the Strait of Hormuz Crisis - oxfordenergy.org"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Dallas Fed survey: oil executives expect $88 WTI at end-2026 as Iran war clouds planning - Oil & Gas Middle East"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "3 Ships, Including Crude Oil Tanker & LNG Tanker, Struck In Strait Of Hormuz - Marine Insight"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Saudi Arabia Resumes Crude Oil Loadings At Red Sea Port Of Yanbu Amid Strait Of Hormuz Disruption - Marine Insight"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Trump’s Spiraling Narratives from Greenland to Venezuela to Iran - Yahoo"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Canada to fast track oil pipeline designed to diversify economy away from US - reuters.com"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Crude oil exports from strait of Hormuz largely return to pre-war levels - The Guardian"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Carney hopes an oil pipeline can help Canada fight a trade war - BBC"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Oil Is Again Flowing Out of Hormuz - Foreign Policy"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Saudi Arabia leads Japan’s oil imports in August; U.S. share surges - アラブニュース"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya - Reuters"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Crude Oil Prices Surge on Possible Escalation of US-Iran War - Barchart.com"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Canada’s Proposed Oil Pipeline Offers Carney Relief From Domestic and Global Turmoil - The New York Times"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Crude Oil Exports from Hormuz Nearly Return to Pre-War Levels - Nacionale"
-  },
-  {
-   "d": "2026-10-01",
-   "t": "Carney Puts Oil Pipeline at Center of Bid to Keep Alberta in Canada - WSJ"
-  },
   {
    "d": "2026-10-02",
    "t": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite"
@@ -1032,6 +888,14 @@
   {
    "d": "2026-10-04",
    "t": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "G7 Agrees to Release 100 Million Barrels of Oil and Diesel as Fuel Prices Surge - NBC Palm Springs"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "OPEC+ Decides To Keep Its Oil Supply Frozen in November - telesurenglish.net"
   }
  ]
 }
