@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "35ab24a3ae289987",
-  "oilpricesfallonreportofpotentialdieselcrudestockreleasebrent",
   "ced3fa7067851733",
   "g7nationsagreedtorelease100millionbarrelsofoilincludingdiese",
   "4ac4c09e9b1bbe15",
@@ -603,7 +601,9 @@
   "c20e8fb7732514f3",
   "wtiwhipsawsasgulfsupplyimprovesandmiddleeastriskreturns",
   "b58bf9f22f9a11f4",
-  "usexitleavesiraqwithamilitiaproblem"
+  "usexitleavesiraqwithamilitiaproblem",
+  "6ad552ea1ebd045a",
+  "iransoilministerquitsdaysbeforeitslastcargoesrunout"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-10-04T22:35:15.767750+03:00",
+ "last_run": "2026-10-04T22:40:17.902433+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
@@ -1012,6 +1012,10 @@
   {
    "d": "2026-10-04",
    "t": "Iran's oil minister resigns, no reason given - Reuters"
+  },
+  {
+   "d": "2026-10-04",
+   "t": "Iran's Oil Minister Quits Days Before Its Last Cargoes Run Out - Yahoo Finance"
   }
  ]
 }
