@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "7ef831c1e5fafb38",
-  "managingoilsdeclinethecomingpetrostatereckoning",
   "bd14b4b3c9ef624f",
   "euconsidersreleasing100mbarrelsofdieselandcrudeoil",
   "e72e925276bd8bc6",
@@ -603,7 +601,9 @@
   "b7922b181bf27a06",
   "iea325millionbarrelsofoilfromstrategicreservesreleased",
   "d9d8676df5466917",
-  "iranscurrencyisgettingobliteratedastheregimeisabouttorunouto"
+  "iranscurrencyisgettingobliteratedastheregimeisabouttorunouto",
+  "0940dc72a9a1537a",
+  "opecsettokeepnovemberoiloutputtargetssteadysourcessay"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-10-04T10:55:14.709124+03:00",
+ "last_run": "2026-10-04T11:00:28.804249+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
@@ -972,6 +972,10 @@
   {
    "d": "2026-10-04",
    "t": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters"
+  },
+  {
+   "d": "2026-10-04",
+   "t": "OPEC+ Set to Keep November Oil Output Targets Steady, Sources Say - The Moscow Times"
   }
  ]
 }
