@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "37456187f2ba99bf",
-  "uspressureseuropetoreleasedieselreservesimmediatelytotamepri",
-  "51acbce549011fcf",
-  "oilpriceforecastcrudefallsintotheweekend",
   "964e048dc95841de",
   "surginggulfoilflowsmaybetoolatetostopaterrifyingwinter",
   "a1b2e54d77e1afe7",
@@ -603,7 +599,11 @@
   "cef58e006b6734d6",
   "opecholdsoutputtargetssteadyasmiddleeastconflicttightenssupp",
   "63b1b106aad7eb13",
-  "bigoilandgavinnewsomsperilouswindingroad"
+  "bigoilandgavinnewsomsperilouswindingroad",
+  "a0ba0271dccaaa42",
+  "iransoilministerresignsnoreasongiven",
+  "2e165dcef3ccdc97",
+  "potenskyhightankerratesaredrivingrefinersoilbuyingdecisions"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-10-04T21:45:17.338912+03:00",
+ "last_run": "2026-10-04T21:50:17.436326+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
@@ -1008,6 +1008,10 @@
   {
    "d": "2026-10-04",
    "t": "Crude Oil Price in Focus as Saudi Arabia-Houthi, US-Iran, Ukraine-Russia Tensions Escalate - Benzinga"
+  },
+  {
+   "d": "2026-10-04",
+   "t": "Iran's oil minister resigns, no reason given - Reuters"
   }
  ]
 }
