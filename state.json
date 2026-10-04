@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "c53a5080cc9d4620",
-  "oildownnearly5followingtheannouncementthateuropeandieselrese",
   "fcffee2d50e3a33c",
   "g7torelease100mbarrelsofoildieselover4monthsaftertrumpcall",
   "11fa2a1997eb6135",
@@ -603,7 +601,9 @@
   "dc66fd7b85318936",
   "largeoilexportersagreetocontinueconsistentproductioninnovemb",
   "88c3926e3e4f0ee9",
-  "fuelpriceshockpushesglobalgascarsalesbelow50forfirsttime"
+  "fuelpriceshockpushesglobalgascarsalesbelow50forfirsttime",
+  "5194587a549a8cba",
+  "strikesbynorthseaoilworkerscouldseverelydisruptukfuelsupplie"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 4
  },
- "last_run": "2026-10-05T02:01:59.985367+03:00",
+ "last_run": "2026-10-05T02:05:15.584668+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
