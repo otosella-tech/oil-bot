@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "c1849f18a263ce87",
-  "chinaresumescurbsonfuelexportstighteningglobalenergymarkets",
   "5ca950bc20fb2777",
   "ukrainewarjapansnewsanctionsonrussiatargetoilexports",
   "35a2dc84a544712c",
@@ -603,7 +601,9 @@
   "f681a01c30e58b94",
   "shouldbigoilpayforclimatechangeasupremecourtcasewillhelpdeci",
   "106039386461c62e",
-  "opectokeepoilquotasunchangedinnovemberasiranwarcontinuestoim"
+  "opectokeepoilquotasunchangedinnovemberasiranwarcontinuestoim",
+  "6367d960b78803bf",
+  "iraqsends2millionbarrelsofcrudethroughhormuzindecadesfirstmo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 20
+  "count": 21
  },
- "last_run": "2026-10-04T14:35:14.581064+03:00",
+ "last_run": "2026-10-04T14:40:19.091217+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
