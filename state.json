@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "9cf745da52fc8236",
-  "europessoaringgasbillissendingutilitiesbacktocoal",
   "ec0b90b6f6b9d872",
   "exclusivedemocraticsenatorschallengetrumpofficialsonpentagon",
   "3f6c83208ef8e663",
@@ -603,7 +601,9 @@
   "110571865ae32bd7",
   "whyoilisstillstucknear100abarrel",
   "915bdafe073cd6f8",
-  "evangelizecivilizedemocratizeorlandgoldandoil"
+  "evangelizecivilizedemocratizeorlandgoldandoil",
+  "99b5f4922cd20376",
+  "moretankersstruckinthemiddleeastasiranreiteratesconditionsfo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-10-04T18:20:17.402970+03:00",
+ "last_run": "2026-10-04T18:25:15.793421+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
@@ -996,6 +996,10 @@
   {
    "d": "2026-10-04",
    "t": "Iraq Shifts Oil Strategy by Arranging Tanker to Move Past Hormuz - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-04",
+   "t": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz - CNBC"
   }
  ]
 }
