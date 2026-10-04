@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "ced3fa7067851733",
-  "g7nationsagreedtorelease100millionbarrelsofoilincludingdiese",
   "4ac4c09e9b1bbe15",
   "g7agrees100millionbarrelemergencyoilreleaseamiduspressureove",
   "bd8c4c635b113cfb",
@@ -603,7 +601,9 @@
   "b58bf9f22f9a11f4",
   "usexitleavesiraqwithamilitiaproblem",
   "6ad552ea1ebd045a",
-  "iransoilministerquitsdaysbeforeitslastcargoesrunout"
+  "iransoilministerquitsdaysbeforeitslastcargoesrunout",
+  "ae64ccfda7d272f2",
+  "iranstopsecurityofficialwarnsofdireeconomiccrisis"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-10-04T23:00:23.972879+03:00",
+ "last_run": "2026-10-04T23:03:38.169341+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
@@ -1016,6 +1016,10 @@
   {
    "d": "2026-10-04",
    "t": "Iran's Oil Minister Quits Days Before Its Last Cargoes Run Out - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-04",
+   "t": "Iran’s Top Security Official Warns of Dire Economic Crisis - The New York Times"
   }
  ]
 }
