@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "835d12a24d00f837",
-  "oilandgasactivityincreasesdespitecostpressureslongersupplier",
   "5ccfcd411bc6a8dc",
   "firstthingtodaycornhoversaround5mark",
   "3e5d005f3a64fe55",
@@ -603,7 +601,9 @@
   "946985e344393e88",
   "oilpricesfallafterussaysdamagedsaudipipelinewillrestartopera",
   "42f85ffa1f65914f",
-  "whyg7agreestoreleasefuelreserveshowhelpfulwillitbe"
+  "whyg7agreestoreleasefuelreserveshowhelpfulwillitbe",
+  "18fab068c41b2487",
+  "g7torelease100millionbarrelsofoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -615,7 +615,7 @@
   "date": "2026-10-04",
   "count": 5
  },
- "last_run": "2026-10-04T06:30:21.502670+03:00",
+ "last_run": "2026-10-04T06:35:16.005625+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
