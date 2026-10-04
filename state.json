@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "8d8b9727fbddc22a",
-  "usdeployspatriotstoshieldsaudioilandqatarigasfacilities",
   "2b4a65a817860ce5",
   "currentpriceofoilasofsept292026",
   "b3d5fa4086358865",
@@ -603,7 +601,9 @@
   "24f3fe00bbcee482",
   "domesticgasolinedieselpricestostayunchanged",
   "26d92f9276b9a7da",
-  "g7countriestoreleaseupto100millionbarrelsofdieselandcrudeoil"
+  "g7countriestoreleaseupto100millionbarrelsofdieselandcrudeoil",
+  "f74ee2fc7befefb7",
+  "majoroilexportersagreetokeepproductionsteadyinnovember"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -615,7 +615,7 @@
   "date": "2026-10-04",
   "count": 35
  },
- "last_run": "2026-10-04T20:50:17.055381+03:00",
+ "last_run": "2026-10-04T20:55:14.204041+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
