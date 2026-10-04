@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "1b676ce603e86e0d",
-  "wtisinksnearly4aseuweighsemergencystockpilerelease",
   "b3eb7efbcfafe324",
   "usurgeseuropetoimmediatelyreleasedieselreservesasiranwarfuel",
   "835d12a24d00f837",
@@ -603,7 +601,9 @@
   "d21fcc30b1852030",
   "middleeastcrudeexportsrecovertonearprewarlevelsbutoilproduct",
   "8ea9b87584bbe82d",
-  "livetrumpsayshehasadecisiontomakeaboutiran"
+  "livetrumpsayshehasadecisiontomakeaboutiran",
+  "946985e344393e88",
+  "oilpricesfallafterussaysdamagedsaudipipelinewillrestartopera"
  ],
  "releases_done": {},
  "last_digest": "2026-10-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 4
+  "count": 5
  },
- "last_run": "2026-10-04T05:10:17.756169+03:00",
+ "last_run": "2026-10-04T05:15:20.201389+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
