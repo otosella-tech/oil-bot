@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "0f973b9945e8bd41",
-  "persiangulfcrudeoilflowshavelargelyrecoveredfordieselandgaso",
   "82cbc49c07804f7a",
   "oilpricesfallover3onreportofpotentialdieselcrudestockrelease",
   "b9a094bfd0ab1bb4",
@@ -603,7 +601,9 @@
   "a168fb631d50015b",
   "g7agreestocoordinated100millionbarrelreleasetostabiliseenerg",
   "08dd4ec7c9ab91a9",
-  "bankofamericasaysbrentcrudeoilcouldtop150abarrelifiranwardis"
+  "bankofamericasaysbrentcrudeoilcouldtop150abarrelifiranwardis",
+  "6c200cf2286d329f",
+  "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 13
+  "count": 15
  },
- "last_run": "2026-10-04T09:25:14.563385+03:00",
+ "last_run": "2026-10-04T09:30:23.477887+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
@@ -968,6 +968,10 @@
   {
    "d": "2026-10-04",
    "t": "Bank of America says Brent crude oil could top $150 a barrel if Iran war disruptions persist - CNBC"
+  },
+  {
+   "d": "2026-10-04",
+   "t": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters"
   }
  ]
 }
