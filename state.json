@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "e7f812b86605b7a9",
-  "currentpriceofoilasofoct22026",
   "9cdde35060f55c74",
   "energysecuritypremiumredirectsoilexplorationbeyondmiddleeast",
   "ea4ac6c7bfa6d832",
@@ -603,7 +601,9 @@
   "f5e572e97b8b9056",
   "a20000dipstickreadingthe5mostexpensiveoilchangesintheautomot",
   "871c79f46c7ac324",
-  "dieselpricescouldfallbelow2alitreincomingmonthsexpert"
+  "dieselpricescouldfallbelow2alitreincomingmonthsexpert",
+  "3a308d4e80fa3e4f",
+  "oilsurgesabove100abarrelasusandiranlaunchnewattackswhilegaso"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 26
+  "count": 27
  },
- "last_run": "2026-10-04T16:50:18.775879+03:00",
+ "last_run": "2026-10-04T16:55:14.446317+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
