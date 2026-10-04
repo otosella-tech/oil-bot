@@ -4,12 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "f958fcdaa5fa244e",
-  "alaskalnghingesonhowmuchasianbuyerswillpayforenergysecurity",
-  "4de1c1c4c08b7331",
-  "euweighsreleasing100millionbarrelsofdieselandcrudeunderuspre",
-  "7657029fea6607ce",
-  "conocophillipssigns20yearlngdealwithventureglobal",
   "c1849f18a263ce87",
   "chinaresumescurbsonfuelexportstighteningglobalenergymarkets",
   "5ca950bc20fb2777",
@@ -603,7 +597,13 @@
   "6a37cb07b5794ef3",
   "325millionbarrelsreleasedfromieastrategiccrudeoilreservesasw",
   "8ae010fec8032137",
-  "stockmarketoutlookrbiratedecisionearningsoilmorehereswhatwil"
+  "stockmarketoutlookrbiratedecisionearningsoilmorehereswhatwil",
+  "652007aaea693d6a",
+  "opecalliesholdoiloutputsteadyamidmiddleeasttensions",
+  "f681a01c30e58b94",
+  "shouldbigoilpayforclimatechangeasupremecourtcasewillhelpdeci",
+  "106039386461c62e",
+  "opectokeepoilquotasunchangedinnovemberasiranwarcontinuestoim"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-10-04T14:30:23.149345+03:00",
+ "last_run": "2026-10-04T14:35:14.581064+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
@@ -976,6 +976,14 @@
   {
    "d": "2026-10-04",
    "t": "OPEC+ Set to Keep November Oil Output Targets Steady, Sources Say - The Moscow Times"
+  },
+  {
+   "d": "2026-10-04",
+   "t": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions - WSJ"
+  },
+  {
+   "d": "2026-10-04",
+   "t": "OPEC+ To Keep Oil Quotas Unchanged In November As Iran War Continues To Impact Output, Keeping Crude Prices On The Boil: Report - Stocktwits"
   }
  ]
 }
