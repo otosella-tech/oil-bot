@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "2b4a65a817860ce5",
-  "currentpriceofoilasofsept292026",
   "b3d5fa4086358865",
   "g7toreleaseupto100millionsofbarrelsofdieselcrude",
   "63b1b106aad7eb13",
@@ -603,7 +601,9 @@
   "26d92f9276b9a7da",
   "g7countriestoreleaseupto100millionbarrelsofdieselandcrudeoil",
   "f74ee2fc7befefb7",
-  "majoroilexportersagreetokeepproductionsteadyinnovember"
+  "majoroilexportersagreetokeepproductionsteadyinnovember",
+  "16f2e532167fb0b6",
+  "crudeoilpriceinfocusassaudiarabiahouthiusiranukrainerussiate"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-10-04T21:20:20.244461+03:00",
+ "last_run": "2026-10-04T21:25:49.940328+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
@@ -1004,6 +1004,10 @@
   {
    "d": "2026-10-04",
    "t": "Oil Was Pouring Through the Strait of Hormuz Again. Then Attacks on Shipping Resurged. - WSJ"
+  },
+  {
+   "d": "2026-10-04",
+   "t": "Crude Oil Price in Focus as Saudi Arabia-Houthi, US-Iran, Ukraine-Russia Tensions Escalate - Benzinga"
   }
  ]
 }
