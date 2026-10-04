@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "ea4ac6c7bfa6d832",
-  "uscrudeoilstockpilespostunexpectedbuild",
   "1a186f69c3caf8f1",
   "oilpricedropsmorethan3ontalksoverdieselcrudestockreleases",
   "949baa485056383f",
@@ -603,7 +601,9 @@
   "3a308d4e80fa3e4f",
   "oilsurgesabove100abarrelasusandiranlaunchnewattackswhilegaso",
   "e7f812b86605b7a9",
-  "currentpriceofoilasofoct22026"
+  "currentpriceofoilasofoct22026",
+  "833cdf6f456c81ce",
+  "iraqshiftsoilstrategybyarrangingtankertomovepasthormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-04",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-10-04T17:30:24.292189+03:00",
+ "last_run": "2026-10-04T17:35:16.898248+03:00",
  "sent_stories": [
   {
    "d": "2026-10-01",
@@ -992,6 +992,10 @@
   {
    "d": "2026-10-04",
    "t": "Iraq ships its oil through Strait of Hormuz as US-Iran war chokes exports - thenationalnews.com"
+  },
+  {
+   "d": "2026-10-04",
+   "t": "Iraq Shifts Oil Strategy by Arranging Tanker to Move Past Hormuz - Bloomberg.com"
   }
  ]
 }
