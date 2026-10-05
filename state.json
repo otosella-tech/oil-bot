@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "d5740307361f7b2d",
-  "chinareintroducesfuelexportrestrictions",
   "a51c561aae720e0a",
   "g7toreleaseupto100mbarrelsofemergencyoilanddieselreserves",
   "ff50b5c28ceb16ed",
@@ -603,7 +601,9 @@
   "2786222677db582b",
   "middleeastcrudeoilexportsexceedprewarlevelsbuttankerattacksi",
   "8137b7cc4492efba",
-  "oilclimbsafteryemenihouthisattacksaudiaramcosites"
+  "oilclimbsafteryemenihouthisattacksaudiaramcosites",
+  "aab47a2dbe5f955f",
+  "oilslipsasmiddleeastcrudeexportsriseg7toreleasestocks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 15
  },
- "last_run": "2026-10-05T04:40:18.426572+03:00",
+ "last_run": "2026-10-05T04:45:18.902616+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
