@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "92f4e2a8612cb184",
-  "currentpriceofoilasofseptember242026",
-  "c481112db8c544a6",
-  "oilpriceslowerasg7nationstoreleasedieselstockssaudisreported",
   "8fff561f3ab81497",
   "cmegroupcmehaltslaunchofnew10barrelcrudeoilfuturescontractam",
   "bb87326e6f2b98a1",
@@ -603,7 +599,11 @@
   "fcec55ca2e250913",
   "iraqships2millionbarrelsofcrudeoilthroughstraitofhormuz",
   "2138adcfce9fa103",
-  "usoilinventoriesrisebutfueltightnessandopecdisciplinekeeppri"
+  "usoilinventoriesrisebutfueltightnessandopecdisciplinekeeppri",
+  "d9c008cde31c2eab",
+  "dieselmarginsslideasg7announces100millionbarrelstocksrelease",
+  "e84182a81bcc26d3",
+  "currentpriceofoilasofseptember252026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 59
  },
- "last_run": "2026-10-05T11:55:14.659800+03:00",
+ "last_run": "2026-10-05T12:00:33.139295+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
