@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "3a2ea23585ea28aa",
-  "latinamericacoulddoubleitsonshorewindcapacityby2035",
   "be6457e194809831",
   "cantwaittoheatmyhouseinconnecticutthiswinteroddlotshostashea",
   "bac468aa9dc0b00f",
@@ -603,7 +601,9 @@
   "9c37d0ca3acde862",
   "iransoilministerresignsascountryseconomiccrisisworsens",
   "a1cd091d40b9661f",
-  "uscrudeoilstockpilesjump"
+  "uscrudeoilstockpilesjump",
+  "77375f8ee3d4c0ee",
+  "aramcoceowarnsoilinventoriesarescarilythin"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T17:25:14.967661+03:00",
+ "last_run": "2026-10-05T17:30:27.498277+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1072,6 +1072,10 @@
   {
    "d": "2026-10-05",
    "t": "7 oil exporters agree to keep production steady this November as Iran war disrupts global supplies - Fast Company"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Aramco CEO Warns Oil Inventories Are ‘Scarily Thin’"
   }
  ]
 }
