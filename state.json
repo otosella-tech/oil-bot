@@ -4,16 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "d9644b1b51303ff3",
-  "justicestohearfiresuitagainstoilfirmsthearkansasdemocrat",
-  "62e7f37e90f28f9b",
-  "usseizedashipwithcrudeoilthatwasheadedtocubaandsentittomexic",
-  "2bc0cee1a1cd9152",
-  "howchinamanagedtheoilshock",
-  "ef0c1517fdc24bfa",
-  "saudiarabiaanduaetobolsterasiasoilreserves",
-  "f0cc43db00bc4fa6",
-  "floatingpowerplantsareopeninganewenergyfrontier",
   "de9a73dbc1d82aa3",
   "oilwaspouringthroughthestraitofhormuzagainthenattacksonshipp",
   "24f3fe00bbcee482",
@@ -603,7 +593,17 @@
   "52256b627023fb02",
   "steaknshakeannouncesthattheirbunsareofficiallyseedoilfree",
   "99224e0430324444",
-  "iransoilministerresignsasexportsdryupunderuspressurethespoke"
+  "iransoilministerresignsasexportsdryupunderuspressurethespoke",
+  "87ddc78c80346969",
+  "usequitymarketsendhigherascrudeoilpricesdrop",
+  "e7f812b86605b7a9",
+  "currentpriceofoilasofoct22026",
+  "e62b8b6052fa9ae4",
+  "sailorsreportedlyoffered25kpertriptomoveoiloutofthepersiangu",
+  "6c75cb4f4f0ae6a8",
+  "oilslidesonsaudipricecut",
+  "03c587263b07715e",
+  "crudeoilwtitests50fibat8876amiddowntrendlive"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T23:20:53.253737+03:00",
+ "last_run": "2026-10-05T23:40:30.637063+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1144,6 +1144,10 @@
   {
    "d": "2026-10-05",
    "t": "Canada's Cenovus strike $4 billion deal to buy Athabasca Oil, expand production - Reuters"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Sailors reportedly offered $25K per trip to move oil out of the Persian Gulf amid strikes, drone attacks - New York Post"
   }
  ]
 }
