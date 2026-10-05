@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "98d52b4d8bfbf7df",
-  "ieasbirolsaysoilpricesstartingtofallafterreservereleasedecis",
   "b176c1d6eee57d52",
   "g7agreestorelease100millionbarrelsofoilanddieselhonolulustar",
   "c2fe14a3c1f0edcd",
@@ -603,7 +601,9 @@
   "a7292b261503af3f",
   "usoilandgasexecutivesweighinonsprtankbottomriskyearendoilpri",
   "a5c479d8f98dc2dd",
-  "crudeoilpricesdipong7ospcut"
+  "crudeoilpricesdipong7ospcut",
+  "e53809d40e1cf181",
+  "saudisslashoilpricestoasiainbattleformarketshare"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 34
  },
- "last_run": "2026-10-05T08:15:16.909091+03:00",
+ "last_run": "2026-10-05T08:20:18.930602+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
