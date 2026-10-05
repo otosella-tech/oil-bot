@@ -4,12 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "ba1eddc624f6fe89",
-  "ukmtocrudeoiltankerstruckbyunknownprojectileoffoman",
-  "a998e03cd7f864f1",
-  "oilprices021026",
-  "6366f4f67dbd719e",
-  "worldinbriefg7toreleaseoilreservesrussiatargetskyivsbridges",
   "8236a5075dc3199e",
   "crudeoiltankerhitbyunknownprojectileoffomanscoast",
   "4a9f86887c9d0abb",
@@ -603,7 +597,13 @@
   "3dd101dd7ea9171b",
   "japanplansnonewoilreservereleasefollowingg7agreementpremier",
   "8ee5a36ba1a3c928",
-  "ussupremecourtweighsbidbyoilcompaniestoavoidclimatelawsuit"
+  "ussupremecourtweighsbidbyoilcompaniestoavoidclimatelawsuit",
+  "e02ea310ec5f7335",
+  "conocophillipssaysnodecisionyetonnorthseaoffer",
+  "7b285f413ad17602",
+  "usacontinuesstrategicpetroleumreserverelease",
+  "7180c6d9df28894d",
+  "oilsteadiesonriseinmiddleeastcrudeexportsandg7stocksrelease"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T15:20:19.942054+03:00",
+ "last_run": "2026-10-05T15:25:15.942664+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
