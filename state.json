@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "66eef7065810e753",
-  "apicrudeoilinventoriesrise1019mbarrelsdefying19mdrawforecast",
   "dac8cc12362c7fca",
   "dallasfedq32026surveyoilgasproductionupwtiforecast88newsands",
   "9d5b031ee9504209",
@@ -603,7 +601,9 @@
   "f3e2c9d5aa292a01",
   "shippersareofferingsailorsupto25000atriptosneakoiloutofthegu",
   "04b40139d7224df0",
-  "middleeastoilexportstopprewarlevelsbuttankerattacksincrease"
+  "middleeastoilexportstopprewarlevelsbuttankerattacksincrease",
+  "3fa4abc49ef47e6f",
+  "crudeoilpricesedgelowerasg7stockreleaseandaramcoasiacutaddto"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T14:15:21.646220+03:00",
+ "last_run": "2026-10-05T14:20:24.245950+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
