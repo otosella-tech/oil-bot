@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "a1cd091d40b9661f",
-  "uscrudeoilstockpilesjump",
   "0ccb239ce549a980",
   "indiaseessurgeincrudeoilimportsfrommiddleeast",
   "3a2ea23585ea28aa",
@@ -603,7 +601,9 @@
   "8ef9b569b4cdab27",
   "worldsoilsupplycushionisscarilythinsaysaramcochief",
   "a54bcf349e710b80",
-  "chevronelevatescfotoheadoilandgasoperations"
+  "chevronelevatescfotoheadoilandgasoperations",
+  "9c37d0ca3acde862",
+  "iransoilministerresignsascountryseconomiccrisisworsens"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T17:15:21.022909+03:00",
+ "last_run": "2026-10-05T17:20:18.653062+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
