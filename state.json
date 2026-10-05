@@ -4,12 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "718d5f9f86f90fd0",
-  "scantopresentmoskowitzwithhowmonetusedcolorinoildemonstratio",
-  "d8aa3182b2356054",
-  "g7toreleaseupto100millionbarrelsofdieselcrude",
-  "d97133f94aabe279",
-  "saudiarabiacrudeoilexportshithighestlevelsinceiranwarbegande",
   "49d50382e25c5a8f",
   "trumpputinukraineandanoildeal5takeaways",
   "8fdc737a3f2dc90b",
@@ -603,7 +597,13 @@
   "78e92b8089c0d206",
   "yourmondayoct5guidefourthingstodointheoilcity",
   "49baf09c0fc09ebe",
-  "chevronannouncesseniorleadershipchanges"
+  "chevronannouncesseniorleadershipchanges",
+  "564809fc03d3dd0f",
+  "middleeastoilexportstopprewarlevelsforpartofseptemberbuttank",
+  "a0117aba4de55631",
+  "majoroilexporterstokeepproductionsteadyinnovember",
+  "329f2177a840da92",
+  "whatrecorddieselandheatingoilpricesmaybetellingothermarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T16:10:20.001452+03:00",
+ "last_run": "2026-10-05T16:15:18.604398+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1052,6 +1052,10 @@
   {
    "d": "2026-10-05",
    "t": "Middle East Crude Oil Exports Back at Prewar Levels, Analysts Say - WSJ"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
   }
  ]
 }
