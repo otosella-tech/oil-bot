@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "cbafe269ecaf9966",
-  "europebowstouspressuretoreleasedieselreservesaheadofmidterme",
   "d96d824072eb5caa",
   "g7nationswillrelease100millionbarrelsofoilanddieselfuelafter",
   "8f9c924c443f1787",
@@ -603,7 +601,9 @@
   "f83ea8ba207f1b48",
   "allusbombersleaveukairbaseonconcernsofsuspectedterrorplotsmo",
   "dfc65cd7c831e559",
-  "highcrudeoilpricesatailwindforsantos"
+  "highcrudeoilpricesatailwindforsantos",
+  "0aff13c9e308d51e",
+  "usandalliesagreetoreleasedieselreservesaspricessoar"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-05",
-  "count": 7
+  "count": 9
  },
- "last_run": "2026-10-05T03:25:14.421705+03:00",
+ "last_run": "2026-10-05T03:30:22.561532+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -904,6 +904,10 @@
   {
    "d": "2026-10-05",
    "t": "Saudi Arabia unexpectedly cuts oil prices to Asia - reuters.com"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar - The New York Times"
   }
  ]
 }
