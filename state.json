@@ -4,18 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "281b535b161eadfe",
-  "cmegroupsuspends247crudeoiltradingplanamidmarketriskconcerns",
-  "2c573d511661b453",
-  "waleaderspushbackoncanadasplanfornewoilpipeline",
-  "4a49b75f6f258daa",
-  "decliningoilreservessetstageforrenewedexploration",
-  "a6e2a2db16fdeaae",
-  "crudeoilcutslossesastraderseyeg7fuelrelease",
-  "d61c33f70ef46935",
-  "washingtonstateleadersraisealarmoverplanstofasttrackoilpipel",
-  "c2ea8de857c9cfd5",
-  "g7agreestorelease100millionbarrelsofoilanddieseltrumpsays87o",
   "f94dea090c91d3b9",
   "cmegroupsuspendsplanstolaunch24710barrelcrudeoilcontract",
   "90fa2d68d8ac9c62",
@@ -603,7 +591,19 @@
   "3ee0d495612ea20d",
   "middleeastoilexportstopprewarlevelsinseptemberbuttankerattac",
   "8398439cf18cda66",
-  "japanrulesoutfurtheroilreservereleaseamidglobalenergycrisis"
+  "japanrulesoutfurtheroilreservereleaseamidglobalenergycrisis",
+  "374404b1fc7af339",
+  "aramcoceowarnsoilinventoriescouldtaketwoyearstorebuildafterh",
+  "8a873674a80e176f",
+  "saudiaramcochiefsaysreplenishingglobaloilstockpilescouldtake",
+  "a7095398bd76ec35",
+  "aramcoceosaysglobaloilinventoriesremainlowamidhormuzsupplyri",
+  "00b40dc73ec7ac18",
+  "ustoloanupto40millionbarrelsofoilfromsprlastbatchfromglobald",
+  "fde1207ce77829f6",
+  "oilsteadiesasmiddleeastcrudeexportsriseandg7toreleasestocks",
+  "c5fee1a43fe8c98d",
+  "wticrudeoilfuturesclimbpast91ontightsupply"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T12:50:16.886538+03:00",
+ "last_run": "2026-10-05T12:55:15.119940+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -992,6 +992,18 @@
   {
    "d": "2026-10-05",
    "t": "Middle East oil exports top pre-war levels in September, but tanker attacks increase - AOL.com"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Aramco CEO Warns Oil Inventories Could Take Two Years to Rebuild After Hormuz Reopens - uk.finance.yahoo.com"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Aramco CEO Says Global Oil Inventories Remain Low Amid Hormuz Supply Risks - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "US to loan up to 40 million barrels of oil from SPR, last batch from global deal - Reuters"
   }
  ]
 }
