@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "2e463af3abeef05d",
-  "chinacrudeoilimportsseenflatasbrentabove100iraniansupplydrie",
-  "d1863cc7b7f959ed",
-  "omanhadpreviouslybannedtheflydubaiattackerfromflying",
   "66eef7065810e753",
   "apicrudeoilinventoriesrise1019mbarrelsdefying19mdrawforecast",
   "dac8cc12362c7fca",
@@ -603,7 +599,11 @@
   "dbf6821d2b8fb6a6",
   "oilpricesfallasmiddleeastexportsrecoverandg7releasesemergenc",
   "ef6adb9f6593f577",
-  "replenishingcrudeandfuelstockscouldtaketwoyearssaudiaramcoce"
+  "replenishingcrudeandfuelstockscouldtaketwoyearssaudiaramcoce",
+  "f3e2c9d5aa292a01",
+  "shippersareofferingsailorsupto25000atriptosneakoiloutofthegu",
+  "04b40139d7224df0",
+  "middleeastoilexportstopprewarlevelsbuttankerattacksincrease"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T14:05:15.584694+03:00",
+ "last_run": "2026-10-05T14:10:19.385597+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1028,6 +1028,10 @@
   {
    "d": "2026-10-05",
    "t": "Hormuz LNG Flows Still Down More Than 75% Despite Rebound"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Middle East oil exports top pre-war levels, but tanker attacks increase - Daily Sabah"
   }
  ]
 }
