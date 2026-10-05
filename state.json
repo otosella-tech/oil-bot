@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "8236a5075dc3199e",
-  "crudeoiltankerhitbyunknownprojectileoffomanscoast",
   "4a9f86887c9d0abb",
   "howtomanageyourcryptoinvestmentswhentheoilmarketexperiencesu",
   "f0719aeb2aa52937",
@@ -603,7 +601,9 @@
   "7b285f413ad17602",
   "usacontinuesstrategicpetroleumreserverelease",
   "7180c6d9df28894d",
-  "oilsteadiesonriseinmiddleeastcrudeexportsandg7stocksrelease"
+  "oilsteadiesonriseinmiddleeastcrudeexportsandg7stocksrelease",
+  "b558952e2f85602b",
+  "southkoreaplanstotriplecanadiancrudeimportsassaudishareslips"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T15:25:15.942664+03:00",
+ "last_run": "2026-10-05T15:30:24.183137+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1040,6 +1040,10 @@
   {
    "d": "2026-10-05",
    "t": "Saudi Arabia’s East-West oil pipeline operating normally: Report - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "South Korea Plans to Triple Canadian Crude Imports as Saudi Share Slips"
   }
  ]
 }
