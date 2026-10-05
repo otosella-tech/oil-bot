@@ -4,12 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "21684c96be5c2b9d",
-  "wticrudeoilfuturesrecoverfromonemonthlows",
-  "e6f3f2d7f179b99b",
-  "yoursaturdayoct3guidefivethingstodointheoilcity",
-  "853a69209c44b39a",
-  "usrussiatalksonukraineinvolvemultibilliondollaroildealnytrep",
   "a5bebe9a4b97da93",
   "oilslipsassaudiarabiaoffersmorecrudeviaoman",
   "d50c5a8903ecb5ae",
@@ -603,7 +597,13 @@
   "1049f940d8d58117",
   "usstocksholdrelativelysteadyevenascrudeoilpricesbouncearound",
   "d3216441a10a577e",
-  "g7torelease100millionbarrelsofoilanddieselwillitcurbprices"
+  "g7torelease100millionbarrelsofoilanddieselwillitcurbprices",
+  "381c56e33b37c0b0",
+  "oilslipsonriseinmiddleeastcrudeexportsandg7stocksrelease",
+  "58d5f0a1061d0f4e",
+  "usstocksholdneartheirrecordsafteroilpricesswinglowerunion",
+  "36f4d882a6342573",
+  "ukrainesaidstrikesdisabled51ofrussiasoilrefiningcapacityputi"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T16:50:18.609660+03:00",
+ "last_run": "2026-10-05T16:55:15.728737+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1060,6 +1060,10 @@
   {
    "d": "2026-10-05",
    "t": "Houthis Claim Strike on Aramco Facility in Riyadh as Yemen Fighting Escalates"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Ukraine said strikes disabled 51% of Russia’s oil refining capacity. Putin said they cost 1% of GDP - Fortune"
   }
  ]
 }
