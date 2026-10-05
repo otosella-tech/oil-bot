@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "adcbd9d26ed0e571",
-  "g7nationstorelease100millionbarrelsofoilamidfuelpricesurge",
   "bc8c08381abe73ee",
   "crudeoilexportsfromstraitofhormuzlargelyreturntoprewarlevels",
   "413eb5729a114494",
@@ -603,7 +601,9 @@
   "72eb799d01c82093",
   "iranianoilstartsflowingtotajikistandespiteussanctionsrisk",
   "28c916e2f777e683",
-  "crudeoilwtitests200smaafterhsbreakdownlivelevels"
+  "crudeoilwtitests200smaafterhsbreakdownlivelevels",
+  "05d90b4f803f9981",
+  "oilpricesfallasg7planscrudedieselreleasebuthormuzshippingris"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-05",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-10-05T10:25:14.098696+03:00",
+ "last_run": "2026-10-05T10:30:22.775272+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -968,6 +968,10 @@
   {
    "d": "2026-10-05",
    "t": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist - WSJ"
   }
  ]
 }
