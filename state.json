@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "6440133288bcadc2",
-  "liveexplosionheardneariransqeshmsirikislands",
   "50fd17eb16cdec2f",
   "iransoilministerresignsforpersonalreasonsstatemediareports",
   "15004b1eafe13afa",
@@ -603,7 +601,9 @@
   "5af287dbe0cf9989",
   "g7oilstocksreleaseisabandaidfixinbrokenfuelmarket",
   "21f328967187e5e4",
-  "missingjusticescramblessupremecourtoilliabilityfight"
+  "missingjusticescramblessupremecourtoilliabilityfight",
+  "39195d664d5a30d9",
+  "threereasonsmiddleeastoilsupplyisnearlybacktopreiranwarlevel"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-06",
-  "count": 3
+  "count": 4
  },
- "last_run": "2026-10-06T01:40:18.528715+03:00",
+ "last_run": "2026-10-06T01:45:17.685822+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
