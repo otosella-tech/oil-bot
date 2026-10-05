@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "b532782f17e75802",
-  "updateusequityindexesjumpasweakjobsreportslashesfedpolicytig",
   "d59fef5fec826b56",
   "g7nationstoreleasedieselstocksaswarsineuropeandmiddleeastcon",
   "8854f2884f512de6",
@@ -603,7 +601,9 @@
   "868045ac968481fc",
   "g7agreestoreleaseoilreservesafteruspush",
   "c542bd54552c8309",
-  "oilpricesfallasmiddleeastexportsrecoverg7tapsemergencystocks"
+  "oilpricesfallasmiddleeastexportsrecoverg7tapsemergencystocks",
+  "22ddbc04cc7c4dd8",
+  "currentpriceofoilasofoct12026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 26
  },
- "last_run": "2026-10-05T07:25:15.160957+03:00",
+ "last_run": "2026-10-05T07:30:22.047489+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
