@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "6c200cf2286d329f",
-  "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
   "0f973b9945e8bd41",
   "persiangulfcrudeoilflowshavelargelyrecoveredfordieselandgaso",
   "ee056d6bdc87a6ab",
@@ -603,7 +601,9 @@
   "b044603cb1dff91c",
   "kuwaitrestoresoilproductionto2mmbpdashormuztrafficincreases",
   "9524ffaf42f8abee",
-  "hereshowtrumpsusingthegrahamacttotraprussiaandcrushiran"
+  "hereshowtrumpsusingthegrahamacttotraprussiaandcrushiran",
+  "d3acfcf3fb46f5de",
+  "iransoilministerresignsasusblockadechokescrudeexports"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T20:25:17.787990+03:00",
+ "last_run": "2026-10-05T20:30:22.648148+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1124,6 +1124,10 @@
   {
    "d": "2026-10-05",
    "t": "Here’s How Trump’s Using The Graham Act To Trap Russia And Crush Iran"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Iran’s Oil Minister Resigns as U.S. Blockade Chokes Crude Exports"
   }
  ]
 }
