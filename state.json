@@ -4,14 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "47d0296694ff1fbc",
-  "pooleharbouroilspillbrings81millionpayoutwith528000forwildli",
-  "0795c9589f2f78f3",
-  "g7agreestoreleaseoilreservestocounterfuelpricesafteruspressu",
-  "4b227bffefda19ec",
-  "g7countriestoreleaseupto100mbarrelsofdieselcrudeoil",
-  "9c240fb1e53266c5",
-  "dollarstrengthensonoilsurgehawkishfedpolicyetfstobenefit",
   "07154851b9f928de",
   "g7torelease100millionbarrelsofoiloverfourmonthstocutdieselpr",
   "5b2bbb6cce7eabe0",
@@ -603,7 +595,15 @@
   "ab0d52d3faca454e",
   "middleeastcrudeoilexportsexceedprewarlevelstrackingdatashows",
   "0d3a800f7ef5ddeb",
-  "palmoilticksupbutcheapcrudekeepsalidonit"
+  "palmoilticksupbutcheapcrudekeepsalidonit",
+  "e62f3963f583d970",
+  "indiansharespoisedtoreboundasfedhikefearsoilpricesease",
+  "2635f662ebf3df15",
+  "iraqsaysittransported2millionbarrelsofcrudethroughstraitofho",
+  "5a3fdba5371b6ea0",
+  "indianrupeesetformildrelieffromdipinoilfadingfedoctoberhikeb",
+  "78033722f92bf243",
+  "saudicrudeshareofskoreasimportsfallsbelow30for1sttimein5yrs"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-05",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-10-05T05:55:13.920062+03:00",
+ "last_run": "2026-10-05T06:00:29.292278+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -920,6 +920,10 @@
   {
    "d": "2026-10-05",
    "t": "Middle East crude oil exports rise above pre-war levels but tanker attacks increase - Mitrade"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Iraq says it transported 2 million barrels of crude through Strait of Hormuz - Reuters"
   }
  ]
 }
