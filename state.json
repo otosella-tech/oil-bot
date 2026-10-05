@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "e84b9c5f9dd9aca2",
-  "theoilroutesaroundhormuzfacetheirownchokepoints",
   "c4d5b3f387f71e5c",
   "iraqmovestogivestateoilmarketersomogreaterflexibilityincrude",
   "8e736919abe4da2e",
@@ -603,7 +601,9 @@
   "99a6f4ec230ea7f6",
   "moreoilsamewarwhyincreasedexportsarentasignofiransimminentde",
   "b17787c8224cbfc2",
-  "ukmtoreceivesatimelatereportofanincidentonoctober4ththatacru"
+  "ukmtoreceivesatimelatereportofanincidentonoctober4ththatacru",
+  "3ec2aa37086851bf",
+  "globalcrudeoilstocksscarilythinsaudiaramcobosswarns"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T18:40:17.698098+03:00",
+ "last_run": "2026-10-05T18:45:18.034873+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1092,6 +1092,10 @@
   {
    "d": "2026-10-05",
    "t": "EU Electric Vehicle Sales Hit Record as Fuel Prices Surge"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Global crude oil stocks ‘scarily thin’, Saudi Aramco boss warns - The Times"
   }
  ]
 }
