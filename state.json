@@ -4,16 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "a5bebe9a4b97da93",
-  "oilslipsassaudiarabiaoffersmorecrudeviaoman",
-  "d50c5a8903ecb5ae",
-  "crudeoiljumpsasusreportedlysendsthirdcarriermoretroopstomidd",
-  "0e33e183f6f6bf98",
-  "currentpriceofoilasofsept212026",
-  "250b1163fb3241b4",
-  "ieasays325millionbarrelsofemergencyoilhasbeenreleased",
-  "4b75a3ac4be63c87",
-  "oilpricesslideabout2asusiranexplorepathoutofwar",
   "fbf95c71d8ab6a0f",
   "currentpriceofoilasofseptember172026",
   "f08805e64f97d5ae",
@@ -603,7 +593,17 @@
   "58d5f0a1061d0f4e",
   "usstocksholdneartheirrecordsafteroilpricesswinglowerunion",
   "36f4d882a6342573",
-  "ukrainesaidstrikesdisabled51ofrussiasoilrefiningcapacityputi"
+  "ukrainesaidstrikesdisabled51ofrussiasoilrefiningcapacityputi",
+  "c41cd953a9ad9112",
+  "rubioopens4",
+  "fdd1eb26c73a585b",
+  "floridagaspricesfall29centsinaweekascrudecostsretreat",
+  "efb0f8418e9ecf46",
+  "canadacommoditiesoilpricesfallonhighermiddleeastcrudeexports",
+  "5570a78856196727",
+  "chevronnamesnewheadofoilproductsgasnewfinancechief",
+  "2deefc9248ed2b55",
+  "oilslidestoopenweekmarkettalk"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T16:55:15.728737+03:00",
+ "last_run": "2026-10-05T17:00:29.739253+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
