@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "2caa33455ca2dd5d",
-  "g7countriesagreetoreleasedieselandoilstocksafteruspressure",
   "232ceb960c10b1fe",
   "crudeoilpricespressuredasg7nationsreleasestrategicreserves",
   "adcbd9d26ed0e571",
@@ -603,7 +601,9 @@
   "78394fffb0cb2f14",
   "oilfallsasmiddleeastcrudeexportsriseg7toreleasestocks",
   "f14e8517d779df14",
-  "thejointministerialmonitoringcommitteeurgesprotectionofenerg"
+  "thejointministerialmonitoringcommitteeurgesprotectionofenerg",
+  "72eb799d01c82093",
+  "iranianoilstartsflowingtotajikistandespiteussanctionsrisk"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-05",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-10-05T10:10:17.178499+03:00",
+ "last_run": "2026-10-05T10:15:18.250176+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -964,6 +964,10 @@
   {
    "d": "2026-10-05",
    "t": "Middle East Crude Exports Recover, Surpass Pre-War Levels Amid Iran Blockade - 조선일보"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk"
   }
  ]
 }
