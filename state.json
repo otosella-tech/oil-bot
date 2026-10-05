@@ -4,10 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "6367d960b78803bf",
-  "iraqsends2millionbarrelsofcrudethroughhormuzindecadesfirstmo",
-  "0018673f13789bb1",
-  "oilsettleshigheraftersaudistrikesstokesupplyworries",
   "6cd3d53d700707fe",
   "americasdieselproblemisntalackofoil",
   "3c3cefa1b56ccae5",
@@ -603,7 +599,11 @@
   "0421be931d12d087",
   "supremecourttanglesoveramajorclimatechangecase",
   "e286a011f76d6d42",
-  "commoditiesmarketoutlookcrudeoilleadswiththemosttwowayrisk"
+  "commoditiesmarketoutlookcrudeoilleadswiththemosttwowayrisk",
+  "e94bbba799644aca",
+  "ukraineclaimsitsstrikeshavetakenoutmorethanhalfofrussiasoilr",
+  "26986dc01d9c74c7",
+  "goldoutlookinflationoilandyieldskeepdownsideriskselevated"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T21:30:24.079194+03:00",
+ "last_run": "2026-10-05T21:35:15.700337+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1136,6 +1136,10 @@
   {
    "d": "2026-10-05",
    "t": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies - MarketWatch"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Ukraine claims its strikes have taken out more than half of Russia's oil refining capacity - PBS"
   }
  ]
 }
