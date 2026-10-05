@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "01f0d1a85264601c",
-  "trumptoutsg7plantoreleaseoilanddieselreservestoaddresshighpr",
-  "a1d3feceffe44fe4",
-  "tajikistanbeginsreceivingiranianoiltestingnewsupplyrouteande",
   "16d6c32f9e5594d7",
   "iranislosingsomeofitsleverageoverthestraitofhormuz",
   "ca9c1e9cd51a1e99",
@@ -603,7 +599,11 @@
   "54aff7e779cd3476",
   "supremecourttakesupboulderclimatesuitagainstexxonandsuncor",
   "6f245ea293521b34",
-  "oilstocksinusstrategicpetroleumreservefalltolowestlevelsince"
+  "oilstocksinusstrategicpetroleumreservefalltolowestlevelsince",
+  "b6994130c8d360e3",
+  "possiblefirereportedatsaudirefineryasattackclaimscirculate",
+  "ce75d0b07807cb3d",
+  "middleeastoilflowssurgeabovepreconflictlevelsevenastankeratt"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T18:15:21.896365+03:00",
+ "last_run": "2026-10-05T18:20:20.222506+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1080,6 +1080,14 @@
   {
    "d": "2026-10-05",
    "t": "3 Tanker Stocks Investors Are Watching As Thin Oil Inventories Lift Shipping Rates - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Possible Fire Reported at Saudi Refinery as Attack Claims Circulate"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Middle East Oil Flows Surge Above Pre-Conflict Levels Even as Tanker Attacks Escalate: What’s Happening i - Benzinga"
   }
  ]
 }
