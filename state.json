@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "2a725875946bf02d",
-  "mideastoilexportsreboundevenaspricesremainelevated",
-  "98ea71a720e368db",
-  "thinkrisingoilpricesarebadjustwaitforcrash",
   "e23b502fe70b3f54",
   "updateusequityindexesfallascrudeoiljumpsamiddivergentmanufac",
   "2dd35ce21d89ae0d",
@@ -603,7 +599,11 @@
   "7cab42bbbb0edc8e",
   "oilcrudeforecastssignalinflationsurprisesaheadsocietegeneral",
   "379845ca2583e1a4",
-  "iransoilministerresignsasexportsdryupunderuspressure"
+  "iransoilministerresignsasexportsdryupunderuspressure",
+  "cd47987b6d7e673c",
+  "oilpricesriseoverconcernsaboutglobalmarket",
+  "4a35e9c2cc7ee00c",
+  "floridagaspricesdrop34centsinninedaysaaasays"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T15:35:14.504615+03:00",
+ "last_run": "2026-10-05T15:40:18.279657+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
