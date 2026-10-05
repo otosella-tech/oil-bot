@@ -4,18 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "24f3fe00bbcee482",
-  "domesticgasolinedieselpricestostayunchanged",
-  "26d92f9276b9a7da",
-  "g7countriestoreleaseupto100millionbarrelsofdieselandcrudeoil",
-  "f74ee2fc7befefb7",
-  "majoroilexportersagreetokeepproductionsteadyinnovember",
-  "16f2e532167fb0b6",
-  "crudeoilpriceinfocusassaudiarabiahouthiusiranukrainerussiate",
-  "2b4a65a817860ce5",
-  "currentpriceofoilasofsept292026",
-  "cef58e006b6734d6",
-  "opecholdsoutputtargetssteadyasmiddleeastconflicttightenssupp",
   "63b1b106aad7eb13",
   "bigoilandgavinnewsomsperilouswindingroad",
   "a0ba0271dccaaa42",
@@ -603,7 +591,19 @@
   "03c587263b07715e",
   "crudeoilwtitests50fibat8876amiddowntrendlive",
   "f42bdc41f8335613",
-  "aramcoceosaysoilsupplybufferisscarilythin"
+  "aramcoceosaysoilsupplybufferisscarilythin",
+  "61be0725c1e47224",
+  "singaporeeyesnuclearpowerasiranwarexposesitsimportproblem",
+  "de37daa21e1276db",
+  "justicesappearunconvincedofoilcompaniesbidtoquashclimatesuit",
+  "f46bc6fceb8a0418",
+  "oilcompaniessaytheyreendingroutinegasflaringsatellitedatatel",
+  "d07c05ec81362deb",
+  "oilisnear90andgasisnear3samewellsdifferentmarkets",
+  "bd193fa2f1295319",
+  "tickerstocksrisetotheedgeofalltimehighnewheadofaitaskforceoi",
+  "67c9bfd3385c12c3",
+  "supremecourtgrappleswithcaseonholdingbigoilliableforclimatec"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -612,151 +612,11 @@
   "Brent": 101.68
  },
  "llm": {
-  "date": "2026-10-05",
-  "count": 60
+  "date": "2026-10-06",
+  "count": 2
  },
- "last_run": "2026-10-05T23:55:48.669688+03:00",
+ "last_run": "2026-10-06T00:25:38.009517+03:00",
  "sent_stories": [
-  {
-   "d": "2026-10-02",
-   "t": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "US: Iran loaded zero crude oil onto tankers in September - breakingthenews.net"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "5 Energy ETFs That Have Soared in 2026"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Scott Bessent Says Iran Transported 'Zero' Oil Onto Tankers Last Month — Trump’s Sanctions Are Targeting - Benzinga"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN - CNBC"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage - CNBC"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Ukrainian forces reportedly strike oil facilities in Russia's Volgograd, Samara regions - The Kyiv Independent"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Tajikistan Begins Receiving Iranian Oil, Testing New Supply Route And Extent Of US Sanctions - Radio Free Europe/Radio Liberty"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained - CNBC"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "JERA CEO Warns LNG Prices Have Further to Climb"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Iran tanker loadings plunge to zero for first time in war as US blockade strangles Kharg Island exports - TradeWinds News"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say - Reuters"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "No Lights, No Radio: Getting Oil Through Strait of Hormuz Is a Risky Job - Insurance Journal"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Iran Talks Take the Heat Out of the Oil Rally - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Ukraine war: Japan’s new sanctions on Russia target oil exports - South China Morning Post"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Crude Oil Lower As Saudi Arabia Resumes Red Sea Oil Exports - WSJ"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "The GOP Sells the Mirage of a Hormuz Victory - The Nation"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "US to loan up to 40 million barrels of oil from SPR, last batch from global deal - Reuters"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Europe's Soaring Gas Bill Is Sending Utilities Back to Coal"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Exclusive | Democratic Senators Challenge Trump Officials on Pentagon’s Venezuela Oil Deal - WSJ"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes - CNBC"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Trump says Europe will release diesel stocks as wars in Europe and Middle East constrain fuel supplies - CNBC"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "U.S. Exit Leaves Iraq With a Militia Problem"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "The Kremlin Consolidates Power as Russia’s Economic Pain Mounts"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Iran has lost considerable leverage in the Strait of Hormuz. It can’t go on like this forever - CNN"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Three reasons Middle East oil is nearly back to pre-Iran war levels - BBC"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar - The New York Times"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Dollar Strengthens on Oil Surge & Hawkish Fed Policy: ETFs to Benefit - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies - CNBC"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Crude oil exports from strait of Hormuz largely return to pre-war levels - The Guardian"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Canada to fast track oil pipeline designed to diversify economy away from US - Reuters"
-  },
-  {
-   "d": "2026-10-02",
-   "t": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis - CNBC"
-  },
   {
    "d": "2026-10-03",
    "t": "Two More Tankers in Hormuz Report Strikes, Bringing Total to Six in a Week - The Maritime Executive"
@@ -1148,6 +1008,10 @@
   {
    "d": "2026-10-05",
    "t": "Sailors reportedly offered $25K per trip to move oil out of the Persian Gulf amid strikes, drone attacks - New York Post"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem"
   }
  ]
 }
