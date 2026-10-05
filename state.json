@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "c4b1dac010aa5d4e",
-  "usoilandgasrigcountfallsbyoneto598thisweek",
   "68ce309c41c9f663",
   "g7torelease100mbarrelsofoilreservestotacklerisingfuelcosts",
   "4fc1977b70dcfe0a",
@@ -603,7 +601,9 @@
   "3ce0d3fca6d99a1a",
   "middleeastoilexportssurpassprewarlevelsdespitetensionsdatash",
   "197b75a920855b7a",
-  "somogainsmoreflexibilityoncrudesalesasiraqwidensbasrahdiscou"
+  "somogainsmoreflexibilityoncrudesalesasiraqwidensbasrahdiscou",
+  "f85170507c27a39f",
+  "middleeastoilexportsrecovertopreiranwarlevelsdespitehormuzat"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-05",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-10-05T08:40:18.303916+03:00",
+ "last_run": "2026-10-05T08:45:17.336584+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -948,6 +948,10 @@
   {
    "d": "2026-10-05",
    "t": "Oil Prices Fall as Hormuz Crude Flows Top Pre-War Levels"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks - dw.com"
   }
  ]
 }
