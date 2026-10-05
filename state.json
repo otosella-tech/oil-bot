@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "471290e37d5757ce",
-  "theg7isreleasingemergencyfuelreserveshowmuchwillithelpameric",
-  "3329254f92d3b211",
-  "couldwhitehydrogensucceedwheregreenhydrogenstumbled",
   "2859aeab59254e2b",
   "iranscurrencycrashesastheregimerunsoutofoiltosellandcantgeti",
   "6a10ba9655f668f9",
@@ -603,7 +599,11 @@
   "7efe37742af1408f",
   "crudeoilpricesweakenondollarstrengthandsaudipricecuts",
   "83ae7e4afad1a503",
-  "oilmarketturmoilcouldlastforyearsexecutivessay"
+  "oilmarketturmoilcouldlastforyearsexecutivessay",
+  "8e736919abe4da2e",
+  "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue",
+  "76d5d999da05c1c1",
+  "boulderandoilcompaniestakeclimatesuittoaskepticalussupremeco"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T19:00:30.067878+03:00",
+ "last_run": "2026-10-05T19:05:17.790768+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1096,6 +1096,10 @@
   {
    "d": "2026-10-05",
    "t": "Global crude oil stocks ‘scarily thin’, Saudi Aramco boss warns - The Times"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained - CNBC"
   }
  ]
 }
