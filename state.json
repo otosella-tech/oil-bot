@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "c5fee1a43fe8c98d",
-  "wticrudeoilfuturesclimbpast91ontightsupply",
   "281b535b161eadfe",
   "cmegroupsuspends247crudeoiltradingplanamidmarketriskconcerns",
   "2c573d511661b453",
@@ -603,7 +601,9 @@
   "ad1d5f0ca8580ec6",
   "saudiarabiaseptnonoilpmihits7monthhighexportsaweakspot",
   "3ee0d495612ea20d",
-  "middleeastoilexportstopprewarlevelsinseptemberbuttankerattac"
+  "middleeastoilexportstopprewarlevelsinseptemberbuttankerattac",
+  "8398439cf18cda66",
+  "japanrulesoutfurtheroilreservereleaseamidglobalenergycrisis"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T12:45:19.383431+03:00",
+ "last_run": "2026-10-05T12:50:16.886538+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
