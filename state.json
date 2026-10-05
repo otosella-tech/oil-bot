@@ -4,12 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "afb600608d71b360",
-  "g7agreestoreleaseoilreservesafteruspush",
-  "594c01a5727b4777",
-  "crudeoildownover1usfactoryordersedgehigherinaugust",
-  "88e51565f6b1590d",
-  "usoildrillinginchesupaspricesfall",
   "3fb18edeeecb68f9",
   "g7agreestorelease100millionbarrelsofdieselandcrudeoiltoeasef",
   "8d5c5d803b9ac46b",
@@ -603,7 +597,13 @@
   "315364ad1fdc621f",
   "koreantankerusessuezrouteforcrudeoil",
   "4f8feb2eef13ad64",
-  "supremecourttoweighwhetheroilcompaniescanbeforcedtopayforcli"
+  "supremecourttoweighwhetheroilcompaniescanbeforcedtopayforcli",
+  "6e6f64e99e17719f",
+  "saudioilshareinkoreaimportsfallsbelow30percent",
+  "786e02c4c0fe21b8",
+  "saudicrudeshareofskoreasimportsfallsbelow30for1sttimein5year",
+  "5289cd5ffcd7786c",
+  "iransaysstraitofhormuzwillstaycloseduntilusmeets7conditions"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-05",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-10-05T07:05:15.209022+03:00",
+ "last_run": "2026-10-05T07:10:18.284720+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -932,6 +932,10 @@
   {
    "d": "2026-10-05",
    "t": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows - Reuters"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Iran says Strait of Hormuz will stay closed until U.S. meets 7 conditions - Seeking Alpha"
   }
  ]
 }
