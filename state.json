@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "fca0bde69301c378",
-  "ecuadorannounceslaunchofnewoilauctionforendof2026",
-  "3679788381a8d4a2",
-  "g7nationsbowtouspressureandavoidcripplingdieselban",
   "2e463af3abeef05d",
   "chinacrudeoilimportsseenflatasbrentabove100iraniansupplydrie",
   "d1863cc7b7f959ed",
@@ -603,7 +599,11 @@
   "989fdb18970360d3",
   "opec7revealproductionplanfornovember",
   "a41c66c35dbc0066",
-  "europeancommissionspokespersonsaysthecommissionisreadytoconv"
+  "europeancommissionspokespersonsaysthecommissionisreadytoconv",
+  "dbf6821d2b8fb6a6",
+  "oilpricesfallasmiddleeastexportsrecoverandg7releasesemergenc",
+  "ef6adb9f6593f577",
+  "replenishingcrudeandfuelstockscouldtaketwoyearssaudiaramcoce"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T13:50:17.753884+03:00",
+ "last_run": "2026-10-05T13:55:14.784370+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
