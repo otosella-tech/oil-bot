@@ -4,14 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "be6457e194809831",
-  "cantwaittoheatmyhouseinconnecticutthiswinteroddlotshostashea",
-  "bac468aa9dc0b00f",
-  "ieasays325millionbarrelsreleasedfromemergencyoilstockssincem",
-  "6a768246443a328f",
-  "gettingoilthroughhormuzisariskyjob",
-  "2b192b0a78009d9e",
-  "ieasays325moilbarrelsreleasedbymembersreserves",
   "bda4717411f8a180",
   "newresearchstrengthensthelinkbetweenwarmingandextremeweather",
   "72ea1dc73e008aee",
@@ -603,7 +595,15 @@
   "a1cd091d40b9661f",
   "uscrudeoilstockpilesjump",
   "77375f8ee3d4c0ee",
-  "aramcoceowarnsoilinventoriesarescarilythin"
+  "aramcoceowarnsoilinventoriesarescarilythin",
+  "adeaa97ad8bb304f",
+  "nanoclayboostedpolymeradditiveslasheswaxycrudeoilpourpointsb",
+  "feafd3a6f6914754",
+  "iransactingoilministerpledgesmaximizedproductionamidcomplete",
+  "cdf2c6a6ed39d423",
+  "3tankerstocksinvestorsarewatchingasthinoilinventoriesliftshi",
+  "bc524c6fa132acaa",
+  "stocksofcrudeoilintheusstrategicpetroleumreservefellbyabout7"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T17:35:19.202715+03:00",
+ "last_run": "2026-10-05T17:40:20.585430+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1076,6 +1076,10 @@
   {
    "d": "2026-10-05",
    "t": "Aramco CEO Warns Oil Inventories Are ‘Scarily Thin’"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "3 Tanker Stocks Investors Are Watching As Thin Oil Inventories Lift Shipping Rates - Yahoo Finance"
   }
  ]
 }
