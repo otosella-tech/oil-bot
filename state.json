@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "11db98c762be7212",
-  "currentpriceofoilasofsept282026",
   "8cbdc28d86d8594c",
   "carboncapturefirmssayeuloopholeboostsoil",
   "4246a32287b856a2",
@@ -603,7 +601,9 @@
   "59d7ba70e1457b78",
   "g7torelease100millionbarrelsofoilanddieselwillitbringfuelpri",
   "11fa2a1997eb6135",
-  "oilisflowingfromthepersiangulfbutpricesremainhighwhy"
+  "oilisflowingfromthepersiangulfbutpricesremainhighwhy",
+  "39c73067ba7c0040",
+  "saudiarabiaunexpectedlycutsoilpricestoasia"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-05",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-10-05T02:55:16.445776+03:00",
+ "last_run": "2026-10-05T03:00:29.218749+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -900,6 +900,10 @@
   {
    "d": "2026-10-05",
    "t": "Oil Was Pouring Out of Hormuz Again. Then Attacks on Ships Resurged. - WSJ"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Saudi Arabia unexpectedly cuts oil prices to Asia - reuters.com"
   }
  ]
 }
