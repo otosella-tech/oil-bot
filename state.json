@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "e46ef6d87b798681",
-  "opinionifyouthinkrisingoilpricesarebadjustwaitfortheinevitab",
-  "f568f1592809ab36",
-  "g7agreestorelease100millionbarrelsofdieselandcrude",
   "986f55a78d720ce5",
   "g7toreleaseupto100mbarrelsofoilanddieselfromreservesmacronsa",
   "614122862b68db46",
@@ -603,7 +599,11 @@
   "1417ec81d6ca9185",
   "liveupdateslatestfromisraeliranandthemiddleeast",
   "6ba6ce2bb837cc6a",
-  "oilpriceseaseslightlyasg7andmiddleeastcrudesuppliessettohitm"
+  "oilpriceseaseslightlyasg7andmiddleeastcrudesuppliessettohitm",
+  "cd92c275e8dca861",
+  "wdeqover5kgallonsofcrudeoildischargedduringoct2pipelineleakb",
+  "526c5d9940e29301",
+  "middleeastcrudeoilexportsriseaboveprewarlevelsbuttankerattac"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-05",
-  "count": 16
+  "count": 18
  },
- "last_run": "2026-10-05T05:15:17.500241+03:00",
+ "last_run": "2026-10-05T05:20:18.015332+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -916,6 +916,10 @@
   {
    "d": "2026-10-05",
    "t": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites - Reuters"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Middle East crude oil exports rise above pre-war levels but tanker attacks increase - Mitrade"
   }
  ]
 }
