@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "08dd4ec7c9ab91a9",
-  "bankofamericasaysbrentcrudeoilcouldtop150abarrelifiranwardis",
   "6c200cf2286d329f",
   "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
   "0f973b9945e8bd41",
@@ -603,7 +601,9 @@
   "71511033aa483797",
   "opinionoilsnewproblemisntsupplyitslogistics",
   "b044603cb1dff91c",
-  "kuwaitrestoresoilproductionto2mmbpdashormuztrafficincreases"
+  "kuwaitrestoresoilproductionto2mmbpdashormuztrafficincreases",
+  "9524ffaf42f8abee",
+  "hereshowtrumpsusingthegrahamacttotraprussiaandcrushiran"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T19:55:16.109556+03:00",
+ "last_run": "2026-10-05T20:00:31.510255+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1120,6 +1120,10 @@
   {
    "d": "2026-10-05",
    "t": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Here’s How Trump’s Using The Graham Act To Trap Russia And Crush Iran"
   }
  ]
 }
