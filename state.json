@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "2074ddfff0b2a1bc",
-  "g7announcesoilreservereleaseastrumphailseuropedieseldeal",
-  "5e36ef39f325b2ec",
-  "bengurionuniversitymodifiesaerogelspongeforoilspills",
   "72eb799d01c82093",
   "iranianoilstartsflowingtotajikistandespiteussanctionsrisk",
   "2caa33455ca2dd5d",
@@ -603,7 +599,11 @@
   "c80b50ad72a86093",
   "whyareoilpricesstillabove100asgulfcrudeexportsrecover",
   "dee66d71f8ef0120",
-  "opecholdsnovemberquotaat3101millionbarrelsdaily"
+  "opecholdsnovemberquotaat3101millionbarrelsdaily",
+  "298f1536ec53f431",
+  "middleeastcrudeexportsrecoversurpassprewarlevelsamidiranbloc",
+  "78394fffb0cb2f14",
+  "oilfallsasmiddleeastcrudeexportsriseg7toreleasestocks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-05",
-  "count": 45
+  "count": 47
  },
- "last_run": "2026-10-05T10:00:30.434100+03:00",
+ "last_run": "2026-10-05T10:05:15.959220+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -960,6 +960,10 @@
   {
    "d": "2026-10-05",
    "t": "Oil Prices Fall as Hormuz Crude Flows Top Pre-War Levels - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Middle East Crude Exports Recover, Surpass Pre-War Levels Amid Iran Blockade - 조선일보"
   }
  ]
 }
