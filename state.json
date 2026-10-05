@@ -4,12 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "ee1fa86c35098eb9",
-  "g7torelease100millionbarrelsofoildieselreservesamidunprecede",
-  "e964b9ad4ab1ea6c",
-  "oilfallsasg7tapsemergencysupplies",
-  "78a98f8b882ea9b8",
-  "cmegroupsuspendsplanfor24710barrelcrudeoilcontractcmenasdaq",
   "f61f65cce3c41d98",
   "3dividendstocksthatdidntneed100oiltokeepraisingtheirpayouts",
   "8837658daef5f2aa",
@@ -603,7 +597,13 @@
   "5690333fbfaabb22",
   "iranianoilministerquitsreplacedbyoilexecutive",
   "ff5e4e7693052afa",
-  "aramcocutsasiaoilpricestosix"
+  "aramcocutsasiaoilpricestosix",
+  "e5db3fbd2be7f6f4",
+  "iranoilministerquitsasexportsdryup",
+  "d9d4bfac8168a633",
+  "saudiaramcochiefwarnsworldsoilstockpilesarescarilythin",
+  "0f4fa336855813bb",
+  "indiamaybebestplacedtofillachinasizedholeinfuelexportsthechi"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-05",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-10-05T11:20:19.081790+03:00",
+ "last_run": "2026-10-05T11:25:14.958006+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -976,6 +976,10 @@
   {
    "d": "2026-10-05",
    "t": "Crude oil exports from strait of Hormuz largely return to pre-war levels - The Guardian"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’ - Financial Times"
   }
  ]
 }
