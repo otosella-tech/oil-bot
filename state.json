@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "bc8c08381abe73ee",
-  "crudeoilexportsfromstraitofhormuzlargelyreturntoprewarlevels",
   "413eb5729a114494",
   "canadatofasttrackoilpipelinedesignedtodiversifyeconomyawayfr",
   "3fcb1970f83b1a33",
@@ -603,7 +601,9 @@
   "28c916e2f777e683",
   "crudeoilwtitests200smaafterhsbreakdownlivelevels",
   "05d90b4f803f9981",
-  "oilpricesfallasg7planscrudedieselreleasebuthormuzshippingris"
+  "oilpricesfallasg7planscrudedieselreleasebuthormuzshippingris",
+  "99ff48cc916db039",
+  "brentcrudeslipsasg7oilreservereleaseeasessupplyconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 51
  },
- "last_run": "2026-10-05T10:35:14.451768+03:00",
+ "last_run": "2026-10-05T10:40:18.014120+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
