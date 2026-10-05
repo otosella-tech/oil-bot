@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "6ad552ea1ebd045a",
-  "iransoilministerquitsdaysbeforeitslastcargoesrunout",
   "ae64ccfda7d272f2",
   "iranstopsecurityofficialwarnsofdireeconomiccrisis",
   "9849846e085ec863",
@@ -603,7 +601,9 @@
   "a1b2e54d77e1afe7",
   "oilpricessettledown25onsignsmiddleeastexportsrecovering",
   "8c0603beae2bb23b",
-  "majoroilexportersagreetokeepproductionsteadyinnovember"
+  "majoroilexportersagreetokeepproductionsteadyinnovember",
+  "d90882990bf33cd7",
+  "iransfloatingoilstocksrundry"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 3
  },
- "last_run": "2026-10-06T01:05:15.492124+03:00",
+ "last_run": "2026-10-06T01:10:19.599168+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
