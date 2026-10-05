@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "c70d73dfa912d512",
-  "oilsettlesloweraftereuropeagreestotapdieselreserves",
   "ee1fa86c35098eb9",
   "g7torelease100millionbarrelsofoildieselreservesamidunprecede",
   "e964b9ad4ab1ea6c",
@@ -603,7 +601,9 @@
   "bc8c08381abe73ee",
   "crudeoilexportsfromstraitofhormuzlargelyreturntoprewarlevels",
   "5690333fbfaabb22",
-  "iranianoilministerquitsreplacedbyoilexecutive"
+  "iranianoilministerquitsreplacedbyoilexecutive",
+  "ff5e4e7693052afa",
+  "aramcocutsasiaoilpricestosix"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 53
  },
- "last_run": "2026-10-05T10:57:56.868471+03:00",
+ "last_run": "2026-10-05T11:00:31.522201+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
