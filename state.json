@@ -4,8 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "d9e046ffc0dc3b6d",
-  "brazilspetrobrasmakesnewoildiscoveryoffthecoastofamapa",
   "7c334400d1de0dd1",
   "g7torelease100mbarrelsasoilholdsatus102",
   "03756e3ecf30d6d7",
@@ -603,7 +601,9 @@
   "2582b320fc4bfa18",
   "crudeoilslipsassupplyoutlookimproves",
   "a6949d81a725555c",
-  "whatcaniransnewoilchiefchangeundertheusblockade"
+  "whatcaniransnewoilchiefchangeundertheusblockade",
+  "842a1172e3b000d9",
+  "iraqseekstobuycrudeoiltankerstohandleshipmentsbeyondstraitof"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-05",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-10-05T07:50:20.143518+03:00",
+ "last_run": "2026-10-05T07:55:19.373916+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -936,6 +936,10 @@
   {
    "d": "2026-10-05",
    "t": "Iran says Strait of Hormuz will stay closed until U.S. meets 7 conditions - Seeking Alpha"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Iraq seeks to buy crude oil tankers to handle shipments beyond Strait of Hormuz: INA - S&P Global"
   }
  ]
 }
