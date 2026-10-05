@@ -4,10 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "32f6d9eaa7881019",
-  "canadaandotherg7nationsagreetorelease100millionbarrelsofoila",
-  "962a77f4f736b7a0",
-  "datedbrentabove120signalsaseriousoilsqueeze",
   "84f3165127d6bfa7",
   "crudeoilfallstocloseouttheweek",
   "018a1be13e7b90b5",
@@ -603,7 +599,11 @@
   "e493bb0f951cd060",
   "littlechangetosandiegocountygasprices",
   "c1c9542fbbae8609",
-  "openingthetapsondieselreservesisariskygambleforeurope"
+  "openingthetapsondieselreservesisariskygambleforeurope",
+  "81cf2fa7951ea7ec",
+  "saudiscutflagshipoilpricetoasiatolowestinsixyears",
+  "4c5cace9e0857150",
+  "crudeoilpricesuccumbstonegativepressureanalysis05102026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-05",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-10-05T06:10:17.791096+03:00",
+ "last_run": "2026-10-05T06:15:19.033540+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -924,6 +924,10 @@
   {
    "d": "2026-10-05",
    "t": "Iraq says it transported 2 million barrels of crude through Strait of Hormuz - Reuters"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Saudis Cut Flagship Oil Price to Asia to Lowest in Six Years - Yahoo Finance UK"
   }
  ]
 }
