@@ -4,16 +4,6 @@
   "Brent": 102.81
  },
  "seen": [
-  "1707c4fb5607f9d4",
-  "oiljumps4onreportschinahaltsfuelexportsustroopsheadtomiddlee",
-  "4a6d42f1f6440e39",
-  "oilspillcleanupunderwayafterboatcatchesfiresinksinhuntington",
-  "a5436f8fb393332e",
-  "g7countriesagreeonreleaseofdieselandoilstocksafteruspressure",
-  "435f27836fb85fc7",
-  "brentcrudeisnowtradingabove100whatdoesthatmeanforthecryptoma",
-  "424caa5c0050db1d",
-  "underpressurefromdonaldtrumpg7releases100millionbarrelsofoil",
   "64e9c265d7cfa100",
   "middleeastoilexportsstagearemarkablecomeback",
   "775270f16f175282",
@@ -603,7 +593,17 @@
   "c59c4b2ae7f5bf38",
   "keepingwarmthiswinterapriceyproposition",
   "d8eeea0a6cb3036e",
-  "68thmeetingofthejointministerialmonitoringcommitteeeuro"
+  "68thmeetingofthejointministerialmonitoringcommitteeeuro",
+  "a6d64b50ec8e09f3",
+  "crudeoiltankerstruckbyunknownprojectileoffomanukmtosays",
+  "574070b15b675fa9",
+  "conocophillipsseesoilpricefloorrisingto70abarrelchairmansays",
+  "e4781a029769dfc7",
+  "middleeastoilexportsexceedprewarlevels",
+  "624e2e7283a84af6",
+  "wagovernordisappointedcanadaisfasttrackingnewoilpipelinetobc",
+  "78a3d16e97ae0f74",
+  "economyisstrongbutwagesfallshortofinflationeconomistsays"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-05",
   "count": 60
  },
- "last_run": "2026-10-05T13:05:16.672932+03:00",
+ "last_run": "2026-10-05T13:10:18.452311+03:00",
  "sent_stories": [
   {
    "d": "2026-10-02",
@@ -1012,6 +1012,10 @@
   {
    "d": "2026-10-05",
    "t": "Aramco chief warns oil stockpiles are thin after conflict - Investing.com"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "Crude oil tanker struck by unknown projectile off Oman, UKMTO says - Reuters"
   }
  ]
 }
