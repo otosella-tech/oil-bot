@@ -4,10 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "a6e2a2db16fdeaae",
-  "crudeoilcutslossesastraderseyeg7fuelrelease",
-  "50c3910b676ff033",
-  "g7nationstorelease100millionbarrelsofoiltocombatrisingfuelpr",
   "19441e31dad4ae7e",
   "gulfcrudeexportsreturntoprewarlevelsexcludingiran",
   "0df1795d00617018",
@@ -603,7 +599,11 @@
   "cdd908af6cf65506",
   "10americannationsissuejointstatementcondemningiranianterrori",
   "718572086484be03",
-  "twelveinjuredinattackonoiltankerpassingthroughhormuzstrait"
+  "twelveinjuredinattackonoiltankerpassingthroughhormuzstrait",
+  "e072264eb240065d",
+  "eudelaysmethanerulesopensrefinerytalksasfuelpriceshitrecords",
+  "5991e96c0adc1a80",
+  "dowjonestopenergyheadlinesat7ametoilpricesfallasmiddleeastex"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T16:25:17.180757+03:00",
+ "last_run": "2026-10-06T16:30:24.650816+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1132,6 +1132,10 @@
   {
    "d": "2026-10-06",
    "t": "Twelve injured in attack on oil tanker passing through Hormuz Strait - The Arab Weekly"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "EU Delays Methane Rules, Opens Refinery Talks as Fuel Prices Hit Records"
   }
  ]
 }
