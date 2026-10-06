@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "8ef9b569b4cdab27",
-  "worldsoilsupplycushionisscarilythinsaysaramcochief",
   "a54bcf349e710b80",
   "chevronelevatescfotoheadoilandgasoperations",
   "9c37d0ca3acde862",
@@ -603,7 +601,9 @@
   "4ee9b73652de3fcc",
   "isthewests100yearvenezuelaoilbetabouttobackfire",
   "52ee09589559aa0e",
-  "ustradedeficitwidenstolargestlevelinmorethanayear"
+  "ustradedeficitwidenstolargestlevelinmorethanayear",
+  "27a5d3d2694cebf9",
+  "oilreservescarilythin"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T22:30:24.974258+03:00",
+ "last_run": "2026-10-06T22:35:14.361267+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
