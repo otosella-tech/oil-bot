@@ -4,10 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "7a0533704c3f9578",
-  "oilpricesfallasreportssayhormuzcrudeflowstopprewarlevels",
-  "fcec55ca2e250913",
-  "iraqships2millionbarrelsofcrudeoilthroughstraitofhormuz",
   "2138adcfce9fa103",
   "usoilinventoriesrisebutfueltightnessandopecdisciplinekeeppri",
   "d9c008cde31c2eab",
@@ -603,7 +599,11 @@
   "f4f4b51500c6088b",
   "asoilpricessoarmorenhresidentsfallbehindontheirheatingbills",
   "4417436525a6bc91",
-  "chineseindependentrefinersboostiraqioilpurchasesasiranianflo"
+  "chineseindependentrefinersboostiraqioilpurchasesasiranianflo",
+  "f66576479716e658",
+  "currentpriceofoilasofoct62026",
+  "59153396658761cb",
+  "omancrudeoilpricedropsbyusd484fananews"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 56
  },
- "last_run": "2026-10-06T14:50:18.402028+03:00",
+ "last_run": "2026-10-06T14:55:15.637569+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
