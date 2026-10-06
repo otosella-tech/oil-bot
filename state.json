@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "11fa2a1997eb6135",
-  "oilisflowingfromthepersiangulfbutpricesremainhighwhy",
   "39c73067ba7c0040",
   "saudiarabiaunexpectedlycutsoilpricestoasia",
   "11db98c762be7212",
@@ -603,7 +601,9 @@
   "df719600bf7dfbcf",
   "brentcrudeoilhoversnear100asg7reservereleaseoffsetsiranwarsu",
   "229274f733cd273b",
-  "supremecourtconsiderssuitsblamingoilcompaniesforheatdroughtw"
+  "supremecourtconsiderssuitsblamingoilcompaniesforheatdroughtw",
+  "9188631a14d9b176",
+  "oillittlechangedastradersweighmideastcrudeexportdata"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 17
  },
- "last_run": "2026-10-06T06:25:13.832170+03:00",
+ "last_run": "2026-10-06T06:30:22.352478+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
