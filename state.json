@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "da1bf01abdba515e",
-  "isiranchargingatolltoallowoiltrafficthroughhormuz",
   "f7608bbb13e15b29",
   "justicesgrapplewithquestionsofjurisdictionincaseagainstoilco",
   "16a66b8e9e04182c",
@@ -603,7 +601,9 @@
   "378cba7ae77df858",
   "middleeastoilpipelinesenteraresilienceledinvestmentcycle",
   "8e736919abe4da2e",
-  "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue"
+  "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue",
+  "673a25c3c4b05bbc",
+  "chevrontodivestmidstreamassetsinbakkenrestructuring"
  ],
  "releases_done": {
   "2026-10-06|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 9
  },
- "last_run": "2026-10-07T02:20:20.659662+03:00",
+ "last_run": "2026-10-07T02:25:14.937582+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
