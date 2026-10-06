@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "fc482eaebebe7741",
-  "potenskyhightankerratesaredrivingrefinersoilbuyingdecisionsm",
   "449c515a721366ef",
   "lngshipmentsthroughhormuzhithighestlevelsinceiranwarbegan",
   "87e8145c87e8867f",
@@ -603,7 +601,9 @@
   "a2fab471e009be8b",
   "europeweighsmethaneruledelayasenergysupplyrisksmount",
   "6a69e58d7254c395",
-  "oilindustrysbidtokillclimatechangelawsuitsfacesscotusskeptic"
+  "oilindustrysbidtokillclimatechangelawsuitsfacesscotusskeptic",
+  "3b41eded0d9935b4",
+  "standardcharteredsayshormuzoilflowsarefarfromnormal"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-06",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-10-06T02:55:17.347308+03:00",
+ "last_run": "2026-10-06T03:00:30.893830+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1012,6 +1012,10 @@
   {
    "d": "2026-10-06",
    "t": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Standard Chartered Says Hormuz Oil Flows Are Far From Normal"
   }
  ]
 }
