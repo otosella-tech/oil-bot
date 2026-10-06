@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "4c5cace9e0857150",
-  "crudeoilpricesuccumbstonegativepressureanalysis05102026",
   "962a77f4f736b7a0",
   "datedbrentabove120signalsaseriousoilsqueeze",
   "2f2a2a565e3f972d",
@@ -603,7 +601,9 @@
   "af879917fd5877fb",
   "oilfuturescrudeeasesafterg7releaseincreaseinhormuztraffic",
   "61cae95159a2b3a3",
-  "japansnikkeiclimbs1ondipincrudeoilsmoothjgbauction"
+  "japansnikkeiclimbs1ondipincrudeoilsmoothjgbauction",
+  "70661b0906fd6355",
+  "oilslipsasmideastexportsg7stockpileeasesupplyconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 33
  },
- "last_run": "2026-10-06T10:25:15.412494+03:00",
+ "last_run": "2026-10-06T10:30:25.442405+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
