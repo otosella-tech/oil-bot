@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "04f353c666ad0692",
-  "thereturnofmiddleeastoil",
   "483b3be72328eae0",
   "g7agreestorelease100millionbarrelsofoilanddieselasfuelprices",
   "f5e40acd3804c7a2",
@@ -603,7 +601,9 @@
   "e55c2c5d6b93b5cf",
   "opecagreestokeepnovemberoiloutputtargetssteady",
   "f4abbafcd7ce613c",
-  "g7nationstorelease100millionbarrelsofoildiesel"
+  "g7nationstorelease100millionbarrelsofoildiesel",
+  "652007aaea693d6a",
+  "opecalliesholdoiloutputsteadyamidmiddleeasttensions"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-06",
-  "count": 8
+  "count": 9
  },
- "last_run": "2026-10-06T05:20:18.345830+03:00",
+ "last_run": "2026-10-06T05:25:13.718686+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
