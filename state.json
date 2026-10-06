@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "efb0f8418e9ecf46",
-  "canadacommoditiesoilpricesfallonhighermiddleeastcrudeexports",
   "5570a78856196727",
   "chevronnamesnewheadofoilproductsgasnewfinancechief",
   "2deefc9248ed2b55",
@@ -603,7 +601,9 @@
   "e4146af87fde2bc7",
   "fomcminutescrudeoilinventoriesamongeconomicdataduewednesday",
   "f2cece2661f1772c",
-  "oilfuturescrudeofflowsashormuzattacksoffsetincreaseintraffic"
+  "oilfuturescrudeofflowsashormuzattacksoffsetincreaseintraffic",
+  "c953006aba7d0c67",
+  "threehubshandlemostofrussiasarcticoilexports"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T21:40:18.189226+03:00",
+ "last_run": "2026-10-06T21:45:17.088134+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
