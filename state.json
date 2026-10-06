@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "fa96502c31fcc29e",
-  "didtheyachievetheirgoalpartiallyputinadmitsweaknessasukraine",
   "8855f70b3025e2f3",
   "euelectricvehiclesaleshitrecordasfuelpricessurge",
   "6f342a4edcbc2211",
@@ -603,7 +601,9 @@
   "3acd908f2b36d1a9",
   "tankercatchesfirespillsoiloffrussianresorttownofsochi",
   "1982d8d5e6a31639",
-  "crudeinventoriesfallmorethanexpectedboostingoilprices"
+  "crudeinventoriesfallmorethanexpectedboostingoilprices",
+  "214f0c3b737f8461",
+  "iranstankerattackskeeppumppriceshighevenasgulfoilexportsrebo"
  ],
  "releases_done": {
   "2026-10-06|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-07",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-10-07T00:10:21.488775+03:00",
+ "last_run": "2026-10-07T00:15:19.616642+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1171,6 +1171,10 @@
   {
    "d": "2026-10-07",
    "t": "Tanker Catches Fire, Spills Oil off Russian Resort Town of Sochi - The Maritime Executive"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Iran’s Tanker Attacks Keep Pump Prices High Even as Gulf Oil Exports Rebound - Energy News Beat"
   }
  ]
 }
