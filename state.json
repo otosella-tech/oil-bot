@@ -4,10 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "329f2177a840da92",
-  "whatrecorddieselandheatingoilpricesmaybetellingothermarkets",
-  "cd2cbfc1a1259d1e",
-  "crudeoilpriceforecastmorecrudelessgasoline",
   "94b7402b44300926",
   "houthisclaimstrikeonaramcofacilityinriyadhasyemenfightingesc",
   "d4e1537d765407dd",
@@ -603,7 +599,11 @@
   "52f8cc7466b404d4",
   "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo",
   "2bab9bd271ec4c6b",
-  "uscrudeoilstockpilesseenrisingforthirdstraightweek"
+  "uscrudeoilstockpilesseenrisingforthirdstraightweek",
+  "564809fc03d3dd0f",
+  "middleeastoilexportstopprewarlevelsforpartofseptemberbuttank",
+  "e39be5b4917b60f9",
+  "loweroilboostsftse100butdefencestockslag"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T20:20:20.514630+03:00",
+ "last_run": "2026-10-06T20:25:16.616972+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1192,6 +1192,10 @@
   {
    "d": "2026-10-06",
    "t": "Wall Street rallies toward an all-time high - The Washington Post"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
   }
  ]
 }
