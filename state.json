@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "efce6ebac6a6c27d",
-  "globalsupplyrisksunderpincrudeoilprices",
   "1417ec81d6ca9185",
   "liveupdateslatestfromisraeliranandthemiddleeast",
   "6ba6ce2bb837cc6a",
@@ -603,7 +601,9 @@
   "adf4a82d8a0161cc",
   "usblockadebottlesupdozensofiraniantankersnonprofitsays",
   "921f1336ddef4cfe",
-  "oilpricessteadyasmarketsweigharamcopricecutsmeastsupplies"
+  "oilpricessteadyasmarketsweigharamcopricecutsmeastsupplies",
+  "08814c939d4f2286",
+  "aramcojustsaidtheoilcushionisgonefortwoyears"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 27
  },
- "last_run": "2026-10-06T08:35:14.449022+03:00",
+ "last_run": "2026-10-06T08:40:18.116130+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
