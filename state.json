@@ -4,16 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "f14e8517d779df14",
-  "thejointministerialmonitoringcommitteeurgesprotectionofenerg",
-  "72eb799d01c82093",
-  "iranianoilstartsflowingtotajikistandespiteussanctionsrisk",
-  "28c916e2f777e683",
-  "crudeoilwtitests200smaafterhsbreakdownlivelevels",
-  "05d90b4f803f9981",
-  "oilpricesfallasg7planscrudedieselreleasebuthormuzshippingris",
-  "99ff48cc916db039",
-  "brentcrudeslipsasg7oilreservereleaseeasessupplyconcerns",
   "bc8c08381abe73ee",
   "crudeoilexportsfromstraitofhormuzlargelyreturntoprewarlevels",
   "5690333fbfaabb22",
@@ -603,7 +593,17 @@
   "3fd5e1773612d191",
   "globalsharesmostlyadvanceafterwallstreetgainsandoilpricesfal",
   "f05c14697cc56a98",
-  "petrochinaextractedover26milliontonnesofoilequivalentoilpric"
+  "petrochinaextractedover26milliontonnesofoilequivalentoilpric",
+  "2e283f9d50882c60",
+  "techstrengtheasingoilbillsliftasianstockmarkets",
+  "4281826f19698a7c",
+  "thebattleforhormuzisnotthewar",
+  "27ebbcbeca08e44f",
+  "livingnextdoortotheoilsectorstoxicflames",
+  "9a52ccf51a8eda61",
+  "bigoilsdayincourt",
+  "163ae5abab3f6a9b",
+  "oilfallsasmiddleeastcrudeexportsriseg7toreleasestocks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-06",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-10-06T14:00:30.208741+03:00",
+ "last_run": "2026-10-06T14:05:15.551372+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1084,6 +1084,10 @@
   {
    "d": "2026-10-06",
    "t": "Goldman Sachs Analyst Predicts Strait of Hormuz Oil Flow Normalizing by Late 2027, Crude Oil Prices to Hi - Benzinga"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "The Battle for Hormuz Is Not the War - The Atlantic"
   }
  ]
 }
