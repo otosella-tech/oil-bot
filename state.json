@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "3ec2aa37086851bf",
-  "globalcrudeoilstocksscarilythinsaudiaramcobosswarns",
   "7efe37742af1408f",
   "crudeoilpricesweakenondollarstrengthandsaudipricecuts",
   "83ae7e4afad1a503",
@@ -603,7 +601,9 @@
   "6781621ec5a11a96",
   "cmewticrudeoilfuturesreboundfrom5weeklowsasexportspressurepr",
   "6ece56294b320b95",
-  "chevrontodivestitsownershipinterestsinhessmidstreamanddjbasi"
+  "chevrontodivestitsownershipinterestsinhessmidstreamanddjbasi",
+  "1c02743aa040e0c5",
+  "crudeoilreboundsashormuztensionsrisecanbuyerstakebackfullcon"
  ],
  "releases_done": {
   "2026-10-06|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-07",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-10-07T00:35:13.472771+03:00",
+ "last_run": "2026-10-07T00:40:17.525815+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1175,6 +1175,10 @@
   {
    "d": "2026-10-07",
    "t": "Iran’s Tanker Attacks Keep Pump Prices High Even as Gulf Oil Exports Rebound - Energy News Beat"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Crude oil rebounds as Hormuz tensions rise. Can buyers take back full control? - investingLive"
   }
  ]
 }
