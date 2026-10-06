@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "8d37b10ca0274ac0",
-  "economistg7releasing100mbarrelsofcrudeoilisjusttrumppretendi",
-  "3f41adbc0f5899cb",
-  "ussupremecourthearsbidbyoilcompaniestoavoidclimatelawsuit",
   "72ea1dc73e008aee",
   "africasrichestmanwantstoturnapristinecoastlineintoanoilhub",
   "54aff7e779cd3476",
@@ -603,7 +599,11 @@
   "f680580feab58f82",
   "ukrainetakesaimatrussiasoilindustrywithfrontlinegainselusive",
   "f508e04ccdc2d51b",
-  "naturalgasgetsaboostingovernmentwinterforecast"
+  "naturalgasgetsaboostingovernmentwinterforecast",
+  "15b464088e9b5d01",
+  "middleeastcrudeoilexportsriseaboveprewarlevelsdespitehouthia",
+  "ecce4a161cd9bb0a",
+  "crackingthecodeextendingthelifeofoneofamericasmostimportanto"
  ],
  "releases_done": {
   "2026-10-06|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T23:35:17.476227+03:00",
+ "last_run": "2026-10-06T23:40:18.196350+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1219,6 +1219,10 @@
   {
    "d": "2026-10-06",
    "t": "Iraq Builds 2027 Budget on $58 Oil—and a Very Large Deficit"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Middle East crude oil exports rise above pre-war levels despite Houthi attacks: Kpler - Fox Business"
   }
  ]
 }
