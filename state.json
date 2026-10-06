@@ -4,10 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "2582b320fc4bfa18",
-  "crudeoilslipsassupplyoutlookimproves",
-  "a6949d81a725555c",
-  "whatcaniransnewoilchiefchangeundertheusblockade",
   "842a1172e3b000d9",
   "iraqseekstobuycrudeoiltankerstohandleshipmentsbeyondstraitof",
   "52475f08de6a5786",
@@ -603,7 +599,11 @@
   "25e5dc575882a8b2",
   "canadafasttrackspacificoilpipelinetodiversifyenergyexportsbe",
   "9ac93bd4246d1fa3",
-  "eurusdusdjpyflowscrudeoilflowspickupbutusdwa"
+  "eurusdusdjpyflowscrudeoilflowspickupbutusdwa",
+  "22ddbc04cc7c4dd8",
+  "currentpriceofoilasofoct12026",
+  "a0d9ae5e12302e8e",
+  "crudeoilpriceforecastisbrents100floorabouttocrackorholdagain"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 38
  },
- "last_run": "2026-10-06T11:45:17.222660+03:00",
+ "last_run": "2026-10-06T11:50:20.506133+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
