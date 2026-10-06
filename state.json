@@ -4,8 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "3fa4abc49ef47e6f",
-  "crudeoilpricesedgelowerasg7stockreleaseandaramcoasiacutaddto",
   "f78170bafb50ab46",
   "currentpriceofoilasofoct52026",
   "cf7ac037b067cf75",
@@ -603,7 +601,9 @@
   "2bd789821c4cf573",
   "sp500hitsrecordhighasoilpricesandyieldsfall",
   "e7ddf7bcb8edf3b0",
-  "saudiarabiasayseastwestpipelinepumping58millionbpd"
+  "saudiarabiasayseastwestpipelinepumping58millionbpd",
+  "584c305e0ae624c9",
+  "oilslidesmorethan2asrecoveringgulfexportsandemergencystockre"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T17:45:21.002545+03:00",
+ "last_run": "2026-10-06T17:50:18.631058+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
