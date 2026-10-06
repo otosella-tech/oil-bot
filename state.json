@@ -4,10 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "5c81a01a093926ed",
-  "middleeastcrudeexportsrecoveriransshipmentszero",
-  "503c46e615c74ee4",
-  "middleeastcrudeoilexportsincreasedespitestraitofhormuzattack",
   "7a0533704c3f9578",
   "oilpricesfallasreportssayhormuzcrudeflowstopprewarlevels",
   "fcec55ca2e250913",
@@ -603,7 +599,11 @@
   "a384634130145f0a",
   "japancourtssaudiarabiaanduaeasasiasoilsupplyfearspersist",
   "e41b435d05ce0023",
-  "whyiransoilministerquitatacriticalmomentforexports"
+  "whyiransoilministerquitatacriticalmomentforexports",
+  "f4f4b51500c6088b",
+  "asoilpricessoarmorenhresidentsfallbehindontheirheatingbills",
+  "4417436525a6bc91",
+  "chineseindependentrefinersboostiraqioilpurchasesasiranianflo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-06",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-10-06T14:40:17.332395+03:00",
+ "last_run": "2026-10-06T14:45:18.550832+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1100,6 +1100,10 @@
   {
    "d": "2026-10-06",
    "t": "Japan Courts Saudi Arabia and UAE as Asia's Oil Supply Fears Persist"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Chinese independent refiners boost Iraqi oil purchases as Iranian flows fall, traders say - Reuters"
   }
  ]
 }
