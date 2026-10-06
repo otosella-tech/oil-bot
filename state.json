@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "a1cd091d40b9661f",
-  "uscrudeoilstockpilesjump",
   "77375f8ee3d4c0ee",
   "aramcoceowarnsoilinventoriesarescarilythin",
   "adeaa97ad8bb304f",
@@ -603,7 +601,9 @@
   "7c653803b4b7578f",
   "doesareductioninthesupplyofoilmaketheeconomystrongeramerican",
   "f8be6b29bde1e32a",
-  "opinionthesciencethathasoilcompaniesrunningscared"
+  "opinionthesciencethathasoilcompaniesrunningscared",
+  "8fd661953856c4da",
+  "iraqbuilds2027budgeton58oilandaverylargedeficit"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T22:40:18.706091+03:00",
+ "last_run": "2026-10-06T22:45:19.640701+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1212,6 +1212,10 @@
   {
    "d": "2026-10-06",
    "t": "Is the West's 100-Year Venezuela Oil Bet About To Backfire - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Iraq Builds 2027 Budget on $58 Oil—and a Very Large Deficit"
   }
  ]
 }
