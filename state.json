@@ -4,12 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "afcfa092f0bda39d",
-  "financialsitliftindiansharesasoilfedfearsease",
-  "008ce920657231c3",
-  "commentaryindiamaybebestplacedtofillachinasizedholeinfuelexp",
-  "a0b11268005fdc0a",
-  "oilpricesfallasreportssayhormuzcrudeflowstoppre",
   "27b8044728fc1b28",
   "oilpricesfallashormuzcrudeflowstopprewarlevels",
   "c80b50ad72a86093",
@@ -603,7 +597,13 @@
   "3ce0d3fca6d99a1a",
   "middleeastoilexportssurpassprewarlevelsdespitetensionsdatash",
   "6335a51dcf4159a7",
-  "oilfuelsupplybuffersarethinningasmiddleeastconflictcontinues"
+  "oilfuelsupplybuffersarethinningasmiddleeastconflictcontinues",
+  "f85170507c27a39f",
+  "middleeastoilexportsrecovertopreiranwarlevelsdespitehormuzat",
+  "1caf6ba3e4302e2c",
+  "crudeoilatover1monthlow",
+  "96b1923679199c61",
+  "ecuadorintalkswithindiaforsaleofcrudeoilcriticalmineralscopp"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-06",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-10-06T13:20:22.008855+03:00",
+ "last_run": "2026-10-06T13:25:16.777276+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1076,6 +1076,10 @@
   {
    "d": "2026-10-06",
    "t": "Fivefold Hormuz freight surge forces Middle East crude discounts to stay competitive - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks - dw.com"
   }
  ]
 }
