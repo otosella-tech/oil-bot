@@ -4,10 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "3a487157b9554f93",
-  "3oilstocksretailinvestorsarewatchingasdieseltightnesskeepsre",
-  "59d7ba70e1457b78",
-  "g7torelease100millionbarrelsofoilanddieselwillitbringfuelpri",
   "11fa2a1997eb6135",
   "oilisflowingfromthepersiangulfbutpricesremainhighwhy",
   "39c73067ba7c0040",
@@ -603,7 +599,11 @@
   "eedc9f52f8121506",
   "oilwaspouringoutofhormuzagainthenattacksonshipsresurged",
   "7fd24a38ec59dcf2",
-  "sencollinsapplaudsg7oilreleasesaysitwillhelpmainersstrugglin"
+  "sencollinsapplaudsg7oilreleasesaysitwillhelpmainersstrugglin",
+  "df719600bf7dfbcf",
+  "brentcrudeoilhoversnear100asg7reservereleaseoffsetsiranwarsu",
+  "229274f733cd273b",
+  "supremecourtconsiderssuitsblamingoilcompaniesforheatdroughtw"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-06",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-10-06T06:20:18.066099+03:00",
+ "last_run": "2026-10-06T06:25:13.832170+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1032,6 +1032,10 @@
   {
    "d": "2026-10-06",
    "t": "Oil Was Pouring Out of Hormuz Again. Then Attacks on Ships Resurged. - WSJ"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Brent Crude Oil Hovers Near $100 As G7 Reserve Release Offsets Iran War Supply Fears - NDTV Profit"
   }
  ]
 }
