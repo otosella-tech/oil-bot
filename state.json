@@ -4,8 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "e3f4368f438a240a",
-  "middleeastcrudeoilexportsbackatprewarlevelsanalystssay",
   "113540c476e2b7c0",
   "whocontrolseuropesemergencyoilandwhencanitbereleased",
   "ca16af38abaf649d",
@@ -603,7 +601,9 @@
   "c48e894afbb1a12c",
   "currentpriceofoilasofoctober52026",
   "e8a601e949014fce",
-  "usstocksrisetowardanalltimehighafteroilpriceseasepittsburghp"
+  "usstocksrisetowardanalltimehighafteroilpriceseasepittsburghp",
+  "babf385e57846cc7",
+  "saudieast"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T19:25:57.235360+03:00",
+ "last_run": "2026-10-06T19:30:23.694769+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1180,6 +1180,10 @@
   {
    "d": "2026-10-06",
    "t": "US EIA hikes oil price forecasts again as Iran war drains global stockpile - Reuters"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Saudi East-West Pipeline Moves 5.8 Million Barrels as Red Sea Route Recovers"
   }
  ]
 }
