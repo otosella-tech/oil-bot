@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "65816e9f9bf558ae",
-  "theoilmarketisrunningoutofroomforerror",
   "913d2967c3c495dc",
   "sensexniftysnap4daylosingstreakascrudeoilpricesease",
   "be01923e4f35d67e",
@@ -603,7 +601,9 @@
   "83ae7e4afad1a503",
   "oilmarketturmoilcouldlastforyearsexecutivessay",
   "673b35a65691b535",
-  "theoilcushionisshrinking"
+  "theoilcushionisshrinking",
+  "29871f8b74094f8c",
+  "oilpriceriskputsypfstockandglobaloilproducersinfocus"
  ],
  "releases_done": {
   "2026-10-06|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 6
  },
- "last_run": "2026-10-07T01:35:14.017203+03:00",
+ "last_run": "2026-10-07T01:40:17.198798+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
