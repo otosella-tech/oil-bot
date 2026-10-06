@@ -4,10 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "315364ad1fdc621f",
-  "koreantankerusessuezrouteforcrudeoil",
-  "4f8feb2eef13ad64",
-  "supremecourttoweighwhetheroilcompaniescanbeforcedtopayforcli",
   "6e6f64e99e17719f",
   "saudioilshareinkoreaimportsfallsbelow30percent",
   "786e02c4c0fe21b8",
@@ -603,7 +599,11 @@
   "71e71012ed67ecda",
   "canadaofficialsseektomovemoreoiltothepacificaspartoftradediv",
   "2f2a2a565e3f972d",
-  "saudiarabiaunexpectedlycutsnovemberoilpricestoasiato6yearlow"
+  "saudiarabiaunexpectedlycutsnovemberoilpricestoasiato6yearlow",
+  "47d6796eb0176884",
+  "gulfoilexportsrecoverto81ofpre",
+  "97924bee707e70cd",
+  "oilpriceforecastrisingmiddleeastexportslimittherebound"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-06",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-10-06T11:00:27.922125+03:00",
+ "last_run": "2026-10-06T11:05:15.003257+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1064,6 +1064,10 @@
   {
    "d": "2026-10-06",
    "t": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows - Reuters"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Gulf Oil Exports Recover to 81% of Pre-War Levels"
   }
  ]
 }
