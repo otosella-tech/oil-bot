@@ -4,10 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "fa054867a49cea47",
-  "shadowfleettrafficonnorthernsearoutesurgesasarcticsafetyconc",
-  "fadbccf450273386",
-  "globaloilsupplybufferrunningscarilythinaramcoceosays",
   "abd42e8d6f5b2dec",
   "trumpsayssouthkoreadealincludes84billionusoilproject",
   "a4269bce321a3655",
@@ -603,7 +599,11 @@
   "0ca5fc5580b8426d",
   "indiacouldboostcrudeandcriticalmineralssupplyfromecuador",
   "8017db1f80451067",
-  "aramcoceooilsupplyistwoyearsawayfrommeetingdemand"
+  "aramcoceooilsupplyistwoyearsawayfrommeetingdemand",
+  "32777a5698f3cf2c",
+  "saudienergyministersaysoilpumpedthrougheastwestpipelinereach",
+  "13b5774face25294",
+  "oilpriceseaseaslargervolumeshavebeencrossinghormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T15:35:14.290594+03:00",
+ "last_run": "2026-10-06T15:40:20.936053+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1112,6 +1112,14 @@
   {
    "d": "2026-10-06",
    "t": "Oil Prices Fall as Reports Say Hormuz Crude Flows Top Pre-War Levels - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Saudi energy minister says oil pumped through East-West pipeline reached 5.8 million barrels - Reuters"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Oil prices ease as larger volumes have been crossing Hormuz - Transport Topics"
   }
  ]
 }
