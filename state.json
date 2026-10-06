@@ -4,8 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "52475f08de6a5786",
-  "japanhasnoplansfornewoilreleasefromnationalreservesofficials",
   "a7292b261503af3f",
   "usoilandgasexecutivesweighinonsprtankbottomriskyearendoilpri",
   "a5c479d8f98dc2dd",
@@ -603,7 +601,9 @@
   "a0d9ae5e12302e8e",
   "crudeoilpriceforecastisbrents100floorabouttocrackorholdagain",
   "cb799f430d33274b",
-  "atleast50iraniantankersarestuckinthegulfasusblockadeholds"
+  "atleast50iraniantankersarestuckinthegulfasusblockadeholds",
+  "f382d5907c73b261",
+  "brentonceagaintoilingaround100mark"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 40
  },
- "last_run": "2026-10-06T12:10:17.839995+03:00",
+ "last_run": "2026-10-06T12:15:18.179706+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
