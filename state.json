@@ -4,10 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "7b285f413ad17602",
-  "usacontinuesstrategicpetroleumreserverelease",
-  "7180c6d9df28894d",
-  "oilsteadiesonriseinmiddleeastcrudeexportsandg7stocksrelease",
   "b558952e2f85602b",
   "southkoreaplanstotriplecanadiancrudeimportsassaudishareslips",
   "7cab42bbbb0edc8e",
@@ -603,7 +599,11 @@
   "ffb4545741556cd2",
   "oilpricesfallnearly2asmiddleeastsupplyconcernsease",
   "1c33190ac628bccc",
-  "oilisslowlycomingdownenergysecretarychriswright"
+  "oilisslowlycomingdownenergysecretarychriswright",
+  "73ba7ed33b4f6d84",
+  "crudepricespressuredasmoreoilsuppliesleavethemiddleeast",
+  "f64f4b589ee338df",
+  "lasportsaretheregionsbiggestpolluters"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T18:45:22.630710+03:00",
+ "last_run": "2026-10-06T18:50:18.290565+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
