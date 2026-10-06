@@ -4,12 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "5e71550455b1d040",
-  "hormuzlngflowsstilldownmorethan75despiterebound",
-  "d7f71b40a44d4cf1",
-  "rupeeendsflatanchoredbyrbiinterventioninfaceofglobalstrains",
-  "3278c13230c3a4d5",
-  "indiansharesriseasoilfedfearseasefinancialsgainonq2updates",
   "5ec918546a905539",
   "crudeoilholdsbelow91assupplypressuresease",
   "404e3b7b7c6ab930",
@@ -603,7 +597,13 @@
   "611c98d115b8666d",
   "chinataps296milliontonsofoilfromitslargestdesertoilfieldat19",
   "90e62d64a37ff34c",
-  "usstocksflirtwitharecordafteroilpricesease"
+  "usstocksflirtwitharecordafteroilpricesease",
+  "d4c9af564ac26bfc",
+  "brentfuturesfallmorethan2asmiddleeastexportsrecovershippingr",
+  "a4cdcad8ddcbbfe3",
+  "wallstreetfuturesriseascrudeoilextendsdeclinebelow100dowjone",
+  "19045e0c78df1025",
+  "oilfuturescrudeeasesafterg7releaseincreasedhormuztraffic"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T17:10:23.044172+03:00",
+ "last_run": "2026-10-06T17:15:18.870110+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1144,6 +1144,10 @@
   {
    "d": "2026-10-06",
    "t": "Iraq’s proposed 2027 budget assumes $58 oil price - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Oil futures: Crude eases after G7 release, increased Hormuz traffic - Quantum Commodity Intelligence"
   }
  ]
 }
