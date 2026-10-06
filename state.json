@@ -4,10 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "dfc65cd7c831e559",
-  "highcrudeoilpricesatailwindforsantos",
-  "0aff13c9e308d51e",
-  "usandalliesagreetoreleasedieselreservesaspricessoar",
   "d56259688a3006f1",
   "xauusdxauusdcfdcrudeoilfuturesnov6clmainusonlookeronlooker",
   "da741fd77b7b4c9c",
@@ -603,7 +599,11 @@
   "8152adce724e31cd",
   "gulfoilflowsrisetoaverage81ofprewarrateinseptemberdatashows",
   "f26fc05cc5659783",
-  "globaloilsupplybufferisscarilythinaramcoceosays"
+  "globaloilsupplybufferisscarilythinaramcoceosays",
+  "2c9ce7687d2509f7",
+  "oilgainsastradersweighgulftensionsagainststrongmideastexport",
+  "23e73aa401455d92",
+  "irgccommandersonhelpedbuildnewoilsalesnetwork"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 19
  },
- "last_run": "2026-10-06T07:00:27.246714+03:00",
+ "last_run": "2026-10-06T07:05:15.816979+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
