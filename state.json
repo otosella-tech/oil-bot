@@ -4,12 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "6f245ea293521b34",
-  "oilstocksinusstrategicpetroleumreservefalltolowestlevelsince",
-  "b6994130c8d360e3",
-  "possiblefirereportedatsaudirefineryasattackclaimscirculate",
-  "ce75d0b07807cb3d",
-  "middleeastoilflowssurgeabovepreconflictlevelsevenastankeratt",
   "f334291a454fcf9d",
   "majoroilexportersagreetokeepproductionsteadyinnovemberabcnew",
   "fa96502c31fcc29e",
@@ -603,7 +597,13 @@
   "f4bf5403d6ed729b",
   "whyg7countriesreleasingmillionsofbarrelsofoilisgoodforameric",
   "ab419329fb3f3c88",
-  "wallstreetralliestowardanalltimehighsandiegounion"
+  "wallstreetralliestowardanalltimehighsandiegounion",
+  "3906db1aacfac3ad",
+  "europespowergridisdigitalizingfasterthanregulatorscankeepup",
+  "4b6d22f7f8dfb5f4",
+  "winterheatingbillscouldbelowerformosthomeswhyhighoilpricesdo",
+  "3acd908f2b36d1a9",
+  "tankercatchesfirespillsoiloffrussianresorttownofsochi"
  ],
  "releases_done": {
   "2026-10-06|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -615,67 +615,11 @@
   "Brent": 100.96
  },
  "llm": {
-  "date": "2026-10-06",
-  "count": 60
+  "date": "2026-10-07",
+  "count": 2
  },
- "last_run": "2026-10-06T23:55:14.457152+03:00",
+ "last_run": "2026-10-07T00:00:29.075031+03:00",
  "sent_stories": [
-  {
-   "d": "2026-10-03",
-   "t": "Two More Tankers in Hormuz Report Strikes, Bringing Total to Six in a Week - The Maritime Executive"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "\"South Korea to Invest $8.4 Billion in Oil Production Increase\"… Warns of Doubling Amount If Alaska Project Is Rejected - news.sbs.co.kr"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "Crude oil tanker struck by unknown projectile off Oman, UKMTO says - Reuters"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "Saudi Arabia Resumes Yanbu Crude Loadings as East-West Pipeline Partially Restarts - News and Statistics - IndexBox"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies - The New York Times"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN - CNBC"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "Crude oil exports via Hormuz at 33.7 million barrels this week, data shows - Reuters"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "Oil slips as Saudi Arabia offers more crude via Oman - reuters.com"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "Vietnam refinery signs crude oil deal with ExxonMobil Asia Pacific - Reuters"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "Tajikistan Begins Receiving Iranian Oil, Testing New Supply Route And Extent Of US Sanctions - Radio Free Europe/Radio Liberty"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "The oil routes around Hormuz face their own chokepoints - thecradle.co"
-  },
-  {
-   "d": "2026-10-03",
-   "t": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained - CNBC"
-  },
   {
    "d": "2026-10-04",
    "t": "Iran's currency crashes as the regime runs out of oil to sell and can’t get its money from customers - Fortune"
@@ -1223,6 +1167,10 @@
   {
    "d": "2026-10-06",
    "t": "Middle East crude oil exports rise above pre-war levels despite Houthi attacks: Kpler - Fox Business"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Tanker Catches Fire, Spills Oil off Russian Resort Town of Sochi - The Maritime Executive"
   }
  ]
 }
