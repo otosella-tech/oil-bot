@@ -4,12 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "1417ec81d6ca9185",
-  "liveupdateslatestfromisraeliranandthemiddleeast",
-  "6ba6ce2bb837cc6a",
-  "oilpriceseaseslightlyasg7andmiddleeastcrudesuppliessettohitm",
-  "cd92c275e8dca861",
-  "wdeqover5kgallonsofcrudeoildischargedduringoct2pipelineleakb",
   "526c5d9940e29301",
   "middleeastcrudeoilexportsriseaboveprewarlevelsbuttankerattac",
   "f568f1592809ab36",
@@ -603,7 +597,13 @@
   "921f1336ddef4cfe",
   "oilpricessteadyasmarketsweigharamcopricecutsmeastsupplies",
   "08814c939d4f2286",
-  "aramcojustsaidtheoilcushionisgonefortwoyears"
+  "aramcojustsaidtheoilcushionisgonefortwoyears",
+  "9ab2dfc1e8ef81e4",
+  "theoilindustryshouldpayforclimatechangeandcongressshoulddeci",
+  "b306878549b4dfd4",
+  "emergencyalarmteststosoundatoilrefinery",
+  "6902b07120630a47",
+  "wherekazakhstansoilgoeskeyexportmarketsandvolumes"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-06",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-10-06T08:40:18.116130+03:00",
+ "last_run": "2026-10-06T08:45:17.403295+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1044,6 +1044,10 @@
   {
    "d": "2026-10-06",
    "t": "US Blockade Bottles Up Dozens of Iranian Tankers, Nonprofit Says - Energy Connects"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Emergency alarm tests to sound at oil refinery - BBC"
   }
  ]
 }
