@@ -4,8 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "cf7ac037b067cf75",
-  "aramcocutsasiaoilpricestosixyearlowraisespricesforeurope",
   "fa0e15a92ea1168f",
   "japanrulesoutmorereservereleasesafterg7pledges100millionbarr",
   "e9fa967f4ccc7d5c",
@@ -603,7 +601,9 @@
   "584c305e0ae624c9",
   "oilslidesmorethan2asrecoveringgulfexportsandemergencystockre",
   "abd614e20004bcaf",
-  "usstocksflirtwitharecordafteroilpriceseasepittsburghpost"
+  "usstocksflirtwitharecordafteroilpriceseasepittsburghpost",
+  "f78170bafb50ab46",
+  "currentpriceofoilasofoct52026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T18:00:29.376686+03:00",
+ "last_run": "2026-10-06T18:05:16.053198+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
