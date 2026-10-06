@@ -4,8 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "dee66d71f8ef0120",
-  "opecholdsnovemberquotaat3101millionbarrelsdaily",
   "298f1536ec53f431",
   "middleeastcrudeexportsrecoversurpassprewarlevelsamidiranbloc",
   "78394fffb0cb2f14",
@@ -603,7 +601,9 @@
   "f9489861ac9da8b4",
   "chinaacceleratesultra",
   "5e703e42f73dc678",
-  "commentaryindiamaybebestplacedtofillachinasizedholeinfuelexp"
+  "commentaryindiamaybebestplacedtofillachinasizedholeinfuelexp",
+  "b39c072c46aef3ad",
+  "goldmansachsanalystpredictsstraitofhormuzoilflownormalizingb"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-06",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-10-06T13:40:18.378474+03:00",
+ "last_run": "2026-10-06T13:45:18.964264+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1080,6 +1080,10 @@
   {
    "d": "2026-10-06",
    "t": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks - dw.com"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Goldman Sachs Analyst Predicts Strait of Hormuz Oil Flow Normalizing by Late 2027, Crude Oil Prices to Hi - Benzinga"
   }
  ]
 }
