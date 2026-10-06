@@ -4,10 +4,6 @@
   "Brent": 98.54
  },
  "seen": [
-  "701d46ff24f2e78e",
-  "marketexpertdiscussestreasuryyieldsoilprices",
-  "336844b1cb089f5d",
-  "saudiarabiaseastwestoilpipelineoperatingnormallyreport",
   "3dd101dd7ea9171b",
   "japanplansnonewoilreservereleasefollowingg7agreementpremier",
   "8ee5a36ba1a3c928",
@@ -603,7 +599,11 @@
   "fee65a05519e7669",
   "usstocksrisetowardanalltimehighafteroilpricesease",
   "94f541df1367b90c",
-  "chinasindependentrefinersswtichtoiraqicrudeasusblocksiransup"
+  "chinasindependentrefinersswtichtoiraqicrudeasusblocksiransup",
+  "ff433a4700d08a79",
+  "lowwindgenerationpromptsanotherpowermarginwarninginuk",
+  "0e20e93b225b1d64",
+  "russiasoilearningsfalldespitepricejumpasoutputdropsroubleris"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T18:25:15.248700+03:00",
+ "last_run": "2026-10-06T18:30:24.916539+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1164,6 +1164,14 @@
   {
    "d": "2026-10-06",
    "t": "China’s independent refiners swtich to Iraqi crude as US blocks Iran supplies - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Low Wind Generation Prompts Another Power Margin Warning in UK"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Russia's oil earnings fall despite price jump as output drops, rouble rises - Reuters"
   }
  ]
 }
