@@ -4,12 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "5a3fdba5371b6ea0",
-  "indianrupeesetformildrelieffromdipinoilfadingfedoctoberhikeb",
-  "78033722f92bf243",
-  "saudicrudeshareofskoreasimportsfallsbelow30for1sttimein5yrs",
-  "e493bb0f951cd060",
-  "littlechangetosandiegocountygasprices",
   "c1c9542fbbae8609",
   "openingthetapsondieselreservesisariskygambleforeurope",
   "81cf2fa7951ea7ec",
@@ -603,7 +597,13 @@
   "0b4b2773ccfbbe5e",
   "ukoilrefinerybroketoxicpollutionlimitsdozensoftimesdocuments",
   "1d5edb72692a04a9",
-  "howquantfundsbeatthemarketbybeingearlycontrarianandright"
+  "howquantfundsbeatthemarketbybeingearlycontrarianandright",
+  "e2b61c3a3b990f1d",
+  "worldbankwarnsasiaisrunningoutofmoneytofightenergyshock",
+  "05a372ca478d364f",
+  "trumpbackediranintoacornertheregimeisntblinking",
+  "1ed095e68eede69c",
+  "crudeoilsupplytoluandarefinerythehighestin12months"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-06",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-10-06T09:55:14.097685+03:00",
+ "last_run": "2026-10-06T10:00:29.178578+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1048,6 +1048,14 @@
   {
    "d": "2026-10-06",
    "t": "Emergency alarm tests to sound at oil refinery - BBC"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "World Bank Warns Asia Is Running Out of Money to Fight Energy Shock"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Trump backed Iran into a corner. The regime isn’t blinking - CNN"
   }
  ]
 }
