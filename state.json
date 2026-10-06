@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 87.64,
+  "WTI": 89.51,
   "Brent": 98.54
  },
  "seen": [
-  "113540c476e2b7c0",
-  "whocontrolseuropesemergencyoilandwhencanitbereleased",
   "ca16af38abaf649d",
   "fillingthestrategicpetroleumreserve",
   "9b1af86db2a00b14",
@@ -603,7 +601,9 @@
   "e8a601e949014fce",
   "usstocksrisetowardanalltimehighafteroilpriceseasepittsburghp",
   "babf385e57846cc7",
-  "saudieast"
+  "saudieast",
+  "e3f4368f438a240a",
+  "middleeastcrudeoilexportsbackatprewarlevelsanalystssay"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 60
  },
- "last_run": "2026-10-06T19:30:23.694769+03:00",
+ "last_run": "2026-10-06T19:35:14.880585+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
@@ -1184,6 +1184,10 @@
   {
    "d": "2026-10-06",
    "t": "Saudi East-West Pipeline Moves 5.8 Million Barrels as Red Sea Route Recovers"
+  },
+  {
+   "d": "2026-10-06",
+   "t": "Middle East Crude Oil Exports Back at Prewar Levels, Analysts Say - WSJ"
   }
  ]
 }
