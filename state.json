@@ -4,10 +4,6 @@
   "Brent": 100.69
  },
  "seen": [
-  "39c73067ba7c0040",
-  "saudiarabiaunexpectedlycutsoilpricestoasia",
-  "11db98c762be7212",
-  "currentpriceofoilasofsept282026",
   "51ab00232301b3b9",
   "opecagreestokeepoiloutputpolicyunchangedfornovember",
   "0c614dc35325668d",
@@ -603,7 +599,11 @@
   "229274f733cd273b",
   "supremecourtconsiderssuitsblamingoilcompaniesforheatdroughtw",
   "9188631a14d9b176",
-  "oillittlechangedastradersweighmideastcrudeexportdata"
+  "oillittlechangedastradersweighmideastcrudeexportdata",
+  "11fa2a1997eb6135",
+  "oilisflowingfromthepersiangulfbutpricesremainhighwhy",
+  "4600b57940f760eb",
+  "japansnikkeibuoyedbywallstreetgainsdipincrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-05",
@@ -615,7 +615,7 @@
   "date": "2026-10-06",
   "count": 17
  },
- "last_run": "2026-10-06T06:30:22.352478+03:00",
+ "last_run": "2026-10-06T06:35:15.022785+03:00",
  "sent_stories": [
   {
    "d": "2026-10-03",
