@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "a4cdcad8ddcbbfe3",
-  "wallstreetfuturesriseascrudeoilextendsdeclinebelow100dowjone",
   "19045e0c78df1025",
   "oilfuturescrudeeasesafterg7releaseincreasedhormuztraffic",
   "7c6b87d5b3e01694",
@@ -603,7 +601,9 @@
   "712f6d4e5782b350",
   "energybriefsoilrespondstomoreattacksontankersinthestraitofho",
   "17f31dc8182ba2c6",
-  "googlesecures890mwofnuclearpowerfromconstellationenergy"
+  "googlesecures890mwofnuclearpowerfromconstellationenergy",
+  "486ca8047b8d8d90",
+  "thepoliticaleconomyofdiesel"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T22:05:13.876102+03:00",
+ "last_run": "2026-10-07T22:10:17.432075+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
