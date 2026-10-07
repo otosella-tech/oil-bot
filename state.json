@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "970ad60cc634eb73",
-  "updateusequityindexesadvanceamidelevatedtreasuryyieldsslidin",
-  "3765ed49bf68e8e8",
-  "oilslipsonrisingmideastcrudeexportsg7stocksrelease",
   "9f21262ee8f7d5ed",
   "crudeoilpricesfallondollarstrengthandsaudipricecuts",
   "78cd24709d16fc66",
@@ -603,7 +599,11 @@
   "f0537fc1d0c478e5",
   "oilpricesrisewithmeastussupplydisruptionsinfocus",
   "a7127ba2f40986fe",
-  "ukrainewarday1686kyivstrikesrussianoiltankerinblackseanearru"
+  "ukrainewarday1686kyivstrikesrussianoiltankerinblackseanearru",
+  "420ebddd014eff42",
+  "asiasharesweakeroilupasinvestorsweighsaudihouthiescalation",
+  "6bed7a3432b3acd5",
+  "oilpricesriseasstormsandairstrikesthreatensupplybyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-07",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-10-07T08:55:14.350537+03:00",
+ "last_run": "2026-10-07T09:00:28.381390+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1232,6 +1232,10 @@
   {
    "d": "2026-10-07",
    "t": "Ukraine War, Day 1,686: Kyiv Strikes Russian Oil Tanker In Black Sea Near Russia’s Sochi - EA WorldView"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Oil prices rise as storms and air strikes threaten supply By Reuters - Investing.com"
   }
  ]
 }
