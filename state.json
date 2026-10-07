@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "a69c65295176c4ad",
-  "gulfstormthreatcouldput3millionbpdofrefiningcapacityatrisk",
   "8790c94e4e870461",
   "tennesseegaspricesfall10centswbbj",
   "c9b941908c4de2a2",
@@ -603,7 +601,9 @@
   "5854a7710f3c922f",
   "worldshareseuroslideashighoilpricesfiscalworrieslinger",
   "c0c28d96e3f776dc",
-  "homeheatingoilbillsaresettojump21thiswinterasdistillatesuppl"
+  "homeheatingoilbillsaresettojump21thiswinterasdistillatesuppl",
+  "8eac167535745392",
+  "europestocksretreatafterthreedayriseasrisingyieldsoildentsen"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-08",
   "count": 3
  },
- "last_run": "2026-10-08T00:30:24.832912+03:00",
+ "last_run": "2026-10-08T00:35:15.752951+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
