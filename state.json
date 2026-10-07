@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "635aa4223f3de631",
-  "usstockfuturesriseasoilpricesextenddeclinedowjonesspnasdaqwa",
   "b05078517bb868c9",
   "chinaacceleratesultradeepdrillingtoboostdomesticoilsupply",
   "74471473a2fdd3ef",
@@ -603,7 +601,9 @@
   "fb6ea4e8e70d95ba",
   "narrowedjonesactexemptionslowsenergycargotrade",
   "3c2a1cce837ae16c",
-  "eiaweeklyuscrudeoilinventories3186kvs1722kexpected"
+  "eiaweeklyuscrudeoilinventories3186kvs1722kexpected",
+  "d0abc642281314ae",
+  "around14millionbarrelsperdayleavingmiddleeastvitolceosays"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T21:05:17.011687+03:00",
+ "last_run": "2026-10-07T21:10:18.687390+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
