@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "611c98d115b8666d",
-  "chinataps296milliontonsofoilfromitslargestdesertoilfieldat19",
   "90e62d64a37ff34c",
   "usstocksflirtwitharecordafteroilpricesease",
   "d4c9af564ac26bfc",
@@ -603,7 +601,9 @@
   "86fffc7a102f3cf9",
   "supertankercharteredfromgulfcoasttochinafor76million10timesh",
   "19b25cec29a146ae",
-  "governordisappointedcanadaisfasttrackingoilpipeline"
+  "governordisappointedcanadaisfasttrackingoilpipeline",
+  "64be242d935dd9bc",
+  "oilpricesfallasieaagreestoaccelerateoilstockreleaseeuronextm"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T21:40:18.846041+03:00",
+ "last_run": "2026-10-07T21:45:19.747842+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
