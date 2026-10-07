@@ -4,12 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "c243b9de61d7937b",
-  "crudeoilparesearlygains",
-  "a2ea2cc759609721",
-  "currentpriceofoilasofoctober62026",
-  "c110c4e03791ade8",
-  "wallstreetpointstowardgainsoilpricesfallasmarketsawaitnextwe",
   "850aba47d69aec37",
   "crudeoillowerassaudiarabiaresumesredseaoilexports",
   "30192ae0dcb10a9a",
@@ -603,7 +597,13 @@
   "ee8e594b265d0e3d",
   "ieapushestoacceleratereleaseof100millionbarrelsofoilstocks",
   "107964c86fcb9c6c",
-  "eiauscrudeoilinventoriesdown32millionbbl"
+  "eiauscrudeoilinventoriesdown32millionbbl",
+  "0c6958835cf910d9",
+  "theoilshockcouldmakeusstronger",
+  "f6088c698c77a49b",
+  "occidentalstockand2energyproducerswithupsidefromhighoilprice",
+  "80aadc2b2247bb1c",
+  "britishequitiesfallonreboundinoilpricesrisinggiltyields"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T18:50:20.219939+03:00",
+ "last_run": "2026-10-07T18:55:16.543291+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
