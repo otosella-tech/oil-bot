@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "15d5188aa14245ab",
-  "oilpricesfallasmiddleeastcrudeexportsriseg7toreleasestocks",
   "60a7c8bb3806d2c2",
   "96billioninsoutheastasianupstreamassetsareforsalethrough2027",
   "ac01b48fcc66fcd7",
@@ -603,7 +601,9 @@
   "9a5f69f8843879f2",
   "oilpricestodaybrentcrudeabove101hereswhypricesarerising",
   "52e99cceab73f5e6",
-  "santabarbaraenvironmentalistscelebratenewsomssigningofoneofs"
+  "santabarbaraenvironmentalistscelebratenewsomssigningofoneofs",
+  "416ca52ea541b5cf",
+  "oilandgasyouaintseennothingyetnysearcaxle"
  ],
  "releases_done": {
   "2026-10-06|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 14
  },
- "last_run": "2026-10-07T05:20:19.033663+03:00",
+ "last_run": "2026-10-07T05:25:15.032913+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
