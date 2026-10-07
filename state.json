@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "6c738f30cb188af8",
-  "canadascenovusstrike4billiondealtobuyathabascaoilexpandprodu",
-  "b0cc9f70795bfebd",
-  "crudeoiltechnicalsmiddleeasttensionhascrudeoilfuturesmovingh",
   "405ba5c1457c9482",
   "saudiaramcoreplenishingcrudefuelstockscouldtaketwoyears",
   "6726f5e3ed08bd75",
@@ -603,7 +599,11 @@
   "4bbc7e1d35f1d0b4",
   "brentbackabove100ashouthishitsaudiinfrastructure",
   "528608abee7d3ed7",
-  "sppredictscanadianoilsandsproductiontosetrecord"
+  "sppredictscanadianoilsandsproductiontosetrecord",
+  "136f4121621a8158",
+  "oilgainsasusstormandhouthiairstrikesthreatensupply",
+  "3ce964ae43ffe9fe",
+  "iranrampsupshipattacksinhormuzjustasoilandgasflowsclimb"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-07",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-10-07T08:25:15.170288+03:00",
+ "last_run": "2026-10-07T08:30:27.051904+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1220,6 +1220,14 @@
   {
    "d": "2026-10-07",
    "t": "Brent Back Above $100 as Houthis Hit Saudi Infrastructure"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Oil gains as US storm and Houthi air strikes threaten supply - Reuters"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Iran ramps up ship attacks in Hormuz just as oil and gas flows climb - The Japan Times"
   }
  ]
 }
