@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "3b41eded0d9935b4",
-  "standardcharteredsayshormuzoilflowsarefarfromnormal",
   "e55c2c5d6b93b5cf",
   "opecagreestokeepnovemberoiloutputtargetssteady",
   "f4abbafcd7ce613c",
@@ -603,7 +601,9 @@
   "e6641e8c9cdec88b",
   "howashadoweconomyinasiaiskeepingiranianoilflowing",
   "58d1688122f53b63",
-  "howasmallbusinessgotentangledinussanctionsoniranianoil"
+  "howasmallbusinessgotentangledinussanctionsoniranianoil",
+  "25ae55c5aa2d7014",
+  "iranianoilaminorplayerandthelimitsofussanctions"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-07",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-10-07T12:10:18.144039+03:00",
+ "last_run": "2026-10-07T12:15:19.206482+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1252,6 +1252,10 @@
   {
    "d": "2026-10-07",
    "t": "How a Small Business Got Entangled in U.S. Sanctions on Iranian Oil - The New York Times"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Iranian Oil, a Minor Player and the Limits of U.S. Sanctions - The New York Times"
   }
  ]
 }
