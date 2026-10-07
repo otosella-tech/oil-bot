@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "3c811ab15de759b3",
-  "cenovuseyesathabascainmajorcanadianoilsandsshakeup",
-  "0c6958835cf910d9",
-  "theoilshockcouldmakeusstronger",
   "c546e95c163d7603",
   "fivefoldhormuzfreightsurgeforcesmiddleeastcrudediscountstost",
   "b33393e6045ad11b",
@@ -603,7 +599,11 @@
   "22ddbc04cc7c4dd8",
   "currentpriceofoilasofoct12026",
   "643bc28fa701c379",
-  "franceandgermanysaydieselpromisetotrumpwontrequirenewstockre"
+  "franceandgermanysaydieselpromisetotrumpwontrequirenewstockre",
+  "937f551446bec145",
+  "canadacommoditiesoilpricesadvanceashouthiattacksagainstsaudi",
+  "fb54580df3d9ddb2",
+  "usfuturespointlowerastreasuryyieldsreboundaheadoffedminutesd"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T17:05:17.076312+03:00",
+ "last_run": "2026-10-07T17:10:19.790773+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1302,6 +1302,10 @@
   {
    "d": "2026-10-07",
    "t": "Oil prices climb above $100 on Strait of Hormuz attacks, Gulf storm threat - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Canada Commodities: Oil Prices Advance as Houthi Attacks Against Saudi Arabia Intensify - Yahoo Finance"
   }
  ]
 }
