@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "cda9ad4916e782cb",
-  "novemberwticrudeoilcontractlastseendown116or13to8995perbarre",
   "7a9ae2095faa5228",
   "southeastasiasoilandgasmamarketisheatingup",
   "7c72e57a10c781f5",
@@ -603,7 +601,9 @@
   "e94bbba799644aca",
   "ukraineclaimsitsstrikeshavetakenoutmorethanhalfofrussiasoilr",
   "735d83b6cedbde67",
-  "whatcomesnextwiththeenergyshock"
+  "whatcomesnextwiththeenergyshock",
+  "682e06bfebe78558",
+  "navaldronehitsoiltankeroffrussianresortcitysochitriggeringma"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-07",
-  "count": 22
+  "count": 24
  },
- "last_run": "2026-10-07T07:35:15.287082+03:00",
+ "last_run": "2026-10-07T07:40:16.652061+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1212,6 +1212,10 @@
   {
    "d": "2026-10-07",
    "t": "Ukraine claims its strikes have taken out more than half of Russia's oil refining capacity - PBS"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Naval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze - The Guardian"
   }
  ]
 }
