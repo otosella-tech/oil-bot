@@ -4,12 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "4a5cbaea584dc1d1",
-  "asiansharesmostlyadvanceafterwallstreetgainsandoilpricesfall",
-  "261c99642d163aad",
-  "globaloilstocksarealarminglylowandcouldtaketwoyearstorebuild",
-  "25e5dc575882a8b2",
-  "canadafasttrackspacificoilpipelinetodiversifyenergyexportsbe",
   "9ac93bd4246d1fa3",
   "eurusdusdjpyflowscrudeoilflowspickupbutusdwa",
   "22ddbc04cc7c4dd8",
@@ -603,9 +597,17 @@
   "3ce32123ce559e1b",
   "marketwrapoilrisesagainfrenchfiscalconcernsweighoneuro071020",
   "415bbb9127b788fe",
-  "ieadiscussesg7s100millionbarreloilanddieselrelease"
+  "ieadiscussesg7s100millionbarreloilanddieselrelease",
+  "934660205d5ed99b",
+  "crudeoilfuturesnov6clmainus",
+  "acdbddd6047ff59b",
+  "oilpricesreverseatpeakwhatthismeansforgold",
+  "c8c3492b97f0146d",
+  "iraqlookstosyrianrouteforcrudeexportstobypasshormuzreport"
  ],
- "releases_done": {},
+ "releases_done": {
+  "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+ },
  "last_digest": "2026-10-07",
  "digest_prices": {
   "WTI": 90.23,
@@ -615,7 +617,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T16:50:19.849929+03:00",
+ "last_run": "2026-10-07T16:55:15.637127+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1288,6 +1290,10 @@
   {
    "d": "2026-10-07",
    "t": "Rubio states that the Iranian regime has 'lost complete control' of the Strait of Hormuz as the flow of oil returns to normal - voz.us"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Iraq looks to Syrian route for crude exports to bypass Hormuz: Report - Anadolu Ajansı"
   }
  ]
 }
