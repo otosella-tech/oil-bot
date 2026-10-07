@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "3ce0d3fca6d99a1a",
-  "middleeastoilexportssurpassprewarlevelsdespitetensionsdatash",
-  "6335a51dcf4159a7",
-  "oilfuelsupplybuffersarethinningasmiddleeastconflictcontinues",
   "f85170507c27a39f",
   "middleeastoilexportsrecovertopreiranwarlevelsdespitehormuzat",
   "1caf6ba3e4302e2c",
@@ -603,10 +599,15 @@
   "52b5ec08d46470f7",
   "brentcrudepricesreach101asstormthreatens",
   "ddf6659f412ff017",
-  "breakingviewscommentaryoilsnewnormalundercutsjetmaintenanceb"
+  "breakingviewscommentaryoilsnewnormalundercutsjetmaintenanceb",
+  "8db9e53b71aa95c7",
+  "southkoreaunveils747billionplantobreakitsfossilfuelhabit",
+  "3b7ac457a515815c",
+  "syriaplanstodoubleoiloutputinayearasinvestorsreturn"
  ],
  "releases_done": {
-  "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+  "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
+  "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|post": 1
  },
  "last_digest": "2026-10-07",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T17:25:23.324843+03:00",
+ "last_run": "2026-10-07T17:30:22.764744+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
