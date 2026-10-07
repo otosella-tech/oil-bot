@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "dbf3df8e2664d3ac",
-  "cagaspricesdipafterrecordsettingmonthismorereliefontheway",
-  "b3ecd69641bc9ba9",
-  "oilisflowingfromhormuzagainjustnotthekindtheworldneedsmost",
   "5fc54f1f5ddd041f",
   "oilpricesedgelowerasmarketsweigharamcopricecutsmeastsupplies",
   "4f6c4b7a84ee3b94",
@@ -603,7 +599,11 @@
   "07f13111d862c8dd",
   "3oilstocksretailinvestorsarewatchingascrudepricestest100",
   "25d270c93fd574d6",
-  "milanstockexchangelowerwitheuropeascrudeoilandbondyieldsrise"
+  "milanstockexchangelowerwitheuropeascrudeoilandbondyieldsrise",
+  "1cd20343bd3a41f9",
+  "howmuchgulfproductionwillisaisknockout",
+  "02fa93fe23ef3f5f",
+  "cananieaoilreservereleasecontaintheglobaldieselpriceshock"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -615,7 +615,7 @@
   "date": "2026-10-07",
   "count": 53
  },
- "last_run": "2026-10-07T12:45:18.887236+03:00",
+ "last_run": "2026-10-07T12:50:19.179887+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
