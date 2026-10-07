@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "26986dc01d9c74c7",
-  "goldoutlookinflationoilandyieldskeepdownsideriskselevated",
-  "b00d84b9b2f5c407",
-  "oilpricesswingoverconcernsaboutglobalmarket",
   "49b29bbdc2ee114f",
   "freeportlngrampsupgasintakeaftertrain2shutdown",
   "cda9ad4916e782cb",
@@ -603,7 +599,11 @@
   "4b75a3ac4be63c87",
   "oilpricesslideabout2asusiranexplorepathoutofwar",
   "31bfd05c99f92ed2",
-  "oilrisesandstocksfallashormuzworriesflare"
+  "oilrisesandstocksfallashormuzworriesflare",
+  "2bcf70afa8bb2b2e",
+  "oilrisesasconcernsoverhouthiattacksonsaudiarabiaeclipsesuppl",
+  "e94bbba799644aca",
+  "ukraineclaimsitsstrikeshavetakenoutmorethanhalfofrussiasoilr"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-07",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-10-07T07:15:17.280693+03:00",
+ "last_run": "2026-10-07T07:20:18.518104+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1204,6 +1204,14 @@
   {
    "d": "2026-10-07",
    "t": "Oil rises and stocks fall as Hormuz worries flare - Yahoo Finance Singapore"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery - CNBC"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Ukraine claims its strikes have taken out more than half of Russia's oil refining capacity - PBS"
   }
  ]
 }
