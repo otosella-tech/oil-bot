@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "fd7f6d968319f185",
-  "oilpricesfallasmiddleeastexportsrecovershippingriskspersist",
   "4a5cbaea584dc1d1",
   "asiansharesmostlyadvanceafterwallstreetgainsandoilpricesfall",
   "261c99642d163aad",
@@ -603,7 +601,9 @@
   "0dcf2e4b4af75c89",
   "ieadiscussesg7s100million",
   "3ce32123ce559e1b",
-  "marketwrapoilrisesagainfrenchfiscalconcernsweighoneuro071020"
+  "marketwrapoilrisesagainfrenchfiscalconcernsweighoneuro071020",
+  "415bbb9127b788fe",
+  "ieadiscussesg7s100millionbarreloilanddieselrelease"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -615,7 +615,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T16:35:15.524574+03:00",
+ "last_run": "2026-10-07T16:40:18.497822+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
