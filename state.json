@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "b306878549b4dfd4",
-  "emergencyalarmteststosoundatoilrefinery",
   "6902b07120630a47",
   "wherekazakhstansoilgoeskeyexportmarketsandvolumes",
   "49298e2089f1d27d",
@@ -603,7 +601,9 @@
   "94435b729bf3e98d",
   "oilclimbsonusstormthreatsaudiattackrisks",
   "1f228677cb7dafa4",
-  "goldmanseestightoilrefiningmarketetfareaslikelytogain"
+  "goldmanseestightoilrefiningmarketetfareaslikelytogain",
+  "218b70e565585a9f",
+  "iranlawmakernamedinallegedillegaltreasureexcavation"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -615,7 +615,7 @@
   "date": "2026-10-07",
   "count": 59
  },
- "last_run": "2026-10-07T14:35:15.367772+03:00",
+ "last_run": "2026-10-07T14:40:18.407794+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
