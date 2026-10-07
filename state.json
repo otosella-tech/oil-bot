@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "70661b0906fd6355",
-  "oilslipsasmideastexportsg7stockpileeasesupplyconcerns",
-  "7dc739920e529b05",
-  "opposingforceskeepoilpricesinnarrowrange",
   "71e71012ed67ecda",
   "canadaofficialsseektomovemoreoiltothepacificaspartoftradediv",
   "2f2a2a565e3f972d",
@@ -603,7 +599,11 @@
   "c7e222d04aa2da17",
   "usfuturesslipasbondselloffextendsoilpricesrise",
   "8cb3343e0b5e0eaf",
-  "chevronrestructuresbakkenmidstreamagreementstransfershessmid"
+  "chevronrestructuresbakkenmidstreamagreementstransfershessmid",
+  "8e099ecb20722a23",
+  "currentpriceofoilasofoct72026",
+  "2e45f0bea98aed36",
+  "tropicalstormisaiaschurnsingulfasoilrigsprepareforpotentiall"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -615,7 +615,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T15:50:20.770871+03:00",
+ "last_run": "2026-10-07T15:55:14.995419+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
