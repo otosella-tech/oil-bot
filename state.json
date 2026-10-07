@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "6c75cb4f4f0ae6a8",
-  "oilslidesonsaudipricecut",
   "03c587263b07715e",
   "crudeoilwtitests50fibat8876amiddowntrendlive",
   "f42bdc41f8335613",
@@ -603,7 +601,9 @@
   "d222505aba585398",
   "iransoffshoreoilstockpilenearsexhaustionasblockadechokesnews",
   "e7f812b86605b7a9",
-  "currentpriceofoilasofoct22026"
+  "currentpriceofoilasofoct22026",
+  "8d11626573bbfae8",
+  "chevrontoexithessmidstreamandreceive200millionincash"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -615,7 +615,7 @@
   "date": "2026-10-07",
   "count": 43
  },
- "last_run": "2026-10-07T10:20:19.922106+03:00",
+ "last_run": "2026-10-07T10:25:13.725794+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
