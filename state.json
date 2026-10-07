@@ -4,14 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "163ae5abab3f6a9b",
-  "oilfallsasmiddleeastcrudeexportsriseg7toreleasestocks",
-  "05d90b4f803f9981",
-  "oilpricesfallasg7planscrudedieselreleasebuthormuzshippingris",
-  "bc8c08381abe73ee",
-  "crudeoilexportsfromstraitofhormuzlargelyreturntoprewarlevels",
-  "9e482df4295811fb",
-  "goldflatasoilfearsfadebutyieldsanddollarcaptheupside",
   "d801fc235a7bd268",
   "keypointsfromthesupremecourtinthecaseagainsttheoilcompaniesw",
   "2fde05434ad77475",
@@ -603,7 +595,15 @@
   "7f9dc717efd6f861",
   "pacificcoastenergystartsworktorevivevenezuelaoilfields",
   "44722b2e0f4ac499",
-  "mediareportsvolgogradoilrefineryhaltsoperationsfollowingdron"
+  "mediareportsvolgogradoilrefineryhaltsoperationsfollowingdron",
+  "3b9b827797892451",
+  "crudeoilpricesedgehigher",
+  "5e868bc9561698e2",
+  "eiacushingcrudeoilstockschangeoct020444mprev0553m",
+  "2d8c5ca0b826d8f6",
+  "useiacrudeoilimportschangeoct020053mprev0468m",
+  "a3b6e11fd609a25d",
+  "useiacrudeoilstockschangeoct023186mvsexp17mprev0922msprfell0"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T18:20:19.334085+03:00",
+ "last_run": "2026-10-07T18:25:20.039988+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
