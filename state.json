@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "317271d7593db19e",
-  "usstocksedgetowardtheirrecordsafteroilpriceseaseabitunion",
   "7bd67fbb4569c510",
   "indianstatefirmbpclreadies3billionbondtofundbraziloilproject",
   "b1ece40012e1992c",
@@ -603,7 +601,9 @@
   "3765ed49bf68e8e8",
   "oilslipsonrisingmideastcrudeexportsg7stocksrelease",
   "9f21262ee8f7d5ed",
-  "crudeoilpricesfallondollarstrengthandsaudipricecuts"
+  "crudeoilpricesfallondollarstrengthandsaudipricecuts",
+  "034a8ec9d909245f",
+  "middleeastcrudeoilexportsexceedprewarlevelsbuttankerattacksi"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-07",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-10-07T09:10:18.533213+03:00",
+ "last_run": "2026-10-07T09:15:18.170575+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1236,6 +1236,10 @@
   {
    "d": "2026-10-07",
    "t": "Oil prices rise as storms and air strikes threaten supply By Reuters - Investing.com"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Middle East crude oil exports exceed pre-war levels but tanker attacks increase - The Times of Israel"
   }
  ]
 }
