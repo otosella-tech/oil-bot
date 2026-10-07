@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "67f40c06b883ef55",
-  "stocksclimbasoilpricesretreat",
   "e176e7b5fa80a8f3",
   "koreaavertsfearednovemberoilcrunch",
   "71da8c0814886675",
@@ -603,7 +601,9 @@
   "962e67f42a787181",
   "oilpricessettledownasieaagreestoaccelerateoilstockrelease",
   "47b150a4306166bc",
-  "hormuzshipattackssurgeareincreasedoilexportssustainable"
+  "hormuzshipattackssurgeareincreasedoilexportssustainable",
+  "62f4a6f3b3c14383",
+  "iraqproposesoilpriceassumptionof58perbarrelindraftbudget"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T22:40:18.274644+03:00",
+ "last_run": "2026-10-07T22:45:16.973622+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1379,6 +1379,10 @@
   {
    "d": "2026-10-07",
    "t": "Hormuz ship attacks surge: Are increased oil exports sustainable? - Al Jazeera"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Iraq proposes oil price assumption of $58 per barrel in draft budget - Reuters"
   }
  ]
 }
