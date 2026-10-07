@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "7bd67fbb4569c510",
-  "indianstatefirmbpclreadies3billionbondtofundbraziloilproject",
   "b1ece40012e1992c",
   "trumpsayshighgaspricesareduetoclosedusrefineriesblownuprussi",
   "2b940be441f3a313",
@@ -603,7 +601,9 @@
   "9f21262ee8f7d5ed",
   "crudeoilpricesfallondollarstrengthandsaudipricecuts",
   "034a8ec9d909245f",
-  "middleeastcrudeoilexportsexceedprewarlevelsbuttankerattacksi"
+  "middleeastcrudeoilexportsexceedprewarlevelsbuttankerattacksi",
+  "645be8011e885645",
+  "chevronshellandbppullworkersfromthegulfaheadofhurricane"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-07",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-10-07T09:25:16.095251+03:00",
+ "last_run": "2026-10-07T09:30:58.727156+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1240,6 +1240,10 @@
   {
    "d": "2026-10-07",
    "t": "Middle East crude oil exports exceed pre-war levels but tanker attacks increase - The Times of Israel"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane"
   }
  ]
 }
