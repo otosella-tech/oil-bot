@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "87ddc78c80346969",
-  "usequitymarketsendhigherascrudeoilpricesdrop",
   "e7f812b86605b7a9",
   "currentpriceofoilasofoct22026",
   "e62b8b6052fa9ae4",
@@ -603,7 +601,9 @@
   "a89b3e17dfee8514",
   "iransecuritychiefslamsscottbessentamidoilvolatilityunitedsta",
   "590d72c44aaeb4be",
-  "hessmidstreamchevronexits200m"
+  "hessmidstreamchevronexits200m",
+  "0a729a2082c6bd15",
+  "rapeseedoilinsteadofcrudeoilverbiostartsindustrialproduction"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -615,7 +615,7 @@
   "date": "2026-10-07",
   "count": 43
  },
- "last_run": "2026-10-07T10:05:16.210702+03:00",
+ "last_run": "2026-10-07T10:10:36.851349+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
