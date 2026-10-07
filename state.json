@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "cdd908af6cf65506",
-  "10americannationsissuejointstatementcondemningiranianterrori",
   "718572086484be03",
   "twelveinjuredinattackonoiltankerpassingthroughhormuzstrait",
   "e072264eb240065d",
@@ -603,7 +601,9 @@
   "73788ba5429783c7",
   "chinasturntoiraqicrudeshowsgrowingimpactofiranoilblockade",
   "5954531178529a07",
-  "ieatoaccelerateoilreservereleasesays100millionbarrelsstillto"
+  "ieatoaccelerateoilreservereleasesays100millionbarrelsstillto",
+  "b3ecd69641bc9ba9",
+  "oilisflowingfromhormuzagainjustnotthekindtheworldneedsmost"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T20:20:19.279363+03:00",
+ "last_run": "2026-10-07T20:25:15.831758+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1359,6 +1359,10 @@
   {
    "d": "2026-10-07",
    "t": "China's turn to Iraqi crude shows growing impact of Iran oil blockade - Iran International"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most - WSJ"
   }
  ]
 }
