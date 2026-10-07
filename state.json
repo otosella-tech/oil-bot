@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "47d6796eb0176884",
-  "gulfoilexportsrecoverto81ofpre",
   "97924bee707e70cd",
   "oilpriceforecastrisingmiddleeastexportslimittherebound",
   "dccaf341a534fe61",
@@ -603,7 +601,9 @@
   "7ef295cadb74895e",
   "oilpricesincreaseonrenewedattacksinmiddleeast",
   "5d9b36afabd152ac",
-  "yourwednesdayoct7guidefivethingstodointheoilcity"
+  "yourwednesdayoct7guidefivethingstodointheoilcity",
+  "aeda1a0cb346be35",
+  "syriasettoemergeashormuzbypassoptionforiraqscrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -615,7 +615,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T16:15:19.734049+03:00",
+ "last_run": "2026-10-07T16:20:19.263764+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-10-07",
    "t": "Ukrainian strikes damage 14 oil storage tanks in Russia's Samara region – General Staff - Ukrinform"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Syria Set to Emerge as Hormuz-Bypass Option for Iraq’s Crude Oil - Bloomberg.com"
   }
  ]
 }
