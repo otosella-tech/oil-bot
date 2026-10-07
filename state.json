@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "5991e96c0adc1a80",
-  "dowjonestopenergyheadlinesat7ametoilpricesfallasmiddleeastex",
   "5341b03a78eb546d",
   "crudeoilcutslossesastraderseyeg7fuelrelease",
   "d0abc642281314ae",
@@ -603,7 +601,9 @@
   "1465b9b222eeaa0e",
   "crudeoileasesto1monthlow",
   "401f8a3f53a7d138",
-  "apollojoins115billionraceforgermangasgiantuniper"
+  "apollojoins115billionraceforgermangasgiantuniper",
+  "c4c0933a5359a8ea",
+  "crudeoilforecastbrentabove100intensifiesinflationworries"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T20:50:18.610376+03:00",
+ "last_run": "2026-10-07T20:55:17.563509+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
