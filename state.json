@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "e8a601e949014fce",
-  "usstocksrisetowardanalltimehighafteroilpriceseasepittsburghp",
-  "babf385e57846cc7",
-  "saudieast",
   "e3f4368f438a240a",
   "middleeastcrudeoilexportsbackatprewarlevelsanalystssay",
   "5bce420a3896b747",
@@ -603,7 +599,11 @@
   "7e47333b4bfc9942",
   "oilpricevolatilitytopslistofearningsrisksforjapanfirmsreuter",
   "6834e1bfc93efd88",
-  "whatindependencecouldmeanforoilrichalbertaseconomy"
+  "whatindependencecouldmeanforoilrichalbertaseconomy",
+  "c48e894afbb1a12c",
+  "currentpriceofoilasofoctober52026",
+  "054cee07e67754ed",
+  "useiahikesoilpriceforecastsagainasiranwardrainsglobalstockpi"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-08",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-10-08T02:25:13.801900+03:00",
+ "last_run": "2026-10-08T02:30:24.228280+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1315,6 +1315,10 @@
   {
    "d": "2026-10-08",
    "t": "Iran War Pushes 25 Countries Into New Electrification Policies"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "US EIA hikes oil price forecasts again as Iran war drains global stockpile - Reuters"
   }
  ]
 }
