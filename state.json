@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "2d69aeb95d706840",
-  "saudiaramcosceomaybetoodownbeatabouttheroadtorestockinggloba",
   "15d5188aa14245ab",
   "oilpricesfallasmiddleeastcrudeexportsriseg7toreleasestocks",
   "60a7c8bb3806d2c2",
@@ -603,7 +601,9 @@
   "6c200cf2286d329f",
   "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
   "9a5f69f8843879f2",
-  "oilpricestodaybrentcrudeabove101hereswhypricesarerising"
+  "oilpricestodaybrentcrudeabove101hereswhypricesarerising",
+  "52e99cceab73f5e6",
+  "santabarbaraenvironmentalistscelebratenewsomssigningofoneofs"
  ],
  "releases_done": {
   "2026-10-06|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 14
  },
- "last_run": "2026-10-07T05:05:15.303698+03:00",
+ "last_run": "2026-10-07T05:10:17.886215+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
