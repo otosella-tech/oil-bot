@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "eb1c6d18feb72b4a",
-  "commentarytrumpsdealforvenezuelasoilissecretiveexaggeratedan",
-  "dbf1e98c634db0ed",
-  "ustradedeficitwidensto1056billiononoilcapitalgoods",
   "7050370072fdc212",
   "eurotrimssomelossesasthedeclineinoilpricesoffsetsweakeurozon",
   "b8883cb3597abaae",
@@ -603,7 +599,11 @@
   "e4448144bf4ec827",
   "iraqdevalueditscurrencytostretchshrinkingoilrevenuesastheira",
   "d1535dda6a6a5c37",
-  "ieamembersbackfasterreleaseof100millionbarrelsofoilstocks"
+  "ieamembersbackfasterreleaseof100millionbarrelsofoilstocks",
+  "bd49b22dd68d4780",
+  "spacexseeksapprovalfor32",
+  "14ffe608dac14470",
+  "qatarbringsemptylngshipsintogulf"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T19:25:15.638557+03:00",
+ "last_run": "2026-10-07T19:30:24.547916+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1339,6 +1339,10 @@
   {
    "d": "2026-10-07",
    "t": "Iraq devalued its currency to stretch shrinking oil revenues as the Iran war disrupts exports - Fortune"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "SpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline"
   }
  ]
 }
