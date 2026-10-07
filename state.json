@@ -4,12 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "9ac93bd4246d1fa3",
-  "eurusdusdjpyflowscrudeoilflowspickupbutusdwa",
-  "22ddbc04cc7c4dd8",
-  "currentpriceofoilasofoct12026",
-  "a0d9ae5e12302e8e",
-  "crudeoilpriceforecastisbrents100floorabouttocrackorholdagain",
   "cb799f430d33274b",
   "atleast50iraniantankersarestuckinthegulfasusblockadeholds",
   "f382d5907c73b261",
@@ -603,7 +597,13 @@
   "acdbddd6047ff59b",
   "oilpricesreverseatpeakwhatthismeansforgold",
   "c8c3492b97f0146d",
-  "iraqlookstosyrianrouteforcrudeexportstobypasshormuzreport"
+  "iraqlookstosyrianrouteforcrudeexportstobypasshormuzreport",
+  "fd82bb9d9fdaea35",
+  "rubiowarnsrussiaandchinaarealreadymovinginthearctic",
+  "637c8d9e9dab4521",
+  "oilpricesclimbabove100onstraitofhormuzattacksgulfstormthreat",
+  "2147e4c1f8a18052",
+  "homeheatingoilcostsrising21thiswintereiasays"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T16:55:15.637127+03:00",
+ "last_run": "2026-10-07T17:00:29.836456+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1294,6 +1294,14 @@
   {
    "d": "2026-10-07",
    "t": "Iraq looks to Syrian route for crude exports to bypass Hormuz: Report - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Rubio Warns Russia and China Are Already Moving in the Arctic"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Oil prices climb above $100 on Strait of Hormuz attacks, Gulf storm threat - Yahoo Finance"
   }
  ]
 }
