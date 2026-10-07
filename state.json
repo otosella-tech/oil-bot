@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "05a372ca478d364f",
-  "trumpbackediranintoacornertheregimeisntblinking",
-  "1ed095e68eede69c",
-  "crudeoilsupplytoluandarefinerythehighestin12months",
   "af879917fd5877fb",
   "oilfuturescrudeeasesafterg7releaseincreaseinhormuztraffic",
   "61cae95159a2b3a3",
@@ -603,7 +599,11 @@
   "3cd206e10210529d",
   "norwayplanstotap637billionfromitsoilfundin2027",
   "a66cf22800be2bd9",
-  "oilisflowingagainbutgasolinedieselpricesarentcooperating"
+  "oilisflowingagainbutgasolinedieselpricesarentcooperating",
+  "5964bc1723dcbc96",
+  "shellrefiningmarginsreachrecordhighsaswarshitsupply",
+  "51f1149dad3c59ba",
+  "ukrainianstrikesdamage14oilstoragetanksinrussiassamararegion"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-07",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-10-07T15:35:13.896713+03:00",
+ "last_run": "2026-10-07T15:40:18.690853+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-10-07",
    "t": "Oil Climbs On US Storm Threat, Saudi Attack Risks - Marine Link"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Ukrainian strikes damage 14 oil storage tanks in Russia's Samara region – General Staff - Ukrinform"
   }
  ]
 }
