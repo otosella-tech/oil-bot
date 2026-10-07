@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "49b29bbdc2ee114f",
-  "freeportlngrampsupgasintakeaftertrain2shutdown",
   "cda9ad4916e782cb",
   "novemberwticrudeoilcontractlastseendown116or13to8995perbarre",
   "7a9ae2095faa5228",
@@ -603,7 +601,9 @@
   "2bcf70afa8bb2b2e",
   "oilrisesasconcernsoverhouthiattacksonsaudiarabiaeclipsesuppl",
   "e94bbba799644aca",
-  "ukraineclaimsitsstrikeshavetakenoutmorethanhalfofrussiasoilr"
+  "ukraineclaimsitsstrikeshavetakenoutmorethanhalfofrussiasoilr",
+  "735d83b6cedbde67",
+  "whatcomesnextwiththeenergyshock"
  ],
  "releases_done": {},
  "last_digest": "2026-10-06",
@@ -615,7 +615,7 @@
   "date": "2026-10-07",
   "count": 22
  },
- "last_run": "2026-10-07T07:25:15.366532+03:00",
+ "last_run": "2026-10-07T07:30:21.467281+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
