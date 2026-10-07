@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "9f21262ee8f7d5ed",
-  "crudeoilpricesfallondollarstrengthandsaudipricecuts",
   "78cd24709d16fc66",
   "dowjonesforecastdjiafallswithoilandtreasuryyieldsinfocus",
   "317271d7593db19e",
@@ -603,7 +601,9 @@
   "420ebddd014eff42",
   "asiasharesweakeroilupasinvestorsweighsaudihouthiescalation",
   "6bed7a3432b3acd5",
-  "oilpricesriseasstormsandairstrikesthreatensupplybyreuters"
+  "oilpricesriseasstormsandairstrikesthreatensupplybyreuters",
+  "3765ed49bf68e8e8",
+  "oilslipsonrisingmideastcrudeexportsg7stocksrelease"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -615,7 +615,7 @@
   "date": "2026-10-07",
   "count": 38
  },
- "last_run": "2026-10-07T09:00:28.381390+03:00",
+ "last_run": "2026-10-07T09:05:15.055048+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
