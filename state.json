@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "03c587263b07715e",
-  "crudeoilwtitests50fibat8876amiddowntrendlive",
-  "f42bdc41f8335613",
-  "aramcoceosaysoilsupplybufferisscarilythin",
   "61be0725c1e47224",
   "singaporeeyesnuclearpowerasiranwarexposesitsimportproblem",
   "de37daa21e1276db",
@@ -603,7 +599,11 @@
   "e7f812b86605b7a9",
   "currentpriceofoilasofoct22026",
   "8d11626573bbfae8",
-  "chevrontoexithessmidstreamandreceive200millionincash"
+  "chevrontoexithessmidstreamandreceive200millionincash",
+  "0a6293c68eef714f",
+  "straitofhormuztankershuttlespreventing200perbarrelscenariovi",
+  "69c97d979848b72d",
+  "oilpricesrisebrentcrudetops101amidsupplyconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-07",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-10-07T10:25:13.725794+03:00",
+ "last_run": "2026-10-07T10:30:22.887996+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1244,6 +1244,10 @@
   {
    "d": "2026-10-07",
    "t": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Strait of Hormuz tanker shuttles preventing $200 per barrel scenario, Vitol boss says - TradeWinds News"
   }
  ]
 }
