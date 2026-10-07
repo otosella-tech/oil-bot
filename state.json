@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "97924bee707e70cd",
-  "oilpriceforecastrisingmiddleeastexportslimittherebound",
   "dccaf341a534fe61",
   "globaloilinventoriesarealarminglylowaramcowarns",
   "628d760e2ffa4d27",
@@ -603,7 +601,9 @@
   "5d9b36afabd152ac",
   "yourwednesdayoct7guidefivethingstodointheoilcity",
   "aeda1a0cb346be35",
-  "syriasettoemergeashormuzbypassoptionforiraqscrudeoil"
+  "syriasettoemergeashormuzbypassoptionforiraqscrudeoil",
+  "12327703f60a795a",
+  "rubiostatesthattheiranianregimehaslostcompletecontrolofthest"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -615,7 +615,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T16:20:19.263764+03:00",
+ "last_run": "2026-10-07T16:25:16.920997+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1284,6 +1284,10 @@
   {
    "d": "2026-10-07",
    "t": "Syria Set to Emerge as Hormuz-Bypass Option for Iraq’s Crude Oil - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "Rubio states that the Iranian regime has 'lost complete control' of the Strait of Hormuz as the flow of oil returns to normal - voz.us"
   }
  ]
 }
