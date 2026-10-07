@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "eecf3fb8cd1ac28a",
-  "gaspricesdowninnatronacountyamidfallingstatenationalaverages",
   "deb1dac4b6e135a3",
   "ussupremecourthearsbigoilsbidtoblockclimatedamagelawsuits",
   "dfe05c37604ee5d1",
@@ -603,7 +601,9 @@
   "5faa26c868c1c39f",
   "asiasharesweakeroilupinvestorsweighsaudihouthiescalation",
   "558d820b97bc97ab",
-  "wticrudeoilpricesweakenwillfedminutesdeepenthedecline"
+  "wticrudeoilpricesweakenwillfedminutesdeepenthedecline",
+  "e85fbef4dcf04e46",
+  "g7s100mbarreldieselstocksreleaselooksmostlypricedinanalystsa"
  ],
  "releases_done": {
   "2026-10-06|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 16
  },
- "last_run": "2026-10-07T05:50:18.917081+03:00",
+ "last_run": "2026-10-07T05:55:13.618259+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
