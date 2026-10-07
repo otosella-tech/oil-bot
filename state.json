@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "2b4a65a817860ce5",
-  "currentpriceofoilasofsept292026",
   "d127674c38d9e309",
   "ademmonitoringcleanupafterspringvillederailmentriverkeeperwa",
   "74f3ba24f31e0094",
@@ -603,7 +601,9 @@
   "f33d04a5c6c97da8",
   "europeansharesslipafterthreedaygainasriseinoilyieldsweigh",
   "97a25ce6c509a83b",
-  "europeanstocksslipashouthithreatliftoilaheadoffomcminutes"
+  "europeanstocksslipashouthithreatliftoilaheadoffomcminutes",
+  "bc02d22e6e9ca244",
+  "australiashighcourtblocksmajorcoalmineexpansionoveremissions"
  ],
  "releases_done": {},
  "last_digest": "2026-10-07",
@@ -615,7 +615,7 @@
   "date": "2026-10-07",
   "count": 45
  },
- "last_run": "2026-10-07T10:55:14.759612+03:00",
+ "last_run": "2026-10-07T11:00:34.728505+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
