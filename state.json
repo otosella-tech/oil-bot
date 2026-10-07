@@ -4,12 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "3399467f6626a69b",
-  "yourtuesdayoct6guidefivethingstodointheoilcity",
-  "62f4a6f3b3c14383",
-  "iraqproposesoilpriceassumptionof58perbarrelindraftbudget",
-  "66d9b3a188b7c3dd",
-  "vonderleyentakesoneuropesrefineriesamidenergycrunch",
   "62dc0a0eae4bd5c0",
   "ieatodecidedetailsofg7dieselandoilstocksreleaseonoctober1415",
   "cdd908af6cf65506",
@@ -603,7 +597,13 @@
   "34a21d3b31cb3096",
   "usoiltradertakes2bngambleontankersascarrierssteerclearofhorm",
   "b8883cb3597abaae",
-  "reboundingoilexportsthroughstraitofhormuzarevulnerabletostep"
+  "reboundingoilexportsthroughstraitofhormuzarevulnerabletostep",
+  "96d425d8560ec8ec",
+  "datacentersarenowbankrollingfinlandsnewpowersupply",
+  "7744a9a5b179c4d5",
+  "oilisflowingagainbutgasolineanddieselpricesarentcooperating",
+  "73788ba5429783c7",
+  "chinasturntoiraqicrudeshowsgrowingimpactofiranoilblockade"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-07",
   "count": 60
  },
- "last_run": "2026-10-07T19:50:23.612290+03:00",
+ "last_run": "2026-10-07T20:05:15.798846+03:00",
  "sent_stories": [
   {
    "d": "2026-10-04",
@@ -1355,6 +1355,10 @@
   {
    "d": "2026-10-07",
    "t": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks - CNBC"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "China's turn to Iraqi crude shows growing impact of Iran oil blockade - Iran International"
   }
  ]
 }
