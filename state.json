@@ -4,8 +4,6 @@
   "Brent": 102.75
  },
  "seen": [
-  "a9f18532ad1a7057",
-  "notjusttruckershowrisingdieselpricesareimpactingeverydaycons",
   "d62d81aea9e3b725",
   "oilpricesriseasstormsandairstrikesthreatensupply",
   "113c7c332195488f",
@@ -603,7 +601,9 @@
   "c18adeeb43bb9ad6",
   "transcriptoilcompaniesarefullspeedaheadinthemiddleeast",
   "bcc3a50f894319e3",
-  "why100oilishardtokill"
+  "why100oilishardtokill",
+  "a39e76919068e5a9",
+  "eiareportsdecreaseinuscrudeoilstocks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 49
  },
- "last_run": "2026-10-08T10:45:17.490118+03:00",
+ "last_run": "2026-10-08T10:50:17.763693+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
