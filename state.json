@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "080b01232e16bc06",
-  "isthepermianrunningoutofgoodrockitdependsonwhereyoulookpaisi",
   "a1688924663ba72e",
   "tropicalstormisaiasisforecasttostriketheusgulfcoastasahurric",
   "6a9b9475c3441ea1",
@@ -603,7 +601,9 @@
   "0333fb8b7e871cc8",
   "higheroilpricescoulddelayratecutshereswhereidput10000",
   "01a0891a502fb47d",
-  "usstocksclosemostlyloweronspikeinoilpricesopenairevenueconce"
+  "usstocksclosemostlyloweronspikeinoilpricesopenairevenueconce",
+  "08dc89c00751f91d",
+  "treasurysanctions17tankerslinkedtoiransshadowfleetineconomic"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T23:45:19.072700+03:00",
+ "last_run": "2026-10-08T23:50:18.734429+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1712,6 +1712,10 @@
   {
    "d": "2026-10-08",
    "t": "Kinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign - CNBC"
   }
  ]
 }
