@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "a1688924663ba72e",
-  "tropicalstormisaiasisforecasttostriketheusgulfcoastasahurric",
-  "6a9b9475c3441ea1",
-  "portofcorpuschristilookstoexpandcrudeoilexports",
   "bd7f8cd2ace7cffa",
   "whoisgoingtopayforalaskalng",
   "e8d583551f6ee581",
@@ -603,7 +599,11 @@
   "01a0891a502fb47d",
   "usstocksclosemostlyloweronspikeinoilpricesopenairevenueconce",
   "08dc89c00751f91d",
-  "treasurysanctions17tankerslinkedtoiransshadowfleetineconomic"
+  "treasurysanctions17tankerslinkedtoiransshadowfleetineconomic",
+  "11e130e8370bab5a",
+  "iranwarenergyshockputshydrogenbackonthetable",
+  "68dcbf91e1906197",
+  "usbondsrallyafter30yearauctionfindssoliddemand"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -612,271 +612,11 @@
   "Brent": 102.33
  },
  "llm": {
-  "date": "2026-10-08",
-  "count": 60
+  "date": "2026-10-09",
+  "count": 2
  },
- "last_run": "2026-10-08T23:55:16.209906+03:00",
+ "last_run": "2026-10-09T00:00:29.140130+03:00",
  "sent_stories": [
-  {
-   "d": "2026-10-05",
-   "t": "G7 Agrees to Release 100 Million Barrels of Oil and Diesel as Fuel Prices Surge - NBC Palm Springs"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "OPEC+ Decides To Keep Its Oil Supply Frozen in November - telesurenglish.net"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Oil Was Pouring Out of Hormuz Again. Then Attacks on Ships Resurged. - WSJ"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Saudi Arabia unexpectedly cuts oil prices to Asia - reuters.com"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar - The New York Times"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Iran loaded zero crude oil onto tankers in September: US - Shipping Telegraph"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites - Reuters"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Middle East crude oil exports rise above pre-war levels but tanker attacks increase - Mitrade"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Iraq says it transported 2 million barrels of crude through Strait of Hormuz - Reuters"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Saudis Cut Flagship Oil Price to Asia to Lowest in Six Years - Yahoo Finance UK"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows - Reuters"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Iran says Strait of Hormuz will stay closed until U.S. meets 7 conditions - Seeking Alpha"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Iraq seeks to buy crude oil tankers to handle shipments beyond Strait of Hormuz: INA - S&P Global"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Live - Iran warns of stronger military response as maritime tensions rise - Iran International"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Oil Prices Fall as Hormuz Crude Flows Top Pre-War Levels"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks - dw.com"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Oil Prices Fall as Reports Say Hormuz Crude Flows Top Pre-War Levels"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Oil Prices Fall as Hormuz Crude Flows Top Pre-War Levels - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Middle East Crude Exports Recover, Surpass Pre-War Levels Amid Iran Blockade - 조선일보"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist - WSJ"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Crude oil exports from strait of Hormuz largely return to pre-war levels - The Guardian"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’ - Financial Times"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Iraq ships 2 million barrels of crude oil through Strait of Hormuz - 巴士的報"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "US oil inventories rise but fuel tightness and OPEC+ discipline keep prices supported. - Pluang"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Middle East oil exports top pre-war levels in September, but tanker attacks increase - AOL.com"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Aramco CEO Warns Oil Inventories Could Take Two Years to Rebuild After Hormuz Reopens - uk.finance.yahoo.com"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Aramco CEO Says Global Oil Inventories Remain Low Amid Hormuz Supply Risks - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "US to loan up to 40 million barrels of oil from SPR, last batch from global deal - Reuters"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Gulf crude exports return to pre-war levels, excluding Iran - Euronews.com"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Aramco chief warns oil stockpiles are thin after conflict - Investing.com"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Crude oil tanker struck by unknown projectile off Oman, UKMTO says - Reuters"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Middle East oil exports return to pre-war levels, excluding Iran - Yahoo Finance Singapore"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "West Asian crude oil exports exceed pre-war levels but tanker attacks increase - thehindu.com"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Hormuz LNG Flows Still Down More Than 75% Despite Rebound"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Middle East oil exports top pre-war levels, but tanker attacks increase - Daily Sabah"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Russia's oil earnings fall despite price jump as output drops, rouble rises - reuters.com"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Saudi Arabia’s East-West oil pipeline operating normally: Report - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "South Korea Plans to Triple Canadian Crude Imports as Saudi Share Slips"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Iran’s Oil Minister Resigns as Exports Dry Up Under US Pressure - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Middle East Crude Oil Exports Back at Prewar Levels, Analysts Say - WSJ"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Houthis Claim Strike on Aramco Facility in Riyadh as Yemen Fighting Escalates"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Ukraine said strikes disabled 51% of Russia’s oil refining capacity. Putin said they cost 1% of GDP - Fortune"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Oil prices slide about 2% as US, Iran explore path out of war - reuters.com"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "7 oil exporters agree to keep production steady this November as Iran war disrupts global supplies - Fast Company"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Aramco CEO Warns Oil Inventories Are ‘Scarily Thin’"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "3 Tanker Stocks Investors Are Watching As Thin Oil Inventories Lift Shipping Rates - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Possible Fire Reported at Saudi Refinery as Attack Claims Circulate"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Middle East Oil Flows Surge Above Pre-Conflict Levels Even as Tanker Attacks Escalate: What’s Happening i - Benzinga"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "EU Electric Vehicle Sales Hit Record as Fuel Prices Surge"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Global crude oil stocks ‘scarily thin’, Saudi Aramco boss warns - The Times"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained - CNBC"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "COMMENTARY: ENERGY WATCH: Has Iran's Hormuz control slipped? - Reuters"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Ukraine claims its attacks have taken out more than half of Russia's oil refining capacity - ABC News - Breaking News, Latest News and Videos"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Is Iran charging a toll to allow oil traffic through Hormuz? - Al Jazeera"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Iraq Seeks More Tankers to Control Its Hormuz Oil Transits - Yahoo Finance UK"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Here’s How Trump’s Using The Graham Act To Trap Russia And Crush Iran"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Iran’s Oil Minister Resigns as U.S. Blockade Chokes Crude Exports"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies - MarketWatch"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Ukraine claims its strikes have taken out more than half of Russia's oil refining capacity - PBS"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Canada's Cenovus strike $4 billion deal to buy Athabasca Oil, expand production - Reuters"
-  },
-  {
-   "d": "2026-10-05",
-   "t": "Sailors reportedly offered $25K per trip to move oil out of the Persian Gulf amid strikes, drone attacks - New York Post"
-  },
   {
    "d": "2026-10-06",
    "t": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem"
@@ -1716,6 +1456,10 @@
   {
    "d": "2026-10-08",
    "t": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign - CNBC"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Iran War Energy Shock Puts Hydrogen Back on the Table"
   }
  ]
 }
