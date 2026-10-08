@@ -4,12 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "860a421c4fb78557",
-  "stocksfuturessteadyasbondselloffextendsoilpricesrise",
-  "90efe1556d34fdd9",
-  "angolachronicoilspillspoisoncoastandcommunities",
-  "67ae7ad65fdbbefe",
-  "oilstableashighermiddleeastexportsoffsetsupplythreats",
   "a1cd091d40b9661f",
   "uscrudeoilstockpilesjump",
   "e6641e8c9cdec88b",
@@ -603,7 +597,13 @@
   "13d047b927141df6",
   "crudeoilsoarsnear5",
   "5b9a94b2cd737ee6",
-  "oilrisesalmost4amidmiddleeasttensionsussupplyconcerns"
+  "oilrisesalmost4amidmiddleeasttensionsussupplyconcerns",
+  "c1e7ba7204bb7c94",
+  "brentgainsmorethan4onusirantensionshurricaneisaias",
+  "a49b8cb1a6585289",
+  "sizingupthepriceofoilhasneverbeenharder",
+  "ce08193288e55fdc",
+  "dowjonesfuturesfallasoilpricestreasuryyieldsjumpsamsungmicro"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T14:25:17.483747+03:00",
+ "last_run": "2026-10-08T14:30:25.296586+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1484,6 +1484,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil prices jump amid record tanker attacks in Hormuz - CNN"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Brent Gains More Than 4% on U.S.-Iran Tensions, Hurricane Isaias - WSJ"
   }
  ]
 }
