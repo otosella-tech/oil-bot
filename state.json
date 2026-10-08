@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "7e47333b4bfc9942",
-  "oilpricevolatilitytopslistofearningsrisksforjapanfirmsreuter",
-  "6834e1bfc93efd88",
-  "whatindependencecouldmeanforoilrichalbertaseconomy",
   "c48e894afbb1a12c",
   "currentpriceofoilasofoctober52026",
   "054cee07e67754ed",
@@ -603,7 +599,11 @@
   "c7e389b3ed244303",
   "oilgainsasiranreportedlyvowstokeephormuzcontrol",
   "f067144ee8abc07a",
-  "usstockmarketstradedmixedweigheddownbyrisingcrudeoilpricesan"
+  "usstockmarketstradedmixedweigheddownbyrisingcrudeoilpricesan",
+  "f4ce7cb8aa824fd1",
+  "hurricaneisaiascouldthreatentheusoilsupplygulfshutdownsaddpr",
+  "ad83c179b1e207ad",
+  "wticrudeoilpriceforecastbullishbreakouttargetsnewhighs"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 4
+  "count": 5
  },
- "last_run": "2026-10-09T00:15:17.452401+03:00",
+ "last_run": "2026-10-09T00:20:20.346443+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
