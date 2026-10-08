@@ -4,12 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "fb6ea4e8e70d95ba",
-  "narrowedjonesactexemptionslowsenergycargotrade",
-  "3c2a1cce837ae16c",
-  "eiaweeklyuscrudeoilinventories3186kvs1722kexpected",
-  "d0abc642281314ae",
-  "around14millionbarrelsperdayleavingmiddleeastvitolceosays",
   "381b6ada67cd6fc1",
   "oilpricesfallasieaagreestoaccelerateoilstockrelease",
   "7c2b9b0a1639dbfe",
@@ -603,7 +597,13 @@
   "8500789a890cbb1b",
   "nonewattackoniranbeforethemidtermelectionstrumpsays",
   "d0d8c6e329179526",
-  "justinbitcoinfallsbelow81000asbrentcrudeoilclimbstoamonthlyh"
+  "justinbitcoinfallsbelow81000asbrentcrudeoilclimbstoamonthlyh",
+  "91f368c2c56c3988",
+  "usimposesfreshsanctionsoniransshadowfleet",
+  "a6e2a2db16fdeaae",
+  "crudeoilcutslossesastraderseyeg7fuelrelease",
+  "154fbcb17ef0ea4e",
+  "crudeoileasesfromsessionhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T21:35:15.145104+03:00",
+ "last_run": "2026-10-08T21:40:18.643397+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1672,6 +1672,10 @@
   {
    "d": "2026-10-08",
    "t": "No new attack on Iran before the midterm elections, Trump says - The Washington Post"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "US imposes fresh sanctions on Iran's shadow fleet - Reuters"
   }
  ]
 }
