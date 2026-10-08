@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "564809fc03d3dd0f",
-  "middleeastoilexportstopprewarlevelsforpartofseptemberbuttank",
   "e39be5b4917b60f9",
   "loweroilboostsftse100butdefencestockslag",
   "1874cb60a4dde39f",
@@ -603,7 +601,9 @@
   "9b1af86db2a00b14",
   "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "145b1400e81831b3",
-  "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo"
+  "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo",
+  "850aba47d69aec37",
+  "crudeoillowerassaudiarabiaresumesredseaoilexports"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-08",
-  "count": 12
+  "count": 13
  },
- "last_run": "2026-10-08T03:30:25.359415+03:00",
+ "last_run": "2026-10-08T03:35:14.352080+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
