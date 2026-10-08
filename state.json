@@ -4,12 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "98280b169e17b123",
-  "oilpricesfallbackassupplyoptimismoutweighsconflictstormrisks",
-  "3926178342297e28",
-  "oilshippingcostsreachdizzyingnewhighsonhormuzsnarls",
-  "b17aaa70eee21421",
-  "eucountrieswillreleasefreshoilstocksonlyaftertopagencyassess",
   "facaf27c05627b15",
   "iranwarpushes25countriesintonewelectrificationpolicies",
   "41dd01fdeca0cdae",
@@ -603,7 +597,13 @@
   "847b258a1986e655",
   "oilpricesjump5pushingtreasuryyieldshigherandstockslowerasira",
   "7fc5e2ebe975a8d8",
-  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr"
+  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr",
+  "041b6a92b2709ee9",
+  "oilpricesfallasieamembersagreetoprioritizereleaseofdieselsto",
+  "08a74861564168cc",
+  "oilpricehits105ashurricaneisaiasthreatensusproducers",
+  "757cf2c661d5514e",
+  "ustroopsarepositionedandtheoilpriceknowsitsp500"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T23:00:27.939297+03:00",
+ "last_run": "2026-10-08T23:05:14.835304+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
