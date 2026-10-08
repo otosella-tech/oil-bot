@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "1982d8d5e6a31639",
-  "crudeinventoriesfallmorethanexpectedboostingoilprices",
   "214f0c3b737f8461",
   "iranstankerattackskeeppumppriceshighevenasgulfoilexportsrebo",
   "ad0c63dd4a14165b",
@@ -603,7 +601,9 @@
   "f47c84ff00714ff2",
   "oilslonggoodbyewhatitmeansforthegulf",
   "bf4e2cd5cbbb5ce1",
-  "fromjustintimetojustincaseoilexecutivessayworldneedsmoreexpo"
+  "fromjustintimetojustincaseoilexecutivessayworldneedsmoreexpo",
+  "3555f089bf5a8623",
+  "oiljumps2asiranstepsupattacksonhormuztankers"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-08",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-10-08T08:05:13.740936+03:00",
+ "last_run": "2026-10-08T08:10:19.124203+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil prices surge 2% on M.East shipping attacks, U.S. Gulf coast disruptions - Investing.com"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil Jumps 2% as Iran Steps Up Attacks on Hormuz Tankers"
   }
  ]
 }
