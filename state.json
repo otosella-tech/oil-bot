@@ -4,12 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "d18dd7a7ab3775b1",
-  "oilrisesasinvestorsmullsupplythreats",
-  "94435b729bf3e98d",
-  "oilclimbsonusstormthreatsaudiattackrisks",
-  "1f228677cb7dafa4",
-  "goldmanseestightoilrefiningmarketetfareaslikelytogain",
   "218b70e565585a9f",
   "iranlawmakernamedinallegedillegaltreasureexcavation",
   "0114b147ecf977a0",
@@ -603,7 +597,13 @@
   "3237c5f5b3e651a4",
   "globalbondyieldsfacepressureasbrentcrudeoilrisesabove100",
   "97d4cb50d478180a",
-  "hurricaneisaiasisexpectedtogetstrongeronitswaytothecoast"
+  "hurricaneisaiasisexpectedtogetstrongeronitswaytothecoast",
+  "7c41c59fd359100a",
+  "supertankerrateshitrecord14millionaday",
+  "a64447f70b67d4fb",
+  "oilisbackinclimateisoutatamarqueeenergyconference",
+  "b9934f673b35b6c3",
+  "oiledgeshigheroniranstrikeoptionsreportandstormimpact"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T16:25:15.123116+03:00",
+ "last_run": "2026-10-08T16:30:23.214987+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1520,6 +1520,14 @@
   {
    "d": "2026-10-08",
    "t": "A hurricane could cripple US refining when the world can least afford it - CNN"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Supertanker Rates Hit Record $1.4 Million a Day"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil Edges Higher on Iran Strike Options Report and Storm Impact - Bloomberg.com"
   }
  ]
 }
