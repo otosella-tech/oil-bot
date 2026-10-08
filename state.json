@@ -4,12 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "1f97fbe263a6cb8d",
-  "ustotalweeklyeiacrudeoilstocksfallby40millionbarrelsafterpri",
-  "a59b02e0efe81106",
-  "ieaeudiscussproposedoildieselstocksreleasesourcessay",
-  "2c1ec9e005596e20",
-  "useiacrudeoilinventories32mlnbarrelsinlatestweekfromprevious",
   "47598fc54dac75d6",
   "whyisthestockmarketdowntodaysurgingbondyieldsoilpricesandfed",
   "c3468ac8e0638768",
@@ -603,7 +597,13 @@
   "79d55cd095560228",
   "tankerattackspushdeeperintogulfrattleoilmarkets",
   "f1534c78d11d0a04",
-  "higheroilpricespulltheusstockmarketfurtherfromitsrecordpitts"
+  "higheroilpricespulltheusstockmarketfurtherfromitsrecordpitts",
+  "cf1733ef85c15bcc",
+  "crudeoiltankerstruckbyunknownprojectileinstraitofhormuzukmar",
+  "61847d62600fd2fd",
+  "crudeoiljumpsonfreshpersiangulftankerattackusgulfshutdowns",
+  "3655a0a8894ed2cd",
+  "crudeoilsurgeamidgulftensionsboostschevroncvxdividendappeal"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T18:20:19.631452+03:00",
+ "last_run": "2026-10-08T18:25:15.515285+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1584,6 +1584,14 @@
   {
    "d": "2026-10-08",
    "t": "Tanker Attacks Push Deeper Into Gulf, Rattle Oil Markets - WSJ"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Crude oil tanker struck by unknown projectile in Strait of Hormuz: UK maritime agency - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Crude oil jumps on fresh Persian Gulf tanker attack, U.S. Gulf shutdowns - TradingView"
   }
  ]
 }
