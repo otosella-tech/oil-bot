@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 89.51,
+  "WTI": 91.36,
   "Brent": 102.75
  },
  "seen": [
-  "dcb06524e00e04a1",
-  "crudeoilrisesasmideastrisksremain",
   "923b8f2b3c7d5a1e",
   "oilrisesamidongoingmideasttensions",
   "a9f18532ad1a7057",
@@ -603,7 +601,9 @@
   "b2e0ea4bf25269eb",
   "supertankersracingtomiddleeastworsenglobalshipscrunch",
   "8b0a4f3f5d25d229",
-  "pakistansaysmiddleeastoilshockisacceleratingevshift"
+  "pakistansaysmiddleeastoilshockisacceleratingevshift",
+  "c18adeeb43bb9ad6",
+  "transcriptoilcompaniesarefullspeedaheadinthemiddleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 49
  },
- "last_run": "2026-10-08T10:15:21.087119+03:00",
+ "last_run": "2026-10-08T10:20:17.890707+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
