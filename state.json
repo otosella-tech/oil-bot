@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "25ae55c5aa2d7014",
-  "iranianoilaminorplayerandthelimitsofussanctions",
   "5b81084e58ccc010",
   "shellexpectsrecordrefiningmarginsasiranwarboostsfuelmarkets",
   "8a188fa8c0f9b11e",
@@ -603,7 +601,9 @@
   "a1cd091d40b9661f",
   "uscrudeoilstockpilesjump",
   "a1b2e54d77e1afe7",
-  "oilpricessettledown25onsignsmiddleeastexportsrecovering"
+  "oilpricessettledown25onsignsmiddleeastexportsrecovering",
+  "ff78b4764689fb30",
+  "usoucojumpbrentoiltops105reportsofmassivebombingofiranianinf"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T14:40:20.009508+03:00",
+ "last_run": "2026-10-08T14:45:17.858919+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1488,6 +1488,10 @@
   {
    "d": "2026-10-08",
    "t": "Brent Gains More Than 4% on U.S.-Iran Tensions, Hurricane Isaias - WSJ"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "USO, UCO Jump, Brent Oil Tops $105: Reports Of ‘Massive Bombing’ Of Iranian Infrastructure Raise Fresh Supply Disruptions Fears - Yahoo Finance"
   }
  ]
 }
