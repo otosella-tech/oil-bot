@@ -4,12 +4,6 @@
   "Brent": 102.75
  },
  "seen": [
-  "0866cdc453c41e8f",
-  "oilpricesriseasstormsandairstrikesthreatensupplyeuronextmark",
-  "5faa26c868c1c39f",
-  "asiasharesweakeroilupinvestorsweighsaudihouthiescalation",
-  "558d820b97bc97ab",
-  "wticrudeoilpricesweakenwillfedminutesdeepenthedecline",
   "e85fbef4dcf04e46",
   "g7s100mbarreldieselstocksreleaselooksmostlypricedinanalystsa",
   "6117eab373bf116c",
@@ -603,7 +597,13 @@
   "6c200cf2286d329f",
   "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
   "b33d56e8648a465f",
-  "oilpricesrisemorethan2amidhouthiattacksusgulfshutins"
+  "oilpricesrisemorethan2amidhouthiattacksusgulfshutins",
+  "b8c63b31a3ea4808",
+  "oilclimbsonintensifyingshippingattacksusstormfears",
+  "c976123206872e1f",
+  "brentcrudejumpsnearly4asmiddleeasttensionsflarewhilesharepri",
+  "31d52f90316e02c8",
+  "trumpsaysheisnotkeenonadealwithiranasusreportedlypreparesfor"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-08",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-10-08T11:25:14.360455+03:00",
+ "last_run": "2026-10-08T11:30:23.577157+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1404,6 +1404,14 @@
   {
    "d": "2026-10-08",
    "t": "Oil Prices Rise More Than 2% Amid Houthi Attacks, U.S. Gulf Shut-Ins - WSJ"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil Climbs on Intensifying Shipping Attacks, U.S. Storm Fears - WSJ"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing' - CNBC"
   }
  ]
 }
