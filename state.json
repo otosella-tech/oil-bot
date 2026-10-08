@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "e8d583551f6ee581",
-  "buythistankerstocktoprofitfromposthormuzoilsupplyroutes",
   "7e47333b4bfc9942",
   "oilpricevolatilitytopslistofearningsrisksforjapanfirmsreuter",
   "6834e1bfc93efd88",
@@ -603,7 +601,9 @@
   "68dcbf91e1906197",
   "usbondsrallyafter30yearauctionfindssoliddemand",
   "c7e389b3ed244303",
-  "oilgainsasiranreportedlyvowstokeephormuzcontrol"
+  "oilgainsasiranreportedlyvowstokeephormuzcontrol",
+  "f067144ee8abc07a",
+  "usstockmarketstradedmixedweigheddownbyrisingcrudeoilpricesan"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 4
  },
- "last_run": "2026-10-09T00:10:20.292571+03:00",
+ "last_run": "2026-10-09T00:15:17.452401+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
