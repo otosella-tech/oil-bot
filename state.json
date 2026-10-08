@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "4ee9b73652de3fcc",
-  "isthewests100yearvenezuelaoilbetabouttobackfire",
   "52ee09589559aa0e",
   "ustradedeficitwidenstolargestlevelinmorethanayear",
   "27a5d3d2694cebf9",
@@ -603,7 +601,9 @@
   "7875c6862483e622",
   "oilfuturescrudehigherastankerattacksincreaseusstormthreat",
   "84b0877d74a11530",
-  "banksleadftse100declineasbondyieldsoilsurge"
+  "banksleadftse100declineasbondyieldsoilsurge",
+  "065a361ad6e22205",
+  "epaheadvisitingsantafeannouncessweepingoilandgasregulationro"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-08",
   "count": 25
  },
- "last_run": "2026-10-08T05:15:17.808085+03:00",
+ "last_run": "2026-10-08T05:20:17.413248+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
