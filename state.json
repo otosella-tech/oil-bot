@@ -4,12 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "642e8118639a7246",
-  "crudeoilinventoriesplungesignalingstrongdemand",
-  "aa1f588ed3548fea",
-  "uscrudestocksdipbutdistillatesholdsteady",
-  "7842d83a2101069f",
-  "uscrudestocksanddistillateinventoriesfallgasolineinventories",
   "1f97fbe263a6cb8d",
   "ustotalweeklyeiacrudeoilstocksfallby40millionbarrelsafterpri",
   "a59b02e0efe81106",
@@ -603,7 +597,13 @@
   "3800ea071422a57b",
   "peopleprofithowlongwilltheglobalenergycrunchlast",
   "704ed51528a65efa",
-  "tankerattackspushdeeperintothegulfandrattleoilmarkets"
+  "tankerattackspushdeeperintothegulfandrattleoilmarkets",
+  "41d494b6dae7777d",
+  "oilpriceshit105andstockstradelowerastrumpconsidersrenewedstr",
+  "79d55cd095560228",
+  "tankerattackspushdeeperintogulfrattleoilmarkets",
+  "f1534c78d11d0a04",
+  "higheroilpricespulltheusstockmarketfurtherfromitsrecordpitts"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T18:15:17.815427+03:00",
+ "last_run": "2026-10-08T18:20:19.631452+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1576,6 +1576,14 @@
   {
    "d": "2026-10-08",
    "t": "Tanker Attacks Push Deeper Into the Gulf and Rattle Oil Markets - WSJ"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil prices hit $105 and stocks trade lower as Trump considers renewed strikes on Iran - NBC News"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Tanker Attacks Push Deeper Into Gulf, Rattle Oil Markets - WSJ"
   }
  ]
 }
