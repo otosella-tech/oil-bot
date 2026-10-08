@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "cf65a8248b5dbf6b",
-  "uscrudeoilstockpilespostweeklydrop",
   "7f9dc717efd6f861",
   "pacificcoastenergystartsworktorevivevenezuelaoilfields",
   "44722b2e0f4ac499",
@@ -603,7 +601,9 @@
   "d32865ea23ac1268",
   "stockspressuredbysoaringcrudeoilprices",
   "cfb0da512da9987b",
-  "shellpartiallyrestartspearlgastoliquidsplantinqatar"
+  "shellpartiallyrestartspearlgastoliquidsplantinqatar",
+  "11c4f981472649c3",
+  "usstocksmostlylowerascrudeoilpricesspike"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T18:35:18.164865+03:00",
+ "last_run": "2026-10-08T18:40:19.194102+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
