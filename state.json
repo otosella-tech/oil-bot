@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "ee8e594b265d0e3d",
-  "ieapushestoacceleratereleaseof100millionbarrelsofoilstocks",
-  "107964c86fcb9c6c",
-  "eiauscrudeoilinventoriesdown32millionbbl",
   "0c6958835cf910d9",
   "theoilshockcouldmakeusstronger",
   "f6088c698c77a49b",
@@ -603,7 +599,11 @@
   "0e433954bd4868ee",
   "reliancedrivesindiasvenezuelanoilimportstoseven",
   "4ba340f6260c4cda",
-  "oilpricesspikeonnewgulfattacksasglobalreservesscarilythin"
+  "oilpricesspikeonnewgulfattacksasglobalreservesscarilythin",
+  "46ec132b2c3f1702",
+  "usequityindexesfallascrudeoiljumpsinmiddaytrading",
+  "34e5f3f4f09c2b86",
+  "uscentcomsaysinrecentmonthsusforceshavesupportedtheshipmento"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T19:45:17.010547+03:00",
+ "last_run": "2026-10-08T19:50:17.745432+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1616,6 +1616,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil Prices Spike on New Gulf Attacks as Global Reserves ‘Scarily Thin’ - Barron's"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "US CENTCOM says in recent months, US forces have supported the shipment of over 1.25bln barrels of crude oil from Gulf partners and through the Strait of Hormuz - Newsquawk"
   }
  ]
 }
