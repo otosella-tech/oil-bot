@@ -4,12 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "fd82bb9d9fdaea35",
-  "rubiowarnsrussiaandchinaarealreadymovinginthearctic",
-  "637c8d9e9dab4521",
-  "oilpricesclimbabove100onstraitofhormuzattacksgulfstormthreat",
-  "2147e4c1f8a18052",
-  "homeheatingoilcostsrising21thiswintereiasays",
   "8c3ce3cb6ce60408",
   "anoilshockmostlylikenootherpimcocommentaries",
   "22ddbc04cc7c4dd8",
@@ -603,7 +597,13 @@
   "7e42872a1555791a",
   "equinorfindsnewgasatnorways40year",
   "0c14c923e39e597c",
-  "crudeoiljumpsonfreshpersiangulftankerattackusgulfshutdownscl"
+  "crudeoiljumpsonfreshpersiangulftankerattackusgulfshutdownscl",
+  "9996ca10e9120212",
+  "bccrudeoilfutures",
+  "ace6b2f35a54d9d3",
+  "asiaracestostockpileoilspeeduprenewablesinresponsetoiranwar",
+  "cbd339915d49b123",
+  "eiaboostsoilpriceforecastby5in202610in2027"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T17:40:19.347615+03:00",
+ "last_run": "2026-10-08T17:45:22.615865+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1556,6 +1556,10 @@
   {
    "d": "2026-10-08",
    "t": "Crude oil jumps on fresh Persian Gulf tanker attack, U.S. Gulf shutdowns (CL1:COM:Commodity) - Seeking Alpha"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Asia races to stockpile oil, speed up renewables in response to Iran war - Reuters"
   }
  ]
 }
