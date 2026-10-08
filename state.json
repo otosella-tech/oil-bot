@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "8e099ecb20722a23",
-  "currentpriceofoilasofoct72026",
   "2e45f0bea98aed36",
   "tropicalstormisaiaschurnsingulfasoilrigsprepareforpotentiall",
   "7ef295cadb74895e",
@@ -603,7 +601,9 @@
   "63c7afa6a19ec0b8",
   "heatingoilshockputsanewsqueezeonnortheastborrowers",
   "8b2a89cc2c275a5c",
-  "oilpricesjumpontankerattacksandslowingflowsthroughstraitofho"
+  "oilpricesjumpontankerattacksandslowingflowsthroughstraitofho",
+  "4abe6f7c16647821",
+  "higheroilpricespulltheusstockmarketfurtherfromitsrecord"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T16:50:18.544672+03:00",
+ "last_run": "2026-10-08T16:55:14.979058+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
