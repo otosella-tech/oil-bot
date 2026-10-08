@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "bd7f8cd2ace7cffa",
-  "whoisgoingtopayforalaskalng",
   "e8d583551f6ee581",
   "buythistankerstocktoprofitfromposthormuzoilsupplyroutes",
   "7e47333b4bfc9942",
@@ -603,7 +601,9 @@
   "11e130e8370bab5a",
   "iranwarenergyshockputshydrogenbackonthetable",
   "68dcbf91e1906197",
-  "usbondsrallyafter30yearauctionfindssoliddemand"
+  "usbondsrallyafter30yearauctionfindssoliddemand",
+  "c7e389b3ed244303",
+  "oilgainsasiranreportedlyvowstokeephormuzcontrol"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-10-09T00:00:29.140130+03:00",
+ "last_run": "2026-10-09T00:05:14.695990+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1460,6 +1460,10 @@
   {
    "d": "2026-10-09",
    "t": "Iran War Energy Shock Puts Hydrogen Back on the Table"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Oil Gains as Iran Reportedly Vows to Keep Hormuz Control - Yahoo Finance"
   }
  ]
 }
