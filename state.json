@@ -4,8 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "70c46a590ffb08da",
-  "trionreaches64completionastlalocfpuconstructionadvances",
   "765266383b8a1e91",
   "isthewests100",
   "4ee9b73652de3fcc",
@@ -603,7 +601,9 @@
   "6de67241a899d534",
   "crudeoiltradingalertunexpecteddeclineinuscrudeinventoriesand",
   "fcfcd1ab74896c31",
-  "analysisischinalearningtolivewithoutiranianoil"
+  "analysisischinalearningtolivewithoutiranianoil",
+  "7875c6862483e622",
+  "oilfuturescrudehigherastankerattacksincreaseusstormthreat"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-08",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-10-08T04:50:16.134713+03:00",
+ "last_run": "2026-10-08T04:55:14.965884+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1347,6 +1347,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil rises as Middle East supply concerns persist amid shipping attacks - Reuters"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil futures: Crude higher as tanker attacks increase, US storm threat - Quantum Commodity Intelligence"
   }
  ]
 }
