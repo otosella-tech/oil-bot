@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "cd2cbfc1a1259d1e",
-  "crudeoilpriceforecastmorecrudelessgasoline",
-  "ff66a9b107111f56",
-  "clarksvillehastennessees2ndlowestgasprices",
   "381401f3880bbf09",
   "3oilandgasstocksforhighercrudeprices",
   "d4a56ab0b2255c13",
@@ -603,7 +599,11 @@
   "4ae502c40b35bfc7",
   "senerinspectstrionstlalocfloatingproductionunit",
   "da20f50a97bf52b2",
-  "aaapointstocrudeoilpricesasgascostsclimbinkentucky"
+  "aaapointstocrudeoilpricesasgascostsclimbinkentucky",
+  "b3ca4843004daa25",
+  "theworldhasnearlyburnedthroughitsoilstockpilebufferexecutive",
+  "7b33da6d65768e39",
+  "sp500nasdaqendlowerascrudepricesjumpchipstocksweigh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 11
  },
- "last_run": "2026-10-09T02:20:17.759414+03:00",
+ "last_run": "2026-10-09T02:25:21.251043+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
