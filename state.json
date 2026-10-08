@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "96d425d8560ec8ec",
-  "datacentersarenowbankrollingfinlandsnewpowersupply",
   "7744a9a5b179c4d5",
   "oilisflowingagainbutgasolineanddieselpricesarentcooperating",
   "73788ba5429783c7",
@@ -603,7 +601,9 @@
   "25e42b4ffc693bca",
   "iranscalesuphormuzattacksraisingpressureontrumpasmidtermsnea",
   "98ce8e6dd0736563",
-  "oiljumps5ashormuztankerattacksescalateusgulfhurricaneshutsin"
+  "oiljumps5ashormuztankerattacksescalateusgulfhurricaneshutsin",
+  "b8883cb3597abaae",
+  "reboundingoilexportsthroughstraitofhormuzarevulnerabletostep"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T20:45:19.570304+03:00",
+ "last_run": "2026-10-08T20:50:18.383450+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1644,6 +1644,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production - Oil & Gas Journal"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks - CNBC"
   }
  ]
 }
