@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "47b150a4306166bc",
-  "hormuzshipattackssurgeareincreasedoilexportssustainable",
-  "62f4a6f3b3c14383",
-  "iraqproposesoilpriceassumptionof58perbarrelindraftbudget",
   "eba1b47525745949",
   "globaldieselcrunchfuelsnewwaveofenergynationalism",
   "e1326423dffbbb3d",
@@ -603,7 +599,11 @@
   "66036f26200e1ef0",
   "bankstudycontendsrefineryoutagesarebehindrisingfuelcostsnotw",
   "903f87f8003c957c",
-  "gaspricesfacenewthreatashurricaneisaiasforceswidespreadgulfo"
+  "gaspricesfacenewthreatashurricaneisaiasforceswidespreadgulfo",
+  "5ca5f27fa55524c8",
+  "oilpricessettledownasieaagreestoaccelerateoilstockrelease",
+  "e12af05485f8f0e8",
+  "higheroilpricespulltheusstockmarketfurtherfromitsrecordksn"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T22:35:17.509218+03:00",
+ "last_run": "2026-10-08T22:40:17.812204+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
