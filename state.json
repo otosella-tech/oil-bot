@@ -4,10 +4,6 @@
   "Brent": 102.75
  },
  "seen": [
-  "31bfd05c99f92ed2",
-  "oilrisesandstocksfallashormuzworriesflare",
-  "2bcf70afa8bb2b2e",
-  "oilrisesasconcernsoverhouthiattacksonsaudiarabiaeclipsesuppl",
   "e94bbba799644aca",
   "ukraineclaimsitsstrikeshavetakenoutmorethanhalfofrussiasoilr",
   "735d83b6cedbde67",
@@ -603,7 +599,11 @@
   "30d14777e98ef7da",
   "firstdeep",
   "a08a753cf1bef968",
-  "crudeoilhigheronsupplyissues"
+  "crudeoilhigheronsupplyissues",
+  "b5a2b6b2175a6e55",
+  "oilpricessurgeandstockssinkonfreshinflationworries",
+  "4b75a3ac4be63c87",
+  "oilpricesslideabout2asusiranexplorepathoutofwar"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T12:00:33.225923+03:00",
+ "last_run": "2026-10-08T12:05:15.345515+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1420,6 +1420,14 @@
   {
    "d": "2026-10-08",
    "t": "First Deep-Gulf Tanker Attack in Nearly a Month Hits Vessel off Qatar"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil prices surge and stocks sink on fresh inflation worries - Yahoo Finance Singapore"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters"
   }
  ]
 }
