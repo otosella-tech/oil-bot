@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "2515587d9d32f9b7",
-  "southkoreadeniesukrainianreportthatiteasedrussiasfuelcrisis",
   "962e67f42a787181",
   "oilpricessettledownasieaagreestoaccelerateoilstockrelease",
   "47b150a4306166bc",
@@ -603,7 +601,9 @@
   "3707d67587c8ce6b",
   "oilfallsto103astrumpsaysuswillnotattackiranbeforethemidterme",
   "a6c7ce343fe73a8c",
-  "risingoilpricesfallingtechnologystocksandreversingbondyields"
+  "risingoilpricesfallingtechnologystocksandreversingbondyields",
+  "66036f26200e1ef0",
+  "bankstudycontendsrefineryoutagesarebehindrisingfuelcostsnotw"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T22:20:18.446308+03:00",
+ "last_run": "2026-10-08T22:25:18.316476+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1680,6 +1680,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil falls to $103 as Trump says US will not attack Iran before the midterm elections - Yahoo! Finance Canada"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Bank study contends refinery outages are behind rising fuel costs—not war with Iran - Oklahoma Energy Today"
   }
  ]
 }
