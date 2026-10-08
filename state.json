@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "e7e94e5d3fda1ede",
-  "ieareadytoreleasemoreoilreservesifnecessary",
-  "4b80b39768b30758",
-  "tropicalstormisaiascouldwreakhavoconmississippisoilrefinerie",
   "d3c60ccb9cc94079",
   "largedeclineincrudeinventories",
   "30622078dec5352e",
@@ -603,7 +599,11 @@
   "b5f33c1b95c36fe3",
   "oilpricesriseagainwithaswhitehousemullsmoreattacksoniran",
   "5b7d79dca3b53b45",
-  "icemiddaycanolacrudeoiladvance"
+  "icemiddaycanolacrudeoiladvance",
+  "46ec02eaa638770b",
+  "oilpricessurgeonworriesofshippingattacksandgulfofmexicohurri",
+  "dfb4d17592a476c7",
+  "crudeoilgrindshigheronrecordtankerattacksandhouthimissiles"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T19:15:17.939201+03:00",
+ "last_run": "2026-10-08T19:20:17.820011+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1600,6 +1600,14 @@
   {
    "d": "2026-10-08",
    "t": "Oil prices rise again with as White House mulls more attacks on Iran - upi"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil prices surge on worries of shipping attacks and Gulf of Mexico hurricane - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Crude Oil grinds higher on record tanker attacks and Houthi missiles - FXStreet"
   }
  ]
 }
