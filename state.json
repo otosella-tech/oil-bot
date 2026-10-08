@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "1d316ba6094d8412",
-  "oilpricesriseasmarketsbraceforusgulfcoastsupplydisruptions",
   "b3ca4843004daa25",
   "theworldhasnearlyburnedthroughitsoilstockpilebufferexecutive",
   "cd2cbfc1a1259d1e",
@@ -603,7 +601,9 @@
   "564809fc03d3dd0f",
   "middleeastoilexportstopprewarlevelsforpartofseptemberbuttank",
   "ad4be14d807a41ac",
-  "oildeclinesaftertrumpsaysnoiranattacksbeforemidterms"
+  "oildeclinesaftertrumpsaysnoiranattacksbeforemidterms",
+  "4ae502c40b35bfc7",
+  "senerinspectstrionstlalocfloatingproductionunit"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 11
  },
- "last_run": "2026-10-09T01:45:20.785732+03:00",
+ "last_run": "2026-10-09T01:50:17.595151+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
