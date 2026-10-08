@@ -4,10 +4,6 @@
   "Brent": 102.75
  },
  "seen": [
-  "136f4121621a8158",
-  "oilgainsasusstormandhouthiairstrikesthreatensupply",
-  "3ce964ae43ffe9fe",
-  "iranrampsupshipattacksinhormuzjustasoilandgasflowsclimb",
   "f0537fc1d0c478e5",
   "oilpricesrisewithmeastussupplydisruptionsinfocus",
   "a7127ba2f40986fe",
@@ -603,7 +599,11 @@
   "f0a6e1a15c3e4b01",
   "stocksfxhitbyoilfuelledinflationdebtworries",
   "6f1bd8c0104e0f6b",
-  "hurricaneisaiasisexpectedtogetstrongeronitswaytofloridaalaba"
+  "hurricaneisaiasisexpectedtogetstrongeronitswaytofloridaalaba",
+  "bbad3fbc8d199b1f",
+  "oilpricesarejumpingagainhowthesp500hasperformedondayscrudeha",
+  "a6d24e6efd28e3ec",
+  "brentcrudejumpsover4asmiddleeasttensionsflarewhileshareprice"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T12:50:20.262389+03:00",
+ "last_run": "2026-10-08T12:55:15.544356+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
