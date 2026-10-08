@@ -606,16 +606,16 @@
   "oilslonggoodbyewhatitmeansforthegulf"
  ],
  "releases_done": {},
- "last_digest": "2026-10-07",
+ "last_digest": "2026-10-08",
  "digest_prices": {
-  "WTI": 90.23,
-  "Brent": 101.63
+  "WTI": 89.85,
+  "Brent": 102.33
  },
  "llm": {
   "date": "2026-10-08",
-  "count": 32
+  "count": 38
  },
- "last_run": "2026-10-08T07:55:14.314186+03:00",
+ "last_run": "2026-10-08T08:00:26.729565+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
