@@ -4,16 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "f5422f214e843513",
-  "oilfuturescrudehigherasusgulfstormintensifiesmideasteyed",
-  "f598885ebea8caee",
-  "africassecondlargesteconomysecures88millionfromusenergygiant",
-  "4bae57e0f54b89eb",
-  "iranbackedhouthisdenylosinggroundinyemenasoilpriceseasedespi",
-  "0f689ffe0a02448b",
-  "oilrisesasinvestorsweighsupplythreats",
-  "3cd206e10210529d",
-  "norwayplanstotap637billionfromitsoilfundin2027",
   "a66cf22800be2bd9",
   "oilisflowingagainbutgasolinedieselpricesarentcooperating",
   "5964bc1723dcbc96",
@@ -603,7 +593,17 @@
   "430dfd00dfc0ae83",
   "exclusiveg7s100millionbarrelpledgetiedtomarchoilrelease",
   "5b81385abec5f6c8",
-  "extrumpofficialsfindnewjobsinvenezuelaslucrativeoilindustry"
+  "extrumpofficialsfindnewjobsinvenezuelaslucrativeoilindustry",
+  "9c07008f75591c65",
+  "sharpriseincrudeoilpricesweighsonwallstreetsandiegounion",
+  "bde8e2ff57e67003",
+  "currentpriceofoilasofoctober72026",
+  "d68e1638bbedb5fa",
+  "oilmajorscutproductioningulfofmexicoashurricaneisaiasstrengt",
+  "12b2bc4a770f0bb9",
+  "bythenumberslr2demandgrows",
+  "a187a17b72dc3046",
+  "sharpriseincrudeoilpricesweighsonwallstreet"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T16:40:18.508595+03:00",
+ "last_run": "2026-10-08T16:45:21.137057+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1532,6 +1532,10 @@
   {
    "d": "2026-10-08",
    "t": "Ex-Trump officials find new jobs in Venezuela’s lucrative oil industry - The Washington Post"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil Majors Cut Production in Gulf of Mexico as Hurricane Isaias Strengthens - WSJ"
   }
  ]
 }
