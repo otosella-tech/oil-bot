@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "50a796c3eb011bcd",
-  "usgulfenergyhubbracesforcategory2hurricane",
   "a6e2a2db16fdeaae",
   "crudeoilcutslossesastraderseyeg7fuelrelease",
   "fb6ea4e8e70d95ba",
@@ -603,7 +601,9 @@
   "6523961cb3dd0fae",
   "ieatoaccelerateoilreservereleasesays100millionbarrelsstillto",
   "b3ecd69641bc9ba9",
-  "oilisflowingfromhormuzagainjustnotthekindtheworldneedsmost"
+  "oilisflowingfromhormuzagainjustnotthekindtheworldneedsmost",
+  "8500789a890cbb1b",
+  "nonewattackoniranbeforethemidtermelectionstrumpsays"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T21:25:16.844223+03:00",
+ "last_run": "2026-10-08T21:30:23.659056+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1668,6 +1668,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most - WSJ"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "No new attack on Iran before the midterm elections, Trump says - The Washington Post"
   }
  ]
 }
