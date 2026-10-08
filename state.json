@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "b3ca4843004daa25",
-  "theworldhasnearlyburnedthroughitsoilstockpilebufferexecutive",
   "cd2cbfc1a1259d1e",
   "crudeoilpriceforecastmorecrudelessgasoline",
   "ff66a9b107111f56",
@@ -603,7 +601,9 @@
   "ad4be14d807a41ac",
   "oildeclinesaftertrumpsaysnoiranattacksbeforemidterms",
   "4ae502c40b35bfc7",
-  "senerinspectstrionstlalocfloatingproductionunit"
+  "senerinspectstrionstlalocfloatingproductionunit",
+  "da20f50a97bf52b2",
+  "aaapointstocrudeoilpricesasgascostsclimbinkentucky"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 11
  },
- "last_run": "2026-10-09T02:15:20.139909+03:00",
+ "last_run": "2026-10-09T02:20:17.759414+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
