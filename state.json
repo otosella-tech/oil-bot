@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "e1326423dffbbb3d",
-  "wallstreetendsloweroffrecordhighsastreasuryyieldsclimb",
-  "73f051654b100aaa",
-  "wticrudeoilfuturesdeclinenear89tostarttheweek",
   "30a8de2c1bd86d55",
   "ieamemberstoacceleratereleaseofstrategicoilreserves",
   "ad8c7a78afc5f118",
@@ -603,7 +599,11 @@
   "e12af05485f8f0e8",
   "higheroilpricespulltheusstockmarketfurtherfromitsrecordksn",
   "85f202f7dc1da90b",
-  "hurricaneisaiasposesnewthreattotightusfuelmarket"
+  "hurricaneisaiasposesnewthreattotightusfuelmarket",
+  "33a2621d67d0474a",
+  "refineryoutagespumpingupfuelpricesmorethancostofcrudeoil",
+  "235cbf19afe7889b",
+  "theoilcrisisamericasawcoming"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T22:45:20.012492+03:00",
+ "last_run": "2026-10-08T22:50:19.342048+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1688,6 +1688,10 @@
   {
    "d": "2026-10-08",
    "t": "Gas prices face new threat as Hurricane Isaias forces widespread Gulf oil shutdowns - NBC News"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas"
   }
  ]
 }
