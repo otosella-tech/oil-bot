@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "934660205d5ed99b",
-  "crudeoilfuturesnov6clmainus",
-  "acdbddd6047ff59b",
-  "oilpricesreverseatpeakwhatthismeansforgold",
   "c8c3492b97f0146d",
   "iraqlookstosyrianrouteforcrudeexportstobypasshormuzreport",
   "fd82bb9d9fdaea35",
@@ -603,7 +599,11 @@
   "22b2c6dcc350749c",
   "stockmarketslipsasoilpricesriseafterirandealprospectsfadecom",
   "5181ec4d5b85d432",
-  "europeanstocksfallasbondyieldsandoilpricesriseoninflationcon"
+  "europeanstocksfallasbondyieldsandoilpricesriseoninflationcon",
+  "708b202a2fbd032d",
+  "russianoilflowstoindiaplungeto310000bpd",
+  "7e42872a1555791a",
+  "equinorfindsnewgasatnorways40year"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T17:25:20.632283+03:00",
+ "last_run": "2026-10-08T17:30:24.744146+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1548,6 +1548,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil prices jump 4% as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production - CNBC"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Russian Oil Flows to India Plunge to 310,000 Bpd"
   }
  ]
 }
