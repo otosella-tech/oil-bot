@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "962e67f42a787181",
-  "oilpricessettledownasieaagreestoaccelerateoilstockrelease",
   "47b150a4306166bc",
   "hormuzshipattackssurgeareincreasedoilexportssustainable",
   "62f4a6f3b3c14383",
@@ -603,7 +601,9 @@
   "a6c7ce343fe73a8c",
   "risingoilpricesfallingtechnologystocksandreversingbondyields",
   "66036f26200e1ef0",
-  "bankstudycontendsrefineryoutagesarebehindrisingfuelcostsnotw"
+  "bankstudycontendsrefineryoutagesarebehindrisingfuelcostsnotw",
+  "903f87f8003c957c",
+  "gaspricesfacenewthreatashurricaneisaiasforceswidespreadgulfo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T22:30:23.170962+03:00",
+ "last_run": "2026-10-08T22:35:17.509218+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1684,6 +1684,10 @@
   {
    "d": "2026-10-08",
    "t": "Bank study contends refinery outages are behind rising fuel costs—not war with Iran - Oklahoma Energy Today"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Gas prices face new threat as Hurricane Isaias forces widespread Gulf oil shutdowns - NBC News"
   }
  ]
 }
