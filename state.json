@@ -4,10 +4,6 @@
   "Brent": 100.59
  },
  "seen": [
-  "9b1af86db2a00b14",
-  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
-  "1513a133f911f1a6",
-  "lawsuittargetsutahoilhighwaythreateningworldrenownedninemile",
   "52f8cc7466b404d4",
   "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo",
   "2bab9bd271ec4c6b",
@@ -603,7 +599,11 @@
   "bf5c87b7f90ef983",
   "crudeoilturnslowerasieaagreestoaccelerateoilstockreleaseprio",
   "2810eb866c111442",
-  "kplersuspectsgulfproducersarepayingiranforsafepassage"
+  "kplersuspectsgulfproducersarepayingiranforsafepassage",
+  "2f065c677fd005b4",
+  "crudeoilstocksreleaseimpactsmarketcolgatepalmolivecldividend",
+  "635fbfab77e0f4c5",
+  "whytrumpjustloosenedtherulesondyeddieselnormallyafarmfuel"
  ],
  "releases_done": {
   "2026-10-07|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-08",
   "count": 12
  },
- "last_run": "2026-10-08T03:15:21.382996+03:00",
+ "last_run": "2026-10-08T03:20:18.380597+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
