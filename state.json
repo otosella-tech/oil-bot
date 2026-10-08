@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "0a6293c68eef714f",
-  "straitofhormuztankershuttlespreventing200perbarrelscenariovi",
-  "69c97d979848b72d",
-  "oilpricesrisebrentcrudetops101amidsupplyconcerns",
   "0cda772f420a3053",
   "ieatomeetwednesdayoverproposedreleaseofreservessaytwoeudiplo",
   "aabf2f883af3be07",
@@ -603,7 +599,11 @@
   "c3151506a6cf98d6",
   "top10oilenergycompaniesintheus",
   "fff5d908bc7d21fa",
-  "astrumpeyesanewroundofmajorcombatoperationsiniransparkingglo"
+  "astrumpeyesanewroundofmajorcombatoperationsiniransparkingglo",
+  "a802862c438d17dc",
+  "indiashunscostlyrussiancrudeasmiddleeastflowsrecover",
+  "e7f812b86605b7a9",
+  "currentpriceofoilasofoct22026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T13:40:40.923164+03:00",
+ "last_run": "2026-10-08T13:45:23.259062+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1460,6 +1460,10 @@
   {
    "d": "2026-10-08",
    "t": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia? - Al Jazeera"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "India Shuns Costly Russian Crude as Middle East Flows Recover - Bloomberg.com"
   }
  ]
 }
