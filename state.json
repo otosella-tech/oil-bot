@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "aabf2f883af3be07",
-  "eiaraisesoilpriceforecastsasiranwartightensglobalmarkets",
-  "6bcd38436fdb224d",
-  "wticrudeoilfuturesreboundfrom5weeklowsasexportspressureprice",
   "2cef00353aef0f0e",
   "economiccalendarquietwednesdayfomcprotocolandoilmarketinfocu",
   "f33d04a5c6c97da8",
@@ -603,7 +599,11 @@
   "e7f812b86605b7a9",
   "currentpriceofoilasofoct22026",
   "9f378de3d6fdab41",
-  "shellchevroncurbgulfofmexicoproductionashurricaneisaiasappro"
+  "shellchevroncurbgulfofmexicoproductionashurricaneisaiasappro",
+  "f08f0eb7f23170a8",
+  "oiljumps5asiranstepsupattacksonhormuztankers",
+  "4ddd70c772f0eccd",
+  "oilpricesjumpontankerattackandslowingflowsthroughstraitofhor"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T13:50:17.663392+03:00",
+ "last_run": "2026-10-08T13:55:15.413370+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1464,6 +1464,14 @@
   {
    "d": "2026-10-08",
    "t": "India Shuns Costly Russian Crude as Middle East Flows Recover - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil Jumps 5% as Iran Steps Up Attacks on Hormuz Tankers"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil prices jump on tanker attack and slowing flows through Strait of Hormuz - Financial Times"
   }
  ]
 }
