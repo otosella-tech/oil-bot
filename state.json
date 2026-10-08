@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "bf5c87b7f90ef983",
-  "crudeoilturnslowerasieaagreestoaccelerateoilstockreleaseprio",
-  "2810eb866c111442",
-  "kplersuspectsgulfproducersarepayingiranforsafepassage",
   "2f065c677fd005b4",
   "crudeoilstocksreleaseimpactsmarketcolgatepalmolivecldividend",
   "635fbfab77e0f4c5",
@@ -603,7 +599,11 @@
   "8d21f769330ba590",
   "oilsurgesstockssinkonjittersoverusplansiniranwar",
   "a92ef9529249100f",
-  "crudeoilgainsonrenewedsupplydisruptions"
+  "crudeoilgainsonrenewedsupplydisruptions",
+  "0a866a1250d65777",
+  "crudepricessurgeonpossibleescalationofusiranwar",
+  "b2856fe87a905012",
+  "averagegaspricefallsacrosstexasdespiteriseinoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-10-09T00:45:19.564858+03:00",
+ "last_run": "2026-10-09T00:50:19.094914+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1464,6 +1464,10 @@
   {
    "d": "2026-10-09",
    "t": "Oil Gains as Iran Reportedly Vows to Keep Hormuz Control - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Crude Prices Surge on Possible Escalation of US-Iran War - Yahoo Finance"
   }
  ]
 }
