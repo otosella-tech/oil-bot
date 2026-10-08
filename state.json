@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "d3c60ccb9cc94079",
-  "largedeclineincrudeinventories",
-  "30622078dec5352e",
-  "howchinamanagesitsoilwoeswillhaveglobalrepercussions",
   "ee8e594b265d0e3d",
   "ieapushestoacceleratereleaseof100millionbarrelsofoilstocks",
   "107964c86fcb9c6c",
@@ -603,7 +599,11 @@
   "46ec02eaa638770b",
   "oilpricessurgeonworriesofshippingattacksandgulfofmexicohurri",
   "dfb4d17592a476c7",
-  "crudeoilgrindshigheronrecordtankerattacksandhouthimissiles"
+  "crudeoilgrindshigheronrecordtankerattacksandhouthimissiles",
+  "0e433954bd4868ee",
+  "reliancedrivesindiasvenezuelanoilimportstoseven",
+  "4ba340f6260c4cda",
+  "oilpricesspikeonnewgulfattacksasglobalreservesscarilythin"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T19:25:19.929981+03:00",
+ "last_run": "2026-10-08T19:30:26.471336+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1608,6 +1608,14 @@
   {
    "d": "2026-10-08",
    "t": "Crude Oil grinds higher on record tanker attacks and Houthi missiles - FXStreet"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Reliance Drives India’s Venezuelan Oil Imports to Seven-Year High"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil Prices Spike on New Gulf Attacks as Global Reserves ‘Scarily Thin’ - Barron's"
   }
  ]
 }
