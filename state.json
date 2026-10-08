@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "02fa93fe23ef3f5f",
-  "cananieaoilreservereleasecontaintheglobaldieselpriceshock",
   "225718f200caa070",
   "indiasiocpurchases3mmbblofcrudefornovemberdelivery",
   "4be8601e6c314ef2",
@@ -603,7 +601,9 @@
   "c58a96f6f7c24069",
   "indiassensexslumpsto32monthlowonoilsurgeforeignexodus",
   "f00250a415412eb1",
-  "usrespondstoirgcstraitofhormuzisopenandoilflowcontinues"
+  "usrespondstoirgcstraitofhormuzisopenandoilflowcontinues",
+  "eed0efdad80baa3c",
+  "oilspike10yat533futuresslide"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T15:10:20.521472+03:00",
+ "last_run": "2026-10-08T15:15:20.060317+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
