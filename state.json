@@ -4,12 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "ab3496559e5c5429",
-  "novemberwticrudeoilcontractclosesdown116or13settlesat8828per",
-  "5854a7710f3c922f",
-  "worldshareseuroslideashighoilpricesfiscalworrieslinger",
-  "c0c28d96e3f776dc",
-  "homeheatingoilbillsaresettojump21thiswinterasdistillatesuppl",
   "8eac167535745392",
   "europestocksretreatafterthreedayriseasrisingyieldsoildentsen",
   "230fef98d352e0d6",
@@ -603,7 +597,13 @@
   "b7bbc77607d017c2",
   "hurricaneisaiasshutsin128millionbpdofgulfoilproduction",
   "39f6df72342bd3c4",
-  "usbondsfallliftingyieldsfor2nddayasoilweighs30yearauctionloo"
+  "usbondsfallliftingyieldsfor2nddayasoilweighs30yearauctionloo",
+  "72e9adf4acec3208",
+  "kindermorganrestoresus",
+  "0feec72a67aa77a6",
+  "northernoilandgasmatadorresourceschevronconocophillipsandocc",
+  "3a9f3a012dbfe534",
+  "usequitymarketsendmixedascrudeoilrisesafteriransthreats"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T23:25:14.209980+03:00",
+ "last_run": "2026-10-08T23:30:23.006094+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1708,6 +1708,10 @@
   {
    "d": "2026-10-08",
    "t": "Hurricane Isaias Shuts In 1.28 Million Bpd of Gulf Oil Production"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Kinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage"
   }
  ]
 }
