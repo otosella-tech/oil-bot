@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "381b6ada67cd6fc1",
-  "oilpricesfallasieaagreestoaccelerateoilstockrelease",
-  "7c2b9b0a1639dbfe",
-  "theeuwillonlyconductfurtherreleasesofoilanddieselreservesaft",
   "d9295fe22a81501e",
   "internationalenergyagencyreadytospeedupreleaseofoilreserves",
   "46853e71fc6aeb64",
@@ -603,7 +599,11 @@
   "a6e2a2db16fdeaae",
   "crudeoilcutslossesastraderseyeg7fuelrelease",
   "154fbcb17ef0ea4e",
-  "crudeoileasesfromsessionhigh"
+  "crudeoileasesfromsessionhigh",
+  "17e0a0adea54ee67",
+  "hurricaneisaiasshutsin25ofgulfofmexicocrudeproduction",
+  "db357c90ff4d286f",
+  "technologyleadsusequityindexesloweramidsurgeincrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T21:40:18.643397+03:00",
+ "last_run": "2026-10-08T21:45:20.338610+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
