@@ -4,12 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "125a5a64c529ab39",
-  "trumpplansanotheroilstockpileselloffwithglobalreservesalread",
-  "03d444e1578895f1",
-  "iraqdevaluesdinarto1520perusdollarstatenewsagencysaysmerceds",
-  "a3923ef7c2a3a918",
-  "ieatomeetwednesdayoverproposedreleaseofoildieselstockstwoeud",
   "ab911123b451ae1f",
   "iraqdevaluesdinarto1520perusdollarstatenewsagencysays",
   "6e142788ee2764e0",
@@ -603,7 +597,13 @@
   "c42392e73f6b5f73",
   "brentcrudetops105oilgainsasmiddleeasthostilitiesandpotential",
   "e0e85d0db040a14e",
-  "oilpricesurgesabove105ashurricanethreatensusproducers"
+  "oilpricesurgesabove105ashurricanethreatensusproducers",
+  "0cefa1291830cc5e",
+  "currentpriceofoilasofoctober82026",
+  "a690d45cb0bf29e2",
+  "oilpricesjumpamidrecordtankerattacksinhormuz",
+  "92a9a02fb6288ce0",
+  "firstthingtodaytwosidedtradeaheadoffridaysusdadata"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T14:10:18.422560+03:00",
+ "last_run": "2026-10-08T14:15:19.277488+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1480,6 +1480,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil price surges above $105 as hurricane threatens US producers - The Times"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil prices jump amid record tanker attacks in Hormuz - CNN"
   }
  ]
 }
