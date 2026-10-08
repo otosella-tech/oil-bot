@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "52b5ec08d46470f7",
-  "brentcrudepricesreach101asstormthreatens",
-  "ddf6659f412ff017",
-  "breakingviewscommentaryoilsnewnormalundercutsjetmaintenanceb",
   "8db9e53b71aa95c7",
   "southkoreaunveils747billionplantobreakitsfossilfuelhabit",
   "3b7ac457a515815c",
@@ -603,7 +599,11 @@
   "26729a639ce6e865",
   "usstocksedgefurtherfromtheirrecordasoilpricesriseunion",
   "1738272a14fa3b08",
-  "indiashunscostlyrussianoilasmiddleeastflowsrecover"
+  "indiashunscostlyrussianoilasmiddleeastflowsrecover",
+  "25796da49096d60c",
+  "usstocksedgefurtherfromtheirrecordasoilpricesrise",
+  "50e8d95163da8153",
+  "intrumpsrussianoildealmiddleeastfundsarethebiggestowners"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T18:00:36.924347+03:00",
+ "last_run": "2026-10-08T18:05:17.684035+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1564,6 +1564,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil tops $105 and stocks fall on reports the US is weighing strikes on Iran - Plataforma Media"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "In Trump’s Russian Oil Deal, Middle East Funds Are the Biggest Owners - The New York Times"
   }
  ]
 }
