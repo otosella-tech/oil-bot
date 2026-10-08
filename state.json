@@ -4,12 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "11fa2a1997eb6135",
-  "oilisflowingfromthepersiangulfbutpricesremainhighwhy",
-  "e86c33faf0c0df71",
-  "oilpricesedgehigherasmarketsassessmiddleeastandussupplyrisks",
-  "8152adce724e31cd",
-  "gulfoilflowsrisetoaverage81ofprewarrateinseptemberdatashows",
   "293a9d888a02cdd7",
   "europeanstocksdipashouthithreatliftoilaheadoffomcminutes",
   "75fb032ca02ad59e",
@@ -603,7 +597,13 @@
   "ac236d963f0ffb30",
   "stockfuturesfallonhigheroilpricesaipullback",
   "d1ab03cee9a79c0f",
-  "yourthursdayoct8guidefivethingstodointheoilcity"
+  "yourthursdayoct8guidefivethingstodointheoilcity",
+  "675e66333e6ded59",
+  "goldfirmssilverslidesasoilsurgerevivesinflationpressurekitco",
+  "f042426f9e48bda0",
+  "ahurricanecouldcrippleusrefiningwhentheworldcanleastaffordit",
+  "e0a1193abefb1abd",
+  "bigtobaccoslessonsforbigoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T16:05:14.403688+03:00",
+ "last_run": "2026-10-08T16:10:19.323821+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1516,6 +1516,10 @@
   {
    "d": "2026-10-08",
    "t": "A major hurricane could cripple US refining when the world can least afford it - CNN"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "A hurricane could cripple US refining when the world can least afford it - CNN"
   }
  ]
 }
