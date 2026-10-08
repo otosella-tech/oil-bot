@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "07f13111d862c8dd",
-  "3oilstocksretailinvestorsarewatchingascrudepricestest100",
   "25d270c93fd574d6",
   "milanstockexchangelowerwitheuropeascrudeoilandbondyieldsrise",
   "1cd20343bd3a41f9",
@@ -603,7 +601,9 @@
   "5576b8f4cafe8454",
   "oilproductiontourismalreadyaffectedbyhurricaneisaiaspossible",
   "8e4c7534bc9cae89",
-  "thefragilemathofoilprices"
+  "thefragilemathofoilprices",
+  "f21290d534151e80",
+  "stockfuturesfallasoilpricesriseafterirandealprospectsfadespx"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T14:55:15.907616+03:00",
+ "last_run": "2026-10-08T15:00:29.170210+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
