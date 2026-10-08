@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "2d8c5ca0b826d8f6",
-  "useiacrudeoilimportschangeoct020053mprev0468m",
   "a3b6e11fd609a25d",
   "useiacrudeoilstockschangeoct023186mvsexp17mprev0922msprfell0",
   "e9d00d32238a4688",
@@ -603,7 +601,9 @@
   "9aa3298fad7d816d",
   "aqabadevelopmentcorporationinvitationtointernationalandlocal",
   "5d50aae602089586",
-  "cruderisesonfearsofmiddleeastescalationusgulfstorm"
+  "cruderisesonfearsofmiddleeastescalationusgulfstorm",
+  "6bec1b3cd645d6b9",
+  "equinorfindsupto103millionbarrelsofoilequivalentatgullfaksso"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T18:55:15.417888+03:00",
+ "last_run": "2026-10-08T19:00:30.267447+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
