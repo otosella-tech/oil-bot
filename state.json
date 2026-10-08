@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "7ef295cadb74895e",
-  "oilpricesincreaseonrenewedattacksinmiddleeast",
-  "5d9b36afabd152ac",
-  "yourwednesdayoct7guidefivethingstodointheoilcity",
   "aeda1a0cb346be35",
   "syriasettoemergeashormuzbypassoptionforiraqscrudeoil",
   "12327703f60a795a",
@@ -603,7 +599,11 @@
   "4abe6f7c16647821",
   "higheroilpricespulltheusstockmarketfurtherfromitsrecord",
   "2812781cbfcce148",
-  "uaejoinskazakhstanuzbekistaninpushfortrans"
+  "uaejoinskazakhstanuzbekistaninpushfortrans",
+  "97f601d357a8a505",
+  "ukrainestrikesrussiaslargestoilrefinery2500kilometersfrombor",
+  "f1b6a88ed1edd2ed",
+  "usopenrisingyieldsandaspikeinoilpricesweighonwallstreetsmall"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T17:05:16.133194+03:00",
+ "last_run": "2026-10-08T17:10:20.261010+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1540,6 +1540,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz - Financial Times"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Ukraine strikes Russia’s largest oil refinery 2,500 kilometers from border – media - Ukrinform"
   }
  ]
 }
