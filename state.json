@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "14ffe608dac14470",
-  "qatarbringsemptylngshipsintogulf",
   "add8b80e06998e6c",
   "iraqdevalueditscurrencyastheiranwarsqueezesitsoilexports",
   "34a21d3b31cb3096",
@@ -603,7 +601,9 @@
   "9cbce8ea59117901",
   "uksoilfutureisontheballot",
   "52c0d2b728e68da7",
-  "uscrudestocksfallamidstrongexportsrefiningactivitytheeiasays"
+  "uscrudestocksfallamidstrongexportsrefiningactivitytheeiasays",
+  "f81bd485f86c8b2f",
+  "oilpricessoarafterexplosionsinsaudicapital"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T20:35:16.680760+03:00",
+ "last_run": "2026-10-08T20:40:18.178340+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1632,6 +1632,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil jumps 5%, then pares gains after Trump says no attack on Iran this month - Central Oregon Daily"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil prices soar after explosions in Saudi capital - Transport Topics"
   }
  ]
 }
