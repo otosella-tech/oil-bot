@@ -4,12 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "add8b80e06998e6c",
-  "iraqdevalueditscurrencyastheiranwarsqueezesitsoilexports",
-  "34a21d3b31cb3096",
-  "usoiltradertakes2bngambleontankersascarrierssteerclearofhorm",
-  "b8883cb3597abaae",
-  "reboundingoilexportsthroughstraitofhormuzarevulnerabletostep",
   "96d425d8560ec8ec",
   "datacentersarenowbankrollingfinlandsnewpowersupply",
   "7744a9a5b179c4d5",
@@ -603,7 +597,13 @@
   "52c0d2b728e68da7",
   "uscrudestocksfallamidstrongexportsrefiningactivitytheeiasays",
   "f81bd485f86c8b2f",
-  "oilpricessoarafterexplosionsinsaudicapital"
+  "oilpricessoarafterexplosionsinsaudicapital",
+  "a461a01623cc55ee",
+  "wereonlyinthemiddleinningsofoilbullmarketsayscornerstoneanal",
+  "25e42b4ffc693bca",
+  "iranscalesuphormuzattacksraisingpressureontrumpasmidtermsnea",
+  "98ce8e6dd0736563",
+  "oiljumps5ashormuztankerattacksescalateusgulfhurricaneshutsin"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T20:40:18.178340+03:00",
+ "last_run": "2026-10-08T20:45:19.570304+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1636,6 +1636,14 @@
   {
    "d": "2026-10-08",
    "t": "Oil prices soar after explosions in Saudi capital - Transport Topics"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Iran scales up Hormuz attacks, raising pressure on Trump as midterms near - The Washington Post"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production - Oil & Gas Journal"
   }
  ]
 }
