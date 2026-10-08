@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "054cee07e67754ed",
-  "useiahikesoilpriceforecastsagainasiranwardrainsglobalstockpi",
-  "c7313c2ddb821592",
-  "whitehousereportedlyplansstrikesoniranstormshaltpartofuscrud",
   "e3f4368f438a240a",
   "middleeastcrudeoilexportsbackatprewarlevelsanalystssay",
   "bf5c87b7f90ef983",
@@ -603,7 +599,11 @@
   "ad83c179b1e207ad",
   "wticrudeoilpriceforecastbullishbreakouttargetsnewhighs",
   "7e47333b4bfc9942",
-  "oilpricevolatilitytopslistofearningsrisksforjapanfirmsreuter"
+  "oilpricevolatilitytopslistofearningsrisksforjapanfirmsreuter",
+  "c48e894afbb1a12c",
+  "currentpriceofoilasofoctober52026",
+  "8d21f769330ba590",
+  "oilsurgesstockssinkonjittersoverusplansiniranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 5
+  "count": 6
  },
- "last_run": "2026-10-09T00:25:16.803513+03:00",
+ "last_run": "2026-10-09T00:30:24.978301+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
