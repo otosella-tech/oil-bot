@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "73788ba5429783c7",
-  "chinasturntoiraqicrudeshowsgrowingimpactofiranoilblockade",
   "5954531178529a07",
   "ieatoaccelerateoilreservereleasesays100millionbarrelsstillto",
   "b3ecd69641bc9ba9",
@@ -603,7 +601,9 @@
   "b8883cb3597abaae",
   "reboundingoilexportsthroughstraitofhormuzarevulnerabletostep",
   "1d0391a59e667fe1",
-  "oilpricesplungeastrumprulesoutiranstrikesbeforemidterms"
+  "oilpricesplungeastrumprulesoutiranstrikesbeforemidterms",
+  "acc432a759dc0a17",
+  "ustreasuryofficialsaysiranhasstoppedbothloadingandoffloading"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T21:00:28.370466+03:00",
+ "last_run": "2026-10-08T21:05:52.816746+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1652,6 +1652,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil Prices Plunge as Trump Rules Out Iran Strikes Before Midterms"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "US Treasury official says Iran has stopped both loading and offloading of crude oil vessels due to US blockade and sanctions and estimates that Iran has 20mln bbls of crude oil left on vessels outside US blockade of Iranian ports - Newsquawk"
   }
  ]
 }
