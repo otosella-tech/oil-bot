@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "41dd01fdeca0cdae",
-  "stocksslideasoilseesvolatiletradingdayoveriranwarfears",
   "ab3496559e5c5429",
   "novemberwticrudeoilcontractclosesdown116or13settlesat8828per",
   "5854a7710f3c922f",
@@ -603,7 +601,9 @@
   "757cf2c661d5514e",
   "ustroopsarepositionedandtheoilpriceknowsitsp500",
   "b7bbc77607d017c2",
-  "hurricaneisaiasshutsin128millionbpdofgulfoilproduction"
+  "hurricaneisaiasshutsin128millionbpdofgulfoilproduction",
+  "39f6df72342bd3c4",
+  "usbondsfallliftingyieldsfor2nddayasoilweighs30yearauctionloo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T23:15:20.856044+03:00",
+ "last_run": "2026-10-08T23:20:22.048090+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
