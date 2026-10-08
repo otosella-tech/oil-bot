@@ -4,8 +4,6 @@
   "Brent": 102.75
  },
  "seen": [
-  "416ca52ea541b5cf",
-  "oilandgasyouaintseennothingyetnysearcaxle",
   "0866cdc453c41e8f",
   "oilpricesriseasstormsandairstrikesthreatensupplyeuronextmark",
   "5faa26c868c1c39f",
@@ -603,7 +601,9 @@
   "5deb7502b8994b52",
   "oilgainsonreporttrumpmayorderiranstrikesbeforemidterms",
   "6c200cf2286d329f",
-  "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark"
+  "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
+  "b33d56e8648a465f",
+  "oilpricesrisemorethan2amidhouthiattacksusgulfshutins"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-08",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-10-08T11:20:18.915842+03:00",
+ "last_run": "2026-10-08T11:25:14.360455+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1400,6 +1400,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil Prices Rise More Than 2% Amid Houthi Attacks, U.S. Gulf Shut-Ins - WSJ"
   }
  ]
 }
