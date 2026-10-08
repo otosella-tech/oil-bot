@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "8c3ce3cb6ce60408",
-  "anoilshockmostlylikenootherpimcocommentaries",
-  "22ddbc04cc7c4dd8",
-  "currentpriceofoilasofoct12026",
   "643bc28fa701c379",
   "franceandgermanysaydieselpromisetotrumpwontrequirenewstockre",
   "937f551446bec145",
@@ -603,7 +599,11 @@
   "ace6b2f35a54d9d3",
   "asiaracestostockpileoilspeeduprenewablesinresponsetoiranwar",
   "cbd339915d49b123",
-  "eiaboostsoilpriceforecastby5in202610in2027"
+  "eiaboostsoilpriceforecastby5in202610in2027",
+  "dbb65a5872610411",
+  "inmainesenateracespikingheatingoilcostsputsusancollinsondefe",
+  "c037569d013a894f",
+  "oiltops105andstocksfallonreportstheusisweighingstrikesoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T17:50:20.978077+03:00",
+ "last_run": "2026-10-08T17:55:15.269725+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1560,6 +1560,10 @@
   {
    "d": "2026-10-08",
    "t": "Asia races to stockpile oil, speed up renewables in response to Iran war - Reuters"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil tops $105 and stocks fall on reports the US is weighing strikes on Iran - Plataforma Media"
   }
  ]
 }
