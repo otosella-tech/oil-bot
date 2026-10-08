@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "564809fc03d3dd0f",
-  "middleeastoilexportstopprewarlevelsforpartofseptemberbuttank",
   "6e3706e3b7f1f36c",
   "oilrisesamidrisingmideasttensions",
   "da475053cd2ce672",
@@ -603,7 +601,9 @@
   "9b1af86db2a00b14",
   "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "44619e8c21651d8b",
-  "dowfallsnearly200pointssp500andnasdaqinredastreasuryyieldsst"
+  "dowfallsnearly200pointssp500andnasdaqinredastreasuryyieldsst",
+  "145b1400e81831b3",
+  "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 8
  },
- "last_run": "2026-10-09T01:05:16.263778+03:00",
+ "last_run": "2026-10-09T01:10:18.024634+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
