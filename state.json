@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "bccda09e82b82ead",
-  "whathasbeenhitinukrainesattacksonrussianenergysites",
-  "5086e470ba2f07ff",
-  "banksleadftse100lowerasgiltyieldsoilpricesclimb",
   "a1cdb1911d9a98aa",
   "oilshockpushesiraqtolowerdinartousdollarexchangerate",
   "cf45e9543f20d4d5",
@@ -603,7 +599,11 @@
   "3765ed49bf68e8e8",
   "oilslipsonrisingmideastcrudeexportsg7stocksrelease",
   "5fea792f3df63ca1",
-  "hurricaneisaiasshutsin25ofusgulfoilproduction"
+  "hurricaneisaiasshutsin25ofusgulfoilproduction",
+  "47cf8d63440c6731",
+  "usandrussiadiscussrevivingrussiangassalestoeurope",
+  "a2ce06768c8ebd96",
+  "wtiandbrentcrudepricessurgeover4whyareoilpricesrising"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T15:25:14.945940+03:00",
+ "last_run": "2026-10-08T15:30:26.373284+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1508,6 +1508,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil prices hit $105 and stocks tumble as Trump considers renewed strikes on Iran - NBC News"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "U.S. and Russia Discuss Reviving Russian Gas Sales to Europe"
   }
  ]
 }
