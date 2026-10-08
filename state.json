@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "2cef00353aef0f0e",
-  "economiccalendarquietwednesdayfomcprotocolandoilmarketinfocu",
   "f33d04a5c6c97da8",
   "europeansharesslipafterthreedaygainasriseinoilyieldsweigh",
   "97a25ce6c509a83b",
@@ -603,7 +601,9 @@
   "f08f0eb7f23170a8",
   "oiljumps5asiranstepsupattacksonhormuztankers",
   "4ddd70c772f0eccd",
-  "oilpricesjumpontankerattackandslowingflowsthroughstraitofhor"
+  "oilpricesjumpontankerattackandslowingflowsthroughstraitofhor",
+  "41d79af0ab40cc78",
+  "oilfuturescrudesoarsastankerattacksincreaseusstormthreat"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T13:55:15.413370+03:00",
+ "last_run": "2026-10-08T14:00:31.491825+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1472,6 +1472,10 @@
   {
    "d": "2026-10-08",
    "t": "Oil prices jump on tanker attack and slowing flows through Strait of Hormuz - Financial Times"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil futures: Crude soars as tanker attacks increase, US storm threat - Quantum Commodity Intelligence"
   }
  ]
 }
