@@ -4,10 +4,6 @@
   "Brent": 102.75
  },
  "seen": [
-  "113c7c332195488f",
-  "cnbcdailyopenfragilereboundinoilexportsthreatenedbyiranattac",
-  "f1f3a62623eb4e0f",
-  "brentcrudeoilabove100againhereswhyoilpricesarerisingtoday",
   "6c200cf2286d329f",
   "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
   "9a5f69f8843879f2",
@@ -603,7 +599,11 @@
   "a39e76919068e5a9",
   "eiareportsdecreaseinuscrudeoilstocks",
   "a9ecfecd292153d6",
-  "bigoilbeginsshuttingingulfofmexicoproduction"
+  "bigoilbeginsshuttingingulfofmexicoproduction",
+  "c8e9ee8936870a12",
+  "energyimporterslikechinaleadingshifttocleanenergyreport",
+  "a77ddd0bc36d9a11",
+  "theindianbillionaireinvestingintrumpsrefineryprojectisalsobu"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-08",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-10-08T11:00:40.482520+03:00",
+ "last_run": "2026-10-08T11:05:16.511934+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1388,6 +1388,10 @@
   {
    "d": "2026-10-08",
    "t": "Supertankers Racing to Middle East Worsen Global Ships Crunch - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "The Indian billionaire investing in Trump's refinery project is also buying more Venezuelan crude - CNBC"
   }
  ]
 }
