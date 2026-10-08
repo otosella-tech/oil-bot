@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "182323df38e5de33",
-  "cmewticrudeoilfuturesrallyongeopoliticalrisk",
-  "041b6a92b2709ee9",
-  "oilpricesfallasieamembersagreetoprioritizereleaseofdieselsto",
   "98280b169e17b123",
   "oilpricesfallbackassupplyoptimismoutweighsconflictstormrisks",
   "3926178342297e28",
@@ -603,7 +599,11 @@
   "e9bc980ffa0b5280",
   "updateusequityindexesdropassharpselloffinsemiconductorheavyw",
   "73f051654b100aaa",
-  "wticrudeoilfuturesdeclinenear89tostarttheweek"
+  "wticrudeoilfuturesdeclinenear89tostarttheweek",
+  "847b258a1986e655",
+  "oilpricesjump5pushingtreasuryyieldshigherandstockslowerasira",
+  "7fc5e2ebe975a8d8",
+  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T22:55:13.699067+03:00",
+ "last_run": "2026-10-08T23:00:27.939297+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1700,6 +1700,10 @@
   {
    "d": "2026-10-08",
    "t": "Update: US Equity Indexes Drop as Sharp Sell-Off in Semiconductor Heavyweights Sinks Technology While Crude Oil Surges - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil prices jump 5%, pushing Treasury yields higher and stocks lower as Iranian attacks disrupt tanker traffic - New York Post"
   }
  ]
 }
