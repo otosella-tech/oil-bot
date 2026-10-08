@@ -4,12 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "1465b9b222eeaa0e",
-  "crudeoileasesto1monthlow",
-  "401f8a3f53a7d138",
-  "apollojoins115billionraceforgermangasgiantuniper",
-  "c4c0933a5359a8ea",
-  "crudeoilforecastbrentabove100intensifiesinflationworries",
   "50a796c3eb011bcd",
   "usgulfenergyhubbracesforcategory2hurricane",
   "a6e2a2db16fdeaae",
@@ -603,7 +597,13 @@
   "8841809a4257c02f",
   "whyaregaspricesstillhighevenastrafficimprovesinthestraitofho",
   "f3565d749c234762",
-  "dallasfedrefineryoutagescouldkeepfuelpriceselevated"
+  "dallasfedrefineryoutagescouldkeepfuelpriceselevated",
+  "1213d4e7cc34bd66",
+  "trumpspledgenottostrikeiranbeforemidtermsfailstosootheoilmar",
+  "6523961cb3dd0fae",
+  "ieatoaccelerateoilreservereleasesays100millionbarrelsstillto",
+  "b3ecd69641bc9ba9",
+  "oilisflowingfromhormuzagainjustnotthekindtheworldneedsmost"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T21:20:17.465223+03:00",
+ "last_run": "2026-10-08T21:25:16.844223+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1660,6 +1660,14 @@
   {
    "d": "2026-10-08",
    "t": "Why are gas prices still high even as traffic improves in the Strait of Hormuz? - ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Trump’s pledge not to strike Iran before midterms fails to soothe oil markets - NBC News"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most - WSJ"
   }
  ]
 }
