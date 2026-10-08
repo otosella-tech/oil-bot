@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "c8c3492b97f0146d",
-  "iraqlookstosyrianrouteforcrudeexportstobypasshormuzreport",
   "fd82bb9d9fdaea35",
   "rubiowarnsrussiaandchinaarealreadymovinginthearctic",
   "637c8d9e9dab4521",
@@ -603,7 +601,9 @@
   "708b202a2fbd032d",
   "russianoilflowstoindiaplungeto310000bpd",
   "7e42872a1555791a",
-  "equinorfindsnewgasatnorways40year"
+  "equinorfindsnewgasatnorways40year",
+  "0c14c923e39e597c",
+  "crudeoiljumpsonfreshpersiangulftankerattackusgulfshutdownscl"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -615,7 +615,7 @@
   "date": "2026-10-08",
   "count": 60
  },
- "last_run": "2026-10-08T17:35:15.451946+03:00",
+ "last_run": "2026-10-08T17:40:19.347615+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1552,6 +1552,10 @@
   {
    "d": "2026-10-08",
    "t": "Russian Oil Flows to India Plunge to 310,000 Bpd"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Crude oil jumps on fresh Persian Gulf tanker attack, U.S. Gulf shutdowns (CL1:COM:Commodity) - Seeking Alpha"
   }
  ]
 }
