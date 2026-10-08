@@ -4,8 +4,6 @@
   "Brent": 102.75
  },
  "seen": [
-  "a08a753cf1bef968",
-  "crudeoilhigheronsupplyissues",
   "9eba65343546e976",
   "iraqseekstobuycrudeoiltankerstohandleshipmentsbeyondstraitof",
   "4b75a3ac4be63c87",
@@ -603,7 +601,9 @@
   "5cf46d71add4c101",
   "crudeoilturnshigherafterendingdiagonalexxonmobilcouldfollow",
   "61c56bbda90f5f66",
-  "oilpricesrisesharplyonmiddleeasttensionsandushurricanethreat"
+  "oilpricesrisesharplyonmiddleeasttensionsandushurricanethreat",
+  "08282be558b65021",
+  "sauditycoonsbuilt9billionfortuneoffwaterinsteadofoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-08",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-10-08T11:50:19.020079+03:00",
+ "last_run": "2026-10-08T11:55:14.545652+03:00",
  "sent_stories": [
   {
    "d": "2026-10-05",
@@ -1412,6 +1412,10 @@
   {
    "d": "2026-10-08",
    "t": "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing' - CNBC"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "Saudi Tycoons Built $9 Billion Fortune Off Water Instead of Oil - Bloomberg.com"
   }
  ]
 }
