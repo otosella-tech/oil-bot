@@ -4,10 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "469af326970b637c",
-  "bondyieldsoilpricespressurewallstreetprebellasiaeuropeoff",
-  "5576b8f4cafe8454",
-  "oilproductiontourismalreadyaffectedbyhurricaneisaiaspossible",
   "8e4c7534bc9cae89",
   "thefragilemathofoilprices",
   "f21290d534151e80",
@@ -603,7 +599,11 @@
   "dcd55e78a95300d3",
   "usfuturesarerisingascrudepricesretreatfromrecentgainsthestan",
   "bdac748984a2579f",
-  "europeanstocksreboundasoilpricesfallandfrenchbondyieldseased"
+  "europeanstocksreboundasoilpricesfallandfrenchbondyieldseased",
+  "a15eff861bf713bf",
+  "oilpricesjump5onmiddleeasttensionsandushurricanethreat",
+  "395829db8f27b685",
+  "ustochinaoiltankercostsmorethanlaunchingarocket"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T17:40:35.965513+03:00",
+ "last_run": "2026-10-09T17:45:18.578366+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
