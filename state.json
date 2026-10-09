@@ -4,8 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "3c0513790ca2e027",
-  "whatistherealpriceofoilanymore",
   "6593bf1353d53644",
   "oilmajorslookbeyondmiddleeastwarinpursuitofregionsvastreserv",
   "ed27c8b7d72feee5",
@@ -603,7 +601,9 @@
   "f503f047f3e8c60b",
   "chinatoresumeoctoberfuelexportsafterabriefhaltfourtradesourc",
   "5a4b4403d99780b2",
-  "asiansharesaremixedandcrudepricesfallafteranunsettleddayonwa"
+  "asiansharesaremixedandcrudepricesfallafteranunsettleddayonwa",
+  "d9dff37a459fca84",
+  "brentholdsabove100ashormuztankertraffichitstwo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-10-09T08:00:27.373799+03:00",
+ "last_run": "2026-10-09T08:05:14.541935+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1516,6 +1516,10 @@
   {
    "d": "2026-10-09",
    "t": "Trump rules out new Iran attack before US midterm elections - France 24"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low"
   }
  ]
 }
