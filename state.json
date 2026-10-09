@@ -4,12 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "e7f812b86605b7a9",
-  "currentpriceofoilasofoct22026",
-  "9f378de3d6fdab41",
-  "shellchevroncurbgulfofmexicoproductionashurricaneisaiasappro",
-  "f08f0eb7f23170a8",
-  "oiljumps5asiranstepsupattacksonhormuztankers",
   "4ddd70c772f0eccd",
   "oilpricesjumpontankerattackandslowingflowsthroughstraitofhor",
   "41d79af0ab40cc78",
@@ -603,7 +597,13 @@
   "3647b69feb25a84c",
   "yourfridayoct9guidefivethingstodointheoilcity",
   "b5cdf63c6839908e",
-  "currentimpactofelnioconditionsonglobalvegetableoilprices"
+  "currentimpactofelnioconditionsonglobalvegetableoilprices",
+  "bbf0fd6a28313434",
+  "oilpricesretreataftertrumpappearstoruleoutiranstrikesbeforem",
+  "7ab1774d9a73c7ca",
+  "germaneconomyministersaysgermanyistoreleaseupto15mlnbarrelso",
+  "47809ec42c7cfc55",
+  "colombiabillionairesetfor500millionvenezuelaoilwindfall"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T16:10:20.657791+03:00",
+ "last_run": "2026-10-09T16:15:20.312566+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1576,6 +1576,14 @@
   {
    "d": "2026-10-09",
    "t": "Heavy explosions in Strait of Hormuz as tankers may have hit mines: Iran’s state broadcaster - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Oil Prices Retreat After Trump Appears to Rule out Iran Strikes Before Midterms - WSJ"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Colombia Billionaire Set for $500 Million Venezuela Oil Windfall - Bloomberg.com"
   }
  ]
 }
