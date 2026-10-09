@@ -4,8 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "11c4f981472649c3",
-  "usstocksmostlylowerascrudeoilpricesspike",
   "62107ecd8b300b6a",
   "uscrudeoilstockpilespostweeklydrop",
   "be1e5ab2bbc18bab",
@@ -603,7 +601,9 @@
   "871154a94299a771",
   "trumpannouncesdealforrussiandieselaszelenskycriticisesgiftto",
   "957c95c9de108ef2",
-  "hurricaneisaiascouldnudgefuelpriceshigherifgulfofmexicorefin"
+  "hurricaneisaiascouldnudgefuelpriceshigherifgulfofmexicorefin",
+  "5fb2a78601052ff5",
+  "theworldsoillifelinehowthemiddleeastisrewritingglobaltrade"
  ],
  "releases_done": {
   "2026-10-09|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-10",
   "count": 3
  },
- "last_run": "2026-10-10T02:05:15.194479+03:00",
+ "last_run": "2026-10-10T02:10:19.834984+03:00",
  "sent_stories": [
   {
    "d": "2026-10-07",
