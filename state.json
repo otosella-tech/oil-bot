@@ -4,8 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "ef424b5488ea273a",
-  "asiansharesdeclineunderpressurefromrisingbondyieldsandsurgin",
   "58a1413f704c8279",
   "oilprices071026",
   "92f4e2a8612cb184",
@@ -603,7 +601,9 @@
   "b66b5d6bcb6b0b4e",
   "chinatoresumeoctoberfuelexportsafterholidaypausesourcessay",
   "e75da797d48b51ae",
-  "soaringfreightratesthreatenasiasappetiteforuscrudebyreuters"
+  "soaringfreightratesthreatenasiasappetiteforuscrudebyreuters",
+  "cb35b91e8e93987d",
+  "futuresingreencrudeoilslightlylower"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 45
  },
- "last_run": "2026-10-09T09:35:15.683073+03:00",
+ "last_run": "2026-10-09T09:40:18.299719+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
