@@ -4,10 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "503826314f446135",
-  "howtodetectvaporleaksinoilandgasfacilities",
-  "0d7ffc91e5676dd9",
-  "exclusiveg7s100millionbarrelpledgetiedtounfinishedmarchemerg",
   "afa091d488579b06",
   "oilpricesarejumpingagainhereshowthesp500hasperformedondayswh",
   "dc993be484f1347d",
@@ -603,7 +599,11 @@
   "4c33c66738d1a9c0",
   "pashinyansnuclearu",
   "80fc196ec567d9e1",
-  "howtheoilindustryispreparingforhurricaneisaias"
+  "howtheoilindustryispreparingforhurricaneisaias",
+  "2f3629092af35d32",
+  "oillittlechangedastrumpcommentsonirantalkseasesupplyconcerns",
+  "847aaef027af5e91",
+  "chinasoilimportslooksettoriseassupertankerfleetswells"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T19:10:17.187934+03:00",
+ "last_run": "2026-10-09T19:15:18.249517+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1612,6 +1612,14 @@
   {
    "d": "2026-10-09",
    "t": "U.S. Escorts 1.25 Billion Barrels of Oil Through Hormuz as Iranian Exports Halt - IranWire"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Oil little changed as Trump comments on Iran talks ease supply concerns - CNBC"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "China’s Oil Imports Look Set to Rise as Supertanker Fleet Swells - Bloomberg.com"
   }
  ]
 }
