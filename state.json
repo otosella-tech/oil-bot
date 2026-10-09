@@ -4,8 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "e0e85d0db040a14e",
-  "oilpricesurgesabove105ashurricanethreatensusproducers",
   "0cefa1291830cc5e",
   "currentpriceofoilasofoctober82026",
   "a690d45cb0bf29e2",
@@ -603,7 +601,9 @@
   "d642e2b399ec572d",
   "crudeoilpriceforecasthurricanethreatensusproduction",
   "59153881f271cb0b",
-  "easingoilpriceshelpsendstockshigherattheendofarecordsettingw"
+  "easingoilpriceshelpsendstockshigherattheendofarecordsettingw",
+  "6bde81ef21f03087",
+  "depletedglobalstockssethigherfloorunderoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T16:40:21.470922+03:00",
+ "last_run": "2026-10-09T16:45:17.221412+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
