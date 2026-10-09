@@ -4,10 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "5b23c1041df6fe49",
-  "uk10yearborrowingcostsriseto19yearhighafteroilpricesjump",
-  "c42392e73f6b5f73",
-  "brentcrudetops105oilgainsasmiddleeasthostilitiesandpotential",
   "e0e85d0db040a14e",
   "oilpricesurgesabove105ashurricanethreatensusproducers",
   "0cefa1291830cc5e",
@@ -603,7 +599,11 @@
   "41ee85f4d55f5f92",
   "oilpricesheadformixedweeklycloseamidconflictingmarketsignals",
   "d5b93d603d00ab54",
-  "bpsuspends2gulfofmexicoplatformsashurricaneisaiasthreatensus"
+  "bpsuspends2gulfofmexicoplatformsashurricaneisaiasthreatensus",
+  "d642e2b399ec572d",
+  "crudeoilpriceforecasthurricanethreatensusproduction",
+  "59153881f271cb0b",
+  "easingoilpriceshelpsendstockshigherattheendofarecordsettingw"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T16:35:15.449716+03:00",
+ "last_run": "2026-10-09T16:40:21.470922+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
