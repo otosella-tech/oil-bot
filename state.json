@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "78b1dfc5594da7ff",
-  "100kamonthcaptainswhatitcoststomoveoilthroughhormuz",
   "1ccf69f247ec11e1",
   "oilrisesasmiddleeastsupplyconcernspersistamidshippingattacks",
   "6de67241a899d534",
@@ -603,7 +601,9 @@
   "52997197d80b09ff",
   "worldstopcrudetraderisntrulingout200oiljustyet",
   "740d8d76f604c80e",
-  "crudeoilsurgeamidgeopoliticaltensionshighlightsmarketris"
+  "crudeoilsurgeamidgeopoliticaltensionshighlightsmarketris",
+  "19e5826ff733b3c4",
+  "oilpricesandtankerratesriseafterlatestiranianattacksinmideas"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-10-09T03:20:16.891821+03:00",
+ "last_run": "2026-10-09T03:25:14.295287+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1472,6 +1472,10 @@
   {
    "d": "2026-10-09",
    "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Oil Prices and Tanker Rates Rise After Latest Iranian Attacks in Mideast - The Maritime Executive"
   }
  ]
 }
