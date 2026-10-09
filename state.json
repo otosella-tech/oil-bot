@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "804da3a3da7aa0b8",
-  "recordgaspriceshitwalletsoftexomadrivers",
   "fece28c6bf3b20ca",
   "isaiasstrengthensintothefirsthurricaneoftheatlanticseason",
   "5c150f544ec8e09b",
@@ -603,7 +601,9 @@
   "5938ee2c49240783",
   "fastmoneytraderstalkoilclimbingonnewiranconcerns",
   "4539e62b664bd05a",
-  "75gallonoilspillontannerstreetinlowell"
+  "75gallonoilspillontannerstreetinlowell",
+  "8a3072dc7b33df52",
+  "tankerattackedoffqatarasiranclaimsroutetransportingoilthroug"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-10-09T06:55:15.779071+03:00",
+ "last_run": "2026-10-09T07:00:27.046384+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1508,6 +1508,10 @@
   {
    "d": "2026-10-09",
    "t": "'Fast Money' traders talk oil climbing on new Iran concerns - CNBC"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Tanker attacked off Qatar as Iran claims route transporting oil through strait of Hormuz will be ‘closed’ - The Guardian"
   }
  ]
 }
