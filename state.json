@@ -4,10 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "6c200cf2286d329f",
-  "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
-  "b33d56e8648a465f",
-  "oilpricesrisemorethan2amidhouthiattacksusgulfshutins",
   "b8c63b31a3ea4808",
   "oilclimbsonintensifyingshippingattacksusstormfears",
   "c976123206872e1f",
@@ -603,7 +599,11 @@
   "e449eb895002c9c7",
   "brentsseptemberriskpremiumestimatedat22abarrelgoldmansays",
   "137101deedc707d8",
-  "oilpricesdeclineastrumpcommentsonirantalkseaseimmediatesuppl"
+  "oilpricesdeclineastrumpcommentsonirantalkseaseimmediatesuppl",
+  "d4ce7eefceab8c26",
+  "ratesforoiltankershitrecordhighasmorecrudepassesthroughhormu",
+  "52161a3d8ec7ea5b",
+  "innovativeaerogelcancleanupmarineoilspills"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-10-09T13:05:14.048980+03:00",
+ "last_run": "2026-10-09T13:10:19.259949+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1544,6 +1544,10 @@
   {
    "d": "2026-10-09",
    "t": "US Sanctions 17 Vessels in New Crackdown on Iran's Shadow Fleet - Marine Link"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Rates for oil tankers hit record high, as more crude passes through Hormuz - Semafor"
   }
  ]
 }
