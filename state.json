@@ -4,8 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "bed300b0daa07f89",
-  "saudiarabiainvests21billioninoilfieldsharedwithiran",
   "3800ea071422a57b",
   "peopleprofithowlongwilltheglobalenergycrunchlast",
   "704ed51528a65efa",
@@ -603,7 +601,9 @@
   "9ca288c24903608f",
   "oilpricessettlehigherasmoreproductionshutaheadofhurricane",
   "358fe81f36259899",
-  "oiladvancesamidwarandhurricanerisks"
+  "oiladvancesamidwarandhurricanerisks",
+  "7424d34fce3ad7da",
+  "eograises3qtaxestimatealmost50asmiddleeastwarkeepsoilpricese"
  ],
  "releases_done": {
   "2026-10-09|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-10T00:35:13.686414+03:00",
+ "last_run": "2026-10-10T00:40:19.666623+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
