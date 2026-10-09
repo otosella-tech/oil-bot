@@ -4,10 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "c1e7ba7204bb7c94",
-  "brentgainsmorethan4onusirantensionshurricaneisaias",
-  "a49b8cb1a6585289",
-  "sizingupthepriceofoilhasneverbeenharder",
   "ce08193288e55fdc",
   "dowjonesfuturesfallasoilpricestreasuryyieldsjumpsamsungmicro",
   "ed0050d62aab82ac",
@@ -603,7 +599,11 @@
   "3b875dcde38e1e0e",
   "cannigerianoilexportsrelievethegreatfuelcrisis",
   "6231d262dfdfdf17",
-  "dieselmarginskeepoilearningshighascrudeslipsonirantalks"
+  "dieselmarginskeepoilearningshighascrudeslipsonirantalks",
+  "25c36e4f56d8d585",
+  "rubiowarnsukrainestalematecouldturnintowiderconflict",
+  "8359eb73c6107648",
+  "oilfuturesreturnsomegainsasusstrikeconcernswane"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T16:55:15.370403+03:00",
+ "last_run": "2026-10-09T17:00:30.146633+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1596,6 +1596,10 @@
   {
    "d": "2026-10-09",
    "t": "Oil prices jump amid record tanker attacks in Hormuz - CNN"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Oil Futures Return Some Gains As U.S. Strike Concerns Wane - WSJ"
   }
  ]
 }
