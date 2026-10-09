@@ -4,8 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "1443ae313c18a31f",
-  "iraqicrudeoiloverlandtransportviasyriaexpectedtobeginthismon",
   "84129d9a3bc8f0ac",
   "crudeoilfuturesriseonsupplydisruptionfears",
   "464ea145e21d31f6",
@@ -603,7 +601,9 @@
   "3903a6524ff735fd",
   "oilpricesup081026",
   "6ef64176ea94a15d",
-  "europefacesprolongeddieselpricepressuredespitefallinoilprice"
+  "europefacesprolongeddieselpricepressuredespitefallinoilprice",
+  "8f50e487ea0bed36",
+  "indianrupeestrengthensonfirmcentralbankinterventionoilretrea"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 43
  },
- "last_run": "2026-10-09T09:15:22.134122+03:00",
+ "last_run": "2026-10-09T09:20:17.107971+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
