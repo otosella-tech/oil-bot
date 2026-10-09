@@ -4,8 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "dcda5505a5851efb",
-  "hormuztransitsatlowestinovertwomonthsafterattacksdatashows",
   "a60de32e89c7ffb6",
   "oiltradersareincreasinglytuningouttrumpsiranrhetoric",
   "0ee94a572aa3cc55",
@@ -603,7 +601,9 @@
   "7335af6057fac622",
   "sprcrudeoilacquisitionprocedures",
   "10ffde2ac749053c",
-  "trumppromisesnottoresumestrikesbeforemidtermelections"
+  "trumppromisesnottoresumestrikesbeforemidtermelections",
+  "0e8e91f423246d8b",
+  "trumpenvoykeptfinancialtiestofirmbehind15billionhormuzbypass"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T14:55:15.362026+03:00",
+ "last_run": "2026-10-09T15:00:29.236416+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1568,6 +1568,10 @@
   {
    "d": "2026-10-09",
    "t": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - Reuters"
   }
  ]
 }
