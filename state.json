@@ -4,12 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "e84182a81bcc26d3",
-  "currentpriceofoilasofseptember252026",
-  "bbd5069ada8361af",
-  "morningwrapwallstreetandpreciousmetalsattempttostabilizeasoi",
-  "34f516db72097cf9",
-  "stormisaiasissettobecomeahurricaneasitapproachesgulfoilpatch",
   "d861422b496ae884",
   "uscrudeoilinventoriesdown07inweekendingoct2",
   "9467ca911bf0b6d4",
@@ -603,7 +597,13 @@
   "7424b311e5102953",
   "costcoisrationingmotoroiland0w20driversarehithardest",
   "1d72d58ce05678dd",
-  "icereviewcanolafollowscrudeoilsascent"
+  "icereviewcanolafollowscrudeoilsascent",
+  "8e099ecb20722a23",
+  "currentpriceofoilasofoct72026",
+  "986fa96f594c5a94",
+  "iraqlaunchesnewcrudeoilroutethroughsyriatobypassthestraitofh",
+  "1b5c9b1ab0e580c7",
+  "costcoisrationingmotoroilto2jugsaweekand0w20ownersarepayingt"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 45
+  "count": 47
  },
- "last_run": "2026-10-09T10:20:20.830494+03:00",
+ "last_run": "2026-10-09T10:25:16.441015+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1532,6 +1532,10 @@
   {
    "d": "2026-10-09",
    "t": "Soaring freight rates threaten Asia’s appetite for US crude By Reuters - Investing.com"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Iraq launches new crude oil route through Syria to bypass the Strait of Hormuz - UkrAgroConsult"
   }
  ]
 }
