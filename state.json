@@ -4,8 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "5deb7502b8994b52",
-  "oilgainsonreporttrumpmayorderiranstrikesbeforemidterms",
   "6c200cf2286d329f",
   "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
   "b33d56e8648a465f",
@@ -603,7 +601,9 @@
   "1a036d2ea603114e",
   "australiaclosetofinalizinggasreservationplanforlngexporters",
   "e449eb895002c9c7",
-  "brentsseptemberriskpremiumestimatedat22abarrelgoldmansays"
+  "brentsseptemberriskpremiumestimatedat22abarrelgoldmansays",
+  "137101deedc707d8",
+  "oilpricesdeclineastrumpcommentsonirantalkseaseimmediatesuppl"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 54
+  "count": 55
  },
- "last_run": "2026-10-09T12:50:18.833117+03:00",
+ "last_run": "2026-10-09T12:55:50.111801+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
