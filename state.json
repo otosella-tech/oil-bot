@@ -4,10 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "5b631892278231a3",
-  "oilremainsbeyond100perbarrelasmiddleeastsupplyconcernspersis",
-  "9996f445146c5d1b",
-  "palmoilfuturesclimbonindiabuyingandhighercrude",
   "d3216441a10a577e",
   "g7torelease100millionbarrelsofoilanddieselwillitcurbprices",
   "0c121ef0706cb3d6",
@@ -603,7 +599,11 @@
   "687fc830cd7e606a",
   "chinaapprovesnonstatecrudeoilimportquotafor2027at257milliont",
   "f3065bff25c43230",
-  "indianshareslikelytoreboundafterselloffbutoilsurgemaycapgain"
+  "indianshareslikelytoreboundafterselloffbutoilsurgemaycapgain",
+  "a50777f64221d4d5",
+  "oilfallsastrumpcommentsonirantalkseasesupplyconcerns",
+  "4a8fc69c47f160bc",
+  "dowtumblesoilsurgesandyieldsrisetonew24yearhighsastrumpconsi"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-10-09T05:35:13.944892+03:00",
+ "last_run": "2026-10-09T05:40:18.380595+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1492,6 +1492,14 @@
   {
    "d": "2026-10-09",
    "t": "Indian shares likely to rebound after selloff, but oil surge may cap gains - Reuters"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Oil falls as Trump comments on Iran talks ease supply concerns - Reuters"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Dow Tumbles, Oil Surges, and Yields Rise to New 24-Year Highs as Trump Considers Ramping Up Iran Attacks - Yahoo Finance"
   }
  ]
 }
