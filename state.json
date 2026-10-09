@@ -4,8 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "a08a753cf1bef968",
-  "crudeoilhigheronsupplyissues",
   "b5a2b6b2175a6e55",
   "oilpricessurgeandstockssinkonfreshinflationworries",
   "4b75a3ac4be63c87",
@@ -603,7 +601,9 @@
   "6ac65142d12ff6a5",
   "wallstreetunsettledasoilcostsrisetechstocksfallthearkansasde",
   "8fb7a8b050af0855",
-  "adipinoilpricesgavethepoundsomebreathingroom"
+  "adipinoilpricesgavethepoundsomebreathingroom",
+  "b75090b482e2669b",
+  "whythepriceofthisoneetfhasgoneexponential"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T13:40:18.652925+03:00",
+ "last_run": "2026-10-09T13:45:16.826136+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
