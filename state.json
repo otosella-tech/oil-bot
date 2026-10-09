@@ -4,8 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "5181ec4d5b85d432",
-  "europeanstocksfallasbondyieldsandoilpricesriseoninflationcon",
   "708b202a2fbd032d",
   "russianoilflowstoindiaplungeto310000bpd",
   "7e42872a1555791a",
@@ -603,7 +601,9 @@
   "f00e23c9e612ebe6",
   "saudiaramcoreportedlyrestoresfullcrudeoilsupplytoeuropeforno",
   "954a969cbe189713",
-  "crudeoildropsontrumpsrussiandieselplan"
+  "crudeoildropsontrumpsrussiandieselplan",
+  "046b61065dea0822",
+  "pumppricesremainatrecordhighsforautumn"
  ],
  "releases_done": {
   "2026-10-09|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T22:35:13.619749+03:00",
+ "last_run": "2026-10-09T22:40:17.314675+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
