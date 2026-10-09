@@ -4,12 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "b773439f0fcfb2f2",
-  "stocksofoilplungejunkbondsaivcunderpressurehowromanlawwasmad",
-  "d92b43c772bd7b65",
-  "toplinks1248stocksofoilplungejunkbondsaivcunderpressurehowro",
-  "b733b3532bc6b355",
-  "chevronexitshessmidstreamasitrestructuresbakkendjassets",
   "8112c95c996d43a9",
   "indiasinflationlikelyhit54inseptemberasoilcostsbite",
   "dcda5505a5851efb",
@@ -603,7 +597,13 @@
   "33745fb4044d8aa3",
   "crudeoilbelow91",
   "9553f1b215b43213",
-  "indiansharesriseendlongestweeklylosingstreakin25years"
+  "indiansharesriseendlongestweeklylosingstreakin25years",
+  "8c7c627ec80639b1",
+  "usfuturesarerisingascrudepricesretreatfromrecentgainswhio",
+  "4b75a3ac4be63c87",
+  "oilpricesslideabout2asusiranexplorepathoutofwar",
+  "7335af6057fac622",
+  "sprcrudeoilacquisitionprocedures"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T14:35:14.389879+03:00",
+ "last_run": "2026-10-09T14:40:18.559226+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1564,6 +1564,10 @@
   {
    "d": "2026-10-09",
    "t": "Asian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters"
   }
  ]
 }
