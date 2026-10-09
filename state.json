@@ -4,10 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "a15eff861bf713bf",
-  "oilpricesjump5onmiddleeasttensionsandushurricanethreat",
-  "c060bf99c16e95ab",
-  "oilpricessurgeover4onreportsofpossiblenewusstrikesoniran",
   "469af326970b637c",
   "bondyieldsoilpricespressurewallstreetprebellasiaeuropeoff",
   "5576b8f4cafe8454",
@@ -603,7 +599,11 @@
   "d995440f6fd6f571",
   "theoilstoryeveryonestellingyouiswronghereswhatsactuallydrivi",
   "45762651b3565ce7",
-  "canadasnewoilpipelinechallengedbycoldlakefirstnations"
+  "canadasnewoilpipelinechallengedbycoldlakefirstnations",
+  "dcd55e78a95300d3",
+  "usfuturesarerisingascrudepricesretreatfromrecentgainsthestan",
+  "bdac748984a2579f",
+  "europeanstocksreboundasoilpricesfallandfrenchbondyieldseased"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T17:35:17.085423+03:00",
+ "last_run": "2026-10-09T17:40:35.965513+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
