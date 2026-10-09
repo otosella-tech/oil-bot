@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "fece28c6bf3b20ca",
-  "isaiasstrengthensintothefirsthurricaneoftheatlanticseason",
   "5c150f544ec8e09b",
   "uscrudeoilinventoriesdecreaseby32millionbarrels",
   "c17444467a6d878b",
@@ -603,7 +601,9 @@
   "4539e62b664bd05a",
   "75gallonoilspillontannerstreetinlowell",
   "8a3072dc7b33df52",
-  "tankerattackedoffqatarasiranclaimsroutetransportingoilthroug"
+  "tankerattackedoffqatarasiranclaimsroutetransportingoilthroug",
+  "c9e5283a2d9c2111",
+  "trumprulesoutnewiranattackbeforeusmidtermelections"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-10-09T07:05:16.255313+03:00",
+ "last_run": "2026-10-09T07:10:20.376851+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1512,6 +1512,10 @@
   {
    "d": "2026-10-09",
    "t": "Tanker attacked off Qatar as Iran claims route transporting oil through strait of Hormuz will be ‘closed’ - The Guardian"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Trump rules out new Iran attack before US midterm elections - France 24"
   }
  ]
 }
