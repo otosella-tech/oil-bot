@@ -4,8 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "4abe6f7c16647821",
-  "higheroilpricespulltheusstockmarketfurtherfromitsrecord",
   "2812781cbfcce148",
   "uaejoinskazakhstanuzbekistaninpushfortrans",
   "97f601d357a8a505",
@@ -603,7 +601,9 @@
   "95dcf910000c6b34",
   "whatistherealpriceofoil",
   "c383a9b6625ccf4a",
-  "tankerattacksinstraitofhormuzsurgetowartimehighasirantriesto"
+  "tankerattacksinstraitofhormuzsurgetowartimehighasirantriesto",
+  "b96bc2e9a22e876d",
+  "usgulfproducersshutinmoreoilandgasasisaiasnearslandfall"
  ],
  "releases_done": {
   "2026-10-09|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T21:15:17.995658+03:00",
+ "last_run": "2026-10-09T21:20:18.609198+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
