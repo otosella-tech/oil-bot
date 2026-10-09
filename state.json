@@ -4,8 +4,6 @@
   "Brent": 104.91
  },
  "seen": [
-  "bff3b5ecb28b2561",
-  "rupeerisksmorelossesafterpostrbipolicyslidehigheroiladdstowo",
   "8a3072dc7b33df52",
   "tankerattackedoffqatarasiranclaimsroutetransportingoilthroug",
   "804da3a3da7aa0b8",
@@ -603,7 +601,9 @@
   "c65956a708134138",
   "techstockstofallasopenaisinksuschipmakersmarketswrap",
   "d4953146f6c070f5",
-  "oilpricestodaybrentslipsastrumpcitesproductivetalkswithiran"
+  "oilpricestodaybrentslipsastrumpcitesproductivetalkswithiran",
+  "5938ee2c49240783",
+  "fastmoneytraderstalkoilclimbingonnewiranconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-10-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-09",
-  "count": 25
+  "count": 27
  },
- "last_run": "2026-10-09T06:20:18.266796+03:00",
+ "last_run": "2026-10-09T06:25:14.775089+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1504,6 +1504,10 @@
   {
    "d": "2026-10-09",
    "t": "$Crude Oil Futures (NOV6) (CLmain.US)$$Brent Last Day Financial Futures Current Contract (DEC6) (BZcurrent.US)$ Iran’s state broadcaster IRIB reported on Thursday that several heavy explosions occurred in the southern passage of the Strait of Hormuz, c - Moomoo"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "'Fast Money' traders talk oil climbing on new Iran concerns - CNBC"
   }
  ]
 }
