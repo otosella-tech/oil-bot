@@ -4,12 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "26729a639ce6e865",
-  "usstocksedgefurtherfromtheirrecordasoilpricesriseunion",
-  "1738272a14fa3b08",
-  "indiashunscostlyrussianoilasmiddleeastflowsrecover",
-  "25796da49096d60c",
-  "usstocksedgefurtherfromtheirrecordasoilpricesrise",
   "50e8d95163da8153",
   "intrumpsrussianoildealmiddleeastfundsarethebiggestowners",
   "bed300b0daa07f89",
@@ -603,7 +597,13 @@
   "4cf2effc76986b85",
   "oklahomapartofenergygrowthinkcfederalreservebankdistrict",
   "b8df27f5b223d451",
-  "trumpannouncesrussiawillreleasemillionsoftonsofdieseltohelpw"
+  "trumpannouncesrussiawillreleasemillionsoftonsofdieseltohelpw",
+  "7dbc129e81c1eb15",
+  "hurricaneisaiastostresstestoilmarketsalreadyhobbledbytightfu",
+  "df41a9c3fd9a1585",
+  "trumpeasesrussiasanctionssaysputinwillreleasedieselamidmassi",
+  "9ca288c24903608f",
+  "oilpricessettlehigherasmoreproductionshutaheadofhurricane"
  ],
  "releases_done": {
   "2026-10-09|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T23:25:13.906934+03:00",
+ "last_run": "2026-10-09T23:30:22.407017+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1697,6 +1697,14 @@
   {
    "d": "2026-10-09",
    "t": "Asia races to stockpile oil, speed up renewables in response to Iran war - Reuters"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies - MarketWatch"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "Trump eases Russia sanctions, says Putin will release diesel amid massive price spikes - NBC News"
   }
  ]
 }
