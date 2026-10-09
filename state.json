@@ -4,10 +4,6 @@
   "Brent": 102.8
  },
  "seen": [
-  "0cefa1291830cc5e",
-  "currentpriceofoilasofoctober82026",
-  "a690d45cb0bf29e2",
-  "oilpricesjumpamidrecordtankerattacksinhormuz",
   "92a9a02fb6288ce0",
   "firstthingtodaytwosidedtradeaheadoffridaysusdadata",
   "a54396686844a0be",
@@ -603,7 +599,11 @@
   "59153881f271cb0b",
   "easingoilpriceshelpsendstockshigherattheendofarecordsettingw",
   "6bde81ef21f03087",
-  "depletedglobalstockssethigherfloorunderoilprices"
+  "depletedglobalstockssethigherfloorunderoilprices",
+  "9d06736a86635b6f",
+  "ifthestraitofhormuzisopenwhyaregasanddieselsoexpensive",
+  "27f36a17c1f53508",
+  "shelltotake30stakeinequinorsbaydunordoilprojectincanada"
  ],
  "releases_done": {},
  "last_digest": "2026-10-09",
@@ -615,7 +615,7 @@
   "date": "2026-10-09",
   "count": 60
  },
- "last_run": "2026-10-09T16:45:17.221412+03:00",
+ "last_run": "2026-10-09T16:50:22.597017+03:00",
  "sent_stories": [
   {
    "d": "2026-10-06",
@@ -1588,6 +1588,10 @@
   {
    "d": "2026-10-09",
    "t": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries - CNBC"
+  },
+  {
+   "d": "2026-10-09",
+   "t": "If the Strait of Hormuz is open, why are gas and diesel so expensive? - CNN"
   }
  ]
 }
