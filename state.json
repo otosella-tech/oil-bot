@@ -4,10 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "dfb4d17592a476c7",
-  "crudeoilgrindshigheronrecordtankerattacksandhouthimissiles",
-  "0e433954bd4868ee",
-  "reliancedrivesindiasvenezuelanoilimportstoseven",
   "4ba340f6260c4cda",
   "oilpricesspikeonnewgulfattacksasglobalreservesscarilythin",
   "46ec132b2c3f1702",
@@ -603,7 +599,11 @@
   "75c368f9a12aad53",
   "badweathershutsin715ofusgulfofmexicooiloutput588ofnaturalgas",
   "969038720925325d",
-  "intheunitedstatesmorethan60ofoilproductioninthegulfofmexicow"
+  "intheunitedstatesmorethan60ofoilproductioninthegulfofmexicow",
+  "3adc8407fc61386a",
+  "trumpsaysrussiatosupplydieseltousandglobalmarkets",
+  "0cd8898b2c92f138",
+  "trumpsignedsweepingrussiasanctionslastmonthnowhesstrikingadi"
  ],
  "releases_done": {
   "2026-10-09|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-10-10",
-  "count": 9
+  "count": 11
  },
- "last_run": "2026-10-10T03:45:33.091190+03:00",
+ "last_run": "2026-10-10T03:50:18.119704+03:00",
  "sent_stories": [
   {
    "d": "2026-10-07",
@@ -1505,6 +1505,14 @@
   {
    "d": "2026-10-10",
    "t": "Russian Oil Flows to India Plunge to 310,000 Bpd - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-10",
+   "t": "Trump says Russia to supply diesel to US and global markets - Reuters"
+  },
+  {
+   "d": "2026-10-10",
+   "t": "Trump signed sweeping Russia sanctions last month. Now he's striking a diesel deal with Putin - Fortune"
   }
  ]
 }
