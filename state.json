@@ -4,10 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "52997197d80b09ff",
-  "worldstopcrudetraderisntrulingout200oiljustyet",
-  "740d8d76f604c80e",
-  "crudeoilsurgeamidgeopoliticaltensionshighlightsmarketris",
   "19e5826ff733b3c4",
   "oilpricesandtankerratesriseafterlatestiranianattacksinmideas",
   "4dfdd838ac0f9ffb",
@@ -603,7 +599,11 @@
   "cfa03434fefd8fa2",
   "oilfallsto103astrumpsaysuswillnotattackiranbeforethemidterme",
   "b3ca4843004daa25",
-  "theworldhasnearlyburnedthroughitsoilstockpilebufferexecutive"
+  "theworldhasnearlyburnedthroughitsoilstockpilebufferexecutive",
+  "87b8be234bf334c0",
+  "tankerratessoartorecordasoilcrisisbecomesshippingcrisis",
+  "2383d5cbd140c2b6",
+  "emergencyoilreleasesriskdrainingtheworldslastsupplycushion"
  ],
  "releases_done": {},
  "last_digest": "2026-10-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-11",
-  "count": 3
+  "count": 5
  },
- "last_run": "2026-10-11T01:55:13.624454+03:00",
+ "last_run": "2026-10-11T02:00:27.279860+03:00",
  "sent_stories": [
   {
    "d": "2026-10-08",
@@ -1348,6 +1348,10 @@
   {
    "d": "2026-10-11",
    "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
+  },
+  {
+   "d": "2026-10-11",
+   "t": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis"
   }
  ]
 }
