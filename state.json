@@ -4,10 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "0a866a1250d65777",
-  "crudepricessurgeonpossibleescalationofusiranwar",
-  "b2856fe87a905012",
-  "averagegaspricefallsacrosstexasdespiteriseinoilprices",
   "8089f61a48b0bfd7",
   "oilfinisheshigherdespitetrumptruthsocialpost",
   "3d1c7db143d655e2",
@@ -603,7 +599,11 @@
   "43ac1e7c686ddffa",
   "crudeoilpriceforecasttrumpsayshewontattackiranbeforemidterme",
   "c48e894afbb1a12c",
-  "currentpriceofoilasofoctober52026"
+  "currentpriceofoilasofoctober52026",
+  "7c6d3c8c0283fd64",
+  "southeastasianeedsmorepowerbutitsweakgridcouldbeaproblem",
+  "1c76a68354cc6725",
+  "oilslipsassaudiarabiaoffersmorecrudeviaoman"
  ],
  "releases_done": {},
  "last_digest": "2026-10-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-10",
-  "count": 44
+  "count": 45
  },
- "last_run": "2026-10-10T21:55:14.794717+03:00",
+ "last_run": "2026-10-10T22:00:28.820908+03:00",
  "sent_stories": [
   {
    "d": "2026-10-07",
