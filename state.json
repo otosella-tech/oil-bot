@@ -606,16 +606,16 @@
   "crudeoilweeklygainhormuztankertraffichitstwomonthlownewsands"
  ],
  "releases_done": {},
- "last_digest": "2026-10-09",
+ "last_digest": "2026-10-10",
  "digest_prices": {
-  "WTI": 90.36,
-  "Brent": 102.94
+  "WTI": 91.85,
+  "Brent": 104.72
  },
  "llm": {
   "date": "2026-10-10",
-  "count": 17
+  "count": 23
  },
- "last_run": "2026-10-10T07:55:14.338215+03:00",
+ "last_run": "2026-10-10T08:00:25.548145+03:00",
  "sent_stories": [
   {
    "d": "2026-10-07",
