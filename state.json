@@ -4,16 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "01a0891a502fb47d",
-  "usstocksclosemostlyloweronspikeinoilpricesopenairevenueconce",
-  "08dc89c00751f91d",
-  "treasurysanctions17tankerslinkedtoiransshadowfleetineconomic",
-  "11e130e8370bab5a",
-  "iranwarenergyshockputshydrogenbackonthetable",
-  "68dcbf91e1906197",
-  "usbondsrallyafter30yearauctionfindssoliddemand",
-  "c7e389b3ed244303",
-  "oilgainsasiranreportedlyvowstokeephormuzcontrol",
   "f067144ee8abc07a",
   "usstockmarketstradedmixedweigheddownbyrisingcrudeoilpricesan",
   "f4ce7cb8aa824fd1",
@@ -603,7 +593,17 @@
   "ed7d699f44db97b9",
   "crudeoilpricesmixedbrentrises05in5daywtidips",
   "31176da28de69b4a",
-  "octoberseesneardailystrikesonshipsinhormuz"
+  "octoberseesneardailystrikesonshipsinhormuz",
+  "0e33e183f6f6bf98",
+  "currentpriceofoilasofsept212026",
+  "08dd4ec7c9ab91a9",
+  "bankofamericasaysbrentcrudeoilcouldtop150abarrelifiranwardis",
+  "0d328c9fbf50fe18",
+  "stockssupportedbymaactivityandlowercrudeoilprices",
+  "4c68c75c8e9aba95",
+  "currentpriceofoilasofsept182026",
+  "fbf95c71d8ab6a0f",
+  "currentpriceofoilasofseptember172026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-10",
-  "count": 41
+  "count": 42
  },
- "last_run": "2026-10-10T20:05:14.220761+03:00",
+ "last_run": "2026-10-10T20:10:18.622842+03:00",
  "sent_stories": [
   {
    "d": "2026-10-07",
