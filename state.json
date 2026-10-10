@@ -4,10 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "c48e894afbb1a12c",
-  "currentpriceofoilasofoctober52026",
-  "8d21f769330ba590",
-  "oilsurgesstockssinkonjittersoverusplansiniranwar",
   "a92ef9529249100f",
   "crudeoilgainsonrenewedsupplydisruptions",
   "0a866a1250d65777",
@@ -603,7 +599,11 @@
   "e205408a052fae9e",
   "oilsandsmareturnswithcenovusathabascapurchase",
   "8ed1ce231d66dbf1",
-  "giftstoputinukrainerattledastrumpeasessanctionsonrussianoil"
+  "giftstoputinukrainerattledastrumpeasessanctionsonrussianoil",
+  "7e47333b4bfc9942",
+  "oilpricevolatilitytopslistofearningsrisksforjapanfirmsreuter",
+  "43ac1e7c686ddffa",
+  "crudeoilpriceforecasttrumpsayshewontattackiranbeforemidterme"
  ],
  "releases_done": {},
  "last_digest": "2026-10-10",
@@ -615,7 +615,7 @@
   "date": "2026-10-10",
   "count": 44
  },
- "last_run": "2026-10-10T21:10:18.071584+03:00",
+ "last_run": "2026-10-10T21:15:18.004087+03:00",
  "sent_stories": [
   {
    "d": "2026-10-07",
