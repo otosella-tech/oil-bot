@@ -4,10 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "d4ce7eefceab8c26",
-  "ratesforoiltankershitrecordhighasmorecrudepassesthroughhormu",
-  "52161a3d8ec7ea5b",
-  "innovativeaerogelcancleanupmarineoilspills",
   "6c200cf2286d329f",
   "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
   "f9145242001f04cc",
@@ -603,7 +599,11 @@
   "888971743856e903",
   "wticrudeoilfuturesfellbelow93aspeacetalksadvanced",
   "b09302e61e03f4b7",
-  "crudeoiloutlookusirantalkssupplyriskslikelytokeeppricesvolat"
+  "crudeoiloutlookusirantalkssupplyriskslikelytokeeppricesvolat",
+  "b9b06137726f4a83",
+  "wticrudeoilwhysupplyreliefhasyettocalmprices",
+  "074bc0b6448790f0",
+  "hormuzattacksintensifyaseffortstoendwaroniranstall"
  ],
  "releases_done": {},
  "last_digest": "2026-10-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-11",
-  "count": 28
+  "count": 29
  },
- "last_run": "2026-10-11T17:10:16.899238+03:00",
+ "last_run": "2026-10-11T17:15:19.067851+03:00",
  "sent_stories": [
   {
    "d": "2026-10-08",
