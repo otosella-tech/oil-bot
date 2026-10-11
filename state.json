@@ -4,8 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "74df046caeed906b",
-  "germanytorelease15millionbarrelsfromoilreserves",
   "c4678811ab848ade",
   "crudeoilisunderpricedenergyaspectssays",
   "9d3074a9c50b1117",
@@ -603,7 +601,9 @@
   "946985e344393e88",
   "oilpricesfallafterussaysdamagedsaudipipelinewillrestartopera",
   "48662463bff798cd",
-  "theoilmarketthatsetstodaysgaspriceswasinventedinwesternpenns"
+  "theoilmarketthatsetstodaysgaspriceswasinventedinwesternpenns",
+  "3f4347a07a50c01e",
+  "crudeoilpricespushhigherassaudistrikesraiserisksasrussiaexpa"
  ],
  "releases_done": {},
  "last_digest": "2026-10-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-12",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-10-12T01:20:17.443528+03:00",
+ "last_run": "2026-10-12T01:25:13.237019+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -992,6 +992,10 @@
   {
    "d": "2026-10-12",
    "t": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days - CNBC"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Crude Oil Prices Push Higher as Saudi Strikes Raise Risks as Russia Expands Diesel Supply - FXLeaders"
   }
  ]
 }
