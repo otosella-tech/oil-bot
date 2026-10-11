@@ -4,14 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "9d3074a9c50b1117",
-  "heavyexplosionsinstraitofhormuzastankersmayhavehitminesirans",
-  "f45223c8164c1654",
-  "hurricaneisaiasthreatenstodrivegaspriceshigherasoilproductio",
-  "9f21262ee8f7d5ed",
-  "crudeoilpricesfallondollarstrengthandsaudipricecuts",
-  "14785af99d21ae29",
-  "oilpricessettleastrumptoutsproductivetalkswithiran",
   "3647b69feb25a84c",
   "yourfridayoct9guidefivethingstodointheoilcity",
   "b5cdf63c6839908e",
@@ -603,7 +595,15 @@
   "3f4347a07a50c01e",
   "crudeoilpricespushhigherassaudistrikesraiserisksasrussiaexpa",
   "036151626e2ae043",
-  "oiltheftisontheriseintheheartofusshalecountryanditsmostlycar"
+  "oiltheftisontheriseintheheartofusshalecountryanditsmostlycar",
+  "92792b860982ca14",
+  "crudeoilisunderpricedenergyaspectssays",
+  "b8d3f070e3301fb1",
+  "crudeoilstraighttothereactorindustrialtestshowswholecrudecan",
+  "4744774c14af1259",
+  "oilrisesonmideastattacksdollaredgeshighermarketswrap",
+  "f9301ea92f14ed39",
+  "bpcurbsproductionattwoplatformsingulfofmexicoduetohurricanei"
  ],
  "releases_done": {},
  "last_digest": "2026-10-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-12",
-  "count": 4
+  "count": 5
  },
- "last_run": "2026-10-12T01:35:13.366232+03:00",
+ "last_run": "2026-10-12T01:40:18.400191+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
