@@ -4,8 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "8f50e487ea0bed36",
-  "indianrupeestrengthensonfirmcentralbankinterventionoilretrea",
   "b66b5d6bcb6b0b4e",
   "chinatoresumeoctoberfuelexportsafterholidaypausesourcessay",
   "e75da797d48b51ae",
@@ -603,7 +601,9 @@
   "00d5466f77e1efcf",
   "superoiltankercatchesfireafterhittingseamineinstraitofhormuz",
   "2459f52df96f34fe",
-  "ilamtobuildrefineryusingazarandchangulehcrudeoil"
+  "ilamtobuildrefineryusingazarandchangulehcrudeoil",
+  "09df9244212c8eb7",
+  "record500000oiltankerratespushupdutchfuelprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-11",
@@ -615,7 +615,7 @@
   "date": "2026-10-11",
   "count": 20
  },
- "last_run": "2026-10-11T09:20:16.696974+03:00",
+ "last_run": "2026-10-11T09:25:14.766569+03:00",
  "sent_stories": [
   {
    "d": "2026-10-08",
