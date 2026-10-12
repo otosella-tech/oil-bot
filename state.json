@@ -4,8 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "41ee85f4d55f5f92",
-  "oilpricesheadformixedweeklycloseamidconflictingmarketsignals",
   "d5b93d603d00ab54",
   "bpsuspends2gulfofmexicoplatformsashurricaneisaiasthreatensus",
   "d642e2b399ec572d",
@@ -603,7 +601,9 @@
   "88ba0b41157d78db",
   "oilclimbsasmideastconflicttankerattackspersist",
   "308546d4b95c69d2",
-  "hurricaneisaiasdisruptsusoilproductioningulfofmexicothreaten"
+  "hurricaneisaiasdisruptsusoilproductioningulfofmexicothreaten",
+  "e86993e1bfffac48",
+  "japangovernmenttoexpandtankerreinsuranceequivalentcoveragefo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-12",
-  "count": 9
+  "count": 11
  },
- "last_run": "2026-10-12T03:00:27.469654+03:00",
+ "last_run": "2026-10-12T03:05:15.270892+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1008,6 +1008,10 @@
   {
    "d": "2026-10-12",
    "t": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries - CNBC"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Japan: Government to expand tanker reinsurance equivalent coverage for non-Iranian crude oil - Asia Insurance Review"
   }
  ]
 }
