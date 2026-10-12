@@ -4,16 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "06839e304f985669",
-  "germanytoreleaseupto15millionbarrelsofoilandpetroleumproduct",
-  "73f051654b100aaa",
-  "wticrudeoilfuturesdeclinenear89tostarttheweek",
-  "40583da250086158",
-  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr",
-  "041b6a92b2709ee9",
-  "oilpricesfallasieamembersagreetoprioritizereleaseofdieselsto",
-  "b418956e74256539",
-  "iransoillifelinecouldrundrybymiddecemberkplersays",
   "631639f0c2c72656",
   "currentpriceofoilasofsept302026",
   "4c863c2cb3682eb2",
@@ -603,7 +593,17 @@
   "bcf1099886b26985",
   "yourmondayoct12guide3thingstodointheoilcity",
   "235cbf19afe7889b",
-  "theoilcrisisamericasawcoming"
+  "theoilcrisisamericasawcoming",
+  "32b0cf80a675e645",
+  "usfuturesmixedoilrisesafterrussiahitsukraineenergysites",
+  "2ac87127dc1a531c",
+  "higherinflationontapasoilpricesriseamidgeopoliticalturmoilna",
+  "8e736919abe4da2e",
+  "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue",
+  "d32865ea23ac1268",
+  "stockspressuredbysoaringcrudeoilprices",
+  "659e59bde38c4f9e",
+  "currentpriceofoilasofseptember232026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T16:10:28.591254+03:00",
+ "last_run": "2026-10-12T16:15:16.557809+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1240,6 +1240,14 @@
   {
    "d": "2026-10-12",
    "t": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "U.S. Futures Mixed, Oil Rises After Russia Hits Ukraine Energy Sites - WSJ"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained - CNBC"
   }
  ]
 }
