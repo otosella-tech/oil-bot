@@ -4,8 +4,6 @@
   "Brent": 104.69
  },
  "seen": [
-  "5f83906ee2a8c95b",
-  "ukrainehitssamaraoilblendinghubinsecondprecisionstrike",
   "2ff0431086fec7ef",
   "ukrainianforcesstrikeoilfacilityinrussiassamararegionagain",
   "80d97e2af5be4758",
@@ -603,7 +601,9 @@
   "7888c87b0bb85811",
   "trumpturnstorussiandieselaheadofmidtermsbutanalystsseelittle",
   "fc461ab79199410a",
-  "forecastupdateforcrudeoil12102026"
+  "forecastupdateforcrudeoil12102026",
+  "83589761e4f9d86e",
+  "usfuturesaremixedasbrentcrudetops105abarrelaftertrumpsaysusw"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T15:20:16.969933+03:00",
+ "last_run": "2026-10-12T15:25:14.039370+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
