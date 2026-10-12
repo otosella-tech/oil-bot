@@ -4,12 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "f8919fe1b35fdd82",
-  "oilfallsastrumpcommentsonirantalkseasesupplyconcerns",
-  "29846eadd5790ceb",
-  "trumpwarnszelenskyhebetterdamnwellstopattackingrussianoilref",
-  "2641a49f8697ea8d",
-  "oilpricessettleslightlyhigheronsupplyworriesastrumprejectsir",
   "16848a1eaaa870fe",
   "oilendsweekhigherashurricanedisruptsusgulfproductionandcanad",
   "c39f724150e26366",
@@ -603,7 +597,13 @@
   "61e44b65c741b9d7",
   "saudiarabiainsistsenergysupplyremainsresilient",
   "b3ca4843004daa25",
-  "theworldhasnearlyburnedthroughitsoilstockpilebufferexecutive"
+  "theworldhasnearlyburnedthroughitsoilstockpilebufferexecutive",
+  "1b83ee36d07e78d9",
+  "usstocksmixedoilgainsonfreshenergystrikesinukraine",
+  "74f02075cb8b5199",
+  "virginiagaspricesrisewhilenationalaveragedrops",
+  "ae277198c9a63015",
+  "whichwarishavingthebiggestimpactondieselpricesiranorukraine"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T18:30:22.796764+03:00",
+ "last_run": "2026-10-12T18:35:14.212081+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1308,6 +1308,14 @@
   {
    "d": "2026-10-12",
    "t": "Saudi Arabia Insists Energy Supply Remains Resilient"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "U.S. Stocks Mixed, Oil Gains on Fresh Energy Strikes in Ukraine - WSJ"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Which war is having the biggest impact on diesel prices - Iran or Ukraine? - BBC"
   }
  ]
 }
