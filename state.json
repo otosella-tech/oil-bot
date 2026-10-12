@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "f89b062b8fa302c6",
-  "ceotomwardacquires172000machnaturalresourcesunitsfor20millio",
   "9b1af86db2a00b14",
   "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "7f46dd290366cb0a",
@@ -603,7 +601,9 @@
   "c48e894afbb1a12c",
   "currentpriceofoilasofoctober52026",
   "2ff747c380d6dbcd",
-  "brenttops106afterdeadlysaudiairportattackukrainesaysrussiavi"
+  "brenttops106afterdeadlysaudiairportattackukrainesaysrussiavi",
+  "6d3815678d7355de",
+  "dieselpricesaddpressureonfarmersduringharvest"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T17:30:29.518636+03:00",
+ "last_run": "2026-10-12T17:35:14.906397+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
