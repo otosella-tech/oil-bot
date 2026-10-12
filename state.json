@@ -4,8 +4,6 @@
   "Brent": 104.69
  },
  "seen": [
-  "bed300b0daa07f89",
-  "saudiarabiainvests21billioninoilfieldsharedwithiran",
   "1c5c5e64e92d3535",
   "southkoreaplanstocutitsrelianceonmiddleeastcrudeoilimportsto",
   "11db98c762be7212",
@@ -603,7 +601,9 @@
   "13e4933cb9534088",
   "energyceasefirewhatsbehindtrumpslovehatetiestorussianoil",
   "bc57471e6dda4eb7",
-  "whenisthepriceofoilwrong"
+  "whenisthepriceofoilwrong",
+  "1056a83d304299ff",
+  "usstockfuturessteadyasoiljumpstotwoweekhighaheadofkeyearning"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T14:40:17.619531+03:00",
+ "last_run": "2026-10-12T14:45:17.120643+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
