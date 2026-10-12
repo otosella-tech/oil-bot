@@ -4,12 +4,6 @@
   "Brent": 102.6
  },
  "seen": [
-  "df4b8419561ad2b3",
-  "crudeoilreboundsonfriday",
-  "506945160d3712f9",
-  "usoildrillingcontinuestoinchupward",
-  "e6efb4dde2d11f44",
-  "oilfallsastrumpcommentsonirantalkseasesupplyfears",
   "797d6e668fea09b3",
   "oilpricesfallastrumpvowstonotattackiranbeforemidterms",
   "95dcf910000c6b34",
@@ -603,7 +597,13 @@
   "573e12075d15ca79",
   "sharemarketschoppyinasiaasearningsloomoilslips",
   "4fa0d02b09db7dac",
-  "blmannouncesdecembersaleofoilandgasleasesinnevada"
+  "blmannouncesdecembersaleofoilandgasleasesinnevada",
+  "bde8e2ff57e67003",
+  "currentpriceofoilasofoctober72026",
+  "ba462b9c9953cb5d",
+  "opinionjapangrowthlacksmomentumstrategicinvestmentkeytoprodu",
+  "67b9e8b0683b5cc9",
+  "globalbondyieldsfacepressureasbrentcrudeoilrisesabove100"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 44
  },
- "last_run": "2026-10-12T08:20:17.530964+03:00",
+ "last_run": "2026-10-12T08:25:14.870747+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
