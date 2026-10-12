@@ -4,12 +4,6 @@
   "Brent": 104.69
  },
  "seen": [
-  "d8e3bbb81cfec338",
-  "oilpricessteadyaftertrumpappearstoruleoutiranstrikesbeforemi",
-  "01e9ac663a4481eb",
-  "moresteadygainsofcrudeoilinventoryatcushinghubinoklahoma",
-  "ace6b2f35a54d9d3",
-  "asiaracestostockpileoilspeeduprenewablesinresponsetoiranwar",
   "4cf2effc76986b85",
   "oklahomapartofenergygrowthinkcfederalreservebankdistrict",
   "b8df27f5b223d451",
@@ -603,7 +597,13 @@
   "d97133f94aabe279",
   "saudiarabiacrudeoilexportshithighestlevelsinceiranwarbegande",
   "fb8e43a79a4fdc25",
-  "oilpricesfallforfourthdayassupplyconcernsease"
+  "oilpricesfallforfourthdayassupplyconcernsease",
+  "21d138606b133173",
+  "supertankerratesslipfromrecordhighs",
+  "0aa79e1ec1df2870",
+  "theieawantstoemptyitsoilreservesfasterafederalwatchdogsaysth",
+  "8f38413ad4a925fc",
+  "morningwrapoilcheaperdespiteattacksonsaudiarabiamarketsawait"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-12",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-10-12T09:55:12.808745+03:00",
+ "last_run": "2026-10-12T10:00:26.238409+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1104,6 +1104,14 @@
   {
    "d": "2026-10-12",
    "t": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage - CNBC"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Supertanker Rates Slip From Record Highs"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Morning Wrap: Oil cheaper despite attacks on Saudi Arabia, markets await CPI (12.10.2026) - XTB.com"
   }
  ]
 }
