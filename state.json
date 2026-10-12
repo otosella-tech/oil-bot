@@ -4,10 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "a3ee223a03cfdf5c",
-  "bondyieldscloselytrackdieselpricesnowandtrumpsdealwithputinm",
-  "64bf1b3e59710394",
-  "brentandwticrudeoilpriceforecastsraisedassupplyriskspersist",
   "7ba85ec2327e47f2",
   "saudiarabiauaeincreaseoilexportsashormuzshipmentsrecover",
   "b7d1570eec9225c2",
@@ -603,7 +599,11 @@
   "084cb5e751896bea",
   "nasdaqfallsaheadofearningseconomicdatawhileoilrallies",
   "883534614158c920",
-  "oilralliessendingdollarhigheronexpectationsofhigherusrates"
+  "oilralliessendingdollarhigheronexpectationsofhigherusrates",
+  "901f412bd8fc31fd",
+  "updateusequityindexesmixedasmegacaptechnamesweighedstrikeson",
+  "cac6e8c92d0084c1",
+  "exclusiveadnoclogisticsintalkstobuystakeinheaat3billionvalua"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -612,259 +612,11 @@
   "Brent": 103.39
  },
  "llm": {
-  "date": "2026-10-12",
-  "count": 60
+  "date": "2026-10-13",
+  "count": 2
  },
- "last_run": "2026-10-13T00:15:19.262857+03:00",
+ "last_run": "2026-10-13T00:20:17.714059+03:00",
  "sent_stories": [
-  {
-   "d": "2026-10-09",
-   "t": "Iran War Energy Shock Puts Hydrogen Back on the Table"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil Gains as Iran Reportedly Vows to Keep Hormuz Control - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Crude Prices Surge on Possible Escalation of US-Iran War - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil Prices and Tanker Rates Rise After Latest Iranian Attacks in Mideast - The Maritime Executive"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Brent Crude Oil Near $104: Iran Attacks Tankers, Hurricane Threatens US Supply - NDTV Profit"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "American Oil Refiners Are Printing Money as Wars Shrink Global Energy Supplies - WSJ"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Crude Oil Trading Alert: Risks in the Strait of Hormuz and production cuts in the Gulf of Mexico continue to support oil prices, while U.S. crude remains volatile at lower levels. - Moomoo"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Indian shares likely to rebound after selloff, but oil surge may cap gains - Reuters"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil falls as Trump comments on Iran talks ease supply concerns - Reuters"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Dow Tumbles, Oil Surges, and Yields Rise to New 24-Year Highs as Trump Considers Ramping Up Iran Attacks - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "$Crude Oil Futures (NOV6) (CLmain.US)$$Brent Last Day Financial Futures Current Contract (DEC6) (BZcurrent.US)$ Iran’s state broadcaster IRIB reported on Thursday that several heavy explosions occurred in the southern passage of the Strait of Hormuz, c - Moomoo"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "'Fast Money' traders talk oil climbing on new Iran concerns - CNBC"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Tanker attacked off Qatar as Iran claims route transporting oil through strait of Hormuz will be ‘closed’ - The Guardian"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Trump rules out new Iran attack before US midterm elections - France 24"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Soaring freight rates threaten Asia's appetite for US crude - Reuters"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Soaring freight rates threaten Asia’s appetite for US crude By Reuters - Investing.com"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Iraq launches new crude oil route through Syria to bypass the Strait of Hormuz - UkrAgroConsult"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Crude Oil Prices Decline As Trump Pauses Iran Attack - MarketForces Africa"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "US Sanctions 17 Vessels in New Crackdown on Iran's Shadow Fleet - Marine Link"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Rates for oil tankers hit record high, as more crude passes through Hormuz - Semafor"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Drones attack Lukoil oil refinery in Russia - Українська правда"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Hormuz Crisis Leaves EU Gas Storage Short Heading Into Winter"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Asian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - Reuters"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Heavy explosions in Strait of Hormuz as tankers may have hit mines: Iran’s state broadcaster - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil Prices Retreat After Trump Appears to Rule out Iran Strikes Before Midterms - WSJ"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Colombia Billionaire Set for $500 Million Venezuela Oil Windfall - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries - CNBC"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "If the Strait of Hormuz is open, why are gas and diesel so expensive? - CNN"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil prices jump amid record tanker attacks in Hormuz - CNN"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil Futures Return Some Gains As U.S. Strike Concerns Wane - WSJ"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Canada’s New Oil Pipeline Challenged by Cold Lake First Nations"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Can Lasers Beat Drone Swarms? The Pentagon Is About to Find Out"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "U.S. Escorts 1.25 Billion Barrels of Oil Through Hormuz as Iranian Exports Halt - IranWire"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil little changed as Trump comments on Iran talks ease supply concerns - CNBC"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "China’s Oil Imports Look Set to Rise as Supertanker Fleet Swells - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Middle East Crude Oil Exports Back at Prewar Levels, Analysts Say - WSJ"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage - CNBC"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN - CNBC"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Tiny Drones Help Tackle Shell’s Million-Dollar Hurricane Problem - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "2 workers seriously injured in an explosion at oil refinery near Athens, officials say - AP News"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "U.S. Oil Drilling Continues to Inch Upward"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil falls as Trump comments on Iran talks ease supply fears - Reuters"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil Prices Fall as Trump Vows to Not Attack Iran Before Midterms - Marine Link"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports - CNBC"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Kpler Suspects Gulf Producers Are Paying Iran for Safe Passage - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Trump says Russia to immediately supply 300,000 tons of diesel fuel - Reuters"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Saudi Aramco reportedly restores full crude oil supply to Europe for November - Investing.com"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil Drops as Trump Rules Out Iran Strike, Market Floor Persists - Mexico Business News"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Hurricane Isaias Shuts Almost Three-Quarters of Gulf Oil Output - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms - WSJ"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Asia races to stockpile oil, speed up renewables in response to Iran war - Reuters"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies - MarketWatch"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Trump eases Russia sanctions, says Putin will release diesel amid massive price spikes - NBC News"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "Oil Advances Amid War and Hurricane Risks - Rigzone"
-  },
   {
    "d": "2026-10-10",
    "t": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices - The New York Times"
@@ -1404,6 +1156,10 @@
   {
    "d": "2026-10-12",
    "t": "Trump’s ‘energy ceasefire’ collides with real-world problems of dwindling fuel supplies - MarketWatch"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Update: US Equity Indexes Mixed as Mega-Cap Tech Names Weighed, Strikes on Ukraine Energy Assets Weaken Energy-Ceasefire Claims - Yahoo! Finance Canada"
   }
  ]
 }
