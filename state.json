@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "f6157f0081895766",
-  "brentcrudeoilpriceforecastassaudiarabiahouthicrisisescalates",
   "7be6f057f832ba41",
   "germanytoreleaseupto15mmbblofoilunderg7plan",
   "6067035d0bc3ee2b",
@@ -603,7 +601,9 @@
   "238805aad18f9aa7",
   "washingtonresidentsurgedtoopposepacificlinkpipelineandsupert",
   "53d1fa3c923ac880",
-  "blackseaoilshippinginsurancecostssurgeto25million"
+  "blackseaoilshippinginsurancecostssurgeto25million",
+  "41e3f348c3f192e9",
+  "trumpsgridsecurityordercouldbackfireonamericasaiboom"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T20:55:14.333558+03:00",
+ "last_run": "2026-10-12T21:00:28.430190+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
