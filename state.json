@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "888971743856e903",
-  "wticrudeoilfuturesfellbelow93aspeacetalksadvanced",
   "b09302e61e03f4b7",
   "crudeoiloutlookusirantalkssupplyriskslikelytokeeppricesvolat",
   "b9b06137726f4a83",
@@ -603,7 +601,9 @@
   "1cfe9a3660e26440",
   "oilpricesriseonsaudiarabiaattacksovershadowingtrumpsdieselde",
   "081daacb3c0176fc",
-  "crudeoilwtitests9433resistanceinweaktrendtraplive"
+  "crudeoilwtitests9433resistanceinweaktrendtraplive",
+  "4747959555cdc90f",
+  "soaringtankerratesleaveamericasawashincrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T22:35:16.834054+03:00",
+ "last_run": "2026-10-12T22:40:20.934663+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1396,6 +1396,10 @@
   {
    "d": "2026-10-12",
    "t": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal - Reuters"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Soaring Tanker Rates Leave Americas Awash in Crude Oil - gCaptain"
   }
  ]
 }
