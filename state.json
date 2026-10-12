@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "fbf95c71d8ab6a0f",
-  "currentpriceofoilasofseptember172026",
   "2a810a6fe33a4de3",
   "africastopoilproduceradmitscrudesupplylimitsbehinddangotesim",
   "5fb676391e216fbf",
@@ -603,7 +601,9 @@
   "7dfbce1965650407",
   "crudeoilclimbsagainasrussiaukraineceasefirefacesdoubtsusiran",
   "f932f980311e6311",
-  "techfuturesfalloilrisesamidtrumpcomments"
+  "techfuturesfalloilrisesamidtrumpcomments",
+  "8b073135f9daf041",
+  "usstockshoverneartheirlatestrecordinearlytradingonwallstreet"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T16:47:08.809242+03:00",
+ "last_run": "2026-10-12T16:50:20.554006+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
