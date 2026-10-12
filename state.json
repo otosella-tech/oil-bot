@@ -4,14 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "2811c41ff38458a0",
-  "yoursundayoct11guidefivethingstodointheoilcity",
-  "da20f50a97bf52b2",
-  "aaapointstocrudeoilpricesasgascostsclimbinkentucky",
-  "72e4b8d6cfcbc50e",
-  "usequitymarketsendmixedascrudeoilrisesafteriransthreats",
-  "cf74799771404364",
-  "inflationdataitearningscrudeoiltosteerstockmarketsthisweeksa",
   "529b3f74513994d1",
   "thedifferencebetweenthepaperpriceofbrentcrudeandwhatrefiners",
   "7761cc9feea27f13",
@@ -603,7 +595,15 @@
   "fcdf0e5516102577",
   "cubaforgesaheadwithrenewableenergyplansamidusoilblockade",
   "54e89da6ba3625bd",
-  "sp500nasdaqslipasoilrisesonrussiastrikesinukraine"
+  "sp500nasdaqslipasoilrisesonrussiastrikesinukraine",
+  "dc73804bfc382cdd",
+  "energypricesriseaftertrumpsenergyceasefirefailstomoverussiao",
+  "aed77980cfee1f48",
+  "wallstreetmixedasoilpricessurgeinvestorsawaitearningseconomi",
+  "dfe4dbc51b6b608d",
+  "shippingcostsreachonethirdofcrudeoilvalueenergyministerssay",
+  "21c896a8c121f471",
+  "trumpadministrationapprovesemergencycrudeoilexchangetolimitd"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T22:15:18.202509+03:00",
+ "last_run": "2026-10-12T22:20:18.084397+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1380,6 +1380,14 @@
   {
    "d": "2026-10-12",
    "t": "S&P 500, Nasdaq Slip as Oil Rises on Russia Strikes in Ukraine - WSJ"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine - NBC News"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Wall Street mixed as oil prices surge, investors await earnings, economic data - Reuters"
   }
  ]
 }
