@@ -4,10 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "b3ca4843004daa25",
-  "theworldhasnearlyburnedthroughitsoilstockpilebufferexecutive",
-  "87b8be234bf334c0",
-  "tankerratessoartorecordasoilcrisisbecomesshippingcrisis",
   "2383d5cbd140c2b6",
   "emergencyoilreleasesriskdrainingtheworldslastsupplycushion",
   "03055fe59bb04cea",
@@ -603,7 +599,11 @@
   "145b1400e81831b3",
   "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo",
   "9b1af86db2a00b14",
-  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout"
+  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
+  "ae01a6437c7310f7",
+  "oilsurgekeepssp500nasdaqincheckbeforeearningssalesforcelifts",
+  "3f08e6aa594724d2",
+  "usopenwallstreetunderpressurefromoilandsemiconductors"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T17:45:17.292545+03:00",
+ "last_run": "2026-10-12T17:50:18.442216+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-10-12",
    "t": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz - Al Jazeera"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Oil surge keeps S&P 500, Nasdaq in check before earnings; Salesforce lifts Dow - Reuters"
   }
  ]
 }
