@@ -4,12 +4,6 @@
   "Brent": 104.94
  },
  "seen": [
-  "9d06736a86635b6f",
-  "ifthestraitofhormuzisopenwhyaregasanddieselsoexpensive",
-  "27f36a17c1f53508",
-  "shelltotake30stakeinequinorsbaydunordoilprojectincanada",
-  "0cefa1291830cc5e",
-  "currentpriceofoilasofoctober82026",
   "a690d45cb0bf29e2",
   "oilpricesjumpamidrecordtankerattacksinhormuz",
   "3b875dcde38e1e0e",
@@ -603,7 +597,13 @@
   "65ccd896457a4c80",
   "bpbpvsexxonmobilxomwhichoilmajorisabetterbuy",
   "dea6d1b31c94963d",
-  "oilfallsonhopesthatrussiandieselcaneaseglobalfuelshortages"
+  "oilfallsonhopesthatrussiandieselcaneaseglobalfuelshortages",
+  "6115a88ef89b46ba",
+  "trumpsrussia",
+  "780a6277b9a091de",
+  "sharescautiousinasiaasearningsloomoilslips",
+  "e9616e590278358b",
+  "oilpriceskeeprisingdespiteplentyofsupplyjpmorganexplainswhy"
  ],
  "releases_done": {},
  "last_digest": "2026-10-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-12",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-10-12T04:00:28.709563+03:00",
+ "last_run": "2026-10-12T04:05:16.028077+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1016,6 +1016,10 @@
   {
    "d": "2026-10-12",
    "t": "Oil Falls on Hopes That Russian Diesel Can Ease Global Fuel Shortages - WSJ"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries"
   }
  ]
 }
