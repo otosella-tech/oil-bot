@@ -4,14 +4,6 @@
   "Brent": 104.69
  },
  "seen": [
-  "52c0d2b728e68da7",
-  "uscrudestocksfallamidstrongexportsrefiningactivitytheeiasays",
-  "9a9921daaeee3622",
-  "trumpputindieseldealwilluscrudeoilfallbelow90",
-  "58b89ea948a80a6a",
-  "unleashingthecaspianspotentialinoilgasandcriticalminerals",
-  "1fdd61cd75fe96c5",
-  "americafirsthypocrisyalwaystrumpsdoublestandardsonrussianoil",
   "9add7ecb300443a0",
   "g7flowrussiandieselwhatnewsupplystreamsmeanforcrudeoilprices",
   "59da7da130abfe57",
@@ -603,7 +595,15 @@
   "2969ee663593974f",
   "centralbankmeasuresinterventionsparkrupeessharpestrallyinsix",
   "a2acb5c65fd94fc1",
-  "eurobondstradetheoiltapewithfrenchspreadunmovedintotuesbudge"
+  "eurobondstradetheoiltapewithfrenchspreadunmovedintotuesbudge",
+  "45e90f5a51d15a5f",
+  "usaoilgasworkforcehitspostpandemicseptemberlow",
+  "4265cc7d86e34765",
+  "oiledgeslowerastrumpsenergyceasefireclaimoffsetshormuzrisks",
+  "b6943fac6f7dcf8a",
+  "impactofmainstreaminge20onindiascrudeoilimports",
+  "dbec40cca4a68192",
+  "jimcramerwarnsinvestorsnottogetfooledagainastrumpsrussiaukra"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T13:45:19.611706+03:00",
+ "last_run": "2026-10-12T13:50:18.999716+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1168,6 +1168,14 @@
   {
    "d": "2026-10-12",
    "t": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production - CNBC"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Oil edges lower as Trump’s energy-ceasefire claim offsets Hormuz risks - Investing.com"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Jim Cramer Warns Investors Not to Get Fooled Again as Trump's Russia-Ukraine 'Energy Ceasefire' Sends Oil - Benzinga"
   }
  ]
 }
