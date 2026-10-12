@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 91.36,
-  "Brent": 102.6
+  "Brent": 104.69
  },
  "seen": [
-  "954a969cbe189713",
-  "crudeoildropsontrumpsrussiandieselplan",
   "046b61065dea0822",
   "pumppricesremainatrecordhighsforautumn",
   "06f6df2b119f7626",
@@ -603,7 +601,9 @@
   "9b40a7ae8fac9a37",
   "roitheoilmarketscenterofgravityismovingeastmaguire",
   "9c91446819d74c1d",
-  "commentarytheoilmarketscenterofgravityismovingeast"
+  "commentarytheoilmarketscenterofgravityismovingeast",
+  "cf9def6da1738679",
+  "howmilitantsinflipflopsplantoupendtheoilmarket"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 50
  },
- "last_run": "2026-10-12T09:30:22.573008+03:00",
+ "last_run": "2026-10-12T09:35:14.111521+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
