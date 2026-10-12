@@ -4,8 +4,6 @@
   "Brent": 104.69
  },
  "seen": [
-  "d77a8483068e331f",
-  "willoilsupplysqueezechangeexxonmobilstocknarrative",
   "31790a8d143afad1",
   "oilfuturessettlemodestlyhigher",
   "5f83906ee2a8c95b",
@@ -603,7 +601,9 @@
   "e24f2ec77557e8a9",
   "oilpricesrecoverassaudiarabiaattacksoffsetexpectationsofincr",
   "a6e2a2db16fdeaae",
-  "crudeoilcutslossesastraderseyeg7fuelrelease"
+  "crudeoilcutslossesastraderseyeg7fuelrelease",
+  "7888c87b0bb85811",
+  "trumpturnstorussiandieselaheadofmidtermsbutanalystsseelittle"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T15:10:20.618515+03:00",
+ "last_run": "2026-10-12T15:15:19.589119+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-10-12",
    "t": "Oil Prices Recover as Saudi Arabia Attacks Offset Expectations of Increased Russian Diesel Supplies - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Trump turns to Russian diesel ahead of midterms, but analysts see little price relief - CNBC"
   }
  ]
 }
