@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "8e099ecb20722a23",
-  "currentpriceofoilasofoct72026",
   "aec0a17a634d0b7a",
   "crudeoilfuturesbraceforvolatilityamidgeopoliticaluncertainti",
   "52ff69f876b2fc3c",
@@ -603,7 +601,9 @@
   "f97b3584498686f8",
   "energybriefsrisingoilpricescostlytankerratesandmorehouthiatt",
   "9e274039da9e98ee",
-  "usequityindexesmixedastechnologyweighscrudeoiljumpsamidstrik"
+  "usequityindexesmixedastechnologyweighscrudeoiljumpsamidstrik",
+  "b9f500770f62eacc",
+  "updateusequityindexesmixedastechnologyweighscrudeoiljumpsami"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T21:40:18.694822+03:00",
+ "last_run": "2026-10-12T21:45:17.708741+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1368,6 +1368,10 @@
   {
    "d": "2026-10-12",
    "t": "Energy briefs —rising oil prices, costly tanker rates and more Houthi attacks - Oklahoma Energy Today"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Update: US Equity Indexes Mixed as Technology Weighs, Crude Oil Jumps Amid Strikes on Ukraine's Energy Assets - Yahoo Finance"
   }
  ]
 }
