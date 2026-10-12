@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "9133683be6468d67",
-  "rbitakesstrongstepstosupportrupeewithoutsacrificinggrowthits",
   "8fa5311c1036dbd0",
   "energydepartmentauthorizesreleaseof4millionbarrelsofoilafter",
   "842a1172e3b000d9",
@@ -603,7 +601,9 @@
   "117e1328706ecd8a",
   "energystockssoaredinq3asfuelmarketstightened",
   "78a25da90acaa98c",
-  "stockmarkettodaysp500futurespausenearrecordhighsasoilrisesah"
+  "stockmarkettodaysp500futurespausenearrecordhighsasoilrisesah",
+  "611d2d126d84dfa1",
+  "smallindianfactoriesfaceblackoutsascoalstocksplunge"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T19:25:16.286146+03:00",
+ "last_run": "2026-10-12T19:30:22.385917+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1328,6 +1328,10 @@
   {
    "d": "2026-10-12",
    "t": "Energy Stocks Soared in Q3 as Fuel Markets Tightened"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Small Indian Factories Face Blackouts as Coal Stocks Plunge"
   }
  ]
 }
