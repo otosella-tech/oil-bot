@@ -4,8 +4,6 @@
   "Brent": 104.69
  },
  "seen": [
-  "211d2fa0af0a4c7f",
-  "trumpannouncesdieseldealwithrussiainbidtolowerprices",
   "f5dc64a4049df923",
   "russiagermanyadddieselsupplyasfuelmarketscramblesforbarrels",
   "e957e66caeb3f60e",
@@ -603,7 +601,9 @@
   "1f41fac0943c67b7",
   "brentcruderisesabove105",
   "35db7015105208ed",
-  "globalcrudeoilpricesfallamidgeostrategicanticipationandfears"
+  "globalcrudeoilpricesfallamidgeostrategicanticipationandfears",
+  "d28432bbac1e21a3",
+  "oildipsaftertrumpannouncementsonrussiandieselukraineenergyce"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-12",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-10-12T11:40:18.882035+03:00",
+ "last_run": "2026-10-12T11:45:15.522041+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1116,6 +1116,10 @@
   {
    "d": "2026-10-12",
    "t": "Another Tanker Catches Fire in Strait of Hormuz after Hitting Sea Mine - تسنیم"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Oil dips after Trump announcements on Russian diesel, Ukraine energy ceasefire - Central Oregon Daily"
   }
  ]
 }
