@@ -4,8 +4,6 @@
   "Brent": 104.69
  },
  "seen": [
-  "957c95c9de108ef2",
-  "hurricaneisaiascouldnudgefuelpriceshigherifgulfofmexicorefin",
   "5fb2a78601052ff5",
   "theworldsoillifelinehowthemiddleeastisrewritingglobaltrade",
   "a8ed1cbd08fff9c5",
@@ -603,7 +601,9 @@
   "f5dc64a4049df923",
   "russiagermanyadddieselsupplyasfuelmarketscramblesforbarrels",
   "529f983a76c8ed97",
-  "dieselpricesslipaftertrumpclaimsenergyceasefireinukrainewar"
+  "dieselpricesslipaftertrumpclaimsenergyceasefireinukrainewar",
+  "876b2f2e1e2cfc22",
+  "worldsenergyordertestedagainasiranwarsreachextendsfurther"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T12:15:18.182997+03:00",
+ "last_run": "2026-10-12T12:20:18.120156+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1132,6 +1132,10 @@
   {
    "d": "2026-10-12",
    "t": "Diesel prices slip after Trump claims ‘energy ceasefire’ in Ukraine war - Financial Times"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further - The New York Times"
   }
  ]
 }
