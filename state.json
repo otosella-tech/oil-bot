@@ -4,10 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "2383d5cbd140c2b6",
-  "emergencyoilreleasesriskdrainingtheworldslastsupplycushion",
-  "03055fe59bb04cea",
-  "worldstopcrudetraderisntrulingout200oiljustyet",
   "38942ab82c72eda1",
   "oilpricesrisesnapfivedaylosingstreakasiranvowsitwillnotsurre",
   "c2fe14a3c1f0edcd",
@@ -603,7 +599,11 @@
   "ae01a6437c7310f7",
   "oilsurgekeepssp500nasdaqincheckbeforeearningssalesforcelifts",
   "3f08e6aa594724d2",
-  "usopenwallstreetunderpressurefromoilandsemiconductors"
+  "usopenwallstreetunderpressurefromoilandsemiconductors",
+  "2b39345bc3004bc1",
+  "oilstuckbetweenmiddleeastescalationandrussiaukraineenergytru",
+  "9ccc709c6c773eb5",
+  "tankerratessoartorecordasoilcrisisbecomesshippingcrisis"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-12",
   "count": 60
  },
- "last_run": "2026-10-12T17:50:18.442216+03:00",
+ "last_run": "2026-10-12T17:55:17.876947+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1280,6 +1280,14 @@
   {
    "d": "2026-10-12",
    "t": "Oil surge keeps S&P 500, Nasdaq in check before earnings; Salesforce lifts Dow - Reuters"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Oil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
