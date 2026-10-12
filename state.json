@@ -4,10 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "92df72eaabb44cfe",
-  "egyptsaudiarabiasignmoutoexpandcooperationinoilgas",
-  "7c5d32f6e305b33e",
-  "highestcrudeoilpricewtihistoricalchartnominalinflationadjust",
   "4b75a3ac4be63c87",
   "oilpricesslideabout2asusiranexplorepathoutofwar",
   "a2c8f7a98bdb2aa2",
@@ -603,7 +599,11 @@
   "d907c77c12e079e4",
   "whydoiransoilintermediariesowethegovernmentbillions",
   "f4ef81d433baf166",
-  "thebritishpounddriftsbacktoitsfloorascrudeoilliftsthedollar"
+  "thebritishpounddriftsbacktoitsfloorascrudeoilliftsthedollar",
+  "d6891b33c8cdb812",
+  "crudeoilpriceshitneartwoweekhighassaudiattacksthreatensupply",
+  "564809fc03d3dd0f",
+  "middleeastoilexportstopprewarlevelsforpartofseptemberbuttank"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-13",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-10-13T01:40:17.450619+03:00",
+ "last_run": "2026-10-13T01:45:17.112044+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1164,6 +1164,14 @@
   {
    "d": "2026-10-13",
    "t": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Crude oil prices hit near two-week high as Saudi attacks threaten supply recovery - Geo News"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
   }
  ]
 }
