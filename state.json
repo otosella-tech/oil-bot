@@ -4,8 +4,6 @@
   "Brent": 104.69
  },
  "seen": [
-  "4cf2effc76986b85",
-  "oklahomapartofenergygrowthinkcfederalreservebankdistrict",
   "b8df27f5b223d451",
   "trumpannouncesrussiawillreleasemillionsoftonsofdieseltohelpw",
   "7dbc129e81c1eb15",
@@ -603,7 +601,9 @@
   "0aa79e1ec1df2870",
   "theieawantstoemptyitsoilreservesfasterafederalwatchdogsaysth",
   "8f38413ad4a925fc",
-  "morningwrapoilcheaperdespiteattacksonsaudiarabiamarketsawait"
+  "morningwrapoilcheaperdespiteattacksonsaudiarabiamarketsawait",
+  "82185f82c4ba5c1e",
+  "anothertankercatchesfireinstraitofhormuzafterhittingseamine"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-12",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-10-12T10:00:26.238409+03:00",
+ "last_run": "2026-10-12T10:05:14.885999+03:00",
  "sent_stories": [
   {
    "d": "2026-10-09",
@@ -1112,6 +1112,10 @@
   {
    "d": "2026-10-12",
    "t": "Morning Wrap: Oil cheaper despite attacks on Saudi Arabia, markets await CPI (12.10.2026) - XTB.com"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "Another Tanker Catches Fire in Strait of Hormuz after Hitting Sea Mine - تسنیم"
   }
  ]
 }
