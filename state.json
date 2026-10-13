@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "617e888ea06a3d41",
-  "daxundertheinfluenceofoilandbondsusearningsseasonbegins",
   "92e6117dab8892f9",
   "crudeoiloutlookhingesonusirantalksandsupplyrisks",
   "da2ccc5e0c03008b",
@@ -603,7 +601,9 @@
   "2b4970d3a0832f76",
   "oilfieldtrashtriestopullofftexasshocker",
   "eb43f274194cd69b",
-  "houthiattacksonsaudiarabiaopenasecondfrontinoilsupplyrisk"
+  "houthiattacksonsaudiarabiaopenasecondfrontinoilsupplyrisk",
+  "051b104a814bbbe4",
+  "saudiarabiaplansmassiveexpansionofoilpipelinetobypasshormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-13",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-10-13T12:15:18.302558+03:00",
+ "last_run": "2026-10-13T12:20:17.190759+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-10-13",
    "t": "Houthi Attacks on Saudi Arabia Open a Second Front in Oil Supply Risk - StoneX"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz"
   }
  ]
 }
