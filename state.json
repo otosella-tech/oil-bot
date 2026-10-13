@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "971295fb31d72b22",
-  "usstockfuturesmutedasoilstaysabove100aheadofearnings",
   "54dc0a6854aeaeb7",
   "crudeoilrisesfor3rdday",
   "b40c9471d27c5abd",
@@ -603,7 +601,9 @@
   "809482543879c075",
   "saudicoalitiontellssanaaresidentstofleesitebeforeoperation",
   "d96a6b9dd6e27fd9",
-  "warcollideswithsaudiambitionatagatheringofoilpowers"
+  "warcollideswithsaudiambitionatagatheringofoilpowers",
+  "0e4d63f9169455c2",
+  "houthiscallonsaudiaramcoemployeescivilianstoevacuateoilfacil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T17:05:20.489917+03:00",
+ "last_run": "2026-10-13T17:10:19.255843+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
