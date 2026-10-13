@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "54b0d234a9f88c70",
-  "brentandwticrudeoilpricespushhigherassaudistrikesraiserisksa",
   "a0e1ef5a2da2c3c6",
   "trumpfacesgrowingbacklashoverplanstoimportdieselfromrussia",
   "65ccd896457a4c80",
@@ -603,7 +601,9 @@
   "7e5c7dedb6994e7b",
   "thesinglecustomerwhogovernsiransoiltradewithchinathechina",
   "1c24cab6c6beaec6",
-  "wticrudeoilfuturesadvanceforthirdsessionamidglobaltensions"
+  "wticrudeoilfuturesadvanceforthirdsessionamidglobaltensions",
+  "bc400f707bba867b",
+  "oilfuturesdeclineonpossibletechnicalcorrection"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 10
  },
- "last_run": "2026-10-13T05:15:16.875337+03:00",
+ "last_run": "2026-10-13T05:20:16.753522+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
