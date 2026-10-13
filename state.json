@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "1b83ee36d07e78d9",
-  "usstocksmixedoilgainsonfreshenergystrikesinukraine",
   "74f02075cb8b5199",
   "virginiagaspricesrisewhilenationalaveragedrops",
   "ae277198c9a63015",
@@ -603,7 +601,9 @@
   "78e5141c55ee9ac2",
   "fiveshalestockstowatchbeforethird",
   "352cbe7f6a3829d2",
-  "usepaplansfurtherrollbackofoilgasmethanerules"
+  "usepaplansfurtherrollbackofoilgasmethanerules",
+  "b4569abd26e04c91",
+  "wticrudeoilpriceforecastreversalsignalspointtofurthergains"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-14T00:15:19.979196+03:00",
+ "last_run": "2026-10-14T00:20:17.501495+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
