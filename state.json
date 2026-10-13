@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "feffa901c90d766b",
-  "southafricascrudeoilrefiningcapacitydecreasedby60from520000b",
   "f149725abfede96f",
   "oilfuturescrudeeasesasrussiadieselreleaseoffsetmideastrisk",
   "5317a62f13cbd331",
@@ -603,7 +601,9 @@
   "c601e3fe768a301d",
   "opecenergyandoilministersofcountries",
   "345a1b476c090024",
-  "wtioilextendsitspullbackto9100amidusimportsofrussiandiesel"
+  "wtioilextendsitspullbackto9100amidusimportsofrussiandiesel",
+  "26ffd049e28e173e",
+  "occidentaloilpricesjumpassupplyconcernsliftcrude"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 58
  },
- "last_run": "2026-10-13T15:20:19.386338+03:00",
+ "last_run": "2026-10-13T15:25:15.496758+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
