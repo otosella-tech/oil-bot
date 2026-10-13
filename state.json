@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "92e6117dab8892f9",
-  "crudeoiloutlookhingesonusirantalksandsupplyrisks",
   "da2ccc5e0c03008b",
   "asiansharesaremixedandoilpricesfallabout150astrumpsaysuswill",
   "de2e4f09fa939570",
@@ -603,7 +601,9 @@
   "eb43f274194cd69b",
   "houthiattacksonsaudiarabiaopenasecondfrontinoilsupplyrisk",
   "051b104a814bbbe4",
-  "saudiarabiaplansmassiveexpansionofoilpipelinetobypasshormuz"
+  "saudiarabiaplansmassiveexpansionofoilpipelinetobypasshormuz",
+  "902ab0bf7f5c52b5",
+  "opecministersurgeenhancedmaritimesecurityasfreightratessurge"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-13",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-10-13T12:30:21.584503+03:00",
+ "last_run": "2026-10-13T12:35:15.999366+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1212,6 +1212,10 @@
   {
    "d": "2026-10-13",
    "t": "Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "OPEC+ Ministers Urge Enhanced Maritime Security as Freight Rates Surge - Egypt Oil & Gas"
   }
  ]
 }
