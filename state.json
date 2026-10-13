@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "92f4e2a8612cb184",
-  "currentpriceofoilasofseptember242026",
   "573e12075d15ca79",
   "sharemarketschoppyinasiaasearningsloomoilslips",
   "4fa0d02b09db7dac",
@@ -603,7 +601,9 @@
   "de2e4f09fa939570",
   "oilpricestodaybrentcrudedeclinesastrumpannouncesrussiaukrain",
   "2b4a65a817860ce5",
-  "currentpriceofoilasofsept292026"
+  "currentpriceofoilasofsept292026",
+  "634942bc04a8b17a",
+  "oilpricesdivergeastradersweighrussiandieselreliefagainstsaud"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-13",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-10-13T12:55:17.397188+03:00",
+ "last_run": "2026-10-13T13:00:29.011891+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-10-13",
    "t": "OPEC+ Ministers Urge Enhanced Maritime Security as Freight Rates Surge - Egypt Oil & Gas"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Oil Prices Diverge As Traders Weigh Russian Diesel Relief Against Saudi Supply Risks: USO, UCO, In Focus - Yahoo Finance"
   }
  ]
 }
