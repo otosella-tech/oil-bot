@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "22ddbc04cc7c4dd8",
-  "currentpriceofoilasofoct12026",
   "b9c5943ab5d4c81e",
   "supertankerhitsmineinstraitofhormuzasiranaccusesusofoilsmugg",
   "9b40a7ae8fac9a37",
@@ -603,7 +601,9 @@
   "ca58e4977daef01a",
   "saudiarabiashootsdownhouthimissilesasregionalconflictescalat",
   "95dcf910000c6b34",
-  "whatistherealpriceofoil"
+  "whatistherealpriceofoil",
+  "976d3e63ad692385",
+  "oilpricesfallasrussiadieselexportclaimsoffsetgulfsupplyconce"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-13",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-10-13T13:45:18.993089+03:00",
+ "last_run": "2026-10-13T13:50:18.508200+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1232,6 +1232,10 @@
   {
    "d": "2026-10-13",
    "t": "Saudi Arabia Shoots Down Houthi Missiles as Regional Conflict Escalates"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Oil prices fall as Russia diesel export claims offset Gulf supply concerns - Investing.com"
   }
  ]
 }
