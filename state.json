@@ -4,10 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "72c881831bb94239",
-  "goldmansachsliftsdecember2026brentpriceforecastto90bbl",
-  "938ae57da8c8dbcb",
-  "exchangetradedfundslowerequityfuturesmixedprebellmondayasinv",
   "4ac89b6c8741b0f2",
   "crudeoilpriceforecastoilcontinuestoseeupwardpressure",
   "7dfbce1965650407",
@@ -603,7 +599,11 @@
   "40583da250086158",
   "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr",
   "041b6a92b2709ee9",
-  "oilpricesfallasieamembersagreetoprioritizereleaseofdieselsto"
+  "oilpricesfallasieamembersagreetoprioritizereleaseofdieselsto",
+  "db8bf3192a1ce61b",
+  "highlightsworldpetroleumcongressinriyadhenergysecurityrising",
+  "cce61c9fbf516ca6",
+  "houthirunhealthministrysaystwokilledinoilcompanystrike"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T21:05:18.965714+03:00",
+ "last_run": "2026-10-13T21:10:18.941967+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
