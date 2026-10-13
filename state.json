@@ -4,10 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "041b6a92b2709ee9",
-  "oilpricesfallasieamembersagreetoprioritizereleaseofdieselsto",
-  "b10fa953c1c2fe76",
-  "signsofoilappearacross58metersofrockinegypttagoilexpectsinit",
   "7e992229ca69b78c",
   "creaindiacurtailedover4ofitssolaroutputinjulyandaugust",
   "72c881831bb94239",
@@ -603,7 +599,11 @@
   "a6e2a2db16fdeaae",
   "crudeoilcutslossesastraderseyeg7fuelrelease",
   "235cbf19afe7889b",
-  "theoilcrisisamericasawcoming"
+  "theoilcrisisamericasawcoming",
+  "139dc392e479f95f",
+  "trumpsmiddlecorridorplansfacerussianandiranianroadblocks",
+  "40583da250086158",
+  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T20:55:14.200620+03:00",
+ "last_run": "2026-10-13T21:00:29.599319+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1376,6 +1376,14 @@
   {
    "d": "2026-10-13",
    "t": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate - Reuters"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Trump's Middle Corridor Plans Face Russian and Iranian Roadblocks"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters"
   }
  ]
 }
