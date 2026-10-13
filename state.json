@@ -4,10 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "47e024e5b4f36a55",
-  "ruralwestcommunitiesstruggleaspriceofheatingoilrises",
-  "62107ecd8b300b6a",
-  "uscrudeoilstockpilespostweeklydrop",
   "8c54e3b98535d47a",
   "oilheatedhouseholdsinnortheaststrainedbyrisingfuelprices",
   "1e35a2791e6f63fa",
@@ -603,7 +599,11 @@
   "a3664067ac6dbbb4",
   "oileasesastradersmonitorrussiandieseldealsaudiattacks",
   "07426b786a45d2f0",
-  "saudiarabiacrudeoilproductionrecoversinseptember"
+  "saudiarabiacrudeoilproductionrecoversinseptember",
+  "d3a1cbd59464da3f",
+  "superelniocouldeaseasiaslngsupplyconcerns",
+  "03f6d443aa8e4e48",
+  "opecbetsonglobalrestockingwavesharplyraises2027crudeoildeman"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T16:25:16.271483+03:00",
+ "last_run": "2026-10-13T16:30:25.356363+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
