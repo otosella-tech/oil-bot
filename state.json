@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "513c2f906530688b",
-  "oilpricesreboundamidpersistentmiddleeastsupplyrisks",
   "1124552e29e2cbe1",
   "oilpollutionisdriftingintomarineprotectedareasreportfindsnew",
   "64100b7eee71eaec",
@@ -603,7 +601,9 @@
   "a0cf9dc4ad354c3f",
   "houthisthreatensaudiaramcofacilitiesairportsamidescalatingco",
   "d0b78fb2ce42de97",
-  "oilpriceslittlechangedastradersassessrussiandieselsupplypros"
+  "oilpriceslittlechangedastradersassessrussiandieselsupplypros",
+  "c2f61b1ca0b31876",
+  "currentpriceofoilasofoctober122026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T22:00:30.787687+03:00",
+ "last_run": "2026-10-13T22:05:14.853782+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
