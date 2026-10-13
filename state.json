@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "be28b6eafd8b8f04",
-  "howtheoilcrisisismorphingintoashippingcrisisin5charts",
   "934afbefa5bdcbdd",
   "goldmangulfoilexportsbackat2223mbdbutdatedbrentstaysveryhigh",
   "d8f9eef170e4ed51",
@@ -603,7 +601,9 @@
   "57f78bf88c138996",
   "oilfallsasrussiadieselsupplyprospectscountergulfsupplyrisks",
   "3e2ee8d13f3bc9fc",
-  "japancabinetbacksplantohelpoilimporterspayforhighertransport"
+  "japancabinetbacksplantohelpoilimporterspayforhighertransport",
+  "35e3310dd4bdec8f",
+  "oilpricesfallover1asrussiaflagsmoredieselexports"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-13",
-  "count": 19
+  "count": 20
  },
- "last_run": "2026-10-13T07:20:19.281532+03:00",
+ "last_run": "2026-10-13T07:25:13.558992+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
