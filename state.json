@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "26abb98d65f4d8d6",
-  "akerbiomarinewarnsomega3demandcouldoutstripfishoilsupplynext",
   "4429e8467da78372",
   "globaloilsqueezetoworsenwithouthormuzreopeningaramcoceowarns",
   "5ca5f27fa55524c8",
@@ -603,7 +601,9 @@
   "ee9363b05a2f4e0b",
   "opecsdailycrudeoilproduction",
   "e3e33dbc2aef84a2",
-  "saudiarabialeadsopecproductionincreaseseptembercrudeoildaily"
+  "saudiarabialeadsopecproductionincreaseseptembercrudeoildaily",
+  "8c22393f1fb35a6d",
+  "saudiarabiaeyesraisingitspipelineoilexportcapacityto10millio"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T20:05:15.718238+03:00",
+ "last_run": "2026-10-13T20:10:18.408986+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1348,6 +1348,10 @@
   {
    "d": "2026-10-13",
    "t": "Saudi Arabia leads OPEC+ production increase: September crude oil daily output rises by 900,000 barrels month-on-month - 富途牛牛"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Saudi Arabia eyes raising its pipeline oil export capacity to 10 million bpd, energy minister says - Reuters"
   }
  ]
 }
