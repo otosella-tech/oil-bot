@@ -4,10 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "b41b417c23a70843",
-  "marketwrapeuroperebounsdespitehigheroilanddollar12102026",
-  "02c6227f66e2b795",
-  "asianrefinersbuyspotnovembersaudioilsourcessay",
   "dc14737270627781",
   "oilpricesriseasattacksonsaudiarabiaovershadowtrumpsrussiansu",
   "8236a532a4b5a420",
@@ -603,7 +599,11 @@
   "127c40666edf8931",
   "trumpsdieseldealwithrussiaequalslessthantwoweeksofusdemand",
   "1960c4d449da1dc2",
-  "declineinrussiancrudeoutputslowedinseptemberopecsays"
+  "declineinrussiancrudeoutputslowedinseptemberopecsays",
+  "de418095d8e216c6",
+  "shelltosellitsnigeriagasbusinesstovaarisenergy",
+  "586dfa2dfc8c50c1",
+  "iransintensifyingattacksonshipsthreateningoilexportrecoveryr"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T19:20:18.920882+03:00",
+ "last_run": "2026-10-13T19:25:15.476759+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1328,6 +1328,10 @@
   {
    "d": "2026-10-13",
    "t": "Decline in Russian Crude Output Slowed in September, OPEC Says - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Iran’s intensifying attacks on ships, threatening oil export recovery: Report - Anadolu Ajansı"
   }
  ]
 }
