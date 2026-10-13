@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "97efc2c188900e72",
-  "oilrisesassaudiairportandtankerattacksstokesupplyfears",
   "46b912c958fc26bf",
   "3stockstoplaythenuclearenergyboom",
   "56bf7fffe0ffa415",
@@ -603,7 +601,9 @@
   "9dc249c792315760",
   "oilpricesfallasrussiaflagsmoredieselexports",
   "f967bf3197047576",
-  "usdollarcrudeoilrisemetalsbroadlyweakenwithaluminalmezincand"
+  "usdollarcrudeoilrisemetalsbroadlyweakenwithaluminalmezincand",
+  "25589300d61e751f",
+  "dollarcrudeoilrisemetalscollectivelyweakenaluminalmezinclead"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 9
  },
- "last_run": "2026-10-13T03:45:16.785493+03:00",
+ "last_run": "2026-10-13T03:50:16.274905+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
