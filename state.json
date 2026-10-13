@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "d8f9eef170e4ed51",
-  "oiltops105ashouthiattacksonsaudiarabiaraiseinflationfearsco1",
   "e2ca3ec2cba6dce1",
   "canadiandollarflatlinesaround14250asslidingoilpricescounteru",
   "182979a1d9d0c593",
@@ -603,7 +601,9 @@
   "35e3310dd4bdec8f",
   "oilpricesfallover1asrussiaflagsmoredieselexports",
   "1f5fbdeee6b51a75",
-  "governmentsaysnosupplyissuesfordieselsecured100ofcrudeoilthr"
+  "governmentsaysnosupplyissuesfordieselsecured100ofcrudeoilthr",
+  "8188743f4cfaa578",
+  "oilfuturescrudeeasesasadditionalrussiandieselsupplieseyed"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 20
  },
- "last_run": "2026-10-13T07:40:17.284940+03:00",
+ "last_run": "2026-10-13T07:45:16.791108+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
