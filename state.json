@@ -4,10 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "ad898d331f7e2428",
-  "oilslipsastrumptoutsenergyceasefirewhycramerisntbuyingit",
-  "c8c0fa37357b5c75",
-  "usescorts125billionbarrelsofoilthroughhormuzasiranianexports",
   "db3e9daaa546e675",
   "dwnewseuropehasadieselproblemrussiaislargelygoneasasupplierm",
   "c51da7c4b326c269",
@@ -603,7 +599,11 @@
   "9f21262ee8f7d5ed",
   "crudeoilpricesfallondollarstrengthandsaudipricecuts",
   "5cf72cb9ff5909f6",
-  "publiccompaniesproducemostuscrudeoilandnaturalgas"
+  "publiccompaniesproducemostuscrudeoilandnaturalgas",
+  "ffa2c846d5467c7d",
+  "shellslamsaustraliasplantoforcelngproducerstosupplydomesticm",
+  "941c88bb3db8d517",
+  "crudeoilcrisisinhormuzmuchmorethanjustpriceandquantity"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-13",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-10-13T09:55:13.533738+03:00",
+ "last_run": "2026-10-13T10:00:29.088342+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-10-13",
    "t": "COMMENTARY: Trump's oil jawboning loses punch as wars spiral - Reuters"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Crude oil crisis in Hormuz: Much more than just price and quantity - The Economic Times"
   }
  ]
 }
