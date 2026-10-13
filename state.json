@@ -4,10 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "c1f4b0d45862c114",
-  "sprstoragesites",
-  "7527ebe2e1b431e0",
-  "energybriefsiranrussiaukraineandchinaintheenergymix",
   "946985e344393e88",
   "oilpricesfallafterussaysdamagedsaudipipelinewillrestartopera",
   "48662463bff798cd",
@@ -603,7 +599,11 @@
   "dcf07a38681f546a",
   "trumpcurbsfarmersaccesstofundingforenergyprojects",
   "6b80e5554800ad65",
-  "oilpricesspikeafterhouthiattacksonsaudiairports"
+  "oilpricesspikeafterhouthiattacksonsaudiairports",
+  "18c3ff9af0700d8b",
+  "thisultra",
+  "326e3b187128b1c0",
+  "opeccuts2026oildemandgrowthforecastto400000bpdseespentupdema"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 7
  },
- "last_run": "2026-10-13T02:55:13.042650+03:00",
+ "last_run": "2026-10-13T03:00:27.750612+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
