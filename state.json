@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "38806265b8512b4b",
-  "oilgainsasmiddleeastconflictandtankerattacksliftbrenttous105",
   "be28b6eafd8b8f04",
   "howtheoilcrisisismorphingintoashippingcrisisin5charts",
   "934afbefa5bdcbdd",
@@ -603,7 +601,9 @@
   "827194f5d6e275b3",
   "oilpricesholdnear105perbarrelastrumpeasessanctionsonrussianf",
   "57f78bf88c138996",
-  "oilfallsasrussiadieselsupplyprospectscountergulfsupplyrisks"
+  "oilfallsasrussiadieselsupplyprospectscountergulfsupplyrisks",
+  "3e2ee8d13f3bc9fc",
+  "japancabinetbacksplantohelpoilimporterspayforhighertransport"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 19
  },
- "last_run": "2026-10-13T07:15:17.209992+03:00",
+ "last_run": "2026-10-13T07:20:19.281532+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
