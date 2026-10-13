@@ -4,10 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "7bac394bf8d42623",
-  "dowrises200pointsnasdaqwaverschinachipcompetitionhitstechsto",
-  "c80ec3c843aebb1d",
-  "middleeastsupplyrisksovershadowrussiandieseldeal",
   "1354090c8356ede1",
   "thefuturestradescrudeoilvsrefinedproducts",
   "238805aad18f9aa7",
@@ -603,7 +599,11 @@
   "121fdad2bb45e2dc",
   "oilpricesjump2onsaudiattacksasopecseesdemandrebound",
   "88b2b7bd9e9258b0",
-  "electriccarssaved20binoilandtheusisfallingbehind"
+  "electriccarssaved20binoilandtheusisfallingbehind",
+  "1b5c2b9e594c37be",
+  "commentarynothisisnottheplaceforapipeline",
+  "37ba27190a040620",
+  "houthisthreatenfierceretaliationaftersaudiarabiastrikesyemen"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 8
+  "count": 10
  },
- "last_run": "2026-10-14T02:20:18.160320+03:00",
+ "last_run": "2026-10-14T02:25:16.134156+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1395,6 +1395,10 @@
   {
    "d": "2026-10-14",
    "t": "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Houthis Threaten Fierce Retaliation After Saudi Arabia Strikes Yemen - The New York Times"
   }
  ]
 }
