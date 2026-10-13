@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "4ac89b6c8741b0f2",
-  "crudeoilpriceforecastoilcontinuestoseeupwardpressure",
   "7dfbce1965650407",
   "crudeoilclimbsagainasrussiaukraineceasefirefacesdoubtsusiran",
   "f932f980311e6311",
@@ -603,7 +601,9 @@
   "db8bf3192a1ce61b",
   "highlightsworldpetroleumcongressinriyadhenergysecurityrising",
   "cce61c9fbf516ca6",
-  "houthirunhealthministrysaystwokilledinoilcompanystrike"
+  "houthirunhealthministrysaystwokilledinoilcompanystrike",
+  "91a63d7ea4c5ce02",
+  "houthisthreatensaudiarabiasaramcofacilitiesandairports"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T21:15:18.540505+03:00",
+ "last_run": "2026-10-13T21:20:17.340667+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
