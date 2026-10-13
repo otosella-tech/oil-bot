@@ -4,10 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "61e44b65c741b9d7",
-  "saudiarabiainsistsenergysupplyremainsresilient",
-  "b3ca4843004daa25",
-  "theworldhasnearlyburnedthroughitsoilstockpilebufferexecutive",
   "1b83ee36d07e78d9",
   "usstocksmixedoilgainsonfreshenergystrikesinukraine",
   "74f02075cb8b5199",
@@ -603,7 +599,11 @@
   "a363bbf75ccea197",
   "boomsheardnearsaudiaramcoheadquartersashouthiconflictescalat",
   "0816e69c23a6ba2c",
-  "dieselfuturesjumpsignalinghigherpricestocomedespitetrumpsrus"
+  "dieselfuturesjumpsignalinghigherpricestocomedespitetrumpsrus",
+  "78e5141c55ee9ac2",
+  "fiveshalestockstowatchbeforethird",
+  "352cbe7f6a3829d2",
+  "usepaplansfurtherrollbackofoilgasmethanerules"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T23:55:14.770866+03:00",
+ "last_run": "2026-10-14T00:00:29.489896+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
