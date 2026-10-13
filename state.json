@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "78a25da90acaa98c",
-  "stockmarkettodaysp500futurespausenearrecordhighsasoilrisesah",
   "611d2d126d84dfa1",
   "smallindianfactoriesfaceblackoutsascoalstocksplunge",
   "b8bc248716d1fd4a",
@@ -603,7 +601,9 @@
   "fa61c4519d4a8c7e",
   "cmewticrudeoilfuturesriseasgulftensionssupportprices",
   "4625aef85eb97d29",
-  "usmethaneemissionsflatlinedespiteincreasesinoilandgasproduct"
+  "usmethaneemissionsflatlinedespiteincreasesinoilandgasproduct",
+  "76371824fa7427cb",
+  "strandedmiddleeastlngsupplyupendsgasmarkets"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-14",
   "count": 2
  },
- "last_run": "2026-10-14T00:55:14.809304+03:00",
+ "last_run": "2026-10-14T01:00:28.076867+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
