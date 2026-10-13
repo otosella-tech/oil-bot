@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "d1242a106c603961",
-  "asiansharesaremixedandbrentcrudeat104abarrelaftertrumpsaysus",
   "feffa901c90d766b",
   "southafricascrudeoilrefiningcapacitydecreasedby60from520000b",
   "f149725abfede96f",
@@ -603,7 +601,9 @@
   "418af021748930ae",
   "icebrentoptionsreachrecordtradedvolumeinq32026ascustomersman",
   "c601e3fe768a301d",
-  "opecenergyandoilministersofcountries"
+  "opecenergyandoilministersofcountries",
+  "345a1b476c090024",
+  "wtioilextendsitspullbackto9100amidusimportsofrussiandiesel"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 58
  },
- "last_run": "2026-10-13T15:15:18.151409+03:00",
+ "last_run": "2026-10-13T15:20:19.386338+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
