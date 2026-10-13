@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "7dfbce1965650407",
-  "crudeoilclimbsagainasrussiaukraineceasefirefacesdoubtsusiran",
   "f932f980311e6311",
   "techfuturesfalloilrisesamidtrumpcomments",
   "8b073135f9daf041",
@@ -603,7 +601,9 @@
   "cce61c9fbf516ca6",
   "houthirunhealthministrysaystwokilledinoilcompanystrike",
   "91a63d7ea4c5ce02",
-  "houthisthreatensaudiarabiasaramcofacilitiesandairports"
+  "houthisthreatensaudiarabiasaramcofacilitiesandairports",
+  "6db624dae199e860",
+  "saudiarabiastrikesstrategicoildepotsnearyemencapital"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T21:20:17.340667+03:00",
+ "last_run": "2026-10-13T21:25:14.343223+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1384,6 +1384,10 @@
   {
    "d": "2026-10-13",
    "t": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Saudi Arabia strikes strategic oil depots near Yemen capital - The Guardian"
   }
  ]
 }
