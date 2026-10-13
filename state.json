@@ -4,10 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "a1b2e54d77e1afe7",
-  "oilpricessettledown25onsignsmiddleeastexportsrecovering",
-  "065dc288de0838e4",
-  "blmannouncesdecember2026saleofoilandgasleasesincolorado",
   "386723e6d3016e37",
   "dollaryenholdsfirminlower158rangesupportedbycrudeoilandusyie",
   "e7f812b86605b7a9",
@@ -603,7 +599,11 @@
   "2cf955a43a4b3df2",
   "oilfallsasrussiandieselsupplyprospectscountergulfsupplyrisks",
   "1379dada793e0b6d",
-  "oilpricesfallastradersweighmiddleeastrisksrussiandieselsuppl"
+  "oilpricesfallastradersweighmiddleeastrisksrussiandieselsuppl",
+  "59d5833a71fe3d4c",
+  "shippingcompanycmbtechsellsanothertanker",
+  "6d8bab4edac49eeb",
+  "wticrudeoilwaveanalysis"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 36
  },
- "last_run": "2026-10-13T11:05:14.035939+03:00",
+ "last_run": "2026-10-13T11:10:18.040780+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
