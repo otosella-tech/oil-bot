@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "a6e2a2db16fdeaae",
-  "crudeoilcutslossesastraderseyeg7fuelrelease",
   "7888c87b0bb85811",
   "trumpturnstorussiandieselaheadofmidtermsbutanalystsseelittle",
   "fc461ab79199410a",
@@ -603,7 +601,9 @@
   "e897d380bfdecfa7",
   "truckhitsnorthslopepipelinetemporarilyreducingoilandgasflow",
   "02c6227f66e2b795",
-  "asianrefinersbuyspotnovembersaudioilsourcessay"
+  "asianrefinersbuyspotnovembersaudioilsourcessay",
+  "14e4524ca5a4f196",
+  "houthissaysaudiarabiastrikesoilsiteinyemenscapitalal"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T19:30:24.564977+03:00",
+ "last_run": "2026-10-13T19:35:16.152687+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1336,6 +1336,10 @@
   {
    "d": "2026-10-13",
    "t": "Asian refiners buy spot November Saudi oil, sources say - Reuters"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Houthis say Saudi Arabia strikes oil site in Yemen's capital - Al-Monitor"
   }
  ]
 }
