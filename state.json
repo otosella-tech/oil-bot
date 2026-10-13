@@ -4,10 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "1157c0f97b3b1902",
-  "twomoreoiltankersattackednearstraitofhormuz",
-  "be503d8e32c0282d",
-  "oilnewsceasefirehopestestcrudeashormuzriskkeepsbrentsupporte",
   "e84182a81bcc26d3",
   "currentpriceofoilasofseptember252026",
   "95dcf910000c6b34",
@@ -603,7 +599,11 @@
   "01b15024569bd98a",
   "formerpresidentobasanjobacksreviewofoilrevenuedistributionpr",
   "bde8e2ff57e67003",
-  "currentpriceofoilasofoctober72026"
+  "currentpriceofoilasofoctober72026",
+  "8d93f2d7a29d8770",
+  "foodinflationcrudeoilpricestodetermineextentofrbiratehikes50",
+  "ef5d14ea2b47417b",
+  "shippingcostsnoweatupoverathirdofoilsvalueopecwarns"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-13",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-10-13T13:15:17.837859+03:00",
+ "last_run": "2026-10-13T13:20:21.829307+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-10-13",
    "t": "French Commandos Board Sanctioned Russian Oil Tanker in Indian Ocean’s Reunion Island - Kyiv Post"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Shipping costs now eat up over a third of oil's value, OPEC warns - Baird Maritime"
   }
  ]
 }
