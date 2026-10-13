@@ -4,10 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "1056a83d304299ff",
-  "usstockfuturessteadyasoiljumpstotwoweekhighaheadofkeyearning",
-  "b1e7e16447e1fb71",
-  "studyexploreswhyindigenouscommunitiesmayacceptoilextractiond",
   "b41b417c23a70843",
   "marketwrapeuroperebounsdespitehigheroilanddollar12102026",
   "02c6227f66e2b795",
@@ -603,7 +599,11 @@
   "3cf42884ea7a4ccb",
   "paultudorjonesisbullishonoilsaysitcouldrallyanother2025becau",
   "714e0469205e0a67",
-  "crudeoiledgeshighercitigroupearningstopviews"
+  "crudeoiledgeshighercitigroupearningstopviews",
+  "127c40666edf8931",
+  "trumpsdieseldealwithrussiaequalslessthantwoweeksofusdemand",
+  "1960c4d449da1dc2",
+  "declineinrussiancrudeoutputslowedinseptemberopecsays"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T19:10:18.162428+03:00",
+ "last_run": "2026-10-13T19:11:06.642004+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1320,6 +1320,14 @@
   {
    "d": "2026-10-13",
    "t": "Iran Escalates Attacks on Ships, Threatening Oil Export Recovery - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand - CNBC"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Decline in Russian Crude Output Slowed in September, OPEC Says - Bloomberg.com"
   }
  ]
 }
