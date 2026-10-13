@@ -4,8 +4,6 @@
   "Brent": 106.82
  },
  "seen": [
-  "56bf7fffe0ffa415",
-  "usenergydepartmentborrows4millionoilbarrels",
   "aba09aa4b9ced623",
   "q3earningsseasonbeginscrudeoilfuturesnear92",
   "d1c43bf1d3331bc5",
@@ -603,7 +601,9 @@
   "25589300d61e751f",
   "dollarcrudeoilrisemetalscollectivelyweakenaluminalmezinclead",
   "3018bb947c7b4941",
-  "castlesmadeofoilsandcenovusathabascadealextendstrendincanada"
+  "castlesmadeofoilsandcenovusathabascadealextendstrendincanada",
+  "004b29d0043adc3e",
+  "oilpricestodaybrentcrudenear106asmiddleeasttensionsescalate"
  ],
  "releases_done": {},
  "last_digest": "2026-10-12",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 9
  },
- "last_run": "2026-10-13T04:05:14.535470+03:00",
+ "last_run": "2026-10-13T04:10:16.939873+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
