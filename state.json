@@ -4,10 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "f69415f1bbe0888c",
-  "oilreboundsonrussiaukraineenergyceasefiredoubtshouthiattacko",
-  "8722f2f07c830b65",
-  "europeanstocksclosehigherinmondaytradingcrudeoilpricescontin",
   "15910bbe2217be94",
   "oilpricesjump2onsaudiattacksasopecseesdemandrebound",
   "9d32e3b295f6c2a7",
@@ -603,7 +599,11 @@
   "217e3d6379f0ef8e",
   "missilehitsheadquartersofsaudiaramcosourcesaysashouthiconfli",
   "5ef16d5ed60a5dd8",
-  "opecmideastgulfcrudeoutputreboundsinseptember"
+  "opecmideastgulfcrudeoutputreboundsinseptember",
+  "2e135c55ac14a21d",
+  "oilpricesmixedastradersassessrussiandieselsupplyprospectsand",
+  "4950bb537b287857",
+  "saudiaramcoadministrativebuildingattackedlimitedfirereported"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-10-14T01:40:17.220444+03:00",
+ "last_run": "2026-10-14T01:45:17.792744+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1379,6 +1379,14 @@
   {
    "d": "2026-10-14",
    "t": "Missile hits headquarters of Saudi Aramco, source says, as Houthi conflict escalates - Reuters"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Oil prices mixed as traders assess Russian diesel supply prospects and Saudi-Houthi conflict - CNBC"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Saudi Aramco administrative building attacked, limited fire reported - Reuters"
   }
  ]
 }
