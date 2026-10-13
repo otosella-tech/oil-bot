@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "5ae7bb91bbda7f79",
-  "oilpricesdeclineasinvestorsawaitusinflationdataandbankearnin",
   "41a93a340cbd6e04",
   "earningsseasonoilbondspressurewallstreetprebellasiamixedeuro",
   "ee934be65d68b254",
@@ -603,7 +601,9 @@
   "ba1cd02d14ee76a5",
   "oilpriceseaseasusrussiadieseldealhopesoffsetmiddleeastattack",
   "0c15569fb828bb9a",
-  "oilnewsfreightsqueezekeepsbrentfirmasrussiandieseldealtestsc"
+  "oilnewsfreightsqueezekeepsbrentfirmasrussiandieseldealtestsc",
+  "18daaf325a858c90",
+  "opecwarnssoaringshippinginsurancecostsimpedeoilflows"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T18:35:15.314004+03:00",
+ "last_run": "2026-10-13T18:40:21.224505+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1312,6 +1312,10 @@
   {
    "d": "2026-10-13",
    "t": "Oil prices ease as US-Russia diesel deal hopes offset Middle East attacks - Central Oregon Daily"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "OPEC+ warns soaring shipping, insurance costs impede oil flows - Oil & Gas Journal"
   }
  ]
 }
