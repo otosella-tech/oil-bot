@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "4988edeb8125e5c6",
-  "oiltankerratessurgeamidrisingattackslongervoyages",
   "2f5d684596165038",
   "sharessupportedasoilretreatsfocusturnstouscpiearnings",
   "e44da5df69a4815a",
@@ -603,7 +601,9 @@
   "62107ecd8b300b6a",
   "uscrudeoilstockpilespostweeklydrop",
   "9525536e7dcf1966",
-  "opecraises2027oildemandoutlookcuts2026forecast"
+  "opecraises2027oildemandoutlookcuts2026forecast",
+  "f0d96c7e9d27f6b9",
+  "oilheatedhouseholdsinnortheaststrainedbyrisingfuelprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T16:35:16.380866+03:00",
+ "last_run": "2026-10-13T16:40:18.770656+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
