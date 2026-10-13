@@ -4,10 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "e84182a81bcc26d3",
-  "currentpriceofoilasofseptember252026",
-  "95dcf910000c6b34",
-  "whatistherealpriceofoil",
   "c383a9b6625ccf4a",
   "tankerattacksinstraitofhormuzsurgetowartimehighasirantriesto",
   "7637914f21e7613e",
@@ -603,7 +599,11 @@
   "8d93f2d7a29d8770",
   "foodinflationcrudeoilpricestodetermineextentofrbiratehikes50",
   "ef5d14ea2b47417b",
-  "shippingcostsnoweatupoverathirdofoilsvalueopecwarns"
+  "shippingcostsnoweatupoverathirdofoilsvalueopecwarns",
+  "912faa32050ec6e2",
+  "goldpricesriseasoilretreatsaheadofusinflationdataandfederalr",
+  "92f4e2a8612cb184",
+  "currentpriceofoilasofseptember242026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 48
  },
- "last_run": "2026-10-13T13:20:21.829307+03:00",
+ "last_run": "2026-10-13T13:25:14.809417+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
