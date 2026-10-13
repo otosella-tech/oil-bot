@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "8e529961b67081ed",
-  "gulfoilflowsat90ofprewarlevelssaysusenergysecretary",
   "c48e894afbb1a12c",
   "currentpriceofoilasofoctober52026",
   "2ff747c380d6dbcd",
@@ -603,7 +601,9 @@
   "513c2f906530688b",
   "oilpricesreboundamidpersistentmiddleeastsupplyrisks",
   "529db2219eca9612",
-  "hormuzshipspummeledwithworstattacksoftheiranwarasoilflowsplu"
+  "hormuzshipspummeledwithworstattacksoftheiranwarasoilflowsplu",
+  "fb34d7598c86d59b",
+  "trumpofficialtriestokillreportonperfectlytimedoiltrades"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-13",
   "count": 60
  },
- "last_run": "2026-10-13T22:20:21.465504+03:00",
+ "last_run": "2026-10-13T22:25:15.130424+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
