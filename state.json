@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "21d138606b133173",
-  "supertankerratesslipfromrecordhighs",
   "0aa79e1ec1df2870",
   "theieawantstoemptyitsoilreservesfasterafederalwatchdogsaysth",
   "8f38413ad4a925fc",
@@ -603,7 +601,9 @@
   "1a1ed1cfa4259001",
   "japancontrolledtankersreturntomiddleeastaftermonthsaway",
   "ce0454a9e0c89c18",
-  "oilpriceseaseastradersmonitorrussiandieseldealsaudiattackseu"
+  "oilpriceseaseastradersmonitorrussiandieseldealsaudiattackseu",
+  "db5681cb3c222f58",
+  "freightratesforrussianuralsoilshipmentstoindiahitfreshrecord"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-13",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-10-13T14:45:18.014524+03:00",
+ "last_run": "2026-10-13T14:50:17.533981+03:00",
  "sent_stories": [
   {
    "d": "2026-10-10",
@@ -1244,6 +1244,10 @@
   {
    "d": "2026-10-13",
    "t": "Oil prices ease as traders monitor Russian diesel deal, Saudi attacks - Euronext Markets: Real-time Stock Market Data | live"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "Freight rates for Russian Urals oil shipments to India hit fresh records in early October - Reuters"
   }
  ]
 }
