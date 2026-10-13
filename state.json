@@ -4,8 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "b8c1a21ca40d13b1",
-  "oilpricesriseasrussiareportedlyhitsukrainianenergyinfrastruc",
   "117e1328706ecd8a",
   "energystockssoaredinq3asfuelmarketstightened",
   "78a25da90acaa98c",
@@ -603,7 +601,9 @@
   "5626b674f5fbb486",
   "exclusiveguyanamayscalebacklngplansasexxonneedsmoregasforits",
   "e2f7f94a12d03fe9",
-  "woodsidenamesstephanedrouaudmanagingdirectorformexico"
+  "woodsidenamesstephanedrouaudmanagingdirectorformexico",
+  "fa61c4519d4a8c7e",
+  "cmewticrudeoilfuturesriseasgulftensionssupportprices"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-14",
   "count": 2
  },
- "last_run": "2026-10-14T00:45:17.651679+03:00",
+ "last_run": "2026-10-14T00:50:17.458818+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
