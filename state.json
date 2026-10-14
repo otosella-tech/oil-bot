@@ -4,12 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "6d8bab4edac49eeb",
-  "wticrudeoilwaveanalysis",
-  "b4c1160412a09b07",
-  "imfwarnsmiddleeastwarcouldderailglobaleconomicgrowth",
-  "a1b2e54d77e1afe7",
-  "oilpricessettledown25onsignsmiddleeastexportsrecovering",
   "e7f812b86605b7a9",
   "currentpriceofoilasofoct22026",
   "917f9ba1070d993f",
@@ -603,7 +597,13 @@
   "4a1e8dbbcda68108",
   "oilpricesriseasirandeploysnewtacticstotargettankerseuronextm",
   "d0d90718b7ecbad7",
-  "dieselshortagescouldpersistwellinto2027ieasays"
+  "dieselshortagescouldpersistwellinto2027ieasays",
+  "e62f01cb55a98bed",
+  "currentpriceofoilasofoctober142026",
+  "4bbac147c8039578",
+  "pmradevlukoilrefineryhasenoughcrudeoiltolastuntilmiddecember",
+  "5ae5dcbe23ff6b39",
+  "goldgetshitagainbyajumpinoilpricesasthefocusturnstouscpiwhat"
  ],
  "releases_done": {},
  "last_digest": "2026-10-14",
@@ -615,7 +615,7 @@
   "date": "2026-10-14",
   "count": 60
  },
- "last_run": "2026-10-14T14:45:19.256427+03:00",
+ "last_run": "2026-10-14T14:50:17.133585+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
