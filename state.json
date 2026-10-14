@@ -4,10 +4,6 @@
   "Brent": 104.63
  },
  "seen": [
-  "ac549363c3655096",
-  "exxonoilgiantstopbuypointsafterdeadlysaudiairportattacks",
-  "a5ffdb76694d5f8c",
-  "bitcoinslipsbelow83kasreboundinoilpricesdentssentiment",
   "f273c639f47c23d4",
   "thefuturetradescrudeoilvsrefinedproducts",
   "e023dc719686b9d1",
@@ -603,7 +599,11 @@
   "5397894bf3416790",
   "guyanapreparestoexportmorethan1millionbarrelsofoilperdayoilp",
   "23309dc293b029da",
-  "houthisstrikearamcohoursaftersaudiledcoalitionhitssanaaoilsi"
+  "houthisstrikearamcohoursaftersaudiledcoalitionhitssanaaoilsi",
+  "b9f500770f62eacc",
+  "updateusequityindexesmixedastechnologyweighscrudeoiljumpsami",
+  "9845a78b4b19ca00",
+  "nigeriasdangoteoilrefineryswingstonetprofitaheadofipo"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 13
+  "count": 14
  },
- "last_run": "2026-10-14T03:45:16.888414+03:00",
+ "last_run": "2026-10-14T03:50:19.418298+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
