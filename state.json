@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "976d3e63ad692385",
-  "oilpricesfallasrussiadieselexportclaimsoffsetgulfsupplyconce",
   "a8aa1a0fa21b6c4f",
   "chipstockstumbleonaispendingfearsandrisingchinesecompetition",
   "0c52f1e423c2f851",
@@ -603,7 +601,9 @@
   "17d0f2538309518d",
   "indiasgasdemanddropsasiranwarhikeslngspotprices",
   "49ad0820cb3cd6ce",
-  "straitofhormuztrafficplungesonceagainamidnewwaveofhouthiatta"
+  "straitofhormuztrafficplungesonceagainamidnewwaveofhouthiatta",
+  "bdf6b2e1a09b3e98",
+  "oilnewshormuzattacksanddieseldeficitkeepcrudebuyersincontrol"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-14",
   "count": 60
  },
- "last_run": "2026-10-14T17:30:22.705941+03:00",
+ "last_run": "2026-10-14T17:35:18.574393+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1563,6 +1563,10 @@
   {
    "d": "2026-10-14",
    "t": "Strait of Hormuz traffic plunges once again amid new wave of Houthi attacks - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Oil News: Hormuz Attacks and Diesel Deficit Keep Crude Buyers in Control - FXEmpire"
   }
  ]
 }
