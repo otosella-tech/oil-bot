@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "69cad265d2fa179c",
-  "usequityinvestorstomonitorq3earningsseptembersinflationdatac",
   "6d011539e361fa85",
   "japaneserefinersbuymiddleeastcrudethroughshipto",
   "bbaf068232b34599",
@@ -603,7 +601,9 @@
   "efb0b7457377216b",
   "houthisthreatenescalationafterstrikeonsaudioilgiantaramco",
   "f89a9485318f055f",
-  "venezuelasanctionswhytheriskmovedtothevessel"
+  "venezuelasanctionswhytheriskmovedtothevessel",
+  "657abdb7e423286f",
+  "putinfightstopreserverussiasfadinginfluenceincentralasia"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-14",
   "count": 60
  },
- "last_run": "2026-10-14T20:55:16.256642+03:00",
+ "last_run": "2026-10-14T21:00:27.825780+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1651,6 +1651,10 @@
   {
    "d": "2026-10-14",
    "t": "Venezuela Sanctions: Why the Risk Moved to the Vessel - Kpler"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Putin Fights to Preserve Russia’s Fading Influence in Central Asia"
   }
  ]
 }
