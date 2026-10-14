@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "d86e9c7f6a17962e",
-  "oilpricesremainabove100astraderswatchmiddleeast",
   "704080466270bc38",
   "opeccrudeproductionjumps920000bpdinseptember",
   "c6478026d0bc2a8b",
@@ -603,7 +601,9 @@
   "ce0e68e46284fe1f",
   "uaeoilproductionsurgedtorecordsinseptemberieasays",
   "fd5cecb2269b84e9",
-  "uscrudeoilstockpilesseenpostingsmallweeklyincrease"
+  "uscrudeoilstockpilesseenpostingsmallweeklyincrease",
+  "8093d7e5ececa6f2",
+  "theislandissecondtononetrumpsaysoilgasandmineralexplorationt"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-14",
   "count": 60
  },
- "last_run": "2026-10-14T18:45:19.170924+03:00",
+ "last_run": "2026-10-14T18:50:17.584617+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
