@@ -4,26 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "c528e327de53e1d1",
-  "opecraises2027oildemandviewcitingneedtorebuildstocksbyreuter",
-  "5885a8a724b65fe0",
-  "oilleakedbydronehitrussiantankertarsblackseabirdsbeaches",
-  "6fa27618f80734e2",
-  "dangoterefinerymakesastunningturnaroundwith47billionprofitaf",
-  "80d7ef1d80f77373",
-  "goldfirmsasdollaryieldsandoilretreatbeforecpikitcoamreport",
-  "984cd3c248c6da6c",
-  "bitcoinincheshigherascrudeoileasesmarkettalk",
-  "a6eaf8e483187dba",
-  "yourtuesdayoct13guidefivethingstodointheoilcity",
-  "4604d38dac46ffd9",
-  "gulfoilproductionreboundsaheadofincreaseiniranwarhostilities",
-  "3b41aea5f0933265",
-  "russiaoilfreightratestoindiahitrecordhighinoctober",
-  "7340b805f2eb1fbe",
-  "saudileadsjumpinopecoiloutputinseptemberdespiteiranwardisrup",
-  "a3664067ac6dbbb4",
-  "oileasesastradersmonitorrussiandieseldealsaudiattacks",
   "07426b786a45d2f0",
   "saudiarabiacrudeoilproductionrecoversinseptember",
   "d3a1cbd59464da3f",
@@ -603,7 +583,27 @@
   "4f41c3f6833faaec",
   "bigtechpushesbackagainstpayingforamericasagingpowergrid",
   "72eefa3d1cc8d3e7",
-  "houthissaytargetedsaudioilgiantaramcovowmoreattacksal"
+  "houthissaytargetedsaudioilgiantaramcovowmoreattacksal",
+  "e468c4379ec11ffc",
+  "ieaoilsupplyreboundremainsfragiledieseltightnesspersists",
+  "a08a753cf1bef968",
+  "crudeoilhigheronsupplyissues",
+  "564809fc03d3dd0f",
+  "middleeastoilexportstopprewarlevelsforpartofseptemberbuttank",
+  "bde8e2ff57e67003",
+  "currentpriceofoilasofoctober72026",
+  "a1b2e54d77e1afe7",
+  "oilpricessettledown25onsignsmiddleeastexportsrecovering",
+  "e7f812b86605b7a9",
+  "currentpriceofoilasofoct22026",
+  "2b4a65a817860ce5",
+  "currentpriceofoilasofsept292026",
+  "c624a117f9be1bb1",
+  "pakistanturnstoafricassecondlargestcrudeoilproducerlibyaasmi",
+  "95dcf910000c6b34",
+  "whatistherealpriceofoil",
+  "4b75a3ac4be63c87",
+  "oilpricesslideabout2asusiranexplorepathoutofwar"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-14",
   "count": 60
  },
- "last_run": "2026-10-14T19:10:19.311764+03:00",
+ "last_run": "2026-10-14T19:15:19.592308+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1591,6 +1591,14 @@
   {
    "d": "2026-10-14",
    "t": "Houthis say targeted Saudi oil giant Aramco, vow more attacks - Al-Monitor"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters"
   }
  ]
 }
