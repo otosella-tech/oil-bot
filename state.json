@@ -4,10 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "325e74fa4458e7df",
-  "currentpriceofoilasofoctober132026",
-  "418af021748930ae",
-  "icebrentoptionsreachrecordtradedvolumeinq32026ascustomersman",
   "c601e3fe768a301d",
   "opecenergyandoilministersofcountries",
   "345a1b476c090024",
@@ -603,7 +599,11 @@
   "7a9c86f5300b0a64",
   "trumpsaysmassiveoilgasexplorationsettobegininourgreenland",
   "a79c9bd2e901e8d4",
-  "uscrudeoilpricesriseamidmiddleeasttensionscolgatepa"
+  "uscrudeoilpricesriseamidmiddleeasttensionscolgatepa",
+  "7e655be9641863af",
+  "chinascoalimportsfall6aspriceshitnearly3",
+  "65c4dd660c04853f",
+  "houthissaytargetedsaudioilgiantaramcovowmoreattacks"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-14",
   "count": 60
  },
- "last_run": "2026-10-14T18:25:15.778117+03:00",
+ "last_run": "2026-10-14T18:30:23.773746+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1579,6 +1579,10 @@
   {
    "d": "2026-10-14",
    "t": "Iran-backed Houthis struck Saudi oil giant Aramco's executive offices, officials say - ClickOnDetroit | WDIV Local 4"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Houthis say targeted Saudi oil giant Aramco, vow more attacks - France 24"
   }
  ]
 }
