@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "24fc7f4fb39e0cb3",
-  "usequitymarketsmixedamidrisingcrudeoilprices",
   "fe5a355cd86d300d",
   "agulfwellisproducingenergyequaltoabout15000barrelsofoiladay",
   "180884598a975c36",
@@ -603,7 +601,9 @@
   "0218e7485f311031",
   "palmoilextendsgainstothirddaytrackingcrudeoilanddalian",
   "57de651943ef5b56",
-  "oilpricesclimbashouthisstepupattacksonsaudiarabiastokingsupp"
+  "oilpricesclimbashouthisstepupattacksonsaudiarabiastokingsupp",
+  "7722fea6f268a87e",
+  "crudeoilnears110assaudiattacksandhormuzrisksstokesupplyfears"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-10-14T06:30:22.652744+03:00",
+ "last_run": "2026-10-14T06:35:16.251691+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1435,6 +1435,10 @@
   {
    "d": "2026-10-14",
    "t": "Oil prices climb as Houthis step up attacks on Saudi Arabia, stoking supply fears - The Times of India"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Crude oil nears $110 as Saudi attacks and Hormuz risks stoke supply fears - India Today"
   }
  ]
 }
