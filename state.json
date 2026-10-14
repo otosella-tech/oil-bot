@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "b4e99b584c89ee06",
-  "deltaairlinesceosayshigherairfarescouldbeheretostayastravele",
   "35b893b2757371cd",
   "heatpumpsarecomingforcoalsindustrialheatmarket",
   "9e8e532ce3693b41",
@@ -603,7 +601,9 @@
   "8dd3484e2b2f5c70",
   "doescookingwitholiveoildestroyitsnutrientshereswhatascientis",
   "50c5d02736fab339",
-  "oilpricesriseashouthiattackshormuzstrikesspursupplyuncertain"
+  "oilpricesriseashouthiattackshormuzstrikesspursupplyuncertain",
+  "7a68c7c3f0cd5791",
+  "oilpricetodayoctober14crudeoilgainsto107ashouthisattacksaudi"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-10-14T07:30:21.804706+03:00",
+ "last_run": "2026-10-14T07:35:14.714749+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1440,6 +1440,10 @@
   {
    "d": "2026-10-14",
    "t": "Oil prices rise as Houthi attacks, Hormuz strikes spur supply uncertainty - Investing.com"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Oil Price Today (October 14): Crude oil gains to $107 as Houthis attack Saudi Aramco building in new attac - The Economic Times"
   }
  ]
 }
