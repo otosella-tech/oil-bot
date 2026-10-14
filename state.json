@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "e6bef4678d330fb7",
-  "seasiaspeedsupplanforconnectedcleanpowergridafteroilshock",
   "218a708feea68feb",
   "iranescalatesattacksonshipsthreateningoilexportrecovery",
   "a2ea2cc759609721",
@@ -603,7 +601,9 @@
   "6b770af01182579e",
   "californiascrudeawakeningfromwellstowheelstoindependentplaye",
   "365ff784fdd19e42",
-  "crudeoilinventoriesplungesurpassingexpectations"
+  "crudeoilinventoriesplungesurpassingexpectations",
+  "f42d7bdc9196cfaa",
+  "trumpannounces80billiontaiwanlngdeal"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-14",
   "count": 60
  },
- "last_run": "2026-10-14T23:55:16.057021+03:00",
+ "last_run": "2026-10-15T00:00:28.823720+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
