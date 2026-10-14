@@ -4,10 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "883534614158c920",
-  "oilralliessendingdollarhigheronexpectationsofhigherusrates",
-  "901f412bd8fc31fd",
-  "updateusequityindexesmixedasmegacaptechnamesweighedstrikeson",
   "cac6e8c92d0084c1",
   "exclusiveadnoclogisticsintalkstobuystakeinheaat3billionvalua",
   "c624a117f9be1bb1",
@@ -603,7 +599,11 @@
   "4a056f014c965e85",
   "oilfuturescrudehigheronescalationfearsaramcohqtargeted",
   "1d736c17b03f0de6",
-  "palmoilrisesforthirddaytrackingcrudeoilanddalian"
+  "palmoilrisesforthirddaytrackingcrudeoilanddalian",
+  "27a1388595930937",
+  "oilpricesclimbabove106asiranthreatensmoretankerattacks",
+  "191c7cc6e16501ad",
+  "canyemensmilitarygainshelpreviveitsoilexports"
  ],
  "releases_done": {},
  "last_digest": "2026-10-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-10-14T08:25:13.447433+03:00",
+ "last_run": "2026-10-14T08:30:22.337504+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1448,6 +1448,10 @@
   {
    "d": "2026-10-14",
    "t": "Oil prices climb as Iran deploys new tactics to target ships transiting Hormuz - Reuters"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks"
   }
  ]
 }
