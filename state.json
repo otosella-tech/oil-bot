@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "9e8e532ce3693b41",
-  "crudeoilpricessurgeamidmiddleeasttensions",
   "084cb5e751896bea",
   "nasdaqfallsaheadofearningseconomicdatawhileoilrallies",
   "883534614158c920",
@@ -603,7 +601,9 @@
   "7a68c7c3f0cd5791",
   "oilpricetodayoctober14crudeoilgainsto107ashouthisattacksaudi",
   "08a8ec13390c1c8e",
-  "oilpricesclimbasirandeploysnewtacticstotargetshipstransiting"
+  "oilpricesclimbasirandeploysnewtacticstotargetshipstransiting",
+  "4a056f014c965e85",
+  "oilfuturescrudehigheronescalationfearsaramcohqtargeted"
  ],
  "releases_done": {},
  "last_digest": "2026-10-13",
@@ -615,7 +615,7 @@
   "date": "2026-10-14",
   "count": 37
  },
- "last_run": "2026-10-14T07:45:16.738639+03:00",
+ "last_run": "2026-10-14T07:50:18.052411+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
