@@ -4,10 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "d96a6b9dd6e27fd9",
-  "warcollideswithsaudiambitionatagatheringofoilpowers",
-  "0e4d63f9169455c2",
-  "houthiscallonsaudiaramcoemployeescivilianstoevacuateoilfacil",
   "800a6875fc2a2160",
   "crudeoilpriceforecastwtioilfaces95ceilingasgulfofmexicosuppl",
   "128c55d50e0496ff",
@@ -603,7 +599,11 @@
   "8a8329daf491ec78",
   "hormuzattackskeepbrentcrudeunsteady",
   "962a430c16a665f7",
-  "containershipsinksinstraitofhormuzasiranstepsupattacks"
+  "containershipsinksinstraitofhormuzasiranstepsupattacks",
+  "29d7f8a47dc3f8c5",
+  "exxonmobilbptoeachget2millionbarrelsofsproilduetohurricaneim",
+  "ae65c35d3208f0d0",
+  "trumpsaysmassiveoilandgasexplorationtobeginingreenland"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-14",
   "count": 60
  },
- "last_run": "2026-10-14T20:20:20.476390+03:00",
+ "last_run": "2026-10-14T20:25:16.320885+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1631,6 +1631,10 @@
   {
    "d": "2026-10-14",
    "t": "Container ship sinks in Strait of Hormuz as Iran steps up attacks - CNBC"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "ExxonMobil, BP to each get 2 million barrels of SPR oil due to hurricane impacts - 10/12 Industry Report"
   }
  ]
 }
