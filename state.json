@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "180884598a975c36",
-  "trumpsenergyceasefirecollideswithrealworldproblemsofdwindlin",
   "b4e99b584c89ee06",
   "deltaairlinesceosayshigherairfarescouldbeheretostayastravele",
   "35b893b2757371cd",
@@ -603,7 +601,9 @@
   "7722fea6f268a87e",
   "crudeoilnears110assaudiattacksandhormuzrisksstokesupplyfears",
   "8dd3484e2b2f5c70",
-  "doescookingwitholiveoildestroyitsnutrientshereswhatascientis"
+  "doescookingwitholiveoildestroyitsnutrientshereswhatascientis",
+  "50c5d02736fab339",
+  "oilpricesriseashouthiattackshormuzstrikesspursupplyuncertain"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-10-14T06:50:16.332663+03:00",
+ "last_run": "2026-10-14T06:55:13.855290+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1439,6 +1439,10 @@
   {
    "d": "2026-10-14",
    "t": "Crude oil nears $110 as Saudi attacks and Hormuz risks stoke supply fears - India Today"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Oil prices rise as Houthi attacks, Hormuz strikes spur supply uncertainty - Investing.com"
   }
  ]
 }
