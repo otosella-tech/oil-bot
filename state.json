@@ -4,12 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "fcdf0e5516102577",
-  "cubaforgesaheadwithrenewableenergyplansamidusoilblockade",
-  "54e89da6ba3625bd",
-  "sp500nasdaqslipasoilrisesonrussiastrikesinukraine",
-  "dc73804bfc382cdd",
-  "energypricesriseaftertrumpsenergyceasefirefailstomoverussiao",
   "aed77980cfee1f48",
   "wallstreetmixedasoilpricessurgeinvestorsawaitearningseconomi",
   "dfe4dbc51b6b608d",
@@ -603,7 +597,13 @@
   "d3573879054d7108",
   "americashaveglutofheavyoilduetofreightsqueezeasiaeuropescram",
   "e030e82ca01601ce",
-  "iranplaystheoilcardtohittrumpwhereithurtsmostbeforemidterms"
+  "iranplaystheoilcardtohittrumpwhereithurtsmostbeforemidterms",
+  "0982dda1f08516f1",
+  "worldsfifthmostpopulouscountryturnstolibyaforcrudeoilasmiddl",
+  "b3ca4843004daa25",
+  "theworldhasnearlyburnedthroughitsoilstockpilebufferexecutive",
+  "11fa2a1997eb6135",
+  "oilisflowingfromthepersiangulfbutpricesremainhighwhy"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-14",
   "count": 16
  },
- "last_run": "2026-10-14T04:35:13.056113+03:00",
+ "last_run": "2026-10-14T04:40:17.393713+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
