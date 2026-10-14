@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "7e5c7dedb6994e7b",
-  "thesinglecustomerwhogovernsiransoiltradewithchinathechina",
   "1c24cab6c6beaec6",
   "wticrudeoilfuturesadvanceforthirdsessionamidglobaltensions",
   "bc400f707bba867b",
@@ -603,7 +601,9 @@
   "b53de521000d3ed5",
   "europeanoilrefineriesmarginscollapseasinputcostssoar",
   "68a95948f5d51102",
-  "oilfuturescrudeholdsfirmonescalationfearsaramcohqtargeted"
+  "oilfuturescrudeholdsfirmonescalationfearsaramcohqtargeted",
+  "7dcd85660eaa3f89",
+  "ieacuts2026oildemandoutlookasdieselcrisismideastwardisruptma"
  ],
  "releases_done": {},
  "last_digest": "2026-10-14",
@@ -615,7 +615,7 @@
   "date": "2026-10-14",
   "count": 55
  },
- "last_run": "2026-10-14T11:40:17.269342+03:00",
+ "last_run": "2026-10-14T11:45:18.449675+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
