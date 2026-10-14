@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "e8e5f6622e0ae5bf",
-  "oileurusdforecasttwotradestowatch121026",
   "c3ad6e57416e675b",
   "667989northernoilandgasshareswereboughtbackfor16million",
   "1b7501b2a1e632f7",
@@ -603,7 +601,9 @@
   "9f18eecceb412a5e",
   "asiastockstogainonsignalforfewerfedhikesmarketswrap",
   "0b1ff7c2c6281d70",
-  "palmoilextendsathreedayclimbascrudefirms"
+  "palmoilextendsathreedayclimbascrudefirms",
+  "875d9ec708f23a58",
+  "iranescalateshormuztankerattacksingambleaheadofusmidterms"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 25
+  "count": 27
  },
- "last_run": "2026-10-14T06:10:17.322642+03:00",
+ "last_run": "2026-10-14T06:15:16.826948+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1427,6 +1427,10 @@
   {
    "d": "2026-10-14",
    "t": "Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow - Reuters"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Iran escalates Hormuz tanker attacks in gamble ahead of US midterms - Iran International"
   }
  ]
 }
