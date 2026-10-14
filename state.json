@@ -4,10 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "6c200cf2286d329f",
-  "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
-  "9e802c3f73ceb581",
-  "globalcoaldemandrisesaslngshortagedeepens",
   "d907c77c12e079e4",
   "whydoiransoilintermediariesowethegovernmentbillions",
   "f4ef81d433baf166",
@@ -603,7 +599,11 @@
   "4abcb29cd4cd7946",
   "whatsinthedieseldealbetweenputinandtrump",
   "1b7501b2a1e632f7",
-  "oilclimbsasfightingflaresinmiddleeastukraine"
+  "oilclimbsasfightingflaresinmiddleeastukraine",
+  "b7d1570eec9225c2",
+  "currentpriceofoilasofoctober92026",
+  "33d0b3ccd2199bae",
+  "dollarralliesonhighercrudeoilpricesandhawkishfedcomments"
  ],
  "releases_done": {},
  "last_digest": "2026-10-14",
@@ -615,7 +615,7 @@
   "date": "2026-10-14",
   "count": 45
  },
- "last_run": "2026-10-14T08:55:14.927285+03:00",
+ "last_run": "2026-10-14T09:00:27.608856+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
