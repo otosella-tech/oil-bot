@@ -4,10 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "eef218850a587d3f",
-  "opecoilproductionrises900000bbldinseptemberdespitehormuzdisr",
-  "68c61c6ac40bfcbd",
-  "crudeoilpareslosses",
   "f4593662d3bd4858",
   "whitehousepadillaschiffcarbajalleadcolleaguesinbriefchalleng",
   "fb33110ee23ccd5f",
@@ -603,7 +599,11 @@
   "a2b6f0729b2fd4dd",
   "shipsinksinstraitofhormuzasiranescalatesmaritimeattacks",
   "ec66090d7efa2038",
-  "ieacuts2026oildemandforecastwithpartialrecoveryseennextyear"
+  "ieacuts2026oildemandforecastwithpartialrecoveryseennextyear",
+  "75afa6ebb1ae2ca9",
+  "despiterumorslogisticsruleoutrussianiranianoilblending",
+  "d3b21d9913a62d09",
+  "oilmarketsfarfromnormalevenassomestraitofhormuzissueseasetd"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-14",
   "count": 60
  },
- "last_run": "2026-10-14T22:50:24.694877+03:00",
+ "last_run": "2026-10-14T22:55:15.193577+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1671,6 +1671,14 @@
   {
    "d": "2026-10-14",
    "t": "Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Despite Rumors, Logistics Rule Out Russian-Iranian Oil Blending - The Maritime Executive"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Oil markets ‘far’ from normal even as some Strait of Hormuz issues ease: TD - Global News"
   }
  ]
 }
