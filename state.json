@@ -4,10 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "aed77980cfee1f48",
-  "wallstreetmixedasoilpricessurgeinvestorsawaitearningseconomi",
-  "dfe4dbc51b6b608d",
-  "shippingcostsreachonethirdofcrudeoilvalueenergyministerssay",
   "21c896a8c121f471",
   "trumpadministrationapprovesemergencycrudeoilexchangetolimitd",
   "201eb2affe13a8e5",
@@ -603,7 +599,11 @@
   "b3ca4843004daa25",
   "theworldhasnearlyburnedthroughitsoilstockpilebufferexecutive",
   "11fa2a1997eb6135",
-  "oilisflowingfromthepersiangulfbutpricesremainhighwhy"
+  "oilisflowingfromthepersiangulfbutpricesremainhighwhy",
+  "dc73804bfc382cdd",
+  "energypricesriseaftertrumpsenergyceasefirefailstomoverussiao",
+  "fcdf0e5516102577",
+  "cubaforgesaheadwithrenewableenergyplansamidusoilblockade"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 16
+  "count": 18
  },
- "last_run": "2026-10-14T04:40:17.393713+03:00",
+ "last_run": "2026-10-14T04:45:22.248055+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1411,6 +1411,10 @@
   {
    "d": "2026-10-14",
    "t": "How Will I Know – Will a Newly Sanctioned Pipeline Give the Bakken a Big Surplus of Gas Takeaway? - RBN Energy"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine - NBC News"
   }
  ]
 }
