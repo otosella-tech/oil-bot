@@ -4,10 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "b09302e61e03f4b7",
-  "crudeoiloutlookusirantalkssupplyriskslikelytokeeppricesvolat",
-  "051c8c2efaf430c2",
-  "sp500waversasearningsbetsoffsetchiproutmarketswrap",
   "7e5c7dedb6994e7b",
   "thesinglecustomerwhogovernsiransoiltradewithchinathechina",
   "1c24cab6c6beaec6",
@@ -603,7 +599,11 @@
   "6e7521656246c9a4",
   "energysecretaryauthorizesemergencyexchangefromspr",
   "720399b766dc2b19",
-  "taiwancommitsupto44billiontoalaskalngmegaproject"
+  "taiwancommitsupto44billiontoalaskalngmegaproject",
+  "b53de521000d3ed5",
+  "europeanoilrefineriesmarginscollapseasinputcostssoar",
+  "68a95948f5d51102",
+  "oilfuturescrudeholdsfirmonescalationfearsaramcohqtargeted"
  ],
  "releases_done": {},
  "last_digest": "2026-10-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-10-14T11:30:22.417234+03:00",
+ "last_run": "2026-10-14T11:35:14.913194+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1468,6 +1468,10 @@
   {
    "d": "2026-10-14",
    "t": "Oil prices rise as Iran deploys new tactics to target ships transiting Hormuz - Reuters"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "European oil refineries’ margins collapse as input costs soar - Financial Times"
   }
  ]
 }
