@@ -4,12 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "a01a34e887e3b58a",
-  "japanseptcgpikeyenergypricescrudeoilcoalproducts115yyvsaug14",
-  "84632d558850b20b",
-  "oiltheftisontheriseintheheartofusshalecountryanditsmostlycar",
-  "cd6c62e9ca6edc9a",
-  "oiltickslowerasrussiadieselsupplyprospectscountergulfsupplyr",
   "92792b860982ca14",
   "crudeoilisunderpricedenergyaspectssays",
   "9dc249c792315760",
@@ -603,7 +597,13 @@
   "370de6fae40d6156",
   "oilpricesriseastradersweighsaudiaramcoattackreporthormuzship",
   "e1664ab172425d6d",
-  "trumpsaysmassiveoilandgasdrillingisabouttobeginingreenland"
+  "trumpsaysmassiveoilandgasdrillingisabouttobeginingreenland",
+  "9100a43c4d2b5a7d",
+  "oilpricesriseasirandeploysnewtacticstotargetshipstransitingh",
+  "b300318aea0cc49a",
+  "dowfuturesdrivenbybankearningscrudeoilusbondyields",
+  "48662463bff798cd",
+  "theoilmarketthatsetstodaysgaspriceswasinventedinwesternpenns"
  ],
  "releases_done": {},
  "last_digest": "2026-10-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 51
+  "count": 53
  },
- "last_run": "2026-10-14T10:40:18.024112+03:00",
+ "last_run": "2026-10-14T10:45:16.151020+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1464,6 +1464,10 @@
   {
    "d": "2026-10-14",
    "t": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks - WSJ"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Oil prices rise as Iran deploys new tactics to target ships transiting Hormuz - Reuters"
   }
  ]
 }
