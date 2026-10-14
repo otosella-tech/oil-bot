@@ -4,10 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "051b104a814bbbe4",
-  "saudiarabiaplansmassiveexpansionofoilpipelinetobypasshormuz",
-  "902ab0bf7f5c52b5",
-  "opecministersurgeenhancedmaritimesecurityasfreightratessurge",
   "ceb15ec9ce18cd52",
   "crudeoilrisesongeopoliticalandstormrisks",
   "3859a853d319c882",
@@ -603,7 +599,11 @@
   "aee9b1f231cbb0d9",
   "aramcosnewchinesejvrefinerygetsfirstsaudicrudecargo",
   "86c272eb34150352",
-  "fromliabilitiestogoldminesrefinerieseyerecordprofitsfromdies"
+  "fromliabilitiestogoldminesrefinerieseyerecordprofitsfromdies",
+  "1ea2c262b4b45e89",
+  "dieselsqueezesettolastwellinto2027asiranwardisruptssupplyiea",
+  "da42cdd7e47f8090",
+  "ieawarnsdieselsupplytightnesscouldpersistinto2027"
  ],
  "releases_done": {},
  "last_digest": "2026-10-14",
@@ -615,7 +615,7 @@
   "date": "2026-10-14",
   "count": 60
  },
- "last_run": "2026-10-14T15:30:23.869677+03:00",
+ "last_run": "2026-10-14T15:35:14.904695+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1516,6 +1516,10 @@
   {
    "d": "2026-10-14",
    "t": "Aramco’s New Chinese JV Refinery Gets First Saudi Crude Cargo"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says - CNBC"
   }
  ]
 }
