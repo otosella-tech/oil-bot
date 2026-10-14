@@ -4,12 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "a2ea2cc759609721",
-  "currentpriceofoilasofoctober62026",
-  "72537dfcc86579ab",
-  "emergencyoilreleasesriskdrainingtheworldslastsupplycushion",
-  "88e4a0ca70d1e52b",
-  "whydieselpricesaresomuchhigherthangasoline",
   "3cf42884ea7a4ccb",
   "paultudorjonesisbullishonoilsaysitcouldrallyanother2025becau",
   "714e0469205e0a67",
@@ -603,7 +597,13 @@
   "f42d7bdc9196cfaa",
   "trumpannounces80billiontaiwanlngdeal",
   "92f4e2a8612cb184",
-  "currentpriceofoilasofseptember242026"
+  "currentpriceofoilasofseptember242026",
+  "d799c6719d35c82a",
+  "greenpeacereportsanotherhugeoilslickintheblackseafollowingan",
+  "2fd3e1c0445b8286",
+  "crudeoilinventoriesplungesurpassingexpectationsbyinvestingco",
+  "fdcdb5f972d47549",
+  "highercrudeoilpricesareanetpositiveforcanadatdreport"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -615,59 +615,11 @@
   "Brent": 106.28
  },
  "llm": {
-  "date": "2026-10-14",
-  "count": 60
+  "date": "2026-10-15",
+  "count": 2
  },
- "last_run": "2026-10-15T00:10:19.595871+03:00",
+ "last_run": "2026-10-15T00:15:20.892766+03:00",
  "sent_stories": [
-  {
-   "d": "2026-10-11",
-   "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
-  },
-  {
-   "d": "2026-10-11",
-   "t": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis"
-  },
-  {
-   "d": "2026-10-11",
-   "t": "Soaring freight rates threaten Asia's appetite for US crude - Reuters"
-  },
-  {
-   "d": "2026-10-11",
-   "t": "Video | Crude oil supertanker explodes in Strait of Hormuz - NDTV"
-  },
-  {
-   "d": "2026-10-11",
-   "t": "Super Oil Tanker Catches Fire after Hitting Sea Mine in Strait of Hormuz - تسنیم"
-  },
-  {
-   "d": "2026-10-11",
-   "t": "Ilam to build refinery using Azar and Changuleh crude oil - IranOilGas"
-  },
-  {
-   "d": "2026-10-11",
-   "t": "US hits commercial tanker in Gulf of Oman as tensions flare - Financial Times"
-  },
-  {
-   "d": "2026-10-11",
-   "t": "Trump eases Russia sanctions, says Putin will release diesel supplies amid unprecedented price spike - NBC News"
-  },
-  {
-   "d": "2026-10-11",
-   "t": "Crude oil exports via Hormuz at 33.7 million barrels this week, data shows - Reuters"
-  },
-  {
-   "d": "2026-10-11",
-   "t": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters"
-  },
-  {
-   "d": "2026-10-11",
-   "t": "Strait of Hormuz: After more oil left the Gulf, Iran tries to regain its stranglehold on shipping - CNN"
-  },
-  {
-   "d": "2026-10-11",
-   "t": "How Low Can the Strategic Petroleum Reserve Actually Go?"
-  },
   {
    "d": "2026-10-12",
    "t": "Energy briefs–Iran, Russia, Ukraine and China in the energy mix - Oklahoma Energy Today"
@@ -1683,6 +1635,14 @@
   {
    "d": "2026-10-14",
    "t": "Crude Oil Inventories Plunge, Surpassing Expectations - Investing.com"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Greenpeace reports another huge oil slick in the Black Sea following an attack on a tanker off Sochi’s coastline. Russia denies any pollution but has declared a h alert. - Meduza"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Crude Oil Inventories Plunge, Surpassing Expectations By Investing.com - Investing.com Nigeria"
   }
  ]
 }
