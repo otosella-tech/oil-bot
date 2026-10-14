@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "408c8be8b6f27a24",
-  "nasdaqslips02oiljumps2onukrainestrikes2026httpstech",
   "bd8838bf4e05d116",
   "theoilmarketthatsetstodaysgaspriceswasinventedinwesternpenns",
   "a01a34e887e3b58a",
@@ -603,7 +601,9 @@
   "53394961764fe74a",
   "beyondbrenthowhiddenphysicalmarketstrainsthreatentheglobalec",
   "d8a7a40c3c02bdc7",
-  "chinasexportsandimportssurgepastexpectationsinseptember"
+  "chinasexportsandimportssurgepastexpectationsinseptember",
+  "370de6fae40d6156",
+  "oilpricesriseastradersweighsaudiaramcoattackreporthormuzship"
  ],
  "releases_done": {},
  "last_digest": "2026-10-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-10-14T10:20:16.703104+03:00",
+ "last_run": "2026-10-14T10:25:15.089397+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1460,6 +1460,10 @@
   {
    "d": "2026-10-14",
    "t": "China's exports and imports surge past expectations in September - CNBC"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks - WSJ"
   }
  ]
 }
