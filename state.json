@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "bbaf068232b34599",
-  "chevronvsoccidentalpetroleumwhichenergystockisabetterbuyin20",
   "0617c8b45b5468fb",
   "crudeoilfuturesfall24onrussiansupplyhopes",
   "8ddd03b55c17f251",
@@ -603,7 +601,9 @@
   "657abdb7e423286f",
   "putinfightstopreserverussiasfadinginfluenceincentralasia",
   "a09fcaae3516543b",
-  "iranwherearethebillionsinoilrevenuesthatneverreachthecountry"
+  "iranwherearethebillionsinoilrevenuesthatneverreachthecountry",
+  "e2da06133020df25",
+  "lawoftheseacomestolifeinthehuntforsanctionedrussianoil"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-14",
   "count": 60
  },
- "last_run": "2026-10-14T21:05:15.738168+03:00",
+ "last_run": "2026-10-14T21:10:20.829923+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1655,6 +1655,10 @@
   {
    "d": "2026-10-14",
    "t": "Putin Fights to Preserve Russia’s Fading Influence in Central Asia"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Law of the Sea comes to life in the hunt for sanctioned Russian oil - Al Jazeera"
   }
  ]
 }
