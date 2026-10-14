@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "d65001b9bbe1eafd",
-  "guyanaoilexportstotop1millionbarrelsadayforfirsttime",
   "8c2d51851e1d099b",
   "chinas3billionqatarlngdealraisesanawkwardquestion",
   "ee9363b05a2f4e0b",
@@ -603,7 +601,9 @@
   "0671c50600605594",
   "whatdeterminesthepriceofoil",
   "2a0626372831c77a",
-  "herestheinflationbreakdownforseptember2026inonechart"
+  "herestheinflationbreakdownforseptember2026inonechart",
+  "336604dbfa90c6e3",
+  "despiterumorslogisticalshortfallsruleoutrussianiranianoilble"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-15",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-10-15T02:40:17.569483+03:00",
+ "last_run": "2026-10-15T02:45:17.327759+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1647,6 +1647,10 @@
   {
    "d": "2026-10-15",
    "t": "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Despite Rumors, Logistical Shortfalls Rule Out Russian-Iranian Oil Blending - The Maritime Executive"
   }
  ]
 }
