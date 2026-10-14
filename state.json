@@ -4,12 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "4747959555cdc90f",
-  "soaringtankerratesleaveamericasawashincrudeoil",
-  "33d0b3ccd2199bae",
-  "dollarralliesonhighercrudeoilpricesandhawkishfedcomments",
-  "c63b7df0902d695e",
-  "chinasautoexportsexplodeasdomesticdemandcraters",
   "ba0d9f2a1b75a1f0",
   "brentcrudetops100whyoilpricesremainelevated",
   "e8e5f6622e0ae5bf",
@@ -603,7 +597,13 @@
   "201eb2affe13a8e5",
   "shippingandinsurancecostsforenergyflowssurgeopecnonopecminis",
   "1cfe9a3660e26440",
-  "oilpricesriseonsaudiarabiaattacksovershadowingtrumpsdieselde"
+  "oilpricesriseonsaudiarabiaattacksovershadowingtrumpsdieselde",
+  "b6a61f60bd375224",
+  "fedsorderenergytransfertoinspectrepairpipelinesaftersterling",
+  "3817aed5b24651d8",
+  "oilpricesclimbastradersweighsaudisupplyriskrussiandieselflow",
+  "9f18eecceb412a5e",
+  "asiastockstogainonsignalforfewerfedhikesmarketswrap"
  ],
  "releases_done": {
   "2026-10-13|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-14",
-  "count": 23
+  "count": 25
  },
- "last_run": "2026-10-14T05:55:13.503303+03:00",
+ "last_run": "2026-10-14T06:00:29.451874+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1423,6 +1423,10 @@
   {
    "d": "2026-10-14",
    "t": "Shipping and insurance costs for energy flows surge, OPEC, non-OPEC ministers say - Reuters"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow - Reuters"
   }
  ]
 }
