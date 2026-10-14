@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "ff31ea0e93546479",
-  "northdakotastripperwelltaxbreakmoregenerousthanhistoricnorm",
   "07804b3d54bfe5b5",
   "octoberisbeginningtolookalotlikeaprilforoil",
   "6c48947a5ffd84fc",
@@ -603,7 +601,9 @@
   "8bcacf056ef35f92",
   "crudeoilpricesriseasiranchangestacticsinattacksonshipsinthes",
   "737717b3d4829533",
-  "energyagencylowersworldoildemandforecastfortheyear"
+  "energyagencylowersworldoildemandforecastfortheyear",
+  "081179318d41457d",
+  "russianstrikescutpowerto600000ukrainiansdaysafterusdieseldea"
  ],
  "releases_done": {},
  "last_digest": "2026-10-14",
@@ -615,7 +615,7 @@
   "date": "2026-10-14",
   "count": 60
  },
- "last_run": "2026-10-14T16:25:15.237091+03:00",
+ "last_run": "2026-10-14T16:30:23.756904+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
@@ -1532,6 +1532,10 @@
   {
    "d": "2026-10-14",
    "t": "Crude oil prices rise as Iran changes tactics in attacks on ships in the Strait of Hormuz - UkrAgroConsult"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "Russian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal"
   }
  ]
 }
