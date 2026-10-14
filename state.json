@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "0d99fea973aeffa5",
-  "oilholdsadvanceasexpandingmiddleeastwarthreatenssupply",
   "b09302e61e03f4b7",
   "crudeoiloutlookusirantalkssupplyriskslikelytokeeppricesvolat",
   "051c8c2efaf430c2",
@@ -603,7 +601,9 @@
   "ea252f8d83de9c21",
   "oilmarketreportoctober2026iea",
   "6e7521656246c9a4",
-  "energysecretaryauthorizesemergencyexchangefromspr"
+  "energysecretaryauthorizesemergencyexchangefromspr",
+  "720399b766dc2b19",
+  "taiwancommitsupto44billiontoalaskalngmegaproject"
  ],
  "releases_done": {},
  "last_digest": "2026-10-14",
@@ -615,7 +615,7 @@
   "date": "2026-10-14",
   "count": 53
  },
- "last_run": "2026-10-14T11:10:17.783399+03:00",
+ "last_run": "2026-10-14T11:15:18.390629+03:00",
  "sent_stories": [
   {
    "d": "2026-10-11",
