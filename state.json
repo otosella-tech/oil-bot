@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "cdd0091073ba2604",
-  "oilpricessteadyaftergainsoniransnewtacticstotargettankers",
   "a7d9d34ebbc88e67",
   "shippinginsurancecostsforenergyflowssurgeopecnonopecminister",
   "2a86c4092da0c46d",
@@ -603,7 +601,9 @@
   "da5656a80910f7ca",
   "gaspricesholdingnearsteadyascrudeoilremainshigh",
   "d16fc3bb6eabe6be",
-  "oilpricesendmixedastradersweighdemandoutlookhormuzshippingri"
+  "oilpricesendmixedastradersweighdemandoutlookhormuzshippingri",
+  "c5f5db1c315b5a54",
+  "oilpricesdivergeassupplyrisksmount"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T23:25:13.804244+03:00",
+ "last_run": "2026-10-15T23:30:25.700942+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
