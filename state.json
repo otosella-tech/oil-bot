@@ -4,10 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "3aa7ecde0eb87cdd",
-  "dowjonesoutlookcpioilandyieldsputtherallytothetest",
-  "546dc425b46fde98",
-  "crudeoilhoversat94",
   "3a81358fef7fccfc",
   "greenlandcontradictstrumpsclaimthatmassiveoilandgasdrillingi",
   "7483705ab50a59ec",
@@ -603,7 +599,11 @@
   "fd580202b87a3153",
   "oilgainsasuscrudeinventoriesfall",
   "b7009ea58a055747",
-  "britainsbiggestbusinesslobbycallsfortaxcutsandlowerenergybil"
+  "britainsbiggestbusinesslobbycallsfortaxcutsandlowerenergybil",
+  "0b5a17647d5f2abf",
+  "uscrudeoilinventoriesdecreaseby86millionbarrels",
+  "5a7de2f135c97ab2",
+  "morganstanleyleadsfundraisefortexasrefinerycompanysays"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T21:20:18.898043+03:00",
+ "last_run": "2026-10-15T21:25:15.521887+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1908,6 +1908,10 @@
   {
    "d": "2026-10-15",
    "t": "Oil futures: Crude steadies as US weighs easing tanker sanctions - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Morgan Stanley Leads Fundraise for Texas Refinery, Company Says - Bloomberg.com"
   }
  ]
 }
