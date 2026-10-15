@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "b319396215b4fd46",
-  "despiterumorsofarussianiranianblendnorouteoutforiranianoil",
   "45879b2af97766f4",
   "proposedoildealwithrussiadivideswyomingelectedofficials",
   "52202abfd49501e2",
@@ -603,7 +601,9 @@
   "5f8d61ffe7381a1e",
   "oilshockloadinganalystsarentrulingoutbrentat200becauseofthes",
   "9b1af86db2a00b14",
-  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout"
+  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
+  "1457f5d3b756e668",
+  "whitehouseturnstokoreanwareralawasdieselpricesstayabove6"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-15",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-10-15T09:00:26.971676+03:00",
+ "last_run": "2026-10-15T09:05:14.694149+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1696,6 +1696,10 @@
   {
    "d": "2026-10-15",
    "t": "Oil prices settle mixed, focus on US-Russia diesel deal, Saudi Yemen attacks - Reuters"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6 - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
