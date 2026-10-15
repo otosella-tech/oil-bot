@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "0d6444ef81b2014f",
-  "bccrudeoilfutures",
   "562ff573961d84ef",
   "japancontrolledtankersreturntomiddleeastaftermonthsaway",
   "7a9c86f5300b0a64",
@@ -603,7 +601,9 @@
   "6412ca612e7d3a2e",
   "thedieselcrunchwillpersistwellinto2027",
   "eefa6af47184cd01",
-  "uscrudestocksfallonhurricaneproductionshutinsdistillateinven"
+  "uscrudestocksfallonhurricaneproductionshutinsdistillateinven",
+  "d4ef25755fc9d3ee",
+  "demulsifierchemicalsmarketforecastto2035growthdrivenbyheavyc"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 3
  },
- "last_run": "2026-10-16T02:25:14.450256+03:00",
+ "last_run": "2026-10-16T02:30:24.034407+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
