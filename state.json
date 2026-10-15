@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "3104c8fdb62546a4",
-  "usblockadekeepsiraniancrudeexportsatzeroinoctoberreportsays",
   "9136a81fc37db005",
   "howwilliknowwillanewlysanctionedpipelinegivethebakkenabigsur",
   "d3573879054d7108",
@@ -603,7 +601,9 @@
   "bc2b1cec3f30ea93",
   "oilshippingcostsspikeliftingpricesfrompumptogrocery",
   "b9f500770f62eacc",
-  "updateusequityindexesmixedastechnologyweighscrudeoiljumpsami"
+  "updateusequityindexesmixedastechnologyweighscrudeoiljumpsami",
+  "9d851a4a3fef56d5",
+  "lithiumpricesplungeaseuchinatradedealsparksdemandfears"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T13:20:20.187251+03:00",
+ "last_run": "2026-10-15T13:25:14.395611+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1772,6 +1772,10 @@
   {
    "d": "2026-10-15",
    "t": "Update: US Equity Indexes Mixed as Technology Weighs, Crude Oil Jumps Amid Strikes on Ukraine's Energy Assets - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Lithium Prices Plunge as EU-China Trade Deal Sparks Demand Fears - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
