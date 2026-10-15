@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "4c17cb6ac2a4ffc8",
-  "techstocksslumponaijittersoilfalls",
   "a0cf9dc4ad354c3f",
   "houthisthreatensaudiaramcofacilitiesairportsamidescalatingco",
   "d0b78fb2ce42de97",
@@ -603,7 +601,9 @@
   "119be2938067a765",
   "oilpricesfall1aftertouchingthreeweekhighamidmiddleeasttensio",
   "a152bfe6022f4d37",
-  "shippingonebarrelofoilacrosstheworldnowcosts30andithasshatte"
+  "shippingonebarrelofoilacrosstheworldnowcosts30andithasshatte",
+  "0a0044437aa0a189",
+  "oilpricessinkonreportofeasingussanctionsieareleaseplansinfoc"
  ],
  "releases_done": {},
  "last_digest": "2026-10-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-15",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-10-15T07:00:25.968389+03:00",
+ "last_run": "2026-10-15T07:05:13.664922+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1680,6 +1680,10 @@
   {
    "d": "2026-10-15",
    "t": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand - CNBC"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Oil prices sink on report of easing U.S. sanctions; IEA release plans in focus - Investing.com"
   }
  ]
 }
