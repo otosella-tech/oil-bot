@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "45879b2af97766f4",
-  "proposedoildealwithrussiadivideswyomingelectedofficials",
   "52202abfd49501e2",
   "oilfuturessettlemixedasdieselsrisehelpsliftwti",
   "7c1f1ea1bca20feb",
@@ -603,7 +601,9 @@
   "9b1af86db2a00b14",
   "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "1457f5d3b756e668",
-  "whitehouseturnstokoreanwareralawasdieselpricesstayabove6"
+  "whitehouseturnstokoreanwareralawasdieselpricesstayabove6",
+  "a0a49cce3b62be21",
+  "commentaryoilslongviewdarkensasiranwarrefusestoend"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-15",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-10-15T09:05:14.694149+03:00",
+ "last_run": "2026-10-15T09:10:17.704018+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1700,6 +1700,10 @@
   {
    "d": "2026-10-15",
    "t": "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6 - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "COMMENTARY: Oil's long view darkens as Iran war refuses to end - Reuters"
   }
  ]
 }
