@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "b9f500770f62eacc",
-  "updateusequityindexesmixedastechnologyweighscrudeoiljumpsami",
   "9845a78b4b19ca00",
   "nigeriasdangoteoilrefineryswingstonetprofitaheadofipo",
   "11beab87496021cf",
@@ -603,7 +601,9 @@
   "f97031fb1d07fa9e",
   "theoilmarketisfacingatransportationcrisisthatsuggestsenergyc",
   "d810e8102c56f272",
-  "ukrainestrikesryazanoilrefineryafterannouncingresumptionofat"
+  "ukrainestrikesryazanoilrefineryafterannouncingresumptionofat",
+  "6abc57e3520ca710",
+  "oilpricessinkamidtankerattacksnearhormuzreportsofeasingussan"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T13:05:16.326595+03:00",
+ "last_run": "2026-10-15T13:10:18.740580+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1760,6 +1760,10 @@
   {
    "d": "2026-10-15",
    "t": "Ukraine Strikes Ryazan Oil Refinery After Announcing Resumption of Attacks - Мілітарний"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Oil prices sink amid tanker attacks near Hormuz, reports of easing U.S. sanctions - Investing.com"
   }
  ]
 }
