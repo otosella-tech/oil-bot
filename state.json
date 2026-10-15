@@ -4,10 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "370de6fae40d6156",
-  "oilpricesriseastradersweighsaudiaramcoattackreporthormuzship",
-  "e1664ab172425d6d",
-  "trumpsaysmassiveoilandgasdrillingisabouttobeginingreenland",
   "9100a43c4d2b5a7d",
   "oilpricesriseasirandeploysnewtacticstotargetshipstransitingh",
   "b300318aea0cc49a",
@@ -603,7 +599,11 @@
   "7fedad8b973f59c2",
   "brentoilslipsasusweighseasingsanctionsonrussiasshadowfleet",
   "ef6ea854bbdedd76",
-  "shipfuelmarketfragmentsasmiddleeastconflicthitstrade"
+  "shipfuelmarketfragmentsasmiddleeastconflicthitstrade",
+  "8fb919470ca22953",
+  "iranianshipattacksthreatenmiddleeastoilexportsastankertraffi",
+  "00e1f4839593a757",
+  "ieaagreestoreleaseofoutstanding100millionbarrelsofoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T16:55:17.982290+03:00",
+ "last_run": "2026-10-15T17:00:31.801233+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1860,6 +1860,10 @@
   {
    "d": "2026-10-15",
    "t": "Brent oil slips as US weighs easing sanctions on Russia's 'shadow fleet' - The Lufkin Daily News"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Iranian Ship Attacks Threaten Middle East Oil Exports as Tanker Traffic Slows"
   }
  ]
 }
