@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "5e35275e8e589919",
-  "goldsilverandcrudeoilpriceforecastforoctober14aheadofuscpire",
   "3a3c5666ec2ad09c",
   "usmarketregulatorappointeehaltedprobeintooiltradingaheadofir",
   "0ccd1f6c7b460948",
@@ -603,7 +601,9 @@
   "58ce823edf8d0b23",
   "ukraineresumesattacksonrussianoilrefineriesasrelationswithtr",
   "85ec7ca8f9eee9bd",
-  "tdcowenraisesoilforecastsseescanadianproducersgainaswcsdisco"
+  "tdcowenraisesoilforecastsseescanadianproducersgainaswcsdisco",
+  "f0f982ed97eb23fa",
+  "bulgariabreaksrankswitheuovertrump"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T17:55:59.870719+03:00",
+ "last_run": "2026-10-15T18:00:32.715859+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
