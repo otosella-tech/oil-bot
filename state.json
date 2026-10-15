@@ -4,10 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "b300318aea0cc49a",
-  "dowfuturesdrivenbybankearningscrudeoilusbondyields",
-  "48662463bff798cd",
-  "theoilmarketthatsetstodaysgaspriceswasinventedinwesternpenns",
   "65c486849d61bd11",
   "commentarytheoilmarketthatsetstodaysgaspriceswasinventedinwe",
   "13dbf170490e5736",
@@ -603,7 +599,11 @@
   "00e1f4839593a757",
   "ieaagreestoreleaseofoutstanding100millionbarrelsofoil",
   "370de6fae40d6156",
-  "oilpricesriseastradersweighsaudiaramcoattackreporthormuzship"
+  "oilpricesriseastradersweighsaudiaramcoattackreporthormuzship",
+  "468c36af9333398a",
+  "ieasaysuaeoiloutputsurgedtorecordsinseptember",
+  "c30fb5123e429945",
+  "aramcoceowarnsoilsqueezeisserious"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T17:05:15.516220+03:00",
+ "last_run": "2026-10-15T17:10:18.542280+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
