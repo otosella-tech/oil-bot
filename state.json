@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "a938bd155fa231b3",
-  "monumentalenergytopartneronthemaataoilfieldlocatedonshoreint",
   "ff7dce4e5d1b94cb",
   "threatstoglobalsuppliespushcrudeoilpricessharplyhigher",
   "e8d28717a2df2423",
@@ -603,7 +601,9 @@
   "ffc10efbce4c6306",
   "hyperliquidlooksbeyondbitcointonvidiaandoilcanpurrbenefit",
   "aabe09ba8628ba4c",
-  "becauseofthepriceofoilweremakingafortunetrumpsaysatrally"
+  "becauseofthepriceofoilweremakingafortunetrumpsaysatrally",
+  "6c200cf2286d329f",
+  "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T18:45:17.399233+03:00",
+ "last_run": "2026-10-15T18:50:17.723660+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1884,6 +1884,10 @@
   {
    "d": "2026-10-15",
    "t": "Pakistan Faces Winter Gas Shortages if Hormuz LNG Remains Choked"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters"
   }
  ]
 }
