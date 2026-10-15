@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "9baa6b8aea19beab",
-  "usdieselfuturesjumpwhilecrudeoilclosesmixedusonysearca",
   "b205b9ba3fe10db7",
   "oilpricesriseashouthisaudiattacksspursupplyuncertainty",
   "8e2b1dbeb6a88d41",
@@ -603,7 +601,9 @@
   "88b2b7bd9e9258b0",
   "electriccarssaved20binoilandtheusisfallingbehind",
   "1a6fedeb087faab7",
-  "guyanaoilexportssettosurpass1millionbarrelsperdayforfirsttim"
+  "guyanaoilexportssettosurpass1millionbarrelsperdayforfirsttim",
+  "9052056f4027b527",
+  "twocargoshipssunkinstraitofhormuzasiranrampsupattacksinrunup"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T12:45:17.693828+03:00",
+ "last_run": "2026-10-15T12:50:17.665282+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1748,6 +1748,10 @@
   {
    "d": "2026-10-15",
    "t": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Two cargo ships sunk in Strait of Hormuz as Iran ramps up attacks in run-up to midterms - CNN"
   }
  ]
 }
