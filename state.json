@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "5ef16d5ed60a5dd8",
-  "opecmideastgulfcrudeoutputreboundsinseptember",
   "2e135c55ac14a21d",
   "oilpricesmixedastradersassessrussiandieselsupplyprospectsand",
   "4950bb537b287857",
@@ -603,7 +601,9 @@
   "d80fc43a3c981594",
   "usmethaneemissionsflatlinedespiteincreasesinoilandgasproduct",
   "4a7a787121a081a9",
-  "northhuajinpanjinxinchengandaramcoannouncefirstarabiancrudeo"
+  "northhuajinpanjinxinchengandaramcoannouncefirstarabiancrudeo",
+  "64f2a856cc82fac7",
+  "oilpricesslideasusweighseasingsanctionsonshadowfleet"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-15",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-10-15T11:20:17.599723+03:00",
+ "last_run": "2026-10-15T11:25:13.629236+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1720,6 +1720,10 @@
   {
    "d": "2026-10-15",
    "t": "IMF Warns of Worldwide Fallout as Attacks on Saudi Arabia Escalate"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Oil prices slide as US weighs easing sanctions on 'shadow fleet' - Yahoo Finance"
   }
  ]
 }
