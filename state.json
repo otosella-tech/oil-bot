@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "837de1ea580d6fc0",
-  "opecraises2027oildemandforecastamidwarningsoflowcrudeinvento",
   "70f5c7f4a14121b8",
   "equinormakesnorthseaoildiscovery",
   "53394961764fe74a",
@@ -603,7 +601,9 @@
   "0534e023c6cef5e4",
   "yourthursdayoct15guidefivethingstodointheoilcity",
   "b161e9ef70dd8c61",
-  "uswantsworldbanktodropbanonupstreamoilandgasfunding"
+  "uswantsworldbanktodropbanonupstreamoilandgasfunding",
+  "bb8cc459db70de5a",
+  "disguisingiraniancrudeasiraqilookshighlyunlikelyundertheusbl"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T16:35:14.432686+03:00",
+ "last_run": "2026-10-15T16:40:17.360907+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1848,6 +1848,10 @@
   {
    "d": "2026-10-15",
    "t": "Ship-to-Ship Oil Transfers Surge Off India's West Coast - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Disguising Iranian crude as Iraqi looks highly unlikely under the US blockade - Kpler"
   }
  ]
 }
