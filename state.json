@@ -4,12 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "77db7b456b70279e",
-  "crudeoilfuturesnov6clmainusbrentlastdayfinancialfuturescurre",
-  "b3ecd69641bc9ba9",
-  "oilisflowingfromhormuzagainjustnotthekindtheworldneedsmost",
-  "8e736919abe4da2e",
-  "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue",
   "2063b491c7eb7b6c",
   "dollarclimbswithcrudeoilprices",
   "9629264fa4b14787",
@@ -603,7 +597,13 @@
   "a278ef6ec4df3acf",
   "aquicknoteoncrudeoil",
   "c7ebde5eaaa095a7",
-  "oilpricessettlemixedfocusonusrussiadieseldealsaudiyemenattac"
+  "oilpricessettlemixedfocusonusrussiadieseldealsaudiyemenattac",
+  "c16813042fe1199a",
+  "oilpricesdown141026",
+  "ec46ebced42e311f",
+  "apisaysuscrudestocksfell1112m",
+  "c48e894afbb1a12c",
+  "currentpriceofoilasofoctober52026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 39
  },
- "last_run": "2026-10-15T08:35:13.602410+03:00",
+ "last_run": "2026-10-15T08:40:17.486450+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
