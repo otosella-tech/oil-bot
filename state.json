@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "fa61c4519d4a8c7e",
-  "cmewticrudeoilfuturesriseasgulftensionssupportprices",
   "4625aef85eb97d29",
   "usmethaneemissionsflatlinedespiteincreasesinoilandgasproduct",
   "76371824fa7427cb",
@@ -603,7 +601,9 @@
   "8c64b907e61fb1c6",
   "gaspricessetrecordforhighestnumberofdaysabove4agalloninacale",
   "72baa80e9e19f20b",
-  "crudeoilpricesfallasusweighseasingrussianoilsanctions"
+  "crudeoilpricesfallasusweighseasingrussianoilsanctions",
+  "7e53d45ac9c04481",
+  "trumpeyessanctionsreliefforrussianshadowfleetasoilfreightcos"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-15",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-10-15T10:45:17.508793+03:00",
+ "last_run": "2026-10-15T10:50:18.130817+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1712,6 +1712,10 @@
   {
    "d": "2026-10-15",
    "t": "Crude Oil Prices Fall as US Weighs Easing Russian Oil Sanctions - APAC Media"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Trump Eyes Sanctions Relief for Russian Shadow Fleet as Oil Freight Costs Surge - UNITED24 Media"
   }
  ]
 }
