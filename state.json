@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "aa29e11e2674279f",
-  "murphyoilmeetsexceedsexpectationswithoffshoremilestones",
   "b319396215b4fd46",
   "despiterumorsofarussianiranianblendnorouteoutforiranianoil",
   "45879b2af97766f4",
@@ -603,7 +601,9 @@
   "2063b491c7eb7b6c",
   "dollarclimbswithcrudeoilprices",
   "5f8d61ffe7381a1e",
-  "oilshockloadinganalystsarentrulingoutbrentat200becauseofthes"
+  "oilshockloadinganalystsarentrulingoutbrentat200becauseofthes",
+  "9b1af86db2a00b14",
+  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 39
  },
- "last_run": "2026-10-15T08:50:22.029760+03:00",
+ "last_run": "2026-10-15T08:55:13.948010+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
