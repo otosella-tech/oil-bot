@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "e2f7f94a12d03fe9",
-  "woodsidenamesstephanedrouaudmanagingdirectorformexico",
   "fa61c4519d4a8c7e",
   "cmewticrudeoilfuturesriseasgulftensionssupportprices",
   "4625aef85eb97d29",
@@ -603,7 +601,9 @@
   "04ff7d6fc97936f4",
   "wticrudeoilfuturesriseongeopoliticaltensionsasdieselsupplies",
   "8c64b907e61fb1c6",
-  "gaspricessetrecordforhighestnumberofdaysabove4agalloninacale"
+  "gaspricessetrecordforhighestnumberofdaysabove4agalloninacale",
+  "72baa80e9e19f20b",
+  "crudeoilpricesfallasusweighseasingrussianoilsanctions"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-15",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-10-15T10:40:16.979392+03:00",
+ "last_run": "2026-10-15T10:45:17.508793+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1708,6 +1708,10 @@
   {
    "d": "2026-10-15",
    "t": "US considers lifting sanctions on Russian shadow fleet vessels – Reuters - Українська правда"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Crude Oil Prices Fall as US Weighs Easing Russian Oil Sanctions - APAC Media"
   }
  ]
 }
