@@ -4,10 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "041b6a92b2709ee9",
-  "oilpricesfallasieamembersagreetoprioritizereleaseofdieselsto",
-  "db8bf3192a1ce61b",
-  "highlightsworldpetroleumcongressinriyadhenergysecurityrising",
   "cce61c9fbf516ca6",
   "houthirunhealthministrysaystwokilledinoilcompanystrike",
   "91a63d7ea4c5ce02",
@@ -603,7 +599,11 @@
   "271171167732eeb9",
   "oilpricetodayoctober15crudeoildipsto105despiterisingmiddleea",
   "50d299a7443e93b4",
-  "chevronand2moreoilstockstowatch"
+  "chevronand2moreoilstockstowatch",
+  "5761d1f7ed14e890",
+  "trahansaysfederalhomeheatinghelpdropsevenascostsskyrocket",
+  "40583da250086158",
+  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-15",
-  "count": 16
+  "count": 18
  },
- "last_run": "2026-10-15T06:05:16.363450+03:00",
+ "last_run": "2026-10-15T06:10:18.509190+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1667,6 +1667,10 @@
   {
    "d": "2026-10-15",
    "t": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters"
   }
  ]
 }
