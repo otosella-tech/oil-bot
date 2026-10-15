@@ -4,12 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "27a1388595930937",
-  "oilpricesclimbabove106asiranthreatensmoretankerattacks",
-  "191c7cc6e16501ad",
-  "canyemensmilitarygainshelpreviveitsoilexports",
-  "726c8caaf1b5aa3f",
-  "willyemensmilitarygainshelpreviveitsoilexports",
   "c46219694f4ad243",
   "tokyofxdollaryensoftwatchingcrudeoilandusyieldsinlower158ran",
   "4abcb29cd4cd7946",
@@ -603,7 +597,13 @@
   "b4a384752e91adfe",
   "istheworldpricingtheriskofausdieselexportban",
   "66158e1aabca1ae3",
-  "techcreditconcernsdampeneuropeanboursesmidday"
+  "techcreditconcernsdampeneuropeanboursesmidday",
+  "00a8a218d0a1d66e",
+  "shipto",
+  "42c0e7e65de9d0fd",
+  "saudiaramcoofferingmorespotcrudeoilcargoesintoeuropeanmarket",
+  "637392366287b18e",
+  "oilpricesdropamidtankerattacksnearhormuzreportsofeasingussan"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T15:25:17.963199+03:00",
+ "last_run": "2026-10-15T15:30:26.004265+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1824,6 +1824,14 @@
   {
    "d": "2026-10-15",
    "t": "Oil Prices Slide as US Weighs Easing Sanctions on Shadow Fleet: Implications for Tanker Rates, Delivered Crude Costs, and Diesel Crack Spreads - Energy News Beat"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Ship-to-Ship Oil Transfers Surge Off India’s West Coast"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Oil prices drop amid tanker attacks near Hormuz, reports of easing U.S. sanctions - Investing.com"
   }
  ]
 }
