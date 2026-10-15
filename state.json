@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "3e78dbb5f13ba511",
-  "risinggasolinepricesfuelfreshinflationfearsintheus",
   "476e00a70345ed12",
   "iraqsoilexportsreach27mmbbldplansfurtherincreases",
   "837de1ea580d6fc0",
@@ -603,7 +601,9 @@
   "b7d1570eec9225c2",
   "currentpriceofoilasofoctober92026",
   "62d67dbcabbfcb69",
-  "aramcooffersadditionalcrudeoilcargoesforspotdeliverytoeurope"
+  "aramcooffersadditionalcrudeoilcargoesforspotdeliverytoeurope",
+  "0534e023c6cef5e4",
+  "yourthursdayoct15guidefivethingstodointheoilcity"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T16:00:30.184218+03:00",
+ "last_run": "2026-10-15T16:05:15.539987+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
