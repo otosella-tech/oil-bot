@@ -4,10 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "dc73804bfc382cdd",
-  "energypricesriseaftertrumpsenergyceasefirefailstomoverussiao",
-  "fcdf0e5516102577",
-  "cubaforgesaheadwithrenewableenergyplansamidusoilblockade",
   "9061968ddeb4c123",
   "ecuadorrevivesplansforamazonoilexpansion",
   "f92c8da6d1a93b29",
@@ -603,7 +599,11 @@
   "5a91e154a8f4fccc",
   "iransprecisionstrikespickedapartgulfinfrastructurebluntingus",
   "fadaadb4753544cb",
-  "apireportssharp1112millionbarreldeclineinuscrudeoilinventori"
+  "apireportssharp1112millionbarreldeclineinuscrudeoilinventori",
+  "c30ea56aa10b3210",
+  "analysisoilshippingcostsspikeliftingpricesfrompumptogroceryb",
+  "d50da0bdabe15f5b",
+  "oilpricesretreataspotentialussanctionsreliefoffsetssupplyris"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T13:50:17.106439+03:00",
+ "last_run": "2026-10-15T13:55:16.782422+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
