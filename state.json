@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "d8a7a40c3c02bdc7",
-  "chinasexportsandimportssurgepastexpectationsinseptember",
   "370de6fae40d6156",
   "oilpricesriseastradersweighsaudiaramcoattackreporthormuzship",
   "e1664ab172425d6d",
@@ -603,7 +601,9 @@
   "af1c4f409bad27ed",
   "oilpricesslipsasusweighseasingsanctionsonshadowfleet",
   "7fedad8b973f59c2",
-  "brentoilslipsasusweighseasingsanctionsonrussiasshadowfleet"
+  "brentoilslipsasusweighseasingsanctionsonrussiasshadowfleet",
+  "ef6ea854bbdedd76",
+  "shipfuelmarketfragmentsasmiddleeastconflicthitstrade"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T16:50:19.805785+03:00",
+ "last_run": "2026-10-15T16:55:17.982290+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
