@@ -4,12 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "f92c8da6d1a93b29",
-  "houthislaunchfreshwaveofmissilesacrosssaudiarabia",
-  "201eb2affe13a8e5",
-  "shippingandinsurancecostsforenergyflowssurgeopecnonopecminis",
-  "1cfe9a3660e26440",
-  "oilpricesriseonsaudiarabiaattacksovershadowingtrumpsdieselde",
   "b6a61f60bd375224",
   "fedsorderenergytransfertoinspectrepairpipelinesaftersterling",
   "3817aed5b24651d8",
@@ -603,7 +597,13 @@
   "d50da0bdabe15f5b",
   "oilpricesretreataspotentialussanctionsreliefoffsetssupplyris",
   "950d05518e7f4cd9",
-  "rupeeextendswinningstreakasdollaroileaseandstocksrally"
+  "rupeeextendswinningstreakasdollaroileaseandstocksrally",
+  "e87b64048dc1d85a",
+  "howwarischokingglobaloiltankertrafficinthestraitofhormuzandb",
+  "23938ac7f4436826",
+  "angolaseekstokeepoiloutputabove1millionbarrelsaday",
+  "f9d6ec6778d033b5",
+  "howiransprecisionstrikespickedapartgulfinfrastructure"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T14:10:18.807366+03:00",
+ "last_run": "2026-10-15T14:15:18.495905+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1792,6 +1792,14 @@
   {
    "d": "2026-10-15",
    "t": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans - Reuters"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "How War Is Choking Global Oil Tanker Traffic in the Strait of Hormuz and Beyond - The National Interest"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "How Iran's precision strikes picked apart Gulf infrastructure - Reuters"
   }
  ]
 }
