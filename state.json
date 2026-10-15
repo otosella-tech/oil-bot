@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "bdf6b2e1a09b3e98",
-  "oilnewshormuzattacksanddieseldeficitkeepcrudebuyersincontrol",
   "d485c0a772700936",
   "globaldieselshortagescouldpersistwellinto2027ieasays",
   "03cec98b54e1696d",
@@ -603,7 +601,9 @@
   "091fe1a2242a892a",
   "usnuclearfuelindependenceedgescloserasurencoexpansionhits75",
   "ea2159edcd2026c0",
-  "importpricesrise176asoilcostssurgeamidmiddleeastwar"
+  "importpricesrise176asoilcostssurgeamidmiddleeastwar",
+  "1c70ad0171348dba",
+  "wtipriceforecastcrudeoiltargets100asbullishmomentumbuilds"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 2
  },
- "last_run": "2026-10-16T00:10:16.193715+03:00",
+ "last_run": "2026-10-16T00:15:17.678046+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
