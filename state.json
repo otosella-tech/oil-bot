@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "cce61c9fbf516ca6",
-  "houthirunhealthministrysaystwokilledinoilcompanystrike",
   "91a63d7ea4c5ce02",
   "houthisthreatensaudiarabiasaramcofacilitiesandairports",
   "6db624dae199e860",
@@ -603,7 +601,9 @@
   "5761d1f7ed14e890",
   "trahansaysfederalhomeheatinghelpdropsevenascostsskyrocket",
   "40583da250086158",
-  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr"
+  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr",
+  "88fafbab3bc0fc48",
+  "howhasopecsproductionprewarandcurrentoutputunderstress"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-15",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-10-15T06:10:18.509190+03:00",
+ "last_run": "2026-10-15T06:15:17.492799+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1671,6 +1671,10 @@
   {
    "d": "2026-10-15",
    "t": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "How has OPEC’s production pre-war and current output under stress? - Energy News Beat"
   }
  ]
 }
