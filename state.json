@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "9c91446819d74c1d",
-  "commentarytheoilmarketscenterofgravityismovingeast",
   "0120e84e9a2ecdba",
   "americansbraceforbrutalwinterasheatingoilcostsriseabcnews",
   "bf9905e18dc0ecd1",
@@ -603,7 +601,9 @@
   "01bc37c3f7f325f9",
   "exxonsoilboomcouldkeepguyanasgasathome",
   "2df981ac7ecc509f",
-  "importpricesrise176asoilcostssurge"
+  "importpricesrise176asoilcostssurge",
+  "93239e86289de2e2",
+  "nevadagaspricesfallascrudeoilpricesremainhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 3
  },
- "last_run": "2026-10-16T01:45:17.166686+03:00",
+ "last_run": "2026-10-16T01:50:18.389400+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
