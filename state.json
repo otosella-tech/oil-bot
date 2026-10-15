@@ -4,10 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "8bcacf056ef35f92",
-  "crudeoilpricesriseasiranchangestacticsinattacksonshipsinthes",
-  "737717b3d4829533",
-  "energyagencylowersworldoildemandforecastfortheyear",
   "081179318d41457d",
   "russianstrikescutpowerto600000ukrainiansdaysafterusdieseldea",
   "2260eb9835828a3a",
@@ -603,7 +599,11 @@
   "34eeb8a67224f9db",
   "ieaspeedsemergencyoilrelease",
   "3b223614cbae418e",
-  "dissectingtrumpsdealforrussiandiesel"
+  "dissectingtrumpsdealforrussiandiesel",
+  "a89c74d5640b56ca",
+  "ukrainestrikesmajorrussianoilrefinery",
+  "15fb909adc0063c5",
+  "arkansasgaspricesdrop6centsasoilclimbs"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T22:25:15.075431+03:00",
+ "last_run": "2026-10-15T22:30:25.048801+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1920,6 +1920,10 @@
   {
    "d": "2026-10-15",
    "t": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump - AP News"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Ukraine Strikes Major Russian Oil Refinery"
   }
  ]
 }
