@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "8dd3484e2b2f5c70",
-  "doescookingwitholiveoildestroyitsnutrientshereswhatascientis",
   "50c5d02736fab339",
   "oilpricesriseashouthiattackshormuzstrikesspursupplyuncertain",
   "7a68c7c3f0cd5791",
@@ -603,7 +601,9 @@
   "86c4a61e65936455",
   "deprupturedundergroundgatheringlinereleasescrudeoilnearbullr",
   "3234f67d149e4fc3",
-  "currentpriceofoilasofoctober152026"
+  "currentpriceofoilasofoctober152026",
+  "0afc7323f6323190",
+  "oilpricesfallastradersweighgulfsupplyrecoveryhormuzattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T14:45:16.841497+03:00",
+ "last_run": "2026-10-15T14:50:16.883834+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1808,6 +1808,10 @@
   {
    "d": "2026-10-15",
    "t": "Crude Oil Prices Retreat as Potential US Sanctions Relief Offsets Middle East Shipping Risks - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Oil Prices Fall as Traders Weigh Gulf Supply Recovery, Hormuz Attacks - WSJ"
   }
  ]
 }
