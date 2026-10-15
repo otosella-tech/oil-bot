@@ -4,8 +4,6 @@
   "Brent": 106.92
  },
  "seen": [
-  "e3e33dbc2aef84a2",
-  "saudiarabialeadsopecproductionincreaseseptembercrudeoildaily",
   "8c22393f1fb35a6d",
   "saudiarabiaeyesraisingitspipelineoilexportcapacityto10millio",
   "4eb229ee354665d6",
@@ -603,7 +601,9 @@
   "2977d3b45d1e8d37",
   "brookfieldnexteratobuild100billionaihuboncoldwarnuclearsite",
   "804d5ee8da115d89",
-  "usapicrudeoilstockchangeactual1112mforecast19mprevious209m"
+  "usapicrudeoilstockchangeactual1112mforecast19mprevious209m",
+  "4a36a722c2f0a27d",
+  "usconsiderseasingsanctionsonshadowfleetvesselstocutfreightra"
  ],
  "releases_done": {
   "2026-10-14|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-15",
   "count": 10
  },
- "last_run": "2026-10-15T03:10:17.847877+03:00",
+ "last_run": "2026-10-15T03:15:17.426270+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
