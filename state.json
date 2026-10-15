@@ -4,10 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "b6a61f60bd375224",
-  "fedsorderenergytransfertoinspectrepairpipelinesaftersterling",
-  "3817aed5b24651d8",
-  "oilpricesclimbastradersweighsaudisupplyriskrussiandieselflow",
   "9f18eecceb412a5e",
   "asiastockstogainonsignalforfewerfedhikesmarketswrap",
   "0b1ff7c2c6281d70",
@@ -603,7 +599,11 @@
   "23938ac7f4436826",
   "angolaseekstokeepoiloutputabove1millionbarrelsaday",
   "f9d6ec6778d033b5",
-  "howiransprecisionstrikespickedapartgulfinfrastructure"
+  "howiransprecisionstrikespickedapartgulfinfrastructure",
+  "1cfe9a3660e26440",
+  "oilpricesriseonsaudiarabiaattacksovershadowingtrumpsdieselde",
+  "20079505a223f939",
+  "thegearthatkeptoceanmavericksylviaearleafloat"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T14:15:18.495905+03:00",
+ "last_run": "2026-10-15T14:20:20.088143+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1800,6 +1800,10 @@
   {
    "d": "2026-10-15",
    "t": "How Iran's precision strikes picked apart Gulf infrastructure - Reuters"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal - Reuters"
   }
  ]
 }
