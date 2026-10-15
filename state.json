@@ -4,10 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "b4569abd26e04c91",
-  "wticrudeoilpriceforecastreversalsignalspointtofurthergains",
-  "93e93e7d02221dfa",
-  "opecseesoildemandgrowthsurgingto26millionbpdin2027",
   "6be3087f6555fe8a",
   "getbiossancesbestsellingsqualaneoilforover40offtoday",
   "5626b674f5fbb486",
@@ -603,7 +599,11 @@
   "b16dda4c4e20a0af",
   "oilpriceseaseasinvestorsweighsupplyoutlookmiddleeasttensions",
   "b5d0a1cb9e8c5c3a",
-  "lithiumpricesplungeaseu"
+  "lithiumpricesplungeaseu",
+  "9354edb6f9ba4e15",
+  "chevronceowarnsoilbuffersthatcushionedtheiranwarshockhavebee",
+  "6f605cf425eb3a18",
+  "oilcityweeklyeeditionforoct15232026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-15",
-  "count": 46
+  "count": 47
  },
- "last_run": "2026-10-15T10:05:15.281415+03:00",
+ "last_run": "2026-10-15T10:10:19.457416+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
