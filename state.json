@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "7a9c86f5300b0a64",
-  "trumpsaysmassiveoilgasexplorationsettobegininourgreenland",
   "a79c9bd2e901e8d4",
   "uscrudeoilpricesriseamidmiddleeasttensionscolgatepa",
   "7e655be9641863af",
@@ -603,7 +601,9 @@
   "d4ef25755fc9d3ee",
   "demulsifierchemicalsmarketforecastto2035growthdrivenbyheavyc",
   "2df7ab934bd2b9a5",
-  "bccrudeoilfutures"
+  "bccrudeoilfutures",
+  "7d9eaa880d0d58d8",
+  "oilpricesdropasuspresidenttrumprulesoutiranstrike"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-16",
-  "count": 3
+  "count": 5
  },
- "last_run": "2026-10-16T02:40:16.265074+03:00",
+ "last_run": "2026-10-16T02:45:17.750138+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
@@ -1512,6 +1512,10 @@
   {
    "d": "2026-10-16",
    "t": "Import Prices Rise 17.6% as Oil Costs Surge Amid Middle East War - 조선일보"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "Oil Prices Drop as US President Trump Rules Out Iran Strike - Mexico Business News"
   }
  ]
 }
