@@ -4,12 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "ea252f8d83de9c21",
-  "oilmarketreportoctober2026iea",
-  "6e7521656246c9a4",
-  "energysecretaryauthorizesemergencyexchangefromspr",
-  "720399b766dc2b19",
-  "taiwancommitsupto44billiontoalaskalngmegaproject",
   "b53de521000d3ed5",
   "europeanoilrefineriesmarginscollapseasinputcostssoar",
   "68a95948f5d51102",
@@ -603,7 +597,13 @@
   "29a9de804ffdee6a",
   "ieamemberstoacceleratereleaseof100millionbarrelsofoilanadolu",
   "e4ccd481631ecfb3",
-  "ieaagreestocompletethereleaseoftheoutstanding100mlnbarrelsof"
+  "ieaagreestocompletethereleaseoftheoutstanding100mlnbarrelsof",
+  "d37acc13a6b4f85e",
+  "europesgaspricescloseto2022highashormuzlngflowsremainlimited",
+  "92792b860982ca14",
+  "crudeoilisunderpricedenergyaspectssays",
+  "b9198de23c0b48cf",
+  "mylittleoilcanmakeseventhemostboringsnackalittlemorefun"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T17:25:15.718388+03:00",
+ "last_run": "2026-10-15T17:30:26.361699+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1868,6 +1868,10 @@
   {
    "d": "2026-10-15",
    "t": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks - WSJ"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Europe’s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited"
   }
  ]
 }
