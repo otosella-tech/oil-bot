@@ -4,12 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "c2f61b1ca0b31876",
-  "currentpriceofoilasofoctober122026",
-  "38f87db3d19d7101",
-  "guyanaoilexportssettosurpass1millionbarrelsperdayforfirsttim",
-  "38b291b388a8045a",
-  "opeccutsoildemandprojectionsforremainderof2026",
   "513c2f906530688b",
   "oilpricesreboundamidpersistentmiddleeastsupplyrisks",
   "529db2219eca9612",
@@ -603,7 +597,13 @@
   "ec95f6829a646a35",
   "oilfallsasinvestorsassessmideasttensionsinternationalenergya",
   "740c542465ef1de0",
-  "oilmajorsface32bndilemmaoveriranwarwindfall"
+  "oilmajorsface32bndilemmaoveriranwarwindfall",
+  "041b6a92b2709ee9",
+  "oilpricesfallasieamembersagreetoprioritizereleaseofdieselsto",
+  "235cbf19afe7889b",
+  "theoilcrisisamericasawcoming",
+  "ca16af38abaf649d",
+  "fillingthestrategicpetroleumreserve"
  ],
  "releases_done": {},
  "last_digest": "2026-10-14",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 27
  },
- "last_run": "2026-10-15T07:40:17.119029+03:00",
+ "last_run": "2026-10-15T07:45:17.053751+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
