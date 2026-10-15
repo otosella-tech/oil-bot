@@ -4,10 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "5397894bf3416790",
-  "guyanapreparestoexportmorethan1millionbarrelsofoilperdayoilp",
-  "23309dc293b029da",
-  "houthisstrikearamcohoursaftersaudiledcoalitionhitssanaaoilsi",
   "b9f500770f62eacc",
   "updateusequityindexesmixedastechnologyweighscrudeoiljumpsami",
   "9845a78b4b19ca00",
@@ -603,7 +599,11 @@
   "31ab00ef7d2daaa1",
   "ukrainerenewsoilblitzonrussiastrikesryazanrefineryaszelensky",
   "9baa6b8aea19beab",
-  "usdieselfuturesjumpwhilecrudeoilclosesmixedusonysearca"
+  "usdieselfuturesjumpwhilecrudeoilclosesmixedusonysearca",
+  "f97031fb1d07fa9e",
+  "theoilmarketisfacingatransportationcrisisthatsuggestsenergyc",
+  "d810e8102c56f272",
+  "ukrainestrikesryazanoilrefineryafterannouncingresumptionofat"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T12:55:13.708870+03:00",
+ "last_run": "2026-10-15T13:00:26.698517+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1756,6 +1756,10 @@
   {
    "d": "2026-10-15",
    "t": "Ukraine Renews Oil Blitz on Russia, Strikes Ryazan Refinery as Zelensky Ends Pause - Kyiv Post"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Ukraine Strikes Ryazan Oil Refinery After Announcing Resumption of Attacks - Мілітарний"
   }
  ]
 }
