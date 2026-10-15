@@ -4,12 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "60b7d1ac68c6bbde",
-  "oilpricessurgeasirandeploysnewtacticstotargettankers",
-  "fa6f9e5b86ec8948",
-  "yemenshouthirebelsthreatenfurtherattacksonsaudiairportsoilfa",
-  "25f26b85712baa5e",
-  "iranstepsuphormuzsurveillanceattackssoaroilflowscrashagain",
   "1f6e2ba3dd02cbf9",
   "currentpriceofoilasofoct142026",
   "4fafdf36a500e088",
@@ -603,7 +597,13 @@
   "f6af7bdc74ce113d",
   "chineseoilfirmsinnigerracetoreturn52billioninoutstandingcrud",
   "26278f28be793f94",
-  "brentoilslipsasusweighseasingsanctionsonglobalshadowfleet"
+  "brentoilslipsasusweighseasingsanctionsonglobalshadowfleet",
+  "b0a32bf8520108b3",
+  "brentsteadyasusweighseasingsanctionsonglobalshadowfleet",
+  "8e4f0d9cbc5953bd",
+  "blmannouncesdecembersaleofoilandgasleasesinarizona",
+  "71e21b6242097552",
+  "oilpricesriseafterieawarnsonmarketconstraintssaudiofficialss"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T20:00:31.993103+03:00",
+ "last_run": "2026-10-15T20:05:16.049914+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1896,6 +1896,14 @@
   {
    "d": "2026-10-15",
    "t": "Brent oil slips as US weighs easing sanctions on global 'shadow fleet' - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Brent steady as US weighs easing sanctions on global 'shadow fleet' - Reuters"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked - CNBC"
   }
  ]
 }
