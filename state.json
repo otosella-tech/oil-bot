@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "50c5d02736fab339",
-  "oilpricesriseashouthiattackshormuzstrikesspursupplyuncertain",
   "7a68c7c3f0cd5791",
   "oilpricetodayoctober14crudeoilgainsto107ashouthisattacksaudi",
   "08a8ec13390c1c8e",
@@ -603,7 +601,9 @@
   "3234f67d149e4fc3",
   "currentpriceofoilasofoctober152026",
   "0afc7323f6323190",
-  "oilpricesfallastradersweighgulfsupplyrecoveryhormuzattacks"
+  "oilpricesfallastradersweighgulfsupplyrecoveryhormuzattacks",
+  "2d398e263a71b163",
+  "brentcrudeslipsasusconsiderseasingrussiantankersanctionsamid"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T14:55:13.617937+03:00",
+ "last_run": "2026-10-15T15:00:30.808618+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1812,6 +1812,10 @@
   {
    "d": "2026-10-15",
    "t": "Oil Prices Fall as Traders Weigh Gulf Supply Recovery, Hormuz Attacks - WSJ"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Brent Crude Slips as U.S. Considers Easing Russian Tanker Sanctions Amid Middle East Supply Threats - EnergyNow.com"
   }
  ]
 }
