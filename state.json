@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "1424d986d595009c",
-  "oilpricesup131026",
   "3e78dbb5f13ba511",
   "risinggasolinepricesfuelfreshinflationfearsintheus",
   "476e00a70345ed12",
@@ -603,7 +601,9 @@
   "99b57b729a4eda62",
   "shiptoshipoiltransferssurgeoffindiaswestcoast",
   "b7d1570eec9225c2",
-  "currentpriceofoilasofoctober92026"
+  "currentpriceofoilasofoctober92026",
+  "62d67dbcabbfcb69",
+  "aramcooffersadditionalcrudeoilcargoesforspotdeliverytoeurope"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T15:55:16.728964+03:00",
+ "last_run": "2026-10-15T16:00:30.184218+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
