@@ -4,12 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "7483705ab50a59ec",
-  "oilpricesriseasiranstepsupattacksandfightingintensifies",
-  "aee9b1f231cbb0d9",
-  "aramcosnewchinesejvrefinerygetsfirstsaudicrudecargo",
-  "86c272eb34150352",
-  "fromliabilitiestogoldminesrefinerieseyerecordprofitsfromdies",
   "1ea2c262b4b45e89",
   "dieselsqueezesettolastwellinto2027asiranwardisruptssupplyiea",
   "da42cdd7e47f8090",
@@ -603,7 +597,13 @@
   "5a7de2f135c97ab2",
   "morganstanleyleadsfundraisefortexasrefinerycompanysays",
   "fd86d88ddca4014e",
-  "ieaoilsupplypledgetoexceedtargetasitboostsreleaseofremaining"
+  "ieaoilsupplypledgetoexceedtargetasitboostsreleaseofremaining",
+  "59f14fa9c50bee13",
+  "eiauscrudeoilinventoriesdown86millionbbl",
+  "763b106acff999a8",
+  "chinaboughthalfofbrazilsoilexportsasiranwardrovesalestorecor",
+  "658f1ed766bfb35a",
+  "ukraineabandonstruceandattacksrussianoilrefineryaszelenskyys"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-15",
   "count": 60
  },
- "last_run": "2026-10-15T21:30:28.110868+03:00",
+ "last_run": "2026-10-15T21:35:14.129193+03:00",
  "sent_stories": [
   {
    "d": "2026-10-12",
@@ -1912,6 +1912,14 @@
   {
    "d": "2026-10-15",
    "t": "Morgan Stanley Leads Fundraise for Texas Refinery, Company Says - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "China bought half of Brazil’s oil exports as Iran war drove sales to record - South China Morning Post"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump - AP News"
   }
  ]
 }
