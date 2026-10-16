@@ -4,10 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "bde8e2ff57e67003",
-  "currentpriceofoilasofoctober72026",
-  "a1b2e54d77e1afe7",
-  "oilpricessettledown25onsignsmiddleeastexportsrecovering",
   "e7f812b86605b7a9",
   "currentpriceofoilasofoct22026",
   "2b4a65a817860ce5",
@@ -603,7 +599,11 @@
   "e288501bc6997bc9",
   "oilfallsweighedbyieascrudedieselreleaseannouncement",
   "0317051bd3861911",
-  "wtioutpacesbrentasuscrudedrawignitesfreshbuying"
+  "wtioutpacesbrentasuscrudedrawignitesfreshbuying",
+  "bb58460809ec4a9a",
+  "globalfueloilmarketstaystightasconflictshitmideastrussiasupp",
+  "309cc4feaaaf408c",
+  "mideastwaraltersglobalbunkerbuyingpatternsindustryexecssay"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-16",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-10-16T06:25:13.118778+03:00",
+ "last_run": "2026-10-16T06:30:24.154365+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
@@ -1528,6 +1528,14 @@
   {
    "d": "2026-10-16",
    "t": "Oil prices dip marginally as US weighs easing sanctions on ‘shadow fleet’ tankers - The Times of India"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "Global fuel oil market stays tight as conflicts hit Mideast, Russia supplies, Vitol says - Reuters"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "Mideast war alters global bunker buying patterns, industry execs say - Reuters"
   }
  ]
 }
