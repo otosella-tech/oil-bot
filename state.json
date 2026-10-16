@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "9d851a4a3fef56d5",
-  "lithiumpricesplungeaseuchinatradedealsparksdemandfears",
-  "307048f995c5e426",
-  "totalenergieseyesmassiveprofitwindfallasrefiningmarginssoar",
   "84114f433c1dcc95",
   "oilpricesfalldespitestraitofhormuzattacksasusconsiderseasing",
   "b30e37ad2bfc4c4f",
@@ -603,7 +599,11 @@
   "94b4d34e08c7d907",
   "oilfuturesriseonmiddleeastrussiaukraineconcerns",
   "bc2b1cec3f30ea93",
-  "oilshippingcostsspikeliftingpricesfrompumptogrocery"
+  "oilshippingcostsspikeliftingpricesfrompumptogrocery",
+  "4b5846dfb7acee60",
+  "windfarmapprovedinvictoriaaustraliawouldbelargestinsouthernh",
+  "9305319f7b9c5eda",
+  "oilpricesjumpsharplytonearly110perbarrel"
  ],
  "releases_done": {
   "2026-10-16|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-16",
   "count": 60
  },
- "last_run": "2026-10-16T20:57:50.000449+03:00",
+ "last_run": "2026-10-16T21:00:29.054844+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
