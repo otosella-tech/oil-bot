@@ -4,10 +4,6 @@
   "Brent": 105.11
  },
  "seen": [
-  "47de004c618d955e",
-  "crudeoilfuturesdeclineonpotentialussanctionsreliefforshadowf",
-  "72fc3b92d0c65e84",
-  "crudeoildeclinesafterreachingourpricetargetanalysis15102026",
   "145b1400e81831b3",
   "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo",
   "b16dda4c4e20a0af",
@@ -603,7 +599,11 @@
   "a0a49cce3b62be21",
   "commentaryoilslongviewdarkensasiranwarrefusestoend",
   "44987ccc8440e2e1",
-  "indiadiversifiedcrudeoilsourcesfrom27to41amiddisruptionsinho"
+  "indiadiversifiedcrudeoilsourcesfrom27to41amiddisruptionsinho",
+  "35a9e1dabc08456c",
+  "oilpricesheadforweeklygainsamidmiddleeastrisksusinventorydra",
+  "aca42848c1ba6dee",
+  "ressenceunveilsoilfilledtype10"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 60
  },
- "last_run": "2026-10-16T18:05:18.876165+03:00",
+ "last_run": "2026-10-16T18:10:18.685665+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
