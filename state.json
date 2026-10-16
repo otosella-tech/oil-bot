@@ -4,8 +4,6 @@
   "Brent": 105.11
  },
  "seen": [
-  "5f8d61ffe7381a1e",
-  "oilshockloadinganalystsarentrulingoutbrentat200becauseofthes",
   "9b1af86db2a00b14",
   "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "1457f5d3b756e668",
@@ -603,7 +601,9 @@
   "4ca5640ed57d976d",
   "ukrainiandronesstrikeenergyplantinrussiaslargestoilproducing",
   "c48e894afbb1a12c",
-  "currentpriceofoilasofoctober52026"
+  "currentpriceofoilasofoctober52026",
+  "39a08165e37ca074",
+  "usacrudeoilstocksdropalmost9mmbarrelswow"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 60
  },
- "last_run": "2026-10-16T17:10:21.340731+03:00",
+ "last_run": "2026-10-16T17:15:17.731594+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
