@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "e7f812b86605b7a9",
-  "currentpriceofoilasofoct22026",
   "2b4a65a817860ce5",
   "currentpriceofoilasofsept292026",
   "c624a117f9be1bb1",
@@ -603,7 +601,9 @@
   "bb58460809ec4a9a",
   "globalfueloilmarketstaystightasconflictshitmideastrussiasupp",
   "309cc4feaaaf408c",
-  "mideastwaraltersglobalbunkerbuyingpatternsindustryexecssay"
+  "mideastwaraltersglobalbunkerbuyingpatternsindustryexecssay",
+  "be13ea0f5e2ee693",
+  "oilpricesfedonbankindonesiasradaraheadofnextmeeting"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 13
  },
- "last_run": "2026-10-16T07:20:18.385636+03:00",
+ "last_run": "2026-10-16T07:25:13.662374+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
