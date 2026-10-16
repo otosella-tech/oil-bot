@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "4b75a3ac4be63c87",
-  "oilpricesslideabout2asusiranexplorepathoutofwar",
   "e5664647b3b1c523",
   "crudeoilrisesasiranrampsupattacksonshippingcontainershipsink",
   "7b89047b0b48b6ce",
@@ -603,7 +601,9 @@
   "b44aac3ad16dd1cb",
   "oilflowthroughstraitofhormuzhits12mbarrelsadaydefyingincreas",
   "0119be88764bb6ad",
-  "oilheadsforweeklygainwithmideastsupplyrisksbyreuters"
+  "oilheadsforweeklygainwithmideastsupplyrisksbyreuters",
+  "ffc08bed90c47891",
+  "oilpricesheadforweeklygainashormuzattacksrattlemarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-16",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-10-16T08:30:22.080002+03:00",
+ "last_run": "2026-10-16T08:35:15.079226+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
@@ -1540,6 +1540,10 @@
   {
    "d": "2026-10-16",
    "t": "Oil flow through Strait of Hormuz hits 12M barrels a day — defying increasing attacks from Iran - New York Post"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "Oil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets"
   }
  ]
 }
