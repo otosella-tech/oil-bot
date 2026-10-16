@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "d7d4a48e83e01b97",
-  "oilpricesdropby2asusconsiderseasingrussiantankersanctions",
   "ef00b21a02bc29f1",
   "aibearsmarchdownwallstreetprebellasiadowneuropeoff",
   "9712a334abd16c6a",
@@ -603,7 +601,9 @@
   "41821aa62d46c98d",
   "avolatileweekendswithtechstocksdownoilup",
   "e245534736f48111",
-  "usequityindexesretreatamidrotationoutofhighgrowthsectorssurg"
+  "usequityindexesretreatamidrotationoutofhighgrowthsectorssurg",
+  "f6e57e5c6bfe1024",
+  "whyoilpricesarestillhighdespitemiddleeastsupplyrecovery"
  ],
  "releases_done": {
   "2026-10-16|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-16",
   "count": 60
  },
- "last_run": "2026-10-16T23:45:19.313318+03:00",
+ "last_run": "2026-10-16T23:50:18.884125+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
