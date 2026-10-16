@@ -4,12 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "f6024fa43fbd4629",
-  "5challengesfacingsouthamericascopperboom",
-  "8a8329daf491ec78",
-  "hormuzattackskeepbrentcrudeunsteady",
-  "962a430c16a665f7",
-  "containershipsinksinstraitofhormuzasiranstepsupattacks",
   "29d7f8a47dc3f8c5",
   "exxonmobilbptoeachget2millionbarrelsofsproilduetohurricaneim",
   "ae65c35d3208f0d0",
@@ -603,7 +597,13 @@
   "9f16e99b61163ca8",
   "oileasesbutsetforweeklygainonmideastsupplyrisks",
   "8e946b6304168e33",
-  "saudiarabiaplansmassiveexpansionofoilpipelinetobypasshormuz"
+  "saudiarabiaplansmassiveexpansionofoilpipelinetobypasshormuz",
+  "d252456b2ce6401e",
+  "uscrudeoilinventoriesdown2inweekendingoct9",
+  "7455532244c6f9d1",
+  "attacksonshipsinstraitofhormuzescalatesharply",
+  "62107ecd8b300b6a",
+  "uscrudeoilstockpilespostweeklydrop"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-16",
-  "count": 28
+  "count": 29
  },
- "last_run": "2026-10-16T10:05:13.940007+03:00",
+ "last_run": "2026-10-16T10:10:16.876059+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
