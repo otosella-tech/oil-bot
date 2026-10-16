@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "b9f500770f62eacc",
-  "updateusequityindexesmixedastechnologyweighscrudeoiljumpsami",
   "9d851a4a3fef56d5",
   "lithiumpricesplungeaseuchinatradedealsparksdemandfears",
   "307048f995c5e426",
@@ -603,7 +601,9 @@
   "a867503b7b1f663f",
   "usoildrillersbackoffevenaspricessoar",
   "94b4d34e08c7d907",
-  "oilfuturesriseonmiddleeastrussiaukraineconcerns"
+  "oilfuturesriseonmiddleeastrussiaukraineconcerns",
+  "bc2b1cec3f30ea93",
+  "oilshippingcostsspikeliftingpricesfrompumptogrocery"
  ],
  "releases_done": {
   "2026-10-16|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-16",
   "count": 60
  },
- "last_run": "2026-10-16T20:45:16.772863+03:00",
+ "last_run": "2026-10-16T20:50:18.836361+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
@@ -1667,6 +1667,10 @@
   {
    "d": "2026-10-16",
    "t": "Oil Futures Rise on Middle East, Russia-Ukraine Concerns - WSJ"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "Oil shipping costs spike, lifting prices from pump to grocery - Reuters"
   }
  ]
 }
