@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "bb8cc459db70de5a",
-  "disguisingiraniancrudeasiraqilookshighlyunlikelyundertheusbl",
   "af1c4f409bad27ed",
   "oilpricesslipsasusweighseasingsanctionsonshadowfleet",
   "7fedad8b973f59c2",
@@ -603,7 +601,9 @@
   "3cbbb942b7737b57",
   "centcomsaysitblocked25billioniniranoilexportsirgcstrugglingw",
   "669c1b928bf181cd",
-  "trumppermitsincidentalpolarbearkillsinalaskaoilzone1"
+  "trumppermitsincidentalpolarbearkillsinalaskaoilzone1",
+  "3caf33ef26138816",
+  "oilhits110forthefirsttimesincemay"
  ],
  "releases_done": {
   "2026-10-16|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-17",
   "count": 2
  },
- "last_run": "2026-10-17T00:35:13.329885+03:00",
+ "last_run": "2026-10-17T00:40:17.062279+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
