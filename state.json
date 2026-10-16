@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "36f5243a26dc6df6",
-  "middayneedtoknowuscpijumpscrudeoilrisesmorespynysearca",
   "ce0e68e46284fe1f",
   "uaeoilproductionsurgedtorecordsinseptemberieasays",
   "fd5cecb2269b84e9",
@@ -603,7 +601,9 @@
   "1c99c9316a9ba65c",
   "oilpricesedgeloweronimprovingsupplieswtisetforstrongweek",
   "173e1685fbc35e3d",
-  "oiledgesdownasinvestorsweighpossibleussanctionsonshadowfleet"
+  "oiledgesdownasinvestorsweighpossibleussanctionsonshadowfleet",
+  "325e74fa4458e7df",
+  "currentpriceofoilasofoctober132026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 9
  },
- "last_run": "2026-10-16T04:05:15.388912+03:00",
+ "last_run": "2026-10-16T04:10:18.386660+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
