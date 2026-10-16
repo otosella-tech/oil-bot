@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "99b57b729a4eda62",
-  "shiptoshipoiltransferssurgeoffindiaswestcoast",
   "b7d1570eec9225c2",
   "currentpriceofoilasofoctober92026",
   "62d67dbcabbfcb69",
@@ -603,7 +601,9 @@
   "9050f356afe35eb5",
   "oilhits110perbarrelforfirsttimesincemay",
   "dff63fc333d36613",
-  "trumpsrussiandieselfuelplanrunsintodronestrikesandausimportb"
+  "trumpsrussiandieselfuelplanrunsintodronestrikesandausimportb",
+  "58e8ce474243602e",
+  "updateusequityindexesretreatamidrotationoutofhighgrowthsecto"
  ],
  "releases_done": {
   "2026-10-16|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -617,295 +617,11 @@
   "Brent": 105.43
  },
  "llm": {
-  "date": "2026-10-16",
-  "count": 60
+  "date": "2026-10-17",
+  "count": 2
  },
- "last_run": "2026-10-17T00:00:28.808461+03:00",
+ "last_run": "2026-10-17T00:05:14.189475+03:00",
  "sent_stories": [
-  {
-   "d": "2026-10-13",
-   "t": "Update: US Equity Indexes Mixed as Mega-Cap Tech Names Weighed, Strikes on Ukraine Energy Assets Weaken Energy-Ceasefire Claims - Yahoo! Finance Canada"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Crude oil prices hit near two-week high as Saudi attacks threaten supply recovery - Geo News"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Brent Crude Oil Holds Above $106 As Saudi Attacks, Russia-Ukraine War Fuel Supply Fears - NDTV Profit"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Crude oil exports from strait of Hormuz largely return to pre-war levels - The Guardian"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil prices hold near $105 per barrel as Trump eases sanctions on Russian fuel - The Times of India"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "COMMENTARY: Trump's oil jawboning loses punch as wars spiral - Reuters"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Crude oil crisis in Hormuz: Much more than just price and quantity - The Economic Times"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict - CNBC"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Houthi Attacks on Saudi Arabia Open a Second Front in Oil Supply Risk - StoneX"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "OPEC+ Ministers Urge Enhanced Maritime Security as Freight Rates Surge - Egypt Oil & Gas"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil Prices Diverge As Traders Weigh Russian Diesel Relief Against Saudi Supply Risks: USO, UCO, In Focus - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "French Commandos Board Sanctioned Russian Oil Tanker in Indian Ocean’s Reunion Island - Kyiv Post"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Shipping costs now eat up over a third of oil's value, OPEC warns - Baird Maritime"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Saudi Arabia Shoots Down Houthi Missiles as Regional Conflict Escalates"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil prices fall as Russia diesel export claims offset Gulf supply concerns - Investing.com"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil prices ease as traders monitor Russian diesel deal, Saudi attacks - Central Oregon Daily"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil prices ease as traders monitor Russian diesel deal, Saudi attacks - Euronext Markets: Real-time Stock Market Data | live"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Freight rates for Russian Urals oil shipments to India hit fresh records in early October - Reuters"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "OPEC raises 2027 oil demand view, citing need to rebuild stocks - Reuters"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "OPEC raises 2027 oil demand view, citing need to rebuild stocks By Reuters - Investing.com"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil Leaked by Drone-Hit Russian Tanker Tars Black Sea Birds, Beaches - Kyiv Post"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Gulf oil production rebounds ahead of increase in Iran war hostilities - Financial Times"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Russia oil freight rates to India hit record high in October - Investing.com"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption - Central Oregon Daily"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil eases as traders monitor Russian diesel deal, Saudi attacks - Reuters"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Primavera announces preparations to take over major oil fields in Venezuela, expands operational leadership team - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further - The New York Times"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Trump Defends Russian Diesel Deal as Energy Ceasefire Claims Unravel"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "War Collides With Saudi Ambition at a Gathering of Oil Powers - The New York Times"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production - CNBC"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Saudi Arabia Becomes the Oil Market’s Biggest Wild Card"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "OPEC: Saudi Arabia, UAE Monthly Crude Oil Production Up in September - www.marketscreener.com"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "OPEC+ Oil Production Rises 900,000 bbl/d in September Despite Hormuz Disruptions – Monthly Report Says - Egypt Oil & Gas"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil prices ease as US-Russia diesel deal hopes offset Middle East attacks - Central Oregon Daily"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "OPEC+ warns soaring shipping, insurance costs impede oil flows - Oil & Gas Journal"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Iran Escalates Attacks on Ships, Threatening Oil Export Recovery - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand - CNBC"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Decline in Russian Crude Output Slowed in September, OPEC Says - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Iran’s intensifying attacks on ships, threatening oil export recovery: Report - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Asian refiners buy spot November Saudi oil, sources say - Reuters"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Houthis say Saudi Arabia strikes oil site in Yemen's capital - Al-Monitor"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "China’s $3 Billion Qatar LNG Deal Raises an Awkward Question"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Saudi Arabia leads OPEC+ production increase: September crude oil daily output rises by 900,000 barrels month-on-month - 富途牛牛"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Saudi Arabia eyes raising its pipeline oil export capacity to 10 million bpd, energy minister says - Reuters"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Pakistan Looks to Import Crude Oil from Libya to Diversify Supply - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "IRGC Navy Says Another Oil Tanker Hit in Strait of Hormuz, Warns Against Cooperation With US - Orinoco Tribune"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Saudi Arabia and Yemen’s Houthis Trade Threats To Hit Oil Facilities - The New York Times"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil prices mixed as US-Russia diesel deal hopes offset Saudi Yemen attacks - The Lufkin Daily News"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate - Reuters"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Trump's Middle Corridor Plans Face Russian and Iranian Roadblocks"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Saudi Arabia strikes strategic oil depots near Yemen capital - The Guardian"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Saudi-Owned Refinery Was Buyer of Oil on Cyberattacked Tanker - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Houthi-run TV reports attack on Yemen's oil facility after Saudi coalition evacuation order - The Jerusalem Post"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil prices little changed as traders assess Russian diesel supply prospects and Saudi-Houthi conflict - CNBC"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Hormuz ships pummeled with worst attacks of the Iran War — as oil flows plummet - New York Post"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil Ends Mixed as Traders Weigh Middle East Risks, Russian Diesel Supplies - WSJ"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire - CNBC"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil prices settle mixed, focus on US-Russia diesel deal, Saudi Yemen attacks - Central Oregon Daily"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "$Crude Oil Futures (NOV6) (CLmain.US)$$Brent Last Day Financial Futures Current Contract (DEC6) (BZcurrent.US)$ Netanyahu raised renewed strikes on Iran in a call with Trump last week, Axios reports, citing senior US officials. The reason he gave them i - Moomoo"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most - WSJ"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained - CNBC"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Despite Rumors of a Russian-Iranian Blend, No Route Out for Iranian Oil - The Maritime Executive"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "The US oil reserve stayed steady last week, but hurricane- and Iran-related withdrawals are on tap - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-13",
-   "t": "Booms heard near Saudi Aramco headquarters as Houthi conflict escalates - Reuters"
-  },
   {
    "d": "2026-10-14",
    "t": "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027"
@@ -1701,6 +1417,10 @@
   {
    "d": "2026-10-16",
    "t": ": Trump’s Russian Diesel Fuel Plan Runs Into Drone Strikes and a US Import Ban - Military.com"
+  },
+  {
+   "d": "2026-10-17",
+   "t": "Update: US Equity Indexes Retreat Amid Rotation Out of High-Growth Sectors, Surge in Crude Oil - Yahoo Finance"
   }
  ]
 }
