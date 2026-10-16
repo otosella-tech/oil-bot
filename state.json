@@ -4,10 +4,6 @@
   "Brent": 105.11
  },
  "seen": [
-  "145b1400e81831b3",
-  "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo",
-  "b16dda4c4e20a0af",
-  "oilpriceseaseasinvestorsweighsupplyoutlookmiddleeasttensions",
   "b5d0a1cb9e8c5c3a",
   "lithiumpricesplungeaseu",
   "9354edb6f9ba4e15",
@@ -603,7 +599,11 @@
   "35a9e1dabc08456c",
   "oilpricesheadforweeklygainsamidmiddleeastrisksusinventorydra",
   "aca42848c1ba6dee",
-  "ressenceunveilsoilfilledtype10"
+  "ressenceunveilsoilfilledtype10",
+  "17346ee22da5f811",
+  "buildingresilienceandenergysecuritythroughroadtransportelect",
+  "24212b5fc4075100",
+  "crudeoilexportshelpdrivebrazilchinatradetorecordhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 60
  },
- "last_run": "2026-10-16T18:20:20.108685+03:00",
+ "last_run": "2026-10-16T18:25:15.260809+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
