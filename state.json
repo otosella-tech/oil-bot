@@ -4,10 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "83fa246d0fa2f7b4",
-  "novakcallsusdieseldealapositivesignalforrussiaseconomy",
-  "8bf23e9fe1120e46",
-  "sincethewariniranbeganinfebruaryconstrainingtheglobalsupplyo",
   "00c2c0e08ded9c9c",
   "wastefurnaceheatturnedintocrudeoilpreheatingbyoptimizedheate",
   "93d7f7d086e3745e",
@@ -603,7 +599,11 @@
   "0cefa1291830cc5e",
   "currentpriceofoilasofoctober82026",
   "2b9b37f039566445",
-  "september2026monthlyanalysisofrussianfossilfuelexportsandsan"
+  "september2026monthlyanalysisofrussianfossilfuelexportsandsan",
+  "7b89047b0b48b6ce",
+  "saudileadsjumpinopecoiloutputinseptemberdespiteiranwardisrup",
+  "70c1a17bc75c2f5a",
+  "ieaagreestoreleaseofoutstanding100mbarrelsofoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-16",
-  "count": 23
+  "count": 25
  },
- "last_run": "2026-10-16T09:20:18.048441+03:00",
+ "last_run": "2026-10-16T09:25:13.355357+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
@@ -1544,6 +1544,10 @@
   {
    "d": "2026-10-16",
    "t": "Oil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption - Reuters"
   }
  ]
 }
