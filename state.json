@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "7fedad8b973f59c2",
-  "brentoilslipsasusweighseasingsanctionsonrussiasshadowfleet",
   "ef6ea854bbdedd76",
   "shipfuelmarketfragmentsasmiddleeastconflicthitstrade",
   "8fb919470ca22953",
@@ -603,7 +601,9 @@
   "3caf33ef26138816",
   "oilhits110forthefirsttimesincemay",
   "6c432043a12605c1",
-  "oilisgettingthroughfromthemiddleeasthereswhypricesarestillhi"
+  "oilisgettingthroughfromthemiddleeasthereswhypricesarestillhi",
+  "29426f56af464470",
+  "oilreaches110perbarrel"
  ],
  "releases_done": {
   "2026-10-16|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-17",
   "count": 2
  },
- "last_run": "2026-10-17T00:45:18.750502+03:00",
+ "last_run": "2026-10-17T00:50:17.997753+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
