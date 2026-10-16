@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "e5664647b3b1c523",
-  "crudeoilrisesasiranrampsupattacksonshippingcontainershipsink",
   "7b89047b0b48b6ce",
   "saudileadsjumpinopecoiloutputinseptemberdespiteiranwardisrup",
   "83fa246d0fa2f7b4",
@@ -603,7 +601,9 @@
   "0119be88764bb6ad",
   "oilheadsforweeklygainwithmideastsupplyrisksbyreuters",
   "ffc08bed90c47891",
-  "oilpricesheadforweeklygainashormuzattacksrattlemarkets"
+  "oilpricesheadforweeklygainashormuzattacksrattlemarkets",
+  "0cefa1291830cc5e",
+  "currentpriceofoilasofoctober82026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 23
  },
- "last_run": "2026-10-16T09:10:16.973379+03:00",
+ "last_run": "2026-10-16T09:15:18.391673+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
