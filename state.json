@@ -4,8 +4,6 @@
   "Brent": 105.11
  },
  "seen": [
-  "5b6b11209ea6334c",
-  "opinioncanchinascoalindustryridetotherescueofaworldinoilshoc",
   "4d2acee31976bcbf",
   "whitehouseturnstokoreanwar",
   "d5a4b2e2f54441e5",
@@ -603,7 +601,9 @@
   "e534728c0d1da635",
   "oilpriceseasebutheadforanotherweeklygainonmiddleeastsupplyco",
   "8858f42cb62119cd",
-  "crudeoilholds8889asafifthwaverallytakesshape"
+  "crudeoilholds8889asafifthwaverallytakesshape",
+  "56b25335c1695536",
+  "uscrudeoilinventoriesseemassivedropoff"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 41
  },
- "last_run": "2026-10-16T12:45:21.237408+03:00",
+ "last_run": "2026-10-16T12:50:18.732677+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
