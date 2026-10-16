@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "95dcf910000c6b34",
-  "whatistherealpriceofoil",
   "4b75a3ac4be63c87",
   "oilpricesslideabout2asusiranexplorepathoutofwar",
   "e5664647b3b1c523",
@@ -603,19 +601,21 @@
   "9e59d52dc3a49902",
   "oilheadsforweeklygainwithmideastsupplyrisks",
   "b44aac3ad16dd1cb",
-  "oilflowthroughstraitofhormuzhits12mbarrelsadaydefyingincreas"
+  "oilflowthroughstraitofhormuzhits12mbarrelsadaydefyingincreas",
+  "0119be88764bb6ad",
+  "oilheadsforweeklygainwithmideastsupplyrisksbyreuters"
  ],
  "releases_done": {},
- "last_digest": "2026-10-15",
+ "last_digest": "2026-10-16",
  "digest_prices": {
-  "WTI": 94.02,
-  "Brent": 104.3
+  "WTI": 95.91,
+  "Brent": 105.43
  },
  "llm": {
   "date": "2026-10-16",
-  "count": 15
+  "count": 21
  },
- "last_run": "2026-10-16T07:55:14.344663+03:00",
+ "last_run": "2026-10-16T08:00:27.557495+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
