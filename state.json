@@ -4,8 +4,6 @@
   "Brent": 105.11
  },
  "seen": [
-  "40583da250086158",
-  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr",
   "88fafbab3bc0fc48",
   "howhasopecsproductionprewarandcurrentoutputunderstress",
   "db5681cb3c222f58",
@@ -603,7 +601,9 @@
   "f7b78a74c1d21eef",
   "currentpriceofoilasofoct162026",
   "8150d61a3bcaae32",
-  "hormuzstraitclosuredrivesincreaseinamericanenergyexportsacco"
+  "hormuzstraitclosuredrivesincreaseinamericanenergyexportsacco",
+  "d577ea67a2b0c9c6",
+  "shipfuelcrunchtopersistdespitemoreoilvitolsays"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 48
  },
- "last_run": "2026-10-16T15:10:19.491070+03:00",
+ "last_run": "2026-10-16T15:15:18.059535+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
