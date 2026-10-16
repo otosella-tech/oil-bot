@@ -4,12 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "1a6fedeb087faab7",
-  "guyanaoilexportssettosurpass1millionbarrelsperdayforfirsttim",
-  "9052056f4027b527",
-  "twocargoshipssunkinstraitofhormuzasiranrampsupattacksinrunup",
-  "5e324e9dc8e95585",
-  "buildingtheoilandgassupplyoftomorrow",
   "31ab00ef7d2daaa1",
   "ukrainerenewsoilblitzonrussiastrikesryazanrefineryaszelensky",
   "9baa6b8aea19beab",
@@ -603,7 +597,13 @@
   "93c123786fef8dd4",
   "ieamiddleeastwarweighsonemergingmarketoildemand",
   "0a1027ec9b2b0114",
-  "oilfuturescrudehigheramidmiddleeastuncertainty"
+  "oilfuturescrudehigheramidmiddleeastuncertainty",
+  "121fdad2bb45e2dc",
+  "oilpricesjump2onsaudiattacksasopecseesdemandrebound",
+  "ba8db24b6173cf23",
+  "brentcrudesurges3nearing110whatiscausingoilpricestoriseagain",
+  "5c38d4386d1c46c5",
+  "ieaagreestoreleaseofoutstanding100mmoilbarrels"
  ],
  "releases_done": {
   "2026-10-16|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-16",
   "count": 60
  },
- "last_run": "2026-10-16T20:25:14.887968+03:00",
+ "last_run": "2026-10-16T20:30:23.870383+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
@@ -1655,6 +1655,10 @@
   {
    "d": "2026-10-16",
    "t": "U.S. crude oil tops $100 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries - CNBC"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
