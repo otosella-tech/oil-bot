@@ -4,8 +4,6 @@
   "Brent": 105.11
  },
  "seen": [
-  "88fafbab3bc0fc48",
-  "howhasopecsproductionprewarandcurrentoutputunderstress",
   "db5681cb3c222f58",
   "freightratesforrussianuralsoilshipmentstoindiahitfreshrecord",
   "127c40666edf8931",
@@ -603,7 +601,9 @@
   "8150d61a3bcaae32",
   "hormuzstraitclosuredrivesincreaseinamericanenergyexportsacco",
   "d577ea67a2b0c9c6",
-  "shipfuelcrunchtopersistdespitemoreoilvitolsays"
+  "shipfuelcrunchtopersistdespitemoreoilvitolsays",
+  "40583da250086158",
+  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-16",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-10-16T15:15:18.059535+03:00",
+ "last_run": "2026-10-16T15:20:17.837024+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
@@ -1588,6 +1588,10 @@
   {
    "d": "2026-10-16",
    "t": "Hormuz Strait closure drives increase in American energy exports, according to Analyst - アラブニュース"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters"
   }
  ]
 }
