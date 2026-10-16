@@ -4,10 +4,6 @@
   "Brent": 105.11
  },
  "seen": [
-  "b5d0a1cb9e8c5c3a",
-  "lithiumpricesplungeaseu",
-  "9354edb6f9ba4e15",
-  "chevronceowarnsoilbuffersthatcushionedtheiranwarshockhavebee",
   "6f605cf425eb3a18",
   "oilcityweeklyeeditionforoct15232026",
   "04ff7d6fc97936f4",
@@ -603,7 +599,11 @@
   "17346ee22da5f811",
   "buildingresilienceandenergysecuritythroughroadtransportelect",
   "24212b5fc4075100",
-  "crudeoilexportshelpdrivebrazilchinatradetorecordhigh"
+  "crudeoilexportshelpdrivebrazilchinatradetorecordhigh",
+  "125c129cb1c901eb",
+  "germanpowersupplystartupsexitmarketaswholesalepricessoar",
+  "145b1400e81831b3",
+  "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 60
  },
- "last_run": "2026-10-16T18:25:15.260809+03:00",
+ "last_run": "2026-10-16T18:30:24.084185+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
@@ -1632,6 +1632,10 @@
   {
    "d": "2026-10-16",
    "t": "India diversified crude oil sources from 27 to 41 amid disruptions in Hormuz, Red Sea: Hardeep Puri - The Times of India"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "German Power Supply Startups Exit Market as Wholesale Prices Soar"
   }
  ]
 }
