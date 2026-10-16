@@ -4,14 +4,6 @@
   "Brent": 105.11
  },
  "seen": [
-  "cdcd13ab5e057ba8",
-  "oilpricesfallastrumpconsiderseasingsanctionsonshadowfleettan",
-  "a278ef6ec4df3acf",
-  "aquicknoteoncrudeoil",
-  "c7ebde5eaaa095a7",
-  "oilpricessettlemixedfocusonusrussiadieseldealsaudiyemenattac",
-  "c16813042fe1199a",
-  "oilpricesdown141026",
   "ec46ebced42e311f",
   "apisaysuscrudestocksfell1112m",
   "c48e894afbb1a12c",
@@ -603,7 +595,15 @@
   "fd08880e8493bca8",
   "thereturnofmiddleeastoilhasiranlostcontrolofstraitofhormuzwh",
   "dd807d8bb7938501",
-  "oilslipsastradersweighieareservereleaseshormuzrisks"
+  "oilslipsastradersweighieareservereleaseshormuzrisks",
+  "32001c124871ae3f",
+  "ukrainedefiestrumpwithrenewedattacksonrussianoilinfrastructu",
+  "d5a4b2e2f54441e5",
+  "thecostofshippingatankerofcrudeoilhasskyrocketedduetowar",
+  "22ddbc04cc7c4dd8",
+  "currentpriceofoilasofoct12026",
+  "92f4e2a8612cb184",
+  "currentpriceofoilasofseptember242026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-16",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-10-16T16:55:15.193304+03:00",
+ "last_run": "2026-10-16T17:00:30.700889+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
@@ -1608,6 +1608,14 @@
   {
    "d": "2026-10-16",
    "t": "Oil Slips as Traders Weigh IEA Reserve Releases, Hormuz Risks - WSJ"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "The cost of shipping a tanker of crude oil has skyrocketed due to war - Marketplace.org"
   }
  ]
 }
