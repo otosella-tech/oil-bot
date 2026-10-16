@@ -4,12 +4,6 @@
   "Brent": 105.11
  },
  "seen": [
-  "6fd4b0b47d589a62",
-  "usconsidersliftingsanctionsonrussianshadowfleetvesselsreuter",
-  "de5b4211bdb05f07",
-  "oilpricescouldstayhighthrough2028asiranwardisruptsglobalener",
-  "b9d81d14eb3c707e",
-  "chennaipetrosstockplungesnearly6ascrudeoilretreatsbelow104ba",
   "47de004c618d955e",
   "crudeoilfuturesdeclineonpotentialussanctionsreliefforshadowf",
   "72fc3b92d0c65e84",
@@ -603,7 +597,13 @@
   "8a7e7a836032c0ae",
   "onetexascityjustsawgasjump24centswhileeveryoneelsegotabreak",
   "9b1af86db2a00b14",
-  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout"
+  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
+  "70fd226e60334ea6",
+  "ussolicitsexchangeofupto17millionbarrelsofoilfromstrategicre",
+  "a0a49cce3b62be21",
+  "commentaryoilslongviewdarkensasiranwarrefusestoend",
+  "44987ccc8440e2e1",
+  "indiadiversifiedcrudeoilsourcesfrom27to41amiddisruptionsinho"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 60
  },
- "last_run": "2026-10-16T17:35:15.147336+03:00",
+ "last_run": "2026-10-16T17:40:17.552404+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
@@ -1624,6 +1624,14 @@
   {
    "d": "2026-10-16",
    "t": "Ukrainian Drones Strike Energy Plant in Russia’s Largest Oil-Producing Region - The Moscow Times"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "COMMENTARY: Oil's long view darkens as Iran war refuses to end - Reuters"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "India diversified crude oil sources from 27 to 41 amid disruptions in Hormuz, Red Sea: Hardeep Puri - The Times of India"
   }
  ]
 }
