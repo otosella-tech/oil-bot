@@ -4,8 +4,6 @@
   "Brent": 105.11
  },
  "seen": [
-  "04ff7d6fc97936f4",
-  "wticrudeoilfuturesriseongeopoliticaltensionsasdieselsupplies",
   "8c64b907e61fb1c6",
   "gaspricessetrecordforhighestnumberofdaysabove4agalloninacale",
   "72baa80e9e19f20b",
@@ -603,7 +601,9 @@
   "145b1400e81831b3",
   "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo",
   "1be4b08533a613c3",
-  "imfsoundsalarmoveraisthreattogovernmenttaxbases"
+  "imfsoundsalarmoveraisthreattogovernmenttaxbases",
+  "3cb707c5be1388df",
+  "delhitownshiproadreopensafteroiltankeroverturns"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -615,7 +615,7 @@
   "date": "2026-10-16",
   "count": 60
  },
- "last_run": "2026-10-16T19:00:29.113895+03:00",
+ "last_run": "2026-10-16T19:05:15.207810+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
