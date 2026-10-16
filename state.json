@@ -4,8 +4,6 @@
   "Brent": 104.71
  },
  "seen": [
-  "325e74fa4458e7df",
-  "currentpriceofoilasofoctober132026",
   "36f5243a26dc6df6",
   "middayneedtoknowuscpijumpscrudeoilrisesmorespynysearca",
   "ce0e68e46284fe1f",
@@ -603,7 +601,9 @@
   "c336001e2a897825",
   "uscrudeoiljumpsonbiginventorydrawpotentialshadowfleetsanctio",
   "1c99c9316a9ba65c",
-  "oilpricesedgeloweronimprovingsupplieswtisetforstrongweek"
+  "oilpricesedgeloweronimprovingsupplieswtisetforstrongweek",
+  "173e1685fbc35e3d",
+  "oiledgesdownasinvestorsweighpossibleussanctionsonshadowfleet"
  ],
  "releases_done": {},
  "last_digest": "2026-10-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-16",
-  "count": 7
+  "count": 9
  },
- "last_run": "2026-10-16T04:00:26.273412+03:00",
+ "last_run": "2026-10-16T04:05:15.388912+03:00",
  "sent_stories": [
   {
    "d": "2026-10-13",
@@ -1520,6 +1520,10 @@
   {
    "d": "2026-10-16",
    "t": "Standard Chartered: Trump's Russian Diesel Won't Add New Supply"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "Oil edges down as investors weigh possible US sanctions on 'shadow fleet' - Reuters"
   }
  ]
 }
