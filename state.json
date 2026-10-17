@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "8e736919abe4da2e",
-  "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue",
   "4b75a3ac4be63c87",
   "oilpricesslideabout2asusiranexplorepathoutofwar",
   "da4cbea1e0f64a7d",
@@ -603,7 +601,9 @@
   "d19b649ff928c180",
   "whatanexpertwantsyoutoknowaboutpalmoil",
   "bb5fce97b0793436",
-  "chevroncvxfacesavaluationtestfollowingtheoilspike"
+  "chevroncvxfacesavaluationtestfollowingtheoilspike",
+  "85260a9cef490bba",
+  "moscowsaysfirsttankercarryingrussianoiltoworldmarketshasdepa"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-18",
-  "count": 1
+  "count": 2
  },
- "last_run": "2026-10-18T00:45:19.064232+03:00",
+ "last_run": "2026-10-18T00:50:17.329021+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
