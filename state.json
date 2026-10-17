@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "01bc37c3f7f325f9",
-  "exxonsoilboomcouldkeepguyanasgasathome",
   "2df981ac7ecc509f",
   "importpricesrise176asoilcostssurge",
   "93239e86289de2e2",
@@ -603,7 +601,9 @@
   "2e0c4958964a50ce",
   "usandiranbothclaimcontrolofstraitofhormuzamidattacksonvessel",
   "c288d9607018262e",
-  "bankofcanadaseessharplyhigherinflationoutlookasoilsurgesmack"
+  "bankofcanadaseessharplyhigherinflationoutlookasoilsurgesmack",
+  "c671af2cfd615518",
+  "iransaysoiltankersstruckbyminesinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-17",
-  "count": 34
+  "count": 35
  },
- "last_run": "2026-10-17T17:15:16.736954+03:00",
+ "last_run": "2026-10-17T17:20:18.305439+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
