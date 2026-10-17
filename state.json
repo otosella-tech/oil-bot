@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "58ce823edf8d0b23",
-  "ukraineresumesattacksonrussianoilrefineriesasrelationswithtr",
-  "85ec7ca8f9eee9bd",
-  "tdcowenraisesoilforecastsseescanadianproducersgainaswcsdisco",
   "f0f982ed97eb23fa",
   "bulgariabreaksrankswitheuovertrump",
   "b6a61f60bd375224",
@@ -603,7 +599,11 @@
   "7b0050c8f8d4a312",
   "mainefamiliesfeelpressureasheatingoilcostscontinuetorise",
   "e33fe33e9f9d7d9f",
-  "oilhitsfivemonthhighof110onnewescalationinmiddleeast"
+  "oilhitsfivemonthhighof110onnewescalationinmiddleeast",
+  "886d06db784e6204",
+  "southkoreasimportpricesriseasoilcostssurge28",
+  "0d654e63783b06e0",
+  "keyoilpricebenchmarksurgesto5monthhigh"
  ],
  "releases_done": {
   "2026-10-16|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-17",
   "count": 4
  },
- "last_run": "2026-10-17T03:00:30.218900+03:00",
+ "last_run": "2026-10-17T03:05:13.958228+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
