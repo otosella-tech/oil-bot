@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "aa55aaee7a1dd361",
-  "oildipsasieamembersagreeonemergencystockedcruderelease",
   "bfcdc6b1ca14d4b9",
   "oileasesbutheadsforweeklygainasinvestorsfocusonmiddleeastsup",
   "11fa2a1997eb6135",
@@ -603,7 +601,9 @@
   "33d0b3ccd2199bae",
   "dollarralliesonhighercrudeoilpricesandhawkishfedcomments",
   "95dcf910000c6b34",
-  "whatistherealpriceofoil"
+  "whatistherealpriceofoil",
+  "8ddd03b55c17f251",
+  "oilpricesjumpasiranstepsuptankerattackshurricanethreatensusg"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-18",
-  "count": 3
+  "count": 4
  },
- "last_run": "2026-10-18T01:25:13.292325+03:00",
+ "last_run": "2026-10-18T01:30:20.119768+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
