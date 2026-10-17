@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "e125b54b947bd315",
-  "ustargetscentralasiasenergyandcriticalmineralsinmajortradepu",
   "947d468618fcfcfb",
   "russiasoilandgastaxrevenuessettorise10inoctoberdespiteproduc",
   "34eeb8a67224f9db",
@@ -603,7 +601,9 @@
   "06666541526e3384",
   "wticrudeoilfuturesand5yieldssettonefortheweek",
   "aa406692e7bca06a",
-  "trumpdieseldealfacesfreshchallengeincongress"
+  "trumpdieseldealfacesfreshchallengeincongress",
+  "89776cd9e3071ff8",
+  "trumpputsforthwaiversonrussianoilpurchasesweeksafterrelaxati"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -615,7 +615,7 @@
   "date": "2026-10-17",
   "count": 26
  },
- "last_run": "2026-10-17T14:25:14.282936+03:00",
+ "last_run": "2026-10-17T14:30:21.637173+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
