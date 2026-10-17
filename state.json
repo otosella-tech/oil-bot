@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "ea25e11969645efc",
-  "crudeoilhits4weekhigh",
   "e62f01cb55a98bed",
   "currentpriceofoilasofoctober142026",
   "cd3724e7fd73d4f6",
@@ -603,7 +601,9 @@
   "e004bf2eda8300fb",
   "supertankercarrying2millionbarrelsofoilhitsnavalmineexplodes",
   "bc8a7862628e5ac8",
-  "usblockadecostiran25billioninoilrevenuecentcomchiefsays"
+  "usblockadecostiran25billioninoilrevenuecentcomchiefsays",
+  "ca60bf753a4863e5",
+  "howtheuscangetoilpricesdown"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -615,7 +615,7 @@
   "date": "2026-10-17",
   "count": 24
  },
- "last_run": "2026-10-17T12:00:27.873207+03:00",
+ "last_run": "2026-10-17T12:05:14.618226+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
