@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "ea2159edcd2026c0",
-  "importpricesrise176asoilcostssurgeamidmiddleeastwar",
-  "1c70ad0171348dba",
-  "wtipriceforecastcrudeoiltargets100asbullishmomentumbuilds",
   "7a28def6f6452231",
   "energysubstantiationbringsphysicallybackedcrudeoiltoinstitut",
   "152afdc7aa3ccb64",
@@ -603,7 +599,11 @@
   "6c200cf2286d329f",
   "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
   "92792b860982ca14",
-  "crudeoilisunderpricedenergyaspectssays"
+  "crudeoilisunderpricedenergyaspectssays",
+  "ed0bd0c0b8fc26dc",
+  "oiltankerexplodesinstraitofhormuzasiranvowswaterwayremainscl",
+  "39fa1c0b0b6a6fba",
+  "trumpeasespressureonrussiasoilandgasexportsaheadofmidterms"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-17",
-  "count": 32
+  "count": 33
  },
- "last_run": "2026-10-17T16:30:24.089135+03:00",
+ "last_run": "2026-10-17T16:35:14.240931+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
