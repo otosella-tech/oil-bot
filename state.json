@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "fd580202b87a3153",
-  "oilgainsasuscrudeinventoriesfall",
-  "b7009ea58a055747",
-  "britainsbiggestbusinesslobbycallsfortaxcutsandlowerenergybil",
   "0b5a17647d5f2abf",
   "uscrudeoilinventoriesdecreaseby86millionbarrels",
   "5a7de2f135c97ab2",
@@ -603,7 +599,11 @@
   "29d363ca775235ef",
   "howtheusiranwarupendedtwocriticalglobaltraderoutes",
   "b2801ffaa672b56f",
-  "libertyenergystocktheoilfieldupcyclehasbeenforgottennyselbrt"
+  "libertyenergystocktheoilfieldupcyclehasbeenforgottennyselbrt",
+  "e62f01cb55a98bed",
+  "currentpriceofoilasofoctober142026",
+  "8f0533219ad6908c",
+  "crudeoilpricesmayfallto80in2027whatcouldbringpricesdown"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -615,7 +615,7 @@
   "date": "2026-10-17",
   "count": 26
  },
- "last_run": "2026-10-17T12:20:17.727149+03:00",
+ "last_run": "2026-10-17T12:25:14.066887+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
