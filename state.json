@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "8c47f4e23aacffab",
-  "innewmexicosoilcountrypeopleaskwhathappenedtoourwaterandair",
-  "091fe1a2242a892a",
-  "usnuclearfuelindependenceedgescloserasurencoexpansionhits75",
   "ea2159edcd2026c0",
   "importpricesrise176asoilcostssurgeamidmiddleeastwar",
   "1c70ad0171348dba",
@@ -603,7 +599,11 @@
   "690afc611d10b595",
   "iransayssecondoilsupertankerexplodesafterminestrike",
   "0c769a305ed964fb",
-  "oiltopped110astechstockslost1trillioninaday"
+  "oiltopped110astechstockslost1trillioninaday",
+  "6c200cf2286d329f",
+  "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
+  "92792b860982ca14",
+  "crudeoilisunderpricedenergyaspectssays"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-17",
-  "count": 31
+  "count": 32
  },
- "last_run": "2026-10-17T16:15:18.801833+03:00",
+ "last_run": "2026-10-17T16:20:17.859405+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
