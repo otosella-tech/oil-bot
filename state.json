@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "2943bdddb7fe3719",
-  "briansullivanwhytherealpriceofoilislikely3040higherthanwhere",
   "da5656a80910f7ca",
   "gaspricesholdingnearsteadyascrudeoilremainshigh",
   "d16fc3bb6eabe6be",
@@ -603,7 +601,9 @@
   "31e7b9afb1f52272",
   "whyarecaliforniagaspricessomuchhigherthaninhawaii",
   "0f0425e023d93961",
-  "uscrudeoilnear98asiranstepsupattacksinstraitofhormuz"
+  "uscrudeoilnear98asiranstepsupattacksinstraitofhormuz",
+  "fb3c04f4b7156766",
+  "iransirgcsays2ndsupertankerhitsnavalmineinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-17",
-  "count": 29
+  "count": 30
  },
- "last_run": "2026-10-17T15:40:19.163427+03:00",
+ "last_run": "2026-10-17T15:45:18.865486+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
