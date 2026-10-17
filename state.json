@@ -606,16 +606,16 @@
   "ussaysiranbarredfrommaritimetradeaspressurecampaigntargetsoi"
  ],
  "releases_done": {},
- "last_digest": "2026-10-16",
+ "last_digest": "2026-10-17",
  "digest_prices": {
-  "WTI": 95.91,
-  "Brent": 105.43
+  "WTI": 99.02,
+  "Brent": 109.86
  },
  "llm": {
   "date": "2026-10-17",
-  "count": 13
+  "count": 19
  },
- "last_run": "2026-10-17T07:55:13.301071+03:00",
+ "last_run": "2026-10-17T08:00:27.351779+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
