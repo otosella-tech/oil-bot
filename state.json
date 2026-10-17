@@ -4,12 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "1c99c9316a9ba65c",
-  "oilpricesedgeloweronimprovingsupplieswtisetforstrongweek",
-  "173e1685fbc35e3d",
-  "oiledgesdownasinvestorsweighpossibleussanctionsonshadowfleet",
-  "325e74fa4458e7df",
-  "currentpriceofoilasofoctober132026",
   "e023ff4f430f4dd6",
   "blmannouncesdecember2026saleofoilandgasleasesinutah",
   "193429ecae0f5b4b",
@@ -603,7 +597,13 @@
   "39268368eae91174",
   "hormuzshipattackshitrecordhighasiranescalatesstrikeswithlitt",
   "8c47f4e23aacffab",
-  "innewmexicosoilcountrypeopleaskwhathappenedtoourwaterandair"
+  "innewmexicosoilcountrypeopleaskwhathappenedtoourwaterandair",
+  "9221b2e68ddc1e70",
+  "marketnotyetpricingoiltakeawayconstraintsmidlandreporter",
+  "581f637ad35b7875",
+  "aaatexasgaspricesfluctuateascrudeoilremainsnear100perbarrel",
+  "c336001e2a897825",
+  "uscrudeoiljumpsonbiginventorydrawpotentialshadowfleetsanctio"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -615,7 +615,7 @@
   "date": "2026-10-17",
   "count": 37
  },
- "last_run": "2026-10-17T19:10:17.010118+03:00",
+ "last_run": "2026-10-17T19:15:17.222677+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
