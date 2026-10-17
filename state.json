@@ -4,12 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "62107ecd8b300b6a",
-  "uscrudeoilstockpilespostweeklydrop",
-  "6037e3c45ffb3b0a",
-  "oilfuturescrudepullsbackfromhighsamidmideastuncertainty",
-  "ec3343211284b116",
-  "exclusivepetrochinasetforrecordtradingprofitaswarupendsmarke",
   "90d6c1adee46b8dc",
   "oilsurgedrives176importpricerise",
   "564809fc03d3dd0f",
@@ -603,7 +597,13 @@
   "72d17f5137a0a13e",
   "trumpsignsorderwaivinggrahamactsanctionsonrussiadrawingbackl",
   "c624a117f9be1bb1",
-  "pakistanturnstoafricassecondlargestcrudeoilproducerlibyaasmi"
+  "pakistanturnstoafricassecondlargestcrudeoilproducerlibyaasmi",
+  "dda262ce0e746e7e",
+  "gulfoilisstillflowingdespiteasurgeinattacksonships",
+  "763b106acff999a8",
+  "chinaboughthalfofbrazilsoilexportsasiranwardrovesalestorecor",
+  "aabe09ba8628ba4c",
+  "becauseofthepriceofoilweremakingafortunetrumpsaysatrally"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-17",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-10-17T21:50:16.013299+03:00",
+ "last_run": "2026-10-17T21:55:13.459352+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
@@ -1460,6 +1460,14 @@
   {
    "d": "2026-10-17",
    "t": "Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy - ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "d": "2026-10-17",
+   "t": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships - The New York Times"
+  },
+  {
+   "d": "2026-10-17",
+   "t": "China bought half of Brazil’s oil exports as Iran war drove sales to record - South China Morning Post"
   }
  ]
 }
