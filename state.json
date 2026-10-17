@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "f0f982ed97eb23fa",
-  "bulgariabreaksrankswitheuovertrump",
   "b6a61f60bd375224",
   "fedsorderenergytransfertoinspectrepairpipelinesaftersterling",
   "517bdab46fb5aca2",
@@ -603,7 +601,9 @@
   "886d06db784e6204",
   "southkoreasimportpricesriseasoilcostssurge28",
   "0d654e63783b06e0",
-  "keyoilpricebenchmarksurgesto5monthhigh"
+  "keyoilpricebenchmarksurgesto5monthhigh",
+  "19a991cea72a3ec7",
+  "southkoreafreezesfuelpricecapsforanotherfourweeks"
  ],
  "releases_done": {
   "2026-10-16|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-17",
   "count": 4
  },
- "last_run": "2026-10-17T03:15:17.859153+03:00",
+ "last_run": "2026-10-17T03:20:17.400743+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
