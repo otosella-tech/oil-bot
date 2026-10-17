@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "73180062a0efce4a",
-  "useiacrudeoilimportschangeoct090596mprev0053m",
-  "ff7eb2e6d3dace93",
-  "eiacushingcrudeoilstockschangeoct091862mprev0444m",
   "034426f740eebfb4",
   "gaspricesnotbudgingmuchascrudeoilremainshigh",
   "99def7de2380f12c",
@@ -603,7 +599,11 @@
   "78cf2f57807a4ed6",
   "ussaysiranbarredfrommaritimetradeaspressurecampaigntargetsoi",
   "0edcaa4fa44fc6a5",
-  "donaldtrumpwaivessanctionstariffsonpurchaseofrussianoilandga"
+  "donaldtrumpwaivessanctionstariffsonpurchaseofrussianoilandga",
+  "41bc11b2a23424fd",
+  "liveupdateslatestfromisraeliranandthemiddleeast",
+  "5b7a9b31a10c326e",
+  "ieatospeedupoilstocksreleaseincludingover20millionbarrelsofd"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -615,7 +615,7 @@
   "date": "2026-10-17",
   "count": 20
  },
- "last_run": "2026-10-17T08:25:14.883941+03:00",
+ "last_run": "2026-10-17T08:30:21.602197+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
