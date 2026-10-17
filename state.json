@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "11fa2a1997eb6135",
-  "oilisflowingfromthepersiangulfbutpricesremainhighwhy",
-  "1472ab54d1bf5c09",
-  "fishoilandcorruption6takeawaysfromalaskassenatedebate",
   "d102f4c00892b496",
   "nothisoiltankerdidntcarryrussiandieseltotheunitedstates",
   "4c8f9a6b5703d254",
@@ -603,7 +599,11 @@
   "8ddd03b55c17f251",
   "oilpricesjumpasiranstepsuptankerattackshurricanethreatensusg",
   "2b9b37f039566445",
-  "september2026monthlyanalysisofrussianfossilfuelexportsandsan"
+  "september2026monthlyanalysisofrussianfossilfuelexportsandsan",
+  "b1f6d57933b17cf8",
+  "oilpricesstayhighaswarkeepssupplytightinto2027",
+  "7c5b43f694e79f40",
+  "venezuelaexpectsnearly76billioninoilinvestmentoverfiveyearsa"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-18",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-10-18T01:55:12.682404+03:00",
+ "last_run": "2026-10-18T02:00:28.252752+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
@@ -1172,6 +1172,14 @@
   {
    "d": "2026-10-17",
    "t": "Iran says oil tanker catches fire after hitting mine in Strait of Hormuz - TRT Afrika"
+  },
+  {
+   "d": "2026-10-18",
+   "t": "Oil Prices Stay High as War Keeps Supply Tight Into 2027"
+  },
+  {
+   "d": "2026-10-18",
+   "t": "Venezuela expects nearly $76 billion in oil investment over five years, acting president says - Reuters"
   }
  ]
 }
