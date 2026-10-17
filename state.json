@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "15fb909adc0063c5",
-  "arkansasgaspricesdrop6centsasoilclimbs",
   "524bbcf545a78a21",
   "usweeklyeiacrudeoilinventories8557kvs288kexpected",
   "0f0425e023d93961",
@@ -603,7 +601,9 @@
   "4f4e8421d7e3141e",
   "usclaimsiranunabletofundproxymilitiaafterlosing25billioninoi",
   "8dd1d4a20a509d2f",
-  "whyoilpricescouldbepoisedforasuperspikeanalyst"
+  "whyoilpricescouldbepoisedforasuperspikeanalyst",
+  "8f1d6fdb73383613",
+  "oilpricessurgehigherintotheweekend"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -615,7 +615,7 @@
   "date": "2026-10-17",
   "count": 27
  },
- "last_run": "2026-10-17T15:15:17.452953+03:00",
+ "last_run": "2026-10-17T15:20:18.913267+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
