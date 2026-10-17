@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "71e21b6242097552",
-  "oilpricesriseafterieawarnsonmarketconstraintssaudiofficialss",
-  "0f85064ff4d083b7",
-  "ieaagreestoreleaseoutstanding100millionbarrelsofoil",
   "a9591fd9670a6dfa",
   "oilfuturescrudesteadiesasusweighseasingtankersanctions",
   "5b2678eed88fad1b",
@@ -603,7 +599,11 @@
   "f6af7bdc74ce113d",
   "chineseoilfirmsinnigerracetoreturn52billioninoutstandingcrud",
   "7cf47998bfa9a152",
-  "trumpwaivesrussiaoilsanctionstariffsaheadofenforcement"
+  "trumpwaivesrussiaoilsanctionstariffsaheadofenforcement",
+  "9c9b3355ee2abfae",
+  "oilat110perbarrelitshighestsincemaythearkansasdemocrat",
+  "ccd07c08cd99578f",
+  "oilpricesmayeaseto80perbarrelin2027asmiddleeastsupplyrecover"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -615,7 +615,7 @@
   "date": "2026-10-17",
   "count": 23
  },
- "last_run": "2026-10-17T11:40:17.249465+03:00",
+ "last_run": "2026-10-17T11:45:18.186076+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
