@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "a2dfc488ad3770d8",
-  "crudeoilinventoriesshowsignificantdeclinesurpassingexpectati",
   "f444702c125b1d6d",
   "eiasaysuscrudeinventoriesdownnearly9millionbarrels",
   "5b7a9b31a10c326e",
@@ -603,7 +601,9 @@
   "3e3338fc1b82cc69",
   "iransaysoiltankerhitnavalmineinstraitofhormuz",
   "513c2f906530688b",
-  "oilpricesreboundamidpersistentmiddleeastsupplyrisks"
+  "oilpricesreboundamidpersistentmiddleeastsupplyrisks",
+  "8138170922111d5b",
+  "crudeoilinventoriesfall8557millionbarrelsfaraboveforecastsne"
  ],
  "releases_done": {},
  "last_digest": "2026-10-16",
@@ -615,7 +615,7 @@
   "date": "2026-10-17",
   "count": 13
  },
- "last_run": "2026-10-17T07:35:14.123199+03:00",
+ "last_run": "2026-10-17T07:40:17.635498+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
