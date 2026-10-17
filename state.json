@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "829c8f27ad77f7c0",
-  "ieamemberstoacceleratereleaseof100mbarrelsasoilmarketsremain",
   "a1b2e54d77e1afe7",
   "oilpricessettledown25onsignsmiddleeastexportsrecovering",
   "2b4a65a817860ce5",
@@ -603,7 +601,9 @@
   "3267d9b974bb83d8",
   "trumpsforeignpolicytakesatolloncanadianoilprices",
   "3c1b6dd39500bbb7",
-  "usisraelfacethreatsofwarifoilpriceskeeprising"
+  "usisraelfacethreatsofwarifoilpriceskeeprising",
+  "149e2aa989545410",
+  "zelenskiycriticizestrumpswaiverofsanctionsonrussiaaswrong"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-17",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-10-17T22:50:17.386764+03:00",
+ "last_run": "2026-10-17T22:55:14.190476+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
@@ -1476,6 +1476,10 @@
   {
    "d": "2026-10-17",
    "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
+  },
+  {
+   "d": "2026-10-17",
+   "t": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters"
   }
  ]
 }
