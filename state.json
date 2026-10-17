@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "99def7de2380f12c",
-  "useiacrudeoilstockschangeoct098557mvsexp03mprev3186m",
   "340db39a9aa3b8da",
   "useiacrudeoilinventories86mlnbarrelsinlatestweekfromprevious",
   "2b94b490d5ddb022",
@@ -603,7 +601,9 @@
   "5b7a9b31a10c326e",
   "ieatospeedupoilstocksreleaseincludingover20millionbarrelsofd",
   "e97b8088603a919f",
-  "photosnatronacountyhighschoolmustangsbringhomeoilbowltrophyi"
+  "photosnatronacountyhighschoolmustangsbringhomeoilbowltrophyi",
+  "034426f740eebfb4",
+  "gaspricesnotbudgingmuchascrudeoilremainshigh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -615,7 +615,7 @@
   "date": "2026-10-17",
   "count": 20
  },
- "last_run": "2026-10-17T08:45:16.736289+03:00",
+ "last_run": "2026-10-17T08:50:17.855406+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
