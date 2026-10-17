@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "8e4f0d9cbc5953bd",
-  "blmannouncesdecembersaleofoilandgasleasesinarizona",
   "71e21b6242097552",
   "oilpricesriseafterieawarnsonmarketconstraintssaudiofficialss",
   "0f85064ff4d083b7",
@@ -603,7 +601,9 @@
   "23b1eb777ada9b81",
   "aramcojvrefineryinchinareceivesfirstcrudeshipment",
   "f6af7bdc74ce113d",
-  "chineseoilfirmsinnigerracetoreturn52billioninoutstandingcrud"
+  "chineseoilfirmsinnigerracetoreturn52billioninoutstandingcrud",
+  "7cf47998bfa9a152",
+  "trumpwaivesrussiaoilsanctionstariffsaheadofenforcement"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-17",
-  "count": 22
+  "count": 23
  },
- "last_run": "2026-10-17T11:20:18.019601+03:00",
+ "last_run": "2026-10-17T11:25:13.678646+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
