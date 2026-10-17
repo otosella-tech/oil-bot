@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "6cf785f6c291fd56",
-  "ustotalweeklyeiacrudeoilstocksfallby86millionbarrelsafterpri",
   "38ec5aa77c189f68",
   "ustotalcrudeoilstocksdeclineinweekendedoct9",
   "f86df72b6270d46c",
@@ -603,7 +601,9 @@
   "ce69d019ea193210",
   "trumpwaivesrussiaenergytariffssanctionsaweekafterdieseldeala",
   "09d1808bd4b49f4a",
-  "oilpricesup161026"
+  "oilpricesup161026",
+  "50c035b78f595a8a",
+  "saudiarabiabecomestheoilmarketsbiggestwildcard"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-17",
-  "count": 21
+  "count": 22
  },
- "last_run": "2026-10-17T10:00:27.287537+03:00",
+ "last_run": "2026-10-17T10:05:16.004369+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
