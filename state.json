@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "e023ff4f430f4dd6",
-  "blmannouncesdecember2026saleofoilandgasleasesinutah",
   "193429ecae0f5b4b",
   "importpricesrise176yearonyearasoilcostssurge",
   "52c7130664068762",
@@ -603,7 +601,9 @@
   "581f637ad35b7875",
   "aaatexasgaspricesfluctuateascrudeoilremainsnear100perbarrel",
   "c336001e2a897825",
-  "uscrudeoiljumpsonbiginventorydrawpotentialshadowfleetsanctio"
+  "uscrudeoiljumpsonbiginventorydrawpotentialshadowfleetsanctio",
+  "325e74fa4458e7df",
+  "currentpriceofoilasofoctober132026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -615,7 +615,7 @@
   "date": "2026-10-17",
   "count": 37
  },
- "last_run": "2026-10-17T19:15:17.222677+03:00",
+ "last_run": "2026-10-17T19:20:17.804927+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
