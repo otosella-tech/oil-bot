@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "38ec5aa77c189f68",
-  "ustotalcrudeoilstocksdeclineinweekendedoct9",
-  "f86df72b6270d46c",
-  "uscrudeoilstockpilespostlargeweeklydrop",
   "1f7c8d6c4a54a3bd",
   "venezuelasoilrecoverygainsmomentumasnewdrillingrigsarrive",
   "f6af7bdc74ce113d",
@@ -603,7 +599,11 @@
   "09d1808bd4b49f4a",
   "oilpricesup161026",
   "50c035b78f595a8a",
-  "saudiarabiabecomestheoilmarketsbiggestwildcard"
+  "saudiarabiabecomestheoilmarketsbiggestwildcard",
+  "e77c6054ee5aa159",
+  "trumppromisedcheapgashesturningtorussiatogetit",
+  "62b374693ed13ba2",
+  "oilpricesmayeasetousd80perbarrelin2027asmiddleeastsupplyreco"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -615,7 +615,7 @@
   "date": "2026-10-17",
   "count": 22
  },
- "last_run": "2026-10-17T10:55:13.602735+03:00",
+ "last_run": "2026-10-17T11:00:28.883659+03:00",
  "sent_stories": [
   {
    "d": "2026-10-14",
