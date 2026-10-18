@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "5c38d4386d1c46c5",
-  "ieaagreestoreleaseofoutstanding100mmoilbarrels",
-  "59d57be26e3c3eff",
-  "usrigcountholdsat603asoildrillingslipsandnaturalgasactivityr",
   "ebeb3ae6656eee47",
   "oilfuturescrudehigheronrisingmiddleeasttensions",
   "efbe59c0814b7c40",
@@ -603,7 +599,11 @@
   "5d97752dff164cef",
   "oilpricesfallwithwti3downasvancesignalspossibledeescalationi",
   "121fdad2bb45e2dc",
-  "oilpricesjump2onsaudiattacksasopecseesdemandrebound"
+  "oilpricesjump2onsaudiattacksasopecseesdemandrebound",
+  "db35a4af1c5f15b9",
+  "brentcrudehoversnear109abarrelasukraineresumesenergystrikest",
+  "509aaa9c26d3121a",
+  "exclusivestaroiltraderwhomadewrongwaybettoleavevitol"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 4
+  "count": 5
  },
- "last_run": "2026-10-19T01:20:17.518341+03:00",
+ "last_run": "2026-10-19T01:25:14.394617+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
