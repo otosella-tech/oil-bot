@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "9baeeb6482852dc0",
-  "oilfutureseasebutremainontrackforweeklygains",
   "d9469a04c4d09e3d",
   "usclaimsnewblowagainstiransshadowfleetwith17vesselsanctions",
   "fac39121e13a9cd8",
@@ -603,7 +601,9 @@
   "13ca412a3bb824e0",
   "paoilgasweeklycompliancesnapshotoctober10to16",
   "dad650579bbf8998",
-  "stpetersburgattackedbydronesatankisburningattheoilterminal"
+  "stpetersburgattackedbydronesatankisburningattheoilterminal",
+  "d11e6e04a4a2c969",
+  "venezuelaseesnearly76billionoilinvestmentoverfiveyears"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-18",
-  "count": 7
+  "count": 8
  },
- "last_run": "2026-10-18T04:30:21.534391+03:00",
+ "last_run": "2026-10-18T04:35:13.221185+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
