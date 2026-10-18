@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "87e27cdb2e16f724",
-  "germanysupperhouseapprovesthefurtherreleaseofoilstocksfollow",
-  "5ca5f27fa55524c8",
-  "oilpricessettledownasieaagreestoaccelerateoilstockrelease",
   "33a2621d67d0474a",
   "refineryoutagespumpingupfuelpricesmorethancostofcrudeoil",
   "a6e2a2db16fdeaae",
@@ -603,7 +599,11 @@
   "33d30d7db66d0ecf",
   "venezuelaforecastsus76billionoilinvestmentassectorreopens",
   "377b69d777fe9623",
-  "japanplansnewoilsecuritymeasurestobypasshormuzasmiddleeastcr"
+  "japanplansnewoilsecuritymeasurestobypasshormuzasmiddleeastcr",
+  "0eb58d6f26920db1",
+  "trkiyesignalspotentialnewoildiscoveryatgabarfield",
+  "8bacbab11c0b0424",
+  "financialstabilityriskasaidebtsinks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-18",
   "count": 28
  },
- "last_run": "2026-10-18T12:00:27.907944+03:00",
+ "last_run": "2026-10-18T12:05:14.116217+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
