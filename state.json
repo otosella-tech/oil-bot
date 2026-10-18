@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "33a2621d67d0474a",
-  "refineryoutagespumpingupfuelpricesmorethancostofcrudeoil",
   "a6e2a2db16fdeaae",
   "crudeoilcutslossesastraderseyeg7fuelrelease",
   "f7b78a74c1d21eef",
@@ -603,7 +601,9 @@
   "0eb58d6f26920db1",
   "trkiyesignalspotentialnewoildiscoveryatgabarfield",
   "8bacbab11c0b0424",
-  "financialstabilityriskasaidebtsinks"
+  "financialstabilityriskasaidebtsinks",
+  "5ca5f27fa55524c8",
+  "oilpricessettledownasieaagreestoaccelerateoilstockrelease"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-18",
   "count": 28
  },
- "last_run": "2026-10-18T12:10:17.304836+03:00",
+ "last_run": "2026-10-18T12:15:17.320685+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
