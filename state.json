@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "5be882456b28e26e",
-  "shipattackreportsnearhormuzreachrecordhighasoilexportsslow",
   "6599a1e8d9ecd72b",
   "risingapprovalsofoildrillingpermitsunderscoregovernornewsoms",
   "d80fc43a3c981594",
@@ -603,7 +601,9 @@
   "00034a9da4d9bbde",
   "willoilpricesdeclineasmiddleeastsupplyrecovers",
   "de25804c1f4d0871",
-  "zelenskysaystrumpriskshistoricmistakeifhebacksrussia"
+  "zelenskysaystrumpriskshistoricmistakeifhebacksrussia",
+  "2cbd9352ab346f39",
+  "oilpricesarestuckat105asgeopoliticalrisksmount"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-18",
   "count": 44
  },
- "last_run": "2026-10-18T21:50:18.485474+03:00",
+ "last_run": "2026-10-18T21:55:13.895776+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
