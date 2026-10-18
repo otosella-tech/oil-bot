@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "40c0a157388e2c1b",
-  "globalgascrunchmakeseuropesremainingcoalplantsprofitable",
   "8a7e7a836032c0ae",
   "onetexascityjustsawgasjump24centswhileeveryoneelsegotabreak",
   "9b1af86db2a00b14",
@@ -603,7 +601,9 @@
   "9b01fde1ff2eaa67",
   "venezuelaexpects76bninoilnaturalgasinvestmentsoverfiveyears",
   "c48e894afbb1a12c",
-  "currentpriceofoilasofoctober52026"
+  "currentpriceofoilasofoctober52026",
+  "08a46325aab2bfe9",
+  "dollaroutlookafterinflationshockhitstechandoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-18",
   "count": 41
  },
- "last_run": "2026-10-18T18:35:14.395247+03:00",
+ "last_run": "2026-10-18T18:40:18.516632+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
