@@ -4,12 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "145b1400e81831b3",
-  "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo",
-  "1be4b08533a613c3",
-  "imfsoundsalarmoveraisthreattogovernmenttaxbases",
-  "3cb707c5be1388df",
-  "delhitownshiproadreopensafteroiltankeroverturns",
   "00034a9da4d9bbde",
   "willoilpricesdeclineasmiddleeastsupplyrecovers",
   "8d5a9a3d3027b5bd",
@@ -603,7 +597,13 @@
   "22ddbc04cc7c4dd8",
   "currentpriceofoilasofoct12026",
   "92f4e2a8612cb184",
-  "currentpriceofoilasofseptember242026"
+  "currentpriceofoilasofseptember242026",
+  "90c60656ef038979",
+  "crudeoilforecastwhybrentcouldreach120asirgcshippingattackspe",
+  "72f9b921026503e1",
+  "crudeoilralliesonmiddleeastturmoilandplungingusinventories",
+  "5227a16a94a7d8ff",
+  "whybrentcrudecouldhit120amidiranwarwhatitmeansforindiaasanal"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-18",
   "count": 43
  },
- "last_run": "2026-10-18T20:45:16.447652+03:00",
+ "last_run": "2026-10-18T20:50:17.582829+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
