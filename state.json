@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "9305319f7b9c5eda",
-  "oilpricesjumpsharplytonearly110perbarrel",
   "d2c1f1b3d440c451",
   "uscrudeoiltops99asmarketmonitorsmiddleeastsupplyrisks",
   "738bcef189ed6e0e",
@@ -603,7 +601,9 @@
   "96815db2469f6ca8",
   "oildebtandthecomingresetincarvaluesandwhatitmeansforevs",
   "85698758cb757c1b",
-  "recordshippingcostsforceoilproducerstoslashprices"
+  "recordshippingcostsforceoilproducerstoslashprices",
+  "4b5846dfb7acee60",
+  "windfarmapprovedinvictoriaaustraliawouldbelargestinsouthernh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 11
  },
- "last_run": "2026-10-19T02:00:26.609668+03:00",
+ "last_run": "2026-10-19T02:05:14.901014+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
