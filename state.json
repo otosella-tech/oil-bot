@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "0a1027ec9b2b0114",
-  "oilfuturescrudehigheramidmiddleeastuncertainty",
   "121fdad2bb45e2dc",
   "oilpricesjump2onsaudiattacksasopecseesdemandrebound",
   "ba8db24b6173cf23",
@@ -603,7 +601,9 @@
   "3b7243fd1aad46bb",
   "tulsarescuetakesinmotherdogninepuppiesaftermotoroilexposure",
   "67e9a1ac6f9c47c0",
-  "trumpsayshesnegotiatingpeaceasukrainelaunches1000dronesatrus"
+  "trumpsayshesnegotiatingpeaceasukrainelaunches1000dronesatrus",
+  "4a817795a418985d",
+  "oilpricesurgemayincreasegascosts"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 2
  },
- "last_run": "2026-10-19T00:55:14.940283+03:00",
+ "last_run": "2026-10-19T01:00:28.728469+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
