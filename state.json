@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "00034a9da4d9bbde",
-  "willoilpricesdeclineasmiddleeastsupplyrecovers",
-  "8d5a9a3d3027b5bd",
-  "ieamovestoaccelerateoilreservereleasesashormuzcrisisdragson",
   "04ff7d6fc97936f4",
   "wticrudeoilfuturesriseongeopoliticaltensionsasdieselsupplies",
   "2cbd9352ab346f39",
@@ -603,7 +599,11 @@
   "72f9b921026503e1",
   "crudeoilralliesonmiddleeastturmoilandplungingusinventories",
   "5227a16a94a7d8ff",
-  "whybrentcrudecouldhit120amidiranwarwhatitmeansforindiaasanal"
+  "whybrentcrudecouldhit120amidiranwarwhatitmeansforindiaasanal",
+  "1be4b08533a613c3",
+  "imfsoundsalarmoveraisthreattogovernmenttaxbases",
+  "145b1400e81831b3",
+  "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-18",
   "count": 43
  },
- "last_run": "2026-10-18T20:50:17.582829+03:00",
+ "last_run": "2026-10-18T20:55:15.249487+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
