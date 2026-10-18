@@ -4,12 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "d681b24e5615f636",
-  "deadlyairstrikesexposegrowingbattleoversudansgold",
-  "3b4343ea256dc109",
-  "trumpsoilpricestrategyfacestwomajorteststhisweekend",
-  "85cf6ee01b7f787d",
-  "datacentersdrivesurgeinindiasrenewablepowerdemand",
   "ac64e261cd47576d",
   "forecastupdateforcrudeoil16102026",
   "f889608d03ff8870",
@@ -603,7 +597,13 @@
   "413e2c3abe2538eb",
   "iranscrudeoilproductionsurgespast37millionbpd",
   "40583da250086158",
-  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr"
+  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr",
+  "c72f19844a373c5e",
+  "carneyspipelinepushisunlikelytobringbackcanadasoiljobsboom",
+  "6dcd1c7af8e7a315",
+  "dieselpricesaddpressureonfarmersduringharvest",
+  "f732473f95b0c057",
+  "ukrainestrikesoilfacilityinstpetersburgaspartofmassivedronea"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-18",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-10-18T13:55:13.713577+03:00",
+ "last_run": "2026-10-18T14:00:28.939154+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
@@ -1208,6 +1208,14 @@
   {
    "d": "2026-10-18",
    "t": "Iran’s crude oil production surges past 3.7 million bpd - PressTV"
+  },
+  {
+   "d": "2026-10-18",
+   "t": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom - Reuters"
+  },
+  {
+   "d": "2026-10-18",
+   "t": "Ukraine strikes oil facility in St. Petersburg as part of ‘massive’ drone attack - POLITICO.eu"
   }
  ]
 }
