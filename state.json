@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "8150d61a3bcaae32",
-  "hormuzstraitclosuredrivesincreaseinamericanenergyexportsacco",
   "d577ea67a2b0c9c6",
   "shipfuelcrunchtopersistdespitemoreoilvitolsays",
   "40583da250086158",
@@ -603,7 +601,9 @@
   "33a2621d67d0474a",
   "refineryoutagespumpingupfuelpricesmorethancostofcrudeoil",
   "a6e2a2db16fdeaae",
-  "crudeoilcutslossesastraderseyeg7fuelrelease"
+  "crudeoilcutslossesastraderseyeg7fuelrelease",
+  "242a8c3d486800bd",
+  "inflationshakesfedoutlookcrudeoilsurgesandmorenvidianasdaqnv"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-18",
   "count": 29
  },
- "last_run": "2026-10-18T13:00:27.642671+03:00",
+ "last_run": "2026-10-18T13:05:13.425578+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
