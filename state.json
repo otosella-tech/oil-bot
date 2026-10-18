@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "22ddbc04cc7c4dd8",
-  "currentpriceofoilasofoct12026",
   "92f4e2a8612cb184",
   "currentpriceofoilasofseptember242026",
   "c5c13bd50ed46e55",
@@ -603,7 +601,9 @@
   "317ff405d63a5b04",
   "goldandsilverheadforvolatileweekamidcrudeoilspikewestasiawor",
   "e7caa9ef35941bc5",
-  "oilliftssaudibourseegypttumblesonregionaltensions"
+  "oilliftssaudibourseegypttumblesonregionaltensions",
+  "01a11499de8d6e8c",
+  "venezuelaprojects76billioninoilinvestmentoverfiveyears"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-18",
   "count": 41
  },
- "last_run": "2026-10-18T17:20:16.982771+03:00",
+ "last_run": "2026-10-18T17:25:14.236161+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
