@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "bdfc0a70556a1431",
-  "zacksindustryoutlookhighlightsnovoilstatesinternationalandna",
   "c2f61b1ca0b31876",
   "currentpriceofoilasofoctober122026",
   "fd08880e8493bca8",
@@ -603,7 +601,9 @@
   "0c5501aacabd0e47",
   "crudeoilpricesbraceforvolatileweekassupplydisruptionsremaina",
   "041b6a92b2709ee9",
-  "oilpricesfallasieamembersagreetoprioritizereleaseofdieselsto"
+  "oilpricesfallasieamembersagreetoprioritizereleaseofdieselsto",
+  "432334b028cd1475",
+  "yoursundayoct18guidefourthingstodointheoilcity"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-18",
   "count": 39
  },
- "last_run": "2026-10-18T16:00:26.522873+03:00",
+ "last_run": "2026-10-18T16:05:13.705242+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
