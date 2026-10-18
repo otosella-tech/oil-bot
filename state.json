@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "d2c1f1b3d440c451",
-  "uscrudeoiltops99asmarketmonitorsmiddleeastsupplyrisks",
   "738bcef189ed6e0e",
   "internationalseawaysaddstovlccfleetwith370millionbrutondeal",
   "efd0db4ad5979466",
@@ -603,7 +601,9 @@
   "85698758cb757c1b",
   "recordshippingcostsforceoilproducerstoslashprices",
   "4b5846dfb7acee60",
-  "windfarmapprovedinvictoriaaustraliawouldbelargestinsouthernh"
+  "windfarmapprovedinvictoriaaustraliawouldbelargestinsouthernh",
+  "6719a7de94bb1eba",
+  "ukrainiandronestrikehitsputinshometownstrikingoilterminal"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 11
+  "count": 12
  },
- "last_run": "2026-10-19T02:25:13.698800+03:00",
+ "last_run": "2026-10-19T02:30:22.228547+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
