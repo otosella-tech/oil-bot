@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "ebeb3ae6656eee47",
-  "oilfuturescrudehigheronrisingmiddleeasttensions",
   "efbe59c0814b7c40",
   "oilfuturescrudeextendsgainsonrisingmiddleeasttensions",
   "5fd0ab269712abe2",
@@ -603,7 +601,9 @@
   "db35a4af1c5f15b9",
   "brentcrudehoversnear109abarrelasukraineresumesenergystrikest",
   "509aaa9c26d3121a",
-  "exclusivestaroiltraderwhomadewrongwaybettoleavevitol"
+  "exclusivestaroiltraderwhomadewrongwaybettoleavevitol",
+  "2af40a75a4da0e3f",
+  "crudeoilpricesfallwithwti3downasvancesignalspossibledeescala"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-10-19T01:25:14.394617+03:00",
+ "last_run": "2026-10-19T01:30:23.990037+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -928,6 +928,10 @@
   {
    "d": "2026-10-18",
    "t": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites - Al Jazeera"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Crude Oil Prices Fall with WTI $3 Down as Vance Signals Possible De-escalation in Iran War - FXLeaders"
   }
  ]
 }
