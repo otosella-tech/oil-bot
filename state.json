@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "8858f42cb62119cd",
-  "crudeoilholds8889asafifthwaverallytakesshape",
   "56b25335c1695536",
   "uscrudeoilinventoriesseemassivedropoff",
   "189edc8ed5d319b7",
@@ -603,7 +601,9 @@
   "aa9807ebf7358a98",
   "iransaystwotankerscatchfireafterhittingminesinstraitofhormuz",
   "804337387cbd4fa6",
-  "venezuelaexpects76billionoilinvestmentboostamiduscooperation"
+  "venezuelaexpects76billionoilinvestmentboostamiduscooperation",
+  "c13fb02f1374c38d",
+  "whattrumpswaiverofnewrussiasanctionsmeansforukraine"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-18",
-  "count": 13
+  "count": 15
  },
- "last_run": "2026-10-18T05:35:15.046018+03:00",
+ "last_run": "2026-10-18T05:40:18.113871+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
@@ -1188,6 +1188,10 @@
   {
    "d": "2026-10-18",
    "t": "Venezuela expects $76 billion oil investment boost amid U.S. cooperation - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-18",
+   "t": "What Trump’s Waiver of New Russia Sanctions Means for Ukraine - Time Magazine"
   }
  ]
 }
