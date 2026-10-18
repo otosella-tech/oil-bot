@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "39a08165e37ca074",
-  "usacrudeoilstocksdropalmost9mmbarrelswow",
   "40c0a157388e2c1b",
   "globalgascrunchmakeseuropesremainingcoalplantsprofitable",
   "8a7e7a836032c0ae",
@@ -603,7 +601,9 @@
   "8785499b8bd4c796",
   "insenateracepaxtonandtalaricoeachpromiserelieffromrisingener",
   "9b01fde1ff2eaa67",
-  "venezuelaexpects76bninoilnaturalgasinvestmentsoverfiveyears"
+  "venezuelaexpects76bninoilnaturalgasinvestmentsoverfiveyears",
+  "c48e894afbb1a12c",
+  "currentpriceofoilasofoctober52026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-18",
   "count": 41
  },
- "last_run": "2026-10-18T18:20:17.439492+03:00",
+ "last_run": "2026-10-18T18:25:13.029802+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
