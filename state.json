@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "900db383a4bea103",
-  "governmentfreezesmaximumoilpricesforanotherfourweeksamidhigh",
-  "b15918dba9541939",
-  "oilheadsforweeklygainwithfocusonmiddleeastsupply",
   "87e27cdb2e16f724",
   "germanysupperhouseapprovesthefurtherreleaseofoilstocksfollow",
   "5ca5f27fa55524c8",
@@ -603,7 +599,11 @@
   "4fe4c54ec88e3f77",
   "americasoldestbadideaaboutoil",
   "5227a60f61036e0b",
-  "oilmarkettightensastankerattacksandinventorydrawsmount"
+  "oilmarkettightensastankerattacksandinventorydrawsmount",
+  "33d30d7db66d0ecf",
+  "venezuelaforecastsus76billionoilinvestmentassectorreopens",
+  "377b69d777fe9623",
+  "japanplansnewoilsecuritymeasurestobypasshormuzasmiddleeastcr"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-18",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-10-18T11:40:16.810642+03:00",
+ "last_run": "2026-10-18T11:45:18.222608+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
@@ -1200,6 +1200,10 @@
   {
    "d": "2026-10-18",
    "t": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters"
+  },
+  {
+   "d": "2026-10-18",
+   "t": "Japan Plans New Oil Security Measures to Bypass Hormuz as Middle East Crisis Exposes Energy Supply Risks - The Japan News"
   }
  ]
 }
