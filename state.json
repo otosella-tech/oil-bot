@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "d9469a04c4d09e3d",
-  "usclaimsnewblowagainstiransshadowfleetwith17vesselsanctions",
-  "fac39121e13a9cd8",
-  "indiaslashesdieselexporttaxasglobalfuelcrunchdeepens",
   "b586ce871fac114c",
   "eiareportshugedrawinuscrudeoilstocks",
   "e534728c0d1da635",
@@ -603,7 +599,11 @@
   "dad650579bbf8998",
   "stpetersburgattackedbydronesatankisburningattheoilterminal",
   "d11e6e04a4a2c969",
-  "venezuelaseesnearly76billionoilinvestmentoverfiveyears"
+  "venezuelaseesnearly76billionoilinvestmentoverfiveyears",
+  "e6adaf83b55c68d6",
+  "anattackontwooiltankersoffthecoastofsaudiarabiahasreignitedt",
+  "1c70ad0171348dba",
+  "wtipriceforecastcrudeoiltargets100asbullishmomentumbuilds"
  ],
  "releases_done": {},
  "last_digest": "2026-10-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-18",
-  "count": 8
+  "count": 10
  },
- "last_run": "2026-10-18T04:35:13.221185+03:00",
+ "last_run": "2026-10-18T04:40:16.736164+03:00",
  "sent_stories": [
   {
    "d": "2026-10-15",
@@ -1180,6 +1180,10 @@
   {
    "d": "2026-10-18",
    "t": "Venezuela expects nearly $76 billion in oil investment over five years, acting president says - Reuters"
+  },
+  {
+   "d": "2026-10-18",
+   "t": "An attack on two oil tankers off the coast of Saudi Arabia has reignited tensions in the Gulf, while the price of crude oil continues to rise - voz.us"
   }
  ]
 }
