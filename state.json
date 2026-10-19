@@ -4,10 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "62b374693ed13ba2",
-  "oilpricesmayeasetousd80perbarrelin2027asmiddleeastsupplyreco",
-  "f86df72b6270d46c",
-  "uscrudeoilstockpilespostlargeweeklydrop",
   "c2292bda30fa23e1",
   "azerbaijanicrudeoilpricedat116perbarrel",
   "23b1eb777ada9b81",
@@ -603,7 +599,11 @@
   "a3ea09b739c0ad36",
   "commentaryasianrefinerspainismiddleeastoilproducersproblem",
   "6e1738e11650a6bc",
-  "bitcoinreboundsabove82000asoilsretreatliftsriskmood"
+  "bitcoinreboundsabove82000asoilsretreatliftsriskmood",
+  "e12f75302ecdc95c",
+  "crudeoilmarketanalysisbrentabove110futuresbackwardationdeepe",
+  "4f33fe1918ce3832",
+  "morningcoffeeexceptionalexgoldmansachstraderhasbigfriendsand"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 57
  },
- "last_run": "2026-10-19T11:55:15.528628+03:00",
+ "last_run": "2026-10-19T12:00:29.836160+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
