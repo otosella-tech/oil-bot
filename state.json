@@ -4,8 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "bb5fce97b0793436",
-  "chevroncvxfacesavaluationtestfollowingtheoilspike",
   "85260a9cef490bba",
   "moscowsaysfirsttankercarryingrussianoiltoworldmarketshasdepa",
   "e7f812b86605b7a9",
@@ -603,7 +601,9 @@
   "149e2aa989545410",
   "zelenskiycriticizestrumpswaiverofsanctionsonrussiaaswrong",
   "3025f75ff248f661",
-  "itsslickthelandmancasttoldmewhattheoiltheygetcoveredinactual"
+  "itsslickthelandmancasttoldmewhattheoiltheygetcoveredinactual",
+  "e56d16f5000fc0a3",
+  "peoplescourstraitofhormuzforspiltcargoafteriranattackscontai"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T19:20:18.786924+03:00",
+ "last_run": "2026-10-19T19:25:15.034654+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1104,6 +1104,10 @@
   {
    "d": "2026-10-19",
    "t": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships - The Guardian"
   }
  ]
 }
