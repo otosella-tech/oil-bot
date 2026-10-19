@@ -4,12 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "57c821dba89de4d0",
-  "oilmarketdefiestrumpasbrentcrudenears110abarrel",
-  "ce69d019ea193210",
-  "trumpwaivesrussiaenergytariffssanctionsaweekafterdieseldeala",
-  "09d1808bd4b49f4a",
-  "oilpricesup161026",
   "50c035b78f595a8a",
   "saudiarabiabecomestheoilmarketsbiggestwildcard",
   "e77c6054ee5aa159",
@@ -603,7 +597,13 @@
   "1a4a9baddf4ece67",
   "russiancrudeoiltankerresumesvoyagepolicesay",
   "a6dec1c563fa83e7",
-  "recordtankerfreightratesforcecrudeproducerstoslashexportpric"
+  "recordtankerfreightratesforcecrudeproducerstoslashexportpric",
+  "a92deb8159b62367",
+  "indiascrudeoilimportbillsoars46asmiddleeastcrisisdrivesuppri",
+  "c20bcf4a1682c112",
+  "gaspricesnotbudgingmuchascrudeoilremainshigh",
+  "ad4b9a3f2b81e3bc",
+  "wtioileasesbelow97amidhopesofhighersuppliesfromrussia"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 56
+  "count": 57
  },
- "last_run": "2026-10-19T11:35:15.114335+03:00",
+ "last_run": "2026-10-19T11:40:20.149170+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
