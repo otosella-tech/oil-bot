@@ -4,10 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "9c91446819d74c1d",
-  "commentarytheoilmarketscenterofgravityismovingeast",
-  "5b87774830fcf384",
-  "boliviasenergycrisisdeepensasnaturalgasreservesrundry",
   "84484df9b7d80d28",
   "gaspricesnotbudgingascrudeoilremainshigh",
   "24f5e861bf56399e",
@@ -603,7 +599,11 @@
   "4f3159dab43f5513",
   "supertankerwith2millionbarrelsofoilexplodesafterhittingnaval",
   "f72791778b12b5ed",
-  "oilpricesdipastrumpwaivesrussiasanctions"
+  "oilpricesdipastrumpwaivesrussiasanctions",
+  "d54af18809b021d3",
+  "chinassolarexportskeepfallingasbeijingmullsexportcontrols",
+  "e63767cd42696f88",
+  "brentcrudefalls1astrumpwaivessomerussiasanctionsandtariffs"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T15:25:15.080042+03:00",
+ "last_run": "2026-10-19T15:30:23.334888+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1056,6 +1056,10 @@
   {
    "d": "2026-10-19",
    "t": "Oil prices dip as Trump waives Russia sanctions - Investing.com"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Brent crude falls 1% as Trump waives some Russia sanctions and tariffs - Quartz"
   }
  ]
 }
