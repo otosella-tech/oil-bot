@@ -4,10 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "581f637ad35b7875",
-  "aaatexasgaspricesfluctuateascrudeoilremainsnear100perbarrel",
-  "c336001e2a897825",
-  "uscrudeoiljumpsonbiginventorydrawpotentialshadowfleetsanctio",
   "325e74fa4458e7df",
   "currentpriceofoilasofoctober132026",
   "100a24083df14d0f",
@@ -603,7 +599,11 @@
   "109345ef64961dfc",
   "currentpriceofoilasoftk",
   "4e417d975ebb0e48",
-  "buy5giantoilexplorerstotapthenorthwardjourneyofcrudeprices"
+  "buy5giantoilexplorerstotapthenorthwardjourneyofcrudeprices",
+  "ba39d16d0e143d11",
+  "yourmondayoct19guidefivethingstodointheoilcity",
+  "2ec70c73167ba3cc",
+  "trumpeasesrussiaoilsanctionsbutiseuropestillbuyingmoscowsgas"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T16:05:16.546096+03:00",
+ "last_run": "2026-10-19T16:10:20.884105+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1060,6 +1060,10 @@
   {
    "d": "2026-10-19",
    "t": "Brent crude falls 1% as Trump waives some Russia sanctions and tariffs - Quartz"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas? - Al Jazeera"
   }
  ]
 }
