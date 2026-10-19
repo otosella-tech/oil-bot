@@ -4,10 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "67613e4d011ed078",
-  "iransaysoiltankercatchesfireafterhittingmineinstraitofhormuz",
-  "e5e2258ce6685ec9",
-  "middleeastchemicalskeeptheircostedgedespitehormuzcrisis",
   "d19b649ff928c180",
   "whatanexpertwantsyoutoknowaboutpalmoil",
   "bb5fce97b0793436",
@@ -603,7 +599,11 @@
   "dcc0a1fb88995d0b",
   "crudepullbacktestsusproducereconomics",
   "b3824fb6bdbd4ed9",
-  "graniteshareslaunches4xleveragedcommodityetpsasoilscrapesthe"
+  "graniteshareslaunches4xleveragedcommodityetpsasoilscrapesthe",
+  "6bc4d43dd185eb93",
+  "crudeoilslipsfromaonemonthhighontrumpsrussiawaiver",
+  "149e2aa989545410",
+  "zelenskiycriticizestrumpswaiverofsanctionsonrussiaaswrong"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T19:10:17.077426+03:00",
+ "last_run": "2026-10-19T19:15:19.667115+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1100,6 +1100,10 @@
   {
    "d": "2026-10-19",
    "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters"
   }
  ]
 }
