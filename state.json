@@ -4,10 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "7b0050c8f8d4a312",
-  "mainefamiliesfeelpressureasheatingoilcostscontinuetorise",
-  "e33fe33e9f9d7d9f",
-  "oilhitsfivemonthhighof110onnewescalationinmiddleeast",
   "886d06db784e6204",
   "southkoreasimportpricesriseasoilcostssurge28",
   "0d654e63783b06e0",
@@ -603,7 +599,11 @@
   "c720d271b048cc58",
   "centcomcommandersaysnavalblockadecostiran25binoilrevenue",
   "3cedea28675d81b2",
-  "europesvoiceinthemiddleeast"
+  "europesvoiceinthemiddleeast",
+  "dcf4c89278acb328",
+  "brentcrudeoilpriceforecasttrumpeasessanctionsonrussiaoilpric",
+  "f1beafdda903de03",
+  "chinaoilrefinerythroughputrisesinseptemberonfuelexports"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-10-19T09:40:18.220452+03:00",
+ "last_run": "2026-10-19T09:45:19.626948+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1004,6 +1004,10 @@
   {
    "d": "2026-10-19",
    "t": "Trump accuses Zelenskyy of not wanting to end the war, defends Russian sanctions waiver - CBS News"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "China oil refinery throughput rises in September on fuel exports - Investing.com"
   }
  ]
 }
