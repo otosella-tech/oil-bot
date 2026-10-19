@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "f6e57e5c6bfe1024",
-  "whyoilpricesarestillhighdespitemiddleeastsupplyrecovery",
   "0bba289378c7f140",
   "canadarigcountdown5units",
   "9050f356afe35eb5",
@@ -603,7 +601,9 @@
   "4b9b2d8573098e5c",
   "globaloilpricesplungeintradaywtifallsbelow99asmiddleeastandr",
   "10274b58db92aee3",
-  "oilpriceseaseastrumpwaivesrussiasanctionsmiddleeastriskspers"
+  "oilpriceseaseastrumpwaivesrussiasanctionsmiddleeastriskspers",
+  "465168b7683b310c",
+  "oiltumblesastrumpsrussiasanctionswaivermayleadtomorefuelsupp"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-10-19T05:45:17.364494+03:00",
+ "last_run": "2026-10-19T05:50:17.132321+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -992,6 +992,10 @@
   {
    "d": "2026-10-19",
    "t": "Oil prices ease as Trump waives Russia sanctions, Middle East risks persist - The Times of India"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies - Central Oregon Daily"
   }
  ]
 }
