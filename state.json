@@ -4,8 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "e97b8088603a919f",
-  "photosnatronacountyhighschoolmustangsbringhomeoilbowltrophyi",
   "034426f740eebfb4",
   "gaspricesnotbudgingmuchascrudeoilremainshigh",
   "57c821dba89de4d0",
@@ -603,7 +601,9 @@
   "65e1d189d92c0494",
   "oilpricesfallastradersweighrussiasanctionswaivermiddleeastri",
   "15921d49e310ef76",
-  "couldtheoilshockbringbackinflationebcdirectorontradingpeacev"
+  "couldtheoilshockbringbackinflationebcdirectorontradingpeacev",
+  "1a4a9baddf4ece67",
+  "russiancrudeoiltankerresumesvoyagepolicesay"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 55
+  "count": 56
  },
- "last_run": "2026-10-19T11:25:14.861678+03:00",
+ "last_run": "2026-10-19T11:30:22.777423+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
