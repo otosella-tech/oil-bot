@@ -4,10 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "4fe4c54ec88e3f77",
-  "americasoldestbadideaaboutoil",
-  "5227a60f61036e0b",
-  "oilmarkettightensastankerattacksandinventorydrawsmount",
   "33d30d7db66d0ecf",
   "venezuelaforecastsus76billionoilinvestmentassectorreopens",
   "377b69d777fe9623",
@@ -603,7 +599,11 @@
   "8c4ce397e6833687",
   "oilfuturesbrentsteadiesasrussianwaiveroffsetsmideasttensions",
   "ca16af38abaf649d",
-  "fillingthestrategicpetroleumreserve"
+  "fillingthestrategicpetroleumreserve",
+  "259f1d23e1bc0261",
+  "crudeoilwtistallsbelow10190resistancelivelevels",
+  "a3fc2a0fcd0601bb",
+  "pricesatthepumpstayflatamidhighcrudeoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T22:25:18.723289+03:00",
+ "last_run": "2026-10-19T22:30:24.330514+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
