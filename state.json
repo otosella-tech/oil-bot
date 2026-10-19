@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "8e8c14ddacede83b",
-  "northdakotaofficialsarejumpstartingnextphaseofefforttoboostb",
   "b7d1570eec9225c2",
   "currentpriceofoilasofoctober92026",
   "2063b491c7eb7b6c",
@@ -603,7 +601,9 @@
   "7d4c102d52e7e096",
   "globalenergyimportdependencesettopeakby2034rystadsays",
   "ce6f2be6cd35efba",
-  "asianstocksslipwallstandbondsbenefitfromoildip"
+  "asianstocksslipwallstandbondsbenefitfromoildip",
+  "7ee0333cb9b0da77",
+  "oilpricesslipastrump"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 46
  },
- "last_run": "2026-10-19T08:20:16.801921+03:00",
+ "last_run": "2026-10-19T08:25:14.438307+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
