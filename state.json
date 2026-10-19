@@ -4,12 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "b3b81c8248b0f8ea",
-  "usplanstoreleaseupto17mlnbarrelsofoilfromstrategicreserve",
-  "33a1b85bef627ac4",
-  "libertyenergytheoilfieldupcyclehasbeenforgotten",
-  "9a6a2651be615b91",
-  "oilpricesarebackabove100historysaysthebiggeststockmarketlose",
   "4fcf2b097138bd26",
   "bofrenchjonrosenthalbattleoverculturejobdutiesinbidtoregulat",
   "21b1e1b3729ee1cb",
@@ -603,7 +597,13 @@
   "e62f01cb55a98bed",
   "currentpriceofoilasofoctober142026",
   "29d363ca775235ef",
-  "howtheusiranwarupendedtwocriticalglobaltraderoutes"
+  "howtheusiranwarupendedtwocriticalglobaltraderoutes",
+  "aaee91f78ef1bde0",
+  "oilpricesfallmorethan2astrumpsuspendsrussiansanctionsandmark",
+  "d9ae952ba2291d14",
+  "usstockfuturesriseaheadoftechnologyearningsasoilpricesdeclin",
+  "d59ecb7ea958d8f6",
+  "crudeoilfuturesfallonweakglobalcues"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T12:55:15.111127+03:00",
+ "last_run": "2026-10-19T13:00:28.227540+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1024,6 +1024,10 @@
   {
    "d": "2026-10-19",
    "t": "How the US-Iran war upended two critical global trade routes - CNN"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Oil Prices Fall More Than 2% as Trump Suspends Russian Sanctions and Markets Assess Supply Outlook - Yahoo Finance"
   }
  ]
 }
