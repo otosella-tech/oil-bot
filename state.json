@@ -4,12 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "1c70ad0171348dba",
-  "wtipriceforecastcrudeoiltargets100asbullishmomentumbuilds",
-  "aa9807ebf7358a98",
-  "iransaystwotankerscatchfireafterhittingminesinstraitofhormuz",
-  "804337387cbd4fa6",
-  "venezuelaexpects76billionoilinvestmentboostamiduscooperation",
   "c13fb02f1374c38d",
   "whattrumpswaiverofnewrussiasanctionsmeansforukraine",
   "cbb60f3280db5314",
@@ -603,7 +597,13 @@
   "f772f10b70a0bc11",
   "oilpricesstayhighaswarkeepssupplytightinto2027",
   "8ddd03b55c17f251",
-  "oilpricesjumpasiranstepsuptankerattackshurricanethreatensusg"
+  "oilpricesjumpasiranstepsuptankerattackshurricanethreatensusg",
+  "ca2f05050ce08706",
+  "crudeoilturnshigheronunconfirmedreportsofusstrikesoniran",
+  "2bd5ff5e33714287",
+  "howoilpricesaffecttiresandtireshopcosts",
+  "de8c3699e0f7e0a4",
+  "oilpricesslipaftertrumpwaivessanctionsagainstrussiancrude"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T20:35:17.337860+03:00",
+ "last_run": "2026-10-19T20:40:18.900709+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1132,6 +1132,14 @@
   {
    "d": "2026-10-19",
    "t": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production - CNBC"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Crude Oil turns higher on unconfirmed reports of US strikes on Iran - FXStreet"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Oil prices slip after Trump waives sanctions against Russian crude - TradingView"
   }
  ]
 }
