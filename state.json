@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "a039638ffecdd951",
-  "brentoiltaps110forfirsttimesincemayasrisksswirl",
   "b3148298c7a5ecb0",
   "warsandtheoilblockadesmaybewaitingforxispartycongress",
   "2a31b7bf5f402108",
@@ -603,7 +601,9 @@
   "a568fd57f5a9440e",
   "currentpriceofoilasofoct152026",
   "4da5489f013da401",
-  "brentcruderetreatsfromfivemonthhighbutholdsnear108barrelasat"
+  "brentcruderetreatsfromfivemonthhighbutholdsnear108barrelasat",
+  "31656998616a1819",
+  "oiltouches110abarrelforfirsttimesincemayonmiddleeastrussiasu"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-10-19T04:38:14.892783+03:00",
+ "last_run": "2026-10-19T04:40:17.962216+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -976,6 +976,10 @@
   {
    "d": "2026-10-19",
    "t": "Trump waives major Russia sanctions, tariffs - China Daily Global Edition"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears - Reuters"
   }
  ]
 }
