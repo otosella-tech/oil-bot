@@ -4,8 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "c624a117f9be1bb1",
-  "pakistanturnstoafricassecondlargestcrudeoilproducerlibyaasmi",
   "dda262ce0e746e7e",
   "gulfoilisstillflowingdespiteasurgeinattacksonships",
   "763b106acff999a8",
@@ -603,7 +601,9 @@
   "74f472e675770492",
   "howanindependentalbertacouldimpactcanadianenergy",
   "977c6ced20f7f723",
-  "natronacountygaspricesholdasstatenationalaveragesdrop"
+  "natronacountygaspricesholdasstatenationalaveragesdrop",
+  "c9df86331c5be9f4",
+  "crudeoilpriceanalysisoilpriceseyehigherlevelsasuscrudeinvent"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T18:20:18.909663+03:00",
+ "last_run": "2026-10-19T18:25:18.737001+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
