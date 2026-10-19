@@ -4,8 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "ca60bf753a4863e5",
-  "howtheuscangetoilpricesdown",
   "29d363ca775235ef",
   "howtheusiranwarupendedtwocriticalglobaltraderoutes",
   "b2801ffaa672b56f",
@@ -603,7 +601,9 @@
   "2f13d27ea9bbd74c",
   "cop31hostsaustraliaandtrkiyesettorapidlyexpandfossilfuelprod",
   "d605dc568b8a4858",
-  "chinascoalproductionslumps68aswintersupplyfearsgrow"
+  "chinascoalproductionslumps68aswintersupplyfearsgrow",
+  "126d97496ed942c4",
+  "trumpaccuseszelenskyyofnotwantingtoendthewarsparkedbyrussias"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T12:30:21.579085+03:00",
+ "last_run": "2026-10-19T12:35:15.237892+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1016,6 +1016,10 @@
   {
    "d": "2026-10-19",
    "t": "Two Oil Tankers Hit Mines While Crossing Strait of Hormuz - Marine Link"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Trump accuses Zelenskyy of not wanting to end the war sparked by Russia's full-scale invasion - CBS News"
   }
  ]
 }
