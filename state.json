@@ -4,10 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "7f865c9edd7eade5",
-  "europebracesforawinterenergycrisisasgasreservesrunlow",
-  "6a3c8cdfb1e1fcbb",
-  "iransguardssaytwotankershitminesinstraitofhormuz",
   "3437dd221801eb9d",
   "afurnaceserviceleftabout100gallonsofoilinaconnecticutbasemen",
   "c81a15f7c94561e2",
@@ -603,7 +599,11 @@
   "0f047a4d644cef54",
   "currentpriceofoilasofoct192026",
   "4614e574d6b31f2d",
-  "qatarilngcargoheadsthroughredseatoeuropeinraresuezrun"
+  "qatarilngcargoheadsthroughredseatoeuropeinraresuezrun",
+  "830e8d2818d1bd64",
+  "trumpdefendsrussiasanctionswaiverasriftwithukrainedeepens",
+  "3512bb5ae097ab0d",
+  "goldslipssilvergainsasoilretreatsandfedpauseexpectationshold"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T16:30:24.389477+03:00",
+ "last_run": "2026-10-19T16:35:15.607845+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1064,6 +1064,10 @@
   {
    "d": "2026-10-19",
    "t": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas? - Al Jazeera"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens"
   }
  ]
 }
