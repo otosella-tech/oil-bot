@@ -4,8 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "d21ef13424423129",
-  "the100questionwhichwaywillcrudeoilbreak",
   "741c29de31c56221",
   "howalbertaseparatismwentfromfringecausetoreferendum",
   "27eb8413f9a0ca3d",
@@ -603,7 +601,9 @@
   "1570d8694226ee04",
   "oilpricesslipaftertrumpwaivessanctionsagainstrussiancrudecl1",
   "837723740e7780ae",
-  "russianoilexportsbyarcticroutejumpamidworldfreightcrisisdata"
+  "russianoilexportsbyarcticroutejumpamidworldfreightcrisisdata",
+  "1560ae7688f9b4f3",
+  "russiaships20millionbarrelsofoiltoasiaviaarcticrouteamidship"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T17:50:20.165556+03:00",
+ "last_run": "2026-10-19T17:55:15.915037+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
