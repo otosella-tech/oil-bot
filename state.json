@@ -4,10 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "8c47f4e23aacffab",
-  "innewmexicosoilcountrypeopleaskwhathappenedtoourwaterandair",
-  "9221b2e68ddc1e70",
-  "marketnotyetpricingoiltakeawayconstraintsmidlandreporter",
   "581f637ad35b7875",
   "aaatexasgaspricesfluctuateascrudeoilremainsnear100perbarrel",
   "c336001e2a897825",
@@ -603,7 +599,11 @@
   "a86bfcb0926eef7e",
   "marcorubiovisitsindiathisweekwithavisittotheworldslargestoil",
   "6d366190a04b3d9d",
-  "inflationrisksarerisingasoilshocklingersmacklemsays"
+  "inflationrisksarerisingasoilshocklingersmacklemsays",
+  "109345ef64961dfc",
+  "currentpriceofoilasoftk",
+  "4e417d975ebb0e48",
+  "buy5giantoilexplorerstotapthenorthwardjourneyofcrudeprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T16:00:30.876645+03:00",
+ "last_run": "2026-10-19T16:05:16.546096+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
