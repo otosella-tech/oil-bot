@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "77d4764c4dbfce32",
-  "norwaysuntappedoilandgasfrontierisdrawingrenewedinterest",
-  "9fe9aa6ad594ec14",
-  "oilfuturescrudeinlatesurgeamidrisingmiddleeasttensions",
   "1cfe9a3660e26440",
   "oilpricesriseonsaudiarabiaattacksovershadowingtrumpsdieselde",
   "c0cc7f257c7c0274",
@@ -603,7 +599,11 @@
   "bde8e2ff57e67003",
   "currentpriceofoilasofoctober72026",
   "824c0f38047aa741",
-  "americaneeds48000tonsofrareearthmagnetsitonlymakes300"
+  "americaneeds48000tonsofrareearthmagnetsitonlymakes300",
+  "e6700e11929d2b1a",
+  "uspausessanctionstargetingtopimportersofrussiancrudeoilandga",
+  "aa1722c7d0b80ce8",
+  "crudeoilpricesfallwithwtidown4asvancesignalspossibledeescala"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-10-19T04:00:28.324529+03:00",
+ "last_run": "2026-10-19T04:05:14.753378+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -952,6 +952,14 @@
   {
    "d": "2026-10-19",
    "t": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "US pauses sanctions targeting top importers of Russian crude oil and gas - Shipping Telegraph"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Crude Oil Prices Fall with WTI Down $4 as Vance Signals Possible De-escalation in Iran War - FXLeaders"
   }
  ]
 }
