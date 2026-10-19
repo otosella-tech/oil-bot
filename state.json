@@ -4,8 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "502891df87cace92",
-  "tightnessinglobalsuppliespushescrudeoilpricessharplyhigher",
   "9c91446819d74c1d",
   "commentarytheoilmarketscenterofgravityismovingeast",
   "5b87774830fcf384",
@@ -603,7 +601,9 @@
   "539f2f1c13759c7d",
   "oilpricesfallaftertrumpwaivessomerussiasanctionsandtariffs",
   "4f3159dab43f5513",
-  "supertankerwith2millionbarrelsofoilexplodesafterhittingnaval"
+  "supertankerwith2millionbarrelsofoilexplodesafterhittingnaval",
+  "f72791778b12b5ed",
+  "oilpricesdipastrumpwaivesrussiasanctions"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T15:20:19.111156+03:00",
+ "last_run": "2026-10-19T15:25:15.080042+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1052,6 +1052,10 @@
   {
    "d": "2026-10-19",
    "t": "Supertanker With 2 Million Barrels Of Oil Explodes After Hitting Naval Mine In Hormuz - Marine Insight"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Oil prices dip as Trump waives Russia sanctions - Investing.com"
   }
  ]
 }
