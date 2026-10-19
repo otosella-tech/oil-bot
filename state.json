@@ -4,12 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "48662463bff798cd",
-  "theoilmarketthatsetstodaysgaspriceswasinventedinwesternpenns",
-  "659e59bde38c4f9e",
-  "currentpriceofoilasofseptember232026",
-  "e84182a81bcc26d3",
-  "currentpriceofoilasofseptember252026",
   "d97133f94aabe279",
   "saudiarabiacrudeoilexportshithighestlevelsinceiranwarbegande",
   "4fe4c54ec88e3f77",
@@ -603,7 +597,13 @@
   "fb9ff8768383e6f5",
   "betteroilstockchevroncvxvsexxonmobilxom",
   "b44928cc27af64d0",
-  "crudeoilmoveshigherushomebuildersentimentfallsinoctober"
+  "crudeoilmoveshigherushomebuildersentimentfallsinoctober",
+  "87d560dff9374abc",
+  "marinelifedramaticallydeclinedingulfofmexicoinyearsafterbpoi",
+  "fa2fade440ce2131",
+  "nasdaqclimbsaschipandailinkedstocksbounceback",
+  "8c4ce397e6833687",
+  "oilfuturesbrentsteadiesasrussianwaiveroffsetsmideasttensions"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T22:05:16.536383+03:00",
+ "last_run": "2026-10-19T22:10:17.377843+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
