@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "18d0226f25b432c8",
-  "wallstreetendsdownsharplyworriesaboutaitradeandhighoilprices",
-  "41821aa62d46c98d",
-  "avolatileweekendswithtechstocksdownoilup",
   "e245534736f48111",
   "usequityindexesretreatamidrotationoutofhighgrowthsectorssurg",
   "f6e57e5c6bfe1024",
@@ -603,7 +599,11 @@
   "4894c5cbe7286600",
   "ukrainelaunchesover1000dronesatrussiasettingoilfacilitiesabl",
   "7654d19b4aa6658e",
-  "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh"
+  "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh",
+  "6e4622fb792f0d89",
+  "oilpricetodayoctober19crudeoildips2to108afterhittingitshighe",
+  "4b9b2d8573098e5c",
+  "globaloilpricesplungeintradaywtifallsbelow99asmiddleeastandr"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 32
+  "count": 33
  },
- "last_run": "2026-10-19T05:25:14.991193+03:00",
+ "last_run": "2026-10-19T05:30:21.830496+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
