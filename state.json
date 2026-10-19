@@ -4,10 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "377b69d777fe9623",
-  "japanplansnewoilsecuritymeasurestobypasshormuzasmiddleeastcr",
-  "0eb58d6f26920db1",
-  "trkiyesignalspotentialnewoildiscoveryatgabarfield",
   "8bacbab11c0b0424",
   "financialstabilityriskasaidebtsinks",
   "5ca5f27fa55524c8",
@@ -603,7 +599,11 @@
   "a3fc2a0fcd0601bb",
   "pricesatthepumpstayflatamidhighcrudeoilprices",
   "07ec0dfe09d3ff7c",
-  "brentcrudeedgeslowerevenafterhouthiattacksonsaudiinfrastruct"
+  "brentcrudeedgeslowerevenafterhouthiattacksonsaudiinfrastruct",
+  "5884c30ba25cc0f7",
+  "oilfuturespullbackasuswaivessomerussiasanctions",
+  "3112c2c235f2cd34",
+  "brentoiltops109afterhouthimilitantsclaimtheyattackedsaudiair"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T22:45:21.189937+03:00",
+ "last_run": "2026-10-19T22:50:20.836413+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1152,6 +1152,14 @@
   {
    "d": "2026-10-19",
    "t": "Brent crude edges lower, even after Houthi attacks on Saudi infrastructure - Reuters"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions - WSJ"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities - CNBC"
   }
  ]
 }
