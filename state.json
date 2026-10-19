@@ -4,8 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "0cefa1291830cc5e",
-  "currentpriceofoilasofoctober82026",
   "7b89047b0b48b6ce",
   "saudileadsjumpinopecoiloutputinseptemberdespiteiranwardisrup",
   "fde02d1bf76bb95e",
@@ -603,7 +601,9 @@
   "60e973bd2c41019b",
   "bccrudeoilfutures",
   "07dd6a4aab3742b7",
-  "mozambiquepitchessasolandrompcoon250milliongasproject"
+  "mozambiquepitchessasolandrompcoon250milliongasproject",
+  "3734a0434003e481",
+  "sp500nasdaqopenhigherasaistocksreboundaheadofmajorearnings"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T17:30:23.605826+03:00",
+ "last_run": "2026-10-19T17:35:15.239867+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
