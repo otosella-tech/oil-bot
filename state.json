@@ -4,8 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "ec3343211284b116",
-  "exclusivepetrochinasetforrecordtradingprofitaswarupendsmarke",
   "564809fc03d3dd0f",
   "middleeastoilexportstopprewarlevelsforpartofseptemberbuttank",
   "159654b02e1a9024",
@@ -603,7 +601,9 @@
   "790cd2f6b1ca8a02",
   "straitofhormuzscouredforspiltcargoafteriranattackscontainers",
   "6c200cf2286d329f",
-  "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark"
+  "oilpricesrisebyabout1bblonstalledusirantalksandtightfuelmark",
+  "c521db01dba58300",
+  "oilslipsfromfivemonthhighswithhormuzcrossingsrussiansanction"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T18:45:56.357330+03:00",
+ "last_run": "2026-10-19T18:51:08.351621+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1088,6 +1088,10 @@
   {
    "d": "2026-10-19",
    "t": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Oil slips from five-month highs with Hormuz crossings, Russian sanctions waiver in focus - Reuters"
   }
  ]
 }
