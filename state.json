@@ -4,10 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "7b89047b0b48b6ce",
-  "saudileadsjumpinopecoiloutputinseptemberdespiteiranwardisrup",
-  "fde02d1bf76bb95e",
-  "mexicospemexsetsnovembercrudeoilpricesforinternationalbuyers",
   "d21ef13424423129",
   "the100questionwhichwaywillcrudeoilbreak",
   "741c29de31c56221",
@@ -603,7 +599,11 @@
   "07dd6a4aab3742b7",
   "mozambiquepitchessasolandrompcoon250milliongasproject",
   "3734a0434003e481",
-  "sp500nasdaqopenhigherasaistocksreboundaheadofmajorearnings"
+  "sp500nasdaqopenhigherasaistocksreboundaheadofmajorearnings",
+  "1570d8694226ee04",
+  "oilpricesslipaftertrumpwaivessanctionsagainstrussiancrudecl1",
+  "837723740e7780ae",
+  "russianoilexportsbyarcticroutejumpamidworldfreightcrisisdata"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T17:40:19.147539+03:00",
+ "last_run": "2026-10-19T17:45:19.273428+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1068,6 +1068,10 @@
   {
    "d": "2026-10-19",
    "t": "Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Oil prices slip after Trump waives sanctions against Russian crude (CL1:COM:Commodity) - Seeking Alpha"
   }
  ]
 }
