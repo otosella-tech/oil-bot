@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "676e30a7af7a9a0e",
-  "usequitymarketsendlowerasoiljumpstechstocksslide",
   "18d0226f25b432c8",
   "wallstreetendsdownsharplyworriesaboutaitradeandhighoilprices",
   "41821aa62d46c98d",
@@ -603,7 +601,9 @@
   "560739c0e5a7984d",
   "venezuelaseeks76billioninoilinvestmentwithusdealcovering17fi",
   "4894c5cbe7286600",
-  "ukrainelaunchesover1000dronesatrussiasettingoilfacilitiesabl"
+  "ukrainelaunchesover1000dronesatrussiasettingoilfacilitiesabl",
+  "7654d19b4aa6658e",
+  "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-10-19T05:15:17.332955+03:00",
+ "last_run": "2026-10-19T05:20:16.761301+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -984,6 +984,10 @@
   {
    "d": "2026-10-19",
    "t": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze - Al Jazeera"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries - CNBC"
   }
  ]
 }
