@@ -4,10 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "56e1d9640f79a1ff",
-  "usseeksbidstoexchange17millionbarrelsofcrudefromstrategicres",
-  "5c07be8dc0345a78",
-  "usoffersanother17millionbarrelsofoilfromstrategicreserveoilp",
   "28780527a72820cf",
   "usequityindexesdropasinvestorsrotateoutofhighgrowthsectorscr",
   "77d4764c4dbfce32",
@@ -603,7 +599,11 @@
   "35262272bb38e65d",
   "japancabinetapprovesinsuranceandsupplysecuritybillsforoillng",
   "e5b801b28cc0f62e",
-  "asianstocksskidwallstreetandbondsaidedbyoilslip"
+  "asianstocksskidwallstreetandbondsaidedbyoilslip",
+  "729ad7184fd55bd6",
+  "nationalgaspricesstaynearrecenthighsascrudeoilnears100",
+  "bde8e2ff57e67003",
+  "currentpriceofoilasofoctober72026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-18",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 18
  },
- "last_run": "2026-10-19T03:50:18.405197+03:00",
+ "last_run": "2026-10-19T03:55:15.006305+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
