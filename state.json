@@ -4,10 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "b3ecd69641bc9ba9",
-  "oilisflowingfromhormuzagainjustnotthekindtheworldneedsmost",
-  "8e736919abe4da2e",
-  "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue",
   "33d0b3ccd2199bae",
   "dollarralliesonhighercrudeoilpricesandhawkishfedcomments",
   "95dcf910000c6b34",
@@ -603,7 +599,11 @@
   "7eb2fd96cf6c2116",
   "tsxslipsashotterinflationrevivesrateconcernsoilpricesretreat",
   "856303eeaabe7dc8",
-  "rupeerises22paiseonrbiinterventiondespitecrudeoilpressureind"
+  "rupeerises22paiseonrbiinterventiondespitecrudeoilpressureind",
+  "2004173b23a23712",
+  "crudeoilcomesoffthehighsastrumpwaivesrussiansanctionsbutitsu",
+  "8ceb420383a947be",
+  "updatetechnologyconsumerdiscretionarypushusequityindexeshigh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T19:55:15.500720+03:00",
+ "last_run": "2026-10-19T20:00:35.870333+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1108,6 +1108,10 @@
   {
    "d": "2026-10-19",
    "t": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships - The Guardian"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Crude oil comes off the highs as Trump waives Russian sanctions, but it's unlikely to be enough - investingLive"
   }
  ]
 }
