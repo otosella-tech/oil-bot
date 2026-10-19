@@ -4,8 +4,6 @@
   "Brent": 109.51
  },
  "seen": [
-  "b9f500770f62eacc",
-  "updateusequityindexesmixedastechnologyweighscrudeoiljumpsami",
   "1294e879510edf78",
   "howarebondsrisingamidsurginginflationandhighoilprices",
   "70c5ff9665fa18b1",
@@ -603,7 +601,9 @@
   "af1fd2782423e846",
   "goldedgeshigherassofteroileasesinflationwoes",
   "fc36e968fa254396",
-  "rupeerisesto9480againstusdollarbutcrudeoilthreatensrecovery"
+  "rupeerisesto9480againstusdollarbutcrudeoilthreatensrecovery",
+  "5419ce3ff6c06609",
+  "trumpaccuseszelenskyyofnotwantingtoendthewardefendsrussiansa"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-10-19T08:55:12.949187+03:00",
+ "last_run": "2026-10-19T09:00:27.182928+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1000,6 +1000,10 @@
   {
    "d": "2026-10-19",
    "t": "Brent Crude Drops Nearly 2% as Trump Waives Some Russia Sanctions - TradingKey"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Trump accuses Zelenskyy of not wanting to end the war, defends Russian sanctions waiver - CBS News"
   }
  ]
 }
