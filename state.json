@@ -4,10 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "24f7c19e8261eae3",
-  "trumpwaivestariffsonlargestbuyersofrussianoildaysbeforelinds",
-  "1c24cab6c6beaec6",
-  "wticrudeoilfuturesadvanceforthirdsessionamidglobaltensions",
   "5a923234e5c15a98",
   "trumpwaiveskeyrussiarelatedsanctionstariffsbeforetheytakeeff",
   "2965c45ce0001f64",
@@ -603,7 +599,11 @@
   "2297bd7fc44e2ad4",
   "crudeoilwticlingsto9650supportamidbearishmacdlive",
   "b26a259ee084acc3",
-  "oilforeignflowsinfocusforrupeeasbondtraderseyeratehikes"
+  "oilforeignflowsinfocusforrupeeasbondtraderseyeratehikes",
+  "2063b491c7eb7b6c",
+  "dollarclimbswithcrudeoilprices",
+  "b9f500770f62eacc",
+  "updateusequityindexesmixedastechnologyweighscrudeoiljumpsami"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 50
+  "count": 51
  },
- "last_run": "2026-10-19T10:25:16.378295+03:00",
+ "last_run": "2026-10-19T10:30:22.277241+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
