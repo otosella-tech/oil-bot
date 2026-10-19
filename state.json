@@ -4,14 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "5a923234e5c15a98",
-  "trumpwaiveskeyrussiarelatedsanctionstariffsbeforetheytakeeff",
-  "2965c45ce0001f64",
-  "crudeoilpricessurgeasglobalsupplyrisksmultiply",
-  "3e3338fc1b82cc69",
-  "iransaysoiltankerhitnavalmineinstraitofhormuz",
-  "513c2f906530688b",
-  "oilpricesreboundamidpersistentmiddleeastsupplyrisks",
   "8138170922111d5b",
   "crudeoilinventoriesfall8557millionbarrelsfaraboveforecastsne",
   "78cf2f57807a4ed6",
@@ -603,7 +595,15 @@
   "2063b491c7eb7b6c",
   "dollarclimbswithcrudeoilprices",
   "b9f500770f62eacc",
-  "updateusequityindexesmixedastechnologyweighscrudeoiljumpsami"
+  "updateusequityindexesmixedastechnologyweighscrudeoiljumpsami",
+  "0d84251ef5a64aca",
+  "oilslipsfrom5monthhighastrumpsrussiasanctionswaivermaybringm",
+  "5404776cecfea83c",
+  "rupeedriftshighertradersgaugeifrallycanextend",
+  "faefe233810b4717",
+  "naturalgasandoilforecasttankerattacksrattlegulfcanwtibreak98",
+  "24f7c19e8261eae3",
+  "trumpwaivestariffsonlargestbuyersofrussianoildaysbeforelinds"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-19",
-  "count": 51
+  "count": 52
  },
- "last_run": "2026-10-19T10:30:22.277241+03:00",
+ "last_run": "2026-10-19T10:35:16.064056+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
