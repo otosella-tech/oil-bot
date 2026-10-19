@@ -4,8 +4,6 @@
   "Brent": 107.27
  },
  "seen": [
-  "159654b02e1a9024",
-  "beyondcrudewhyrefinerybottlenecksaredrivingpumpshockandcould",
   "3267d9b974bb83d8",
   "trumpsforeignpolicytakesatolloncanadianoilprices",
   "3c1b6dd39500bbb7",
@@ -603,7 +601,9 @@
   "c521db01dba58300",
   "oilslipsfromfivemonthhighswithhormuzcrossingsrussiansanction",
   "95b04e95730ac161",
-  "iraqhasexportedmorethan34millionbarrelsofoilperdaysinceearly"
+  "iraqhasexportedmorethan34millionbarrelsofoilperdaysinceearly",
+  "dda4ea57f0ac413c",
+  "whatstrumpsthinkingbehindthedieseldealwithrussia"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T18:55:14.316476+03:00",
+ "last_run": "2026-10-19T19:00:27.473958+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1092,6 +1092,10 @@
   {
    "d": "2026-10-19",
    "t": "Oil slips from five-month highs with Hormuz crossings, Russian sanctions waiver in focus - Reuters"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "What’s Trump’s Thinking Behind The ‘Diesel Deal’ With Russia?"
   }
  ]
 }
