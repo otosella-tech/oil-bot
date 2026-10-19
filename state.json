@@ -4,8 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "33d30d7db66d0ecf",
-  "venezuelaforecastsus76billionoilinvestmentassectorreopens",
   "377b69d777fe9623",
   "japanplansnewoilsecuritymeasurestobypasshormuzasmiddleeastcr",
   "0eb58d6f26920db1",
@@ -603,7 +601,9 @@
   "259f1d23e1bc0261",
   "crudeoilwtistallsbelow10190resistancelivelevels",
   "a3fc2a0fcd0601bb",
-  "pricesatthepumpstayflatamidhighcrudeoilprices"
+  "pricesatthepumpstayflatamidhighcrudeoilprices",
+  "07ec0dfe09d3ff7c",
+  "brentcrudeedgeslowerevenafterhouthiattacksonsaudiinfrastruct"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-19",
   "count": 60
  },
- "last_run": "2026-10-19T22:35:16.064059+03:00",
+ "last_run": "2026-10-19T22:40:18.203571+03:00",
  "sent_stories": [
   {
    "d": "2026-10-16",
@@ -1148,6 +1148,10 @@
   {
    "d": "2026-10-19",
    "t": "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Brent crude edges lower, even after Houthi attacks on Saudi infrastructure - Reuters"
   }
  ]
 }
