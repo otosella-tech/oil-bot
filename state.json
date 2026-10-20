@@ -4,10 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "7ee0333cb9b0da77",
-  "oilpricesslipastrump",
-  "af1fd2782423e846",
-  "goldedgeshigherassofteroileasesinflationwoes",
   "fc36e968fa254396",
   "rupeerisesto9480againstusdollarbutcrudeoilthreatensrecovery",
   "5419ce3ff6c06609",
@@ -603,7 +599,11 @@
   "ea95024dff28af60",
   "aiselloffreturnsoiltops110abarrel",
   "c5be3f0ddb10246d",
-  "thecommoditiesfeedsustainedmiddleeastflowsfailtodentoilprice"
+  "thecommoditiesfeedsustainedmiddleeastflowsfailtodentoilprice",
+  "388cefe9f2cee770",
+  "oil",
+  "1009cd1aa8014ad7",
+  "crudeoilsurgesfurtheramidhouthisattacksonsaudienergytargetsa"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-20",
-  "count": 47
+  "count": 48
  },
- "last_run": "2026-10-20T12:25:14.767166+03:00",
+ "last_run": "2026-10-20T12:30:30.573362+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
