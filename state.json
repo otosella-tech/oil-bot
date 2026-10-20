@@ -4,10 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "a3b3c5b92721057a",
-  "crudeoilretreats",
-  "2297bd7fc44e2ad4",
-  "crudeoilwticlingsto9650supportamidbearishmacdlive",
   "b26a259ee084acc3",
   "oilforeignflowsinfocusforrupeeasbondtraderseyeratehikes",
   "2063b491c7eb7b6c",
@@ -603,7 +599,11 @@
   "6de0f2cafc16baf3",
   "elbowsupinwashingtonstateovercanadasproposedoiltankertermina",
   "3a6baea1b2c3d9c1",
-  "ustoallowdarkfleettankerstoshipoillegally"
+  "ustoallowdarkfleettankerstoshipoillegally",
+  "28cdf2419b9ceece",
+  "hormuzoiltraderemainssubdued",
+  "1694df15549d3963",
+  "oilhoversnearfivemonthhighashormuzhouthiattacksthreatensuppl"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-20",
-  "count": 56
+  "count": 57
  },
- "last_run": "2026-10-20T14:10:21.501205+03:00",
+ "last_run": "2026-10-20T14:15:18.933962+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
