@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "014fea50736540f4",
-  "theplasticpackagingmythalmosteveryonestillbelievesandthecrud",
   "89c4b7fc15765294",
   "idahogaspricesdropbutrisingcrudeoilcostsraiseconcerns",
   "2943bdddb7fe3719",
@@ -603,7 +601,9 @@
   "ff17c6e3d6e51b69",
   "northdakotaoilcompaniesspeedupwellcompletionsaspricesrisesta",
   "2b32c16f5dd2b9a4",
-  "updateusequityindexesriseascorporateresultshelpliftrisksenti"
+  "updateusequityindexesriseascorporateresultshelpliftrisksenti",
+  "1d0262c2350e200e",
+  "usequitymarketsmixedamidquarterlyresultsloweroilprices"
  ],
  "releases_done": {
   "2026-10-20|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T23:15:18.675151+03:00",
+ "last_run": "2026-10-20T23:20:18.351433+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
