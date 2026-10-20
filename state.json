@@ -4,8 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "9550ca17ccaaac30",
-  "oilandindigenouscommunities",
   "9d2c6a3db8e74381",
   "rupeedriftshighertradersgaugeifrallyhaslegstoextend",
   "a496afed179f18ec",
@@ -603,7 +601,9 @@
   "46180a777e901092",
   "sharesslideagainasoilstayshighaiearningsinfocus",
   "56985f5f252fcaa3",
-  "ieaoilstocksreleasetimingisuptoindividualmemberschiefsays"
+  "ieaoilstocksreleasetimingisuptoindividualmemberschiefsays",
+  "01039552d6aa40cc",
+  "brenthitsfivemonthhighasattacksonshipssaudisitesfuelsupplywo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-20",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-10-20T12:50:19.320046+03:00",
+ "last_run": "2026-10-20T12:55:15.275436+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -1052,6 +1052,10 @@
   {
    "d": "2026-10-20",
    "t": "Ukrainian Drone Strike Sparks Fire at Oil Transit Hub in Tambov Region - The Moscow Times"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "Brent hits five-month high as attacks on ships, Saudi sites fuel supply worries - CNBC"
   }
  ]
 }
