@@ -4,12 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "4c7067b4f7c77687",
-  "japanselectricitypricessurge25aslngandcoalcostssoar",
-  "fced2d21da9dd0bb",
-  "rupeeendsflatasstockslumpimporterhedgingerodesbounce",
-  "ce85fb3540b787ac",
-  "a302milliondealwouldadd7000barrelsoflightoiladayinmanitoba",
   "b84ea1c10ec61ff8",
   "commentartdoesnotfunctionlikeothercommoditiessowhyisitbeingp",
   "8dd1d4a20a509d2f",
@@ -603,7 +597,13 @@
   "b549d8ddd1510587",
   "oilpricesmovehigherastradersadjusttoanewnormalinthemiddleeas",
   "1549a73898d272b9",
-  "aaagaspricesclimbinpaascrudeoilrises"
+  "aaagaspricesclimbinpaascrudeoilrises",
+  "92e7f4595cfd9245",
+  "russiasshadowroleiniranwarcomesunderfreshscrutiny",
+  "fd409566af9be203",
+  "rubiotoencourageindiasreliancetoproducerefinemorevenezuelano",
+  "06666541526e3384",
+  "wticrudeoilfuturesand5yieldssettonefortheweek"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T16:55:14.924717+03:00",
+ "last_run": "2026-10-20T17:00:30.855417+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -1084,6 +1084,10 @@
   {
    "d": "2026-10-20",
    "t": "HSBC Sees Hormuz Becoming Redundant in Five Years"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "Russia’s Shadow Role in Iran War Comes Under Fresh Scrutiny"
   }
  ]
 }
