@@ -4,8 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "2cbd9352ab346f39",
-  "oilpricesarestuckat105asgeopoliticalrisksmount",
   "18bb3766c6b6e20b",
   "thenuclearpowershortcutthatcouldaddgigawattstotheusgrid",
   "7c8fb417ad3a07c0",
@@ -603,7 +601,9 @@
   "c1a3b4a588639dfa",
   "oiledgeslowerbutsupplyriskslinger",
   "48290d467a58e50b",
-  "nevercooksteakwiththistypeofoilaccordingtoachef"
+  "nevercooksteakwiththistypeofoilaccordingtoachef",
+  "92182deab2209f63",
+  "oileasesasmarketsassesspotentialwaiveronrussianenergymiddlee"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-20",
-  "count": 5
+  "count": 6
  },
- "last_run": "2026-10-20T04:00:29.313615+03:00",
+ "last_run": "2026-10-20T04:05:13.888154+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
