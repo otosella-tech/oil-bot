@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "7c5b43f694e79f40",
-  "venezuelaexpectsnearly76billioninoilinvestmentoverfiveyearsa",
   "f772f10b70a0bc11",
   "oilpricesstayhighaswarkeepssupplytightinto2027",
   "8ddd03b55c17f251",
@@ -603,7 +601,9 @@
   "6ff7feaccbe3a66e",
   "cmewticrudeoilfutureshit10137beforereversingonsupplynews",
   "36f7e8b0cbe4c5ba",
-  "crudeoilinventoriesfalllessthanexpectedimpactingmarketsentim"
+  "crudeoilinventoriesfalllessthanexpectedimpactingmarketsentim",
+  "b7d7b7f348f70e84",
+  "oilprivatesurveyofinventoryshowsahugeheadlinecrudeoildrawgre"
  ],
  "releases_done": {
   "2026-10-20|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T23:50:18.640452+03:00",
+ "last_run": "2026-10-20T23:55:16.210581+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
