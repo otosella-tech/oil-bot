@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 96.46,
-  "Brent": 107.16
+  "Brent": 109.32
  },
  "seen": [
-  "4c111c71a0231aed",
-  "gaspricesdipbutdontcelebrateyettheyrehigherthanlastyear",
   "7eb2fd96cf6c2116",
   "tsxslipsashotterinflationrevivesrateconcernsoilpricesretreat",
   "856303eeaabe7dc8",
@@ -603,7 +601,9 @@
   "d2e35caa8364db0a",
   "brentfallsasiranspresidentdiscussesmediationwithpakistaniarm",
   "251d8e9cf84c9c8f",
-  "euweakenscallforbanonarcticoilandgasdrilling"
+  "euweakenscallforbanonarcticoilandgasdrilling",
+  "b912d25209f1b49d",
+  "russiashipstheleastcrudeoilinamonthasmajorbalticporthalts"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T22:40:19.271186+03:00",
+ "last_run": "2026-10-20T22:45:18.197001+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
