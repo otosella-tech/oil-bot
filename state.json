@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "fb9ff8768383e6f5",
-  "betteroilstockchevroncvxvsexxonmobilxom",
   "b44928cc27af64d0",
   "crudeoilmoveshigherushomebuildersentimentfallsinoctober",
   "87d560dff9374abc",
@@ -603,7 +601,9 @@
   "bc159be4fe754f17",
   "painatvalleypumpsprofitattherefineries",
   "76c934c549cd2f1c",
-  "koreacushionsiranwaroilsupplyshockasjapansimportsplunge"
+  "koreacushionsiranwaroilsupplyshockasjapansimportsplunge",
+  "f40ffd20fcf50345",
+  "oilfuturessettlelowerinvolatilesession"
  ],
  "releases_done": {
   "2026-10-20|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 7
  },
- "last_run": "2026-10-21T01:05:13.707768+03:00",
+ "last_run": "2026-10-21T01:10:17.614736+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
