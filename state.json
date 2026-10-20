@@ -4,10 +4,6 @@
   "Brent": 107.16
  },
  "seen": [
-  "757d40c0385b266d",
-  "crudeoilprice2026wtiup73thisyearatus99whyarussiasanctionswai",
-  "9ba228fa66b0a89b",
-  "oilhighpricesseeneasingonlygraduallycommerzbank",
   "0561506c611b207e",
   "exceptionalexgoldmansachstraderhasbigfriendsandawkwardenemie",
   "36a9706c4cba0bc9",
@@ -603,7 +599,11 @@
   "5167721f87323171",
   "howmuchisheatingoilinnjrightnow",
   "a814e9d26de1b0ab",
-  "unitedstatesoildipswhatsgoingon"
+  "unitedstatesoildipswhatsgoingon",
+  "ce1e1385112c358b",
+  "brentslipsinchoppysessionasinvestorsweighattacksonshipssaudi",
+  "22441df6ac407182",
+  "oilpricesriseonuscrudedrawbutgasolinestockbuildcloudsdemand"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T18:10:18.737327+03:00",
+ "last_run": "2026-10-20T18:15:19.277819+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -1096,6 +1096,10 @@
   {
    "d": "2026-10-20",
    "t": "U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "Brent slips in choppy session as investors weigh attacks on ships, Saudi energy - Reuters"
   }
  ]
 }
