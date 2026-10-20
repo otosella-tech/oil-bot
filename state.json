@@ -4,8 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "dcf4c89278acb328",
-  "brentcrudeoilpriceforecasttrumpeasessanctionsonrussiaoilpric",
   "f1beafdda903de03",
   "chinaoilrefinerythroughputrisesinseptemberonfuelexports",
   "e33fe33e9f9d7d9f",
@@ -603,7 +601,9 @@
   "e70eacb1198626e0",
   "brentcrudehitsfivemonthhighashouthiattackclaimsraiseoilsuppl",
   "76a547d59f7fc2f2",
-  "oilrichalbertavotestostayincanadainhistoricreferendum"
+  "oilrichalbertavotestostayincanadainhistoricreferendum",
+  "944b28fc8a9a00cc",
+  "europesvoiceinthemiddleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 52
  },
- "last_run": "2026-10-20T13:35:16.144907+03:00",
+ "last_run": "2026-10-20T13:40:18.846005+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
