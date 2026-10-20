@@ -4,8 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "f1beafdda903de03",
-  "chinaoilrefinerythroughputrisesinseptemberonfuelexports",
   "e33fe33e9f9d7d9f",
   "oilhitsfivemonthhighof110onnewescalationinmiddleeast",
   "f5ab44560a49b90b",
@@ -603,7 +601,9 @@
   "76a547d59f7fc2f2",
   "oilrichalbertavotestostayincanadainhistoricreferendum",
   "944b28fc8a9a00cc",
-  "europesvoiceinthemiddleeast"
+  "europesvoiceinthemiddleeast",
+  "9d22ab79205faac9",
+  "oilabove100abarrelasmiddleeastriskspersist"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 52
  },
- "last_run": "2026-10-20T13:45:18.279888+03:00",
+ "last_run": "2026-10-20T13:50:19.476329+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
