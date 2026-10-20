@@ -4,12 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "30234675405d0987",
-  "colombiascriticalmineralscouldbeagamechangerforamerica",
-  "cff82fbced1ff0d0",
-  "iraqsoctoberoilexportstop34millionbpdnearingprewarlevels",
-  "4aa529adf047bc50",
-  "gaspriceseasingupaaasayswsb",
   "fb9ff8768383e6f5",
   "betteroilstockchevroncvxvsexxonmobilxom",
   "b44928cc27af64d0",
@@ -603,7 +597,13 @@
   "cc7959f412509e68",
   "goldpressureddespitefallingyieldsashormuzdiplomacysparksoilp",
   "36de9524de4fc5d2",
-  "europespowerdemandreturnstogrowth"
+  "europespowerdemandreturnstogrowth",
+  "3234f67d149e4fc3",
+  "currentpriceofoilasofoctober152026",
+  "bc159be4fe754f17",
+  "painatvalleypumpsprofitattherefineries",
+  "76c934c549cd2f1c",
+  "koreacushionsiranwaroilsupplyshockasjapansimportsplunge"
  ],
  "releases_done": {
   "2026-10-20|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-10-21T01:00:27.861865+03:00",
+ "last_run": "2026-10-21T01:05:13.707768+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1095,6 +1095,10 @@
   {
    "d": "2026-10-21",
    "t": "The cost of shipping a tanker of crude oil has skyrocketed due to war - Marketplace.org"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Korea cushions Iran war oil supply shock as Japan's imports plunge - Korea JoongAng Daily"
   }
  ]
 }
