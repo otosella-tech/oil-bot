@@ -4,8 +4,6 @@
   "Brent": 107.16
  },
  "seen": [
-  "1560ae7688f9b4f3",
-  "russiaships20millionbarrelsofoiltoasiaviaarcticrouteamidship",
   "88771aaa59b108ed",
   "wrightsaysgaspricespeakedasbrentholdsabove108",
   "74f472e675770492",
@@ -603,7 +601,9 @@
   "0f6c62161e38bc9a",
   "analystsexpectweeklydecreaseinuscrudeoilstockpiles",
   "54b0487c0ac9f2a4",
-  "eustandsfirmagainstarcticoilandgasdrillingdespiteenergycrisi"
+  "eustandsfirmagainstarcticoilandgasdrillingdespiteenergycrisi",
+  "bf11c0869bd30ee4",
+  "cmecrudeoilpullsback"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T20:50:18.440225+03:00",
+ "last_run": "2026-10-20T20:55:14.875126+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
