@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "3234f67d149e4fc3",
-  "currentpriceofoilasofoctober152026",
   "30234675405d0987",
   "colombiascriticalmineralscouldbeagamechangerforamerica",
   "cff82fbced1ff0d0",
@@ -603,7 +601,9 @@
   "a774985088a223e3",
   "thestraitofhormuzcouldloseweightin5years",
   "cc7959f412509e68",
-  "goldpressureddespitefallingyieldsashormuzdiplomacysparksoilp"
+  "goldpressureddespitefallingyieldsashormuzdiplomacysparksoilp",
+  "36de9524de4fc5d2",
+  "europespowerdemandreturnstogrowth"
  ],
  "releases_done": {
   "2026-10-20|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 5
  },
- "last_run": "2026-10-21T00:55:14.489833+03:00",
+ "last_run": "2026-10-21T01:00:27.861865+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
