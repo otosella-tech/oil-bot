@@ -4,10 +4,6 @@
   "Brent": 107.16
  },
  "seen": [
-  "99cb7b06ec504475",
-  "bitcoins80000thresholdunderthreatdualpressurefromsurgingcrud",
-  "3369f707a0790377",
-  "venezuelaseesnearly76boilinvestmentover5years",
   "3ebe18038e88dfbb",
   "wallstreetfuturesriseastechnologystocksrecoverandoilpricesea",
   "60e973bd2c41019b",
@@ -603,7 +599,11 @@
   "da220793ba355343",
   "chipsleadnasdaqloweroiltops5monthhighalphacheck",
   "2e18f4bcd0d9cb43",
-  "opecpluscrudeoutputgrowsonsaudishiftbacktomideastgulf"
+  "opecpluscrudeoutputgrowsonsaudishiftbacktomideastgulf",
+  "889c8d8a7907daf7",
+  "chevronmovestotakeoverrussiasmostprizediraqioilfield",
+  "bd64e09aeffe95de",
+  "brentslipsasiranpresidentdiscussesmediationwithpakistanarmyc"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T19:55:14.560883+03:00",
+ "last_run": "2026-10-20T20:00:30.386376+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -1120,6 +1120,14 @@
   {
    "d": "2026-10-20",
    "t": "Opec-Plus: Crude Output Grows on Saudi Shift Back to Mideast Gulf - Energy Intelligence"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "Chevron Moves to Take Over Russia's Most Prized Iraqi Oil Field"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "Brent slips as Iran president discusses mediation with Pakistan army chief - Reuters"
   }
  ]
 }
