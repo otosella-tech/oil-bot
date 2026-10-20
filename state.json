@@ -4,8 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "e5b801b28cc0f62e",
-  "asianstocksskidwallstreetandbondsaidedbyoilslip",
   "729ad7184fd55bd6",
   "nationalgaspricesstaynearrecenthighsascrudeoilnears100",
   "bde8e2ff57e67003",
@@ -603,7 +601,9 @@
   "17b73fdfbedafcc8",
   "votecountbeginsinalbertasecessionreferedumtestingcanadaunity",
   "b2eda7442d0570dd",
-  "brenttops110astankerattacksthreatenpersiangulfsupply"
+  "brenttops110astankerattacksthreatenpersiangulfsupply",
+  "4c97bc1c27bb7004",
+  "oilpricesup191026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 27
  },
- "last_run": "2026-10-20T08:05:15.075309+03:00",
+ "last_run": "2026-10-20T08:10:17.550445+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
