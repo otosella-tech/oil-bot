@@ -4,8 +4,6 @@
   "Brent": 107.16
  },
  "seen": [
-  "4f3159dab43f5513",
-  "supertankerwith2millionbarrelsofoilexplodesafterhittingnaval",
   "f72791778b12b5ed",
   "oilpricesdipastrumpwaivesrussiasanctions",
   "d54af18809b021d3",
@@ -603,7 +601,9 @@
   "a9e07f364b9921e4",
   "saudiarabiaandasialockedindisputeover2027termoildeals",
   "b57b2d56b428769a",
-  "dowjonesforecastdjiafallsasaifinancingfearsandrisingoilprice"
+  "dowjonesforecastdjiafallsasaifinancingfearsandrisingoilprice",
+  "93980c40b04d0a64",
+  "vixbondsandcrudeoiltuesdayscriticalmarketsignals"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T18:30:23.902873+03:00",
+ "last_run": "2026-10-20T18:35:15.286974+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
