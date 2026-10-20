@@ -4,10 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "6e1738e11650a6bc",
-  "bitcoinreboundsabove82000asoilsretreatliftsriskmood",
-  "e12f75302ecdc95c",
-  "crudeoilmarketanalysisbrentabove110futuresbackwardationdeepe",
   "4f33fe1918ce3832",
   "morningcoffeeexceptionalexgoldmansachstraderhasbigfriendsand",
   "f86df72b6270d46c",
@@ -603,7 +599,11 @@
   "fd3630af567281b3",
   "aramcosellseighthighsulfurfueloilcargosfornovemberloading",
   "f6d62a4cbaf336df",
-  "topoilanalystwarnsiranescalationriskcouldriseaftermidtermele"
+  "topoilanalystwarnsiranescalationriskcouldriseaftermidtermele",
+  "034426f740eebfb4",
+  "gaspricesnotbudgingmuchascrudeoilremainshigh",
+  "8c51d53cefdde94e",
+  "indiascrudeoilimportbillsoars46asmiddleeastcrisisdrivesuppri"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-20",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-10-20T15:15:18.036104+03:00",
+ "last_run": "2026-10-20T15:19:21.185419+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -1076,6 +1076,10 @@
   {
    "d": "2026-10-20",
    "t": "U.S. oil surges to top $109, Brent crude at five-month high amid Mideast tensions - CNBC"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "India's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
