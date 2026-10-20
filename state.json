@@ -4,8 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "4a817795a418985d",
-  "oilpricesurgemayincreasegascosts",
   "5d97752dff164cef",
   "oilpricesfallwithwti3downasvancesignalspossibledeescalationi",
   "121fdad2bb45e2dc",
@@ -603,7 +601,9 @@
   "145b1400e81831b3",
   "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexpo",
   "c48e894afbb1a12c",
-  "currentpriceofoilasofoctober52026"
+  "currentpriceofoilasofoctober52026",
+  "d7c300cdd4039e61",
+  "despiterisingcrudeoilpricesgasintheregionlowerthisweek"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 9
  },
- "last_run": "2026-10-20T06:00:29.612890+03:00",
+ "last_run": "2026-10-20T06:05:14.537680+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
