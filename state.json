@@ -4,8 +4,6 @@
   "Brent": 107.16
  },
  "seen": [
-  "c9df86331c5be9f4",
-  "crudeoilpriceanalysisoilpriceseyehigherlevelsasuscrudeinvent",
   "9480147961a498da",
   "iraqsoctoberoilexportstop34millionbpdnearingpre",
   "c02006b940684e09",
@@ -603,7 +601,9 @@
   "54e488bb62928524",
   "stocksmostlyriseasoilusyieldseaseeuroedgesup",
   "04033c391dd84906",
-  "usauthorizessalesofsanctionedoiltankers"
+  "usauthorizessalesofsanctionedoiltankers",
+  "cdeb0ed6b0a40b8f",
+  "oilinventoriesamongeconomicdataduewednesday"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T21:05:14.499154+03:00",
+ "last_run": "2026-10-20T21:10:20.192533+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
