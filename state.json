@@ -4,10 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "10274b58db92aee3",
-  "oilpriceseaseastrumpwaivesrussiasanctionsmiddleeastriskspers",
-  "465168b7683b310c",
-  "oiltumblesastrumpsrussiasanctionswaivermayleadtomorefuelsupp",
   "165e9f468094053b",
   "goldedgeshigheronsofteroilfedrateoutlookinfocus",
   "5700d8484e400fe9",
@@ -603,7 +599,11 @@
   "7654d19b4aa6658e",
   "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh",
   "5724f7f0f5b8f592",
-  "oilpricesupastradersweighmiddleeastsupplyrisks"
+  "oilpricesupastradersweighmiddleeastsupplyrisks",
+  "8176042e0b0b71cb",
+  "asianrefinersusesmallertankersbuydeliveredcrudeasfreightrate",
+  "ee37b805b338653b",
+  "brentcrudehoversnear110onmiddleeasttensions"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-20",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-10-20T10:45:17.016811+03:00",
+ "last_run": "2026-10-20T10:50:17.000442+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -1040,6 +1040,10 @@
   {
    "d": "2026-10-20",
    "t": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries - CNBC"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "Asian refiners use smaller tankers, buy delivered crude as freight rates soar - Reuters"
   }
  ]
 }
