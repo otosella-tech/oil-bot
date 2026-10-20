@@ -4,12 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "31656998616a1819",
-  "oiltouches110abarrelforfirsttimesincemayonmiddleeastrussiasu",
-  "4d32e94f979c19df",
-  "venezuelaexpects76billioninoilandgasinvestmentoverfiveyears",
-  "560739c0e5a7984d",
-  "venezuelaseeks76billioninoilinvestmentwithusdealcovering17fi",
   "4894c5cbe7286600",
   "ukrainelaunchesover1000dronesatrussiasettingoilfacilitiesabl",
   "7654d19b4aa6658e",
@@ -603,7 +597,13 @@
   "8cad94f62b75c07c",
   "asianlngpricessurgepast30asmiddleeastshippingrisksescalate",
   "3e2b4062820747ed",
-  "thechangingnatureofchinasinfluenceoncommoditymarkets"
+  "thechangingnatureofchinasinfluenceoncommoditymarkets",
+  "9854b1434a0c09a2",
+  "crudeoilpricesriseamidthreatstosuppliesthroughthestraitofhor",
+  "0e0204922243c18a",
+  "oilsurgestoafivemonthhighamidthesituationinthemiddleeast",
+  "8ff588f3d6888e39",
+  "crudeoilmarketanalysiswtiabove100widebrentspreaddieselcrunch"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-20",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-10-20T10:05:14.910070+03:00",
+ "last_run": "2026-10-20T10:10:18.095892+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -1028,6 +1028,10 @@
   {
    "d": "2026-10-20",
    "t": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "Crude oil prices rise amid threats to supplies through the Strait of Hormuz - UkrAgroConsult"
   }
  ]
 }
