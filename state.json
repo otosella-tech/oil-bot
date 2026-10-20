@@ -4,8 +4,6 @@
   "Brent": 107.16
  },
  "seen": [
-  "837723740e7780ae",
-  "russianoilexportsbyarcticroutejumpamidworldfreightcrisisdata",
   "1560ae7688f9b4f3",
   "russiaships20millionbarrelsofoiltoasiaviaarcticrouteamidship",
   "88771aaa59b108ed",
@@ -603,7 +601,9 @@
   "f91142c7c8b1614c",
   "bccrudeoilfutures",
   "0f6c62161e38bc9a",
-  "analystsexpectweeklydecreaseinuscrudeoilstockpiles"
+  "analystsexpectweeklydecreaseinuscrudeoilstockpiles",
+  "54b0487c0ac9f2a4",
+  "eustandsfirmagainstarcticoilandgasdrillingdespiteenergycrisi"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T20:45:19.306294+03:00",
+ "last_run": "2026-10-20T20:50:18.440225+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
