@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 99.3,
-  "Brent": 109.62
+  "WTI": 96.46,
+  "Brent": 107.16
  },
  "seen": [
-  "f95b428416c5f635",
-  "macronopensgulftourafterviolentprotestsinfrance",
   "19dea12f199fc455",
   "saudiarabiatargetshouthistocounteriransinfluenceinyemen",
   "92cb677403487f08",
@@ -603,7 +601,9 @@
   "a2c32908b02b21b8",
   "oilfuturesriseasmiddleeastriskremainshighmarkettalk",
   "c4bf351e51d41e4c",
-  "shippingcrisisforcesasiancrudebuyerstousesmallertankers"
+  "shippingcrisisforcesasiancrudebuyerstousesmallertankers",
+  "0f0425e023d93961",
+  "uscrudeoilnear98asiranstepsupattacksinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T17:30:27.427512+03:00",
+ "last_run": "2026-10-20T17:35:15.487144+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -1092,6 +1092,10 @@
   {
    "d": "2026-10-20",
    "t": "Shipping Crisis Forces Asian Crude Buyers to Use Smaller Tankers"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz - CNBC"
   }
  ]
 }
