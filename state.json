@@ -4,8 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "96815db2469f6ca8",
-  "oildebtandthecomingresetincarvaluesandwhatitmeansforevs",
   "85698758cb757c1b",
   "recordshippingcostsforceoilproducerstoslashprices",
   "4b5846dfb7acee60",
@@ -603,7 +601,9 @@
   "181eec8d30060a87",
   "lynnhostsoilspilltraining",
   "45ed3f2784b44a34",
-  "brentcrudeholdsnearfivemonthhighonmiddleeasttension"
+  "brentcrudeholdsnearfivemonthhighonmiddleeasttension",
+  "badf60891271b710",
+  "rubiokicksoffindiavisitwithtradedealrussianoilonagenda"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-20",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-10-20T07:15:18.896506+03:00",
+ "last_run": "2026-10-20T07:20:18.564062+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -992,6 +992,10 @@
   {
    "d": "2026-10-20",
    "t": "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "Rubio kicks off India visit with trade deal, Russian oil on agenda - Reuters"
   }
  ]
 }
