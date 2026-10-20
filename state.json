@@ -4,8 +4,6 @@
   "Brent": 107.16
  },
  "seen": [
-  "3ebe18038e88dfbb",
-  "wallstreetfuturesriseastechnologystocksrecoverandoilpricesea",
   "60e973bd2c41019b",
   "bccrudeoilfutures",
   "07dd6a4aab3742b7",
@@ -603,7 +601,9 @@
   "889c8d8a7907daf7",
   "chevronmovestotakeoverrussiasmostprizediraqioilfield",
   "bd64e09aeffe95de",
-  "brentslipsasiranpresidentdiscussesmediationwithpakistanarmyc"
+  "brentslipsasiranpresidentdiscussesmediationwithpakistanarmyc",
+  "631c43fb9fd72a30",
+  "oilpricesfallastradershopefordiplomaticprogressinmiddleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T20:05:14.622286+03:00",
+ "last_run": "2026-10-20T20:10:19.755871+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
