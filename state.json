@@ -4,10 +4,6 @@
   "Brent": 107.16
  },
  "seen": [
-  "e7907f6893c00055",
-  "goldsteadyaheadoffedmeetingloweroilpriceslimitdownside",
-  "7beb1d9685a3a46d",
-  "floridagaspricesnowaveraging423pergalloncouldclimbagainasoil",
   "99cb7b06ec504475",
   "bitcoins80000thresholdunderthreatdualpressurefromsurgingcrud",
   "3369f707a0790377",
@@ -603,7 +599,11 @@
   "7e736fa1ecb4fd31",
   "3usoilstockstowatchaswtiabove110reshapescrudesupply",
   "58c634813d54c741",
-  "marcorubiovisitsindiathisweekwithatriptotheworldslargestoilr"
+  "marcorubiovisitsindiathisweekwithatriptotheworldslargestoilr",
+  "da220793ba355343",
+  "chipsleadnasdaqloweroiltops5monthhighalphacheck",
+  "2e18f4bcd0d9cb43",
+  "opecpluscrudeoutputgrowsonsaudishiftbacktomideastgulf"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T19:45:20.195087+03:00",
+ "last_run": "2026-10-20T19:50:18.158551+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -1116,6 +1116,10 @@
   {
    "d": "2026-10-20",
    "t": "FTSE down but off lows as oil price drops amid Iran war peace talks hope - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "Opec-Plus: Crude Output Grows on Saudi Shift Back to Mideast Gulf - Energy Intelligence"
   }
  ]
 }
