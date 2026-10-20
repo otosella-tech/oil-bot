@@ -4,12 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "aaee91f78ef1bde0",
-  "oilpricesfallmorethan2astrumpsuspendsrussiansanctionsandmark",
-  "d9ae952ba2291d14",
-  "usstockfuturesriseaheadoftechnologyearningsasoilpricesdeclin",
-  "d59ecb7ea958d8f6",
-  "crudeoilfuturesfallonweakglobalcues",
   "c6a30ec5ea254dbc",
   "theiranwarhassentgasandoilpriceshigherthatcouldspelleconomic",
   "3e0c6348e0910fe9",
@@ -603,7 +597,13 @@
   "f521bc6eb7fa831d",
   "goldweakersilvermixedasweakhousingdataoffsetsrisingoilprices",
   "74dada8748021d9e",
-  "usdjpyandnasdaqpriceoutlookkeylevelstowatch"
+  "usdjpyandnasdaqpriceoutlookkeylevelstowatch",
+  "5495a0e66e3919bb",
+  "hsbcseeshormuzbecomingredundantinfiveyears",
+  "e62f01cb55a98bed",
+  "currentpriceofoilasofoctober142026",
+  "35973e70f2e701e8",
+  "oilfuturescrudeextendsgainsasmideasttensionsreduceoilflows"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 60
  },
- "last_run": "2026-10-20T16:25:17.679055+03:00",
+ "last_run": "2026-10-20T16:30:25.182791+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -1080,6 +1080,10 @@
   {
    "d": "2026-10-20",
    "t": "India's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "HSBC Sees Hormuz Becoming Redundant in Five Years"
   }
  ]
 }
