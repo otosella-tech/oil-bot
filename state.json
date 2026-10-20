@@ -4,8 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "18bb3766c6b6e20b",
-  "thenuclearpowershortcutthatcouldaddgigawattstotheusgrid",
   "7c8fb417ad3a07c0",
   "oilfutureslikelytoreacttoukrainesattackonrussianoilliftingof",
   "ed35e11d6381ad2d",
@@ -603,7 +601,9 @@
   "48290d467a58e50b",
   "nevercooksteakwiththistypeofoilaccordingtoachef",
   "92182deab2209f63",
-  "oileasesasmarketsassesspotentialwaiveronrussianenergymiddlee"
+  "oileasesasmarketsassesspotentialwaiveronrussianenergymiddlee",
+  "a7b7d395f714bfbb",
+  "oilholdsnearfivemonthhighashormuzattacksthreatensupplyrecove"
  ],
  "releases_done": {},
  "last_digest": "2026-10-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-20",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-10-20T04:10:19.642379+03:00",
+ "last_run": "2026-10-20T04:15:17.466609+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -984,6 +984,10 @@
   {
    "d": "2026-10-19",
    "t": "91 percent in Texas poll say Iran war raising oil and gas prices - The Hill"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "Oil holds near five-month high as Hormuz attacks threaten supply recovery - Investing.com"
   }
  ]
 }
