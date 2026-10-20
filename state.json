@@ -4,8 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "a496afed179f18ec",
-  "iranhidinglpgandjetexportsamonggrowingnumberofshiptransfers",
   "42e4b6a4304dc0d6",
   "oilpricesslipastrumpputindieseldealraisessupplyhopes",
   "c720d271b048cc58",
@@ -603,7 +601,9 @@
   "01039552d6aa40cc",
   "brenthitsfivemonthhighasattacksonshipssaudisitesfuelsupplywo",
   "135ddd23922cfa76",
-  "oilpricesrisewithbrentfuturesabove110abarrelasmiddleeastrisk"
+  "oilpricesrisewithbrentfuturesabove110abarrelasmiddleeastrisk",
+  "64b6cb96cdd84b90",
+  "nasdaqfuturesdipasoilpricesclimbearningsloom"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 50
  },
- "last_run": "2026-10-20T13:15:19.237808+03:00",
+ "last_run": "2026-10-20T13:20:18.795564+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
