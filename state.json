@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "b44928cc27af64d0",
-  "crudeoilmoveshigherushomebuildersentimentfallsinoctober",
   "87d560dff9374abc",
   "marinelifedramaticallydeclinedingulfofmexicoinyearsafterbpoi",
   "fa2fade440ce2131",
@@ -603,7 +601,9 @@
   "76c934c549cd2f1c",
   "koreacushionsiranwaroilsupplyshockasjapansimportsplunge",
   "f40ffd20fcf50345",
-  "oilfuturessettlelowerinvolatilesession"
+  "oilfuturessettlelowerinvolatilesession",
+  "fb9891f2647e630d",
+  "howtheuscanhelpthegulfstatesbuildeconomicresilience"
  ],
  "releases_done": {
   "2026-10-20|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 7
  },
- "last_run": "2026-10-21T01:20:17.546684+03:00",
+ "last_run": "2026-10-21T01:25:15.519075+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
