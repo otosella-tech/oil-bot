@@ -4,10 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "1a4a9baddf4ece67",
-  "russiancrudeoiltankerresumesvoyagepolicesay",
-  "a6dec1c563fa83e7",
-  "recordtankerfreightratesforcecrudeproducerstoslashexportpric",
   "a92deb8159b62367",
   "indiascrudeoilimportbillsoars46asmiddleeastcrisisdrivesuppri",
   "c20bcf4a1682c112",
@@ -603,7 +599,11 @@
   "a81a0d4874abde9b",
   "marketsliveeuropeansharesfallasoiltops110andaijittersweighon",
   "cbc793e6908a946c",
-  "brentcrudebreaksthrough110barrierasmiddleeasttensionsigniteo"
+  "brentcrudebreaksthrough110barrierasmiddleeasttensionsigniteo",
+  "a7507957788ad4e4",
+  "goldeasesashigheroilpricesstokeinflationconcerns",
+  "24fd7c71ab7c2af7",
+  "oilbreaks100techfuturesfade"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -615,7 +615,7 @@
   "date": "2026-10-20",
   "count": 59
  },
- "last_run": "2026-10-20T15:05:15.915833+03:00",
+ "last_run": "2026-10-20T15:10:18.285353+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
