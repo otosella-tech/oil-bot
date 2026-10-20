@@ -4,8 +4,6 @@
   "Brent": 109.62
  },
  "seen": [
-  "4894c5cbe7286600",
-  "ukrainelaunchesover1000dronesatrussiasettingoilfacilitiesabl",
   "7654d19b4aa6658e",
   "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh",
   "6e4622fb792f0d89",
@@ -603,7 +601,9 @@
   "0e0204922243c18a",
   "oilsurgestoafivemonthhighamidthesituationinthemiddleeast",
   "8ff588f3d6888e39",
-  "crudeoilmarketanalysiswtiabove100widebrentspreaddieselcrunch"
+  "crudeoilmarketanalysiswtiabove100widebrentspreaddieselcrunch",
+  "b6e90463b85b8c95",
+  "oilholdsnearfivemonthhighashormuzhouthiattacksthreatensupply"
  ],
  "releases_done": {},
  "last_digest": "2026-10-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-20",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-10-20T10:10:18.095892+03:00",
+ "last_run": "2026-10-20T10:15:18.847860+03:00",
  "sent_stories": [
   {
    "d": "2026-10-17",
@@ -1032,6 +1032,10 @@
   {
    "d": "2026-10-20",
    "t": "Crude oil prices rise amid threats to supplies through the Strait of Hormuz - UkrAgroConsult"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "Oil holds near five-month high as Hormuz, Houthi attacks threaten supply recovery - Investing.com"
   }
  ]
 }
