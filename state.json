@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "9c8bb12a6c252758",
-  "operatorofalaskanorthslopeoilfieldhitbyasecondfineforgasflar",
   "4ef3867a6afc84f8",
   "crudeoilhitsonemonthhighonsupplyconcerns",
   "5605b72c721a2561",
@@ -603,7 +601,9 @@
   "9f74150142b0b051",
   "oilpricesriseonmeasttensionsusinventorydraw",
   "9b3ba2ef88b971e4",
-  "oilrisesonmiddleeastsupplyworries"
+  "oilrisesonmiddleeastsupplyworries",
+  "041827222ab68247",
+  "crazyattacksalteredcrudeflowsunbalancedfleetspushtankerfreig"
  ],
  "releases_done": {
   "2026-10-20|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-10-21T04:05:14.977754+03:00",
+ "last_run": "2026-10-21T04:10:26.040348+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1103,6 +1103,10 @@
   {
    "d": "2026-10-21",
    "t": "Brent crude edges lower, even after Houthi attacks on Saudi infrastructure - Reuters"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Crazy – Attacks, Altered Crude Flows, Unbalanced Fleets Push Tanker Freight Rates to Record Levels - RBN Energy"
   }
  ]
 }
