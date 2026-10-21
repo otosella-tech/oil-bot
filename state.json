@@ -4,10 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "57d61481013fa885",
-  "brentcrudeoilrosetoafivemonthhighdespitetrumpsconcessionstor",
-  "5870aab4ec4c81d4",
-  "currentpriceofoilasofoctober202026",
   "dcb271dc63026fdd",
   "sharesdownagainasoilstayshighaiearningsinfocus",
   "5916978958313071",
@@ -603,7 +599,11 @@
   "f5ea79061b65ba4c",
   "ustotalcrudeoilstocksfallfurtherinweekendedoct16",
   "38a7afe99711fd12",
-  "wticrudeoilfutureshit10137beforereversingonsupplynews"
+  "wticrudeoilfutureshit10137beforereversingonsupplynews",
+  "2d1e6735730caf3d",
+  "brentcrudeoiltops110asmiddleeasttensionsfuelsupplyconcerns",
+  "f242ec9375680c50",
+  "gulfoilexportsclimbabovelevelsseenbeforetheiranwarastankersb"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T18:00:33.547510+03:00",
+ "last_run": "2026-10-21T18:05:14.982356+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1215,6 +1215,10 @@
   {
    "d": "2026-10-21",
    "t": "Japan’s trade deficit hits record $17.8 billion as Iran war sends oil import prices soaring - Fortune"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Gulf Oil Exports Climb Above Levels Seen Before the Iran War as Tankers Brave Attacks - UNITED24 Media"
   }
  ]
 }
