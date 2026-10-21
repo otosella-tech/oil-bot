@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "f91142c7c8b1614c",
-  "bccrudeoilfutures",
   "0f6c62161e38bc9a",
   "analystsexpectweeklydecreaseinuscrudeoilstockpiles",
   "54b0487c0ac9f2a4",
@@ -603,7 +601,9 @@
   "631c43fb9fd72a30",
   "oilpricesfallastradershopefordiplomaticprogressinmiddleeast",
   "d1a37e86a3afbb8a",
-  "oilfuturesendmixedastradersweighsupplyrecoveryagainstshippin"
+  "oilfuturesendmixedastradersweighsupplyrecoveryagainstshippin",
+  "949efca68c914990",
+  "kazakhstanreaffirmsrussianenergytiesasukrainiandroneshitoile"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T23:25:14.417779+03:00",
+ "last_run": "2026-10-21T23:30:23.134266+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1263,6 +1263,10 @@
   {
    "d": "2026-10-21",
    "t": "Oil Gains After Saudi Oil Field Attack - Rigzone"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Kazakhstan Reaffirms Russian Energy Ties as Ukrainian Drones Hit Oil Exports - The Jamestown Foundation"
   }
  ]
 }
