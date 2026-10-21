@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "d7c300cdd4039e61",
-  "despiterisingcrudeoilpricesgasintheregionlowerthisweek",
   "a3bbabee57dc1b64",
   "ustreasuryyieldswillnotpeakunlessoilpricesdecline",
   "77aef36a52ab7650",
@@ -603,7 +601,9 @@
   "bde8e2ff57e67003",
   "currentpriceofoilasofoctober72026",
   "c5b5ea5b73d7599a",
-  "naturalgasandoilforecastdieselshortagedrawswashingtonincanwt"
+  "naturalgasandoilforecastdieselshortagedrawswashingtonincanwt",
+  "6acb23d27217c9f3",
+  "oilfuturescrudereboundsasmiddleeasttensionsmount"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -615,7 +615,7 @@
   "date": "2026-10-21",
   "count": 30
  },
- "last_run": "2026-10-21T09:35:15.301588+03:00",
+ "last_run": "2026-10-21T09:40:19.375395+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
