@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "a7b7d395f714bfbb",
-  "oilholdsnearfivemonthhighashormuzattacksthreatensupplyrecove",
   "fdf44f41fb66390b",
   "crudeoilpricessurgeonglobalsupplyrisks",
   "1e65943a17f2dfde",
@@ -603,7 +601,9 @@
   "0afd22e223f29eee",
   "senwickerpushestrumponukraineoilformissilesdealwarnsofglobal",
   "4ea47c8ac0c63c97",
-  "oilsteadiesastradersweighconflictingsignalsonirantalks"
+  "oilsteadiesastradersweighconflictingsignalsonirantalks",
+  "cdfc7f8824741e0a",
+  "oilrisesonmiddleeastsupplyworriesbyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -615,7 +615,7 @@
   "date": "2026-10-21",
   "count": 26
  },
- "last_run": "2026-10-21T08:00:28.834125+03:00",
+ "last_run": "2026-10-21T08:05:13.792867+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
