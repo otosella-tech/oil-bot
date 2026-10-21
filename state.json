@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "2c64b9d9f96c2efc",
-  "germanycrudeoilimportsjanaug2026volumedown06valueup217newsan",
   "881c7e743966f0ee",
   "brentcrudereachesfivemonthhighof11105ashouthiattackclaimsrai",
   "c363d6eee359c76f",
@@ -603,7 +601,9 @@
   "983b2024ae93ad9f",
   "crudeoilanddieselmarketoutlookasrussiarestartsexportscmbnews",
   "e833da4016020fc4",
-  "sharesslideagainasoilstayshighaiearningsinfocus"
+  "sharesslideagainasoilstayshighaiearningsinfocus",
+  "65522abf09a5293d",
+  "ukrainewelcomesrestoredusintelligenceamidrussianattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -615,7 +615,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T15:55:15.490000+03:00",
+ "last_run": "2026-10-21T16:00:33.355362+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1192,6 +1192,10 @@
   {
    "d": "2026-10-21",
    "t": "Brent hits five-month high as attacks on ships, Saudi sites fuel supply worries - CNBC"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Ukraine Welcomes Restored U.S. Intelligence Amid Russian Attacks"
   }
  ]
 }
