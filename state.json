@@ -4,12 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "da8fc0e3982f5360",
-  "whyrubioisvisitingreliancesoilrefineryinindiatheworldslarges",
-  "064af6570ea0735a",
-  "thenextmajoroilsupplyshockcouldcomefromsaudiarabia",
-  "89dabda9c9f3c1d8",
-  "oilpricesreversegainsmovelowerafterbrenttops111abarrel",
   "1d9edaf479a57d31",
   "americanairlinesrises5aheadofearningsasoilpriceseaseunitedai",
   "cc8407a8f7c8eae0",
@@ -603,7 +597,13 @@
   "26dc5a9912e80e6f",
   "dailysummaryspacexandthetechsectordrivewallstreetoilretreats",
   "987b107624ce2cba",
-  "uscrudeoilinventoriesfallmorethanexpected"
+  "uscrudeoilinventoriesfallmorethanexpected",
+  "addc4dac13fedb43",
+  "persiangulfoilexportssurpassprewarlevelsbutshippingcostskeep",
+  "92010134aa9bce93",
+  "oilpricesunsteadyonelevatedriskinstraitofhormuz",
+  "f18814ed1e988c9a",
+  "usequityindexesadvanceasspacexsblockbusterresultsboostriskse"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T21:20:18.427075+03:00",
+ "last_run": "2026-10-21T21:25:16.634557+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1239,6 +1239,14 @@
   {
    "d": "2026-10-21",
    "t": "Middle East Oil Flows Near Prewar Levels Defy Hormuz Attacks - gCaptain"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Persian Gulf Oil Exports Surpass Prewar Levels, but Shipping Costs Keep Soaring - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Oil prices unsteady on elevated risk in Strait of Hormuz - Transport Topics"
   }
  ]
 }
