@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "b3e7c66acce30917",
-  "usbankjpmorganfacilitatessyriandealforsaudioilproducts",
   "5b133847ee677271",
   "russiasoilexportrevenueslidesasproductiondeclines",
   "3d2a7cd69b9dab60",
@@ -603,7 +601,9 @@
   "1822dd3e7f55091d",
   "reliancesaysambanisandrubiodiscussedglobalenergydatacentresi",
   "5dfb9f3ab9b8123e",
-  "moroccowantstoturnusedcookingoilintojetfuelina239millionener"
+  "moroccowantstoturnusedcookingoilintojetfuelina239millionener",
+  "cc8407a8f7c8eae0",
+  "gaspricesdipslightlyinidahoamidcrudeoilfluctuations"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T21:35:17.524246+03:00",
+ "last_run": "2026-10-21T21:40:18.569926+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
