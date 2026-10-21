@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "f2171c05a17911c6",
-  "whatdoesthisrecordcorrelationinbondsandoilmeanforstocks",
   "f889608d03ff8870",
   "currentpriceofoilasofoctober162026",
   "699f0fa3e5a3d130",
@@ -603,7 +601,9 @@
   "0fa04076ee00eff8",
   "oilrisesamidattacksonvesselsinstraitofhormuz",
   "9957410b5f28d302",
-  "photosstandardoilno1locomotivereturnstocasperatthefortcaspar"
+  "photosstandardoilno1locomotivereturnstocasperatthefortcaspar",
+  "f6086d53f78f8b80",
+  "oilpressuredrives77producerpricerise"
  ],
  "releases_done": {
   "2026-10-20|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 14
  },
- "last_run": "2026-10-21T04:40:20.091825+03:00",
+ "last_run": "2026-10-21T04:45:19.865745+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
