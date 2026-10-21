@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "d068e7dcb59921a1",
-  "crudeoilpricesatfivemonthhighonsupplyconcernsbrentoilnear110",
   "4d92d6304b471f4b",
   "oilpricetodayoctober20crudeoilnears110",
   "a2f6c44df557444f",
@@ -603,7 +601,9 @@
   "ba17fbc47962e93d",
   "oilpricetippedtohitus150ifiranwardragson",
   "bbfa6ba12ce8789b",
-  "mariettaconsidersbuyingoilwellamidaquiferconcerns"
+  "mariettaconsidersbuyingoilwellamidaquiferconcerns",
+  "5a7aa4841ad3406d",
+  "oileasesasmarketsassesspotentialwaiveronrussianenergymiddlee"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-10-21T08:50:16.975398+03:00",
+ "last_run": "2026-10-21T08:55:14.023493+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1124,6 +1124,10 @@
   {
    "d": "2026-10-21",
    "t": "Oil price tipped to hit $US150 if Iran war drags on - AFR"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Oil eases as markets assess potential waiver on Russian energy, Middle East supply risks - Yahoo Finance"
   }
  ]
 }
