@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "8ccc36c743ff87bf",
-  "oilrichalbertavotesonitsfutureincanada",
   "baee432539e64cc2",
   "oilspillclosespartofhighway69inmonroe",
   "52214537b8fe719d",
@@ -603,7 +601,9 @@
   "e16298fd55720a8e",
   "economiccalendareiaoilreportandustreasuryauctioninfocus",
   "2e6ea0ae1f02ca0d",
-  "crudeoilfuturesrisetrackingpositiveglobaltrends"
+  "crudeoilfuturesrisetrackingpositiveglobaltrends",
+  "d89f307d4772876d",
+  "trumpadministrationpushesrefinerstoboostdieseloutputasprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-10-21T09:55:15.313265+03:00",
+ "last_run": "2026-10-21T10:00:27.550028+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1128,6 +1128,10 @@
   {
    "d": "2026-10-21",
    "t": "Oil eases as markets assess potential waiver on Russian energy, Middle East supply risks - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar"
   }
  ]
 }
