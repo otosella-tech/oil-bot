@@ -4,14 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "23e5027ee283c27e",
-  "returningabove100whywastrumpunabletosuppressoilpricesbeforet",
-  "cd15e6a6e4315b7b",
-  "asiascoalpricestostayhighassupplydropsanddemandfirms",
-  "5bebe60590a5cbcb",
-  "currentpriceofoilasofoct202026",
-  "f86df72b6270d46c",
-  "uscrudeoilstockpilespostlargeweeklydrop",
   "841b3fdb5909daaa",
   "bpoilspillcontinuestodecimatemarinelifeoffgulfofmexico16year",
   "33297e90af495395",
@@ -603,7 +595,15 @@
   "679a840b0db046eb",
   "eiasaysuscrudeinventoriessinkfurther",
   "21162f0d0ff0f5bc",
-  "ustotalweeklyeiacrudeoilstocksfallby34millionbarrelsafterpri"
+  "ustotalweeklyeiacrudeoilstocksfallby34millionbarrelsafterpri",
+  "73b71e54e435cbf5",
+  "japanstradedeficithitsrecord178billionasiranwarsendsoilimpor",
+  "d4f86983db86d9f5",
+  "federalgovernmenttoreleasebarrelsofheatingoilfromsouthportla",
+  "0c9e1298da4e99fb",
+  "crudeoilinventoriesshowadrawof3060mversusestimateof082millio",
+  "034426f740eebfb4",
+  "gaspricesnotbudgingmuchascrudeoilremainshigh"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T17:40:19.087785+03:00",
+ "last_run": "2026-10-21T17:45:17.995355+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1211,6 +1211,10 @@
   {
    "d": "2026-10-21",
    "t": "Japan's trade deficit reaches $17.8 billion as the Iran war sent oil import prices soaring - Fortune"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Japan’s trade deficit hits record $17.8 billion as Iran war sends oil import prices soaring - Fortune"
   }
  ]
 }
