@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "f5a4ae88b4d9b09e",
-  "crudeoiltops100",
   "7bd7e91a1036f463",
   "angmodolldevalueoilmustmoreexpansive",
   "f41b2d0def42a855",
@@ -603,7 +601,9 @@
   "5990b338b3f37f7c",
   "apiuscrudestockpilesdrop4930mbarrelsvs1300mexpectednewsandst",
   "de094839e50cc0c8",
-  "tagoilconfirmedoilbearingrockbutitsegyptwellshowedrestricted"
+  "tagoilconfirmedoilbearingrockbutitsegyptwellshowedrestricted",
+  "63c00ddc19dedabc",
+  "japanstradedeficitdoublesashormuzcrisishikesenergyimportcost"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -615,7 +615,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T16:25:14.610134+03:00",
+ "last_run": "2026-10-21T16:30:24.882443+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-10-21",
    "t": "Ukraine Welcomes Restored U.S. Intelligence Amid Russian Attacks"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Japan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs"
   }
  ]
 }
