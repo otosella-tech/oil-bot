@@ -4,10 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "e2df40858e42f83c",
-  "oilmajorsfacespendingtestfromiranwarwindfallcash",
-  "264e6443e0fb55a2",
-  "oilpricestop110astradersweighmiddleeastsupplyrisks",
   "7ce4039ec1d38196",
   "ukrainiandronestrikesparksfireatoiltransithubintambovregion",
   "e1fde3d641726c2a",
@@ -603,7 +599,11 @@
   "a087fe8dec0653a8",
   "momentumbehindwtiandbrentcrudeoilpricegainsiswaning",
   "54832e1d30bb4b4e",
-  "whyafricanoilcannotsolvetheglobalfuelcrisis"
+  "whyafricanoilcannotsolvetheglobalfuelcrisis",
+  "6e146522a037036b",
+  "wisdomtreeproposesprincipalamountcutforcrudeoiletps",
+  "394e04fe043b4a50",
+  "iranwarsparksheatingcrisisinusnortheastaswinterapproaches"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 53
+  "count": 54
  },
- "last_run": "2026-10-21T14:10:19.619115+03:00",
+ "last_run": "2026-10-21T14:15:17.149551+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
