@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "bafd096ac8896ab1",
-  "trumpsdisastrouswarhasbeengreatforbigoilcompanies",
   "8de95dae6072a1c8",
   "halliburtonseesmultiyeardemandgrowthfromenergydisruption",
   "fd3630af567281b3",
@@ -603,10 +601,13 @@
   "43c31be7e953f139",
   "thebarrelthatmattersmostrightnowisdiesel",
   "19dbd4fa11c2203d",
-  "bitcoinpricetodayrecoverynears84ktest"
+  "bitcoinpricetodayrecoverynears84ktest",
+  "954f21c9e7fcada4",
+  "higheroilavailabilitypressuresmiddleeastcrudebenchmarks"
  ],
  "releases_done": {
-  "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+  "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
+  "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|post": 1
  },
  "last_digest": "2026-10-21",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T17:25:16.307655+03:00",
+ "last_run": "2026-10-21T17:30:24.163905+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
