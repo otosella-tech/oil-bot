@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "54e488bb62928524",
-  "stocksmostlyriseasoilusyieldseaseeuroedgesup",
   "04033c391dd84906",
   "usauthorizessalesofsanctionedoiltankers",
   "cdeb0ed6b0a40b8f",
@@ -603,7 +601,9 @@
   "375d387aca3219b8",
   "greatlakesoilspillsareusuallysmallbutstillharmwaterstudywarn",
   "5f79276816208351",
-  "usstatedepartmentistopreparedtoissueaorderdepartureatusembas"
+  "usstatedepartmentistopreparedtoissueaorderdepartureatusembas",
+  "2d9742f71cc9ae95",
+  "oilisnowflowingoutofthepersiangulflikebeforetheiranwarwhypri"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-22",
-  "count": 2
+  "count": 3
  },
- "last_run": "2026-10-22T00:15:17.890037+03:00",
+ "last_run": "2026-10-22T00:20:19.038838+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
