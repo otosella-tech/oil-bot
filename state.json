@@ -4,12 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "a3bbabee57dc1b64",
-  "ustreasuryyieldswillnotpeakunlessoilpricesdecline",
-  "77aef36a52ab7650",
-  "trumpaskedtoparticipateinoilproductionbutitoldhimitcantbedon",
-  "121fdad2bb45e2dc",
-  "oilpricesjump2onsaudiattacksasopecseesdemandrebound",
   "8ccc36c743ff87bf",
   "oilrichalbertavotesonitsfutureincanada",
   "baee432539e64cc2",
@@ -603,7 +597,13 @@
   "c5b5ea5b73d7599a",
   "naturalgasandoilforecastdieselshortagedrawswashingtonincanwt",
   "6acb23d27217c9f3",
-  "oilfuturescrudereboundsasmiddleeasttensionsmount"
+  "oilfuturescrudereboundsasmiddleeasttensionsmount",
+  "bd84b7ade63bacf9",
+  "golddipsforfourthsessionasoilrallyfansinflationconcerns",
+  "e16298fd55720a8e",
+  "economiccalendareiaoilreportandustreasuryauctioninfocus",
+  "2e6ea0ae1f02ca0d",
+  "crudeoilfuturesrisetrackingpositiveglobaltrends"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -615,7 +615,7 @@
   "date": "2026-10-21",
   "count": 30
  },
- "last_run": "2026-10-21T09:50:17.547936+03:00",
+ "last_run": "2026-10-21T09:55:15.313265+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
