@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "17b73fdfbedafcc8",
-  "votecountbeginsinalbertasecessionreferedumtestingcanadaunity",
   "b2eda7442d0570dd",
   "brenttops110astankerattacksthreatenpersiangulfsupply",
   "4c97bc1c27bb7004",
@@ -603,7 +601,9 @@
   "e1b526cc36d46b29",
   "brentcrudereturnsto110asoiloutlookfocusesonsupplyrisksandusi",
   "ab53b67c3f539e0b",
-  "wtioilapproaches99amidfearsofsupplydisruptionsfromgulfcountr"
+  "wtioilapproaches99amidfearsofsupplydisruptionsfromgulfcountr",
+  "8d4278f1b77320a8",
+  "indianoiltotrimmiddleeastoilimportsunderannualdealsamidiranw"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-10-21T11:35:14.985105+03:00",
+ "last_run": "2026-10-21T11:40:18.477973+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1152,6 +1152,10 @@
   {
    "d": "2026-10-21",
    "t": "Oil Prices Rise as Hormuz Shipping Risks Persist - WSJ"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Indian Oil to trim Middle East oil imports under annual deals amid Iran war - Reuters"
   }
  ]
 }
