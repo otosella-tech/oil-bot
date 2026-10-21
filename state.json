@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "fb73e6b9c283c7c4",
-  "oilwaversasiranthreatsviewithrobustgulfcrudeflows",
   "d5bdb1e12a4073a5",
   "tennesseegaspriceaveragedropsto383pergallon",
   "70fd226e60334ea6",
@@ -603,7 +601,9 @@
   "d0e497242383f9cb",
   "rupeetoriseonjioipoinflowsrbiwhileoilriskscloudoutlook",
   "c696fa3ef5ac7945",
-  "hereswhyrubioisvisitingasmallindiancityhometoworldslargestoi"
+  "hereswhyrubioisvisitingasmallindiancityhometoworldslargestoi",
+  "549e06e9eadb7b30",
+  "oilstocksinusstrategicpetroleumreservefalltolowestlevelsince"
  ],
  "releases_done": {
   "2026-10-20|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 16
+  "count": 17
  },
- "last_run": "2026-10-21T06:45:17.194409+03:00",
+ "last_run": "2026-10-21T06:50:18.900790+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
