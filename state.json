@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "72e25ccdbdde7fcb",
-  "aijittersoilfranceturmoildampwallstreetprebellasiaeuropeoff",
   "0e75e47ec04dfe9e",
   "nasdaqfuturesfallasoilpricesjumpkeyearningsloom",
   "5699b45f59407266",
@@ -603,7 +601,9 @@
   "7c34cac20fc3cb7a",
   "oilpricesfallreversinginitialgainsastradersweighgulfsupplyre",
   "bd869df1a13ec5c1",
-  "crudeoilfuturesreactedtothenewsheadlineskeepstradersfocusedo"
+  "crudeoilfuturesreactedtothenewsheadlineskeepstradersfocusedo",
+  "676543139bba9098",
+  "oilparkedabove110abarrelasieawarnsenergymarketswontreturnton"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -615,7 +615,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T16:45:20.326707+03:00",
+ "last_run": "2026-10-21T16:50:18.560045+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1200,6 +1200,10 @@
   {
    "d": "2026-10-21",
    "t": "Japan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Oil parked above $110 a barrel as IEA warns energy markets won’t return to normal next year - CNN"
   }
  ]
 }
