@@ -4,10 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "93980c40b04d0a64",
-  "vixbondsandcrudeoiltuesdayscriticalmarketsignals",
-  "619d2251afa16805",
-  "usstocksriseafteroilpricesretreatandcompaniesdeliverstrongpr",
   "2d9d75fbdd3b2bfc",
   "usedoilspillreachesstormsewerinmonroe",
   "9733ed011550df9b",
@@ -603,7 +599,11 @@
   "62107ecd8b300b6a",
   "uscrudeoilstockpilespostweeklydrop",
   "7335af6057fac622",
-  "sprcrudeoilacquisitionprocedures"
+  "sprcrudeoilacquisitionprocedures",
+  "80ad43a305dba369",
+  "14yearsafteroildiscoveryeastafricaslargesteconomytargetsfirs",
+  "0da76411ae865ca2",
+  "morganstanleyglobalfuelmarketwillstaytightthroughmid2027"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T20:50:20.315220+03:00",
+ "last_run": "2026-10-21T20:55:15.852186+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
