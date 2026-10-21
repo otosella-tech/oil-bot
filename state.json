@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "fd3710f34a369004",
-  "usstocksriseaftercompaniesdeliverstrongprofitsandoilpricesre",
   "e5262e244cc7ccd6",
   "brentcrudepricesslipamidsthouthiattacks",
   "f91142c7c8b1614c",
@@ -603,7 +601,9 @@
   "684c2e64463bbe7c",
   "oilgainsaftersaudioilfieldattack",
   "f7bea9656ed8550a",
-  "asbpleavesthenorthseatheseindependentsarebuyingin"
+  "asbpleavesthenorthseatheseindependentsarebuyingin",
+  "631c43fb9fd72a30",
+  "oilpricesfallastradershopefordiplomaticprogressinmiddleeast"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T23:00:30.313838+03:00",
+ "last_run": "2026-10-21T23:05:17.113912+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
