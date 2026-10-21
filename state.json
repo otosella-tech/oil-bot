@@ -4,10 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "1a15ddb1e9c0a748",
-  "iranwartiltsbalanceofglobaloilpowertowardsamericas",
-  "00bde72daf783ad4",
-  "votersinoilrichalbertarejectleavingcanada",
   "d5e4d04483165a2e",
   "skenmoveemergesaseuropeslubricantbaseoillifelineamidmiddleea",
   "a7650ed994b5c9fc",
@@ -603,7 +599,11 @@
   "3b6b06a18489a819",
   "debunkingthelatestoilpricemyths",
   "a5906eb0afc0bc56",
-  "wticrudeoilforecastkeylevelsand103resistance"
+  "wticrudeoilforecastkeylevelsand103resistance",
+  "557b4420e5b433c0",
+  "britainapproveslongstalledgasdrillingprojectinthenorthsea",
+  "f70d4d55d350b9ed",
+  "goldmansachssayswarspurssevenfoldjumpinoilfreightrates"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-10-21T12:10:19.183668+03:00",
+ "last_run": "2026-10-21T12:15:17.010727+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1160,6 +1160,10 @@
   {
    "d": "2026-10-21",
    "t": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Goldman Sachs Says War Spurs Sevenfold Jump in Oil Freight Rates - Yahoo Finance UK"
   }
  ]
 }
