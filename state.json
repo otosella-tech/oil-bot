@@ -4,10 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "034426f740eebfb4",
-  "gaspricesnotbudgingmuchascrudeoilremainshigh",
-  "8c51d53cefdde94e",
-  "indiascrudeoilimportbillsoars46asmiddleeastcrisisdrivesuppri",
   "23e5027ee283c27e",
   "returningabove100whywastrumpunabletosuppressoilpricesbeforet",
   "cd15e6a6e4315b7b",
@@ -603,7 +599,11 @@
   "ffaffcc8c2f14c6b",
   "usplanstoreleaseathirdofheatingoilreservetobringdownprices",
   "3aef3bcfc52a9866",
-  "crudeoilcontinuestoseeunevendistribution"
+  "crudeoilcontinuestoseeunevendistribution",
+  "679a840b0db046eb",
+  "eiasaysuscrudeinventoriessinkfurther",
+  "21162f0d0ff0f5bc",
+  "ustotalweeklyeiacrudeoilstocksfallby34millionbarrelsafterpri"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T17:35:16.973219+03:00",
+ "last_run": "2026-10-21T17:40:19.087785+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
