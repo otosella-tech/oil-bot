@@ -4,10 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "74dada8748021d9e",
-  "usdjpyandnasdaqpriceoutlookkeylevelstowatch",
-  "5495a0e66e3919bb",
-  "hsbcseeshormuzbecomingredundantinfiveyears",
   "e62f01cb55a98bed",
   "currentpriceofoilasofoctober142026",
   "35973e70f2e701e8",
@@ -603,7 +599,11 @@
   "6d8adacc49a42d11",
   "useiacrudeoilinventories31mlnbarrelsinlatestweekfromprevious",
   "6a586cc9102d44e2",
-  "uscrudeoilstockpilesfallmorethanexpected"
+  "uscrudeoilstockpilesfallmorethanexpected",
+  "38c4f28bca7a5a40",
+  "indiastopstaterefinertoreducemiddleeasttermoilpurchases",
+  "48c2db3032b442e5",
+  "oilfuturescrudeedgesupasmiddleeasttensionsmount"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T18:25:16.732151+03:00",
+ "last_run": "2026-10-21T18:30:24.584659+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
