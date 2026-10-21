@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "549e06e9eadb7b30",
-  "oilstocksinusstrategicpetroleumreservefalltolowestlevelsince",
   "4a1048e9c48fb761",
   "oiltankerratesurgepushesasiaeuroperefinersintothered",
   "e04272049b29aac5",
@@ -603,7 +601,9 @@
   "0ea18ae14c88a042",
   "whatdoestheuksapprovalofthejackdawgasfieldmean",
   "f889608d03ff8870",
-  "currentpriceofoilasofoctober162026"
+  "currentpriceofoilasofoctober162026",
+  "9856a9b348781130",
+  "thesecrettermsoftrumpsvenezuelanoildeal"
  ],
  "releases_done": {
   "2026-10-20|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 14
  },
- "last_run": "2026-10-21T04:54:11.525013+03:00",
+ "last_run": "2026-10-21T04:55:14.477942+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
