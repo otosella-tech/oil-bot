@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "5f1123a91a8a3ada",
-  "canadiandollarnotchesnearlyfourweekhighonbocratehikebets",
   "181eec8d30060a87",
   "lynnhostsoilspilltraining",
   "45ed3f2784b44a34",
@@ -603,7 +601,9 @@
   "2d0b3c761028b4cc",
   "keymideastoilbenchmarkhits3monthlowonresilientexports",
   "4c5e900c68044364",
-  "crudeoilmarketoutlooksoftercurvetightdieselgeopoliticalriskc"
+  "crudeoilmarketoutlooksoftercurvetightdieselgeopoliticalriskc",
+  "5a14024789b273d7",
+  "reportdespiteiransattacksgulfoilexportsexceedprewarlevels"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-10-21T10:30:24.171588+03:00",
+ "last_run": "2026-10-21T10:35:15.035044+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1132,6 +1132,10 @@
   {
    "d": "2026-10-21",
    "t": "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Report: Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels - The Maritime Executive"
   }
  ]
 }
