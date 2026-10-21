@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "060574992136973e",
-  "cubaopensoilsectorfurthertoprivateinvestmentundernewlaw",
   "a7d8ce776f1023f4",
   "gaspricesdropingeorgia",
   "a6e2a2db16fdeaae",
@@ -603,7 +601,9 @@
   "630f13703685ef79",
   "oilpricesriseonmiddleeastsupplyandshippingconcerns",
   "5d6c22853ee95737",
-  "asiansharesusfuturesriseonaitraderevivalmarketswrap"
+  "asiansharesusfuturesriseonaitraderevivalmarketswrap",
+  "ab2581e30f30cc61",
+  "oilpricestodaybrentcrudetops110asmiddleeasttensionsthreatens"
  ],
  "releases_done": {
   "2026-10-20|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 14
  },
- "last_run": "2026-10-21T05:25:14.179753+03:00",
+ "last_run": "2026-10-21T05:30:21.609274+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
