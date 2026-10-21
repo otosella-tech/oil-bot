@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "ea6521f85fefe0d8",
-  "gasproductionplunges126aseuropeheadsintowinter",
   "07e52140483440de",
   "iransayssupertankercarryingover2millionbarrelsofoilhitminene",
   "ac2e386b33ac7df7",
@@ -603,7 +601,9 @@
   "2cfd993820b395d3",
   "usenergyredtapegiveschinaanedge",
   "4b0b04f759d00155",
-  "ecuadorjustbecameperustopoilsuppliera165bcrudedealendsa4year"
+  "ecuadorjustbecameperustopoilsuppliera165bcrudedealendsa4year",
+  "90ea3af8f289f00d",
+  "treasuriesslideaftermiddleeaststrifereportspursoilgains"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-22",
   "count": 3
  },
- "last_run": "2026-10-22T01:15:18.743411+03:00",
+ "last_run": "2026-10-22T01:20:19.522748+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
