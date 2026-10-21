@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "4c97bc1c27bb7004",
-  "oilpricesup191026",
   "f8de9db809bf749e",
   "oilwaversnearfivemonthhighasiranthreatsviewithflows",
   "58008aabaca30d3b",
@@ -603,7 +601,9 @@
   "8d4278f1b77320a8",
   "indianoiltotrimmiddleeastoilimportsunderannualdealsamidiranw",
   "a1894e9a56104e4e",
-  "oilrisesasirantensionsuscrudestockdrawfuelsupplyconcerns"
+  "oilrisesasirantensionsuscrudestockdrawfuelsupplyconcerns",
+  "8cb4c93ed47beac1",
+  "brenttops110astankerattacksthreatenpersiangulfsupply"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-10-21T11:45:21.646558+03:00",
+ "last_run": "2026-10-21T11:50:17.974096+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1156,6 +1156,10 @@
   {
    "d": "2026-10-21",
    "t": "Indian Oil to trim Middle East oil imports under annual deals amid Iran war - Reuters"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
