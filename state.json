@@ -4,10 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "d01dbb2c3a478cae",
-  "novemberwticrudeoilcontractclosesup225or22settlesat10366perb",
-  "8cad94f62b75c07c",
-  "asianlngpricessurgepast30asmiddleeastshippingrisksescalate",
   "3e2b4062820747ed",
   "thechangingnatureofchinasinfluenceoncommoditymarkets",
   "9854b1434a0c09a2",
@@ -603,7 +599,11 @@
   "0ad7c6475012d02a",
   "macquarieoiltradersleaveasbankrestructurescommodityunits",
   "9b65007ad055180d",
-  "ukgovernmentapprovesnaturalgasprojectoffscotlanddespiteenvir"
+  "ukgovernmentapprovesnaturalgasprojectoffscotlanddespiteenvir",
+  "49de0dd302c6c2b3",
+  "brentoilpricesnear5monthhighonmiddleeastsupplyfearsusinvento",
+  "1cfe9a3660e26440",
+  "oilpricesriseonsaudiarabiaattacksovershadowingtrumpsdieselde"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-10-21T12:55:14.081917+03:00",
+ "last_run": "2026-10-21T13:00:29.271869+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1176,6 +1176,10 @@
   {
    "d": "2026-10-21",
    "t": "The Indian mega-refinery drawing Marco Rubio’s interest - Financial Times"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal - Reuters"
   }
  ]
 }
