@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "11fa2a1997eb6135",
-  "oilisflowingfromthepersiangulfbutpricesremainhighwhy",
   "a1b2e54d77e1afe7",
   "oilpricessettledown25onsignsmiddleeastexportsrecovering",
   "2b4a65a817860ce5",
@@ -603,7 +601,9 @@
   "325e74fa4458e7df",
   "currentpriceofoilasofoctober132026",
   "a08a753cf1bef968",
-  "crudeoilhigheronsupplyissues"
+  "crudeoilhigheronsupplyissues",
+  "684f95970534df33",
+  "japansexportgrowthstayssolidsupportedbychipsandcars"
  ],
  "releases_done": {
   "2026-10-20|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 16
  },
- "last_run": "2026-10-21T05:50:17.775869+03:00",
+ "last_run": "2026-10-21T05:55:14.359664+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
