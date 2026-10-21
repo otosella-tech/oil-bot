@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "f521bc6eb7fa831d",
-  "goldweakersilvermixedasweakhousingdataoffsetsrisingoilprices",
   "74dada8748021d9e",
   "usdjpyandnasdaqpriceoutlookkeylevelstowatch",
   "5495a0e66e3919bb",
@@ -603,7 +601,9 @@
   "8a1e435809f09f9b",
   "breakingusoilinventoriesfallmorethanexpectedbutdistillatebui",
   "6d8adacc49a42d11",
-  "useiacrudeoilinventories31mlnbarrelsinlatestweekfromprevious"
+  "useiacrudeoilinventories31mlnbarrelsinlatestweekfromprevious",
+  "6a586cc9102d44e2",
+  "uscrudeoilstockpilesfallmorethanexpected"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T18:15:18.166240+03:00",
+ "last_run": "2026-10-21T18:20:19.785248+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
