@@ -4,10 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "29fef156df51b33e",
-  "rubiokicksoffindiavisitwithtradedealrussianoilonagendabyreut",
-  "b899e2b3ad4e8b15",
-  "usallowsdarkfleettankerstoshedsanctionswrightsays",
   "78ecd00ec0c48920",
   "marinelifedramaticallydeclinedingulfofmexicosincebpoilspills",
   "cd722325e01f1e37",
@@ -603,7 +599,11 @@
   "7b89047b0b48b6ce",
   "saudileadsjumpinopecoiloutputinseptemberdespiteiranwardisrup",
   "268ba73a872fa1f7",
-  "goldfuturesfallasrisingoilfuelsinflationconcerns"
+  "goldfuturesfallasrisingoilfuelsinflationconcerns",
+  "57c517d74d9996da",
+  "indiascoalcrisisdeepensaspowerdemandsurges",
+  "6c6db3c3bf69eebe",
+  "oilpricesriseashormuzshippingriskspersist"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-10-21T11:25:15.461981+03:00",
+ "last_run": "2026-10-21T11:30:23.053906+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1144,6 +1144,14 @@
   {
    "d": "2026-10-21",
    "t": "Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption - Reuters"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "India’s Coal Crisis Deepens as Power Demand Surges"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Oil Prices Rise as Hormuz Shipping Risks Persist - WSJ"
   }
  ]
 }
