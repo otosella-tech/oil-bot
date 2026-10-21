@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "579df7f7fc97f969",
-  "recordshippingcostsforceoilproducerstoslashprices",
   "d41189ec2fa66989",
   "11104resistancekeepsbrentcrudeoilflat",
   "29fef156df51b33e",
@@ -603,7 +601,9 @@
   "43eea88f956a5e2d",
   "oilfuturescrudehigherasmiddleeasttensionsmount",
   "428a4bbc176f58e6",
-  "panelistsdiscussfutureofoilregioncommunitiesatdrakedialogues"
+  "panelistsdiscussfutureofoilregioncommunitiesatdrakedialogues",
+  "7b89047b0b48b6ce",
+  "saudileadsjumpinopecoiloutputinseptemberdespiteiranwardisrup"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-10-21T11:15:17.900960+03:00",
+ "last_run": "2026-10-21T11:20:19.105342+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1140,6 +1140,10 @@
   {
    "d": "2026-10-21",
    "t": "Oil Rises As Hormuz Shipping Attacks Fuel Supply Fears - WSJ"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption - Reuters"
   }
  ]
 }
