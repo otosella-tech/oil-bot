@@ -4,10 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "d5e4d04483165a2e",
-  "skenmoveemergesaseuropeslubricantbaseoillifelineamidmiddleea",
-  "a7650ed994b5c9fc",
-  "oilpricetodayoctober20crudeoilnears110againasfreshattacksout",
   "5c66481635a179ef",
   "brentcrudetops110tohitnearfivemonthhighoilmaytest120",
   "1cfe9a3660e26440",
@@ -603,7 +599,11 @@
   "557b4420e5b433c0",
   "britainapproveslongstalledgasdrillingprojectinthenorthsea",
   "f70d4d55d350b9ed",
-  "goldmansachssayswarspurssevenfoldjumpinoilfreightrates"
+  "goldmansachssayswarspurssevenfoldjumpinoilfreightrates",
+  "fef2ed83199e9a56",
+  "goldmansachswarnsofnewoilpriceshockastankerratessoar",
+  "b69bcb1d7a40a9a7",
+  "wallstreetjournalregionaloilexportsexceedprewarlevels"
  ],
  "releases_done": {},
  "last_digest": "2026-10-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-21",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-10-21T12:25:15.069041+03:00",
+ "last_run": "2026-10-21T12:30:23.230433+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
@@ -1164,6 +1164,14 @@
   {
    "d": "2026-10-21",
    "t": "Goldman Sachs Says War Spurs Sevenfold Jump in Oil Freight Rates - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Goldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar"
+  },
+  {
+   "d": "2026-10-21",
+   "t": "Wall Street Journal: Regional Oil Exports Exceed Pre-War Levels - IranWire"
   }
  ]
 }
