@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "54b0487c0ac9f2a4",
-  "eustandsfirmagainstarcticoilandgasdrillingdespiteenergycrisi",
   "bf11c0869bd30ee4",
   "cmecrudeoilpullsback",
   "3576a27b9ef60673",
@@ -603,7 +601,9 @@
   "949efca68c914990",
   "kazakhstanreaffirmsrussianenergytiesasukrainiandroneshitoile",
   "b1d7a85aa091b182",
-  "dowjonesenergyforumusvenezuelanoilimportswontreplacecanadase"
+  "dowjonesenergyforumusvenezuelanoilimportswontreplacecanadase",
+  "9519393287c4f54d",
+  "spglobalwarnshormuzenergyshockcouldbecomeaglobalfoodcrisis"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -615,63 +615,11 @@
   "Brent": 110.25
  },
  "llm": {
-  "date": "2026-10-21",
-  "count": 60
+  "date": "2026-10-22",
+  "count": 2
  },
- "last_run": "2026-10-21T23:55:37.969084+03:00",
+ "last_run": "2026-10-22T00:00:30.878767+03:00",
  "sent_stories": [
-  {
-   "d": "2026-10-18",
-   "t": "Oil Prices Stay High as War Keeps Supply Tight Into 2027"
-  },
-  {
-   "d": "2026-10-18",
-   "t": "Venezuela expects nearly $76 billion in oil investment over five years, acting president says - Reuters"
-  },
-  {
-   "d": "2026-10-18",
-   "t": "An attack on two oil tankers off the coast of Saudi Arabia has reignited tensions in the Gulf, while the price of crude oil continues to rise - voz.us"
-  },
-  {
-   "d": "2026-10-18",
-   "t": "Venezuela expects $76 billion oil investment boost amid U.S. cooperation - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-18",
-   "t": "What Trump’s Waiver of New Russia Sanctions Means for Ukraine - Time Magazine"
-  },
-  {
-   "d": "2026-10-18",
-   "t": "Iran's IRGC: 2nd supertanker explodes after hitting mine in Hormuz Strait - chinadailyhk"
-  },
-  {
-   "d": "2026-10-18",
-   "t": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters"
-  },
-  {
-   "d": "2026-10-18",
-   "t": "Japan Plans New Oil Security Measures to Bypass Hormuz as Middle East Crisis Exposes Energy Supply Risks - The Japan News"
-  },
-  {
-   "d": "2026-10-18",
-   "t": "Iran’s crude oil production surges past 3.7 million bpd - PressTV"
-  },
-  {
-   "d": "2026-10-18",
-   "t": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom - Reuters"
-  },
-  {
-   "d": "2026-10-18",
-   "t": "Ukraine strikes oil facility in St. Petersburg as part of ‘massive’ drone attack - POLITICO.eu"
-  },
-  {
-   "d": "2026-10-18",
-   "t": "Crude Oil Surges Toward $110 a Barrel on Middle East Turmoil and Plunging U.S. Inventories - finance.biggo.com"
-  },
-  {
-   "d": "2026-10-18",
-   "t": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites - Al Jazeera"
-  },
   {
    "d": "2026-10-19",
    "t": "Crude Oil Prices Fall with WTI $3 Down as Vance Signals Possible De-escalation in Iran War - FXLeaders"
@@ -1267,6 +1215,10 @@
   {
    "d": "2026-10-21",
    "t": "Kazakhstan Reaffirms Russian Energy Ties as Ukrainian Drones Hit Oil Exports - The Jamestown Foundation"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis"
   }
  ]
 }
