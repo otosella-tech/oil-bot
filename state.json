@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "47af8e1a107a9ab5",
-  "uscrudeoilhitsmorethan105perbarrelinternationalover110",
   "1fda007d62570a4e",
   "exxonmobilhitsanewalltimehighisittoolatetobuythestock",
   "05334384ab12d02a",
@@ -603,7 +601,9 @@
   "200b0312e1c31fbe",
   "saudicrudeexportshitfive",
   "58c8f27249455b28",
-  "middleeastoilflowsnearprewarlevelsdefyhormuzattacks"
+  "middleeastoilflowsnearprewarlevelsdefyhormuzattacks",
+  "45611c155c9798ed",
+  "oilfuturescrudevolatileasmiddleeasttensionsmount"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-21",
   "count": 60
  },
- "last_run": "2026-10-21T20:45:17.301732+03:00",
+ "last_run": "2026-10-21T20:47:34.471710+03:00",
  "sent_stories": [
   {
    "d": "2026-10-18",
