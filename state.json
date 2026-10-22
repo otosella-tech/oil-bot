@@ -4,8 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "508b440291d2b111",
-  "russianuralscrudeoilhasplungedtoa15monthlowthepricefellto80p",
   "613777a16a93f4bb",
   "saudicrudeexportshitfivemonthhighasproductionfallstorecordlo",
   "d2e35caa8364db0a",
@@ -603,7 +601,9 @@
   "a2d7276ed5cea519",
   "renewedaifearsandafreshspikeinoilpricesarehammeringstocks",
   "b58ec5a84cf245a0",
-  "iransshadowtankerfleetreportedlyrunsoutofoil"
+  "iransshadowtankerfleetreportedlyrunsoutofoil",
+  "9a34dc36128e4cc2",
+  "updateusequityindexesmixedasinvestorsrotatefromaitradetogove"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-23",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-10-23T00:25:18.393518+03:00",
+ "last_run": "2026-10-23T00:30:22.618804+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1296,6 +1296,10 @@
   {
    "d": "2026-10-23",
    "t": "Iran’s shadow tanker fleet reportedly runs out of oil - Fox News"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Update: US Equity Indexes Mixed as Investors Rotate From AI Trade to Government Bonds; Crude Oil Surges - Yahoo Finance"
   }
  ]
 }
