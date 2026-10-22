@@ -4,8 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "f242ec9375680c50",
-  "gulfoilexportsclimbabovelevelsseenbeforetheiranwarastankersb",
   "5870aab4ec4c81d4",
   "currentpriceofoilasofoctober202026",
   "e6cb1c7d31e05394",
@@ -603,7 +601,9 @@
   "2e52a573f6983d88",
   "undertheradarstockstoplaythenextlegoftheenergytradewithoilpr",
   "9fb7e7e77706b97c",
-  "oildevelopmentapprovedinnorthernhooralazimwetland"
+  "oildevelopmentapprovedinnorthernhooralazimwetland",
+  "152d9e68bb6c58f1",
+  "oilhitsfivemonthhighashouthiattacksstokesupplyfears"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T18:50:18.366146+03:00",
+ "last_run": "2026-10-22T18:55:14.411511+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
