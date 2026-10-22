@@ -4,8 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "378e07caf6753eef",
-  "oilfoundinhuntsvillefiredepartmentairtanksfirefightersdemand",
   "3112c2c235f2cd34",
   "brentoiltops109afterhouthimilitantsclaimtheyattackedsaudiair",
   "6505a1e6ffdc2d3c",
@@ -603,7 +601,9 @@
   "0761a5633595d831",
   "maurelpromactivityforthefirstninemonthsof2026",
   "ca16af38abaf649d",
-  "fillingthestrategicpetroleumreserve"
+  "fillingthestrategicpetroleumreserve",
+  "10b0ed8a45b85c32",
+  "oilrisesasianstocksfallasmiddleeasttensionsmount"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 45
  },
- "last_run": "2026-10-22T09:45:19.364370+03:00",
+ "last_run": "2026-10-22T09:50:18.551537+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
