@@ -4,10 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "8381fb30ed2644fa",
-  "uscrudeoilinventoriesdecreaseby31millionbarrels",
-  "8be4b16edead8df2",
-  "marinelifedramaticallydeclinedingulfinyearsafterbpoilspillst",
   "e46573d8f3a1f7b0",
   "albertavotersrejectleavingcanadainreferendumonseparatism",
   "200b0312e1c31fbe",
@@ -603,7 +599,11 @@
   "09e1bde39891d824",
   "wallstreetsinksasnasdaqfallsover2onaicostworries",
   "af841309ac4313d7",
-  "citis60oilcallmeets112brent"
+  "citis60oilcallmeets112brent",
+  "fcd28d2bd3a1fe6f",
+  "brentcrudetops111aftertrumphintsatactiononiranusordersstafft",
+  "30817f5a99ed1238",
+  "mexicosyearofoilspillsfuelsgrowingconcern"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T20:30:24.292713+03:00",
+ "last_run": "2026-10-22T20:35:13.449426+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1448,6 +1448,10 @@
   {
    "d": "2026-10-22",
    "t": "U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia - CNBC"
   }
  ]
 }
