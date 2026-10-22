@@ -4,8 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "b5755c3fedb3c747",
-  "oilpricesriseasiranustensionsthreatensupply",
   "8746250bc0a76118",
   "processramanforoilgas",
   "8381fb30ed2644fa",
@@ -603,7 +601,9 @@
   "16d62933825a5184",
   "surgingoilpricesandfreshtechjittersarehammeringstocks",
   "0f0425e023d93961",
-  "uscrudeoilnear98asiranstepsupattacksinstraitofhormuz"
+  "uscrudeoilnear98asiranstepsupattacksinstraitofhormuz",
+  "09e1bde39891d824",
+  "wallstreetsinksasnasdaqfallsover2onaicostworries"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T20:15:18.526415+03:00",
+ "last_run": "2026-10-22T20:20:18.833001+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
