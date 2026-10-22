@@ -4,14 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "9b1af86db2a00b14",
-  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
-  "6031937db93ebce7",
-  "oilrisesonmiddleeastsupplyfearsusinventorydrawdowns",
-  "c6a88797d8192d9e",
-  "iransrevolutionaryguardsclaimoiltankerstruckaseamine",
-  "a6e2a2db16fdeaae",
-  "crudeoilcutslossesastraderseyeg7fuelrelease",
   "041b6a92b2709ee9",
   "oilpricesfallasieamembersagreetoprioritizereleaseofdieselsto",
   "4a3f5cf7b3b78928",
@@ -603,7 +595,15 @@
   "073f0a2b2e22e698",
   "analystssayiransfloatingoiltankerreservesfullyexhausted",
   "513ec89dc3f7fab9",
-  "oilpricessurgewithbrentcrudecrossingthe110mark"
+  "oilpricessurgewithbrentcrudecrossingthe110mark",
+  "d56a72ad3e7ed412",
+  "nasdaqfuturesdropover1asaiworriesresurfaceoilclimbs",
+  "4ecd673128d9d7b1",
+  "priceofphysicaloilbarrelsslidesjustascrudefuturesrally",
+  "6fc2a0b7411e5bc8",
+  "liveupdateslatestfromisraeliranandthemiddleeast",
+  "4b61d75736814888",
+  "applemusicsnewlogowasshapedbyfredagainandabathofmineraloil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T12:45:18.716505+03:00",
+ "last_run": "2026-10-22T12:50:18.748149+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
