@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "cc7959f412509e68",
-  "goldpressureddespitefallingyieldsashormuzdiplomacysparksoilp",
   "36de9524de4fc5d2",
   "europespowerdemandreturnstogrowth",
   "3234f67d149e4fc3",
@@ -603,7 +601,9 @@
   "aaf38f157a60fe68",
   "onshoreoilandgasmarketsizeshareforecast2036",
   "eee4d674db1c4491",
-  "crudeoilpricerisesashouthisintensifyattacksonsaudiarabia"
+  "crudeoilpricerisesashouthisintensifyattacksonsaudiarabia",
+  "3346d4740b059e7e",
+  "oilpricessurgeabove111ashouthisstrikesauditargets"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-22",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-10-22T08:30:22.185908+03:00",
+ "last_run": "2026-10-22T08:35:14.186060+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-10-22",
    "t": "Crude oil futures rise as Houthis intensify attacks on Saudi Arabia - BusinessLine"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets"
   }
  ]
 }
