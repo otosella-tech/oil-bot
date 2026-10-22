@@ -4,14 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "9519393287c4f54d",
-  "spglobalwarnshormuzenergyshockcouldbecomeaglobalfoodcrisis",
-  "375d387aca3219b8",
-  "greatlakesoilspillsareusuallysmallbutstillharmwaterstudywarn",
-  "5f79276816208351",
-  "usstatedepartmentistopreparedtoissueaorderdepartureatusembas",
-  "2d9742f71cc9ae95",
-  "oilisnowflowingoutofthepersiangulflikebeforetheiranwarwhypri",
   "f91142c7c8b1614c",
   "bccrudeoilfutures",
   "79fae9236740a9ca",
@@ -603,7 +595,15 @@
   "7db509646b7d2c04",
   "latestreportshowsarkansasgaspricesdroppingevenascrudeoilpric",
   "9a68a4c299b8a486",
-  "trumpsmathonusdealforvenezuelanoildoesntaddupexpertssaytheba"
+  "trumpsmathonusdealforvenezuelanoildoesntaddupexpertssaytheba",
+  "a9a2cae9bda3a2fc",
+  "brentcrudetops113highestlevelsincemayaftertrumphintsataction",
+  "f4620fbaea53d1ca",
+  "northdakotaoilwellshitrecordhighkfyr",
+  "97e01a3cfab97fa3",
+  "oilsoarsabove113nasdaqplummetsinworstdaysincejuneoniranstrik",
+  "4d6f82da0b27554d",
+  "mainedemocratsslamsencollinsiranwarforhighoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T23:30:33.080646+03:00",
+ "last_run": "2026-10-22T23:35:15.818375+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1512,6 +1512,18 @@
   {
    "d": "2026-10-22",
    "t": "Trump’s math on US deal for Venezuelan oil doesn't add up, experts say. The bad data began years ago - AP News"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran - CNBC"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Oil soars above $113, Nasdaq plummets in worst day since June on Iran strike news, AI spending concerns - New York Post"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Maine Democrats slam Sen. Collins, Iran war for high oil prices - WGME"
   }
  ]
 }
