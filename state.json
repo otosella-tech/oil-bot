@@ -4,12 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "fa1852081e5b8dab",
-  "movingafricanoilcrossborderpipelinesoontoopenwithfirstoilexp",
-  "26eafba9fefa1aa2",
-  "japansseptemberexportsrise167helpedbychipdemand",
-  "8594dc47eef6fc09",
-  "japanseptimportyyriseledbycrudeoilchipmakingequipmentlng",
   "0cbb71ea66257eca",
   "commentarychinausescrudestockpilesbutrisingoilimportsmaycurt",
   "9f74150142b0b051",
@@ -603,7 +597,13 @@
   "04f8ee6c36419a65",
   "analysisbuyerandsupplierhowchinasustainsrussiaswar",
   "c33c7809dae5bddb",
-  "shafaqnewsbasrahcrudepricesriseasglobaloilclimbs"
+  "shafaqnewsbasrahcrudepricesriseasglobaloilclimbs",
+  "5031c281d5f7f618",
+  "oilrisesasdeadlysaudiattacksfanmiddleeastsupplyfears",
+  "0cf3466021dc057a",
+  "moreoilisnowcomingoutofthepersiangulfthanbeforetheiranwar",
+  "ef26148399558807",
+  "canadiandollarfirmsasoiljittersdragusdcadlower"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-22",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-10-22T10:15:17.805511+03:00",
+ "last_run": "2026-10-22T10:20:19.967372+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1288,6 +1288,14 @@
   {
    "d": "2026-10-22",
    "t": "Brent crude edges lower, even after Houthi attacks on Saudi infrastructure - Reuters"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Oil Rises as Deadly Saudi Attacks Fan Middle East Supply Fears - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War - WSJ"
   }
  ]
 }
