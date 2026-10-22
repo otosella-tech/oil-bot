@@ -4,10 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "f14e3bc86ac71496",
-  "eiacushingcrudeoilstockschangeoct160987mprev1862m",
-  "ed8991363ad15fab",
-  "useiacrudeoilimportschangeoct160837mprev0596m",
   "57787706d5c65216",
   "doetorelease315000barrelsfromnortheastheatingoilreserve",
   "201104017155559c",
@@ -603,7 +599,11 @@
   "e9af82e8ed6d75ae",
   "oilstocksarelookingstretchedtotradersasearningsloom",
   "da74d44a177e451a",
-  "uscrudeoilstockpilesfallmorethanexpected"
+  "uscrudeoilstockpilesfallmorethanexpected",
+  "0ddcd535c086e646",
+  "currentpriceofoilasofoct222026",
+  "b246197d9625b2a9",
+  "goldfallstomorethantwomonthlowasoilfuelledinflationfearsweig"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T19:10:17.985474+03:00",
+ "last_run": "2026-10-22T19:15:18.941313+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
