@@ -4,12 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "f91142c7c8b1614c",
-  "bccrudeoilfutures",
-  "79fae9236740a9ca",
-  "trumpvowedtostopanenergyemergencythenhecreatedarealone",
-  "2cfd993820b395d3",
-  "usenergyredtapegiveschinaanedge",
   "4b0b04f759d00155",
   "ecuadorjustbecameperustopoilsuppliera165bcrudedealendsa4year",
   "90ea3af8f289f00d",
@@ -603,7 +597,13 @@
   "97e01a3cfab97fa3",
   "oilsoarsabove113nasdaqplummetsinworstdaysincejuneoniranstrik",
   "4d6f82da0b27554d",
-  "mainedemocratsslamsencollinsiranwarforhighoilprices"
+  "mainedemocratsslamsencollinsiranwarforhighoilprices",
+  "2d9742f71cc9ae95",
+  "oilisnowflowingoutofthepersiangulflikebeforetheiranwarwhypri",
+  "7fb7f31aa62e1c7c",
+  "gaspricesunlikelytofallbelow4agallonbeforemidtermssomeexpert",
+  "1334c74ec286afe2",
+  "sharpdropsforaistocksoverwhelmmarketsworldwideasoilpricesjum"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T23:35:15.818375+03:00",
+ "last_run": "2026-10-22T23:40:18.026286+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1524,6 +1524,10 @@
   {
    "d": "2026-10-22",
    "t": "Maine Democrats slam Sen. Collins, Iran war for high oil prices - WGME"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon. - MarketWatch"
   }
  ]
 }
