@@ -4,10 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "44af21baa02ee7fe",
-  "ukapprovesjackdawgasfieldasenergycrisisdeepens",
-  "e2f998d42c819619",
-  "oilpricesriseasmiddleeastsupplyconcernsandusinventorydecline",
   "9a548fbddce60f3b",
   "oilpricesriseasmideasttensionspropelsupplyworries",
   "a1a41e0317d140f9",
@@ -603,7 +599,11 @@
   "26554c6c766ae7be",
   "exclusiveusaimstoloanaboutathirdofheatingoilreserveinbidtota",
   "40021525b778ba1e",
-  "northmacedoniasoilrefinerycouldresumeoperationsafter14years"
+  "northmacedoniasoilrefinerycouldresumeoperationsafter14years",
+  "d04a4af23b643aaa",
+  "iransays7oiltankersattackedinthestraitofhormuzasfearsgrowofa",
+  "2e9658d008b1f5f5",
+  "goldhitsovertwomonthlowasoilrallyfuelsinflationworries"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T15:15:18.587270+03:00",
+ "last_run": "2026-10-22T15:20:19.396842+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1360,6 +1360,10 @@
   {
    "d": "2026-10-22",
    "t": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal - Reuters"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war - AP News"
   }
  ]
 }
