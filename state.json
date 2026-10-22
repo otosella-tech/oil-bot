@@ -4,10 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "57787706d5c65216",
-  "doetorelease315000barrelsfromnortheastheatingoilreserve",
-  "201104017155559c",
-  "usaimstoloanaboutathirdofheatingoilreserveinbidtotameprices",
   "91643b3ac80c3f0d",
   "ukgreenlightsmajornorthseagasfieldafteryearsoflegalbattles",
   "1721faa660872d5a",
@@ -603,7 +599,11 @@
   "0ddcd535c086e646",
   "currentpriceofoilasofoct222026",
   "b246197d9625b2a9",
-  "goldfallstomorethantwomonthlowasoilfuelledinflationfearsweig"
+  "goldfallstomorethantwomonthlowasoilfuelledinflationfearsweig",
+  "ce834f01f72ac8ae",
+  "crudeoilpricesriseonsauditensions",
+  "74148615c60c7538",
+  "oilpricesincreaseas7tankersreporteddamagedinhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T19:15:18.941313+03:00",
+ "last_run": "2026-10-22T19:20:19.907603+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1432,6 +1432,10 @@
   {
    "d": "2026-10-22",
    "t": "Oil Firm Pitches Exemption to Canada’s Contentious BC Tanker Ban - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Oil prices increase as 7 tankers reported damaged in Hormuz - Transport Topics"
   }
  ]
 }
