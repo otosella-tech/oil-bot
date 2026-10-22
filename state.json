@@ -4,16 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "507001c769732051",
-  "crudeoilvolatilityincreasesamidconflictingreportsoverusirann",
-  "e5045f94ad8576e1",
-  "energysecretaryleaningtowardsrejectingrosebankoilfield",
-  "271ced335b66a2de",
-  "japanstradedeficitreaches178billionastheiranwarsentoilimport",
-  "6e96d481132f413f",
-  "goldsteadiesnearoneweeklowasoildriveninflationfearsgrow",
-  "f3f634ca8667952e",
-  "brentcrudeoilpricepredictionbullishmomentumpointstocontinued",
   "3df42528dafa9d45",
   "brentcrudeoilpricejumpsto110asadoubletoppatternformswhatnext",
   "43c31be7e953f139",
@@ -603,7 +593,17 @@
   "cb54bb225c80994f",
   "expertscastdoubtonvenezuelaslongtimeclaimof300billionbarrels",
   "98b594f4c736f6f5",
-  "currentpriceofoilasofoctober212026"
+  "currentpriceofoilasofoctober212026",
+  "5434493b43b02050",
+  "usacrudeoilstocksdrop3mmbarrelswow",
+  "466572089d7711ac",
+  "aramcoceosayseastwestpipelinecapacitycouldreach10millionbarr",
+  "5ea508e87780be43",
+  "crudeoilabove100uselectionuncertaintywillglobalfactorskeepse",
+  "24dc8dbbb8229145",
+  "iranthreatensoilandaifacilitiesacrosssevengulfcountriesifusa",
+  "868456403db06d90",
+  "aaafuelprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T18:05:15.190794+03:00",
+ "last_run": "2026-10-22T18:10:20.142605+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1408,6 +1408,10 @@
   {
    "d": "2026-10-22",
    "t": "Iran's Hardliners Push for Nuclear Weapons as U.S. War Drags On"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Iran threatens oil and AI facilities across seven Gulf countries if US and Israel renew attacks - The Guardian"
   }
  ]
 }
