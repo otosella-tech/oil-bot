@@ -4,8 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "8176042e0b0b71cb",
-  "asianrefinersusesmallertankersbuydeliveredcrudeasfreightrate",
   "bb91ff8440b67fdc",
   "dollardriftsasmiddleeasttensionssimmeroilrises",
   "a087fe8dec0653a8",
@@ -603,7 +601,9 @@
   "de2b54053f460c10",
   "nasdaqfuturessinkasaidoubtsresurfaceoiljumps",
   "21222aec2f19335a",
-  "skyquarrystartsproductionatnevadasonlycrudeoilrefinery"
+  "skyquarrystartsproductionatnevadasonlycrudeoilrefinery",
+  "7654d19b4aa6658e",
+  "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T15:50:21.785491+03:00",
+ "last_run": "2026-10-22T15:55:16.230383+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1372,6 +1372,10 @@
   {
    "d": "2026-10-22",
    "t": "Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain. - MarketWatch"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries - CNBC"
   }
  ]
 }
