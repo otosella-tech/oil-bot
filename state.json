@@ -4,18 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "84f69fc1e9a0b8fd",
-  "crudeoilpriceseraseanearlyrallyonunconfirmediranpeacetalks",
-  "632571b2b3c44fab",
-  "crudeoilpricesfallasoilcontinuestoflowthroughstraitofhormuz",
-  "0f047a4d644cef54",
-  "currentpriceofoilasofoct192026",
-  "aa43cef918b2a5f7",
-  "eiauscrudeoilinventoriesdown31millionbbl",
-  "e5cecbb00eaa45bd",
-  "crudeoilpricesrallyaftercloseonusstatedepartmentwarning",
-  "407ca73e882503ea",
-  "oilpricessteadyasinvestorsweighgeopoliticslowerusstockpiles",
   "ad825f9c40ffef8a",
   "moreinspectorsbetterenforcementandreportingneededforohiosoil",
   "684c2e64463bbe7c",
@@ -603,7 +591,19 @@
   "12d3a011d5d1e7e7",
   "seplatenergyand2britishenergystockstowatch",
   "c4b6c39f4a07081d",
-  "usmilitarysaysitprevented25bniniranianoilexportsin100dayssin"
+  "usmilitarysaysitprevented25bniniranianoilexportsin100dayssin",
+  "c0698db902a39c3d",
+  "whyfossilfueldemandcanriseevenascleanenergywinsterrain",
+  "9405089874073a5f",
+  "asianeeds1trillionayeartosecureenergysupplies",
+  "27a3514f041c4469",
+  "oilfuturesriseasattacksonsaudiarabiausiranriskspersist",
+  "9ed3df3ca728fafe",
+  "oiltankerssailingtheuschinaroutearecommanding60millionandits",
+  "526a1eadb1c9fb15",
+  "asiaminutewhydidmarcorubiogotoanindianoilrefinerythisweek",
+  "7daa9c3c0115e53a",
+  "usequityindexesretreatasaitradefalterscrudeoilsurgesamidiran"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T22:55:14.968217+03:00",
+ "last_run": "2026-10-22T23:00:30.329539+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1488,6 +1488,18 @@
   {
    "d": "2026-10-22",
    "t": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news - AP News"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist - WSJ"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Oil Tankers Sailing the US-China Route Are Commanding $60 Million and It’s Crushing Demand - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "US Equity Indexes Retreat as AI Trade Falters, Crude Oil Surges Amid Iran's Invasion Warning to Mid-East Neighbors - marketscreener.com"
   }
  ]
 }
