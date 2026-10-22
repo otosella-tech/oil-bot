@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "fd74bd3711c449c0",
-  "whatwouldtheapprovalofthejackdawgasfieldmean",
   "6ff7feaccbe3a66e",
   "cmewticrudeoilfutureshit10137beforereversingonsupplynews",
   "36f7e8b0cbe4c5ba",
@@ -603,7 +601,9 @@
   "a0ee624632b5e152",
   "oilpricesriseasmeasttensionsfuelfearsofsupplydisruptions",
   "7bd91173d2b2baea",
-  "iransfleetofshadowtankershasrunoutofoilaftermonthslongusbloc"
+  "iransfleetofshadowtankershasrunoutofoilaftermonthslongusbloc",
+  "f944142eb21ff323",
+  "oilrisesasdeadlysaudiattackfansmiddleeastsupplyfears"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-22",
-  "count": 15
+  "count": 16
  },
- "last_run": "2026-10-22T04:10:19.441075+03:00",
+ "last_run": "2026-10-22T04:15:18.491343+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
