@@ -4,8 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "37bc86ef11585aec",
-  "dollaronbackfootasusyieldscrudepricesdipaussiebuoyedbyhawkis",
   "d5495ec1eb09abc3",
   "bitcoinethereumxrpdogecoingainasoilpricesandtreasuryyieldsco",
   "900473f7a704a901",
@@ -603,7 +601,9 @@
   "9e47fccfead7625e",
   "wticrudeoilpricetodaycanoilbreak100asusirantensionsescalate2",
   "f889608d03ff8870",
-  "currentpriceofoilasofoctober162026"
+  "currentpriceofoilasofoctober162026",
+  "f179fffa5a487ea9",
+  "oilclimbsmorethan1onfreshhouthiattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 49
  },
- "last_run": "2026-10-22T11:20:44.770848+03:00",
+ "last_run": "2026-10-22T11:25:14.918075+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
