@@ -605,10 +605,7 @@
   "9fe0bc2c4b1620d8",
   "oilrisesasgeopoliticsbackinfocusafteraijittersease"
  ],
- "releases_done": {
-  "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
-  "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|post": 1
- },
+ "releases_done": {},
  "last_digest": "2026-10-21",
  "digest_prices": {
   "WTI": 99.02,
@@ -618,7 +615,7 @@
   "date": "2026-10-22",
   "count": 24
  },
- "last_run": "2026-10-22T06:55:14.980613+03:00",
+ "last_run": "2026-10-22T07:00:27.075274+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
