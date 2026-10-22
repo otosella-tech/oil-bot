@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "3234f67d149e4fc3",
-  "currentpriceofoilasofoctober152026",
   "bc159be4fe754f17",
   "painatvalleypumpsprofitattherefineries",
   "76c934c549cd2f1c",
@@ -603,7 +601,9 @@
   "3346d4740b059e7e",
   "oilpricessurgeabove111ashouthisstrikesauditargets",
   "4728f5fdf878b46e",
-  "canadianheavyoildiscountsdeepenonsupplyglut"
+  "canadianheavyoildiscountsdeepenonsupplyglut",
+  "ab3fb6f8c29d1612",
+  "golddropsover1asoilrallyreinforceshigherforlongerrateoutlook"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 39
  },
- "last_run": "2026-10-22T08:50:17.371336+03:00",
+ "last_run": "2026-10-22T08:55:16.618401+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
