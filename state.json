@@ -4,10 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "a2a9b9035589adca",
-  "crudeoiloutlookastrumpputindieseldealroilsdieselmarketcmbnew",
-  "983b2024ae93ad9f",
-  "crudeoilanddieselmarketoutlookasrussiarestartsexportscmbnews",
   "e833da4016020fc4",
   "sharesslideagainasoilstayshighaiearningsinfocus",
   "65522abf09a5293d",
@@ -603,7 +599,11 @@
   "2664939830f6bd0d",
   "iransoilreservesforchinarundryasusblockadetightens",
   "995ba37f0c6a6c23",
-  "canadiandollarandbusinessoutlooklooniecrudeoilontherise"
+  "canadiandollarandbusinessoutlooklooniecrudeoilontherise",
+  "9748065710267e4a",
+  "europeannaturalgaspricesriseonmiddleeastescalation",
+  "44181949d0700f53",
+  "oilpricessurgeonrenewedirantensionsrekindlinginflationfears"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T17:25:14.343930+03:00",
+ "last_run": "2026-10-22T17:30:24.304692+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1392,6 +1392,10 @@
   {
    "d": "2026-10-22",
    "t": "Saudi crude oil exports hit five-month high in August, data shows - Reuters"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Oil Prices Surge on Renewed Iran Tensions, Rekindling Inflation Fears - Barron's"
   }
  ]
 }
