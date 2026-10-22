@@ -4,8 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "2bbf7ef923627a0b",
-  "brentvolatilityhighlightsrisingcostsofoiltransportation",
   "a7cb8748b459efb1",
   "morewellsmoregasbutlittleoilgrowthinthebakken",
   "eba4f38d372bfe09",
@@ -603,7 +601,9 @@
   "64f94e8e216e7096",
   "indiasmideastoilimportsreturntoprewarlevelsinseptember",
   "4ba4c222c6473709",
-  "watchoilmarketcrunchcouldhappeninmonthsbofasblanch"
+  "watchoilmarketcrunchcouldhappeninmonthsbofasblanch",
+  "1f6e2ba3dd02cbf9",
+  "currentpriceofoilasofoct142026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 41
  },
- "last_run": "2026-10-22T09:25:14.604630+03:00",
+ "last_run": "2026-10-22T09:30:25.053053+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
