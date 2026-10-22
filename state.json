@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "6ed04e7136e2e8b7",
-  "mostusstocksrisefollowingstrongprofitreportsfromequifaxhasbr",
   "4280cd50b854dacf",
   "wtipriceforecastbullishtrendtargets110andbeyond",
   "a774985088a223e3",
@@ -603,7 +601,9 @@
   "91cd5dd89a02bd0b",
   "oilpriceswhipsawasmarketsweighmiddleeastturmoilagainstuncert",
   "0a3a961efa7499b0",
-  "putinswaronukraineputsoilgiantrosneftundermountingpressure"
+  "putinswaronukraineputsoilgiantrosneftundermountingpressure",
+  "3916c9cf5a3726bc",
+  "crudeoilfuturesriseashouthisintensifyattacksonsaudiarabia"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-22",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-10-22T08:05:14.456431+03:00",
+ "last_run": "2026-10-22T08:10:18.910031+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1260,6 +1260,10 @@
   {
    "d": "2026-10-22",
    "t": "Putin’s War On Ukraine Puts Oil Giant Rosneft Under Mounting Pressure - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Crude oil futures rise as Houthis intensify attacks on Saudi Arabia - BusinessLine"
   }
  ]
 }
