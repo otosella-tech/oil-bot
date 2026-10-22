@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "d5a4b2e2f54441e5",
-  "thecostofshippingatankerofcrudeoilhasskyrocketedduetowar",
   "56b25335c1695536",
   "uscrudeoilinventoriesseemassivedropoff",
   "6ed04e7136e2e8b7",
@@ -603,19 +601,21 @@
   "94437dc7961e1e15",
   "oilsettlesmixedasshippingriskstemperoptimismaboutflows",
   "08211cabde62134a",
-  "iransshadowtankeroilreservesdepletedafterusblockadewsj"
+  "iransshadowtankeroilreservesdepletedafterusblockadewsj",
+  "91cd5dd89a02bd0b",
+  "oilpriceswhipsawasmarketsweighmiddleeastturmoilagainstuncert"
  ],
  "releases_done": {},
- "last_digest": "2026-10-21",
+ "last_digest": "2026-10-22",
  "digest_prices": {
-  "WTI": 99.02,
-  "Brent": 110.25
+  "WTI": 98.65,
+  "Brent": 110.9
  },
  "llm": {
   "date": "2026-10-22",
-  "count": 26
+  "count": 32
  },
- "last_run": "2026-10-22T07:55:13.603457+03:00",
+ "last_run": "2026-10-22T08:00:28.093493+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
