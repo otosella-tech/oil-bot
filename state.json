@@ -4,10 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "de505a4621d61cb9",
-  "beachenergypostsrecordrevenueasoilandgasproductionjumps9",
-  "414abcbf832b19ce",
-  "oilslipsasirantalksfuelvolatility",
   "1d0b70f34b228def",
   "crudeoilpricereceivesapositiveboostanalysis21102026",
   "5d5f854e5c95d5d4",
@@ -603,7 +599,11 @@
   "1ba23b7c5695a470",
   "chinasgulfoilimportsforecasttonearpreiranwarhighasshipmentsr",
   "13c829a20ea14122",
-  "oilfuturescruderalliesasusiranescalationfearsintensify"
+  "oilfuturescruderalliesasusiranescalationfearsintensify",
+  "3d66598a469c6d17",
+  "iranclaimssevenshipshitinpersiangulfasoilpricessurge",
+  "881c262c85105709",
+  "palmoilglutluresindianbuyersaspricegaptorivalswidens"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-22",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-10-22T12:25:16.108396+03:00",
+ "last_run": "2026-10-22T12:30:23.484376+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1304,6 +1304,10 @@
   {
    "d": "2026-10-22",
    "t": "Iran says 7 oil tankers are on fire or damaged in a key strait as fears grow of a return to war - WSB-TV"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Iran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge"
   }
  ]
 }
