@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "56b25335c1695536",
-  "uscrudeoilinventoriesseemassivedropoff",
   "6ed04e7136e2e8b7",
   "mostusstocksrisefollowingstrongprofitreportsfromequifaxhasbr",
   "4280cd50b854dacf",
@@ -603,7 +601,9 @@
   "08211cabde62134a",
   "iransshadowtankeroilreservesdepletedafterusblockadewsj",
   "91cd5dd89a02bd0b",
-  "oilpriceswhipsawasmarketsweighmiddleeastturmoilagainstuncert"
+  "oilpriceswhipsawasmarketsweighmiddleeastturmoilagainstuncert",
+  "0a3a961efa7499b0",
+  "putinswaronukraineputsoilgiantrosneftundermountingpressure"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-22",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-10-22T08:00:28.093493+03:00",
+ "last_run": "2026-10-22T08:05:14.456431+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-10-22",
    "t": "Iran’s shadow tanker oil reserves depleted after US blockade - WSJ - Iran International"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Putin’s War On Ukraine Puts Oil Giant Rosneft Under Mounting Pressure - Bloomberg.com"
   }
  ]
 }
