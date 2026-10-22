@@ -4,14 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "3b6b06a18489a819",
-  "debunkingthelatestoilpricemyths",
-  "a5906eb0afc0bc56",
-  "wticrudeoilforecastkeylevelsand103resistance",
-  "557b4420e5b433c0",
-  "britainapproveslongstalledgasdrillingprojectinthenorthsea",
-  "f70d4d55d350b9ed",
-  "goldmansachssayswarspurssevenfoldjumpinoilfreightrates",
   "fef2ed83199e9a56",
   "goldmansachswarnsofnewoilpriceshockastankerratessoar",
   "b69bcb1d7a40a9a7",
@@ -603,7 +595,15 @@
   "0bdac43f6cb62db9",
   "usfuturesslipasriskoffsentimentdominateswithoilrising",
   "8c83f504454ac30f",
-  "howswitchingtoevshassavedtheeualmost3bnsinceiranwar"
+  "howswitchingtoevshassavedtheeualmost3bnsinceiranwar",
+  "949c3586be815b8c",
+  "forecastupdateforcrudeoil22102026",
+  "b088cc8a956381ca",
+  "crudeoilpricestodaybrentcrosses111asfreshattacksinsaudistoke",
+  "ccc11cf621cbf973",
+  "goldpriceforecastxauusdweakenstonear4110amidbroaderstrengthi",
+  "2161819481aa590d",
+  "westasiaoilexportsrecovertoover90ofpreconflictlevelsbutfuelc"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T14:45:18.700126+03:00",
+ "last_run": "2026-10-22T14:50:18.089578+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1344,6 +1344,10 @@
   {
    "d": "2026-10-22",
    "t": "Nasdaq Futures Slide Premarket As AI Spending Worries Resurface — Oil Tops $112 On Iran Tensions, Supply Concerns - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Crude Oil Prices Today: Brent Crosses $111 As Fresh Attacks In Saudi Stoke Supply Fears - News18"
   }
  ]
 }
