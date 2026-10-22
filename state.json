@@ -4,10 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "a8862acc28aeef77",
-  "nigeriasdangotebuys25stakeinkenyasoilpipelinenetwork",
-  "0c28aca8a30503d3",
-  "cautionrealpostthistimeforoilhaulingnowhiringowneropscompany",
   "508b440291d2b111",
   "russianuralscrudeoilhasplungedtoa15monthlowthepricefellto80p",
   "613777a16a93f4bb",
@@ -603,7 +599,11 @@
   "3057a868bf82a7f2",
   "valerosprofitsurgesover500setsrecordsforvenezuelanoilandetha",
   "0272fcc7a404ffdc",
-  "fromgroceriestohomeloanshighoilpricespermeatedailylife"
+  "fromgroceriestohomeloanshighoilpricespermeatedailylife",
+  "a2d7276ed5cea519",
+  "renewedaifearsandafreshspikeinoilpricesarehammeringstocks",
+  "b58ec5a84cf245a0",
+  "iransshadowtankerfleetreportedlyrunsoutofoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-23",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-10-23T00:20:18.265153+03:00",
+ "last_run": "2026-10-23T00:25:18.393518+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1288,6 +1288,14 @@
   {
    "d": "2026-10-23",
    "t": "Valero’s profit surges over 500%, sets records for Venezuelan oil and ethanol - San Antonio Express-News"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Renewed AI fears and a fresh spike in oil prices are hammering stocks - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Iran’s shadow tanker fleet reportedly runs out of oil - Fox News"
   }
  ]
 }
