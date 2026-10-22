@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "a774985088a223e3",
-  "thestraitofhormuzcouldloseweightin5years",
   "cc7959f412509e68",
   "goldpressureddespitefallingyieldsashormuzdiplomacysparksoilp",
   "36de9524de4fc5d2",
@@ -603,7 +601,9 @@
   "3916c9cf5a3726bc",
   "crudeoilfuturesriseashouthisintensifyattacksonsaudiarabia",
   "aaf38f157a60fe68",
-  "onshoreoilandgasmarketsizeshareforecast2036"
+  "onshoreoilandgasmarketsizeshareforecast2036",
+  "eee4d674db1c4491",
+  "crudeoilpricerisesashouthisintensifyattacksonsaudiarabia"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-22",
-  "count": 36
+  "count": 37
  },
- "last_run": "2026-10-22T08:20:17.710067+03:00",
+ "last_run": "2026-10-22T08:25:15.050728+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
