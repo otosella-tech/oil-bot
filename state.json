@@ -4,8 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "8b7d50dfa82a1b88",
-  "russiatosendfirstdieseltankertousonthursday",
   "01039552d6aa40cc",
   "brenthitsfivemonthhighasattacksonshipssaudisitesfuelsupplywo",
   "881b1a5bb594b65d",
@@ -603,7 +601,9 @@
   "3d682d4b05eeb2c6",
   "kuwaitraisesoiloutputabove2mmbbldamidiranwar",
   "8d34aa8534382bb1",
-  "stocksfallasaioilrisksspurflighttobondsmarketswrap"
+  "stocksfallasaioilrisksspurflighttobondsmarketswrap",
+  "ba894dba42ddf314",
+  "saudicrudeoilexportshitfivemonthhighinaugustdatashows"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T17:10:18.027744+03:00",
+ "last_run": "2026-10-22T17:15:16.898230+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1388,6 +1388,10 @@
   {
    "d": "2026-10-22",
    "t": "Kuwait Raises Oil Output Above 2 Mmbbl/d Amid Iran War - Egypt Oil & Gas"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Saudi crude oil exports hit five-month high in August, data shows - Reuters"
   }
  ]
 }
