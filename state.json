@@ -4,10 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "f7bea9656ed8550a",
-  "asbpleavesthenorthseatheseindependentsarebuyingin",
-  "631c43fb9fd72a30",
-  "oilpricesfallastradershopefordiplomaticprogressinmiddleeast",
   "d1a37e86a3afbb8a",
   "oilfuturesendmixedastradersweighsupplyrecoveryagainstshippin",
   "949efca68c914990",
@@ -603,7 +599,11 @@
   "632571b2b3c44fab",
   "crudeoilpricesfallasoilcontinuestoflowthroughstraitofhormuz",
   "0f047a4d644cef54",
-  "currentpriceofoilasofoct192026"
+  "currentpriceofoilasofoct192026",
+  "8f5176909cfdc6da",
+  "updateusequityindexesretreatasaitradefalterscrudeoilsurgesam",
+  "42ef5e3b7ee0e697",
+  "tumblingaistocksoverwhelmmarketsworldwideasoilpricesjumpunio"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T23:15:18.912985+03:00",
+ "last_run": "2026-10-22T23:20:18.995547+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1504,6 +1504,10 @@
   {
    "d": "2026-10-22",
    "t": "Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - Barchart.com"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Update: US Equity Indexes Retreat as AI Trade Falters, Crude Oil Surges Amid Iran's Invasion Warning to Mid-East Neighbors - Yahoo Finance"
   }
  ]
 }
