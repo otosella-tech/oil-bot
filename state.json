@@ -4,10 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "b0b426481d33a128",
-  "oilrisesasusordersdiplomatstoleavesaudiarabiaamidescalatingt",
-  "281472a7ab5d6d9e",
-  "moreoilisflowingthroughthepersiangulfthanbeforethewarpricesa",
   "1d0296660b8794bc",
   "threekilledinattacksonaramcooilfieldsaudiairport",
   "65b6e91939d5685a",
@@ -603,7 +599,11 @@
   "e1050d6db2ed1ec1",
   "usregulatorisprobingsuspiciousiranoiltradingofficialsays",
   "d2c8de8d50a8f7f0",
-  "hundredsattendmulticompanyoilandgashiringeventinodessa"
+  "hundredsattendmulticompanyoilandgashiringeventinodessa",
+  "7bd91173d2b2baea",
+  "iransfleetofshadowtankershasrunoutofoilaftermonthslongusbloc",
+  "7c2f5a3341c80fc6",
+  "trumpinvokescoldwareradefenceproductionacttoboostoilproducti"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-23",
-  "count": 12
+  "count": 14
  },
- "last_run": "2026-10-23T01:40:20.224454+03:00",
+ "last_run": "2026-10-23T01:45:18.608845+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1312,6 +1312,10 @@
   {
    "d": "2026-10-23",
    "t": "US regulator is probing suspicious Iran oil trading, official says - Reuters"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade - WSJ"
   }
  ]
 }
