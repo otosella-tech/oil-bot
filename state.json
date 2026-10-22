@@ -4,12 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "12874d137ef969ea",
-  "goldhitsnearoneweeklowonelevatedoilprices",
-  "9a05ec149be79196",
-  "crudeoilrisesto5weekhigh",
-  "3d1f436b952dcd4a",
-  "morganstanleyglobalfuelmarketwillstaytightthroughmid",
   "7002a0ff247a8ef6",
   "oilpricesjump2asiranknockshopesofdiplomaticprogress",
   "2076304aa4370bd4",
@@ -603,7 +597,13 @@
   "12efbc0fdc3167fd",
   "uscrudeoilinventoriesdrop306millionbarrelsbeatingforecastsne",
   "95fff1fae240305f",
-  "evfleetsoffsetoilimportcostsasbrentcrudenears100newsandstati"
+  "evfleetsoffsetoilimportcostsasbrentcrudenears100newsandstati",
+  "91515dc5d0399299",
+  "wallstsetforloweropenasaijittersrekindleoilgains",
+  "2d0b3c761028b4cc",
+  "keymideastoilbenchmarkhits3monthlowonresilientexports",
+  "4011d75be0cd99cb",
+  "saudiaramcotellsstafftoevacuatedhahranasclasheswithyemenshou"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T16:15:19.181684+03:00",
+ "last_run": "2026-10-22T16:20:20.679222+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-10-22",
    "t": "Saudi Aramco evacuates headquarters amid escalating Houthi attacks - The Jerusalem Post"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen's Houthis continue - Reuters"
   }
  ]
 }
