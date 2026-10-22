@@ -4,10 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "866b1071a0c33641",
-  "oilpricesjump2asirantalksfalterandusinventoriestightenbrentc",
-  "97ce1ae1805b6408",
-  "updateusequityindexesadvanceasspacexsblockbusterresultsboost",
   "26dc5a9912e80e6f",
   "dailysummaryspacexandthetechsectordrivewallstreetoilretreats",
   "987b107624ce2cba",
@@ -603,7 +599,11 @@
   "9d81720479cf8924",
   "oilpricerises4to113abarrelafterhouthiattacks",
   "d5f377306d2dabf6",
-  "oilpricesreachfivemonthhighamidstcontinuedhouthiattacks"
+  "oilpricesreachfivemonthhighamidstcontinuedhouthiattacks",
+  "5400365f123148c3",
+  "houthiattacksdriveoilpricestofivemonthhigh",
+  "d5fa65163f9e700f",
+  "oilfirmpitchesexemptiontocanadasthornybctankerban"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T21:30:35.065114+03:00",
+ "last_run": "2026-10-22T21:35:15.499938+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1472,6 +1472,10 @@
   {
    "d": "2026-10-22",
    "t": "Iran says seven ships hit in Hormuz Strait, warns US of wider response - Al Jazeera"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Oil Firm Pitches Exemption to Canada’s Thorny BC Tanker Ban - Bloomberg.com"
   }
  ]
 }
