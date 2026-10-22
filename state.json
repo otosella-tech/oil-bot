@@ -4,8 +4,6 @@
   "Brent": 109.32
  },
  "seen": [
-  "f42275e76da4da00",
-  "apicrudeproductinventoriescontinuetodraw",
   "7c5b43f694e79f40",
   "venezuelaexpectsnearly76billioninoilinvestmentoverfiveyearsa",
   "99dcbb99e6cc6652",
@@ -603,7 +601,9 @@
   "1d0296660b8794bc",
   "threekilledinattacksonaramcooilfieldsaudiairport",
   "65b6e91939d5685a",
-  "threekindsofoil"
+  "threekindsofoil",
+  "7875ea1120e07103",
+  "ustotapnationaldieselreserveaspricessoarbeforeelection"
  ],
  "releases_done": {
   "2026-10-21|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-22",
-  "count": 22
+  "count": 24
  },
- "last_run": "2026-10-22T05:40:17.599875+03:00",
+ "last_run": "2026-10-22T05:45:18.382118+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1251,6 +1251,10 @@
   {
    "d": "2026-10-22",
    "t": "Three Killed in Attacks on Aramco Oil Field, Saudi Airport - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "US to Tap National Diesel Reserve as Prices Soar Before Election - Bloomberg.com"
   }
  ]
 }
