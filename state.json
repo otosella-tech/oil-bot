@@ -4,10 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "21162f0d0ff0f5bc",
-  "ustotalweeklyeiacrudeoilstocksfallby34millionbarrelsafterpri",
-  "73b71e54e435cbf5",
-  "japanstradedeficithitsrecord178billionasiranwarsendsoilimpor",
   "d4f86983db86d9f5",
   "federalgovernmenttoreleasebarrelsofheatingoilfromsouthportla",
   "0c9e1298da4e99fb",
@@ -603,7 +599,11 @@
   "b7836d6e60da342d",
   "twokilledinhouthiattackonairportineasternsaudiarabiaauthorit",
   "b923d60f4e237d07",
-  "brentcrudeoilpricerisesafterhouthidroneattackxbrshowscontinu"
+  "brentcrudeoilpricerisesafterhouthidroneattackxbrshowscontinu",
+  "75710cef6a504f4e",
+  "ofgemapprovesdealtokeepukgasimportcapacityfromeurope",
+  "2955ba14da2f4c83",
+  "iran7shipshitinthestraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T18:25:15.248581+03:00",
+ "last_run": "2026-10-22T18:30:24.574986+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1420,6 +1420,10 @@
   {
    "d": "2026-10-22",
    "t": "Brent crude oil price rises after Houthi drone attack: XBR shows continued buyer support - Traders Union"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Iran: 7 ships hit in the Strait of Hormuz - The Hill"
   }
  ]
 }
