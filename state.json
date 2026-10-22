@@ -4,8 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "40583da250086158",
-  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr",
   "5ca5f27fa55524c8",
   "oilpricessettledownasieaagreestoaccelerateoilstockrelease",
   "33a2621d67d0474a",
@@ -603,7 +601,9 @@
   "45ea568cf2d1a872",
   "wtioilralliesabove99asthemiddleeastwarthreatenstocomplicatef",
   "077f5114437d8b94",
-  "gulfsupplyriskskeepoilpremiumhighasbrenttops110"
+  "gulfsupplyriskskeepoilpremiumhighasbrenttops110",
+  "d6c54cb48bc4c5eb",
+  "aistocksslideafterearningsdisappointfrenchbondstumbleandoilt"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 51
  },
- "last_run": "2026-10-22T11:40:19.897390+03:00",
+ "last_run": "2026-10-22T11:45:17.430694+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
