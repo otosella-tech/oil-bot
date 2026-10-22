@@ -4,10 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "cc8407a8f7c8eae0",
-  "gaspricesdipslightlyinidahoamidcrudeoilfluctuations",
-  "0b184c62471e40f0",
-  "thebestfinishingoliveoilbrandofallhastoptierquality",
   "464a4c65ca8c0328",
   "russiasnorthernsearouteworkaroundsupplyingasianbuyers",
   "181e14e6ca664972",
@@ -603,7 +599,11 @@
   "3612215017a850fe",
   "5oilrefiningstockssoaringamidhighdieselandgaspricesusnews",
   "f5d1aec65ba7ee85",
-  "oilpriceshitfivemonthhighashouthiattacksstokemiddleeastsuppl"
+  "oilpriceshitfivemonthhighashouthiattacksstokemiddleeastsuppl",
+  "f4713086d1ffd154",
+  "worldwidedropsforaistockssendwallstreettowarditsworstdaysinc",
+  "410b0237ba6744ea",
+  "iransays7tankersdamagedinstraitofhormuzandothermideastnews"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-22",
   "count": 60
  },
- "last_run": "2026-10-22T22:40:18.646560+03:00",
+ "last_run": "2026-10-22T22:45:32.432772+03:00",
  "sent_stories": [
   {
    "d": "2026-10-19",
@@ -1484,6 +1484,10 @@
   {
    "d": "2026-10-22",
    "t": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears - Reuters"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news - AP News"
   }
  ]
 }
