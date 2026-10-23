@@ -4,10 +4,6 @@
   "Brent": 109.36
  },
  "seen": [
-  "687fb89429607d3d",
-  "goldhitsovertwoweeklowasoilrallyfuelsinflationworries",
-  "c130b3afc41a7cdf",
-  "venezuelaclaimstohave300billionbarrelsofoilinthegroundbutexp",
   "912d1c648e896261",
   "crudeoilpricesjump3amidsaudiattacksasusirantensionsfuelgloba",
   "e038d3a4b94abc29",
@@ -603,7 +599,11 @@
   "867e37beb450b00c",
   "indiasseptembercrudeoilimportsjumpover16monthonmonth",
   "7ab661844f323823",
-  "globalsharesfluctuateasoiltoucheshighestlevelsincemay"
+  "globalsharesfluctuateasoiltoucheshighestlevelsincemay",
+  "9bcd5d42c4e80f16",
+  "techselloffrelentsoilatfivemonthhigh",
+  "5b06c2291dfbb7c5",
+  "oilhits114forfirsttimesincemayasglobalstocksknockedbyaifears"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T12:40:18.583459+03:00",
+ "last_run": "2026-10-23T12:45:16.767829+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
