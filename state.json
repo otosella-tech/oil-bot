@@ -4,12 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "2955ba14da2f4c83",
-  "iran7shipshitinthestraitofhormuz",
-  "d5a4b2e2f54441e5",
-  "thecostofshippingatankerofcrudeoilhasskyrocketedduetowar",
-  "325e74fa4458e7df",
-  "currentpriceofoilasofoctober132026",
   "a6e2a2db16fdeaae",
   "crudeoilcutslossesastraderseyeg7fuelrelease",
   "bde8e2ff57e67003",
@@ -603,7 +597,13 @@
   "1bd0d9f1d2d9bdfc",
   "oilpriceshitlevelsnotseensincemarch",
   "81d490bf5bb83384",
-  "germanylaunchestendertoselldieselheatingoilandcrudeoilfromst"
+  "germanylaunchestendertoselldieselheatingoilandcrudeoilfromst",
+  "1cfe9a3660e26440",
+  "oilpricesriseonsaudiarabiaattacksovershadowingtrumpsdieselde",
+  "3234f67d149e4fc3",
+  "currentpriceofoilasofoctober152026",
+  "a2ea2cc759609721",
+  "currentpriceofoilasofoctober62026"
  ],
  "releases_done": {
   "2026-10-23|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T19:40:18.071865+03:00",
+ "last_run": "2026-10-23T19:45:17.510402+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1554,6 +1554,10 @@
   {
    "d": "2026-10-23",
    "t": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities - Financial Times"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal - Reuters"
   }
  ]
 }
