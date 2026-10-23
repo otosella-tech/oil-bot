@@ -4,8 +4,6 @@
   "Brent": 109.36
  },
  "seen": [
-  "da8fc0e3982f5360",
-  "whyrubioisvisitingreliancesoilrefineryinindiatheworldslarges",
   "a128be691267181a",
   "thenextmajoroilsupplyshockcouldcomefromsaudiarabia",
   "7d366bb32f7fe88d",
@@ -603,7 +601,9 @@
   "ed579ced7221761d",
   "trumpinvokesdefenseproductionacttoboostoilproduction",
   "15a34229046162fc",
-  "techrouteaseswithoilstrengthcappingreliefmarketswrap"
+  "techrouteaseswithoilstrengthcappingreliefmarketswrap",
+  "afb6d8e85659fbc5",
+  "europeannaturalgaspricessurgetohighestlevelsince2022"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T13:25:14.171685+03:00",
+ "last_run": "2026-10-23T13:30:23.726120+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1424,6 +1424,10 @@
   {
    "d": "2026-10-23",
    "t": "Global crude oil prices surge to highest level since May amid Middle East attacks - The Irish Times"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "European Natural Gas Prices Surge to Highest Level Since 2022"
   }
  ]
 }
