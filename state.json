@@ -4,8 +4,6 @@
   "Brent": 109.36
  },
  "seen": [
-  "d0c4b70f138fe412",
-  "oilrisesintradayamidescalatingtensions",
   "fe0430a0a5e63f5c",
   "adnocsxrgintalkstobuystakeinenislibyaoilandgasbusinesssource",
   "8208bf46c829e54c",
@@ -603,7 +601,9 @@
   "788eeacbdb264d50",
   "russianespooilsellersseekrecordpremiumsasgulfexportsuncertai",
   "fb326fb9de7a61c7",
-  "gaspricesonpaceformostexpensiveoctobereveraaasays"
+  "gaspricesonpaceformostexpensiveoctobereveraaasays",
+  "0a6cd73cc38f80b8",
+  "uspartnerinvenezuelaoildeallookstohikecrudeproduction"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T15:25:14.910616+03:00",
+ "last_run": "2026-10-23T15:30:22.470972+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1448,6 +1448,10 @@
   {
    "d": "2026-10-23",
    "t": "Russian ESPO oil sellers seek record premiums as Gulf exports uncertain - Reuters"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "U.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production"
   }
  ]
 }
