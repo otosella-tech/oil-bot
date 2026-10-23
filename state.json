@@ -4,8 +4,6 @@
   "Brent": 109.36
  },
  "seen": [
-  "37e5def675250a07",
-  "crudeoilrisesto5weekhigh",
   "62a70e87c7ad77cd",
   "brenthitsfivemonthhighonescalatingmiddleeastconflict",
   "59a23943c3cd329b",
@@ -603,7 +601,9 @@
   "40a329ba1d4119e1",
   "thehidden40per",
   "140cc8a67ff92308",
-  "theoilshockisworsethanbreakevenssay"
+  "theoilshockisworsethanbreakevenssay",
+  "52770245d3b5355b",
+  "theuskeepsblockingiransportstehransshadowtankershavenowrunou"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T17:05:15.123571+03:00",
+ "last_run": "2026-10-23T17:10:17.702357+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1500,6 +1500,10 @@
   {
    "d": "2026-10-23",
    "t": "Russian diesel tanker heads to the U.S., the first since Trump’s deal with Putin - NBC News"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "The U.S. Keeps Blocking Iran's Ports. Tehran's Shadow Tankers Have Now Run Out of Oil. - Yahoo"
   }
  ]
 }
