@@ -4,8 +4,6 @@
   "Brent": 109.36
  },
  "seen": [
-  "63699c0768f43553",
-  "palmoilgainsonstrengthinrivalsoyoilfirmercrudeoil",
   "514e9a573d44852d",
   "worldsharesretreatasreportofdamagetooiltankerspushesoilprice",
   "6e37ceaccbfa9329",
@@ -603,7 +601,9 @@
   "7c552460b85e352f",
   "saudiarabias2026deficitrisestosar245bnaswarhalvesoilexportvo",
   "4b321b857668afe2",
-  "oilnewscrudeoiloutlookstaysbullishdespitesteadymiddleeastexp"
+  "oilnewscrudeoiloutlookstaysbullishdespitesteadymiddleeastexp",
+  "bf126cbd63dda09d",
+  "currentpriceofoilasofoct232026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T14:15:17.960264+03:00",
+ "last_run": "2026-10-23T14:20:23.696165+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
