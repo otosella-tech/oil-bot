@@ -4,8 +4,6 @@
   "Brent": 109.36
  },
  "seen": [
-  "912d1c648e896261",
-  "crudeoilpricesjump3amidsaudiattacksasusirantensionsfuelgloba",
   "e038d3a4b94abc29",
   "oilpricesrisemorethan2asattacksonsaudiarabiausiranriskspersi",
   "88a71c610df07316",
@@ -603,7 +601,9 @@
   "9bcd5d42c4e80f16",
   "techselloffrelentsoilatfivemonthhigh",
   "5b06c2291dfbb7c5",
-  "oilhits114forfirsttimesincemayasglobalstocksknockedbyaifears"
+  "oilhits114forfirsttimesincemayasglobalstocksknockedbyaifears",
+  "9f96f1ccc281ad72",
+  "oilhits114intraday"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T12:55:13.583794+03:00",
+ "last_run": "2026-10-23T13:00:28.282509+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
