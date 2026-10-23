@@ -4,10 +4,6 @@
   "Brent": 109.36
  },
  "seen": [
-  "4f33ddb28305a61d",
-  "currentpriceofoilasofoctober222026",
-  "80b5a99f16038a3f",
-  "stocksfallandoilrisesasinvestorsretreatfrommountingrisks",
   "1cfe9a3660e26440",
   "oilpricesriseonsaudiarabiaattacksovershadowingtrumpsdieselde",
   "26554c6c766ae7be",
@@ -603,7 +599,11 @@
   "fb15271729b128c0",
   "currentpriceofoilasofoctober192026",
   "31526ff99c8202e7",
-  "southkoreanshipownersinokordominateshormuztransitsasoilflows"
+  "southkoreanshipownersinokordominateshormuztransitsasoilflows",
+  "2fc4f7df51837fca",
+  "federalgovernmenttoreleasethousandsofbarrelsofheatingoilfrom",
+  "016eefbed1452982",
+  "marinelifeingulfofmexicohasstillnotfullyrecoveredfrom2010bpo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T15:45:18.385624+03:00",
+ "last_run": "2026-10-23T15:50:16.974367+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
