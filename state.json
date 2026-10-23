@@ -4,10 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "9ed3df3ca728fafe",
-  "oiltankerssailingtheuschinaroutearecommanding60millionandits",
-  "526a1eadb1c9fb15",
-  "asiaminutewhydidmarcorubiogotoanindianoilrefinerythisweek",
   "7daa9c3c0115e53a",
   "usequityindexesretreatasaitradefalterscrudeoilsurgesamidiran",
   "632571b2b3c44fab",
@@ -603,7 +599,11 @@
   "cb668bab0d3543eb",
   "oilpriceshitfivemonthhighanddowfallsover600pointsoverfearsof",
   "3cf7bf71be406a91",
-  "sptsxcompositeslidesasoilpricesriseusmarketsalsonegative"
+  "sptsxcompositeslidesasoilpricesriseusmarketsalsonegative",
+  "4f3ee60a970f3a7b",
+  "wallstreetlosesgroundunderpressurefromrisingoilpricesunion",
+  "fc0e86ec4069a757",
+  "valeromade68binthelast3monthshighgasanddieselpricesareconnec"
  ],
  "releases_done": {
   "2026-10-23|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-24",
   "count": 6
  },
- "last_run": "2026-10-24T00:45:17.128243+03:00",
+ "last_run": "2026-10-24T00:50:18.158399+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
