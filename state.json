@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "86951cc32c643a2b",
-  "aistocksdragmarketsdownworldwideasoilpricesclimbtotheirhighe",
   "08388d5fea0db76e",
   "nasdaqleadswallstreetloweronaispendingjittersoilpricesreboun",
   "a4b8e63f5624ac06",
@@ -603,7 +601,9 @@
   "01926378bbfaa595",
   "chevronwillevaluatethesaleofmatureassetsinthegulfofmexico",
   "865d0fc847181182",
-  "brentcrudeoilrisesaftersaudiarabiainfrastructureattacksdisru"
+  "brentcrudeoilrisesaftersaudiarabiainfrastructureattacksdisru",
+  "2daaaa18e4c40ee2",
+  "usiranwarthenandnowhowthelandscapehaschangedsincefebruary"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T19:10:20.122808+03:00",
+ "last_run": "2026-10-23T19:15:19.778115+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
