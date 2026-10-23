@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 98.4,
+  "WTI": 100.42,
   "Brent": 113.78
  },
  "seen": [
-  "1f6e2ba3dd02cbf9",
-  "currentpriceofoilasofoct142026",
   "418d16e64aa2cb6b",
   "oilclimbsover1onmorehouthiattacksinsaudiarabia",
   "cdaed62e560a9bc2",
@@ -603,7 +601,9 @@
   "fd82d33edd7629a2",
   "80milliontankerbillsarecrushingusoilexportstoasia",
   "151ffa34b87666f6",
-  "cenovusenergyisjustoneof3canadianoilstockstowatch"
+  "cenovusenergyisjustoneof3canadianoilstockstowatch",
+  "64f94e8e216e7096",
+  "indiasmideastoilimportsreturntoprewarlevelsinseptember"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-23",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-10-23T05:00:28.542349+03:00",
+ "last_run": "2026-10-23T05:05:13.878386+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1344,6 +1344,10 @@
   {
    "d": "2026-10-23",
    "t": "$80 Million Tanker Bills Are Crushing US Oil Exports to Asia - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "India's Mideast oil imports return to pre-war levels in September - Reuters"
   }
  ]
 }
