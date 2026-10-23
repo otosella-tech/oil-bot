@@ -4,10 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "2f2a3d476d37e758",
-  "updateusequityindexesdropasaitradelosesshineaftermetasresult",
-  "bea3ca4c8ce6786a",
-  "usequityindexesdropasaitradelosesshineaftermetasresultswhile",
   "a7abcd7f874e95c4",
   "iransshadowfleetoftankersrunoutofoilafterusblockade",
   "2b0ee5e1fac123f2",
@@ -603,7 +599,11 @@
   "2f4c635531da5844",
   "wallstreetmostlylosesgroundunderpressurefromrisingoilpricesu",
   "f4af1f5deb5467fa",
-  "usequityindexesfallasrisingirantensionspushcrudeoilhigher"
+  "usequityindexesfallasrisingirantensionspushcrudeoilhigher",
+  "35c486c269ade6a6",
+  "nasasfreeze",
+  "836f234c52c70360",
+  "oilpricesjump3onhouthiattacksoilspillhighestsettlementsincea"
  ],
  "releases_done": {
   "2026-10-23|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T22:55:14.005392+03:00",
+ "last_run": "2026-10-23T23:00:29.008098+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
