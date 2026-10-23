@@ -4,8 +4,6 @@
   "Brent": 109.36
  },
  "seen": [
-  "025cce96e517d178",
-  "recordfuelpricesaccelerateeuropesevsales",
   "d0c4b70f138fe412",
   "oilrisesintradayamidescalatingtensions",
   "fe0430a0a5e63f5c",
@@ -603,7 +601,9 @@
   "411aa1c294ba29d0",
   "earningsoilpricesdampeuropeanboursesmidday",
   "788eeacbdb264d50",
-  "russianespooilsellersseekrecordpremiumsasgulfexportsuncertai"
+  "russianespooilsellersseekrecordpremiumsasgulfexportsuncertai",
+  "fb326fb9de7a61c7",
+  "gaspricesonpaceformostexpensiveoctobereveraaasays"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T15:20:17.913875+03:00",
+ "last_run": "2026-10-23T15:25:14.910616+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
