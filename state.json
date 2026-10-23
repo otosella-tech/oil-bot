@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "74148615c60c7538",
-  "oilpricesincreaseas7tankersreporteddamagedinhormuz",
   "51e820cb9421a070",
   "premarketsinredonhighercrudeoilprices",
   "5c6d434c4e2ac471",
@@ -603,7 +601,9 @@
   "5870aab4ec4c81d4",
   "currentpriceofoilasofoctober202026",
   "3078de659eb645b8",
-  "oilhits116withstocksmixedonearningsai"
+  "oilhits116withstocksmixedonearningsai",
+  "c196f9bb874dc071",
+  "crudeoilrisesto5weekhigh"
  ],
  "releases_done": {
   "2026-10-23|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T20:30:24.097853+03:00",
+ "last_run": "2026-10-23T20:35:15.026516+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
