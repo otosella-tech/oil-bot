@@ -4,12 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "31a5f88c8b308cd3",
-  "crudeoilmarketviewsafexpansionandmoroccowasteoilprojectcmbne",
-  "a9e80bc25c931b73",
-  "iranshardlinerspushfornuclearweaponsasuswardragson",
-  "851e859b2b4118a5",
-  "washingtonofferstolenduptoathirdofthenortheastsheatingoilres",
   "05f2dd6ef9075884",
   "saudiaramcoevacuateshqhowistheoilandlngshippinggoing",
   "cb54bb225c80994f",
@@ -603,7 +597,13 @@
   "c05a6fef33f99303",
   "brentcrudeoiltops116asixmonthhighastensionsswellinthemiddlee",
   "b260905d04a12b33",
-  "cftctakesoiltradingoversightveryseriouslyseligsays"
+  "cftctakesoiltradingoversightveryseriouslyseligsays",
+  "c8032329d0c2ebdd",
+  "wallstreetmostlylosesgroundunderpressurefromrisingoilprices",
+  "da7c04443fbd8023",
+  "crudeoilforecastweekendiranstrikefearsliftoiltowardwarhighs",
+  "48a2eda2f5844925",
+  "oilhits116forfirsttimesinceaprilasglobalstocksknockedbyaifea"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T18:40:17.938647+03:00",
+ "last_run": "2026-10-23T18:45:17.517227+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1520,6 +1520,10 @@
   {
    "d": "2026-10-23",
    "t": "Trump accuses Iran of making up attacks and mines to raise oil prices - NewsNation"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Crude Oil Forecast: Weekend Iran Strike Fears Lift Oil Toward War Highs - FOREX.com"
   }
  ]
 }
