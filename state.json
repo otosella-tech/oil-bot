@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "fcd28d2bd3a1fe6f",
-  "brentcrudetops111aftertrumphintsatactiononiranusordersstafft",
   "30817f5a99ed1238",
   "mexicosyearofoilspillsfuelsgrowingconcern",
   "001d438f00233f5a",
@@ -603,7 +601,9 @@
   "f45f5425b2f78af4",
   "crudeoilsurges4slbsharesjumpfollowingupbeatq3earnings",
   "dbdde7d280370998",
-  "oiltops116tofivemonthhighasmideastsupplyrisksmount"
+  "oiltops116tofivemonthhighasmideastsupplyrisksmount",
+  "6eef8a35e517565d",
+  "oilpricesclimbto116astraderspriceinmiddleeastescalation"
  ],
  "releases_done": {
   "2026-10-23|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T22:20:20.885053+03:00",
+ "last_run": "2026-10-23T22:25:13.769531+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
