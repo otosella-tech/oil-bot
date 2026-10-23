@@ -4,12 +4,6 @@
   "Brent": 109.36
  },
  "seen": [
-  "4b61d75736814888",
-  "applemusicsnewlogowasshapedbyfredagainandabathofmineraloil",
-  "c24c6ac3d5ff2849",
-  "brentcrudepriceclimbs3to112abarrelafterlatestattacksinsaudia",
-  "9b1af86db2a00b14",
-  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "caa553bbbeecd49a",
   "iransfloatingoilreservesusedforchinasalescompletelydepleteda",
   "f69b79ea95fcb167",
@@ -603,7 +597,13 @@
   "5498de06aec48339",
   "oilmajorsquarterlyearningsinspotlightwithrefineriessettogain",
   "0c5f12a29d67ba1a",
-  "trumpclaimswevebeateniranbutusisntclosetovictoryopinion"
+  "trumpclaimswevebeateniranbutusisntclosetovictoryopinion",
+  "1fcb656e896614cb",
+  "usoilholdsabove100brentatfivemonthhighasiransaysitspreparedf",
+  "99739ccf297f5a8e",
+  "freightdiscountspromptindiashpcltobuyoilondeliveredbasis",
+  "4ae9839e9ab9eb65",
+  "marcorubiodiddomesticpressuremakeussecretaryofstatevisitanin"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T12:20:18.741388+03:00",
+ "last_run": "2026-10-23T12:25:14.392167+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1412,6 +1412,10 @@
   {
    "d": "2026-10-23",
    "t": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare - CNBC"
   }
  ]
 }
