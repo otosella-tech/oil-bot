@@ -4,10 +4,6 @@
   "Brent": 113.78
  },
  "seen": [
-  "f5b58a6aecf6d253",
-  "marinelifedramaticallydeclinedingulfofmexicoinyearsafterbpoi",
-  "732000826b0a7ab3",
-  "indianoiltotrimmiddleeasttermcrudedealsfor202728asiranwardis",
   "8aec5f2fba70ced3",
   "crudeoilfuturesdec6clmainusbrentlastdayfinancialfuturesdec6b",
   "0761a5633595d831",
@@ -603,7 +599,11 @@
   "d2614421213252f0",
   "apainfulwinteraheadforhomeheatingoilcustomersaspricesspike",
   "de11453cd02fd5fd",
-  "wtipriceforecastbuyerstargetbreakoutabove10342"
+  "wtipriceforecastbuyerstargetbreakoutabove10342",
+  "23f3ca4dc069747e",
+  "donaldtrumpclaimsiranfakedstraitofhormuzattackstoinfluencemi",
+  "d5080fbd8ea7fe72",
+  "crudeoilpricesheadedforthirdweeklygainbrentabove113abarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-23",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-10-23T05:20:19.133324+03:00",
+ "last_run": "2026-10-23T05:25:13.721275+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1348,6 +1348,10 @@
   {
    "d": "2026-10-23",
    "t": "India's Mideast oil imports return to pre-war levels in September - Reuters"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Donald Trump claims Iran faked Strait of Hormuz attacks to influence midterm elections - The Jerusalem Post"
   }
  ]
 }
