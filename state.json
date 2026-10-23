@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "54cab9b4c9cfc52e",
-  "tehranturnstocentralasiafortradeasconflictwithussimmers",
   "9fe8457cf22d8fea",
   "oilsoarsabove111asstocksplummetoniranstrikenewsaispendingcon",
   "16d62933825a5184",
@@ -603,7 +601,9 @@
   "7cb5037d69700e5f",
   "oilpriceshithighestpointsincemay",
   "eb7e2a439d34df96",
-  "thedowdrops600pointsasfearsofrenewedmiddleeastfightingsendoi"
+  "thedowdrops600pointsasfearsofrenewedmiddleeastfightingsendoi",
+  "f2965063fbc2e11d",
+  "oilpoliticssqueezeiowa"
  ],
  "releases_done": {
   "2026-10-23|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T21:35:13.855738+03:00",
+ "last_run": "2026-10-23T21:40:17.774301+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
