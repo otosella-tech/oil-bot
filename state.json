@@ -4,8 +4,6 @@
   "Brent": 109.36
  },
  "seen": [
-  "ade6a3b1d4008b3c",
-  "saudiarabiaseeksaccesstooverseasoilstorageforaramco",
   "1d549fa3915731e0",
   "aicomputeisthenewoilandneedsanewmarket",
   "e7137251cd91ee1d",
@@ -603,7 +601,9 @@
   "40583da250086158",
   "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr",
   "4c09ca84c18b9e9a",
-  "oilheadsforweeklygainonfearsofrenewedusiranescalation"
+  "oilheadsforweeklygainonfearsofrenewedusiranescalation",
+  "0669c578fd0aa5b1",
+  "oiljumpsonescalatingmiddleeastconflict"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T11:35:14.770349+03:00",
+ "last_run": "2026-10-23T11:40:17.400882+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
