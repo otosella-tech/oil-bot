@@ -4,10 +4,6 @@
   "Brent": 113.78
  },
  "seen": [
-  "0cb60b967391f649",
-  "aitradestumblesaftertechearningsoilralliesmarketswrap",
-  "56b25335c1695536",
-  "uscrudeoilinventoriesseemassivedropoff",
   "a8ece42ff1c939f3",
   "ibex35resumesdownwardpathamidconcernsovercrudeoilfranceandte",
   "d240805caeab73ac",
@@ -603,19 +599,23 @@
   "3262a2a172b229a0",
   "commentarydontmistakemideastoilreboundfornormality",
   "92781a1c4e0ef189",
-  "trumpinvokesdefenceproductionacttoboostoilproductionandrefin"
+  "trumpinvokesdefenceproductionacttoboostoilproductionandrefin",
+  "a3e1044c0fc54a6f",
+  "wticrudeoilholdsnear99amidgeopoliticaltensions",
+  "58100107a24689fd",
+  "iranclaimsmoreshipsstrucknearhormuzastrumpaccusestehranoffak"
  ],
  "releases_done": {},
- "last_digest": "2026-10-22",
+ "last_digest": "2026-10-23",
  "digest_prices": {
-  "WTI": 98.65,
-  "Brent": 110.9
+  "WTI": 100.42,
+  "Brent": 114.05
  },
  "llm": {
   "date": "2026-10-23",
-  "count": 36
+  "count": 44
  },
- "last_run": "2026-10-23T07:55:13.097158+03:00",
+ "last_run": "2026-10-23T08:00:29.704848+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-10-23",
    "t": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War - WSJ"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Iran Claims More Ships Struck Near Hormuz as Trump Accuses Tehran of ‘Faking Hits’ - gCaptain"
   }
  ]
 }
