@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "1721faa660872d5a",
-  "theoilmarkets2027reliefhopesarefadingfast",
   "5f2a627dd842f84e",
   "europeanstockscloselowerinthursdaytradingamidearningsrelease",
   "c08536f79b1a8391",
@@ -603,7 +601,9 @@
   "560d48985ae99e08",
   "ftse100slipsasoilpricehitsfivemonthhigh",
   "3d488dd17d78a8c7",
-  "mexicotacklesfuelsmugglingtheweekinoilgas"
+  "mexicotacklesfuelsmugglingtheweekinoilgas",
+  "69a25b04457259f9",
+  "usequityindexesmixedastechnologyattemptsrecoveryamidsurgingc"
  ],
  "releases_done": {
   "2026-10-23|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T21:05:15.774747+03:00",
+ "last_run": "2026-10-23T21:10:19.274570+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
