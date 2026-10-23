@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "c08536f79b1a8391",
-  "iranthreatenstostrikeoilandaifacilitiesacrossgulfifusandisra",
   "5a976df94cfd0103",
   "cmecrudeoilrisesonmiddleeasttensions",
   "8eae41ac8a2488b4",
@@ -603,7 +601,9 @@
   "69a25b04457259f9",
   "usequityindexesmixedastechnologyattemptsrecoveryamidsurgingc",
   "1721faa660872d5a",
-  "theoilmarkets2027reliefhopesarefadingfast"
+  "theoilmarkets2027reliefhopesarefadingfast",
+  "bf15e5d6d819bf23",
+  "oilpricesclimbassaudiattacksheightensupplyconcerns"
  ],
  "releases_done": {
   "2026-10-23|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T21:25:14.593464+03:00",
+ "last_run": "2026-10-23T21:30:23.198837+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1567,6 +1567,10 @@
   {
    "d": "2026-10-23",
    "t": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran - The Guardian"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Oil prices climb as Saudi attacks heighten supply concerns - Oil & Gas Journal"
   }
  ]
 }
