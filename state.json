@@ -4,8 +4,6 @@
   "Brent": 109.36
  },
  "seen": [
-  "ba894dba42ddf314",
-  "saudicrudeoilexportshitfivemonthhighinaugustdatashows",
   "c060c74184270791",
   "wallstopenslowerasaijittersreturnoilrises",
   "2664939830f6bd0d",
@@ -603,7 +601,9 @@
   "9fcb44955c215020",
   "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility",
   "8964a47efe4bdbde",
-  "stocksfallasoilrallykeepsalidontreasuriesmarketswrap"
+  "stocksfallasoilrallykeepsalidontreasuriesmarketswrap",
+  "a5fd90eca688766c",
+  "exclusivefirstrussiandieselfromputintrumpdealheadingforusdat"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T17:50:18.105286+03:00",
+ "last_run": "2026-10-23T17:55:15.547559+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1508,6 +1508,10 @@
   {
    "d": "2026-10-23",
    "t": "Oil India Strikes Natural Gas in Shallow Offshore Basin"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "EXCLUSIVE: First Russian diesel from Putin-Trump deal heading for US, data shows - Reuters"
   }
  ]
 }
