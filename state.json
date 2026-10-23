@@ -4,8 +4,6 @@
   "Brent": 113.78
  },
  "seen": [
-  "04f8ee6c36419a65",
-  "analysisbuyerandsupplierhowchinasustainsrussiaswar",
   "c33c7809dae5bddb",
   "shafaqnewsbasrahcrudepricesriseasglobaloilclimbs",
   "5031c281d5f7f618",
@@ -603,7 +601,9 @@
   "5662ccef99ebd1f3",
   "usequityindexesmixedasinvestorsrotatefromaitradetogovernment",
   "2902425268519973",
-  "iransoilreservesrundryasusnavalblockadetightens"
+  "iransoilreservesrundryasusnavalblockadetightens",
+  "b4c9719bbb90929d",
+  "crudeoilrisesonmiddleeasttensions"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 34
  },
- "last_run": "2026-10-23T06:45:17.186663+03:00",
+ "last_run": "2026-10-23T06:50:17.561572+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
