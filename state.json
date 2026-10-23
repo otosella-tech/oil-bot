@@ -4,8 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "aaf38f157a60fe68",
-  "onshoreoilandgasmarketsizeshareforecast2036",
   "eee4d674db1c4491",
   "crudeoilpricerisesashouthisintensifyattacksonsaudiarabia",
   "3346d4740b059e7e",
@@ -603,7 +601,9 @@
   "7b1e0a475e706c40",
   "canadianoilexplorerloganenergysaidtoweighpotentialsale",
   "562331e01a8f7460",
-  "trumpsiranshowdownrattleswallstreetasoilpricesspike"
+  "trumpsiranshowdownrattleswallstreetasoilpricesspike",
+  "8bb31762b39369de",
+  "skyhighoiltankerratesarekillinguscrudesalestoasia"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-23",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-10-23T03:25:16.189597+03:00",
+ "last_run": "2026-10-23T03:30:22.863636+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1332,6 +1332,10 @@
   {
    "d": "2026-10-23",
    "t": "Trump's Iran showdown rattles Wall Street as oil prices spike - Fox Business"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Sky-High Oil Tanker Rates Are Killing US Crude Sales to Asia - Bloomberg.com"
   }
  ]
 }
