@@ -4,8 +4,6 @@
   "Brent": 113.78
  },
  "seen": [
-  "10b0ed8a45b85c32",
-  "oilrisesasianstocksfallasmiddleeasttensionsmount",
   "9aaa9a05ed53ed1d",
   "oiljumps2onescalatingmiddleeasttension",
   "67b0f7f6590297a7",
@@ -603,7 +601,9 @@
   "f40c86f0295615ab",
   "oilfallsonlikelytechnicalcorrectionafterearliergains",
   "7ae8c996b02d24ad",
-  "asianstockstoslideontechroutbondsrallymarketswrap"
+  "asianstockstoslideontechroutbondsrallymarketswrap",
+  "bc350c66eb4745a8",
+  "saudiaramcoseekstopartnerwithcountriestoexpanditsoilstockpil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-23",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-10-23T05:50:16.668123+03:00",
+ "last_run": "2026-10-23T05:55:18.810922+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1352,6 +1352,10 @@
   {
    "d": "2026-10-23",
    "t": "Donald Trump claims Iran faked Strait of Hormuz attacks to influence midterm elections - The Jerusalem Post"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Saudi Aramco seeks to partner with countries to expand its oil stockpile, CEO says - Reuters"
   }
  ]
 }
