@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "f5d1aec65ba7ee85",
-  "oilpriceshitfivemonthhighashouthiattacksstokemiddleeastsuppl",
   "f4713086d1ffd154",
   "worldwidedropsforaistockssendwallstreettowarditsworstdaysinc",
   "410b0237ba6744ea",
@@ -603,7 +601,9 @@
   "c8ef2bbe52b823d7",
   "updateusequityindexesfalltreasuryyieldsjumpasirantensionssen",
   "44ac4fb21adbd0ab",
-  "wallstreetlosesgroundunderpressurefromrisingoilprices"
+  "wallstreetlosesgroundunderpressurefromrisingoilprices",
+  "9262cfb0002f6cd9",
+  "highgaspriceshelpedvaleromake68binthelast3months"
  ],
  "releases_done": {
   "2026-10-23|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T23:50:19.429230+03:00",
+ "last_run": "2026-10-23T23:55:15.914698+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
