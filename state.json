@@ -4,12 +4,6 @@
   "Brent": 109.36
  },
  "seen": [
-  "e350ddfd9d043370",
-  "wsjiranssoutheastasianfloatingoilstoragevirtuallyempty",
-  "016eefbed1452982",
-  "marinelifeingulfofmexicohasstillnotfullyrecoveredfrom2010bpo",
-  "2725f1c925a566ab",
-  "oilheadsforhighestclosesincemay",
   "4f33ddb28305a61d",
   "currentpriceofoilasofoctober222026",
   "80b5a99f16038a3f",
@@ -603,7 +597,13 @@
   "a4675cd8fd5df844",
   "usoilrisesabove100brentatfivemonthhighasiransaysitspreparedf",
   "65f1b16c0e13f335",
-  "oilpricesclimbasmiddleeastsupplyfearsintensifybrentnears115a"
+  "oilpricesclimbasmiddleeastsupplyfearsintensifybrentnears115a",
+  "ab4231a09fdfd28f",
+  "oilpriceshitlevelsnotseensincemay",
+  "fb15271729b128c0",
+  "currentpriceofoilasofoctober192026",
+  "31526ff99c8202e7",
+  "southkoreanshipownersinokordominateshormuztransitsasoilflows"
  ],
  "releases_done": {},
  "last_digest": "2026-10-23",
@@ -615,7 +615,7 @@
   "date": "2026-10-23",
   "count": 60
  },
- "last_run": "2026-10-23T15:35:13.501737+03:00",
+ "last_run": "2026-10-23T15:40:18.811938+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1456,6 +1456,10 @@
   {
    "d": "2026-10-23",
    "t": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare - CNBC"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "South Korean Shipowner Sinokor Dominates Hormuz Transits as Oil Flows Rebound - gCaptain"
   }
  ]
 }
