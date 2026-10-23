@@ -4,12 +4,6 @@
   "Brent": 111.52
  },
  "seen": [
-  "7cfa896027e892cf",
-  "apicrudeproductinventoriescontinuetodraw",
-  "6112b2c503bd9157",
-  "oilmarketfragmentationismakingcrudebothcheapandexpensive",
-  "9fe0bc2c4b1620d8",
-  "oilrisesasgeopoliticsbackinfocusafteraijittersease",
   "94437dc7961e1e15",
   "oilsettlesmixedasshippingriskstemperoptimismaboutflows",
   "08211cabde62134a",
@@ -603,7 +597,13 @@
   "6006914e70b28e99",
   "expertsquestionimpactoffederaloilreleaseonsoaringhomeheating",
   "a75b1b009a189093",
-  "howrisingcrudeoilpricescouldimpacttheusandglobaleconomy"
+  "howrisingcrudeoilpricescouldimpacttheusandglobaleconomy",
+  "c367a69a5b779c0e",
+  "lngcanadadoublescapacityasasialooksbeyondthegulf",
+  "e82a14421357e838",
+  "oilpricesjumpedafternewhouthistrikesonsaudiarabiaworldnews2n",
+  "1b419fc03a198216",
+  "oilpricesjumpedafternewhouthistrikesonsaudiarabia"
  ],
  "releases_done": {},
  "last_digest": "2026-10-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-23",
-  "count": 16
+  "count": 18
  },
- "last_run": "2026-10-23T02:55:14.485243+03:00",
+ "last_run": "2026-10-23T03:00:30.136238+03:00",
  "sent_stories": [
   {
    "d": "2026-10-20",
@@ -1320,6 +1320,14 @@
   {
    "d": "2026-10-23",
    "t": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze - MarketWatch"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Oil prices jumped after new Houthi strikes on Saudi Arabia | World News | 2news.com - KTVN"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Oil prices jumped after new Houthi strikes on Saudi Arabia - KTVN"
   }
  ]
 }
