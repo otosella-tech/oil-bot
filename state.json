@@ -606,16 +606,16 @@
   "bitcoingoldcrudeoilpredictionmarketscontractsamongthefastest"
  ],
  "releases_done": {},
- "last_digest": "2026-10-23",
+ "last_digest": "2026-10-24",
  "digest_prices": {
-  "WTI": 100.42,
-  "Brent": 114.05
+  "WTI": 103.27,
+  "Brent": 111.7
  },
  "llm": {
   "date": "2026-10-24",
-  "count": 18
+  "count": 24
  },
- "last_run": "2026-10-24T07:58:40.047168+03:00",
+ "last_run": "2026-10-24T08:00:28.643004+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
