@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "d901ba0fbdc2932e",
-  "5oilrefiningstockssoaringamidhighdieselandgaspricesinvesting",
   "c3fa652e8d8a4afc",
   "sp500nasdaqendsharplylowerasrevivedaidoubtsignitetechselloff",
   "ca0359587f7e3349",
@@ -603,7 +601,9 @@
   "5546ec364f1f8fa3",
   "usdipsintostrategicoilreserveagainamidsupplydisruptions",
   "a4420ed703396d9f",
-  "trumpinvokescoldwareralawtoboostoilrefiningasgaspricessoar"
+  "trumpinvokescoldwareralawtoboostoilrefiningasgaspricessoar",
+  "6129e1d9be850c7f",
+  "indiascrudeoilimportsclimb16inseptember"
  ],
  "releases_done": {
   "2026-10-23|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-24",
   "count": 16
  },
- "last_run": "2026-10-24T04:25:13.545807+03:00",
+ "last_run": "2026-10-24T04:30:21.854689+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
