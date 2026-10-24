@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "4c09ca84c18b9e9a",
-  "oilheadsforweeklygainonfearsofrenewedusiranescalation",
   "0669c578fd0aa5b1",
   "oiljumpsonescalatingmiddleeastconflict",
   "3ed262d8bd8bb9cf",
@@ -603,7 +601,9 @@
   "09ff788e75dbb95f",
   "dowplunges652pointsaftercrudeoiltops100onrenewedusiranwarfea",
   "9a81947f8511aa47",
-  "rosebanklifeontheoilfieldatthecentreofapoliticalstorm"
+  "rosebanklifeontheoilfieldatthecentreofapoliticalstorm",
+  "40583da250086158",
+  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-25",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-10-25T01:20:17.976394+02:00",
+ "last_run": "2026-10-25T01:25:13.500902+02:00",
  "sent_stories": [
   {
    "d": "2026-10-22",
@@ -1392,6 +1392,10 @@
   {
    "d": "2026-10-25",
    "t": "Dow Plunges 652 Points After Crude Oil Tops $100 on Renewed US-Iran War Fears - BigGo Finance"
+  },
+  {
+   "d": "2026-10-25",
+   "t": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters"
   }
  ]
 }
