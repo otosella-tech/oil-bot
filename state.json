@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "562331e01a8f7460",
-  "trumpsiranshowdownrattleswallstreetasoilpricesspike",
   "8bb31762b39369de",
   "skyhighoiltankerratesarekillinguscrudesalestoasia",
   "a88ba413ab084c33",
@@ -603,7 +601,9 @@
   "513c2f906530688b",
   "oilpricesreboundamidpersistentmiddleeastsupplyrisks",
   "c2f61b1ca0b31876",
-  "currentpriceofoilasofoctober122026"
+  "currentpriceofoilasofoctober122026",
+  "1aef6adc772561ee",
+  "usoilcompanyholdskeytotrumpsgreenlanddrillingambitions"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -615,7 +615,7 @@
   "date": "2026-10-24",
   "count": 35
  },
- "last_run": "2026-10-24T14:15:17.358194+03:00",
+ "last_run": "2026-10-24T14:20:17.878031+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
