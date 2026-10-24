@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "5382ad2c4c50d52f",
-  "japanweighsgasolinesubsidycutsasenergycostssoar",
   "c30861b80c9dd17f",
   "onceusblockadediranchinasmalaysianoilimportsdriedup",
   "f889608d03ff8870",
@@ -603,7 +601,9 @@
   "3f1d82e3318aff60",
   "3tankerstocksinfocusasoilshippingriskreturns",
   "e62f01cb55a98bed",
-  "currentpriceofoilasofoctober142026"
+  "currentpriceofoilasofoctober142026",
+  "a568fd57f5a9440e",
+  "currentpriceofoilasofoct152026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -615,7 +615,7 @@
   "date": "2026-10-24",
   "count": 60
  },
- "last_run": "2026-10-24T23:40:19.544566+03:00",
+ "last_run": "2026-10-24T23:45:17.432105+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
