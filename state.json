@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "9d344e492cc92507",
-  "oilpricesriseassupplyconcernslingeramidhouthiattacksonsaudia",
   "9df0cdca555c0aa9",
   "indiansharessubduedasrisingcrudepriceseclipseitgains",
   "4837fce5277c3384",
@@ -603,7 +601,9 @@
   "e54d70b01ffe99cd",
   "goldsilverextendweeklylossesashormuztensionspushcrudeabove11",
   "75c1eef9d458d41e",
-  "houthisclaimtohavestrucksaudiairportsoilfacilitieswithmissil"
+  "houthisclaimtohavestrucksaudiairportsoilfacilitieswithmissil",
+  "f1ef87e327f279f1",
+  "houthisclaimstringofnewattacksonsaudiarabiathespokesman"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -615,7 +615,7 @@
   "date": "2026-10-24",
   "count": 60
  },
- "last_run": "2026-10-24T23:10:17.785921+03:00",
+ "last_run": "2026-10-24T23:15:17.265993+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
@@ -1544,6 +1544,10 @@
   {
    "d": "2026-10-24",
    "t": "Houthis claim to have struck Saudi airports, oil facilities with missiles, drones - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Houthis claim string of new attacks on Saudi Arabia - The Spokesman-Review"
   }
  ]
 }
