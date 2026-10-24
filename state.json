@@ -4,10 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "d5080fbd8ea7fe72",
-  "crudeoilpricesheadedforthirdweeklygainbrentabove113abarrel",
-  "16e4efcb9f5f2264",
-  "indiansharesseenopeninghigherafter3sessiondropoilsurgeclouds",
   "f40c86f0295615ab",
   "oilfallsonlikelytechnicalcorrectionafterearliergains",
   "7ae8c996b02d24ad",
@@ -603,7 +599,11 @@
   "2e52a573f6983d88",
   "undertheradarstockstoplaythenextlegoftheenergytradewithoilpr",
   "23974829988f7e5b",
-  "secretiveukrainiandeepstrikeunitbehindrapidexpansionofdeepst"
+  "secretiveukrainiandeepstrikeunitbehindrapidexpansionofdeepst",
+  "a06607716228c6da",
+  "oilpricesapproachiranwarhighsassoaringtankerratestriggerasec",
+  "299aeef607347341",
+  "chinasgulfoilimportsforecasttonearpreiranwarhighasshipmentsr"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-24",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-10-24T16:30:21.220766+03:00",
+ "last_run": "2026-10-24T16:35:14.077780+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
@@ -1504,6 +1504,10 @@
   {
    "d": "2026-10-24",
    "t": "Secretive Ukrainian Deep-Strike Unit Behind Rapid Expansion of Deep-Strike Campaign - Bloomberg"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze - MarketWatch"
   }
  ]
 }
