@@ -4,10 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "f40c86f0295615ab",
-  "oilfallsonlikelytechnicalcorrectionafterearliergains",
-  "7ae8c996b02d24ad",
-  "asianstockstoslideontechroutbondsrallymarketswrap",
   "bc350c66eb4745a8",
   "saudiaramcoseekstopartnerwithcountriestoexpanditsoilstockpil",
   "10b0ed8a45b85c32",
@@ -603,7 +599,11 @@
   "a06607716228c6da",
   "oilpricesapproachiranwarhighsassoaringtankerratestriggerasec",
   "299aeef607347341",
-  "chinasgulfoilimportsforecasttonearpreiranwarhighasshipmentsr"
+  "chinasgulfoilimportsforecasttonearpreiranwarhighasshipmentsr",
+  "362d2106eafad9b4",
+  "trumpswaroniranhasbrokentheoilmarket",
+  "1b5dd44b4d496b5d",
+  "germanywantstostopmoreoilrefineryclosures"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-24",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-10-24T17:30:21.998749+03:00",
+ "last_run": "2026-10-24T17:35:14.854796+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
@@ -1508,6 +1508,10 @@
   {
    "d": "2026-10-24",
    "t": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze - MarketWatch"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Trump’s War on Iran Has Broken the Oil Market - CleanTechnica"
   }
  ]
 }
