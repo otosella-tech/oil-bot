@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "554846ceb7280d13",
-  "stocksretreatastechmoodsoursoilpricesjump",
   "c337a7539ff5a000",
   "eusarcticstrategyexcludesoilandgas",
   "aa60b16d26598d4c",
@@ -603,7 +601,9 @@
   "b8a54d7f18f274ea",
   "massiveoilslickseenweeksaftertankerstruckoffuaescoast",
   "1709af5da9c05ccf",
-  "goldmansachssaysrefinersseehighprobabilityofsharpoilsupplydr"
+  "goldmansachssaysrefinersseehighprobabilityofsharpoilsupplydr",
+  "9a34dc36128e4cc2",
+  "updateusequityindexesmixedasinvestorsrotatefromaitradetogove"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-24",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-10-24T09:35:15.275819+03:00",
+ "last_run": "2026-10-24T09:40:17.764275+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
@@ -1460,6 +1460,10 @@
   {
    "d": "2026-10-24",
    "t": "The cost of shipping a tanker of crude oil has skyrocketed due to war - Marketplace.org"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Update: US Equity Indexes Mixed as Investors Rotate From AI Trade to Government Bonds; Crude Oil Surges - Yahoo Finance"
   }
  ]
 }
