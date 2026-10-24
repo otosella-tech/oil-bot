@@ -4,10 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "2902425268519973",
-  "iransoilreservesrundryasusnavalblockadetightens",
-  "b4c9719bbb90929d",
-  "crudeoilrisesonmiddleeasttensions",
   "205775370b967e6d",
   "transcriptwhyoilhasntruinedtheglobaleconomywithroryjohnston",
   "6bd27ac08ec3a36f",
@@ -603,7 +599,11 @@
   "684af062ee2b01cd",
   "trumptargets62billionoffshorewindprojectnearingcompletion",
   "7a4c15173ff0bf97",
-  "libyareopensoilpipelinetozawiya"
+  "libyareopensoilpipelinetozawiya",
+  "51056c25e6a67b24",
+  "trumpaccusesiranofmakingupfakestrikesonshipstodriveupoilpric",
+  "1d549fa3915731e0",
+  "aicomputeisthenewoilandneedsanewmarket"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-24",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-10-24T19:52:09.398714+03:00",
+ "last_run": "2026-10-24T19:55:13.316439+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
@@ -1516,6 +1516,10 @@
   {
    "d": "2026-10-24",
    "t": "Libya reopens oil pipeline to Zawiya - Arab News"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Trump accuses Iran of making up fake strikes on ships to drive up oil prices - CBS News"
   }
  ]
 }
