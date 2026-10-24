@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "fd82d33edd7629a2",
-  "80milliontankerbillsarecrushingusoilexportstoasia",
   "151ffa34b87666f6",
   "cenovusenergyisjustoneof3canadianoilstockstowatch",
   "64f94e8e216e7096",
@@ -603,7 +601,9 @@
   "4edf0af8fecf4411",
   "iransayssevenshipshitinhormuzstraitwarnsusofwiderresponse",
   "e8641318710ab456",
-  "globalcrudeoilpriceshitsixmonthhighonmiddleeastconflictfears"
+  "globalcrudeoilpriceshitsixmonthhighonmiddleeastconflictfears",
+  "ab8ca3238e6dc874",
+  "recordtankerratesthreatentopushusoilexportstoasiatosevenyear"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -615,7 +615,7 @@
   "date": "2026-10-24",
   "count": 41
  },
- "last_run": "2026-10-24T15:55:13.327851+03:00",
+ "last_run": "2026-10-24T16:00:28.608349+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
