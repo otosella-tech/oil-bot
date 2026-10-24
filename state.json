@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "8794d0a471657489",
-  "brenthits114ashouthiattacksthreatensaudienergyinfrastructure",
   "9d344e492cc92507",
   "oilpricesriseassupplyconcernslingeramidhouthiattacksonsaudia",
   "9df0cdca555c0aa9",
@@ -603,7 +601,9 @@
   "8d3630803c4a77f8",
   "houthisclaimphasesofattacksonsaudiairportsoilpipelines",
   "e54d70b01ffe99cd",
-  "goldsilverextendweeklylossesashormuztensionspushcrudeabove11"
+  "goldsilverextendweeklylossesashormuztensionspushcrudeabove11",
+  "75c1eef9d458d41e",
+  "houthisclaimtohavestrucksaudiairportsoilfacilitieswithmissil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -615,7 +615,7 @@
   "date": "2026-10-24",
   "count": 60
  },
- "last_run": "2026-10-24T22:40:18.527710+03:00",
+ "last_run": "2026-10-24T22:45:17.149236+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
@@ -1540,6 +1540,10 @@
   {
    "d": "2026-10-24",
    "t": "Gold, silver extend weekly losses as Hormuz tensions push crude above $116 - Kitco PM Report - Kitco"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Houthis claim to have struck Saudi airports, oil facilities with missiles, drones - Anadolu Ajansı"
   }
  ]
 }
