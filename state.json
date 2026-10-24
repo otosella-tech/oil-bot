@@ -4,10 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "229bfef83c7fafdd",
-  "citiseesoilrisksskewedtoupsidedespiterecoveryingulfexports",
-  "ced529242e9919e1",
-  "oilpricescoolfrom5monthhighsastrumpinvokesdefenseproductiona",
   "2be9d6464faf4a1b",
   "whytrumpcantaffordtolosetherareearthrace",
   "fd82d33edd7629a2",
@@ -603,7 +599,11 @@
   "b6a56084b4c8666e",
   "aaafuelprices",
   "a88ba413ab084c33",
-  "scientiststurnmajorcrudeoilproblemintoanunexpectedenergybrea"
+  "scientiststurnmajorcrudeoilproblemintoanunexpectedenergybrea",
+  "3a280e3a722c342b",
+  "strathconapitches250000bpdoilexportroutetoasia",
+  "4edf0af8fecf4411",
+  "iransayssevenshipshitinhormuzstraitwarnsusofwiderresponse"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-24",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-10-24T15:10:17.969288+03:00",
+ "last_run": "2026-10-24T15:15:19.084044+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
@@ -1484,6 +1484,10 @@
   {
    "d": "2026-10-24",
    "t": "Update: US Equity Indexes Drop as AI Trade Loses Shine After Meta's Results While Crude Oil Jumps as Iran Warns of Invasion - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Iran says seven ships hit in Hormuz Strait, warns US of wider response - Al Jazeera"
   }
  ]
 }
