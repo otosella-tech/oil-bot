@@ -4,10 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "a3e1044c0fc54a6f",
-  "wticrudeoilholdsnear99amidgeopoliticaltensions",
-  "58100107a24689fd",
-  "iranclaimsmoreshipsstrucknearhormuzastrumpaccusestehranoffak",
   "8794d0a471657489",
   "brenthits114ashouthiattacksthreatensaudienergyinfrastructure",
   "9d344e492cc92507",
@@ -603,7 +599,11 @@
   "f11a7496cc892f16",
   "gm53v8problemsbyyeartheoilburnersthelifterfailuresandtheones",
   "dcbfa0a0798be84c",
-  "syriasenergycomebackcouldreshapemiddleeastoilandgas"
+  "syriasenergycomebackcouldreshapemiddleeastoilandgas",
+  "8d3630803c4a77f8",
+  "houthisclaimphasesofattacksonsaudiairportsoilpipelines",
+  "e54d70b01ffe99cd",
+  "goldsilverextendweeklylossesashormuztensionspushcrudeabove11"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -615,7 +615,7 @@
   "date": "2026-10-24",
   "count": 60
  },
- "last_run": "2026-10-24T22:30:21.003440+03:00",
+ "last_run": "2026-10-24T22:35:15.523583+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
@@ -1532,6 +1532,14 @@
   {
    "d": "2026-10-24",
    "t": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War - WSJ"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines - ABC News & Headlines – Australian Broadcasting Corporation"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Gold, silver extend weekly losses as Hormuz tensions push crude above $116 - Kitco PM Report - Kitco"
   }
  ]
 }
