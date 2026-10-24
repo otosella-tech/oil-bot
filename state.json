@@ -4,10 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "62107ecd8b300b6a",
-  "uscrudeoilstockpilespostweeklydrop",
-  "f91142c7c8b1614c",
-  "bccrudeoilfutures",
   "3aff552326c32e7a",
   "oilholdsbiggestgaininweekassaudiattacksfansupplyrisks",
   "e1050d6db2ed1ec1",
@@ -603,7 +599,11 @@
   "c48e894afbb1a12c",
   "currentpriceofoilasofoctober52026",
   "2ff747c380d6dbcd",
-  "brenttops106afterdeadlysaudiairportattackukrainesaysrussiavi"
+  "brenttops106afterdeadlysaudiairportattackukrainesaysrussiavi",
+  "c6e5c6fdc71b7024",
+  "trumpinvokescoldwareradefenseproductionactforoilproductionre",
+  "cc8407a8f7c8eae0",
+  "gaspricesdipslightlyinidahoamidcrudeoilfluctuations"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-24",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-10-24T10:05:13.864683+03:00",
+ "last_run": "2026-10-24T10:10:17.837471+03:00",
  "sent_stories": [
   {
    "d": "2026-10-21",
@@ -1468,6 +1468,10 @@
   {
    "d": "2026-10-24",
    "t": "Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire - CNBC"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Trump invokes Cold War-era Defense Production Act for oil production, refining - Reuters"
   }
  ]
 }
