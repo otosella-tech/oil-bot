@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "5b06c2291dfbb7c5",
-  "oilhits114forfirsttimesincemayasglobalstocksknockedbyaifears",
   "9f96f1ccc281ad72",
   "oilhits114intraday",
   "eee7f6b90fdf6016",
@@ -603,7 +601,9 @@
   "9b1af86db2a00b14",
   "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "991935d58fdf1acb",
-  "gcccrudeoilexportsaccountfor273ofglobaltotal"
+  "gcccrudeoilexportsaccountfor273ofglobaltotal",
+  "b57097a15884a131",
+  "crudeoilnear120tointensifyheadwindsforeconomybuttailwindslik"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -615,7 +615,7 @@
   "date": "2026-10-25",
   "count": 24
  },
- "last_run": "2026-10-25T13:20:18.300745+02:00",
+ "last_run": "2026-10-25T13:25:14.899270+02:00",
  "sent_stories": [
   {
    "d": "2026-10-22",
