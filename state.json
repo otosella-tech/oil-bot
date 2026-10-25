@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "c35b759753a6653f",
-  "oilpricesjumptofivemonthhighasattacksthreatenglobalsupply",
   "181de8fad57cfa36",
   "techroutslowswithoilstrengthcappingreliefmarketswrap",
   "d5b6e7308e112885",
@@ -603,7 +601,9 @@
   "134158105a7a2fea",
   "oilpricesholdnear100asmiddleeastrisksoffsetpeacehopes",
   "87408e2791efaba3",
-  "oilslickfromtankerinhormuzstraitwashesuponuaebeaches"
+  "oilslickfromtankerinhormuzstraitwashesuponuaebeaches",
+  "52ee25e3fa0fe018",
+  "houthissaytheyattackedsaudioilsitesstrikesreportedinaden"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-25",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-10-25T18:15:19.394599+02:00",
+ "last_run": "2026-10-25T18:20:17.601610+02:00",
  "sent_stories": [
   {
    "d": "2026-10-22",
@@ -1448,6 +1448,10 @@
   {
    "d": "2026-10-25",
    "t": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches - Al Jazeera"
+  },
+  {
+   "d": "2026-10-25",
+   "t": "Houthis say they attacked Saudi oil sites; strikes reported in Aden - Denver Gazette"
   }
  ]
 }
