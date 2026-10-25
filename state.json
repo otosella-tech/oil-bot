@@ -4,10 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "59f6127caf6921be",
-  "yourfridayoct23guidefivethingstodointheoilcity",
-  "d04a4af23b643aaa",
-  "iransays7oiltankersattackedinthestraitofhormuzasfearsgrowofa",
   "3ebfcce22b1e2503",
   "oilhits115forfirsttimesincemayasglobalstocksknockedbyaifears",
   "9cf617b265888475",
@@ -603,7 +599,11 @@
   "4f33ddb28305a61d",
   "currentpriceofoilasofoctober222026",
   "872b683af5099ff4",
-  "oilandtechmoneybackmeasuretolimitcaliforniaenvironmentallaw"
+  "oilandtechmoneybackmeasuretolimitcaliforniaenvironmentallaw",
+  "d3cec6f4aae92c41",
+  "ustoutsroleingulfoilexportsascentcomchiefvisitshormuz",
+  "e12c245d128eb776",
+  "usfedratedecisioncorporateearningscrudeoiltosteermarketsenti"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-25",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-10-25T23:05:13.914926+02:00",
+ "last_run": "2026-10-25T23:10:18.463996+02:00",
  "sent_stories": [
   {
    "d": "2026-10-22",
@@ -1484,6 +1484,10 @@
   {
    "d": "2026-10-25",
    "t": "US says helped Gulf nations export 1.5 billion barrels of oil through Hormuz - Arab News"
+  },
+  {
+   "d": "2026-10-25",
+   "t": "US touts role in Gulf oil exports as CENTCOM chief visits Hormuz - Arab News"
   }
  ]
 }
