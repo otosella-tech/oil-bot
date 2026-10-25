@@ -4,10 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "0c5f12a29d67ba1a",
-  "trumpclaimswevebeateniranbutusisntclosetovictoryopinion",
-  "1fcb656e896614cb",
-  "usoilholdsabove100brentatfivemonthhighasiransaysitspreparedf",
   "99739ccf297f5a8e",
   "freightdiscountspromptindiashpcltobuyoilondeliveredbasis",
   "4ae9839e9ab9eb65",
@@ -603,7 +599,11 @@
   "3faa279504b23fc0",
   "uaeshutsmorebeachesasitdealswithoilspillingulf",
   "65349b58d01363dc",
-  "usfedearningscrudeoiltodrivemarketsthisweek"
+  "usfedearningscrudeoiltodrivemarketsthisweek",
+  "637fda267f4a2794",
+  "goldmansachswarnsonthehormuzcrisisandrisingfuelcosts",
+  "8159cda8967c6a58",
+  "fpiexodusoverseasinvestorspulloutrs48056crorefromequitiesino"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-25",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-10-25T09:55:15.340009+02:00",
+ "last_run": "2026-10-25T10:00:27.137792+02:00",
  "sent_stories": [
   {
    "d": "2026-10-22",
@@ -1408,6 +1408,10 @@
   {
    "d": "2026-10-25",
    "t": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas"
+  },
+  {
+   "d": "2026-10-25",
+   "t": "Goldman Sachs warns on the Hormuz crisis and rising fuel costs - Yahoo Finance"
   }
  ]
 }
