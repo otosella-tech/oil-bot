@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "56b25335c1695536",
-  "uscrudeoilinventoriesseemassivedropoff",
   "1f6e2ba3dd02cbf9",
   "currentpriceofoilasofoct142026",
   "33a2621d67d0474a",
@@ -603,7 +601,9 @@
   "cc9355bf9417c41c",
   "paweeklyoilgascompliancesnapshotoctober17to23",
   "63696b9735f9f0ee",
-  "theamericasarethenewoilgrowthengine166millionbarrelsadayin20"
+  "theamericasarethenewoilgrowthengine166millionbarrelsadayin20",
+  "9fa9dfe2d9f8aff6",
+  "trumpbragsusismakingafortuneoffhighgaspricesasoilhitshighest"
  ],
  "releases_done": {},
  "last_digest": "2026-10-24",
@@ -615,7 +615,7 @@
   "date": "2026-10-25",
   "count": 8
  },
- "last_run": "2026-10-25T05:10:17.646447+02:00",
+ "last_run": "2026-10-25T05:15:16.334215+02:00",
  "sent_stories": [
   {
    "d": "2026-10-22",
