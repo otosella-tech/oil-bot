@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "d5b6e7308e112885",
-  "usfuturesunderpressureascrudereacheslevelsnotseensincemay",
   "9020a5bbaa9c778b",
   "retailtradersfindabackdoorto247oiltrading",
   "6fddd794e3e3ed72",
@@ -603,7 +601,9 @@
   "52ee25e3fa0fe018",
   "houthissaytheyattackedsaudioilsitesstrikesreportedinaden",
   "4b321b857668afe2",
-  "oilnewscrudeoiloutlookstaysbullishdespitesteadymiddleeastexp"
+  "oilnewscrudeoiloutlookstaysbullishdespitesteadymiddleeastexp",
+  "a238be9f58148bda",
+  "worldisontrackforupto28degreesofwarmingdespitecleanenergyboo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-25",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-10-25T18:55:19.988745+02:00",
+ "last_run": "2026-10-25T19:00:28.550734+02:00",
  "sent_stories": [
   {
    "d": "2026-10-22",
@@ -1452,6 +1452,10 @@
   {
    "d": "2026-10-25",
    "t": "Houthis say they attacked Saudi oil sites; strikes reported in Aden - Denver Gazette"
+  },
+  {
+   "d": "2026-10-25",
+   "t": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom"
   }
  ]
 }
