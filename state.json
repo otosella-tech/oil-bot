@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "ab4231a09fdfd28f",
-  "oilpriceshitlevelsnotseensincemay",
   "fb15271729b128c0",
   "currentpriceofoilasofoctober192026",
   "31526ff99c8202e7",
@@ -603,7 +601,9 @@
   "7268546e63ec544d",
   "uspartnerinvenezuelaoildeallookstohikecrudeproduction",
   "00034a9da4d9bbde",
-  "willoilpricesdeclineasmiddleeastsupplyrecovers"
+  "willoilpricesdeclineasmiddleeastsupplyrecovers",
+  "10f138be87d3cfbe",
+  "britainsrenewableenergyboomishittingagridbottleneck"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -615,7 +615,7 @@
   "date": "2026-10-25",
   "count": 41
  },
- "last_run": "2026-10-25T20:55:14.598809+02:00",
+ "last_run": "2026-10-25T21:00:27.531128+02:00",
  "sent_stories": [
   {
    "d": "2026-10-22",
