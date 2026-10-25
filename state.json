@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "2fc4f7df51837fca",
-  "federalgovernmenttoreleasethousandsofbarrelsofheatingoilfrom",
   "016eefbed1452982",
   "marinelifeingulfofmexicohasstillnotfullyrecoveredfrom2010bpo",
   "4f33ddb28305a61d",
@@ -603,7 +601,9 @@
   "2fee75576a948aea",
   "brentcrudeoilpricenearscruciallevelastrumppreparesiranattack",
   "a22ea6191aa42f34",
-  "threeshortiesoilpricespoliticaladscarveoutnewlowsfurmansecon"
+  "threeshortiesoilpricespoliticaladscarveoutnewlowsfurmansecon",
+  "e7a35295e2643b87",
+  "centcomchieffliesoverstraitofhormuzduringmiddleeastvisitaffi"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-25",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-10-25T22:20:16.668478+02:00",
+ "last_run": "2026-10-25T22:25:15.045407+02:00",
  "sent_stories": [
   {
    "d": "2026-10-22",
@@ -1472,6 +1472,10 @@
   {
    "d": "2026-10-25",
    "t": "Brent Crude Oil Price Nears Crucial Level as Trump Prepares Iran Attack - Benzinga"
+  },
+  {
+   "d": "2026-10-25",
+   "t": "CENTCOM chief flies over Strait of Hormuz during Middle East visit, affirms waterway clear of mines - The Jerusalem Post"
   }
  ]
 }
