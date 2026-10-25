@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "65f1b16c0e13f335",
-  "oilpricesclimbasmiddleeastsupplyfearsintensifybrentnears115a",
   "ab4231a09fdfd28f",
   "oilpriceshitlevelsnotseensincemay",
   "fb15271729b128c0",
@@ -603,7 +601,9 @@
   "788eeacbdb264d50",
   "russianespooilsellersseekrecordpremiumsasgulfexportsuncertai",
   "7268546e63ec544d",
-  "uspartnerinvenezuelaoildeallookstohikecrudeproduction"
+  "uspartnerinvenezuelaoildeallookstohikecrudeproduction",
+  "00034a9da4d9bbde",
+  "willoilpricesdeclineasmiddleeastsupplyrecovers"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -615,7 +615,7 @@
   "date": "2026-10-25",
   "count": 41
  },
- "last_run": "2026-10-25T20:35:14.526900+02:00",
+ "last_run": "2026-10-25T20:40:17.996508+02:00",
  "sent_stories": [
   {
    "d": "2026-10-22",
