@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "f4ebc23031e9eef2",
-  "goldsteadiesafterthreemonthlowsasoilrallyfansinflationworrie",
   "e3f384d60fae4eac",
   "usdieselat630agallonasfirstrussiancargosetssailfornewyork",
   "f36db01551602f23",
@@ -603,7 +601,9 @@
   "bb59ad9241992995",
   "risingcrudepriceswestasiatensionstoweighonindianmarkets",
   "85cce073535223aa",
-  "silverpriceforecast50inviewasoilfuelsfedratehikefears"
+  "silverpriceforecast50inviewasoilfuelsfedratehikefears",
+  "6211cc8848e50918",
+  "usequityfuturesclimbascrudeoilpricedipsmarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -615,7 +615,7 @@
   "date": "2026-10-25",
   "count": 51
  },
- "last_run": "2026-10-26T00:20:16.126358+02:00",
+ "last_run": "2026-10-26T00:25:13.880682+02:00",
  "sent_stories": [
   {
    "d": "2026-10-22",
