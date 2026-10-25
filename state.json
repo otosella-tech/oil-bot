@@ -4,10 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "9f96f1ccc281ad72",
-  "oilhits114intraday",
-  "eee7f6b90fdf6016",
-  "apithepressureskeepingfuelmarketstight",
   "e76c73a1784b2351",
   "globalcrudeoilpricessurgetohighestlevelsincemayamidmiddleeas",
   "8f65a52cfb8aa0fd",
@@ -603,7 +599,11 @@
   "991935d58fdf1acb",
   "gcccrudeoilexportsaccountfor273ofglobaltotal",
   "b57097a15884a131",
-  "crudeoilnear120tointensifyheadwindsforeconomybuttailwindslik"
+  "crudeoilnear120tointensifyheadwindsforeconomybuttailwindslik",
+  "2bd2f3caa9412acc",
+  "fpiswithdraw48056crfromequitiesinoctobersofaramidelevatedcru",
+  "bc350c66eb4745a8",
+  "saudiaramcoseekstopartnerwithcountriestoexpanditsoilstockpil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-25",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-10-25T13:35:14.256687+02:00",
+ "last_run": "2026-10-25T13:40:17.825847+02:00",
  "sent_stories": [
   {
    "d": "2026-10-22",
@@ -1416,6 +1416,10 @@
   {
    "d": "2026-10-25",
    "t": "Houthis threaten Riyadh airport as Saudi oil sites come under attack - The Arab Weekly"
+  },
+  {
+   "d": "2026-10-25",
+   "t": "Saudi Aramco seeks to partner with countries to expand its oil stockpile, CEO says - Reuters"
   }
  ]
 }
