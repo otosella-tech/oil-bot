@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "140cc8a67ff92308",
-  "theoilshockisworsethanbreakevenssay",
   "52770245d3b5355b",
   "theuskeepsblockingiransportstehransshadowtankershavenowrunou",
   "91be67b16db10bde",
@@ -603,7 +601,9 @@
   "66cef42b7510805e",
   "oilpricesdownalmost1inearlytrading",
   "7654d19b4aa6658e",
-  "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh"
+  "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh",
+  "7f5a57fde9adf6dc",
+  "oilpricesdownalmost1inearlytradingbyreuters"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 8
  },
- "last_run": "2026-10-26T01:35:13.525778+02:00",
+ "last_run": "2026-10-26T01:40:17.526806+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
