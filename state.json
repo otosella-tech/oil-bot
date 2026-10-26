@@ -4,10 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "3cf7bf71be406a91",
-  "sptsxcompositeslidesasoilpricesriseusmarketsalsonegative",
-  "4f3ee60a970f3a7b",
-  "wallstreetlosesgroundunderpressurefromrisingoilpricesunion",
   "fc0e86ec4069a757",
   "valeromade68binthelast3monthshighgasanddieselpricesareconnec",
   "871ab978b3fd0c65",
@@ -603,7 +599,11 @@
   "330b5dd4ecb9bb24",
   "crudeoilwticonsolidatesbelow10350resistancelivelevels",
   "225cad4ca81f5984",
-  "saudiarabiatostorecrudeoilinsingaporefrom2027"
+  "saudiarabiatostorecrudeoilinsingaporefrom2027",
+  "9299056910045e1d",
+  "crudeoilwticonsolidatesbelow10350resistancelivelevelsbyinves",
+  "397b79a08361725f",
+  "crudeoilpriceforecastbrentdropsfromnearsixmonthhighandfallsb"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T09:35:14.711296+02:00",
+ "last_run": "2026-10-26T09:40:19.534237+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
