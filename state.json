@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "9fcb44955c215020",
-  "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility",
   "8964a47efe4bdbde",
   "stocksfallasoilrallykeepsalidontreasuriesmarketswrap",
   "a5fd90eca688766c",
@@ -603,7 +601,9 @@
   "2b58d43755a5538b",
   "oilslipsfromnearsixmonthshighsdespitesupplyconcerns",
   "5e9212dbd15ba389",
-  "wedontplaygamestrumpsthreatshavemarketsnervous"
+  "wedontplaygamestrumpsthreatshavemarketsnervous",
+  "d12b1d97a581bf94",
+  "oilfallsfrom6mthhighssaudiattackskeepsupplyrisksinfocus"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-26",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-10-26T03:10:16.494041+02:00",
+ "last_run": "2026-10-26T03:15:16.358091+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-10-26",
    "t": "Oil India Strikes Natural Gas in Shallow Offshore Basin - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Oil falls from 6-mth highs; Saudi attacks keep supply risks in focus - Investing.com"
   }
  ]
 }
