@@ -4,8 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "3aff552326c32e7a",
-  "oilholdsbiggestgaininweekassaudiattacksfansupplyrisks",
   "e1050d6db2ed1ec1",
   "usregulatorisprobingsuspiciousiranoiltradingofficialsays",
   "7c5d32f6e305b33e",
@@ -603,7 +601,9 @@
   "d0a059ca02c9ea70",
   "oilspilloffuaewidenssatelliteimagesshowpromptingmorebeachclo",
   "bee7a33c7fdd1eca",
-  "azerbaijanexportsover1milliontonsofoiltoromania"
+  "azerbaijanexportsover1milliontonsofoiltoromania",
+  "156676ed7bed80d3",
+  "oilpricesfallastradersweighusirandiplomacysaudiattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T11:40:20.786996+02:00",
+ "last_run": "2026-10-26T11:45:19.253461+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-10-26",
    "t": "Oil Falls Amid Diplomatic Efforts to End Iran War - WSJ"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks - WSJ"
   }
  ]
 }
