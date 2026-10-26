@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "cba6e7aa51133be0",
-  "stockmarkettodayfuturesheadloweratendofwildweekasoilpricesri",
   "08dd201c27153d32",
   "oilpriceshitfivemonthhighanddowfalls700pointsoverfearsofiran",
   "64d289dd5b383437",
@@ -603,7 +601,9 @@
   "bd2960fba96854b6",
   "indiansharesontrackformutedopenasoilconcernspersistfedinfocu",
   "04ad860470da7082",
-  "onewayortheothertrumpsthreatssendoilpricessurging"
+  "onewayortheothertrumpsthreatssendoilpricessurging",
+  "7b1306eb41aa9623",
+  "crudepricesfallfromsixmonthhighswtistandsat101perbarrelbrent"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 18
  },
- "last_run": "2026-10-26T04:35:15.077040+02:00",
+ "last_run": "2026-10-26T04:40:17.306481+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
