@@ -4,8 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "2daaaa18e4c40ee2",
-  "usiranwarthenandnowhowthelandscapehaschangedsincefebruary",
   "f7553ac43bf42268",
   "globaloilpricehits117abarrelhighestsinceapril",
   "df26d6c9abded913",
@@ -603,7 +601,9 @@
   "72161c474baeaf99",
   "trumpcallsoffiranstrikebutwilloilholdabove100",
   "10fa32ed73296fc3",
-  "saudiarabiatostorecrudeoilinsingaporeinmid2027abs"
+  "saudiarabiatostorecrudeoilinsingaporeinmid2027abs",
+  "b76e8108b3e83524",
+  "chinamyanmarcrudeoilpipelinedeliversover100milliontonshelpin"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 24
  },
- "last_run": "2026-10-26T05:20:17.217234+02:00",
+ "last_run": "2026-10-26T05:25:13.725719+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
