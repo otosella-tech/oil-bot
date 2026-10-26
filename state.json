@@ -4,24 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "21d2ae941370445d",
-  "15inductedinoilandgashalloffame",
-  "69da2ed46bbdb74d",
-  "aswinternearsheatingoilemergesashurdleforrepublicansinussena",
-  "a75b1b009a189093",
-  "howrisingcrudeoilpricescouldimpacttheusandglobaleconomy",
-  "f91142c7c8b1614c",
-  "bccrudeoilfutures",
-  "62107ecd8b300b6a",
-  "uscrudeoilstockpilespostweeklydrop",
-  "a6e2a2db16fdeaae",
-  "crudeoilcutslossesastraderseyeg7fuelrelease",
-  "513c2f906530688b",
-  "oilpricesreboundamidpersistentmiddleeastsupplyrisks",
-  "c2f61b1ca0b31876",
-  "currentpriceofoilasofoctober122026",
-  "1aef6adc772561ee",
-  "usoilcompanyholdskeytotrumpsgreenlanddrillingambitions",
   "21655251842b60cc",
   "thecracksareshowingincaliforniasbigoilblock",
   "2f2a3d476d37e758",
@@ -603,7 +585,25 @@
   "7c5d32f6e305b33e",
   "highestcrudeoilpricewtihistoricalchartnominalinflationadjust",
   "7bd91173d2b2baea",
-  "iransfleetofshadowtankershasrunoutofoilaftermonthslongusbloc"
+  "iransfleetofshadowtankershasrunoutofoilaftermonthslongusbloc",
+  "1c721bd53e2848ad",
+  "tankerratesforsaudicruderiseasregionaltensionsescalate",
+  "0cefa1291830cc5e",
+  "currentpriceofoilasofoctober82026",
+  "cc8407a8f7c8eae0",
+  "gaspricesdipslightlyinidahoamidcrudeoilfluctuations",
+  "bde8e2ff57e67003",
+  "currentpriceofoilasofoctober72026",
+  "d5a4b2e2f54441e5",
+  "thecostofshippingatankerofcrudeoilhasskyrocketedduetowar",
+  "325e74fa4458e7df",
+  "currentpriceofoilasofoctober132026",
+  "ca16af38abaf649d",
+  "fillingthestrategicpetroleumreserve",
+  "c48e894afbb1a12c",
+  "currentpriceofoilasofoctober52026",
+  "2ff747c380d6dbcd",
+  "brenttops106afterdeadlysaudiairportattackukrainesaysrussiavi"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T12:15:17.739790+02:00",
+ "last_run": "2026-10-26T12:20:19.413000+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1372,6 +1372,18 @@
   {
    "d": "2026-10-26",
    "t": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade - WSJ"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Tanker Rates for Saudi Crude Rise as Regional Tensions Escalate - WSJ"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "The cost of shipping a tanker of crude oil has skyrocketed due to war - Marketplace.org"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire - CNBC"
   }
  ]
 }
