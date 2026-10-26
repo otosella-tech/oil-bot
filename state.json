@@ -4,8 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "6eef8a35e517565d",
-  "oilpricesclimbto116astraderspriceinmiddleeastescalation",
   "76238ce9bf2335ea",
   "wallstreetmostlylosesgroundunderpressurefromrisingoilpricesp",
   "8eae41ac8a2488b4",
@@ -603,7 +601,9 @@
   "38f145d9324b092a",
   "oilpricesdipbutholdabove100asmiddleeastsupplythreatsmount",
   "7e564d9473206d73",
-  "asusrussiaukrainetrilateraltalksnearglobaloilpricesplungeand"
+  "asusrussiaukrainetrilateraltalksnearglobaloilpricesplungeand",
+  "91ce6c7325e6575a",
+  "singaporesaudiarabiatosetupcrudeoilstoragearrangement"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 54
  },
- "last_run": "2026-10-26T08:05:14.126699+02:00",
+ "last_run": "2026-10-26T08:10:20.648084+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
