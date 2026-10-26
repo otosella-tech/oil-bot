@@ -4,10 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "47310cfc1c9cfd5a",
-  "brentcrudejumpstohighestsinceaprilonhouthiattacksuaeoilspill",
-  "0c344eba3015aa2b",
-  "marinelifedramaticallydeclinedingulfofmexicoinyearsafterbpoi",
   "f45f5425b2f78af4",
   "crudeoilsurges4slbsharesjumpfollowingupbeatq3earnings",
   "dbdde7d280370998",
@@ -603,7 +599,11 @@
   "de8a3182ba74d21d",
   "middleeastwarfuelsoiltransportcostsurge",
   "a2ea2cc759609721",
-  "currentpriceofoilasofoctober62026"
+  "currentpriceofoilasofoctober62026",
+  "7df86e21c49a27d7",
+  "saudiarabiatostorecrudeoilinsingaporefrommid2027",
+  "19fd142399414e37",
+  "saudiarabiamaysetupcrudeoilstorageinsingapore"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-26",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-10-26T07:35:16.264133+02:00",
+ "last_run": "2026-10-26T07:40:16.321343+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1284,6 +1284,10 @@
   {
    "d": "2026-10-26",
    "t": "Middle East War Fuels Oil Transport Cost Surge - 조선일보"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Saudi Arabia to store crude oil in Singapore from mid-2027 - Investing.com"
   }
  ]
 }
