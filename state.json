@@ -4,8 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "92be7d66fec45691",
-  "oilpricerisesabove117abarrelamidfearsuswillrenewstrikesonira",
   "c338e48b4528d061",
   "cagaspricesdropasdieselhitsnewhighupwardswingspossibleexpert",
   "560d48985ae99e08",
@@ -603,7 +601,9 @@
   "da74d44a177e451a",
   "uscrudeoilstockpilesfallmorethanexpected",
   "5870aab4ec4c81d4",
-  "currentpriceofoilasofoctober202026"
+  "currentpriceofoilasofoctober202026",
+  "e78c89588a3c0e5d",
+  "crudeoilspillinlafourcheparishcontainednoinjuriesorwildlifei"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 32
  },
- "last_run": "2026-10-26T06:20:16.976755+02:00",
+ "last_run": "2026-10-26T06:25:13.006116+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
