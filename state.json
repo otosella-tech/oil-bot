@@ -4,22 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "27c21748b4e11b0b",
-  "oilmarketsareonedgeaheadoftheweekendasmidtermelectionsnearan",
-  "af0b8f3dc1034b06",
-  "brentcrudetops116astraderspriceescalatingmiddleeastconflict",
-  "a4677e282f44a402",
-  "bitcoinseekssupportabove81kasbrentcrudeoilhitshighestlevelsi",
-  "15e43b4c63b41b78",
-  "brenttops116asmiddleeastrisksgrow",
-  "651f6abddd956ab7",
-  "stockselloffcontinuesasoilsurges",
-  "a095c34967838809",
-  "usstocksfallasoilpriceshitfivemonthhigh",
-  "8a69c4ca9654adde",
-  "stocksseecontinueddownwardpressurefromaianxietyandoilprices",
-  "0f0ae42329ea3acd",
-  "uaeconfirmsapproachingoilspillasiranclaimscontinuedattacks",
   "d217dc1caacf3274",
   "usequitymarketsendlowerasoiltreasuryyieldsgainamidmiddleeast",
   "d025f0230a100468",
@@ -603,7 +587,23 @@
   "6413829df286e07d",
   "singaporeandsaudiarabiaannouncejointintenttoestablishcrudeoi",
   "9299ef784b6217bc",
-  "greeceextendsmissilehelptoyanbuashouthishammersaudioilinfras"
+  "greeceextendsmissilehelptoyanbuashouthishammersaudioilinfras",
+  "71cf7b8a2b007409",
+  "houthissaytheyattackedsaudioilpumpingstationsriyadhairportas",
+  "4daf8d0e4de1c72a",
+  "indianrupeeslipsto9498ascrudeoilpricesriseandgeopoliticalten",
+  "45a5f435d89cdf30",
+  "saudiarabiaplanscrudeoilstorageinsingaporefrom2027",
+  "c843dedcb6f89f70",
+  "sensexniftydropamidcrudeoilusfedpolicyconcerns",
+  "dbc7746f0f514763",
+  "stockmarketstodaysensexniftydeclineascrudepricesgeopolitical",
+  "a4c649c93f04604c",
+  "usmilitaryclaimsnomoreiranianminesonkeyhormuzshippinglanes",
+  "40be4658dfa579f3",
+  "silverslipsasrisingoilpricesbolsterhigherforlongerusrateexpe",
+  "72e172bc79a62756",
+  "fuelsubsidystolencrudeoilinnigeriacouldvekeptpetrolatn200lit"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-26",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-10-26T08:50:17.219827+02:00",
+ "last_run": "2026-10-26T08:55:17.176258+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1300,6 +1300,14 @@
   {
    "d": "2026-10-26",
    "t": "Greece extends missile help to Yanbu as Houthis hammer Saudi oil infrastructure - TradeWinds News"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies - Reuters"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "U.S. Military Claims \"No More Iranian Mines\" on Key Hormuz Shipping Lanes - news.sbs.co.kr"
   }
  ]
 }
