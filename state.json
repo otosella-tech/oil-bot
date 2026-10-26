@@ -4,12 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "ab8ca3238e6dc874",
-  "recordtankerratesthreatentopushusoilexportstoasiatosevenyear",
-  "74721158f60e2315",
-  "80milliontankerbillsarecrushingusoilexportstoasia",
-  "ec4eea6732a5a34c",
-  "yoursaturdayoct24guidefivethingstodointheoilcity",
   "64f94e8e216e7096",
   "indiasmideastoilimportsreturntoprewarlevelsinseptember",
   "2e52a573f6983d88",
@@ -603,7 +597,13 @@
   "d4c6111165449235",
   "stocksgainbeforetechearningsasoildeclinesmarketswrap",
   "17d7affa16a4a8f7",
-  "russiaswaronukraineisstrainingfoodandfuelsupply"
+  "russiaswaronukraineisstrainingfoodandfuelsupply",
+  "158a1f109e54103a",
+  "oilpricefallsbackastradersremainfocusedonmiddleeastconflict",
+  "d337ef9032051417",
+  "catalystfilledtradingweekaheadoilpriceseasewhatsmovingmarket",
+  "42477d70fb17b0e9",
+  "inhisownwordstrumpongaspricesandenergycostssincelaunchingthe"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T12:30:23.256693+02:00",
+ "last_run": "2026-10-26T12:35:14.493871+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1392,6 +1392,10 @@
   {
    "d": "2026-10-26",
    "t": "Russia’s War on Ukraine Is Straining Food and Fuel Supply - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "In his own words: Trump on gas prices and energy costs since launching the war with Iran - WTOP News"
   }
  ]
 }
