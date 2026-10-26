@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "ae9186915d4775da",
-  "oilindiastrikesnaturalgasinshallowoffshorebasin",
   "3b5205842a452a41",
   "oildeclinesfromsixmonthhighastradersassessmideastrisks",
   "2b58d43755a5538b",
@@ -603,7 +601,9 @@
   "42b6b7c187548500",
   "energybriefsoilinvestorswaitonnextmoveinmiddleeast",
   "07fb024e8d094e47",
-  "worldstocksgainaheadofformidableweekforriskoilpriceseaseeuro"
+  "worldstocksgainaheadofformidableweekforriskoilpriceseaseeuro",
+  "1c2fb252e1fb3280",
+  "oilpricesjumpbutrefinerseatthecostasretailmarginssoar"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T21:25:16.330495+02:00",
+ "last_run": "2026-10-26T21:30:26.074155+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
