@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "7127bddb68ed6b24",
-  "usstockfuturesclimbascrudeoilpricedipsmarketswrap",
-  "9fadcc48069b46a6",
-  "usequityfuturesclimbascrudeoilpricedips",
   "ae9186915d4775da",
   "oilindiastrikesnaturalgasinshallowoffshorebasin",
   "3b5205842a452a41",
@@ -603,7 +599,11 @@
   "ffb9eae85b4eabf7",
   "eiaedges2026usaoiloutputforecastcloserto14mmbpd",
   "6b0d48c97b36d8bf",
-  "uaeshutsmorebeachesasitdealswithoilspillingulf"
+  "uaeshutsmorebeachesasitdealswithoilspillingulf",
+  "42b6b7c187548500",
+  "energybriefsoilinvestorswaitonnextmoveinmiddleeast",
+  "07fb024e8d094e47",
+  "worldstocksgainaheadofformidableweekforriskoilpriceseaseeuro"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T21:20:18.335168+02:00",
+ "last_run": "2026-10-26T21:25:16.330495+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
