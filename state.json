@@ -4,12 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "00034a9da4d9bbde",
-  "willoilpricesdeclineasmiddleeastsupplyrecovers",
-  "10f138be87d3cfbe",
-  "britainsrenewableenergyboomishittingagridbottleneck",
-  "2fee75576a948aea",
-  "brentcrudeoilpricenearscruciallevelastrumppreparesiranattack",
   "a22ea6191aa42f34",
   "threeshortiesoilpricespoliticaladscarveoutnewlowsfurmansecon",
   "e7a35295e2643b87",
@@ -603,7 +597,13 @@
   "c354b4f25f42cc9a",
   "crudeoilpricesfallbackasiranholdsregionalsecuritymeeting",
   "ae509902dcb6edee",
-  "saudicrudetobestoredatsingaporesjurongrockcavernsfromh22027s"
+  "saudicrudetobestoredatsingaporesjurongrockcavernsfromh22027s",
+  "ee2a276fd2715505",
+  "eqtbetsonrecordusgasdemandwith50billionrangetakeover",
+  "9aa3777582e5952e",
+  "crudeoiledgeslowerchicagofedactivityindexrisesinseptember",
+  "6c634558a61345ca",
+  "singaporetostoresaudiarabianoilincaverns"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T18:25:16.305352+02:00",
+ "last_run": "2026-10-26T18:30:24.763397+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1500,6 +1500,10 @@
   {
    "d": "2026-10-26",
    "t": "Saudi crude to be stored at Singapore's Jurong Rock caverns from H2 2027: Singapore minister - S&P Global"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Singapore to store Saudi Arabian oil in caverns - Financial Times"
   }
  ]
 }
