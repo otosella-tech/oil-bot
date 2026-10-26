@@ -4,14 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "a5fd90eca688766c",
-  "exclusivefirstrussiandieselfromputintrumpdealheadingforusdat",
-  "ba894dba42ddf314",
-  "saudicrudeoilexportshitfivemonthhighinaugustdatashows",
-  "aaf38d7895203574",
-  "trumpaccusesiranofmakingupattacksandminestoraiseoilprices",
-  "86f8043a56f147b1",
-  "aiconcernscontinuetohitbigtechstocksfridayasoilpricesriseaga",
   "d5d495d182f6ec58",
   "usauthorizesemergencyreleaseofupto400000oilbarrelsfromstrate",
   "650b6a2a9a097c43",
@@ -603,7 +595,15 @@
   "d12b1d97a581bf94",
   "oilfallsfrom6mthhighssaudiattackskeepsupplyrisksinfocus",
   "9fcb44955c215020",
-  "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility"
+  "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility",
+  "8bbfda995d80cab6",
+  "morningwrapusstocksfallasoilseatriumsecures500mrigdeal",
+  "8964a47efe4bdbde",
+  "stocksfallasoilrallykeepsalidontreasuriesmarketswrap",
+  "f71772c93bbe5d2f",
+  "iraqseeksoiltankerfleetstrongerinsuranceprotectionamidexport",
+  "5779b5cba6790432",
+  "crudeoilextendsgainsassaudihouthiconflictandconcernsofusiran"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-26",
-  "count": 12
+  "count": 14
  },
- "last_run": "2026-10-26T03:20:16.717602+02:00",
+ "last_run": "2026-10-26T03:25:14.544835+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1200,6 +1200,14 @@
   {
    "d": "2026-10-26",
    "t": "Oil falls from 6-mth highs; Saudi attacks keep supply risks in focus - Investing.com"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Iraq seeks oil tanker fleet, stronger insurance protection amid export risks - Rudaw"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Crude oil extends gains as Saudi-Houthi conflict and concerns of US-Iran attacks keep the market supported - investingLive"
   }
  ]
 }
