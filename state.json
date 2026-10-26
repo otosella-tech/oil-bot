@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "f71772c93bbe5d2f",
-  "iraqseeksoiltankerfleetstrongerinsuranceprotectionamidexport",
   "5779b5cba6790432",
   "crudeoilextendsgainsassaudihouthiconflictandconcernsofusiran",
   "ba894dba42ddf314",
@@ -603,7 +601,9 @@
   "13ea5ebade582f3d",
   "oilsettlesloweronpeacehopessaudiattackslimitlosses",
   "9fcb44955c215020",
-  "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility"
+  "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility",
+  "993c06df010acefa",
+  "oilpricesfallamidsthopesofeasingusiranhostilities"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T22:30:23.312416+02:00",
+ "last_run": "2026-10-26T22:35:15.635441+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
