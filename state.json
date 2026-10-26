@@ -4,12 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "e12c245d128eb776",
-  "usfedratedecisioncorporateearningscrudeoiltosteermarketsenti",
-  "bb59ad9241992995",
-  "risingcrudepriceswestasiatensionstoweighonindianmarkets",
-  "85cce073535223aa",
-  "silverpriceforecast50inviewasoilfuelsfedratehikefears",
   "6211cc8848e50918",
   "usequityfuturesclimbascrudeoilpricedipsmarketswrap",
   "6cb134361f8b9756",
@@ -603,7 +597,13 @@
   "4f33ddb28305a61d",
   "currentpriceofoilasofoctober222026",
   "d1c11a3fa4d4e804",
-  "kazakhstanfaces12billionoilsetbackasnewinvestmentplanstakesh"
+  "kazakhstanfaces12billionoilsetbackasnewinvestmentplanstakesh",
+  "674879df0b3f0975",
+  "egyptvotestodefendsaudiarabiariskinghouthifire",
+  "9c39844e500825fb",
+  "idahogaspricesdrop13centsasrisingcrudeoilcostsraiseconcerns",
+  "69fc623665ff9a31",
+  "oilincheshigherstaysnearsixmonthhighsonsaudiattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T19:25:13.486186+02:00",
+ "last_run": "2026-10-26T19:30:25.257683+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1504,6 +1504,14 @@
   {
    "d": "2026-10-26",
    "t": "Singapore to store Saudi Arabian oil in caverns - Financial Times"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Oil inches higher, stays near six-month highs on Saudi attacks - Central Oregon Daily"
   }
  ]
 }
