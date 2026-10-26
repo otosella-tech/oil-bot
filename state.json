@@ -4,12 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "8159cda8967c6a58",
-  "fpiexodusoverseasinvestorspulloutrs48056crorefromequitiesino",
-  "c2425668b3cf7dd0",
-  "iransoillifelineisdryingupthebiggestpainmayfallonordinarycit",
-  "12e8bf09d67dd340",
-  "houthisthreatenriyadhairportassaudioilsitescomeunderattack",
   "5322c872abb23619",
   "homeheatingoilreservesarebeingtappedsomeofitcomesfromconnect",
   "99739ccf297f5a8e",
@@ -603,7 +597,13 @@
   "52171b3781a24f51",
   "oilslipsbutstaysnearsixmonthhighsonsaudiattacksbyreuters",
   "819d4d88846ee748",
-  "topeconomistwarnsoilat150coulddealasignificantblowtothegloba"
+  "topeconomistwarnsoilat150coulddealasignificantblowtothegloba",
+  "6d8d0945d86e2ae1",
+  "astrumpbragsaboutusoilandgascompanyprofitshisstocksgainedmil",
+  "c2258e685c0824bc",
+  "ieasbirolenergypriceswontreturntoprewarlevelsin2027",
+  "40583da250086158",
+  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T15:30:22.624175+02:00",
+ "last_run": "2026-10-26T15:35:15.011696+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1448,6 +1448,18 @@
   {
    "d": "2026-10-26",
    "t": "Oil slips but stays near six-month highs on Saudi attacks By Reuters - Investing.com"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "As Trump brags about U.S. oil and gas company profits, his stocks gained millions during Iran war - CBS News"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "IEA's Birol Energy Prices Won't Return to Pre-War Levels in 2027 - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters"
   }
  ]
 }
