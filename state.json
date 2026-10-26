@@ -4,12 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "3a280e3a722c342b",
-  "strathconapitches250000bpdoilexportroutetoasia",
-  "4edf0af8fecf4411",
-  "iransayssevenshipshitinhormuzstraitwarnsusofwiderresponse",
-  "e8641318710ab456",
-  "globalcrudeoilpriceshitsixmonthhighonmiddleeastconflictfears",
   "ab8ca3238e6dc874",
   "recordtankerratesthreatentopushusoilexportstoasiatosevenyear",
   "74721158f60e2315",
@@ -603,7 +597,13 @@
   "62107ecd8b300b6a",
   "uscrudeoilstockpilespostweeklydrop",
   "a6e2a2db16fdeaae",
-  "crudeoilcutslossesastraderseyeg7fuelrelease"
+  "crudeoilcutslossesastraderseyeg7fuelrelease",
+  "ea1e002e6a0d78f5",
+  "usarmysaysithashelped15billionbarrelsofoiloutofhormuz",
+  "d4c6111165449235",
+  "stocksgainbeforetechearningsasoildeclinesmarketswrap",
+  "17d7affa16a4a8f7",
+  "russiaswaronukraineisstrainingfoodandfuelsupply"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T12:25:16.016616+02:00",
+ "last_run": "2026-10-26T12:30:23.256693+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1384,6 +1384,14 @@
   {
    "d": "2026-10-26",
    "t": "Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire - CNBC"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "U.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Russia’s War on Ukraine Is Straining Food and Fuel Supply - Bloomberg.com"
   }
  ]
 }
