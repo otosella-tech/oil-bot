@@ -4,10 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "a238be9f58148bda",
-  "worldisontrackforupto28degreesofwarmingdespitecleanenergyboo",
-  "d73267f570dfa616",
-  "justrunthisasanadtrumpdismissespumppaintoboastofoilandgaspro",
   "7dcfbc7241b4a592",
   "fuelpricesunchangedforsixthweekdespiteoilrise",
   "4b51d9d5ebddc1f3",
@@ -603,7 +599,11 @@
   "57f13fa4eb5c328e",
   "europeanstocksadvanceasoilpricesdeclineaheadofcentralbankdec",
   "98be00fda5e788d3",
-  "oileasesondiplomacyhopeseuropeangasrisesonwintersupplyconcer"
+  "oileasesondiplomacyhopeseuropeangasrisesonwintersupplyconcer",
+  "30c7e59f76b14e00",
+  "crudeoildropsassaudidefenseministertravelstotehrantomeetiran",
+  "48ddd3ec50eb3abd",
+  "ovintivtobuyloganenergyfor890millionexpandingmontneyoilposit"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T17:40:17.991078+02:00",
+ "last_run": "2026-10-26T17:45:18.917828+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1492,6 +1492,10 @@
   {
    "d": "2026-10-26",
    "t": "Oil slips $2 a barrel but stays near six-month highs on Saudi attacks - Central Oregon Daily"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Crude oil drops as Saudi defense minister travels to Tehran to meet Iranian officials - Seeking Alpha"
   }
  ]
 }
