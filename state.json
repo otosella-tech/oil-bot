@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "66cef42b7510805e",
-  "oilpricesdownalmost1inearlytrading",
   "7654d19b4aa6658e",
   "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh",
   "7f5a57fde9adf6dc",
@@ -603,7 +601,9 @@
   "94377a0a73b05d5a",
   "oilfuturescrudevolatilityremainsamidmixedmessagingoniran",
   "af941f8f8f31b93c",
-  "weeklygaswatchgaspricesslipslightlyinwesternpa"
+  "weeklygaswatchgaspricesslipslightlyinwesternpa",
+  "948cd3c2855acd77",
+  "doeauthorizesoilreserveexchange"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T20:50:22.088503+02:00",
+ "last_run": "2026-10-26T20:55:14.157563+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
