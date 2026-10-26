@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "1132564a9af72788",
-  "oilpricesfedpolicydecisiontosteerrupeebondsthisweek",
   "2d6a2ce71e754087",
   "saudiarabiatostorecrudeoilinsingaporefromsecondhalfof2027",
   "24ab9f31847b2c7b",
@@ -603,7 +601,9 @@
   "5ff4d40b682d088f",
   "worldstocksgainaheadofformidableweekforriskoilpricesfall",
   "54913c7b83230d15",
-  "usequityindexesadvancefollowinganthropicsipofilingdeclineinc"
+  "usequityindexesadvancefollowinganthropicsipofilingdeclineinc",
+  "f58ae73fc4d56f2e",
+  "updateusequityindexesadvancefollowinganthropicsipofilingdecl"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T23:20:19.543980+02:00",
+ "last_run": "2026-10-26T23:25:14.430071+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
