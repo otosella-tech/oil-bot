@@ -4,8 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "b9b3ca5615fd2342",
-  "crudeoilpricesclimbonmiddleeastsupplyworriesandusinventorydr",
   "3da515de2a12f95f",
   "crudeoilpricesextendgainsasmiddleeasttensionspersist",
   "8e4e03057defc686",
@@ -603,7 +601,9 @@
   "2ea1ab4406181979",
   "currentpriceofoilasofoct262026",
   "9de5f327b7812c5a",
-  "crudeoilpricesretreatassaudiinfrastructureattackskeepsupplyr"
+  "crudeoilpricesretreatassaudiinfrastructureattackskeepsupplyr",
+  "5cea30ffc93fe59f",
+  "fueloilbecomesasiasnextcostshock"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T14:35:15.638935+02:00",
+ "last_run": "2026-10-26T14:40:19.112264+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
