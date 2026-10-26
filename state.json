@@ -4,14 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "2d9742f71cc9ae95",
-  "oilisnowflowingoutofthepersiangulflikebeforetheiranwarwhypri",
-  "0f0425e023d93961",
-  "uscrudeoilnear98asiranstepsupattacksinstraitofhormuz",
-  "325e74fa4458e7df",
-  "currentpriceofoilasofoctober132026",
-  "1c35ad312e338b6d",
-  "senatorcramerurgesdefenseproductionactfundingfornorthdakotao",
   "5546ec364f1f8fa3",
   "usdipsintostrategicoilreserveagainamidsupplydisruptions",
   "a4420ed703396d9f",
@@ -603,7 +595,15 @@
   "6831efdb09a1ee18",
   "oildeclinesonlikelytechnicalcorrection",
   "0e339f4724d81ce9",
-  "wticrudeoilfutureshit10137beforereversingonsupplynews"
+  "wticrudeoilfutureshit10137beforereversingonsupplynews",
+  "268ade26e403bbeb",
+  "indiasstockmarketfeelstheheatfromhighoilprices",
+  "569008cdd7a15fd4",
+  "singaporetostoresaudioilinundergroundcaverns",
+  "a8fd11957f6e29cd",
+  "oilpricesfallfromsixmonthhigh",
+  "6be26cc8e6177de2",
+  "saudicrudestoragetostartin2027"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T10:25:15.996605+02:00",
+ "last_run": "2026-10-26T10:30:22.378945+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1336,6 +1336,10 @@
   {
    "d": "2026-10-26",
    "t": "US touts role in Gulf oil exports as CENTCOM chief flies over Hormuz Strait - Arab News"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Singapore to store Saudi oil in underground caverns - Financial Times"
   }
  ]
 }
