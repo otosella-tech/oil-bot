@@ -4,8 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "560d48985ae99e08",
-  "ftse100slipsasoilpricehitsfivemonthhigh",
   "3d488dd17d78a8c7",
   "mexicotacklesfuelsmugglingtheweekinoilgas",
   "69a25b04457259f9",
@@ -603,7 +601,9 @@
   "e78c89588a3c0e5d",
   "crudeoilspillinlafourcheparishcontainednoinjuriesorwildlifei",
   "92be7d66fec45691",
-  "oilpricerisesabove117abarrelamidfearsuswillrenewstrikesonira"
+  "oilpricerisesabove117abarrelamidfearsuswillrenewstrikesonira",
+  "319c3b6e1502b77e",
+  "wtiandbrentcrudeoilpricesretreataheadofusmidtermsastheiranwa"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-26",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-10-26T06:30:23.321368+02:00",
+ "last_run": "2026-10-26T06:35:14.002240+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-10-26",
    "t": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran - The Guardian"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "WTI and Brent Crude Oil Prices Retreat Ahead of US Midterms as the Iran War Rhetoric Eases - FXLeaders"
   }
  ]
 }
