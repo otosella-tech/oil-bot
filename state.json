@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "8bbfda995d80cab6",
-  "morningwrapusstocksfallasoilseatriumsecures500mrigdeal",
-  "8964a47efe4bdbde",
-  "stocksfallasoilrallykeepsalidontreasuriesmarketswrap",
   "f71772c93bbe5d2f",
   "iraqseeksoiltankerfleetstrongerinsuranceprotectionamidexport",
   "5779b5cba6790432",
@@ -603,7 +599,11 @@
   "0577b1e69b20284a",
   "eurofallsagainstdollarbrazilianrealtumblesafterlulaelectionw",
   "63cbf9750a16178c",
-  "oilsettlesloweramidmiddleeastdiplomaticefforts"
+  "oilsettlesloweramidmiddleeastdiplomaticefforts",
+  "13ea5ebade582f3d",
+  "oilsettlesloweronpeacehopessaudiattackslimitlosses",
+  "9fcb44955c215020",
+  "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T22:25:15.158726+02:00",
+ "last_run": "2026-10-26T22:30:23.312416+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1532,6 +1532,10 @@
   {
    "d": "2026-10-26",
    "t": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries - CNBC"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Oil settles lower on peace hopes, Saudi attacks limit losses - Central Oregon Daily"
   }
  ]
 }
