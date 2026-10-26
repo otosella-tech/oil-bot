@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "6211cc8848e50918",
-  "usequityfuturesclimbascrudeoilpricedipsmarketswrap",
   "6cb134361f8b9756",
   "oiledgeslowerfromsixmonthhighastradersassessiranrisks",
   "706583dc3609359d",
@@ -603,7 +601,9 @@
   "9c39844e500825fb",
   "idahogaspricesdrop13centsasrisingcrudeoilcostsraiseconcerns",
   "69fc623665ff9a31",
-  "oilincheshigherstaysnearsixmonthhighsonsaudiattacks"
+  "oilincheshigherstaysnearsixmonthhighsonsaudiattacks",
+  "1f7715c192041ecf",
+  "gaspricesseeingdeclineinsouthcarolina"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T19:30:25.257683+02:00",
+ "last_run": "2026-10-26T19:35:15.430809+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
