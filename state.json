@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "d5d495d182f6ec58",
-  "usauthorizesemergencyreleaseofupto400000oilbarrelsfromstrate",
   "650b6a2a9a097c43",
   "tiffanyfloatsexpansionofwisconsinsoilrefinerytoreducerelianc",
   "1132564a9af72788",
@@ -603,7 +601,9 @@
   "06b8a11807768918",
   "asianeeds1trillionayeartoavoidthenextenergyshock",
   "ba894dba42ddf314",
-  "saudicrudeoilexportshitfivemonthhighinaugustdatashows"
+  "saudicrudeoilexportshitfivemonthhighinaugustdatashows",
+  "5ff4d40b682d088f",
+  "worldstocksgainaheadofformidableweekforriskoilpricesfall"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T23:05:15.643788+02:00",
+ "last_run": "2026-10-26T23:10:18.191404+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
