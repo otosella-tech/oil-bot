@@ -4,10 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "3d488dd17d78a8c7",
-  "mexicotacklesfuelsmugglingtheweekinoilgas",
-  "69a25b04457259f9",
-  "usequityindexesmixedastechnologyattemptsrecoveryamidsurgingc",
   "1721faa660872d5a",
   "theoilmarkets2027reliefhopesarefadingfast",
   "bf15e5d6d819bf23",
@@ -603,7 +599,11 @@
   "92be7d66fec45691",
   "oilpricerisesabove117abarrelamidfearsuswillrenewstrikesonira",
   "319c3b6e1502b77e",
-  "wtiandbrentcrudeoilpricesretreataheadofusmidtermsastheiranwa"
+  "wtiandbrentcrudeoilpricesretreataheadofusmidtermsastheiranwa",
+  "d46040c0ff2440e5",
+  "oildropsfromnearsixmonthhighsonhopesiranwarhostilitiestoease",
+  "c40ab72438942e67",
+  "crudeoilfalls2butmiddleeasttensionskeeppriceshigh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-26",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-10-26T06:35:14.002240+02:00",
+ "last_run": "2026-10-26T06:40:18.744692+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1268,6 +1268,10 @@
   {
    "d": "2026-10-26",
    "t": "WTI and Brent Crude Oil Prices Retreat Ahead of US Midterms as the Iran War Rhetoric Eases - FXLeaders"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Oil drops from near six-month highs on hopes Iran war hostilities to ease - Yahoo Finance"
   }
  ]
 }
