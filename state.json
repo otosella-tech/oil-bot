@@ -4,10 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "a771e5374e0d13a1",
-  "middleeastphysicaloilpricesarefallingwhilebrentcrudesoarstos",
-  "fd0f06463942e72c",
-  "oilralliesondualfrontwar",
   "a9a2cae9bda3a2fc",
   "brentcrudetops113highestlevelsincemayaftertrumphintsataction",
   "1a27405857fb1401",
@@ -603,7 +599,11 @@
   "e7dc66040cac56d5",
   "galpraisesfullyearviewafteroilpriceassumptionincrease",
   "11fa2a1997eb6135",
-  "oilisflowingfromthepersiangulfbutpricesremainhighwhy"
+  "oilisflowingfromthepersiangulfbutpricesremainhighwhy",
+  "21c02bc7cf5a277d",
+  "trumpsreversenixonstrategybringrussiainshutchinaout",
+  "631c43fb9fd72a30",
+  "oilpricesfallastradershopefordiplomaticprogressinmiddleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T09:55:14.330528+02:00",
+ "last_run": "2026-10-26T10:00:28.907599+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1328,6 +1328,10 @@
   {
    "d": "2026-10-26",
    "t": "US military says it escorted 1.5 billion barrels of oil through Strait of Hormuz - WION"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out"
   }
  ]
 }
