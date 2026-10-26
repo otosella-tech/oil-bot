@@ -4,10 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "bc16bef2b1f26f85",
-  "cop31hosturgesnatonationstospendmoreonclimatethandefense",
-  "f5cc6f24b96e3fff",
-  "fedpolicyq2earningscrudeoilpricesamongkeymarkettriggersnextw",
   "a164f596cbaf2f2b",
   "iraqsells10millionbarrelsofoilatdiscountsupto28",
   "7d436ea43001887f",
@@ -603,7 +599,11 @@
   "f4ada4f102c4d36b",
   "wallstsetforhigheropenasanthropicsipofilingsharpensaifocus",
   "97c3806a4401c0c0",
-  "saudioilexportsexceed55mmbbldinoctoberdespiteattack"
+  "saudioilexportsexceed55mmbbldinoctoberdespiteattack",
+  "2024e47f40049890",
+  "trumpsaysweremakingafreakingfortunefromtheiranwarsoilspikehe",
+  "9c6163ce9e2c3ee3",
+  "cmestocksriseascrudeoilfalls"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T16:50:18.910653+02:00",
+ "last_run": "2026-10-26T16:55:15.765443+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1472,6 +1472,10 @@
   {
    "d": "2026-10-26",
    "t": "Saudi Oil Exports Exceed 5.5 Mmbbl/d in October Despite Attack - Egypt Oil & Gas"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Trump Says “We’re Making A Freaking Fortune” From The Iran War’s Oil Spike. Here’s What The Economic Data Actually Show - Yahoo Finance"
   }
  ]
 }
