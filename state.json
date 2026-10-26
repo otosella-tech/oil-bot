@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "2b58d43755a5538b",
-  "oilslipsfromnearsixmonthshighsdespitesupplyconcerns",
-  "5e9212dbd15ba389",
-  "wedontplaygamestrumpsthreatshavemarketsnervous",
   "d12b1d97a581bf94",
   "oilfallsfrom6mthhighssaudiattackskeepsupplyrisksinfocus",
   "9fcb44955c215020",
@@ -603,7 +599,11 @@
   "1c2fb252e1fb3280",
   "oilpricesjumpbutrefinerseatthecostasretailmarginssoar",
   "b04a8b60459182c3",
-  "iranwarpushestrumpsaveragegasolinepricesabovebidens"
+  "iranwarpushestrumpsaveragegasolinepricesabovebidens",
+  "6bbc6e8bdaf28ba0",
+  "fertilenewgroundforamericasoilworkersopinion",
+  "7654d19b4aa6658e",
+  "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T22:00:29.344695+02:00",
+ "last_run": "2026-10-26T22:05:15.313828+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1528,6 +1528,10 @@
   {
    "d": "2026-10-26",
    "t": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries - CNBC"
   }
  ]
 }
