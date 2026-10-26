@@ -4,8 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "a9a2cae9bda3a2fc",
-  "brentcrudetops113highestlevelsincemayaftertrumphintsataction",
   "1a27405857fb1401",
   "oilfuturespostweeklygainsonmiddleeastescalationfears",
   "9397945934d33399",
@@ -603,7 +601,9 @@
   "21c02bc7cf5a277d",
   "trumpsreversenixonstrategybringrussiainshutchinaout",
   "631c43fb9fd72a30",
-  "oilpricesfallastradershopefordiplomaticprogressinmiddleeast"
+  "oilpricesfallastradershopefordiplomaticprogressinmiddleeast",
+  "af787d360fc237dc",
+  "iranhitsbackatmarcorubiospiratesofthecaribbeanremarkremindsh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T10:05:14.809758+02:00",
+ "last_run": "2026-10-26T10:10:19.663997+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
