@@ -4,8 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "e1050d6db2ed1ec1",
-  "usregulatorisprobingsuspiciousiranoiltradingofficialsays",
   "7c5d32f6e305b33e",
   "highestcrudeoilpricewtihistoricalchartnominalinflationadjust",
   "7bd91173d2b2baea",
@@ -603,7 +601,9 @@
   "bee7a33c7fdd1eca",
   "azerbaijanexportsover1milliontonsofoiltoromania",
   "156676ed7bed80d3",
-  "oilpricesfallastradersweighusirandiplomacysaudiattacks"
+  "oilpricesfallastradersweighusirandiplomacysaudiattacks",
+  "0f047a4d644cef54",
+  "currentpriceofoilasofoct192026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T11:45:19.253461+02:00",
+ "last_run": "2026-10-26T11:50:18.137847+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
