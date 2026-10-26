@@ -4,10 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "f45f5425b2f78af4",
-  "crudeoilsurges4slbsharesjumpfollowingupbeatq3earnings",
-  "dbdde7d280370998",
-  "oiltops116tofivemonthhighasmideastsupplyrisksmount",
   "6eef8a35e517565d",
   "oilpricesclimbto116astraderspriceinmiddleeastescalation",
   "76238ce9bf2335ea",
@@ -603,7 +599,11 @@
   "7df86e21c49a27d7",
   "saudiarabiatostorecrudeoilinsingaporefrommid2027",
   "19fd142399414e37",
-  "saudiarabiamaysetupcrudeoilstorageinsingapore"
+  "saudiarabiamaysetupcrudeoilstorageinsingapore",
+  "38f145d9324b092a",
+  "oilpricesdipbutholdabove100asmiddleeastsupplythreatsmount",
+  "7e564d9473206d73",
+  "asusrussiaukrainetrilateraltalksnearglobaloilpricesplungeand"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-26",
-  "count": 52
+  "count": 54
  },
- "last_run": "2026-10-26T08:00:25.683083+02:00",
+ "last_run": "2026-10-26T08:05:14.126699+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1288,6 +1288,10 @@
   {
    "d": "2026-10-26",
    "t": "Saudi Arabia to store crude oil in Singapore from mid-2027 - Investing.com"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "As US-Russia-Ukraine Trilateral Talks Near, Global Oil Prices Plunge and Gold Reclaims $4,000 - BigGo Finance"
   }
  ]
 }
