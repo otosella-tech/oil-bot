@@ -4,18 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "a3c0912b64cf8206",
-  "6millionbarrelsintwominutesdrawscftcscrutiny",
-  "48abd7cb4b20f34d",
-  "usrigcountholdssteadyasoilpricessurge",
-  "feeb093a8dacf41e",
-  "thehidden40perbarrelcostdrivingoilpriceshigher",
-  "533df3a36f1cc99a",
-  "ineosenergychairmanwarnsweresufferingtheconsequencesofunderi",
-  "da74d44a177e451a",
-  "uscrudeoilstockpilesfallmorethanexpected",
-  "5870aab4ec4c81d4",
-  "currentpriceofoilasofoctober202026",
   "3078de659eb645b8",
   "oilhits116withstocksmixedonearningsai",
   "c196f9bb874dc071",
@@ -603,7 +591,19 @@
   "7c21d2cc697c606e",
   "middleeastwarfuelssurgeinoiltankercostsseafarerwages",
   "488b0c2bfc24c3db",
-  "yemenshouthissaytheytargetedriyadhairportandsaudioilpipeline"
+  "yemenshouthissaytheytargetedriyadhairportandsaudioilpipeline",
+  "82d467c1275b4ec6",
+  "usmilitarysaysithelpedgulfstatesexport15billionbarrelsofoil",
+  "6acf0567be7da7ab",
+  "houthissaytheyattackedeastwestoilpumpingstationsnosaudiconfi",
+  "1bfd34a7d3659479",
+  "exclusivedeaththreatslawsuitsandbillionsinplaythebattleoverm",
+  "f1c5463876e56778",
+  "crudeoilsweirdmondaybrentwtislipasattacksrattlemarketsmurban",
+  "4b9ae33b66764d43",
+  "liveiransaysmessagesstillexchangedwithusthroughintermediarie",
+  "16a4bcf586d8c249",
+  "brentcrudeoilpullsbackafterreachingourpricetargetanalysis261"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-26",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-10-26T06:05:14.152559+02:00",
+ "last_run": "2026-10-26T06:10:17.551919+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1252,6 +1252,14 @@
   {
    "d": "2026-10-26",
    "t": "Yemen's Houthis say they targeted Riyadh airport and Saudi oil pipeline - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Houthis say they attacked East-West oil pumping stations; No Saudi confirmation - KFGO"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Exclusive | Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil - WSJ"
   }
  ]
 }
