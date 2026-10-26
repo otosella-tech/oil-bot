@@ -4,8 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "7cb5037d69700e5f",
-  "oilpriceshithighestpointsincemay",
   "eb7e2a439d34df96",
   "thedowdrops600pointsasfearsofrenewedmiddleeastfightingsendoi",
   "f2965063fbc2e11d",
@@ -603,7 +601,9 @@
   "8a146e3feb104264",
   "sensexfalls536pointsniftyslips200pointsamidcrudeoilconcerns",
   "f487698a88f1c6d7",
-  "oilslidesover2astradersweighsaudiattackrisksdemanddestructio"
+  "oilslidesover2astradersweighsaudiattackrisksdemanddestructio",
+  "f9979fc9dfdd9440",
+  "rupeefalls5paiseto9498againstusdollarinearlytrade"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 42
  },
- "last_run": "2026-10-26T07:25:14.360508+02:00",
+ "last_run": "2026-10-26T07:30:23.044522+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
