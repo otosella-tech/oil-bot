@@ -4,10 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "7c5d32f6e305b33e",
-  "highestcrudeoilpricewtihistoricalchartnominalinflationadjust",
-  "7bd91173d2b2baea",
-  "iransfleetofshadowtankershasrunoutofoilaftermonthslongusbloc",
   "61b386fcbfc73c6c",
   "commentaryhowtrumpsenergydominanceturnedintohubris",
   "bcf88a2df5a83fa3",
@@ -603,7 +599,11 @@
   "156676ed7bed80d3",
   "oilpricesfallastradersweighusirandiplomacysaudiattacks",
   "0f047a4d644cef54",
-  "currentpriceofoilasofoct192026"
+  "currentpriceofoilasofoct192026",
+  "bef9c21f22894301",
+  "aaanatgaspricesfall6centsascrudeoilnears100",
+  "6ee4a6dbc9d6681c",
+  "ieathelatestdevelopmentsinoilmarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T12:00:29.752319+02:00",
+ "last_run": "2026-10-26T12:05:15.355927+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
