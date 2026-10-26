@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "3b5205842a452a41",
-  "oildeclinesfromsixmonthhighastradersassessmideastrisks",
   "2b58d43755a5538b",
   "oilslipsfromnearsixmonthshighsdespitesupplyconcerns",
   "5e9212dbd15ba389",
@@ -603,7 +601,9 @@
   "07fb024e8d094e47",
   "worldstocksgainaheadofformidableweekforriskoilpriceseaseeuro",
   "1c2fb252e1fb3280",
-  "oilpricesjumpbutrefinerseatthecostasretailmarginssoar"
+  "oilpricesjumpbutrefinerseatthecostasretailmarginssoar",
+  "b04a8b60459182c3",
+  "iranwarpushestrumpsaveragegasolinepricesabovebidens"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T21:56:07.802861+02:00",
+ "last_run": "2026-10-26T22:00:29.344695+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1524,6 +1524,10 @@
   {
    "d": "2026-10-26",
    "t": "The Iran War Just Added $39 Billion to the World's LNG Bill"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's"
   }
  ]
 }
