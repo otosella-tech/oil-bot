@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "a0935ff175badbd3",
-  "oilpricestodaybrentcrudeeasesaftersixmonthhighasusirantensio",
   "824da101641f0a9a",
   "oilslipsfromnearsixmonthshighsdespitesupplyconcernsbyreuters",
   "c05a6fef33f99303",
@@ -603,7 +601,9 @@
   "4e36c2279afb1324",
   "goldfuturesturnhigherascrudeoilpricespullbackgldnysearca",
   "c944baf6b431c061",
-  "goldfuturesturnhigherascrudeoilpricespullback"
+  "goldfuturesturnhigherascrudeoilpricespullback",
+  "ce8508c22bc54240",
+  "allegedrussianfundingpromptsexecutiveexodusatuslngfirm"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -612,327 +612,11 @@
   "Brent": 109.64
  },
  "llm": {
-  "date": "2026-10-26",
-  "count": 60
+  "date": "2026-10-27",
+  "count": 2
  },
- "last_run": "2026-10-26T23:55:16.335791+02:00",
+ "last_run": "2026-10-27T00:00:27.782241+02:00",
  "sent_stories": [
-  {
-   "d": "2026-10-23",
-   "t": "Valero’s profit surges over 500%, sets records for Venezuelan oil and ethanol - San Antonio Express-News"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Renewed AI fears and a fresh spike in oil prices are hammering stocks - Yahoo Finance UK"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Iran’s shadow tanker fleet reportedly runs out of oil - Fox News"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Update: US Equity Indexes Mixed as Investors Rotate From AI Trade to Government Bonds; Crude Oil Surges - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Trump invokes Cold War era Defense Production Act for oil production, refining - CNBC"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil Holds Biggest Gain in Week as Saudi Attacks Fan Supply Risks - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "US regulator is probing suspicious Iran oil trading, official says - Reuters"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade - WSJ"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze - MarketWatch"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil prices jumped after new Houthi strikes on Saudi Arabia | World News | 2news.com - KTVN"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil prices jumped after new Houthi strikes on Saudi Arabia - KTVN"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Trump's Iran showdown rattles Wall Street as oil prices spike - Fox Business"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Sky-High Oil Tanker Rates Are Killing US Crude Sales to Asia - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia - Reuters"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "$80 Million Tanker Bills Are Crushing US Oil Exports to Asia - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "India's Mideast oil imports return to pre-war levels in September - Reuters"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Donald Trump claims Iran faked Strait of Hormuz attacks to influence midterm elections - The Jerusalem Post"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Saudi Aramco seeks to partner with countries to expand its oil stockpile, CEO says - Reuters"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Iran's Oil Reserves Run Dry as U.S. Naval Blockade Tightens - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War - WSJ"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Iran Claims More Ships Struck Near Hormuz as Trump Accuses Tehran of ‘Faking Hits’ - gCaptain"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Brent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil prices rise as supply concerns linger amid Houthi attacks on Saudi Arabia - Yahoo! Finance Canada"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Brent crude oil price nears $114, WTI tops $100 amid Houthi attacks on Saudi Arabia - Moneycontrol.com"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Japan Weighs Gasoline Subsidy Cuts as Energy Costs Soar"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Crude Oil Near $100, Brent–WTI Spread Widens on War and Inventory Draws — CMB News - CMB News"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Physical Oil Prices Drop in Mideast as Flows Via Hormuz Hold Up - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Are global oil reserves sufficient to withstand renewed US-Iran war? - Yahoo! Finance Canada"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "UK Rules Out Winter Energy Shortages as Gas Prices Soar"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil Heads for Weekly Gain on Fears of Renewed U.S.-Iran Escalation - WSJ"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare - CNBC"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Eni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Global crude oil prices surge to highest level since May amid Middle East attacks - The Irish Times"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "European Natural Gas Prices Surge to Highest Level Since 2022"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "UAE Closes Some Beaches After Tanker Oil Spill in Persian Gulf - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Saudi Arabia’s 2026 Deficit Rises to SAR 245bn as War Halves Oil Export Volume - https://houseofsaud.com/"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Egypt Moves to Defend Saudi Arabia as Iran War Threatens to Widen"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "WTI Climbs Above $101 a Barrel on U.S.-Iran Escalation Fears - WSJ"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Russian ESPO oil sellers seek record premiums as Gulf exports uncertain - Reuters"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "U.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare - CNBC"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "South Korean Shipowner Sinokor Dominates Hormuz Transits as Oil Flows Rebound - gCaptain"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil hits five-month high amid fears US will renew strikes on Iran - The Guardian"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war - AP News"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Iran says 7 oil tankers damaged in Strait of Hormuz - Denver Gazette"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Brent crude hits more than five-month high on Houthi-Saudi attacks, UAE oil spill - Reuters"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran - The Guardian"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Germany Wants to Stop More Oil Refinery Closures as Costs Mount - Bloomberg.com"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Crude oil extends gains as Saudi-Houthi conflict and concerns of US-Iran attacks keep the market supported - investingLive"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries - CNBC"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Russian diesel tanker heads to the U.S., the first since Trump’s deal with Putin - NBC News"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "The U.S. Keeps Blocking Iran's Ports. Tehran's Shadow Tankers Have Now Run Out of Oil. - Yahoo"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil India Strikes Natural Gas in Shallow Offshore Basin"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "EXCLUSIVE: First Russian diesel from Putin-Trump deal heading for US, data shows - Reuters"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Saudi crude oil exports hit five-month high in August, data shows - Reuters"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Trump accuses Iran of making up attacks and mines to raise oil prices - NewsNation"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Crude Oil Forecast: Weekend Iran Strike Fears Lift Oil Toward War Highs - FOREX.com"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil prices hit five-month high and Dow falls 700 points over fears of Iran strikes, AI spending - New York Post"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Aramco’s plan to supersize Hormuz bypass pipeline could take years—and do little for oil prices - Fortune"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Brent crude edges lower, even after Houthi attacks on Saudi infrastructure - Reuters"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Brent crude oil rises after Saudi Arabia infrastructure attacks disrupt supply - Traders Union"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Saudi Arabia wants to send 10 million barrels of oil a day around Hormuz. A former Treasury official says it may barely move prices - Fortune"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities - Financial Times"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal - Reuters"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "U.S. Rig Count Holds Steady as Oil Prices Surge"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran - The Guardian"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil prices climb as Saudi attacks heighten supply concerns - Oil & Gas Journal"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Update: Equities Mostly Lower Intraday as Oil Prices Soar - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "The Dow drops 600 points as fears of renewed Middle East fighting send oil soaring - Yahoo Finance UK"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Brent crude jumps to highest since April on Houthi-Saudi attacks, UAE oil spill - Central Oregon Daily"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Update: US Equity Indexes Fall as Rising Iran Tensions Push Crude Oil Higher - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted - MarketWatch"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Stock Selloff Continues as Oil Surges - WSJ"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Stocks See Continued Downward Pressure from AI Anxiety and Oil Prices - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-23",
-   "t": "UAE Confirms Approaching Oil Spill as Iran Claims Continued Attacks - The Maritime Executive"
-  },
   {
    "d": "2026-10-24",
    "t": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears - Reuters"
@@ -1540,6 +1224,10 @@
   {
    "d": "2026-10-26",
    "t": "Saudi crude oil exports hit five-month high in August, data shows - Reuters"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm"
   }
  ]
 }
