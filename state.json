@@ -4,10 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "b7d1570eec9225c2",
-  "currentpriceofoilasofoctober92026",
-  "564809fc03d3dd0f",
-  "middleeastoilexportstopprewarlevelsforpartofseptemberbuttank",
   "b8ded36ab1f9cd25",
   "nationalaveragefalls6centsbutcrudeoilnears100barrel",
   "7b89047b0b48b6ce",
@@ -603,7 +599,11 @@
   "353685124511b69a",
   "goldrisesasloweroilpriceseaseinflationfearsaheadoffedmeeting",
   "3e0fedda9e067d7c",
-  "bitcoinholdsnear80000asoilretreatsandthefeddecisionlooms"
+  "bitcoinholdsnear80000asoilretreatsandthefeddecisionlooms",
+  "c34a1b7a0b3f059d",
+  "networkingeventlaysthegroundworkforfuturecareersintheoilandg",
+  "b6c968ed1fc29d2e",
+  "theoilmarketshiddensupplycrisiswhythefuelsqueezecouldlastint"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T17:05:18.289066+02:00",
+ "last_run": "2026-10-26T17:10:18.972990+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
