@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "8e736919abe4da2e",
-  "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue",
   "66cef42b7510805e",
   "oilpricesdownalmost1inearlytrading",
   "7654d19b4aa6658e",
@@ -603,7 +601,9 @@
   "e3e95388dd9339eb",
   "pathwaytonormalcyremainsuncertaindespiteoptimisticcrudefutur",
   "94377a0a73b05d5a",
-  "oilfuturescrudevolatilityremainsamidmixedmessagingoniran"
+  "oilfuturescrudevolatilityremainsamidmixedmessagingoniran",
+  "af941f8f8f31b93c",
+  "weeklygaswatchgaspricesslipslightlyinwesternpa"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T20:40:18.511019+02:00",
+ "last_run": "2026-10-26T20:45:18.923770+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
