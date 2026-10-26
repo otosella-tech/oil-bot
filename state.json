@@ -4,10 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "a84e44faf43f2f1e",
-  "stockselloffcontinuesasoilsurgesmarketspmforoctober23",
-  "0cf3466021dc057a",
-  "moreoilisnowcomingoutofthepersiangulfthanbeforetheiranwar",
   "f11a7496cc892f16",
   "gm53v8problemsbyyeartheoilburnersthelifterfailuresandtheones",
   "dcbfa0a0798be84c",
@@ -603,7 +599,11 @@
   "a5bca5a3249fc58a",
   "saudisingaporeannounceoilstoragedeal",
   "4091fa57fe7fb27d",
-  "earningscentralbankoilviewsliftwallstreetmodestlyprebellasia"
+  "earningscentralbankoilviewsliftwallstreetmodestlyprebellasia",
+  "5231abbfee5a8e3e",
+  "oilpricesdeclinebutremainnearsixmonthhighsamidsaudiarabiaatt",
+  "b6a56084b4c8666e",
+  "aaafuelprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T13:55:14.922133+02:00",
+ "last_run": "2026-10-26T14:00:30.119385+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1412,6 +1412,10 @@
   {
    "d": "2026-10-26",
    "t": "Houthis Claim Attacks on Saudi Arabia's East-West Oil Pipeline - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Oil Prices Decline but Remain Near Six-Month Highs Amid Saudi Arabia Attacks - Yahoo Finance"
   }
  ]
 }
