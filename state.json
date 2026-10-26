@@ -4,8 +4,6 @@
   "Brent": 111.82
  },
  "seen": [
-  "fc9b40cea72c9750",
-  "brentcrudejumped4to113trumpisthrowing150millionatrefiners",
   "98b594f4c736f6f5",
   "currentpriceofoilasofoctober212026",
   "6194d8f769f3751c",
@@ -603,7 +601,9 @@
   "f769105015083cf3",
   "singaporetostoresaudioilinundergroundcavernsfrom2027",
   "5e1b65f73e481f91",
-  "oilpricetodayoctober26crudeoilat115retreatsfrom6monthhighdes"
+  "oilpricetodayoctober26crudeoilat115retreatsfrom6monthhighdes",
+  "190643ff47188f79",
+  "oilspillwashesuponuaebeachesaftertankerstrike"
  ],
  "releases_done": {},
  "last_digest": "2026-10-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-26",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-10-26T04:50:16.042154+02:00",
+ "last_run": "2026-10-26T04:55:13.866613+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-10-26",
    "t": "Singapore to Store Saudi Oil in Underground Caverns From 2027 - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Oil spill washes up on UAE beaches after tanker strike - BBC"
   }
  ]
 }
