@@ -4,8 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "7dcfbc7241b4a592",
-  "fuelpricesunchangedforsixthweekdespiteoilrise",
   "4b51d9d5ebddc1f3",
   "centcomchiefbradcooperfliesoverhormuzduringmiddleeastvisit",
   "b968c704899b5e05",
@@ -603,7 +601,9 @@
   "30c7e59f76b14e00",
   "crudeoildropsassaudidefenseministertravelstotehrantomeetiran",
   "48ddd3ec50eb3abd",
-  "ovintivtobuyloganenergyfor890millionexpandingmontneyoilposit"
+  "ovintivtobuyloganenergyfor890millionexpandingmontneyoilposit",
+  "abdacadb84a263a3",
+  "stocksrallyaheadofbusyweekascrudeoilpricesease"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T17:50:18.278686+02:00",
+ "last_run": "2026-10-26T17:55:14.794868+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
