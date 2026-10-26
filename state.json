@@ -4,8 +4,6 @@
   "Brent": 109.43
  },
  "seen": [
-  "9262cfb0002f6cd9",
-  "highgaspriceshelpedvaleromake68binthelast3months",
   "d67d2637d67cafb0",
   "globaloilpricehits116abarrelhighestsinceapril",
   "f5d1aec65ba7ee85",
@@ -603,7 +601,9 @@
   "871518f702d5840c",
   "saudiarabiatoexpandasiancrudeoilstoragewithsingaporedeal",
   "3ca558a4d574f7d0",
-  "saudiarabiaturnstosingaporeforoilstorage"
+  "saudiarabiaturnstosingaporeforoilstorage",
+  "49d99537ec87274d",
+  "oilfallsfrom6mthhighsasiranmediationeffortseasesupplyworries"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-26",
   "count": 60
  },
- "last_run": "2026-10-26T09:15:18.113478+02:00",
+ "last_run": "2026-10-26T09:20:18.985026+02:00",
  "sent_stories": [
   {
    "d": "2026-10-23",
@@ -1320,6 +1320,10 @@
   {
    "d": "2026-10-26",
    "t": "Saudi Arabia Turns to Singapore for Oil Storage"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Oil falls from 6-mth highs as Iran mediation efforts ease supply worries - Investing.com"
   }
  ]
 }
