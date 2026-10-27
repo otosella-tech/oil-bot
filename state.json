@@ -4,10 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "c368cee295a1656d",
-  "ieasbirolenergypriceswontreturntopre",
-  "52171b3781a24f51",
-  "oilslipsbutstaysnearsixmonthhighsonsaudiattacksbyreuters",
   "819d4d88846ee748",
   "topeconomistwarnsoilat150coulddealasignificantblowtothegloba",
   "6d8d0945d86e2ae1",
@@ -603,7 +599,11 @@
   "546466a711b3f4f8",
   "gaspriceseasethisweekbuthighcrudeoilpricesmayputthebrakesond",
   "fc029fadcfd94584",
-  "analystsseedeclineinuscrudeoilstockpiles"
+  "analystsseedeclineinuscrudeoilstockpiles",
+  "42a6642e9c469180",
+  "oilfalls2asmiddleeasttalkshelpeasesupplyworries",
+  "8f8dadb00e8ff8f8",
+  "sorrytrumpmorerussianoilwonttakedownenergypriceshereswhatwil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T20:10:19.594287+02:00",
+ "last_run": "2026-10-27T20:15:20.743604+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1460,6 +1460,10 @@
   {
    "d": "2026-10-27",
    "t": "Trump says he will visit tanker in Texas with first oil from Venezuela deal - Yahoo"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Sorry, Trump. More Russian Oil Won’t Take Down Energy Prices. Here’s What Will. - Barron's"
   }
  ]
 }
