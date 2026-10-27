@@ -4,12 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "0cefa1291830cc5e",
-  "currentpriceofoilasofoctober82026",
-  "cc8407a8f7c8eae0",
-  "gaspricesdipslightlyinidahoamidcrudeoilfluctuations",
-  "bde8e2ff57e67003",
-  "currentpriceofoilasofoctober72026",
   "d5a4b2e2f54441e5",
   "thecostofshippingatankerofcrudeoilhasskyrocketedduetowar",
   "325e74fa4458e7df",
@@ -603,7 +597,13 @@
   "7c5d32f6e305b33e",
   "highestcrudeoilpricewtihistoricalchartnominalinflationadjust",
   "a74a04145196483c",
-  "oilterminalstrikecouldthreatenromaniascrudeoilsupplyamidhigh"
+  "oilterminalstrikecouldthreatenromaniascrudeoilsupplyamidhigh",
+  "1ff7485e452a7559",
+  "oilpricesfallastradersassessirandiplomacysaudiattacks",
+  "ca54bd505d01598a",
+  "preciousmetalsweakenashormuzuncertaintykeepsoilelevatedahead",
+  "db65b2fc67273f12",
+  "wallstreetpointshigherinheavyweekofearningsgmheadstonasdaqaf"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T15:15:18.716949+02:00",
+ "last_run": "2026-10-27T15:20:19.100907+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1368,6 +1368,14 @@
   {
    "d": "2026-10-27",
    "t": "Oil choppy as Houthi attacks offset push to ease Mideast conflict - Investing.com"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Oil Prices Fall as Traders Assess Iran Diplomacy, Saudi Attacks - WSJ"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Precious metals weaken as Hormuz uncertainty keeps oil elevated ahead of Fed decision - Kitco AM Report - Kitco"
   }
  ]
 }
