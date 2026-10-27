@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "9c6163ce9e2c3ee3",
-  "cmestocksriseascrudeoilfalls",
   "a00aa96d18e4b4e0",
   "iswallstreetgettingitallwrongaboutaioilandbonds",
   "353685124511b69a",
@@ -603,7 +601,9 @@
   "4ce2e5ee1787680a",
   "oilfallsalmost2asmiddleeasttalkshelpeasesupplyworries",
   "eff08eaa0a48ecd7",
-  "oilpricesfallamidstmiddleeastpeacetalks"
+  "oilpricesfallamidstmiddleeastpeacetalks",
+  "d13e88716d3b7429",
+  "5datacenterpowerstockstowatchbeforeearnings"
  ],
  "releases_done": {
   "2026-10-27|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T21:55:15.120340+02:00",
+ "last_run": "2026-10-27T22:00:30.259168+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
