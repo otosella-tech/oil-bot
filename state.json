@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "d1f31ac5406655e9",
-  "houthisclaimdroneattacksoneastwestpipelinepumpingstations",
   "dd4d042ec17580f9",
   "usdipsintostrategicoilreserveagainamidsupplydisruptions",
   "bc9a9f9ca313080f",
@@ -603,7 +601,9 @@
   "fd6c55a27175d79d",
   "tsxfuturesmutedasgoldweaknessoffsetsoilgains",
   "ead227d038f42b4c",
-  "trumptargetsmethanecurbsonoilandgasinanewclimaterollback"
+  "trumptargetsmethanecurbsonoilandgasinanewclimaterollback",
+  "2e4a88c7d8f56e39",
+  "stockmarketsendlargelyunchangedamidelevatedcrudeoilpricessel"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T13:20:18.925968+02:00",
+ "last_run": "2026-10-27T13:25:15.003941+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
