@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "bc9a9f9ca313080f",
-  "singaporesaudiaramcoagreetostorecrudeoilinrockcaverns",
   "ebf1e0042a5df21a",
   "goldgainsonsofteroilpricesfeddecisioninfocus",
   "334fd630382df8d4",
@@ -603,7 +601,9 @@
   "2e4a88c7d8f56e39",
   "stockmarketsendlargelyunchangedamidelevatedcrudeoilpricessel",
   "a5091f0f64e03d90",
-  "dieseldrivesindiasfuelexportwindfallasearningsreach126billio"
+  "dieseldrivesindiasfuelexportwindfallasearningsreach126billio",
+  "f29111a28ffd516b",
+  "indianequitybenchmarksmutedaselevatedoilfedinfocus"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T13:35:13.580384+02:00",
+ "last_run": "2026-10-27T13:40:17.316452+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
