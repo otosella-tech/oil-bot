@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "36117bf6ed2e3db1",
-  "currentpriceofoilasofoctober262026",
   "9e0f1939d50f54f6",
   "goldpricessqueezedbetweenrisingoilandfallingyieldsfresnillos",
   "28afd8889d227b5d",
@@ -603,7 +601,9 @@
   "af0c577a5e690051",
   "daxoilforecasttwotradestowatch271026",
   "1ecc29e6e6f5951b",
-  "stocksriseasoilslipswithtechearningsfedahead"
+  "stocksriseasoilslipswithtechearningsfedahead",
+  "6d8d0945d86e2ae1",
+  "astrumpbragsaboutusoilandgascompanyprofitshisstocksgainedmil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T20:25:14.780116+02:00",
+ "last_run": "2026-10-27T20:30:23.825317+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1468,6 +1468,10 @@
   {
    "d": "2026-10-27",
    "t": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war - CNBC"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "As Trump brags about U.S. oil and gas company profits, his stocks gained millions during Iran war - CBS News"
   }
  ]
 }
