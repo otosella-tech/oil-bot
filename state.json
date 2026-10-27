@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "55f90343e4307d54",
-  "oiltops116asbritainssmallbusinessesfaceafightforsurvival",
   "50364d050d6c51c7",
   "stocksunderpressurebeforeearningsoildipsmarketswrap",
   "4ae9839e9ab9eb65",
@@ -603,7 +601,9 @@
   "27f54223d2bbc4ba",
   "ukweighsscrappingitslargestuntappedoilfieldwithoilover100",
   "bef35a9378d464c5",
-  "crudeoilwtinearsdoubletopat10675resistancelivelevels"
+  "crudeoilwtinearsdoubletopat10675resistancelivelevels",
+  "4e6ecf59bd36bfe8",
+  "thetankertycoonswhatsappsdrivingadisputedoilbenchmark"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-27",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-10-27T02:10:19.111210+02:00",
+ "last_run": "2026-10-27T02:15:18.869723+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1232,6 +1232,10 @@
   {
    "d": "2026-10-27",
    "t": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "The Tanker Tycoon's WhatsApps Driving a Disputed Oil Benchmark - Bloomberg.com"
   }
  ]
 }
