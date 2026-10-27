@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "353685124511b69a",
-  "goldrisesasloweroilpriceseaseinflationfearsaheadoffedmeeting",
   "3e0fedda9e067d7c",
   "bitcoinholdsnear80000asoilretreatsandthefeddecisionlooms",
   "c34a1b7a0b3f059d",
@@ -603,7 +601,9 @@
   "d13e88716d3b7429",
   "5datacenterpowerstockstowatchbeforeearnings",
   "902afcf99feb7093",
-  "oilfuturesretreatasmiddleeastdiplomaticeffortspickup"
+  "oilfuturesretreatasmiddleeastdiplomaticeffortspickup",
+  "8c0fd4a6f0772599",
+  "usequitymarketsendhigheramidbroadrallyafterdropincrudeoilpri"
  ],
  "releases_done": {
   "2026-10-27|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T22:15:19.377281+02:00",
+ "last_run": "2026-10-27T22:20:19.056178+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
