@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "50364d050d6c51c7",
-  "stocksunderpressurebeforeearningsoildipsmarketswrap",
   "4ae9839e9ab9eb65",
   "marcorubiodiddomesticpressuremakeussecretaryofstatevisitanin",
   "72161c474baeaf99",
@@ -603,7 +601,9 @@
   "bef35a9378d464c5",
   "crudeoilwtinearsdoubletopat10675resistancelivelevels",
   "4e6ecf59bd36bfe8",
-  "thetankertycoonswhatsappsdrivingadisputedoilbenchmark"
+  "thetankertycoonswhatsappsdrivingadisputedoilbenchmark",
+  "775f1389515596c8",
+  "oilextendslossesasiranmediationeffortseaseescalationfears"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-27",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-10-27T02:30:22.823714+02:00",
+ "last_run": "2026-10-27T02:35:15.105338+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1236,6 +1236,10 @@
   {
    "d": "2026-10-27",
    "t": "The Tanker Tycoon's WhatsApps Driving a Disputed Oil Benchmark - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Oil extends losses as Iran mediation efforts ease escalation fears - Investing.com"
   }
  ]
 }
