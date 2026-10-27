@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "462e62bad3fb32e5",
-  "forecastupdateforcrudeoil26102026",
   "b7a60516cfb44798",
   "howthewarinirancouldimpactyourhomeheatingoilbillthiswinter",
   "5847691f9d2101be",
@@ -603,7 +601,9 @@
   "d10d5614d2773766",
   "houthisclaimattacksonsaudiarabiaseastwestoilpipeline",
   "2654e9235d71041f",
-  "goldgainsonsofteroilpricesaheadoffedmeeting"
+  "goldgainsonsofteroilpricesaheadoffedmeeting",
+  "845b843ab754b529",
+  "rubioinvokeschinarussiatodefenddisputedvenezuelaoildeal"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T18:25:15.240759+02:00",
+ "last_run": "2026-10-27T18:30:24.690306+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1428,6 +1428,10 @@
   {
    "d": "2026-10-27",
    "t": "Houthis Claim Attacks on Saudi Arabia's East-West Oil Pipeline - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Rubio invokes China, Russia to defend disputed Venezuela oil deal - South China Morning Post"
   }
  ]
 }
