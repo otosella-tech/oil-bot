@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "bef9c21f22894301",
-  "aaanatgaspricesfall6centsascrudeoilnears100",
   "6ee4a6dbc9d6681c",
   "ieathelatestdevelopmentsinoilmarkets",
   "47b888eb96fb4db7",
@@ -603,7 +601,9 @@
   "22675a75696425ee",
   "issomethingelseinfluencingthevalueofoil",
   "156676ed7bed80d3",
-  "oilpricesfallastradersweighusirandiplomacysaudiattacks"
+  "oilpricesfallastradersweighusirandiplomacysaudiattacks",
+  "34d86f563103aaf6",
+  "russiashipslesscrudeevenaskeybalticportsflowsrebound"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T14:55:16.035294+02:00",
+ "last_run": "2026-10-27T15:00:30.273279+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1360,6 +1360,10 @@
   {
    "d": "2026-10-27",
    "t": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks - WSJ"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Russia Ships Less Crude Even as Key Baltic Port’s Flows Rebound - Bloomberg.com"
   }
  ]
 }
