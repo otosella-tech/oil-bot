@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "6be26cc8e6177de2",
-  "saudicrudestoragetostartin2027",
-  "64deac68984d67b4",
-  "middleeastwardrivestankerwagesurge",
   "0f0425e023d93961",
   "uscrudeoilnear98asiranstepsupattacksinstraitofhormuz",
   "d1f31ac5406655e9",
@@ -603,7 +599,11 @@
   "aafe4c5f4c4e5c1c",
   "russiasenergyrevenuesplummetdespitesurgingglobaloilpricesami",
   "05c6c783f78f1ee8",
-  "oilpricesriseashouthiattackclaimsandmiddleeastdiplomatictalk"
+  "oilpricesriseashouthiattackclaimsandmiddleeastdiplomatictalk",
+  "c68afebe861c88d0",
+  "oilrisesashopesfordiplomacyoffsetimpactofrenewedhouthiattack",
+  "fd6c55a27175d79d",
+  "tsxfuturesmutedasgoldweaknessoffsetsoilgains"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-27",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-10-27T13:10:17.875435+02:00",
+ "last_run": "2026-10-27T13:15:18.302830+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1336,6 +1336,10 @@
   {
    "d": "2026-10-27",
    "t": "Oil Prices Rise as Houthi Attack Claims and Middle East Diplomatic Talks Remain in Focus - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Oil rises as hopes for diplomacy offset impact of renewed Houthi attacks - Reuters"
   }
  ]
 }
