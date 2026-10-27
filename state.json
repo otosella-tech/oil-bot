@@ -4,12 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "319c3b6e1502b77e",
-  "wtiandbrentcrudeoilpricesretreataheadofusmidtermsastheiranwa",
-  "d46040c0ff2440e5",
-  "oildropsfromnearsixmonthhighsonhopesiranwarhostilitiestoease",
-  "c40ab72438942e67",
-  "crudeoilfalls2butmiddleeasttensionskeeppriceshigh",
   "86417207fdf00233",
   "saudiarabiatostoreoilinsingaporetobolsterasiasupplysecurity",
   "7d8406725dd1614e",
@@ -603,7 +597,13 @@
   "a0f5a324da14d0b1",
   "stocksofcrudeoilintheussprfellto2826mlnbarrelslastweek",
   "5870aab4ec4c81d4",
-  "currentpriceofoilasofoctober202026"
+  "currentpriceofoilasofoctober202026",
+  "f27f90470586e260",
+  "oilpricesdropdespitethreatofnewusstrikesoniran",
+  "f66efa9879643fbe",
+  "chinasindustrialprofitssurgemostinthreemonthsonoil",
+  "0ce3b06466bbf430",
+  "rupeetraderstestrbistoleranceformeasureddepreciation"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-27",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-10-27T08:15:17.173523+02:00",
+ "last_run": "2026-10-27T08:20:18.508649+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1260,6 +1260,14 @@
   {
    "d": "2026-10-27",
    "t": "Oil prices dip on Iran peace hopes, but Saudi attacks keep Brent near six-month highs - The Times of India"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Oil Prices Drop Despite Threat of New U.S. Strikes on Iran"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "China’s Industrial Profits Surge Most in Three Months on Oil - Bloomberg.com"
   }
  ]
 }
