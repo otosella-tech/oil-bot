@@ -606,16 +606,16 @@
   "currentpriceofoilasofoctober202026"
  ],
  "releases_done": {},
- "last_digest": "2026-10-26",
+ "last_digest": "2026-10-27",
  "digest_prices": {
-  "WTI": 101.06,
-  "Brent": 109.64
+  "WTI": 100.84,
+  "Brent": 109.86
  },
  "llm": {
   "date": "2026-10-27",
-  "count": 18
+  "count": 24
  },
- "last_run": "2026-10-27T07:55:13.971774+02:00",
+ "last_run": "2026-10-27T08:00:27.308797+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
