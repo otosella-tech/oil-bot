@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "c48e894afbb1a12c",
-  "currentpriceofoilasofoctober52026",
   "2ff747c380d6dbcd",
   "brenttops106afterdeadlysaudiairportattackukrainesaysrussiavi",
   "a75b1b009a189093",
@@ -603,7 +601,9 @@
   "125ac7e35012a8d5",
   "oilconsolidatesaroundrecenthighsasfearsofimminentusstrikesea",
   "552e15669aa6d4b7",
-  "forecastupdateforcrudeoil27102026"
+  "forecastupdateforcrudeoil27102026",
+  "1264a37e870dc385",
+  "aramcocontainsfirenearrastanuraoilhubafterattack"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T15:40:19.404697+02:00",
+ "last_run": "2026-10-27T15:45:19.096896+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-10-27",
    "t": "Investors From 119 Countries Pile Into Dangote’s Record Refinery IPO"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Aramco Contains Fire Near Ras Tanura Oil Hub After Attack - Bloomberg.com"
   }
  ]
 }
