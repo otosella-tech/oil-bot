@@ -4,10 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "0a9f91005a2061c5",
-  "saudiarabiakeepsgettinghitbythehouthisitwillmoveoilelsewhere",
-  "d9188b8ae5ad7603",
-  "worldstocksgainaheadofformidableweekforriskoilpricesease",
   "2c9232df000f04f5",
   "wallsteyesbestdayinamonthasanthropicsipofilingpropelsaistock",
   "c354b4f25f42cc9a",
@@ -603,7 +599,11 @@
   "3816540f159d3e41",
   "crudeoildropsonmiddleeastdiplomacyhopes",
   "90d220f4e424999b",
-  "trumpcontinuescallsforvenezuelatobe51ststate"
+  "trumpcontinuescallsforvenezuelatobe51ststate",
+  "b28d7ca368aff85e",
+  "willrubiosjamnagarmovepermanentlybreaktherussia",
+  "975917d74d9aa103",
+  "bartolottaborellotalkfutureofoilgasindustryindistrict46onewe"
  ],
  "releases_done": {
   "2026-10-27|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -615,139 +615,11 @@
   "Brent": 109.86
  },
  "llm": {
-  "date": "2026-10-27",
-  "count": 60
+  "date": "2026-10-28",
+  "count": 2
  },
- "last_run": "2026-10-27T23:55:13.573294+02:00",
+ "last_run": "2026-10-28T00:00:27.481200+02:00",
  "sent_stories": [
-  {
-   "d": "2026-10-24",
-   "t": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears - Reuters"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Update: Wall Street Caps Choppy Week Lower as Oil Prices Soar - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Oil prices hit five-month high and Dow falls over 600 points over fears of Iran strikes, AI spending - New York Post"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran - CNBC"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon. - MarketWatch"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz - CNBC"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Trump Invokes Cold War-Era Law to Boost Oil Refining as Gas Prices Soar - Law Commentary"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "The cost of shipping a tanker of crude oil has skyrocketed due to war - Marketplace.org"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Update: US Equity Indexes Mixed as Investors Rotate From AI Trade to Government Bonds; Crude Oil Surges - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire - CNBC"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Trump invokes Cold War-era Defense Production Act for oil production, refining - Reuters"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "US regulator is probing suspicious Iran oil trading, official says - Reuters"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade - WSJ"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Update: US Equity Indexes Drop as AI Trade Loses Shine After Meta's Results While Crude Oil Jumps as Iran Warns of Invasion - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Iran says seven ships hit in Hormuz Strait, warns US of wider response - Al Jazeera"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Global crude oil prices hit six-month high on Middle East conflict, fears of US strikes on Iran - The Business Standard"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "$80 Million Tanker Bills Are Crushing US Oil Exports to Asia - Bloomberg"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "India's Mideast oil imports return to pre-war levels in September - Reuters"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Secretive Ukrainian Deep-Strike Unit Behind Rapid Expansion of Deep-Strike Campaign - Bloomberg"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze - MarketWatch"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Trump’s War on Iran Has Broken the Oil Market - CleanTechnica"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Libya reopens oil pipeline to Zawiya - Arab News"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Trump accuses Iran of making up fake strikes on ships to drive up oil prices - CBS News"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Iran's Oil Reserves Run Dry as U.S. Naval Blockade Tightens - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Stock Selloff Continues as Oil Surges | Markets P.M. for October 23 - WSJ"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War - WSJ"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines - ABC News & Headlines – Australian Broadcasting Corporation"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Gold, silver extend weekly losses as Hormuz tensions push crude above $116 - Kitco PM Report - Kitco"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Houthis claim to have struck Saudi airports, oil facilities with missiles, drones - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Houthis claim string of new attacks on Saudi Arabia - The Spokesman-Review"
-  },
-  {
-   "d": "2026-10-24",
-   "t": "3 Tanker Stocks In Focus As Oil Shipping Risk Returns - Yahoo Finance"
-  },
   {
    "d": "2026-10-25",
    "t": "Houthis say strikes in past day targeted Saudi airports, oil infrastructure and airbase - The Times of Israel"
@@ -1499,6 +1371,10 @@
   {
    "d": "2026-10-27",
    "t": "Trump to greet Venezuelan oil shipment, calling it a ‘gift.’ The U.S. paid for it. - The Washington Post"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Will Rubio’s Jamnagar Move Permanently Break The Russia-India Oil Axis?"
   }
  ]
 }
