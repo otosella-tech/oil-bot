@@ -4,10 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "2a624bc18bdfdffa",
-  "ftse100risesasfallingoilpricesboostriskappetite",
-  "d10d5614d2773766",
-  "houthisclaimattacksonsaudiarabiaseastwestoilpipeline",
   "a5bca5a3249fc58a",
   "saudisingaporeannounceoilstoragedeal",
   "4091fa57fe7fb27d",
@@ -603,7 +599,11 @@
   "eaf2438e502e7477",
   "184twby2035irenaraisesrenewablesgoalaspowerdemandclimbs",
   "bf1ee51fa7633b38",
-  "stocksseesupportascrudeoilpriceseaseandfomcawaited"
+  "stocksseesupportascrudeoilpriceseaseandfomcawaited",
+  "7249c7ca1448f4b6",
+  "indiarisksenergycrisisinflationsurgeifrussianoilimportsstopa",
+  "60cd78c4045f426f",
+  "russiasweeklyseaborneoilexportsgeneraterecordrevenuesincesta"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T17:50:19.084855+02:00",
+ "last_run": "2026-10-27T17:55:14.194469+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1412,6 +1412,14 @@
   {
    "d": "2026-10-27",
    "t": "Oil prices fall amid diplomatic push to de-escalate Saudi-Iran tensions - CNBC"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "India risks energy crisis, inflation surge if Russian oil imports stop abruptly, warns Shringla - Firstpost"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Russia's weekly seaborne oil exports generate record revenue since start of full-scale war – Bloomberg - Українська правда"
   }
  ]
 }
