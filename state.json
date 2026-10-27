@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "ebf1e0042a5df21a",
-  "goldgainsonsofteroilpricesfeddecisioninfocus",
   "334fd630382df8d4",
   "centcomchiefvisitsstraitofhormuzamidmilestoneofcrudeoilexpor",
   "33bc3deca2dd4daa",
@@ -603,7 +601,9 @@
   "a5091f0f64e03d90",
   "dieseldrivesindiasfuelexportwindfallasearningsreach126billio",
   "f29111a28ffd516b",
-  "indianequitybenchmarksmutedaselevatedoilfedinfocus"
+  "indianequitybenchmarksmutedaselevatedoilfedinfocus",
+  "09840fa780a045fb",
+  "indianequitiesendflataselevatedcrudeusfeddecisionweigh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T13:40:17.316452+02:00",
+ "last_run": "2026-10-27T13:45:17.927667+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
