@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "dcbfa0a0798be84c",
-  "syriasenergycomebackcouldreshapemiddleeastoilandgas",
   "462e62bad3fb32e5",
   "forecastupdateforcrudeoil26102026",
   "b7a60516cfb44798",
@@ -603,7 +601,9 @@
   "75b55bbae4b1a22a",
   "oilfallsasmiddleeasttalksoutweighconcernoverfreshstrikes",
   "d10d5614d2773766",
-  "houthisclaimattacksonsaudiarabiaseastwestoilpipeline"
+  "houthisclaimattacksonsaudiarabiaseastwestoilpipeline",
+  "2654e9235d71041f",
+  "goldgainsonsofteroilpricesaheadoffedmeeting"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T18:20:20.312343+02:00",
+ "last_run": "2026-10-27T18:25:15.240759+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
