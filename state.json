@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "16a4bcf586d8c249",
-  "brentcrudeoilpullsbackafterreachingourpricetargetanalysis261",
   "da74d44a177e451a",
   "uscrudeoilstockpilesfallmorethanexpected",
   "5870aab4ec4c81d4",
@@ -603,7 +601,9 @@
   "092744617b7655b9",
   "crudeoilmarketreactstomiddleeastdiplomacycolgatepalmolivecld",
   "91a52cc0a4fe9c55",
-  "stockmarketsfallinearlytradeamidpersistentlyelevatedcrudeoil"
+  "stockmarketsfallinearlytradeamidpersistentlyelevatedcrudeoil",
+  "8cac7aeacb208745",
+  "oilfallsasreneweddiplomaticeffortstoendmideastconflicteasesu"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 18
  },
- "last_run": "2026-10-27T07:30:22.860698+02:00",
+ "last_run": "2026-10-27T07:35:14.813515+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
