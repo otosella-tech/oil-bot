@@ -4,10 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "9e0f1939d50f54f6",
-  "goldpricessqueezedbetweenrisingoilandfallingyieldsfresnillos",
-  "28afd8889d227b5d",
-  "superelniomaysoftenwinterenergysqueeze",
   "f94c4bff485a4d5c",
   "wallstreetfuturesriseasoilpricesfallaheadoffeddecisionandtec",
   "737ce7f0e857e232",
@@ -603,7 +599,11 @@
   "1ecc29e6e6f5951b",
   "stocksriseasoilslipswithtechearningsfedahead",
   "6d8d0945d86e2ae1",
-  "astrumpbragsaboutusoilandgascompanyprofitshisstocksgainedmil"
+  "astrumpbragsaboutusoilandgascompanyprofitshisstocksgainedmil",
+  "f7a2396ec84a26e4",
+  "russiascrudeexportssettofallasdieselproductionrises",
+  "36117bf6ed2e3db1",
+  "currentpriceofoilasofoctober262026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T20:30:23.825317+02:00",
+ "last_run": "2026-10-27T20:35:15.899977+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1472,6 +1472,10 @@
   {
    "d": "2026-10-27",
    "t": "As Trump brags about U.S. oil and gas company profits, his stocks gained millions during Iran war - CBS News"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Russia’s Crude Exports Set to Fall as Diesel Production Rises"
   }
  ]
 }
