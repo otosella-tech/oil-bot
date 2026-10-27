@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "c87bd20f1a2f6ecc",
-  "michigangaspricesjumpsincelastweekhereshowmuch",
   "2a624bc18bdfdffa",
   "ftse100risesasfallingoilpricesboostriskappetite",
   "d10d5614d2773766",
@@ -603,7 +601,9 @@
   "a99f6046d4ba60a9",
   "canadiandollarandbusinessoutlooklooniecrudeoilshownegativemo",
   "eaf2438e502e7477",
-  "184twby2035irenaraisesrenewablesgoalaspowerdemandclimbs"
+  "184twby2035irenaraisesrenewablesgoalaspowerdemandclimbs",
+  "bf1ee51fa7633b38",
+  "stocksseesupportascrudeoilpriceseaseandfomcawaited"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T17:45:17.390649+02:00",
+ "last_run": "2026-10-27T17:50:19.084855+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
