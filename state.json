@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "c34a1b7a0b3f059d",
-  "networkingeventlaysthegroundworkforfuturecareersintheoilandg",
   "b6c968ed1fc29d2e",
   "theoilmarketshiddensupplycrisiswhythefuelsqueezecouldlastint",
   "6a749516b90b75be",
@@ -603,7 +601,9 @@
   "8c0fd4a6f0772599",
   "usequitymarketsendhigheramidbroadrallyafterdropincrudeoilpri",
   "90420351d6e68e4c",
-  "techstockspowerhigheroilcools"
+  "techstockspowerhigheroilcools",
+  "aca62f8dccb806da",
+  "dowjonestopenergyheadlinesat4pmetoilfuturesfallasmarketholds"
  ],
  "releases_done": {
   "2026-10-27|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T22:35:16.285684+02:00",
+ "last_run": "2026-10-27T22:40:18.003277+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
