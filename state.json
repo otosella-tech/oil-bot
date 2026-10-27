@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "3ca558a4d574f7d0",
-  "saudiarabiaturnstosingaporeforoilstorage",
   "49d99537ec87274d",
   "oilfallsfrom6mthhighsasiranmediationeffortseasesupplyworries",
   "2b4a65a817860ce5",
@@ -603,7 +601,9 @@
   "fb7be65a5a46b640",
   "usaimstocooloilpricesaheadofmidtermdipslikelytobeshortlived",
   "bdb1917b9bcded9c",
-  "iranexpandstankerblockadebeyondhormuz"
+  "iranexpandstankerblockadebeyondhormuz",
+  "01ba435741ca8497",
+  "ieawarnsofdangerousconcentrationinglobalcleanenergysupplycha"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-27",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-10-27T10:25:14.456998+02:00",
+ "last_run": "2026-10-27T10:30:24.340667+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1304,6 +1304,10 @@
   {
    "d": "2026-10-27",
    "t": "Iran Expands Tanker Blockade Beyond Hormuz - https://houseofsaud.com/"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains"
   }
  ]
 }
