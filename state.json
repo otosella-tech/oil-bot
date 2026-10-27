@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "b6a56084b4c8666e",
-  "aaafuelprices",
   "9b1a988b5383cb72",
   "usfuturessteadyasoilretreatsaheadofearningsdelugefeddecision",
   "c944b515000a302e",
@@ -603,7 +601,9 @@
   "b9c6307275ab6ced",
   "sp500nasdaqadvanceasoileasesaheadoffeddecision",
   "3cb35b073246df3a",
-  "asiapaystopdollarforcanadianoilamidslumpinusprices"
+  "asiapaystopdollarforcanadianoilamidslumpinusprices",
+  "1ca78a757750f348",
+  "crudeoilpricesfallbackasiranssupremeleaderreiteratesdealterm"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T18:02:10.110432+02:00",
+ "last_run": "2026-10-27T18:05:16.316806+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
