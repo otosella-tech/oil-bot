@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "6acf0567be7da7ab",
-  "houthissaytheyattackedeastwestoilpumpingstationsnosaudiconfi",
   "1bfd34a7d3659479",
   "exclusivedeaththreatslawsuitsandbillionsinplaythebattleoverm",
   "f1c5463876e56778",
@@ -603,7 +601,9 @@
   "17ae8b466435e2c4",
   "crudeoilfuturestradeloweronreportsofrenewedusirandiplomatice",
   "1f5f644107a851b4",
-  "oilpricesdown261026"
+  "oilpricesdown261026",
+  "a1150d9ef4760a50",
+  "usmilitarysaysithelpedgulfstatesexport15billionbarrelsofoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 18
  },
- "last_run": "2026-10-27T07:10:18.860091+02:00",
+ "last_run": "2026-10-27T07:15:18.129167+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
