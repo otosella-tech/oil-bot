@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "0f047a4d644cef54",
-  "currentpriceofoilasofoct192026",
   "bef9c21f22894301",
   "aaanatgaspricesfall6centsascrudeoilnears100",
   "6ee4a6dbc9d6681c",
@@ -603,7 +601,9 @@
   "49e4d31ea1c540c0",
   "rastanuraoilterminalfirereportedascoalitionintercepts3missil",
   "22675a75696425ee",
-  "issomethingelseinfluencingthevalueofoil"
+  "issomethingelseinfluencingthevalueofoil",
+  "156676ed7bed80d3",
+  "oilpricesfallastradersweighusirandiplomacysaudiattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T14:50:16.856121+02:00",
+ "last_run": "2026-10-27T14:55:16.035294+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1356,6 +1356,10 @@
   {
    "d": "2026-10-27",
    "t": "U.S. and Brent Crude Fall as Iran’s Supreme Leader Calls for End-of-War Terms - www.tokenpost.com"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks - WSJ"
   }
  ]
 }
