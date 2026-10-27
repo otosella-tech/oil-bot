@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "60df9bce1ef4b07d",
-  "indiasbpcltocutrussianoilimportsduetohigherprices",
   "a5655a4a1bd5b8c6",
   "usstockfuturespointhigherascrudeoilretreatsandinvestorsawait",
   "c7ba49b5cda4ce9a",
@@ -603,7 +601,9 @@
   "2ef540734ef1fda5",
   "northdakotasfederaloilandgasleasingandwhatithascosttaxpayers",
   "239b28d766866d7a",
-  "oregonbendgaspricesstilleasingaaasaysbuthighcrudeoilpricesma"
+  "oregonbendgaspricesstilleasingaaasaysbuthighcrudeoilpricesma",
+  "51c950f8d10ed816",
+  "trumprubiotooverseeshipmentof1millionbarrelsofvenezuelanoila"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T21:10:19.418247+02:00",
+ "last_run": "2026-10-27T21:15:17.983846+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
