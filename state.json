@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "156676ed7bed80d3",
-  "oilpricesfallastradersweighusirandiplomacysaudiattacks",
   "0f047a4d644cef54",
   "currentpriceofoilasofoct192026",
   "bef9c21f22894301",
@@ -603,7 +601,9 @@
   "0d2f80690bc8c73f",
   "usandbrentcrudefallasiranssupremeleadercallsforendofwarterms",
   "49e4d31ea1c540c0",
-  "rastanuraoilterminalfirereportedascoalitionintercepts3missil"
+  "rastanuraoilterminalfirereportedascoalitionintercepts3missil",
+  "22675a75696425ee",
+  "issomethingelseinfluencingthevalueofoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T14:45:17.871203+02:00",
+ "last_run": "2026-10-27T14:50:16.856121+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
