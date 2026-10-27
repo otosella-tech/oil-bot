@@ -4,10 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "11df890b5732559a",
-  "mexicooilgaslessonsfromproductionsharingcontracts",
-  "252f05aaa9222587",
-  "europeanstocksclosehigherinmondaytradingasoilpriceseasebondy",
   "11fb7b75b3661dea",
   "stockmarketmiddayoct26techsectorralliesonanthropicipofilinga",
   "49703b7f6577288f",
@@ -603,7 +599,11 @@
   "2bab34f8c19b3e80",
   "firstvenezuelanoilshipmentarrivesatportofcorpuschristi",
   "412cfada852ab7d5",
-  "stocksriseaheadoftechearningsfeddecision"
+  "stocksriseaheadoftechearningsfeddecision",
+  "6e8e299805058160",
+  "americanshithardestbywar",
+  "69577ac8761ed427",
+  "trumpbrings1millionbarrelsofoilfromvenezuelatotexasaheadofra"
  ],
  "releases_done": {
   "2026-10-27|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-28",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-10-28T00:55:14.257219+02:00",
+ "last_run": "2026-10-28T01:00:27.751086+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1383,6 +1383,10 @@
   {
    "d": "2026-10-28",
    "t": "Crude Oil Futures Pull Back, Briefly Down $2; Hormuz Attacks Hit Record High but Prices Stay Near Multi-Month Peak - BigGo Finance"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Americans Hit Hardest by War-Driven Oil Price Surge"
   }
  ]
 }
