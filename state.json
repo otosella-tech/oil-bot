@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "62ccd6a70e7d4312",
-  "trumpsheatingoilreleaseunlikelytoeaseskyhighpricesinpennsylv",
   "3d8c6d53d03c6e4c",
   "crudeoilcrisisdeepensasusemergencyreservereleasesrunoutofste",
   "076a4734989491e6",
@@ -603,7 +601,9 @@
   "b683d62959a08e3a",
   "stocksseesupportascrudeoilpricesease",
   "1019dd4a10f6d889",
-  "opecsettokeepoilquotasunchanged"
+  "opecsettokeepoilquotasunchanged",
+  "188ae2c3059a1c50",
+  "brentcrudeoilpriceonoct282026at500pmedt"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T16:35:13.623204+02:00",
+ "last_run": "2026-10-27T16:40:18.961416+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
