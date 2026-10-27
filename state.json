@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "c944b515000a302e",
-  "whatisthepolluterpaysprincipleandhowdoesitwork",
   "dcbfa0a0798be84c",
   "syriasenergycomebackcouldreshapemiddleeastoilandgas",
   "462e62bad3fb32e5",
@@ -603,7 +601,9 @@
   "1ca78a757750f348",
   "crudeoilpricesfallbackasiranssupremeleaderreiteratesdealterm",
   "75b55bbae4b1a22a",
-  "oilfallsasmiddleeasttalksoutweighconcernoverfreshstrikes"
+  "oilfallsasmiddleeasttalksoutweighconcernoverfreshstrikes",
+  "d10d5614d2773766",
+  "houthisclaimattacksonsaudiarabiaseastwestoilpipeline"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T18:15:20.324229+02:00",
+ "last_run": "2026-10-27T18:20:20.312343+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1424,6 +1424,10 @@
   {
    "d": "2026-10-27",
    "t": "Oil falls as Middle East talks outweigh concern over fresh strikes - Reuters"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Houthis Claim Attacks on Saudi Arabia's East-West Oil Pipeline - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
