@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "db856ce19d1f39ef",
-  "asianstocksdeclineasappetiteforriskyassetsebbs",
   "5bf6da7d2fb20de6",
   "indiansharesopenlowerasoilconcernspersistitleadslosses",
   "7c21d2cc697c606e",
@@ -603,7 +601,9 @@
   "db02151b2cba6892",
   "rupeeopensflatat9519againstthedollarastraderseyecrudeoilfedd",
   "bf7b42c674332cab",
-  "oilpricesdiponiranpeacehopesbutsaudiattackskeepbrentnearsixm"
+  "oilpricesdiponiranpeacehopesbutsaudiattackskeepbrentnearsixm",
+  "f86df72b6270d46c",
+  "uscrudeoilstockpilespostlargeweeklydrop"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 18
  },
- "last_run": "2026-10-27T06:25:16.175155+02:00",
+ "last_run": "2026-10-27T06:30:22.656775+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
