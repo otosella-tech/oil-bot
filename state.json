@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "89e38d201e5670af",
-  "indiansharesfallasoilconcernspersist",
-  "de8a3182ba74d21d",
-  "middleeastwarfuelsoiltransportcostsurge",
   "a2ea2cc759609721",
   "currentpriceofoilasofoctober62026",
   "7df86e21c49a27d7",
@@ -603,7 +599,11 @@
   "33a23ddeb0cf2eb0",
   "commentarycanadatakesapagefromthesaudioilplaybook",
   "3ceefe75b7abce82",
-  "fueldisruptionsinrussiacreateopeningforkazakhstanbutrefineri"
+  "fueldisruptionsinrussiacreateopeningforkazakhstanbutrefineri",
+  "5235df53dc852874",
+  "idrusdindonesia10yearyieldatfouryearhighonmsciriskoil",
+  "20afd79a50c2a7fa",
+  "nigeriadomesticrefinersreceived127millionbarrelsofcrudeinjan"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 32
  },
- "last_run": "2026-10-27T09:00:29.435495+02:00",
+ "last_run": "2026-10-27T09:05:14.307925+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
