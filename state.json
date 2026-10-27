@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "ce8d17a3797d1308",
-  "oilfallsamiddiplomaticeffortstoendiranwar",
-  "bc0049367425bf6c",
-  "ustapsintoanotherbatchofcrudefromspr",
   "f5241cee961bae7d",
   "ieaglobalenergymarketsunlikelytoreturntoprewarlevelsin2027",
   "d0a059ca02c9ea70",
@@ -603,7 +599,11 @@
   "1c5ede81acdfb90e",
   "europeanstockspulledlowerbybanksashsbcresultsdisappoint",
   "09748482063e8fe2",
-  "uaetosupplyindonesiawithupto30millionbarrelsofoil"
+  "uaetosupplyindonesiawithupto30millionbarrelsofoil",
+  "d99ba3189536baac",
+  "currentpriceofoilasofoct272026",
+  "b0fdc66a161657ae",
+  "usstockfuturesgainoilfallsonirancommentsmarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T14:25:14.018183+02:00",
+ "last_run": "2026-10-27T14:30:22.850107+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1344,6 +1344,10 @@
   {
    "d": "2026-10-27",
    "t": "Yemen's Houthis say they launched an attack on Saudi Ras Tanura oil refinery - Reuters"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap - Bloomberg.com"
   }
  ]
 }
