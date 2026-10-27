@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "df26d6c9abded913",
-  "saudiarabiawantstosend10millionbarrelsofoiladayaroundhormuza",
   "1cfe9a3660e26440",
   "oilpricesriseonsaudiarabiaattacksovershadowingtrumpsdieselde",
   "60783be666a6fd51",
@@ -603,7 +601,9 @@
   "8f70c1462537ba35",
   "wticrudeoilfutureshold100supportasmiddleeasttensionsease",
   "abd7cfbb5bfa5e31",
-  "trumpandrubioplantovisitoiltankercarryingvenezuelancrudeinte"
+  "trumpandrubioplantovisitoiltankercarryingvenezuelancrudeinte",
+  "e07bde7f541e4a5b",
+  "areagaspricesrisealongwithcrudeoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 14
  },
- "last_run": "2026-10-27T05:55:14.946456+02:00",
+ "last_run": "2026-10-27T06:00:27.360598+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
