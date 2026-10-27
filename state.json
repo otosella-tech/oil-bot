@@ -4,10 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "5cea30ffc93fe59f",
-  "fueloilbecomesasiasnextcostshock",
-  "07016957a44da248",
-  "michigangaspricesjump32centssincelastweek",
   "a2c955cf86e957eb",
   "russiasarcticoilshortcutrunsintoawallofice",
   "1229ba206fc31443",
@@ -603,7 +599,11 @@
   "8cf808dc005fe208",
   "trumprubioexpectedtogreetfirstshipmentof1millionbarrelsofven",
   "067162d5e7ef3e5d",
-  "indonesiacouldreceive30millionbarrelsofcrudeoilfreefromuae"
+  "indonesiacouldreceive30millionbarrelsofcrudeoilfreefromuae",
+  "db62bc2b0c1001d4",
+  "saudiaramcoofferseuropemorespotoilassuppliesrampup",
+  "11a02b0034f91e45",
+  "trumprubioplantovisittankerwithvenezuelancrudeintexas"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T19:05:21.033034+02:00",
+ "last_run": "2026-10-27T19:10:18.763124+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1436,6 +1436,14 @@
   {
    "d": "2026-10-27",
    "t": "Oil Markets Brace for a New Iran Escalation After U.S. Midterms"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Saudi Aramco Offers Europe More Spot Oil as Supplies Ramp Up - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Trump, Rubio Plan to Visit Tanker With Venezuelan Crude in Texas - Bloomberg.com"
   }
  ]
 }
