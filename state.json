@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "1c721bd53e2848ad",
-  "tankerratesforsaudicruderiseasregionaltensionsescalate",
   "0cefa1291830cc5e",
   "currentpriceofoilasofoctober82026",
   "cc8407a8f7c8eae0",
@@ -603,7 +601,9 @@
   "a7b8549689a08275",
   "oilchoppyashouthiattacksoffsetpushtoeasemideastconflict",
   "7c5d32f6e305b33e",
-  "highestcrudeoilpricewtihistoricalchartnominalinflationadjust"
+  "highestcrudeoilpricewtihistoricalchartnominalinflationadjust",
+  "a74a04145196483c",
+  "oilterminalstrikecouldthreatenromaniascrudeoilsupplyamidhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T15:10:16.976408+02:00",
+ "last_run": "2026-10-27T15:15:18.716949+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
