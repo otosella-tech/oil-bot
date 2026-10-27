@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "72161c474baeaf99",
-  "trumpcallsoffiranstrikebutwilloilholdabove100",
   "10fa32ed73296fc3",
   "saudiarabiatostorecrudeoilinsingaporeinmid2027abs",
   "b76e8108b3e83524",
@@ -603,7 +601,9 @@
   "775f1389515596c8",
   "oilextendslossesasiranmediationeffortseaseescalationfears",
   "19ee999d2b9cb589",
-  "commercialfishingcompanytopay100000foroilspillinchannelislan"
+  "commercialfishingcompanytopay100000foroilspillinchannelislan",
+  "ee040d4836339861",
+  "oilfallsamiddiplomaticeffortstoeaseusiranhostilities"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-27",
-  "count": 8
+  "count": 10
  },
- "last_run": "2026-10-27T03:25:14.195483+02:00",
+ "last_run": "2026-10-27T03:30:23.213869+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1240,6 +1240,10 @@
   {
    "d": "2026-10-27",
    "t": "Oil extends losses as Iran mediation efforts ease escalation fears - Investing.com"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Oil Falls Amid Diplomatic Efforts to Ease U.S.-Iran Hostilities - WSJ"
   }
  ]
 }
