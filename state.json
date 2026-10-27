@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "86417207fdf00233",
-  "saudiarabiatostoreoilinsingaporetobolsterasiasupplysecurity",
-  "7d8406725dd1614e",
-  "whydoesntoilpricesfalldespiteanincreaseincrudeoilsupply",
   "8a146e3feb104264",
   "sensexfalls536pointsniftyslips200pointsamidcrudeoilconcerns",
   "f487698a88f1c6d7",
@@ -603,7 +599,11 @@
   "f66efa9879643fbe",
   "chinasindustrialprofitssurgemostinthreemonthsonoil",
   "0ce3b06466bbf430",
-  "rupeetraderstestrbistoleranceformeasureddepreciation"
+  "rupeetraderstestrbistoleranceformeasureddepreciation",
+  "1fa31f5534d8734c",
+  "nopressurefromustocutrussianoilimportsindianoilministersays",
+  "31291a41183af9ea",
+  "oilfuturescrudedriftsloweronmideastdeescalationhopes"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-27",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-10-27T08:20:18.508649+02:00",
+ "last_run": "2026-10-27T08:25:17.521776+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1268,6 +1268,10 @@
   {
    "d": "2026-10-27",
    "t": "China’s Industrial Profits Surge Most in Three Months on Oil - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "No pressure from US to cut Russian oil imports, Indian oil minister says - Reuters"
   }
  ]
 }
