@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "325e74fa4458e7df",
-  "currentpriceofoilasofoctober132026",
   "ca16af38abaf649d",
   "fillingthestrategicpetroleumreserve",
   "c48e894afbb1a12c",
@@ -603,7 +601,9 @@
   "db65b2fc67273f12",
   "wallstreetpointshigherinheavyweekofearningsgmheadstonasdaqaf",
   "70f476954bb9f9e9",
-  "investorsfrom119countriespileintodangotesrecordrefineryipo"
+  "investorsfrom119countriespileintodangotesrecordrefineryipo",
+  "125ac7e35012a8d5",
+  "oilconsolidatesaroundrecenthighsasfearsofimminentusstrikesea"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T15:30:24.360529+02:00",
+ "last_run": "2026-10-27T15:35:16.179508+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
