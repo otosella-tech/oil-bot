@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "dbc7746f0f514763",
-  "stockmarketstodaysensexniftydeclineascrudepricesgeopolitical",
-  "a4c649c93f04604c",
-  "usmilitaryclaimsnomoreiranianminesonkeyhormuzshippinglanes",
   "40be4658dfa579f3",
   "silverslipsasrisingoilpricesbolsterhigherforlongerusrateexpe",
   "72e172bc79a62756",
@@ -603,7 +599,11 @@
   "7a2d2ea16d6b6b5e",
   "squidvesselownerpaysout100000settlementin2022oilspill",
   "7df86e21c49a27d7",
-  "saudiarabiatostorecrudeoilinsingaporefrommid2027"
+  "saudiarabiatostorecrudeoilinsingaporefrommid2027",
+  "8eae41ac8a2488b4",
+  "updateusequityindexesmixedamidslidingtechnologymegacapscrude",
+  "3234f67d149e4fc3",
+  "currentpriceofoilasofoctober152026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 38
  },
- "last_run": "2026-10-27T09:55:13.862332+02:00",
+ "last_run": "2026-10-27T10:00:26.595206+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
