@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "5bf6da7d2fb20de6",
-  "indiansharesopenlowerasoilconcernspersistitleadslosses",
   "7c21d2cc697c606e",
   "middleeastwarfuelssurgeinoiltankercostsseafarerwages",
   "488b0c2bfc24c3db",
@@ -603,7 +601,9 @@
   "bf7b42c674332cab",
   "oilpricesdiponiranpeacehopesbutsaudiattackskeepbrentnearsixm",
   "f86df72b6270d46c",
-  "uscrudeoilstockpilespostlargeweeklydrop"
+  "uscrudeoilstockpilespostlargeweeklydrop",
+  "2d69f6db535714f5",
+  "indianoilspetrochemicalpushweighingthefinancialclimateandene"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 18
  },
- "last_run": "2026-10-27T06:30:22.656775+02:00",
+ "last_run": "2026-10-27T06:35:14.751905+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
