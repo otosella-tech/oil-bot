@@ -1,15 +1,9 @@
 {
  "price_base": {
-  "WTI": 102.49,
-  "Brent": 111.72
+  "WTI": 100.38,
+  "Brent": 109.47
  },
  "seen": [
-  "3d8c6d53d03c6e4c",
-  "crudeoilcrisisdeepensasusemergencyreservereleasesrunoutofste",
-  "076a4734989491e6",
-  "theoilriskpremiumshootsup",
-  "87de13a5f6cfdfed",
-  "centralbankoiltechoutlooksroilasianstockmarkets",
   "2b96e22f73e3d2a8",
   "oilslipsbutstaysnearsixmonthhighsonsaudiattacks",
   "05c1b582465d8e6d",
@@ -603,7 +597,13 @@
   "1019dd4a10f6d889",
   "opecsettokeepoilquotasunchanged",
   "188ae2c3059a1c50",
-  "brentcrudeoilpriceonoct282026at500pmedt"
+  "brentcrudeoilpriceonoct282026at500pmedt",
+  "a4535dc63dabeec6",
+  "oilpricesfallamiddiplomaticpushtodeescalatesaudiirantensions",
+  "1e35618e95e683b6",
+  "thephilippinelawyerwhobeatanoilgiantroselizaeismaosorioondef",
+  "6d61827127585c47",
+  "trumpsheatingoilreleaseunlikelytoeaseskyhighpricesinpennsylv"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T16:40:18.961416+02:00",
+ "last_run": "2026-10-27T16:45:18.357121+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1408,6 +1408,10 @@
   {
    "d": "2026-10-27",
    "t": "OPEC+ Set to Keep Oil Quotas Unchanged"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Oil prices fall amid diplomatic push to de-escalate Saudi-Iran tensions - CNBC"
   }
  ]
 }
