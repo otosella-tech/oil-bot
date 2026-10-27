@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "397b79a08361725f",
-  "crudeoilpriceforecastbrentdropsfromnearsixmonthhighandfallsb",
-  "38f2fddeb2c4056f",
-  "crudeoilpricesdeclineonrenewedusirannegotiations",
   "d72e4a4da4a2c02d",
   "usmilitarysaysitescorted15billionbarrelsofoilthroughstraitof",
   "d481749cbbe33d32",
@@ -603,7 +599,11 @@
   "77ec6e1c234c90a3",
   "thisoilcompanyislinkedto1000pollutionincidentsandotherviolat",
   "1bfd34a7d3659479",
-  "exclusivedeaththreatslawsuitsandbillionsinplaythebattleoverm"
+  "exclusivedeaththreatslawsuitsandbillionsinplaythebattleoverm",
+  "637afb76f17ade4f",
+  "oilnewscrudeoilfuturesholdfirmasirantalksfailtoeasesupplyris",
+  "14d66bbd2315058e",
+  "oilfuturescrudeholdsnearhighsamiduneasymideaststandoff"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 50
  },
- "last_run": "2026-10-27T11:10:19.322013+02:00",
+ "last_run": "2026-10-27T11:15:17.732853+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
