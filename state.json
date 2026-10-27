@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "c2f61b1ca0b31876",
-  "currentpriceofoilasofoctober122026",
   "62107ecd8b300b6a",
   "uscrudeoilstockpilespostweeklydrop",
   "a6e2a2db16fdeaae",
@@ -603,7 +601,9 @@
   "39fe230e24cb0941",
   "currentpriceofoilasofoctober272026",
   "8be7b4d0910953be",
-  "houthisattacksaudiarabiaseastwestpipelineagain"
+  "houthisattacksaudiarabiaseastwestpipelineagain",
+  "d0a059ca02c9ea70",
+  "oilspilloffuaewidenssatelliteimagesshowpromptingmorebeachclo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T15:50:17.674178+02:00",
+ "last_run": "2026-10-27T15:55:14.834427+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
