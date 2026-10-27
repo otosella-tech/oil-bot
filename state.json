@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "f86df72b6270d46c",
-  "uscrudeoilstockpilespostlargeweeklydrop",
   "db856ce19d1f39ef",
   "asianstocksdeclineasappetiteforriskyassetsebbs",
   "5bf6da7d2fb20de6",
@@ -603,7 +601,9 @@
   "85b6bf48068600af",
   "saudiarabiawillstorecrudeoilinsingaporefrom2027",
   "db02151b2cba6892",
-  "rupeeopensflatat9519againstthedollarastraderseyecrudeoilfedd"
+  "rupeeopensflatat9519againstthedollarastraderseyecrudeoilfedd",
+  "bf7b42c674332cab",
+  "oilpricesdiponiranpeacehopesbutsaudiattackskeepbrentnearsixm"
  ],
  "releases_done": {},
  "last_digest": "2026-10-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-27",
-  "count": 16
+  "count": 18
  },
- "last_run": "2026-10-27T06:20:19.032141+02:00",
+ "last_run": "2026-10-27T06:25:16.175155+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-10-27",
    "t": "Saudi Arabia wants to send 10 million barrels of oil a day around Hormuz. A former Treasury official says it may barely move prices - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Oil prices dip on Iran peace hopes, but Saudi attacks keep Brent near six-month highs - The Times of India"
   }
  ]
 }
