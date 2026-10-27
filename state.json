@@ -4,12 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "5477ccee6b8caca3",
-  "oilpricesjump3onhouthiattacksoilspillhighestsettlementsincea",
-  "6413829df286e07d",
-  "singaporeandsaudiarabiaannouncejointintenttoestablishcrudeoi",
-  "9299ef784b6217bc",
-  "greeceextendsmissilehelptoyanbuashouthishammersaudioilinfras",
   "71cf7b8a2b007409",
   "houthissaytheyattackedsaudioilpumpingstationsriyadhairportas",
   "4daf8d0e4de1c72a",
@@ -603,7 +597,13 @@
   "bb7c63bf03c94f87",
   "oilfuturescrudedriftssidewaysmideastdeescalationhopesraised",
   "3981072b308e747c",
-  "bessentsaysiraneconomywillcontractbymorethan25"
+  "bessentsaysiraneconomywillcontractbymorethan25",
+  "12a4de07a80b815e",
+  "sulzersignsfiveyeardealwithpdvsatorevivevenezuelasoilsector",
+  "e1b2456f1aaebb0e",
+  "indianoilbuys3millionbarrelsofiraqibasrahcrudeviatendertrade",
+  "64ccba3a58a246ea",
+  "nowondertrumpdoesntcareaboutgaspricesitsmakinghimrich"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-27",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-10-27T09:40:18.089230+02:00",
+ "last_run": "2026-10-27T09:45:17.429030+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-10-27",
    "t": "COMMENTARY: Canada takes a page from the Saudi oil playbook - Reuters"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Sulzer Signs Five-Year Deal With PDVSA to Revive Venezuela's Oil Sector - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
