@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "569008cdd7a15fd4",
-  "singaporetostoresaudioilinundergroundcaverns",
   "a8fd11957f6e29cd",
   "oilpricesfallfromsixmonthhigh",
   "6be26cc8e6177de2",
@@ -603,7 +601,9 @@
   "631c43fb9fd72a30",
   "oilpricesfallastradershopefordiplomaticprogressinmiddleeast",
   "c0eefd660dd83584",
-  "howleakingwellsandatoxicriverconvincedthesetexasoilpatchcons"
+  "howleakingwellsandatoxicriverconvincedthesetexasoilpatchcons",
+  "aafe4c5f4c4e5c1c",
+  "russiasenergyrevenuesplummetdespitesurgingglobaloilpricesami"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-27",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-10-27T12:50:17.273722+02:00",
+ "last_run": "2026-10-27T12:55:14.120797+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1328,6 +1328,10 @@
   {
    "d": "2026-10-27",
    "t": "Iran Says It Will Take Action Against Sinokor Ships in Hormuz - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Russia’s energy revenues plummet despite surging global oil prices amid drone attacks - Anadolu Ajansı"
   }
  ]
 }
