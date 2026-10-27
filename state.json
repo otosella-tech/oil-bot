@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "d5a4b2e2f54441e5",
-  "thecostofshippingatankerofcrudeoilhasskyrocketedduetowar",
   "325e74fa4458e7df",
   "currentpriceofoilasofoctober132026",
   "ca16af38abaf649d",
@@ -603,7 +601,9 @@
   "ca54bd505d01598a",
   "preciousmetalsweakenashormuzuncertaintykeepsoilelevatedahead",
   "db65b2fc67273f12",
-  "wallstreetpointshigherinheavyweekofearningsgmheadstonasdaqaf"
+  "wallstreetpointshigherinheavyweekofearningsgmheadstonasdaqaf",
+  "70f476954bb9f9e9",
+  "investorsfrom119countriespileintodangotesrecordrefineryipo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-27",
@@ -615,7 +615,7 @@
   "date": "2026-10-27",
   "count": 60
  },
- "last_run": "2026-10-27T15:25:15.217869+02:00",
+ "last_run": "2026-10-27T15:30:24.360529+02:00",
  "sent_stories": [
   {
    "d": "2026-10-24",
@@ -1376,6 +1376,10 @@
   {
    "d": "2026-10-27",
    "t": "Precious metals weaken as Hormuz uncertainty keeps oil elevated ahead of Fed decision - Kitco AM Report - Kitco"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Investors From 119 Countries Pile Into Dangote’s Record Refinery IPO"
   }
  ]
 }
