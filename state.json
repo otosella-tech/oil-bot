@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "9fcb44955c215020",
-  "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility",
   "993c06df010acefa",
   "oilpricesfallamidsthopesofeasingusiranhostilities",
   "44c5e4c2229cd0d2",
@@ -603,7 +601,9 @@
   "90e03f6b064eac17",
   "oilpricetodaybrentcrudeholdsfirmat115perbarrelwtitradesat100",
   "4cd9112d7dd3fd99",
-  "epaloosensmethanerulesforoilfirms"
+  "epaloosensmethanerulesforoilfirms",
+  "8d72d07ec236f7f9",
+  "oilsettlesloweronpeacehopessaudiattackslimitlosses"
  ],
  "releases_done": {
   "2026-10-27|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-28",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-10-28T04:35:15.741856+02:00",
+ "last_run": "2026-10-28T04:40:17.550005+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1415,6 +1415,10 @@
   {
    "d": "2026-10-28",
    "t": "Venezuelan oil import will mitigate the temporary spike in energy prices: Rep Jodey Arrington - Fox Business"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Oil settles lower on peace hopes, Saudi attacks limit losses - Reuters"
   }
  ]
 }
