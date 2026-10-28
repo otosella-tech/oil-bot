@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "ee040d4836339861",
-  "oilfallsamiddiplomaticeffortstoeaseusiranhostilities",
   "09ab9e3334fbb668",
   "thisoiltankertycoonswhatsappmessagesdrivebigmarketmoves",
   "d97e5d688ed3a50d",
@@ -603,7 +601,9 @@
   "9ec0a7b7fa4d65ae",
   "brentcrudeoilwaveanalysis",
   "babc79394f421425",
-  "whysaudijustabandoneditscoreoilrule"
+  "whysaudijustabandoneditscoreoilrule",
+  "5431b75f296ef9f8",
+  "oilrisesover1aftersaudiarabianrefineryattackreignitessupplyr"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-28",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-10-28T08:20:19.116089+02:00",
+ "last_run": "2026-10-28T08:25:15.515831+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1444,6 +1444,10 @@
   {
    "d": "2026-10-28",
    "t": "Oil Price Today (October 28): Crude oil at $116 as Saudi Arabian refinery comes under attack $120 in sight - The Economic Times"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Oil rises over 1% after Saudi Arabian refinery attack reignites supply risk - Reuters"
   }
  ]
 }
