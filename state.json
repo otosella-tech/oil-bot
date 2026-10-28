@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "4e6ecf59bd36bfe8",
-  "thetankertycoonswhatsappsdrivingadisputedoilbenchmark",
   "775f1389515596c8",
   "oilextendslossesasiranmediationeffortseaseescalationfears",
   "19ee999d2b9cb589",
@@ -603,7 +601,9 @@
   "4e36c2279afb1324",
   "goldfuturesturnhigherascrudeoilpricespullbackgldnysearca",
   "a0d4d60532d7671a",
-  "oilpricetodayoctober28crudeoilat116assaudiarabianrefinerycom"
+  "oilpricetodayoctober28crudeoilat116assaudiarabianrefinerycom",
+  "58f431e6edb1279c",
+  "oilpricesup271026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -615,7 +615,7 @@
   "date": "2026-10-28",
   "count": 42
  },
- "last_run": "2026-10-28T08:00:29.390535+02:00",
+ "last_run": "2026-10-28T08:05:15.689992+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
