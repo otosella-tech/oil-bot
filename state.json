@@ -4,32 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "cd9291ba7ff90230",
-  "crudeoilmarketanalysislateoctober2026futuresspreadsandriskcm",
-  "fb7be65a5a46b640",
-  "usaimstocooloilpricesaheadofmidtermdipslikelytobeshortlived",
-  "bdb1917b9bcded9c",
-  "iranexpandstankerblockadebeyondhormuz",
-  "01ba435741ca8497",
-  "ieawarnsofdangerousconcentrationinglobalcleanenergysupplycha",
-  "bd20ac3d46f24873",
-  "saudiarabiaturnstosingaporeforoilstorage",
-  "efd57650b1e504a1",
-  "oilpricesseesawamidreneweddiplomaticeffortstoendmideastconfl",
-  "19b1260dcf016536",
-  "indonesiabondyieldhitsfouryearhighasmsciriskoilweigh",
-  "792be724cfbcced2",
-  "saudiarabiacontainsfirenearrastanuraoilhubafterattack",
-  "8e4a538e8c0f9bc2",
-  "euroslipsaheadofcentralbankmeetingsrealtumbles",
-  "2c71dc210e629640",
-  "crudeoilwtidojisignalsindecisionat10182livelevels",
-  "77ec6e1c234c90a3",
-  "thisoilcompanyislinkedto1000pollutionincidentsandotherviolat",
-  "1bfd34a7d3659479",
-  "exclusivedeaththreatslawsuitsandbillionsinplaythebattleoverm",
-  "637afb76f17ade4f",
-  "oilnewscrudeoilfuturesholdfirmasirantalksfailtoeasesupplyris",
   "14d66bbd2315058e",
   "oilfuturescrudeholdsnearhighsamiduneasymideaststandoff",
   "303fbf84f9755642",
@@ -603,7 +577,33 @@
   "e1b2717506e60064",
   "europeangasandoilpricesriseafterspeculationovernewattacksinm",
   "795be9a31d1e55cc",
-  "presidenttrumpannouncesarrivaloffirstonemillionbarrelsofoili"
+  "presidenttrumpannouncesarrivaloffirstonemillionbarrelsofoili",
+  "485ce8931d0961b8",
+  "oilpricesincreaseafterattackonsaudirefinery",
+  "f889608d03ff8870",
+  "currentpriceofoilasofoctober162026",
+  "fb15271729b128c0",
+  "currentpriceofoilasofoctober192026",
+  "3234f67d149e4fc3",
+  "currentpriceofoilasofoctober152026",
+  "eaf356f287612f04",
+  "techstockserase1trillionofwealthasoilsurgesto110forthefirstt",
+  "e81e2aaeca929740",
+  "dieselclimbsto635nationallywhilegasolinepricesedgelower",
+  "c2f61b1ca0b31876",
+  "currentpriceofoilasofoctober122026",
+  "1f6e2ba3dd02cbf9",
+  "currentpriceofoilasofoct142026",
+  "0f0425e023d93961",
+  "uscrudeoilnear98asiranstepsupattacksinstraitofhormuz",
+  "00034a9da4d9bbde",
+  "willoilpricesdeclineasmiddleeastsupplyrecovers",
+  "1cfe9a3660e26440",
+  "oilpricesriseonsaudiarabiaattacksovershadowingtrumpsdieselde",
+  "31656998616a1819",
+  "oiltouches110abarrelforfirsttimesincemayonmiddleeastrussiasu",
+  "3112c2c235f2cd34",
+  "brentoiltops109afterhouthimilitantsclaimtheyattackedsaudiair"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -615,7 +615,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T14:45:17.812888+02:00",
+ "last_run": "2026-10-28T14:50:17.393747+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1548,6 +1548,26 @@
   {
    "d": "2026-10-28",
    "t": "Bahri Profit Hits $1.36 Billion as the World Scrambles for Tankers"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Oil prices increase after attack on Saudi refinery - Transport Topics"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal - Reuters"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears - Reuters"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities - CNBC"
   }
  ]
 }
