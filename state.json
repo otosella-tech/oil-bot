@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "b9c6307275ab6ced",
-  "sp500nasdaqadvanceasoileasesaheadoffeddecision",
   "3cb35b073246df3a",
   "asiapaystopdollarforcanadianoilamidslumpinusprices",
   "1ca78a757750f348",
@@ -603,7 +601,9 @@
   "bdcc7dd6d0bb958a",
   "oilpricesriseonworriesofmiddleeastconflictescalation",
   "d0462a6fc1a859f0",
-  "ctfuelindustrywarnsoftightsuppliesandrisingcostsaheadofwinte"
+  "ctfuelindustrywarnsoftightsuppliesandrisingcostsaheadofwinte",
+  "bf1ee51fa7633b38",
+  "stocksseesupportascrudeoilpriceseaseandfomcawaited"
  ],
  "releases_done": {
   "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T22:20:18.187817+02:00",
+ "last_run": "2026-10-28T22:25:14.563689+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
