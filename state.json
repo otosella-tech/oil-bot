@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "69d7ab875783b35e",
-  "crudeoilfallsfor2ndsession",
   "1c5ede81acdfb90e",
   "europeanstockspulledlowerbybanksashsbcresultsdisappoint",
   "09748482063e8fe2",
@@ -603,7 +601,9 @@
   "5d5f4581af44cbf9",
   "adnoctellsclientsnewhormuzbypasspipetostartearly2027",
   "1202eefc4c2cedb7",
-  "uscrudeoilstockpilesfallforfourthstraightweek"
+  "uscrudeoilstockpilesfallforfourthstraightweek",
+  "7d4db1026c8700f6",
+  "oilpricesriseasusreportedlytellsgulfcountriestoprepareforira"
  ],
  "releases_done": {
   "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T17:15:18.764266+02:00",
+ "last_run": "2026-10-28T17:20:18.521435+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1595,6 +1595,10 @@
   {
    "d": "2026-10-28",
    "t": "Adnoc Tells Clients New Hormuz Bypass Pipe to Start Early 2027 - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections - CNBC"
   }
  ]
 }
