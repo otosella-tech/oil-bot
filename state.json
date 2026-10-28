@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "c7974fa90d5c0a29",
-  "yourtuesdayoct27guidefivethingstodointheoilcity",
-  "a7b8549689a08275",
-  "oilchoppyashouthiattacksoffsetpushtoeasemideastconflict",
   "7c5d32f6e305b33e",
   "highestcrudeoilpricewtihistoricalchartnominalinflationadjust",
   "a74a04145196483c",
@@ -603,7 +599,11 @@
   "1a3caf6285b939ef",
   "eiauscrudeoilinventoriesdown19millionbbl",
   "050ccc42ad23e0c7",
-  "crudeoilpricessurgeamidmiddleeasttensionscolgatepalmolivecld"
+  "crudeoilpricessurgeamidmiddleeasttensionscolgatepalmolivecld",
+  "e8be2de5933873c6",
+  "cryptoperptradesduringoilfrenzyraisespoofingspecter",
+  "1e44787486f3532f",
+  "scorpiotankersreports181000adaylr2ratesasmiddleeastwarupends"
  ],
  "releases_done": {
   "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T18:45:18.213654+02:00",
+ "last_run": "2026-10-28T18:50:17.617871+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1611,6 +1611,10 @@
   {
    "d": "2026-10-28",
    "t": "Crude Oil Prices Rally on Report that Persian Gulf Is on Notice for US Military Attack on Iran - Barchart.com"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Scorpio Tankers Reports $181,000-a-Day LR2 Rates as Middle East War Upends Oil Trade - gCaptain"
   }
  ]
 }
