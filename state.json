@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "63cbf9750a16178c",
-  "oilsettlesloweramidmiddleeastdiplomaticefforts",
   "13ea5ebade582f3d",
   "oilsettlesloweronpeacehopessaudiattackslimitlosses",
   "9fcb44955c215020",
@@ -603,7 +601,9 @@
   "e195d215a6f29681",
   "trumpsayshesendingrestrictionsonclimatewarmingmethanefromoil",
   "6bd45fe129737403",
-  "trumpsepaislettingamericasleakiestoilandgascompaniesofftheho"
+  "trumpsepaislettingamericasleakiestoilandgascompaniesofftheho",
+  "90e03f6b064eac17",
+  "oilpricetodaybrentcrudeholdsfirmat115perbarrelwtitradesat100"
  ],
  "releases_done": {
   "2026-10-27|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-28",
   "count": 20
  },
- "last_run": "2026-10-28T04:20:19.681770+02:00",
+ "last_run": "2026-10-28T04:25:14.410583+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
