@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "0ce3b06466bbf430",
-  "rupeetraderstestrbistoleranceformeasureddepreciation",
   "1fa31f5534d8734c",
   "nopressurefromustocutrussianoilimportsindianoilministersays",
   "31291a41183af9ea",
@@ -603,7 +601,9 @@
   "90f614da73d969e5",
   "globalsharesaremixedafterusstockrallyandoilpricesgainmoretha",
   "da74d44a177e451a",
-  "uscrudeoilstockpilesfallmorethanexpected"
+  "uscrudeoilstockpilesfallmorethanexpected",
+  "3b62292a306f1640",
+  "oilpricesdropdespitethreatofnewusstrikesoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -615,7 +615,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T11:45:18.552303+02:00",
+ "last_run": "2026-10-28T11:50:19.620912+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1492,6 +1492,10 @@
   {
    "d": "2026-10-28",
    "t": "Iran Cracks Down on Sinokor Tankers - Rigzone"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Oil Prices Drop Despite Threat of New U.S. Strikes on Iran - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
