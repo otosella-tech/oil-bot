@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "94b8932fa66d4bc8",
-  "updatebigtechpushesusequityindexeshigheramiddecliningcrudeoi",
   "2d71cf24ac3481b3",
   "crudeoilmoveslowercorningearningstopviews",
   "8cf808dc005fe208",
@@ -603,7 +601,9 @@
   "d2837f68f05230fb",
   "trumpadministrationwantstoremoveregulationsonasuperplanethea",
   "f4158fc977f8909e",
-  "uscrudeoilinventoriesdecreaseby19millionbarrels"
+  "uscrudeoilinventoriesdecreaseby19millionbarrels",
+  "9cebccb2f89dd093",
+  "usnaturalgasproductionhitsnewrecordsasdemandsurges"
  ],
  "releases_done": {
   "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -615,123 +615,11 @@
   "Brent": 111.14
  },
  "llm": {
-  "date": "2026-10-28",
-  "count": 60
+  "date": "2026-10-29",
+  "count": 2
  },
- "last_run": "2026-10-28T23:55:14.872193+02:00",
+ "last_run": "2026-10-29T00:00:28.182229+02:00",
  "sent_stories": [
-  {
-   "d": "2026-10-25",
-   "t": "Houthis say strikes in past day targeted Saudi airports, oil infrastructure and airbase - The Times of Israel"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Are global oil reserves sufficient to withstand renewed US-Iran war? - Al Jazeera"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Dow Plunges 652 Points After Crude Oil Tops $100 on Renewed US-Iran War Fears - BigGo Finance"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Houthis say they targeted Saudi oil sites; attacks reported in Aden - KSL News"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Houthis Claim Strikes on Rabigh Refinery and East-West Pipeline - https://houseofsaud.com/"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Goldman Sachs warns on the Hormuz crisis and rising fuel costs - Yahoo Finance"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Houthis threaten Riyadh airport as Saudi oil sites come under attack - The Arab Weekly"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Saudi Aramco seeks to partner with countries to expand its oil stockpile, CEO says - Reuters"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Oil prices settle mixed, focus on US-Russia diesel deal, Saudi Yemen attacks - Reuters"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Reuters"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption - Reuters"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Pakistan Looks to Import Crude Oil from Libya to Diversify Supply - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis - CNBC"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production - CNBC"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches - Al Jazeera"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Houthis say they attacked Saudi oil sites; strikes reported in Aden - Denver Gazette"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "CENTCOM Chief Brad Cooper flies over Hormuz during Middle East visit - The Jerusalem Post"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Russian ESPO oil sellers seek record premiums as Gulf exports uncertain - Reuters"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "U.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "Brent Crude Oil Price Nears Crucial Level as Trump Prepares Iran Attack - Benzinga"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "CENTCOM chief flies over Strait of Hormuz during Middle East visit, affirms waterway clear of mines - The Jerusalem Post"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "CENTCOM says helped Gulf nations export 1.5 billion barrels of oil via Hormuz - The New Region"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "US says helped Gulf nations export 1.5 billion barrels of oil through Hormuz - Arab News"
-  },
-  {
-   "d": "2026-10-25",
-   "t": "US touts role in Gulf oil exports as CENTCOM chief visits Hormuz - Arab News"
-  },
   {
    "d": "2026-10-26",
    "t": "Oil Edges Lower From Six-Month High as Traders Assess Iran Risks - Bloomberg.com"
@@ -1643,6 +1531,10 @@
   {
    "d": "2026-10-28",
    "t": "Strait of Hormuz Tensions Keep Oil Prices Elevated: 3 Canadian Energy Stocks to Watch - Yahoo! Finance Canada"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "U.S. Natural Gas Production Hits New Records as Demand Surges"
   }
  ]
 }
