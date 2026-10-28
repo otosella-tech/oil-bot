@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "744c34d90bdfb0f4",
-  "commercialfishingcompanytopay100000foroilspilloffchannelisla",
   "8f70c1462537ba35",
   "wticrudeoilfutureshold100supportasmiddleeasttensionsease",
   "abd7cfbb5bfa5e31",
@@ -603,7 +601,9 @@
   "fdddb788caea593f",
   "trumpdrasticallyrollsbackoilandgasmethanerules",
   "77759d890f8b1045",
-  "sauditankergiantposts10foldprofitjumpasshipratessurge"
+  "sauditankergiantposts10foldprofitjumpasshipratessurge",
+  "eb8b026882ac3ea4",
+  "equinorprofitdoublesonsoaringoilandgaspricesseeshigheroutput"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-28",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-10-28T09:20:18.447050+02:00",
+ "last_run": "2026-10-28T09:25:15.730620+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1456,6 +1456,10 @@
   {
    "d": "2026-10-28",
    "t": "Saudi Tanker Giant Posts 10-Fold Profit Jump as Ship Rates Surge - Bloomberg.com"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Equinor profit doubles on soaring oil and gas prices, sees higher output - Reuters"
   }
  ]
 }
