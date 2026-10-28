@@ -4,12 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "b683d62959a08e3a",
-  "stocksseesupportascrudeoilpricesease",
-  "1019dd4a10f6d889",
-  "opecsettokeepoilquotasunchanged",
-  "188ae2c3059a1c50",
-  "brentcrudeoilpriceonoct282026at500pmedt",
   "a4535dc63dabeec6",
   "oilpricesfallamiddiplomaticpushtodeescalatesaudiirantensions",
   "1e35618e95e683b6",
@@ -603,7 +597,13 @@
   "536b02875cba1057",
   "aichipstocksdrivebacktobacksp500gainsasoilslideaddsrelief",
   "ef3ba93025d3957a",
-  "whydidvalerostockfall"
+  "whydidvalerostockfall",
+  "b000f4bdedf038ef",
+  "bccrudeoilfutures",
+  "494f27ad4dbf65a7",
+  "theoilgiantsarerakinginmorecashhereswhattheylldowithit",
+  "700f2c66647ed290",
+  "oilpricesriseonyemenfightingsaudirefineryattack"
  ],
  "releases_done": {
   "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T20:30:23.380030+02:00",
+ "last_run": "2026-10-28T20:35:18.201166+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1627,6 +1627,10 @@
   {
    "d": "2026-10-28",
    "t": "UBS Data Shows Russian Oil Exports Only 10% Below Pre-War Levels - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Oil prices rise on Yemen fighting, Saudi refinery attack - Yahoo! Finance Canada"
   }
  ]
 }
