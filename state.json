@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "a75b1b009a189093",
-  "howrisingcrudeoilpricescouldimpacttheusandglobaleconomy",
-  "ca7e859ffe1c5fcd",
-  "bitcoinfacesfurtherdownsideasoilsurgeaifearsweighonriskappet",
   "df7a93c1ef09f9e0",
   "usarmysaysithashelped15billionbarrelsofoiloutofhormuz",
   "5b9c088d5481c73b",
@@ -603,7 +599,11 @@
   "b53a92c8df710436",
   "trumptoeasemethanerulesforoilandgaswells",
   "b12d20d994ae7112",
-  "chinasecuresmassivediscountonrussiangasasmoscowsleverageweak"
+  "chinasecuresmassivediscountonrussiangasasmoscowsleverageweak",
+  "71d71eb667cfbf06",
+  "themidtermsmayreviveadyingbrandtheoilstatedemocrat",
+  "d87c339ce9d23b97",
+  "ubsdatashowsrussianoilexportsonly10belowprewarlevels"
  ],
  "releases_done": {
   "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T20:00:30.011233+02:00",
+ "last_run": "2026-10-28T20:05:15.867207+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1623,6 +1623,10 @@
   {
    "d": "2026-10-28",
    "t": "China Secures Massive Discount on Russian Gas as Moscow’s Leverage Weakens"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "UBS Data Shows Russian Oil Exports Only 10% Below Pre-War Levels - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
