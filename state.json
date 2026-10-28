@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "266f1b0f28300cdf",
-  "asianstocksadvancefollowingarallyonwallstreetandoilpricesfal",
-  "432cbf197324d579",
-  "crudeoilpricestradeloweronreportsofrenewedusirandiplomaticef",
   "e653686327b0d957",
   "stockmarketsfallinearlytradeontuesdayamidelevatedcrudeoilpri",
   "d708c27537e12559",
@@ -603,7 +599,11 @@
   "2cc84f3a4422ffc2",
   "bitcoinfomchopeshanginthebalanceasoilsurgesandukraineseekspe",
   "ebbc262b7a5edf78",
-  "elevatedoilpriceskeepupheatonrupeetradersawaitcuesfromfed"
+  "elevatedoilpriceskeepupheatonrupeetradersawaitcuesfromfed",
+  "10324d4183596336",
+  "energyonedgeaheadofusamidterms",
+  "24203a7f311cc543",
+  "usmovestoweakenmethanelimitsonoilandgasproducers"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -615,7 +615,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T13:05:15.078527+02:00",
+ "last_run": "2026-10-28T13:10:18.503196+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
