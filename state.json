@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "85b6bf48068600af",
-  "saudiarabiawillstorecrudeoilinsingaporefrom2027",
   "db02151b2cba6892",
   "rupeeopensflatat9519againstthedollarastraderseyecrudeoilfedd",
   "bf7b42c674332cab",
@@ -603,7 +601,9 @@
   "4dcd47d5ff803338",
   "goldslipsonoilfuelledinflationfearsaheadoffedmeeting",
   "48496af9ce91042a",
-  "oiltradersbraceforiranescalationafteruselections"
+  "oiltradersbraceforiranescalationafteruselections",
+  "538c9eb595933890",
+  "oilupover2assaudiarabianrefineryattackreignitessupplyriskcon"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-28",
-  "count": 52
+  "count": 54
  },
- "last_run": "2026-10-28T09:50:17.724469+02:00",
+ "last_run": "2026-10-28T09:55:14.190151+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1464,6 +1464,10 @@
   {
    "d": "2026-10-28",
    "t": "Oil Traders Brace for Iran Escalation After U.S. Elections"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Oil up over $2 as Saudi Arabian refinery attack reignites supply risk concerns - Reuters"
   }
  ]
 }
