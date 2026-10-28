@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "5235df53dc852874",
-  "idrusdindonesia10yearyieldatfouryearhighonmsciriskoil",
   "20afd79a50c2a7fa",
   "nigeriadomesticrefinersreceived127millionbarrelsofcrudeinjan",
   "4353e79bef3d6de6",
@@ -603,7 +601,9 @@
   "86417207fdf00233",
   "saudiarabiatostoreoilinsingaporetobolsterasiasupplysecurity",
   "d09b7a0d173d5fda",
-  "indianequitybenchmarksinchlowerasoilclimbsjiomakesstrongdebu"
+  "indianequitybenchmarksinchlowerasoilclimbsjiomakesstrongdebu",
+  "33a23ddeb0cf2eb0",
+  "commentarycanadatakesapagefromthesaudioilplaybook"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -615,7 +615,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T12:30:23.310060+02:00",
+ "last_run": "2026-10-28T12:35:14.035117+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1504,6 +1504,10 @@
   {
    "d": "2026-10-28",
    "t": "Saudi Arabia to store oil in Singapore to bolster Asia supply security - Reuters"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "COMMENTARY: Canada takes a page from the Saudi oil playbook - Reuters"
   }
  ]
 }
