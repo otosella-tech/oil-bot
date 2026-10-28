@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "ded22d197793f789",
-  "iranturnstorussiafornuclearpowerasiaeaoversightfalters",
   "a75b1b009a189093",
   "howrisingcrudeoilpricescouldimpacttheusandglobaleconomy",
   "ca7e859ffe1c5fcd",
@@ -603,7 +601,9 @@
   "39fe230e24cb0941",
   "currentpriceofoilasofoctober272026",
   "b53a92c8df710436",
-  "trumptoeasemethanerulesforoilandgaswells"
+  "trumptoeasemethanerulesforoilandgaswells",
+  "b12d20d994ae7112",
+  "chinasecuresmassivediscountonrussiangasasmoscowsleverageweak"
  ],
  "releases_done": {
   "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T19:55:15.484774+02:00",
+ "last_run": "2026-10-28T20:00:30.011233+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1619,6 +1619,10 @@
   {
    "d": "2026-10-28",
    "t": "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "China Secures Massive Discount on Russian Gas as Moscow’s Leverage Weakens"
   }
  ]
 }
