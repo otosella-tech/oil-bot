@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "c68afebe861c88d0",
-  "oilrisesashopesfordiplomacyoffsetimpactofrenewedhouthiattack",
   "fd6c55a27175d79d",
   "tsxfuturesmutedasgoldweaknessoffsetsoilgains",
   "ead227d038f42b4c",
@@ -603,10 +601,13 @@
   "dceb1a09656f9910",
   "crudeoiliskeepingthebullishbiasbystayingabovethe100200hourma",
   "37e92466eaaac285",
-  "uaereportedlyoffersindonesia30millionbarrelsofcrudeoilwithfr"
+  "uaereportedlyoffersindonesia30millionbarrelsofcrudeoilwithfr",
+  "51158a06978a3b61",
+  "chinasrefinersturntoafricaandbrazilcrudeasfreightratesease"
  ],
  "releases_done": {
-  "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+  "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
+  "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|post": 1
  },
  "last_digest": "2026-10-28",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T16:25:16.228097+02:00",
+ "last_run": "2026-10-28T16:30:28.569189+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
