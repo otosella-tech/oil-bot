@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "20afd79a50c2a7fa",
-  "nigeriadomesticrefinersreceived127millionbarrelsofcrudeinjan",
   "4353e79bef3d6de6",
   "oilpricestodaybrentcrudereaches115whileuswesttexasintermedia",
   "266f1b0f28300cdf",
@@ -603,7 +601,9 @@
   "d09b7a0d173d5fda",
   "indianequitybenchmarksinchlowerasoilclimbsjiomakesstrongdebu",
   "33a23ddeb0cf2eb0",
-  "commentarycanadatakesapagefromthesaudioilplaybook"
+  "commentarycanadatakesapagefromthesaudioilplaybook",
+  "2cc84f3a4422ffc2",
+  "bitcoinfomchopeshanginthebalanceasoilsurgesandukraineseekspe"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -615,7 +615,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T12:35:14.035117+02:00",
+ "last_run": "2026-10-28T12:40:18.126273+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1508,6 +1508,10 @@
   {
    "d": "2026-10-28",
    "t": "COMMENTARY: Canada takes a page from the Saudi oil playbook - Reuters"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Bitcoin FOMC Hopes Hang in the Balance as Oil Surges and Ukraine Seeks Peace - Yahoo Finance"
   }
  ]
 }
