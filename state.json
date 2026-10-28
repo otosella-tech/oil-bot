@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "e3e95388dd9339eb",
-  "pathwaytonormalcyremainsuncertaindespiteoptimisticcrudefutur",
   "94377a0a73b05d5a",
   "oilfuturescrudevolatilityremainsamidmixedmessagingoniran",
   "af941f8f8f31b93c",
@@ -603,7 +601,9 @@
   "5fe3758a8f4e7010",
   "usequityfuturesclimbascrudeoilpricedipsmarketswrap",
   "f7cabc7f0238dace",
-  "oilpricesrisedespitemiddleeastexportrecovery"
+  "oilpricesrisedespitemiddleeastexportrecovery",
+  "27d9f304697fe094",
+  "middleeasternoilexportshavesurpassedprewarlevelsyetoilprices"
  ],
  "releases_done": {
   "2026-10-27|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-28",
   "count": 16
  },
- "last_run": "2026-10-28T02:40:16.704099+02:00",
+ "last_run": "2026-10-28T02:45:17.003724+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
