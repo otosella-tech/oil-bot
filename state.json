@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "ad4e9f546fa33c68",
-  "oilslips1asirandiplomacyeasessupplyfears",
   "092744617b7655b9",
   "crudeoilmarketreactstomiddleeastdiplomacycolgatepalmolivecld",
   "91a52cc0a4fe9c55",
@@ -603,7 +601,9 @@
   "9b691053bed3a776",
   "thefedriskspolicyerrorfightingoilprices",
   "7793ab193a152ba8",
-  "texascouldenduppayinganisraelicompanybillionsofdollarsforwat"
+  "texascouldenduppayinganisraelicompanybillionsofdollarsforwat",
+  "17de89f594e723ec",
+  "philippinesintalkswithseveralcountriesincludingsaudiarabiafo"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-28",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-10-28T11:15:18.099142+02:00",
+ "last_run": "2026-10-28T11:20:18.756290+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1476,6 +1476,10 @@
   {
    "d": "2026-10-28",
    "t": "Oil Prices Rise as Houthi Militants Target Saudi Energy - WSJ"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Philippines in talks with several countries, including Saudi Arabia, for oil storage - Reuters"
   }
  ]
 }
