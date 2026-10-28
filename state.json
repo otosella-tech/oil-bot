@@ -606,16 +606,16 @@
   "oilpricetodayoctober28crudeoilat116assaudiarabianrefinerycom"
  ],
  "releases_done": {},
- "last_digest": "2026-10-27",
+ "last_digest": "2026-10-28",
  "digest_prices": {
-  "WTI": 100.84,
-  "Brent": 109.86
+  "WTI": 101.57,
+  "Brent": 111.14
  },
  "llm": {
   "date": "2026-10-28",
-  "count": 36
+  "count": 42
  },
- "last_run": "2026-10-28T07:55:14.582579+02:00",
+ "last_run": "2026-10-28T08:00:29.390535+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
