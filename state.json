@@ -4,12 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "5870aab4ec4c81d4",
-  "currentpriceofoilasofoctober202026",
-  "f27f90470586e260",
-  "oilpricesdropdespitethreatofnewusstrikesoniran",
-  "f66efa9879643fbe",
-  "chinasindustrialprofitssurgemostinthreemonthsonoil",
   "0ce3b06466bbf430",
   "rupeetraderstestrbistoleranceformeasureddepreciation",
   "1fa31f5534d8734c",
@@ -603,7 +597,13 @@
   "65b4512000517f19",
   "indianstockscouldseenovemberreboundoilaitradeposerisks",
   "ba9a81ea8378abc6",
-  "exxonmobilcitgopetroleumacquiresshiploadofvenezuelancrudeoil"
+  "exxonmobilcitgopetroleumacquiresshiploadofvenezuelancrudeoil",
+  "39b38c7ba2746fc5",
+  "cathiewoodpredictsoilcrashingto3035abarrelasevstakeovertrans",
+  "90f614da73d969e5",
+  "globalsharesaremixedafterusstockrallyandoilpricesgainmoretha",
+  "da74d44a177e451a",
+  "uscrudeoilstockpilesfallmorethanexpected"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -615,7 +615,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T11:40:18.934744+02:00",
+ "last_run": "2026-10-28T11:45:18.552303+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
