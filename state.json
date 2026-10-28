@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "eaf2438e502e7477",
-  "184twby2035irenaraisesrenewablesgoalaspowerdemandclimbs",
-  "bf1ee51fa7633b38",
-  "stocksseesupportascrudeoilpriceseaseandfomcawaited",
   "7249c7ca1448f4b6",
   "indiarisksenergycrisisinflationsurgeifrussianoilimportsstopa",
   "60cd78c4045f426f",
@@ -603,7 +599,11 @@
   "c46e7d4797e8f7b6",
   "texanswillbeelectinganewregulatorofthestateshugeoilandgasind",
   "8226c87de74d87be",
-  "waroniranoilpriceshockdrovemostof2026riseinusinflationnewgre"
+  "waroniranoilpriceshockdrovemostof2026riseinusinflationnewgre",
+  "f12285c47cd91738",
+  "canadianoildiscountexceeds30amidgulfcoastpressures",
+  "95768da0b7acc372",
+  "oilpricesriseonyemenfightingsaudirefineryattackeuronextmarke"
  ],
  "releases_done": {
   "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T21:40:17.241910+02:00",
+ "last_run": "2026-10-28T21:45:18.503264+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1631,6 +1631,10 @@
   {
    "d": "2026-10-28",
    "t": "Oil prices rise on Yemen fighting, Saudi refinery attack - Yahoo! Finance Canada"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Oil prices rise on Yemen fighting, Saudi refinery attack - Euronext Markets: Real-time Stock Market Data | live"
   }
  ]
 }
