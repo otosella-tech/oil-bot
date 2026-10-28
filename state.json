@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "2d71cf24ac3481b3",
-  "crudeoilmoveslowercorningearningstopviews",
   "8cf808dc005fe208",
   "trumprubioexpectedtogreetfirstshipmentof1millionbarrelsofven",
   "067162d5e7ef3e5d",
@@ -603,7 +601,9 @@
   "f4158fc977f8909e",
   "uscrudeoilinventoriesdecreaseby19millionbarrels",
   "9cebccb2f89dd093",
-  "usnaturalgasproductionhitsnewrecordsasdemandsurges"
+  "usnaturalgasproductionhitsnewrecordsasdemandsurges",
+  "23b823325269ab65",
+  "oildeclinesastradersparsesignsoffreshdiplomacyoniran"
  ],
  "releases_done": {
   "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-10-29",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-10-29T00:10:17.642430+02:00",
+ "last_run": "2026-10-29T00:15:18.112190+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1535,6 +1535,10 @@
   {
    "d": "2026-10-29",
    "t": "U.S. Natural Gas Production Hits New Records as Demand Surges"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran - Bloomberg.com"
   }
  ]
 }
