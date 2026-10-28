@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 100.38,
-  "Brent": 109.47
+  "Brent": 111.72
  },
  "seen": [
-  "db02151b2cba6892",
-  "rupeeopensflatat9519againstthedollarastraderseyecrudeoilfedd",
   "bf7b42c674332cab",
   "oilpricesdiponiranpeacehopesbutsaudiattackskeepbrentnearsixm",
   "f86df72b6270d46c",
@@ -603,7 +601,9 @@
   "48496af9ce91042a",
   "oiltradersbraceforiranescalationafteruselections",
   "538c9eb595933890",
-  "oilupover2assaudiarabianrefineryattackreignitessupplyriskcon"
+  "oilupover2assaudiarabianrefineryattackreignitessupplyriskcon",
+  "d140a80d2f071ac0",
+  "sharesinasiariseafterarallyonwallstreetandoilpricesgainmoret"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -615,7 +615,7 @@
   "date": "2026-10-28",
   "count": 54
  },
- "last_run": "2026-10-28T09:55:14.190151+02:00",
+ "last_run": "2026-10-28T10:00:28.385428+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
