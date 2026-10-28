@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "ba894dba42ddf314",
-  "saudicrudeoilexportshitfivemonthhighinaugustdatashows",
   "5ff4d40b682d088f",
   "worldstocksgainaheadofformidableweekforriskoilpricesfall",
   "54913c7b83230d15",
@@ -603,7 +601,9 @@
   "9fcb44955c215020",
   "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility",
   "8f969ac7a7748c12",
-  "palmrisesonstrongercrudeoildaliansoyoil"
+  "palmrisesonstrongercrudeoildaliansoyoil",
+  "4fc701a789ac01ea",
+  "palmoiledgedupascrudeoilpricesfirmed"
  ],
  "releases_done": {
   "2026-10-27|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-28",
   "count": 24
  },
- "last_run": "2026-10-28T05:10:20.599510+02:00",
+ "last_run": "2026-10-28T05:15:17.103568+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
