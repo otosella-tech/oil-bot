@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "8eae41ac8a2488b4",
-  "updateusequityindexesmixedamidslidingtechnologymegacapscrude",
   "3234f67d149e4fc3",
   "currentpriceofoilasofoctober152026",
   "d67342b14ac79a68",
@@ -603,7 +601,9 @@
   "f520a704c9c1f3b2",
   "crudepricesecboutlookdampeneuropeanboursesmidday",
   "71cf7b8a2b007409",
-  "houthissaytheyattackedsaudioilpumpingstationsriyadhairportas"
+  "houthissaytheyattackedsaudioilpumpingstationsriyadhairportas",
+  "a640f4e082baccf6",
+  "oilpricesriseashouthiattacksonsaudirefineryraisesupplyworrie"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -615,7 +615,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T14:15:19.750975+02:00",
+ "last_run": "2026-10-28T14:20:19.648012+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1540,6 +1540,10 @@
   {
    "d": "2026-10-28",
    "t": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies - Reuters"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Oil prices rise as Houthi attacks on Saudi refinery raise supply worries - CNBC"
   }
  ]
 }
