@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "4a66eec13ec69e78",
-  "unitedstatesontrackforrecordcrudeoilproductionin2026",
   "da74d44a177e451a",
   "uscrudeoilstockpilesfallmorethanexpected",
   "a0f5a324da14d0b1",
@@ -603,7 +601,9 @@
   "3d1e07e745d1f007",
   "oilupover1assaudiarabianrefineryattackreignitessupplyriskcon",
   "b04aa1042ce0f8cc",
-  "goldeasesonhigheroilpricesaheadoffeddecision"
+  "goldeasesonhigheroilpricesaheadoffeddecision",
+  "a551f3b2e43e3de3",
+  "irancracksdownonsinokortankers"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -615,7 +615,7 @@
   "date": "2026-10-28",
   "count": 60
  },
- "last_run": "2026-10-28T11:30:23.216353+02:00",
+ "last_run": "2026-10-28T11:35:14.217180+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1488,6 +1488,10 @@
   {
    "d": "2026-10-28",
    "t": "Oil up over 1% as Saudi Arabian refinery attack reignites supply risk concerns - Reuters"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Iran Cracks Down on Sinokor Tankers - Rigzone"
   }
  ]
 }
