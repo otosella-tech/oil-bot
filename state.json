@@ -4,8 +4,6 @@
   "Brent": 109.47
  },
  "seen": [
-  "73181dfca83e3bfd",
-  "palmopensover1loweronweakrivaledibleoilscrudeoil",
   "744c34d90bdfb0f4",
   "commercialfishingcompanytopay100000foroilspilloffchannelisla",
   "8f70c1462537ba35",
@@ -603,7 +601,9 @@
   "3d8eeb8cdd9996e9",
   "trumpaimstoloosenmethanecontrolsonoilandgassector",
   "fdddb788caea593f",
-  "trumpdrasticallyrollsbackoilandgasmethanerules"
+  "trumpdrasticallyrollsbackoilandgasmethanerules",
+  "77759d890f8b1045",
+  "sauditankergiantposts10foldprofitjumpasshipratessurge"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-28",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-10-28T09:15:18.028936+02:00",
+ "last_run": "2026-10-28T09:20:18.447050+02:00",
  "sent_stories": [
   {
    "d": "2026-10-25",
@@ -1452,6 +1452,10 @@
   {
    "d": "2026-10-28",
    "t": "Sanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Saudi Tanker Giant Posts 10-Fold Profit Jump as Ship Rates Surge - Bloomberg.com"
   }
  ]
 }
