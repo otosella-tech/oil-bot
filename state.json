@@ -4,8 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "11d59c148f565e61",
-  "thisancientdentalroutineismakingacomebackonline",
   "40583da250086158",
   "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr",
   "eba95b65bd885949",
@@ -603,7 +601,9 @@
   "6113e0ba46dd2512",
   "currentpriceofoilasofoctober282026",
   "1c4a45356c444f22",
-  "bigoilearningsaresettosurgewhyinvestorsmaywanttobecautious"
+  "bigoilearningsaresettosurgewhyinvestorsmaywanttobecautious",
+  "7654d19b4aa6658e",
+  "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T20:40:47.628182+02:00",
+ "last_run": "2026-10-29T20:45:19.172311+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1692,6 +1692,10 @@
   {
    "d": "2026-10-29",
    "t": "Gulf Oil Giants Work to Expand Overseas Storage As War Exposes Supply Risks - WSJ"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries - CNBC"
   }
  ]
 }
