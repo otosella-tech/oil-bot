@@ -4,8 +4,6 @@
   "Brent": 111.51
  },
  "seen": [
-  "1c81c11e4e08b88b",
-  "equinorsprofitdoublesonsoaringoilandgaspricesraisesoutputtar",
   "3618028e816fe4d4",
   "ubssnewbrentpriceforecastsasmiddleeastsupplyrisksupportsoilp",
   "b33c42c4a213df8f",
@@ -603,7 +601,9 @@
   "1159f62422187261",
   "lasaysoildrillinghasnoplacewherewereliving",
   "cdf9bb4bcb161d03",
-  "doeplacesremainingvolumefromiealinkedsprcrudeoilpledge"
+  "doeplacesremainingvolumefromiealinkedsprcrudeoilpledge",
+  "80c2582825cd9ee7",
+  "usloans40millionbarrelsofoilfromsprinlastshareofglobalagreem"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T23:20:22.015600+02:00",
+ "last_run": "2026-10-29T23:25:16.002419+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1724,6 +1724,10 @@
   {
    "d": "2026-10-29",
    "t": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "US loans 40 million barrels of oil from SPR, in last share of global agreement - Reuters"
   }
  ]
 }
