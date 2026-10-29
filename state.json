@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "d03a6c1042b64849",
-  "oilfuturesfallasmarketholdsouthopeformiddleeastdiplomacy",
   "a016c27a0f4a2e7f",
   "iranrussiaeyejointoilandgasprojectsamidusblockade",
   "78cc061b76d9c175",
@@ -603,7 +601,9 @@
   "386108823135aea6",
   "oilprices281026",
   "1e8a58698c005684",
-  "gevernovaexpandsinhighvoltagegridgearwithtrenchdeal"
+  "gevernovaexpandsinhighvoltagegridgearwithtrenchdeal",
+  "b89ca4622dceb3b8",
+  "eiareportsadeclineinuscrudeoilstocks"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 16
  },
- "last_run": "2026-10-29T07:20:17.820929+02:00",
+ "last_run": "2026-10-29T07:25:14.637680+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
