@@ -4,8 +4,6 @@
   "Brent": 111.51
  },
  "seen": [
-  "dceb1a09656f9910",
-  "crudeoiliskeepingthebullishbiasbystayingabovethe100200hourma",
   "37e92466eaaac285",
   "uaereportedlyoffersindonesia30millionbarrelsofcrudeoilwithfr",
   "51158a06978a3b61",
@@ -603,7 +601,9 @@
   "4d281cda85199b81",
   "trumpsrussiandieselisalegalhotpotatowithafiveyearfuse",
   "0f8a175d631d53d5",
-  "whatsnextforglobalnaturalgasdemand"
+  "whatsnextforglobalnaturalgasdemand",
+  "88af464b9c71115d",
+  "gulfoilproducersbuildtankerfleetassecurityrisksmountaroundho"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-30",
-  "count": 5
+  "count": 7
  },
- "last_run": "2026-10-30T01:00:28.353044+02:00",
+ "last_run": "2026-10-30T01:05:14.248866+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1368,6 +1368,10 @@
   {
    "d": "2026-10-30",
    "t": "Iran Eyes $130 Oil While at Least 50 Tankers Sit Stuck in the Gulf - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Gulf Oil Producers Build Tanker Fleet as Security Risks Mount Around Hormuz - Marine News Magazine"
   }
  ]
 }
