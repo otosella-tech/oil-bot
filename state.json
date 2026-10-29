@@ -4,8 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "aeb2c4f1f544cefd",
-  "indiasgasolinedemandcouldpeakby2035asevsgainground",
   "6113e0ba46dd2512",
   "currentpriceofoilasofoctober282026",
   "70833c43473164bf",
@@ -603,7 +601,9 @@
   "87621024c5e72be3",
   "uspushesnuclearenergyexpansionincentralasiaandcaucasus",
   "e96652671ab37684",
-  "embraceskinimalismwithcrudesoilcleansingstarterkit"
+  "embraceskinimalismwithcrudesoilcleansingstarterkit",
+  "aa8763e44c449314",
+  "crudeoilmoveslowercaterpillarsharesfallfollowingq3results"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T20:30:26.200904+02:00",
+ "last_run": "2026-10-29T20:35:14.249699+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
