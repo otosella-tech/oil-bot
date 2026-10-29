@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "2ea1ab4406181979",
-  "currentpriceofoilasofoct262026",
   "c486687e4cf4efcd",
   "americanshithardestbywardrivenoilpricesurge",
   "14ec470bb8589cc2",
@@ -603,7 +601,9 @@
   "c435d68c7f4d31f2",
   "oilfallsasdiplomacyhopesoutweighmiddleeastescalationfears",
   "2b6a5af7f7236a58",
-  "shellpostshighestquarterlyprofitsince2022hikesbuybacks"
+  "shellpostshighestquarterlyprofitsince2022hikesbuybacks",
+  "9b1af86db2a00b14",
+  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 38
  },
- "last_run": "2026-10-29T12:20:20.478044+02:00",
+ "last_run": "2026-10-29T12:25:14.612630+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
