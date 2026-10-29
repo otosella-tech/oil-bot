@@ -4,8 +4,6 @@
   "Brent": 111.51
  },
  "seen": [
-  "2297ee5ec451212a",
-  "crudeoilpriceforecastoilsuppliesremaintight",
   "631c43fb9fd72a30",
   "oilpricesfallastradershopefordiplomaticprogressinmiddleeast",
   "dceb1a09656f9910",
@@ -603,7 +601,9 @@
   "30ca341a04edb6d7",
   "refinerydisruptionsandrisingproductionpushwcsdiscounttomulti",
   "9a5edc815056b476",
-  "iraneyes130oilwhileatleast50tankerssitstuckinthegulf"
+  "iraneyes130oilwhileatleast50tankerssitstuckinthegulf",
+  "4d281cda85199b81",
+  "trumpsrussiandieselisalegalhotpotatowithafiveyearfuse"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-30",
-  "count": 4
+  "count": 5
  },
- "last_run": "2026-10-30T00:55:14.370188+02:00",
+ "last_run": "2026-10-30T00:59:03.336314+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
