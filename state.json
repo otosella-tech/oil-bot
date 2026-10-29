@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "78cc061b76d9c175",
-  "machadosreturnexposesfaultlineinvenezuelasoilsector",
   "4ce2e5ee1787680a",
   "oilfallsalmost2asmiddleeasttalkshelpeasesupplyworries",
   "eff08eaa0a48ecd7",
@@ -603,7 +601,9 @@
   "b89ca4622dceb3b8",
   "eiareportsadeclineinuscrudeoilstocks",
   "243f23adadad9d54",
-  "ahiddentripletopinoilpricechartssuggeststherallyhasrunoutofg"
+  "ahiddentripletopinoilpricechartssuggeststherallyhasrunoutofg",
+  "7389417a9ef11e0a",
+  "venezuelasoilrevivalthreatenedbyworkershortage"
  ],
  "releases_done": {},
  "last_digest": "2026-10-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-29",
-  "count": 16
+  "count": 18
  },
- "last_run": "2026-10-29T07:30:21.821747+02:00",
+ "last_run": "2026-10-29T07:35:23.462821+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1560,6 +1560,10 @@
   {
    "d": "2026-10-29",
    "t": "As Trump brags about U.S. oil and gas company profits, his stocks gained millions during Iran war - CBS News"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Venezuela’s oil revival threatened by worker shortage - Financial Times"
   }
  ]
 }
