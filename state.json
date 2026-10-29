@@ -4,12 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "12a237ad480513ca",
-  "japaneseyenremainssubduedashigheroilincreasesimportcosts",
-  "8e59c9b299f013c5",
-  "aaanationalaveragecontinuestofallcrudeoilkeepsclimbing",
-  "40bda9e87a1b23cb",
-  "brentcrudeoiltops116asixmonthhighastensionsswellinthemiddlee",
   "737ce7f0e857e232",
   "stocksseesupportaheadofbusyweekascrudeoilpricesease",
   "5109d6582359054b",
@@ -603,7 +597,13 @@
   "5dd2c58028d944da",
   "donaldtrumpvenezuelanoilandthe51ststate",
   "e887625f16eae47c",
-  "yourthursdayoct29guidefivethingstodointheoilcity"
+  "yourthursdayoct29guidefivethingstodointheoilcity",
+  "def05def98cae8d8",
+  "currentpriceofoilasofoct292026",
+  "4b304bb89e8cb526",
+  "theoilmarketshouldbraceforaforeverstalemateiniran",
+  "a8af6815df727792",
+  "trumptoutsvenezuelanoilattexasrallyaheadofusmidterms"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-29",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-10-29T15:05:15.523538+02:00",
+ "last_run": "2026-10-29T15:10:18.783012+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1640,6 +1640,10 @@
   {
    "d": "2026-10-29",
    "t": "Brent Falls to $114.05 as Iran Peace Initiatives and Supply Developments Influence Oil Trading - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "The Oil Market Should Brace for a Forever Stalemate in Iran - Bloomberg.com"
   }
  ]
 }
