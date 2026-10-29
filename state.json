@@ -4,10 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "485ce8931d0961b8",
-  "oilpricesincreaseafterattackonsaudirefinery",
-  "f889608d03ff8870",
-  "currentpriceofoilasofoctober162026",
   "fb15271729b128c0",
   "currentpriceofoilasofoctober192026",
   "3234f67d149e4fc3",
@@ -603,7 +599,11 @@
   "05e4c6fc2ef14765",
   "the100levelisoursforawhileoilwontbegettingcheapanytimesoonno",
   "1839add8000642fd",
-  "sevenoiltankerscarrying288000tonnesofrussiandieselsailtoward"
+  "sevenoiltankerscarrying288000tonnesofrussiandieselsailtoward",
+  "795be9a31d1e55cc",
+  "presidenttrumpannouncesarrivaloffirstonemillionbarrelsofoili",
+  "d5cd5cc14c5507bc",
+  "epamethaneproposaltargetsenergycostsandproductionrfd"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T21:40:19.838839+02:00",
+ "last_run": "2026-10-29T21:45:20.247749+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
