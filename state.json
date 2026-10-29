@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "3816540f159d3e41",
-  "crudeoildropsonmiddleeastdiplomacyhopes",
-  "90d220f4e424999b",
-  "trumpcontinuescallsforvenezuelatobe51ststate",
   "b28d7ca368aff85e",
   "willrubiosjamnagarmovepermanentlybreaktherussia",
   "975917d74d9aa103",
@@ -603,7 +599,11 @@
   "8837489f2a283a41",
   "currentpriceofoilasofoctober232026",
   "fe3ecc8472a77eb6",
-  "ineasternmontanaanewoilpipelinecomeswithperilsandapotentialp"
+  "ineasternmontanaanewoilpipelinecomeswithperilsandapotentialp",
+  "62672838af09fdbd",
+  "oilpricesfallasrenewedusiranpeaceeffortseasesupplyfears",
+  "75115d7bdf1691e4",
+  "repsolsninemonthprofitsurgesto5billionasoilpricesrise"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-29",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-10-29T10:55:14.253492+02:00",
+ "last_run": "2026-10-29T11:00:30.045794+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1580,6 +1580,14 @@
   {
    "d": "2026-10-29",
    "t": "Spain's Repsol hikes buybacks, guidance as Q3 profit soars above expectations - Reuters"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears - CNBC"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Repsol's nine-month profit surges to €5 billion as oil prices rise - Yahoo Finance"
   }
  ]
 }
