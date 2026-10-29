@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "412cfada852ab7d5",
-  "stocksriseaheadoftechearningsfeddecision",
   "6e8e299805058160",
   "americanshithardestbywar",
   "69577ac8761ed427",
@@ -603,7 +601,9 @@
   "b5376bdd11df981d",
   "oilspilloffuaecoastpromptsbeachclosuresandraisesconcernsover",
   "6607dda38682a8a6",
-  "howcouldtheoilspillofftheuaecoastaffectdesalinationplants"
+  "howcouldtheoilspillofftheuaecoastaffectdesalinationplants",
+  "0367ee7b0e381991",
+  "totalenergiesthirdquarterprofitsurgesonrefiningincome"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-29",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-10-29T11:50:17.438841+02:00",
+ "last_run": "2026-10-29T11:55:16.835578+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1596,6 +1596,10 @@
   {
    "d": "2026-10-29",
    "t": "Sinopec’s Third-Quarter Profits Soar on Higher Oil Prices - Bloomberg"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "TotalEnergies third-quarter profit surges on refining income - Reuters"
   }
  ]
 }
