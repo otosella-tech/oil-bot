@@ -4,10 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "0e13954a2660b78a",
-  "watchlivetrumpcampaignsforkenpaxtonatralliesintexas",
-  "4dd88a41f3f94630",
-  "trumpannouncesrelaxedrulesonoilfirmsmethaneleaks",
   "7ed18dfa960f07ed",
   "trumpannouncesproposaltoloosenmethanerulesforoilandgasproduc",
   "fe7947a8f8b70259",
@@ -603,7 +599,11 @@
   "ae831e254f7d52b2",
   "bitcoinanalysisthechartthatcouldmakeorbreakbtc",
   "14ec470bb8589cc2",
-  "trumpshowsofftankerwith1mbarrelsofoilandfloatsvenezuelaas51s"
+  "trumpshowsofftankerwith1mbarrelsofoilandfloatsvenezuelaas51s",
+  "d1a63eac6f8629ec",
+  "exxonsreportlandsaftertrumpcalledtheoilspikeafreakingfortune",
+  "2cbbc0d276967cb2",
+  "oilmajorsreapbumperprofitsasmideastwardrivesprices"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-29",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-10-29T13:15:18.840670+02:00",
+ "last_run": "2026-10-29T13:20:20.768366+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1616,6 +1616,14 @@
   {
    "d": "2026-10-29",
    "t": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state - The Guardian"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Exxon’s Report Lands After Trump Called the Oil Spike “A Freaking Fortune”. Here’s the Number to Watch - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Oil majors reap bumper profits as Mideast war drives prices - Yahoo Finance UK"
   }
  ]
 }
