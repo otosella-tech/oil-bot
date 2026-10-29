@@ -4,8 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "eb8b026882ac3ea4",
-  "equinorprofitdoublesonsoaringoilandgaspricesseeshigheroutput",
   "7d4ada674fa03fa1",
   "trumpdebutsoilrulerollbackastexaswobblestowardblue",
   "14316a77a22a9c0c",
@@ -603,7 +601,9 @@
   "76a04c1593b60b60",
   "oilpricesriseafterhouthiattacknearsaudiarabiasrastanuratermi",
   "9d85733552493931",
-  "existingfossilfuelsthreatenpollution7xthe15ccarbonbudget"
+  "existingfossilfuelsthreatenpollution7xthe15ccarbonbudget",
+  "c1e84423f4283cae",
+  "stocksparetechledlossescrudeoildeclinesmarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T16:10:19.130371+02:00",
+ "last_run": "2026-10-29T16:15:20.126367+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
