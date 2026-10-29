@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "8d72d07ec236f7f9",
-  "oilsettlesloweronpeacehopessaudiattackslimitlosses",
   "ab6d5bdd76cb52f9",
   "oilreboundsashouthiattacksonsaudiarabiaovershadowdiplomatice",
   "9fcb44955c215020",
@@ -603,7 +601,9 @@
   "cec7e3376d424a7a",
   "sinopecsthirdquarterprofitjumps57onhigheroilpricesrefiningma",
   "9d6f7dcb5970fc2f",
-  "crudeoilinventoriespostsmallerdeclinethanforecastnewsandstat"
+  "crudeoilinventoriespostsmallerdeclinethanforecastnewsandstat",
+  "9d9a1dc1573e333c",
+  "dnoislookingatexportingoilfromkurdistanregionofiraqviasyria"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-29",
-  "count": 52
+  "count": 54
  },
- "last_run": "2026-10-29T14:00:31.004761+02:00",
+ "last_run": "2026-10-29T14:05:15.143299+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1632,6 +1632,10 @@
   {
    "d": "2026-10-29",
    "t": "Sinopec's third-quarter profit jumps 57% on higher oil prices, refining margins - Reuters"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "DNO is looking at exporting oil from Kurdistan region of Iraq via Syria - Yahoo Finance UK"
   }
  ]
 }
