@@ -4,12 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "a2ce9c4802f8ec81",
-  "highoilpriceshaveseverallatinamericangovernmentsfeelingthefi",
-  "7526ee7e95609d85",
-  "crudeoilinventoriesdroplessthanexpectedimpactingprices",
-  "f624cde02b196ead",
-  "trumpshowcasesvenezuelanoilasheseekstorallyvotersintexas",
   "8837489f2a283a41",
   "currentpriceofoilasofoctober232026",
   "353685124511b69a",
@@ -603,7 +597,13 @@
   "ad9994a0ec52b53a",
   "shellliftsbuybackashighoilpricedrivesbumperprofits",
   "70ccc3b94826b385",
-  "bullofthedayenie"
+  "bullofthedayenie",
+  "92973541c5231368",
+  "shellreportssecondhighestprofiteverasrefininghitsrecord",
+  "e1335ba05fe6cf7d",
+  "shellprofitsdoubleto108bnasiranwarpushesupprofitmarginonoil",
+  "beb86ce98051066a",
+  "trumptogreetvenezuelanoilshipmentcallingitagifttheuspaidfori"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-29",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-10-29T10:30:23.525185+02:00",
+ "last_run": "2026-10-29T10:35:14.928403+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1568,6 +1568,14 @@
   {
    "d": "2026-10-29",
    "t": "Oil Prices Fall as Vance Moves to Restart Iran Peace Talks"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Shell profits double to $10.8bn as Iran war pushes up profit margin on oil - The Guardian"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Trump to greet Venezuelan oil shipment, calling it a ‘gift.’ The U.S. paid for it. - The Washington Post"
   }
  ]
 }
