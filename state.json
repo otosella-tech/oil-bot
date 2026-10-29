@@ -4,8 +4,6 @@
   "Brent": 111.51
  },
  "seen": [
-  "32c0ecd5701687f6",
-  "crudeoilinventoriesfalllessthanexpectedimpactingoilprices",
   "0b35cbcc580c2025",
   "ustotalweeklyeiacrudeoilstocksfallby20millionbarrelsafterpri",
   "08a687ccbccf070d",
@@ -603,7 +601,9 @@
   "631c43fb9fd72a30",
   "oilpricesfallastradershopefordiplomaticprogressinmiddleeast",
   "5109d6582359054b",
-  "insidetheallegedirgcintelligencetakeoverofiranssanctionedoil"
+  "insidetheallegedirgcintelligencetakeoverofiranssanctionedoil",
+  "99c819d6631b1ed0",
+  "6000barrelsofoilleakedintobayoudesallmendsinlafourcheparish"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 8
  },
- "last_run": "2026-10-30T01:40:17.095752+02:00",
+ "last_run": "2026-10-30T01:45:18.864039+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
