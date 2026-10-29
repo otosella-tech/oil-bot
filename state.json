@@ -4,8 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "d09b7a0d173d5fda",
-  "indianequitybenchmarksinchlowerasoilclimbsjiomakesstrongdebu",
   "33a23ddeb0cf2eb0",
   "commentarycanadatakesapagefromthesaudioilplaybook",
   "2cc84f3a4422ffc2",
@@ -603,7 +601,9 @@
   "1829b3fd5b72e179",
   "sinopecthirdquarterprofitjumps64asoilpricesclimb",
   "75aaf0ba16bfae86",
-  "exclusivechevronisbacktosearchingforoilandgasinfarflungplace"
+  "exclusivechevronisbacktosearchingforoilandgasinfarflungplace",
+  "86417207fdf00233",
+  "saudiarabiatostoreoilinsingaporetobolsterasiasupplysecurity"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T18:40:19.880577+02:00",
+ "last_run": "2026-10-29T18:45:21.558467+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1684,6 +1684,10 @@
   {
    "d": "2026-10-29",
    "t": "Sinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Saudi Arabia to store oil in Singapore to bolster Asia supply security - Reuters"
   }
  ]
 }
