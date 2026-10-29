@@ -1,25 +1,9 @@
 {
  "price_base": {
-  "WTI": 102.39,
-  "Brent": 111.72
+  "WTI": 100.06,
+  "Brent": 109.28
  },
  "seen": [
-  "58f431e6edb1279c",
-  "oilpricesup271026",
-  "9ec0a7b7fa4d65ae",
-  "brentcrudeoilwaveanalysis",
-  "babc79394f421425",
-  "whysaudijustabandoneditscoreoilrule",
-  "5431b75f296ef9f8",
-  "oilrisesover1aftersaudiarabianrefineryattackreignitessupplyr",
-  "6947d60e4b4f1613",
-  "trumpputsspotlightonvenezuelanoilwithstopincorpuschristi",
-  "be8c6fe8f2fdcff9",
-  "oilfuturescrudebenchmarkshigheronrisinggeopoliticalconcerns",
-  "e944b042051d1ccb",
-  "sanctionedoiltankersfindalucrativenewtradeinthepersiangulf",
-  "cf4d0fe53edcc86e",
-  "chinarefinerstapafricanbrazilianoilasfreightratesfall",
   "3e106661df1b9b4f",
   "firstvenezuelanoilcargoarrivesinusunderdiscounteddeal",
   "3d8eeb8cdd9996e9",
@@ -603,7 +587,23 @@
   "d0a70e04c97c7a1d",
   "crudeoilfluctuatesathighsanoderawmaterialcokepricesinstalema",
   "5fb85ec93b573d3f",
-  "russiasshadowfleetcantheeuacteveniftheuseasessanctionsonthes"
+  "russiasshadowfleetcantheeuacteveniftheuseasessanctionsonthes",
+  "737ce7f0e857e232",
+  "stocksseesupportaheadofbusyweekascrudeoilpricesease",
+  "abdacadb84a263a3",
+  "stocksrallyaheadofbusyweekascrudeoilpricesease",
+  "9fcb44955c215020",
+  "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility",
+  "e62f01cb55a98bed",
+  "currentpriceofoilasofoctober142026",
+  "33a2621d67d0474a",
+  "refineryoutagespumpingupfuelpricesmorethancostofcrudeoil",
+  "d5a4b2e2f54441e5",
+  "thecostofshippingatankerofcrudeoilhasskyrocketedduetowar",
+  "65c486849d61bd11",
+  "commentarytheoilmarketthatsetstodaysgaspriceswasinventedinwe",
+  "da4cbea1e0f64a7d",
+  "oilpricesgainonattacksinsaudiarabiairansnewtacticstotargetta"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T15:40:22.424438+02:00",
+ "last_run": "2026-10-29T15:45:19.391058+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1652,6 +1652,18 @@
   {
    "d": "2026-10-29",
    "t": "Russia's shadow fleet: Can the EU act even if the US eases sanctions on these ships? - DW.com"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "The cost of shipping a tanker of crude oil has skyrocketed due to war - Marketplace.org"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers - Reuters"
   }
  ]
 }
