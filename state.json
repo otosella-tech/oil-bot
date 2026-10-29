@@ -4,8 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "65b4512000517f19",
-  "indianstockscouldseenovemberreboundoilaitradeposerisks",
   "ba9a81ea8378abc6",
   "exxonmobilcitgopetroleumacquiresshiploadofvenezuelancrudeoil",
   "39b38c7ba2746fc5",
@@ -603,7 +601,9 @@
   "afa302b4e668bfbd",
   "crudeoilpricesfallonvanceoutreachtoiran",
   "f99240fa58724957",
-  "europewillrelease42millionbarrelsofoilreservesoverthreemonth"
+  "europewillrelease42millionbarrelsofoilreservesoverthreemonth",
+  "b31c4119b383cb2e",
+  "ukbudgetsignalswaveofnewnorthseaoilandgasdrilling"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T17:55:14.527795+02:00",
+ "last_run": "2026-10-29T18:00:32.874477+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
