@@ -4,10 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "ba9a81ea8378abc6",
-  "exxonmobilcitgopetroleumacquiresshiploadofvenezuelancrudeoil",
-  "39b38c7ba2746fc5",
-  "cathiewoodpredictsoilcrashingto3035abarrelasevstakeovertrans",
   "90f614da73d969e5",
   "globalsharesaremixedafterusstockrallyandoilpricesgainmoretha",
   "da74d44a177e451a",
@@ -603,7 +599,11 @@
   "f99240fa58724957",
   "europewillrelease42millionbarrelsofoilreservesoverthreemonth",
   "b31c4119b383cb2e",
-  "ukbudgetsignalswaveofnewnorthseaoilandgasdrilling"
+  "ukbudgetsignalswaveofnewnorthseaoilandgasdrilling",
+  "bc9ea0331b321bfb",
+  "oilpricesfallastradersweighusirandiplomacy",
+  "ba89a1c4d2a6ee67",
+  "howbadpolicieswillmakethiswintermoreexpensivethanusual"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T18:00:32.874477+02:00",
+ "last_run": "2026-10-29T18:05:15.225320+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1668,6 +1668,10 @@
   {
    "d": "2026-10-29",
    "t": "Oil prices rise after Houthi attack near Saudi Arabia’s Ras Tanura Terminal - safety4sea"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy - WSJ"
   }
  ]
 }
