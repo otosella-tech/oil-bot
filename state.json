@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "1db48dfc283a8be3",
-  "usequityindexesriseasmegacaptechadvanceswhilecrudeoildrops",
   "5ac214e79e870935",
   "saudiaramcooffersdiscountedoiltoeuropeasexportsrecover",
   "54870b7560f06fc5",
@@ -603,7 +601,9 @@
   "e2fd8e51d8a64dc8",
   "peacetalkswontsaveoilbuyersfrom100plusoil",
   "67772de2912ff1af",
-  "recordtankerratescrippleuscrudeoilflowstoasia"
+  "recordtankerratescrippleuscrudeoilflowstoasia",
+  "e51d94bf9ca87e80",
+  "decemberwticrudeoilcontractclosesup288or29settlesat10278perb"
  ],
  "releases_done": {
   "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-29",
   "count": 8
  },
- "last_run": "2026-10-29T02:40:17.836127+02:00",
+ "last_run": "2026-10-29T02:45:17.802480+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
