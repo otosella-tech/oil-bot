@@ -4,8 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "90f614da73d969e5",
-  "globalsharesaremixedafterusstockrallyandoilpricesgainmoretha",
   "da74d44a177e451a",
   "uscrudeoilstockpilesfallmorethanexpected",
   "3b62292a306f1640",
@@ -603,7 +601,9 @@
   "bc9ea0331b321bfb",
   "oilpricesfallastradersweighusirandiplomacy",
   "ba89a1c4d2a6ee67",
-  "howbadpolicieswillmakethiswintermoreexpensivethanusual"
+  "howbadpolicieswillmakethiswintermoreexpensivethanusual",
+  "df1005fc9a331c71",
+  "exxonmobilcitgopetroleumacquiresshiploadofvenezuelancrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T18:05:15.225320+02:00",
+ "last_run": "2026-10-29T18:10:19.430045+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1672,6 +1672,10 @@
   {
    "d": "2026-10-29",
    "t": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy - WSJ"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Exxon Mobil, Citgo Petroleum Acquires Shipload of Venezuelan Crude Oil to Refine - Yahoo Finance"
   }
  ]
 }
