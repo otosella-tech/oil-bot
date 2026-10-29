@@ -4,12 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "71cf7b8a2b007409",
-  "houthissaytheyattackedsaudioilpumpingstationsriyadhairportas",
-  "a640f4e082baccf6",
-  "oilpricesriseashouthiattacksonsaudirefineryraisesupplyworrie",
-  "9f83ce8a898a993c",
-  "bahriprofithits136billionastheworldscramblesfortankers",
   "e1b2717506e60064",
   "europeangasandoilpricesriseafterspeculationovernewattacksinm",
   "795be9a31d1e55cc",
@@ -603,7 +597,13 @@
   "d39fbead0d54a4a1",
   "crudeoilgainsmorethan1assaudirefineryclaimandusinventorydecl",
   "5477ccee6b8caca3",
-  "oilpricesjump3onhouthiattacksoilspillhighestsettlementsincea"
+  "oilpricesjump3onhouthiattacksoilspillhighestsettlementsincea",
+  "0cefa1291830cc5e",
+  "currentpriceofoilasofoctober82026",
+  "325e74fa4458e7df",
+  "currentpriceofoilasofoctober132026",
+  "bde8e2ff57e67003",
+  "currentpriceofoilasofoctober72026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T21:25:15.493051+02:00",
+ "last_run": "2026-10-29T21:30:24.562616+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
