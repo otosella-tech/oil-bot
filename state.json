@@ -4,8 +4,6 @@
   "Brent": 111.51
  },
  "seen": [
-  "a87fcd782f36bf5c",
-  "uslawmakerswarnbanksagainsttrumpsrussiandieseldeal",
   "30067ee4c4492a38",
   "trumpcelebratesgreatestoilvictoryinhistorywith1millionbarrel",
   "18af5b944b61190d",
@@ -603,7 +601,9 @@
   "28e5d9f402c030b2",
   "onehundredthirtymilessouthofneworleansaplatformbuiltfor500mi",
   "6ae6221530ff3bf8",
-  "crudeoiltransportationarchives"
+  "crudeoiltransportationarchives",
+  "c5c46134b299a830",
+  "trumpsrussiandieselisalegalhotpotatowithafive"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T22:55:14.133743+02:00",
+ "last_run": "2026-10-29T23:00:31.195593+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1720,6 +1720,10 @@
   {
    "d": "2026-10-29",
    "t": "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran - WSJ"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse"
   }
  ]
 }
