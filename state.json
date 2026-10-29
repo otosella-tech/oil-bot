@@ -4,8 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "51a3557ce62f49ea",
-  "sensexdeclines353pointsdraggedbyrelianceitstocksrisingcrudeo",
   "d39fbead0d54a4a1",
   "crudeoilgainsmorethan1assaudirefineryclaimandusinventorydecl",
   "5477ccee6b8caca3",
@@ -603,7 +601,9 @@
   "a4865029c2b6b9ec",
   "stocksrallyascrudeoilpriceseaseandfomcresultsawaited",
   "44e480b8ae1944e4",
-  "bydearningsmissestimatesaschinasevpricewartakesitstoll"
+  "bydearningsmissestimatesaschinasevpricewartakesitstoll",
+  "2970425bca2b2dc6",
+  "crudeoilpricesfallonvpvanceoutreachtoiran"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T21:05:15.845013+02:00",
+ "last_run": "2026-10-29T21:10:18.901621+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
