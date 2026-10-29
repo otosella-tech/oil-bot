@@ -4,8 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "6113e0ba46dd2512",
-  "currentpriceofoilasofoctober282026",
   "70833c43473164bf",
   "oilpricesrisemorethan1asreportedsaudirefineryattackrenewssup",
   "7654d19b4aa6658e",
@@ -603,7 +601,9 @@
   "e96652671ab37684",
   "embraceskinimalismwithcrudesoilcleansingstarterkit",
   "aa8763e44c449314",
-  "crudeoilmoveslowercaterpillarsharesfallfollowingq3results"
+  "crudeoilmoveslowercaterpillarsharesfallfollowingq3results",
+  "7917af3ac06b2ea8",
+  "whitecaprideshighoilpricesbanksthecash"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T20:35:14.249699+02:00",
+ "last_run": "2026-10-29T20:40:18.595123+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
