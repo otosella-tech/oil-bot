@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "148a35f94a53a4c9",
-  "trumppromotesoilproductionintexaswheredemocratsdreamofbreakt",
   "4f33ddb28305a61d",
   "currentpriceofoilasofoctober222026",
   "f9654f541f32f827",
@@ -603,7 +601,9 @@
   "5fa6832c9a1c19d8",
   "shellnearlydoublesquarterlyprofityearonyearasrefiningmargins",
   "08cb67bdd6b064df",
-  "presidenttrumpannouncesepaupdatestooilandnaturalgasregulatio"
+  "presidenttrumpannouncesepaupdatestooilandnaturalgasregulatio",
+  "9249b6e3c437a609",
+  "firstvenezuelanoilfromusnabepdealarrivesintexastobesoldtoexx"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-29",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-10-29T12:30:25.599947+02:00",
+ "last_run": "2026-10-29T12:35:15.843916+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1604,6 +1604,10 @@
   {
    "d": "2026-10-29",
    "t": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high - CNBC"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "First Venezuelan oil from US-NABEP deal arrives in Texas, to be sold to Exxon, Citgo - Reuters"
   }
  ]
 }
