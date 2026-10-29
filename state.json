@@ -4,16 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "fe7947a8f8b70259",
-  "oilpricestodaybrentcrudebackabove115whatsdrivingtherebound",
-  "c85abdeb2939417f",
-  "oilpricesriseafterattackonsaudiarabianrefineryreignitessuppl",
-  "a62341defe9a350e",
-  "asianstockssettogainonresurgentaioptimismmarketswrap",
-  "7dfc381a83bcfdc2",
-  "venezuelanoilimportwillmitigatethetemporaryspikeinenergypric",
-  "4f25682a63189191",
-  "thecommoditiesfeedoilinwaitandseemodeaheadofusmidterms",
   "e195d215a6f29681",
   "trumpsayshesendingrestrictionsonclimatewarmingmethanefromoil",
   "6bd45fe129737403",
@@ -603,7 +593,17 @@
   "2cbbc0d276967cb2",
   "oilmajorsreapbumperprofitsasmideastwardrivesprices",
   "79ca8eef5948c6e4",
-  "theneverendingabsurdityofglobaloilmarkets"
+  "theneverendingabsurdityofglobaloilmarkets",
+  "c8d559feefd916fa",
+  "totalenergiesprofitdoublesaswarboostsrefiningandtrading",
+  "29b208c08bedcf18",
+  "shellprofitsnearlydoubleto108billionasrefiningmarginshitreco",
+  "cf63c6d402067b8e",
+  "indiansharesriseafterfedholdsratessteadyearningsledgainsboos",
+  "87c1ae3d4b546e46",
+  "uscrudeoilinventoriesfallby19millionbarrelsasproductionrises",
+  "1f6eaec15e3dd2c3",
+  "calgaryenergyproducerwhitecapreportsspikingrevenuesprofitson"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-29",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-10-29T13:25:15.307903+02:00",
+ "last_run": "2026-10-29T13:30:25.756353+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1624,6 +1624,10 @@
   {
    "d": "2026-10-29",
    "t": "Oil majors reap bumper profits as Mideast war drives prices - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "TotalEnergies Profit Doubles as War Boosts Refining and Trading"
   }
  ]
 }
