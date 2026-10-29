@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "353685124511b69a",
-  "goldrisesasloweroilpriceseaseinflationfearsaheadoffedmeeting",
   "596358d9663e69b8",
   "trumpplanstorelaxmethaneemissionrestrictionsforoilcompanies",
   "1c2a064531ebc460",
@@ -603,7 +601,9 @@
   "beb86ce98051066a",
   "trumptogreetvenezuelanoilshipmentcallingitagifttheuspaidfori",
   "ef2fa5dd69a452e8",
-  "kotakraisesfy27crudeoilpriceforecasttousd100amid8monthsupply"
+  "kotakraisesfy27crudeoilpriceforecasttousd100amid8monthsupply",
+  "0c2bbb5446530bc4",
+  "spainsrepsolhikesbuybacksguidanceasq3profitsoarsaboveexpecta"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-29",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-10-29T10:40:18.637644+02:00",
+ "last_run": "2026-10-29T10:45:19.937480+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1576,6 +1576,10 @@
   {
    "d": "2026-10-29",
    "t": "Trump to greet Venezuelan oil shipment, calling it a ‘gift.’ The U.S. paid for it. - The Washington Post"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Spain's Repsol hikes buybacks, guidance as Q3 profit soars above expectations - Reuters"
   }
  ]
 }
