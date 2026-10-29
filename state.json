@@ -4,8 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "150c964825c93a89",
-  "chinaswindandsolarpowercapacitysurpasses2terawatts",
   "86417207fdf00233",
   "saudiarabiatostoreoilinsingaporetobolsterasiasupplysecurity",
   "d09b7a0d173d5fda",
@@ -603,7 +601,9 @@
   "da74d44a177e451a",
   "uscrudeoilstockpilesfallmorethanexpected",
   "536399edf217c6c7",
-  "sinopecthird"
+  "sinopecthird",
+  "1829b3fd5b72e179",
+  "sinopecthirdquarterprofitjumps64asoilpricesclimb"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T18:30:23.280870+02:00",
+ "last_run": "2026-10-29T18:35:16.159998+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
@@ -1680,6 +1680,10 @@
   {
    "d": "2026-10-29",
    "t": "Sinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Sinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
