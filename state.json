@@ -4,8 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "3234f67d149e4fc3",
-  "currentpriceofoilasofoctober152026",
   "eaf356f287612f04",
   "techstockserase1trillionofwealthasoilsurgesto110forthefirstt",
   "e81e2aaeca929740",
@@ -603,7 +601,9 @@
   "d5cd5cc14c5507bc",
   "epamethaneproposaltargetsenergycostsandproductionrfd",
   "ee4aa6ca04b5b03c",
-  "heatingoilpricescontinuetoclimbtorecordhighsinmaine"
+  "heatingoilpricescontinuetoclimbtorecordhighsinmaine",
+  "3c0c99e74f15c313",
+  "worldsfirstpermanentnuclearwastesitewinslicenseinfinland"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T21:55:13.904164+02:00",
+ "last_run": "2026-10-29T22:00:30.861236+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
