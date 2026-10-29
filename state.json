@@ -4,8 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "7d4ada674fa03fa1",
-  "trumpdebutsoilrulerollbackastexaswobblestowardblue",
   "14316a77a22a9c0c",
   "oilrisesmorethan1assupplyconcernspersist",
   "f1ab1a69b537e712",
@@ -603,7 +601,9 @@
   "9d85733552493931",
   "existingfossilfuelsthreatenpollution7xthe15ccarbonbudget",
   "c1e84423f4283cae",
-  "stocksparetechledlossescrudeoildeclinesmarketswrap"
+  "stocksparetechledlossescrudeoildeclinesmarketswrap",
+  "07dd5bfa2b21ceea",
+  "uknationalgridtoextendfrancepowerlinkoperationto2050"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T16:25:16.336379+02:00",
+ "last_run": "2026-10-29T16:30:26.385237+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
