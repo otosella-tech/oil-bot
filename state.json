@@ -4,8 +4,6 @@
   "Brent": 109.28
  },
  "seen": [
-  "a551f3b2e43e3de3",
-  "irancracksdownonsinokortankers",
   "65b4512000517f19",
   "indianstockscouldseenovemberreboundoilaitradeposerisks",
   "ba9a81ea8378abc6",
@@ -603,7 +601,9 @@
   "14ce2560fc91ad87",
   "europetorelease42millionbarrelsofoilreservesfrancesays",
   "afa302b4e668bfbd",
-  "crudeoilpricesfallonvanceoutreachtoiran"
+  "crudeoilpricesfallonvanceoutreachtoiran",
+  "f99240fa58724957",
+  "europewillrelease42millionbarrelsofoilreservesoverthreemonth"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-29",
   "count": 60
  },
- "last_run": "2026-10-29T17:40:18.610490+02:00",
+ "last_run": "2026-10-29T17:45:18.559792+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
