@@ -4,8 +4,6 @@
   "Brent": 111.72
  },
  "seen": [
-  "f391ed4600c20530",
-  "trumpsayshewillvisittankerintexaswithfirstoilfromvenezuelade",
   "388e46137a3598c4",
   "whathappenswhenamericaspowergridbecomesalastresort",
   "546466a711b3f4f8",
@@ -603,7 +601,9 @@
   "94c27407c307f112",
   "lapushesoildrillingshutdowndespiteindustrywarningsoflawsuits",
   "e2cdb082a7c79f80",
-  "saudiaramcooffersdiscountedoiltoeuropeasexportsrecover"
+  "saudiaramcooffersdiscountedoiltoeuropeasexportsrecover",
+  "8fd4a5f80eb9db5a",
+  "petrobrasoilandgasoutputjumps117torecordhighinq3"
  ],
  "releases_done": {
   "2026-10-28|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-29",
   "count": 10
  },
- "last_run": "2026-10-29T03:20:19.638272+02:00",
+ "last_run": "2026-10-29T03:25:14.212312+02:00",
  "sent_stories": [
   {
    "d": "2026-10-26",
