@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "d5a4b2e2f54441e5",
-  "thecostofshippingatankerofcrudeoilhasskyrocketedduetowar",
   "65c486849d61bd11",
   "commentarytheoilmarketthatsetstodaysgaspriceswasinventedinwe",
   "da4cbea1e0f64a7d",
@@ -603,7 +601,9 @@
   "fc2e85b7036d89fe",
   "oilheadedfor14monthlyincreaseaslimpetminesaddedtoescalatingm",
   "b6b7e5c18037e02c",
-  "canadiandollarextendsmonthlygainashigheroilpricesraiseinflat"
+  "canadiandollarextendsmonthlygainashigheroilpricesraiseinflat",
+  "b3a83729bd362acd",
+  "abarrelofoilcanbeworth100butcost130todeliverwhogetstheextra3"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T21:20:20.003687+02:00",
+ "last_run": "2026-10-30T21:25:19.228730+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
