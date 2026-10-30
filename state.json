@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "da4cbea1e0f64a7d",
-  "oilpricesgainonattacksinsaudiarabiairansnewtacticstotargetta",
   "11cb85a717bd3ba5",
   "whatbigoiltellsusaboutaimemorystocks",
   "f91198ce603f450c",
@@ -603,7 +601,9 @@
   "b3a83729bd362acd",
   "abarrelofoilcanbeworth100butcost130todeliverwhogetstheextra3",
   "a71c42666ac5359d",
-  "opinionholdtheratethefedcantpumpoil"
+  "opinionholdtheratethefedcantpumpoil",
+  "8c36c0000fe0805b",
+  "shipscarrying2mbarrelsofoilhitminesexplodeinstraitofhormuzir"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T22:05:15.718628+02:00",
+ "last_run": "2026-10-30T22:10:18.518252+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1609,6 +1609,10 @@
   {
    "d": "2026-10-30",
    "t": "Russia's shadow fleet: Can the EU act even if the US eases sanctions on these ships? - DW.com"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Ships carrying 2M barrels of oil hit mines, explode in Strait of Hormuz: Iran - New York Post"
   }
  ]
 }
