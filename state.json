@@ -4,8 +4,6 @@
   "Brent": 111.51
  },
  "seen": [
-  "c66679cfced52eec",
-  "energybriefsfightingimpactsworldcrudeoilprices",
   "8a5516d2e93c3a50",
   "uscrudeoilinventoriesfallfor4thweek",
   "c464d59aef68d42a",
@@ -603,7 +601,9 @@
   "0caf727216f90bfa",
   "usoilinventoriesfallagainaspricesrise",
   "16c2850dc44bd580",
-  "lafourcheparishpresidenturgesboaterstoavoidoilspillsiteascle"
+  "lafourcheparishpresidenturgesboaterstoavoidoilspillsiteascle",
+  "f3c290cbe714ede1",
+  "wherethecandidatesfornewmexicogovernorstandonoilandgas"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 10
  },
- "last_run": "2026-10-30T02:35:14.135799+02:00",
+ "last_run": "2026-10-30T02:40:17.554571+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
