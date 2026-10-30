@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "afb8ee26c568b761",
-  "europesettorelease42millionbarrelsofoilforshorttermrelief",
   "77377c88c6ca4760",
   "sinopecsq3profitjumps57yoyonhigheroilpricesrefiningmargins",
   "7b64e72bc5853462",
@@ -603,7 +601,9 @@
   "40dafca407ca31a0",
   "gulftoasiaoilfreighttopsus37barrelfavoringlowercostdomestics",
   "755bfd28ec9468f7",
-  "oilgiantspostbillionsinprofitsasamericansfeelpainatthepump"
+  "oilgiantspostbillionsinprofitsasamericansfeelpainatthepump",
+  "89cea1f696777503",
+  "imperialoillimitedq32026earningscallsummary"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T23:40:19.031993+02:00",
+ "last_run": "2026-10-30T23:45:19.599763+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
