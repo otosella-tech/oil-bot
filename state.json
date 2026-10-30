@@ -4,10 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "67772de2912ff1af",
-  "recordtankerratescrippleuscrudeoilflowstoasia",
-  "e51d94bf9ca87e80",
-  "decemberwticrudeoilcontractclosesup288or29settlesat10278perb",
   "94c27407c307f112",
   "lapushesoildrillingshutdowndespiteindustrywarningsoflawsuits",
   "e2cdb082a7c79f80",
@@ -603,7 +599,11 @@
   "7729165d06f73619",
   "brenthits116asopecmeetswithsaudioutput45mbdbelowquota",
   "2ac56468bad1a3a2",
-  "bpprofitshit18yearhighasiranwardrivesupoilrefiningmargins"
+  "bpprofitshit18yearhighasiranwardrivesupoilrefiningmargins",
+  "ca230312268d5dbb",
+  "tankerinstraitofhormuzhitbylimpetminessecuritysourcessay",
+  "788133fcf170a904",
+  "iransaystwooiltankersstoppedsouthofhormuzafterincident"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T13:10:18.048530+02:00",
+ "last_run": "2026-10-30T13:15:17.957272+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1460,6 +1460,14 @@
   {
    "d": "2026-10-30",
    "t": "BP profits hit 18-year high as Iran war drives up oil refining margins - The Guardian"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Tanker in Strait of Hormuz hit by limpet mines, security sources say - Reuters"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Iran says two oil tankers stopped south of Hormuz after incident - The Jerusalem Post"
   }
  ]
 }
