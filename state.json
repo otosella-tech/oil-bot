@@ -4,10 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "04c642b656053aea",
-  "shellandtotalposthighestquarterlyprofitsince2022",
-  "8ce445bc8c5234d8",
-  "uscrudeoilinventoriesfallto4belowtheirfiveyearaverage",
   "bbb523cf0fc0150e",
   "iraqicourthandsdownprisontermsto2politiciansandanoilofficial",
   "dd08e1b0b5f5ff38",
@@ -603,7 +599,11 @@
   "8ea1b98b5eeb1ed5",
   "deepwaterhorizondisasterandaftermathinphotos",
   "fb7389908a0f6040",
-  "exxonmobilandchevronreportblowoutprofitsastrumptoutsbenefits"
+  "exxonmobilandchevronreportblowoutprofitsastrumptoutsbenefits",
+  "36e37384fc144dd2",
+  "usacrudeoilstocksdropweekonweek",
+  "c4b92136cd2fe1ca",
+  "goldpricecrashacceleratesascrudeoilrisesandoddsoffedratehike"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T17:15:18.165806+02:00",
+ "last_run": "2026-10-30T17:20:19.418634+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
