@@ -4,10 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "abdacadb84a263a3",
-  "stocksrallyaheadofbusyweekascrudeoilpricesease",
-  "9fcb44955c215020",
-  "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility",
   "e62f01cb55a98bed",
   "currentpriceofoilasofoctober142026",
   "33a2621d67d0474a",
@@ -603,7 +599,11 @@
   "ab760e48565443af",
   "imperialoilceooptimisticonprogresstowardfirminguppathwaysagr",
   "f52c57bc3bace2ef",
-  "russiasshadowfleetcantheeuacteveniftheuseasessanctionsonthes"
+  "russiasshadowfleetcantheeuacteveniftheuseasessanctionsonthes",
+  "3e5294e19d7f8bc3",
+  "heatingoilnow82moreexpensivethanthistimelastyear",
+  "7d3b766ba71bd271",
+  "whileamericanspaid148bextraongasamidwarbigoilmade130binprofi"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T21:00:29.045022+02:00",
+ "last_run": "2026-10-30T21:05:15.835835+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
