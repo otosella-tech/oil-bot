@@ -4,8 +4,6 @@
   "Brent": 111.42
  },
  "seen": [
-  "9cebccb2f89dd093",
-  "usnaturalgasproductionhitsnewrecordsasdemandsurges",
   "23b823325269ab65",
   "oildeclinesastradersparsesignsoffreshdiplomacyoniran",
   "9dfd4e95e76ea2e7",
@@ -603,7 +601,9 @@
   "d16ce9a7fd8a2854",
   "oilpricesriseafterhormuztankerattackhouthiclaimsstokesupplyf",
   "ab56252831620302",
-  "losangelesapprovesbanonoilproductionafteryearslongfight"
+  "losangelesapprovesbanonoilproductionafteryearslongfight",
+  "03cf9d4cf35f8303",
+  "wallstreetbanksraiseoilpriceforecastsassupplyfearsdeepen"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 48
  },
- "last_run": "2026-10-30T11:55:16.909709+02:00",
+ "last_run": "2026-10-30T12:00:30.241811+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
