@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "186298ee000f4e94",
-  "theoilmarketin2027anupdate",
   "cc56c01486c390d6",
   "privateoildrillerperencosgrowthplanlooksatcentralasia",
   "afb8ee26c568b761",
@@ -603,7 +601,9 @@
   "8b3ac8036ad94fd2",
   "centcomtopcommandersaysnosignofirgcinthestraitofhormuzvoa",
   "f48b1bcb84b398ad",
-  "oiljumps2settlesat6monthhighsonfearsofescalationiniran"
+  "oiljumps2settlesat6monthhighsonfearsofescalationiniran",
+  "40dafca407ca31a0",
+  "gulftoasiaoilfreighttopsus37barrelfavoringlowercostdomestics"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T23:30:23.563001+02:00",
+ "last_run": "2026-10-30T23:35:15.125995+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
