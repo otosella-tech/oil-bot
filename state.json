@@ -4,8 +4,6 @@
   "Brent": 113.86
  },
  "seen": [
-  "623a640ebc12a242",
-  "equinorraisesoilandgasoutputforecastasoperatingprofitdoubles",
   "f3185b2de638b276",
   "crudeoilextendsgainstoover3",
   "3b49eda1f6a26a62",
@@ -603,7 +601,9 @@
   "81a0ad9c038c82af",
   "wtipriceforecasttrianglebreakoutcouldextendabove10684",
   "c1f2899fbd7ccbe3",
-  "copperdeclinesastechselloffoilrallydentriskappetite"
+  "copperdeclinesastechselloffoilrallydentriskappetite",
+  "9f7de76f85b986b6",
+  "oilpricesriseashouthiattacksonsaudiarabiastokesupplyfearsbre"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-30",
-  "count": 19
+  "count": 20
  },
- "last_run": "2026-10-30T05:55:15.355902+02:00",
+ "last_run": "2026-10-30T06:00:27.808761+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
