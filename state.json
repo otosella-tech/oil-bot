@@ -4,8 +4,6 @@
   "Brent": 113.86
  },
  "seen": [
-  "41b1553d111f715a",
-  "chevronvsoccidentalpetroleumbigoilseesrevenuesurgeaspricesle",
   "e659edfe8c382006",
   "oilpricesriseabout2asyemenfightingstokessupplyfearseuronextm",
   "354a32ed8e77d4b1",
@@ -603,7 +601,9 @@
   "ae1285cbd3893228",
   "uscrudeanddistillateinventoriesfallgasolinestocksriseeiasays",
   "c7ca557cf096fac6",
-  "brazilspetrobrasmakesthirdoildiscoveryinblockoffamapastate"
+  "brazilspetrobrasmakesthirdoildiscoveryinblockoffamapastate",
+  "d1ddb834cab9120a",
+  "crudeoilhits6weekhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 13
  },
- "last_run": "2026-10-30T04:20:18.012322+02:00",
+ "last_run": "2026-10-30T04:25:14.399674+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
