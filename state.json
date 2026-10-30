@@ -4,8 +4,6 @@
   "Brent": 113.86
  },
  "seen": [
-  "e8be2de5933873c6",
-  "cryptoperptradesduringoilfrenzyraisespoofingspecter",
   "1e44787486f3532f",
   "scorpiotankersreports181000adaylr2ratesasmiddleeastwarupends",
   "623a640ebc12a242",
@@ -603,7 +601,9 @@
   "cd6cd4444361b443",
   "oilpricetodayoctober30crudeoiljumpsto118astrumpweighsfreshat",
   "2ea3962e17c6fccf",
-  "rupeetobenefitfromdollarretreatplungingusyieldsoilsurgetempe"
+  "rupeetobenefitfromdollarretreatplungingusyieldsoilsurgetempe",
+  "81a0ad9c038c82af",
+  "wtipriceforecasttrianglebreakoutcouldextendabove10684"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 19
  },
- "last_run": "2026-10-30T05:20:17.091396+02:00",
+ "last_run": "2026-10-30T05:25:16.979275+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
