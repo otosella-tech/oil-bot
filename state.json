@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "36117bf6ed2e3db1",
-  "currentpriceofoilasofoctober262026",
   "4034f0779ece289a",
   "totalenergiescompletesdivestmentofoilinterestinrenaissancejv",
   "062d1c510da2493a",
@@ -603,7 +601,9 @@
   "d167fb9b7bfb40e2",
   "indiacutusandrussianoilimportsinseptember2026pivotingtotheua",
   "3d2d097d17c7d8a2",
-  "blazeeruptsatrussianoilrefineryinsuspectedukrainiandroneatta"
+  "blazeeruptsatrussianoilrefineryinsuspectedukrainiandroneatta",
+  "e2fd8e51d8a64dc8",
+  "peacetalkswontsaveoilbuyersfrom100plusoil"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T14:20:20.006991+02:00",
+ "last_run": "2026-10-30T14:25:15.415721+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
