@@ -4,10 +4,6 @@
   "Brent": 111.42
  },
  "seen": [
-  "bdcc7dd6d0bb958a",
-  "oilpricesriseonworriesofmiddleeastconflictescalation",
-  "d0462a6fc1a859f0",
-  "ctfuelindustrywarnsoftightsuppliesandrisingcostsaheadofwinte",
   "bf1ee51fa7633b38",
   "stocksseesupportascrudeoilpriceseaseandfomcawaited",
   "b45018c73a02b53f",
@@ -603,7 +599,11 @@
   "d46c8127f8930f1a",
   "droneattackandfirereportedatrussiasnovokuibyshevskoilrefiner",
   "0320701f80c6bdb3",
-  "asiastocksunderpressurehavenbidboostsbondsmarketswrap"
+  "asiastocksunderpressurehavenbidboostsbondsmarketswrap",
+  "dd264063612abb0d",
+  "cnoocprofitrisesasoilrallyboostsupstreamoperations",
+  "08350db9e3cd1c01",
+  "droneattackreportedatrussiasnovokuibyshevskoilrefinery"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-30",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-10-30T11:00:32.272129+02:00",
+ "last_run": "2026-10-30T11:05:14.950246+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1420,6 +1420,10 @@
   {
    "d": "2026-10-30",
    "t": "Drone attack and fire reported at Russia's Novokuibyshevsk oil refinery - Euronews.com"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Drone attack reported at Russia's Novokuibyshevsk oil refinery - Euronews.com"
   }
  ]
 }
