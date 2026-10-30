@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "5fb85ec93b573d3f",
-  "russiasshadowfleetcantheeuacteveniftheuseasessanctionsonthes",
   "737ce7f0e857e232",
   "stocksseesupportaheadofbusyweekascrudeoilpricesease",
   "abdacadb84a263a3",
@@ -603,11 +601,14 @@
   "2e3c5265d2f3d784",
   "delawaregaspriceholdssteadyascrudeoilstaysabove100abarrel",
   "d6f22d81b86e001e",
-  "decemberwticrudeoilcontractclosesup212or21settlesat10412perb"
+  "decemberwticrudeoilcontractclosesup212or21settlesat10412perb",
+  "ab760e48565443af",
+  "imperialoilceooptimisticonprogresstowardfirminguppathwaysagr"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
-  "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|post": 1
+  "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|post": 1,
+  "2026-10-30|דוח פוזיציות ספקולנטים (CFTC COT)|pre": 1
  },
  "last_digest": "2026-10-30",
  "digest_prices": {
@@ -618,7 +619,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T20:50:19.651219+02:00",
+ "last_run": "2026-10-30T20:55:15.330824+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
