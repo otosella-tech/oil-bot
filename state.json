@@ -4,8 +4,6 @@
   "Brent": 113.86
  },
  "seen": [
-  "e659edfe8c382006",
-  "oilpricesriseabout2asyemenfightingstokessupplyfearseuronextm",
   "354a32ed8e77d4b1",
   "ubsdatashowsrussianoilexportsonly10belowpre",
   "a4872cbc856b308e",
@@ -603,7 +601,9 @@
   "c7ca557cf096fac6",
   "brazilspetrobrasmakesthirdoildiscoveryinblockoffamapastate",
   "d1ddb834cab9120a",
-  "crudeoilhits6weekhigh"
+  "crudeoilhits6weekhigh",
+  "2137229c2d27fa63",
+  "anzraisesoilpriceforecastasmarkettightensoniranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-30",
-  "count": 13
+  "count": 15
  },
- "last_run": "2026-10-30T04:25:14.399674+02:00",
+ "last_run": "2026-10-30T04:30:25.426123+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-10-30",
    "t": "Risk of more Mideast war boosts oil, threatens your wallet - Yahoo Finance"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "ANZ Raises Oil Price Forecast as Market Tightens on Iran War - Bloomberg"
   }
  ]
 }
