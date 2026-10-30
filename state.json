@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "d67d2637d67cafb0",
-  "globaloilpricehits116abarrelhighestsinceapril",
   "1e1b415e5c643671",
   "shellprofitsdoubleto108bnasiranwarpushesupmarginonoil",
   "2a88cabd5484eec2",
@@ -603,7 +601,9 @@
   "4f04b6387e7139ac",
   "pemexposts573millionlossevenasoilpriceshavesurged",
   "27ac5723354eecd2",
-  "brentcrudeoilpricessurgeabove117abarrel"
+  "brentcrudeoilpricessurgeabove117abarrel",
+  "e298197b50cc1976",
+  "oilisgushingoutofthegulfwhyarepricesstillabove100abarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T17:50:19.519666+02:00",
+ "last_run": "2026-10-30T17:55:17.382627+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
