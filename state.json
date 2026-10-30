@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "e2fd8e51d8a64dc8",
-  "peacetalkswontsaveoilbuyersfrom100plusoil",
   "67772de2912ff1af",
   "recordtankerratescrippleuscrudeoilflowstoasia",
   "e51d94bf9ca87e80",
@@ -603,7 +601,9 @@
   "7f38df16ccf7a10e",
   "bpnetprofitquadruplesasmideastwarliftsoilprices",
   "7729165d06f73619",
-  "brenthits116asopecmeetswithsaudioutput45mbdbelowquota"
+  "brenthits116asopecmeetswithsaudioutput45mbdbelowquota",
+  "2ac56468bad1a3a2",
+  "bpprofitshit18yearhighasiranwardrivesupoilrefiningmargins"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-30",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-10-30T13:05:14.624829+02:00",
+ "last_run": "2026-10-30T13:10:18.048530+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1456,6 +1456,10 @@
   {
    "d": "2026-10-30",
    "t": "Brent Hits $116 as OPEC Meets With Saudi Output 4.5 mb/d Below Quota - https://houseofsaud.com/"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "BP profits hit 18-year high as Iran war drives up oil refining margins - The Guardian"
   }
  ]
 }
