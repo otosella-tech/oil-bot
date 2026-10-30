@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "f84ab1194fe1627e",
-  "europetorelease42millionbarrelsofoilfromreservesthenational",
   "ec67538655d3af01",
   "venezuelas303billionbarrelsofoil",
   "b9e539312618ffb2",
@@ -603,7 +601,9 @@
   "5084b22c9d69f341",
   "aheadofmidtermsusenergysecretarypraisesoklahomaoilandgaspush",
   "e6fcef82bf269cac",
-  "canadianoildiscountexceedsus30amidgulfcoastpressures"
+  "canadianoildiscountexceedsus30amidgulfcoastpressures",
+  "fc5ed19e09be213d",
+  "opinion15billionsuccessesinthewarwithiran"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-31T00:40:17.895402+02:00",
+ "last_run": "2026-10-31T00:45:17.096610+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
