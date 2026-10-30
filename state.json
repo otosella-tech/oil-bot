@@ -4,12 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "cf63c6d402067b8e",
-  "indiansharesriseafterfedholdsratessteadyearningsledgainsboos",
-  "87c1ae3d4b546e46",
-  "uscrudeoilinventoriesfallby19millionbarrelsasproductionrises",
-  "1f6eaec15e3dd2c3",
-  "calgaryenergyproducerwhitecapreportsspikingrevenuesprofitson",
   "5a3cc55ab86765b8",
   "europesettorelease42millionbarrelsofoilfrancesays",
   "bc41f92abd802b24",
@@ -603,7 +597,13 @@
   "606b7545847371ac",
   "crudeoilextendsgainsastradershedgeintoweekendamidrisksofusst",
   "1381cbb8c4c78f3f",
-  "chevronandexxonhitalltimehighsasrefiningprofitssoarinreactio"
+  "chevronandexxonhitalltimehighsasrefiningprofitssoarinreactio",
+  "be7d50139fbdb76b",
+  "crudeoilweeklypriceforecastoilcontinuestoseedipbuying",
+  "79ca8eef5948c6e4",
+  "theneverendingabsurdityofglobaloilmarkets",
+  "236dcfb53b1e89cc",
+  "totalenergiesfarmsoutpartialinterestinblockoffshorenigeriaah"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T18:35:14.087250+02:00",
+ "last_run": "2026-10-30T18:40:17.380834+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
