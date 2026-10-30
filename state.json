@@ -4,8 +4,6 @@
   "Brent": 113.86
  },
  "seen": [
-  "1692202e93f4a017",
-  "crudeoilextendstoasessionhighof10353asiranconcernskeepbuyers",
   "ca16af38abaf649d",
   "fillingthestrategicpetroleumreserve",
   "eec3407d687c776f",
@@ -603,7 +601,9 @@
   "7a5499a7c1ba2b0f",
   "sableoildonates49000todefeat5thdistrictprogressive",
   "f4b5a14d62387e7d",
-  "taxesandhighoilpricesaresettospurmoreukenergydeals"
+  "taxesandhighoilpricesaresettospurmoreukenergydeals",
+  "734afc94bb7408e5",
+  "oilpricesup291026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 24
  },
- "last_run": "2026-10-30T07:20:19.147034+02:00",
+ "last_run": "2026-10-30T07:25:14.492596+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
