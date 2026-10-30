@@ -4,8 +4,6 @@
   "Brent": 111.51
  },
  "seen": [
-  "08a687ccbccf070d",
-  "usoilinventoriesfallagainaspricesrise",
   "3bed0a58871f944e",
   "uscrudestocksanddistillateinventoriesfallgasolinestocksriset",
   "b41258b51dd4753d",
@@ -603,7 +601,9 @@
   "99c819d6631b1ed0",
   "6000barrelsofoilleakedintobayoudesallmendsinlafourcheparish",
   "ae938cadd7653a5a",
-  "off"
+  "off",
+  "03f9b147fac4c09f",
+  "portleadersdiscussgrowthaftertrumpscorpuschristivisit"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 8
  },
- "last_run": "2026-10-30T02:00:32.569912+02:00",
+ "last_run": "2026-10-30T02:05:14.764958+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
