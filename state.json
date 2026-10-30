@@ -4,12 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "a42f6ade4cb88035",
-  "oilpricesfallasrenewedusiranpeaceeffortseasesupplyfearswtine",
-  "a12cb39170fb6ab0",
-  "oilpricesdeclineasmiddleeastdiplomaticeffortsoffsetsupplydis",
-  "c5502dff5c239976",
-  "firstthingtodaycrudepullbackweighsonsoycomplex",
   "97e0c4220f5eb32d",
   "conocophillipscutscalgaryjobswithoilaboveus100andalbertacarr",
   "6b4da1add6bcf41b",
@@ -603,7 +597,13 @@
   "4b3aab662e202b3d",
   "bpprofitshitobscene18yearhighasiranwardrivesupoilrefiningmar",
   "b94112f00d1f077b",
-  "exxonmobilprofitsdoubleto154billion"
+  "exxonmobilprofitsdoubleto154billion",
+  "6c22c644b928840a",
+  "tankersdefysharpescalationofiranianattackstokeepcrudeoilflow",
+  "b3f8dd0f32645b33",
+  "oiltrisesascrudeoilsetfor4thstraightmonthlygain",
+  "23c0c3bb812d40bc",
+  "uaesaysoilleakfromtankerhasbeenstoppedpollutioneases"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T19:30:23.335334+02:00",
+ "last_run": "2026-10-30T19:35:14.502248+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1587,6 +1587,10 @@
   {
    "d": "2026-10-30",
    "t": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins - The Guardian"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz - CNBC"
   }
  ]
 }
