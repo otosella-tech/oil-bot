@@ -4,8 +4,6 @@
   "Brent": 113.86
  },
  "seen": [
-  "1e44787486f3532f",
-  "scorpiotankersreports181000adaylr2ratesasmiddleeastwarupends",
   "623a640ebc12a242",
   "equinorraisesoilandgasoutputforecastasoperatingprofitdoubles",
   "f3185b2de638b276",
@@ -603,7 +601,9 @@
   "2ea3962e17c6fccf",
   "rupeetobenefitfromdollarretreatplungingusyieldsoilsurgetempe",
   "81a0ad9c038c82af",
-  "wtipriceforecasttrianglebreakoutcouldextendabove10684"
+  "wtipriceforecasttrianglebreakoutcouldextendabove10684",
+  "c1f2899fbd7ccbe3",
+  "copperdeclinesastechselloffoilrallydentriskappetite"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 19
  },
- "last_run": "2026-10-30T05:50:17.640682+02:00",
+ "last_run": "2026-10-30T05:55:15.355902+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
