@@ -4,8 +4,6 @@
   "Brent": 113.86
  },
  "seen": [
-  "358ca89d34900d80",
-  "ubssees110brentbyyear",
   "39fe230e24cb0941",
   "currentpriceofoilasofoctober272026",
   "b53a92c8df710436",
@@ -603,7 +601,9 @@
   "1b5d24885c6bee0d",
   "indiansharesinchhigheronitrallyearningsledreboundoilcapsgain",
   "40583da250086158",
-  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr"
+  "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr",
+  "12134ee2422937ec",
+  "chinasoilmajorsgetmorefirepowerforenergysecuritypush"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 31
  },
- "last_run": "2026-10-30T08:10:17.969790+02:00",
+ "last_run": "2026-10-30T08:15:19.019544+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
