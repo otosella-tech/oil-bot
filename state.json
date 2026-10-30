@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "2d97a472c1ba30f4",
-  "oilpricesfallasvancemovestorestartiranpeacetalks",
   "717c39863a79b1fd",
   "explainerhowcouldtheoilspillofftheuaecoastaffectdesalination",
   "0564b260d8322d8a",
@@ -603,7 +601,9 @@
   "ecf0bd5a16be066b",
   "currentpriceofoilasofoct302026",
   "899c90d72a96bc3f",
-  "whistleblowersclaimedkeyoiltankerratewasmanipulated"
+  "whistleblowersclaimedkeyoiltankerratewasmanipulated",
+  "0281857f90b4c442",
+  "uscrudeoilpricesfall"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T14:45:19.852780+02:00",
+ "last_run": "2026-10-30T14:50:18.346478+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
