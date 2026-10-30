@@ -4,8 +4,6 @@
   "Brent": 111.42
  },
  "seen": [
-  "494f27ad4dbf65a7",
-  "theoilgiantsarerakinginmorecashhereswhattheylldowithit",
   "700f2c66647ed290",
   "oilpricesriseonyemenfightingsaudirefineryattack",
   "ca47516f50fa299f",
@@ -603,7 +601,9 @@
   "71d71eb667cfbf06",
   "themidtermsmayreviveadyingbrandtheoilstatedemocrat",
   "43f9f51c5a1d8c2a",
-  "bpnetprofitquadruplesonhigheroilprices"
+  "bpnetprofitquadruplesonhigheroilprices",
+  "32da509d463e17c1",
+  "bccrudeoilfutures"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 37
  },
- "last_run": "2026-10-30T10:10:19.013950+02:00",
+ "last_run": "2026-10-30T10:15:19.017896+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
