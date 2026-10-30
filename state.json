@@ -4,8 +4,6 @@
   "Brent": 111.51
  },
  "seen": [
-  "8a1e092764b26f95",
-  "useiacrudeoilinventories19mlnbarrelsinlatestweekfromprevious",
   "c66679cfced52eec",
   "energybriefsfightingimpactsworldcrudeoilprices",
   "8a5516d2e93c3a50",
@@ -603,7 +601,9 @@
   "8918d6735f6fcb54",
   "sinopecsq3profitssoaronhigheroilprices",
   "0caf727216f90bfa",
-  "usoilinventoriesfallagainaspricesrise"
+  "usoilinventoriesfallagainaspricesrise",
+  "16c2850dc44bd580",
+  "lafourcheparishpresidenturgesboaterstoavoidoilspillsiteascle"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 10
  },
- "last_run": "2026-10-30T02:20:18.024645+02:00",
+ "last_run": "2026-10-30T02:25:14.372936+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
