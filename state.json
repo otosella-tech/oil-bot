@@ -4,10 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "76a04c1593b60b60",
-  "oilpricesriseafterhouthiattacknearsaudiarabiasrastanuratermi",
-  "9d85733552493931",
-  "existingfossilfuelsthreatenpollution7xthe15ccarbonbudget",
   "c1e84423f4283cae",
   "stocksparetechledlossescrudeoildeclinesmarketswrap",
   "07dd5bfa2b21ceea",
@@ -603,7 +599,11 @@
   "ab96e25a9bc1a94e",
   "oilpricesriseasmiddleeastukrainerussiaconflictfuelsupplyworr",
   "55009f5cda0effbf",
-  "ukmtosayscrudeoiltankerstruckbyunknownprojectilewhileexiting"
+  "ukmtosayscrudeoiltankerstruckbyunknownprojectilewhileexiting",
+  "cae228022202c8f4",
+  "bigoilsprofitssoarasiranwarkeepsdriverspayingmoreatthepump",
+  "5a9842c24706cd70",
+  "theoilgiantsarerakingincashhereswhattheylldowithit"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T22:40:18.373013+02:00",
+ "last_run": "2026-10-30T22:45:17.647916+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1621,6 +1621,10 @@
   {
    "d": "2026-10-30",
    "t": "UKMTO says crude oil tanker struck by unknown projectile while exiting Strait of Hormuz - www.marketscreener.com"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Big oil’s profits soar as Iran War keeps drivers paying more at the pump - Scripps News"
   }
  ]
 }
