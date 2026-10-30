@@ -4,10 +4,6 @@
   "Brent": 111.42
  },
  "seen": [
-  "3e331e68843d50bd",
-  "peacetalkswontsaveoilbuyersfrom100",
-  "2d01b589bb1c06c6",
-  "useiacrudeoilimportschangeoct230796mprev0837m",
   "4f922bef6977cc70",
   "uscrudeclimbs3onfearsofwarescalationoilstockpilesdropforfour",
   "0c0947aadb143cc4",
@@ -603,7 +599,11 @@
   "2c29374cd52dd5a1",
   "crudeoilpriceforecastwtibrentriseafterhormuztankerattack",
   "62e421092a5fa838",
-  "techstockselloffdeepensonearningsoilrisesmarketswrap"
+  "techstockselloffdeepensonearningsoilrisesmarketswrap",
+  "77e53f7346a690dd",
+  "usoilindustryearnedover130billioninprofitduringiranwar",
+  "a5c691622b8d0f1e",
+  "eucountriespledge205mndieselbarrelsaswintersupplyfearsgrow"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-30",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-10-30T12:35:14.879627+02:00",
+ "last_run": "2026-10-30T12:40:18.727938+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1448,6 +1448,10 @@
   {
    "d": "2026-10-30",
    "t": "Chevron beats earnings expectations as refining profits soar on high diesel fuel prices - CNBC"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War - The New York Times"
   }
  ]
 }
