@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "c1e84423f4283cae",
-  "stocksparetechledlossescrudeoildeclinesmarketswrap",
   "07dd5bfa2b21ceea",
   "uknationalgridtoextendfrancepowerlinkoperationto2050",
   "6b0334221fa25dcc",
@@ -603,7 +601,9 @@
   "cae228022202c8f4",
   "bigoilsprofitssoarasiranwarkeepsdriverspayingmoreatthepump",
   "5a9842c24706cd70",
-  "theoilgiantsarerakingincashhereswhattheylldowithit"
+  "theoilgiantsarerakingincashhereswhattheylldowithit",
+  "21a21f58f1e4861e",
+  "iransirgcnavysaysfourtankerscatchfireinstraitofhormuzal"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T22:50:20.025347+02:00",
+ "last_run": "2026-10-30T22:55:15.837133+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1625,6 +1625,10 @@
   {
    "d": "2026-10-30",
    "t": "Big oil’s profits soar as Iran War keeps drivers paying more at the pump - Scripps News"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz - Al-Monitor"
   }
  ]
 }
