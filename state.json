@@ -4,8 +4,6 @@
   "Brent": 113.86
  },
  "seen": [
-  "420fee02fb4edfcd",
-  "petrochinaq3profitjumpsto778billion",
   "41b1553d111f715a",
   "chevronvsoccidentalpetroleumbigoilseesrevenuesurgeaspricesle",
   "e659edfe8c382006",
@@ -603,7 +601,9 @@
   "2b0bb0dfe37b121d",
   "uscrudeoilproductionandnetpetroleumimports19702025",
   "ae1285cbd3893228",
-  "uscrudeanddistillateinventoriesfallgasolinestocksriseeiasays"
+  "uscrudeanddistillateinventoriesfallgasolinestocksriseeiasays",
+  "c7ca557cf096fac6",
+  "brazilspetrobrasmakesthirdoildiscoveryinblockoffamapastate"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 13
  },
- "last_run": "2026-10-30T04:05:14.454343+02:00",
+ "last_run": "2026-10-30T04:10:18.076771+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
