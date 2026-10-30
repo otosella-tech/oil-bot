@@ -4,8 +4,6 @@
   "Brent": 111.51
  },
  "seen": [
-  "1a8ef665cce81fe9",
-  "oilpricesriseabout2asyemenfightingstokessupplyfears",
   "420fee02fb4edfcd",
   "petrochinaq3profitjumpsto778billion",
   "41b1553d111f715a",
@@ -603,7 +601,9 @@
   "7d4db1026c8700f6",
   "oilpricesriseasusreportedlytellsgulfcountriestoprepareforira",
   "2b0bb0dfe37b121d",
-  "uscrudeoilproductionandnetpetroleumimports19702025"
+  "uscrudeoilproductionandnetpetroleumimports19702025",
+  "ae1285cbd3893228",
+  "uscrudeanddistillateinventoriesfallgasolinestocksriseeiasays"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 13
  },
- "last_run": "2026-10-30T03:40:17.615873+02:00",
+ "last_run": "2026-10-30T03:45:19.876668+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
