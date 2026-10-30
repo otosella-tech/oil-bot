@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "b9e539312618ffb2",
-  "netherlandsreleases700kbarrelsofoilproducts",
   "da116104a8c708e7",
   "trafigurasignsnewgassupplydealwithgermansefe",
   "14ce2560fc91ad87",
@@ -603,7 +601,9 @@
   "fc5ed19e09be213d",
   "opinion15billionsuccessesinthewarwithiran",
   "77e411ebc458db90",
-  "europeisnowseriouslyrethinkingitsoilrefineryphasedown"
+  "europeisnowseriouslyrethinkingitsoilrefineryphasedown",
+  "bf02758af4f39e24",
+  "trumpenergycouncilslatesthiretofocusonoilgasprojects"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-31",
   "count": 2
  },
- "last_run": "2026-10-31T01:00:35.817549+02:00",
+ "last_run": "2026-10-31T01:05:17.701723+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
