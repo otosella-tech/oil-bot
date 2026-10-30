@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "2fba2971ca624db0",
-  "nasdaq100falls15asaitradeshowsnewcracksmarketswrap",
   "f84ab1194fe1627e",
   "europetorelease42millionbarrelsofoilfromreservesthenational",
   "ec67538655d3af01",
@@ -603,7 +601,9 @@
   "6b476d6a6f3ff167",
   "uscrudeoutputroseinaugustwhilepetroleumdemanddeclinedeiasays",
   "5084b22c9d69f341",
-  "aheadofmidtermsusenergysecretarypraisesoklahomaoilandgaspush"
+  "aheadofmidtermsusenergysecretarypraisesoklahomaoilandgaspush",
+  "e6fcef82bf269cac",
+  "canadianoildiscountexceedsus30amidgulfcoastpressures"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-31T00:20:19.657756+02:00",
+ "last_run": "2026-10-31T00:25:13.938716+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
