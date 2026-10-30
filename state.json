@@ -4,8 +4,6 @@
   "Brent": 111.42
  },
  "seen": [
-  "536b02875cba1057",
-  "aichipstocksdrivebacktobacksp500gainsasoilslideaddsrelief",
   "ef3ba93025d3957a",
   "whydidvalerostockfall",
   "b000f4bdedf038ef",
@@ -603,7 +601,9 @@
   "b233daa983a9efba",
   "11eucountriesvowtorelease426millionbarrelsofoilafterg7pledge",
   "d4a2ab3dee964f69",
-  "houthisclaimfreshstrikesonsaudioilrefineriesandaramcofacilit"
+  "houthisclaimfreshstrikesonsaudioilrefineriesandaramcofacilit",
+  "1fe1785edba1ea41",
+  "oilfuturescrudehigherasdiplomacystallstankerattackscontinue"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-30",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-10-30T09:45:18.253832+02:00",
+ "last_run": "2026-10-30T09:50:18.616921+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1408,6 +1408,10 @@
   {
    "d": "2026-10-30",
    "t": "Houthis Claim Fresh Strikes on Saudi Oil Refineries and Aramco Facilities"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Oil futures: Crude higher as diplomacy stalls, tanker attacks continue - Quantum Commodity Intelligence"
   }
  ]
 }
