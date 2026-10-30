@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "f91198ce603f450c",
-  "fragileukrainetrucefacescriticaltestamidfearsofforceddeporta",
   "76a04c1593b60b60",
   "oilpricesriseafterhouthiattacknearsaudiarabiasrastanuratermi",
   "9d85733552493931",
@@ -603,7 +601,9 @@
   "8c36c0000fe0805b",
   "shipscarrying2mbarrelsofoilhitminesexplodeinstraitofhormuzir",
   "ab96e25a9bc1a94e",
-  "oilpricesriseasmiddleeastukrainerussiaconflictfuelsupplyworr"
+  "oilpricesriseasmiddleeastukrainerussiaconflictfuelsupplyworr",
+  "55009f5cda0effbf",
+  "ukmtosayscrudeoiltankerstruckbyunknownprojectilewhileexiting"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T22:35:14.280625+02:00",
+ "last_run": "2026-10-30T22:40:18.373013+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1617,6 +1617,10 @@
   {
    "d": "2026-10-30",
    "t": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries - WSJ"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "UKMTO says crude oil tanker struck by unknown projectile while exiting Strait of Hormuz - www.marketscreener.com"
   }
  ]
 }
