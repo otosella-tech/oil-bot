@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "737ce7f0e857e232",
-  "stocksseesupportaheadofbusyweekascrudeoilpricesease",
   "abdacadb84a263a3",
   "stocksrallyaheadofbusyweekascrudeoilpricesease",
   "9fcb44955c215020",
@@ -603,7 +601,9 @@
   "d6f22d81b86e001e",
   "decemberwticrudeoilcontractclosesup212or21settlesat10412perb",
   "ab760e48565443af",
-  "imperialoilceooptimisticonprogresstowardfirminguppathwaysagr"
+  "imperialoilceooptimisticonprogresstowardfirminguppathwaysagr",
+  "f52c57bc3bace2ef",
+  "russiasshadowfleetcantheeuacteveniftheuseasessanctionsonthes"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T20:55:15.330824+02:00",
+ "last_run": "2026-10-30T21:00:29.045022+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1604,6 +1604,10 @@
   {
    "d": "2026-10-30",
    "t": "Oman rescues 25 from burning oil tanker in Strait of Hormuz - Al Jazeera"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Russia's shadow fleet: Can the EU act even if the US eases sanctions on these ships? - DW.com"
   }
  ]
 }
