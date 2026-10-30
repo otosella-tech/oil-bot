@@ -4,8 +4,6 @@
   "Brent": 113.86
  },
  "seen": [
-  "39fe230e24cb0941",
-  "currentpriceofoilasofoctober272026",
   "b53a92c8df710436",
   "trumptoeasemethanerulesforoilandgaswells",
   "b12d20d994ae7112",
@@ -603,7 +601,9 @@
   "40583da250086158",
   "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisr",
   "12134ee2422937ec",
-  "chinasoilmajorsgetmorefirepowerforenergysecuritypush"
+  "chinasoilmajorsgetmorefirepowerforenergysecuritypush",
+  "782a3a18fdf14785",
+  "oilpricesheadforfourthmonthlygainasmiddleeasttensionsescalat"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 31
  },
- "last_run": "2026-10-30T08:15:19.019544+02:00",
+ "last_run": "2026-10-30T08:20:17.883181+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
