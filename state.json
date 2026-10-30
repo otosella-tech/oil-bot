@@ -4,10 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "bc41f92abd802b24",
-  "asianrefinersshippingquandarycontinueswithrenewedattacksandd",
-  "cec7e3376d424a7a",
-  "sinopecsthirdquarterprofitjumps57onhigheroilpricesrefiningma",
   "9d6f7dcb5970fc2f",
   "crudeoilinventoriespostsmallerdeclinethanforecastnewsandstat",
   "9d9a1dc1573e333c",
@@ -603,10 +599,15 @@
   "236dcfb53b1e89cc",
   "totalenergiesfarmsoutpartialinterestinblockoffshorenigeriaah",
   "e6c6293c2cd21056",
-  "oiltradersbraceforawildweekasbrentapproaches120"
+  "oiltradersbraceforawildweekasbrentapproaches120",
+  "e58161bea151886f",
+  "europesettorelease42millionbarrelsofoilfrancesays",
+  "14301e12bba74804",
+  "mukeshambanisjioposts14profitjumpdaysafterblockbusteripo"
  ],
  "releases_done": {
-  "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1
+  "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
+  "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|post": 1
  },
  "last_digest": "2026-10-30",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T18:55:15.187168+02:00",
+ "last_run": "2026-10-30T19:00:32.671458+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
