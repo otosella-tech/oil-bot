@@ -4,8 +4,6 @@
   "Brent": 111.42
  },
  "seen": [
-  "1ca78a757750f348",
-  "crudeoilpricesfallbackasiranssupremeleaderreiteratesdealterm",
   "ab56252831620302",
   "losangelesapprovesbanonoilproductionafteryearslongfight",
   "639fc30e587a22e5",
@@ -603,7 +601,9 @@
   "94625bff57f3fa57",
   "trumpsaysvenezuelagavehim1mbarrelsofoilasgiftasusseizesreven",
   "e59175d92f9e80cc",
-  "trumpsvenezuelastrategyneedsmorethanoildeals"
+  "trumpsvenezuelastrategyneedsmorethanoildeals",
+  "16b3a3bfa0c0bde4",
+  "warshispromisingsomethingthefedcantcontrol"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 46
  },
- "last_run": "2026-10-30T11:40:17.723809+02:00",
+ "last_run": "2026-10-30T11:45:17.105782+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
