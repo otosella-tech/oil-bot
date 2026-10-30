@@ -4,10 +4,6 @@
   "Brent": 111.42
  },
  "seen": [
-  "39ac567e255e3544",
-  "crudeoilpricesdropassauditurkeypakistandiplomacyraisespeaceh",
-  "9b6562fe95eb7cdb",
-  "petrobraspumpsatrecordasiranwarupendsoilmarkets",
   "3e331e68843d50bd",
   "peacetalkswontsaveoilbuyersfrom100",
   "2d01b589bb1c06c6",
@@ -603,7 +599,11 @@
   "529c9d02da76f328",
   "insighttrumptoutedarecordvenezuelaoildealnowrealityissetting",
   "295d2de592156068",
-  "chevronbeatsearningsexpectationsasrefiningprofitssoaronhighd"
+  "chevronbeatsearningsexpectationsasrefiningprofitssoaronhighd",
+  "2c29374cd52dd5a1",
+  "crudeoilpriceforecastwtibrentriseafterhormuztankerattack",
+  "62e421092a5fa838",
+  "techstockselloffdeepensonearningsoilrisesmarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-30",
-  "count": 54
+  "count": 55
  },
- "last_run": "2026-10-30T12:25:14.461139+02:00",
+ "last_run": "2026-10-30T12:30:24.003738+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
