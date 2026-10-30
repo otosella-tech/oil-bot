@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "ca98b62fb17be8aa",
-  "wtiandbrentcrudedrawsupportsoilbutgasolinesendsadifferentsig",
   "2092e4558c020869",
   "forecastupdateforcrudeoil29102026",
   "f2c47d5826db2213",
@@ -603,7 +601,9 @@
   "3772229c444a5cdd",
   "hereswhatkeymetricstellusaboutexxonxomq3earnings",
   "c8c2aa284e2c7ac6",
-  "oilpricessetforfourthstraightmonthlygainsastankerattackhighl"
+  "oilpricessetforfourthstraightmonthlygainsastankerattackhighl",
+  "7c22bc236f49e70d",
+  "watertankrupturetriggerssafetyconcernsattajikistansrogundam"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T19:55:16.586159+02:00",
+ "last_run": "2026-10-30T20:00:29.153902+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
