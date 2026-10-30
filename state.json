@@ -4,10 +4,6 @@
   "Brent": 111.51
  },
  "seen": [
-  "3bed0a58871f944e",
-  "uscrudestocksanddistillateinventoriesfallgasolinestocksriset",
-  "b41258b51dd4753d",
-  "afreakingfortunehowtheiranwarrescuedbigoilsbottomline",
   "8a1e092764b26f95",
   "useiacrudeoilinventories19mlnbarrelsinlatestweekfromprevious",
   "c66679cfced52eec",
@@ -603,7 +599,11 @@
   "ae938cadd7653a5a",
   "off",
   "03f9b147fac4c09f",
-  "portleadersdiscussgrowthaftertrumpscorpuschristivisit"
+  "portleadersdiscussgrowthaftertrumpscorpuschristivisit",
+  "8918d6735f6fcb54",
+  "sinopecsq3profitssoaronhigheroilprices",
+  "0caf727216f90bfa",
+  "usoilinventoriesfallagainaspricesrise"
  ],
  "releases_done": {},
  "last_digest": "2026-10-29",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-30",
-  "count": 8
+  "count": 10
  },
- "last_run": "2026-10-30T02:05:14.764958+02:00",
+ "last_run": "2026-10-30T02:10:19.527216+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1372,6 +1372,10 @@
   {
    "d": "2026-10-30",
    "t": "Gulf Oil Producers Build Tanker Fleet as Security Risks Mount Around Hormuz - Marine News Magazine"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Sinopec's Q3 Profits Soar on Higher Oil Prices - Rigzone"
   }
  ]
 }
