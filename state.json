@@ -4,8 +4,6 @@
   "Brent": 111.42
  },
  "seen": [
-  "f12285c47cd91738",
-  "canadianoildiscountexceeds30amidgulfcoastpressures",
   "95768da0b7acc372",
   "oilpricesriseonyemenfightingsaudirefineryattackeuronextmarke",
   "20e57793036f4bf5",
@@ -603,7 +601,9 @@
   "63dc48bf066cb036",
   "highoilpricessettotriggernewwaveofnorthseamergers",
   "7366dcb8fff9a633",
-  "oilwaversonconflictingreportsofusamilitarymoves"
+  "oilwaversonconflictingreportsofusamilitarymoves",
+  "bd5599254a3870e3",
+  "oilflowsareupasiranwarturmoileaseswhydopriceskeeprising"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 39
  },
- "last_run": "2026-10-30T10:50:18.615817+02:00",
+ "last_run": "2026-10-30T10:54:50.530469+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
