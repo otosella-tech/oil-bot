@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 104.39,
-  "Brent": 111.42
+  "Brent": 113.66
  },
  "seen": [
-  "0c0947aadb143cc4",
-  "oilisgushingoutofthegulfwhyarepricesstillabove100abarrel",
   "e2fd8e51d8a64dc8",
   "peacetalkswontsaveoilbuyersfrom100plusoil",
   "67772de2912ff1af",
@@ -603,7 +601,9 @@
   "a5c691622b8d0f1e",
   "eucountriespledge205mndieselbarrelsaswintersupplyfearsgrow",
   "7f38df16ccf7a10e",
-  "bpnetprofitquadruplesasmideastwarliftsoilprices"
+  "bpnetprofitquadruplesasmideastwarliftsoilprices",
+  "7729165d06f73619",
+  "brenthits116asopecmeetswithsaudioutput45mbdbelowquota"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-30",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-10-30T12:55:15.639208+02:00",
+ "last_run": "2026-10-30T13:00:30.497237+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1452,6 +1452,10 @@
   {
    "d": "2026-10-30",
    "t": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War - The New York Times"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Brent Hits $116 as OPEC Meets With Saudi Output 4.5 mb/d Below Quota - https://houseofsaud.com/"
   }
  ]
 }
