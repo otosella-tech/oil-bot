@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "0d9e404e231e9c09",
-  "iraqsyriadiscussexportingtwomillionbpdofoilviabaniyas",
   "26c080f1cbe23f51",
   "investorsarepilingintodangotebutisthepriceright",
   "186298ee000f4e94",
@@ -603,7 +601,9 @@
   "b558adc79954f7b1",
   "iransirgcnavysaysfourtankerscatchfireinstraitofhormuz",
   "1fc8bbd85c84c82c",
-  "valerostrikes320milliondealtobuyreopenhoustonsoldestrefinery"
+  "valerostrikes320milliondealtobuyreopenhoustonsoldestrefinery",
+  "8b3ac8036ad94fd2",
+  "centcomtopcommandersaysnosignofirgcinthestraitofhormuzvoa"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T23:05:16.058618+02:00",
+ "last_run": "2026-10-30T23:10:18.284908+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1637,6 +1637,10 @@
   {
    "d": "2026-10-30",
    "t": "Valero strikes $320 million deal to buy, re-open Houston's oldest refinery - Houston Chronicle"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "CENTCOM top commander says no sign of IRGC in the Strait of Hormuz - VOA - Voice of America English News"
   }
  ]
 }
