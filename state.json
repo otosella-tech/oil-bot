@@ -4,10 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "dd08e1b0b5f5ff38",
-  "electriccarshelpchinaweathertheglobalenergycrisis",
-  "4f33ddb28305a61d",
-  "currentpriceofoilasofoctober222026",
   "d67d2637d67cafb0",
   "globaloilpricehits116abarrelhighestsinceapril",
   "1e1b415e5c643671",
@@ -603,7 +599,11 @@
   "c4b92136cd2fe1ca",
   "goldpricecrashacceleratesascrudeoilrisesandoddsoffedratehike",
   "25ff2cf6d546fef1",
-  "japantoovertakechinaasworldstoplngimporterthisyear"
+  "japantoovertakechinaasworldstoplngimporterthisyear",
+  "4f04b6387e7139ac",
+  "pemexposts573millionlossevenasoilpriceshavesurged",
+  "27ac5723354eecd2",
+  "brentcrudeoilpricessurgeabove117abarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T17:45:18.396595+02:00",
+ "last_run": "2026-10-30T17:50:19.519666+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1560,6 +1560,10 @@
   {
    "d": "2026-10-30",
    "t": "Oman rescues 25 sailors from burning oil tanker in Strait of Hormuz - The Times of Israel"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Pemex Posts $573 Million Loss Even as Oil Prices Have Surged - Bloomberg.com"
   }
  ]
 }
