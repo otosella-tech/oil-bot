@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "243f23adadad9d54",
-  "ahiddentripletopinoilpricechartssuggeststherallyhasrunoutofg",
   "7389417a9ef11e0a",
   "venezuelasoilrevivalthreatenedbyworkershortage",
   "fcf8d8910271d3ee",
@@ -603,7 +601,9 @@
   "d25b1500a30e4013",
   "currentpriceofoilasofoctober302026",
   "062d1c510da2493a",
-  "watchtrumpsaysvenezuelasenthim1millionbarrelsofoilasagift"
+  "watchtrumpsaysvenezuelasenthim1millionbarrelsofoilasagift",
+  "bf1e74cf05391af9",
+  "americanoilgiantsseeprofitssoaraswarscrimpenergysupplies"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T14:35:13.843603+02:00",
+ "last_run": "2026-10-30T14:40:19.297581+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1516,6 +1516,10 @@
   {
    "d": "2026-10-30",
    "t": "Market Talk: The oil market 'has got savvy to the ebbs and flows of this war' - Reuters"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "American Oil Giants See Profits Soar as Wars Crimp Energy Supplies - WSJ"
   }
  ]
 }
