@@ -4,12 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "92973541c5231368",
-  "shellreportssecondhighestprofiteverasrefininghitsrecord",
-  "e1335ba05fe6cf7d",
-  "shellprofitsdoubleto108bnasiranwarpushesupprofitmarginonoil",
-  "beb86ce98051066a",
-  "trumptogreetvenezuelanoilshipmentcallingitagifttheuspaidfori",
   "ef2fa5dd69a452e8",
   "kotakraisesfy27crudeoilpriceforecasttousd100amid8monthsupply",
   "0c2bbb5446530bc4",
@@ -603,7 +597,13 @@
   "a411e301f37797cd",
   "rollingbackcleanairactmethaneregulationsfortheoilandgasindus",
   "2f456849ee3ed111",
-  "ukrainehitsrussianoilrefineryendingpauseanddefyingtrump"
+  "ukrainehitsrussianoilrefineryendingpauseanddefyingtrump",
+  "fd87530a8ca9ad38",
+  "golddropsbelow4000silvertumblesashormuzattackliftsoilpricesk",
+  "7e68c72bb5675ec9",
+  "bigoilisrakinginhugeprofitsshareholdersliketrumparecashingin",
+  "183240771a5375e5",
+  "producedwatercouldfillincreasingtexaswaterneeds"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-30",
   "count": 60
  },
- "last_run": "2026-10-30T15:15:17.611792+02:00",
+ "last_run": "2026-10-30T15:20:18.699593+02:00",
  "sent_stories": [
   {
    "d": "2026-10-27",
@@ -1528,6 +1528,10 @@
   {
    "d": "2026-10-30",
    "t": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump - WSJ"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Gold drops below $4,000, silver tumbles as Hormuz attack lifts oil prices - Kitco AM Report - Kitco"
   }
  ]
 }
