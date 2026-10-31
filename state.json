@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "237fb8d346b1bba3",
-  "thefedsdecisiontoholdinterestratessteadyhelpswarshdenytehran",
   "da74d44a177e451a",
   "uscrudeoilstockpilesfallmorethanexpected",
   "536399edf217c6c7",
@@ -603,7 +601,9 @@
   "1941b792084291ef",
   "3oilstocksretailinvestorsarewatchingasbrentcrudenears120",
   "857be295eab64228",
-  "usoilcompaniesaimtosqueezemoreoutofrefineries"
+  "usoilcompaniesaimtosqueezemoreoutofrefineries",
+  "eb44d26e26d39695",
+  "crudeoiltankerexplosionspursmarketvolatilitycolgatepalm"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-10-31",
-  "count": 8
+  "count": 9
  },
- "last_run": "2026-10-31T03:40:18.779532+02:00",
+ "last_run": "2026-10-31T03:45:17.288708+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
