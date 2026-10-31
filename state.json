@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "d1ddb834cab9120a",
-  "crudeoilhits6weekhigh",
   "2137229c2d27fa63",
   "anzraisesoilpriceforecastasmarkettightensoniranwar",
   "ce37b12d0cae9acc",
@@ -603,7 +601,9 @@
   "3f599316bd1d92f4",
   "tensionsflareagaininhormuzasiransaysfourtankersonfire",
   "04c642b656053aea",
-  "shellandtotalposthighestquarterlyprofitsince2022"
+  "shellandtotalposthighestquarterlyprofitsince2022",
+  "0ab9b3cce6ea1cc5",
+  "imperialoilstockrecorddownstreamearningswhatschanged"
  ],
  "releases_done": {},
  "last_digest": "2026-10-31",
@@ -615,7 +615,7 @@
   "date": "2026-10-31",
   "count": 45
  },
- "last_run": "2026-10-31T19:40:19.281493+02:00",
+ "last_run": "2026-10-31T19:45:20.187699+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
