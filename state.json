@@ -4,20 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "da74d44a177e451a",
-  "uscrudeoilstockpilesfallmorethanexpected",
-  "536399edf217c6c7",
-  "sinopecthird",
-  "1829b3fd5b72e179",
-  "sinopecthirdquarterprofitjumps64asoilpricesclimb",
-  "75aaf0ba16bfae86",
-  "exclusivechevronisbacktosearchingforoilandgasinfarflungplace",
-  "86417207fdf00233",
-  "saudiarabiatostoreoilinsingaporetobolsterasiasupplysecurity",
-  "fa5d3dc05c225c2c",
-  "theccsprojectthatpassedeverytestexcepttheinvestmenttest",
-  "b56c4ff514709245",
-  "gulfoilgiantsworktoexpandoverseasstorageaswarexposessupplyri",
   "7a2d7504d52088bd",
   "wticrudeoilreboundsafterafailedbreakbelow100andthe200hourma",
   "7f8984e804336b68",
@@ -603,7 +589,21 @@
   "857be295eab64228",
   "usoilcompaniesaimtosqueezemoreoutofrefineries",
   "eb44d26e26d39695",
-  "crudeoiltankerexplosionspursmarketvolatilitycolgatepalm"
+  "crudeoiltankerexplosionspursmarketvolatilitycolgatepalm",
+  "5870aab4ec4c81d4",
+  "currentpriceofoilasofoctober202026",
+  "afa302b4e668bfbd",
+  "crudeoilpricesfallonvanceoutreachtoiran",
+  "5fe3758a8f4e7010",
+  "usequityfuturesclimbascrudeoilpricedipsmarketswrap",
+  "c2f61b1ca0b31876",
+  "currentpriceofoilasofoctober122026",
+  "c05a6fef33f99303",
+  "brentcrudeoiltops116asixmonthhighastensionsswellinthemiddlee",
+  "0f0425e023d93961",
+  "uscrudeoilnear98asiranstepsupattacksinstraitofhormuz",
+  "e62f01cb55a98bed",
+  "currentpriceofoilasofoctober142026"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-10-31",
-  "count": 9
+  "count": 11
  },
- "last_run": "2026-10-31T04:05:15.817405+02:00",
+ "last_run": "2026-10-31T04:10:25.212382+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
@@ -1389,6 +1389,10 @@
   {
    "d": "2026-10-31",
    "t": "Iran says 4th oil tanker hit mine, caught fire in Strait of Hormuz - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-10-31",
+   "t": "U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz - CNBC"
   }
  ]
 }
