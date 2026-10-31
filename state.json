@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "bc9ea0331b321bfb",
-  "oilpricesfallastradersweighusirandiplomacy",
   "ba89a1c4d2a6ee67",
   "howbadpolicieswillmakethiswintermoreexpensivethanusual",
   "df1005fc9a331c71",
@@ -603,7 +601,9 @@
   "95631b9aa0d6e0c3",
   "crudeoiljumpsasiransaysfourtankersstruckminesinthestraitofho",
   "0a1e7cb3cdc56aff",
-  "octoberoilgainsexceed13oilclimbsmorethan2fridayasmiddleeasta"
+  "octoberoilgainsexceed13oilclimbsmorethan2fridayasmiddleeasta",
+  "dd79acc01a5deeda",
+  "valerounveilsits320mplantobuyhoustonsoldestoilrefineryandreo"
  ],
  "releases_done": {
   "2026-10-30|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-10-31",
   "count": 6
  },
- "last_run": "2026-10-31T02:15:17.861063+02:00",
+ "last_run": "2026-10-31T02:20:20.478305+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
