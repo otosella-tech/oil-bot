@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "1202eefc4c2cedb7",
-  "uscrudeoilstockpilesfallforfourthstraightweek",
   "7d4db1026c8700f6",
   "oilpricesriseasusreportedlytellsgulfcountriestoprepareforira",
   "2b0bb0dfe37b121d",
@@ -603,7 +601,9 @@
   "fc8da98e8e9ae998",
   "trumpsoilportfolioup43amidbigoilwindfallpainatthepump",
   "ff68d0aa1a2f87bc",
-  "opecsettokeepproductiontargetsunchangedindecembersourcesays"
+  "opecsettokeepproductiontargetsunchangedindecembersourcesays",
+  "acf96448e8f324c3",
+  "darpabacksprojecttomeasureaienergyuseateverystageoftheworkfl"
  ],
  "releases_done": {},
  "last_digest": "2026-10-31",
@@ -615,7 +615,7 @@
   "date": "2026-10-31",
   "count": 43
  },
- "last_run": "2026-10-31T18:55:15.167479+02:00",
+ "last_run": "2026-10-31T19:00:29.491268+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
