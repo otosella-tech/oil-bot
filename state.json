@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "bb900c1bf4ca4fdf",
-  "oilpriceseaseasusseekstorenewdiplomacywithiran",
   "09ddcf5b56f54c58",
   "aaatexasreportsgaspricescontinuetodrop",
   "28e5d9f402c030b2",
@@ -603,7 +601,9 @@
   "a568fd57f5a9440e",
   "currentpriceofoilasofoct152026",
   "eaf356f287612f04",
-  "techstockserase1trillionofwealthasoilsurgesto110forthefirstt"
+  "techstockserase1trillionofwealthasoilsurgesto110forthefirstt",
+  "b39d21cb094ec68c",
+  "oilpricessoar14inoctoberto6monthhighasusweighsfreshiranstrik"
  ],
  "releases_done": {},
  "last_digest": "2026-10-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-31",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-10-31T13:00:26.515880+02:00",
+ "last_run": "2026-10-31T13:05:16.286231+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
@@ -1424,6 +1424,10 @@
   {
    "d": "2026-10-31",
    "t": "Oil refinery in Russia's Ufa on fire after drone attack, key unit believed hit – photo, video - Українська правда"
+  },
+  {
+   "d": "2026-10-31",
+   "t": "Oil prices soar 14% in October to 6-month high as US weighs fresh Iran strikes after midterms. More pain ahead? - inkl"
   }
  ]
 }
