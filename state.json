@@ -4,18 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "4c24c7590c799a8b",
-  "europetorelease42millionbarrelsofoil",
-  "b34e1d2da99f31bf",
-  "venezuelancrudeoiltoberefinedincorpuschristi",
-  "1ba5ea25a1f3e7d9",
-  "skyhighgaspricesarentshakingtrumpsmagafaithfulinoilcountryas",
-  "87621024c5e72be3",
-  "uspushesnuclearenergyexpansionincentralasiaandcaucasus",
-  "e96652671ab37684",
-  "embraceskinimalismwithcrudesoilcleansingstarterkit",
-  "aa8763e44c449314",
-  "crudeoilmoveslowercaterpillarsharesfallfollowingq3results",
   "7917af3ac06b2ea8",
   "whitecaprideshighoilpricesbanksthecash",
   "6113e0ba46dd2512",
@@ -603,7 +591,19 @@
   "97232b593b82878a",
   "exxonchevronreportmassiveprofitsastrumpbragsenergyfirmsarema",
   "ff8ca4c01efd3daf",
-  "trickortreatoilpricesjumpmorethan2asstraitofhormuztankeratta"
+  "trickortreatoilpricesjumpmorethan2asstraitofhormuztankeratta",
+  "4f33ddb28305a61d",
+  "currentpriceofoilasofoctober222026",
+  "da74d44a177e451a",
+  "uscrudeoilstockpilesfallmorethanexpected",
+  "ba894dba42ddf314",
+  "saudicrudeoilexportshitfivemonthhighinaugustdatashows",
+  "9ec0ee257e17bd41",
+  "currentpriceofoilasofoct212026",
+  "00034a9da4d9bbde",
+  "willoilpricesdeclineasmiddleeastsupplyrecovers",
+  "737ce7f0e857e232",
+  "stocksseesupportaheadofbusyweekascrudeoilpricesease"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-31",
-  "count": 13
+  "count": 15
  },
- "last_run": "2026-10-31T06:35:16.010807+02:00",
+ "last_run": "2026-10-31T06:40:19.198369+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
@@ -1392,6 +1392,10 @@
   {
    "d": "2026-10-31",
    "t": "TRICK OR TREAT? Oil Prices Jump More Than 2% as Strait of Hormuz Tanker Attack Renews Middle East Supply Fears - EnergyNow.com"
+  },
+  {
+   "d": "2026-10-31",
+   "t": "Saudi crude oil exports hit five-month high in August, data shows - Reuters"
   }
  ]
 }
