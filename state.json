@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "eb7ecd96e82ac0e8",
-  "exclusiveinsidetheusmilitarysopenendedmissiontokeepgulfoilfl",
   "2b7480cc795d0d9c",
   "indiansharesseenopeninghigherafterearningsledreboundhigheroi",
   "cd6cd4444361b443",
@@ -603,7 +601,9 @@
   "ae91f50a4823c857",
   "oilhitssixmonthhighsashormuzattacksthreateniranpeaceefforts",
   "d272b7a81b52b03f",
-  "opecagreesinprincipletokeepoiloutputtargetssteadyindecembers"
+  "opecagreesinprincipletokeepoiloutputtargetssteadyindecembers",
+  "81647782cc8d1a15",
+  "bigoilsiranwarwindfallisnearly3timeslastyearsprofits"
  ],
  "releases_done": {},
  "last_digest": "2026-10-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-31",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-10-31T20:30:23.949128+02:00",
+ "last_run": "2026-10-31T20:35:14.615260+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
@@ -1472,6 +1472,10 @@
   {
    "d": "2026-10-31",
    "t": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say - Reuters"
+  },
+  {
+   "d": "2026-10-31",
+   "t": "Big Oil’s Iran War Windfall Is Nearly 3 Times Last Year’s Profits - 24/7 Wall St."
   }
  ]
 }
