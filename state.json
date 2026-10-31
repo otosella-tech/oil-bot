@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "0caf727216f90bfa",
-  "usoilinventoriesfallagainaspricesrise",
   "16c2850dc44bd580",
   "lafourcheparishpresidenturgesboaterstoavoidoilspillsiteascle",
   "f3c290cbe714ede1",
@@ -603,7 +601,9 @@
   "c57d48e1f88e0db5",
   "whyoilpricescouldkeeprisingandwhatcouldbringthemdown",
   "9cc23348400fc151",
-  "exxonchevronpaintbullishpicturesoftheoilbusiness"
+  "exxonchevronpaintbullishpicturesoftheoilbusiness",
+  "f3b0271f9269dbf0",
+  "3oilstocksinvestorsarescreeningasbrentforecastsmovehigher"
  ],
  "releases_done": {},
  "last_digest": "2026-10-31",
@@ -615,7 +615,7 @@
   "date": "2026-10-31",
   "count": 39
  },
- "last_run": "2026-10-31T16:20:18.026988+02:00",
+ "last_run": "2026-10-31T16:25:15.459691+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
