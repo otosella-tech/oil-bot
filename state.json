@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "9f7de76f85b986b6",
-  "oilpricesriseashouthiattacksonsaudiarabiastokesupplyfearsbre",
   "1190c783219b1445",
   "crudeoilextendsgainsashouthiattacksonsaudirefineriestightens",
   "5791d7a549679b85",
@@ -603,7 +601,9 @@
   "3d693b395a655417",
   "ukrainianstrikedamagedallprimaryrefiningunitsatnovokuybyshev",
   "daf68884f612cb4b",
-  "cockyandwrongonceagainclaytravis1millionbetgoeshorriblywrong"
+  "cockyandwrongonceagainclaytravis1millionbetgoeshorriblywrong",
+  "437df7e7e5a7b887",
+  "oilpricesriseafteranattackinthestraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-10-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-31",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-10-31T22:40:18.679082+02:00",
+ "last_run": "2026-10-31T22:45:18.879966+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
@@ -1484,6 +1484,10 @@
   {
    "d": "2026-10-31",
    "t": "Ukrainian Strike Damaged All Primary Refining Units at Novokuybyshevsky Oil Refinery - Мілітарний"
+  },
+  {
+   "d": "2026-10-31",
+   "t": "Oil prices rise after an attack in the Strait of Hormuz - Inspenet"
   }
  ]
 }
