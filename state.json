@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "5477ccee6b8caca3",
-  "oilpricesjump3onhouthiattacksoilspillhighestsettlementsincea",
   "0cefa1291830cc5e",
   "currentpriceofoilasofoctober82026",
   "325e74fa4458e7df",
@@ -603,7 +601,9 @@
   "efb43a4101567351",
   "profitsofeuropeanoilgiantsdoubledthisyearamidmiddleeastwarre",
   "afc500df2b33d091",
-  "ustreasurysaysiransoilrevenuetradehithardbypressurecampaign"
+  "ustreasurysaysiransoilrevenuetradehithardbypressurecampaign",
+  "0bac05d1e308a30f",
+  "oiljumps2settlesat6monthhighsonfearsofescalationiniraneurone"
  ],
  "releases_done": {},
  "last_digest": "2026-10-30",
@@ -615,7 +615,7 @@
   "date": "2026-10-31",
   "count": 17
  },
- "last_run": "2026-10-31T07:50:19.389243+02:00",
+ "last_run": "2026-10-31T07:55:13.958815+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
