@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "97a5f7e0b698d0e7",
-  "oilpriceshocksnowbenefittheusasvenezuelancrudeflowstotexas",
   "a86de729c7be4e4e",
   "riskofmoremideastwarboostsoilthreatensyourwallet",
   "306db1f947bb3032",
@@ -603,7 +601,9 @@
   "583e06d6340a6b5e",
   "senegalsambitiousplantoslashelectricitycostsandboostenergyse",
   "3e046563e00572b2",
-  "bigoilisgrapplingwithhowtospenditswindfallprofits"
+  "bigoilisgrapplingwithhowtospenditswindfallprofits",
+  "d7ea13b535d1f05b",
+  "crudeoilpriceshitsixmonthhighasiranwarescalationfearsgrow"
  ],
  "releases_done": {},
  "last_digest": "2026-10-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-10-31",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-10-31T18:10:19.151767+02:00",
+ "last_run": "2026-10-31T18:15:17.664741+02:00",
  "sent_stories": [
   {
    "d": "2026-10-28",
@@ -1452,6 +1452,10 @@
   {
    "d": "2026-10-31",
    "t": "Iraq Hit Kharg Island Nearly 60 Times. Iran’s Oil Exports Rose. - Energy News Beat"
+  },
+  {
+   "d": "2026-10-31",
+   "t": "Crude Oil Prices Hit Six-Month High as Iran War Escalation Fears Grow - Business Post Nigeria"
   }
  ]
 }
