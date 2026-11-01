@@ -4,10 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "006e8215ee12eef0",
-  "chevrontopsq3expectationsonhigherdownstreamprofit",
-  "87df41c5480c7783",
-  "irgcsaystwotankersstoppedsouthofstraitofhormuzafterignoringr",
   "67772de2912ff1af",
   "recordtankerratescrippleuscrudeoilflowstoasia",
   "4d4fd7387c5a62a4",
@@ -603,7 +599,11 @@
   "551da3fa591341f5",
   "majoroilfirmsearn563billionamidfuelcrises",
   "cd3bdc0112bbc72b",
-  "opecholdsdecemberoiloutputtargetssteadyasiranwardisruptssupp"
+  "opecholdsdecemberoiloutputtargetssteadyasiranwardisruptssupp",
+  "37680f51d06081f1",
+  "opecallieskeepoutputsteadywhilegulfshippingremainsunderthrea",
+  "7bd5b81b8213e4af",
+  "opeckeepsdecemberoiloutputtargetssteady"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-01",
-  "count": 44
+  "count": 45
  },
- "last_run": "2026-11-01T14:55:14.039533+02:00",
+ "last_run": "2026-11-01T15:00:28.290221+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
