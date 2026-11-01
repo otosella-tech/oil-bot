@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "5363acdf3551342d",
-  "big5oilstockcenovusenergyturnedthetarrystufftoearningsgold",
   "89d97705b1652c73",
   "markettalktheoilmarkethasgotsavvytotheebbsandflowsofthiswar",
   "d25b1500a30e4013",
@@ -603,7 +601,9 @@
   "26357d97a7c13458",
   "yoursundaynov1guidefourthingstodointheoilcity",
   "a1609f76fff3e287",
-  "usoilgiantsreportprofitsurgeagainoniranwar"
+  "usoilgiantsreportprofitsurgeagainoniranwar",
+  "7ffaa548ac56f0cb",
+  "opeckeepsdecemberoiloutputtargetssteadyaheadoftoughercallfor"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-01",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-11-01T16:15:19.170553+02:00",
+ "last_run": "2026-11-01T16:20:20.209228+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
@@ -1332,6 +1332,10 @@
   {
    "d": "2026-11-01",
    "t": "US oil giants report profit surge again on Iran war - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Opec+ keeps December oil output targets steady ahead of tougher call for 2027 - The Business Times"
   }
  ]
 }
