@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "506d0901a7acd303",
-  "trumptoutedarecordvenezuelaoildealnowrealityissettingin",
   "b00e474999be09a1",
   "ftse100risesasoilpricesapproachsixmonthhighsoutperformingwea",
   "dfc516fcc48a01f8",
@@ -603,7 +601,9 @@
   "0eb99603a86d78c4",
   "howalittleknowncompanydominatedthepersiangulfoiltrade",
   "24e20f319978d4ec",
-  "wallstreetbanksraiseoilpriceforecastsassupplyfearsdeepen"
+  "wallstreetbanksraiseoilpriceforecastsassupplyfearsdeepen",
+  "5186e22fd317dff9",
+  "majorfirebreaksoutatkstovooilrefineryinrussiaafterdroneattac"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-01",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-11-01T12:15:18.129646+02:00",
+ "last_run": "2026-11-01T12:20:18.545091+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-11-01",
    "t": "OPEC+ Set to Stick With Plan for Steady Quotas, Delegates Say - Bloomberg"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Major fire breaks out at Kstovo oil refinery in Russia after drone attack - Українська правда"
   }
  ]
 }
