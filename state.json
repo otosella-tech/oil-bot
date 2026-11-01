@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "ee92c07a327318c8",
-  "oilgainsonsignsusmayresumemilitarystrikesagainstiran",
   "78431b7af19d35eb",
   "iraqipoliticianssentencedtoprisoninoilcorruptioncaseasharqal",
   "b233daa983a9efba",
@@ -603,7 +601,9 @@
   "e88d206dc3742b34",
   "trumppromisedtoslashenergycostsbutgasolinedieselandjetfuelal",
   "ee184831492e3692",
-  "crudetensionsopectokeepoiltargetsunchangedasiranwarcurbsgulf"
+  "crudetensionsopectokeepoiltargetsunchangedasiranwarcurbsgulf",
+  "c18f166fbb8fe104",
+  "commentshighoilpricestriggerdemanddestructionbutwillitlast"
  ],
  "releases_done": {},
  "last_digest": "2026-10-31",
@@ -615,7 +615,7 @@
   "date": "2026-11-01",
   "count": 8
  },
- "last_run": "2026-11-01T07:05:19.253135+02:00",
+ "last_run": "2026-11-01T07:10:18.933116+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
