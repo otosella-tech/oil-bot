@@ -4,10 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "3ef0db47c32435a2",
-  "forecastupdateforcrudeoil30102026",
-  "10b7675c79417b7e",
-  "oilrefineriesbecomeprimetargetsasglobalfuelshortageworsens",
   "d167fb9b7bfb40e2",
   "indiacutusandrussianoilimportsinseptember2026pivotingtotheua",
   "3d2d097d17c7d8a2",
@@ -603,7 +599,11 @@
   "21e7de655460ad2c",
   "crudeoilfacesanothervolatileweekasirandiplomacytestsgeopolit",
   "d46c8127f8930f1a",
-  "droneattackandfirereportedatrussiasnovokuibyshevskoilrefiner"
+  "droneattackandfirereportedatrussiasnovokuibyshevskoilrefiner",
+  "ca0f7e28bca8c5ce",
+  "whythecurrentoilcrisisexposesthedangersofshorttermenergypoli",
+  "2fecb6459075566b",
+  "opecleavesoiloutputtargetsunchangedfordecembertable"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-01",
-  "count": 51
+  "count": 53
  },
- "last_run": "2026-11-01T15:25:15.138594+02:00",
+ "last_run": "2026-11-01T15:30:25.251731+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
@@ -1320,6 +1320,10 @@
   {
    "d": "2026-11-01",
    "t": "Drone attack and fire reported at Russia's Novokuibyshevsk oil refinery - Euronews.com"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "OPEC+ Leaves Oil Output Targets Unchanged for December (Table) - Bloomberg.com"
   }
  ]
 }
