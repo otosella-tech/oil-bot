@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "3d130e60f7166789",
-  "omanrescues25sailorsfromburningoiltankerinstraitofhormuz",
   "08fdd94a3fa5fb18",
   "bpbeatsforecastswithrecordprofittargetsearlysettlingofdeepwa",
   "ea90ce2030245449",
@@ -603,7 +601,9 @@
   "db1d631b8062fa06",
   "crudeoilpriceforecastoilcontinuestogrindhigher",
   "01df5253522630aa",
-  "exxonmobilandchevrontopq3estimatesonhigherpricesandstrongout"
+  "exxonmobilandchevrontopq3estimatesonhigherpricesandstrongout",
+  "9950d0cb1d18e643",
+  "geopoliticaltensionscrudeoilpricesandq2earningstodictatemark"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -615,7 +615,7 @@
   "date": "2026-11-01",
   "count": 60
  },
- "last_run": "2026-11-02T01:00:28.496738+02:00",
+ "last_run": "2026-11-02T01:05:15.653519+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
