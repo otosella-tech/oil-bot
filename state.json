@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "439db98951e29450",
-  "oilmarketscaughtbetweeniranwarrisksandemergencysprreleases",
   "7016b7bb90a7a94e",
   "bolsonaroselectiondefeatcouldcomplicateusrareearthplans",
   "68980053bf98593d",
@@ -603,7 +601,9 @@
   "d686dcb93d2aea27",
   "stockmarketstotrackgeopoliticsoilearningsthisweek",
   "ca230312268d5dbb",
-  "tankerinstraitofhormuzhitbylimpetminessecuritysourcessay"
+  "tankerinstraitofhormuzhitbylimpetminessecuritysourcessay",
+  "98b594f4c736f6f5",
+  "currentpriceofoilasofoctober212026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -615,7 +615,7 @@
   "date": "2026-11-01",
   "count": 40
  },
- "last_run": "2026-11-01T14:05:16.163639+02:00",
+ "last_run": "2026-11-01T14:10:19.746217+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
