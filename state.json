@@ -4,10 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "0281857f90b4c442",
-  "uscrudeoilpricesfall",
-  "5ff1fca979ea7220",
-  "asiangasolinemarginplummetstooversixmonthlows",
   "749fc14e6ddd3384",
   "imperialoilbeatsprofitestimatesonstrongerrefiningmargins",
   "cba2e81ec3b86191",
@@ -603,7 +599,11 @@
   "885a97ab51f2bbe0",
   "cavvyenergybenefitstremendouslyfromiranwarandnotbecauseofoil",
   "8498091e4b35fd02",
-  "crudeoilweeklyoutlookusirandealhopesaheadofelections"
+  "crudeoilweeklyoutlookusirandealhopesaheadofelections",
+  "5ec1cd82cd3d7fdd",
+  "azerbaijansrenewableenergyboomistransformingitspowersector",
+  "425fdd172925a7d0",
+  "opecsettokeepoiloutputtargetssteadysourcessay"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -615,7 +615,7 @@
   "date": "2026-11-01",
   "count": 60
  },
- "last_run": "2026-11-01T17:55:15.289084+02:00",
+ "last_run": "2026-11-01T18:00:29.846514+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
@@ -1340,6 +1340,10 @@
   {
    "d": "2026-11-01",
    "t": "Cavvy Energy Benefits Tremendously From Iran War – And Not Because Of Oil (TSX:CVVY:CA) - Seeking Alpha"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "OPEC+ set to keep oil output targets steady, sources say - Yahoo! Finance Canada"
   }
  ]
 }
