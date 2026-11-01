@@ -4,12 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "db1d631b8062fa06",
-  "crudeoilpriceforecastoilcontinuestogrindhigher",
-  "01df5253522630aa",
-  "exxonmobilandchevrontopq3estimatesonhigherpricesandstrongout",
-  "606c0089c473b485",
-  "stockmarketoutlookcrudeoilpricestofpiinflows8triggersthatcou",
   "395892ca90371438",
   "usstockfuturestumbleasintelandamazonleadtechroutoiljumpsonmi",
   "47e69bab69b69a8b",
@@ -603,7 +597,13 @@
   "c3b453862c341e8b",
   "thestrangemaththatshowshowtrumpgotvenezuelatogiftoiltotheuni",
   "29a7f3fc4e657a82",
-  "oilpricesvscentralbanksasthemidtermelectionmarketdriver"
+  "oilpricesvscentralbanksasthemidtermelectionmarketdriver",
+  "c8322ba47e23d81a",
+  "cushinghuboilinventoriesfollownationaldecline",
+  "e9c7771a1fb14f60",
+  "bigoilisrakinginhugeprofitsshareholdersliketrumparecashingin",
+  "a411e301f37797cd",
+  "rollingbackcleanairactmethaneregulationsfortheoilandgasindus"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -615,7 +615,7 @@
   "date": "2026-11-01",
   "count": 60
  },
- "last_run": "2026-11-02T00:20:18.065157+02:00",
+ "last_run": "2026-11-02T00:25:16.687500+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
