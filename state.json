@@ -4,10 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "8837489f2a283a41",
-  "currentpriceofoilasofoctober232026",
-  "0ada9085aa031d86",
-  "ukrainiandroneshitrussianmilitaryfoodsupplieroilrefineryinov",
   "92bf2805d493b576",
   "valerotoacquireformerlyondellbasellhoustonoilrefineryrestart",
   "579bbc0009f4166a",
@@ -603,7 +599,11 @@
   "ce5bcd63bd5e931e",
   "oilrichoklahomaisntimmunetorisinggaspriceswillitmatterinthem",
   "5e91f24102a7da8b",
-  "saudiarabiaseconomycontracts38aswardisruptsoilproduction"
+  "saudiarabiaseconomycontracts38aswardisruptsoilproduction",
+  "43a1c677974441aa",
+  "twooiltankersexplodeafterhittingmineinhormuzstraitirgcspokes",
+  "0c15d06cdc8abec0",
+  "opecsettokeepdecemberoiloutputtargetssteadyamidwardisruption"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -615,7 +615,7 @@
   "date": "2026-11-01",
   "count": 60
  },
- "last_run": "2026-11-01T22:55:15.058610+02:00",
+ "last_run": "2026-11-01T23:00:27.880033+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
@@ -1352,6 +1352,14 @@
   {
    "d": "2026-11-01",
    "t": "Saudi Arabia’s economy contracts 3.8% as war disrupts oil production - Yahoo! Finance Canada"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Two oil tankers explode after hitting mine in Hormuz Strait, IRGC spokesperson says - The Jerusalem Post"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "OPEC+ set to keep December oil output targets steady amid war disruption - Business Standard"
   }
  ]
 }
