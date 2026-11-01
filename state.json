@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "a87430f4d4935436",
-  "dnoeyessyriarouteoutputup61",
   "5195d85d8a510ba5",
   "oilsdeclinecontinuesastradersbuoyedbyiransdiplomacywhichincl",
   "ee92c07a327318c8",
@@ -603,7 +601,9 @@
   "c9d383e4bae46e7b",
   "opeckeepsdecemberoiltargetsunchangedasbrenthoversnearsixmont",
   "39fe230e24cb0941",
-  "currentpriceofoilasofoctober272026"
+  "currentpriceofoilasofoctober272026",
+  "e88d206dc3742b34",
+  "trumppromisedtoslashenergycostsbutgasolinedieselandjetfuelal"
  ],
  "releases_done": {},
  "last_digest": "2026-10-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-01",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-11-01T06:45:18.583692+02:00",
+ "last_run": "2026-11-01T06:50:18.991168+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-11-01",
    "t": "OPEC+ Keeps December Oil Targets Unchanged as Brent Hovers Near Six-Month High: Report - Benzinga"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead - CNBC"
   }
  ]
 }
