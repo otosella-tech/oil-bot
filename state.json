@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "b5b33e2bbbc3adc1",
-  "oilpricesapproachsixmonthhighsasusmilitaryoptionsagainstiran",
   "c6dc78cae454c4ef",
   "chevronandexxonbeatearningsexpectationsasrefiningprofitssoar",
   "8837489f2a283a41",
@@ -603,7 +601,9 @@
   "a1087f5c712466c3",
   "weeklycolumncrudeoilsurgespastonehundreddollarswhilecryptodi",
   "047d0823b6c8a039",
-  "massiveaidatacentersparksbacklashdespitecleanenergypromises"
+  "massiveaidatacentersparksbacklashdespitecleanenergypromises",
+  "ce5bcd63bd5e931e",
+  "oilrichoklahomaisntimmunetorisinggaspriceswillitmatterinthem"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -615,7 +615,7 @@
   "date": "2026-11-01",
   "count": 60
  },
- "last_run": "2026-11-01T22:20:18.592691+02:00",
+ "last_run": "2026-11-01T22:25:15.681625+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
