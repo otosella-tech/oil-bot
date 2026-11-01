@@ -4,24 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "1fe1785edba1ea41",
-  "oilfuturescrudehigherasdiplomacystallstankerattackscontinue",
-  "71d71eb667cfbf06",
-  "themidtermsmayreviveadyingbrandtheoilstatedemocrat",
-  "43f9f51c5a1d8c2a",
-  "bpnetprofitquadruplesonhigheroilprices",
-  "32da509d463e17c1",
-  "bccrudeoilfutures",
-  "985c88d84a445bce",
-  "bpprofitsjumpasmiddleeastconflictdrivesupoilrefiningmargins",
-  "8c4044d3f2c08e97",
-  "crudeoilmarketanalysiscurveriskpremiumanddieselcrackcmbnews",
-  "ca47516f50fa299f",
-  "newsletterreadinggulfanxietyintheoilprice",
-  "38d6a04dc1cbe9e8",
-  "oilspillsfromiranstankerattackswashuponuaebeaches",
-  "a75b1b009a189093",
-  "howrisingcrudeoilpricescouldimpacttheusandglobaleconomy",
   "63dc48bf066cb036",
   "highoilpricessettotriggernewwaveofnorthseamergers",
   "7366dcb8fff9a633",
@@ -603,7 +585,25 @@
   "289c45adc59ff7f8",
   "usmidtermelectionsemkaywarnsofcrudeoilrisksforindianmarketss",
   "07d3cf6a93cc1c95",
-  "livetrumpnetanyahuspeakusweighsrenewediranstrikes"
+  "livetrumpnetanyahuspeakusweighsrenewediranstrikes",
+  "d43b0493c1b79d48",
+  "houthisclaimfreshstrikesonsaudioilrefineriesandaramcofacilit",
+  "93239e86289de2e2",
+  "nevadagaspricesfallascrudeoilpricesremainhigh",
+  "513c2f906530688b",
+  "oilpricesreboundamidpersistentmiddleeastsupplyrisks",
+  "ea252f8d83de9c21",
+  "oilmarketreportoctober2026iea",
+  "1c24cab6c6beaec6",
+  "wticrudeoilfuturesadvanceforthirdsessionamidglobaltensions",
+  "9fcb44955c215020",
+  "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility",
+  "8ddd03b55c17f251",
+  "oilpricesjumpasiranstepsuptankerattackshurricanethreatensusg",
+  "7bd91173d2b2baea",
+  "iransfleetofshadowtankershasrunoutofoilaftermonthslongusbloc",
+  "b7d1570eec9225c2",
+  "currentpriceofoilasofoctober92026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-01",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-11-01T08:15:18.460875+02:00",
+ "last_run": "2026-11-01T08:20:18.754449+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
@@ -1240,6 +1240,18 @@
   {
    "d": "2026-11-01",
    "t": "Live - Trump, Netanyahu speak, US weighs renewed Iran strikes - Iran International"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Houthis Claim Fresh Strikes on Saudi Oil Refineries and Aramco Facilities - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production - CNBC"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade - WSJ"
   }
  ]
 }
