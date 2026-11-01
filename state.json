@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "39fe230e24cb0941",
-  "currentpriceofoilasofoctober272026",
   "ea8ff33cb6ca4ccf",
   "offgridsolarisnowthecheapestpowerfornearly400millionpeople",
   "a87430f4d4935436",
@@ -603,7 +601,9 @@
   "eb7ecd96e82ac0e8",
   "exclusiveinsidetheusmilitarysopenendedmissiontokeepgulfoilfl",
   "f11c4ffdd786c142",
-  "africaenergybanklaunchedwith5billioncapital"
+  "africaenergybanklaunchedwith5billioncapital",
+  "c9d383e4bae46e7b",
+  "opeckeepsdecemberoiltargetsunchangedasbrenthoversnearsixmont"
  ],
  "releases_done": {},
  "last_digest": "2026-10-31",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-01",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-01T05:50:18.170509+02:00",
+ "last_run": "2026-11-01T05:55:16.397349+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-11-01",
    "t": "Drone strikes target power and oil facilities in eastern Sudan - Sudan Tribune"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "OPEC+ Keeps December Oil Targets Unchanged as Brent Hovers Near Six-Month High: Report - Benzinga"
   }
  ]
 }
