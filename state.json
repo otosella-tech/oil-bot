@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "b00e474999be09a1",
-  "ftse100risesasoilpricesapproachsixmonthhighsoutperformingwea",
   "dfc516fcc48a01f8",
   "bpsthirdquarterprofitnearlyquadruplesto85billionasrefiningma",
   "529c9d02da76f328",
@@ -603,7 +601,9 @@
   "24e20f319978d4ec",
   "wallstreetbanksraiseoilpriceforecastsassupplyfearsdeepen",
   "5186e22fd317dff9",
-  "majorfirebreaksoutatkstovooilrefineryinrussiaafterdroneattac"
+  "majorfirebreaksoutatkstovooilrefineryinrussiaafterdroneattac",
+  "f5bc1b3469323723",
+  "trumptoutedarecordvenezuelaoildealnowrealityissettingin"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -615,7 +615,7 @@
   "date": "2026-11-01",
   "count": 32
  },
- "last_run": "2026-11-01T12:20:18.545091+02:00",
+ "last_run": "2026-11-01T12:25:16.446304+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
