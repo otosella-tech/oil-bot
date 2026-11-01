@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "77e53f7346a690dd",
-  "usoilindustryearnedover130billioninprofitduringiranwar",
   "a5c691622b8d0f1e",
   "eucountriespledge205mndieselbarrelsaswintersupplyfearsgrow",
   "7f38df16ccf7a10e",
@@ -603,7 +601,9 @@
   "c3288d78b5af85f6",
   "morethan6400oilspillsoccurredinthegreatlakesoveradecadestudy",
   "2c29374cd52dd5a1",
-  "crudeoilpriceforecastwtibrentriseafterhormuztankerattack"
+  "crudeoilpriceforecastwtibrentriseafterhormuztankerattack",
+  "653e1d3615ef2aea",
+  "geopoliticaltensionsirandiplomacydrivecrudeoilvolatility"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -615,7 +615,7 @@
   "date": "2026-11-01",
   "count": 34
  },
- "last_run": "2026-11-01T13:20:19.471040+02:00",
+ "last_run": "2026-11-01T13:25:17.306432+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
