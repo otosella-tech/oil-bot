@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "ea8ff33cb6ca4ccf",
-  "offgridsolarisnowthecheapestpowerfornearly400millionpeople",
   "a87430f4d4935436",
   "dnoeyessyriarouteoutputup61",
   "5195d85d8a510ba5",
@@ -603,7 +601,9 @@
   "f11c4ffdd786c142",
   "africaenergybanklaunchedwith5billioncapital",
   "c9d383e4bae46e7b",
-  "opeckeepsdecemberoiltargetsunchangedasbrenthoversnearsixmont"
+  "opeckeepsdecemberoiltargetsunchangedasbrenthoversnearsixmont",
+  "39fe230e24cb0941",
+  "currentpriceofoilasofoctober272026"
  ],
  "releases_done": {},
  "last_digest": "2026-10-31",
@@ -615,7 +615,7 @@
   "date": "2026-11-01",
   "count": 4
  },
- "last_run": "2026-11-01T06:05:15.306556+02:00",
+ "last_run": "2026-11-01T06:10:18.109582+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
