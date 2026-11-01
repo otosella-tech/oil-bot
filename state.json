@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "16b3a3bfa0c0bde4",
-  "warshispromisingsomethingthefedcantcontrol",
   "74b595efc2115222",
   "brent2026viewtops90forfirsttimesincemayasmideaststabilityrem",
   "1ca78a757750f348",
@@ -603,7 +601,9 @@
   "bf1ee51fa7633b38",
   "stocksseesupportascrudeoilpriceseaseandfomcawaited",
   "f253aad7727254bd",
-  "highoilpricespushexxonandchevronpast3qexpectationsthearkansa"
+  "highoilpricespushexxonandchevronpast3qexpectationsthearkansa",
+  "e59175d92f9e80cc",
+  "trumpsvenezuelastrategyneedsmorethanoildeals"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-01",
-  "count": 22
+  "count": 24
  },
- "last_run": "2026-11-01T09:35:15.083212+02:00",
+ "last_run": "2026-11-01T09:40:18.766607+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-11-01",
    "t": "Iranian Oil Tanker Arrives in China with 2 Million Barrels of Crude - WANA News Agency"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Trump’s Venezuela Strategy Needs More Than Oil Deals - Bloomberg.com"
   }
  ]
 }
