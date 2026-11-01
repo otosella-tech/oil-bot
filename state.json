@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "78431b7af19d35eb",
-  "iraqipoliticianssentencedtoprisoninoilcorruptioncaseasharqal",
   "b233daa983a9efba",
   "11eucountriesvowtorelease426millionbarrelsofoilafterg7pledge",
   "d4a2ab3dee964f69",
@@ -603,7 +601,9 @@
   "ee184831492e3692",
   "crudetensionsopectokeepoiltargetsunchangedasiranwarcurbsgulf",
   "c18f166fbb8fe104",
-  "commentshighoilpricestriggerdemanddestructionbutwillitlast"
+  "commentshighoilpricestriggerdemanddestructionbutwillitlast",
+  "b38d6d5cba342b32",
+  "oilmajorsresistpressuretoinvestinnewrefineriesasfuelpriceske"
  ],
  "releases_done": {},
  "last_digest": "2026-10-31",
@@ -615,7 +615,7 @@
   "date": "2026-11-01",
   "count": 8
  },
- "last_run": "2026-11-01T07:15:18.274967+02:00",
+ "last_run": "2026-11-01T07:20:20.474932+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
