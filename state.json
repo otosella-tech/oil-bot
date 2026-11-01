@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "843933173c167ac8",
-  "exxonreapsrecordprofitsfromoilrefiningonwardrivengasolinedie",
   "fe2c3a353f284db3",
   "ukenergypoisedformoredealsamidhightaxesandoilprices",
   "9ca82a78cd44d090",
@@ -603,7 +601,9 @@
   "87df41c5480c7783",
   "irgcsaystwotankersstoppedsouthofstraitofhormuzafterignoringr",
   "99e544eea6c403ce",
-  "aheadofmarket10thingsthatwilldecidestockmarketactiononmonday"
+  "aheadofmarket10thingsthatwilldecidestockmarketactiononmonday",
+  "67772de2912ff1af",
+  "recordtankerratescrippleuscrudeoilflowstoasia"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-01",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-11-01T15:10:20.004511+02:00",
+ "last_run": "2026-11-01T15:15:19.225489+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
@@ -1312,6 +1312,10 @@
   {
    "d": "2026-11-01",
    "t": "IRGC says two tankers stopped south of Strait of Hormuz after ignoring radio warnings from Iran - The Jerusalem Post"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
