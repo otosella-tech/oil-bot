@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "788133fcf170a904",
-  "iransaystwooiltankersstoppedsouthofhormuzafterincident",
   "439db98951e29450",
   "oilmarketscaughtbetweeniranwarrisksandemergencysprreleases",
   "7016b7bb90a7a94e",
@@ -603,7 +601,9 @@
   "d7193f4202ff56d2",
   "geopoliticalriskscrudeoilandearningstosteermarketsthisweek",
   "d686dcb93d2aea27",
-  "stockmarketstotrackgeopoliticsoilearningsthisweek"
+  "stockmarketstotrackgeopoliticsoilearningsthisweek",
+  "ca230312268d5dbb",
+  "tankerinstraitofhormuzhitbylimpetminessecuritysourcessay"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-01",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-11-01T13:35:15.311300+02:00",
+ "last_run": "2026-11-01T13:40:18.347119+02:00",
  "sent_stories": [
   {
    "d": "2026-10-29",
@@ -1296,6 +1296,10 @@
   {
    "d": "2026-11-01",
    "t": "Crude oil prices likely to remain volatile with upward bias amid US-Iran tensions: Analysts - Moneycontrol.com"
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Tanker in Strait of Hormuz hit by limpet mines, security sources say - Reuters"
   }
  ]
 }
