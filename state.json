@@ -4,8 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "ee184831492e3692",
-  "crudetensionsopectokeepoiltargetsunchangedasiranwarcurbsgulf",
   "c18f166fbb8fe104",
   "commentshighoilpricestriggerdemanddestructionbutwillitlast",
   "b38d6d5cba342b32",
@@ -603,7 +601,9 @@
   "f8179e124a3a2c24",
   "russianshadowfleettankercarrying1millionbarrelsofoilhitbyexp",
   "f4a3b9a15fc15d07",
-  "oilpricesfallasiranandqatarimediatorsholdtalkstoendwar"
+  "oilpricesfallasiranandqatarimediatorsholdtalkstoendwar",
+  "624cc8bdedfe6091",
+  "oilpricefallsonoptimismtalkswillbringendtoiranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T14:20:19.060537+02:00",
+ "last_run": "2026-11-02T14:25:15.741275+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1356,6 +1356,10 @@
   {
    "d": "2026-11-02",
    "t": "Oil prices fall as Iran and Qatari mediators hold talks to end war - The Times"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil price falls on optimism talks will bring end to Iran war - The Times"
   }
  ]
 }
