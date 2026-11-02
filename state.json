@@ -4,16 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "80c2582825cd9ee7",
-  "usloans40millionbarrelsofoilfromsprinlastshareofglobalagreem",
-  "09f7600649f84ac5",
-  "iraqhitkhargislandnearly60timesiransoilexportsrose",
-  "ae75948432923d4a",
-  "oilcreepshigheramiduncertaintyoverusastrategyiniran",
-  "631c43fb9fd72a30",
-  "oilpricesfallastradershopefordiplomaticprogressinmiddleeast",
-  "8df94d07009554ab",
-  "yoursaturdayoct31guidefivethingstodointheoilcity",
   "c57d48e1f88e0db5",
   "whyoilpricescouldkeeprisingandwhatcouldbringthemdown",
   "9cc23348400fc151",
@@ -603,7 +593,17 @@
   "cfd86e0cfe9d2958",
   "oilpricesfallasreportofusdiplomaticeffortseasesiranfears",
   "c0e9a4e3b051949f",
-  "painatthepumponeoilshockverydifferentbills"
+  "painatthepumponeoilshockverydifferentbills",
+  "224d9404011554dc",
+  "rupeeendslittlechangedastradersstaycautiousdespiteoildollard",
+  "13825133c5f91e99",
+  "indianbondsrallyasoilfallshigheryieldsattractbuyers",
+  "766997d0736e35b5",
+  "oilslidesonhormuzdealhopesbuttrumpkeepsiranstrikesonthetable",
+  "63b3d7aab8c5d553",
+  "relianceearningsloweroilpricespowerindiassensextoneartwomont",
+  "931b6642d6522bf6",
+  "oildropsover4onhopesofprogressintalksonendingusiranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T12:35:16.250139+02:00",
+ "last_run": "2026-11-02T12:40:19.795912+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1324,6 +1324,14 @@
   {
    "d": "2026-11-02",
    "t": "Oil prices fall as report of US diplomatic efforts eases Iran fears - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil slides on Hormuz deal hopes but Trump keeps Iran strikes on the table - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil drops over 4% on hopes of progress in talks on ending US-Iran war - CNA"
   }
  ]
 }
