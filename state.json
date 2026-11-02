@@ -4,10 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "31efff512502b626",
-  "tightreservoirsequinorandakerbpsignagreement",
-  "a75b1b009a189093",
-  "howrisingcrudeoilpricescouldimpacttheusandglobaleconomy",
   "80df905667b5a871",
   "whatgoesaroundoftencomesaroundthearkansasdemocrat",
   "ab84fd9cc10f4445",
@@ -603,7 +599,11 @@
   "81e4ddcdd6893395",
   "usstockfuturesriseasoilpricesdropeasingailedselloff",
   "9a8d616e1b90503b",
-  "usstockfuturesriseasoildropbuoyssentimentmarketswrap"
+  "usstockfuturesriseasoildropbuoyssentimentmarketswrap",
+  "4f9d5d238111a206",
+  "oildropsmorethan4ontalksaimedatendingusiranwar",
+  "9d241e5c68dbf9f4",
+  "oilpricesplungemorethan4asusiranpeacetalksraisehopesofeasing"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T15:20:19.329943+02:00",
+ "last_run": "2026-11-02T15:25:15.344900+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1372,6 +1372,14 @@
   {
    "d": "2026-11-02",
    "t": "Oil Prices Fall More Than 4% as Iran Peace Talks Ease Supply Fears - WSJ"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil drops more than 4% on talks aimed at ending US-Iran war - Central Oregon Daily"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil Prices Plunge More Than 4% as U.S.-Iran Peace Talks Raise Hopes of Easing Middle East Supply Disruptions - EnergyNow.com"
   }
  ]
 }
