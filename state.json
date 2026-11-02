@@ -4,12 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "81647782cc8d1a15",
-  "bigoilsiranwarwindfallisnearly3timeslastyearsprofits",
-  "8eac7852b7e783ec",
-  "trumpsiranwarbringsonrecordoilcompanyprofits",
-  "b0c979d403f84dce",
-  "whysomeamazoncommunitieswelcometheoilcompaniesthreateningthe",
   "970e26daa01dbea0",
   "jackdawapprovalsparksfiercedebateoverbritainsenergyfuture",
   "3d693b395a655417",
@@ -603,7 +597,13 @@
   "1d9077ee3f47f2ff",
   "hasthemarketgotitwrongoncrudeoilandgas",
   "36b7959c0b8d9418",
-  "noatummaritimekeepingtheoilmoving"
+  "noatummaritimekeepingtheoilmoving",
+  "ce5b2ff907d4baf0",
+  "crudeoilnearspotentialreversalasmomentumfadesamidirandiploma",
+  "33e138f073eabd88",
+  "oilpricesfallnearly4asiranqatartalksraisehopesofdiplomaticpr",
+  "d272b7a81b52b03f",
+  "opecagreesinprincipletokeepoiloutputtargetssteadyindecembers"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T13:10:27.899829+02:00",
+ "last_run": "2026-11-02T13:15:18.732813+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1332,6 +1332,14 @@
   {
    "d": "2026-11-02",
    "t": "Oil drops over 4% on hopes of progress in talks on ending US-Iran war - CNA"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil Prices Fall Nearly 4% as Iran-Qatar Talks Raise Hopes of Diplomatic Progress - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say - Reuters"
   }
  ]
 }
