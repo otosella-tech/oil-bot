@@ -4,8 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "1fc8bbd85c84c82c",
-  "valerostrikes320milliondealtobuyreopenhoustonsoldestrefinery",
   "8b3ac8036ad94fd2",
   "centcomtopcommandersaysnosignofirgcinthestraitofhormuzvoa",
   "f48b1bcb84b398ad",
@@ -603,7 +601,9 @@
   "8e1b8fff4338e4d3",
   "goldsilverpricesreboundascrudeoileasesgiottusceowarnsoffresh",
   "e7a0f272abdf1996",
-  "indiasreliancesetforbestdaysincejanuary2024asoilbusinessjiop"
+  "indiasreliancesetforbestdaysincejanuary2024asoilbusinessjiop",
+  "968821feed03c43c",
+  "oilpricesfallamidreportsthattheusandiranarebothseekingdiplom"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-02",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-11-02T07:35:17.629140+02:00",
+ "last_run": "2026-11-02T07:40:18.259329+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1228,6 +1228,10 @@
   {
    "d": "2026-11-02",
    "t": "Crude oil futures fall as diplomatic efforts to end Iran-US war continue - BusinessLine"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil prices fall amid reports that the U.S. and Iran are both seeking diplomacy - CNBC"
   }
  ]
 }
