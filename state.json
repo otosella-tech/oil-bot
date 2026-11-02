@@ -4,10 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "5477ccee6b8caca3",
-  "oilpricesjump3onhouthiattacksoilspillhighestsettlementsincea",
-  "55ed2571976e5ee3",
-  "scaryweekforoiloctoberoilgainsexceed13oilclimbsmorethan2frid",
   "99e1c046ac06147b",
   "trumpcalledoutbigoilprofitshereshowmuchtheirrefiningearnings",
   "1cfe9a3660e26440",
@@ -603,7 +599,11 @@
   "3b4ab6fe0a19531b",
   "usstockfuturesgainafterselloffoildeclinesmarketswrap",
   "00f716dd10ec70f1",
-  "uscrudefallsmorethan3amidreportsofusirandiplomaticefforts"
+  "uscrudefallsmorethan3amidreportsofusirandiplomaticefforts",
+  "46bf1d70a6c94aae",
+  "thehighestpricesystemthatcantfindanexittheoilrefiningindustr",
+  "9b1af86db2a00b14",
+  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T10:30:24.535082+02:00",
+ "last_run": "2026-11-02T10:35:16.026760+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
