@@ -4,8 +4,6 @@
   "Brent": 106.37
  },
  "seen": [
-  "127d03dddc76e8b7",
-  "dangotesetsupnewoilandgascompanyincameroon",
   "926054ff247c7c08",
   "november2026africaspremierreportontheoilgasandenergylandscap",
   "85f4500825209b95",
@@ -603,7 +601,9 @@
   "11d1e4ae4fd81f1f",
   "energybriefsfallingoilpricesoptimismgrowsovertalkswithiran",
   "eec69b787e34a074",
-  "usstocksrecoversomeoflastweeksselloffafteroilpricesdroppitts"
+  "usstocksrecoversomeoflastweeksselloffafteroilpricesdroppitts",
+  "7c190595dcc60b90",
+  "howiranjustbroketheusoilshieldinsaudiarabiayetagain"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T17:55:15.086823+02:00",
+ "last_run": "2026-11-02T18:00:31.641536+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1416,6 +1416,10 @@
   {
    "d": "2026-11-02",
    "t": "Ukraine Has Hit Three Russian Refineries Since Friday"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "How Iran Just Broke the U.S. Oil Shield In Saudi Arabia Yet Again"
   }
  ]
 }
