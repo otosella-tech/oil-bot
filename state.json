@@ -4,12 +4,6 @@
   "Brent": 106.37
  },
  "seen": [
-  "3e9507e57b1b201c",
-  "3oilandgasstockslinkedtohigherbrentprices",
-  "134b739a63732d87",
-  "uscrudeoilinventoriesbuckanalystexpectations",
-  "c424bad29b51cf1a",
-  "uslabslooktonewmaterialstoclosechinasnuclearlead",
   "812afec0f0183a5c",
   "nifty50closesoctoberat23053asforeigninvestoroutflowsremainac",
   "fc23bc4a7d55919b",
@@ -603,7 +597,13 @@
   "f434c30ff178b802",
   "stockmarketmiddaynov2stocksrallyasoilpricestumbleondiplomati",
   "3da06276f47e271a",
-  "nasdaq100forecastndxreboundsasoilpricesfallandaheadofappleea"
+  "nasdaq100forecastndxreboundsasoilpricesfallandaheadofappleea",
+  "d27227518c67d9f4",
+  "gasdieseloilpricesaredownbutreprievecouldbetemporary",
+  "c94d34fb7b7f4300",
+  "darbymanchargedwithdumpingbarrelofoilintodarbycreek",
+  "0773c428a4c95ed5",
+  "crudeoiltumbles7ismmanufacturingpmirisesinoctober"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T19:00:31.860433+02:00",
+ "last_run": "2026-11-02T19:05:17.518717+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
