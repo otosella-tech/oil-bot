@@ -4,10 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "9b1af86db2a00b14",
-  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
-  "ff16137eeb21c6d7",
-  "mexicosrichestmansells115billioninoilstocks",
   "efb43a4101567351",
   "profitsofeuropeanoilgiantsdoubledthisyearamidmiddleeastwarre",
   "afc500df2b33d091",
@@ -603,7 +599,11 @@
   "6113e0ba46dd2512",
   "currentpriceofoilasofoctober282026",
   "c101a2baeaac7fae",
-  "usoucoslideasbrentretreatsonusirandeescalationhopesbutgoldma"
+  "usoucoslideasbrentretreatsonusirandeescalationhopesbutgoldma",
+  "7654d19b4aa6658e",
+  "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh",
+  "e1e0590543d4cb3f",
+  "dowfuturesstableastradersweighoilvolatilityanduselectionsign"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-02",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-11-02T10:05:25.672633+02:00",
+ "last_run": "2026-11-02T10:10:21.549753+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-11-02",
    "t": "USO, UCO Slide As Brent Retreats On US-Iran De-escalation Hopes – But Goldman Reportedly Sees Oil At $105 In December - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries - CNBC"
   }
  ]
 }
