@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "7c7b6a5bab4fdff6",
-  "sensexjumps765pointsduringearlytradeonsharprallyinreliancesh",
   "9273f3c2e3a9224a",
   "middleeastlatestoilpricesslidemorethan3astrumpsignalsmoretim",
   "d9f71036bc202de3",
@@ -603,7 +601,9 @@
   "c4c4342305709d7f",
   "northernwestvirginiagaspricesdipasnationalaveragefalls",
   "28857dd107489178",
-  "goldsilverrecoverfromoctoberroutasoildropsfedtighteningbetsp"
+  "goldsilverrecoverfromoctoberroutasoildropsfedtighteningbetsp",
+  "6666425975c52ff3",
+  "oilpricesfallonusirannegotiations"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 2
  },
- "last_run": "2026-11-03T00:25:14.840121+02:00",
+ "last_run": "2026-11-03T00:30:22.970030+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
