@@ -4,12 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "818feb609a45bb7c",
-  "oilpricetodaynovember2crudeoilfallsto111asiranqatartalkscont",
-  "7c22bc236f49e70d",
-  "watertankrupturetriggerssafetyconcernsattajikistansrogundam",
-  "e236cd665d2dff61",
-  "thecommoditiesfeedusmidtermelectionskeyforoilmarket",
   "a1688d40357c3333",
   "palmoilslipsascrudepricescoolbiodieseldemand",
   "05c9039c0d774e0a",
@@ -603,7 +597,13 @@
   "1c41b9535b5eb117",
   "icecanolafuturesrisedespitedropinsoyoilandcrudeoil",
   "169c06fb70b4e709",
-  "cbotreviewsoybeansfallwithcrudeoilharvestprogress"
+  "cbotreviewsoybeansfallwithcrudeoilharvestprogress",
+  "cc296de5d552c0f4",
+  "dollarfallswithcrudeoilpricesandbondyields",
+  "ede620289de8b06e",
+  "oilpricessinkasiranussignalopennesstodiplomaticresolutiontoc",
+  "0c06c1337cf4277d",
+  "oilpricessinkasiransignalstalks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T22:40:20.022502+02:00",
+ "last_run": "2026-11-02T22:45:17.475520+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1524,6 +1524,10 @@
   {
    "d": "2026-11-02",
    "t": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil Prices Sink as Iran, US Signal Openness to Diplomatic Resolution to Conflict - Yahoo Finance"
   }
  ]
 }
