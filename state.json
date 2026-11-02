@@ -4,16 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "2e3c5265d2f3d784",
-  "delawaregaspriceholdssteadyascrudeoilstaysabove100abarrel",
-  "d6f22d81b86e001e",
-  "decemberwticrudeoilcontractclosesup212or21settlesat10412perb",
-  "ab760e48565443af",
-  "imperialoilceooptimisticonprogresstowardfirminguppathwaysagr",
-  "f52c57bc3bace2ef",
-  "russiasshadowfleetcantheeuacteveniftheuseasessanctionsonthes",
-  "3e5294e19d7f8bc3",
-  "heatingoilnow82moreexpensivethanthistimelastyear",
   "7d3b766ba71bd271",
   "whileamericanspaid148bextraongasamidwarbigoilmade130binprofi",
   "fc2e85b7036d89fe",
@@ -603,7 +593,17 @@
   "93b5492dd8c90e4f",
   "rupeeopensflatascrudeoileasesailedselloffweighsonasiancurren",
   "726895a09401e114",
-  "imperialoilconsideringmovingaheadwithaspenoilsandsprojectear"
+  "imperialoilconsideringmovingaheadwithaspenoilsandsprojectear",
+  "8ee2482dad1210f6",
+  "chevronprofitsnearlytripleto99billion",
+  "7d95bb1ab5b1474d",
+  "omanrescues25fromburningoiltankerinstraitofhormuz",
+  "8def048c9c7d94c5",
+  "chinasbigthreeoilgiantsearncombined3139billionyuaninfirstthr",
+  "9bff83c38354fbdc",
+  "howwillusmidtermsimpactindianequitiesbondyieldscrudeoil",
+  "f5aaf9d5589ad587",
+  "crudeoilisundernegativepressureanalysis02112026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-02",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-11-02T06:00:27.116610+02:00",
+ "last_run": "2026-11-02T06:05:14.456932+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-11-02",
    "t": "Oil Price Today (November 2): Crude oil falls to $111 as Iran-Qatar talks continue to end war. What are ex - The Economic Times"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oman rescues 25 from burning oil tanker in Strait of Hormuz - Al Jazeera"
   }
  ]
 }
