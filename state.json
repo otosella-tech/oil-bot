@@ -4,8 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "3112c2c235f2cd34",
-  "brentoiltops109afterhouthimilitantsclaimtheyattackedsaudiair",
   "a2ea2cc759609721",
   "currentpriceofoilasofoctober62026",
   "6ba4d23b98cd3374",
@@ -603,7 +601,9 @@
   "587a61f80a8ebd34",
   "syriasenergyambitionsfacegrowingsecuritychallenges",
   "1530b3b4ead14ddf",
-  "iraqsoilexportsviaturkeysurgeto500000bpd"
+  "iraqsoilexportsviaturkeysurgeto500000bpd",
+  "31537c10cfa1fd54",
+  "iranreportsfourtankersexplodinginstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T12:00:39.390627+02:00",
+ "last_run": "2026-11-02T12:05:15.869132+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1316,6 +1316,10 @@
   {
    "d": "2026-11-02",
    "t": "Iraq's Oil Exports via Turkey Surge to 500,000 Bpd"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Iran Reports Four Tankers Exploding in Strait of Hormuz - Marine News Magazine"
   }
  ]
 }
