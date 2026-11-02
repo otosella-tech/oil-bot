@@ -4,10 +4,6 @@
   "Brent": 106.37
  },
  "seen": [
-  "c3b453862c341e8b",
-  "thestrangemaththatshowshowtrumpgotvenezuelatogiftoiltotheuni",
-  "29a7f3fc4e657a82",
-  "oilpricesvscentralbanksasthemidtermelectionmarketdriver",
   "c8322ba47e23d81a",
   "cushinghuboilinventoriesfollownationaldecline",
   "e9c7771a1fb14f60",
@@ -603,7 +599,11 @@
   "cb35a29c9afc8bc4",
   "slumpingcrudeoilpricesweighonsugar",
   "5b0833c11f51f27b",
-  "oilpricesdeclineonhopesforprogressoniranwarefforts"
+  "oilpricesdeclineonhopesforprogressoniranwarefforts",
+  "f6a1ab7495b05c28",
+  "oildrops7asiransignalsopennesstopeacetalks",
+  "b697c1ca08469d2f",
+  "treasuryyieldsextendpastmonthsslideasoilpricestumble"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T19:50:25.218123+02:00",
+ "last_run": "2026-11-02T19:55:16.264794+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1468,6 +1468,10 @@
   {
    "d": "2026-11-02",
    "t": "Oil prices decline on hopes for progress on Iran war efforts - Transport Topics"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil drops 7% as Iran signals openness to peace talks - Reuters"
   }
  ]
 }
