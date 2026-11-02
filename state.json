@@ -4,10 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "a61f948c29a46cd2",
-  "oilpricesease3onoptimismforqatariledtalksonendingiranwar",
-  "c7b288b68e686eec",
-  "commentarybigoilsspendingcautionspeakslouderthanitsprofits",
   "b2c71e2a3d9b6c2e",
   "crudeoilfuturesfallasdiplomaticeffortstoendiranuswarcontinue",
   "a2535a79994c58d1",
@@ -603,7 +599,11 @@
   "e42fa86b7fdb1ca9",
   "oilpricesslideinbiggestdropsincejulyonhopeformoreirantalks",
   "c667b562ec6e2ba6",
-  "dollarslideswithcrudeoilpricesandbondyields"
+  "dollarslideswithcrudeoilpricesandbondyields",
+  "c0165b8ca99a1f7f",
+  "4energystocksformidtermelectionsthatcouldgoeitherway",
+  "2326d84b78cc0cfc",
+  "usstocksmixedaspercolatingaifearsoffsetoilrelief"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T23:55:16.059874+02:00",
+ "last_run": "2026-11-03T00:00:30.427726+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
