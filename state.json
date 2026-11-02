@@ -4,12 +4,6 @@
   "Brent": 106.37
  },
  "seen": [
-  "26357d97a7c13458",
-  "yoursundaynov1guidefourthingstodointheoilcity",
-  "a1609f76fff3e287",
-  "usoilgiantsreportprofitsurgeagainoniranwar",
-  "7ffaa548ac56f0cb",
-  "opeckeepsdecemberoiloutputtargetssteadyaheadoftoughercallfor",
   "5363acdf3551342d",
   "big5oilstockcenovusenergyturnedthetarrystufftoearningsgold",
   "46e582e55c89b45b",
@@ -603,7 +597,13 @@
   "a2fea674f1cf1281",
   "asgaspricesfallnatronacountyleadswyomingwithlowestfuelaverag",
   "cbb4ac1724590dd3",
-  "usstocksriseasoilpricesdropeasingailedselloff"
+  "usstocksriseasoilpricesdropeasingailedselloff",
+  "4b91794a813216ea",
+  "stocksrallyascrudeoilsinksonusiranhopes",
+  "d2a7179540563e78",
+  "usenergysecretarypraisesoklahomaoilandgaspushesforpermitting",
+  "d443423de298a94a",
+  "stocksbondsriseasoiltumblesonusiranhopesmarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T18:20:19.354709+02:00",
+ "last_run": "2026-11-02T18:25:15.444354+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1424,6 +1424,10 @@
   {
    "d": "2026-11-02",
    "t": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Stocks, Bonds Rise as Oil Tumbles on US-Iran Hopes: Markets Wrap - Bloomberg.com"
   }
  ]
 }
