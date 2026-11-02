@@ -1,13 +1,9 @@
 {
  "price_base": {
   "WTI": 100.05,
-  "Brent": 111.28
+  "Brent": 108.92
  },
  "seen": [
-  "75aaf0ba16bfae86",
-  "exclusivechevronisbacktosearchingforoilandgasinfarflungplace",
-  "d1dd607ac1e555a7",
-  "pennsylvaniaopensanewloopholeforoilandgaswastewaterdisposal",
   "f889608d03ff8870",
   "currentpriceofoilasofoctober162026",
   "a568fd57f5a9440e",
@@ -603,7 +599,11 @@
   "0498e533d04b9d06",
   "oilpricesdeclineonmondaybrentcrudeperformanceandtheopecdecis",
   "443335052da67d0d",
-  "oilcompanyearningsskyrocketagain"
+  "oilcompanyearningsskyrocketagain",
+  "0aa48eb0e1c405eb",
+  "tracyshuchartgoldmansachsraisescrudeoilpriceforecastsonhighe",
+  "392798bc90704ac9",
+  "anasalhajjiuscrudeoilproductionroseinaugustnearrecordhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T11:15:18.459173+02:00",
+ "last_run": "2026-11-02T11:19:23.559595+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
