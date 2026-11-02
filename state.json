@@ -4,8 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "d6f0b8693c76d493",
-  "africanlendersformallyestablish5billionenergybank",
   "3f599316bd1d92f4",
   "tensionsflareagaininhormuzasiransaysfourtankersonfire",
   "04c642b656053aea",
@@ -603,7 +601,9 @@
   "0d220a6ab451a7e6",
   "totalenergiestoacquire30stakeintwomajormalaysiangasfields",
   "98ce5711fd7b3952",
-  "gaspricesdipbutcrudeoilabove100limitsrelief"
+  "gaspricesdipbutcrudeoilabove100limitsrelief",
+  "acf96448e8f324c3",
+  "darpabacksprojecttomeasureaienergyuseateverystageoftheworkfl"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T13:00:34.266332+02:00",
+ "last_run": "2026-11-02T13:05:14.996215+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
