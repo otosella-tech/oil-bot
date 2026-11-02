@@ -4,12 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "b6e91e0a584912a5",
-  "oildropsamiddiplomaticeffortstorevivemideastpeacetalks",
-  "33eb5c5d41d27e9c",
-  "roiasiascrudeoilimportsbacktoprewarlevelsbutrefinedfuelslagr",
-  "be7d50139fbdb76b",
-  "crudeoilweeklypriceforecastoilcontinuestoseedipbuying",
   "a40fc4428a9e9e09",
   "oiltradersbraceforawildweekasbrentapproaches120",
   "27f0f9b1f7d2166e",
@@ -603,7 +597,13 @@
   "b7433e26f836b6c7",
   "epaproposesmajorrevisionstooilandgasemissionsregulations",
   "db9e0a9a75989ed2",
-  "allegedusiranpeaceprogresscausesmassive7plungeinoilprices"
+  "allegedusiranpeaceprogresscausesmassive7plungeinoilprices",
+  "594efb04093a1c78",
+  "updateusequityindexesriseamidsinkingcrudeoiltreasuryyields",
+  "69821821ce94282f",
+  "crudeoilwtitestssma200and50fibsupportlivelevels",
+  "3510fbcf99fe7449",
+  "usstocksturnunsteadyfollowinglastweeksselloffbutoilpricesfal"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T21:50:19.409489+02:00",
+ "last_run": "2026-11-02T21:55:16.164555+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
