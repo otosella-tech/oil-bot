@@ -4,8 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "7c22bc236f49e70d",
-  "watertankrupturetriggerssafetyconcernsattajikistansrogundam",
   "390a0a3bf691f9a0",
   "eveningupdateforcrudeoil30102026",
   "52a54004631cec79",
@@ -603,7 +601,9 @@
   "4d46bb4b59540e98",
   "yourfridayoct30guidefivethingstodointheoilcity",
   "78c0fbfa1ace20b2",
-  "oilpricestodaycrudefallsover1asiranqatartalksraisehopesofdip"
+  "oilpricestodaycrudefallsover1asiranqatartalksraisehopesofdip",
+  "818feb609a45bb7c",
+  "oilpricetodaynovember2crudeoilfallsto111asiranqatartalkscont"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-02",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-11-02T04:20:18.511257+02:00",
+ "last_run": "2026-11-02T04:25:15.567962+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1204,6 +1204,10 @@
   {
    "d": "2026-11-02",
    "t": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz - CNBC"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil Price Today (November 2): Crude oil falls to $111 as Iran-Qatar talks continue to end war. What are ex - The Economic Times"
   }
  ]
 }
