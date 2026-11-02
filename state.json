@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "8ee2482dad1210f6",
-  "chevronprofitsnearlytripleto99billion",
   "7d95bb1ab5b1474d",
   "omanrescues25fromburningoiltankerinstraitofhormuz",
   "8def048c9c7d94c5",
@@ -603,7 +601,9 @@
   "a57dc07ae4aab70e",
   "massachusettshomeheatingoiltrackingcostspergallon",
   "c2c8f8b09191c344",
-  "currentpriceofoilasofoctober292026"
+  "currentpriceofoilasofoctober292026",
+  "5ce9d5285448a2b7",
+  "wticrudepullsbackfromhighsnear100asusandiranplantalksrisking"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T23:10:30.102171+02:00",
+ "last_run": "2026-11-02T23:15:23.433101+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
