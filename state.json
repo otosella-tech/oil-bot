@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "606b7545847371ac",
-  "crudeoilextendsgainsastradershedgeintoweekendamidrisksofusst",
   "b6e91e0a584912a5",
   "oildropsamiddiplomaticeffortstorevivemideastpeacetalks",
   "33eb5c5d41d27e9c",
@@ -603,7 +601,9 @@
   "cf77979d807e1264",
   "usequityindexesriseamidsinkingcrudeoiltreasuryyields",
   "b7433e26f836b6c7",
-  "epaproposesmajorrevisionstooilandgasemissionsregulations"
+  "epaproposesmajorrevisionstooilandgasemissionsregulations",
+  "db9e0a9a75989ed2",
+  "allegedusiranpeaceprogresscausesmassive7plungeinoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T21:45:19.785638+02:00",
+ "last_run": "2026-11-02T21:50:19.409489+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1508,6 +1508,10 @@
   {
    "d": "2026-11-02",
    "t": "Carney’s Push to Fast-Track Pipeline Faces Mounting Indigenous Lawsuits - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Alleged U.S./Iran Peace Progress Causes Massive 7% Plunge In Oil Prices - Ship & Bunker"
   }
  ]
 }
