@@ -4,8 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "443335052da67d0d",
-  "oilcompanyearningsskyrocketagain",
   "d9e073f3c5f24311",
   "oilrefineryinrussiasufaonfireafterdroneattackkeyunitbelieved",
   "75aaf0ba16bfae86",
@@ -603,7 +601,9 @@
   "fb1a1308853c6280",
   "goldmansachsraisesbrentoilpriceforecastto105",
   "a8a89f40c4230b75",
-  "goldmansachsraisesdecemberbrentoilpriceforecastto105"
+  "goldmansachsraisesdecemberbrentoilpriceforecastto105",
+  "0498e533d04b9d06",
+  "oilpricesdeclineonmondaybrentcrudeperformanceandtheopecdecis"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T11:05:27.884425+02:00",
+ "last_run": "2026-11-02T11:10:20.101120+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1300,6 +1300,10 @@
   {
    "d": "2026-11-02",
    "t": "Saudi Arabia’s Economy Shrinks 3.8% as Oil Output Falls - WSJ"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil prices decline on Monday: Brent crude performance and the OPEC+ decision regarding December production - صوت الإمارات"
   }
  ]
 }
