@@ -4,10 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "c193d04a184614f7",
-  "whyoilpriceswillcontinuerisingandwhatcanbedoneaboutit",
-  "6ad1cbbff7917858",
-  "maineheatingoilhitsarecord605afulltanknowcostsabout750more",
   "c2c8f8b09191c344",
   "currentpriceofoilasofoctober292026",
   "726895a09401e114",
@@ -603,7 +599,11 @@
   "e236cd665d2dff61",
   "thecommoditiesfeedusmidtermelectionskeyforoilmarket",
   "a1688d40357c3333",
-  "palmoilslipsascrudepricescoolbiodieseldemand"
+  "palmoilslipsascrudepricescoolbiodieseldemand",
+  "05c9039c0d774e0a",
+  "globaloilpricesretreatbrentfallstousd11184abarrel",
+  "35560107517ff324",
+  "crudeoilpricesfallastrumpbacksirandiplomacyaheadofusmidterme"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 20
  },
- "last_run": "2026-11-02T05:40:19.388241+02:00",
+ "last_run": "2026-11-02T05:45:18.241193+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
