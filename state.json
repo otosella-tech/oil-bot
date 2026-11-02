@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "755bfd28ec9468f7",
-  "oilgiantspostbillionsinprofitsasamericansfeelpainatthepump",
   "5930eda19ceffb34",
   "adnocceogulfdisruptiondrains1billionbarrelsofoil600bcfoflngs",
   "de20336b314d6547",
@@ -603,7 +601,9 @@
   "eb5c8e961fdf1008",
   "3oilandgasstocksforinvestorswatchinglowercrudeprices",
   "3d28206981946960",
-  "trumptoutsrecorddropinoilpricesonelectionevesaysiranwantsade"
+  "trumptoutsrecorddropinoilpricesonelectionevesaysiranwantsade",
+  "f48b1bcb84b398ad",
+  "oiljumps2settlesat6monthhighsonfearsofescalationiniran"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-03",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-11-03T01:40:18.556616+02:00",
+ "last_run": "2026-11-03T01:45:18.534129+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-11-03",
    "t": "Oil Holds Biggest Drop Since July on Optimism Over US-Iran Talks - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran - Reuters"
   }
  ]
 }
