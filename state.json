@@ -4,10 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "7bd91173d2b2baea",
-  "iransfleetofshadowtankershasrunoutofoilaftermonthslongusbloc",
-  "b7d1570eec9225c2",
-  "currentpriceofoilasofoctober92026",
   "71d71eb667cfbf06",
   "themidtermsmayreviveadyingbrandtheoilstatedemocrat",
   "b41745863943c310",
@@ -603,7 +599,11 @@
   "8317ca15328a8095",
   "stocksmixedastechsectorstrugglestoreboundfromselloff",
   "b1fda2a8d66b68e2",
-  "uaestateoilcompanyannouncesopenaipartnership"
+  "uaestateoilcompanyannouncesopenaipartnership",
+  "d123f5d958174ef9",
+  "oilpricesfallmorethan4asiranpeacetalkseasesupplyfears",
+  "be02fe98c1b26cd3",
+  "crudeoilfallsbelow100"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T14:55:15.701860+02:00",
+ "last_run": "2026-11-02T15:00:32.197597+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1368,6 +1368,10 @@
   {
    "d": "2026-11-02",
    "t": "OPEC+ Quota Reset Could Cap 2027 Oil Supply & Reprice Non-OPEC Producers - Crux Investor"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil Prices Fall More Than 4% as Iran Peace Talks Ease Supply Fears - WSJ"
   }
  ]
 }
