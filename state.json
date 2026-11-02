@@ -4,8 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "b6b7e5c18037e02c",
-  "canadiandollarextendsmonthlygainashigheroilpricesraiseinflat",
   "b3a83729bd362acd",
   "abarrelofoilcanbeworth100butcost130todeliverwhogetstheextra3",
   "a71c42666ac5359d",
@@ -603,7 +601,9 @@
   "7c0c2a398b4f91be",
   "iraqioilexportsviaturkeysceyhanportsurgeto500000bpd",
   "8946dfb34b0f299e",
-  "crudeoilgainsastradersbraceforusirantensionsafterusmidtermel"
+  "crudeoilgainsastradersbraceforusirantensionsafterusmidtermel",
+  "a61f948c29a46cd2",
+  "oilpricesease3onoptimismforqatariledtalksonendingiranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-02",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-11-02T06:25:14.543566+02:00",
+ "last_run": "2026-11-02T06:30:24.608950+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-11-02",
    "t": "Crude Oil Gains As Traders Brace For US-Iran Tensions After US Midterm Elections By Kedia Advisory - Investing.com India"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil prices ease 3% on optimism for Qatari-led talks on ending Iran war - Central Oregon Daily"
   }
  ]
 }
