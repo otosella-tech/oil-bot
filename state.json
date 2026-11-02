@@ -4,8 +4,6 @@
   "Brent": 106.37
  },
  "seen": [
-  "e43efd6c978c6064",
-  "cbnappointsnewagentstomonitorcrudeoilexports",
   "6cfa4f7ad7101a33",
   "theworldwantsouroilheresaquickwaytogetittothem",
   "717c39863a79b1fd",
@@ -603,7 +601,9 @@
   "4cda880c1c6baadf",
   "oilpricefallsamidhopeofabreakthroughtoendiranwar",
   "e5da78754d1cf4f1",
-  "crudeoilpricessinkonhopesdiplomacycanendusiranconflict"
+  "crudeoilpricessinkonhopesdiplomacycanendusiranconflict",
+  "dd92adc07d5d3a82",
+  "microcrudeoildec6mcl2612us"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T18:45:21.816578+02:00",
+ "last_run": "2026-11-02T18:50:19.685882+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
