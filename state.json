@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "a2535a79994c58d1",
-  "brentcrudeoilbreaksabullishtrendlineanalysis02112026",
   "022a9a1350552dc5",
   "oileasesasirantalksraisehopesofdeescalation",
   "7c7b6a5bab4fdff6",
@@ -603,7 +601,9 @@
   "2326d84b78cc0cfc",
   "usstocksmixedaspercolatingaifearsoffsetoilrelief",
   "7ea25b1aa63e9b9d",
-  "jetbluesoars11unitedrallies6asoildropsoniranpeacetalkhopesam"
+  "jetbluesoars11unitedrallies6asoildropsoniranpeacetalkhopesam",
+  "c4c4342305709d7f",
+  "northernwestvirginiagaspricesdipasnationalaveragefalls"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 2
  },
- "last_run": "2026-11-03T00:10:18.463445+02:00",
+ "last_run": "2026-11-03T00:15:17.491184+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
