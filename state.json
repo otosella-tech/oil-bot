@@ -4,10 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "8d72d07ec236f7f9",
-  "oilsettlesloweronpeacehopessaudiattackslimitlosses",
-  "3252b96e956b134f",
-  "iranianoiltankerarrivesinchinawith2millionbarrelsofcrude",
   "bd5599254a3870e3",
   "oilflowsareupasiranwarturmoileaseswhydopriceskeeprising",
   "31efff512502b626",
@@ -603,7 +599,11 @@
   "c1886f97dcd82eb1",
   "uscrudeoutputroseinaugustwhilepetroleumdemanddeclinedeiasays",
   "e7d0911ffa8572d5",
-  "markettalkwhyoilisntgoingbelow110"
+  "markettalkwhyoilisntgoingbelow110",
+  "0b3633d5bdb74d8d",
+  "goldmanraisesbrentcrudeoilforecastfor2027to88abarrel",
+  "81e4ddcdd6893395",
+  "usstockfuturesriseasoilpricesdropeasingailedselloff"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T15:10:18.592136+02:00",
+ "last_run": "2026-11-02T15:15:20.079098+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
