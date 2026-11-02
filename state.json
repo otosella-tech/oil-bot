@@ -4,10 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "7d3b766ba71bd271",
-  "whileamericanspaid148bextraongasamidwarbigoilmade130binprofi",
-  "fc2e85b7036d89fe",
-  "oilheadedfor14monthlyincreaseaslimpetminesaddedtoescalatingm",
   "b6b7e5c18037e02c",
   "canadiandollarextendsmonthlygainashigheroilpricesraiseinflat",
   "b3a83729bd362acd",
@@ -603,7 +599,11 @@
   "9bff83c38354fbdc",
   "howwillusmidtermsimpactindianequitiesbondyieldscrudeoil",
   "f5aaf9d5589ad587",
-  "crudeoilisundernegativepressureanalysis02112026"
+  "crudeoilisundernegativepressureanalysis02112026",
+  "7c0c2a398b4f91be",
+  "iraqioilexportsviaturkeysceyhanportsurgeto500000bpd",
+  "8946dfb34b0f299e",
+  "crudeoilgainsastradersbraceforusirantensionsafterusmidtermel"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-02",
-  "count": 22
+  "count": 24
  },
- "last_run": "2026-11-02T06:15:17.576376+02:00",
+ "last_run": "2026-11-02T06:20:19.520544+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1212,6 +1212,14 @@
   {
    "d": "2026-11-02",
    "t": "Oman rescues 25 from burning oil tanker in Strait of Hormuz - Al Jazeera"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Iraqi oil exports via Turkey’s Ceyhan port surge to 500,000 BPD - IraqiNews"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Crude Oil Gains As Traders Brace For US-Iran Tensions After US Midterm Elections By Kedia Advisory - Investing.com India"
   }
  ]
 }
