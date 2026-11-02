@@ -4,10 +4,6 @@
   "Brent": 106.37
  },
  "seen": [
-  "0e6b272d5d0ac489",
-  "earningscalltranscriptimperialoilbeatsonepsinq32026asstockri",
-  "86778b30282e3396",
-  "brentcrudeoilpriceforecast2026supplycrunchoutlook",
   "b393e5328f6557e6",
   "brentcrudeoilpricesexpectedtoaverageus80us95perbarrelin2027a",
   "c3288d78b5af85f6",
@@ -603,7 +599,11 @@
   "57470cd6053f2ede",
   "commoditiesusmidtermelectionskeyforoilmarket",
   "54266fe7e576e4d6",
-  "oilpricesplungeasdraftproposaltoendus"
+  "oilpricesplungeasdraftproposaltoendus",
+  "e79cafddfd12f741",
+  "crudeoildivestosessionlowoniranpeacetalkhopesaheadofmidterms",
+  "3c37c53993914ef7",
+  "oilpricesplungeasdraftproposaltoendusiranwariscirculated"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T16:30:24.849966+02:00",
+ "last_run": "2026-11-02T16:35:25.760259+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1388,6 +1388,14 @@
   {
    "d": "2026-11-02",
    "t": "Oil Prices Plunge as Draft Proposal to End U.S.-Iran War is Circulated"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms - CNBC"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil Prices Plunge as Draft Proposal to End U.S.-Iran War is Circulated - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
