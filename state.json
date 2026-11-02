@@ -4,8 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "afc500df2b33d091",
-  "ustreasurysaysiransoilrevenuetradehithardbypressurecampaign",
   "0bac05d1e308a30f",
   "oiljumps2settlesat6monthhighsonfearsofescalationiniraneurone",
   "5477ccee6b8caca3",
@@ -603,7 +601,9 @@
   "e1e0590543d4cb3f",
   "dowfuturesstableastradersweighoilvolatilityanduselectionsign",
   "6022dfb2f6884b38",
-  "iranwarlatestoilpricesslidemorethan3astrumpsignalsmoretimefo"
+  "iranwarlatestoilpricesslidemorethan3astrumpsignalsmoretimefo",
+  "3b4ab6fe0a19531b",
+  "usstockfuturesgainafterselloffoildeclinesmarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T10:15:25.774267+02:00",
+ "last_run": "2026-11-02T10:20:18.667716+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
