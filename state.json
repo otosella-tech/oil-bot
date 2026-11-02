@@ -4,10 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "95631b9aa0d6e0c3",
-  "crudeoiljumpsasiransaysfourtankersstruckminesinthestraitofho",
-  "0a1e7cb3cdc56aff",
-  "octoberoilgainsexceed13oilclimbsmorethan2fridayasmiddleeasta",
   "dd79acc01a5deeda",
   "valerounveilsits320mplantobuyhoustonsoldestoilrefineryandreo",
   "fbabbdf50e8e68f9",
@@ -603,7 +599,11 @@
   "20fa8c6499835df9",
   "ftse100startstheweeklowerasoilslides",
   "3eae2ef6af64fe1b",
-  "opecdecidestokeepoutputsteadyindecember"
+  "opecdecidestokeepoutputsteadyindecember",
+  "67a8267933cb48a9",
+  "copperrecoversaseasingtechroutloweroilcalmgrowthfears",
+  "0510c3087f39afaf",
+  "oilpricesdropmorethan3onhopesofusirandiplomaticprogress"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 44
  },
- "last_run": "2026-11-02T08:55:18.678714+02:00",
+ "last_run": "2026-11-02T09:00:39.900924+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
