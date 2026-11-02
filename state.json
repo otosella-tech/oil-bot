@@ -4,8 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "efb43a4101567351",
-  "profitsofeuropeanoilgiantsdoubledthisyearamidmiddleeastwarre",
   "afc500df2b33d091",
   "ustreasurysaysiransoilrevenuetradehithardbypressurecampaign",
   "0bac05d1e308a30f",
@@ -603,7 +601,9 @@
   "7654d19b4aa6658e",
   "brentoiltouches110asiranescalateshormuzattacksukrainevowstoh",
   "e1e0590543d4cb3f",
-  "dowfuturesstableastradersweighoilvolatilityanduselectionsign"
+  "dowfuturesstableastradersweighoilvolatilityanduselectionsign",
+  "6022dfb2f6884b38",
+  "iranwarlatestoilpricesslidemorethan3astrumpsignalsmoretimefo"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-02",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-11-02T10:10:21.549753+02:00",
+ "last_run": "2026-11-02T10:15:25.774267+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1284,6 +1284,10 @@
   {
    "d": "2026-11-02",
    "t": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries - CNBC"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Iran war latest: Oil prices slide more than 3% as Trump signals more time for Iran diplomacy - The National"
   }
  ]
 }
