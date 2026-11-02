@@ -4,8 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "dd79acc01a5deeda",
-  "valerounveilsits320mplantobuyhoustonsoldestoilrefineryandreo",
   "fbabbdf50e8e68f9",
   "iransays4thoiltankerhitminecaughtfireinstraitofhormuz",
   "1941b792084291ef",
@@ -603,7 +601,9 @@
   "67a8267933cb48a9",
   "copperrecoversaseasingtechroutloweroilcalmgrowthfears",
   "0510c3087f39afaf",
-  "oilpricesdropmorethan3onhopesofusirandiplomaticprogress"
+  "oilpricesdropmorethan3onhopesofusirandiplomaticprogress",
+  "95631b9aa0d6e0c3",
+  "crudeoiljumpsasiransaysfourtankersstruckminesinthestraitofho"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-02",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-11-02T09:00:39.900924+02:00",
+ "last_run": "2026-11-02T09:05:14.442719+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1252,6 +1252,10 @@
   {
    "d": "2026-11-02",
    "t": "OPEC+ decides to keep output steady in December - https://www.engine.online/"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Crude oil jumps as Iran says four tankers struck mines in the Strait of Hormuz (USO:NYSEARCA) - Seeking Alpha"
   }
  ]
 }
