@@ -4,10 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "6ba4d23b98cd3374",
-  "oilclimbsonsignsusmayresumemilitarystrikesagainstiran",
-  "89cd278cf697ba5f",
-  "oilpricessettleslowerasdiplomacyhopesoffsetsomemideastsupply",
   "80c2582825cd9ee7",
   "usloans40millionbarrelsofoilfromsprinlastshareofglobalagreem",
   "09f7600649f84ac5",
@@ -603,7 +599,11 @@
   "31537c10cfa1fd54",
   "iranreportsfourtankersexplodinginstraitofhormuz",
   "225b4e4bed6a122b",
-  "globalsharesaremixedandusfuturesadvancewhileoilpricesfallnea"
+  "globalsharesaremixedandusfuturesadvancewhileoilpricesfallnea",
+  "cfd86e0cfe9d2958",
+  "oilpricesfallasreportofusdiplomaticeffortseasesiranfears",
+  "c0e9a4e3b051949f",
+  "painatthepumponeoilshockverydifferentbills"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T12:20:48.247579+02:00",
+ "last_run": "2026-11-02T12:25:31.427720+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1320,6 +1320,10 @@
   {
    "d": "2026-11-02",
    "t": "Iran Reports Four Tankers Exploding in Strait of Hormuz - Marine News Magazine"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil prices fall as report of US diplomatic efforts eases Iran fears - Yahoo Finance"
   }
  ]
 }
