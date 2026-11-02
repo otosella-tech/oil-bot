@@ -4,8 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "885bf16df9baba71",
-  "chevronvsenbridgewhichenergygiantmakesmoremoneyofftheiranwar",
   "c193d04a184614f7",
   "whyoilpriceswillcontinuerisingandwhatcanbedoneaboutit",
   "6ad1cbbff7917858",
@@ -603,7 +601,9 @@
   "7c22bc236f49e70d",
   "watertankrupturetriggerssafetyconcernsattajikistansrogundam",
   "e236cd665d2dff61",
-  "thecommoditiesfeedusmidtermelectionskeyforoilmarket"
+  "thecommoditiesfeedusmidtermelectionskeyforoilmarket",
+  "a1688d40357c3333",
+  "palmoilslipsascrudepricescoolbiodieseldemand"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 20
  },
- "last_run": "2026-11-02T05:05:14.335895+02:00",
+ "last_run": "2026-11-02T05:10:18.339464+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
