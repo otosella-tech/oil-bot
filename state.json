@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "c4b92136cd2fe1ca",
-  "goldpricecrashacceleratesascrudeoilrisesandoddsoffedratehike",
   "e1d1273a7e74e733",
   "oilpricesnolongerfollowheadlines",
   "27ac5723354eecd2",
@@ -603,7 +601,9 @@
   "c2f68e29c76f04af",
   "thefedrisksapolicyerrorfightingoilprices",
   "a5a90d440e71902e",
-  "canadianbondyieldsretreatasoilpriceseaseinflationconcernsdat"
+  "canadianbondyieldsretreatasoilpriceseaseinflationconcernsdat",
+  "8787937488b18ce8",
+  "oildeclinesaheadofmidtermelectionsdespitehormuzattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T20:45:18.184855+02:00",
+ "last_run": "2026-11-02T20:50:19.825430+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1492,6 +1492,10 @@
   {
    "d": "2026-11-02",
    "t": "Oil prices slide as hopes rise for potential US-Iran diplomatic breakthrough - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil Declines Ahead of Midterm Elections Despite Hormuz Attacks - Bloomberg.com"
   }
  ]
 }
