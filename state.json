@@ -4,12 +4,6 @@
   "Brent": 106.37
  },
  "seen": [
-  "f6da4cfdb6c89b92",
-  "oilmarketscaughtbetweeniranwarrisksandemergencysprreleases",
-  "551da3fa591341f5",
-  "majoroilfirmsearn563billionamidfuelcrises",
-  "cd3bdc0112bbc72b",
-  "opecholdsdecemberoiloutputtargetssteadyasiranwardisruptssupp",
   "37680f51d06081f1",
   "opecallieskeepoutputsteadywhilegulfshippingremainsunderthrea",
   "7bd5b81b8213e4af",
@@ -603,7 +597,13 @@
   "27682207bc6db8b1",
   "oilpricesease4onoptimismforqatariledtalksonendingiranwar",
   "1f84549f68409db7",
-  "oildrops6asiransignalsopennesstopeacetalks"
+  "oildrops6asiransignalsopennesstopeacetalks",
+  "c3a37c49c59722f5",
+  "stocksreboundasoilpricessinkanthropicreleasesq3financialsalp",
+  "1beb5451b459b3fc",
+  "goldmanhikesoilforecastsonsubstantialriskstosupply",
+  "c7b5bb92f97aa990",
+  "oilstocksinusstrategicpetroleumreservefalltolowestlevelsince"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T17:05:31.410895+02:00",
+ "last_run": "2026-11-02T17:10:25.763839+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1408,6 +1408,10 @@
   {
    "d": "2026-11-02",
    "t": "Oil drops 6% as Iran signals openness to peace talks - Reuters"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil stocks in U.S. strategic petroleum reserve fall to lowest level since 1982 - BNN Bloomberg"
   }
  ]
 }
