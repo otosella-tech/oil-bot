@@ -4,14 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "d7ea13b535d1f05b",
-  "crudeoilpriceshitsixmonthhighasiranwarescalationfearsgrow",
-  "d67d2637d67cafb0",
-  "globaloilpricehits116abarrelhighestsinceapril",
-  "fc8da98e8e9ae998",
-  "trumpsoilportfolioup43amidbigoilwindfallpainatthepump",
-  "ff68d0aa1a2f87bc",
-  "opecsettokeepproductiontargetsunchangedindecembersourcesays",
   "acf96448e8f324c3",
   "darpabacksprojecttomeasureaienergyuseateverystageoftheworkfl",
   "1202eefc4c2cedb7",
@@ -603,7 +595,15 @@
   "631c43fb9fd72a30",
   "oilpricesfallastradershopefordiplomaticprogressinmiddleeast",
   "bee1b54c46e35cae",
-  "exxonchevronpaintbullishpicturesoftheoilbusiness"
+  "exxonchevronpaintbullishpicturesoftheoilbusiness",
+  "583e06d6340a6b5e",
+  "senegalsambitiousplantoslashelectricitycostsandboostenergyse",
+  "4cb78fc7cdb1b7af",
+  "aaaelevatedcrudeoilpriceskeepgaspriceshigh",
+  "b0e39a714c6c72c2",
+  "watchjeffcurrieseespermanentregimeshiftinoilmarket",
+  "2ff56b413ea9fcd8",
+  "europeanstocksslipasfitchlowersfrancescreditoutlookandoilpri"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T12:50:18.404689+02:00",
+ "last_run": "2026-11-02T12:55:24.478200+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
