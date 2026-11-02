@@ -4,10 +4,6 @@
   "Brent": 106.37
  },
  "seen": [
-  "feac74692d0be9da",
-  "crudeoilfuturesoverview",
-  "d96315478d3c7c58",
-  "mechanicworksonnewhyundaielantrathenherealizesithastoomuchbr",
   "851344a453b4f1c2",
   "saudieconomyshrankatslowerpacebeforehouthiwarescalation",
   "5bc4d76f7eef93a5",
@@ -603,7 +599,11 @@
   "a34bb29863d9b284",
   "commentaryenergywatchmidtermmist",
   "f47e0594046c751b",
-  "gulfaraboilgiantsareexportingcrudeatprewarratesagain"
+  "gulfaraboilgiantsareexportingcrudeatprewarratesagain",
+  "60804629eb90af85",
+  "freightsurgepushesvenezuelanoilexportstoeightmonthlow",
+  "eb3bbdafeff32ddc",
+  "stocksboostedbyloweroilpriceandtechrally"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T19:35:21.853002+02:00",
+ "last_run": "2026-11-02T19:40:24.475029+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1460,6 +1460,10 @@
   {
    "d": "2026-11-02",
    "t": "Gulf Arab Oil Giants Are Exporting Crude at Pre-War Rates Again - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Freight Surge Pushes Venezuelan Oil Exports to Eight-Month Low - Bloomberg.com"
   }
  ]
 }
