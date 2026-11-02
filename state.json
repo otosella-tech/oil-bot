@@ -4,8 +4,6 @@
   "Brent": 106.37
  },
  "seen": [
-  "f5bc1b3469323723",
-  "trumptoutedarecordvenezuelaoildealnowrealityissettingin",
   "0e6b272d5d0ac489",
   "earningscalltranscriptimperialoilbeatsonepsinq32026asstockri",
   "86778b30282e3396",
@@ -603,7 +601,9 @@
   "3f5aceaff74b204d",
   "oilpricescouldaverage130abarrelnextyearaccordingtogoldmansac",
   "57470cd6053f2ede",
-  "commoditiesusmidtermelectionskeyforoilmarket"
+  "commoditiesusmidtermelectionskeyforoilmarket",
+  "54266fe7e576e4d6",
+  "oilpricesplungeasdraftproposaltoendus"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T16:25:14.958250+02:00",
+ "last_run": "2026-11-02T16:30:24.849966+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1384,6 +1384,10 @@
   {
    "d": "2026-11-02",
    "t": "ADNOC Chief Squarely Blames US-Israeli War on Iran for Global Energy Crisis - Kyiv Post"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil Prices Plunge as Draft Proposal to End U.S.-Iran War is Circulated"
   }
  ]
 }
