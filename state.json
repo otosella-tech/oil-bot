@@ -4,10 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "3234f67d149e4fc3",
-  "currentpriceofoilasofoctober152026",
-  "14ec470bb8589cc2",
-  "trumpshowsofftankerwith1mbarrelsofoilandfloatsvenezuelaas51s",
   "cb35c919523576e2",
   "saudiarabiasambitionsbeyondoilanditsregionalsecuritytest",
   "fb15271729b128c0",
@@ -603,7 +599,11 @@
   "795be9a31d1e55cc",
   "presidenttrumpannouncesarrivaloffirstonemillionbarrelsofoili",
   "f889608d03ff8870",
-  "currentpriceofoilasofoctober162026"
+  "currentpriceofoilasofoctober162026",
+  "1b159445434f351b",
+  "bpithacaenergyandshellfallasbrentretreatsonirandiplomacyhope",
+  "dc69f37f038b17f0",
+  "oildropsalmost4onhopesofprogressintalksonendingusiranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T11:35:19.652383+02:00",
+ "last_run": "2026-11-02T11:40:37.897444+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1304,6 +1304,14 @@
   {
    "d": "2026-11-02",
    "t": "Oil prices decline on Monday: Brent crude performance and the OPEC+ decision regarding December production - صوت الإمارات"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "BP, Ithaca Energy and Shell fall as Brent retreats on Iran diplomacy hopes - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil drops almost 4% on hopes of progress in talks on ending US-Iran war - CNA"
   }
  ]
 }
