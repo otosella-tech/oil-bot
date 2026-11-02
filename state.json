@@ -4,14 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "01df5253522630aa",
-  "exxonmobilandchevrontopq3estimatesonhigherpricesandstrongout",
-  "9950d0cb1d18e643",
-  "geopoliticaltensionscrudeoilpricesandq2earningstodictatemark",
-  "f91023df25a06358",
-  "oilslipsmorethan1astalkscontinueonendingiranwar",
-  "55358f88f549f355",
-  "oilslipsmorethan1astalkscontinueonendingiranwarbyreuters",
   "30e7f9d8adc05540",
   "trumponpriceofoil",
   "5d42e236b8843d1e",
@@ -603,7 +595,15 @@
   "29b13548bc64f91f",
   "whyisdieselsoexpensivewhatdrivespumpprices",
   "03e72d30268cee81",
-  "oilspullbacksoliddatafuelbounceinglobalstocks"
+  "oilspullbacksoliddatafuelbounceinglobalstocks",
+  "fc2548c905a5f623",
+  "gaspriceslikelytodropbelow4agalloninthenextweekifoilpriceske",
+  "f204cf870f8c573a",
+  "crudeoilsinksmorethan7asusiranpeacetalkseasewarfears",
+  "6eca980b05ddd4a9",
+  "vitolceoseesoildemanddropping3millionbarrelsaday",
+  "e3fed68b05740603",
+  "middayneedtoknowmarvelllumentumdealoilpricefallsmorespynysea"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T20:20:29.233915+02:00",
+ "last_run": "2026-11-02T20:25:14.499877+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1480,6 +1480,10 @@
   {
    "d": "2026-11-02",
    "t": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes - Reuters"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Crude oil sinks more than 7% as U.S.-Iran peace talks ease war fears - Quartz"
   }
  ]
 }
