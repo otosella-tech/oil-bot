@@ -4,8 +4,6 @@
   "Brent": 106.37
  },
  "seen": [
-  "c3288d78b5af85f6",
-  "morethan6400oilspillsoccurredinthegreatlakesoveradecadestudy",
   "2c29374cd52dd5a1",
   "crudeoilpriceforecastwtibrentriseafterhormuztankerattack",
   "653e1d3615ef2aea",
@@ -603,7 +601,9 @@
   "3c37c53993914ef7",
   "oilpricesplungeasdraftproposaltoendusiranwariscirculated",
   "d2ce6ad06791fc97",
-  "howusoilfirmsprofit130bnfromiranwarashouseholdbillssurge"
+  "howusoilfirmsprofit130bnfromiranwarashouseholdbillssurge",
+  "a8045ed9e7c488f8",
+  "wallstreetfuturesriseasfallingoilpricessupportreboundafterte"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T16:40:20.198287+02:00",
+ "last_run": "2026-11-02T16:45:40.478909+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
