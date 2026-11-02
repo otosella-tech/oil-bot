@@ -4,8 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "795be9a31d1e55cc",
-  "presidenttrumpannouncesarrivaloffirstonemillionbarrelsofoili",
   "443335052da67d0d",
   "oilcompanyearningsskyrocketagain",
   "d9e073f3c5f24311",
@@ -603,7 +601,9 @@
   "c2db3330a2cdd00c",
   "soybeanmarketupdatefuturesfobpricesanddemanddrivers",
   "fb1a1308853c6280",
-  "goldmansachsraisesbrentoilpriceforecastto105"
+  "goldmansachsraisesbrentoilpriceforecastto105",
+  "a8a89f40c4230b75",
+  "goldmansachsraisesdecemberbrentoilpriceforecastto105"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T11:00:33.294357+02:00",
+ "last_run": "2026-11-02T11:05:27.884425+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
