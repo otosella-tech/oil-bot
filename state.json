@@ -4,10 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "a40fc4428a9e9e09",
-  "oiltradersbraceforawildweekasbrentapproaches120",
-  "27f0f9b1f7d2166e",
-  "todaysmarketrecapthreemajorusindexesplungephiladelphiasemico",
   "c3cd290fa057843d",
   "commentaryasiascrudeoilimportsbacktoprewarlevelsbutrefinedfu",
   "227252d175c4ffed",
@@ -603,7 +599,11 @@
   "69821821ce94282f",
   "crudeoilwtitestssma200and50fibsupportlivelevels",
   "3510fbcf99fe7449",
-  "usstocksturnunsteadyfollowinglastweeksselloffbutoilpricesfal"
+  "usstocksturnunsteadyfollowinglastweeksselloffbutoilpricesfal",
+  "841825ec0f15001f",
+  "sanctionediraniantankerslipspastusblockadedeliverscargotochi",
+  "ea2d59cbe5fd8ae9",
+  "usstocksreboundasoilsinksmorethan6onusiranpeacehopes"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T21:55:16.164555+02:00",
+ "last_run": "2026-11-02T22:00:32.079569+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1512,6 +1512,10 @@
   {
    "d": "2026-11-02",
    "t": "Alleged U.S./Iran Peace Progress Causes Massive 7% Plunge In Oil Prices - Ship & Bunker"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China"
   }
  ]
 }
