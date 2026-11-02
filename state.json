@@ -4,8 +4,6 @@
   "Brent": 106.37
  },
  "seen": [
-  "24e20f319978d4ec",
-  "wallstreetbanksraiseoilpriceforecastsassupplyfearsdeepen",
   "5186e22fd317dff9",
   "majorfirebreaksoutatkstovooilrefineryinrussiaafterdroneattac",
   "f5bc1b3469323723",
@@ -603,7 +601,9 @@
   "5a6ee71be6a3a68b",
   "usstockindexfuturesjumpasoilfallsabout6",
   "da48511a546e1cf7",
-  "adnocchiefsquarelyblamesusisraeliwaroniranforglobalenergycri"
+  "adnocchiefsquarelyblamesusisraeliwaroniranforglobalenergycri",
+  "3f5aceaff74b204d",
+  "oilpricescouldaverage130abarrelnextyearaccordingtogoldmansac"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T16:15:21.037955+02:00",
+ "last_run": "2026-11-02T16:20:26.616390+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
