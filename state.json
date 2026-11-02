@@ -4,10 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "9fcb44955c215020",
-  "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility",
-  "8ddd03b55c17f251",
-  "oilpricesjumpasiranstepsuptankerattackshurricanethreatensusg",
   "7bd91173d2b2baea",
   "iransfleetofshadowtankershasrunoutofoilaftermonthslongusbloc",
   "b7d1570eec9225c2",
@@ -603,7 +599,11 @@
   "45785fee64495350",
   "opecquotaresetcouldcap2027oilsupplyrepricenonopecproducers",
   "c55503c265304e41",
-  "europeanstocksedgedownoildropsasmidtermcautionprevails"
+  "europeanstocksedgedownoildropsasmidtermcautionprevails",
+  "8317ca15328a8095",
+  "stocksmixedastechsectorstrugglestoreboundfromselloff",
+  "b1fda2a8d66b68e2",
+  "uaestateoilcompanyannouncesopenaipartnership"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T14:50:19.631851+02:00",
+ "last_run": "2026-11-02T14:55:15.701860+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
