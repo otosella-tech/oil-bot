@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "78c0fbfa1ace20b2",
-  "oilpricestodaycrudefallsover1asiranqatartalksraisehopesofdip",
   "818feb609a45bb7c",
   "oilpricetodaynovember2crudeoilfallsto111asiranqatartalkscont",
   "7c22bc236f49e70d",
@@ -603,7 +601,9 @@
   "6c22c644b928840a",
   "tankersdefysharpescalationofiranianattackstokeepcrudeoilflow",
   "1c41b9535b5eb117",
-  "icecanolafuturesrisedespitedropinsoyoilandcrudeoil"
+  "icecanolafuturesrisedespitedropinsoyoilandcrudeoil",
+  "169c06fb70b4e709",
+  "cbotreviewsoybeansfallwithcrudeoilharvestprogress"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T22:35:14.480404+02:00",
+ "last_run": "2026-11-02T22:40:20.022502+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
