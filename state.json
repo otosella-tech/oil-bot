@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "c3cd290fa057843d",
-  "commentaryasiascrudeoilimportsbacktoprewarlevelsbutrefinedfu",
   "227252d175c4ffed",
   "usoilgasdrillersstillonhold",
   "aa8b1c9611def7c2",
@@ -603,7 +601,9 @@
   "841825ec0f15001f",
   "sanctionediraniantankerslipspastusblockadedeliverscargotochi",
   "ea2d59cbe5fd8ae9",
-  "usstocksreboundasoilsinksmorethan6onusiranpeacehopes"
+  "usstocksreboundasoilsinksmorethan6onusiranpeacehopes",
+  "6db6c14072c585a9",
+  "brentlastdayfinancialoverview"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T22:00:32.079569+02:00",
+ "last_run": "2026-11-02T22:05:16.967859+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
