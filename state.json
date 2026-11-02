@@ -4,12 +4,6 @@
   "Brent": 106.37
  },
  "seen": [
-  "6cfa4f7ad7101a33",
-  "theworldwantsouroilheresaquickwaytogetittothem",
-  "717c39863a79b1fd",
-  "explainerhowcouldtheoilspillofftheuaecoastaffectdesalination",
-  "85cfceda93e410c7",
-  "goldsoctobermeltdownfollowtheoilmarketsthenfollowthemoney",
   "6f3708913c85f0b3",
   "guesteditorialspinachinyourteethhowthehypertransparencyofmet",
   "108e170fed6a3b03",
@@ -603,7 +597,13 @@
   "e5da78754d1cf4f1",
   "crudeoilpricessinkonhopesdiplomacycanendusiranconflict",
   "dd92adc07d5d3a82",
-  "microcrudeoildec6mcl2612us"
+  "microcrudeoildec6mcl2612us",
+  "cb65a48c86d3f8a8",
+  "oilpricesfallmorethan6asiranpeacetalkseasesupplyfears",
+  "3dc94256090519a3",
+  "uksharesstartweekhigherbpshelldeclineamidloweroilprices",
+  "e1d8d1766011b304",
+  "dollardeclinesaheadofusmidtermsasoilfallsbitcoinsteadiesafte"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T18:50:19.685882+02:00",
+ "last_run": "2026-11-02T18:55:16.829964+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1444,6 +1444,10 @@
   {
    "d": "2026-11-02",
    "t": "Oil price falls amid hope of a breakthrough to end Iran war - The Guardian"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil Prices Fall More Than 6% as Iran Peace Talks Ease Supply Fears - WSJ"
   }
  ]
 }
