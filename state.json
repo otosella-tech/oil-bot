@@ -4,8 +4,6 @@
   "Brent": 113.66
  },
  "seen": [
-  "e298197b50cc1976",
-  "oilisgushingoutofthegulfwhyarepricesstillabove100abarrel",
   "e6adfba215b03fdd",
   "americaslngboomfacesitsbiggesttestyet",
   "4542a48872b1ba72",
@@ -603,7 +601,9 @@
   "c4b92136cd2fe1ca",
   "goldpricecrashacceleratesascrudeoilrisesandoddsoffedratehike",
   "e1d1273a7e74e733",
-  "oilpricesnolongerfollowheadlines"
+  "oilpricesnolongerfollowheadlines",
+  "27ac5723354eecd2",
+  "brentcrudeoilpricessurgeabove117abarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-11-01",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 6
  },
- "last_run": "2026-11-02T02:05:16.109638+02:00",
+ "last_run": "2026-11-02T02:10:19.560709+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
