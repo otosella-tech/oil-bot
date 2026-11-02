@@ -4,8 +4,6 @@
   "Brent": 111.28
  },
  "seen": [
-  "eb44d26e26d39695",
-  "crudeoiltankerexplosionspursmarketvolatilitycolgatepalm",
   "5870aab4ec4c81d4",
   "currentpriceofoilasofoctober202026",
   "afa302b4e668bfbd",
@@ -603,7 +601,9 @@
   "4b276c7ffaf6b615",
   "indianoiltargetshighercruderunsvesselpurchases",
   "c09f4636ea161ac8",
-  "crudeoilwticonsolidatesatcloudsupportnear101live"
+  "crudeoilwticonsolidatesatcloudsupportnear101live",
+  "657697077de2f1f7",
+  "droneattacksparksfireatrussiassamaraoilhubasmoscowclaims212u"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-02",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-11-02T09:10:19.062093+02:00",
+ "last_run": "2026-11-02T09:15:18.756354+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-11-02",
    "t": "Crude oil jumps as Iran says four tankers struck mines in the Strait of Hormuz (USO:NYSEARCA) - Seeking Alpha"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Drone Attack Sparks Fire at Russia's Samara Oil Hub as Moscow Claims 212 UAVs Downed Overnight - Kyiv Post"
   }
  ]
 }
