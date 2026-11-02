@@ -4,10 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "39fe230e24cb0941",
-  "currentpriceofoilasofoctober272026",
-  "e88d206dc3742b34",
-  "trumppromisedtoslashenergycostsbutgasolinedieselandjetfuelal",
   "ee184831492e3692",
   "crudetensionsopectokeepoiltargetsunchangedasiranwarcurbsgulf",
   "c18f166fbb8fe104",
@@ -603,7 +599,11 @@
   "958fa0d54d958ebd",
   "currentpriceofoilasofnovember22026",
   "447c8257d9b420ed",
-  "uspremarketthreemajorindexfuturesrisememorystocksreboundwith"
+  "uspremarketthreemajorindexfuturesrisememorystocksreboundwith",
+  "f8179e124a3a2c24",
+  "russianshadowfleettankercarrying1millionbarrelsofoilhitbyexp",
+  "f4a3b9a15fc15d07",
+  "oilpricesfallasiranandqatarimediatorsholdtalkstoendwar"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T14:15:23.020805+02:00",
+ "last_run": "2026-11-02T14:20:19.060537+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
@@ -1348,6 +1348,14 @@
   {
    "d": "2026-11-02",
    "t": "Chile Bond Investors Turn to Inflation-Linked Notes as Oil Soars - Bloomberg"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Russian Shadow Fleet Tanker Carrying 1 Million Barrels of Oil Hit by Explosives Near Hormuz Strait - UNITED24 Media"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Oil prices fall as Iran and Qatari mediators hold talks to end war - The Times"
   }
  ]
 }
