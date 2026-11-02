@@ -4,8 +4,6 @@
   "Brent": 108.92
  },
  "seen": [
-  "1c24cab6c6beaec6",
-  "wticrudeoilfuturesadvanceforthirdsessionamidglobaltensions",
   "9fcb44955c215020",
   "indiasbharatpetroleumprofitdropsamidcrudeoilpricevolatility",
   "8ddd03b55c17f251",
@@ -603,7 +601,9 @@
   "39fe230e24cb0941",
   "currentpriceofoilasofoctober272026",
   "45785fee64495350",
-  "opecquotaresetcouldcap2027oilsupplyrepricenonopecproducers"
+  "opecquotaresetcouldcap2027oilsupplyrepricenonopecproducers",
+  "c55503c265304e41",
+  "europeanstocksedgedownoildropsasmidtermcautionprevails"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-02",
   "count": 60
  },
- "last_run": "2026-11-02T14:45:25.733501+02:00",
+ "last_run": "2026-11-02T14:50:19.631851+02:00",
  "sent_stories": [
   {
    "d": "2026-10-30",
