@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "c94d34fb7b7f4300",
-  "darbymanchargedwithdumpingbarrelofoilintodarbycreek",
   "0773c428a4c95ed5",
   "crudeoiltumbles7ismmanufacturingpmirisesinoctober",
   "af69797626675a72",
@@ -603,7 +601,9 @@
   "85be41e9dcbc57d2",
   "houthifighterslaunchgroundincursionsintosaudiarabia",
   "b6609a53cd27bc70",
-  "oilproducingyeastrevealstwostagesoffataccumulationundernitro"
+  "oilproducingyeastrevealstwostagesoffataccumulationundernitro",
+  "ea6447462e19edbe",
+  "oilpricesswingasuncertaintyswirlsoverusiranpeacetalks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T22:10:28.239032+02:00",
+ "last_run": "2026-11-03T22:15:31.060578+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1540,6 +1540,10 @@
   {
    "d": "2026-11-03",
    "t": "Houthi Fighters Launch Ground Incursions Into Saudi Arabia"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Oil Prices Swing as Uncertainty Swirls Over US-Iran Peace Talks - Bloomberg.com"
   }
  ]
 }
