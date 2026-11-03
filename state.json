@@ -4,10 +4,6 @@
   "Brent": 106.43
  },
  "seen": [
-  "b1e0ca43abc23733",
-  "buycvxandxomamidsolidq3earningsandsurgingcrudeoilprices",
-  "958fa0d54d958ebd",
-  "currentpriceofoilasofnovember22026",
   "447c8257d9b420ed",
   "uspremarketthreemajorindexfuturesrisememorystocksreboundwith",
   "f8179e124a3a2c24",
@@ -603,7 +599,11 @@
   "1d4737969b9487ae",
   "tsxfuturesdropamidriseinoilpricesusmidtermelectionsahead",
   "0b0c4cb6bdc80165",
-  "goldfallsashigheroilstokesinflationfearsaheadofusmidterms"
+  "goldfallsashigheroilstokesinflationfearsaheadofusmidterms",
+  "7762658dcd6a103f",
+  "ukrainiandronessetfiretomajorrussianoilrefinerylocalgovernor",
+  "81aebd9e7d7ac60f",
+  "coloradolosinggroundinfighttocleanuprecordnumberoforphanedoi"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T15:05:17.733401+02:00",
+ "last_run": "2026-11-03T15:10:22.057821+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1428,6 +1428,10 @@
   {
    "d": "2026-11-03",
    "t": "Drone attack sparks fire at one of Russia’s largest oil refineries in Yaroslavl, media report - Ukrinform"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Ukrainian drones set fire to major Russian oil refinery, local governor says - Reuters"
   }
  ]
 }
