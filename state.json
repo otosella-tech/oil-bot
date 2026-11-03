@@ -4,12 +4,6 @@
   "Brent": 106.43
  },
  "seen": [
-  "931b6642d6522bf6",
-  "oildropsover4onhopesofprogressintalksonendingusiranwar",
-  "d60680e53d534a59",
-  "theweekinchartspremierallianceaddsmoresuezservicesasredseare",
-  "4a66eec13ec69e78",
-  "unitedstatesontrackforrecordcrudeoilproductionin2026",
   "0562032700d81f6b",
   "oilnewscrudeoiloutlookturnscautiousasirantalkstestwarpremium",
   "631c43fb9fd72a30",
@@ -603,7 +597,13 @@
   "28438899669636ba",
   "saudiaramcoprofitbeatsexpectationsasoilpricessoar",
   "4406b5b373b1cd82",
-  "goldholdsbiggestjumpintwomonthsoniranpeacedealhopes"
+  "goldholdsbiggestjumpintwomonthsoniranpeacedealhopes",
+  "9abd66ea1f89139b",
+  "aramcoprofitbeatsestimatesafterrefiningboomoilsurge",
+  "7f9ac148d7d137f4",
+  "whyoilandgascorporationsaremakingsomuchmoneyandwereallpaying",
+  "8fc0ac0b1bad8b44",
+  "whattomakeofthelatestfallinoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T12:00:28.679781+02:00",
+ "last_run": "2026-11-03T12:05:14.896935+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1388,6 +1388,10 @@
   {
    "d": "2026-11-03",
    "t": "Gold Holds Biggest Jump in Two Months on Iran Peace-Deal Hopes - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Aramco Profit Beats Estimates After Refining Boom, Oil Surge - Bloomberg.com"
   }
  ]
 }
