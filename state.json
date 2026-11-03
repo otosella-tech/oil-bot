@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "46edc61387d5be42",
-  "saudioilexportsdropto552millionbarrelsadayasbothroutesdegrad",
   "1499be32ce12e2c2",
   "uaeoilexportssurpassprewarlevelsdespitehormuzdisruptionenerg",
   "39fe230e24cb0941",
@@ -603,7 +601,9 @@
   "50bd3dd651f56a4d",
   "saudiarabiabudgetdeficitmorethandoublesaswarstrainsfinances",
   "ef63ba411cf96b71",
-  "saudibudgetdeficitmorethandoublesaswarstrainsfinances"
+  "saudibudgetdeficitmorethandoublesaswarstrainsfinances",
+  "596b254bbd29d37a",
+  "oilfuturescruderowsbacksharplyasnewmoupresentedtoiran"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T15:50:26.555169+02:00",
+ "last_run": "2026-11-03T15:55:14.927674+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
