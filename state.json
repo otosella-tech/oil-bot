@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 97.19,
+  "WTI": 94.7,
   "Brent": 103.19
  },
  "seen": [
-  "3a4fcfcc56e72962",
-  "usfuturesriseupto1ascrudeoilpricesfall4aistocksinchhigher",
   "46edc61387d5be42",
   "saudioilexportsdropto552millionbarrelsadayasbothroutesdegrad",
   "1499be32ce12e2c2",
@@ -603,7 +601,9 @@
   "2211ee4d943393da",
   "oilpriceedgesbackabove106aftersharpdeclines",
   "50bd3dd651f56a4d",
-  "saudiarabiabudgetdeficitmorethandoublesaswarstrainsfinances"
+  "saudiarabiabudgetdeficitmorethandoublesaswarstrainsfinances",
+  "ef63ba411cf96b71",
+  "saudibudgetdeficitmorethandoublesaswarstrainsfinances"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T15:40:18.665450+02:00",
+ "last_run": "2026-11-03T15:45:20.962315+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1440,6 +1440,10 @@
   {
    "d": "2026-11-03",
    "t": "Saudi Arabia Budget Deficit More Than Doubles as War Strains Finances - Bloomberg"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Saudi Budget Deficit More Than Doubles as War Strains Finances - Bloomberg"
   }
  ]
 }
