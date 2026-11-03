@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "57470cd6053f2ede",
-  "commoditiesusmidtermelectionskeyforoilmarket",
   "54266fe7e576e4d6",
   "oilpricesplungeasdraftproposaltoendus",
   "e79cafddfd12f741",
@@ -603,7 +601,9 @@
   "72612a0d269dba14",
   "gulfoilflowsdipinoctoberfrompostiranwarhighdatashows",
   "e93fe28309d4621b",
-  "wtioilpriceunderpressureaheadofusmidtermresults"
+  "wtioilpriceunderpressureaheadofusmidtermresults",
+  "2652f734046f65e3",
+  "applestockfallschipstocksreboundasoilextendsdeclinealphachec"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T17:50:20.160131+02:00",
+ "last_run": "2026-11-03T17:55:16.887317+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
