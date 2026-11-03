@@ -4,10 +4,6 @@
   "Brent": 106.43
  },
  "seen": [
-  "ce5b2ff907d4baf0",
-  "crudeoilnearspotentialreversalasmomentumfadesamidirandiploma",
-  "33e138f073eabd88",
-  "oilpricesfallnearly4asiranqatartalksraisehopesofdiplomaticpr",
   "d272b7a81b52b03f",
   "opecagreesinprincipletokeepoiloutputtargetssteadyindecembers",
   "1202eefc4c2cedb7",
@@ -603,7 +599,11 @@
   "afa6d667299ee439",
   "oilpricesreboundasusstrikeoniransqeshmislanddimsprospectsfor",
   "4f6752309b890ce8",
-  "oilrisesasiransayswardealremainsdistantusstrikesqeshm"
+  "oilrisesasiransayswardealremainsdistantusstrikesqeshm",
+  "49f243389219f777",
+  "oilpricessteadyat106aftersharpdeclines",
+  "6a49c6aeed6be8be",
+  "morningbidmidtermsandmediation"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T13:40:18.849440+02:00",
+ "last_run": "2026-11-03T13:45:20.186336+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
