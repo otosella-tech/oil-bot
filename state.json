@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "e7d0911ffa8572d5",
-  "markettalkwhyoilisntgoingbelow110",
   "0b3633d5bdb74d8d",
   "goldmanraisesbrentcrudeoilforecastfor2027to88abarrel",
   "81e4ddcdd6893395",
@@ -603,7 +601,9 @@
   "7ed9c3f5444e4aed",
   "stockseraselossesoiltumblesaftertrumpsaysuswillend4billionfu",
   "999c64cedb8fe73e",
-  "eurostatrefreshesmonthlycrudeoilsupplydatasetnrgcbcosmnewsan"
+  "eurostatrefreshesmonthlycrudeoilsupplydatasetnrgcbcosmnewsan",
+  "cfeb746b44e3cc40",
+  "goldedgeshigheronsofteroilpricesusmidtermsinfocus"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T16:50:19.948389+02:00",
+ "last_run": "2026-11-03T16:55:16.398918+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
