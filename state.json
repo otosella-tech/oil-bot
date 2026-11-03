@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "140a0051e917270f",
-  "asiansharesaremixedandusfuturesadvancewhileoilpricesretreat",
   "9268b27177afecfa",
   "indianrupeegainsfurtherasoilpricescorrectsharply",
   "0f0425e023d93961",
@@ -603,7 +601,9 @@
   "afb7d426c3c5bd76",
   "rupeetobenefitfromoilplungewhilefacingtechnicalresistancedol",
   "45d244746fb7bb10",
-  "updatedowrisesinchoppysessionamiduselectionanxiety"
+  "updatedowrisesinchoppysessionamiduselectionanxiety",
+  "5a0ec722034b4570",
+  "treasuryyieldsextendpastmonthsslideasoilpricesdrop"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 22
  },
- "last_run": "2026-11-03T05:30:23.877620+02:00",
+ "last_run": "2026-11-03T05:35:14.666848+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
