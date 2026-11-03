@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "a3a0c308689ecb1d",
-  "goldmanhikesoilpricesforecastonhighsupplydisruptionrisks",
   "1788199a512b1662",
   "uspushestorestorerussiangasflowstoeurope",
   "140a0051e917270f",
@@ -603,7 +601,9 @@
   "43acc5c997ddc197",
   "oilpricereboundclasheswithmidtermelectionuncertaintywhichway",
   "0479d767cb9ae0e8",
-  "oilpricetodaynovember3crudeoilfallsaspeacetalkhopesoutweigha"
+  "oilpricetodaynovember3crudeoilfallsaspeacetalkhopesoutweigha",
+  "afb7d426c3c5bd76",
+  "rupeetobenefitfromoilplungewhilefacingtechnicalresistancedol"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-03",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-11-03T05:15:25.280641+02:00",
+ "last_run": "2026-11-03T05:20:18.813858+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1296,6 +1296,10 @@
   {
    "d": "2026-11-03",
    "t": "Stocks mostly down as AI concerns top plunge in oil prices - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Rupee to benefit from oil plunge while facing technical resistance, dollar strength - Reuters"
   }
  ]
 }
