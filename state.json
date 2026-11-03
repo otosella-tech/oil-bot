@@ -4,10 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "0b848d771d523202",
-  "hardhitairlinestocksreboundonfallingoilprices",
-  "1f73ff6e275c317f",
-  "crudeoilpricesselloffmorethan7oniranpeacetalkhopesaheadofusm",
   "a34bb29863d9b284",
   "commentaryenergywatchmidtermmist",
   "f47e0594046c751b",
@@ -603,7 +599,11 @@
   "346a7c811060c032",
   "uscrudeoilinventoriesstillinfreefall",
   "8e44ce160ea14914",
-  "africalaunches5billionenergybankaswesternlendersretreat"
+  "africalaunches5billionenergybankaswesternlendersretreat",
+  "35a600c01ab6271c",
+  "oilprivatesurveyofinventoryshowsahugeheadlinecrudeoildrawvsb",
+  "a6be4682f872ca85",
+  "wtipriceforecastbuyersdefendkeysupportaftersharpselloff"
  ],
  "releases_done": {
   "2026-11-03|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-04T00:20:19.450333+02:00",
+ "last_run": "2026-11-04T00:25:15.118557+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
