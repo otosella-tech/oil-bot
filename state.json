@@ -4,8 +4,6 @@
   "Brent": 106.43
  },
  "seen": [
-  "624cc8bdedfe6091",
-  "oilpricefallsonoptimismtalkswillbringendtoiranwar",
   "378dc11c8834e882",
   "blackstone",
   "9345758d731b49ee",
@@ -603,7 +601,9 @@
   "a9ce845224966a44",
   "omancrudeoilpricefallsby341to10223perbarrelfananews",
   "5690fd84ffd76ae2",
-  "oilpricesreboundasusstrikesoniranrenewsupplyconcerns"
+  "oilpricesreboundasusstrikesoniranrenewsupplyconcerns",
+  "8fe918d44a87119b",
+  "indianrefinerbpclbuysuswticrudeoilcargo"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T15:25:14.804028+02:00",
+ "last_run": "2026-11-03T15:30:25.124420+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
