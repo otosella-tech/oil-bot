@@ -4,12 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "4f9d5d238111a206",
-  "oildropsmorethan4ontalksaimedatendingusiranwar",
-  "9d241e5c68dbf9f4",
-  "oilpricesplungemorethan4asusiranpeacetalksraisehopesofeasing",
-  "f4bd7bc14db615f8",
-  "adnocchiefsaysworldhaserodeditssupplybuffers",
   "f38e8da0dc193094",
   "ustreasuryeuropeanbondyieldsfallasoilpricesdrop",
   "8f6cff1700aa8e25",
@@ -603,7 +597,13 @@
   "d40a009c9679ff77",
   "sp500nasdaqopenhigherasoilpricesextenddeclinesmidtermsontap",
   "83fb6d83c8c6b539",
-  "tsxfuturesslipasoilreboundsusmidtermsinfocus"
+  "tsxfuturesslipasoilreboundsusmidtermsinfocus",
+  "cf03477a64b56b84",
+  "prosharesk1freecrudeoiletfdeclaresmonthlydistributionof47190",
+  "8613fa1958eea30a",
+  "crudeoilextendslossesto3weeklow",
+  "bed05bbbf7f666c4",
+  "pamppowergrowthoffsetweakercrudeoilresultsasmajorenergyproje"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T17:00:43.667661+02:00",
+ "last_run": "2026-11-03T17:05:55.884420+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
