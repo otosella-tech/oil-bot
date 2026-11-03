@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 97.19,
-  "Brent": 104.21
+  "Brent": 106.43
  },
  "seen": [
-  "443335052da67d0d",
-  "oilcompanyearningsskyrocketagain",
   "0aa48eb0e1c405eb",
   "tracyshuchartgoldmansachsraisescrudeoilpriceforecastsonhighe",
   "392798bc90704ac9",
@@ -603,7 +601,9 @@
   "09989d77b5061cac",
   "shellagreessaleofnorthwestshelfstakefor145billion",
   "cacc2ea47336e1a7",
-  "goldmansachsraisesdecemberbrentoilpriceforecastto105"
+  "goldmansachsraisesdecemberbrentoilpriceforecastto105",
+  "d76197ac553dbfa4",
+  "sensexgains900ptsniftynear23700easingcrudeoilpricesamongkeyf"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 44
  },
- "last_run": "2026-11-03T08:55:14.600187+02:00",
+ "last_run": "2026-11-03T09:00:30.465401+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
