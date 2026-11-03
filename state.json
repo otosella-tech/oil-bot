@@ -4,8 +4,6 @@
   "Brent": 106.43
  },
  "seen": [
-  "789a7f518a825b01",
-  "indiasreliancepostsbestdayinoversixyearsasoilbusinessjioplat",
   "970e26daa01dbea0",
   "jackdawapprovalsparksfiercedebateoverbritainsenergyfuture",
   "1ce267340264944c",
@@ -603,7 +601,9 @@
   "668a21c1800f3df1",
   "canadiandollargainsasoilreboundsusdcadretreats",
   "5d5296dbdd651512",
-  "knocreviewsegyptexpansionplanswithbadawi"
+  "knocreviewsegyptexpansionplanswithbadawi",
+  "2e14227df348083f",
+  "droneattacksparksfireatoneofrussiaslargestoilrefineriesinyar"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T14:00:30.071020+02:00",
+ "last_run": "2026-11-03T14:05:14.037916+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1424,6 +1424,10 @@
   {
    "d": "2026-11-03",
    "t": "Oil rises as Iran says war deal remains distant, US strikes Qeshm - Central Oregon Daily"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Drone attack sparks fire at one of Russia’s largest oil refineries in Yaroslavl, media report - Ukrinform"
   }
  ]
 }
