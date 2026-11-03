@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "f434c30ff178b802",
-  "stockmarketmiddaynov2stocksrallyasoilpricestumbleondiplomati",
   "3da06276f47e271a",
   "nasdaq100forecastndxreboundsasoilpricesfallandaheadofappleea",
   "d27227518c67d9f4",
@@ -603,7 +601,9 @@
   "4cda880c1c6baadf",
   "oilpricefallsamidhopeofabreakthroughtoendiranwar",
   "bee60e06de2fab91",
-  "januarywticrudeoilcontractclosesdown037or04settlesat9609perb"
+  "januarywticrudeoilcontractclosesdown037or04settlesat9609perb",
+  "e6bc326e8bda035d",
+  "oilpriceseasetonearlyfourweeklowamidpeacetalks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T21:50:29.885430+02:00",
+ "last_run": "2026-11-03T21:55:24.847601+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
