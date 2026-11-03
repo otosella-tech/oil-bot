@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "cb35a29c9afc8bc4",
-  "slumpingcrudeoilpricesweighonsugar",
   "5b0833c11f51f27b",
   "oilpricesdeclineonhopesforprogressoniranwarefforts",
   "f6a1ab7495b05c28",
@@ -603,7 +601,9 @@
   "e5ce683b84e29141",
   "canadassuncorenergytopsquarterlyprofitestimates",
   "b2ca958515115335",
-  "cmewticrudeoilfutureshit14sessionlowonsupplyrisks"
+  "cmewticrudeoilfutureshit14sessionlowonsupplyrisks",
+  "3de0d12cbe51cbd0",
+  "bigoilputsdebtreductionaheadofnewinvestments"
  ],
  "releases_done": {
   "2026-11-03|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 4
  },
- "last_run": "2026-11-04T00:55:16.588320+02:00",
+ "last_run": "2026-11-04T01:00:31.389518+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
