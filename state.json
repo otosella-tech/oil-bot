@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "af69797626675a72",
-  "goldrisesover2fromoneyearlowonsofteroilpricesusmidtermsinfoc",
   "134b739a63732d87",
   "uscrudeoilinventoriesbuckanalystexpectations",
   "343aff9f23e21ef2",
@@ -603,7 +601,9 @@
   "ea6447462e19edbe",
   "oilpricesswingasuncertaintyswirlsoverusiranpeacetalks",
   "9cd30dd6a0acddf7",
-  "usirandiplomacyhopesweighoncrudeoilprices"
+  "usirandiplomacyhopesweighoncrudeoilprices",
+  "5eee50c11d0f1523",
+  "oilpriceseasetosettlenear4weeklowonhopespeacetalkswillendwar"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T22:30:42.698306+02:00",
+ "last_run": "2026-11-03T22:35:16.746978+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
