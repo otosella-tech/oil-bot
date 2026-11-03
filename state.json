@@ -4,10 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "8530fc626af5b01c",
-  "usstocksrecoversomeoflastweeksselloffafteroilpricesdrop",
-  "a8a3846ac93f169e",
-  "aswinterheatingseasonbeginsmassresidentsfacerecordhighfueloi",
   "e78c6f8943ecdc91",
   "goldmansachsraisesoilpriceforecastsseesbrentupsideat140abarr",
   "70e777b692bfacc0",
@@ -603,7 +599,11 @@
   "deacf856213f7ece",
   "cvrenergyexpandsrefineryholdings",
   "b86252e2a4130852",
-  "sp500nasdaqedgehigheraheadofmidtermresultsapplefalls"
+  "sp500nasdaqedgehigheraheadofmidtermresultsapplefalls",
+  "f9f507a103b8db5d",
+  "oilpricesswingafterusattacksiran",
+  "dd5dc8d4b74b02a7",
+  "aramcobeginsexpansionofoilexportroutebypassinghormuzal"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T19:15:20.589579+02:00",
+ "last_run": "2026-11-03T19:20:23.860819+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1484,6 +1484,14 @@
   {
    "d": "2026-11-03",
    "t": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Oil prices swing after U.S. attacks Iran - Transport Topics"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Aramco begins expansion of oil export route bypassing Hormuz - Al-Monitor"
   }
  ]
 }
