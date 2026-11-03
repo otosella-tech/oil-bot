@@ -4,12 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "a2fea674f1cf1281",
-  "asgaspricesfallnatronacountyleadswyomingwithlowestfuelaverag",
-  "cbb4ac1724590dd3",
-  "usstocksriseasoilpricesdropeasingailedselloff",
-  "4b91794a813216ea",
-  "stocksrallyascrudeoilsinksonusiranhopes",
   "d2a7179540563e78",
   "usenergysecretarypraisesoklahomaoilandgaspushesforpermitting",
   "d443423de298a94a",
@@ -603,7 +597,13 @@
   "d1effb0fb27a2bfb",
   "brazilsdatacenterpushhingesongasrulesgridaccessandanewcongre",
   "ec86f690b2bc5c70",
-  "venezuelasoilexportsunchangedamidstagnantoutputandhighfreigh"
+  "venezuelasoilexportsunchangedamidstagnantoutputandhighfreigh",
+  "1e2f9e971df50a69",
+  "oilfuturesturnlowerasmarketholdsouthopeformiddleeastdiplomac",
+  "86928db0aab037bd",
+  "physicaloilpricestumbleaspersiangulfcrudeflowsrecover",
+  "ccac75797ef6b26a",
+  "stockswobbleoilpricesfallastrumpsaysisraelaidwillstop"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T20:15:20.427077+02:00",
+ "last_run": "2026-11-03T20:20:29.264312+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
