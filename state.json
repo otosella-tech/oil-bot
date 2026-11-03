@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "3dea8a7ead634cd3",
-  "stocksreboundaschipmakersrecoverandcrudeoilplunges",
   "228cd70a49c7f678",
   "ukrainehashitthreerussianrefineriessincefriday",
   "8530fc626af5b01c",
@@ -603,7 +601,9 @@
   "852436603cbff17a",
   "draxunveils20billionaidatacentreplansatukbiomassplant",
   "e5bd9011aa987dc2",
-  "bccrudeoilfutures"
+  "bccrudeoilfutures",
+  "deacf856213f7ece",
+  "cvrenergyexpandsrefineryholdings"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T19:05:19.238431+02:00",
+ "last_run": "2026-11-03T19:10:20.520910+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
