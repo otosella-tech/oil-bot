@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "11d1e4ae4fd81f1f",
-  "energybriefsfallingoilpricesoptimismgrowsovertalkswithiran",
   "eec69b787e34a074",
   "usstocksrecoversomeoflastweeksselloffafteroilpricesdroppitts",
   "7c190595dcc60b90",
@@ -603,7 +601,9 @@
   "460469266803d32f",
   "diamondbackplanstokeepshaledrillingmainlyflatin2027",
   "1700b9d7cf15a0fd",
-  "hormuzoilflowsunlikelytoreturntopre"
+  "hormuzoilflowsunlikelytoreturntopre",
+  "783754d1242b2fde",
+  "hormuzoilflowsunlikelytoreturntoprewarlevelsrystadsays"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T19:30:28.551933+02:00",
+ "last_run": "2026-11-03T19:35:18.233102+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1496,6 +1496,10 @@
   {
    "d": "2026-11-03",
    "t": "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
