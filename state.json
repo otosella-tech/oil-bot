@@ -4,12 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "0b3633d5bdb74d8d",
-  "goldmanraisesbrentcrudeoilforecastfor2027to88abarrel",
-  "81e4ddcdd6893395",
-  "usstockfuturesriseasoilpricesdropeasingailedselloff",
-  "9a8d616e1b90503b",
-  "usstockfuturesriseasoildropbuoyssentimentmarketswrap",
   "4f9d5d238111a206",
   "oildropsmorethan4ontalksaimedatendingusiranwar",
   "9d241e5c68dbf9f4",
@@ -603,7 +597,13 @@
   "999c64cedb8fe73e",
   "eurostatrefreshesmonthlycrudeoilsupplydatasetnrgcbcosmnewsan",
   "cfeb746b44e3cc40",
-  "goldedgeshigheronsofteroilpricesusmidtermsinfocus"
+  "goldedgeshigheronsofteroilpricesusmidtermsinfocus",
+  "3c19cbf3a95f40f9",
+  "uslaunchessecretstrikesoniranaheadofmidtermelections",
+  "d40a009c9679ff77",
+  "sp500nasdaqopenhigherasoilpricesextenddeclinesmidtermsontap",
+  "83fb6d83c8c6b539",
+  "tsxfuturesslipasoilreboundsusmidtermsinfocus"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T16:55:16.398918+02:00",
+ "last_run": "2026-11-03T17:00:43.667661+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1444,6 +1444,10 @@
   {
    "d": "2026-11-03",
    "t": "Saudi Budget Deficit More Than Doubles as War Strains Finances - Bloomberg"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "U.S. Launches Secret Strikes on Iran Ahead of Midterm Elections"
   }
  ]
 }
