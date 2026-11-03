@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "5a65401ae89798b6",
-  "rupeestrengthensasoilslideanduspoliticspressurethedollar",
   "c2db3330a2cdd00c",
   "soybeanmarketupdatefuturesfobpricesanddemanddrivers",
   "fb1a1308853c6280",
@@ -603,7 +601,9 @@
   "5477ccee6b8caca3",
   "oilpricesjump3onhouthiattacksoilspillhighestsettlementsincea",
   "598d7fd9bb8e4a65",
-  "oilfuturescruderecoversafterusstrikesiranianisland"
+  "oilfuturescruderecoversafterusstrikesiranianisland",
+  "93175ee7b483ddc9",
+  "chinasoybeanoilstockshitrecordascrushingoutpacesdemand"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 42
  },
- "last_run": "2026-11-03T08:25:14.588079+02:00",
+ "last_run": "2026-11-03T08:30:23.997463+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
