@@ -4,12 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "d443423de298a94a",
-  "stocksbondsriseasoiltumblesonusiranhopesmarketswrap",
-  "b89f871fd77cc52b",
-  "us",
-  "00722b1b56915910",
-  "goldmansachsseesoilaveraging130abarrelin2027",
   "47926ee14ab86bc4",
   "opeckeepsdecemberoiloutputtargetssteadyaheadoftoughercallfor",
   "8fc7cd596e740a8e",
@@ -603,7 +597,13 @@
   "ccac75797ef6b26a",
   "stockswobbleoilpricesfallastrumpsaysisraelaidwillstop",
   "dcbd89bf60c8d617",
-  "freedfromopecquotasuaesaysoilexportshaverisenasithostsindust"
+  "freedfromopecquotasuaesaysoilexportshaverisenasithostsindust",
+  "8a7bf76cbae2f7a4",
+  "iranwartripleslogisticscostsforoilservicesfirms",
+  "73e058b1e81a3b12",
+  "whatjusthappenedtodevonenergystock",
+  "5e622b164dcdd39c",
+  "stocksrallyascrudeoilsinksonusiranhopes"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T20:25:27.824896+02:00",
+ "last_run": "2026-11-03T20:30:37.412483+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1512,6 +1512,14 @@
   {
    "d": "2026-11-03",
    "t": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Iran War Triples Logistics Costs for Oil Services Firms"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Stocks Rally as Crude Oil Sinks on US-Iran Hopes - Yahoo Finance"
   }
  ]
 }
