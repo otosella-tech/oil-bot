@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "be02fe98c1b26cd3",
-  "crudeoilfallsbelow100",
   "8f8f532009c9e69e",
   "usfuturesreboundfromhugesellofflastweekasoilpricesretreatsha",
   "c1886f97dcd82eb1",
@@ -603,7 +601,9 @@
   "fd8873aca223ec3e",
   "usstockfuturesmixedasappleslidesmidtermsloom",
   "637226ff1b57c441",
-  "sp500nasdaqsetforhigheropenasoilpricesextenddeclinesmidtermr"
+  "sp500nasdaqsetforhigheropenasoilpricesextenddeclinesmidtermr",
+  "0a08b4532e8e7a9a",
+  "oilpricesslideaftertrumpcommentonstoppingisraelaid"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T16:20:20.274142+02:00",
+ "last_run": "2026-11-03T16:25:19.920933+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
