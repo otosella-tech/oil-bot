@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "5870aab4ec4c81d4",
-  "currentpriceofoilasofoctober202026",
   "904797487048130a",
   "countrydiaryaswinterapproachesalleyeshereareonheatingoilpric",
   "c2f61b1ca0b31876",
@@ -603,7 +601,9 @@
   "2d6780623f7d9d79",
   "asianstocksretreataheadofusmidtermsoilsteadies",
   "f970f51b3e9c1f47",
-  "stockmarkettodaygiftniftyusirantalkstocrudeoilpricesfivekeyf"
+  "stockmarkettodaygiftniftyusirantalkstocrudeoilpricesfivekeyf",
+  "8e105d2389bcbd31",
+  "gaspricesfallintheregionascrudeoilpricesalsodecline"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 18
  },
- "last_run": "2026-11-03T04:45:19.009860+02:00",
+ "last_run": "2026-11-03T04:50:18.539269+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
