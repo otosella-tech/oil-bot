@@ -4,10 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "d936a2ae6e052a9f",
-  "gasolineup34andheatingoilup74asvotersheadtothemidterms",
-  "9cf04e7be56610ec",
-  "morningwrapoilfallsafterqatartalkschinainjectsliquiditywhile",
   "428d30f2c5177a39",
   "tarrielachineseenvoygotthewrongteodoroinoiltalksrow",
   "12f3c71aaca4eca3",
@@ -603,7 +599,11 @@
   "4f961407fc9d9cfb",
   "germanymissesgasstoragetargetaspricessoar",
   "3a30aebfeebfc35e",
-  "oilfallsasmarkettracksmideastdevelopments"
+  "oilfallsasmarkettracksmideastdevelopments",
+  "1f3c9fb46075749d",
+  "nasdaqslidecloudsasianopenoilholdslossesmarketswrap",
+  "4dcec8d55ecce2fc",
+  "oilpricesslide3ashopesforiranpeacedealgrow"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-03",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-11-03T02:10:18.089081+02:00",
+ "last_run": "2026-11-03T02:15:18.796438+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1272,6 +1272,10 @@
   {
    "d": "2026-11-03",
    "t": "Germany Misses Gas Storage Target as Prices Soar"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Oil Prices Slide 3% as Hopes for Iran Peace Deal Grow - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
