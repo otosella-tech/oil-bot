@@ -4,8 +4,6 @@
   "Brent": 106.43
  },
  "seen": [
-  "84b0cda983d6dec8",
-  "chevronraisesexplorationspendingby50",
   "7833d8728b9de8c3",
   "chilebondinvestorsturntoinflationlinkednotesasoilsoars",
   "b1e0ca43abc23733",
@@ -603,7 +601,9 @@
   "0e53098f60b9fdfd",
   "oilhashadamassiverunbutaprominentbullseesaturningpointonmidt",
   "c27ae44c57d2d121",
-  "currentpriceofoilasofnovember32026"
+  "currentpriceofoilasofnovember32026",
+  "1d4737969b9487ae",
+  "tsxfuturesdropamidriseinoilpricesusmidtermelectionsahead"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T14:40:18.538585+02:00",
+ "last_run": "2026-11-03T14:45:17.499245+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
