@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "c1886f97dcd82eb1",
-  "uscrudeoutputroseinaugustwhilepetroleumdemanddeclinedeiasays",
   "e7d0911ffa8572d5",
   "markettalkwhyoilisntgoingbelow110",
   "0b3633d5bdb74d8d",
@@ -603,7 +601,9 @@
   "0a08b4532e8e7a9a",
   "oilpricesslideaftertrumpcommentonstoppingisraelaid",
   "7ed9c3f5444e4aed",
-  "stockseraselossesoiltumblesaftertrumpsaysuswillend4billionfu"
+  "stockseraselossesoiltumblesaftertrumpsaysuswillend4billionfu",
+  "999c64cedb8fe73e",
+  "eurostatrefreshesmonthlycrudeoilsupplydatasetnrgcbcosmnewsan"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T16:45:21.786202+02:00",
+ "last_run": "2026-11-03T16:50:19.948389+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
