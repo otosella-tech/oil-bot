@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "492a54cfe1ff60a2",
-  "uscrudedipsbelowus100asirantalksprogress",
   "925699ab5a99e96c",
   "oilpricesplunge7asusandiransignalroomfordiplomacy",
   "657f83ac4a474853",
@@ -603,7 +601,9 @@
   "c677c0714e31bea2",
   "benchmarkdieselpriceisdownsoisfuturesmarketinabigway",
   "cf2e39de44028255",
-  "whyhigheroilpricesarentsolvingsaudiaramcosbiggestproblems"
+  "whyhigheroilpricesarentsolvingsaudiaramcosbiggestproblems",
+  "3f9badfb41ef0b37",
+  "brentcrudeoilpricerisesafterusstrikeoniransqeshmisland"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T21:00:30.624390+02:00",
+ "last_run": "2026-11-03T21:05:18.895145+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1520,6 +1520,10 @@
   {
    "d": "2026-11-03",
    "t": "Stocks Rally as Crude Oil Sinks on US-Iran Hopes - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Brent Crude Oil Price Rises After US Strike on Iran’s Qeshm Island - Coinpedia"
   }
  ]
 }
