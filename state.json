@@ -4,10 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "fb1a1308853c6280",
-  "goldmansachsraisesbrentoilpriceforecastto105",
-  "a8a89f40c4230b75",
-  "goldmansachsraisesdecemberbrentoilpriceforecastto105",
   "0498e533d04b9d06",
   "oilpricesdeclineonmondaybrentcrudeperformanceandtheopecdecis",
   "443335052da67d0d",
@@ -603,7 +599,11 @@
   "93175ee7b483ddc9",
   "chinasoybeanoilstockshitrecordascrushingoutpacesdemand",
   "fcbd975859477fd5",
-  "xrgtobuyshellsstakeinaustralianprojectfor145billion"
+  "xrgtobuyshellsstakeinaustralianprojectfor145billion",
+  "e971045f4646b0ae",
+  "oilpricesclimbafterusreportedlystrikesiransqeshmisland",
+  "09989d77b5061cac",
+  "shellagreessaleofnorthwestshelfstakefor145billion"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-03",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-11-03T08:40:18.711130+02:00",
+ "last_run": "2026-11-03T08:45:17.302496+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1328,6 +1328,10 @@
   {
    "d": "2026-11-03",
    "t": "Oil Futures: Crude recovers after US strikes Iranian island - Quantum Commodity Intelligence"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Oil prices climb after U.S. reportedly strikes Iran's Qeshm Island - CNBC"
   }
  ]
 }
