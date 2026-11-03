@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "0f0425e023d93961",
-  "uscrudeoilnear98asiranstepsupattacksinstraitofhormuz",
   "e62f01cb55a98bed",
   "currentpriceofoilasofoctober142026",
   "a47524f8ba118668",
@@ -603,7 +601,9 @@
   "5a0ec722034b4570",
   "treasuryyieldsextendpastmonthsslideasoilpricesdrop",
   "7f2b0c7b248678c0",
-  "diamondbackenergyraisesdividendand2026oilproductionoutlook"
+  "diamondbackenergyraisesdividendand2026oilproductionoutlook",
+  "53cd78de869d7e19",
+  "oilpricetodaynovember3crudeoilreboundsto105asfreshattacksout"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 22
  },
- "last_run": "2026-11-03T05:50:17.243663+02:00",
+ "last_run": "2026-11-03T05:55:15.416347+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
