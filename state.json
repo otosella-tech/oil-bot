@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "c2db3330a2cdd00c",
-  "soybeanmarketupdatefuturesfobpricesanddemanddrivers",
   "fb1a1308853c6280",
   "goldmansachsraisesbrentoilpriceforecastto105",
   "a8a89f40c4230b75",
@@ -603,7 +601,9 @@
   "598d7fd9bb8e4a65",
   "oilfuturescruderecoversafterusstrikesiranianisland",
   "93175ee7b483ddc9",
-  "chinasoybeanoilstockshitrecordascrushingoutpacesdemand"
+  "chinasoybeanoilstockshitrecordascrushingoutpacesdemand",
+  "fcbd975859477fd5",
+  "xrgtobuyshellsstakeinaustralianprojectfor145billion"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 42
  },
- "last_run": "2026-11-03T08:35:14.531897+02:00",
+ "last_run": "2026-11-03T08:40:18.711130+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
