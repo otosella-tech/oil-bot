@@ -4,12 +4,6 @@
   "Brent": 106.43
  },
  "seen": [
-  "0aa48eb0e1c405eb",
-  "tracyshuchartgoldmansachsraisescrudeoilpriceforecastsonhighe",
-  "392798bc90704ac9",
-  "anasalhajjiuscrudeoilproductionroseinaugustnearrecordhigh",
-  "27a570935991c72e",
-  "indianrupeegainsfurtheramideasingenergysupplyrisks",
   "9549e6fcf1b8f018",
   "azerbaijangetsjust65ofevery120barrelofoilwheredoesrestgo",
   "dc6745f5afdd5421",
@@ -603,7 +597,13 @@
   "cacc2ea47336e1a7",
   "goldmansachsraisesdecemberbrentoilpriceforecastto105",
   "d76197ac553dbfa4",
-  "sensexgains900ptsniftynear23700easingcrudeoilpricesamongkeyf"
+  "sensexgains900ptsniftynear23700easingcrudeoilpricesamongkeyf",
+  "4960a7803c667265",
+  "uslngexportsnearrecordhighaseuropescramblesforwintersupply",
+  "7110841addf2ad1f",
+  "droneshitrussiasyanosrefineryasukrainestepsupstrikes",
+  "25685fc7c289310a",
+  "oiltumblesonhopesforusirantalks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-03",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-11-03T09:00:30.465401+02:00",
+ "last_run": "2026-11-03T09:05:15.249169+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1332,6 +1332,14 @@
   {
    "d": "2026-11-03",
    "t": "Oil prices climb after U.S. reportedly strikes Iran's Qeshm Island - CNBC"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Drones Hit Russia’s Yanos Refinery as Ukraine Steps Up Strikes - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Oil tumbles on hopes for US-Iran talks - Financial Times"
   }
  ]
 }
