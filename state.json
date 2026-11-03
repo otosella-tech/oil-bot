@@ -4,10 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "3c37c53993914ef7",
-  "oilpricesplungeasdraftproposaltoendusiranwariscirculated",
-  "d2ce6ad06791fc97",
-  "howusoilfirmsprofit130bnfromiranwarashouseholdbillssurge",
   "a8045ed9e7c488f8",
   "wallstreetfuturesriseasfallingoilpricessupportreboundafterte",
   "9e11c2d74f645936",
@@ -603,7 +599,11 @@
   "2da74f7911182616",
   "oilfuturesresumedeclineonhopesfordiplomacy",
   "3a7220bf8623a3cb",
-  "aramcorobustq3performancedrivenbycrudeoilprices"
+  "aramcorobustq3performancedrivenbycrudeoilprices",
+  "42c5b9a2321363be",
+  "crudeoilpricesfallforseconddayasmarkethopesfordiplomaticreso",
+  "c88a553f86b23bf7",
+  "oilcontinuestofallupasusbombsiranbeforeelectionday"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T18:05:17.313254+02:00",
+ "last_run": "2026-11-03T18:10:19.933353+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1464,6 +1464,10 @@
   {
    "d": "2026-11-03",
    "t": "Gulf oil flows dip in October from post-Iran war high, data shows - Reuters"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC"
   }
  ]
 }
