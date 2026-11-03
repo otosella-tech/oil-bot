@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "e1e0590543d4cb3f",
-  "dowfuturesstableastradersweighoilvolatilityanduselectionsign",
   "6022dfb2f6884b38",
   "iranwarlatestoilpricesslidemorethan3astrumpsignalsmoretimefo",
   "3b4ab6fe0a19531b",
@@ -603,7 +601,9 @@
   "80c4654fb5da91cf",
   "wartariffsandchinawhattheusmidtermsmeanfortheasiapacific",
   "5f615c6dd3839fb1",
-  "russianoilrefineryinyaroslavlreportedlystruckmultiplefiresre"
+  "russianoilrefineryinyaroslavlreportedlystruckmultiplefiresre",
+  "6113e0ba46dd2512",
+  "currentpriceofoilasofoctober282026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 26
  },
- "last_run": "2026-11-03T07:00:29.500412+02:00",
+ "last_run": "2026-11-03T07:05:14.025035+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
