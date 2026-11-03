@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "b1fda2a8d66b68e2",
-  "uaestateoilcompanyannouncesopenaipartnership",
   "d123f5d958174ef9",
   "oilpricesfallmorethan4asiranpeacetalkseasesupplyfears",
   "be02fe98c1b26cd3",
@@ -603,7 +601,9 @@
   "7c7f49ede395d1d6",
   "globalrefineryinputsfellsharplyinthesecondquarterof2026befor",
   "5088f3f7fa4acdb2",
-  "yourtuesdaynov3guidefivethingstodointheoilcity"
+  "yourtuesdaynov3guidefivethingstodointheoilcity",
+  "fd8873aca223ec3e",
+  "usstockfuturesmixedasappleslidesmidtermsloom"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T16:10:18.878119+02:00",
+ "last_run": "2026-11-03T16:15:19.774323+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
