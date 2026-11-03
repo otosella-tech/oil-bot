@@ -4,8 +4,6 @@
   "Brent": 106.43
  },
  "seen": [
-  "1ce267340264944c",
-  "uscrudefallsbelow100amidreportsofusirandiplomaticefforts",
   "003961e3e78a2b87",
   "ftse100todaystocksfallascrudeslidedragsoilmajorslower",
   "027739562b14734f",
@@ -603,7 +601,9 @@
   "2e14227df348083f",
   "droneattacksparksfireatoneofrussiaslargestoilrefineriesinyar",
   "ca0f7837f5ed62f8",
-  "republicanscouldpaypoliticalpriceforsurgingoilpricesinusmidt"
+  "republicanscouldpaypoliticalpriceforsurgingoilpricesinusmidt",
+  "1cf562f05b313ad4",
+  "crudeoilpricetumblesarenthelpingdiesel"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T14:10:18.776902+02:00",
+ "last_run": "2026-11-03T14:15:18.745704+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
