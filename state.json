@@ -4,8 +4,6 @@
   "Brent": 106.43
  },
  "seen": [
-  "63b3d7aab8c5d553",
-  "relianceearningsloweroilpricespowerindiassensextoneartwomont",
   "931b6642d6522bf6",
   "oildropsover4onhopesofprogressintalksonendingusiranwar",
   "d60680e53d534a59",
@@ -603,7 +601,9 @@
   "53552b5e16f8ae4f",
   "techlossesweighonglobalmarketsaheadofusmidtermelectionswhile",
   "28438899669636ba",
-  "saudiaramcoprofitbeatsexpectationsasoilpricessoar"
+  "saudiaramcoprofitbeatsexpectationsasoilpricessoar",
+  "4406b5b373b1cd82",
+  "goldholdsbiggestjumpintwomonthsoniranpeacedealhopes"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T11:50:19.375363+02:00",
+ "last_run": "2026-11-03T11:55:15.288826+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1384,6 +1384,10 @@
   {
    "d": "2026-11-03",
    "t": "Saudi Aramco Profit Beats Expectations as Oil Prices Soar"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Gold Holds Biggest Jump in Two Months on Iran Peace-Deal Hopes - Bloomberg.com"
   }
  ]
 }
