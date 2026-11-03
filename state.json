@@ -4,10 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "95631b9aa0d6e0c3",
-  "crudeoiljumpsasiransaysfourtankersstruckminesinthestraitofho",
-  "92b1bc71597893f9",
-  "uaeoilbosscallsformorestockpilesrefiningclosertousers",
   "4b276c7ffaf6b615",
   "indianoiltargetshighercruderunsvesselpurchases",
   "c09f4636ea161ac8",
@@ -603,7 +599,11 @@
   "2154b5b267458634",
   "crudeoilfuturesdropamidusirantalkscolgatepalmolivecldividend",
   "f266a19616964856",
-  "travelstocksriseafterbigdropinoilprices"
+  "travelstocksriseafterbigdropinoilprices",
+  "34a07211f35d3c27",
+  "oilrisesafterreportofusstrikeoniransqeshmisland",
+  "fca21ab442a65ff3",
+  "oilpricesplungebymostsincejulyonrenewedhopesfordiplomacyinus"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-03",
-  "count": 14
+  "count": 16
  },
- "last_run": "2026-11-03T03:30:21.908188+02:00",
+ "last_run": "2026-11-03T03:35:15.948135+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1280,6 +1280,14 @@
   {
    "d": "2026-11-03",
    "t": "Questions Mount Over Venezuela’s Biggest Oil Deal"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Oil rises after report of US strike on Iran's Qeshm Island - Reuters"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Oil prices plunge by most since July on renewed hopes for diplomacy in U.S.-Iran war (USO:NYSEARCA) - Seeking Alpha"
   }
  ]
 }
