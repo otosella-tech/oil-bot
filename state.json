@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "0498e533d04b9d06",
-  "oilpricesdeclineonmondaybrentcrudeperformanceandtheopecdecis",
   "443335052da67d0d",
   "oilcompanyearningsskyrocketagain",
   "0aa48eb0e1c405eb",
@@ -603,7 +601,9 @@
   "e971045f4646b0ae",
   "oilpricesclimbafterusreportedlystrikesiransqeshmisland",
   "09989d77b5061cac",
-  "shellagreessaleofnorthwestshelfstakefor145billion"
+  "shellagreessaleofnorthwestshelfstakefor145billion",
+  "cacc2ea47336e1a7",
+  "goldmansachsraisesdecemberbrentoilpriceforecastto105"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 44
  },
- "last_run": "2026-11-03T08:45:17.302496+02:00",
+ "last_run": "2026-11-03T08:50:22.019710+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
