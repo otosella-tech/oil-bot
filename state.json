@@ -4,8 +4,6 @@
   "Brent": 106.43
  },
  "seen": [
-  "ee8aa87d84f45142",
-  "europeanstocksflatoildropsasmidtermcautionprevails",
   "7ded0cb823004dea",
   "chinesetraderwithhistoryofdefaultsdrawsscrutinyoverrussianoi",
   "0c4ec505fbff0d8f",
@@ -603,7 +601,9 @@
   "538cc6095f14d590",
   "cvrenergynears4billionrefinerydealwithmarathon",
   "49a31a9ea04c8ba3",
-  "30tozeroinsixweekswhatsnextaftercrudeoilpremiumcollapsesdstr"
+  "30tozeroinsixweekswhatsnextaftercrudeoilpremiumcollapsesdstr",
+  "b302dcc87682f226",
+  "aramcosq3profitrisesbyathirddespiteattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-03",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-11-03T10:15:18.493124+02:00",
+ "last_run": "2026-11-03T10:20:19.882203+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1356,6 +1356,10 @@
   {
    "d": "2026-11-03",
    "t": "CVR Energy Nears $4 Billion Refinery Deal With Marathon"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Aramco's Q3 profit rises by a third despite attacks - Reuters"
   }
  ]
 }
