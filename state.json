@@ -4,10 +4,6 @@
   "Brent": 106.43
  },
  "seen": [
-  "225b4e4bed6a122b",
-  "globalsharesaremixedandusfuturesadvancewhileoilpricesfallnea",
-  "cfd86e0cfe9d2958",
-  "oilpricesfallasreportofusdiplomaticeffortseasesiranfears",
   "c0e9a4e3b051949f",
   "painatthepumponeoilshockverydifferentbills",
   "224d9404011554dc",
@@ -603,7 +599,11 @@
   "6ab484d5447a7d0e",
   "aramcolookingtocircumventstraitofhormuzviapipelineexpansionc",
   "17b1e03ec51bc32e",
-  "oilfuturesedgeupafterussaidtostrikeiransqeshmisland"
+  "oilfuturesedgeupafterussaidtostrikeiransqeshmisland",
+  "c10e34bf046836fb",
+  "kazakhstansuspendsoilsuppliestorussiaamiddroneattacks",
+  "3e5c270d1ec779cc",
+  "iraqsoilexportsviaturkeysurgeto500000bpd"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T11:00:29.274343+02:00",
+ "last_run": "2026-11-03T11:05:15.957417+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1368,6 +1368,14 @@
   {
    "d": "2026-11-03",
    "t": "Oil futures edge up after U.S. said to strike Iran's Qeshm Island - Seeking Alpha"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Kazakhstan suspends oil supplies to Russia amid drone attacks - Українська правда"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Iraq's Oil Exports via Turkey Surge to 500,000 Bpd - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
