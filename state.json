@@ -4,12 +4,6 @@
   "Brent": 106.43
  },
  "seen": [
-  "82051957a6af7c1e",
-  "brentcrudeoilforecastraisedbygoldmansachsfor2027",
-  "1d9077ee3f47f2ff",
-  "hasthemarketgotitwrongoncrudeoilandgas",
-  "36b7959c0b8d9418",
-  "noatummaritimekeepingtheoilmoving",
   "ce5b2ff907d4baf0",
   "crudeoilnearspotentialreversalasmomentumfadesamidirandiploma",
   "33e138f073eabd88",
@@ -603,7 +597,13 @@
   "44f2384b103eaf8c",
   "oilfuturescruderecoversafterustargetsiranianisland",
   "362dc4474345e293",
-  "venezuelasoilrushbringsprivatejetsandsoaringrentstofrontiert"
+  "venezuelasoilrushbringsprivatejetsandsoaringrentstofrontiert",
+  "0bd4b94001a3b148",
+  "applemarginoutlookpressurestechasreportedusstrikeliftsoil",
+  "afa6d667299ee439",
+  "oilpricesreboundasusstrikeoniransqeshmislanddimsprospectsfor",
+  "4f6752309b890ce8",
+  "oilrisesasiransayswardealremainsdistantusstrikesqeshm"
  ],
  "releases_done": {},
  "last_digest": "2026-11-03",
@@ -615,7 +615,7 @@
   "date": "2026-11-03",
   "count": 60
  },
- "last_run": "2026-11-03T13:35:15.406983+02:00",
+ "last_run": "2026-11-03T13:40:18.849440+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1416,6 +1416,14 @@
   {
    "d": "2026-11-03",
    "t": "Venezuela’s Oil Rush Brings Private Jets and Soaring Rents to Frontier Town - Bloomberg"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Oil Prices Rebound as US Strike on Iran’s Qeshm Island Dims Prospects for Peace Agreement - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Oil rises as Iran says war deal remains distant, US strikes Qeshm - Central Oregon Daily"
   }
  ]
 }
