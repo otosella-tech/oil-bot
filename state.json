@@ -4,8 +4,6 @@
   "Brent": 104.21
  },
  "seen": [
-  "ba894dba42ddf314",
-  "saudicrudeoilexportshitfivemonthhighinaugustdatashows",
   "9ec0ee257e17bd41",
   "currentpriceofoilasofoct212026",
   "6113e0ba46dd2512",
@@ -603,7 +601,9 @@
   "ee0b3f8ede2282ec",
   "aheadofmidtermsoilmarketswerevotingforwar",
   "b317498f7b3309e6",
-  "indiansharesextendgainsonsofteroilstrongearnings"
+  "indiansharesextendgainsonsofteroilstrongearnings",
+  "dee32e66d37caff4",
+  "oiledgesupafterreportofusstrikeoniransqeshmisland"
  ],
  "releases_done": {},
  "last_digest": "2026-11-02",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-03",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-11-03T06:25:14.297002+02:00",
+ "last_run": "2026-11-03T06:30:23.260620+02:00",
  "sent_stories": [
   {
    "d": "2026-10-31",
@@ -1304,6 +1304,10 @@
   {
    "d": "2026-11-03",
    "t": "Ahead of Midterms, Oil Markets Were Voting for War - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Oil edges up after report of US strike on Iran's Qeshm Island - Reuters"
   }
  ]
 }
