@@ -4,8 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "1d4737969b9487ae",
-  "tsxfuturesdropamidriseinoilpricesusmidtermelectionsahead",
   "0b0c4cb6bdc80165",
   "goldfallsashigheroilstokesinflationfearsaheadofusmidterms",
   "7762658dcd6a103f",
@@ -603,7 +601,9 @@
   "c2c946ab0ef73243",
   "oilpricesplungeover9asjdvanceblamesiranwarforgoplossesinusmi",
   "e5b20f70a5bbc35f",
-  "decemberwticrudeoilcontractclosesdown797or83settlesat8812per"
+  "decemberwticrudeoilcontractclosesdown797or83settlesat8812per",
+  "c27ae44c57d2d121",
+  "currentpriceofoilasofnovember32026"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T21:45:19.075784+02:00",
+ "last_run": "2026-11-04T21:50:19.918509+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
