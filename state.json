@@ -4,12 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "a27426f1c0e3228a",
-  "usequityindexesmixedamidslidingcrudeoiltechnology",
-  "77df8f765eee4d47",
-  "trumpstrilliondollaroilplayatrapforbigoil",
-  "a73c852604411d15",
-  "howsoongaspricescouldgodownnowthatoilistumbling",
   "cedd7bf6386dd558",
   "2026heatingoilpricesaretheytheworsttheyveeverbeenandistherea",
   "a57dc07ae4aab70e",
@@ -603,7 +597,13 @@
   "594efb04093a1c78",
   "updateusequityindexesriseamidsinkingcrudeoiltreasuryyields",
   "da0193c11dc13ceb",
-  "iranturnstoguerrillatacticsinbidtoreassertgriponstraitofhorm"
+  "iranturnstoguerrillatacticsinbidtoreassertgriponstraitofhorm",
+  "ef9566e134cf7377",
+  "oilrisesoniranwaruncertaintyaftertrumpsrepublicansareroutedi",
+  "f29f86d5a9eee0b7",
+  "venezuelasoilexportsholdsteadyat108mmbbldinoctober",
+  "468b84f5ae4f64f6",
+  "crudeoilmarketupdatewtiandbrenteasecurveremainsinbackwardati"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-04",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-11-04T10:15:18.376063+02:00",
+ "last_run": "2026-11-04T10:20:18.717349+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1480,6 +1480,10 @@
   {
    "d": "2026-11-04",
    "t": "Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz - WSJ"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Oil rises on Iran war uncertainty after Trump's Republicans are routed in midterms - Reuters"
   }
  ]
 }
