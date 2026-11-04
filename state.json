@@ -1,15 +1,9 @@
 {
  "price_base": {
   "WTI": 92.65,
-  "Brent": 101.06
+  "Brent": 98.91
  },
  "seen": [
-  "cacc2ea47336e1a7",
-  "goldmansachsraisesdecemberbrentoilpriceforecastto105",
-  "d76197ac553dbfa4",
-  "sensexgains900ptsniftynear23700easingcrudeoilpricesamongkeyf",
-  "4960a7803c667265",
-  "uslngexportsnearrecordhighaseuropescramblesforwintersupply",
   "7110841addf2ad1f",
   "droneshitrussiasyanosrefineryasukrainestepsupstrikes",
   "25685fc7c289310a",
@@ -603,7 +597,13 @@
   "fa3f127608048847",
   "oilfallsastradersparseiranwaroutlookaftermidterms",
   "0c455f4d00814c7b",
-  "oilpricesdeclineasmarketssoaronmidtermresults"
+  "oilpricesdeclineasmarketssoaronmidtermresults",
+  "baa700de4f23adb0",
+  "uscrudeoilinventoriesfallfor5thweek",
+  "9dc274bcc1ae96f7",
+  "useiacrudeoilinventories09mlnbarrelsinlatestweekfromprevious",
+  "352c2fb6515bbaa4",
+  "jaywoodssaysconocophillipsoffersalowriskhighrewardwaytoinves"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T18:05:17.441345+02:00",
+ "last_run": "2026-11-04T18:10:18.244020+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1591,6 +1591,10 @@
   {
    "d": "2026-11-04",
    "t": "Oil Falls as Traders Parse Iran War Outlook After Midterms - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Jay Woods says ConocoPhillips offers a low-risk, high-reward way to invest in oil - CNBC"
   }
  ]
 }
