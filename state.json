@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 92.65,
-  "Brent": 98.91
+  "WTI": 89.87,
+  "Brent": 95.93
  },
  "seen": [
-  "98dccfa0978c36c9",
-  "asiantradingismixedastechselloffdeepensandoilpricesreboundun",
   "538cc6095f14d590",
   "cvrenergynears4billionrefinerydealwithmarathon",
   "49a31a9ea04c8ba3",
@@ -603,7 +601,9 @@
   "0a56f478b31036f6",
   "brentcrudeoildropsbelow100perbarrel",
   "c451024d791479c4",
-  "fossilfuelexpansionistsbewaredemandiscooling"
+  "fossilfuelexpansionistsbewaredemandiscooling",
+  "8f8e8aa0c9992592",
+  "cenovusexpectswideningcanadiancrudediscounttobetemporarywont"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T18:45:20.045533+02:00",
+ "last_run": "2026-11-04T18:50:20.198890+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
