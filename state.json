@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "3bdd505b31f71af1",
-  "crudeoiltradingalertgeopoliticalpremiumeasesasusirannegotiat",
   "43acc5c997ddc197",
   "oilpricereboundclasheswithmidtermelectionuncertaintywhichway",
   "0479d767cb9ae0e8",
@@ -603,7 +601,9 @@
   "e24f22d16f13d240",
   "fromirantotradehowtheusmidtermsimpacttherestoftheworld",
   "5870aab4ec4c81d4",
-  "currentpriceofoilasofoctober202026"
+  "currentpriceofoilasofoctober202026",
+  "397d24933cbdf406",
+  "europeangaspricesfall2astraderswaitontrumpsnextmoveiniran"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -615,7 +615,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T15:25:15.009234+02:00",
+ "last_run": "2026-11-04T15:30:30.277551+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1544,6 +1544,10 @@
   {
    "d": "2026-11-04",
    "t": "Oil News: Crude Oil Futures Fall as Iran Peace Talks Pressure War Premium - FXEmpire"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "European Gas Prices Fall 2% as Traders Wait on Trump’s Next Move in Iran"
   }
  ]
 }
