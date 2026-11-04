@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "f4d7d2b23454608e",
-  "dowreboundsafterfridaysselloffasoilslides",
   "67f1c1685e9c2b3e",
   "crudeoilpricesplummetonmiddleeastpeacehopes",
   "2e2f0085f0099ba9",
@@ -603,7 +601,9 @@
   "aa9a6eaf245c1779",
   "oilpricesreboundasmiddleeastsupplyfearsreturn",
   "635aaa6b76b17ff9",
-  "oilfuturescrudesteadiesaftertrumpdefeatmideastpolicyeyed"
+  "oilfuturescrudesteadiesaftertrumpdefeatmideastpolicyeyed",
+  "c3cd290fa057843d",
+  "commentaryasiascrudeoilimportsbacktoprewarlevelsbutrefinedfu"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-04",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-11-04T08:25:15.580846+02:00",
+ "last_run": "2026-11-04T08:30:24.322916+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1464,6 +1464,10 @@
   {
    "d": "2026-11-04",
    "t": "Oil rises on Iran war uncertainty after Trump's Republicans face election rout - Central Oregon Daily"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag - Reuters"
   }
  ]
 }
