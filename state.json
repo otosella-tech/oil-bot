@@ -4,10 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "eb96b07f1f963319",
-  "oilpricesdrop7asiranqataropentopeacetalks",
-  "b9a7a36171364b09",
-  "nasdaqslidecloudsasianopenoilfallsoniranmarketswrap",
   "15aef4a6d6104a56",
   "oilholdsbiggestdropsincejulyonoptimismoverusirantalks",
   "66f8a3c16dc4b5fc",
@@ -603,7 +599,11 @@
   "89b150198d75a623",
   "iransaysfouroiltankersdestroyedbyminesnearstraitofhormuz",
   "767d4079b8005625",
-  "democratjonrosenthaldefeatsrepublicanbofrenchinuglyraceforte"
+  "democratjonrosenthaldefeatsrepublicanbofrenchinuglyraceforte",
+  "328ecfd9a83dbe23",
+  "updateusequityindexesmixedasselloffintechnologycontinuescrud",
+  "d67d2637d67cafb0",
+  "globaloilpricehits116abarrelhighestsinceapril"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -615,7 +615,7 @@
   "date": "2026-11-04",
   "count": 44
  },
- "last_run": "2026-11-04T12:20:20.467982+02:00",
+ "last_run": "2026-11-04T12:25:17.201588+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
