@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "ede620289de8b06e",
-  "oilpricessinkasiranussignalopennesstodiplomaticresolutiontoc",
   "0c06c1337cf4277d",
   "oilpricessinkasiransignalstalks",
   "f2f026d33bc3a7cf",
@@ -603,7 +601,9 @@
   "ab40eec5398a7620",
   "chinanowhometonearlyhalfofworldscleanindustrialplants",
   "1cf1ca7ef60220ed",
-  "oilpricesreboundasuscrudeinventoriesunexpectedlydecline"
+  "oilpricesreboundasuscrudeinventoriesunexpectedlydecline",
+  "cc296de5d552c0f4",
+  "dollarfallswithcrudeoilpricesandbondyields"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -615,7 +615,7 @@
   "date": "2026-11-04",
   "count": 32
  },
- "last_run": "2026-11-04T09:40:18.593249+02:00",
+ "last_run": "2026-11-04T09:45:23.496187+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
