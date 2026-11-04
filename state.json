@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "2e2f0085f0099ba9",
-  "dollarfallsasoilpricesdropstocksriseaheadofbusyweek",
   "6c22c644b928840a",
   "tankersdefysharpescalationofiranianattackstokeepcrudeoilflow",
   "1c41b9535b5eb117",
@@ -603,7 +601,9 @@
   "c3cd290fa057843d",
   "commentaryasiascrudeoilimportsbacktoprewarlevelsbutrefinedfu",
   "2ca8f82aeabb0dd8",
-  "oilpricesriseasinvestorsweighusmidtermresultsiranrisks"
+  "oilpricesriseasinvestorsweighusmidtermresultsiranrisks",
+  "f0612fe0d2a8c39f",
+  "crudeoilpricesplummetonmiddleeastpeacehopes"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -615,7 +615,7 @@
   "date": "2026-11-04",
   "count": 30
  },
- "last_run": "2026-11-04T08:50:19.921235+02:00",
+ "last_run": "2026-11-04T08:55:15.649336+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
