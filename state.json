@@ -4,8 +4,6 @@
   "Brent": 98.91
  },
  "seen": [
-  "12312778c9017b2f",
-  "crudeoilmarketriskpremiumdeflatesaswtiandbrentslide",
   "4520c6f98d842eb7",
   "asiantradingismixedastechselloffdeepensandoilpricesrebound",
   "c2fc60250b9a67f3",
@@ -603,7 +601,9 @@
   "85aab58502ffc8e6",
   "breakingusoilinventoriesfalllessthanexpectedbutpricesdropdue",
   "b987542267974ffd",
-  "oilpricesslideasmidtermresultseaseiranescalationfears"
+  "oilpricesslideasmidtermresultseaseiranescalationfears",
+  "5cce18ca6accf0a6",
+  "southeasternohiooilandgasassociationtohostfalltradeshowinmar"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T18:35:15.779901+02:00",
+ "last_run": "2026-11-04T18:40:22.194254+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
