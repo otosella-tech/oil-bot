@@ -4,8 +4,6 @@
   "Brent": 101.06
  },
  "seen": [
-  "ee0b3f8ede2282ec",
-  "aheadofmidtermsoilmarketswerevotingforwar",
   "b317498f7b3309e6",
   "indiansharesextendgainsonsofteroilstrongearnings",
   "dee32e66d37caff4",
@@ -603,7 +601,9 @@
   "eb5f653bd2883bc3",
   "yourwednesdaynov4guidefivethingstodointheoilcity",
   "6825e2237bca0199",
-  "mubadalaownedmoevetoexitupstreamwithsaleofalgerianassets"
+  "mubadalaownedmoevetoexitupstreamwithsaleofalgerianassets",
+  "afd6c69352b09aa9",
+  "uae"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -615,7 +615,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T16:25:16.142212+02:00",
+ "last_run": "2026-11-04T16:30:25.042446+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
