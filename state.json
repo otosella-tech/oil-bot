@@ -4,8 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "cc98ba48b9bad8e6",
-  "crudeoiltrimslossesasusstrikesiransqeshmislandwhileciadirect",
   "0bcca945e719d633",
   "russiatosellpartofitsstakeinshippinggroupsovcomflottoraisefu",
   "df3a96097bc3e1e4",
@@ -603,7 +601,9 @@
   "a5e9e789e63c4f85",
   "uscrudeoilinventoriesdecreaseby09millionbarrels",
   "e4b91c1c53708b02",
-  "crudeoilhits4weeklow"
+  "crudeoilhits4weeklow",
+  "a4cb07ef584f584d",
+  "oiltumbles9asinvestorseyepossibleendtoiranwarafterusmidterme"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T20:10:25.941039+02:00",
+ "last_run": "2026-11-04T20:15:18.944372+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1623,6 +1623,10 @@
   {
    "d": "2026-11-04",
    "t": "Physical Oil Just Went From a Bidding War to a Fire Sale - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Oil tumbles 9% as investors eye possible end to Iran war after US midterm elections - Reuters"
   }
  ]
 }
