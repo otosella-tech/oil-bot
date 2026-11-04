@@ -4,10 +4,6 @@
   "Brent": 101.06
  },
  "seen": [
-  "b317498f7b3309e6",
-  "indiansharesextendgainsonsofteroilstrongearnings",
-  "dee32e66d37caff4",
-  "oiledgesupafterreportofusstrikeoniransqeshmisland",
   "9b24f524efca4ce4",
   "tsxreboundsasoilpullbackboostsindustrialsminingshares",
   "1a181be84dfd14a5",
@@ -603,7 +599,11 @@
   "6825e2237bca0199",
   "mubadalaownedmoevetoexitupstreamwithsaleofalgerianassets",
   "afd6c69352b09aa9",
-  "uae"
+  "uae",
+  "75a1a3ce4488ae36",
+  "uaemullsthirdcrudeoilpipelinetoavoidstraitofhormuz",
+  "5f335b01162ef38d",
+  "uaecontrolledmoevesellsalgerianupstreamassets"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -615,7 +615,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T16:30:25.042446+02:00",
+ "last_run": "2026-11-04T16:35:15.722276+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1548,6 +1548,10 @@
   {
    "d": "2026-11-04",
    "t": "European Gas Prices Fall 2% as Traders Wait on Trump’s Next Move in Iran"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "UAE Mulls Third Crude Oil Pipeline to Avoid Strait of Hormuz - Bloomberg.com"
   }
  ]
 }
