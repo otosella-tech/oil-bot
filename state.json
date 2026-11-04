@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "3c12cdae484b0c69",
-  "oilpricesfallsharplyasbrenthoversnear104after8crashusiranpea",
   "c5a0bd68118f61ee",
   "aaanationalaveragetumblesascrudeoilpricesdecline",
   "2d6780623f7d9d79",
@@ -603,7 +601,9 @@
   "7ef8ee50cefdfce4",
   "oilrisesafterreportofusstrikeoniransqeshmisland",
   "049853d164cd58f2",
-  "venezuelasoilrevivalmovescargoesfromshadowfleettomainstreamt"
+  "venezuelasoilrevivalmovescargoesfromshadowfleettomainstreamt",
+  "25a3a725c534186a",
+  "oilpricesfallasdemocratsseizecontrolofuscongressanduncertain"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -615,7 +615,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T14:55:21.295386+02:00",
+ "last_run": "2026-11-04T15:00:37.263033+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1536,6 +1536,10 @@
   {
    "d": "2026-11-04",
    "t": "Venezuela’s oil revival moves cargoes from shadow fleet to mainstream tankers - Lloyd's List"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Oil Prices Fall as Democrats Seize Control of U.S. Congress and Uncertainty Grows Over Iran Conflict — WTI Below $95, Brent Near $102 - EnergyNow.com"
   }
  ]
 }
