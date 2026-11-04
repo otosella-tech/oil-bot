@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "3d28206981946960",
-  "trumptoutsrecorddropinoilpricesonelectionevesaysiranwantsade",
   "f48b1bcb84b398ad",
   "oiljumps2settlesat6monthhighsonfearsofescalationiniran",
   "4f961407fc9d9cfb",
@@ -603,7 +601,9 @@
   "c432a22d2c93bda7",
   "oilpricesreboundasstraitofhormuzsupplyriskspersist",
   "0440d48092696190",
-  "crudeoilfallsfor3rdsession"
+  "crudeoilfallsfor3rdsession",
+  "2bfba1250eaa397c",
+  "oilpricesfallasinvestorsweighusmidtermresultsiranrisks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-04",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-11-04T13:05:16.878129+02:00",
+ "last_run": "2026-11-04T13:10:20.466018+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1504,6 +1504,10 @@
   {
    "d": "2026-11-04",
    "t": "Oil Prices Rebound as Strait of Hormuz Supply Risks Persist - JournalArta"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Oil Prices Fall as Investors Weigh U.S. Midterm Results, Iran Risks - WSJ"
   }
  ]
 }
