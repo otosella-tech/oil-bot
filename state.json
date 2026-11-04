@@ -4,12 +4,6 @@
   "Brent": 98.91
  },
  "seen": [
-  "4520c6f98d842eb7",
-  "asiantradingismixedastechselloffdeepensandoilpricesrebound",
-  "c2fc60250b9a67f3",
-  "egyptiraqjordandiscussnewoilexportroutesthroughredsea",
-  "6ec6bd8e8479c980",
-  "aramcoposts345riseinthirdquarterprofitdespiteattacks",
   "98dccfa0978c36c9",
   "asiantradingismixedastechselloffdeepensandoilpricesreboundun",
   "538cc6095f14d590",
@@ -603,7 +597,13 @@
   "b987542267974ffd",
   "oilpricesslideasmidtermresultseaseiranescalationfears",
   "5cce18ca6accf0a6",
-  "southeasternohiooilandgasassociationtohostfalltradeshowinmar"
+  "southeasternohiooilandgasassociationtohostfalltradeshowinmar",
+  "0ee16ff569b4eeed",
+  "crudeoilpricesslumpaspresidenttrumpdownplaysescalationofusir",
+  "0a56f478b31036f6",
+  "brentcrudeoildropsbelow100perbarrel",
+  "c451024d791479c4",
+  "fossilfuelexpansionistsbewaredemandiscooling"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T18:40:22.194254+02:00",
+ "last_run": "2026-11-04T18:45:20.045533+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1595,6 +1595,10 @@
   {
    "d": "2026-11-04",
    "t": "Jay Woods says ConocoPhillips offers a low-risk, high-reward way to invest in oil - CNBC"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Crude Oil Prices Slump as President Trump Downplays Escalation of US-Iran War - Barchart.com"
   }
  ]
 }
