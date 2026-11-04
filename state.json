@@ -4,14 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "f48b1bcb84b398ad",
-  "oiljumps2settlesat6monthhighsonfearsofescalationiniran",
-  "4f961407fc9d9cfb",
-  "germanymissesgasstoragetargetaspricessoar",
-  "3a30aebfeebfc35e",
-  "oilfallsasmarkettracksmideastdevelopments",
-  "1f3c9fb46075749d",
-  "nasdaqslidecloudsasianopenoilholdslossesmarketswrap",
   "4dcec8d55ecce2fc",
   "oilpricesslide3ashopesforiranpeacedealgrow",
   "8b79b6c201fb1cd7",
@@ -603,7 +595,15 @@
   "0440d48092696190",
   "crudeoilfallsfor3rdsession",
   "2bfba1250eaa397c",
-  "oilpricesfallasinvestorsweighusmidtermresultsiranrisks"
+  "oilpricesfallasinvestorsweighusmidtermresultsiranrisks",
+  "f7a1003c827a1204",
+  "oilfallsoniranwaruncertaintyusdemocratsmidtermsweep",
+  "164df46c396ce4c2",
+  "crudeoilconsolidatesamidconflictingreportsonusirannegotiatio",
+  "e35438fee30c84d6",
+  "oilfuturescrudedriftsloweraftertrumpdefeatmideastpolicyeyed",
+  "c2530b147d756054",
+  "sangachalterminalhandles138millionbarrelsofoilandcondensate"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-04",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-11-04T13:10:20.466018+02:00",
+ "last_run": "2026-11-04T13:15:19.261699+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1508,6 +1508,10 @@
   {
    "d": "2026-11-04",
    "t": "Oil Prices Fall as Investors Weigh U.S. Midterm Results, Iran Risks - WSJ"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Oil falls on Iran war uncertainty, US Democrats' midterm sweep - Reuters"
   }
  ]
 }
