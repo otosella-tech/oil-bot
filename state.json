@@ -605,7 +605,9 @@
   "2ec9bf1cba0b5430",
   "canadatradesurpluswidenswithriseinoilgoldexports"
  ],
- "releases_done": {},
+ "releases_done": {
+  "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+ },
  "last_digest": "2026-11-04",
  "digest_prices": {
   "WTI": 95.91,
@@ -615,7 +617,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T16:50:20.053866+02:00",
+ "last_run": "2026-11-04T16:55:16.403884+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
