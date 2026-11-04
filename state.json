@@ -4,10 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "3c37c53993914ef7",
-  "oilpricesplungeasdraftproposaltoendusiranwariscirculated",
-  "6e4c23c28011a499",
-  "iraqbooststurkeyoilexportssignswestqurna2dealwithchevronamid",
   "9e11c2d74f645936",
   "losangelescitycouncilstopsoildrillingandextractionafterlengt",
   "b417e9b5da36ece6",
@@ -603,7 +599,11 @@
   "42c5b9a2321363be",
   "crudeoilpricesfallforseconddayasmarkethopesfordiplomaticreso",
   "8d15a783bc6f70ae",
-  "analystselectionwontchangeupstreamtrajectorymidlandreporter"
+  "analystselectionwontchangeupstreamtrajectorymidlandreporter",
+  "e3c39ac4d40360ef",
+  "oilsteadiesafter8plungeonhopesforendtousiranwar",
+  "391a5c99af429f6b",
+  "democratsmidtermsweepsendsstockssoaringascrudeoilsuffershist"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-05",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-11-05T01:15:17.654549+02:00",
+ "last_run": "2026-11-05T01:20:18.197692+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1587,6 +1587,10 @@
   {
    "d": "2026-11-05",
    "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Oil Steadies After 8% Plunge on Hopes for End to US-Iran War - Bloomberg.com"
   }
  ]
 }
