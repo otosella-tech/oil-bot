@@ -4,10 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "7ea25b1aa63e9b9d",
-  "jetbluesoars11unitedrallies6asoildropsoniranpeacetalkhopesam",
-  "c4c4342305709d7f",
-  "northernwestvirginiagaspricesdipasnationalaveragefalls",
   "28857dd107489178",
   "goldsilverrecoverfromoctoberroutasoildropsfedtighteningbetsp",
   "6666425975c52ff3",
@@ -603,7 +599,11 @@
   "5506cfaf26484c65",
   "usequitymarketsmixedastechnologyselloffcontinuescrudeoilpric",
   "c667b562ec6e2ba6",
-  "dollarslideswithcrudeoilpricesandbondyields"
+  "dollarslideswithcrudeoilpricesandbondyields",
+  "77df8f765eee4d47",
+  "trumpstrilliondollaroilplayatrapforbigoil",
+  "758d362e5798a38f",
+  "howiranjustbroketheusoilshieldinsaudiarabiayetagain"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-04",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-11-04T11:20:20.832555+02:00",
+ "last_run": "2026-11-04T11:25:16.545007+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1488,6 +1488,10 @@
   {
    "d": "2026-11-04",
    "t": "Crude Oil Could Soon Join Bitcoin, Gold In ‘Rollover’ If Iran War Extends, Says Analyst - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "How Iran Just Broke the U.S. Oil Shield In Saudi Arabia Yet Again - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
