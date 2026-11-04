@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "e42fa86b7fdb1ca9",
-  "oilpricesslideinbiggestdropsincejulyonhopeformoreirantalks",
   "c667b562ec6e2ba6",
   "dollarslideswithcrudeoilpricesandbondyields",
   "c0165b8ca99a1f7f",
@@ -603,7 +601,9 @@
   "c2c8f8b09191c344",
   "currentpriceofoilasofoctober292026",
   "868dd41a321206af",
-  "updateusequityindexesmixedamidslidingcrudeoiltechnology"
+  "updateusequityindexesmixedamidslidingcrudeoiltechnology",
+  "d3b626a6a040aa7e",
+  "canadiandollarstrengthensasyieldsoilpressureusd"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -615,7 +615,7 @@
   "date": "2026-11-04",
   "count": 38
  },
- "last_run": "2026-11-04T11:03:31.050286+02:00",
+ "last_run": "2026-11-04T11:05:15.908181+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
