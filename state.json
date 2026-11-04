@@ -4,8 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "999c64cedb8fe73e",
-  "eurostatrefreshesmonthlycrudeoilsupplydatasetnrgcbcosmnewsan",
   "cfeb746b44e3cc40",
   "goldedgeshigheronsofteroilpricesusmidtermsinfocus",
   "3c19cbf3a95f40f9",
@@ -603,7 +601,9 @@
   "318a12b8b655fcfa",
   "marathonsellingminnesotaoilrefineryin42billiondeal",
   "7c7f49ede395d1d6",
-  "globalrefineryinputsfellsharplyinthesecondquarterof2026befor"
+  "globalrefineryinputsfellsharplyinthesecondquarterof2026befor",
+  "b349613a051e7985",
+  "ownersofusshaleproducerenduringresourcesivexplore4billionsal"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T23:00:30.475367+02:00",
+ "last_run": "2026-11-04T23:05:15.706514+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
