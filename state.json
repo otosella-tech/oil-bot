@@ -4,12 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "6a49c6aeed6be8be",
-  "morningbidmidtermsandmediation",
-  "668a21c1800f3df1",
-  "canadiandollargainsasoilreboundsusdcadretreats",
-  "5d5296dbdd651512",
-  "knocreviewsegyptexpansionplanswithbadawi",
   "2e14227df348083f",
   "droneattacksparksfireatoneofrussiaslargestoilrefineriesinyar",
   "ca0f7837f5ed62f8",
@@ -603,7 +597,13 @@
   "49677601d1b93920",
   "oilpricessinkasusmidtermsraisemarkethopesformiddleeastsoluti",
   "c42afd7b45a158d0",
-  "oiltumblesbelow100onpostelectionpeacehopes"
+  "oiltumblesbelow100onpostelectionpeacehopes",
+  "3348ec62e2b64d40",
+  "polarvortexputseuropesgasreservesatrisk",
+  "edcb202bf5153500",
+  "eiauscrudeoilinventoriesdown900000bbl",
+  "efb17859fb5489e9",
+  "democraticsweepraisesusirandealoddsrystadenergysaysasoilslum"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T20:55:16.414874+02:00",
+ "last_run": "2026-11-04T21:00:31.094935+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1635,6 +1635,10 @@
   {
    "d": "2026-11-04",
    "t": "Oil Crashes 9% as Trump and Vance Blame Iran War for Midterm Rout"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Democratic Sweep Raises US-Iran Deal Odds, Rystad Energy Says as Oil Slumps Following Midterm Results - Yahoo Finance"
   }
  ]
 }
