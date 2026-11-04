@@ -4,10 +4,6 @@
   "Brent": 95.93
  },
  "seen": [
-  "49a31a9ea04c8ba3",
-  "30tozeroinsixweekswhatsnextaftercrudeoilpremiumcollapsesdstr",
-  "b302dcc87682f226",
-  "aramcosq3profitrisesbyathirddespiteattacks",
   "d0fece4ed344b9c0",
   "oilrisesaspeaceprospectsdimafterushitsiransqeshmisland",
   "1c495164a6ccfb31",
@@ -603,7 +599,11 @@
   "8f8e8aa0c9992592",
   "cenovusexpectswideningcanadiancrudediscounttobetemporarywont",
   "ed9744149f01e7a9",
-  "brentcrudeoilfallsbelow100asvanceblamesgopelectiondefeatonir"
+  "brentcrudeoilfallsbelow100asvanceblamesgopelectiondefeatonir",
+  "a936ae8bbe24d9aa",
+  "newjerseymovestoblocktrumpsrussiandieselimports",
+  "5112424d39b5294d",
+  "oiltumblesasinvestorsweighendtoiranwarafterusdemocratsmidter"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T18:55:16.099787+02:00",
+ "last_run": "2026-11-04T19:00:36.859712+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1603,6 +1603,14 @@
   {
    "d": "2026-11-04",
    "t": "Brent crude oil falls below $100 as Vance blames GOP election defeat on Iran war - CNBC"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "New Jersey Moves to Block Trump's Russian Diesel Imports"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Oil tumbles as investors weigh end to Iran war after US Democrats' midterm elections sweep - Central Oregon Daily"
   }
  ]
 }
