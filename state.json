@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "c2f68e29c76f04af",
-  "thefedrisksapolicyerrorfightingoilprices",
   "a5a90d440e71902e",
   "canadianbondyieldsretreatasoilpriceseaseinflationconcernsdat",
   "8787937488b18ce8",
@@ -603,7 +601,9 @@
   "ddac59e48ece1a7e",
   "whysupplyingeuropewithlnghasabestbeforedate",
   "776efb43415477c9",
-  "pentagoneyesunprecedented75"
+  "pentagoneyesunprecedented75",
+  "d9de69c36e1d775b",
+  "oilpricesslideashopesriseforpotentialusirandiplomaticbreakth"
  ],
  "releases_done": {
   "2026-11-03|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-04",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-11-04T03:40:17.930945+02:00",
+ "last_run": "2026-11-04T03:45:20.233696+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1447,6 +1447,10 @@
   {
    "d": "2026-11-04",
    "t": "Iran War Doubles Egypt’s LNG Bill as Gas Output Keeps Falling"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Oil prices slide as hopes rise for potential US-Iran diplomatic breakthrough - Yahoo Finance"
   }
  ]
 }
