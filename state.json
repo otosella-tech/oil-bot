@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "cf77979d807e1264",
-  "usequityindexesriseamidsinkingcrudeoiltreasuryyields",
   "b7433e26f836b6c7",
   "epaproposesmajorrevisionstooilandgasemissionsregulations",
   "db9e0a9a75989ed2",
@@ -603,7 +601,9 @@
   "5f6c65f0a7a635ff",
   "ovintivprofitmorethandoublesasstrongeroilandgaspricesliftear",
   "7f506e4c8eaf8e52",
-  "crudeoilfuturesfallaheadofusmidtermelectionoutcome"
+  "crudeoilfuturesfallaheadofusmidtermelectionoutcome",
+  "2f6fff6e79faf834",
+  "sugarpricesretreatascrudeoilplunges"
  ],
  "releases_done": {
   "2026-11-03|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 16
  },
- "last_run": "2026-11-04T06:40:20.572234+02:00",
+ "last_run": "2026-11-04T06:45:19.053391+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
