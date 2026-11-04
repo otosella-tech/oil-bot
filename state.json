@@ -4,14 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "1202eefc4c2cedb7",
-  "uscrudeoilstockpilesfallforfourthstraightweek",
-  "78642e8b64f5bd52",
-  "adnocgastosupplylngtototalenergiesunderfive",
-  "e65551462cee973f",
-  "crudeoiltumblesarenthelpingdiesel",
-  "0e53098f60b9fdfd",
-  "oilhashadamassiverunbutaprominentbullseesaturningpointonmidt",
   "c27ae44c57d2d121",
   "currentpriceofoilasofnovember32026",
   "1d4737969b9487ae",
@@ -603,7 +595,15 @@
   "20ee13060517e0f4",
   "updateequitiesrallyoilplungesintradayfollowingdemocratselect",
   "b48a092636d2332c",
-  "stocksandbondsrisedollarslidesafterusvotemarketswrap"
+  "stocksandbondsrisedollarslidesafterusvotemarketswrap",
+  "1cf562f05b313ad4",
+  "crudeoilpricetumblesarenthelpingdiesel",
+  "77e2b287ff253861",
+  "usairlinestocksclimbascrudeoilpricesdropover3",
+  "acf6a417f948ab78",
+  "midtermsarebadforincumbentsandevenworsewhenenergypricesarehi",
+  "c2c946ab0ef73243",
+  "oilpricesplungeover9asjdvanceblamesiranwarforgoplossesinusmi"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T21:35:17.254876+02:00",
+ "last_run": "2026-11-04T21:40:21.052965+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1643,6 +1643,10 @@
   {
    "d": "2026-11-04",
    "t": "Update: Equities Rally, Oil Plunges Intraday Following Democrats' Election Win - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Oil prices plunge over 9% as JD Vance blames Iran war for GOP losses in US midterm elections | Hindustan Times - Hindustan Times"
   }
  ]
 }
