@@ -4,12 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "ca0f7837f5ed62f8",
-  "republicanscouldpaypoliticalpriceforsurgingoilpricesinusmidt",
-  "1cf562f05b313ad4",
-  "crudeoilpricetumblesarenthelpingdiesel",
-  "0c4f96b3db23a208",
-  "currentpriceofoilasofnov32026",
   "1202eefc4c2cedb7",
   "uscrudeoilstockpilesfallforfourthstraightweek",
   "78642e8b64f5bd52",
@@ -603,7 +597,13 @@
   "efb17859fb5489e9",
   "democraticsweepraisesusirandealoddsrystadenergysaysasoilslum",
   "085a762eacf091e5",
-  "whilewallstreetisobsessingovercrudeoilpricesimstayingfaraway"
+  "whilewallstreetisobsessingovercrudeoilpricesimstayingfaraway",
+  "56d17706ea563335",
+  "brentcrudeoilfallsunder100abarrelaftertrumpsmidtermdefeats",
+  "20ee13060517e0f4",
+  "updateequitiesrallyoilplungesintradayfollowingdemocratselect",
+  "b48a092636d2332c",
+  "stocksandbondsrisedollarslidesafterusvotemarketswrap"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T21:30:25.940421+02:00",
+ "last_run": "2026-11-04T21:35:17.254876+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1639,6 +1639,10 @@
   {
    "d": "2026-11-04",
    "t": "Democratic Sweep Raises US-Iran Deal Odds, Rystad Energy Says as Oil Slumps Following Midterm Results - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Update: Equities Rally, Oil Plunges Intraday Following Democrats' Election Win - Yahoo Finance"
   }
  ]
 }
