@@ -1,15 +1,9 @@
 {
  "price_base": {
-  "WTI": 89.87,
+  "WTI": 87.81,
   "Brent": 95.93
  },
  "seen": [
-  "93993fd52651892d",
-  "aramcosq32026netincomerises91",
-  "53552b5e16f8ae4f",
-  "techlossesweighonglobalmarketsaheadofusmidtermelectionswhile",
-  "28438899669636ba",
-  "saudiaramcoprofitbeatsexpectationsasoilpricessoar",
   "4406b5b373b1cd82",
   "goldholdsbiggestjumpintwomonthsoniranpeacedealhopes",
   "9abd66ea1f89139b",
@@ -603,7 +597,13 @@
   "3c580a254be79362",
   "oilfuturesbrenttradessub95baftertrumpelectionwipeout",
   "4b71fe973af68386",
-  "hastheglobaloilmarketreturnedtosurplusjpmorganthinksso"
+  "hastheglobaloilmarketreturnedtosurplusjpmorganthinksso",
+  "a89afe7c025545ae",
+  "fireshutsequinorsvisundplatforminnorwegiannorthsea",
+  "b7544ea863910822",
+  "crudeoilfuturestumbleddowncloseto8",
+  "11ea8c3422a7180e",
+  "oilsufferssharpestfallsinceapril9"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-04",
   "count": 60
  },
- "last_run": "2026-11-04T19:25:17.705437+02:00",
+ "last_run": "2026-11-04T19:30:24.633806+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
