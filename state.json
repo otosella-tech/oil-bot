@@ -4,8 +4,6 @@
   "Brent": 103.19
  },
  "seen": [
-  "4dcec8d55ecce2fc",
-  "oilpricesslide3ashopesforiranpeacedealgrow",
   "8b79b6c201fb1cd7",
   "trumptoutsoilpricedipinclosingspeech",
   "a106fbbea37820db",
@@ -603,7 +601,9 @@
   "e35438fee30c84d6",
   "oilfuturescrudedriftsloweraftertrumpdefeatmideastpolicyeyed",
   "c2530b147d756054",
-  "sangachalterminalhandles138millionbarrelsofoilandcondensate"
+  "sangachalterminalhandles138millionbarrelsofoilandcondensate",
+  "f48b1bcb84b398ad",
+  "oiljumps2settlesat6monthhighsonfearsofescalationiniran"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-04",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-11-04T13:15:19.261699+02:00",
+ "last_run": "2026-11-04T13:20:20.277022+02:00",
  "sent_stories": [
   {
    "d": "2026-11-01",
@@ -1512,6 +1512,10 @@
   {
    "d": "2026-11-04",
    "t": "Oil falls on Iran war uncertainty, US Democrats' midterm sweep - Reuters"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran - Reuters"
   }
  ]
 }
