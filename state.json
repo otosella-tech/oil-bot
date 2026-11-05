@@ -4,8 +4,6 @@
   "Brent": 97.76
  },
  "seen": [
-  "77e2b287ff253861",
-  "usairlinestocksclimbascrudeoilpricesdropover3",
   "acf6a417f948ab78",
   "midtermsarebadforincumbentsandevenworsewhenenergypricesarehi",
   "c2c946ab0ef73243",
@@ -603,7 +601,9 @@
   "b44fb8017f1bf22b",
   "stifeluspublicepuniversecouldshrinktofewerthan15producers",
   "70a3788639714298",
-  "wtipriceforecastcrudeoilreboundsfromcriticalsupport"
+  "wtipriceforecastcrudeoilreboundsfromcriticalsupport",
+  "18df7756a1e153e3",
+  "oilpricepredictionswhygoldmansachsisbettingonbrenttoclimbto1"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-06T00:30:23.970745+02:00",
+ "last_run": "2026-11-06T00:35:23.354918+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
