@@ -4,8 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "c400db9b5ac3b75e",
-  "oiledgesdownasinvestorsawaitusmidtermelectionresultsbyreuter",
   "09143aa42badc269",
   "crudeoilfuturesriseamidpositiveglobaltrends",
   "aa9a6eaf245c1779",
@@ -603,7 +601,9 @@
   "5e14d72c100b41c1",
   "theusspent50yearstryingtoescapeoilshockstheystillupendelecti",
   "c59f0270adfae048",
-  "heatingoilsupplystaysexposedtoasinglerefineryoutage"
+  "heatingoilsupplystaysexposedtoasinglerefineryoutage",
+  "63cc3d801b0631ad",
+  "huntingforacookingoilreplacementinpennsylvaniasforests"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T12:35:15.614008+02:00",
+ "last_run": "2026-11-05T12:40:19.089254+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
