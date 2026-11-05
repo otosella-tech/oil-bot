@@ -4,8 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "613c77c048f07c9f",
-  "oilpricesfallasusmidtermresultsunfold",
   "3442bd9d9321f9f0",
   "crudeoiltradingalertgeopoliticalriskpremiumcontinuestodeclin",
   "525c8e169f01cc4a",
@@ -603,7 +601,9 @@
   "bd4a7329ce1e568d",
   "oilgiantscashinontheusiranconflictcananeuwidetaxonoilprofits",
   "f12cb087c9c8172f",
-  "crudeoilplungescurveflattensanddieselcracksnarrow"
+  "crudeoilplungescurveflattensanddieselcracksnarrow",
+  "ae32be8b822f9f39",
+  "oilrisesasinvestorsweighriskofiranwarescalation"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T10:45:17.744283+02:00",
+ "last_run": "2026-11-05T10:50:18.658052+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1692,6 +1692,10 @@
   {
    "d": "2026-11-05",
    "t": "Drone attack sparks fires at industrial facilities in Russia's Ryazan, oil refinery reportedly targeted - The Kyiv Independent"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Oil rises as investors weigh risk of Iran war escalation - Reuters"
   }
  ]
 }
