@@ -4,16 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "25a3a725c534186a",
-  "oilpricesfallasdemocratsseizecontrolofuscongressanduncertain",
-  "907af52f129aa132",
-  "forecastupdateforcrudeoil04112026",
-  "4ca09ed3f5599508",
-  "oilpricesswingonconflictingiransignals",
-  "df8d6686d17356bd",
-  "aaanationalaveragetumblesascrudeoilpricesdecline",
-  "a2f236a4ddfc8fd8",
-  "oilnewscrudeoilfuturesfallasiranpeacetalkspressurewarpremium",
   "e24f22d16f13d240",
   "fromirantotradehowtheusmidtermsimpacttherestoftheworld",
   "5870aab4ec4c81d4",
@@ -603,7 +593,17 @@
   "256bbec5550a7c76",
   "currentpriceofoilasofnovember42026",
   "e67f247c015f8fbe",
-  "aistockskeepfallingasoilpricesandbondyieldssteadyfollowingth"
+  "aistockskeepfallingasoilpricesandbondyieldssteadyfollowingth",
+  "4d9aac697c2e12e2",
+  "bccrudeoilfutures",
+  "8f72b19e2b7ecbb3",
+  "ustreasurieshovernear2monthlowson20weeklyoilcrashmidtermswee",
+  "645fa692be8ac419",
+  "pentagoneyesunprecedented75yeardealtoendchinasrareearthstran",
+  "5bfda714fc660536",
+  "thekeyfactortodayisthepriceofoil",
+  "4afac0933f571b8a",
+  "ukrainianforceshaverendered15of38mainrussianoilrefineriesino"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T17:10:21.824883+02:00",
+ "last_run": "2026-11-05T17:15:19.089633+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1756,6 +1756,10 @@
   {
    "d": "2026-11-05",
    "t": "Iran Braces for Trump's Next Move After Democrats Sweep Congress"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "U.S. Treasuries hover near 2-month lows on 20% weekly oil crash, midterm sweep - Investing.com"
   }
  ]
 }
