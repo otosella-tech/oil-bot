@@ -4,8 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "dd5dc8d4b74b02a7",
-  "aramcobeginsexpansionofoilexportroutebypassinghormuzal",
   "460469266803d32f",
   "diamondbackplanstokeepshaledrillingmainlyflatin2027",
   "1700b9d7cf15a0fd",
@@ -603,7 +601,9 @@
   "6cb7832ce1981e7d",
   "oilcityweeklyeeditionfornov5132026",
   "44e21f7455e5b1a5",
-  "oilpricestodaybrentbelow95after16crashthisweekistheiranwarpr"
+  "oilpricestodaybrentbelow95after16crashthisweekistheiranwarpr",
+  "800c8b21286739ac",
+  "brentcrudeplunges10near90levelwhatcausedtherapiddropinoilpri"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-05",
   "count": 28
  },
- "last_run": "2026-11-05T03:45:17.138339+02:00",
+ "last_run": "2026-11-05T03:50:17.844115+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
