@@ -4,10 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "598429dc564ff8c8",
-  "canadianstockmarkettodaytsxfuturesfirmonoilgainsandcrucialda",
-  "182b209512f55f00",
-  "eiaglobalrefineryinputsfellsharplyin2q26beforemodestrecovery",
   "c6e96a9a2db9a9bc",
   "democratswintexasoilregulatorseatforfirsttimesince1990",
   "eb5f653bd2883bc3",
@@ -603,7 +599,11 @@
   "d3691743d55954cb",
   "whattoknowtostartyourday",
   "d1e664bc1baf5efd",
-  "moredropsfornvidiaandotheraichipstockserasewallstreetsrallyf"
+  "moredropsfornvidiaandotheraichipstockserasewallstreetsrallyf",
+  "7275ed0f04df15f4",
+  "oilpricesriseamiduncertaintyoverthewarwithiran",
+  "f6e94090fd9a646f",
+  "todayispopvilledaydcmayordeclarestohonorpopularblog"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T17:30:25.383062+02:00",
+ "last_run": "2026-11-05T17:35:17.602776+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1764,6 +1764,10 @@
   {
    "d": "2026-11-05",
    "t": "EU Not Planning to Resume Russian Gas Purchases"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Oil prices rise amid uncertainty over the war with Iran - Українські Національні Новини (УНН)"
   }
  ]
 }
