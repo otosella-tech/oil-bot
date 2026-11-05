@@ -4,8 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "635aaa6b76b17ff9",
-  "oilfuturescrudesteadiesaftertrumpdefeatmideastpolicyeyed",
   "c3cd290fa057843d",
   "commentaryasiascrudeoilimportsbacktoprewarlevelsbutrefinedfu",
   "2ca8f82aeabb0dd8",
@@ -603,7 +601,9 @@
   "e5cf65ab180a32e2",
   "doesthebluewavemeanlowergasolineanddieselpricessoondontholdy",
   "0f39d58c2ef0cc05",
-  "crudeoilplungescurveflattensanddieselcracksnarrowcmbnews"
+  "crudeoilplungescurveflattensanddieselcracksnarrowcmbnews",
+  "a9439c694cc5f9c9",
+  "oilpricesreboundasmiddleeastsupplyfearsreturn"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T13:00:29.923923+02:00",
+ "last_run": "2026-11-05T13:05:13.910170+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
