@@ -4,10 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "ddac59e48ece1a7e",
-  "whysupplyingeuropewithlnghasabestbeforedate",
-  "776efb43415477c9",
-  "pentagoneyesunprecedented75",
   "d9de69c36e1d775b",
   "oilpricesslideashopesriseforpotentialusirandiplomaticbreakth",
   "a96cd9ff8c1207c5",
@@ -603,7 +599,11 @@
   "73d5982b290c5e5c",
   "emiratesreports66profitslumponwarhighfuelcosts",
   "03b54cdffc98384e",
-  "eusurveyrevealsmassivesupportforrenewableenergytransition"
+  "eusurveyrevealsmassivesupportforrenewableenergytransition",
+  "118b139ede3373c6",
+  "hormuzmineincidentescalatescrudeoilriskpremium",
+  "065e70d64863a6e7",
+  "droneattacksparksfiresatindustrialfacilitiesinrussiasryazano"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T09:45:18.303739+02:00",
+ "last_run": "2026-11-05T09:50:18.771600+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1684,6 +1684,14 @@
   {
    "d": "2026-11-05",
    "t": "Emirates Reports 66% Profit Slump on War, High Fuel Costs - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Hormuz Mine Incident Escalates Crude Oil Risk Premium - CMB News"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Drone attack sparks fires at industrial facilities in Russia's Ryazan, oil refinery reportedly targeted - The Kyiv Independent"
   }
  ]
 }
