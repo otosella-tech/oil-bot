@@ -4,10 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "e11b11227686404d",
-  "usopenloweroilpricesboostindicesmarketsawaitmidtermsresults0",
-  "6e1747d7f5b75c84",
-  "analystsseesmallweeklydeclineinuscrudeoilstockpiles",
   "852436603cbff17a",
   "draxunveils20billionaidatacentreplansatukbiomassplant",
   "e5bd9011aa987dc2",
@@ -603,7 +599,11 @@
   "580f6f003b937314",
   "trumpbombsirantalkspeaceandsendsoilpricestumbling",
   "171e3691f5d98973",
-  "crudeoilplunges10inintradaytradingcuttingtieswithtrumpvancec"
+  "crudeoilplunges10inintradaytradingcuttingtieswithtrumpvancec",
+  "7583859ed58e1071",
+  "cmewticrudeoilfuturesfallonmiddleeastdeescalation",
+  "6e53f8190a8448a8",
+  "whyoilpricesplunged8usmidtermsetbackfuelsbetsontrumpendingir"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-05",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-11-05T02:40:18.638640+02:00",
+ "last_run": "2026-11-05T02:45:17.343506+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1607,6 +1607,10 @@
   {
    "d": "2026-11-05",
    "t": "Crude oil plunges 10% in intraday trading! “Cutting ties with Trump,” Vance claims “defeat in the Iran war,” as Democratic leaders vow to block tariffs and war - 富途牛牛"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Why oil prices plunged 8%: US midterm setback fuels bets on Trump ending Iran war - Firstpost"
   }
  ]
 }
