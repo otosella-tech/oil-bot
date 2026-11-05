@@ -4,8 +4,6 @@
   "Brent": 97.76
  },
  "seen": [
-  "c2c946ab0ef73243",
-  "oilpricesplungeover9asjdvanceblamesiranwarforgoplossesinusmi",
   "e5b20f70a5bbc35f",
   "decemberwticrudeoilcontractclosesdown797or83settlesat8812per",
   "c27ae44c57d2d121",
@@ -603,7 +601,9 @@
   "18df7756a1e153e3",
   "oilpricepredictionswhygoldmansachsisbettingonbrenttoclimbto1",
   "7c1262a2c3c82323",
-  "alaskanorthslopecrudeoilrecordsfifthhighestmonthlyaveragepri"
+  "alaskanorthslopecrudeoilrecordsfifthhighestmonthlyaveragepri",
+  "4d8c28febacdfdc5",
+  "midtermsarebadforincumbentsandevenworsewhenenergypricesarehi"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-06T00:55:16.405641+02:00",
+ "last_run": "2026-11-06T00:58:31.219898+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
