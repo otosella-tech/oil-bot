@@ -4,12 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "ef6946a140a32d09",
-  "oilsoakedragsspontaneouslycombustsparkingfireatfranklinvisit",
-  "a0e274be7f74539d",
-  "iranwardoublesegyptslngbillasgasoutputkeepsfalling",
-  "4346b609c8938f29",
-  "globaldieselcrunchsettolastwellinto2027",
   "06cc93169eb5132c",
   "suncorenergytopsprofitestimatesonhigheroilpricesmarginsmerce",
   "00c448c09dc5f632",
@@ -603,7 +597,13 @@
   "245c2fbb90cf7cb8",
   "eiareportsadrawinuscrudeoilstocks",
   "49cd563b2bb92ea9",
-  "thefrenchoilfirmthatspoweringdatacentersintexas"
+  "thefrenchoilfirmthatspoweringdatacentersintexas",
+  "a9b30ee7fee9c836",
+  "rupeetepidlyfollowsstockandbondrallyasmidtermsdeflateiranwor",
+  "c60b5fd57d16f1e7",
+  "brentslidesnearly86astradersbetoniranwarendingafterrepublica",
+  "52d32655ca46ea97",
+  "wtislumpsbelow8650asmidtermelectionsfuelhopeforanendtoiranwa"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-05",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-11-05T09:05:14.731531+02:00",
+ "last_run": "2026-11-05T09:10:20.262459+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1668,6 +1668,18 @@
   {
    "d": "2026-11-05",
    "t": "Oil drops 7% as Iran signals openness to peace talks - Reuters"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Rupee tepidly follows stock and bond rally as midterms deflate Iran worries - Reuters"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Brent slides nearly 8.6% as traders bet on Iran war ending after Republican midterm losses - The Indian Express"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "WTI slumps below $86.50 as midterm elections fuel hope for an end to Iran war - www.tmgm.com"
   }
  ]
 }
