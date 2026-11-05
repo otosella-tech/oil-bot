@@ -4,8 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "2bfba1250eaa397c",
-  "oilpricesfallasinvestorsweighusmidtermresultsiranrisks",
   "f7a1003c827a1204",
   "oilfallsoniranwaruncertaintyusdemocratsmidtermsweep",
   "164df46c396ce4c2",
@@ -603,7 +601,9 @@
   "bdb6f5c4801de33b",
   "soybeanoilpricesfallinbrazilandargentinaamidsharpdeclineincr",
   "13a6ce982216be81",
-  "adaptordiewhyoilrefineriesmustevolvetosurvive"
+  "adaptordiewhyoilrefineriesmustevolvetosurvive",
+  "498af0810e85099b",
+  "conocophillipsprofitrisesasoilpricesclimb"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T15:55:15.753991+02:00",
+ "last_run": "2026-11-05T16:00:31.637450+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
