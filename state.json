@@ -4,10 +4,6 @@
   "Brent": 97.76
  },
  "seen": [
-  "8f17d5a4cd4bc42b",
-  "northseaoilplungedeepensastradersweighirandeescalation",
-  "8fe28821abc02e99",
-  "usmidtermsbrentcrudeoilfallsbelow100",
   "60e04de800302638",
   "jpmorganseesglobaloilmarketreturntosurplus",
   "d2b0ceca3dfd9ee3",
@@ -603,7 +599,11 @@
   "93403af1407ef0b8",
   "usequitymarketsendloweraftercrudeoilrisesmegacaptechstocksfa",
   "1e1568ea13cb5a49",
-  "carneyspendscanadasoilwindfallinbidtodrivegrowth"
+  "carneyspendscanadasoilwindfallinbidtodrivegrowth",
+  "ae53e189c3de9f2b",
+  "oilpricespickupasmarketmullsoverprospectsformiddleeastsettle",
+  "4fbe7c8f395b153d",
+  "shellleadsspikeinoilexplorationbidsofftheeastcoastofnewfound"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T23:20:18.660179+02:00",
+ "last_run": "2026-11-05T23:25:14.990977+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
