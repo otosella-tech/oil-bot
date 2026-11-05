@@ -4,10 +4,6 @@
   "Brent": 97.76
  },
  "seen": [
-  "56d17706ea563335",
-  "brentcrudeoilfallsunder100abarrelaftertrumpsmidtermdefeats",
-  "20ee13060517e0f4",
-  "updateequitiesrallyoilplungesintradayfollowingdemocratselect",
   "b48a092636d2332c",
   "stocksandbondsrisedollarslidesafterusvotemarketswrap",
   "1cf562f05b313ad4",
@@ -603,7 +599,11 @@
   "c8ed47aa1a7c0302",
   "epaproposescomprehensivereformforcrudeoilandnaturalgassector",
   "edcb202bf5153500",
-  "eiauscrudeoilinventoriesdown900000bbl"
+  "eiauscrudeoilinventoriesdown900000bbl",
+  "939a1b1d9c4098fc",
+  "aistockwipeoutsendswallstreetreelingsp500tumbles35",
+  "085a762eacf091e5",
+  "whilewallstreetisobsessingovercrudeoilpricesimstayingfaraway"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-06T00:15:20.749350+02:00",
+ "last_run": "2026-11-06T00:20:20.866416+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
