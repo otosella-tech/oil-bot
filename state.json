@@ -4,10 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "44fb721a9885410c",
-  "uscrudeoilstockpilespostfifthstraightweeklydrop",
-  "0bcf4658b2683c4c",
-  "abluetsunamidemocratstakecontrolofcongresswhatitcouldmeanfor",
   "d022e843e3238512",
   "dangotebreaksgroundon25billionnamibiafuelhubforsouthernafric",
   "85aab58502ffc8e6",
@@ -603,7 +599,11 @@
   "b295f926b02c8310",
   "globaloilpricesfallbelow95amidshiftingpoliticallandscape",
   "9ba36e96aebd4bc6",
-  "globalcrudeoilpricesreboundaftersteeplossesinprevioussession"
+  "globalcrudeoilpricesreboundaftersteeplossesinprevioussession",
+  "47c7d2d0057d1a12",
+  "oilrisesover2asinvestorsassessiranwarfuture",
+  "52b18bbcf80e1420",
+  "brents20collapsethewarpremiumvanishesbuttheoilshortageremain"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T19:50:56.268866+02:00",
+ "last_run": "2026-11-05T19:55:17.160352+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1784,6 +1784,14 @@
   {
    "d": "2026-11-05",
    "t": "Crude Oil Prices Rebound as Ukraine Attacks Russian Refineries - Barchart.com"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Oil rises over $2 as investors assess Iran war future - Reuters"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Brent’s $20 Collapse: The War Premium Vanishes, but the Oil Shortage Remains - Investing.com"
   }
  ]
 }
