@@ -4,10 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "346a7c811060c032",
-  "uscrudeoilinventoriesstillinfreefall",
-  "8e44ce160ea14914",
-  "africalaunches5billionenergybankaswesternlendersretreat",
   "35a600c01ab6271c",
   "oilprivatesurveyofinventoryshowsahugeheadlinecrudeoildrawvsb",
   "a6be4682f872ca85",
@@ -603,7 +599,11 @@
   "fce3882ebca3e1d7",
   "oilpriceseasetosettlenear4weeklowonhopespeacetalkswillendwar",
   "6656eb6a016a34eb",
-  "oilpricesdown041126"
+  "oilpricesdown041126",
+  "b0bfcef012d978ac",
+  "cushingrecordsslightincreaseincrudeoilinventory",
+  "aeb98e3ac893ffee",
+  "behindthe10onedayplungeincrudeoildemocraticleadersvowtoblock"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-05",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-11-05T08:00:28.754693+02:00",
+ "last_run": "2026-11-05T08:05:14.941684+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1656,6 +1656,10 @@
   {
    "d": "2026-11-05",
    "t": "Oil prices ease to settle near 4-week low on hopes peace talks will end wars - Reuters"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Behind the 10% one-day plunge in crude oil: Democratic leaders vow to block tariffs and war, Vance \"cuts ties with Trump,\" saying \"lost because of the Iran war\" - 富途牛牛"
   }
  ]
 }
