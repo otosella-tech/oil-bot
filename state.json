@@ -4,10 +4,6 @@
   "Brent": 97.76
  },
  "seen": [
-  "60e04de800302638",
-  "jpmorganseesglobaloilmarketreturntosurplus",
-  "d2b0ceca3dfd9ee3",
-  "canadastradesurpluswidensasoilgolddriverecordexports",
   "a103a5e07ad2204e",
   "usdieselstocksfalltolowestsince2003ascrudestocksdrop",
   "64eef02cd31e195d",
@@ -603,7 +599,11 @@
   "ae53e189c3de9f2b",
   "oilpricespickupasmarketmullsoverprospectsformiddleeastsettle",
   "4fbe7c8f395b153d",
-  "shellleadsspikeinoilexplorationbidsofftheeastcoastofnewfound"
+  "shellleadsspikeinoilexplorationbidsofftheeastcoastofnewfound",
+  "6c1b43f27563cf4c",
+  "texasoilindustrybecomingcalifornicatedcouldhavedireconsequen",
+  "0e51c0c727621cf3",
+  "melaniatrumphoststopukrainianrussiannegotiatorsatwhitehouse"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T23:25:14.990977+02:00",
+ "last_run": "2026-11-05T23:30:25.736137+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1824,6 +1824,10 @@
   {
    "d": "2026-11-05",
    "t": "WTI plunges 8.3% as markets bet election losses could push Trump toward an Iran deal - Latin Times"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Melania Trump hosts top Ukrainian, Russian negotiators at White House - The Washington Post"
   }
  ]
 }
