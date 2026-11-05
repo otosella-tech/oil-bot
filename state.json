@@ -4,10 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "f0612fe0d2a8c39f",
-  "crudeoilpricesplummetonmiddleeastpeacehopes",
-  "c05a6fef33f99303",
-  "brentcrudeoiltops116asixmonthhighastensionsswellinthemiddlee",
   "6c22c644b928840a",
   "tankersdefysharpescalationofiranianattackstokeepcrudeoilflow",
   "ab40eec5398a7620",
@@ -603,7 +599,11 @@
   "ae72945d9f77812b",
   "iranreportsmoretankerfiresinstraitofhormuz",
   "024c454965e43b72",
-  "europeangasslipsfurtheras20weeklyoilcrashoverwhelmsfreshhorm"
+  "europeangasslipsfurtheras20weeklyoilcrashoverwhelmsfreshhorm",
+  "82e46277f6b026ae",
+  "middleeastcrudeoilpremiumstumbletoprewarlevelsamidamplesuppl",
+  "1f94b1606c825ca2",
+  "russiatriestokeepfuelflowingbutukrainianstrikesshutdown15ofi"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T13:15:17.437442+02:00",
+ "last_run": "2026-11-05T13:20:18.965532+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1720,6 +1720,10 @@
   {
    "d": "2026-11-05",
    "t": "European gas slips further as 20% weekly Oil crash overwhelms fresh Hormuz threats - Investing.com"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Russia Tries to Keep Fuel Flowing, but Ukrainian Strikes Shut Down 15 of Its 38 Major Oil Refineries - UNITED24 Media"
   }
  ]
 }
