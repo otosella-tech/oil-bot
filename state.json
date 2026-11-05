@@ -4,10 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "bee60e06de2fab91",
-  "januarywticrudeoilcontractclosesdown037or04settlesat9609perb",
-  "e6bc326e8bda035d",
-  "oilpriceseasetonearlyfourweeklowamidpeacetalks",
   "85be41e9dcbc57d2",
   "houthifighterslaunchgroundincursionsintosaudiarabia",
   "b6609a53cd27bc70",
@@ -603,7 +599,11 @@
   "1d8f95b3ad4a0748",
   "oilfuturescrudeextendsweeklylossesamidrepublicanfallout",
   "632fcd3725df9c63",
-  "dieselcrisisdeepenswhilesprreleasesstayminimal"
+  "dieselcrisisdeepenswhilesprreleasesstayminimal",
+  "4cda880c1c6baadf",
+  "oilpricefallsamidhopeofabreakthroughtoendiranwar",
+  "c8436ef2ba60f46b",
+  "crudecrashesbelow100brentwtihitovertwomonthlowsastrumplosesu"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-05",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-11-05T07:00:29.251792+02:00",
+ "last_run": "2026-11-05T07:05:16.392938+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1648,6 +1648,10 @@
   {
    "d": "2026-11-05",
    "t": "Crude Oil Plunges 8% as Republicans Lose Congressional Control in U.S. Midterms; Speculation Grows Over End to Iran War - BigGo Finance"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Oil price falls amid hope of a breakthrough to end Iran war - The Guardian"
   }
  ]
 }
