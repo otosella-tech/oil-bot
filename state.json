@@ -4,8 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "afd6c69352b09aa9",
-  "uae",
   "75a1a3ce4488ae36",
   "uaemullsthirdcrudeoilpipelinetoavoidstraitofhormuz",
   "5f335b01162ef38d",
@@ -603,7 +601,9 @@
   "bd34a5105ce1d026",
   "oilclimbsfromtwomonthlowastradersparseiranwaroutlook",
   "21442cfee1d470a8",
-  "inthewakeofdemocraticwinsrosieodonnellconsidersareturntotheu"
+  "inthewakeofdemocraticwinsrosieodonnellconsidersareturntotheu",
+  "961868fc984085f4",
+  "iranopensstraitofhormuztochinaandindiaasusblockadecontinues"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T17:55:16.418395+02:00",
+ "last_run": "2026-11-05T18:10:22.311680+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1772,6 +1772,10 @@
   {
    "d": "2026-11-05",
    "t": "Oil Climbs From Two-Month Low as Traders Parse Iran War Outlook - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Iran Opens Strait of Hormuz to China and India as U.S. Blockade Continues"
   }
  ]
 }
