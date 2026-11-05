@@ -4,10 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "ea6447462e19edbe",
-  "oilpricesswingasuncertaintyswirlsoverusiranpeacetalks",
-  "9cd30dd6a0acddf7",
-  "usirandiplomacyhopesweighoncrudeoilprices",
   "5eee50c11d0f1523",
   "oilpriceseasetosettlenear4weeklowonhopespeacetalkswillendwar",
   "146d021b6cc70487",
@@ -603,7 +599,11 @@
   "eedc8ec648b8b049",
   "noatummaritimesroleinglobalenergytransportation",
   "7b64dc06552cf86e",
-  "usequityindexessoarasconsumerdiscretionaryleadsafterdemocrat"
+  "usequityindexessoarasconsumerdiscretionaryleadsafterdemocrat",
+  "0d370638047118af",
+  "palmoilslidtowarda25weeklowascrudeweakened",
+  "a132e8ab6de4a600",
+  "crudeoilpricesfallforfourthstraightdayafter9crashbrentslipsb"
  ],
  "releases_done": {},
  "last_digest": "2026-11-04",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 42
  },
- "last_run": "2026-11-05T07:35:23.516666+02:00",
+ "last_run": "2026-11-05T07:40:17.637486+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
