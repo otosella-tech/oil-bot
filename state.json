@@ -4,8 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "b987542267974ffd",
-  "oilpricesslideasmidtermresultseaseiranescalationfears",
   "5cce18ca6accf0a6",
   "southeasternohiooilandgasassociationtohostfalltradeshowinmar",
   "0ee16ff569b4eeed",
@@ -603,7 +601,9 @@
   "7de02b277dce5075",
   "usrefineriesmakedramaticshiftawayfromgasoline",
   "44fb721a9885410c",
-  "uscrudeoilstockpilespostfifthstraightweeklydrop"
+  "uscrudeoilstockpilespostfifthstraightweeklydrop",
+  "570924cddfbeb60d",
+  "matadorresourcesreachesrecordcrudeoilproductionlevelsintheus"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T20:00:31.875249+02:00",
+ "last_run": "2026-11-05T20:05:15.519507+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
