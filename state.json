@@ -4,8 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "6f6a24b7256e935c",
-  "moscowgetsoilwindfallfromiranwar",
   "634c8beffb1e2190",
   "crudeoilinventoriesdeclinelessthanexpectedimpactingprices",
   "37e6078ac6694979",
@@ -603,7 +601,9 @@
   "d9d63050b7a5c729",
   "libyaoctobercrudeoiloutputrecoversto14mbpd",
   "1669bfef03915ef5",
-  "marginaloilandgaswellshaveoutsizedpollutionimpact"
+  "marginaloilandgaswellshaveoutsizedpollutionimpact",
+  "07f5a71ff4d31259",
+  "crudeoilpricesreboundasukraineattacksrussianrefineries"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T18:50:21.122632+02:00",
+ "last_run": "2026-11-05T18:55:15.202126+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1780,6 +1780,10 @@
   {
    "d": "2026-11-05",
    "t": "UAE Mulls Third Crude Oil Pipeline to Avoid Strait of Hormuz - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Crude Oil Prices Rebound as Ukraine Attacks Russian Refineries - Barchart.com"
   }
  ]
 }
