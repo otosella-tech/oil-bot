@@ -4,12 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "a0abb3617364ef7c",
-  "crudeoilpullsbackonuselectionshiftiran",
-  "79ed1f32a45b580f",
-  "nigeriasoilandgasoutputrisesto304millionboepd",
-  "256bbec5550a7c76",
-  "currentpriceofoilasofnovember42026",
   "7ef8ee50cefdfce4",
   "oilrisesafterreportofusstrikeoniransqeshmisland",
   "049853d164cd58f2",
@@ -603,7 +597,13 @@
   "b2f8ac00ef17303b",
   "oilpricestumbleaftermidterms",
   "5abc49918f3ff36a",
-  "internationalcrudeoilfuturesplungeonnovember4"
+  "internationalcrudeoilfuturesplungeonnovember4",
+  "7931b179af9d4921",
+  "iranbracesfortrumpsnextmoveafterdemocratssweepcongress",
+  "989bb6eb8a72bfcd",
+  "oilpricessteadyonpossiblewarpullbackaftermidterms",
+  "972cd58d51f48c3d",
+  "crudeoilteststhekeyconfluenceareaandfindswillingbuyers"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T16:55:16.613296+02:00",
+ "last_run": "2026-11-05T17:00:32.912920+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1752,6 +1752,10 @@
   {
    "d": "2026-11-05",
    "t": "European Gas Prices Drop on Iran Deal Hopes after U.S. Midterms"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Iran Braces for Trump's Next Move After Democrats Sweep Congress"
   }
  ]
 }
