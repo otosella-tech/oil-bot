@@ -4,8 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "ea3c7802eaf9bd5d",
-  "indiaracestotriplecoalstockpilestopreventsummerblackouts",
   "c2c8f8b09191c344",
   "currentpriceofoilasofoctober292026",
   "868dd41a321206af",
@@ -603,7 +601,9 @@
   "cefe47968e138ccc",
   "spainseptembercrudeoilimportsfall74yoy",
   "64438ec426b39d7c",
-  "interestratescouldgosignificantlyhigherifoilpriceskeepclimbi"
+  "interestratescouldgosignificantlyhigherifoilpriceskeepclimbi",
+  "b2a0b3ab89ead481",
+  "inplayoilcorpannouncesthirdquarter2026financialandoperatingr"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T14:45:19.343090+02:00",
+ "last_run": "2026-11-05T14:50:19.276967+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
