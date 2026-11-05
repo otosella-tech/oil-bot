@@ -4,8 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "d9de69c36e1d775b",
-  "oilpricesslideashopesriseforpotentialusirandiplomaticbreakth",
   "a96cd9ff8c1207c5",
   "trumpsaysiranwantsasettlementceopredictspeacesendsoil40lower",
   "5feca19d663362c0",
@@ -603,7 +601,9 @@
   "118b139ede3373c6",
   "hormuzmineincidentescalatescrudeoilriskpremium",
   "065e70d64863a6e7",
-  "droneattacksparksfiresatindustrialfacilitiesinrussiasryazano"
+  "droneattacksparksfiresatindustrialfacilitiesinrussiasryazano",
+  "eb82395ebb20cfd8",
+  "middleeast"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T09:55:19.690483+02:00",
+ "last_run": "2026-11-05T10:00:29.340301+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
