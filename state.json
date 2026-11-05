@@ -4,8 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "29e74369be4921cf",
-  "questionsmountovervenezuelasbiggestoildeal",
   "4762e7977c8b21c3",
   "currentpriceofoilasofnov42026",
   "a0abb3617364ef7c",
@@ -603,7 +601,9 @@
   "65a7ccd4b9bb3bc9",
   "ieefa678billioninasianlngpowerprojectsscrappedorstalled",
   "3d4daf51cfa0b8c8",
-  "oilcompaniesspentover2milliononmetaadsintheleaduptothemidter"
+  "oilcompaniesspentover2milliononmetaadsintheleaduptothemidter",
+  "b2f8ac00ef17303b",
+  "oilpricestumbleaftermidterms"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T16:35:16.153235+02:00",
+ "last_run": "2026-11-05T16:40:18.463033+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
