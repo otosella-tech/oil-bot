@@ -4,8 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "113e46ba77a71b74",
-  "crudeoilpricespressuredbydiplomacypushtoendusiranconflict",
   "e5ce683b84e29141",
   "canadassuncorenergytopsquarterlyprofitestimates",
   "b2ca958515115335",
@@ -603,7 +601,9 @@
   "42bbc8d712bfeb23",
   "indianbenchmarksnearthreemonthhighsasoilslidesafterusdemocra",
   "732d09b23086ee89",
-  "oilpricesplungeafterusmidtermsaswticrudefacesacriticaltechni"
+  "oilpricesplungeafterusmidtermsaswticrudefacesacriticaltechni",
+  "1f73ff6e275c317f",
+  "crudeoilpricesselloffmorethan7oniranpeacetalkhopesaheadofusm"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-05",
-  "count": 52
+  "count": 54
  },
- "last_run": "2026-11-05T08:10:18.447120+02:00",
+ "last_run": "2026-11-05T08:15:17.844077+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1660,6 +1660,10 @@
   {
    "d": "2026-11-05",
    "t": "Behind the 10% one-day plunge in crude oil: Democratic leaders vow to block tariffs and war, Vance \"cuts ties with Trump,\" saying \"lost because of the Iran war\" - 富途牛牛"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms - CNBC"
   }
  ]
 }
