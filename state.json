@@ -4,8 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "87e6244406021310",
-  "indianrefinerhedgesiranconflictfreightriskswithdeliveredcrud",
   "89b150198d75a623",
   "iransaysfouroiltankersdestroyedbyminesnearstraitofhormuz",
   "767d4079b8005625",
@@ -603,7 +601,9 @@
   "06e43c499d2990e5",
   "crudeawakeninghowoilhasfuelled150yearsofconflict",
   "52c0452247aa4962",
-  "oilfuturescrudeofflowsafterhugelossesfromrepublicanfallout"
+  "oilfuturescrudeofflowsafterhugelossesfromrepublicanfallout",
+  "544ff4a4b67b0133",
+  "moreboesbaileywewouldhaveraisedratestodayevenifwedknownofthe"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T15:20:18.900084+02:00",
+ "last_run": "2026-11-05T15:25:16.676105+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
