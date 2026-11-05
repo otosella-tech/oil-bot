@@ -4,10 +4,6 @@
   "Brent": 97.76
  },
  "seen": [
-  "98a465eb3d39f074",
-  "oilpricestumblebelow100onpostelectionpeacehopes",
-  "314d4371802480d2",
-  "sugarpricespressuredbyweaknessincrudeoil",
   "4f62e83d338a0c36",
   "physicaloiljustwentfromabiddingwartoafiresale",
   "18fd236819b9882f",
@@ -603,7 +599,11 @@
   "b6d33415143197f9",
   "couldpamadehickorynutoilreplaceimportedoils",
   "2d41dbb2a13108a9",
-  "brentcrudejumpssettlesupover3aftertankerattacks"
+  "brentcrudejumpssettlesupover3aftertankerattacks",
+  "2f6d1a7dd65fb146",
+  "batteriesaretakingthegaspeakersbesthours",
+  "7a8bbd77a4bfe0f3",
+  "usstockssurgeandthedowsoars1500pointsasbrentoilspricedropsbe"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T22:55:16.817041+02:00",
+ "last_run": "2026-11-05T23:00:31.014234+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1812,6 +1812,10 @@
   {
    "d": "2026-11-05",
    "t": "Brent crude jumps, settles up over $3 after tanker attacks - Reuters"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "U.S. stocks surge, and the Dow soars 1,500 points as Brent oil's price drops below $95 per barrel - PBS"
   }
  ]
 }
