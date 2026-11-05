@@ -4,8 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "f9f507a103b8db5d",
-  "oilpricesswingafterusattacksiran",
   "dd5dc8d4b74b02a7",
   "aramcobeginsexpansionofoilexportroutebypassinghormuzal",
   "460469266803d32f",
@@ -603,7 +601,9 @@
   "3eeb146d5e17ceee",
   "cleanpowershieldschinafromoilshockmorethananyothercountry",
   "6cb7832ce1981e7d",
-  "oilcityweeklyeeditionfornov5132026"
+  "oilcityweeklyeeditionfornov5132026",
+  "44e21f7455e5b1a5",
+  "oilpricestodaybrentbelow95after16crashthisweekistheiranwarpr"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-05",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-11-05T03:40:19.203138+02:00",
+ "last_run": "2026-11-05T03:45:17.138339+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1619,6 +1619,10 @@
   {
    "d": "2026-11-05",
    "t": "Africa’s LNG Exports Set to Soar 175% as Buyers Flee Hormuz"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Oil Prices Today: Brent Below $95 After 16% Crash This Week; Is The Iran War Premium Unwinding? - NDTV Profit"
   }
  ]
 }
