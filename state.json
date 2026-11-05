@@ -4,8 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "f29f86d5a9eee0b7",
-  "venezuelasoilexportsholdsteadyat108mmbbldinoctober",
   "468b84f5ae4f64f6",
   "crudeoilmarketupdatewtiandbrenteasecurveremainsinbackwardati",
   "4713f98614a7b82d",
@@ -603,7 +601,9 @@
   "12fc5e3ca0a9bc3e",
   "currentpriceofoilasofnov52026",
   "79cec65ff2a6492b",
-  "firstthingtodaygrainsattempttofindfootingasoilsteadies"
+  "firstthingtodaygrainsattempttofindfootingasoilsteadies",
+  "05f5b9b163f7bc62",
+  "theusoilsectorsroleinrestrainingprices"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T14:15:20.233621+02:00",
+ "last_run": "2026-11-05T14:20:21.483983+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
