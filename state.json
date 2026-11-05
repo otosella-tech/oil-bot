@@ -4,10 +4,6 @@
   "Brent": 95.83
  },
  "seen": [
-  "c2c8f8b09191c344",
-  "currentpriceofoilasofoctober292026",
-  "868dd41a321206af",
-  "updateusequityindexesmixedamidslidingcrudeoiltechnology",
   "d3b626a6a040aa7e",
   "canadiandollarstrengthensasyieldsoilpressureusd",
   "e42fa86b7fdb1ca9",
@@ -603,7 +599,11 @@
   "64438ec426b39d7c",
   "interestratescouldgosignificantlyhigherifoilpriceskeepclimbi",
   "b2a0b3ab89ead481",
-  "inplayoilcorpannouncesthirdquarter2026financialandoperatingr"
+  "inplayoilcorpannouncesthirdquarter2026financialandoperatingr",
+  "d55d5770b7beace1",
+  "indiasongcpostshigherq2profitassurgeincrudepricesliftsmargin",
+  "69e65fdc8ca9b97c",
+  "goldhits2weekhighasdollaryieldsoilfallafterusmidterms"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-05T14:50:19.276967+02:00",
+ "last_run": "2026-11-05T14:55:15.724678+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1736,6 +1736,10 @@
   {
    "d": "2026-11-05",
    "t": "Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon - MarketWatch"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "India's ONGC posts higher Q2 profit as surge in crude prices lifts margins - Reuters"
   }
  ]
 }
