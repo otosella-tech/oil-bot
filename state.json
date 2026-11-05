@@ -4,10 +4,6 @@
   "Brent": 93.94
  },
  "seen": [
-  "ec86f690b2bc5c70",
-  "venezuelasoilexportsunchangedamidstagnantoutputandhighfreigh",
-  "1e2f9e971df50a69",
-  "oilfuturesturnlowerasmarketholdsouthopeformiddleeastdiplomac",
   "86928db0aab037bd",
   "physicaloilpricestumbleaspersiangulfcrudeflowsrecover",
   "ccac75797ef6b26a",
@@ -603,7 +599,11 @@
   "9a28598329ce783b",
   "crudeoiltradingalertexpectationsofeasinggeopoliticaltensions",
   "2807b0c936373f92",
-  "oilpricesfacefurtherheadwindsbeyondceasefireexpectationsglob"
+  "oilpricesfacefurtherheadwindsbeyondceasefireexpectationsglob",
+  "e67c81f8e6b84fb1",
+  "oilanddatacentrestockssinkafterusmidterms",
+  "9e28bdec8606c3e4",
+  "rupeetorallyafterusmidtermfalloutsinksoiloniranwarexithopes"
  ],
  "releases_done": {
   "2026-11-04|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-05",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-11-05T04:35:14.682420+02:00",
+ "last_run": "2026-11-05T04:40:18.158968+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
@@ -1635,6 +1635,10 @@
   {
    "d": "2026-11-05",
    "t": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation - Reuters"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "Rupee to rally after US midterm fallout sinks oil on Iran war-exit hopes - Reuters"
   }
  ]
 }
