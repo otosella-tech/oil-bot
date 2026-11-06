@@ -4,8 +4,6 @@
   "Brent": 99.83
  },
  "seen": [
-  "7b657ebaf0035645",
-  "oilpricessinkbelow95asmarketssoaronmidtermresults",
   "38dff127167837a7",
   "seismicbluewavetriggersthesinkingofoilpricesenergystocksandt",
   "e22f25ec9dff2e29",
@@ -603,7 +601,9 @@
   "38d01637087a0b05",
   "goldeasesoninflationworriesfromhigheroiluspayrollsdatainfocu",
   "32888e4d98287e38",
-  "oilholdsgainsafterselloff"
+  "oilholdsgainsafterselloff",
+  "87a057e740f4d6bd",
+  "crudeoilpricegainamidfreshtankerattacksinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-06",
-  "count": 12
+  "count": 14
  },
- "last_run": "2026-11-06T06:50:18.182373+02:00",
+ "last_run": "2026-11-06T06:55:16.998150+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1492,6 +1492,10 @@
   {
    "d": "2026-11-06",
    "t": "The Iran war has cost U.S. households nearly $2,000 each. New strikes could keep the bill climbing - Fortune"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "Crude oil price gain amid fresh tanker attacks in Strait of Hormuz - BusinessLine"
   }
  ]
 }
