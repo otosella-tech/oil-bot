@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "05f5b9b163f7bc62",
-  "theusoilsectorsroleinrestrainingprices",
   "ce10bf5fc5d4eee2",
   "longpositionsseverelyhitamidunprecedentedcrudeoilselloffshas",
   "061e9d3f45cfec79",
@@ -603,7 +601,9 @@
   "4f49cb8fac4ec989",
   "maradapprovesbluemarlinexportportofflouisiana",
   "e83f02d6e720dae7",
-  "gaswaspricieronthiselectiondaythananybeforeitupalmost40to415"
+  "gaswaspricieronthiselectiondaythananybeforeitupalmost40to415",
+  "fc70cd18e4750159",
+  "crudeoilpricesfinishhigherasglobalenergysuppliesremaintight"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T22:20:19.357684+02:00",
+ "last_run": "2026-11-06T22:25:15.806811+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
