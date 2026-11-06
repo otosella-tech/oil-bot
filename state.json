@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "b97fddb030bf6bc8",
-  "oilextendsslideafterplunging8onhopestoendusiranwar",
   "9269e97fd18fbe6f",
   "oilpricetodaynovember5crudeoilfallsbelow94after9plungeonwedn",
   "38a107b0cd0c1933",
@@ -603,7 +601,9 @@
   "1ba15d0e46922bf9",
   "starkcountyleadsohioinoilgasincidentsnewreportshows",
   "bb6c383067dcd221",
-  "oilslidesbelow100abarrelwithfocusoniranoutlookafterusmidterm"
+  "oilslidesbelow100abarrelwithfocusoniranoutlookafterusmidterm",
+  "1fb3207fde96879b",
+  "oilpricessetforsharpweeklyfallaftermidtermelectionsasinvesto"
  ],
  "releases_done": {},
  "last_digest": "2026-11-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-06",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-11-06T13:50:18.906273+02:00",
+ "last_run": "2026-11-06T13:55:15.398777+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1564,6 +1564,10 @@
   {
    "d": "2026-11-06",
    "t": "India’s HPCL Struggles to Secure Oil Tankers as Hormuz Risks Persist"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk - CNBC"
   }
  ]
 }
