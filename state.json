@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "ae32be8b822f9f39",
-  "oilrisesasinvestorsweighriskofiranwarescalation",
-  "260d20e2034ff12f",
-  "socarbets165billiononusshalegasboom",
   "e57ac8d27ae4f2ec",
   "oilfuturescrudesteadiesafterhugelossesfromrepublicanfallout",
   "26a07f4a416c6cc6",
@@ -603,7 +599,11 @@
   "880d8a6d3f22eb3c",
   "swingingoilpriceshighlightmajorshighqualityproblem",
   "537e6f1fbcaaf08d",
-  "usaoilstocksdropbyalmost1mmbpdweekonweek"
+  "usaoilstocksdropbyalmost1mmbpdweekonweek",
+  "657590ba6da213fd",
+  "globaloilpricesdropsharplyamidreportsofpotentialiranuspeacet",
+  "7bdc9092c6ee5e71",
+  "crudeoilforecastwhyfallinginventorieskeepsupplyrisksinfocus"
  ],
  "releases_done": {},
  "last_digest": "2026-11-06",
@@ -615,7 +615,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T18:10:19.612099+02:00",
+ "last_run": "2026-11-06T18:15:19.824244+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
