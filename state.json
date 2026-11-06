@@ -4,12 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "aad66c6d154cf08a",
-  "fromusmidtermstocheaperoilwhatsdrivingtherupeesfivedayrally",
-  "1d8f95b3ad4a0748",
-  "oilfuturescrudeextendsweeklylossesamidrepublicanfallout",
-  "632fcd3725df9c63",
-  "dieselcrisisdeepenswhilesprreleasesstayminimal",
   "4cda880c1c6baadf",
   "oilpricefallsamidhopeofabreakthroughtoendiranwar",
   "c8436ef2ba60f46b",
@@ -603,7 +597,13 @@
   "7f919a216deade60",
   "asiasfueloilmarketsignalshopesofusirande",
   "a9f7622316b72da8",
-  "brentoilpricebenchmarksetforbiggestweeklydropsince2020"
+  "brentoilpricebenchmarksetforbiggestweeklydropsince2020",
+  "516e742c4087ba8a",
+  "asiasfueloilmarketsignalshopesofusirandeescalation",
+  "f6fc2e2b2cf7c399",
+  "oilsplungebelow100doesntmeanmarketsareoutofjeopardy",
+  "88745862ae245208",
+  "albertacrudeoutputslides4onyearasoilsandsslump"
  ],
  "releases_done": {},
  "last_digest": "2026-11-06",
@@ -615,7 +615,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T14:40:18.541536+02:00",
+ "last_run": "2026-11-06T14:45:18.471467+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1588,6 +1588,14 @@
   {
    "d": "2026-11-06",
    "t": "Asia’s Fuel Oil Market Signals Hopes of U.S.-Iran De-Escalation"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "Asia's Fuel Oil Market Signals Hopes of U.S.-Iran De-Escalation - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "Oil’s Plunge Below $100 Doesn’t Mean Markets Are Out of Jeopardy - Bloomberg.com"
   }
  ]
 }
