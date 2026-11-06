@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "061e9d3f45cfec79",
-  "whyusmidtermresultscouldmakeoilcheaperbutcomplicateindiasrus",
   "6ec277caa0440844",
   "indiatorequirestateutilitiestoaddenergystoragecapacity",
   "e890dab98daa8d5f",
@@ -603,7 +601,9 @@
   "fc70cd18e4750159",
   "crudeoilpricesfinishhigherasglobalenergysuppliesremaintight",
   "86e1c338b3af54f8",
-  "oiltraderswantustoreleasesanctionedtankersasfreightcostssoar"
+  "oiltraderswantustoreleasesanctionedtankersasfreightcostssoar",
+  "05f5b9b163f7bc62",
+  "theusoilsectorsroleinrestrainingprices"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T22:40:18.977342+02:00",
+ "last_run": "2026-11-06T22:45:20.196571+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
