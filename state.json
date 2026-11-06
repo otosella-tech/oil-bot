@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "38a107b0cd0c1933",
-  "dowsoarsmorethan1500pointsandcrudeoildrops87afterrepublicans",
   "53ce3da57ece9bce",
   "wicklundhigheroilpriceswontbringbackthewildcattingfrenzy",
   "756f26a31c769c08",
@@ -603,7 +601,9 @@
   "1fb3207fde96879b",
   "oilpricessetforsharpweeklyfallaftermidtermelectionsasinvesto",
   "09fe97dfa4f2f64d",
-  "turkisharmys34billionpensionfundenterslibyanoiltrade"
+  "turkisharmys34billionpensionfundenterslibyanoiltrade",
+  "705b07ae2e9b703b",
+  "commentarywashingtonresetmarketmeltdownandtheiranoilbetthefi"
  ],
  "releases_done": {},
  "last_digest": "2026-11-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-06",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-11-06T14:10:18.870007+02:00",
+ "last_run": "2026-11-06T14:15:19.264285+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1572,6 +1572,10 @@
   {
    "d": "2026-11-06",
    "t": "Turkish Army’s $34 Billion Pension Fund Enters Libyan Oil Trade - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "COMMENTARY: Washington reset, market meltdown and the Iran oil bet: The financial week in five charts - Reuters"
   }
  ]
 }
