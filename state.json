@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "79cec65ff2a6492b",
-  "firstthingtodaygrainsattempttofindfootingasoilsteadies",
   "05f5b9b163f7bc62",
   "theusoilsectorsroleinrestrainingprices",
   "ce10bf5fc5d4eee2",
@@ -603,7 +601,9 @@
   "21ec63977effab38",
   "aaatexasgaspricesfallascrudeoilpricesdecline",
   "4f49cb8fac4ec989",
-  "maradapprovesbluemarlinexportportofflouisiana"
+  "maradapprovesbluemarlinexportportofflouisiana",
+  "e83f02d6e720dae7",
+  "gaswaspricieronthiselectiondaythananybeforeitupalmost40to415"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T22:15:18.135283+02:00",
+ "last_run": "2026-11-06T22:20:19.357684+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1672,6 +1672,10 @@
   {
    "d": "2026-11-06",
    "t": "Strait of Hormuz disruption ‘to keep oil prices high’ - The Times"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "Gas was pricier on this Election Day than any before it — up almost 40% to $4.15 a gallon since the Iran war began - Fortune"
   }
  ]
 }
