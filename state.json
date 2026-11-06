@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "ce10bf5fc5d4eee2",
-  "longpositionsseverelyhitamidunprecedentedcrudeoilselloffshas",
   "061e9d3f45cfec79",
   "whyusmidtermresultscouldmakeoilcheaperbutcomplicateindiasrus",
   "6ec277caa0440844",
@@ -603,7 +601,9 @@
   "e83f02d6e720dae7",
   "gaswaspricieronthiselectiondaythananybeforeitupalmost40to415",
   "fc70cd18e4750159",
-  "crudeoilpricesfinishhigherasglobalenergysuppliesremaintight"
+  "crudeoilpricesfinishhigherasglobalenergysuppliesremaintight",
+  "86e1c338b3af54f8",
+  "oiltraderswantustoreleasesanctionedtankersasfreightcostssoar"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T22:30:24.398864+02:00",
+ "last_run": "2026-11-06T22:35:14.541674+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1677,6 +1677,10 @@
   {
    "d": "2026-11-06",
    "t": "Gas was pricier on this Election Day than any before it — up almost 40% to $4.15 a gallon since the Iran war began - Fortune"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar"
   }
  ]
 }
