@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "b2a0b3ab89ead481",
-  "inplayoilcorpannouncesthirdquarter2026financialandoperatingr",
   "d55d5770b7beace1",
   "indiasongcpostshigherq2profitassurgeincrudepricesliftsmargin",
   "69e65fdc8ca9b97c",
@@ -603,7 +601,9 @@
   "086eddcf387566e1",
   "americasnuclearrevivalisrunningintoafuelsupplywall",
   "72bddbef26b3db9d",
-  "delekceodownplayswhitehouserefineryexpansionannouncement"
+  "delekceodownplayswhitehouserefineryexpansionannouncement",
+  "74bdbd3bf53c7bc4",
+  "northamericarignumbersdip"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T23:05:14.922363+02:00",
+ "last_run": "2026-11-06T23:10:21.407878+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
