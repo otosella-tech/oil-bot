@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "6107b79d50dcc3bf",
-  "longtermjgbyieldsfallafteroilpricedrops",
   "580f6f003b937314",
   "trumpbombsirantalkspeaceandsendsoilpricestumbling",
   "171e3691f5d98973",
@@ -603,7 +601,9 @@
   "790fcbc300b13217",
   "pemexseessteadyoilmorerefiningoutputinthirdquarter",
   "eecc051232f647a1",
-  "3oilstocksretailinvestorsarewatchingafterthelatestcrudeprice"
+  "3oilstocksretailinvestorsarewatchingafterthelatestcrudeprice",
+  "21f13e8e3c6a2d99",
+  "oilsetforsharpweeklydropafterusmidtermsraisehopesofmoremidea"
  ],
  "releases_done": {},
  "last_digest": "2026-11-06",
@@ -615,7 +615,7 @@
   "date": "2026-11-06",
   "count": 42
  },
- "last_run": "2026-11-06T11:35:15.252253+02:00",
+ "last_run": "2026-11-06T11:40:22.632750+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
