@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "c59f0270adfae048",
-  "heatingoilsupplystaysexposedtoasinglerefineryoutage",
-  "63cc3d801b0631ad",
-  "huntingforacookingoilreplacementinpennsylvaniasforests",
   "e5cf65ab180a32e2",
   "doesthebluewavemeanlowergasolineanddieselpricessoondontholdy",
   "0f39d58c2ef0cc05",
@@ -603,7 +599,11 @@
   "871391ddf23bcc09",
   "renewedusirantensioncouldpushoilpast100rapidanenergy",
   "65373e24591ab645",
-  "soaringfreightcostsbenefitgulfcoastoilrefiners"
+  "soaringfreightcostsbenefitgulfcoastoilrefiners",
+  "23cf9445f61f7b08",
+  "brentslumps17insharpweeklypullbackinoilmarket",
+  "5e14d72c100b41c1",
+  "theusspent50yearstryingtoescapeoilshockstheystillupendelecti"
  ],
  "releases_done": {},
  "last_digest": "2026-11-06",
@@ -615,7 +615,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T19:10:17.799624+02:00",
+ "last_run": "2026-11-06T19:15:17.658103+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
