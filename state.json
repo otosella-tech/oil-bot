@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 91.58,
+  "WTI": 89.62,
   "Brent": 97.64
  },
  "seen": [
-  "779810cc2a80534d",
-  "ovintivshufflessomefourthquarterspendingtopermianbasin",
   "37a960002786cfe4",
   "wallstreetsurgesafterusmidtermsasoilpricestumble",
   "17a91ee71dbde51b",
@@ -603,7 +601,9 @@
   "092b28e030c1cdcd",
   "oilpollutionreturnstocoastsofqeshmandhormuzislands",
   "ef4d9c83ca7fde99",
-  "oilpricesrisebrentnears100whileuscrudehits9166"
+  "oilpricesrisebrentnears100whileuscrudehits9166",
+  "4e15ec601d1cdd31",
+  "straitofhormuzchineseshipsgetfreepassiranianofficialsays"
  ],
  "releases_done": {},
  "last_digest": "2026-11-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-06",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-11-06T10:50:18.948225+02:00",
+ "last_run": "2026-11-06T10:55:14.308305+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1536,6 +1536,10 @@
   {
    "d": "2026-11-06",
    "t": "Oil Pollution Returns to Coasts of Qeshm and Hormuz Islands - IranWire"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "Strait of Hormuz: Chinese ships get free pass, Iranian official says - South China Morning Post"
   }
  ]
 }
