@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "82e46277f6b026ae",
-  "middleeastcrudeoilpremiumstumbletoprewarlevelsamidamplesuppl",
-  "1f94b1606c825ca2",
-  "russiatriestokeepfuelflowingbutukrainianstrikesshutdown15ofi",
   "7852d4f3b9482bff",
   "oilpricesreboundaftersharpdeclineasuselectionresultsshiftexp",
   "e3cf229378e091c4",
@@ -603,7 +599,11 @@
   "600b2fbce0f5f6fe",
   "usoilgasdrillersseeminoruptickasoilpricescrash",
   "669ed145401716a8",
-  "marketsfretovergrowthandinflationjustastechroutgainsspeed"
+  "marketsfretovergrowthandinflationjustastechroutgainsspeed",
+  "f00c3af12f904866",
+  "energyreliabilityisbecomingmoreimportantthanenergypolitics",
+  "02e966c32cbf4491",
+  "atcaliforniaslosthillsoilfield65000solarpanelsgeneratemostof"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T20:55:14.511952+02:00",
+ "last_run": "2026-11-06T21:00:30.377342+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
