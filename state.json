@@ -4,8 +4,6 @@
   "Brent": 97.76
  },
  "seen": [
-  "185392463b59a7e0",
-  "oilpricesareinfreefallnowthatthedemocraticsweepisrewritingth",
   "8932da5eade95a69",
   "brentcrudeoilpricefallsbelow100abarrelonhopesofiranpeacedeal",
   "c71a0cb665573208",
@@ -603,7 +601,9 @@
   "29fb28e5c203b5ef",
   "oilreboundstoward100asdemocratssweeprattlesenergystocks",
   "085c04fb0b29b642",
-  "frequentaccidentsinthegulfcombinedwithinventorydrawsreported"
+  "frequentaccidentsinthegulfcombinedwithinventorydrawsreported",
+  "c42afd7b45a158d0",
+  "oiltumblesbelow100onpostelectionpeacehopes"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-06",
   "count": 4
  },
- "last_run": "2026-11-06T03:35:25.168129+02:00",
+ "last_run": "2026-11-06T03:40:22.640135+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
