@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "3eeb146d5e17ceee",
-  "cleanpowershieldschinafromoilshockmorethananyothercountry",
   "6cb7832ce1981e7d",
   "oilcityweeklyeeditionfornov5132026",
   "44e21f7455e5b1a5",
@@ -603,7 +601,9 @@
   "f47b8657edc2c70b",
   "sevenstrikesinoneyearrussiasafipskyoilrefineryfacesanotheruk",
   "827cfcdbfdeba3b3",
-  "golddropsontrackforbestweekinover2monthsbeforeuspayrolls"
+  "golddropsontrackforbestweekinover2monthsbeforeuspayrolls",
+  "4621363271061888",
+  "tankerfiresinstraitofhormuzimpactoncrudeoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-11-06",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-06",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-11-06T12:30:24.317286+02:00",
+ "last_run": "2026-11-06T12:35:15.886987+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1552,6 +1552,10 @@
   {
    "d": "2026-11-06",
    "t": "Seven Strikes in One Year: Russia’s Afipsky Oil Refinery Faces Another Ukrainian Drone Attack - UNITED24 Media"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "Tanker Fires in Strait of Hormuz: Impact on Crude Oil Prices - CMB News"
   }
  ]
 }
