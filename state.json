@@ -4,8 +4,6 @@
   "Brent": 97.76
  },
  "seen": [
-  "e417a3ebd1c33e49",
-  "oilpricesdropbelow100asmidtermsfuelhopeforanendtotheiranwar",
   "0c4f96b3db23a208",
   "currentpriceofoilasofnov32026",
   "656b1f606a5b5f0d",
@@ -603,7 +601,9 @@
   "4770a3125146c916",
   "oilpricesdropsharplyeasinginflationpressurescitistrategist",
   "93fac758fd23e7a1",
-  "newenergypoliciescouldspurexpansionofoilsandsoperationsconoc"
+  "newenergypoliciescouldspurexpansionofoilsandsoperationsconoc",
+  "441b9414bcb818f7",
+  "usshaleproducereogresourcesbeatsprofitestimatesonhighercrude"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-06T02:10:22.272043+02:00",
+ "last_run": "2026-11-06T02:15:20.497119+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
