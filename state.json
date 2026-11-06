@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "06e43c499d2990e5",
-  "crudeawakeninghowoilhasfuelled150yearsofconflict",
   "52c0452247aa4962",
   "oilfuturescrudeofflowsafterhugelossesfromrepublicanfallout",
   "544ff4a4b67b0133",
@@ -603,7 +601,9 @@
   "a83c4a85e3832144",
   "summitcountyreviewsregulationswithoilpipelineintheworks",
   "60f5ccdd8c13649a",
-  "wallstreetsenergytransitionfundsarepackedwithnaturalgas"
+  "wallstreetsenergytransitionfundsarepackedwithnaturalgas",
+  "c7e61272b00f1277",
+  "opinionforoilmarketstrumpisanythingbutalameduck"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-07T01:10:20.934006+02:00",
+ "last_run": "2026-11-07T01:15:20.297069+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
