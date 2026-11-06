@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "b5ef0787e370c1f1",
-  "oilanddatacentrestockssinkafterusmidtermstri",
   "ba254b7643c0afe1",
   "aramcobeginsproductionatthezulufoffshoreexpansionproject",
   "b97fddb030bf6bc8",
@@ -603,7 +601,9 @@
   "33bda7e827c1b861",
   "asiafacesaireckoningpostmidtermswithsilverliningonoil",
   "c2a21bff80b78949",
-  "usexpandssanctionstargetingcubasoilshippingnetwork"
+  "usexpandssanctionstargetingcubasoilshippingnetwork",
+  "1ba15d0e46922bf9",
+  "starkcountyleadsohioinoilgasincidentsnewreportshows"
  ],
  "releases_done": {},
  "last_digest": "2026-11-06",
@@ -615,7 +615,7 @@
   "date": "2026-11-06",
   "count": 54
  },
- "last_run": "2026-11-06T13:40:17.979485+02:00",
+ "last_run": "2026-11-06T13:45:18.669455+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
