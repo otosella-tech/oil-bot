@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "118b139ede3373c6",
-  "hormuzmineincidentescalatescrudeoilriskpremium",
-  "065e70d64863a6e7",
-  "droneattacksparksfiresatindustrialfacilitiesinrussiasryazano",
   "eb82395ebb20cfd8",
   "middleeast",
   "97a824951db56355",
@@ -603,7 +599,11 @@
   "66ac42bee7bedfe5",
   "opeccrudeoiloutputisnearingprewarlevelsassaudiarabiarebounds",
   "3c61af27fe2c4211",
-  "iransaysitdownedusmq1droneoverqeshmisland"
+  "iransaysitdownedusmq1droneoverqeshmisland",
+  "8726e3312122e27f",
+  "energyaspectsslashesforecastofchinasnovemberdieselexports",
+  "af392f571ae9d618",
+  "theiranwarisntoverbutoiltradersarealreadypricinginpeace"
  ],
  "releases_done": {},
  "last_digest": "2026-11-06",
@@ -615,7 +615,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T17:25:16.397559+02:00",
+ "last_run": "2026-11-06T17:30:23.846903+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1640,6 +1640,10 @@
   {
    "d": "2026-11-06",
    "t": "Iran says it downed US MQ-1 drone over Qeshm Island - The Jerusalem Post"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace"
   }
  ]
 }
