@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "f6207c24419d8bee",
-  "aistocksoilfallasinvestorsbetonchangeafteruselectionbluewave",
   "06e43c499d2990e5",
   "crudeawakeninghowoilhasfuelled150yearsofconflict",
   "52c0452247aa4962",
@@ -603,7 +601,9 @@
   "edbc2373e06d7e05",
   "willdebhaalanddestroyoilandgasproductioninnewmexico",
   "a83c4a85e3832144",
-  "summitcountyreviewsregulationswithoilpipelineintheworks"
+  "summitcountyreviewsregulationswithoilpipelineintheworks",
+  "60f5ccdd8c13649a",
+  "wallstreetsenergytransitionfundsarepackedwithnaturalgas"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-07T00:58:51.879948+02:00",
+ "last_run": "2026-11-07T01:00:34.211577+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
