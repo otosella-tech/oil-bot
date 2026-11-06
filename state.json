@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "7852d4f3b9482bff",
-  "oilpricesreboundaftersharpdeclineasuselectionresultsshiftexp",
   "e3cf229378e091c4",
   "brentcrudeoildropsbelow95perbarrel",
   "ffea80f6e3730ff6",
@@ -603,7 +601,9 @@
   "f00c3af12f904866",
   "energyreliabilityisbecomingmoreimportantthanenergypolitics",
   "02e966c32cbf4491",
-  "atcaliforniaslosthillsoilfield65000solarpanelsgeneratemostof"
+  "atcaliforniaslosthillsoilfield65000solarpanelsgeneratemostof",
+  "44d64c578610bad9",
+  "digitaltwinfortheoilgas"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T21:05:15.072249+02:00",
+ "last_run": "2026-11-06T21:10:26.159134+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
