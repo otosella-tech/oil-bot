@@ -4,14 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "cfe2524a6c92460f",
-  "nowthatthemidtermelectionsareoverwhatdoesthatmeanforgasprice",
-  "70928a5a49692eaa",
-  "crudeoilfuturesfallonweakglobalcuesprofittaking",
-  "dabdbb20d982d9d0",
-  "oilpricescontinuetofallasdemocraticsweepshakesenergymarkets",
-  "bd931e1b292a386b",
-  "goldextendsreboundabove4100asdollarandyieldsdecline",
   "f6a1ab7495b05c28",
   "oildrops7asiransignalsopennesstopeacetalks",
   "665cfe39f20e6762",
@@ -603,7 +595,15 @@
   "a1c898c155016bf4",
   "trumpsstillborndieseldealwhyrussianoiltankersarenotheadingto",
   "916eae174184c708",
-  "worldoilpricessetforsharpweeklydrop"
+  "worldoilpricessetforsharpweeklydrop",
+  "86ced19254f69607",
+  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
+  "1f73ff6e275c317f",
+  "crudeoilpricesselloffmorethan7oniranpeacetalkhopesaheadofusm",
+  "42673213c2246a30",
+  "theoilshockismakinggovernmentdebtmoredangerous",
+  "de0119e7579fdd56",
+  "whyspainistaking188000tonnesofoliveoiloffthemarket"
  ],
  "releases_done": {},
  "last_digest": "2026-11-06",
@@ -615,7 +615,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T16:10:19.569353+02:00",
+ "last_run": "2026-11-06T16:15:18.622317+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1612,6 +1612,10 @@
   {
    "d": "2026-11-06",
    "t": "One seafarer killed in missile attack on tanker in Gulf - The Jerusalem Post"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms - CNBC"
   }
  ]
 }
