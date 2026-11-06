@@ -4,8 +4,6 @@
   "Brent": 99.83
  },
  "seen": [
-  "38dff127167837a7",
-  "seismicbluewavetriggersthesinkingofoilpricesenergystocksandt",
   "e22f25ec9dff2e29",
   "stockssurgeandthedowsoars1500pointsasoilpricestumblefollowin",
   "71fa969515cb07e4",
@@ -603,7 +601,9 @@
   "32888e4d98287e38",
   "oilholdsgainsafterselloff",
   "87a057e740f4d6bd",
-  "crudeoilpricegainamidfreshtankerattacksinstraitofhormuz"
+  "crudeoilpricegainamidfreshtankerattacksinstraitofhormuz",
+  "f9b762ec15364fc5",
+  "80oddsofrenewedmilitaryattackiniranoilriskpremiumtoheadhighe"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-06",
-  "count": 14
+  "count": 16
  },
- "last_run": "2026-11-06T07:05:17.073405+02:00",
+ "last_run": "2026-11-06T07:10:20.311091+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1496,6 +1496,10 @@
   {
    "d": "2026-11-06",
    "t": "Crude oil price gain amid fresh tanker attacks in Strait of Hormuz - BusinessLine"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "80% odds of renewed military attack in Iran, oil risk premium to head higher: Bob McNally - CNBC"
   }
  ]
 }
