@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "ae72945d9f77812b",
-  "iranreportsmoretankerfiresinstraitofhormuz",
   "024c454965e43b72",
   "europeangasslipsfurtheras20weeklyoilcrashoverwhelmsfreshhorm",
   "82e46277f6b026ae",
@@ -603,7 +601,9 @@
   "ff9c9fa3aaba239d",
   "isthecruderallyoverbrentontrackforworstweeksince2020",
   "99fe1c1fe81354b5",
-  "strikeordealwhattheusbuildupandsixchokepointsaretellingoilan"
+  "strikeordealwhattheusbuildupandsixchokepointsaretellingoilan",
+  "600b2fbce0f5f6fe",
+  "usoilgasdrillersseeminoruptickasoilpricescrash"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T20:25:13.940684+02:00",
+ "last_run": "2026-11-06T20:30:26.803904+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1659,6 +1659,10 @@
   {
    "d": "2026-11-06",
    "t": "ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash"
   }
  ]
 }
