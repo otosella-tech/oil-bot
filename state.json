@@ -4,8 +4,6 @@
   "Brent": 97.76
  },
  "seen": [
-  "e7be843838ec7878",
-  "indianrefinerbpclbuysuswticrudeoilcargo",
   "e417a3ebd1c33e49",
   "oilpricesdropbelow100asmidtermsfuelhopeforanendtotheiranwar",
   "0c4f96b3db23a208",
@@ -603,7 +601,9 @@
   "92053f21370e975f",
   "usshalegiantsholdbackondrillingdespitehigheroilprices",
   "4770a3125146c916",
-  "oilpricesdropsharplyeasinginflationpressurescitistrategist"
+  "oilpricesdropsharplyeasinginflationpressurescitistrategist",
+  "93fac758fd23e7a1",
+  "newenergypoliciescouldspurexpansionofoilsandsoperationsconoc"
  ],
  "releases_done": {},
  "last_digest": "2026-11-05",
@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "count": 60
  },
- "last_run": "2026-11-06T02:00:30.326637+02:00",
+ "last_run": "2026-11-06T02:05:16.741862+02:00",
  "sent_stories": [
   {
    "d": "2026-11-02",
