@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "776efb43415477c9",
-  "pentagoneyesunprecedented75",
   "d2ed8fcdd1c711b2",
   "russiarefinerypayoutshithighestsince2022inblowtobudget",
   "f13bfc6880c2707a",
@@ -603,7 +601,9 @@
   "803b5e9b21a785af",
   "chinawillreduceitscoemissionsby31in2026",
   "b2eba7b4bf8916d6",
-  "oilpricessetforsharpweeklydeclinedespitetankerattacks"
+  "oilpricessetforsharpweeklydeclinedespitetankerattacks",
+  "d55d5770b7beace1",
+  "indiasongcpostshigherq2profitassurgeincrudepricesliftsmargin"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-06",
   "count": 60
  },
- "last_run": "2026-11-06T23:15:17.856191+02:00",
+ "last_run": "2026-11-06T23:20:19.143346+02:00",
  "sent_stories": [
   {
    "d": "2026-11-03",
@@ -1693,6 +1693,10 @@
   {
    "d": "2026-11-06",
    "t": "Oil prices set for sharp weekly decline despite tanker attacks - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "India's ONGC posts higher Q2 profit as surge in crude prices lifts margins - Reuters"
   }
  ]
 }
