@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "9b9635cf4f1d3425",
-  "whentheoilcompaniesleavewhopays",
-  "af1e78a84c1d8669",
-  "usmidtermelectionresultsimpactoncrudeoilpriceswhatshappening",
   "3554d9dae65624bc",
   "crudeoilpriceforecastastrumpfacesbadoptionsontheusiranwar",
   "4066f97caa0741ef",
@@ -603,7 +599,11 @@
   "75a1a3ce4488ae36",
   "uaemullsthirdcrudeoilpipelinetoavoidstraitofhormuz",
   "9a293964ff73814c",
-  "crudeoildxyoutlookgeopoliticalriskshaltselloffsinthedollaran"
+  "crudeoildxyoutlookgeopoliticalriskshaltselloffsinthedollaran",
+  "eab0fa5de629a713",
+  "depspillofjust1barrelofconventionalcrudeoilfromstoragetanksi",
+  "4ee6dcdf5a3a485a",
+  "13500birdskilledinoiltankerwrecksonrussiascoastandmorethan10"
  ],
  "releases_done": {},
  "last_digest": "2026-11-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-07",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-11-07T21:45:18.691924+02:00",
+ "last_run": "2026-11-07T21:50:17.430514+02:00",
  "sent_stories": [
   {
    "d": "2026-11-04",
@@ -1444,6 +1444,10 @@
   {
    "d": "2026-11-07",
    "t": "UAE Mulls Third Crude Oil Pipeline to Avoid Strait of Hormuz - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-07",
+   "t": "13,500 birds killed in oil tanker wrecks on Russia's coast — and more than 1,000 were endangered - The Cool Down"
   }
  ]
 }
