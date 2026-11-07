@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "23d5ab03fe8a2fc3",
-  "oilpricesrisebutstaybelow100astradersweighirandiplomacysuppl",
   "c1ed86b9113d9a28",
   "currentpriceofoilasofnovember52026",
   "2d4d2c5d4bb83818",
@@ -603,7 +601,9 @@
   "5162c02c3999510a",
   "brentcrudefallsbelow114asirandiplomacyacceleratesandisraelie",
   "6ef5ae217fe9ca8b",
-  "crudeoildropsover12inaweekamidcollapseofwarpremium"
+  "crudeoildropsover12inaweekamidcollapseofwarpremium",
+  "ab8237119bc9c64f",
+  "refinerieshaveshiftedproductionawayfromgasolinetomiddledisti"
  ],
  "releases_done": {},
  "last_digest": "2026-11-06",
@@ -615,7 +615,7 @@
   "date": "2026-11-07",
   "count": 10
  },
- "last_run": "2026-11-07T07:45:18.750633+02:00",
+ "last_run": "2026-11-07T07:50:18.384773+02:00",
  "sent_stories": [
   {
    "d": "2026-11-04",
