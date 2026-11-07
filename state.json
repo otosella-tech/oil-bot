@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "9a293964ff73814c",
-  "crudeoildxyoutlookgeopoliticalriskshaltselloffsinthedollaran",
   "b53108eed23986b0",
   "turkeyunveils500billionenergyplanbuiltongassolarnuclear",
   "9b9635cf4f1d3425",
@@ -603,7 +601,9 @@
   "7f31091324d488e1",
   "trump",
   "ba2587edae3610dc",
-  "energynewsbeatweeklyrigreportcomparingbakerhughesenverusandw"
+  "energynewsbeatweeklyrigreportcomparingbakerhughesenverusandw",
+  "75a1a3ce4488ae36",
+  "uaemullsthirdcrudeoilpipelinetoavoidstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-11-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-07",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-11-07T20:40:18.410951+02:00",
+ "last_run": "2026-11-07T20:45:18.161485+02:00",
  "sent_stories": [
   {
    "d": "2026-11-04",
@@ -1440,6 +1440,10 @@
   {
    "d": "2026-11-07",
    "t": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections - CNBC"
+  },
+  {
+   "d": "2026-11-07",
+   "t": "UAE Mulls Third Crude Oil Pipeline to Avoid Strait of Hormuz - Bloomberg.com"
   }
  ]
 }
