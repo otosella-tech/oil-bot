@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "256bbec5550a7c76",
-  "currentpriceofoilasofnovember42026",
   "e67f247c015f8fbe",
   "aistockskeepfallingasoilpricesandbondyieldssteadyfollowingth",
   "4d9aac697c2e12e2",
@@ -603,7 +601,9 @@
   "250c09e470da152c",
   "colombiatohavenewoilexplorationofferingreadybyfirstquarterof",
   "a817116be7c1b364",
-  "saratovoilrefineryonfireafterdroneattackinrussiamedia"
+  "saratovoilrefineryonfireafterdroneattackinrussiamedia",
+  "56c2ca40b478ca9a",
+  "guidetopublichearingonmethaneregulationsrollback"
  ],
  "releases_done": {},
  "last_digest": "2026-11-07",
@@ -615,7 +615,7 @@
   "date": "2026-11-07",
   "count": 18
  },
- "last_run": "2026-11-07T14:10:18.347054+02:00",
+ "last_run": "2026-11-07T14:15:18.617834+02:00",
  "sent_stories": [
   {
    "d": "2026-11-04",
