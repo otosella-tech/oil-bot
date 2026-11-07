@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "c95ee7df4555f298",
-  "canusmidtermresultseaseindiaseconomicworriesoilandrussiarisk",
   "075b3286174f3de3",
   "baileyspeechlatestfallinoilpricesispositivenews",
   "792c5f3630b5a3fc",
@@ -603,7 +601,9 @@
   "5ab79fffe331498f",
   "crudeoilpricewtipricechart",
   "530de59dd8ff7912",
-  "fbiraidsmidlothianoilandgasbusinessfacingmultiplefraudlawsui"
+  "fbiraidsmidlothianoilandgasbusinessfacingmultiplefraudlawsui",
+  "7d84fe2671e69838",
+  "enbridgeexpressesinterestinbuildingpipelineforcanadaspathway"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-11-07",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-11-07T06:00:28.040569+02:00",
+ "last_run": "2026-11-07T06:05:14.306580+02:00",
  "sent_stories": [
   {
    "d": "2026-11-04",
@@ -1421,6 +1421,10 @@
   {
    "d": "2026-11-07",
    "t": "US gas prices surge 40% to $4.15 amid Iran conflict - Crypto Briefing"
+  },
+  {
+   "d": "2026-11-07",
+   "t": "Enbridge expresses interest in building pipeline for Canada's Pathways carbon capture network - Reuters"
   }
  ]
 }
