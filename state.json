@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "498af0810e85099b",
-  "conocophillipsprofitrisesasoilpricesclimb",
   "c95ee7df4555f298",
   "canusmidtermresultseaseindiaseconomicworriesoilandrussiarisk",
   "075b3286174f3de3",
@@ -603,7 +601,9 @@
   "e158a87816f71a01",
   "roryjohnstoncrudeoilpostsbiggestweeklydropsinceaprilasescala",
   "5ab79fffe331498f",
-  "crudeoilpricewtipricechart"
+  "crudeoilpricewtipricechart",
+  "530de59dd8ff7912",
+  "fbiraidsmidlothianoilandgasbusinessfacingmultiplefraudlawsui"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-07",
   "count": 6
  },
- "last_run": "2026-11-07T05:45:17.512046+02:00",
+ "last_run": "2026-11-07T05:50:17.608001+02:00",
  "sent_stories": [
   {
    "d": "2026-11-04",
