@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "2d4d2c5d4bb83818",
-  "scientistsdiscoverthatacloggedfiltercouldrevolutionizeoilref",
   "371e5322156392eb",
   "scientistsdevelopmembraneforseparatingcrudeoilatroomtemperat",
   "65a7ccd4b9bb3bc9",
@@ -603,7 +601,9 @@
   "ab8237119bc9c64f",
   "refinerieshaveshiftedproductionawayfromgasolinetomiddledisti",
   "7dc4e205c3c0fcd2",
-  "usoilrigcountupforweekendingnov7"
+  "usoilrigcountupforweekendingnov7",
+  "c1ed86b9113d9a28",
+  "currentpriceofoilasofnovember52026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-07",
@@ -615,7 +615,7 @@
   "date": "2026-11-07",
   "count": 16
  },
- "last_run": "2026-11-07T09:15:17.689841+02:00",
+ "last_run": "2026-11-07T09:20:19.401295+02:00",
  "sent_stories": [
   {
    "d": "2026-11-04",
