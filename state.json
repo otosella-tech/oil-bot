@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "13a6ce982216be81",
-  "adaptordiewhyoilrefineriesmustevolvetosurvive",
   "498af0810e85099b",
   "conocophillipsprofitrisesasoilpricesclimb",
   "c95ee7df4555f298",
@@ -603,7 +601,9 @@
   "fbdcea85f7c2b09e",
   "usgaspricessurge40to415amidiranconflict",
   "e158a87816f71a01",
-  "roryjohnstoncrudeoilpostsbiggestweeklydropsinceaprilasescala"
+  "roryjohnstoncrudeoilpostsbiggestweeklydropsinceaprilasescala",
+  "5ab79fffe331498f",
+  "crudeoilpricewtipricechart"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-07",
   "count": 6
  },
- "last_run": "2026-11-07T05:20:18.895068+02:00",
+ "last_run": "2026-11-07T05:25:13.498619+02:00",
  "sent_stories": [
   {
    "d": "2026-11-04",
