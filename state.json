@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "6635a0ef1eb455fc",
-  "usoilinventoriesfallfurtherasdemandholds",
   "d293ce16afac4272",
   "pmzaidivowsopendoorpolicyforforeigncompanies",
   "ffb41dd7d69f9393",
@@ -603,7 +601,9 @@
   "07f5a71ff4d31259",
   "crudeoilpricesreboundasukraineattacksrussianrefineries",
   "0ab1235d6d7e252a",
-  "guyanasoilboomcouldeasetheglobalsupplycrunch"
+  "guyanasoilboomcouldeasetheglobalsupplycrunch",
+  "7176eb45ad67f82b",
+  "pennsylvaniaweeklyoilgascompliancesnapshotoct31tonov6"
  ],
  "releases_done": {},
  "last_digest": "2026-11-07",
@@ -615,7 +615,7 @@
   "date": "2026-11-08",
   "count": 2
  },
- "last_run": "2026-11-08T00:45:16.717736+02:00",
+ "last_run": "2026-11-08T00:50:18.247954+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
