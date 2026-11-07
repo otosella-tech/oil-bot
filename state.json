@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "321f28351063079d",
-  "russiasoilgasrevenuesmorethandoubleto119binoctober",
   "bdb6f5c4801de33b",
   "soybeanoilpricesfallinbrazilandargentinaamidsharpdeclineincr",
   "13a6ce982216be81",
@@ -603,7 +601,9 @@
   "656b1f606a5b5f0d",
   "crudeoilpricesplummetinhopesofaquickendtoiranwar",
   "d3de34f26aed65a7",
-  "usnonfarmpayrollsfarexceedexpectationscrudeoilweeklydropover"
+  "usnonfarmpayrollsfarexceedexpectationscrudeoilweeklydropover",
+  "fbdcea85f7c2b09e",
+  "usgaspricessurge40to415amidiranconflict"
  ],
  "releases_done": {
   "2026-11-06|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-11-07",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-11-07T03:10:19.202411+02:00",
+ "last_run": "2026-11-07T03:15:17.886752+02:00",
  "sent_stories": [
   {
    "d": "2026-11-04",
@@ -1417,6 +1417,10 @@
   {
    "d": "2026-11-07",
    "t": "Crude Oil Prices Plummet in Hopes of a Quick End to Iran War - Barchart.com"
+  },
+  {
+   "d": "2026-11-07",
+   "t": "US gas prices surge 40% to $4.15 amid Iran conflict - Crypto Briefing"
   }
  ]
 }
