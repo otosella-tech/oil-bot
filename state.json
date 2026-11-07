@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "972cd58d51f48c3d",
-  "crudeoilteststhekeyconfluenceareaandfindswillingbuyers",
   "256bbec5550a7c76",
   "currentpriceofoilasofnovember42026",
   "e67f247c015f8fbe",
@@ -603,7 +601,9 @@
   "ec79ec0c56014bf1",
   "brentandwticrudeoilpriceforecastbofaexpectslower2027averages",
   "250c09e470da152c",
-  "colombiatohavenewoilexplorationofferingreadybyfirstquarterof"
+  "colombiatohavenewoilexplorationofferingreadybyfirstquarterof",
+  "a817116be7c1b364",
+  "saratovoilrefineryonfireafterdroneattackinrussiamedia"
  ],
  "releases_done": {},
  "last_digest": "2026-11-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-07",
-  "count": 16
+  "count": 18
  },
- "last_run": "2026-11-07T13:15:18.198579+02:00",
+ "last_run": "2026-11-07T13:20:20.685767+02:00",
  "sent_stories": [
   {
    "d": "2026-11-04",
@@ -1424,6 +1424,10 @@
   {
    "d": "2026-11-07",
    "t": "Crude oil plunges over 12% in a week! War premium collapses instantly, with the $86 level becoming a critical battleground for bulls and bears. - Moomoo"
+  },
+  {
+   "d": "2026-11-07",
+   "t": "Saratov Oil Refinery on fire after drone attack in Russia – media - Ukrinform"
   }
  ]
 }
