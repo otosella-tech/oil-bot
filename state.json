@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "2f6d1a7dd65fb146",
-  "batteriesaretakingthegaspeakersbesthours",
   "7a8bbd77a4bfe0f3",
   "usstockssurgeandthedowsoars1500pointsasbrentoilspricedropsbe",
   "192ce4f02eff9623",
@@ -603,7 +601,9 @@
   "f4ee6725d07b892e",
   "wticrudeoilsettlesat9052up272asbuyersdefendkeysupport",
   "985786a1f4d8ad5b",
-  "crudeoilweeklyoutlookhouthiattacksvsadoubletop"
+  "crudeoilweeklyoutlookhouthiattacksvsadoubletop",
+  "2d41dbb2a13108a9",
+  "brentcrudejumpssettlesupover3aftertankerattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-08",
-  "count": 25
+  "count": 27
  },
- "last_run": "2026-11-08T15:25:14.838622+02:00",
+ "last_run": "2026-11-08T15:30:24.567539+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-11-08",
    "t": "Mysterious billionaire shows off ‘America’s oil’ — and Trump’s Venezuela - The Washington Post"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "Brent crude jumps, settles up over $3 after tanker attacks - Reuters"
   }
  ]
 }
