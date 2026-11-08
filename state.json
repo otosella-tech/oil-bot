@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "192ce4f02eff9623",
-  "oiljumpsasinvestorsassessiranwarfuturetankerattacks",
   "0d96a18c0c967a3f",
   "wtiplunges83asmarketsbetelectionlossescouldpushtrumptowardan",
   "314d4371802480d2",
@@ -603,7 +601,9 @@
   "2d41dbb2a13108a9",
   "brentcrudejumpssettlesupover3aftertankerattacks",
   "8801a92f7f78a6a1",
-  "woodmackenzie20ofglobalrefiningcapacityfacesrisingclosureris"
+  "woodmackenzie20ofglobalrefiningcapacityfacesrisingclosureris",
+  "4679c4d9dae809a8",
+  "threeoiltankersstrikeminescatchfireinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-08",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-11-08T15:50:18.675316+02:00",
+ "last_run": "2026-11-08T15:55:14.277691+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
@@ -1200,6 +1200,10 @@
   {
    "d": "2026-11-08",
    "t": "Brent crude jumps, settles up over $3 after tanker attacks - Reuters"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "Three Oil Tankers Strike Mines, Catch Fire In Strait Of Hormuz - Bernama"
   }
  ]
 }
