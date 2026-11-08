@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "ffb41dd7d69f9393",
-  "oilpricesheadhigherasinitialmidtermreactionfades",
   "8afbec5ba6057063",
   "xomstockisup43in2026wallstreetissplitontheoilmajorfollowingq",
   "a854c4ae2ccfc868",
@@ -603,7 +601,9 @@
   "7176eb45ad67f82b",
   "pennsylvaniaweeklyoilgascompliancesnapshotoct31tonov6",
   "5d155d38c104d5a2",
-  "warsmayspurfasterelectrification"
+  "warsmayspurfasterelectrification",
+  "ac04797e3982b87f",
+  "explosionsiniransqeshmhouthissaytargetedsaudioilsites"
  ],
  "releases_done": {},
  "last_digest": "2026-11-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-08",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-11-08T03:00:27.957033+02:00",
+ "last_run": "2026-11-08T03:05:13.960826+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
@@ -1168,6 +1168,10 @@
   {
    "d": "2026-11-08",
    "t": "Wars May Spur Faster Electrification"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "Explosions in Iran’s Qeshm, Houthis say targeted Saudi oil sites - The New Arab"
   }
  ]
 }
