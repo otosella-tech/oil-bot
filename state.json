@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "9ba36e96aebd4bc6",
-  "globalcrudeoilpricesreboundaftersteeplossesinprevioussession",
   "47c7d2d0057d1a12",
   "oilrisesover2asinvestorsassessiranwarfuture",
   "52b18bbcf80e1420",
@@ -603,7 +601,9 @@
   "defaffbb3d032833",
   "brentcrudecapsbiggestweeklydropsincepandemicaswarpremiumbegi",
   "c25561902c6c13cb",
-  "historysaysenergyledallsectorsinthelastbearmarkethereswhatsd"
+  "historysaysenergyledallsectorsinthelastbearmarkethereswhatsd",
+  "3f3571bb5d60411d",
+  "trumpbackedtradecorridoradvancesdespitegeopoliticalresistanc"
  ],
  "releases_done": {},
  "last_digest": "2026-11-07",
@@ -615,7 +615,7 @@
   "date": "2026-11-08",
   "count": 6
  },
- "last_run": "2026-11-08T05:40:18.863537+02:00",
+ "last_run": "2026-11-08T05:45:19.982503+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
