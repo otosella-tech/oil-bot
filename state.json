@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "ae53e189c3de9f2b",
-  "oilpricespickupasmarketmullsoverprospectsformiddleeastsettle",
   "4fbe7c8f395b153d",
   "shellleadsspikeinoilexplorationbidsofftheeastcoastofnewfound",
   "6c1b43f27563cf4c",
@@ -603,7 +601,9 @@
   "570924cddfbeb60d",
   "matadorresourcesreachesrecordcrudeoilproductionlevelsintheus",
   "5e75bb44660885a0",
-  "longandwronghedgefundsdump66billioninoilasthewartradecomesap"
+  "longandwronghedgefundsdump66billioninoilasthewartradecomesap",
+  "00fc6f9c4118c5db",
+  "usequitymarketsendloweraftercrudeoilrisesmegacaptechstocksfa"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -615,7 +615,7 @@
   "date": "2026-11-08",
   "count": 29
  },
- "last_run": "2026-11-08T16:15:18.049409+02:00",
+ "last_run": "2026-11-08T16:20:19.555746+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
