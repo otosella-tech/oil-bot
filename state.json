@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "52b18bbcf80e1420",
-  "brents20collapsethewarpremiumvanishesbuttheoilshortageremain",
   "7de02b277dce5075",
   "usrefineriesmakedramaticshiftawayfromgasoline",
   "44fb721a9885410c",
@@ -603,7 +601,9 @@
   "3f3571bb5d60411d",
   "trumpbackedtradecorridoradvancesdespitegeopoliticalresistanc",
   "5074b4c47d72ff52",
-  "3oilstocksretailinvestorsarewatchingascrudepricesswing"
+  "3oilstocksretailinvestorsarewatchingascrudepricesswing",
+  "0dbd97ac718b7677",
+  "washingtonmademoscowapariahnowatankerofrussiandieselisheaded"
  ],
  "releases_done": {},
  "last_digest": "2026-11-07",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-08",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-11-08T06:00:30.316219+02:00",
+ "last_run": "2026-11-08T06:05:15.394301+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
@@ -1172,6 +1172,10 @@
   {
    "d": "2026-11-08",
    "t": "Explosions in Iran’s Qeshm, Houthis say targeted Saudi oil sites - The New Arab"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "Washington made Moscow a pariah. Now a tanker of Russian diesel is headed for US shores - CNN"
   }
  ]
 }
