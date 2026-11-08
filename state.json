@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "70a3788639714298",
-  "wtipriceforecastcrudeoilreboundsfromcriticalsupport",
-  "18df7756a1e153e3",
-  "oilpricepredictionswhygoldmansachsisbettingonbrenttoclimbto1",
   "7c1262a2c3c82323",
   "alaskanorthslopecrudeoilrecordsfifthhighestmonthlyaveragepri",
   "4d8c28febacdfdc5",
@@ -603,7 +599,11 @@
   "491ad86e1e19dd1a",
   "energystocksrallymayfalterifoilsupplyrecoverspricesstabilize",
   "62a9bbcabbedd93b",
-  "brazilextends12oilexporttaxthroughendof2026"
+  "brazilextends12oilexporttaxthroughendof2026",
+  "f2dedcaed7279b79",
+  "trumpswarinirandrivingshiftfromfossilfuels",
+  "8c64822f71d33367",
+  "bigoilismakingbillionsfromiranwarpricesherehowtheyrespending"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-08",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-11-08T23:20:18.487962+02:00",
+ "last_run": "2026-11-08T23:25:15.240879+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
@@ -1212,6 +1212,14 @@
   {
    "d": "2026-11-08",
    "t": "Can the Transition to Clean Energy Survive the War in Iran? - The New York Times"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "Trump's war in Iran driving shift from fossil fuels - ABC News & Headlines – Australian Broadcasting Corporation"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "Big Oil is making billions from Iran war prices. Here how they're spending it. - Yahoo Finance"
   }
  ]
 }
