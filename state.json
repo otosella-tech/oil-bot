@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "1e1568ea13cb5a49",
-  "carneyspendscanadasoilwindfallinbidtodrivegrowth",
   "ae53e189c3de9f2b",
   "oilpricespickupasmarketmullsoverprospectsformiddleeastsettle",
   "4fbe7c8f395b153d",
@@ -603,7 +601,9 @@
   "6e6882f489861c34",
   "aaatexasreportsgaspricesdropalongsidecrudeoilcosts",
   "570924cddfbeb60d",
-  "matadorresourcesreachesrecordcrudeoilproductionlevelsintheus"
+  "matadorresourcesreachesrecordcrudeoilproductionlevelsintheus",
+  "5e75bb44660885a0",
+  "longandwronghedgefundsdump66billioninoilasthewartradecomesap"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -615,7 +615,7 @@
   "date": "2026-11-08",
   "count": 29
  },
- "last_run": "2026-11-08T16:10:19.707215+02:00",
+ "last_run": "2026-11-08T16:15:18.049409+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
