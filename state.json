@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "6e6882f489861c34",
-  "aaatexasreportsgaspricesdropalongsidecrudeoilcosts",
   "43b6d13caa59b92f",
   "crudeoilpricessettlehigherasdistillatesuppliesremaintight",
   "51e0e8df6d3b3450",
@@ -603,7 +601,9 @@
   "c726acbd6f45f2ab",
   "nikkeistockaveragemaybottomoutandreboundcrudeoilstayselevate",
   "5f0d4eb2a888c745",
-  "mysteriousbillionaireshowsoffamericasoilandtrumpsvenezuela"
+  "mysteriousbillionaireshowsoffamericasoilandtrumpsvenezuela",
+  "dffdcb28877805c6",
+  "crudeoilsweekofplungejusteightdaysagothelandscapewasrifewith"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -615,7 +615,7 @@
   "date": "2026-11-08",
   "count": 25
  },
- "last_run": "2026-11-08T12:40:20.297233+02:00",
+ "last_run": "2026-11-08T12:45:16.395302+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
