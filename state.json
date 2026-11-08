@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "7c1262a2c3c82323",
-  "alaskanorthslopecrudeoilrecordsfifthhighestmonthlyaveragepri",
   "4d8c28febacdfdc5",
   "midtermsarebadforincumbentsandevenworsewhenenergypricesarehi",
   "0b07615cefb0a336",
@@ -603,7 +601,9 @@
   "f2dedcaed7279b79",
   "trumpswarinirandrivingshiftfromfossilfuels",
   "8c64822f71d33367",
-  "bigoilismakingbillionsfromiranwarpricesherehowtheyrespending"
+  "bigoilismakingbillionsfromiranwarpricesherehowtheyrespending",
+  "70a3788639714298",
+  "wtipriceforecastcrudeoilreboundsfromcriticalsupport"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -615,7 +615,7 @@
   "date": "2026-11-08",
   "count": 35
  },
- "last_run": "2026-11-08T23:25:15.240879+02:00",
+ "last_run": "2026-11-08T23:30:24.365280+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
