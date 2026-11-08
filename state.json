@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "3e504f37234e2cfd",
-  "oiljumpsover3asinvestorsassessiranwarfuturetankerattacks",
   "044926de50546406",
   "conocophillipsboostsdividendafterbeatingestimatesonhigheroil",
   "9a3a949a165aec3f",
@@ -603,7 +601,9 @@
   "a66c0c1f53530f26",
   "climateconferenceonthefutureofoilandgasbeginsinantalyaderspi",
   "d27dd2ec19423683",
-  "iranreportsmoretankerfiresinstraitofhormuz"
+  "iranreportsmoretankerfiresinstraitofhormuz",
+  "2515f3322c9556c3",
+  "crudeoilpricesfallbelow90abarrelasvanceblamesgopelectiondefe"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-08",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-11-08T11:15:18.191558+02:00",
+ "last_run": "2026-11-08T11:20:18.346623+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
@@ -1188,6 +1188,10 @@
   {
    "d": "2026-11-08",
    "t": "Iran Reports More Tanker Fires in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war - CNBC"
   }
  ]
 }
