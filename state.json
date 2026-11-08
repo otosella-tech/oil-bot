@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "f57ae8459764094a",
-  "usoilcompaniespostbillionsinq3profitsascrudeproductionhitsre",
   "2f2df052cd797f73",
   "qantasexpects263billionfirsthalffuelbillamidelevatedoilprice",
   "92053f21370e975f",
@@ -603,7 +601,9 @@
   "c4e1b5343bf901da",
   "pipelineoutagesdelay426mbarrelsofoil",
   "71fae801f3cb595b",
-  "brentandwticrudeoilpricesfallastrumpsignalsirandealismorelik"
+  "brentandwticrudeoilpricesfallastrumpsignalsirandealismorelik",
+  "daffefe5f645c835",
+  "oilextendsbiggestweeklydropsince2020withfocusoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-09T01:45:17.382942+02:00",
+ "last_run": "2026-11-09T01:50:18.985856+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -952,6 +952,10 @@
   {
    "d": "2026-11-09",
    "t": "Pipeline outages delay 42.6m barrels of oil - Punch Newspapers"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil Extends Biggest Weekly Drop Since 2020 With Focus on Iran - Bloomberg"
   }
  ]
 }
