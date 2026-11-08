@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "59a29261329d92a3",
-  "nvidiaandotheraichipstockskeepfallingwhileoilpricesclawbacks",
-  "a7ff931677947c8c",
-  "crudeoilpricesslumpaspresidenttrumpdownplaysescalationofusir",
   "bbbc6b6ece056565",
   "uscrudeoilrisesbackabove90asinvestorsweighuncertaintiesaroun",
   "331c1a45fd9dd0b4",
@@ -603,7 +599,11 @@
   "cce8a6434721a2ef",
   "saudicivildefencegivesallclearafteralertsineasternprovince",
   "d29aabc13242d842",
-  "empoweringpeopleinoilandgas"
+  "empoweringpeopleinoilandgas",
+  "d1c0842f0c4b2597",
+  "trumpsoilpricechaosisntoveryet",
+  "c5fe91363023da12",
+  "ustargetscubasoiltankerfleetinnewsanctionscrackdown"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-08",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-11-08T08:45:17.170875+02:00",
+ "last_run": "2026-11-08T08:50:19.975891+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
@@ -1176,6 +1176,10 @@
   {
    "d": "2026-11-08",
    "t": "Washington made Moscow a pariah. Now a tanker of Russian diesel is headed for US shores - CNN"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "U.S. Targets Cuba’s Oil Tanker Fleet in New Sanctions Crackdown - gCaptain"
   }
  ]
 }
