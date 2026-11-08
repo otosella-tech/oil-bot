@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "1cf562f05b313ad4",
-  "crudeoilpricetumblesarenthelpingdiesel",
   "f57ae8459764094a",
   "usoilcompaniespostbillionsinq3profitsascrudeproductionhitsre",
   "2f2df052cd797f73",
@@ -603,7 +601,9 @@
   "72f588eb1f0daf13",
   "brazilextendstemporarycrudeoilexporttax",
   "c4e1b5343bf901da",
-  "pipelineoutagesdelay426mbarrelsofoil"
+  "pipelineoutagesdelay426mbarrelsofoil",
+  "71fae801f3cb595b",
+  "brentandwticrudeoilpricesfallastrumpsignalsirandealismorelik"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 2
  },
- "last_run": "2026-11-09T01:40:18.119451+02:00",
+ "last_run": "2026-11-09T01:45:17.382942+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
