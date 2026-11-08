@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "313dedd33c51b81c",
-  "usshaleproducereogresourcesbeatsquarterlyprofitestimatesonhi",
-  "91d0b763f451596b",
-  "freshtankerattackspromptreboundinoilprices",
   "3059b50cef8b76bb",
   "texasoilbossfearsstategettingcalifornicatedafterdemocraticsw",
   "d6a3e87f3fc4b3be",
@@ -603,7 +599,11 @@
   "15bd75d0bb96bc09",
   "usoilrigcountrisesby1to463markettalk",
   "a86aa9ea9bc7dd9c",
-  "kazakhstanscrudeoilexportstoromaniafall31injanuaryaugust2026"
+  "kazakhstanscrudeoilexportstoromaniafall31injanuaryaugust2026",
+  "fb75564f8e5e5b75",
+  "hownewyorkplanstoturnwasteheatintocleanenergy",
+  "7cfe7a229d3caa98",
+  "whytheiranwarhasspurredbothcleanenergyandfossilfuels"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-08",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-11-08T17:59:52.697616+02:00",
+ "last_run": "2026-11-08T18:00:28.561909+02:00",
  "sent_stories": [
   {
    "d": "2026-11-05",
@@ -1204,6 +1204,10 @@
   {
    "d": "2026-11-08",
    "t": "Three Oil Tankers Strike Mines, Catch Fire In Strait Of Hormuz - Bernama"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels - The New York Times"
   }
  ]
 }
