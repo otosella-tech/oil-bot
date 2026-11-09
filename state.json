@@ -4,8 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "fc70cd18e4750159",
-  "crudeoilpricesfinishhigherasglobalenergysuppliesremaintight",
   "86e1c338b3af54f8",
   "oiltraderswantustoreleasesanctionedtankersasfreightcostssoar",
   "05f5b9b163f7bc62",
@@ -603,7 +601,9 @@
   "ee4213b332e87120",
   "aaatexasgaspricesfallascrudeoilpricesdecline",
   "df3f7f2268faa45d",
-  "riskonopenasoildropsnvdaslumps"
+  "riskonopenasoildropsnvdaslumps",
+  "13adaaf79908aab5",
+  "marketwrapstrongbankingsectorsharpdropinoil"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T15:15:19.284965+02:00",
+ "last_run": "2026-11-09T15:20:18.520573+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
