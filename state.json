@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "f334a9acda3e5fa9",
-  "top5africancountriesthatproducedthemostcrudeoilinseptember20",
   "6faccb13ae0c9b01",
   "moreshipsattackedinpersiangulfoilpricesreboundslightlyafterp",
   "1da845636cc89b3c",
@@ -603,7 +601,9 @@
   "1b001e6d1cb2dbbd",
   "oilpricesfallstayingbelow100astrumpplaysdownnewiranstrikes",
   "3b8e768d6addda1f",
-  "foreignsellingoilshockweakrupee7trendsinvestorsshouldtrackbe"
+  "foreignsellingoilshockweakrupee7trendsinvestorsshouldtrackbe",
+  "34bd2761a7b1a323",
+  "dronesreportedlyhitoneofrussiaslargestoilrefineriesnearstpet"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 51
+  "count": 53
  },
- "last_run": "2026-11-09T09:50:19.130880+02:00",
+ "last_run": "2026-11-09T09:55:15.803046+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1036,6 +1036,10 @@
   {
    "d": "2026-11-09",
    "t": "Oil Prices Fall, Staying below $100, as Trump Plays Down New Iran Strikes - WSJ"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Drones reportedly hit one of Russia's largest oil refineries near St. Petersburg - Hromadske"
   }
  ]
 }
