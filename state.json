@@ -4,12 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "803b5e9b21a785af",
-  "chinawillreduceitscoemissionsby31in2026",
-  "b2eba7b4bf8916d6",
-  "oilpricessetforsharpweeklydeclinedespitetankerattacks",
-  "d55d5770b7beace1",
-  "indiasongcpostshigherq2profitassurgeincrudepricesliftsmargin",
   "431528599e60a598",
   "hedgefundsfledbullishoilbetsaheadofelectiondaydrop",
   "5882f2295622c103",
@@ -603,7 +597,13 @@
   "b5a45f2bb6ddeb80",
   "sableoffshoretumbles75ascrudeoilsaleshaltedinoctober",
   "5094bb847b461314",
-  "palmoilmarketunderpressurefromrecordstocksandweakcrudeoil"
+  "palmoilmarketunderpressurefromrecordstocksandweakcrudeoil",
+  "c7ae7ebe90aec1e0",
+  "oilpricesdeclineasiranreviewsqatarproposals",
+  "aac19fbbdf20fff6",
+  "goldsilverriseasirandiplomacypressurescrudedollarweakenskitc",
+  "16cf54a0450a781a",
+  "globalenergypricesextendlossesasbrentcrudedropsover3"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T15:50:18.701623+02:00",
+ "last_run": "2026-11-09T15:55:15.586932+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
