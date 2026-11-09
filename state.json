@@ -4,12 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "816d609943e870da",
-  "kazakhstanincreasescrudeoilexportstosouthkoreaby12injanaug20",
-  "c726acbd6f45f2ab",
-  "nikkeistockaveragemaybottomoutandreboundcrudeoilstayselevate",
-  "5f0d4eb2a888c745",
-  "mysteriousbillionaireshowsoffamericasoilandtrumpsvenezuela",
   "dffdcb28877805c6",
   "crudeoilsweekofplungejusteightdaysagothelandscapewasrifewith",
   "57286982b79690a1",
@@ -603,7 +597,13 @@
   "cf25c611829c0449",
   "oildownmorethan7abarrelinpostsettlementtradeastrumpsignalsre",
   "97ed9e283ed018d6",
-  "opecoiloutputrisesinoctoberto90ofprewarratereuterssurveyshow"
+  "opecoiloutputrisesinoctoberto90ofprewarratereuterssurveyshow",
+  "b854867fe3e58f95",
+  "brentcrashes7oniranpeacehopesdespitefreshsaudipipelineattack",
+  "5db39d1147fbec43",
+  "usstocksrecovermoreoflastweekslossesasoilpricesswinglower",
+  "2515f3322c9556c3",
+  "crudeoilpricesfallbelow90abarrelasvanceblamesgopelectiondefe"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T22:10:21.250641+02:00",
+ "last_run": "2026-11-09T22:15:18.666038+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1240,6 +1240,14 @@
   {
    "d": "2026-11-09",
    "t": "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows - Reuters"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war - CNBC"
   }
  ]
 }
