@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "2e1b5afa88c1d73c",
-  "oilsetforsharpweeklydropbutmiddleeastsupplyconcernsprovidefl",
-  "077aee9bac880b90",
-  "theiranwarhascostushouseholdsnearly2000eachnewstrikescouldke",
   "38d01637087a0b05",
   "goldeasesoninflationworriesfromhigheroiluspayrollsdatainfocu",
   "32888e4d98287e38",
@@ -603,7 +599,11 @@
   "0074dd47b999cb29",
   "iranacquiresoilfacilitiesinchinatobypassussanctionsleakeddoc",
   "91b5f1ec3d79403f",
-  "goldholdsdeclineasusjobsdatafandecemberratehikebets"
+  "goldholdsdeclineasusjobsdatafandecemberratehikebets",
+  "3362e7a08777b3b1",
+  "iraqhasreachedunderstandingswithustoallowoilexportsthroughho",
+  "ecdb1b1f9bac9794",
+  "houthimissiledebrisdamagesaramcotowerinriyadhfinancialdistri"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-11-09T04:55:13.769466+02:00",
+ "last_run": "2026-11-09T05:00:31.444577+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -980,6 +980,10 @@
   {
    "d": "2026-11-09",
    "t": "Iran acquires oil facilities in China to bypass US sanctions, leaked document shows - Iran International"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says - Reuters"
   }
  ]
 }
