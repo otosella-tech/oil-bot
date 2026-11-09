@@ -4,10 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "5e75bb44660885a0",
-  "longandwronghedgefundsdump66billioninoilasthewartradecomesap",
-  "00fc6f9c4118c5db",
-  "usequitymarketsendloweraftercrudeoilrisesmegacaptechstocksfa",
   "e6d50598f7496efd",
   "trumpstransportationsecretaryseanpduffyapproves1billionbluem",
   "15bd75d0bb96bc09",
@@ -603,7 +599,11 @@
   "643016ac547c7e7a",
   "usequitymarketsendhigherasoildropsindustrialsconsumerdiscret",
   "53224742f4053c2c",
-  "oilfuturesslideastrumpsaysnewstrikesoniranunlikely"
+  "oilfuturesslideastrumpsaysnewstrikesoniranunlikely",
+  "65f084865b8ee9c4",
+  "crudeoilplungesastrumpsaysrenewediranattacksunlikely",
+  "5409daa4ced30b31",
+  "iraqushormuzdealeasescrudeoilriskpremiumviahormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -612,235 +612,11 @@
   "Brent": 97.19
  },
  "llm": {
-  "date": "2026-11-09",
-  "count": 60
+  "date": "2026-11-10",
+  "count": 2
  },
- "last_run": "2026-11-09T23:55:18.559283+02:00",
+ "last_run": "2026-11-10T00:00:28.217991+02:00",
  "sent_stories": [
-  {
-   "d": "2026-11-06",
-   "t": "Oil prices drop below $100 as midterms fuel hope for an end to the Iran war - NBC News"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil Rebounds Toward $100 as Democrats’ Sweep Rattles Energy Stocks"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil prices are in freefall now that the Democratic sweep is ‘rewriting the Iran playbook’ - MarketWatch"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit - Reuters"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "FILE PHOTO: Middle East crude oil exports exceed pre-war levels but tanker attacks increase - The Daily News | Texas' Oldest Newspaper"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "The Iran war has cost U.S. households nearly $2,000 each. New strikes could keep the bill climbing - Fortune"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Crude oil price gain amid fresh tanker attacks in Strait of Hormuz - BusinessLine"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "80% odds of renewed military attack in Iran, oil risk premium to head higher: Bob McNally - CNBC"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections - CNBC"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation - Reuters"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil Prices Head for 12% Weekly Loss Despite Fresh Tanker Attacks"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil Extends Rebound on Uncertainty Over Iran War Peace Progress - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Iran Oil Exports Near Zero But Peace Deal Not Likely, FGE Says - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions? - Al Jazeera"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "China’s Carbon Emissions Plunge 3.1% as Oil Demand Slumps"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil Pollution Returns to Coasts of Qeshm and Hormuz Islands - IranWire"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Strait of Hormuz: Chinese ships get free pass, Iranian official says - South China Morning Post"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil Declines on Signs of Moves Toward Gulf War De-Escalation - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "India’s HPCL Says Booking Tankers for Hormuz Still Complicated - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Seven Strikes in One Year: Russia’s Afipsky Oil Refinery Faces Another Ukrainian Drone Attack - UNITED24 Media"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Tanker Fires in Strait of Hormuz: Impact on Crude Oil Prices - CMB News"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "One killed and three injured in strikes on Ukraine as blaze reported at Russia's Afipsky oil refinery - Euronews"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "India’s HPCL Struggles to Secure Oil Tankers as Hormuz Risks Persist"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk - CNBC"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Turkish Army’s $34 Billion Pension Fund Enters Libyan Oil Trade - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "COMMENTARY: Washington reset, market meltdown and the Iran oil bet: The financial week in five charts - Reuters"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge - CBS News"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil Prices Plunge as U.S. Elections Shake Up the Iran War"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Asia’s Fuel Oil Market Signals Hopes of U.S.-Iran De-Escalation"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Asia's Fuel Oil Market Signals Hopes of U.S.-Iran De-Escalation - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil’s Plunge Below $100 Doesn’t Mean Markets Are Out of Jeopardy - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "India's ONGC hopes to get rights to operate 2 Venezuelan oil projects in six months - Reuters"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "FGE NexantECA Sees Slim Chance of U.S.-Iran Deal"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "FGE NexantECA Sees Slim Chance of U.S.-Iran Deal - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "One seafarer killed in missile attack on tanker in Gulf - The Jerusalem Post"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms - CNBC"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "OPEC Output Neared Pre-War Levels on Saudi Rebound, Survey Shows - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Kyiv Hits Sixth Russian Oil Plant in a Week as Campaign Picks Up - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil drops 7% as Iran signals openness to peace talks - Reuters"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Trump’s Iran Strategy Reaches a Critical Crossroads After Midterm Defeat"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "OPEC crude oil output is nearing pre-war levels as Saudi Arabia rebounds - Quartz"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Iran says it downed US MQ-1 drone over Qeshm Island - The Jerusalem Post"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Crude Oil Prices Waver on Hopes for a Diplomatic End to Iran War - Barchart.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "GeoPark Assesses Logistics, Liabilities at Venezuelan Oil Field Ahead of Takeover - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil Traders in Talks With US to Get Sanctioned Ships Back to Sea - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Strait of Hormuz disruption ‘to keep oil prices high’ - The Times"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Gas was pricier on this Election Day than any before it — up almost 40% to $4.15 a gallon since the Iran war began - Fortune"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections - CNBC"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Delek CEO Downplays White House Refinery Expansion Announcement - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "Oil prices set for sharp weekly decline despite tanker attacks - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-11-06",
-   "t": "India's ONGC posts higher Q2 profit as surge in crude prices lifts margins - Reuters"
-  },
   {
    "d": "2026-11-07",
    "t": "Oil prices fall as mid-terms signal possible end to Iran war - Oil & Gas Journal"
@@ -1256,6 +1032,14 @@
   {
    "d": "2026-11-09",
    "t": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely - WSJ"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Crude oil plunges as Trump says renewed Iran attacks unlikely - TradingView"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Iraq–US Hormuz Deal Eases Crude Oil Risk Premium via Hormuz - CMB News"
   }
  ]
 }
