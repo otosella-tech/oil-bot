@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "09fe97dfa4f2f64d",
-  "turkisharmys34billionpensionfundenterslibyanoiltrade",
   "705b07ae2e9b703b",
   "commentarywashingtonresetmarketmeltdownandtheiranoilbetthefi",
   "f334a9acda3e5fa9",
@@ -603,7 +601,9 @@
   "9b1af86db2a00b14",
   "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "a57dbf6961782bde",
-  "uaebusinessglobaldemandforgcccrudeoilrecords31pcannualgrowth"
+  "uaebusinessglobaldemandforgcccrudeoilrecords31pcannualgrowth",
+  "1b001e6d1cb2dbbd",
+  "oilpricesfallstayingbelow100astrumpplaysdownnewiranstrikes"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-11-09T09:35:14.963998+02:00",
+ "last_run": "2026-11-09T09:40:18.239488+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1032,6 +1032,10 @@
   {
    "d": "2026-11-09",
    "t": "Oil falls as Trump signals restraint on Iran amid fresh Hormuz shipping attacks - Reuters"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil Prices Fall, Staying below $100, as Trump Plays Down New Iran Strikes - WSJ"
   }
  ]
 }
