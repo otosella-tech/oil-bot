@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "092b28e030c1cdcd",
-  "oilpollutionreturnstocoastsofqeshmandhormuzislands",
   "ef4d9c83ca7fde99",
   "oilpricesrisebrentnears100whileuscrudehits9166",
   "4e15ec601d1cdd31",
@@ -603,7 +601,9 @@
   "4f3af0e15746fd89",
   "crudeoilshowsmixedsignalsanalysis09112026",
   "53617b6540d302ea",
-  "usgainsaccessto637billionbarrelsofoilreservesinvenezuela"
+  "usgainsaccessto637billionbarrelsofoilreservesinvenezuela",
+  "42c5b9a2321363be",
+  "crudeoilpricesfallforseconddayasmarkethopesfordiplomaticreso"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-11-09T06:50:18.653420+02:00",
+ "last_run": "2026-11-09T06:55:14.843247+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1000,6 +1000,10 @@
   {
    "d": "2026-11-09",
    "t": "Targeted by Sana'a's Strikes... The Abqaiq Oil Facilities: A Main Artery for Saudi Crude Production and Export - الخبر اليمني"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC"
   }
  ]
 }
