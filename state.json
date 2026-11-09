@@ -4,8 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "ab265d19627b7ed2",
-  "oilfuturesslideasmarketholdsouthopesformiddleeastdiplomacy",
   "086eddcf387566e1",
   "americasnuclearrevivalisrunningintoafuelsupplywall",
   "72bddbef26b3db9d",
@@ -603,7 +601,9 @@
   "767bb6b091bc558c",
   "birdsreturntowaterfowlparkafteroilvandalism",
   "00cce6ab38ed7d77",
-  "middleeastoilpricewarheraldspostconflictglutbousso"
+  "middleeastoilpricewarheraldspostconflictglutbousso",
+  "19c221111491a7b8",
+  "oilpricestumblefortheweekasinvestorsweighiranconflictriskaft"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T15:30:23.821732+02:00",
+ "last_run": "2026-11-09T15:35:16.102507+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1144,6 +1144,10 @@
   {
    "d": "2026-11-09",
    "t": "Oil Sinks to $94 as Iran’s $8 Billion Hormuz Deal Heads to Trump"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections - CNBC"
   }
  ]
 }
