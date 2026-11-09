@@ -4,10 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "2d41dbb2a13108a9",
-  "brentcrudejumpssettlesupover3aftertankerattacks",
-  "8801a92f7f78a6a1",
-  "woodmackenzie20ofglobalrefiningcapacityfacesrisingclosureris",
   "4679c4d9dae809a8",
   "threeoiltankersstrikeminescatchfireinstraitofhormuz",
   "6db6c14072c585a9",
@@ -603,7 +599,11 @@
   "57e0e3acc17f87a3",
   "whysudanscivilwarisbecomingausnationalsecuritythreat",
   "f9592d0084089f43",
-  "sableoffshorewarnsitmaynotsurvivenext12months"
+  "sableoffshorewarnsitmaynotsurvivenext12months",
+  "9c68e80e6372e925",
+  "oilextendsdroponhopesofdiplomaticprogressiniranwar",
+  "a32125e4337a8844",
+  "cmewticrudeoilfutureshit2monthlowsasgeopoliticaltensionsease"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T23:05:19.244553+02:00",
+ "last_run": "2026-11-09T23:10:19.012107+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1248,6 +1248,10 @@
   {
    "d": "2026-11-09",
    "t": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war - CNBC"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil Extends Drop on Hopes of Diplomatic Progress in Iran War - Energy Connects"
   }
  ]
 }
