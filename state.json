@@ -4,8 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "02e966c32cbf4491",
-  "atcaliforniaslosthillsoilfield65000solarpanelsgeneratemostof",
   "44d64c578610bad9",
   "digitaltwinfortheoilgas",
   "3b20b4e479b87ba2",
@@ -603,7 +601,9 @@
   "6c0065512ef3f304",
   "goldgainsasloweroilpriceseaseinflationfears",
   "1d60a8fed7f0056d",
-  "stockmarketsendhigheramideasingcrudeoilpricesbuyinginbanks"
+  "stockmarketsendhigheramideasingcrudeoilpricesbuyinginbanks",
+  "bc27a44a98863737",
+  "currentpriceofoilasofnov92026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T14:45:19.079410+02:00",
+ "last_run": "2026-11-09T14:50:19.640345+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
