@@ -4,8 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "7176eb45ad67f82b",
-  "pennsylvaniaweeklyoilgascompliancesnapshotoct31tonov6",
   "5d155d38c104d5a2",
   "warsmayspurfasterelectrification",
   "ac04797e3982b87f",
@@ -603,7 +601,9 @@
   "20e01431808b15ff",
   "oilfuturescrudeslidesastrumpsaysiranescalationunlikely",
   "81a68e2aa04c4182",
-  "crudeoilpriceforecastoilfalls4asusiransignaltalkstechnicalsp"
+  "crudeoilpriceforecastoilfalls4asusiransignaltalkstechnicalsp",
+  "9f3190a59b3cefee",
+  "seedoilfearmongeringdrives1billionsurgeinussnackfoodspending"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T20:00:35.556969+02:00",
+ "last_run": "2026-11-09T20:05:15.221362+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-11-09",
    "t": "Saudi East-West oil pipeline hit in Medina region, state media reports - Reuters"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Seed Oil ‘Fearmongering’ Drives $1 Billion Surge in US Snack-Food Spending - Bloomberg.com"
   }
  ]
 }
