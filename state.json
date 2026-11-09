@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "a9f7622316b72da8",
-  "brentoilpricebenchmarksetforbiggestweeklydropsince2020",
-  "516e742c4087ba8a",
-  "asiasfueloilmarketsignalshopesofusirandeescalation",
   "f6fc2e2b2cf7c399",
   "oilsplungebelow100doesntmeanmarketsareoutofjeopardy",
   "88745862ae245208",
@@ -603,7 +599,11 @@
   "b520f2d834318e30",
   "preciousmetalsstartweekwithgainsascrudeoilpricesdecline",
   "29b925e59c47c2bb",
-  "russiasaveragecrudeoilexportsriseto365millionbarrelsperdayth"
+  "russiasaveragecrudeoilexportsriseto365millionbarrelsperdayth",
+  "a90a3d2b2f6b0f34",
+  "oilfallsastrumpplaysdownprospectofnewstrikesoniran",
+  "ad482dea812fe4ed",
+  "crudeoilmarketanalysisfuturescurveopecandmacrorisks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-11-09T10:25:14.361987+02:00",
+ "last_run": "2026-11-09T10:30:23.825379+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1040,6 +1040,14 @@
   {
    "d": "2026-11-09",
    "t": "Drones reportedly hit one of Russia's largest oil refineries near St. Petersburg - Hromadske"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil falls as Trump plays down prospect of new strikes on Iran - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Crude Oil Market Analysis – Futures Curve, OPEC+ and Macro Risks - CMB News"
   }
  ]
 }
