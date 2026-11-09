@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "abada3ce42e6a3c9",
-  "leadersofpowerfulenergyindustrypreparetoworkwithdemocratonte",
-  "94565eaa3a30b6ea",
-  "currentpriceofoilasofnov62026",
   "29fc02a163da00a2",
   "willweeversee3gasintexasagain",
   "016966eb031408ad",
@@ -603,7 +599,11 @@
   "f4cbcb4f2f2763f8",
   "globalmarketsrallyamidtechgainscoolingoilpricesatstartofneww",
   "7e207f7d5ef63a32",
-  "iraqcutsdecemberbasrahmediumcrudeoilpricetoasia"
+  "iraqcutsdecemberbasrahmediumcrudeoilpricetoasia",
+  "ba519cd9b0aac6e9",
+  "indiasongchopestogetrightstooperate2venezuelanoilprojectsins",
+  "6368ab0ccb1dbd35",
+  "crudeoilpricescrashnearly2aftertrumprulesoutfreshattackonira"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-11-09T10:50:19.186622+02:00",
+ "last_run": "2026-11-09T10:55:15.251829+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1048,6 +1048,14 @@
   {
    "d": "2026-11-09",
    "t": "Crude Oil Market Analysis – Futures Curve, OPEC+ and Macro Risks - CMB News"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "India's ONGC hopes to get rights to operate 2 Venezuelan oil projects in six months - Reuters"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Crude oil prices crash nearly 2% after Trump rules out fresh attack on Iran - Daily Post Nigeria"
   }
  ]
 }
