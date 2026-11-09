@@ -4,12 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "12ba5fbb1e47fea6",
-  "onekilledandthreeinjuredinstrikesonukraineasblazereportedatr",
-  "f4458d45401acc74",
-  "crudeoilroutpressuressouthamericansoybeanoilprices",
-  "17e34d5461850a75",
-  "1boffshorecrudeoilexportterminalwinspermitwillconvertpipelin",
   "f6c674c5438361fc",
   "globalcrudeoilpricesdropuselectionsresultswtibrent2026archiv",
   "bd0fba303a2bc6f1",
@@ -603,7 +597,13 @@
   "1a680251fd481aa1",
   "brentcrudeoilisexperiencingchoppytradinganalysis09112026",
   "5525291456338116",
-  "rupeegains24paiseto9374againstusdollarascrudeoilpricesease"
+  "rupeegains24paiseto9374againstusdollarascrudeoilpricesease",
+  "8db05eda1c5cf61c",
+  "oilextendsbiggestweeklydeclinesince2020withfocusoniran",
+  "b05a36f9372638f0",
+  "oilfuturescrudeeasesastrumpsaysiranescalationunlikely",
+  "e8912fa105b65f57",
+  "globaldemandforgcccrudeoilrecordsaverageannualgrowthof31gccs"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-11-09T08:25:14.620408+02:00",
+ "last_run": "2026-11-09T08:30:25.222935+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1016,6 +1016,10 @@
   {
    "d": "2026-11-09",
    "t": "Middle East latest: Trump plays down prospect of new strikes on Iran - The National"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil Extends Biggest Weekly Decline Since 2020 With Focus on Iran - Bloomberg.com"
   }
  ]
 }
