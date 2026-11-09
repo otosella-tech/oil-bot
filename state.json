@@ -4,8 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "d1c0842f0c4b2597",
-  "trumpsoilpricechaosisntoveryet",
   "c5fe91363023da12",
   "ustargetscubasoiltankerfleetinnewsanctionscrackdown",
   "024d0684d9cc2a20",
@@ -603,7 +601,9 @@
   "749dacf77b227a19",
   "centralasiaconfrontsgrowingthreatofai",
   "ad9e38736ac1bbe7",
-  "oilpricesdropover5onhopesofusirantalks"
+  "oilpricesdropover5onhopesofusirantalks",
+  "1a2c49e7d5ab8f3d",
+  "oilsnextmovecouldbeabruptaspeacetalksstallandsupplyremainsco"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T21:05:15.889455+02:00",
+ "last_run": "2026-11-09T21:10:19.288088+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
