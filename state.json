@@ -4,8 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "7cfe7a229d3caa98",
-  "whytheiranwarhasspurredbothcleanenergyandfossilfuels",
   "87676720e5117b08",
   "chinareducesitscoemissionsby31duetoadropincrudeoilconsumptio",
   "eccc098632bcded4",
@@ -603,7 +601,9 @@
   "e661419d2bd5775d",
   "usequityindexesrecoverpostelectionlossesasgrowthsectorsrally",
   "cc038cc376c818b5",
-  "stocksjumpasoiltumblesnvidiafallsamidinternalprobe"
+  "stocksjumpasoiltumblesnvidiafallsamidinternalprobe",
+  "be66066597c42c54",
+  "asianstockstorallyonustechsurgeoilslumpmarketswrap"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-10",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-10T00:45:19.441055+02:00",
+ "last_run": "2026-11-10T00:50:18.673575+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1040,6 +1040,10 @@
   {
    "d": "2026-11-10",
    "t": "Iraq–US Hormuz Deal Eases Crude Oil Risk Premium via Hormuz - CMB News"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap - Bloomberg.com"
   }
  ]
 }
