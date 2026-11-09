@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "6414493ae22057af",
-  "indianrupeestrengthenspast94asoilslidesforeigninflowsreturn",
-  "85bc0d185822c710",
-  "usenergymarketrecapoctober",
   "33bda7e827c1b861",
   "asiafacesaireckoningpostmidtermswithsilverliningonoil",
   "c2a21bff80b78949",
@@ -603,7 +599,11 @@
   "17e34d5461850a75",
   "1boffshorecrudeoilexportterminalwinspermitwillconvertpipelin",
   "05db925f27ad4454",
-  "petroldieselpricetodaycrudeoildropsbelow98ratesunchanged"
+  "petroldieselpricetodaycrudeoildropsbelow98ratesunchanged",
+  "bd0fba303a2bc6f1",
+  "texasoilindustrywelcomesrailroadcommissionerjonrosenthal",
+  "0fd676a1a3b8b7f8",
+  "dronesattackrussiassecondlargestoilrefinerysparkingfirephoto"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 45
+  "count": 47
  },
- "last_run": "2026-11-09T08:35:16.253437+02:00",
+ "last_run": "2026-11-09T08:40:21.669225+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1024,6 +1024,10 @@
   {
    "d": "2026-11-09",
    "t": "Brent crude settles near $118 as US-Iran military uncertainty and Strait of Hormuz tanker attacks push oil to a fourth consecutive monthly gain - Energies Media"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Drones attack Russia's second-largest oil refinery, sparking fire – photos, video - Українська правда"
   }
  ]
 }
