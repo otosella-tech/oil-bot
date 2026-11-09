@@ -4,12 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "86ced19254f69607",
-  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
-  "1f73ff6e275c317f",
-  "crudeoilpricesselloffmorethan7oniranpeacetalkhopesaheadofusm",
-  "42673213c2246a30",
-  "theoilshockismakinggovernmentdebtmoredangerous",
   "de0119e7579fdd56",
   "whyspainistaking188000tonnesofoliveoiloffthemarket",
   "25d865fb69d0c986",
@@ -603,7 +597,13 @@
   "2e1c1a15dd657cf8",
   "ftse100rises040asminingsharesadvanceonhighermetalpriceswhile",
   "17d3e31b2f0feed2",
-  "uptop17lforgasolinep4lfordieselrollbacksetnov10maniladomesti"
+  "uptop17lforgasolinep4lfordieselrollbacksetnov10maniladomesti",
+  "576d1b0e2031610d",
+  "goldgainsasloweroilpricestemperinflationfearsusinflationinfo",
+  "19676a4b2091929d",
+  "irandeescalationcutbrentwtispreadto706underpricingsupplyrisk",
+  "dad9775e7c84cc1f",
+  "ukrainianhitsrussiassecondlargestoilrefineryinovernightdrone"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T11:46:35.473102+02:00",
+ "last_run": "2026-11-09T11:50:18.846130+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1072,6 +1072,14 @@
   {
    "d": "2026-11-09",
    "t": "Oil falls as Trump signals restraint on Iran amid fresh Hormuz attacks - RTE.ie"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Iran De-escalation Cut Brent-WTI Spread to $7.06, Underpricing Supply Risk - Crux Investor"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Ukrainian hits Russia's second-largest oil refinery in overnight drone attack, Russian governor says - The Kyiv Independent"
   }
  ]
 }
