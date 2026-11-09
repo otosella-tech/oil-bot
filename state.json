@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "f6a1ab7495b05c28",
-  "oildrops7asiransignalsopennesstopeacetalks",
   "9a699272277ce03a",
   "currentpriceofoilasofnovember62026",
   "8a350efad9d7d3f1",
@@ -603,7 +601,9 @@
   "1247602027baa8e0",
   "petrolpricescouldfallascrudeoilplungesbelow100abarrel",
   "ef1fa49a71c16689",
-  "nordicpowerpricescouldsoarthiswinterashydropowerreservesplun"
+  "nordicpowerpricescouldsoarthiswinterashydropowerreservesplun",
+  "20b7bb8d6bb39121",
+  "oilpricesfallstayingbelow100aftertrumpdownplaysprospectofnew"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T12:25:19.009647+02:00",
+ "last_run": "2026-11-09T12:30:24.420184+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1088,6 +1088,10 @@
   {
    "d": "2026-11-09",
    "t": "Nordic Power Prices Could Soar This Winter as Hydropower Reserves Plunge"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil Prices Fall, Staying Below $100, After Trump Downplays Prospect of New Iran Strikes - WSJ"
   }
  ]
 }
