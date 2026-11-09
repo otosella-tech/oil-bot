@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "085c04fb0b29b642",
-  "frequentaccidentsinthegulfcombinedwithinventorydrawsreported",
   "c42afd7b45a158d0",
   "oiltumblesbelow100onpostelectionpeacehopes",
   "185392463b59a7e0",
@@ -603,7 +601,9 @@
   "617fbee081c8b0bc",
   "karoonenergysaysbrazilextendstemporarycrudeoilexporttax",
   "0957b3ed683f48fa",
-  "oilfallsonopenastrumpsaysfreshiranattacksunlikely"
+  "oilfallsonopenastrumpsaysfreshiranattacksunlikely",
+  "199ff890f6956ccf",
+  "oilreboundstoward100asdemocratssweeprattlesenergystocks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 9
+  "count": 11
  },
- "last_run": "2026-11-09T02:30:22.877478+02:00",
+ "last_run": "2026-11-09T02:35:15.269362+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -964,6 +964,10 @@
   {
    "d": "2026-11-09",
    "t": "Oil falls on open as Trump says fresh Iran attacks 'unlikely' - Reuters"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil Rebounds Toward $100 as Democrats' Sweep Rattles Energy Stocks - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
