@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "dc6606475ff2d6ce",
-  "whathappenedtotherockefellerfortuneafterstandardoil",
   "7d9fb074a923a7cb",
   "oilpricesbouncebackbrentnears100afterhittingamorethantwomont",
   "14ccf426c2040f79",
@@ -603,7 +601,9 @@
   "7d71cd006199a507",
   "rupeerises5paiseto9393againstusdollaramidoilease",
   "757b8e5457ad0918",
-  "aldhafrapetroleumawardsexcelastraaed1billionhalibaproducedwa"
+  "aldhafrapetroleumawardsexcelastraaed1billionhalibaproducedwa",
+  "0eee29ae48c57223",
+  "theoilslumphasgonetoofarwherepricescouldgonext"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T13:00:31.316946+02:00",
+ "last_run": "2026-11-09T13:05:15.338295+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
