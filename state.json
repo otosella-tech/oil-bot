@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "08793ea3c6a3a53a",
-  "kyivhitssixthrussianoilplantinaweekascampaignpicksup",
   "49f7221d5978db34",
   "energytransferthemarketissellingtheoilnotthepipes",
   "f6a1ab7495b05c28",
@@ -603,7 +601,9 @@
   "4055904906638fb8",
   "aftertrumpsstatementoilpricesfallsharply",
   "395c05414c5448f1",
-  "adeswinsthreeyearongccontractsfortwojackuprigsinindia"
+  "adeswinsthreeyearongccontractsfortwojackuprigsinindia",
+  "1247602027baa8e0",
+  "petrolpricescouldfallascrudeoilplungesbelow100abarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T12:10:21.186693+02:00",
+ "last_run": "2026-11-09T12:15:19.610416+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
