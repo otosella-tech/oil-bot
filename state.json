@@ -4,12 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "25d865fb69d0c986",
-  "opecoutputnearedprewarlevelsonsaudireboundsurveyshows",
-  "90b64d10958c50f0",
-  "oilpricescontinuetofallasdemocraticsweepshakesenergymarkets",
-  "fbbb3d5a247721e3",
-  "europesgridspendingisup155since2019",
   "08793ea3c6a3a53a",
   "kyivhitssixthrussianoilplantinaweekascampaignpicksup",
   "49f7221d5978db34",
@@ -603,7 +597,13 @@
   "dad9775e7c84cc1f",
   "ukrainianhitsrussiassecondlargestoilrefineryinovernightdrone",
   "86ced19254f69607",
-  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017"
+  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
+  "4d95e3113375ae7e",
+  "ukrainestrikesrussiassecondlargestoilrefineryas113droneshitl",
+  "4055904906638fb8",
+  "aftertrumpsstatementoilpricesfallsharply",
+  "395c05414c5448f1",
+  "adeswinsthreeyearongccontractsfortwojackuprigsinindia"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T12:05:15.337105+02:00",
+ "last_run": "2026-11-09T12:10:21.186693+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1080,6 +1080,10 @@
   {
    "d": "2026-11-09",
    "t": "Ukrainian hits Russia's second-largest oil refinery in overnight drone attack, Russian governor says - The Kyiv Independent"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Ukraine Strikes Russia’s Second-Largest Oil Refinery as 113 Drones Hit Leningrad Region - Kyiv Post"
   }
  ]
 }
