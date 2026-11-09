@@ -4,18 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "7f31091324d488e1",
-  "trump",
-  "ba2587edae3610dc",
-  "energynewsbeatweeklyrigreportcomparingbakerhughesenverusandw",
-  "75a1a3ce4488ae36",
-  "uaemullsthirdcrudeoilpipelinetoavoidstraitofhormuz",
-  "9a293964ff73814c",
-  "crudeoildxyoutlookgeopoliticalriskshaltselloffsinthedollaran",
-  "eab0fa5de629a713",
-  "depspillofjust1barrelofconventionalcrudeoilfromstoragetanksi",
-  "4ee6dcdf5a3a485a",
-  "13500birdskilledinoiltankerwrecksonrussiascoastandmorethan10",
   "9b9635cf4f1d3425",
   "whentheoilcompaniesleavewhopays",
   "e27bf64e79ba75d5",
@@ -603,7 +591,19 @@
   "8c28599848a9b8ef",
   "thecareercenterforoilgasprofessionals",
   "7c44a1df63c70fc6",
-  "oilsinksasirans8billionhormuzdealheadstothewhitehouse"
+  "oilsinksasirans8billionhormuzdealheadstothewhitehouse",
+  "fc2ccb0f6c370344",
+  "saudipipelineattackedasopecoutputclimbsto90ofpre",
+  "58fe65617c30ad7f",
+  "trumpsoilpricedilemmachina",
+  "ae3b92a62b03a4e2",
+  "crudeoilfallsover3nrgenergysharesjumpafterstrongq3results",
+  "bc92966389bac875",
+  "saudipipelineattackedasopecoutputclimbsto90ofprewarlevels",
+  "ffc2fe60ef36ca43",
+  "oiltankerratesextendplungestilltradeatveryhighlevels",
+  "89e2cd802f7a0980",
+  "sableoffshoreplunges50plusafteronlycrudecustomerstopspurchas"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T19:15:19.361321+02:00",
+ "last_run": "2026-11-09T19:20:19.758887+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1192,6 +1192,18 @@
   {
    "d": "2026-11-09",
    "t": "Oil Sinks as Iran’s $8 Billion Hormuz Deal Heads to the White House - Energy News Beat"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil Tanker Rates Extend Plunge, Still Trade at Very High Levels - Bloomberg.com"
   }
  ]
 }
