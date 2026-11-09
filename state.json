@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "8726e3312122e27f",
-  "energyaspectsslashesforecastofchinasnovemberdieselexports",
   "af392f571ae9d618",
   "theiranwarisntoverbutoiltradersarealreadypricinginpeace",
   "2830792e988cf1c7",
@@ -603,7 +601,9 @@
   "cfc76cf7c5ee6b64",
   "usstocksriseasoildropoutweighsnvidiawoesmarketswrap",
   "8360f4a8beefbbe5",
-  "uscrudeoilimportsfromvenezuelahitnineyearpeakinjuly2026"
+  "uscrudeoilimportsfromvenezuelahitnineyearpeakinjuly2026",
+  "ae5e86c454651310",
+  "ukrainiandronestrikesetsrussiassecondlargestoilrefineryablaz"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T12:45:19.505166+02:00",
+ "last_run": "2026-11-09T12:50:18.408711+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1092,6 +1092,10 @@
   {
    "d": "2026-11-09",
    "t": "Oil Prices Fall, Staying Below $100, After Trump Downplays Prospect of New Iran Strikes - WSJ"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Ukrainian Drone Strike Sets Russia's Second-Largest Oil Refinery Ablaze - Radio Free Europe/Radio Liberty"
   }
  ]
 }
