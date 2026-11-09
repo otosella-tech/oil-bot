@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "4621363271061888",
-  "tankerfiresinstraitofhormuzimpactoncrudeoilprices",
   "65ca361bc0e3cba3",
   "canadasoildiscountworsensasheavybarrelsrunoutofroom",
   "9a6b6300817f349d",
@@ -603,7 +601,9 @@
   "625c835bd654a281",
   "strathconatoacquiregreenfireincanadianoilsandsdeal",
   "a3d790dd0d6f64d3",
-  "oilsteadiesaftertrumpsignalsrestraintoniranhormuzriskspersis"
+  "oilsteadiesaftertrumpsignalsrestraintoniranhormuzriskspersis",
+  "631394bf3e13ce71",
+  "middleeastlatesttrumpplaysdownprospectofnewstrikesoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-11-09T08:00:30.208019+02:00",
+ "last_run": "2026-11-09T08:05:14.601948+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1012,6 +1012,10 @@
   {
    "d": "2026-11-09",
    "t": "Oil steadies after Trump signals restraint on Iran, Hormuz risks persist - Reuters"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Middle East latest: Trump plays down prospect of new strikes on Iran - The National"
   }
  ]
 }
