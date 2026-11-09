@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "f9b762ec15364fc5",
-  "80oddsofrenewedmilitaryattackiniranoilriskpremiumtoheadhighe",
-  "38dff127167837a7",
-  "seismicbluewavetriggersthesinkingofoilpricesenergystocksandt",
   "9dcb946a1f0e358a",
   "oilpricesriseasinvestorsweighrenewedusiranconflictrisksafter",
   "02fd356a4ac9f709",
@@ -603,7 +599,11 @@
   "b86ad36fef6b5e3a",
   "kimsilbermanfuelpricesmayremainhigherforlonger",
   "e30ec10e622f2295",
-  "250kilosofoilwasterecoveredafterngcpcableleakinleyte"
+  "250kilosofoilwasterecoveredafterngcpcableleakinleyte",
+  "dc8a2e26b83e8d33",
+  "oilfallsastrumpsaysnewiranattacksunlikely",
+  "0798d424a09364df",
+  "chinaproducerinflationhits4yearhighasoilcostsbite"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 19
+  "count": 21
  },
- "last_run": "2026-11-09T05:10:18.527684+02:00",
+ "last_run": "2026-11-09T05:15:19.270309+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -984,6 +984,10 @@
   {
    "d": "2026-11-09",
    "t": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says - Reuters"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil falls as Trump says new Iran attacks 'unlikely' - Reuters"
   }
  ]
 }
