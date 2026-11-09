@@ -4,8 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "5074b4c47d72ff52",
-  "3oilstocksretailinvestorsarewatchingascrudepricesswing",
   "0dbd97ac718b7677",
   "washingtonmademoscowapariahnowatankerofrussiandieselisheaded",
   "e44065b29f0a9c2a",
@@ -603,7 +601,9 @@
   "2b5252d221602258",
   "oilpricesfallonhopesforpeacebetweenusandiran",
   "adce13401bd73beb",
-  "imowarnsofmountinghumantollasattacksoncommercialshippingcont"
+  "imowarnsofmountinghumantollasattacksoncommercialshippingcont",
+  "8de39c7cf3375a2d",
+  "brentcrudeoilfuturestumbleover5to8125perbarrel"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T20:35:16.797703+02:00",
+ "last_run": "2026-11-09T20:40:19.685564+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
