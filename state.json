@@ -4,10 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "7ec250e62e0d0d5c",
-  "crudegainsonworriesaboutrenewedusattacksoniran",
-  "656b1f606a5b5f0d",
-  "crudeoilpricesplummetinhopesofaquickendtoiranwar",
   "d3de34f26aed65a7",
   "usnonfarmpayrollsfarexceedexpectationscrudeoilweeklydropover",
   "fbdcea85f7c2b09e",
@@ -603,7 +599,11 @@
   "e9499263f4a1eae1",
   "usstockfuturesadvanceasoilpricesslideandinvestorsawaitinflat",
   "918d0040db538686",
-  "theoilyoucannotborrow"
+  "theoilyoucannotborrow",
+  "e93c7207cb4289af",
+  "straitofhormuztankertrafficisthetestfornormaloilsupply",
+  "6e76b082757b7e26",
+  "usfuturesclimbnvidiaslidesamidburgeoninginvestigationinvolvi"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T16:45:19.784954+02:00",
+ "last_run": "2026-11-09T16:50:18.637137+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1152,6 +1152,10 @@
   {
    "d": "2026-11-09",
    "t": "Iran Moves to Control Oil Terminals in China, Leak Shows"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Strait of Hormuz Tanker Traffic Is the Test for Normal Oil Supply - StoneX"
   }
  ]
 }
