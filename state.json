@@ -4,12 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "86e1c338b3af54f8",
-  "oiltraderswantustoreleasesanctionedtankersasfreightcostssoar",
-  "05f5b9b163f7bc62",
-  "theusoilsectorsroleinrestrainingprices",
-  "19c221111491a7b8",
-  "oilpricestumblefortheweekasinvestorsweighiranconflictriskaft",
   "ab265d19627b7ed2",
   "oilfuturesslideasmarketholdsouthopesformiddleeastdiplomacy",
   "086eddcf387566e1",
@@ -603,7 +597,13 @@
   "df3f7f2268faa45d",
   "riskonopenasoildropsnvdaslumps",
   "13adaaf79908aab5",
-  "marketwrapstrongbankingsectorsharpdropinoil"
+  "marketwrapstrongbankingsectorsharpdropinoil",
+  "fa90edd46ee54f8b",
+  "oilsinksto94asirans8billionhormuzdealheadstotrump",
+  "767bb6b091bc558c",
+  "birdsreturntowaterfowlparkafteroilvandalism",
+  "00cce6ab38ed7d77",
+  "middleeastoilpricewarheraldspostconflictglutbousso"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T15:25:14.107285+02:00",
+ "last_run": "2026-11-09T15:30:23.821732+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1140,6 +1140,10 @@
   {
    "d": "2026-11-09",
    "t": "Oil Prices Fall Below $90 as Trump Signals Reduced Risk of New Iran Attacks — Middle East Supply Recovery Pressures Crude Markets - EnergyNow.com"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil Sinks to $94 as Iran’s $8 Billion Hormuz Deal Heads to Trump"
   }
  ]
 }
