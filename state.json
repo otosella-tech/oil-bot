@@ -4,12 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "122b8eeaee222161",
-  "oilpricesfallasmidtermssignalpossibleendtoiranwar",
-  "9d770731c5ce2df2",
-  "oilhuntinarcticrefugeisonholduntilatleastmidjanuaryalaskadev",
-  "2d4a09cee7ee3c1d",
-  "energybriefsfallingoilpricesandiranslatestmove",
   "7ec250e62e0d0d5c",
   "crudegainsonworriesaboutrenewedusattacksoniran",
   "656b1f606a5b5f0d",
@@ -603,7 +597,13 @@
   "6956e99d558ddbd1",
   "usstocksrallyascrudeoilpricesdropevenasnvidiasinks",
   "5a6dee2aab386d7e",
-  "thedollarspowernevercamefromoil"
+  "thedollarspowernevercamefromoil",
+  "5f766c08a1fd3f51",
+  "usstocksrallyascrudeoilpricesdropevenasnvidiasinksnationalne",
+  "e9499263f4a1eae1",
+  "usstockfuturesadvanceasoilpricesslideandinvestorsawaitinflat",
+  "918d0040db538686",
+  "theoilyoucannotborrow"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T16:40:18.450827+02:00",
+ "last_run": "2026-11-09T16:45:19.784954+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
