@@ -4,12 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "2f0a6d04e0c4b22e",
-  "foragersandfarmersarehuntingforacookingoilreplacementinpasfo",
-  "168c70e5527fef35",
-  "devonenergystockandotheroilproducersfacinginflationpressure",
-  "defaffbb3d032833",
-  "brentcrudecapsbiggestweeklydropsincepandemicaswarpremiumbegi",
   "c25561902c6c13cb",
   "historysaysenergyledallsectorsinthelastbearmarkethereswhatsd",
   "3f3571bb5d60411d",
@@ -603,7 +597,13 @@
   "fae684eeac60e00f",
   "oilpricestumblepumppricesfollow",
   "6ca5c8f1cfa130a6",
-  "sableoffshoresocplunges52afterbuyersuspendscrudeoilpurchases"
+  "sableoffshoresocplunges52afterbuyersuspendscrudeoilpurchases",
+  "bbc2dc9e5673f23c",
+  "theaipowergrabthatcouldupendamericaselectricityindustry",
+  "3eb1a350afc7e0b0",
+  "oilfallsalmost5astrumpsignalsrestraintoniran",
+  "a32f239e72b48c59",
+  "oiltankerratesdropbutremainhighimpactingcrudeoilmarketsentim"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T20:11:08.354020+02:00",
+ "last_run": "2026-11-09T20:21:08.129527+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-11-09",
    "t": "Sable Offshore (SOC) Plunges 52% After Buyer Suspends Crude Oil Purchases Amid Refinery Upgrades - GuruFocus"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil falls almost 5% as Trump signals restraint on Iran - Reuters"
   }
  ]
 }
