@@ -4,10 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "07f5a71ff4d31259",
-  "crudeoilpricesreboundasukraineattacksrussianrefineries",
-  "0ab1235d6d7e252a",
-  "guyanasoilboomcouldeasetheglobalsupplycrunch",
   "7176eb45ad67f82b",
   "pennsylvaniaweeklyoilgascompliancesnapshotoct31tonov6",
   "5d155d38c104d5a2",
@@ -603,7 +599,11 @@
   "db059e65dfba78e2",
   "oilslipsbelow100astrumpplayeddownfurtheriranstrikes",
   "d9154c098ca2ea5c",
-  "saudieastwestoilpipelinehitinmedinaregionstatemediareports"
+  "saudieastwestoilpipelinehitinmedinaregionstatemediareports",
+  "20e01431808b15ff",
+  "oilfuturescrudeslidesastrumpsaysiranescalationunlikely",
+  "81a68e2aa04c4182",
+  "crudeoilpriceforecastoilfalls4asusiransignaltalkstechnicalsp"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T19:50:19.408214+02:00",
+ "last_run": "2026-11-09T19:55:16.371507+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
