@@ -4,10 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "60f5ccdd8c13649a",
-  "wallstreetsenergytransitionfundsarepackedwithnaturalgas",
-  "c7e61272b00f1277",
-  "opinionforoilmarketstrumpisanythingbutalameduck",
   "122b8eeaee222161",
   "oilpricesfallasmidtermssignalpossibleendtoiranwar",
   "9d770731c5ce2df2",
@@ -603,7 +599,11 @@
   "58f8200c4ccd262e",
   "sableoffshoresharesfall75asoilsalesdisruptionaddstoworkingca",
   "79f87bef75a8a9d6",
-  "iranmovestocontroloilterminalsinchinaleakshows"
+  "iranmovestocontroloilterminalsinchinaleakshows",
+  "6956e99d558ddbd1",
+  "usstocksrallyascrudeoilpricesdropevenasnvidiasinks",
+  "5a6dee2aab386d7e",
+  "thedollarspowernevercamefromoil"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T16:35:15.561549+02:00",
+ "last_run": "2026-11-09T16:40:18.450827+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
