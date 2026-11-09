@@ -4,8 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "5e14d72c100b41c1",
-  "theusspent50yearstryingtoescapeoilshockstheystillupendelecti",
   "ff1c5afd3ab97c57",
   "ongcmovestotakeovervenezuelanoilfieldsrecover500million",
   "ff9c9fa3aaba239d",
@@ -603,7 +601,9 @@
   "071b0f46d34af309",
   "fireeruptsatkirishirefineryafter81dronesreportedoverleningra",
   "4d3d88510e064739",
-  "tsxfuturesclimbassofteroileasesinflationworriesusinflationda"
+  "tsxfuturesclimbassofteroileasesinflationworriesusinflationda",
+  "eeefe9009ebc09cb",
+  "iranshiddenoilnetworkinchinaleakedletterdetailstehransstrate"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T14:15:18.572524+02:00",
+ "last_run": "2026-11-09T14:20:18.792609+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1120,6 +1120,10 @@
   {
    "d": "2026-11-09",
    "t": "Fire Erupts at Kirishi Refinery After 81 Drones Reported Over Leningrad Region - UNITED24 Media"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Iran’s hidden oil network in China: Leaked letter details Tehran’s strategy to bypass US sanctions - The Times of India"
   }
  ]
 }
