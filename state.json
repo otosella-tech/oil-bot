@@ -4,8 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "9dcb946a1f0e358a",
-  "oilpricesriseasinvestorsweighrenewedusiranconflictrisksafter",
   "02fd356a4ac9f709",
   "nominationssubmittedtofrackmonroelakewildlifearea",
   "478c9604eba0e6fa",
@@ -603,7 +601,9 @@
   "dc8a2e26b83e8d33",
   "oilfallsastrumpsaysnewiranattacksunlikely",
   "0798d424a09364df",
-  "chinaproducerinflationhits4yearhighasoilcostsbite"
+  "chinaproducerinflationhits4yearhighasoilcostsbite",
+  "39b127ed4dcfa3a9",
+  "oilpricesdipastrumpsaysnewiranattacksunlikelyiftalksprogress"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-11-09T05:15:19.270309+02:00",
+ "last_run": "2026-11-09T05:20:18.883687+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -988,6 +988,10 @@
   {
    "d": "2026-11-09",
    "t": "Oil falls as Trump says new Iran attacks 'unlikely' - Reuters"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil prices dip as Trump says new Iran attacks ‘unlikely’ if talks progress - Yahoo Finance"
   }
  ]
 }
