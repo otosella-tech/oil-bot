@@ -4,8 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "9c0a8b978ed81382",
-  "uscentcominrecentmonthsamericasnavalblockadehaspreventediran",
   "d64126e99534cbe8",
   "howthesenatespermittingbillcouldlockinfossilfuelextractionan",
   "07f5a71ff4d31259",
@@ -603,7 +601,9 @@
   "64957300454d35b5",
   "usequityindexesjumpasgrowthsectorsstagerallyamidslidingcrude",
   "a58d8befdf08ff5f",
-  "crudeoilfuturestumble5asusirandiplomacyhopeseasesupplyfears"
+  "crudeoilfuturestumble5asusirandiplomacyhopeseasesupplyfears",
+  "db059e65dfba78e2",
+  "oilslipsbelow100astrumpplayeddownfurtheriranstrikes"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T19:35:15.575597+02:00",
+ "last_run": "2026-11-09T19:40:19.726558+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-11-09",
    "t": "Oil prices hit 10-week low after Donald Trump says strikes on Iran ‘highly unlikely’ - Financial Times"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil slips below $100 as Trump played down further Iran strikes - Quartz"
   }
  ]
 }
