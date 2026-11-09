@@ -4,14 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "aef2cf1c585fcc18",
-  "geoparkassesseslogisticsliabilitiesatvenezuelanoilfieldahead",
-  "1c404f16f8cc0f35",
-  "spainordersoliveoilmillstoholdbackoutputtoliftprices",
-  "b1cadd347ce8c715",
-  "whathappenedtotherockefellerfortune10turningpointssincestand",
-  "a5dd6f3e85f203d3",
-  "ivetakenanextrajobtopayforheatingoil",
   "871391ddf23bcc09",
   "renewedusirantensioncouldpushoilpast100rapidanenergy",
   "65373e24591ab645",
@@ -603,7 +595,15 @@
   "2af7523a3ff8ca1e",
   "iraqsoilsalestoamericafalltolowestsincethe2003war",
   "b56d04e1a33a5f5b",
-  "wallstreetfuturesriseupto08ascrudeoilpricesdeclinenvidiashar"
+  "wallstreetfuturesriseupto08ascrudeoilpricesdeclinenvidiashar",
+  "8d5957d3609c26d5",
+  "stocksedgeupbutnvidiawoesposeafreshtestoilfalls",
+  "d5a6c5de57db69d7",
+  "ushitsseveraliranoiltankersinresponsetowarshipattack",
+  "de2f03ce62e7d173",
+  "southafricanrandfirmsonsofteroilcoalitiontalksinfocus",
+  "dc1fed134c0e4382",
+  "nasdaq100brentcruderemainunderpressureasusdjpyrangetrades"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T13:30:24.346705+02:00",
+ "last_run": "2026-11-09T13:35:15.323697+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1108,6 +1108,10 @@
   {
    "d": "2026-11-09",
    "t": "Iraq's Oil Sales to America Fall to Lowest Since the 2003 War"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "US Hits Several Iran Oil Tankers in Response to Warship Attack - Insurance Journal"
   }
  ]
 }
