@@ -4,8 +4,6 @@
   "Brent": 94.72
  },
  "seen": [
-  "d3de34f26aed65a7",
-  "usnonfarmpayrollsfarexceedexpectationscrudeoilweeklydropover",
   "fbdcea85f7c2b09e",
   "usgaspricessurge40to415amidiranconflict",
   "e158a87816f71a01",
@@ -603,7 +601,9 @@
   "e93c7207cb4289af",
   "straitofhormuztankertrafficisthetestfornormaloilsupply",
   "6e76b082757b7e26",
-  "usfuturesclimbnvidiaslidesamidburgeoninginvestigationinvolvi"
+  "usfuturesclimbnvidiaslidesamidburgeoninginvestigationinvolvi",
+  "b90f28a3a47e7801",
+  "oilslidesastrumpsignalsrestraintonirandespitefreshshippingat"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-09",
   "count": 60
  },
- "last_run": "2026-11-09T16:50:18.637137+02:00",
+ "last_run": "2026-11-09T16:55:15.166241+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1156,6 +1156,10 @@
   {
    "d": "2026-11-09",
    "t": "Strait of Hormuz Tanker Traffic Is the Test for Normal Oil Supply - StoneX"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil slides as Trump signals restraint on Iran despite fresh shipping attacks - Reuters"
   }
  ]
 }
