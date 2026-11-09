@@ -4,10 +4,6 @@
   "Brent": 97.64
  },
  "seen": [
-  "02ab08a8339dcf65",
-  "adnocexpandslngempirewithmajornewindiasupplydeal",
-  "f47b8657edc2c70b",
-  "sevenstrikesinoneyearrussiasafipskyoilrefineryfacesanotheruk",
   "827cfcdbfdeba3b3",
   "golddropsontrackforbestweekinover2monthsbeforeuspayrolls",
   "4621363271061888",
@@ -603,7 +599,11 @@
   "084d0b5f28d0ba4b",
   "brentcrudeoilpricedeclines",
   "feac74692d0be9da",
-  "crudeoilfuturesoverview"
+  "crudeoilfuturesoverview",
+  "b61420c7158a7e81",
+  "oilpricesfallastrumpsignalsnonewattacksoniran",
+  "625c835bd654a281",
+  "strathconatoacquiregreenfireincanadianoilsandsdeal"
  ],
  "releases_done": {},
  "last_digest": "2026-11-08",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-09",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-11-09T07:45:18.334626+02:00",
+ "last_run": "2026-11-09T07:50:18.647413+02:00",
  "sent_stories": [
   {
    "d": "2026-11-06",
@@ -1004,6 +1004,10 @@
   {
    "d": "2026-11-09",
    "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "Oil Prices Fall as Trump Signals No New Attacks on Iran"
   }
  ]
 }
