@@ -4,8 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "f6beae1f009a2549",
-  "iraqs5millionbpdoilclaimcomplicatesitsopecquotapush",
   "f09e8c85d4ecabdb",
   "andrewzimmernsaysthis13sicilianoliveoilisthebestsupermarketf",
   "1fc8a5ed0789a32d",
@@ -603,7 +601,9 @@
   "1fea55b8fac25525",
   "globalcarbonemissionssettodipin2026afteriranwaroilsurge",
   "3618f4e0130c0407",
-  "heattrappingcarbonpollutiondropsbutscientistscitetheiranwarr"
+  "heattrappingcarbonpollutiondropsbutscientistscitetheiranwarr",
+  "dada7adc6901281a",
+  "theiranwarunexpectedlydrovedowncarbonemissionsthisyear"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-10",
-  "count": 23
+  "count": 25
  },
- "last_run": "2026-11-10T03:25:15.281276+02:00",
+ "last_run": "2026-11-10T03:30:25.057505+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1080,6 +1080,10 @@
   {
    "d": "2026-11-10",
    "t": "Heat-trapping carbon pollution drops, but scientists cite the Iran war rather than energy progress - News4JAX"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "The Iran War Unexpectedly Drove Down Carbon Emissions This Year - The New York Times"
   }
  ]
 }
