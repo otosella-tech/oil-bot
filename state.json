@@ -4,18 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "7457552ca6e42977",
-  "eurusdoilforecasttwotradestowatch",
-  "b46e2e2a6791055a",
-  "oilpricesfellfastwheretheycouldgonext",
-  "0d18bd1e77ffd421",
-  "kyoilwelloperatorfinedsentencedforwaterpollution",
-  "d9e67800197d799f",
-  "iraqoilproductiontargetsetat10millionbpdby2030asbaghdadcourt",
-  "186e374ba44d900a",
-  "ukrainestrikesrussiassecondlargestoilrefineryinovernightdron",
-  "7d71cd006199a507",
-  "rupeerises5paiseto9393againstusdollaramidoilease",
   "757b8e5457ad0918",
   "aldhafrapetroleumawardsexcelastraaed1billionhalibaproducedwa",
   "0eee29ae48c57223",
@@ -603,7 +591,19 @@
   "589e585877c0c181",
   "tribunalhearingsbegininukargentinarowoverfalklandsoilproject",
   "3809d7783cf78e7d",
-  "economiccoerciononceoustediransleaderbutthatwasthe1950sdonte"
+  "economiccoerciononceoustediransleaderbutthatwasthe1950sdonte",
+  "4b521101fff1b8be",
+  "breakingviewscommentaryoilspeacetraderisksarudeawakening",
+  "55931cdb3a7a2a6a",
+  "usreceived12billionfromvenezuelasoilreportshows",
+  "20ca39a04007612c",
+  "dieselpricescouldeaseascrudeoilpricesdrop",
+  "6cbc1a2ad283e007",
+  "oilspillentersalleghenyrivernearwarrendepcitessixviolations",
+  "c89abecb2f28a5e6",
+  "chinacrudeoilimportshitsevenmonthhighinoctober",
+  "7780a2137fcbfbbe",
+  "petrolpricesnearlowestlevelsincemarchasoilpricesfall"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T15:50:20.177102+02:00",
+ "last_run": "2026-11-10T15:55:15.095405+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1212,6 +1212,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil prices dip below $90 as Trump comments fuel Iran peace hopes - Investing.com"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows - The New York Times"
   }
  ]
 }
