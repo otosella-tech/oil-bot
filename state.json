@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "feac74692d0be9da",
-  "crudeoilfuturesoverview",
   "b61420c7158a7e81",
   "oilpricesfallastrumpsignalsnonewattacksoniran",
   "625c835bd654a281",
@@ -603,7 +601,9 @@
   "86afbe42a6f5f58e",
   "oilextendsdropastrumpsaysfurtheriranstrikesunnecessary",
   "e2ef6dc62673376c",
-  "crudeoilmarketupdatefuturescurvesoftensasriskpremiumeases"
+  "crudeoilmarketupdatefuturescurvesoftensasriskpremiumeases",
+  "4dbf46d3f1ea3a1b",
+  "thecommoditiesfeedoilslidesoneasingmiddleeasttensions"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T10:15:21.822730+02:00",
+ "last_run": "2026-11-10T10:20:19.651925+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
