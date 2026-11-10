@@ -4,8 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "4e43d43cc32a0149",
-  "thegulffacesthreechoicesitcannolongeravoid",
   "bac4ab560c7578f5",
   "oildipsagainonirantalkshopesbutphysicalgulfcrudeclimbs",
   "797435f3c33537ec",
@@ -603,7 +601,9 @@
   "4ab8dea419d3c7f0",
   "theuaesdeparturefromopecashiftinstrategicprioritiesformenaec",
   "d5e14c06a301bb04",
-  "erdogansayscrudeoiloutputfromturkeysgabarfieldstoexceed10000"
+  "erdogansayscrudeoiloutputfromturkeysgabarfieldstoexceed10000",
+  "4f9e59d4cd489634",
+  "risingfuelflowsthroughhormuzmayhelpeasestrainedmarket"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-10",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-11-10T07:25:15.054524+02:00",
+ "last_run": "2026-11-10T07:30:24.126120+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1116,6 +1116,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Rising Fuel Flows Through Hormuz May Help Ease Strained Market - Bloomberg.com"
   }
  ]
 }
