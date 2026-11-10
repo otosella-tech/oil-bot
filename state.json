@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "7876083f711ec36b",
-  "oilpricesfallbelow90astrumpsignalsreducedriskofnewiranattack",
-  "c1f09dfbf10ea006",
-  "michigangaspricesfallagainhereswheretheystand",
   "ee4213b332e87120",
   "aaatexasgaspricesfallascrudeoilpricesdecline",
   "df3f7f2268faa45d",
@@ -603,7 +599,11 @@
   "74ded55f4b3dd1e4",
   "ascrudeoilpricesretreatsellsoybeanoilnow",
   "c7519a395c9d4fa1",
-  "strathconacntopartneroncrudebyrailprojecttonorthbc"
+  "strathconacntopartneroncrudebyrailprojecttonorthbc",
+  "41e86f13d27e5532",
+  "currentpriceofoilasofnovember92026",
+  "f45deeb2711c0a3c",
+  "usopensnewroutetodisposeofsanctionedshipsasafricanflaggedtan"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T17:30:26.736705+02:00",
+ "last_run": "2026-11-10T17:35:16.457706+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1244,6 +1244,10 @@
   {
    "d": "2026-11-10",
    "t": "Reuters Survey: OPEC Production Rose in October to 90% of Pre-War Levels - صحيفة مال"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "US opens new route to dispose of sanctioned ships as African-flagged tankers feature in Iran's shadow fleet - Business Insider Africa"
   }
  ]
 }
