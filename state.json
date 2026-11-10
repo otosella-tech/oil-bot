@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "c7ae7ebe90aec1e0",
-  "oilpricesdeclineasiranreviewsqatarproposals",
-  "aac19fbbdf20fff6",
-  "goldsilverriseasirandiplomacypressurescrudedollarweakenskitc",
   "16cf54a0450a781a",
   "globalenergypricesextendlossesasbrentcrudedropsover3",
   "f4dee1905086505f",
@@ -603,7 +599,11 @@
   "4b103ead3dbfb511",
   "usgaspricesfallbelow4forthefirsttimesincejuly",
   "53adea31bbca2b25",
-  "oilfuturescrudeextendslossesasusirantalkseyed"
+  "oilfuturescrudeextendslossesasusirantalkseyed",
+  "ded2daa9cafeddc4",
+  "oilfallstolowestlevelsinceaugust",
+  "a88669d1a97e7ecf",
+  "oilpriceshittwomonthlowsasusdownplaysfurtheriranstrikes"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T18:35:16.105339+02:00",
+ "last_run": "2026-11-10T18:40:22.043876+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1252,6 +1252,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil Sinks to $94 as Iran's $8 Billion Hormuz Deal Heads to Trump - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Oil prices hit two-month lows as US downplays further Iran strikes - Central Oregon Daily"
   }
  ]
 }
