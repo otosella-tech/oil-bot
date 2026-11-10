@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "b61420c7158a7e81",
-  "oilpricesfallastrumpsignalsnonewattacksoniran",
   "625c835bd654a281",
   "strathconatoacquiregreenfireincanadianoilsandsdeal",
   "a3d790dd0d6f64d3",
@@ -603,7 +601,9 @@
   "e2ef6dc62673376c",
   "crudeoilmarketupdatefuturescurvesoftensasriskpremiumeases",
   "4dbf46d3f1ea3a1b",
-  "thecommoditiesfeedoilslidesoneasingmiddleeasttensions"
+  "thecommoditiesfeedoilslidesoneasingmiddleeasttensions",
+  "6f8783c2c993bb73",
+  "oilpricescontinuetofallonhopesofusiranpeacedealtalks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T10:20:19.651925+02:00",
+ "last_run": "2026-11-10T10:25:15.944204+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1148,6 +1148,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil Extends Drop as Trump Says Further Iran Strikes Unnecessary - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Oil prices continue to fall on hopes of US-Iran peace deal talks - Yahoo Finance UK"
   }
  ]
 }
