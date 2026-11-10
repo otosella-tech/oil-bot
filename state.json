@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "42c5b9a2321363be",
-  "crudeoilpricesfallforseconddayasmarkethopesfordiplomaticreso",
-  "2276658248d6d85f",
-  "audiowhypetrolpricesmaytakelongertofallthancrudeoil",
   "e72e3c5bf1cb4519",
   "crudeoilpricetodaybrentslipsbelow99wtinear91astrumpsignalshi",
   "8e215dc54184fc68",
@@ -603,7 +599,11 @@
   "d4ae26f15aa7bca0",
   "crudeoilpricesextendlossesonhopesofeasingmiddleeasttensions",
   "b2aefee6ee480dae",
-  "oilfuturescrudeextendslossesasusirantalkscontinue"
+  "oilfuturescrudeextendslossesasusirantalkscontinue",
+  "5a9c915c7562c777",
+  "saudioiltankerfirmcrossinghormuzwithuscoordination",
+  "488dab0428eae337",
+  "oilpricetodaynovember10crudeoilfallsbelow92astrumpsaysiranwa"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-10",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-11-10T09:10:19.121830+02:00",
+ "last_run": "2026-11-10T09:15:18.095229+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1128,6 +1128,14 @@
   {
    "d": "2026-11-10",
    "t": "LNG Traffic Through Hormuz Hits Highest Level Since Iran War Began"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Saudi Oil Tanker Firm Crossing Hormuz With US Coordination - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Oil Price Today (November 10): Crude oil falls below $92 as Trump says Iran war is effectively over. What - The Economic Times"
   }
  ]
 }
