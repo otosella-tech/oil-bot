@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "e9499263f4a1eae1",
-  "usstockfuturesadvanceasoilpricesslideandinvestorsawaitinflat",
   "918d0040db538686",
   "theoilyoucannotborrow",
   "e93c7207cb4289af",
@@ -603,7 +601,9 @@
   "09b28a3762b4c115",
   "topperformingleveragedinverseetfs11082026",
   "4899e0dbda821ce8",
-  "affordabilityandthecostofoil"
+  "affordabilityandthecostofoil",
+  "af4739f92bfd7018",
+  "nymexoverviewoilfuturesextendlossesonhopesforirandeescalatio"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T19:35:15.852087+02:00",
+ "last_run": "2026-11-10T19:40:21.918581+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
