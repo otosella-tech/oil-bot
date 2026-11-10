@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "8e215dc54184fc68",
-  "oilpricesextendlossesonhopesofusiranbreakthrough",
-  "1f62c88082fca282",
-  "stocktobuyelaracapitalrecommendsthisoilshareamidvolatilityin",
   "cce91c6de933eeb9",
   "chinaslngimportdropmayshiftglobalenergymarketdynamics",
   "d3a9b4718e5724a4",
@@ -603,7 +599,11 @@
   "488dab0428eae337",
   "oilpricetodaynovember10crudeoilfallsbelow92astrumpsaysiranwa",
   "42c5b9a2321363be",
-  "crudeoilpricesfallforseconddayasmarkethopesfordiplomaticreso"
+  "crudeoilpricesfallforseconddayasmarkethopesfordiplomaticreso",
+  "6e5966d5e1fa61d2",
+  "depcitessixviolationsinriveroilspill",
+  "b64ab868a5fe1849",
+  "globalmarketssoaramidtechreboundcoolingoilasalleyesturntousi"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 57
  },
- "last_run": "2026-11-10T09:30:23.530832+02:00",
+ "last_run": "2026-11-10T09:35:15.475166+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
