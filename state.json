@@ -4,14 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "adfd7064bf2e2629",
-  "oilpriceshaveplummetedbrenthasfallenbelow97",
-  "8316a4256b32bffe",
-  "commentarymiddleeastoilpricewarheraldspostconflictglut",
-  "438afdd370830fec",
-  "iraqstrikesusdealtoboostoilexportsthroughhormuz",
-  "707517af452ba4fc",
-  "oilpricesedgeloweraftertrumpremarksoniran",
   "2fdb5a84779dbf8b",
   "congotargets500000bdofoilby2030asitopensupstreamtoinvestors",
   "6a7891eedc01f9a2",
@@ -603,7 +595,15 @@
   "6e7c97efa62305cb",
   "podcastoilswellthatendswell",
   "7e2de393919a001a",
-  "oilfalls2toitslowestlevelsincelateaugustwhatsnext"
+  "oilfalls2toitslowestlevelsincelateaugustwhatsnext",
+  "7bafe056236855ff",
+  "mappingthemarketglobaloilpricescouldextendslide",
+  "89a090dc0195ae80",
+  "fallingoilpricesandbondyieldsofferinvestorssomerelief",
+  "d14e70646322704d",
+  "frenchoilgiantbacksdozensoflobbygroupsfightingnewmethanerule",
+  "9ea6de5148a4ec32",
+  "oilfallsastrumpsignalsrestraintonirandespitefreshshippingatt"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T13:05:15.816411+02:00",
+ "last_run": "2026-11-10T13:10:20.081714+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1188,6 +1188,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil Prices Extend Decline as Trump Signals Pause in Further Military Action Against Iran - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Oil falls as Trump signals restraint on Iran despite fresh shipping attacks - Yahoo Finance"
   }
  ]
 }
