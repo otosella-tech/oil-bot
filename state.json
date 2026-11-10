@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "86ced19254f69607",
-  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
   "4d95e3113375ae7e",
   "ukrainestrikesrussiassecondlargestoilrefineryas113droneshitl",
   "4055904906638fb8",
@@ -603,7 +601,9 @@
   "f23847d4b97da2bc",
   "iranwaroilpricesfallbutusfarmersarestillpayingtheprice",
   "eaf40a62e4625847",
-  "oilpricesdipbelow90astrumpcommentsfueliranpeacehopes"
+  "oilpricesdipbelow90astrumpcommentsfueliranpeacehopes",
+  "c7304547d3905469",
+  "chinaisbuyingoilagainaftermonthsoflivingoffitsstockpiles"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T14:25:15.745242+02:00",
+ "last_run": "2026-11-10T14:30:25.196423+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
