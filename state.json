@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "ae3b92a62b03a4e2",
-  "crudeoilfallsover3nrgenergysharesjumpafterstrongq3results",
   "bc92966389bac875",
   "saudipipelineattackedasopecoutputclimbsto90ofprewarlevels",
   "ffc2fe60ef36ca43",
@@ -603,7 +601,9 @@
   "981469e00f592481",
   "oilpricesandbondyieldsnolongermovingtogether",
   "a69bce96c121a564",
-  "strathconacnrailwayplancrudebyraillink"
+  "strathconacnrailwayplancrudebyraillink",
+  "094ef71d3eeb206d",
+  "californiasenatorsatcop31urgeecuadortocancelamazonoilauction"
  ],
  "releases_done": {
   "2026-11-10|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-11T00:05:14.554535+02:00",
+ "last_run": "2026-11-11T00:10:18.669898+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
