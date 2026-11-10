@@ -4,10 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "7df8dee2ae4d4c41",
-  "houthiattackdamagesaramcobuildinginriyadhfinancialdistrict",
-  "4f3af0e15746fd89",
-  "crudeoilshowsmixedsignalsanalysis09112026",
   "53617b6540d302ea",
   "usgainsaccessto637billionbarrelsofoilreservesinvenezuela",
   "42c5b9a2321363be",
@@ -603,7 +599,11 @@
   "35c0072ee1451a3b",
   "oilpricesdown091126",
   "4d2a4701059f497d",
-  "morningwraptechbounceandoilpricecollapsefollowingsignalsofde"
+  "morningwraptechbounceandoilpricecollapsefollowingsignalsofde",
+  "a52ffbd7737b3859",
+  "lngtrafficthroughhormuzhitshighestlevelsinceiranwarbegan",
+  "d4ae26f15aa7bca0",
+  "crudeoilpricesextendlossesonhopesofeasingmiddleeasttensions"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-10",
-  "count": 51
+  "count": 53
  },
- "last_run": "2026-11-10T08:40:18.880908+02:00",
+ "last_run": "2026-11-10T08:45:20.865602+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1124,6 +1124,10 @@
   {
    "d": "2026-11-10",
    "t": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says - Reuters"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "LNG Traffic Through Hormuz Hits Highest Level Since Iran War Began"
   }
  ]
 }
