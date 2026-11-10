@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "4d95e3113375ae7e",
-  "ukrainestrikesrussiassecondlargestoilrefineryas113droneshitl",
   "4055904906638fb8",
   "aftertrumpsstatementoilpricesfallsharply",
   "395c05414c5448f1",
@@ -603,7 +601,9 @@
   "eaf40a62e4625847",
   "oilpricesdipbelow90astrumpcommentsfueliranpeacehopes",
   "c7304547d3905469",
-  "chinaisbuyingoilagainaftermonthsoflivingoffitsstockpiles"
+  "chinaisbuyingoilagainaftermonthsoflivingoffitsstockpiles",
+  "9d2f5d38d9449108",
+  "currentpriceofoilasofnov102026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T14:30:25.196423+02:00",
+ "last_run": "2026-11-10T14:35:16.020333+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
