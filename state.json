@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "e4889a7a7e30a579",
-  "crudeoiliscaughtbetweenhopesofausirandealandescalationrisksw",
-  "618b1f195f544249",
-  "oilexperiencessharpestweeklydeclineinmonths",
   "2af7523a3ff8ca1e",
   "iraqsoilsalestoamericafalltolowestsincethe2003war",
   "b56d04e1a33a5f5b",
@@ -603,7 +599,11 @@
   "b46e2e2a6791055a",
   "oilpricesfellfastwheretheycouldgonext",
   "711e469ab6d579f7",
-  "sp500futuresfallsharplyafteroctoberinflationdata"
+  "sp500futuresfallsharplyafteroctoberinflationdata",
+  "b528cd3921c9c338",
+  "usreceived12billioninvenezuelanoilrevenuessecretreportshows",
+  "f53b403a59a5054b",
+  "yourtuesdaynov10guidefivethingstodointheoilcity"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T16:00:33.129564+02:00",
+ "last_run": "2026-11-10T16:05:14.989478+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-11-10",
    "t": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows - The New York Times"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "U.S. Received $12 Billion in Venezuelan Oil Revenues, Secret Report Shows - The New York Times"
   }
  ]
 }
