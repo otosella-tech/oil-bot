@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "dca00b89306979b9",
-  "wallstreetfuturesriseasoilpricesfallaheadofusinflationdatado",
   "64040556d0f73e4b",
   "eiauscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
   "9ff4b97f81341742",
@@ -603,7 +601,9 @@
   "f16f5bf3cac3482c",
   "strengthintechandweaknessincrudeoilbooststocks",
   "4ec421b8c13e0b5c",
-  "trumpadminpouring480mloanintogulfofamericaoilandgasproject"
+  "trumpadminpouring480mloanintogulfofamericaoilandgasproject",
+  "ece020d25d6a0993",
+  "bccrudeoilfutures"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T20:40:18.630852+02:00",
+ "last_run": "2026-11-10T20:45:19.106283+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
