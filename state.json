@@ -4,12 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "1d60a8fed7f0056d",
-  "stockmarketsendhigheramideasingcrudeoilpricesbuyinginbanks",
-  "bc27a44a98863737",
-  "currentpriceofoilasofnov92026",
-  "978c3c1d172f2f8a",
-  "ukrainestrikesrussiassecondlargestoilrefineryandiskandermiss",
   "7a53c2bb90a252ce",
   "forecastupdateforcrudeoil09112026",
   "41e86f13d27e5532",
@@ -603,7 +597,13 @@
   "af060aa17149f648",
   "gaspricesdipbelow4butinflationremainsstubbornlyhigh",
   "90940e3974229857",
-  "fccpcmovestoforcedownfuelpricesasglobalcrudeoilratesdecline"
+  "fccpcmovestoforcedownfuelpricesasglobalcrudeoilratesdecline",
+  "bbfc78197b02aca1",
+  "wallstopenslowerafteroctobershotinflationprint",
+  "1fdcb85275c39c26",
+  "reuterssurveyopecproductionroseinoctoberto90ofprewarlevels",
+  "07ff9db79308b63d",
+  "canadiandollarandbusinessoutlooklooniedropscrudeoilfalls"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T17:15:19.821230+02:00",
+ "last_run": "2026-11-10T17:20:19.736192+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1240,6 +1240,10 @@
   {
    "d": "2026-11-10",
    "t": "Russia’s Oil Industry Is Feeling the Heat as Ukrainian Drones Hit Refineries Accounting for Nearly 30% of Capacity - UNITED24 Media"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Reuters Survey: OPEC Production Rose in October to 90% of Pre-War Levels - صحيفة مال"
   }
  ]
 }
