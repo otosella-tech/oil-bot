@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "488e59e4edb6914b",
-  "jumbooffshoreinstallsbuoysandplematthevacamuertaoilsurtermin",
   "9a7bf58ed53c536d",
   "usopenfallingoilpricesanddipbuyingfuelreboundasnvidiafalls",
   "bda8bc71e9f586cb",
@@ -603,7 +601,9 @@
   "d057494f5ffc2029",
   "stocksfallasinflationcomesinhotterthanexpected",
   "8e7f7abecab1c50c",
-  "carbonemissionsaredownthisyearbutthatprobablywontlast"
+  "carbonemissionsaredownthisyearbutthatprobablywontlast",
+  "3cebb9519fa3ee54",
+  "usraisesforecastsfor2027gasolineanddieselprices"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T21:30:29.366672+02:00",
+ "last_run": "2026-11-10T21:35:15.234169+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
