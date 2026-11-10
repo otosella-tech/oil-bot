@@ -4,12 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "f334a9acda3e5fa9",
-  "top5africancountriesthatproducedthemostcrudeoilinseptember20",
-  "71b81df4a0a37d05",
-  "globaldemandforgcccrudeoilrecordsaverageannualgrowthof31perc",
-  "1ca505f6f107f973",
-  "chinacutslngimportsascheapdomesticgasundercutsglobalprices",
   "16a0691578ae6940",
   "rapeseedmarketupdatevegetableoilslumpandpeacetalkspressurepr",
   "d9bec18140b170f2",
@@ -603,7 +597,13 @@
   "627e29cd23e5710a",
   "stocksclimbasoilpricesdipheadingintouscpiprint",
   "b81c0647d451bfce",
-  "chinaoilimportsreboundasmorecrudeflowsfromgulf"
+  "chinaoilimportsreboundasmorecrudeflowsfromgulf",
+  "e124991ac811525e",
+  "brentcrudefallsbelow90forfirsttimesinceaugust",
+  "0a8712bb737aad21",
+  "europeanstocksriseasstoxx600gains09onfallingoilpricesaheadof",
+  "7742a8b78bca5d44",
+  "europeansharesinchtowardrecordhighsassinkingoileasesinflatio"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T12:05:14.983737+02:00",
+ "last_run": "2026-11-10T12:10:24.434739+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1168,6 +1168,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’ - The Guardian"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "European shares inch toward record highs as sinking oil eases inflation anxiety - Investing.com"
   }
  ]
 }
