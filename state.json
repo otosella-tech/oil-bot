@@ -4,12 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "0fd676a1a3b8b7f8",
-  "dronesattackrussiassecondlargestoilrefinerysparkingfirephoto",
-  "cf8578a89eb3ff84",
-  "brazilsoctobercrudeoilexportsatrecordonusshipmentsurge",
-  "6fe35f5bdaa02210",
-  "oilfallsastrumpsignalsrestraintoniranamidfreshhormuzshipping",
   "4a66eec13ec69e78",
   "unitedstatesontrackforrecordcrudeoilproductionin2026",
   "9b1af86db2a00b14",
@@ -603,7 +597,13 @@
   "efd3d1f73b5c3588",
   "brentfallsbelow90onhopesofeasingusirantensions",
   "2a075bfe049d5a10",
-  "trkiyediscoversadditional135millionbarrelsofoilpotentialinga"
+  "trkiyediscoversadditional135millionbarrelsofoilpotentialinga",
+  "075737e78f5af169",
+  "oilpricesdip1amidiranpeacehopesimprovingsupplies",
+  "424c1ae0a2cdcfc0",
+  "oilpricetodaynovember10brentcrudefallsbelow90forfirsttimein3",
+  "87925f3cef5658b7",
+  "japanpostscurrentaccountsurplusof237trillioninsept"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T11:40:19.529345+02:00",
+ "last_run": "2026-11-10T11:45:19.879303+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1156,6 +1156,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil Prices Fall as Trump Signals No New Attacks on Iran - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Oil prices dip 1% amid Iran peace hopes, improving supplies - Investing.com"
   }
  ]
 }
