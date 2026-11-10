@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "5477ccee6b8caca3",
-  "oilpricesjump3onhouthiattacksoilspillhighestsettlementsincea",
   "1d1e0f7a5e1057ac",
   "crudeextendslossesasirandiplomacyoutweighsshippingrisks",
   "62c67df88a5382c2",
@@ -603,7 +601,9 @@
   "67d8ca1a8153c447",
   "nonsenserateiranwarexposesturmoilbehindkeytankerbenchmark",
   "69cd34b6a1abdb59",
-  "crudeoilpricesfallondiplomaticoptimismtoendiranwar"
+  "crudeoilpricesfallondiplomaticoptimismtoendiranwar",
+  "3bb2b3828783fc0c",
+  "dieselpricedropwhyoilmarketsaretumbling"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T22:40:20.623243+02:00",
+ "last_run": "2026-11-10T22:45:19.003476+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
