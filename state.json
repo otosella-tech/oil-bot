@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "d5a6c5de57db69d7",
-  "ushitsseveraliranoiltankersinresponsetowarshipattack",
   "de2f03ce62e7d173",
   "southafricanrandfirmsonsofteroilcoalitiontalksinfocus",
   "dc1fed134c0e4382",
@@ -603,7 +601,9 @@
   "0eee29ae48c57223",
   "theoilslumphasgonetoofarwherepricescouldgonext",
   "1987027779feae35",
-  "globalcrudeoilinputsreboundamidmiddleeastconflictdisruptions"
+  "globalcrudeoilinputsreboundamidmiddleeastconflictdisruptions",
+  "002bb3d28d54a3fd",
+  "ukrainewarusenergydealwithrussiaundermineswesternalliance"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T16:15:20.699786+02:00",
+ "last_run": "2026-11-10T16:20:19.788732+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-11-10",
    "t": "U.S. Received $12 Billion in Venezuelan Oil Revenues, Secret Report Shows - The New York Times"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Ukraine war: US energy deal with Russia undermines Western alliance - International Bar Association | IBA"
   }
  ]
 }
