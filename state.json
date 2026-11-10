@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "3b8e768d6addda1f",
-  "foreignsellingoilshockweakrupee7trendsinvestorsshouldtrackbe",
-  "34bd2761a7b1a323",
-  "dronesreportedlyhitoneofrussiaslargestoilrefineriesnearstpet",
   "f334a9acda3e5fa9",
   "top5africancountriesthatproducedthemostcrudeoilinseptember20",
   "71b81df4a0a37d05",
@@ -603,7 +599,11 @@
   "04261c4a46384402",
   "oilpricesfalltolowestsinceaugustastrumpsaysiranwariseffectiv",
   "8efa4be926cc3025",
-  "euroyieldslingerat1monthlowsassinkingoilcalmsinflationjitter"
+  "euroyieldslingerat1monthlowsassinkingoilcalmsinflationjitter",
+  "627e29cd23e5710a",
+  "stocksclimbasoilpricesdipheadingintouscpiprint",
+  "b81c0647d451bfce",
+  "chinaoilimportsreboundasmorecrudeflowsfromgulf"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T12:00:32.723609+02:00",
+ "last_run": "2026-11-10T12:05:14.983737+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
