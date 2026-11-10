@@ -4,12 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "b0dde2a363166e09",
-  "crudeoilistradingaboveandbelowakeytechnicalconfluenceareawho",
-  "84151bcd2e0c0c70",
-  "correspondencepointstoiransintenttocontrolchinasoilterminals",
-  "7e76dd28f514b2e6",
-  "middleeastconflictsettopushchinaneedlecokepricestothreeyearh",
   "bdd5dc33d971ae0d",
   "howweaknessincrudeoilandademocraticmidtermsweepcreateabuying",
   "f6bba31f48f7009b",
@@ -603,7 +597,13 @@
   "b47be07ce95d5a54",
   "usmidtermshake",
   "590e12c0df914c90",
-  "oilpriceseasetotwomonthlowsasusdownplaysfurtheriranstrikes"
+  "oilpriceseasetotwomonthlowsasusdownplaysfurtheriranstrikes",
+  "6867a621482c7ffa",
+  "oilshockfromiranwarledtodropincarbonpollutionscientistssay",
+  "de544f2f890537c4",
+  "angolabondstopemergingmarketselloffasoilslumpsto90",
+  "cb15b488708bf5d1",
+  "averagegaspricedropsbelow4pergallonforfirsttimesincejulyaaa"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T21:10:19.904759+02:00",
+ "last_run": "2026-11-10T21:15:18.838973+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1284,6 +1284,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil prices ease to two-month lows as US downplays further Iran strikes - Central Oregon Daily"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Oil shock from Iran war led to drop in carbon pollution, scientists say - PBS"
   }
  ]
 }
