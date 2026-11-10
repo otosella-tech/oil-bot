@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "d9154c098ca2ea5c",
-  "saudieastwestoilpipelinehitinmedinaregionstatemediareports",
   "20e01431808b15ff",
   "oilfuturescrudeslidesastrumpsaysiranescalationunlikely",
   "81a68e2aa04c4182",
@@ -603,7 +601,9 @@
   "6c679877c9156b5f",
   "ustoprovide480mloanforlouisianaoffshoreoilandgasinfrastructu",
   "dc145bb121934a1d",
-  "oilpricestouchtwomonthlowsonsoftenedustonetowardiran"
+  "oilpricestouchtwomonthlowsonsoftenedustonetowardiran",
+  "bb2aae188bf43c0f",
+  "midtermresultscouldtriptrumpsenergyindependenceplans"
  ],
  "releases_done": {
   "2026-11-10|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-11",
   "count": 4
  },
- "last_run": "2026-11-11T00:55:16.134467+02:00",
+ "last_run": "2026-11-11T01:00:32.178323+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
