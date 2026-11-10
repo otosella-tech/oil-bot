@@ -4,12 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "6e34245885b80994",
-  "karooncutsbrazilneonoilprojectcostestimateto800m950m",
-  "f2fc511c6b610d5a",
-  "raidersdownoilkingsinshootoutinedmonton",
-  "16553546f4471e83",
-  "indiaseekshigherforeigndirectinvestmentinoilandgaswithpolicy",
   "2af526302015aecb",
   "crudeoilforecastraisedtous100for2026andus85for2027",
   "d410a6c975cd6b1b",
@@ -603,7 +597,13 @@
   "354462eb66893a4e",
   "electriccarsnowdisplace12millionbarrelsofoiladay",
   "12261b7e4e54a3a0",
-  "russiaslavrovsaysusdieseldealworkingpricescomingdown"
+  "russiaslavrovsaysusdieseldealworkingpricescomingdown",
+  "aeb5d24e42ab3741",
+  "chinasoctobercrudeoilimportsrisetohighestlevelsincemarch",
+  "878a6ac8b36afc78",
+  "roichinascrudeoilimportsrecoverfuelexportsnotsomuchrussell",
+  "dc3ae242a1342535",
+  "fossilfuelemissionsfallduetoiranwarandrenewablesresearchshow"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-10",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-11-10T07:15:19.704978+02:00",
+ "last_run": "2026-11-10T07:20:20.270273+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1108,6 +1108,10 @@
   {
    "d": "2026-11-10",
    "t": "Iraq–US Hormuz Deal Shifts Crude Oil Risk Premium Lower - CMB News"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Fossil fuel emissions fall due to Iran war and renewables, research shows - The Japan Times"
   }
  ]
 }
