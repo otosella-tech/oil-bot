@@ -4,8 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "71fae801f3cb595b",
-  "brentandwticrudeoilpricesfallastrumpsignalsirandealismorelik",
   "daffefe5f645c835",
   "oilextendsbiggestweeklydropsince2020withfocusoniran",
   "f6beae1f009a2549",
@@ -603,7 +601,9 @@
   "98aa9ebacbc634e5",
   "crudeoilatlowestlevelsincelateaugustasirandealoptimismoutwei",
   "582061f84f661c42",
-  "ustradersweighthecostoftakingtrumpsrussiandiesel"
+  "ustradersweighthecostoftakingtrumpsrussiandiesel",
+  "1fea55b8fac25525",
+  "globalcarbonemissionssettodipin2026afteriranwaroilsurge"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-10",
-  "count": 19
+  "count": 21
  },
- "last_run": "2026-11-10T03:00:29.570855+02:00",
+ "last_run": "2026-11-10T03:05:14.354551+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1072,6 +1072,10 @@
   {
    "d": "2026-11-10",
    "t": "U.S. Traders Weigh the Cost of Taking Trump’s Russian Diesel"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Global Carbon Emissions Set to Dip in 2026 After Iran War Oil Surge - Bloomberg.com"
   }
  ]
 }
