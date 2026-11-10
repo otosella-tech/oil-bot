@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "a9ed9eb203899209",
-  "aftermidtermfailuretrumpsforeignstrategymaybeevenmoredangero",
   "a30d788935b34229",
   "worldmarketsbouncebackafterarecoveryforaistocksonwallstreet",
   "31bdd9c147e8f821",
@@ -603,7 +601,9 @@
   "5959ed889fe330a3",
   "dollarretreatsasstocksrallyandcrudeoiltumbles",
   "13b496ea4dfe5fdd",
-  "oilpricesaredroppingfastandcouldkeepfalling"
+  "oilpricesaredroppingfastandcouldkeepfalling",
+  "2663abf3e3ce0dda",
+  "britishairwaysownerwarnsgreenfuelmandatescouldkilleuropeanav"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T21:59:54.945393+02:00",
+ "last_run": "2026-11-10T22:00:29.191370+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
