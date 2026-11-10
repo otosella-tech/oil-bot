@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "94565eaa3a30b6ea",
-  "currentpriceofoilasofnov62026",
   "473618c2cf0801ae",
   "oilfallsastrumpsignalsrestraintonirandespitefreshshippingatt",
   "adfd7064bf2e2629",
@@ -603,7 +601,9 @@
   "e8a607bc895b49d8",
   "stocksjumpasoiltumblesnvidiafallsamidinternalprobethespokesm",
   "f7f51506a65b1613",
-  "in2019oilwasfoundseepingfromacaliforniarailyardintothesacram"
+  "in2019oilwasfoundseepingfromacaliforniarailyardintothesacram",
+  "6e7c97efa62305cb",
+  "podcastoilswellthatendswell"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T12:55:14.850465+02:00",
+ "last_run": "2026-11-10T13:00:30.420747+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
