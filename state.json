@@ -4,14 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "625c835bd654a281",
-  "strathconatoacquiregreenfireincanadianoilsandsdeal",
-  "a3d790dd0d6f64d3",
-  "oilsteadiesaftertrumpsignalsrestraintoniranhormuzriskspersis",
-  "631394bf3e13ce71",
-  "middleeastlatesttrumpplaysdownprospectofnewstrikesoniran",
-  "fea5d0db4ea18a6b",
-  "crudeoilfuturesuprs23tors8577amidglobaltrends",
   "1a680251fd481aa1",
   "brentcrudeoilisexperiencingchoppytradinganalysis09112026",
   "5525291456338116",
@@ -603,7 +595,15 @@
   "4dbf46d3f1ea3a1b",
   "thecommoditiesfeedoilslidesoneasingmiddleeasttensions",
   "6f8783c2c993bb73",
-  "oilpricescontinuetofallonhopesofusiranpeacedealtalks"
+  "oilpricescontinuetofallonhopesofusiranpeacedealtalks",
+  "e73a5b2a6c08681c",
+  "asianstocksclimbasoilpricesslideaheadofuscpi",
+  "73e89aab55633bcb",
+  "oilpricesfallastrumpsignalsnonewattacksoniran",
+  "a7762ee437de87de",
+  "fossilfuelemissionssettofallforfirsttimesincecovidresearchsh",
+  "2fb3af41b3f935a3",
+  "crudeoilfallsastrumpsignalsnoimmediatemilitaryactionagainsti"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T10:25:15.944204+02:00",
+ "last_run": "2026-11-10T10:30:24.351692+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1152,6 +1152,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil prices continue to fall on hopes of US-Iran peace deal talks - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Oil Prices Fall as Trump Signals No New Attacks on Iran - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
