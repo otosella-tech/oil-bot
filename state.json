@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "ee4213b332e87120",
-  "aaatexasgaspricesfallascrudeoilpricesdecline",
-  "df3f7f2268faa45d",
-  "riskonopenasoildropsnvdaslumps",
   "13adaaf79908aab5",
   "marketwrapstrongbankingsectorsharpdropinoil",
   "fa90edd46ee54f8b",
@@ -603,7 +599,11 @@
   "41e86f13d27e5532",
   "currentpriceofoilasofnovember92026",
   "f45deeb2711c0a3c",
-  "usopensnewroutetodisposeofsanctionedshipsasafricanflaggedtan"
+  "usopensnewroutetodisposeofsanctionedshipsasafricanflaggedtan",
+  "2fbf9594cdc2a795",
+  "stocksmovelowerasinflationremainselevated",
+  "3e89716f2b19e238",
+  "wticrudeoiltestssupportasusdistillatestockstighten"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T17:40:20.570057+02:00",
+ "last_run": "2026-11-10T17:45:19.901612+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
