@@ -4,10 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "17317a7fa15c71ec",
-  "brentbelow98oilremainssteadyaftersteepestweeklydropsince2020",
-  "186879eb639d4891",
-  "brentandwticrudeoilpricesfallastrumpsignalsirandealmorelikel",
   "be8d2aed04f4f5dc",
   "southbowq3profitbeatsestimates",
   "c61017eb149b60b3",
@@ -603,7 +599,11 @@
   "feb9ec32d85bbe29",
   "oiltankerratesdropmakinglonghaulcrudetradesattractive",
   "52aac1f68941fe83",
-  "brentcrudeoilpriceforecastoilplungesnearly6toward90risksdrop"
+  "brentcrudeoilpriceforecastoilplungesnearly6toward90risksdrop",
+  "852052838757192a",
+  "asianstocksclimbasslidingoilpricesbuoysentiment",
+  "f25deaaf3017b406",
+  "exxonstrikespreliminarydealtoreturntovenezuela"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-10",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-11-10T04:25:14.493855+02:00",
+ "last_run": "2026-11-10T04:30:27.435136+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1096,6 +1096,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil Tanker Rates Drop, Making Long-Haul Crude Trades Attractive - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Exxon Strikes Preliminary Deal to Return to Venezuela - The New York Times"
   }
  ]
 }
