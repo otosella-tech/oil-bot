@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "ec0f1cd3552b5993",
-  "oilpricesfallonopenastrumpsaysfreshiranattacksunlikely",
   "93e83234bf27ea42",
   "oilfallsastrumpsignalsrestraintoniranamidfreshhormuzattacks",
   "2e1c1a15dd657cf8",
@@ -603,7 +601,9 @@
   "f8fa685d699b86b8",
   "crudeoillosesgroundonrenewedusirandealhopesbutaconcretebreak",
   "959c3d44b4c46c54",
-  "usmilitarycoordinateswithsaudioiltankersonriskyhormuzcrossin"
+  "usmilitarycoordinateswithsaudioiltankersonriskyhormuzcrossin",
+  "8c402bada719aac5",
+  "angolasbondsleadretreatamongemergingmarketoilproducers"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T13:40:20.541798+02:00",
+ "last_run": "2026-11-10T13:45:20.055509+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
