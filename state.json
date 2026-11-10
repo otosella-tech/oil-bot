@@ -4,8 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "2f5485da363e2635",
-  "targetedbysanaasstrikestheabqaiqoilfacilitiesamainarteryfors",
   "7df8dee2ae4d4c41",
   "houthiattackdamagesaramcobuildinginriyadhfinancialdistrict",
   "4f3af0e15746fd89",
@@ -603,7 +601,9 @@
   "3362e7a08777b3b1",
   "iraqhasreachedunderstandingswithustoallowoilexportsthroughho",
   "35c0072ee1451a3b",
-  "oilpricesdown091126"
+  "oilpricesdown091126",
+  "4d2a4701059f497d",
+  "morningwraptechbounceandoilpricecollapsefollowingsignalsofde"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 51
  },
- "last_run": "2026-11-10T08:20:20.097928+02:00",
+ "last_run": "2026-11-10T08:25:16.433426+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
