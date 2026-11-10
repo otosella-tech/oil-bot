@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "b3af324a247789c2",
-  "sp500futuresriseasoilfallsnvidiasinksonhuangaffair",
   "b5a45f2bb6ddeb80",
   "sableoffshoretumbles75ascrudeoilsaleshaltedinoctober",
   "5094bb847b461314",
@@ -603,7 +601,9 @@
   "84f52c6e2a788d61",
   "oilsinksto94asirans8billionhormuzdealheadstotrump",
   "1adb445576608b82",
-  "oiltycoonaccusedofmurderdiesat93inspired90stvshow"
+  "oiltycoonaccusedofmurderdiesat93inspired90stvshow",
+  "4bd73161bb65a46b",
+  "oilpricesaboostfornigeriaseconomyorsetbackforenergytransitio"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T18:20:20.160899+02:00",
+ "last_run": "2026-11-10T18:25:17.551201+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
