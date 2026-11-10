@@ -4,8 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "55156bce5a568c23",
-  "oilpricetodaynovember9crudeoilfallsbelow100againastrumpsaysf",
   "d14fd94b5c2c7f53",
   "oilpricestodaybrentfallsbelow98afterbiggestweeklydropsince20",
   "e1a7426808bb0702",
@@ -603,7 +601,9 @@
   "2e95895d8ee67347",
   "canadianoilsuppliertooklahomamakes2billionacquisition",
   "8cbc8ea2ca1a10f1",
-  "oilpricestodaycrudeedgeslowerasdonaldtrumpsignalspauseinmili"
+  "oilpricestodaycrudeedgeslowerasdonaldtrumpsignalspauseinmili",
+  "738a08637ab78c02",
+  "withpeaceexpectationsweighingheavilyhowmuchfurthercanoilpric"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 33
  },
- "last_run": "2026-11-10T04:45:18.722749+02:00",
+ "last_run": "2026-11-10T04:50:19.163776+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
