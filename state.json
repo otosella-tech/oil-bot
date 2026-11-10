@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "046a88a2d3885221",
-  "indianshareslikelytoopenhigheronlowercrudepricesforeigninflo",
-  "084d0b5f28d0ba4b",
-  "brentcrudeoilpricedeclines",
   "feac74692d0be9da",
   "crudeoilfuturesoverview",
   "b61420c7158a7e81",
@@ -603,7 +599,11 @@
   "96b2668bbe3d40be",
   "oilfallsashopesofeasingusirantensionseasesupplyfears",
   "3b1a54fad0c8725d",
-  "attacktargetssaudiarabiaseastwestoilpipelineinmedina"
+  "attacktargetssaudiarabiaseastwestoilpipelineinmedina",
+  "86afbe42a6f5f58e",
+  "oilextendsdropastrumpsaysfurtheriranstrikesunnecessary",
+  "e2ef6dc62673376c",
+  "crudeoilmarketupdatefuturescurvesoftensasriskpremiumeases"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-10",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-11-10T10:10:19.394788+02:00",
+ "last_run": "2026-11-10T10:15:21.822730+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1144,6 +1144,10 @@
   {
    "d": "2026-11-10",
    "t": "Attack Targets Saudi Arabia’s East-West Oil Pipeline in Medina - Egypt Oil & Gas"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Oil Extends Drop as Trump Says Further Iran Strikes Unnecessary - Bloomberg.com"
   }
  ]
 }
