@@ -4,12 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "64957300454d35b5",
-  "usequityindexesjumpasgrowthsectorsstagerallyamidslidingcrude",
-  "a58d8befdf08ff5f",
-  "crudeoilfuturestumble5asusirandiplomacyhopeseasesupplyfears",
-  "db059e65dfba78e2",
-  "oilslipsbelow100astrumpplayeddownfurtheriranstrikes",
   "d9154c098ca2ea5c",
   "saudieastwestoilpipelinehitinmedinaregionstatemediareports",
   "20e01431808b15ff",
@@ -603,7 +597,13 @@
   "6a02988a7c0adfef",
   "wisdomtreewticrudeoil3xdailyleveragedetn3oillseasonalreturns",
   "d6ff50ce07cfa13b",
-  "cmewticrudeoilfutureshitcyclelowasmideastriskpremiumsease"
+  "cmewticrudeoilfutureshitcyclelowasmideastriskpremiumsease",
+  "827530dded614cc2",
+  "trumpadministrationfinalizes480millionloantoarenainfirstsuch",
+  "6c679877c9156b5f",
+  "ustoprovide480mloanforlouisianaoffshoreoilandgasinfrastructu",
+  "dc145bb121934a1d",
+  "oilpricestouchtwomonthlowsonsoftenedustonetowardiran"
  ],
  "releases_done": {
   "2026-11-10|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-11",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-11T00:50:19.437008+02:00",
+ "last_run": "2026-11-11T00:55:16.134467+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1279,6 +1279,10 @@
   {
    "d": "2026-11-11",
    "t": "Oil prices ease to two-month lows as US downplays further Iran strikes - Euronext Markets: Real-time Stock Market Data | live"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Oil prices touch two-month lows on softened US tone toward Iran - Baird Maritime"
   }
  ]
 }
