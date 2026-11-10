@@ -4,12 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "a30d788935b34229",
-  "worldmarketsbouncebackafterarecoveryforaistocksonwallstreet",
-  "31bdd9c147e8f821",
-  "threeterminalsseventanksiranshiddenchineseoilnetworkrevealed",
-  "ba05dc15c9db0d38",
-  "crudeoilplungesastrumpsaysrenewediranattacksunlikelycl1comco",
   "c1ed86b9113d9a28",
   "currentpriceofoilasofnovember52026",
   "fc84c871554c9e16",
@@ -603,7 +597,13 @@
   "13b496ea4dfe5fdd",
   "oilpricesaredroppingfastandcouldkeepfalling",
   "2663abf3e3ce0dda",
-  "britishairwaysownerwarnsgreenfuelmandatescouldkilleuropeanav"
+  "britishairwaysownerwarnsgreenfuelmandatescouldkilleuropeanav",
+  "d55d90ef330310a8",
+  "brentcrudedipsbelow90forfirsttimesinceaugustoniranhopes",
+  "467d678f29336595",
+  "europeansharesnearrecordhighasloweroilpricesboostsentiment",
+  "e624707bba57d242",
+  "wallstretreatsashotinflationdatafedcommentsfuelrateworries"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T22:00:29.191370+02:00",
+ "last_run": "2026-11-10T22:05:15.166241+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1288,6 +1288,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil shock from Iran war led to drop in carbon pollution, scientists say - PBS"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Brent crude dips below $90 for first time since August on Iran hopes - CNBC"
   }
  ]
 }
