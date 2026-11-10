@@ -4,8 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "0957b3ed683f48fa",
-  "oilfallsonopenastrumpsaysfreshiranattacksunlikely",
   "199ff890f6956ccf",
   "oilreboundstoward100asdemocratssweeprattlesenergystocks",
   "17317a7fa15c71ec",
@@ -603,7 +601,9 @@
   "196aa7ac653b18c1",
   "oilpricestodaybrentnear92after16weeklyroutis100oilathingofth",
   "aac3461367cee5f0",
-  "oilfallsasusiranconflictrisksease"
+  "oilfallsasusiranconflictrisksease",
+  "feb9ec32d85bbe29",
+  "oiltankerratesdropmakinglonghaulcrudetradesattractive"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-10",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-11-10T04:15:19.668878+02:00",
+ "last_run": "2026-11-10T04:20:19.544306+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1092,6 +1092,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil Falls as U.S.-Iran Conflict Risks Ease - WSJ"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Oil Tanker Rates Drop, Making Long-Haul Crude Trades Attractive - Bloomberg.com"
   }
  ]
 }
