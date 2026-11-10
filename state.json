@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "4a66eec13ec69e78",
-  "unitedstatesontrackforrecordcrudeoilproductionin2026",
-  "9b1af86db2a00b14",
-  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "a57dbf6961782bde",
   "uaebusinessglobaldemandforgcccrudeoilrecords31pcannualgrowth",
   "1b001e6d1cb2dbbd",
@@ -603,7 +599,11 @@
   "424c1ae0a2cdcfc0",
   "oilpricetodaynovember10brentcrudefallsbelow90forfirsttimein3",
   "87925f3cef5658b7",
-  "japanpostscurrentaccountsurplusof237trillioninsept"
+  "japanpostscurrentaccountsurplusof237trillioninsept",
+  "9f97cecf691dcb7a",
+  "oilpricesextenddeclineaftertrumpsignalsrestraintoniran",
+  "dcb4215a0ffd388b",
+  "huntingforacookingoilreplacementinpennsylvaniasforestspennsy"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T11:45:19.879303+02:00",
+ "last_run": "2026-11-10T11:50:19.495058+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1160,6 +1160,10 @@
   {
    "d": "2026-11-10",
    "t": "Oil prices dip 1% amid Iran peace hopes, improving supplies - Investing.com"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Oil Prices Extend Decline After Trump Signals Restraint on Iran - WSJ"
   }
  ]
 }
