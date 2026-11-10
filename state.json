@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "918d0040db538686",
-  "theoilyoucannotborrow",
   "e93c7207cb4289af",
   "straitofhormuztankertrafficisthetestfornormaloilsupply",
   "6e76b082757b7e26",
@@ -603,7 +601,9 @@
   "4899e0dbda821ce8",
   "affordabilityandthecostofoil",
   "af4739f92bfd7018",
-  "nymexoverviewoilfuturesextendlossesonhopesforirandeescalatio"
+  "nymexoverviewoilfuturesextendlossesonhopesforirandeescalatio",
+  "814bc564795dd0b9",
+  "oilfallsbelow90amideasingusirantensions"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T19:50:19.293235+02:00",
+ "last_run": "2026-11-10T19:55:15.596771+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
