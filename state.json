@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "dad9775e7c84cc1f",
-  "ukrainianhitsrussiassecondlargestoilrefineryinovernightdrone",
   "86ced19254f69607",
   "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
   "4d95e3113375ae7e",
@@ -603,7 +601,9 @@
   "e902fb14d7b5b270",
   "oilpricesdropbelow90dollarsastrumpsaysiranwarcouldendsoon",
   "f23847d4b97da2bc",
-  "iranwaroilpricesfallbutusfarmersarestillpayingtheprice"
+  "iranwaroilpricesfallbutusfarmersarestillpayingtheprice",
+  "eaf40a62e4625847",
+  "oilpricesdipbelow90astrumpcommentsfueliranpeacehopes"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T14:15:18.492156+02:00",
+ "last_run": "2026-11-10T14:20:19.343712+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-11-10",
    "t": "Iran War: Oil Prices Fall, but U.S. Farmers Are Still Paying the Price - AgroLatam"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Oil prices dip below $90 as Trump comments fuel Iran peace hopes - Investing.com"
   }
  ]
 }
