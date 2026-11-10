@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "6e76b082757b7e26",
-  "usfuturesclimbnvidiaslidesamidburgeoninginvestigationinvolvi",
-  "b90f28a3a47e7801",
-  "oilslidesastrumpsignalsrestraintonirandespitefreshshippingat",
   "a3efbbca5684863a",
   "russiatargetsukrainespowergridaheadofcrucialabudhabipeacetal",
   "e626a6fc03c1f98a",
@@ -603,7 +599,11 @@
   "814bc564795dd0b9",
   "oilfallsbelow90amideasingusirantensions",
   "2da1085975a2b13f",
-  "thetruthbehindiraqsoilreboundandthesecretredseaplan"
+  "thetruthbehindiraqsoilreboundandthesecretredseaplan",
+  "d11e27d3c2d7afab",
+  "ukrainianstrikesdisrupt30ofrussiasoilrefiningcapacity",
+  "155a3fc76702f134",
+  "jaywoodsiswatchingtheoiltradehereswhatheseesinthecharts"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T20:00:31.716428+02:00",
+ "last_run": "2026-11-10T20:05:16.465135+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-11-10",
    "t": "The Truth Behind Iraq’s Oil Rebound And The Secret Red Sea Plan"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity"
   }
  ]
 }
