@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "233b6b96923057c3",
-  "sableoffshoresharesplunge60ascrudesalesdisruptionraisesgoing",
   "5477ccee6b8caca3",
   "oilpricesjump3onhouthiattacksoilspillhighestsettlementsincea",
   "1d1e0f7a5e1057ac",
@@ -603,7 +601,9 @@
   "28ebbc8c1f09264d",
   "argentinaasksseatribunaltohaltoilprojectoffthefalklands",
   "67d8ca1a8153c447",
-  "nonsenserateiranwarexposesturmoilbehindkeytankerbenchmark"
+  "nonsenserateiranwarexposesturmoilbehindkeytankerbenchmark",
+  "69cd34b6a1abdb59",
+  "crudeoilpricesfallondiplomaticoptimismtoendiranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T22:15:19.598672+02:00",
+ "last_run": "2026-11-10T22:20:19.142823+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1300,6 +1300,10 @@
   {
    "d": "2026-11-10",
    "t": "‘Nonsense Rate’: Iran War Exposes Turmoil Behind Key Tanker Benchmark - gCaptain"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Crude Oil Prices Fall on Diplomatic Optimism to End Iran War - Barchart.com"
   }
  ]
 }
