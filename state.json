@@ -4,8 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "91b5f1ec3d79403f",
-  "goldholdsdeclineasusjobsdatafandecemberratehikebets",
   "3362e7a08777b3b1",
   "iraqhasreachedunderstandingswithustoallowoilexportsthroughho",
   "ecdb1b1f9bac9794",
@@ -603,7 +601,9 @@
   "cad383551e8ebc20",
   "chinasoctobercrudeoilimportsrisetohighestlevelsincemarchamid",
   "fcc95c939aad0ac9",
-  "goldsilveradvanceasdollarweakensfedrateexpectationsfaceinfla"
+  "goldsilveradvanceasdollarweakensfedrateexpectationsfaceinfla",
+  "4cf8f05d4a3dd25a",
+  "iraqs5millionbpdoilclaimcomplicatesitsopecquotapush"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-10",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-11-10T05:40:18.449820+02:00",
+ "last_run": "2026-11-10T05:45:22.760771+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1100,6 +1100,10 @@
   {
    "d": "2026-11-10",
    "t": "Exxon Strikes Preliminary Deal to Return to Venezuela - The New York Times"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Iraq's 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
