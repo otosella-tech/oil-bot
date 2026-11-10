@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "ad482dea812fe4ed",
-  "crudeoilmarketanalysisfuturescurveopecandmacrorisks",
   "e3a728a1a16bfac3",
   "goldrisesover1assofteroilpriceseaseinflationworries",
   "c03d76519581a65f",
@@ -603,7 +601,9 @@
   "90bbce415102bc22",
   "crudeoilpricesdeclinefurtheramidoptimismforeasingtensionsinm",
   "2699bd93b070e71a",
-  "papuashviliazerbaijansupplies40ofczechrepublicsimportedcrude"
+  "papuashviliazerbaijansupplies40ofczechrepublicsimportedcrude",
+  "e37f7a32ce28ffb2",
+  "oilfallsbelow90astrumppullsbackfromthreattostrikeiran"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T12:35:15.097606+02:00",
+ "last_run": "2026-11-10T12:40:19.851585+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1172,6 +1172,10 @@
   {
    "d": "2026-11-10",
    "t": "European shares inch toward record highs as sinking oil eases inflation anxiety - Investing.com"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Oil falls below $90 as Trump pulls back from threat to strike Iran - Financial Times"
   }
  ]
 }
