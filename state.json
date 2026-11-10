@@ -4,8 +4,6 @@
   "Brent": 92.71
  },
  "seen": [
-  "72f588eb1f0daf13",
-  "brazilextendstemporarycrudeoilexporttax",
   "c4e1b5343bf901da",
   "pipelineoutagesdelay426mbarrelsofoil",
   "71fae801f3cb595b",
@@ -603,7 +601,9 @@
   "cece647474e25f13",
   "saudiarabiasvitaleastwestpipelinestruckinattack",
   "d4fd0fbb51463cd8",
-  "classifiediraqireporttracks5yearsofoiltheftinstrongholdofusd"
+  "classifiediraqireporttracks5yearsofoiltheftinstrongholdofusd",
+  "98aa9ebacbc634e5",
+  "crudeoilatlowestlevelsincelateaugustasirandealoptimismoutwei"
  ],
  "releases_done": {},
  "last_digest": "2026-11-09",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-10",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-11-10T02:45:18.238376+02:00",
+ "last_run": "2026-11-10T02:50:18.351642+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1064,6 +1064,10 @@
   {
    "d": "2026-11-10",
    "t": "Saudi Arabia reports new attack on key East-West pipeline - Al Jazeera"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Crude oil at lowest level since late August as Iran deal optimism outweighs continued attacks - Seeking Alpha"
   }
  ]
 }
