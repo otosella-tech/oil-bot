@@ -4,16 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "93e83234bf27ea42",
-  "oilfallsastrumpsignalsrestraintoniranamidfreshhormuzattacks",
-  "2e1c1a15dd657cf8",
-  "ftse100rises040asminingsharesadvanceonhighermetalpriceswhile",
-  "17d3e31b2f0feed2",
-  "uptop17lforgasolinep4lfordieselrollbacksetnov10maniladomesti",
-  "576d1b0e2031610d",
-  "goldgainsasloweroilpricestemperinflationfearsusinflationinfo",
-  "19676a4b2091929d",
-  "irandeescalationcutbrentwtispreadto706underpricingsupplyrisk",
   "dad9775e7c84cc1f",
   "ukrainianhitsrussiassecondlargestoilrefineryinovernightdrone",
   "86ced19254f69607",
@@ -603,7 +593,17 @@
   "959c3d44b4c46c54",
   "usmilitarycoordinateswithsaudioiltankersonriskyhormuzcrossin",
   "8c402bada719aac5",
-  "angolasbondsleadretreatamongemergingmarketoilproducers"
+  "angolasbondsleadretreatamongemergingmarketoilproducers",
+  "feac74692d0be9da",
+  "crudeoilfuturesoverview",
+  "f5d6b258a8b3733c",
+  "worldstocksbounceasoilslidesheadingintouscpiprint",
+  "b76e90b48848bbea",
+  "uaesellingsaudioilfromsupertankerattackedingulf",
+  "e902fb14d7b5b270",
+  "oilpricesdropbelow90dollarsastrumpsaysiranwarcouldendsoon",
+  "f23847d4b97da2bc",
+  "iranwaroilpricesfallbutusfarmersarestillpayingtheprice"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T14:10:19.052150+02:00",
+ "last_run": "2026-11-10T14:15:18.492156+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1200,6 +1200,14 @@
   {
    "d": "2026-11-10",
    "t": "U.S. Military Coordinates With Saudi Oil Tankers on Risky Hormuz Crossings"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "UAE selling Saudi oil from supertanker attacked in Gulf - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Iran War: Oil Prices Fall, but U.S. Farmers Are Still Paying the Price - AgroLatam"
   }
  ]
 }
