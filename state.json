@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "c1ed86b9113d9a28",
-  "currentpriceofoilasofnovember52026",
-  "fc84c871554c9e16",
-  "sevenopecproducerskeepdecemberoutputunchangedwhilecrudeopens",
   "51a21a6575abff74",
   "stockindexessharplyhigherastechstocksrallyandcrudeoilfalls",
   "e22a0221a5511cec",
@@ -603,7 +599,11 @@
   "467d678f29336595",
   "europeansharesnearrecordhighasloweroilpricesboostsentiment",
   "e624707bba57d242",
-  "wallstretreatsashotinflationdatafedcommentsfuelrateworries"
+  "wallstretreatsashotinflationdatafedcommentsfuelrateworries",
+  "27e5eb826a7006e2",
+  "wherearecrudeoilpricesheading",
+  "ba05dc15c9db0d38",
+  "crudeoilplungesastrumpsaysrenewediranattacksunlikelycl1comco"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T22:05:15.166241+02:00",
+ "last_run": "2026-11-10T22:10:20.125961+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1292,6 +1292,10 @@
   {
    "d": "2026-11-10",
    "t": "Brent crude dips below $90 for first time since August on Iran hopes - CNBC"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Crude oil plunges as Trump says renewed Iran attacks unlikely (CL1:COM:Commodity) - Seeking Alpha"
   }
  ]
 }
