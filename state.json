@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "20e01431808b15ff",
-  "oilfuturescrudeslidesastrumpsaysiranescalationunlikely",
   "81a68e2aa04c4182",
   "crudeoilpriceforecastoilfalls4asusiransignaltalkstechnicalsp",
   "9f3190a59b3cefee",
@@ -603,7 +601,9 @@
   "dc145bb121934a1d",
   "oilpricestouchtwomonthlowsonsoftenedustonetowardiran",
   "bb2aae188bf43c0f",
-  "midtermresultscouldtriptrumpsenergyindependenceplans"
+  "midtermresultscouldtriptrumpsenergyindependenceplans",
+  "3c6f6695d8f40d57",
+  "whocleansthebirdsafteranoilspillanursefigureditouta"
  ],
  "releases_done": {
   "2026-11-10|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-11",
   "count": 4
  },
- "last_run": "2026-11-11T01:00:32.178323+02:00",
+ "last_run": "2026-11-11T01:05:15.982346+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
