@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "64040556d0f73e4b",
-  "eiauscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
   "9ff4b97f81341742",
   "theworldsoilsafetynetisfrayingnowcomestherushtoremakeit",
   "b0dde2a363166e09",
@@ -603,7 +601,9 @@
   "4ec421b8c13e0b5c",
   "trumpadminpouring480mloanintogulfofamericaoilandgasproject",
   "ece020d25d6a0993",
-  "bccrudeoilfutures"
+  "bccrudeoilfutures",
+  "b47be07ce95d5a54",
+  "usmidtermshake"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T20:55:14.888600+02:00",
+ "last_run": "2026-11-10T21:00:31.351434+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
