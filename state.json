@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "5873dd4ae4cb4fc4",
-  "brentoilfalls4percentonirandealhopes",
   "9964363eb82b02b1",
   "floridagaspricesfallto4monthlownow62centspergallonbelowlates",
   "58f8200c4ccd262e",
@@ -603,7 +601,9 @@
   "f48bba85b4168603",
   "crudeoilpricespressuredbyrampedupdiplomacytoendiranwar",
   "0e37fe3c79b96102",
-  "ushandled12billioninvenezuelanoilrevenuessecretreportshows"
+  "ushandled12billioninvenezuelanoilrevenuessecretreportshows",
+  "fbd6827f79384b26",
+  "brentcrudedipsbelow90forfirsttimesinceaugustoniranwardeescal"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T19:00:34.777013+02:00",
+ "last_run": "2026-11-10T19:05:20.134089+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-11-10",
    "t": "U.S. Handled $12 Billion in Venezuelan Oil Revenues, Secret Report Shows - The New York Times"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Brent crude dips below $90 for first time since August on Iran war de-escalation hopes - CNBC"
   }
  ]
 }
