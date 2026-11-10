@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "70ee3f45060e766e",
-  "oilpricestodaybrentcrudewtifallastrumprulesoutfreshiranstrik",
   "fc197cd0e119dac8",
   "oilslidesmorethan3astrumpdownplaysprospectofnewiranstrikes",
   "6c0065512ef3f304",
@@ -603,7 +601,9 @@
   "e2c468fbfd57fc30",
   "ftse100edgesupasfallingoilweighonenergymajorsamidhotuscpi",
   "af5e95eb4b79ec3f",
-  "russiasoilindustryisfeelingtheheatasukrainiandroneshitrefine"
+  "russiasoilindustryisfeelingtheheatasukrainiandroneshitrefine",
+  "28dec1667126512e",
+  "oilfallsastrumpdownplaysprospectofescalationwithiraneuronext"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-10",
   "count": 60
  },
- "last_run": "2026-11-10T17:00:36.447097+02:00",
+ "last_run": "2026-11-10T17:05:17.260752+02:00",
  "sent_stories": [
   {
    "d": "2026-11-07",
