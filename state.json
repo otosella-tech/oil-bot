@@ -4,10 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "da00da8465e42276",
-  "marketminute11926nvidiaslipsoilslidestostarttheweek",
-  "fd2729037b19ff06",
-  "iraqushormuzdealshiftscrudeoilriskpremiumlower",
   "e9c04c540f71b630",
   "oilcanhit150ifconflictescalatesbutapricecollapseismorelikely",
   "354462eb66893a4e",
@@ -603,7 +599,11 @@
   "70a5fd759541c15f",
   "brentfalls17afterusmidtermsasmiddleeastoilflowsrecover",
   "1ceea2c4774dbf06",
-  "currentpriceofoilasofnov112026"
+  "currentpriceofoilasofnov112026",
+  "e1f32132f5f82e0e",
+  "rweandkkrseal16billionukoffshorewindmegadeal",
+  "4d5da0cdf7d9c9bf",
+  "videoukrainianstrikecausesmajorfireatrussianoilportofustluga"
  ],
  "releases_done": {},
  "last_digest": "2026-11-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-11",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-11-11T14:35:15.216717+02:00",
+ "last_run": "2026-11-11T14:40:18.860223+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1372,6 +1372,10 @@
   {
    "d": "2026-11-11",
    "t": "Fire triggers explosion at Libya’s Sirte gas complex, maintenance blamed - The Arab Weekly"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Video: Ukrainian Strike Causes Major Fire at Russian Oil Port of Ust-Luga - The Maritime Executive"
   }
  ]
 }
