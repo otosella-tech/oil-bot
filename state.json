@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "fcc95c939aad0ac9",
-  "goldsilveradvanceasdollarweakensfedrateexpectationsfaceinfla",
   "4cf8f05d4a3dd25a",
   "iraqs5millionbpdoilclaimcomplicatesitsopecquotapush",
   "22bfcb0bef592fff",
@@ -603,7 +601,9 @@
   "8b797f4608581ce8",
   "trumphelpedrevivethishoustonoilcompanynowitmaygounder",
   "78e04edd28f348f5",
-  "burnhamsnorthseadrillingdilemmarisksukclimateleadership"
+  "burnhamsnorthseadrillingdilemmarisksukclimateleadership",
+  "9754b9649218cad0",
+  "saudiarabiaskeyeastwestpipelinestilloperationalafterlatestat"
  ],
  "releases_done": {},
  "last_digest": "2026-11-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-11",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-11-11T14:10:18.104508+02:00",
+ "last_run": "2026-11-11T14:15:21.684096+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-11-11",
    "t": "Iraq probes oil smuggling claims against Iran-backed factions in Jurf Al-Sakhr - The New Arab"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Saudi Arabia’s Key East-West Pipeline Still Operational After Latest Attack Near Medina - Pipeline Technology Journal"
   }
  ]
 }
