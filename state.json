@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "4cf8f05d4a3dd25a",
-  "iraqs5millionbpdoilclaimcomplicatesitsopecquotapush",
   "22bfcb0bef592fff",
   "the75",
   "ee5fed746db799fe",
@@ -603,7 +601,9 @@
   "78e04edd28f348f5",
   "burnhamsnorthseadrillingdilemmarisksukclimateleadership",
   "9754b9649218cad0",
-  "saudiarabiaskeyeastwestpipelinestilloperationalafterlatestat"
+  "saudiarabiaskeyeastwestpipelinestilloperationalafterlatestat",
+  "1201c2a4803ad0ac",
+  "firetriggersexplosionatlibyassirtegascomplexmaintenanceblame"
  ],
  "releases_done": {},
  "last_digest": "2026-11-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-11",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-11-11T14:20:19.917128+02:00",
+ "last_run": "2026-11-11T14:25:16.114900+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1368,6 +1368,10 @@
   {
    "d": "2026-11-11",
    "t": "Saudi Arabia’s Key East-West Pipeline Still Operational After Latest Attack Near Medina - Pipeline Technology Journal"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Fire triggers explosion at Libya’s Sirte gas complex, maintenance blamed - The Arab Weekly"
   }
  ]
 }
