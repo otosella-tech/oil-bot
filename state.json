@@ -4,10 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "d5e14c06a301bb04",
-  "erdogansayscrudeoiloutputfromturkeysgabarfieldstoexceed10000",
-  "4f9e59d4cd489634",
-  "risingfuelflowsthroughhormuzmayhelpeasestrainedmarket",
   "a9a5bdd2e3207cbe",
   "commentarychinascrudeoilimportsrecoverfuelexportsnotsomuch",
   "e9412cf8d5dedf78",
@@ -603,7 +599,11 @@
   "d6548a9553cb6703",
   "currentpriceofoilasofnovember112026",
   "bcd70426a5dd9a98",
-  "oilpricesplungebelow92astrumpsignalsrestraintoniran"
+  "oilpricesplungebelow92astrumpsignalsrestraintoniran",
+  "288d6b2fe3d030d8",
+  "ukrainiandroneattacksparksfireatrussiaskeybalticoilexporthub",
+  "37eeb66e77b7514c",
+  "saudistellopecoutputsurged26tohighestsincewarbegan"
  ],
  "releases_done": {},
  "last_digest": "2026-11-11",
@@ -615,7 +615,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T15:25:15.222769+02:00",
+ "last_run": "2026-11-11T15:30:25.344922+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1384,6 +1384,14 @@
   {
    "d": "2026-11-11",
    "t": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Ukrainian Drone Attack Sparks Fire at Russia’s Key Baltic Oil Export Hub"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Saudis Tell OPEC Output Surged 26% to Highest Since War Began - Bloomberg.com"
   }
  ]
 }
