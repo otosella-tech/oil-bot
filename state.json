@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "2fb3af41b3f935a3",
-  "crudeoilfallsastrumpsignalsnoimmediatemilitaryactionagainsti",
   "89c56deb8a59934c",
   "oilcostscontinuedownwardtrendbuiltonhopediplomacyendswarnort",
   "75065625f6ffb09f",
@@ -603,10 +601,13 @@
   "f5e184fa9958ac3f",
   "opecforecastsglobaloildemandtogrowby26mmbbldin2027",
   "59e0a35c178e2bb1",
-  "crudeoilfacesageopoliticaltestasrussiasignalsprogresstowardp"
+  "crudeoilfacesageopoliticaltestasrussiasignalsprogresstowardp",
+  "0d8a9c080114afba",
+  "saudicrudeoutputjumps26asriyadhreportsnearpre"
  ],
  "releases_done": {
-  "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+  "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
+  "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|post": 1
  },
  "last_digest": "2026-11-11",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T17:25:16.136882+02:00",
+ "last_run": "2026-11-11T17:30:24.391788+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1434,6 +1435,10 @@
   {
    "d": "2026-11-11",
    "t": "Crude oil faces a geopolitical test as Russia signals progress toward peace - investingLive"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Saudi Crude Output Jumps 26% as Riyadh Reports Near Pre-War Production"
   }
  ]
 }
