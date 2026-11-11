@@ -4,12 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "3b1a54fad0c8725d",
-  "attacktargetssaudiarabiaseastwestoilpipelineinmedina",
-  "86afbe42a6f5f58e",
-  "oilextendsdropastrumpsaysfurtheriranstrikesunnecessary",
-  "e2ef6dc62673376c",
-  "crudeoilmarketupdatefuturescurvesoftensasriskpremiumeases",
   "4dbf46d3f1ea3a1b",
   "thecommoditiesfeedoilslidesoneasingmiddleeasttensions",
   "6f8783c2c993bb73",
@@ -603,7 +597,13 @@
   "7c772e9716c74f8c",
   "crudeoilpricesfallforseconddayasmarkethopesfordiplomaticreso",
   "6e5966d5e1fa61d2",
-  "depcitessixviolationsinriveroilspill"
+  "depcitessixviolationsinriveroilspill",
+  "cb598a6c338829b2",
+  "opecsoilproductionnearsprewarlevelsonsaudirebound",
+  "66834e032b5d5868",
+  "reboundingaistocksliftwallstreet",
+  "1f7cf39771bcd4b0",
+  "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabia"
  ],
  "releases_done": {},
  "last_digest": "2026-11-11",
@@ -615,7 +615,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T16:45:20.688265+02:00",
+ "last_run": "2026-11-11T16:50:19.444022+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1412,6 +1412,14 @@
   {
    "d": "2026-11-11",
    "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound - WSJ"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - The Globe and Mail"
   }
  ]
 }
