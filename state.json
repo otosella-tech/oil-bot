@@ -4,8 +4,6 @@
   "Brent": 94.59
  },
  "seen": [
-  "74e37d0fedaa7ec1",
-  "ftse100rises08asloweroilpricessupportlondonstocksaheadofusin",
   "cb07e4c46d1d9cd8",
   "crudeoilpriceforecastbrentfallsbelow90tolowestsincelateaugus",
   "90bbce415102bc22",
@@ -603,7 +601,9 @@
   "e635d3093c4521bf",
   "strengthincrudeoilspursshortcoveringinsugar",
   "f7c612f0a4e0973a",
-  "oilup2asiranofficialsayscountrywillkeepenrichednuclearmateri"
+  "oilup2asiranofficialsayscountrywillkeepenrichednuclearmateri",
+  "4f8cf06121144f26",
+  "usoilandgasstocksriseascrudepricesclimbonirantensions"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T19:45:18.322240+02:00",
+ "last_run": "2026-11-11T19:50:21.555422+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1475,6 +1475,10 @@
   {
    "d": "2026-11-11",
    "t": "Oil up 2% as Iran official says country will keep enriched nuclear material - Reuters"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "US oil and gas stocks rise as crude prices climb on Iran tensions - Investing.com"
   }
  ]
 }
