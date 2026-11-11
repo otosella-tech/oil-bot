@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "97ed9e283ed018d6",
-  "opecoiloutputrisesinoctoberto90ofprewarratereuterssurveyshow",
-  "b854867fe3e58f95",
-  "brentcrashes7oniranpeacehopesdespitefreshsaudipipelineattack",
   "5db39d1147fbec43",
   "usstocksrecovermoreoflastweekslossesasoilpricesswinglower",
   "2515f3322c9556c3",
@@ -603,7 +599,11 @@
   "779c890403f83b8c",
   "oilfuturescrudeclimbsasdoubtscreepinoverusirandeal",
   "62bcd2966b97f4be",
-  "aramcotradingandqatarenergyoffercrudeoilviatendersdocumentss"
+  "aramcotradingandqatarenergyoffercrudeoilviatendersdocumentss",
+  "cf25c611829c0449",
+  "oildownmorethan7abarrelinpostsettlementtradeastrumpsignalsre",
+  "462d82c74b8c50c5",
+  "crudeoilreboundsashormuzattacksrevivesupplyfears"
  ],
  "releases_done": {
   "2026-11-10|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-11",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-11-11T06:35:15.367874+02:00",
+ "last_run": "2026-11-11T06:40:19.153930+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1307,6 +1307,14 @@
   {
    "d": "2026-11-11",
    "t": "Oil Is Stuck in Limbo, With No More Iran War But No Peace - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran - Reuters"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Crude Oil Rebounds as Hormuz Attacks Revive Supply Fears - HDFC Sky"
   }
  ]
 }
