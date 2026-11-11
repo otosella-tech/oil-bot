@@ -4,8 +4,6 @@
   "Brent": 94.59
  },
  "seen": [
-  "87925f3cef5658b7",
-  "japanpostscurrentaccountsurplusof237trillioninsept",
   "9f97cecf691dcb7a",
   "oilpricesextenddeclineaftertrumpsignalsrestraintoniran",
   "dcb4215a0ffd388b",
@@ -603,7 +601,9 @@
   "fcab869421fdc04a",
   "saudistellopecproductionsurgedtohighestsincewarbegan",
   "3f7ab9df0438b92a",
-  "mexicosoilandgassectoracceleratesoperationalmomentum"
+  "mexicosoilandgassectoracceleratesoperationalmomentum",
+  "f3a323dda1dff6bf",
+  "crudeoilpricesjumponelusivepeaceprospectsinthemiddleeast"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T18:35:17.044778+02:00",
+ "last_run": "2026-11-11T18:40:20.263807+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
