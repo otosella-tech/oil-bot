@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "ad9e38736ac1bbe7",
-  "oilpricesdropover5onhopesofusirantalks",
   "1a2c49e7d5ab8f3d",
   "oilsnextmovecouldbeabruptaspeacetalksstallandsupplyremainsco",
   "c1b752c64650cfff",
@@ -603,7 +601,9 @@
   "e9b700bcac140911",
   "mideastcrisisfuelscrudeconflictinmyanmarcivilwar",
   "a3cd8ed5f7cba618",
-  "crudecoolsoffoilpricesholdnear90perbarrelasusiranwartensions"
+  "crudecoolsoffoilpricesholdnear90perbarrelasusiranwartensions",
+  "062fcd192582a592",
+  "oilrisesfromtwomonthlowashormuzshippingattacksoffsetirantruc"
  ],
  "releases_done": {
   "2026-11-10|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-11",
-  "count": 12
+  "count": 14
  },
- "last_run": "2026-11-11T04:15:19.504285+02:00",
+ "last_run": "2026-11-11T04:20:18.888557+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1299,6 +1299,10 @@
   {
    "d": "2026-11-11",
    "t": "Crude cools off: Oil prices hold near $90 per barrel as US-Iran war tensions ease - The Times of India"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes - Reuters"
   }
  ]
 }
