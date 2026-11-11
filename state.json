@@ -4,10 +4,6 @@
   "Brent": 94.59
  },
  "seen": [
-  "0a8712bb737aad21",
-  "europeanstocksriseasstoxx600gains09onfallingoilpricesaheadof",
-  "7742a8b78bca5d44",
-  "europeansharesinchtowardrecordhighsassinkingoileasesinflatio",
   "3709a89999216fec",
   "oilfallsbelow90astrumpdownplaysprospectofescalationwithiran",
   "74e37d0fedaa7ec1",
@@ -603,7 +599,11 @@
   "df7ba94baa6a2769",
   "crudeoilgains2coreweavepostsupbeatq3results",
   "a6dcc764eccce46e",
-  "europeangaspricesreboundoniranwaruncertainty"
+  "europeangaspricesreboundoniranwaruncertainty",
+  "d14b288199de3159",
+  "brentcrudefallsbelow90forfirsttimesinceaugust",
+  "e635d3093c4521bf",
+  "strengthincrudeoilspursshortcoveringinsugar"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T19:30:25.015473+02:00",
+ "last_run": "2026-11-11T19:35:16.445785+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
