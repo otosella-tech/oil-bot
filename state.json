@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "aeb5d24e42ab3741",
-  "chinasoctobercrudeoilimportsrisetohighestlevelsincemarch",
   "878a6ac8b36afc78",
   "roichinascrudeoilimportsrecoverfuelexportsnotsomuchrussell",
   "dc3ae242a1342535",
@@ -603,7 +601,9 @@
   "44a479346d9f6039",
   "eiaseesbrentnear100fortherestoftheyearascrudefutureseaseagai",
   "e9c04c540f71b630",
-  "oilcanhit150ifconflictescalatesbutapricecollapseismorelikely"
+  "oilcanhit150ifconflictescalatesbutapricecollapseismorelikely",
+  "188dbba95d19b2ad",
+  "oilpricesreboundasiranrejectskeyusnucleardemandandstraitofho"
  ],
  "releases_done": {},
  "last_digest": "2026-11-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-11",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-11-11T15:00:30.282472+02:00",
+ "last_run": "2026-11-11T15:05:15.265383+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1376,6 +1376,10 @@
   {
    "d": "2026-11-11",
    "t": "Video: Ukrainian Strike Causes Major Fire at Russian Oil Port of Ust-Luga - The Maritime Executive"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Oil Prices Rebound as Iran Rejects Key U.S. Nuclear Demand and Strait of Hormuz Shipping Attacks Renew Supply Concerns - EnergyNow.com"
   }
  ]
 }
