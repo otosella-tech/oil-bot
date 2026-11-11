@@ -4,8 +4,6 @@
   "Brent": 94.59
  },
  "seen": [
-  "e37f7a32ce28ffb2",
-  "oilfallsbelow90astrumppullsbackfromthreattostrikeiran",
   "9127ad80b1d5305b",
   "brentcrudefallsbelow90forfirsttimesinceaugustoniranwardeesca",
   "9cf52b82cc6cb66e",
@@ -603,7 +601,9 @@
   "24de6439c399eb3c",
   "analystsseedeclineinuscrudeoilstockpiles",
   "b9a86f3ab0cb0661",
-  "iraqpmordersoilsmugglingprobeinarmedgroupbastion"
+  "iraqpmordersoilsmugglingprobeinarmedgroupbastion",
+  "336f11111c7ea8d4",
+  "vitolsvenezuelaoilwindfalltracedtotraderstiestojdvance"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T20:25:15.536963+02:00",
+ "last_run": "2026-11-11T20:30:24.529526+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1479,6 +1479,10 @@
   {
    "d": "2026-11-11",
    "t": "US oil and gas stocks rise as crude prices climb on Iran tensions - Investing.com"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Vitol’s Venezuela Oil Windfall Traced to Trader’s Ties to JD Vance"
   }
  ]
 }
