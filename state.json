@@ -4,12 +4,6 @@
   "Brent": 94.59
  },
  "seen": [
-  "2a075bfe049d5a10",
-  "trkiyediscoversadditional135millionbarrelsofoilpotentialinga",
-  "075737e78f5af169",
-  "oilpricesdip1amidiranpeacehopesimprovingsupplies",
-  "424c1ae0a2cdcfc0",
-  "oilpricetodaynovember10brentcrudefallsbelow90forfirsttimein3",
   "87925f3cef5658b7",
   "japanpostscurrentaccountsurplusof237trillioninsept",
   "9f97cecf691dcb7a",
@@ -603,7 +597,13 @@
   "62ef46a573d1e75f",
   "venezuelaoilgeartoberepairedinusforfirsttimeinyears",
   "e73929cf4eb5044a",
-  "asiabuysupafricanbrazilianoilasshippingcostsfallthechina"
+  "asiabuysupafricanbrazilianoilasshippingcostsfallthechina",
+  "c92c12b089adb00d",
+  "brentjumpsnearly3asirandeniesanytalkswithwashington",
+  "fcab869421fdc04a",
+  "saudistellopecproductionsurgedtohighestsincewarbegan",
+  "3f7ab9df0438b92a",
+  "mexicosoilandgassectoracceleratesoperationalmomentum"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T18:25:28.765734+02:00",
+ "last_run": "2026-11-11T18:30:26.638858+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1451,6 +1451,14 @@
   {
    "d": "2026-11-11",
    "t": "Venezuela Oil Gear to Be Repaired in US for First Time in Years - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Brent Jumps Nearly 3% as Iran Denies Any Talks With Washington"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Saudis Tell OPEC Production Surged to Highest Since War Began - Rigzone"
   }
  ]
 }
