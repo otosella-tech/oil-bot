@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "4dbf46d3f1ea3a1b",
-  "thecommoditiesfeedoilslidesoneasingmiddleeasttensions",
   "6f8783c2c993bb73",
   "oilpricescontinuetofallonhopesofusiranpeacedealtalks",
   "e73a5b2a6c08681c",
@@ -603,9 +601,13 @@
   "66834e032b5d5868",
   "reboundingaistocksliftwallstreet",
   "1f7cf39771bcd4b0",
-  "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabia"
+  "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabia",
+  "86afbe42a6f5f58e",
+  "oilextendsdropastrumpsaysfurtheriranstrikesunnecessary"
  ],
- "releases_done": {},
+ "releases_done": {
+  "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+ },
  "last_digest": "2026-11-11",
  "digest_prices": {
   "WTI": 86.55,
@@ -615,7 +617,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T16:50:19.444022+02:00",
+ "last_run": "2026-11-11T16:55:14.963619+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1420,6 +1422,10 @@
   {
    "d": "2026-11-11",
    "t": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - The Globe and Mail"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Oil Extends Drop as Trump Says Further Iran Strikes Unnecessary - Bloomberg.com"
   }
  ]
 }
