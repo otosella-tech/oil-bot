@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "a32f239e72b48c59",
-  "oiltankerratesdropbutremainhighimpactingcrudeoilmarketsentim",
   "2b5252d221602258",
   "oilpricesfallonhopesforpeacebetweenusandiran",
   "adce13401bd73beb",
@@ -603,7 +601,9 @@
   "9bf3e7b68f8cc794",
   "southsudancourtsoilinvestorsassudanswarringforcestaketheirsh",
   "078a116f404bde2b",
-  "unitedstatesenergysecretaryannouncesloantoexpandenergyproduc"
+  "unitedstatesenergysecretaryannouncesloantoexpandenergyproduc",
+  "0e52551b8af0ae69",
+  "ifthewarwindsdownthepriceofoilwillplummetsaysjimcramer"
  ],
  "releases_done": {
   "2026-11-10|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-11",
-  "count": 8
+  "count": 10
  },
- "last_run": "2026-11-11T02:20:21.002782+02:00",
+ "last_run": "2026-11-11T02:25:14.642017+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1291,6 +1291,10 @@
   {
    "d": "2026-11-11",
    "t": "South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "If the war winds down, the price of oil will plummet, says Jim Cramer - CNBC"
   }
  ]
 }
