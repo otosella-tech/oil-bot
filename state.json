@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 87.49,
-  "Brent": 94.59
+  "Brent": 92.66
  },
  "seen": [
-  "f8fa685d699b86b8",
-  "crudeoillosesgroundonrenewedusirandealhopesbutaconcretebreak",
   "959c3d44b4c46c54",
   "usmilitarycoordinateswithsaudioiltankersonriskyhormuzcrossin",
   "8c402bada719aac5",
@@ -603,7 +601,9 @@
   "9189cf6134880110",
   "sugarpricesriseasstrengthincrudeoilspursshortcovering",
   "1578a19c9bd217d9",
-  "opinionthinkdieselpricesarebadwaituntilyourhouseneedsheating"
+  "opinionthinkdieselpricesarebadwaituntilyourhouseneedsheating",
+  "e330b4f6d648c3dc",
+  "brazilspetrobrastoincreaseproductioncapacityatanothersixoilp"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T21:35:16.588939+02:00",
+ "last_run": "2026-11-11T21:40:19.689249+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
