@@ -4,10 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "20ca39a04007612c",
-  "dieselpricescouldeaseascrudeoilpricesdrop",
-  "6cbc1a2ad283e007",
-  "oilspillentersalleghenyrivernearwarrendepcitessixviolations",
   "c89abecb2f28a5e6",
   "chinacrudeoilimportshitsevenmonthhighinoctober",
   "7780a2137fcbfbbe",
@@ -603,7 +599,11 @@
   "0806b17c6c608f87",
   "braziltosendenergyministertovenezuelaamidpetrobrasinterest",
   "b8ea872f92fb1422",
-  "fallingoilpricesarenolongerenoughtobringdownborrowingcostsin"
+  "fallingoilpricesarenolongerenoughtobringdownborrowingcostsin",
+  "bc81fa5876c76277",
+  "fusionsnextraceisoversuperconductingtapenotplasma",
+  "ce8a952c8412259e",
+  "kaztransoilchevrondiscussexpandingoilexportsviabtcpipelineus"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-12",
   "count": 4
  },
- "last_run": "2026-11-12T00:55:20.616439+02:00",
+ "last_run": "2026-11-12T01:00:32.051095+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
