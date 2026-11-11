@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "1a0bd3141519b54f",
-  "uaecutsflagshipoilpriceasmideastsupplyjumpstirsrivalry",
   "5907cdd6b28f597d",
   "tribunalhearingsbegininuk",
   "a1cfb5d5bf592606",
@@ -603,7 +601,9 @@
   "b6b4f1beb1781a9a",
   "currentpriceofoilasofnovember102026",
   "fe711cefc13cbbd9",
-  "oilreboundsastightinventoriesandmiddleeastriskssupportprices"
+  "oilreboundsastightinventoriesandmiddleeastriskssupportprices",
+  "497152526f2ac5c3",
+  "brazilvenezuelavowtoupgradetieswithoilinvestmenttalks"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T23:05:19.889862+02:00",
+ "last_run": "2026-11-11T23:10:20.531022+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1511,6 +1511,10 @@
   {
    "d": "2026-11-11",
    "t": "Brent oil rebounds after attacks on ships in Hormuz - Inspenet"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Brazil, Venezuela Vow to Upgrade Ties With Oil Investment Talks - Bloomberg.com"
   }
  ]
 }
