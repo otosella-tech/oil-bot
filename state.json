@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "0481d955e17cd43a",
-  "usstocksrallyandrecovermostoflastweekslossesasoilpricesswing",
   "6091dbfa653a5d84",
   "currentaccountsurplusat171482trillioninfirsthalfhighercrudeo",
   "cad383551e8ebc20",
@@ -603,7 +601,9 @@
   "ffcc49b38fc0c979",
   "oilpricesriseasinvestorsmonitorshippingdisruptioninthestrait",
   "9c1a1bcdd9e78567",
-  "howavitoltraderstiestojdvancehelpedlandaprizedvenezuelaoilco"
+  "howavitoltraderstiestojdvancehelpedlandaprizedvenezuelaoilco",
+  "8368b03554e75a29",
+  "iraqprobesoilsmugglingclaimsagainstiranbackedfactionsinjurfa"
  ],
  "releases_done": {},
  "last_digest": "2026-11-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-11",
-  "count": 51
+  "count": 53
  },
- "last_run": "2026-11-11T14:00:30.555869+02:00",
+ "last_run": "2026-11-11T14:05:15.254004+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1360,6 +1360,10 @@
   {
    "d": "2026-11-11",
    "t": "Oil prices rise as investors monitor shipping disruption in the Strait of Hormuz - Yahoo Finance Australia"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Iraq probes oil smuggling claims against Iran-backed factions in Jurf Al-Sakhr - The New Arab"
   }
  ]
 }
