@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "263f313520516f93",
-  "dollarfallsonstockstrengthandcrudeoilweakness",
   "57e0e3acc17f87a3",
   "whysudanscivilwarisbecomingausnationalsecuritythreat",
   "f9592d0084089f43",
@@ -603,7 +601,9 @@
   "dd17ec87f69a1435",
   "oilreboundsashormuzshippingattacksblunthopesforirantruce",
   "57ea4cfacadd5a81",
-  "crudeoilpricesplummetasiranpeaceoptimismclimbs"
+  "crudeoilpricesplummetasiranpeaceoptimismclimbs",
+  "676af7ddf8580ecc",
+  "oilpricesretreataspeacehopesgrow"
  ],
  "releases_done": {},
  "last_digest": "2026-11-10",
@@ -615,7 +615,7 @@
   "date": "2026-11-11",
   "count": 21
  },
- "last_run": "2026-11-11T07:10:18.277336+02:00",
+ "last_run": "2026-11-11T07:15:18.281085+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
