@@ -4,10 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "93e835f4b8d9705d",
-  "oilmembranereducesenergyinrefining",
-  "117503a316cb7b89",
-  "canadiandollarunderperformsmostg10currenciesasoilfalls",
   "71b481b202e36c55",
   "usstocksrallyascrudeoilpricesdropevenasnvidiasinksmessenger",
   "f8a4b2d16d12f532",
@@ -603,7 +599,11 @@
   "9e1e3cc0071dcad4",
   "doeclosesitsfirstoilandgasloantwentytwogulfplatformsgetaseco",
   "eed4392ab36a1782",
-  "uscrudeoilimportsfromvenezuelainjulyhighestsince2017analysis"
+  "uscrudeoilimportsfromvenezuelainjulyhighestsince2017analysis",
+  "cef288e70d24ceff",
+  "oilrisesasmiddleeastriskslinger",
+  "82fa2646d6ac2186",
+  "whymainlandchinainvestorsarefindingbetterreturnsabroadthanin"
  ],
  "releases_done": {
   "2026-11-10|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-11",
   "count": 14
  },
- "last_run": "2026-11-11T05:00:30.780546+02:00",
+ "last_run": "2026-11-11T05:05:14.651784+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
