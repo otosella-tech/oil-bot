@@ -4,10 +4,6 @@
   "Brent": 94.59
  },
  "seen": [
-  "9cf52b82cc6cb66e",
-  "uaeissellingsaudioilinararemovedocumentshows",
-  "40fa876ed8c4b32e",
-  "oilpricesextenddeclineastrumpsignalspauseinfurthermilitaryac",
   "a30e5bee6e9ade7e",
   "wallstreetfuturesmixedasinvestorsawaituscpioilnears90andaist",
   "e8a607bc895b49d8",
@@ -603,7 +599,11 @@
   "336f11111c7ea8d4",
   "vitolsvenezuelaoilwindfalltracedtotraderstiestojdvance",
   "e37f7a32ce28ffb2",
-  "oilfallsbelow90astrumppullsbackfromthreattostrikeiran"
+  "oilfallsbelow90astrumppullsbackfromthreattostrikeiran",
+  "561120232660dedd",
+  "crudepricesrecoverasshippingattackscomplicateiranpeaceeffort",
+  "5b2b9339d4c3aded",
+  "trumpsaysvenezuelanoilrevenueswillreachhundredsofbillionsver"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T20:40:19.262085+02:00",
+ "last_run": "2026-11-11T20:45:19.123622+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1487,6 +1487,10 @@
   {
    "d": "2026-11-11",
    "t": "Oil falls below $90 as Trump pulls back from threat to strike Iran - Financial Times"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Crude prices recover as shipping attacks complicate Iran peace efforts - Oil & Gas 360"
   }
  ]
 }
