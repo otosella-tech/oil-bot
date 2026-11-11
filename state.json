@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "cece647474e25f13",
-  "saudiarabiasvitaleastwestpipelinestruckinattack",
   "d4fd0fbb51463cd8",
   "classifiediraqireporttracks5yearsofoiltheftinstrongholdofusd",
   "98aa9ebacbc634e5",
@@ -603,7 +601,9 @@
   "738ce83f27712e7a",
   "iranwarisntoutofthewoodstopstrategistwarnsoilissignificantly",
   "f1ad7b304ca78324",
-  "oilsteadiesashormuzattacksblunthopesforirantruce"
+  "oilsteadiesashormuzattacksblunthopesforirantruce",
+  "e16431f515751e64",
+  "oilreboundsaftertwodaydroponusiranconflictuncertainty"
  ],
  "releases_done": {},
  "last_digest": "2026-11-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-11",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-11-11T11:50:19.768203+02:00",
+ "last_run": "2026-11-11T11:55:16.516078+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1340,6 +1340,10 @@
   {
    "d": "2026-11-11",
    "t": "Iran War ‘Isn’t Out of the Woods’: Top Strategist Warns Oil Is ‘Significantly Oversold and Underpriced’ W - Benzinga"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Oil Rebounds After Two-Day Drop on U.S.-Iran Conflict Uncertainty - WSJ"
   }
  ]
 }
