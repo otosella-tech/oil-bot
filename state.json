@@ -4,10 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "5a233c5bbfe8b76f",
-  "tcullendavisatexasoiltycoonacquittedina1970smurdertrialhasdi",
-  "5d9598fbea13b298",
-  "goldholdsgainabove4100asloweroileasesinflationwoes",
   "14367e1b593fab98",
   "cophostcountrieskeepbeingcontradictedbytheirownoilandgasambi",
   "cece647474e25f13",
@@ -603,7 +599,11 @@
   "50b60d8ed85ff4ee",
   "commentarybondstormof2026maybepassingbutfedgustslinger",
   "53224742f4053c2c",
-  "oilfuturesslideastrumpsaysnewstrikesoniranunlikely"
+  "oilfuturesslideastrumpsaysnewstrikesoniranunlikely",
+  "28e1750275f20cc3",
+  "oilpricesriseamidtankerattacksinstraitofhormuz",
+  "738ce83f27712e7a",
+  "iranwarisntoutofthewoodstopstrategistwarnsoilissignificantly"
  ],
  "releases_done": {},
  "last_digest": "2026-11-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-11",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-11-11T11:40:20.460001+02:00",
+ "last_run": "2026-11-11T11:45:18.729967+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1332,6 +1332,14 @@
   {
    "d": "2026-11-11",
    "t": "Saudi Arabia and Turkey Sign Major 3 GW Wind Power Deal"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Oil prices rise amid tanker attacks in Strait of Hormuz - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Iran War ‘Isn’t Out of the Woods’: Top Strategist Warns Oil Is ‘Significantly Oversold and Underpriced’ W - Benzinga"
   }
  ]
 }
