@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "5907cdd6b28f597d",
-  "tribunalhearingsbegininuk",
   "a1cfb5d5bf592606",
   "globalstocksstrengthenasoildipsbelow90abarrel",
   "ab415d924ce9f09f",
@@ -603,7 +601,9 @@
   "fe711cefc13cbbd9",
   "oilreboundsastightinventoriesandmiddleeastriskssupportprices",
   "497152526f2ac5c3",
-  "brazilvenezuelavowtoupgradetieswithoilinvestmenttalks"
+  "brazilvenezuelavowtoupgradetieswithoilinvestmenttalks",
+  "ae52a3c2932f425d",
+  "iraqipmordersinquiryintooilproductsmugglinginareacontrolledb"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-11",
   "count": 60
  },
- "last_run": "2026-11-11T23:40:20.274611+02:00",
+ "last_run": "2026-11-11T23:45:19.033253+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1515,6 +1515,10 @@
   {
    "d": "2026-11-11",
    "t": "Brazil, Venezuela Vow to Upgrade Ties With Oil Investment Talks - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Iraqi PM orders inquiry into oil product smuggling in area controlled by Iran-backed militia - www.thenationalnews.com"
   }
  ]
 }
