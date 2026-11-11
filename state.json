@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "4b521101fff1b8be",
-  "breakingviewscommentaryoilspeacetraderisksarudeawakening",
   "55931cdb3a7a2a6a",
   "usreceived12billionfromvenezuelasoilreportshows",
   "20ca39a04007612c",
@@ -603,7 +601,9 @@
   "38e31b8ff7a423b2",
   "bigoilhasmoretofearfromtruckersthanevs",
   "9a154d1de403fd82",
-  "riverroadreopensafteroilleakfromtransformerinmaumee"
+  "riverroadreopensafteroilleakfromtransformerinmaumee",
+  "0806b17c6c608f87",
+  "braziltosendenergyministertovenezuelaamidpetrobrasinterest"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-12",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-12T00:10:19.537272+02:00",
+ "last_run": "2026-11-12T00:15:19.738759+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1463,6 +1463,10 @@
   {
    "d": "2026-11-12",
    "t": "Oil rises after Iran says no nuclear material will leave the country - CNBC"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Brazil to send energy minister to Venezuela amid Petrobras interest - Reuters"
   }
  ]
 }
