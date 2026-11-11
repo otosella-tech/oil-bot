@@ -4,8 +4,6 @@
   "Brent": 90.84
  },
  "seen": [
-  "643016ac547c7e7a",
-  "usequitymarketsendhigherasoildropsindustrialsconsumerdiscret",
   "53224742f4053c2c",
   "oilfuturesslideastrumpsaysnewstrikesoniranunlikely",
   "65f084865b8ee9c4",
@@ -603,7 +601,9 @@
   "4abe112c7c242dda",
   "japanseneosupsfy26netprofitforecast48onstrongeroilprices",
   "54330efec1324b4a",
-  "rupeeoutpacesmostasianpeersasequityinflowsoffsethawkishfedbe"
+  "rupeeoutpacesmostasianpeersasequityinflowsoffsethawkishfedbe",
+  "b406756134d39a06",
+  "oilgainsaftertwodaydropwithfocusonusiranwaroutlook"
  ],
  "releases_done": {},
  "last_digest": "2026-11-11",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-11",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-11-11T08:25:15.438371+02:00",
+ "last_run": "2026-11-11T08:30:25.169957+02:00",
  "sent_stories": [
   {
    "d": "2026-11-08",
@@ -1316,6 +1316,10 @@
   {
    "d": "2026-11-11",
    "t": "Oil rebounds as Hormuz shipping attacks blunt hopes for Iran truce - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "Oil Gains After Two-Day Drop With Focus on US-Iran War Outlook - Bloomberg.com"
   }
  ]
 }
