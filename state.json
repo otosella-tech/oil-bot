@@ -4,10 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "13037550f1ba5836",
-  "redflagforsableoffshoreaschevronrefinerythatprocessesitsoils",
-  "e6638039acd94740",
-  "saudicrudeoutputjumps26asriyadhreportsnearprewarproduction",
   "6d6898b584838b45",
   "saudiarabiascrudeoiloutputinoctoberreturnedtoprewarlevelsope",
   "da9ae232ac76b085",
@@ -603,7 +599,11 @@
   "d6e6267113da2fba",
   "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabia",
   "4684cc4c70a495a1",
-  "trumpsaysushasentereddealwithvenezuelatotakecontrolof65billi"
+  "trumpsaysushasentereddealwithvenezuelatotakecontrolof65billi",
+  "32e7cf2dc745c398",
+  "uscollected12billioninvenezuelanoilsalesreturningnearlyallof",
+  "f27bd18d69beb66d",
+  "international"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T22:25:16.464973+02:00",
+ "last_run": "2026-11-12T22:30:25.455158+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1712,6 +1712,10 @@
   {
    "d": "2026-11-12",
    "t": "Trump says US has entered deal with Venezuela to take control of 65 billion barrels of oil reserves - AP News"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "U.S. Collected $12 Billion in Venezuelan Oil Sales, Returning Nearly All of It - WSJ"
   }
  ]
 }
