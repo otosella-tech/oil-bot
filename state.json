@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "a0a419f58e4c0713",
-  "middleeastoilflowsfarfromnormaldespitesignsofoversupply",
   "01c17af8e682bacd",
   "petrobrasearningsdisappointdespiteoilrefiningtailwinds",
   "d27dea7ddb823836",
@@ -603,7 +601,9 @@
   "7720f1d7b4ee6708",
   "bpshellandtotalenergieswherenextforoilstocksascrudepricesfal",
   "aa937e03a68559c7",
-  "yourthursdaynov12guidefivethingstodointheoilcity"
+  "yourthursdaynov12guidefivethingstodointheoilcity",
+  "a4d24dcd7ae9d8e9",
+  "oilpricesriseasgeopoliticalrisksoffsetrisingcrudeoutput"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T16:10:20.939702+02:00",
+ "last_run": "2026-11-12T16:15:20.581768+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
