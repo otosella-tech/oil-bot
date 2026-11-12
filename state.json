@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "64cf9d98ba3cb391",
-  "indiaapproves73billionhigh",
   "cd1128bce520c488",
   "libyasnocdiscusses2027oilexplorationwithrepsoltpaoandmol",
   "7c772e9716c74f8c",
@@ -603,7 +601,9 @@
   "ec44fe723a8b5bc6",
   "goldsilverreboundaftercpidrivenselloffhormuztensionsliftcrud",
   "ea702812f391a166",
-  "bsereviseswticrudeoilderivativescontractspecifications"
+  "bsereviseswticrudeoilderivativescontractspecifications",
+  "2149be10f0fe6d8e",
+  "oilpricesriseaftertrumpsaysnoirandealneededwevegottheirstrai"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T21:50:19.155087+02:00",
+ "last_run": "2026-11-12T21:55:14.915671+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1688,6 +1688,10 @@
   {
    "d": "2026-11-12",
    "t": "Gold, silver rebound after CPI-driven selloff, Hormuz tensions lift crude oil - Kitco AM Report - Kitco"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait' - CNBC"
   }
  ]
 }
