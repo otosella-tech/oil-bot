@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "094ef71d3eeb206d",
-  "californiasenatorsatcop31urgeecuadortocancelamazonoilauction",
   "2ca9aaa00d497baf",
   "apishowssharpbuildinuscrudeoildistillateinventories",
   "1afe4df1218376b8",
@@ -603,7 +601,9 @@
   "2143739c9ad5f90c",
   "your300000inxleholds116286injusttwooilcompanies",
   "6849ceeb63e0a959",
-  "oilgainsafterearlydropasgeopoliticalriskssupportmarketbyreut"
+  "oilgainsafterearlydropasgeopoliticalriskssupportmarketbyreut",
+  "2fcb3368cda893c8",
+  "ukrainesgeneralstaffconfirmsstrikesonfiveofrussiaslargestoil"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-12",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-11-12T14:20:19.161923+02:00",
+ "last_run": "2026-11-12T14:25:18.687916+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1560,6 +1560,10 @@
   {
    "d": "2026-11-12",
    "t": "The Strait of Hormuz was the biggest game changer for markets in 2026 - Yahoo Finance Singapore"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Ukraine's General Staff confirms strikes on five of Russia's largest oil refineries in two weeks - Українська правда"
   }
  ]
 }
