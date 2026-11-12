@@ -4,10 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "b0c046eb9abec4fc",
-  "iranwarsettodriveadropinglobalfossilfuelemissionsin2026",
-  "dde8e23b728231d6",
-  "usstockfuturestrademixedwithfocusoncpianthropicipo",
   "adc43d8d92475f48",
   "oilfallsonunconfirmedreportthatiraneasedhormuzdemands",
   "79793619a1fbfb75",
@@ -603,7 +599,11 @@
   "b98532d06dd63802",
   "gaspricesfallbelow4asmoreoilflowsbutexpertswarnreliefmaynotl",
   "4e76c3636e1ffbca",
-  "whowillbuysablesoilifcaliforniakeepsclosingrefineries"
+  "whowillbuysablesoilifcaliforniakeepsclosingrefineries",
+  "b229bafea8604ed8",
+  "biodieselmandatesbiteasindonesialosesindiaedibleoillead",
+  "5f02f47d8bbf5385",
+  "ieaproposesmethaneratingsforoilandgasbuyers"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-12",
   "count": 10
  },
- "last_run": "2026-11-12T03:05:15.460739+02:00",
+ "last_run": "2026-11-12T03:10:21.129337+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
