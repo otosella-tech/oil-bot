@@ -4,20 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "cb598a6c338829b2",
-  "opecsoilproductionnearsprewarlevelsonsaudirebound",
-  "66834e032b5d5868",
-  "reboundingaistocksliftwallstreet",
-  "1f7cf39771bcd4b0",
-  "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabia",
-  "86afbe42a6f5f58e",
-  "oilextendsdropastrumpsaysfurtheriranstrikesunnecessary",
-  "27ccaf7f879482da",
-  "iranwarbreathesnewlifeintoturkmenistans10billionpipelinedrea",
-  "b381aed9678f96d5",
-  "redflagforsableoffshoreaschevronrefinerythatprocessesitsoilh",
-  "f5e184fa9958ac3f",
-  "opecforecastsglobaloildemandtogrowby26mmbbldin2027",
   "59e0a35c178e2bb1",
   "crudeoilfacesageopoliticaltestasrussiasignalsprogresstowardp",
   "0d8a9c080114afba",
@@ -603,7 +589,21 @@
   "bd147a2c2533566b",
   "decemberwticrudeoilcontractclosesup221or26settlesat8874perba",
   "80f513266f9f0134",
-  "houthisclaim2strikesoneastwestpipelineandyanbuoilfacilities"
+  "houthisclaim2strikesoneastwestpipelineandyanbuoilfacilities",
+  "4c914bc9647e50de",
+  "eveningupdateforcrudeoil12112026",
+  "9490f0a7236113fb",
+  "makindecampaigndemandsprobeoftinubusn112trncrudeoilbackedloa",
+  "23b43962f6d62aa7",
+  "pmmodisayswestasiaconflictpushedcrudeoilpricestousd122perbar",
+  "5d977e275af5f624",
+  "usnetimportsofcrudeoilandpetroleumproductsthousandbarrelsper",
+  "62ab3bbe6149a34b",
+  "saudiarabiashutdowneastwestcrudeoilpipelineaftermultipleatta",
+  "6fc6fca210b0c3db",
+  "crudeoilandpetroleumproductpricesincreasedsharplyinthefirstq",
+  "f96adea81fd2cb80",
+  "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T22:05:16.950942+02:00",
+ "last_run": "2026-11-12T22:10:19.019987+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1696,6 +1696,14 @@
   {
    "d": "2026-11-12",
    "t": "Houthis Claim 2 Strikes on East-West Pipeline and Yanbu Oil Facilities - https://houseofsaud.com/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq - CNBC"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained - CNBC"
   }
  ]
 }
