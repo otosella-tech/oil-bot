@@ -4,10 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "def14bd08720aff8",
-  "oilpricesriseasinvestorsmonitorhormuzshippingdisruption",
-  "a2a26d80264bab53",
-  "crudeoilreboundsasexpectationsforanimminentdealfadeamidthela",
   "dbe48b46e627770c",
   "oilup1afteriransaysnonuclearmaterialwillleavethecountry",
   "b478a28f4353691d",
@@ -603,7 +599,11 @@
   "9422a513a60e6f3f",
   "saudiarabiatellsopecoctobercrudeoutputroseto10563millionbarr",
   "d84368e3bee9d420",
-  "oilgiantexxonmobilleftvenezuelayearsagonowitsconsideringaret"
+  "oilgiantexxonmobilleftvenezuelayearsagonowitsconsideringaret",
+  "0d354390a29502d4",
+  "oilgainsover1onstraitofhormuzshippingdisruptionsrussiatensio",
+  "717c72c0d6b1d5a5",
+  "oilgainsnearly2despiteasharpriseinusinventories"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T19:50:19.823122+02:00",
+ "last_run": "2026-11-12T19:55:22.108146+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1672,6 +1672,10 @@
   {
    "d": "2026-11-12",
    "t": "Saudi Arabia Tells OPEC October Crude Output Rose to 10.563 Million Barrels Per Day: 8 outlets compared - NewsCord"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Oil gains over $1 on Strait of Hormuz shipping disruptions, Russia tensions - Reuters"
   }
  ]
 }
