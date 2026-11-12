@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "a6dcc764eccce46e",
-  "europeangaspricesreboundoniranwaruncertainty",
   "d14b288199de3159",
   "brentcrudefallsbelow90forfirsttimesinceaugust",
   "e635d3093c4521bf",
@@ -603,7 +601,9 @@
   "d3ee3f4eee2226fe",
   "oilsettles3higheronattacksonsaudienergysitesstraitofhormuzdi",
   "02f0f8e0dd959085",
-  "wallstreetshakesfollowingswingsfornvidiaandoilpricesbutrecov"
+  "wallstreetshakesfollowingswingsfornvidiaandoilpricesbutrecov",
+  "f35fd4fc2adca4f1",
+  "usequityindexesfallasnvidiaceojensenhuangresignscrudeoiljump"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T23:05:25.533728+02:00",
+ "last_run": "2026-11-12T23:10:19.820480+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
