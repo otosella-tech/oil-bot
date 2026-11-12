@@ -4,10 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "b47be07ce95d5a54",
-  "usmidtermshake",
-  "590e12c0df914c90",
-  "oilpriceseasetotwomonthlowsasusdownplaysfurtheriranstrikes",
   "6867a621482c7ffa",
   "oilshockfromiranwarledtodropincarbonpollutionscientistssay",
   "de544f2f890537c4",
@@ -603,7 +599,11 @@
   "4b26f246aae31910",
   "opecoctoberoutputrose2millionbpdasbrentfellbelow90",
   "90d6c983449fd126",
-  "daehanshipbuildingwins2498billionwonorderfortwocrudeoiltanke"
+  "daehanshipbuildingwins2498billionwonorderfortwocrudeoiltanke",
+  "dfbe15f50661df11",
+  "bccrudeoilfutures",
+  "2ed32d68e1994751",
+  "crudeoilmarketopecoutputjumpssaudisupplyrampsup"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-12",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-11-12T10:55:15.827453+02:00",
+ "last_run": "2026-11-12T11:00:29.341872+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1516,6 +1516,10 @@
   {
    "d": "2026-11-12",
    "t": "Oil Prices Fall as Investors Weigh U.S.-Iran Diplomacy - WSJ"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Crude Oil Market: OPEC+ Output Jumps, Saudi Supply Ramps Up - CMB News"
   }
  ]
 }
