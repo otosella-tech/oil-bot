@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "28e1750275f20cc3",
-  "oilpricesriseamidtankerattacksinstraitofhormuz",
   "738ce83f27712e7a",
   "iranwarisntoutofthewoodstopstrategistwarnsoilissignificantly",
   "f1ad7b304ca78324",
@@ -603,7 +601,9 @@
   "361e04c70d6c75c7",
   "uscrudeoilinventoriesrise4657mbarrelsdefyingforecast",
   "22d70cdec2fb0109",
-  "crudeoilinventoriesriseunexpectedlypressuringpricesbyinvesti"
+  "crudeoilinventoriesriseunexpectedlypressuringpricesbyinvesti",
+  "1e0913250cb266a5",
+  "crudeoilfuturestryingtokeepatechnicalceilinginplace"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T19:10:20.757546+02:00",
+ "last_run": "2026-11-12T19:15:21.088033+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
