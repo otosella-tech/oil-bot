@@ -4,12 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "a88669d1a97e7ecf",
-  "oilpriceshittwomonthlowsasusdownplaysfurtheriranstrikes",
-  "f48bba85b4168603",
-  "crudeoilpricespressuredbyrampedupdiplomacytoendiranwar",
-  "0e37fe3c79b96102",
-  "ushandled12billioninvenezuelanoilrevenuessecretreportshows",
   "fbd6827f79384b26",
   "brentcrudedipsbelow90forfirsttimesinceaugustoniranwardeescal",
   "35f9430e62a5f528",
@@ -603,7 +597,13 @@
   "201d8d0619a142b2",
   "shorttermenergyoutlooknovember2026",
   "60995cc57006dea4",
-  "usenergyagencyincreases2026crudeoilpriceforecasts"
+  "usenergyagencyincreases2026crudeoilpriceforecasts",
+  "3669a9bb73acd7fa",
+  "oilfallstolowestlevelsinceaugust",
+  "75df3474a2a3b547",
+  "october2026monthlyanalysisofrussianfossilfuelexportsandsanct",
+  "3ef48e36cde9d759",
+  "indiagulfoilimportssurpassrussiaforfirsttimeiniranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-12",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-11-12T09:00:28.342217+02:00",
+ "last_run": "2026-11-12T09:05:14.939309+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1500,6 +1500,10 @@
   {
    "d": "2026-11-12",
    "t": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "India Gulf Oil Imports Surpass Russia for First Time in Iran War - Bloomberg.com"
   }
  ]
 }
