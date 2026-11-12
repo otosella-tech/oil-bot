@@ -4,14 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "62bcd2966b97f4be",
-  "aramcotradingandqatarenergyoffercrudeoilviatendersdocumentss",
-  "cf25c611829c0449",
-  "oildownmorethan7abarrelinpostsettlementtradeastrumpsignalsre",
-  "462d82c74b8c50c5",
-  "crudeoilreboundsashormuzattacksrevivesupplyfears",
-  "1711dd3e0db836bf",
-  "chinaoilimportsreach4194milliontonsinoctober2026highestsince",
   "73c9cf863c9f02f2",
   "eneosraisesfyprofitforecastby50onstrongeroilmarkets",
   "b8cbb7412327a1d4",
@@ -603,7 +595,15 @@
   "0c6d2f6ae85ddd60",
   "oilpriceisstillhighboonforexxonmobilsupstreambusiness",
   "d76023a34dd2cae4",
-  "10yeartreasuryyieldjumpsbackabove5asoilgainsmorefedhikesexpe"
+  "10yeartreasuryyieldjumpsbackabove5asoilgainsmorefedhikesexpe",
+  "ab11a279ea8ddb33",
+  "euimportsofrussianlngtop2025valueaheadofjanuaryban",
+  "07647fb068e1a9a6",
+  "oilisstuckinlimbowithnomoreiranwarbutnopeace",
+  "db46950bb74ad702",
+  "eiaraises20262027oilpriceforecastsyetagain",
+  "50ef8967343b8940",
+  "canadiandollarandbusinessoutlooklooniefallscrudeoilmakesgain"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T17:25:16.016436+02:00",
+ "last_run": "2026-11-12T17:30:26.175103+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1608,6 +1608,14 @@
   {
    "d": "2026-11-12",
    "t": "Five Out of Five: Ukraine Strikes All of Russia’s Largest Oil Refineries in Less Than Two Weeks - UNITED24 Media"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "EU Imports of Russian LNG Top 2025 Value Ahead of January Ban"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Oil Is Stuck in Limbo, With No More Iran War But No Peace - Bloomberg.com"
   }
  ]
 }
