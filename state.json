@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "f9349c5d415da781",
-  "oilpricesfallduetoreducedtensionwithiran",
   "cbe834de972422aa",
   "averageusgasolinepricedipsbelow4forfirsttimesincejuly",
   "e2fd29d1792bd6f8",
@@ -603,7 +601,9 @@
   "41e86f13d27e5532",
   "currentpriceofoilasofnovember92026",
   "4c8a98ae937bfbee",
-  "indiansharesopenflatafterforeigninflowdrivenrally"
+  "indiansharesopenflatafterforeigninflowdrivenrally",
+  "f90c1ec81a104b24",
+  "oilrisesonmixedsignalsoveriranwaroutlook"
  ],
  "releases_done": {},
  "last_digest": "2026-11-11",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 18
  },
- "last_run": "2026-11-12T07:45:17.853861+02:00",
+ "last_run": "2026-11-12T07:50:18.581569+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
