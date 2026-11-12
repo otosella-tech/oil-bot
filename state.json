@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "f98c3a14e44e4433",
-  "burnhamheadstocop31tornbetweencheaperpowerandnetzero",
   "531f181ba9244308",
   "energybriefsisthereanoilglutinthemiddleeast",
   "fae7bf6d26a1e6e6",
@@ -603,7 +601,9 @@
   "37145763b68ad857",
   "venezuelaends19",
   "635919851e69a089",
-  "venezuelaends19yearpowermonopolywithoilfieldsfirstinline"
+  "venezuelaends19yearpowermonopolywithoilfieldsfirstinline",
+  "1550d357c6b8248d",
+  "importpricesfall18asoilwondecline"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 10
  },
- "last_run": "2026-11-13T01:05:17.342217+02:00",
+ "last_run": "2026-11-13T01:10:19.862078+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
