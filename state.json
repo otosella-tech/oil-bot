@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "d55d90ef330310a8",
-  "brentcrudedipsbelow90forfirsttimesinceaugustoniranhopes",
   "467d678f29336595",
   "europeansharesnearrecordhighasloweroilpricesboostsentiment",
   "e624707bba57d242",
@@ -603,7 +601,9 @@
   "7afc36cfde8270b7",
   "oilpricesedgelowerasrisingcrudeoutputoffsetgeopoliticalrisks",
   "34ce903746984a89",
-  "oilsupplyrecoversbutnowarnopeacekeepsescalationriskselevated"
+  "oilsupplyrecoversbutnowarnopeacekeepsescalationriskselevated",
+  "30084fefdd087730",
+  "toplibyanoilexecutivewarnsoffundingissuesaftergasplantfatali"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-12",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-11-12T12:40:19.937782+02:00",
+ "last_run": "2026-11-12T12:45:20.625519+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1532,6 +1532,10 @@
   {
    "d": "2026-11-12",
    "t": "Saudi Arabia leads OPEC+ production recovery toward pre-war levels - Arab News"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Top Libyan oil executive warns of funding issues after gas plant fatality - Upstream Online"
   }
  ]
 }
