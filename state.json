@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "e2fd29d1792bd6f8",
-  "gbpusdoilforecasttwotradestowatch101126",
   "84f52c6e2a788d61",
   "oilsinksto94asirans8billionhormuzdealheadstotrump",
   "1adb445576608b82",
@@ -603,19 +601,21 @@
   "f90c1ec81a104b24",
   "oilrisesonmixedsignalsoveriranwaroutlook",
   "d278b4812000b489",
-  "rupeerallystallsastraderswatchforrbidollarbuyingoildemandred"
+  "rupeerallystallsastraderswatchforrbidollarbuyingoildemandred",
+  "3e63a011656f24a5",
+  "crudeoilpricesfallbelow90abarrelasvanceblamesgopelectiondefe"
  ],
  "releases_done": {},
- "last_digest": "2026-11-11",
+ "last_digest": "2026-11-12",
  "digest_prices": {
-  "WTI": 86.55,
-  "Brent": 92.41
+  "WTI": 85.57,
+  "Brent": 91.69
  },
  "llm": {
   "date": "2026-11-12",
-  "count": 18
+  "count": 26
  },
- "last_run": "2026-11-12T07:55:15.716529+02:00",
+ "last_run": "2026-11-12T08:00:30.659287+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1492,6 +1492,10 @@
   {
    "d": "2026-11-12",
    "t": "Crude oil from northern Iraq smuggled to Iran, Afghanistan - IraqiNews"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war - CNBC"
   }
  ]
 }
