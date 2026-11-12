@@ -4,12 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "54330efec1324b4a",
-  "rupeeoutpacesmostasianpeersasequityinflowsoffsethawkishfedbe",
-  "b406756134d39a06",
-  "oilgainsaftertwodaydropwithfocusonusiranwaroutlook",
-  "1a0a2157747cbe3c",
-  "howloweroilpricesatamericanairlinesgroupaalhavechangeditsinv",
   "c45d868056b6dd6f",
   "sableoffshoretumbles75ascrudeoilsaleshaltedinoctober",
   "856faae329e8ae3e",
@@ -603,7 +597,13 @@
   "e2c74acef83e6db1",
   "oilpricesriseasgeopoliticalrisksoffsetrisingcrudeoutputbyreu",
   "5f673ea9c4781009",
-  "saudioilproductionsurgestooneofhighestlevelsinyears"
+  "saudioilproductionsurgestooneofhighestlevelsinyears",
+  "0e37fe3c79b96102",
+  "ushandled12billioninvenezuelanoilrevenuessecretreportshows",
+  "a5536cf2f00b3681",
+  "canincreasedopecsupplypressurebrentcrudeprice",
+  "1cc7ec35dbc57085",
+  "indiascrudeoilimportsfromrussiahitrecordhighinoctoberjamnaga"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T18:05:18.006311+02:00",
+ "last_run": "2026-11-12T18:10:21.612023+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1636,6 +1636,10 @@
   {
    "d": "2026-11-12",
    "t": "Saudi Oil Production Surges to One of Highest Levels in Years - Rigzone"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "U.S. Handled $12 Billion in Venezuelan Oil Revenues, Secret Report Shows - The New York Times"
   }
  ]
 }
