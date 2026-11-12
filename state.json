@@ -4,12 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "78e04edd28f348f5",
-  "burnhamsnorthseadrillingdilemmarisksukclimateleadership",
-  "9754b9649218cad0",
-  "saudiarabiaskeyeastwestpipelinestilloperationalafterlatestat",
-  "1201c2a4803ad0ac",
-  "firetriggersexplosionatlibyassirtegascomplexmaintenanceblame",
   "a7758f75c6033403",
   "indiaeyes50windpowercapacityboostwithoutacquiringmoreland",
   "70a5fd759541c15f",
@@ -603,7 +597,13 @@
   "02856e3e12e69e5b",
   "trackingoilatimelineofcrudepricesin2026",
   "8e6a91e1e53b5574",
-  "exclusivehowavitoltraderstiestojdvancehelpedlandaprizedvenez"
+  "exclusivehowavitoltraderstiestojdvancehelpedlandaprizedvenez",
+  "b3f487f6cee36d44",
+  "oilpricesfallduetoincreasedproductiondespitetensionsinhormuz",
+  "9a1d37c66485102e",
+  "brazilianandafricanoilgainsgroundinasiaduetofallingfreightra",
+  "fb5c39ffd324d062",
+  "aseanpreparesemergencyoilreservesinasia"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T20:15:22.284990+02:00",
+ "last_run": "2026-11-12T20:20:21.305454+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1676,6 +1676,10 @@
   {
    "d": "2026-11-12",
    "t": "Oil gains over $1 on Strait of Hormuz shipping disruptions, Russia tensions - Reuters"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Oil prices fall due to increased production despite tensions in Hormuz - Inspenet"
   }
  ]
 }
