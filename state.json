@@ -4,12 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "9b7e5504ff8cad39",
-  "germanybetsbigonnaturalgastokeepthelightson",
-  "04261c4a46384402",
-  "oilpricesfalltolowestsinceaugustastrumpsaysiranwariseffectiv",
-  "df7ba94baa6a2769",
-  "crudeoilgains2coreweavepostsupbeatq3results",
   "a6dcc764eccce46e",
   "europeangaspricesreboundoniranwaruncertainty",
   "d14b288199de3159",
@@ -603,7 +597,13 @@
   "545d0d8fbfb16408",
   "oilgasproducersbraceforpersistentinflation",
   "f5515b3bf58079a9",
-  "europeanstockshitrecordhighonaiinflowsandstrongearningsgerma"
+  "europeanstockshitrecordhighonaiinflowsandstrongearningsgerma",
+  "d8ff7bf545a4f5dc",
+  "europeenterswinterwithitslowestgasinventoryofthe2020s",
+  "d3ee3f4eee2226fe",
+  "oilsettles3higheronattacksonsaudienergysitesstraitofhormuzdi",
+  "02f0f8e0dd959085",
+  "wallstreetshakesfollowingswingsfornvidiaandoilpricesbutrecov"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T22:55:15.410870+02:00",
+ "last_run": "2026-11-12T23:00:32.167688+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1728,6 +1728,10 @@
   {
    "d": "2026-11-12",
    "t": "US handled $12 billion of Venezuela's oil revenues, report says - Reuters"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Oil settles $3 higher on attacks on Saudi energy sites, Strait of Hormuz disruptions - Reuters"
   }
  ]
 }
