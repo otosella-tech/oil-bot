@@ -4,10 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "b4e93ca86b7f628b",
-  "wticrudeoildownwarddriftresumesafteranotherfailedbounce",
-  "2bc46f55f71add41",
-  "howprooilgroupshijackyourfeed",
   "71f0fe336a8673a1",
   "commentarytrumpsiranwarpauseisascostlyasnewstrikes",
   "3971eecdce23c643",
@@ -603,7 +599,11 @@
   "ff60d6381839febf",
   "wallstreetsteadiesafterabsorbingbigswingsfornvidiasstockando",
   "af9592936ea6f1be",
-  "germanyplanstoreadycoalandoilpowerplantstosavegas"
+  "germanyplanstoreadycoalandoilpowerplantstosavegas",
+  "fb131977a0c39ccf",
+  "whatsnextforopecoilquotasassaudiarabiarampsupoutputal",
+  "67f42f0367f361ea",
+  "oilproductioningulfcountries"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T18:20:21.252650+02:00",
+ "last_run": "2026-11-12T18:25:16.124810+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1640,6 +1640,10 @@
   {
    "d": "2026-11-12",
    "t": "U.S. Handled $12 Billion in Venezuelan Oil Revenues, Secret Report Shows - The New York Times"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "What’s next for OPEC+ oil quotas as Saudi Arabia ramps up output? - Al-Monitor"
   }
  ]
 }
