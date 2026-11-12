@@ -4,10 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "59e0a35c178e2bb1",
-  "crudeoilfacesageopoliticaltestasrussiasignalsprogresstowardp",
-  "0d8a9c080114afba",
-  "saudicrudeoutputjumps26asriyadhreportsnearpre",
   "13037550f1ba5836",
   "redflagforsableoffshoreaschevronrefinerythatprocessesitsoils",
   "e6638039acd94740",
@@ -603,7 +599,11 @@
   "6fc6fca210b0c3db",
   "crudeoilandpetroleumproductpricesincreasedsharplyinthefirstq",
   "f96adea81fd2cb80",
-  "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue"
+  "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue",
+  "d6e6267113da2fba",
+  "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabia",
+  "4684cc4c70a495a1",
+  "trumpsaysushasentereddealwithvenezuelatotakecontrolof65billi"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T22:10:19.019987+02:00",
+ "last_run": "2026-11-12T22:15:19.419496+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1704,6 +1704,14 @@
   {
    "d": "2026-11-12",
    "t": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained - CNBC"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - Reuters"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Trump says US has entered deal with Venezuela to take control of 65 billion barrels of oil reserves - AP News"
   }
  ]
 }
