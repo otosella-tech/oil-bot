@@ -4,10 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "a8f1e23c79f22265",
-  "educationalwhygaspricesfallmoreslowlythanoilprices",
-  "0eee29ae48c57223",
-  "theoilslumphasgonetoofarwherepricescouldgonext",
   "1987027779feae35",
   "globalcrudeoilinputsreboundamidmiddleeastconflictdisruptions",
   "002bb3d28d54a3fd",
@@ -603,7 +599,11 @@
   "0fa3adad03fe7111",
   "howtheiranwaristransformingtheliquefiednaturalgasindustry",
   "bd6e74a6e1718a0b",
-  "iraqexports38millionbarrelsofoildailydeputypmsays"
+  "iraqexports38millionbarrelsofoildailydeputypmsays",
+  "a90518fddc204a41",
+  "gaspricesestimaterisesfor2027thoughconsumerscouldstillseerel",
+  "93165efb54aea692",
+  "japanoctcgpikeyenergypricescrudeoilcoalproducts159vssept115"
  ],
  "releases_done": {
   "2026-11-11|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-12",
   "count": 10
  },
- "last_run": "2026-11-12T02:40:18.459919+02:00",
+ "last_run": "2026-11-12T02:45:19.679785+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
