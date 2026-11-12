@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "d517ccc500c617fd",
-  "oilpricesriseasiranpeaceoptimismfades",
   "2414fcb32742c225",
   "asiansharesmostlyriseonaichipdemanddespitewallstreetsretreat",
   "ed95c076d07be759",
@@ -603,7 +601,9 @@
   "5045124d1c0b173f",
   "beachesinthanetkentclosedbyoilspill",
   "9b270f4bcafd9c63",
-  "sharpswingsfornvidiaandoilpricesweighonwallstreet"
+  "sharpswingsfornvidiaandoilpricesweighonwallstreet",
+  "2b183aeb417a5b56",
+  "commentaryjustliketheusiranhassquandereditsgoodoptionstoendt"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T17:50:20.518803+02:00",
+ "last_run": "2026-11-12T17:55:18.074758+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1624,6 +1624,10 @@
   {
    "d": "2026-11-12",
    "t": "Oil Rises After Trump Says the US Doesn’t Need a Deal With Iran - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "COMMENTARY: Just Like the US, Iran Has Squandered its Good Options to End the War: Russell - EnergyNow.com"
   }
  ]
 }
