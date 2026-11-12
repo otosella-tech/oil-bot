@@ -1,13 +1,9 @@
 {
  "price_base": {
-  "WTI": 85.62,
+  "WTI": 87.62,
   "Brent": 92.66
  },
  "seen": [
-  "bb2aae188bf43c0f",
-  "midtermresultscouldtriptrumpsenergyindependenceplans",
-  "3c6f6695d8f40d57",
-  "whocleansthebirdsafteranoilspillanursefigureditouta",
   "2bba6d0b80a73fb8",
   "usstrategicpetroleumreserveisprojectedtohitanewlowbeforerebo",
   "01c8b8e48df39daf",
@@ -603,7 +599,11 @@
   "052576f99d910c36",
   "omanmonitorshandlingofoiltankerrunagroundoffitscoast",
   "1c5c1c573393a9d0",
-  "indiaboundtankersaccountforoneinfivehormuztransitsasrussiano"
+  "indiaboundtankersaccountforoneinfivehormuztransitsasrussiano",
+  "ab83e7087c89e0da",
+  "turkeyagreestorecord16billionclimatepolicyfundingdeal",
+  "f87df527fca47855",
+  "oiljumpsaftertrumpsaysusdoesntneeddealwithiran"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T15:25:16.077474+02:00",
+ "last_run": "2026-11-12T15:30:26.244141+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1588,6 +1588,10 @@
   {
    "d": "2026-11-12",
    "t": "India-bound tankers account for one in five Hormuz transits as Russian oil imports plunge - TradeWinds News"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Oil Jumps After Trump Says US Doesn’t Need Deal With Iran - Bloomberg.com"
   }
  ]
 }
