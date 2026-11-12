@@ -4,12 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "2414fcb32742c225",
-  "asiansharesmostlyriseonaichipdemanddespitewallstreetsretreat",
-  "ed95c076d07be759",
-  "americasoilcapitalisalsoitswindandsolarcapital",
-  "b8af72e8d7947b76",
-  "usoilandgasmaactivityaccelerateswith126billioninthirdquarter",
   "4abe112c7c242dda",
   "japanseneosupsfy26netprofitforecast48onstrongeroilprices",
   "54330efec1324b4a",
@@ -603,7 +597,13 @@
   "9b270f4bcafd9c63",
   "sharpswingsfornvidiaandoilpricesweighonwallstreet",
   "2b183aeb417a5b56",
-  "commentaryjustliketheusiranhassquandereditsgoodoptionstoendt"
+  "commentaryjustliketheusiranhassquandereditsgoodoptionstoendt",
+  "2c9e489285c0b9bb",
+  "whoisreallypayingforthedatacenterboom",
+  "3b387b14613c4f7b",
+  "oilpricesriseasiranpeaceoptimismfades",
+  "e2c74acef83e6db1",
+  "oilpricesriseasgeopoliticalrisksoffsetrisingcrudeoutputbyreu"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T17:55:18.074758+02:00",
+ "last_run": "2026-11-12T18:00:30.225540+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1628,6 +1628,10 @@
   {
    "d": "2026-11-12",
    "t": "COMMENTARY: Just Like the US, Iran Has Squandered its Good Options to End the War: Russell - EnergyNow.com"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Oil Prices Rise as Iran Peace Optimism Fades - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
