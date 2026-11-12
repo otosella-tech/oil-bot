@@ -4,10 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "d84368e3bee9d420",
-  "oilgiantexxonmobilleftvenezuelayearsagonowitsconsideringaret",
-  "85d230fa8fea56eb",
-  "ftse100rises08asoilpricerecoverysupportsenergysharesaheadofu",
   "4f209936ba1b4f5b",
   "oilpricesrisemorethan1asiranrejectsremovalofenrichednuclearm",
   "a6db56e93a9ed18e",
@@ -603,7 +599,11 @@
   "66d3da5ea41d4e4c",
   "wallstreeterasesitsearlylossafterabsorbingbigswingsfornvidia",
   "aa60f2cd3c3c97bd",
-  "uscrudeoilstockpilespostunexpectedweeklybuild"
+  "uscrudeoilstockpilespostunexpectedweeklybuild",
+  "707ef05e0b5bea46",
+  "crudeoilpricesgainasusiranpeaceoptimismwanes",
+  "9b11714291475794",
+  "ukbecomesfirstcountrytosanctionall10ofrussiaslargestoilprodu"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T19:40:21.363329+02:00",
+ "last_run": "2026-11-12T19:45:19.482260+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1664,6 +1664,10 @@
   {
    "d": "2026-11-12",
    "t": "Brent Briefly Hits $94 After Trump Says U.S. Has No Need for Iran Deal"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "UK Becomes First Country to Sanction All 10 of Russia’s Largest Oil Producers - UNITED24 Media"
   }
  ]
 }
