@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "1578a19c9bd217d9",
-  "opinionthinkdieselpricesarebadwaituntilyourhouseneedsheating",
   "e330b4f6d648c3dc",
   "brazilspetrobrastoincreaseproductioncapacityatanothersixoilp",
   "81b5ed914a63b53c",
@@ -603,7 +601,9 @@
   "a5e9802cef858389",
   "oilsettlesus3higheronattacksonsaudienergysiteshormuzstraitdi",
   "a8f9bdefd4894e47",
-  "usmanaged12billioninvenezuelanoilrevenuestatedepartmentsays"
+  "usmanaged12billioninvenezuelanoilrevenuestatedepartmentsays",
+  "9189cf6134880110",
+  "sugarpricesriseasstrengthincrudeoilspursshortcovering"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 6
  },
- "last_run": "2026-11-13T00:45:20.680535+02:00",
+ "last_run": "2026-11-13T00:50:21.516288+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
