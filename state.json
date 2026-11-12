@@ -4,10 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "27e5eb826a7006e2",
-  "wherearecrudeoilpricesheading",
-  "ba05dc15c9db0d38",
-  "crudeoilplungesastrumpsaysrenewediranattacksunlikelycl1comco",
   "28ebbc8c1f09264d",
   "argentinaasksseatribunaltohaltoilprojectoffthefalklands",
   "67d8ca1a8153c447",
@@ -603,7 +599,11 @@
   "b0309f93661a473a",
   "evsareerodingtheoilindustryeuropeissteppingupthepace",
   "d213aeb01d240ee5",
-  "oilspillcloses18beachesacrosskent"
+  "oilspillcloses18beachesacrosskent",
+  "c1e9d3067c7583c0",
+  "crudeoiliscaughtbetweenhopesofdeescalationandconcernsoffurth",
+  "23fd10d66e674295",
+  "oiltradersseekusapprovaltoreturnsanctionedtankerstoservice"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-12",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-11-12T13:20:18.575409+02:00",
+ "last_run": "2026-11-12T13:25:15.660522+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1536,6 +1536,10 @@
   {
    "d": "2026-11-12",
    "t": "Top Libyan oil executive warns of funding issues after gas plant fatality - Upstream Online"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Oil traders seek US approval to return sanctioned tankers to service - safety4sea"
   }
  ]
 }
