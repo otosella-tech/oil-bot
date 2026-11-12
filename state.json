@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "bc92966389bac875",
-  "saudipipelineattackedasopecoutputclimbsto90ofprewarlevels",
   "5240e894add4e873",
   "oilpriceseasetotwomonthlowsasusdownplaysfurtheriranstrikeseu",
   "6a02988a7c0adfef",
@@ -603,7 +601,9 @@
   "23a1b0065a6ede31",
   "nigeriahitsopecoilproductionquotaforsixthstraightmonth",
   "b51711502b5e34ec",
-  "apishowssharpbuildinuscrudeoildistillateinventories"
+  "apishowssharpbuildinuscrudeoildistillateinventories",
+  "e28667bdae99acf9",
+  "nigeriasoctcrudeoutputeasesremainsjustaboveopecquota"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T14:45:19.830192+02:00",
+ "last_run": "2026-11-12T14:50:18.637407+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1568,6 +1568,10 @@
   {
    "d": "2026-11-12",
    "t": "Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Nigeria's Oct crude output eases, remains just above OPEC quota - Quantum Commodity Intelligence"
   }
  ]
 }
