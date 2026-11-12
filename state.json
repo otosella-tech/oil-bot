@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "786cd93bbe3005fb",
-  "oilpricestodaybrentcrudeholdsnear92asusirantensionsease",
   "e9b700bcac140911",
   "mideastcrisisfuelscrudeconflictinmyanmarcivilwar",
   "a3cd8ed5f7cba618",
@@ -603,7 +601,9 @@
   "70bf7cc7ac029d8b",
   "crudeoilmarketupdatewtibrentbackwardationandinventorysignals",
   "8a5e6408580c24c9",
-  "angolalookstodiversifyfromcrudewithwindfalloilrevenues"
+  "angolalookstodiversifyfromcrudewithwindfalloilrevenues",
+  "5e29b3b61c0d936a",
+  "oilpricesfallbelow93asopecrestores97ofprewarproduction"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-12",
   "count": 60
  },
- "last_run": "2026-11-12T16:30:25.052093+02:00",
+ "last_run": "2026-11-12T16:35:19.184922+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1596,6 +1596,10 @@
   {
    "d": "2026-11-12",
    "t": "Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait' - CNBC"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Oil Prices Fall Below $93 as OPEC+ Restores 97% of Prewar Production - Coinpaper"
   }
  ]
 }
