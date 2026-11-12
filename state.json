@@ -4,8 +4,6 @@
   "Brent": 92.66
  },
  "seen": [
-  "35f9430e62a5f528",
-  "wallstfallsashotinflationdatafuelsratehikejitters",
   "ead28c6935fb8600",
   "crudeoilslipstosixweeklow",
   "d00714ec8201f201",
@@ -603,7 +601,9 @@
   "3ef48e36cde9d759",
   "indiagulfoilimportssurpassrussiaforfirsttimeiniranwar",
   "4bc34906722f9fb3",
-  "tohonorveteranshowaboutwestoptheoilwars"
+  "tohonorveteranshowaboutwestoptheoilwars",
+  "ba3129f3de357da8",
+  "aseanmovestobuildemergencyoilreservesamidiransupplycrisis"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-12",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-11-12T09:25:14.844542+02:00",
+ "last_run": "2026-11-12T09:30:23.765300+02:00",
  "sent_stories": [
   {
    "d": "2026-11-09",
@@ -1504,6 +1504,10 @@
   {
    "d": "2026-11-12",
    "t": "India Gulf Oil Imports Surpass Russia for First Time in Iran War - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis"
   }
  ]
 }
