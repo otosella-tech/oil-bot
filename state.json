@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "1c85371afd5da87f",
-  "asianoilbuyersturntoafricaandbrazilastankerratesplunge",
   "b423c1ad0138a40c",
   "oilgainsafterearlydropasgeopoliticalriskssupportmarket",
   "943953f4f71169f6",
@@ -603,7 +601,9 @@
   "6c3f24ea15779850",
   "usreturnsover12bninoilproceedstovenezuelasincemadurosousterr",
   "3fab98963d6dd25c",
-  "serbiasnisseekstotapoilreservesamidjanafcrudetransithalt"
+  "serbiasnisseekstotapoilreservesamidjanafcrudetransithalt",
+  "774a8a389698f4ba",
+  "asianairlinesfacea148a"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T10:55:17.210212+02:00",
+ "last_run": "2026-11-13T11:00:28.628196+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
