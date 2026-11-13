@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "7b787664d049c481",
-  "oilfallsover1oneasinggeopoliticalfearsandoversupplyworries",
   "41e86f13d27e5532",
   "currentpriceofoilasofnovember92026",
   "4c8a98ae937bfbee",
@@ -603,7 +601,9 @@
   "5c81cf27a684e035",
   "oilpricesfallduetoincreasedopecproduction",
   "17da9fd9ec381181",
-  "oilfuturescrudeconsolidatesgainsasusirantalksstall"
+  "oilfuturescrudeconsolidatesgainsasusirantalksstall",
+  "46b2605fb20b86bb",
+  "19indiansailorssafeafteroiltankerattacknearuae"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-13",
-  "count": 50
+  "count": 52
  },
- "last_run": "2026-11-13T09:00:29.069382+02:00",
+ "last_run": "2026-11-13T09:05:17.660864+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1520,6 +1520,10 @@
   {
    "d": "2026-11-13",
    "t": "Oil prices fall due to increased OPEC+ production - Inspenet"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "19 Indian Sailors Safe After Oil Tanker Attack Near UAE - Howl.Link"
   }
  ]
 }
