@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "e8938a00618cb49a",
-  "bpintalkstosellstakeinbraziloildiscoverytopetrobras",
   "7afc36cfde8270b7",
   "oilpricesedgelowerasrisingcrudeoutputoffsetgeopoliticalrisks",
   "34ce903746984a89",
@@ -603,7 +601,9 @@
   "27e67fd10eb37f4e",
   "oilheadsforweeklydeclinedespitemiddleeastsupplythreats",
   "cb4da64ee5aceb14",
-  "opeckeepsoildemandgrowthforecastunchanged"
+  "opeckeepsoildemandgrowthforecastunchanged",
+  "3b906fe342f76aac",
+  "crudeoilfuturesriseamidfirmglobaltrends"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T11:55:14.208249+02:00",
+ "last_run": "2026-11-13T12:00:36.317397+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
