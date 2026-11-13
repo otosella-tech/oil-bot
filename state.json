@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "28986780d6829f9a",
-  "nvidiastockplungeweighsonwallstreetwhileoilpricesswing",
   "bb22481f08635ebd",
   "uscrudeoilinventoriesincreaseby47millionbarrels",
   "9b1af86db2a00b14",
@@ -603,7 +601,9 @@
   "d458fd1d070fcd98",
   "ieaseesoilmarketdeficitnarrowingonsupplysurge",
   "0a52581cacebc3f0",
-  "crudepricessupportedbyconcernsusiranwarwilllinger"
+  "crudepricessupportedbyconcernsusiranwarwilllinger",
+  "ac4945fc06bb46d4",
+  "sableoffshoreoilcorpinsurvivalmodeafterchevronstopsbuyingits"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-14",
   "count": 4
  },
- "last_run": "2026-11-14T01:35:15.955223+02:00",
+ "last_run": "2026-11-14T01:40:19.208966+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
