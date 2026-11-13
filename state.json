@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "dfbe15f50661df11",
-  "bccrudeoilfutures",
-  "2ed32d68e1994751",
-  "crudeoilmarketopecoutputjumpssaudisupplyrampsup",
   "15aa741b12826153",
   "oilpriceseasetotwomonthlowsasusdownplaysfurtheriranstrikes",
   "96329ba6293224cb",
@@ -603,7 +599,11 @@
   "76452265c95f2345",
   "petroleumpricefreezeextendedamidfiscalinflationdilemma",
   "bbc370410c1d788d",
-  "fourkilledinukrainiandronestrikeinrussiasvolgogradofficialsa"
+  "fourkilledinukrainiandronestrikeinrussiasvolgogradofficialsa",
+  "3b64227474c9e90a",
+  "worldoilmarketisreturningtosurplusasgulfexportsrecoverieasay",
+  "abb26f3b0c16d32d",
+  "globaloilmarketswingstosurplusongulfexportsieasays"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T11:15:19.154383+02:00",
+ "last_run": "2026-11-13T11:20:20.732128+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
