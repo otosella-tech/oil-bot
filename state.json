@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "44f957ffcc65f180",
-  "oilpricesjumpaftertrumpsaysnoirandealneededwevegottheirstrai",
   "7720f1d7b4ee6708",
   "bpshellandtotalenergieswherenextforoilstocksascrudepricesfal",
   "aa937e03a68559c7",
@@ -603,7 +601,9 @@
   "4486045cd07d4468",
   "iransaysgastankerhitmineinstraitofhormuz",
   "a4e2661d7a2945f3",
-  "crudeoilinventoriespostunexpectedbuild"
+  "crudeoilinventoriespostunexpectedbuild",
+  "952cf14882c5de28",
+  "russiaoilrevenueshitfivemonthhighoncruderallyieasays"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T14:45:25.727829+02:00",
+ "last_run": "2026-11-13T14:50:20.385523+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1608,6 +1608,10 @@
   {
    "d": "2026-11-13",
    "t": "Iran Says Gas Tanker Hit Mine in Strait of Hormuz"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Russia Oil Revenues Hit Five-Month High on Crude Rally, IEA Says - Bloomberg.com"
   }
  ]
 }
