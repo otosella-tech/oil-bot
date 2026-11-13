@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "1dddf54a90f38669",
-  "brentoilreboundsafterattacksonshipsinhormuz",
   "bd1965b61fd33afc",
   "chinaisbuyingoilagainaftermonthsoflivingoffitsstockpiles",
   "b6b4f1beb1781a9a",
@@ -603,7 +601,9 @@
   "7994d69732a67e31",
   "oilproductionnearspreiranwarlevelsopecsays",
   "72c73981e154c8f8",
-  "jensenhuangsdownfallhasinvestorsbettingonhiscousinschipmaker"
+  "jensenhuangsdownfallhasinvestorsbettingonhiscousinschipmaker",
+  "0d11264301570da1",
+  "crudeoilstrengthensmetalsbroadlydeclinelmecopperandlmealumin"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 16
  },
- "last_run": "2026-11-13T02:40:20.177947+02:00",
+ "last_run": "2026-11-13T02:45:18.673030+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
