@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "4bc34906722f9fb3",
-  "tohonorveteranshowaboutwestoptheoilwars",
   "ba3129f3de357da8",
   "aseanmovestobuildemergencyoilreservesamidiransupplycrisis",
   "f8b532c4d10f5432",
@@ -603,7 +601,9 @@
   "809e64b9d2a860ae",
   "oilpricesriseasmiddleeastsupplyriskspersist",
   "deaee79f3aec4cec",
-  "top3energystockstowatchinnovember2026"
+  "top3energystockstowatchinnovember2026",
+  "12713e28ca2bbc74",
+  "crudeoilpricesfacefreshpressureasusirandiplomatichopesfade"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 58
  },
- "last_run": "2026-11-13T09:50:18.491605+02:00",
+ "last_run": "2026-11-13T09:55:15.097834+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
