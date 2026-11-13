@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "fd12f6b0f8141f25",
-  "oilrisesaftertrumpsaystheusdoesntneedadealwithiran",
   "0d7df90137d77dca",
   "caprockchroniclesonadayinthelifeofaroustaboutintheoilpatchlu",
   "5045124d1c0b173f",
@@ -603,7 +601,9 @@
   "f4313931337efb43",
   "howglobalenergymarketssurvivedeightmonthsofiranwardisruption",
   "f88b5c1273910e45",
-  "oilpricecapstuckindevilframecritique"
+  "oilpricecapstuckindevilframecritique",
+  "b773d7a8b43ec01b",
+  "ukrainesgeneralstaffconfirmsstrikeonlukoilrefineryinvolgogra"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T17:00:31.653553+02:00",
+ "last_run": "2026-11-13T17:05:16.772775+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1632,6 +1632,10 @@
   {
    "d": "2026-11-13",
    "t": "How Global Energy Markets Survived Eight Months of Iran War Disruptions"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Ukraine's General Staff confirms strike on Lukoil refinery in Volgograd, oil processing units hit - Ukrinform"
   }
  ]
 }
