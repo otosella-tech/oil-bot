@@ -4,10 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "99302de9cbfd995d",
-  "whyisgasolinesuddenlyunder4agallon",
-  "1a091817e4c0e5da",
-  "indonesiarupiahdropstorecordlowonstrongdollarmsciwoes",
   "c5af3310952b881f",
   "oilretreatsasiranandukrainepeacehopesweighoncrudebrentslipst",
   "044c96842bf58514",
@@ -603,19 +599,23 @@
   "bf57de4215971f22",
   "sugarmarketoutlookcrudeoillinkandtighter202627supply",
   "4eda26ddff94605d",
-  "oilpricesdropmorethan1ashopesforiranukrainepeacetalkspressur"
+  "oilpricesdropmorethan1ashopesforiranukrainepeacetalkspressur",
+  "33ec964f4345cf93",
+  "oilpricessetforsecondweeklydeclineastrumpstickswithiranblock",
+  "f0e9068fb2384a0e",
+  "elninobiofuelregulationssqueezeindonesianpalmoilproducers"
  ],
  "releases_done": {},
- "last_digest": "2026-11-12",
+ "last_digest": "2026-11-13",
  "digest_prices": {
-  "WTI": 85.57,
-  "Brent": 91.69
+  "WTI": 88.34,
+  "Brent": 95.73
  },
  "llm": {
   "date": "2026-11-13",
-  "count": 36
+  "count": 44
  },
- "last_run": "2026-11-13T07:55:15.251443+02:00",
+ "last_run": "2026-11-13T08:00:27.701200+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1504,6 +1504,10 @@
   {
    "d": "2026-11-13",
    "t": "Oil prices drop more than $1 as hopes for Iran, Ukraine peace talks pressure markets - CNBC"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Oil prices set for second weekly decline as Trump sticks with Iran blockade - Yahoo Finance"
   }
  ]
 }
