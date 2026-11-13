@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "8b15e82576403355",
-  "ukrainepeacetalksyieldprisonerdealbutnopathtopeace",
-  "3de9f5ce6052a310",
-  "fiveoutoffiveukrainestrikesallofrussiaslargestoilrefineriesi",
   "6b74829fba7ed8da",
   "oilpriceslowerasrisingcrudeoutputoffsetgeopoliticalrisksbyre",
   "fd014ec885e99682",
@@ -603,7 +599,11 @@
   "6e524c62ede8a436",
   "exclusiveiraqturnstotruckstoexportoilinoverlandsyrianroutere",
   "b15032c628c33286",
-  "beachoilcleanupwilltakeseveraldays"
+  "beachoilcleanupwilltakeseveraldays",
+  "6e5d8b6a26d01edd",
+  "workersloadcrudeoilintotankertrucksatthetubacrudedepotfortra",
+  "ccbc8448769e440f",
+  "sensexniftyfallascrudeoilandinflationpressuresweighonmarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T15:50:27.165490+02:00",
+ "last_run": "2026-11-13T15:55:16.198530+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
