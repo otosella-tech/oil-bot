@@ -4,10 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "044c96842bf58514",
-  "oilpricesfallover1ashopesofiranrussiaukrainepeacetalksweigho",
-  "93a648a0b641140b",
-  "oilslicksseenfromspacethedevastatingimpactofboatstrikesonfra",
   "cba8fd8622c6c920",
   "2027amajorshiftincrudeoilandgoldmarketsacomprehensiveanalysi",
   "931009d9053e016e",
@@ -603,7 +599,11 @@
   "f0e9068fb2384a0e",
   "elninobiofuelregulationssqueezeindonesianpalmoilproducers",
   "8a8938f6965e9068",
-  "indiansharesdeclineasoilsurgeinflationjittersweigh"
+  "indiansharesdeclineasoilsurgeinflationjittersweigh",
+  "fb2a7daa32cac21a",
+  "crudeoilgainsastrumpdismissesirandealraisingfreshoilsupplyco",
+  "1f71b73c77426ec9",
+  "crudeoilpricesmayfallto70barrelin2027asexternalconditionsimp"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-13",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-11-13T08:10:19.793160+02:00",
+ "last_run": "2026-11-13T08:15:19.238324+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1512,6 +1512,10 @@
   {
    "d": "2026-11-13",
    "t": "Indian shares decline as oil surge, inflation jitters weigh - Reuters"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Crude Oil Gains As Trump Dismisses Iran Deal, Raising Fresh Oil Supply Concerns By Kedia Advisory - Investing.com India"
   }
  ]
 }
