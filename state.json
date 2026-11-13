@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "e2c74acef83e6db1",
-  "oilpricesriseasgeopoliticalrisksoffsetrisingcrudeoutputbyreu",
   "5f673ea9c4781009",
   "saudioilproductionsurgestooneofhighestlevelsinyears",
   "0e37fe3c79b96102",
@@ -603,7 +601,9 @@
   "cd6f6d89639e0c92",
   "iranrulesoutreturnofunnuclearinspectorsasuswartalksstall",
   "4420e2150f05eb0b",
-  "indianrupeesnapsrisingstreakonhawkishfedoilrise"
+  "indianrupeesnapsrisingstreakonhawkishfedoilrise",
+  "22f57c5fdb5f75b6",
+  "ukrainehitsninthrussianoilrefinerysincestartofnovember"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T17:30:27.373764+02:00",
+ "last_run": "2026-11-13T17:35:15.365489+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1640,6 +1640,10 @@
   {
    "d": "2026-11-13",
    "t": "Iran Rules Out Return of UN Nuclear Inspectors as U.S. War Talks Stall"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Ukraine Hits Ninth Russian Oil Refinery Since Start of November - Bloomberg.com"
   }
  ]
 }
