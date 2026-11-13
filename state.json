@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "74c23bb4245b5091",
-  "useiacrudeoilstockschangenov064657mvsexp11mprev0865m",
   "7e01e23de2dbe47d",
   "eiacushingcrudeoilstockschangenov060106mprev0280m",
   "77eed6aa4f88753b",
@@ -603,7 +601,9 @@
   "e4f1868f9e81b249",
   "trumpextendsjonesactwaiverforanother90days",
   "b65c1a8dad7d1cde",
-  "beninships1stcrudecargofordecadesfromrevivedoilfield"
+  "beninships1stcrudecargofordecadesfromrevivedoilfield",
+  "8e3f68113c9859a6",
+  "crudeoilfuturesstorylinegeopoliticaluncertaintyrisingsupplya"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T22:10:20.544375+02:00",
+ "last_run": "2026-11-13T22:15:19.710665+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
