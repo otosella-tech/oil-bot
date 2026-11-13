@@ -4,12 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "48fe65c8c4d7d714",
-  "oilpricesmoderatedasusrussiaukraineholdtalks",
-  "9abc48bc7382212b",
-  "oilresumesdeclineasriskpremiumfades",
-  "39483fd16555bf35",
-  "wastecookingoilthievesagrowingproblem",
   "1c85371afd5da87f",
   "asianoilbuyersturntoafricaandbrazilastankerratesplunge",
   "b423c1ad0138a40c",
@@ -603,7 +597,13 @@
   "c6b94e1af86aa4e2",
   "crudeoilmarketbriefingwtibrentanddieselspreadsnovember2026",
   "4cf8f05d4a3dd25a",
-  "iraqs5millionbpdoilclaimcomplicatesitsopecquotapush"
+  "iraqs5millionbpdoilclaimcomplicatesitsopecquotapush",
+  "b8468558632a387b",
+  "equitiescloselowerasnvidiadropoutweighsenergygains",
+  "6c3f24ea15779850",
+  "usreturnsover12bninoilproceedstovenezuelasincemadurosousterr",
+  "3fab98963d6dd25c",
+  "serbiasnisseekstotapoilreservesamidjanafcrudetransithalt"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T10:45:18.045936+02:00",
+ "last_run": "2026-11-13T10:50:19.886784+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
