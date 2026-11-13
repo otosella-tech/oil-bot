@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "e1b1e72f6e944c9b",
-  "aseantolaunchjointoilproductstockpilingschemeasearlyas2027ni",
   "d8a0d36fd8d76a4e",
   "crudeoilfromnortherniraqsmuggledtoiranafghanistan",
   "7b787664d049c481",
@@ -603,7 +601,9 @@
   "29e27412fa08161a",
   "rupeeslipsashigheroilpricesandusyieldsknockstocksbonds",
   "700c9d9e43f9b877",
-  "beninshipsfirstcrudecargotoeuropein27yearsafterrevivingdorma"
+  "beninshipsfirstcrudecargotoeuropein27yearsafterrevivingdorma",
+  "5c81cf27a684e035",
+  "oilpricesfallduetoincreasedopecproduction"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-13",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-11-13T08:35:17.766975+02:00",
+ "last_run": "2026-11-13T08:40:20.187321+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1516,6 +1516,10 @@
   {
    "d": "2026-11-13",
    "t": "Crude Oil Gains As Trump Dismisses Iran Deal, Raising Fresh Oil Supply Concerns By Kedia Advisory - Investing.com India"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Oil prices fall due to increased OPEC+ production - Inspenet"
   }
  ]
 }
