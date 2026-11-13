@@ -4,14 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "1e434951d7d6eff2",
-  "petrobraslifts2026cashflowforecastonhigheroilproduction",
-  "cc04ecbe3aa5944a",
-  "soaringelectricitycostsforcebritaintorethinkitsgreenagenda",
-  "0b76b3c756aee49c",
-  "usblockadecostiran30binoilrevenuesofarcentcom",
-  "361e04c70d6c75c7",
-  "uscrudeoilinventoriesrise4657mbarrelsdefyingforecast",
   "22d70cdec2fb0109",
   "crudeoilinventoriesriseunexpectedlypressuringpricesbyinvesti",
   "1e0913250cb266a5",
@@ -603,7 +595,15 @@
   "aabb2418ef305e09",
   "trumptoextendshippingwaiverforoilfertilizerfor90days",
   "44a652f26180fbdf",
-  "demandforeuropeanfundsboostsglobalequityfundinflowstosevenwe"
+  "demandforeuropeanfundsboostsglobalequityfundinflowstosevenwe",
+  "1e4576d99c70dd09",
+  "usmidtermswontderailvenezuelasoilrecoverybutcoulddelaygreenf",
+  "6dff48fb25e05f96",
+  "oilwellsmaynothavetogetridofallmethaneemissionsunderthisfede",
+  "93024dc964ef6ffc",
+  "ieasuggestsoilmarketisstraighteningout",
+  "8b92cdb5a07ba813",
+  "venezuelareports156billioninoilminingrevenuethisyear"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T20:05:16.673990+02:00",
+ "last_run": "2026-11-13T20:10:20.431879+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
