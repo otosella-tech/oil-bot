@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "9b11714291475794",
-  "ukbecomesfirstcountrytosanctionall10ofrussiaslargestoilprodu",
   "e44d77e5ebe47d47",
   "eiadatashowsbuildsincrudegasolineanddistillates",
   "9422a513a60e6f3f",
@@ -603,7 +601,9 @@
   "b59486465e7721ed",
   "oilpricessetforsecondstraightweeklydeclineongrowingsignsofsu",
   "28b59c0e50a168ee",
-  "uscrudeoilstockpilespostunexpectedweeklybuild"
+  "uscrudeoilstockpilespostunexpectedweeklybuild",
+  "900c1065a8cff9c7",
+  "beijingturnstosoftpoweraswashingtonexpandscentralasiaties"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T20:55:15.915169+02:00",
+ "last_run": "2026-11-13T21:00:29.381503+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
