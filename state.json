@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "9a154d1de403fd82",
-  "riverroadreopensafteroilleakfromtransformerinmaumee",
   "0806b17c6c608f87",
   "braziltosendenergyministertovenezuelaamidpetrobrasinterest",
   "b8ea872f92fb1422",
@@ -603,7 +601,9 @@
   "5a334354c6a5f928",
   "volgogradoilrefineryrostovondonproductionfacilityinflamesfol",
   "acc18e9b570ae899",
-  "indianshareslikelytoopenflatasoilsurgecountersstrongforeigni"
+  "indianshareslikelytoopenflatasoilsurgecountersstrongforeigni",
+  "7c2a299e028049c5",
+  "nearly1billionbarrelsofoildrainedfromglobalinventoriesadnocc"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 24
  },
- "last_run": "2026-11-13T05:00:30.904659+02:00",
+ "last_run": "2026-11-13T05:05:21.251212+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
