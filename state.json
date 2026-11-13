@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "71c086149345a4f6",
-  "crudeoilpricesfallondiplomaticoptimismtoendiranwar",
-  "35c164104583554a",
-  "thetruthbehindiraqsoilreboundandthesecretredseaplan",
   "4c0ed700d8bb7d03",
   "brentcrudebrieflydipsbelow90forfirsttimesinceaugustoniranhop",
   "8464dbc8a963de1b",
@@ -603,7 +599,11 @@
   "b09335fb733eedd7",
   "sensexsettles300ptslowerniftyendsbelow25150riseincrudeoilpri",
   "da1bca4233a7f367",
-  "eiaraisesnovembernaturalgasstorageforecastafterwarmstarttomo"
+  "eiaraisesnovembernaturalgasstorageforecastafterwarmstarttomo",
+  "d0f05012b4b8451f",
+  "globaloilmarketsswingtosurplusasgulfshipmentsreboundft",
+  "477d6b8005577f00",
+  "norwayssupremecourtrulesapprovalsofthreenorthseaoilandgasfie"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T13:10:19.587673+02:00",
+ "last_run": "2026-11-13T13:15:19.639602+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
