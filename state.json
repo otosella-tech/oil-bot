@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "827ba357da2fbdd0",
-  "oilpricesdropmorethan1ashopesforiranukrainepeacetalkspressur",
   "b082a4f4d8b06b03",
   "wticrudeoilfallsforfifthconsecutivedayamidstalledusirantalks",
   "99302de9cbfd995d",
@@ -603,7 +601,9 @@
   "1173ed2715f56e56",
   "oilpricesheadforsecondweeklylossdespitefreshmiddleeastattack",
   "e6a9b3aa4ba50634",
-  "whowillbuysablesoilifcaliforniakeepsclosingrefineries"
+  "whowillbuysablesoilifcaliforniakeepsclosingrefineries",
+  "bf57de4215971f22",
+  "sugarmarketoutlookcrudeoillinkandtighter202627supply"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 34
  },
- "last_run": "2026-11-13T07:45:18.363417+02:00",
+ "last_run": "2026-11-13T07:50:19.807418+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
