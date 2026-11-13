@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "ff60d6381839febf",
-  "wallstreetsteadiesafterabsorbingbigswingsfornvidiasstockando",
   "af9592936ea6f1be",
   "germanyplanstoreadycoalandoilpowerplantstosavegas",
   "fb131977a0c39ccf",
@@ -603,7 +601,9 @@
   "e3e7f3a8141520ab",
   "usacrudeoilstocksrisealmost5mmbarrelsweekonweek",
   "ed7dbbd3140191b7",
-  "indiasroadfueldemandwontpeakuntil2034"
+  "indiasroadfueldemandwontpeakuntil2034",
+  "cb62b258c5fe53ff",
+  "weeklygasstorageinventoriesincreaseby61bcf"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T18:40:19.661370+02:00",
+ "last_run": "2026-11-13T18:45:18.073135+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
