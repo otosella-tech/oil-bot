@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "2150abd588d4bd56",
-  "thestraitofhormuzwasthebiggestgamechangerformarketsin2026",
   "d62b9fd721242e19",
   "currentpriceofoilasofnov122026",
   "2143739c9ad5f90c",
@@ -603,7 +601,9 @@
   "8af3463974443cd3",
   "yemenidronesattacksaudiarabiaseastwestoilpipelinepresstvrepo",
   "0caee5a6fbca1732",
-  "nationalgaspriceaveragefallsbelow4forfirsttimesincejulyaaasa"
+  "nationalgaspriceaveragefallsbelow4forfirsttimesincejulyaaasa",
+  "cee77e168a32c600",
+  "indiansharespauseafterforeignmoneyfuelledrally"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T13:40:19.147801+02:00",
+ "last_run": "2026-11-13T13:45:18.607182+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
