@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "aa60f2cd3c3c97bd",
-  "uscrudeoilstockpilespostunexpectedweeklybuild",
   "707ef05e0b5bea46",
   "crudeoilpricesgainasusiranpeaceoptimismwanes",
   "9b11714291475794",
@@ -603,7 +601,9 @@
   "58f818cd8a0e9110",
   "cenovusoilsandsstrengthandcostdisciplinesupportgrowth",
   "501b306b47b91f2a",
-  "ieaacceleratesemergencyoilreleasesthroughfebruaryasdieselsho"
+  "ieaacceleratesemergencyoilreleasesthroughfebruaryasdieselsho",
+  "b59486465e7721ed",
+  "oilpricessetforsecondstraightweeklydeclineongrowingsignsofsu"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T20:43:37.237076+02:00",
+ "last_run": "2026-11-13T20:45:18.774639+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
