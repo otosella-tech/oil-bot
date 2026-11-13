@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "2c9e489285c0b9bb",
-  "whoisreallypayingforthedatacenterboom",
-  "3b387b14613c4f7b",
-  "oilpricesriseasiranpeaceoptimismfades",
   "e2c74acef83e6db1",
   "oilpricesriseasgeopoliticalrisksoffsetrisingcrudeoutputbyreu",
   "5f673ea9c4781009",
@@ -603,7 +599,11 @@
   "e01ef2cadf9c5987",
   "oilfuturescrudeextendsgainsasusirantalksstall",
   "b48c678226381642",
-  "crudeoilcorrectiondragsuscaprolactampriceslowerasproducermar"
+  "crudeoilcorrectiondragsuscaprolactampriceslowerasproducermar",
+  "cd6f6d89639e0c92",
+  "iranrulesoutreturnofunnuclearinspectorsasuswartalksstall",
+  "4420e2150f05eb0b",
+  "indianrupeesnapsrisingstreakonhawkishfedoilrise"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T17:25:15.964270+02:00",
+ "last_run": "2026-11-13T17:30:27.373764+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1636,6 +1636,10 @@
   {
    "d": "2026-11-13",
    "t": "Ukraine's General Staff confirms strike on Lukoil refinery in Volgograd, oil processing units hit - Ukrinform"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Iran Rules Out Return of UN Nuclear Inspectors as U.S. War Talks Stall"
   }
  ]
 }
