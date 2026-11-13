@@ -4,10 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "b6b4f1beb1781a9a",
-  "currentpriceofoilasofnovember102026",
-  "fe711cefc13cbbd9",
-  "oilreboundsastightinventoriesandmiddleeastriskssupportprices",
   "497152526f2ac5c3",
   "brazilvenezuelavowtoupgradetieswithoilinvestmenttalks",
   "ae52a3c2932f425d",
@@ -603,7 +599,11 @@
   "0d11264301570da1",
   "crudeoilstrengthensmetalsbroadlydeclinelmecopperandlmealumin",
   "47f510034c4bf957",
-  "slotkinjoinscolleaguesindemandingactionaftertrumpappointeein"
+  "slotkinjoinscolleaguesindemandingactionaftertrumpappointeein",
+  "f23e23b1380787de",
+  "rareearthwarsusgeneralsoundsalarmoverchinasmilitaryleverage",
+  "1438f2984572b0b4",
+  "wintersvillelands400koilandgasleasedealplansinfrastructureup"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-13",
-  "count": 16
+  "count": 18
  },
- "last_run": "2026-11-13T02:55:16.348355+02:00",
+ "last_run": "2026-11-13T03:00:26.506792+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1464,6 +1464,10 @@
   {
    "d": "2026-11-13",
    "t": "Oil production nears pre-Iran war levels, OPEC says - Al Jazeera"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage"
   }
  ]
 }
