@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "0c23ccadb49562f1",
-  "oilpricesreboundasmiddleeastsupplyriskspersist",
-  "3882b399068bac70",
-  "iransaystwooiltankerscarryingoverfourmillionbarrelsablazeinh",
   "cfa9da362068c496",
   "irancalledusclaimsofqatartalksapurelieoilbouncedofftwomonthl",
   "e222e5dd60ce0414",
@@ -603,7 +599,11 @@
   "9cf1a3e5ea94ec79",
   "iraqsoilproductionsoarsto2019highashormuzflowssurge",
   "76a2b4434bb49905",
-  "oilpricesreboundastrumpquestionsneedforirandeal"
+  "oilpricesreboundastrumpquestionsneedforirandeal",
+  "61f20d2e634e6a82",
+  "oilcoordinationgroupconfirmscontinuedsupplystabilityacrossth",
+  "b08028a394e50e16",
+  "iraqestablishesspecialsecurityforcetocombatoilsmugglingprote"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T19:45:20.079817+02:00",
+ "last_run": "2026-11-13T19:50:19.025056+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1658,6 +1658,10 @@
   {
    "d": "2026-11-13",
    "t": "Oil Prices Rebound as Trump Questions Need for Iran Deal - WSJ"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Iraq establishes special security force to combat oil smuggling, protect pipelines - Anadolu Ajansı"
   }
  ]
 }
