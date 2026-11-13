@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "77eed6aa4f88753b",
-  "useiacrudeoilinventories47mlnbarrelsinlatestweekfromprevious",
   "94b764195e87ca55",
   "bondtradersseeelliottscitgodealimperiledbyoilwindfall",
   "02856e3e12e69e5b",
@@ -603,7 +601,9 @@
   "8e3f68113c9859a6",
   "crudeoilfuturesstorylinegeopoliticaluncertaintyrisingsupplya",
   "fd9ed0def309c1fc",
-  "microsoftoutagedisruptsoiltraderdataanddealmaking"
+  "microsoftoutagedisruptsoiltraderdataanddealmaking",
+  "32ffa884edcd6780",
+  "sharpswingsfornvidiaandoilpricesweighonwallstreet"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T22:40:21.266414+02:00",
+ "last_run": "2026-11-13T22:45:19.739315+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
