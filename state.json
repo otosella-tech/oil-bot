@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "4e76c3636e1ffbca",
-  "whowillbuysablesoilifcaliforniakeepsclosingrefineries",
   "b229bafea8604ed8",
   "biodieselmandatesbiteasindonesialosesindiaedibleoillead",
   "5f02f47d8bbf5385",
@@ -603,7 +601,9 @@
   "eb2a25d60f64fa32",
   "oilpricesup121126",
   "d1e19bbd4167e5bd",
-  "crudeoilsoars3ashormuzdisruptionsthreatenglobalsupply"
+  "crudeoilsoars3ashormuzdisruptionsthreatenglobalsupply",
+  "9bf66208d7292a3f",
+  "bsewidenswticrudeoiloptionsstrikerangecutstransactioncharges"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 32
  },
- "last_run": "2026-11-13T07:35:16.105791+02:00",
+ "last_run": "2026-11-13T07:40:19.273247+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
