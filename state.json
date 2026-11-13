@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "fb5c39ffd324d062",
-  "aseanpreparesemergencyoilreservesinasia",
   "6dae3d16cfe9ac7c",
   "morningstarholds2027brentforecastat71bblaspersiangulfsupplyr",
   "6b50fa806a9b440f",
@@ -603,7 +601,9 @@
   "ae152d69cb910a35",
   "mexicospemexsetsdecembercrudeoilpricesforinternationalbuyers",
   "67243215a5b3089a",
-  "jonesactwaiverextendedagain"
+  "jonesactwaiverextendedagain",
+  "53f2d96243158a9f",
+  "whitehouseextendsshippingwaiverasfuelpricesremainelevated"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T23:35:15.670505+02:00",
+ "last_run": "2026-11-13T23:40:19.253974+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
