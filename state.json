@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "2aa11550f512669b",
-  "oilrisesafteriransaysnonuclearmaterialwillleavethecountry",
   "38e31b8ff7a423b2",
   "bigoilhasmoretofearfromtruckersthanevs",
   "9a154d1de403fd82",
@@ -603,7 +601,9 @@
   "8083b34a5a46c9f5",
   "nvidiaceoresignationoilsurgepressurenewyorkstocks",
   "782d395205516d85",
-  "oilpricesholdgainsastrumpsidelinesvancefromirandiplomacy"
+  "oilpricesholdgainsastrumpsidelinesvancefromirandiplomacy",
+  "5a334354c6a5f928",
+  "volgogradoilrefineryrostovondonproductionfacilityinflamesfol"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-13",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-11-13T03:50:19.546804+02:00",
+ "last_run": "2026-11-13T03:55:15.005756+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1472,6 +1472,10 @@
   {
    "d": "2026-11-13",
    "t": "Oil prices hold gains as Trump sidelines Vance from Iran diplomacy - Yahoo Finance UK"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Volgograd oil refinery, Rostov-on-Don production facility in flames following Ukrainian drone attack - The Kyiv Independent"
   }
  ]
 }
