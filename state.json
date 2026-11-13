@@ -4,12 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "e28667bdae99acf9",
-  "nigeriasoctcrudeoutputeasesremainsjustaboveopecquota",
-  "bc92966389bac875",
-  "saudipipelineattackedasopecoutputclimbsto90ofprewarlevels",
-  "ea543199e98d438b",
-  "currentpriceofoilasofnovember122026",
   "ca074b21d14c1666",
   "cop31trafficchaosvenezuelanoilandgretathunberg",
   "5a51e1dd098b11fc",
@@ -603,7 +597,13 @@
   "fa072323cb927c7f",
   "crudeoilpricefallsaspeacehopesgrowoilseedshit",
   "8e253be762d01011",
-  "europeandieselpricesstayhighasglobaloilsupplyovertakesdemand"
+  "europeandieselpricesstayhighasglobaloilsupplyovertakesdemand",
+  "bd5f6d0214e47230",
+  "russiancrudeproductionreboundsaftertrumpdieseldealieasaysaso",
+  "b51711502b5e34ec",
+  "apishowssharpbuildinuscrudeoildistillateinventories",
+  "61c10fd5cff12b1c",
+  "nigeriahitsopecoilproductionquotaforsixthstraightmonth"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T14:10:20.132014+02:00",
+ "last_run": "2026-11-13T14:15:19.514814+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1588,6 +1588,14 @@
   {
    "d": "2026-11-13",
    "t": "FILE PHOTO: Middle East crude oil exports exceed pre-war levels but tanker attacks increase - The Daily News | Texas' Oldest Newspaper"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus - CNBC"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
