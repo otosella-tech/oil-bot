@@ -4,12 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "b9476efc9ae1e82d",
-  "venezuelanleaderdrumsupoilinvestmentatunclimatetalks",
-  "e4b1df885510ff67",
-  "oilpicksupastrumppostdampenshopesforusirandeal",
-  "5372545cab2f73c9",
-  "adropfornvidiasstockweighsontheusmarketwhileoilpricesswing",
   "8b15e82576403355",
   "ukrainepeacetalksyieldprisonerdealbutnopathtopeace",
   "3de9f5ce6052a310",
@@ -603,7 +597,13 @@
   "760f0ec444172067",
   "oilpricesmixedastradersweighsupplyoutlookmiddleeastrisks",
   "9d13ff533d268eb4",
-  "angolalookstodiversifyfromcrudewithwindfalloilrevenues"
+  "angolalookstodiversifyfromcrudewithwindfalloilrevenues",
+  "db4cc7ef1b51d7c9",
+  "eiaforecastsalaskancrudeoilproductiontogrow13in2027",
+  "6e524c62ede8a436",
+  "exclusiveiraqturnstotruckstoexportoilinoverlandsyrianroutere",
+  "b15032c628c33286",
+  "beachoilcleanupwilltakeseveraldays"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T15:45:18.269586+02:00",
+ "last_run": "2026-11-13T15:50:27.165490+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1620,6 +1620,10 @@
   {
    "d": "2026-11-13",
    "t": "Iraq Energy Police Director says a force is being formed to prevent oil smuggling, with measures being taken to protect pipelines - Newsquawk"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "EXCLUSIVE: Iraq turns to trucks to export oil in overland Syrian route revival - Reuters"
   }
  ]
 }
