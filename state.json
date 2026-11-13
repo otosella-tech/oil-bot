@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "4bd95a296919cd51",
-  "recordcarpricesarepushingamericandriversdeeperintodebt",
   "eabd6167e9d5a21a",
   "franceseeksnearzeromethanetargetforoilandgasincop31deal",
   "28986780d6829f9a",
@@ -603,7 +601,9 @@
   "91ef2c21534694a9",
   "360energypulsewhatmatteredthisweekinenergy",
   "7044d20b4accb555",
-  "iranbracesforabudgetwithoutoilrevenue"
+  "iranbracesforabudgetwithoutoilrevenue",
+  "d458fd1d070fcd98",
+  "ieaseesoilmarketdeficitnarrowingonsupplysurge"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-14",
   "count": 2
  },
- "last_run": "2026-11-14T01:05:15.386719+02:00",
+ "last_run": "2026-11-14T01:10:18.890372+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
