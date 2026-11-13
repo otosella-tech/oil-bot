@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "66d3da5ea41d4e4c",
-  "wallstreeterasesitsearlylossafterabsorbingbigswingsfornvidia",
   "aa60f2cd3c3c97bd",
   "uscrudeoilstockpilespostunexpectedweeklybuild",
   "707ef05e0b5bea46",
@@ -603,7 +601,9 @@
   "c5a5fad1bb99a666",
   "germanyeyes4billionbuyoutofrweandeonsurencostake",
   "58f818cd8a0e9110",
-  "cenovusoilsandsstrengthandcostdisciplinesupportgrowth"
+  "cenovusoilsandsstrengthandcostdisciplinesupportgrowth",
+  "501b306b47b91f2a",
+  "ieaacceleratesemergencyoilreleasesthroughfebruaryasdieselsho"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T20:40:20.485010+02:00",
+ "last_run": "2026-11-13T20:43:37.237076+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
