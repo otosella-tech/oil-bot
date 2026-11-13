@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "b082a4f4d8b06b03",
-  "wticrudeoilfallsforfifthconsecutivedayamidstalledusirantalks",
   "99302de9cbfd995d",
   "whyisgasolinesuddenlyunder4agallon",
   "1a091817e4c0e5da",
@@ -603,7 +601,9 @@
   "e6a9b3aa4ba50634",
   "whowillbuysablesoilifcaliforniakeepsclosingrefineries",
   "bf57de4215971f22",
-  "sugarmarketoutlookcrudeoillinkandtighter202627supply"
+  "sugarmarketoutlookcrudeoillinkandtighter202627supply",
+  "4eda26ddff94605d",
+  "oilpricesdropmorethan1ashopesforiranukrainepeacetalkspressur"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-13",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-11-13T07:50:19.807418+02:00",
+ "last_run": "2026-11-13T07:55:15.251443+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1500,6 +1500,10 @@
   {
    "d": "2026-11-13",
    "t": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Oil prices drop more than $1 as hopes for Iran, Ukraine peace talks pressure markets - CNBC"
   }
  ]
 }
