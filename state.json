@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "8790fb7f6c3d4fa9",
-  "japanoilcompanieskeepprofitsgrowingdespitehormuzclosure",
   "739ad63b2d1dd7d3",
   "alaskacrudeoilproductiontorise13in2027eiasays",
   "aef5ef2dafe02bc2",
@@ -603,7 +601,9 @@
   "05b76c9f9326ddd7",
   "oilpricessetforsecondstraightweeklydroponsignsofgrowingsuppl",
   "36d216200e2ad8fc",
-  "albertacutsoilsandsroyaltiestospurdoublingofoutput"
+  "albertacutsoilsandsroyaltiestospurdoublingofoutput",
+  "cedadad7def5c579",
+  "globaloilsuppliesaresuddenlyflowingwhyacrudeglutwontmeanchea"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-14T00:05:16.310675+02:00",
+ "last_run": "2026-11-14T00:10:20.335082+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
