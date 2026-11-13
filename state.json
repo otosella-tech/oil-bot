@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "bd6e74a6e1718a0b",
-  "iraqexports38millionbarrelsofoildailydeputypmsays",
   "a90518fddc204a41",
   "gaspricesestimaterisesfor2027thoughconsumerscouldstillseerel",
   "93165efb54aea692",
@@ -603,7 +601,9 @@
   "4ea0ffa464f8b256",
   "safetyalertoilcookingsafetydemonstrationinspartanburgcounty",
   "28e30d6f4cfee3f8",
-  "sensexdown400ptsniftynear25150riseincrudeoilpricesamongkeyfa"
+  "sensexdown400ptsniftynear25150riseincrudeoilpricesamongkeyfa",
+  "9e855220222a9038",
+  "crudeoilpricessurgepast95amidfreshhouthiattacksonsaudifacili"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-13",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-11-13T06:20:20.205086+02:00",
+ "last_run": "2026-11-13T06:25:14.855381+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1484,6 +1484,10 @@
   {
    "d": "2026-11-13",
    "t": "Oil prices set for second weekly decline as Trump to stay with Iran blockade - Reuters"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Crude oil prices surge past $95 amid fresh Houthi attacks on Saudi facilities; Brent, WTI gain - Moneycontrol.com"
   }
  ]
 }
