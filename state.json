@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "a75b47425d4d2f00",
-  "energypredictionsfromthefederalgovernment",
   "3657a985b4f07f44",
   "keycaliforniaoilgiantonlifesupportafterchevronmakescrucialde",
   "4bd95a296919cd51",
@@ -603,7 +601,9 @@
   "a79cfb6be614a523",
   "oilpriceceilingtrappedindevilframe",
   "75a7ceacd637e617",
-  "crudefuturespostbacktobackweeklylosses"
+  "crudefuturespostbacktobackweeklylosses",
+  "91ef2c21534694a9",
+  "360energypulsewhatmatteredthisweekinenergy"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-14T00:50:18.921466+02:00",
+ "last_run": "2026-11-14T00:55:17.357095+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
