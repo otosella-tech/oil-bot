@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "669389bdd5874def",
-  "anasalhajjiuscrudeoilinventoriesroseby47millionbarrels",
   "2d1b9f4328eeb6b8",
   "brentbrieflyhits94aftertrumpsaysushasnoneedforirandeal",
   "e1434445ff7cf871",
@@ -603,7 +601,9 @@
   "4444013921ab60a7",
   "usoilrigsholdat463ascrudeoutputhitsanotherrecord",
   "f4d165f9bd1ee368",
-  "exxonmobiltakesfidforlongtaildevelopmentoffshoreguyana"
+  "exxonmobiltakesfidforlongtaildevelopmentoffshoreguyana",
+  "c94c98391c6c7402",
+  "ecopetrolintalksfor10yearvenezuelagassupplydeal"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T20:15:18.956753+02:00",
+ "last_run": "2026-11-13T20:20:20.058541+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1663,6 +1663,10 @@
   {
    "d": "2026-11-13",
    "t": "Iraq establishes special security force to combat oil smuggling, protect pipelines - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Ecopetrol in Talks for 10-Year Venezuela Gas Supply Deal - Bloomberg.com"
   }
  ]
 }
