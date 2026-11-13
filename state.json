@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "4b26f246aae31910",
-  "opecoctoberoutputrose2millionbpdasbrentfellbelow90",
-  "90d6c983449fd126",
-  "daehanshipbuildingwins2498billionwonorderfortwocrudeoiltanke",
   "dfbe15f50661df11",
   "bccrudeoilfutures",
   "2ed32d68e1994751",
@@ -603,7 +599,11 @@
   "21c02b321d832ae5",
   "asianairlinesfacea148abarrelfuelgamble",
   "b8ad35a95c39019e",
-  "asianoilbuyersturntoafricaandbrazilastankerratesplunge"
+  "asianoilbuyersturntoafricaandbrazilastankerratesplunge",
+  "76452265c95f2345",
+  "petroleumpricefreezeextendedamidfiscalinflationdilemma",
+  "bbc370410c1d788d",
+  "fourkilledinukrainiandronestrikeinrussiasvolgogradofficialsa"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T11:05:15.663141+02:00",
+ "last_run": "2026-11-13T11:10:23.632914+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1556,6 +1556,10 @@
   {
    "d": "2026-11-13",
    "t": "Asian Oil Buyers Turn to Africa and Brazil as Tanker Rates Plunge - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Four killed in Ukrainian drone strike in Russia’s Volgograd, official says - Al Arabiya English"
   }
  ]
 }
