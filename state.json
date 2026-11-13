@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "6b50fa806a9b440f",
-  "albertalandownersgrouptellsfarmersrancherstoresistoildevelop",
   "8790fb7f6c3d4fa9",
   "japanoilcompanieskeepprofitsgrowingdespitehormuzclosure",
   "739ad63b2d1dd7d3",
@@ -603,7 +601,9 @@
   "53f2d96243158a9f",
   "whitehouseextendsshippingwaiverasfuelpricesremainelevated",
   "05b76c9f9326ddd7",
-  "oilpricessetforsecondstraightweeklydroponsignsofgrowingsuppl"
+  "oilpricessetforsecondstraightweeklydroponsignsofgrowingsuppl",
+  "36d216200e2ad8fc",
+  "albertacutsoilsandsroyaltiestospurdoublingofoutput"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T23:55:15.740319+02:00",
+ "last_run": "2026-11-14T00:00:28.220223+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
