@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "cee77e168a32c600",
-  "indiansharespauseafterforeignmoneyfuelledrally",
-  "d5c017f7c0bb3e72",
-  "oilgasanddieselpricesaredecliningbutnotallforthesamereason",
   "2150abd588d4bd56",
   "thestraitofhormuzwasthebiggestgamechangerformarketsin2026",
   "d62b9fd721242e19",
@@ -603,7 +599,11 @@
   "6deb489c98f02988",
   "yemenshouthissaytheyattackedpumpingstationonsaudiarabiaseast",
   "73e099a8555ec77c",
-  "oilpricesdeclineasbrentandwtiheadforsecondconsecutiveweeklyl"
+  "oilpricesdeclineasbrentandwtiheadforsecondconsecutiveweeklyl",
+  "8af3463974443cd3",
+  "yemenidronesattacksaudiarabiaseastwestoilpipelinepresstvrepo",
+  "0caee5a6fbca1732",
+  "nationalgaspriceaveragefallsbelow4forfirsttimesincejulyaaasa"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T13:34:25.164583+02:00",
+ "last_run": "2026-11-13T13:40:19.147801+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1580,6 +1580,10 @@
   {
    "d": "2026-11-13",
    "t": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline - Reuters"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Yemeni drones attack Saudi Arabia's East-West oil pipeline, Press TV reports; Sabereen adds, potentially in relation to this, \"Recording the disclosure report and on behalf of the committee: Three crude oil lines, and none of them have a problem.\" - Newsquawk"
   }
  ]
 }
