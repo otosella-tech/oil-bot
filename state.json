@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "eabd6167e9d5a21a",
-  "franceseeksnearzeromethanetargetforoilandgasincop31deal",
   "28986780d6829f9a",
   "nvidiastockplungeweighsonwallstreetwhileoilpricesswing",
   "bb22481f08635ebd",
@@ -603,7 +601,9 @@
   "7044d20b4accb555",
   "iranbracesforabudgetwithoutoilrevenue",
   "d458fd1d070fcd98",
-  "ieaseesoilmarketdeficitnarrowingonsupplysurge"
+  "ieaseesoilmarketdeficitnarrowingonsupplysurge",
+  "0a52581cacebc3f0",
+  "crudepricessupportedbyconcernsusiranwarwilllinger"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-11-14",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-14T01:25:15.045945+02:00",
+ "last_run": "2026-11-14T01:30:27.425504+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
@@ -1393,6 +1393,10 @@
   {
    "d": "2026-11-14",
    "t": "Iran Braces for a Budget Without Oil Revenue"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Crude Prices Supported by Concerns US-Iran War Will Linger - Yahoo Finance"
   }
  ]
 }
