@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "7e01e23de2dbe47d",
-  "eiacushingcrudeoilstockschangenov060106mprev0280m",
   "77eed6aa4f88753b",
   "useiacrudeoilinventories47mlnbarrelsinlatestweekfromprevious",
   "94b764195e87ca55",
@@ -603,7 +601,9 @@
   "b65c1a8dad7d1cde",
   "beninships1stcrudecargofordecadesfromrevivedoilfield",
   "8e3f68113c9859a6",
-  "crudeoilfuturesstorylinegeopoliticaluncertaintyrisingsupplya"
+  "crudeoilfuturesstorylinegeopoliticaluncertaintyrisingsupplya",
+  "fd9ed0def309c1fc",
+  "microsoftoutagedisruptsoiltraderdataanddealmaking"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T22:15:19.710665+02:00",
+ "last_run": "2026-11-13T22:20:21.188608+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1668,6 +1668,10 @@
   {
    "d": "2026-11-13",
    "t": "Ecopetrol in Talks for 10-Year Venezuela Gas Supply Deal - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Microsoft Outage Disrupts Oil Trader Data and Dealmaking - Bloomberg.com"
   }
  ]
 }
