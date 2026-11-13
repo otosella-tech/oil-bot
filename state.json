@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "a90518fddc204a41",
-  "gaspricesestimaterisesfor2027thoughconsumerscouldstillseerel",
   "93165efb54aea692",
   "japanoctcgpikeyenergypricescrudeoilcoalproducts159vssept115",
   "0eee29ae48c57223",
@@ -603,7 +601,9 @@
   "28e30d6f4cfee3f8",
   "sensexdown400ptsniftynear25150riseincrudeoilpricesamongkeyfa",
   "9e855220222a9038",
-  "crudeoilpricessurgepast95amidfreshhouthiattacksonsaudifacili"
+  "crudeoilpricessurgepast95amidfreshhouthiattacksonsaudifacili",
+  "0ea3e90b9bc60319",
+  "adnocssecondpipelinetobecompetedbyaroundjanuaryinpexexecutiv"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-13",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-11-13T06:25:14.855381+02:00",
+ "last_run": "2026-11-13T06:30:23.846474+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1488,6 +1488,10 @@
   {
    "d": "2026-11-13",
    "t": "Crude oil prices surge past $95 amid fresh Houthi attacks on Saudi facilities; Brent, WTI gain - Moneycontrol.com"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "ADNOC's second pipeline to be competed by around January, Inpex executive says - Reuters"
   }
  ]
 }
