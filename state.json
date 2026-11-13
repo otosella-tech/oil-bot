@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "9b1af86db2a00b14",
-  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "d6548a9553cb6703",
   "currentpriceofoilasofnovember112026",
   "d031180d9de45d4b",
@@ -603,7 +601,9 @@
   "ac4945fc06bb46d4",
   "sableoffshoreoilcorpinsurvivalmodeafterchevronstopsbuyingits",
   "5fee21a8cfc2bbab",
-  "ascanadainvestsinoilandgasenvironmentministerboastsofwarmwel"
+  "ascanadainvestsinoilandgasenvironmentministerboastsofwarmwel",
+  "bb22481f08635ebd",
+  "uscrudeoilinventoriesincreaseby47millionbarrels"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-14",
   "count": 4
  },
- "last_run": "2026-11-14T01:45:18.528730+02:00",
+ "last_run": "2026-11-14T01:50:20.336771+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
