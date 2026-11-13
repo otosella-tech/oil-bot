@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "3f244481aac452b8",
-  "ustotalcrudeoilstocksreboundinweekendednov6",
-  "3210b730cdf9a244",
-  "10yeartreasuryyieldjumpsbackabove5asoilgainsandmorefedratehi",
   "66d3da5ea41d4e4c",
   "wallstreeterasesitsearlylossafterabsorbingbigswingsfornvidia",
   "aa60f2cd3c3c97bd",
@@ -603,7 +599,11 @@
   "f5257f7bab05932b",
   "maradapprovesenergytransfers1billionbluemarlincrudeoilexport",
   "67fa94461cbc12a6",
-  "mexicojapanagreetoboostbilateraltradeandenergyties"
+  "mexicojapanagreetoboostbilateraltradeandenergyties",
+  "c5a5fad1bb99a666",
+  "germanyeyes4billionbuyoutofrweandeonsurencostake",
+  "58f818cd8a0e9110",
+  "cenovusoilsandsstrengthandcostdisciplinesupportgrowth"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T20:25:16.723098+02:00",
+ "last_run": "2026-11-13T20:30:25.387065+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
