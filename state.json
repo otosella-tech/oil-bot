@@ -4,8 +4,6 @@
   "Brent": 94.65
  },
  "seen": [
-  "38e31b8ff7a423b2",
-  "bigoilhasmoretofearfromtruckersthanevs",
   "9a154d1de403fd82",
   "riverroadreopensafteroilleakfromtransformerinmaumee",
   "0806b17c6c608f87",
@@ -603,7 +601,9 @@
   "782d395205516d85",
   "oilpricesholdgainsastrumpsidelinesvancefromirandiplomacy",
   "5a334354c6a5f928",
-  "volgogradoilrefineryrostovondonproductionfacilityinflamesfol"
+  "volgogradoilrefineryrostovondonproductionfacilityinflamesfol",
+  "acc18e9b570ae899",
+  "indianshareslikelytoopenflatasoilsurgecountersstrongforeigni"
  ],
  "releases_done": {},
  "last_digest": "2026-11-12",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-13",
-  "count": 22
+  "count": 24
  },
- "last_run": "2026-11-13T04:55:15.678892+02:00",
+ "last_run": "2026-11-13T05:00:30.904659+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1476,6 +1476,10 @@
   {
    "d": "2026-11-13",
    "t": "Volgograd oil refinery, Rostov-on-Don production facility in flames following Ukrainian drone attack - The Kyiv Independent"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "Indian shares likely to open flat as oil surge counters strong foreign inflows - Reuters"
   }
  ]
 }
