@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "f8b532c4d10f5432",
-  "oilgains1afteriranvowstoretainenricheduranium",
   "67dc7db52f39ad67",
   "cbaschambersseesroomforhigherus10yearyieldsdespitetheslidein",
   "ef4a0d5773524b43",
@@ -603,7 +601,9 @@
   "12713e28ca2bbc74",
   "crudeoilpricesfacefreshpressureasusirandiplomatichopesfade",
   "e6638039acd94740",
-  "saudicrudeoutputjumps26asriyadhreportsnearprewarproduction"
+  "saudicrudeoutputjumps26asriyadhreportsnearprewarproduction",
+  "0e303f677a3ff16f",
+  "aseanmovestobuildemergencyoilreservesamidiransupplycrisis"
  ],
  "releases_done": {},
  "last_digest": "2026-11-13",
@@ -615,7 +615,7 @@
   "date": "2026-11-13",
   "count": 60
  },
- "last_run": "2026-11-13T10:00:30.048324+02:00",
+ "last_run": "2026-11-13T10:05:16.199709+02:00",
  "sent_stories": [
   {
    "d": "2026-11-10",
@@ -1544,6 +1544,10 @@
   {
    "d": "2026-11-13",
    "t": "Saudi Crude Output Jumps 26% as Riyadh Reports Near Pre-War Production - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
