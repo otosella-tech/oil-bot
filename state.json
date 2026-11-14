@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "8d37a74d13054093",
-  "crudeoilretreatmayofferindiamacroeconomicreliefinh2offy27",
   "5eebba462acc10ec",
   "crudeoiltankercarryingindiancrewhitnearuaeallseafarerssafe",
   "f4c821c6f6392ddd",
@@ -603,7 +601,9 @@
   "fe75b12d790ea012",
   "aseanjointoilstockpilingplanindonesiathailandstoragesitesnew",
   "c6eca98c376ddc98",
-  "emergencyoilstocksslightlydowncommercialstocksupinjuly2026"
+  "emergencyoilstocksslightlydowncommercialstocksupinjuly2026",
+  "d24bc3b2cc7988a9",
+  "manarrestedinoiltheftatburbankgasstationothersmaybeatlarge"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-14",
   "count": 4
  },
- "last_run": "2026-11-14T03:30:25.049334+02:00",
+ "last_run": "2026-11-14T03:35:14.207736+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
