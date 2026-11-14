@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "80f513266f9f0134",
-  "houthisclaim2strikesoneastwestpipelineandyanbuoilfacilities",
   "4c914bc9647e50de",
   "eveningupdateforcrudeoil12112026",
   "9490f0a7236113fb",
@@ -603,7 +601,9 @@
   "737660de9ef001f3",
   "currentpriceofoilasofnov132026",
   "1027f22578ced6a3",
-  "oilpricesriseaftertrumpsaysnoirandealneededwevegottheirstrai"
+  "oilpricesriseaftertrumpsaysnoirandealneededwevegottheirstrai",
+  "a951ebd9ac502604",
+  "oilpricessalesandusetaxcollectionsupinlatestwyominginsight"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-14",
   "count": 10
  },
- "last_run": "2026-11-14T05:25:16.440730+02:00",
+ "last_run": "2026-11-14T05:30:23.146725+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
