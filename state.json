@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "e5a6d57f27f0fee9",
-  "amarillogaspricestumblenearly40centsagallonaheadofholidaytra",
   "100aa38e431fe8a8",
   "crudeoilindexvaluedeconfriat230pmetpredictionoddscrudeoil",
   "309f956505559958",
@@ -603,7 +601,9 @@
   "18d363639fb8150b",
   "usdaraisesbrazilsoybeanoilexportscutsregionalstocks",
   "3751a2930889ebec",
-  "singaporemakesa65billionbetonthefutureofgold"
+  "singaporemakesa65billionbetonthefutureofgold",
+  "87b7e1f3fe49ae52",
+  "usappearstohavepushedchinaandrussiaoutofvenezuelanoildealsbu"
  ],
  "releases_done": {},
  "last_digest": "2026-11-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-14",
-  "count": 51
+  "count": 53
  },
- "last_run": "2026-11-14T20:00:29.754166+02:00",
+ "last_run": "2026-11-14T20:05:14.413505+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
@@ -1476,6 +1476,10 @@
   {
    "d": "2026-11-14",
    "t": "Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "US appears to have pushed China and Russia out of Venezuelan oil deals but faces a billionaire's growing grip on prized African crude - Business Insider Africa"
   }
  ]
 }
