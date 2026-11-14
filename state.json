@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "a8f9bdefd4894e47",
-  "usmanaged12billioninvenezuelanoilrevenuestatedepartmentsays",
   "9189cf6134880110",
   "sugarpricesriseasstrengthincrudeoilspursshortcovering",
   "37145763b68ad857",
@@ -603,7 +601,9 @@
   "b54c844444000337",
   "americasoffshorewindindustryisgrowingdespitetrumpscrackdown",
   "89c416a985f01195",
-  "oilswingsbacktosurplusdieseldoesnt"
+  "oilswingsbacktosurplusdieseldoesnt",
+  "4d8b87496e154917",
+  "usreleasesreporton12bnfromvenezuelanoilmineralresources"
  ],
  "releases_done": {},
  "last_digest": "2026-11-14",
@@ -615,7 +615,7 @@
   "date": "2026-11-14",
   "count": 47
  },
- "last_run": "2026-11-14T18:15:20.905619+02:00",
+ "last_run": "2026-11-14T18:20:19.355895+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
