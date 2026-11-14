@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "9c85664e4cfd3bd7",
-  "uscrudeoiloutputhitsrecord14013millionbarrelsperday",
   "4b6f6dc3d1b88c61",
   "eiauscrudeoilinventoriesup47millionbbl",
   "c6cb9835106ebd0f",
@@ -603,7 +601,9 @@
   "ba99b6061cfc2a6f",
   "bpshellandtotalenergieswherenextforoilstocksascrudepricesfal",
   "d03e30b0caa80566",
-  "caughtoncamerausedcookingoilstolenfromnaplesbusinesses13wham"
+  "caughtoncamerausedcookingoilstolenfromnaplesbusinesses13wham",
+  "f48a9a7eb5643968",
+  "oilpricesreboundasmiddleeastrisksoffsetusinventorybuilds"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-14",
   "count": 4
  },
- "last_run": "2026-11-14T02:40:19.892730+02:00",
+ "last_run": "2026-11-14T02:45:19.183919+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
