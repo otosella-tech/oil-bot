@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "4b6f6dc3d1b88c61",
-  "eiauscrudeoilinventoriesup47millionbbl",
   "c6cb9835106ebd0f",
   "emergencyoilstocksslightlydowncommercialstocksupinjuly2026",
   "769cf350c48f8e42",
@@ -603,7 +601,9 @@
   "d03e30b0caa80566",
   "caughtoncamerausedcookingoilstolenfromnaplesbusinesses13wham",
   "f48a9a7eb5643968",
-  "oilpricesreboundasmiddleeastrisksoffsetusinventorybuilds"
+  "oilpricesreboundasmiddleeastrisksoffsetusinventorybuilds",
+  "c872d763dd7b6436",
+  "conabliftsbrazil202627soybeanoilexportforecastto18milmt"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-14",
   "count": 4
  },
- "last_run": "2026-11-14T03:10:26.130641+02:00",
+ "last_run": "2026-11-14T03:15:19.741981+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
