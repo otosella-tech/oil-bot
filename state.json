@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "4d8b87496e154917",
-  "usreleasesreporton12bnfromvenezuelanoilmineralresources",
-  "d151a5e0909e652b",
-  "ushandled12billionofvenezuelasoilrevenuesreportsays",
   "545d0d8fbfb16408",
   "oilgasproducersbraceforpersistentinflation",
   "f5515b3bf58079a9",
@@ -603,7 +599,11 @@
   "4a826f3526335e76",
   "iraqtransportsupto150000barrelsofoildailyviasyria",
   "ae8f53ce64e0eaa9",
-  "drawingonadeepheritageyalescholarsexplorethehealthbenefitsof"
+  "drawingonadeepheritageyalescholarsexplorethehealthbenefitsof",
+  "cb57b5d26ff28a44",
+  "trumpsoilgrabinvenezuelaistestingthecountrysnationalidentity",
+  "501cc8f0fe9fc08f",
+  "crudeoilpricesdowninweekasrussianexportssurge"
  ],
  "releases_done": {},
  "last_digest": "2026-11-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-14",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-11-14T12:00:27.220187+02:00",
+ "last_run": "2026-11-14T12:05:15.162703+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
@@ -1428,6 +1428,14 @@
   {
    "d": "2026-11-14",
    "t": "The Oil Market Is Brimming With Crude Despite Tanker Attacks - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity - The New York Times"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Crude Oil Prices Down In Week As Russian Exports Surge - MarketForces Africa"
   }
  ]
 }
