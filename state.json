@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "60b1b8a2656fff03",
-  "usequitymarketsendloweraftercrudeoilpricesrisenvidiaceoresig",
-  "c87a583e6a0ed2bd",
-  "oilsupertankersqueezeiscrimpinguscrudeexportstexasportceosay",
   "228be11052843a4b",
   "siemensseesaiinfrastructureboomdrivinglongtermgrowth",
   "9b2d28e48fe577c3",
@@ -603,7 +599,11 @@
   "d3ee3f4eee2226fe",
   "oilsettles3higheronattacksonsaudienergysitesstraitofhormuzdi",
   "9a1d37c66485102e",
-  "brazilianandafricanoilgainsgroundinasiaduetofallingfreightra"
+  "brazilianandafricanoilgainsgroundinasiaduetofallingfreightra",
+  "dbdec4b22e8c2f93",
+  "iraqioilblendediniranrelabeledtododgesanctionsreportsaysalhu",
+  "6d529312368c5712",
+  "crudeoilturnshigherastrumpsaysnoirandealneededusonysearca"
  ],
  "releases_done": {},
  "last_digest": "2026-11-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-14",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-11-14T13:35:14.625609+02:00",
+ "last_run": "2026-11-14T13:40:18.032513+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
@@ -1448,6 +1448,10 @@
   {
    "d": "2026-11-14",
    "t": "Oil settles $3 higher on attacks on Saudi energy sites, Strait of Hormuz disruptions - Reuters"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Iraqi oil blended in Iran, relabeled to dodge sanctions, report says | Alhurra - الحرة"
   }
  ]
 }
