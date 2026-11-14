@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "9490f0a7236113fb",
-  "makindecampaigndemandsprobeoftinubusn112trncrudeoilbackedloa",
   "23b43962f6d62aa7",
   "pmmodisayswestasiaconflictpushedcrudeoilpricestousd122perbar",
   "5d977e275af5f624",
@@ -603,7 +601,9 @@
   "a951ebd9ac502604",
   "oilpricessalesandusetaxcollectionsupinlatestwyominginsight",
   "a65be18d56af05f2",
-  "crudeoilfuturesheadforsecondstraightweeklylossasieaflagsover"
+  "crudeoilfuturesheadforsecondstraightweeklylossasieaflagsover",
+  "69933d735523074f",
+  "naturalgaswtioilbrentoilforecastsoilmovesawayfromsessionhigh"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-14",
   "count": 10
  },
- "last_run": "2026-11-14T06:35:14.451457+02:00",
+ "last_run": "2026-11-14T06:40:18.736466+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
