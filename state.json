@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "0d11264301570da1",
-  "crudeoilstrengthensmetalsbroadlydeclinelmecopperandlmealumin",
   "47f510034c4bf957",
   "slotkinjoinscolleaguesindemandingactionaftertrumpappointeein",
   "f23e23b1380787de",
@@ -603,7 +601,9 @@
   "4037ae57f0e88cdc",
   "ussays17bbarrelsofoilshippedthroughhormuz",
   "590797f9298f0bb1",
-  "centcom17billionbarrelsofoilshippedthroughhormuzunderusprote"
+  "centcom17billionbarrelsofoilshippedthroughhormuzunderusprote",
+  "0ec73bbd5300a39e",
+  "brentcrudeoilprice9584saturdayweekaheadafterasecondweeklylos"
  ],
  "releases_done": {},
  "last_digest": "2026-11-14",
@@ -615,7 +615,7 @@
   "date": "2026-11-14",
   "count": 60
  },
- "last_run": "2026-11-14T21:10:17.924426+02:00",
+ "last_run": "2026-11-14T21:15:18.448452+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
