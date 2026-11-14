@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "f96adea81fd2cb80",
-  "crudeoilexportsthroughthestraitofhormuzhitprewarlevelsbutfue",
   "d6e6267113da2fba",
   "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabia",
   "4684cc4c70a495a1",
@@ -603,7 +601,9 @@
   "26f63b480bfc628c",
   "irancrudeoutputasreportedbyopecoctoberupdatereport",
   "b87904877b2a7331",
-  "iraqioilblendediniranrelabeledtododgesanctionsreportsays"
+  "iraqioilblendediniranrelabeledtododgesanctionsreportsays",
+  "c23850a86fdafc34",
+  "gulfoilexportsrecoverashormuzshippingstruggles"
  ],
  "releases_done": {},
  "last_digest": "2026-11-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-14",
-  "count": 22
+  "count": 24
  },
- "last_run": "2026-11-14T08:05:14.598685+02:00",
+ "last_run": "2026-11-14T08:10:18.590005+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
@@ -1416,6 +1416,10 @@
   {
    "d": "2026-11-14",
    "t": "Iraqi oil blended in Iran, relabeled to dodge sanctions, report says - الحرة"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Gulf Oil Exports Recover as Hormuz Shipping Struggles - gCaptain"
   }
  ]
 }
