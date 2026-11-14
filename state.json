@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "73812596dbe217dd",
-  "oilupagainbutnvidiatumblesonjensenhuangresignation",
   "8083b34a5a46c9f5",
   "nvidiaceoresignationoilsurgepressurenewyorkstocks",
   "782d395205516d85",
@@ -603,7 +601,9 @@
   "b150544c6dfc10b0",
   "iranwaracceleratessoutheastasiasrenewableenergypush",
   "e4869ddf9e9e424d",
-  "iraqspmsacksofficialsoveroilsmugglinginstrongholdofiranbacke"
+  "iraqspmsacksofficialsoveroilsmugglinginstrongholdofiranbacke",
+  "1f8dd81df122344f",
+  "iraqpmsacksofficialsoveroilsmugglinginproirangroupbastion"
  ],
  "releases_done": {},
  "last_digest": "2026-11-14",
@@ -615,7 +615,7 @@
   "date": "2026-11-14",
   "count": 60
  },
- "last_run": "2026-11-14T22:00:34.697894+02:00",
+ "last_run": "2026-11-14T22:05:15.758170+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
@@ -1508,6 +1508,10 @@
   {
    "d": "2026-11-14",
    "t": "Iraq’s PM sacks officials over oil smuggling in stronghold of Iran-backed terror group - The Times of Israel"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Iraq PM sacks officials over oil smuggling in pro-Iran group bastion - Arab News"
   }
  ]
 }
