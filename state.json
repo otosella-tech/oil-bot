@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "769cf350c48f8e42",
-  "indiaspaysrecord64billiontoimportrussiancrudeoilinoctober",
   "8d37a74d13054093",
   "crudeoilretreatmayofferindiamacroeconomicreliefinh2offy27",
   "5eebba462acc10ec",
@@ -603,7 +601,9 @@
   "c872d763dd7b6436",
   "conabliftsbrazil202627soybeanoilexportforecastto18milmt",
   "fe75b12d790ea012",
-  "aseanjointoilstockpilingplanindonesiathailandstoragesitesnew"
+  "aseanjointoilstockpilingplanindonesiathailandstoragesitesnew",
+  "c6eca98c376ddc98",
+  "emergencyoilstocksslightlydowncommercialstocksupinjuly2026"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-14",
   "count": 4
  },
- "last_run": "2026-11-14T03:20:18.636081+02:00",
+ "last_run": "2026-11-14T03:25:14.640950+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
