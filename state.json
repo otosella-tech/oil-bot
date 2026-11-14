@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "2c2a70a31eaa072a",
-  "stockssurgeandthedowsoars1500pointsasoilpricestumblefollowin",
   "f0421ae55714989c",
   "7billioninoildebthasnigerianbanksholdingbacklending",
   "42a6530b33bfce34",
@@ -603,7 +601,9 @@
   "71af69fe3ade343b",
   "brentandwtisetforlossesofabout25inweektonov13assurplusconcer",
   "d89332347d555a9a",
-  "alaskacrudeoilproductiontorise13in2027eiasays"
+  "alaskacrudeoilproductiontorise13in2027eiasays",
+  "61c8dc33c0669413",
+  "usoilrigcountunchangedforweekendingnov7"
  ],
  "releases_done": {},
  "last_digest": "2026-11-14",
@@ -615,7 +615,7 @@
   "date": "2026-11-14",
   "count": 24
  },
- "last_run": "2026-11-14T09:50:19.471943+02:00",
+ "last_run": "2026-11-14T09:55:14.189414+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
