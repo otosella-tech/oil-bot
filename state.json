@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "7cf7528ad3ab8351",
-  "bpsgiantbraziloildiscoveryattractspetrobrasinterest",
-  "46101f6e136b17a7",
-  "anotheronebitesthedustconsolidationcontinuesintheoilsands",
   "dde50e804258b74f",
   "makindescampaigngroupdemandsprobeoftinubusn112trncrudeoilbac",
   "4d8b87496e154917",
@@ -603,7 +599,11 @@
   "32e7cf2dc745c398",
   "uscollected12billioninvenezuelanoilsalesreturningnearlyallof",
   "e1434445ff7cf871",
-  "crudeoilinventories4657millionversus1109millionestimate"
+  "crudeoilinventories4657millionversus1109millionestimate",
+  "f9a25cf1595299d2",
+  "theoilmarketisbrimmingwithcrudedespitetankerattacks",
+  "4a826f3526335e76",
+  "iraqtransportsupto150000barrelsofoildailyviasyria"
  ],
  "releases_done": {},
  "last_digest": "2026-11-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-14",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-11-14T10:55:14.591145+02:00",
+ "last_run": "2026-11-14T11:00:29.369514+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
@@ -1424,6 +1424,10 @@
   {
    "d": "2026-11-14",
    "t": "U.S. Collected $12 Billion in Venezuelan Oil Sales, Returning Nearly All of It - WSJ"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "The Oil Market Is Brimming With Crude Despite Tanker Attacks - Bloomberg.com"
   }
  ]
 }
