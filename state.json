@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "d031180d9de45d4b",
-  "statedepartmentreportdetails121billionpaidfromvenezuelaoilfu",
   "9c85664e4cfd3bd7",
   "uscrudeoiloutputhitsrecord14013millionbarrelsperday",
   "4b6f6dc3d1b88c61",
@@ -603,7 +601,9 @@
   "bb22481f08635ebd",
   "uscrudeoilinventoriesincreaseby47millionbarrels",
   "ba99b6061cfc2a6f",
-  "bpshellandtotalenergieswherenextforoilstocksascrudepricesfal"
+  "bpshellandtotalenergieswherenextforoilstocksascrudepricesfal",
+  "d03e30b0caa80566",
+  "caughtoncamerausedcookingoilstolenfromnaplesbusinesses13wham"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-14",
   "count": 4
  },
- "last_run": "2026-11-14T02:25:15.614512+02:00",
+ "last_run": "2026-11-14T02:30:23.779323+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
