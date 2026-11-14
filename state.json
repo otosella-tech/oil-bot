@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "dbb76e2409a0cafe",
-  "centralasiasb20messagetowashingtonletsmakedeals",
-  "bd147a2c2533566b",
-  "decemberwticrudeoilcontractclosesup221or26settlesat8874perba",
   "80f513266f9f0134",
   "houthisclaim2strikesoneastwestpipelineandyanbuoilfacilities",
   "4c914bc9647e50de",
@@ -603,7 +599,11 @@
   "a41619bd2391d987",
   "trumpspeacefulmooddoesntfullyexplainwhyenergypricesareplungi",
   "ec44fe723a8b5bc6",
-  "goldsilverreboundaftercpidrivenselloffhormuztensionsliftcrud"
+  "goldsilverreboundaftercpidrivenselloffhormuztensionsliftcrud",
+  "737660de9ef001f3",
+  "currentpriceofoilasofnov132026",
+  "1027f22578ced6a3",
+  "oilpricesriseaftertrumpsaysnoirandealneededwevegottheirstrai"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-11-14",
-  "count": 8
+  "count": 10
  },
- "last_run": "2026-11-14T04:50:19.592917+02:00",
+ "last_run": "2026-11-14T04:55:14.770170+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
@@ -1405,6 +1405,10 @@
   {
    "d": "2026-11-14",
    "t": "Gold, silver rebound after CPI-driven selloff, Hormuz tensions lift crude oil - Kitco AM Report - Kitco"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait' - CNBC"
   }
  ]
 }
