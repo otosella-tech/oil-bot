@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "388ac7e6f887c834",
-  "asianstockssetforcautiousopenonnvidiaoilmarketswrap",
   "b86b718f69515730",
   "newyorkstockindicesdropasnvidiaceoresignsoilpricessurge",
   "a5e9802cef858389",
@@ -603,7 +601,9 @@
   "c1e9d3067c7583c0",
   "crudeoiliscaughtbetweenhopesofdeescalationandconcernsoffurth",
   "b4a4a8b515965985",
-  "philippineslaunchespilotprojectstoexploreemergencyoilaccessi"
+  "philippineslaunchespilotprojectstoexploreemergencyoilaccessi",
+  "55f9e98be5e4473a",
+  "heatingoilpricesareup59fromlastwinterthespikeiscrushingfolks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-14",
-  "count": 45
+  "count": 47
  },
- "last_run": "2026-11-14T17:25:13.498010+02:00",
+ "last_run": "2026-11-14T17:30:25.864785+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
@@ -1464,6 +1464,10 @@
   {
    "d": "2026-11-14",
    "t": "Ukraine's Security Service strikes key Russian oil export preparation hub - Українська правда"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says - CNBC"
   }
  ]
 }
