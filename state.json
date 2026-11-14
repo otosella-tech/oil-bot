@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "d921108ff8dc2696",
-  "moredrillingwontshieldusconsumersfromoilpriceshocks",
-  "c4e8a9a4f6b650e4",
-  "usequityindexesfallnvidiaturmoilindangerofspreadingwhilesurg",
   "d4d28bfb73c6e0cf",
   "talosenergysmenergypropetropeabodyenergyandrileyexplorationp",
   "c74a78634288e092",
@@ -603,7 +599,11 @@
   "dded2ad00b4f94f9",
   "iransaysoiltankeronfireafternavalminestrikeineasternstraitof",
   "c847363a74adb359",
-  "usboostsvenezuelancrudeoilimportstohighestlevelinyears"
+  "usboostsvenezuelancrudeoilimportstohighestlevelinyears",
+  "b6982627ed23a3d3",
+  "yoursaturdaynov14guidefivethingstodointheoilcity",
+  "918833811beef16e",
+  "ukrainehitskeyrussianoilhubmilitaryairbaseinlatestlongranges"
  ],
  "releases_done": {},
  "last_digest": "2026-11-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-14",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-11-14T16:00:29.740127+02:00",
+ "last_run": "2026-11-14T16:05:15.763252+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
@@ -1456,6 +1456,10 @@
   {
    "d": "2026-11-14",
    "t": "Iran says oil tanker on fire after naval mine strike in eastern Strait of Hormuz - The Jerusalem Post"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Ukraine hits key Russian oil hub, military airbase in latest long-range strikes - The Kyiv Independent"
   }
  ]
 }
