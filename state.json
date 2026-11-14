@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "06e4dca40b0883ef",
-  "newyorkstocksfallonnvidiaceoresignationoilsurge",
   "fb0440793acf9c17",
   "iranwarliftscrudemidstreamearningscomplicatesroutestomarket",
   "7994d69732a67e31",
@@ -603,7 +601,9 @@
   "5f07de0df9a0e1ac",
   "ukrainesgeneralstaffreportsstrikeonoilfacilityinrussiassamar",
   "5e3c3703c2da4243",
-  "explainerwilloilpriceskeepfallingafterdemocratsusmidtermwin"
+  "explainerwilloilpriceskeepfallingafterdemocratsusmidtermwin",
+  "9cf8c2cd73cfd2b6",
+  "oilpricessqueezedbetweenpeacehopesandiranescalationrisk"
  ],
  "releases_done": {},
  "last_digest": "2026-11-14",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-14",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-11-14T20:40:19.083770+02:00",
+ "last_run": "2026-11-14T20:45:19.152361+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
@@ -1484,6 +1484,10 @@
   {
    "d": "2026-11-14",
    "t": "Ukraine's General Staff reports strike on oil facility in Russia's Samara Oblast and military airfield in Lipetsk - Українська правда"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
