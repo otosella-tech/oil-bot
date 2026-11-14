@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "4c914bc9647e50de",
-  "eveningupdateforcrudeoil12112026",
   "9490f0a7236113fb",
   "makindecampaigndemandsprobeoftinubusn112trncrudeoilbackedloa",
   "23b43962f6d62aa7",
@@ -603,7 +601,9 @@
   "1027f22578ced6a3",
   "oilpricesriseaftertrumpsaysnoirandealneededwevegottheirstrai",
   "a951ebd9ac502604",
-  "oilpricessalesandusetaxcollectionsupinlatestwyominginsight"
+  "oilpricessalesandusetaxcollectionsupinlatestwyominginsight",
+  "a65be18d56af05f2",
+  "crudeoilfuturesheadforsecondstraightweeklylossasieaflagsover"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-14",
   "count": 10
  },
- "last_run": "2026-11-14T05:55:14.001843+02:00",
+ "last_run": "2026-11-14T06:00:28.795971+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
