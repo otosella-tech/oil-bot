@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "2149be10f0fe6d8e",
-  "oilpricesriseaftertrumpsaysnoirandealneededwevegottheirstrai",
   "dbb76e2409a0cafe",
   "centralasiasb20messagetowashingtonletsmakedeals",
   "bd147a2c2533566b",
@@ -603,7 +601,9 @@
   "374f9b100dfe2d66",
   "gaspricesmightstayhighforawhileevenifcrudeoilfallshereswhy",
   "a41619bd2391d987",
-  "trumpspeacefulmooddoesntfullyexplainwhyenergypricesareplungi"
+  "trumpspeacefulmooddoesntfullyexplainwhyenergypricesareplungi",
+  "ec44fe723a8b5bc6",
+  "goldsilverreboundaftercpidrivenselloffhormuztensionsliftcrud"
  ],
  "releases_done": {
   "2026-11-13|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-11-14",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-11-14T04:45:17.941578+02:00",
+ "last_run": "2026-11-14T04:50:19.592917+02:00",
  "sent_stories": [
   {
    "d": "2026-11-11",
@@ -1401,6 +1401,10 @@
   {
    "d": "2026-11-14",
    "t": "Iran's oil output plunges below pre-war domestic needs - Iran International"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Gold, silver rebound after CPI-driven selloff, Hormuz tensions lift crude oil - Kitco AM Report - Kitco"
   }
  ]
 }
