@@ -606,16 +606,16 @@
   "usreturnsover12billioninoilproceedstovenezuelasincemadurosou"
  ],
  "releases_done": {},
- "last_digest": "2026-11-14",
+ "last_digest": "2026-11-15",
  "digest_prices": {
   "WTI": 88.56,
   "Brent": 95.84
  },
  "llm": {
   "date": "2026-11-15",
-  "count": 6
+  "count": 12
  },
- "last_run": "2026-11-15T07:55:15.831377+02:00",
+ "last_run": "2026-11-15T08:00:29.318480+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
