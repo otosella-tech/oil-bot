@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "33ec964f4345cf93",
-  "oilpricessetforsecondweeklydeclineastrumpstickswithiranblock",
   "f0e9068fb2384a0e",
   "elninobiofuelregulationssqueezeindonesianpalmoilproducers",
   "8a8938f6965e9068",
@@ -603,7 +601,9 @@
   "c4e78cbaa4b3b5b0",
   "duneoiltargetsfirstoilfrom276mbarrelm47raisesfundforc1sidetr",
   "1ff69876903e96e1",
-  "usdieselpricesdropbelow6agallonasdemandeases"
+  "usdieselpricesdropbelow6agallonasdemandeases",
+  "1be47b87f7229b9d",
+  "japantoproposeasianversionofieaatazecsummit"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -615,7 +615,7 @@
   "date": "2026-11-15",
   "count": 14
  },
- "last_run": "2026-11-15T11:30:25.668569+02:00",
+ "last_run": "2026-11-15T11:35:14.755498+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
