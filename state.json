@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "4cf8f05d4a3dd25a",
-  "iraqs5millionbpdoilclaimcomplicatesitsopecquotapush",
   "b8468558632a387b",
   "equitiescloselowerasnvidiadropoutweighsenergygains",
   "6c3f24ea15779850",
@@ -603,7 +601,9 @@
   "d0a3abc3a5cc1eba",
   "iransayssupertankercarrying2millionbarrelsofoilsinksafterhit",
   "e8bcec94c56d8dfa",
-  "wtioilretreatsbelow87asbetsonsteeperfedtighteningcurbgains"
+  "wtioilretreatsbelow87asbetsonsteeperfedtighteningcurbgains",
+  "58ccd748c76e3302",
+  "iransayssupertankerwith2millionbarrelsofoilsankingulfregionw"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-15",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-11-15T18:30:22.619338+02:00",
+ "last_run": "2026-11-15T18:35:14.979600+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
@@ -1340,6 +1340,10 @@
   {
    "d": "2026-11-15",
    "t": "Iran says supertanker carrying 2 million barrels of oil sinks after hitting mine in Hormuz - Deccan Herald"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Iran says supertanker with 2 million barrels of oil sank in Gulf - Region - World - Ahram Online"
   }
  ]
 }
