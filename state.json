@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "17da9fd9ec381181",
-  "oilfuturescrudeconsolidatesgainsasusirantalksstall",
   "46b2605fb20b86bb",
   "19indiansailorssafeafteroiltankerattacknearuae",
   "047f3bb3b1437a0b",
@@ -603,7 +601,9 @@
   "a18a3ffc9066196f",
   "addressingexistingthreatsyemeniforceswithdrawfrombabelmandeb",
   "483614ebc5e2f6e2",
-  "trumptoextendshippingwaiverforoilfertilizer"
+  "trumptoextendshippingwaiverforoilfertilizer",
+  "18eac48c1138a02e",
+  "trumpswarposesagenerationalthreattowildlifeinthepersiangulf"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -615,7 +615,7 @@
   "date": "2026-11-15",
   "count": 20
  },
- "last_run": "2026-11-15T15:00:29.338062+02:00",
+ "last_run": "2026-11-15T15:05:14.680563+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
