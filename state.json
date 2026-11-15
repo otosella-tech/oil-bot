@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "700c9d9e43f9b877",
-  "beninshipsfirstcrudecargotoeuropein27yearsafterrevivingdorma",
   "5c81cf27a684e035",
   "oilpricesfallduetoincreasedopecproduction",
   "17da9fd9ec381181",
@@ -603,7 +601,9 @@
   "82480ad08b0ea125",
   "saudiinterceptsmissilesashouthiswidenstrikesonkingdom",
   "f0571c499bf41829",
-  "globaloilpricesplungeforsecondstraightweekvietnamretailprice"
+  "globaloilpricesplungeforsecondstraightweekvietnamretailprice",
+  "a18a3ffc9066196f",
+  "addressingexistingthreatsyemeniforceswithdrawfrombabelmandeb"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -615,7 +615,7 @@
   "date": "2026-11-15",
   "count": 20
  },
- "last_run": "2026-11-15T14:25:15.465235+02:00",
+ "last_run": "2026-11-15T14:30:24.340770+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
