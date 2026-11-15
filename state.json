@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "cb4da64ee5aceb14",
-  "opeckeepsoildemandgrowthforecastunchanged",
-  "3b906fe342f76aac",
-  "crudeoilfuturesriseamidfirmglobaltrends",
   "965f346dabd57dd0",
   "oilproductiongainsexpectedintheamericas",
   "a325c7e947027afb",
@@ -603,7 +599,11 @@
   "89ec03f5390efea2",
   "wpiinflationfiiflowscrudeoilpricestoguidemarketsthisweek",
   "8dd0a37fff30ed52",
-  "dsicwinsordersforeight110000dwtoiltankersfromthreeshipowners"
+  "dsicwinsordersforeight110000dwtoiltankersfromthreeshipowners",
+  "24f03b3c597a02b0",
+  "diamondbacknears5bndealtoexpanddrillinginoilrichpermianbasin",
+  "8204be713b063475",
+  "opecoutputreboundsinoctoberassaudiarabiadrivessupplyrecovery"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-15",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-11-15T20:25:17.367241+02:00",
+ "last_run": "2026-11-15T20:30:26.391760+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
@@ -1364,6 +1364,10 @@
   {
    "d": "2026-11-15",
    "t": "Oil supertanker ‘sinks after hitting mine’ in Strait of Hormuz - The Telegraph"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Opec+ output rebounds in October as Saudi Arabia drives supply recovery - Indiatimes"
   }
  ]
 }
