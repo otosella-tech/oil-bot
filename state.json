@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "b09335fb733eedd7",
-  "sensexsettles300ptslowerniftyendsbelow25150riseincrudeoilpri",
   "da1bca4233a7f367",
   "eiaraisesnovembernaturalgasstorageforecastafterwarmstarttomo",
   "d0f05012b4b8451f",
@@ -603,7 +601,9 @@
   "7655d2babf419012",
   "euannouncesnewsanctionsfollowinginterceptionofoiltankerlinke",
   "cb730345c3d442d3",
-  "crudeoiljumpsasescalationrisksincreaseaftertrumpsaystheusdoe"
+  "crudeoiljumpsasescalationrisksincreaseaftertrumpsaystheusdoe",
+  "78d6ab0acc64a453",
+  "trumpshormuzsqueezehasiranstranglednowslamitsbackdoortoo"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -615,7 +615,7 @@
   "date": "2026-11-15",
   "count": 60
  },
- "last_run": "2026-11-15T23:09:08.163802+02:00",
+ "last_run": "2026-11-15T23:10:19.461867+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
@@ -1388,6 +1388,10 @@
   {
    "d": "2026-11-15",
    "t": "EU announces new sanctions following interception of oil tanker linked to Russia's ghost fleet in Mediterranean - European Interest"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too - New York Post"
   }
  ]
 }
