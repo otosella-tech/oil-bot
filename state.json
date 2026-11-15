@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "b7c99952c66216fb",
-  "adnoconshorecrudeoilpipelineexpansionsecondlinetodoublecapac",
-  "c5f6ca7f9738c891",
-  "alaskancrudeoiltogrowin2027",
   "a810233f8987524b",
   "gulfovertakesrussiainoilsalestoindia",
   "5699df7f2516a197",
@@ -603,7 +599,11 @@
   "58e510c2489d57b5",
   "cushinghubstrugglestorefillwithoilinventory",
   "666a98f8664d20c2",
-  "ukrainiandroneattackkills4workerssparksfireatvolgogradoilref"
+  "ukrainiandroneattackkills4workerssparksfireatvolgogradoilref",
+  "4af6dd270f1c76cc",
+  "oilsupertankersinksafterhittingmineinstraitofhormuz",
+  "9312c6ca9a245edc",
+  "globaloilmarketsswingtosurplusasgulfshipmentsrebound"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-15",
-  "count": 52
+  "count": 54
  },
- "last_run": "2026-11-15T20:15:17.877719+02:00",
+ "last_run": "2026-11-15T20:20:22.284518+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
@@ -1360,6 +1360,10 @@
   {
    "d": "2026-11-15",
    "t": "Ukrainian Drone Attack Kills 4 Workers, Sparks Fire at Volgograd Oil Refinery - The Moscow Times"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Oil supertanker ‘sinks after hitting mine’ in Strait of Hormuz - The Telegraph"
   }
  ]
 }
