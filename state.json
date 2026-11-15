@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "deaee79f3aec4cec",
-  "top3energystockstowatchinnovember2026",
   "12713e28ca2bbc74",
   "crudeoilpricesfacefreshpressureasusirandiplomatichopesfade",
   "e6638039acd94740",
@@ -603,7 +601,9 @@
   "9a8a824ad7c6c1b5",
   "williraqsoilsmugglingcrackdowndisarmmilitiaswithoutaconflict",
   "87d72a286412d1b8",
-  "1973oilcrisisechoesincurrentmarketvolatilityconcerns"
+  "1973oilcrisisechoesincurrentmarketvolatilityconcerns",
+  "0160efe1351b7bab",
+  "iransnavytwomoreoiltankershitminesinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-15",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-11-15T17:45:17.835687+02:00",
+ "last_run": "2026-11-15T17:50:17.971118+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
@@ -1316,6 +1316,10 @@
   {
    "d": "2026-11-15",
    "t": "'Unauthorised supertanker' carrying over 2M barrels of oil sinks in Hormuz: Iran - TRT World"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Iran's navy: Two more oil tankers hit mines in Strait of Hormuz - Yahoo"
   }
  ]
 }
