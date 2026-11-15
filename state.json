@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "666a98f8664d20c2",
-  "ukrainiandroneattackkills4workerssparksfireatvolgogradoilref",
   "9312c6ca9a245edc",
   "globaloilmarketsswingtosurplusasgulfshipmentsrebound",
   "b7c99952c66216fb",
@@ -603,7 +601,9 @@
   "4bc09b0e4b30d46d",
   "irgcclaimssupertankerwith2mbarrelssankingulf",
   "3b64227474c9e90a",
-  "worldoilmarketisreturningtosurplusasgulfexportsrecoverieasay"
+  "worldoilmarketisreturningtosurplusasgulfexportsrecoverieasay",
+  "58e510c2489d57b5",
+  "cushinghubstrugglestorefillwithoilinventory"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -615,7 +615,7 @@
   "date": "2026-11-15",
   "count": 50
  },
- "last_run": "2026-11-15T20:05:14.847157+02:00",
+ "last_run": "2026-11-15T20:10:19.810537+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
