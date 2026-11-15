@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "9b472c2efd2e93d2",
-  "wallstreetshakeswithtechoilswingsbutrecoversthearkansasdemoc",
-  "7562d8cf01735b10",
-  "norwaylosessupremecourtrulinginoilfieldlicensingcase",
   "b8a87a77626b9b5c",
   "petroleumpricefreezeextendedcostsvsstabilitydilemma",
   "0bc41c22e6e6f67a",
@@ -603,7 +599,11 @@
   "40751b088e08d835",
   "hrtfinanciallpsells1205mbuys1661mofunitedstatesoilfund",
   "30dff0ce6a02a2c5",
-  "iranclaimstwotankershitminesinhormuzreleasesunverifiedvideo"
+  "iranclaimstwotankershitminesinhormuzreleasesunverifiedvideo",
+  "eb094770abeb92e7",
+  "wticrudeoilreboundstoward90asmiddleeastriskskeeptraderscauti",
+  "e4e6b4b69b13e682",
+  "iransayssupertankercarrying2millionbarrelsofoilsinksafter2sh"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-15",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-11-15T21:45:18.155927+02:00",
+ "last_run": "2026-11-15T21:50:19.056014+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
@@ -1372,6 +1372,10 @@
   {
    "d": "2026-11-15",
    "t": "Iran claims two tankers hit mines in Hormuz, releases unverified video - Ynetnews"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Iran says supertanker carrying 2 million barrels of oil sinks after 2 ships hit mines in Strait of Hormuz - Deccan Herald"
   }
  ]
 }
