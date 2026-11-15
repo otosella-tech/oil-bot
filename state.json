@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "d111958570b17630",
-  "mideastcrisisbendsshapeofoildemand",
-  "1e7c8dc7ecee2a04",
-  "oilrisesastrumpdimsirandealhopes",
   "bbb6b5f16e7c623c",
   "modernizingenterprisedecisionintelligenceinoilandgasadatadri",
   "ad3ef31509bb6b9a",
@@ -603,7 +599,11 @@
   "82542eb81d6fa07a",
   "howbrazilplanstoacceleratetheglobalshiftawayfromfossilfuels",
   "6e38cdaf605a94cd",
-  "saudiiraqioilreplaceiraniancrudeinchinareport"
+  "saudiiraqioilreplaceiraniancrudeinchinareport",
+  "4b7392824ca21347",
+  "supertankerwith2millionbarrelsofoilsinksafterhittingmineinst",
+  "9bf3a55d98f17feb",
+  "iransayssupertankercarryingoilsinksinhormuzstrait"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-15",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-11-15T18:00:29.590962+02:00",
+ "last_run": "2026-11-15T18:05:15.114379+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
@@ -1328,6 +1328,14 @@
   {
    "d": "2026-11-15",
    "t": "Saudi, Iraqi Oil Replace Iranian Crude in China: Report - Egypt Oil & Gas"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Supertanker with 2 million barrels of oil sinks after hitting mine in Strait of Hormuz - The Times of India"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Iran says supertanker carrying oil sinks in Hormuz Strait - RTE.ie"
   }
  ]
 }
