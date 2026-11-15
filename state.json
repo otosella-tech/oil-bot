@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "12713e28ca2bbc74",
-  "crudeoilpricesfacefreshpressureasusirandiplomatichopesfade",
   "e6638039acd94740",
   "saudicrudeoutputjumps26asriyadhreportsnearprewarproduction",
   "0e303f677a3ff16f",
@@ -603,7 +601,9 @@
   "87d72a286412d1b8",
   "1973oilcrisisechoesincurrentmarketvolatilityconcerns",
   "0160efe1351b7bab",
-  "iransnavytwomoreoiltankershitminesinstraitofhormuz"
+  "iransnavytwomoreoiltankershitminesinstraitofhormuz",
+  "98d934ac836fe3b4",
+  "supertankerwith2millionbarrelsofoilsankingulfiransay"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-15",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-11-15T17:50:17.971118+02:00",
+ "last_run": "2026-11-15T17:55:15.392925+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
@@ -1320,6 +1320,10 @@
   {
    "d": "2026-11-15",
    "t": "Iran's navy: Two more oil tankers hit mines in Strait of Hormuz - Yahoo"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Supertanker with 2 million barrels of oil sank in Gulf, Iran say - The New Arab"
   }
  ]
 }
