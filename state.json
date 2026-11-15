@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "965f346dabd57dd0",
-  "oilproductiongainsexpectedintheamericas",
   "a325c7e947027afb",
   "indiaseeksprivateinvestorsfor910millionoilreserve",
   "9b472c2efd2e93d2",
@@ -603,7 +601,9 @@
   "24f03b3c597a02b0",
   "diamondbacknears5bndealtoexpanddrillinginoilrichpermianbasin",
   "8204be713b063475",
-  "opecoutputreboundsinoctoberassaudiarabiadrivessupplyrecovery"
+  "opecoutputreboundsinoctoberassaudiarabiadrivessupplyrecovery",
+  "40751b088e08d835",
+  "hrtfinanciallpsells1205mbuys1661mofunitedstatesoilfund"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -615,7 +615,7 @@
   "date": "2026-11-15",
   "count": 56
  },
- "last_run": "2026-11-15T21:00:29.018442+02:00",
+ "last_run": "2026-11-15T21:05:17.161037+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
