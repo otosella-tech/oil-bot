@@ -4,10 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "ad3ef31509bb6b9a",
-  "repelectbobbypulidowinslatingrammy",
-  "c6b94e1af86aa4e2",
-  "crudeoilmarketbriefingwtibrentanddieselspreadsnovember2026",
   "4cf8f05d4a3dd25a",
   "iraqs5millionbpdoilclaimcomplicatesitsopecquotapush",
   "b8468558632a387b",
@@ -603,7 +599,11 @@
   "9bf3a55d98f17feb",
   "iransayssupertankercarryingoilsinksinhormuzstrait",
   "da780c5e62523bf3",
-  "permianbasindrivesusoilgrowthwithslowandsteadyplaybook"
+  "permianbasindrivesusoilgrowthwithslowandsteadyplaybook",
+  "d0a3abc3a5cc1eba",
+  "iransayssupertankercarrying2millionbarrelsofoilsinksafterhit",
+  "e8bcec94c56d8dfa",
+  "wtioilretreatsbelow87asbetsonsteeperfedtighteningcurbgains"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-15",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-11-15T18:10:19.555194+02:00",
+ "last_run": "2026-11-15T18:15:20.351805+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
@@ -1336,6 +1336,10 @@
   {
    "d": "2026-11-15",
    "t": "Iran says supertanker carrying oil sinks in Hormuz Strait - RTE.ie"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Iran says supertanker carrying 2 million barrels of oil sinks after hitting mine in Hormuz - Deccan Herald"
   }
  ]
 }
