@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "8a8938f6965e9068",
-  "indiansharesdeclineasoilsurgeinflationjittersweigh",
   "fb2a7daa32cac21a",
   "crudeoilgainsastrumpdismissesirandealraisingfreshoilsupplyco",
   "1f71b73c77426ec9",
@@ -603,7 +601,9 @@
   "1be47b87f7229b9d",
   "japantoproposeasianversionofieaatazecsummit",
   "40a18fe5072ebacb",
-  "industryministerkimextendsoilpricecapasunavoidablechoice"
+  "industryministerkimextendsoilpricecapasunavoidablechoice",
+  "27cdaee6438cc914",
+  "crudeoilmayfallfurtherbrenttargets9092amidsupply"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -615,7 +615,7 @@
   "date": "2026-11-15",
   "count": 14
  },
- "last_run": "2026-11-15T12:35:15.535809+02:00",
+ "last_run": "2026-11-15T12:40:19.661575+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
