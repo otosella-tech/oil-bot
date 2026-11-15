@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "eb2a25d60f64fa32",
-  "oilpricesup121126",
   "d1e19bbd4167e5bd",
   "crudeoilsoars3ashormuzdisruptionsthreatenglobalsupply",
   "9bf66208d7292a3f",
@@ -603,7 +601,9 @@
   "701745a09dde2e73",
   "globaloilmarketmovestosurplusaspersiangulfshipmentsreboundie",
   "e1456649af2257f3",
-  "usreturnsover12billioninoilproceedstovenezuelasincemadurosou"
+  "usreturnsover12billioninoilproceedstovenezuelasincemadurosou",
+  "6e221085e2748962",
+  "duboisranchersbalkatoilandgasleasesintreasuredwildlifehabita"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -615,7 +615,7 @@
   "date": "2026-11-15",
   "count": 12
  },
- "last_run": "2026-11-15T08:45:19.171616+02:00",
+ "last_run": "2026-11-15T08:50:19.259071+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
