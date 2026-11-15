@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "0bc41c22e6e6f67a",
-  "wticrudeoilfuturesfall07to8809brentcrudeoilfuturesslip03to95",
   "cb730345c3d442d3",
   "crudeoiljumpsasescalationrisksincreaseaftertrumpsaystheusdoe",
   "0259b622adf39f1b",
@@ -603,7 +601,9 @@
   "e4e6b4b69b13e682",
   "iransayssupertankercarrying2millionbarrelsofoilsinksafter2sh",
   "5fd331d1f75888b8",
-  "the130billionoilboomfueledbytheiranwar"
+  "the130billionoilboomfueledbytheiranwar",
+  "7562d8cf01735b10",
+  "norwaylosessupremecourtrulinginoilfieldlicensingcase"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -615,7 +615,7 @@
   "date": "2026-11-15",
   "count": 60
  },
- "last_run": "2026-11-15T22:00:35.885955+02:00",
+ "last_run": "2026-11-15T22:05:15.587890+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
