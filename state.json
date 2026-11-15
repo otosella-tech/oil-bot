@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "c2c218f9f7f0f1bc",
-  "middleeast",
   "c1ea8a5d0653cc9b",
   "oilpricestodaybrentreversescourseclimbsabove95whathappensnex",
   "31a90668d6e70e9c",
@@ -603,7 +601,9 @@
   "716c6a8736b11648",
   "opinionadisastrousiranwartheusisnowamoverandshakerofoilmarke",
   "430c4f98dc65a804",
-  "houthisstepupattacksonriyadhsaudioilinfrastructure"
+  "houthisstepupattacksonriyadhsaudioilinfrastructure",
+  "aebf3afb3edab46c",
+  "pibriefingno36ceasefireunderwater"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -615,7 +615,7 @@
   "date": "2026-11-15",
   "count": 22
  },
- "last_run": "2026-11-15T15:55:21.453929+02:00",
+ "last_run": "2026-11-15T16:00:28.912172+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
