@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "03a60d689a4721ce",
-  "crudeoilat70abarrelin2027sbiseesreliefasusiranpeaceprospects",
   "29e27412fa08161a",
   "rupeeslipsashigheroilpricesandusyieldsknockstocksbonds",
   "700c9d9e43f9b877",
@@ -603,7 +601,9 @@
   "93a648a0b641140b",
   "oilslicksseenfromspacethedevastatingimpactofboatstrikesonfra",
   "068cd76d00ac4178",
-  "iraqpmsacksnineinoilsmugglingprobetargetingiranbackedmilitia"
+  "iraqpmsacksnineinoilsmugglingprobetargetingiranbackedmilitia",
+  "82480ad08b0ea125",
+  "saudiinterceptsmissilesashouthiswidenstrikesonkingdom"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-15",
-  "count": 18
+  "count": 20
  },
- "last_run": "2026-11-15T14:00:28.410828+02:00",
+ "last_run": "2026-11-15T14:05:15.473676+02:00",
  "sent_stories": [
   {
    "d": "2026-11-12",
@@ -1288,6 +1288,10 @@
   {
    "d": "2026-11-15",
    "t": "Iraq PM sacks nine in oil-smuggling probe targeting Iran-backed militia - The National"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Saudi intercepts missiles as Houthis widen strikes on kingdom - The Arab Weekly"
   }
  ]
 }
