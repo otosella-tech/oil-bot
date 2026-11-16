@@ -4,8 +4,6 @@
   "Brent": 93.68
  },
  "seen": [
-  "f0d6c28c4cbbf8ad",
-  "venezuelanssawoilastheirbirthrightnowtrumpisclaimingit",
   "ccd423a8fe059c2f",
   "whyyouneedtopayattentiontooccidentalpetroleumstock",
   "d151a5e0909e652b",
@@ -603,7 +601,9 @@
   "cb57b5d26ff28a44",
   "trumpsoilgrabinvenezuelaistestingthecountrysnationalidentity",
   "a63b109937d738d4",
-  "albertaexpectsoilsandsinvestmentimmediatelyfollowingnewroyal"
+  "albertaexpectsoilsandsinvestmentimmediatelyfollowingnewroyal",
+  "c71f8bc44ae2d3e5",
+  "workersloadcrudeoilintotankertrucksatthetubacrudedepotwherei"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-16",
   "count": 60
  },
- "last_run": "2026-11-16T15:10:19.705612+02:00",
+ "last_run": "2026-11-16T15:15:32.866894+02:00",
  "sent_stories": [
   {
    "d": "2026-11-13",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-11-16",
    "t": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity - The New York Times"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Workers load crude oil into tanker trucks at the Tuba crude depot, where Iraqi crude is transferred for export through Syria's Baniyas Port, Basra - The Lufkin Daily News"
   }
  ]
 }
