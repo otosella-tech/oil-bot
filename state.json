@@ -4,8 +4,6 @@
   "Brent": 93.68
  },
  "seen": [
-  "9bf3a55d98f17feb",
-  "iransayssupertankercarryingoilsinksinhormuzstrait",
   "da780c5e62523bf3",
   "permianbasindrivesusoilgrowthwithslowandsteadyplaybook",
   "d0a3abc3a5cc1eba",
@@ -603,7 +601,9 @@
   "253a76b502a3e09c",
   "usoilproducerscuthedgingasfinancialstabilityimproves",
   "e98a4f3525f80950",
-  "4highyieldbigoilstocksbuilttokeeppayingdividendsascrudeprice"
+  "4highyieldbigoilstocksbuilttokeeppayingdividendsascrudeprice",
+  "ba52b43ab5aebb58",
+  "supertankerwith2millionbarrelsofoilsinksafterhittingmineinst"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-16",
   "count": 60
  },
- "last_run": "2026-11-16T22:35:16.190180+02:00",
+ "last_run": "2026-11-16T22:40:20.488940+02:00",
  "sent_stories": [
   {
    "d": "2026-11-13",
@@ -1384,6 +1384,10 @@
   {
    "d": "2026-11-16",
    "t": "IEA: Gulf oil exports recover despite tanker attacks as freight rates remain high - safety4sea"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Supertanker With 2 Million Barrels Of Oil Sinks After Hitting Mine In Strait Of Hormuz, Iran Says - Marine Insight"
   }
  ]
 }
