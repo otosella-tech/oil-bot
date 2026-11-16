@@ -4,8 +4,6 @@
   "Brent": 93.68
  },
  "seen": [
-  "4037ae57f0e88cdc",
-  "ussays17bbarrelsofoilshippedthroughhormuz",
   "590797f9298f0bb1",
   "centcom17billionbarrelsofoilshippedthroughhormuzunderusprote",
   "0ec73bbd5300a39e",
@@ -603,7 +601,9 @@
   "c9554ac0367c754b",
   "uscrudefuturesfall2onsignsofrecoveryinoilshipmentsthroughstr",
   "f3a3b53b79d0c47b",
-  "oilfuturescrudelowerassuppliesoffsetrisingmideasttensions"
+  "oilfuturescrudelowerassuppliesoffsetrisingmideasttensions",
+  "7c7526d9fc708a53",
+  "chinaandrussialosetheirgriponvenezuelanoilasustakescontrolof"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-16",
   "count": 60
  },
- "last_run": "2026-11-16T17:30:29.370240+02:00",
+ "last_run": "2026-11-16T17:35:16.014548+02:00",
  "sent_stories": [
   {
    "d": "2026-11-13",
@@ -1320,6 +1320,10 @@
   {
    "d": "2026-11-16",
    "t": "US Crude Futures Fall $2 on Signs of Recovery in Oil Shipments Through Strait of Hormuz - bloomingbit"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "China and Russia lose their grip on Venezuelan oil as US takes control of $12 billion in revenues but faces a billionaire's growing grip on prized African crude - Business Insider Africa"
   }
  ]
 }
