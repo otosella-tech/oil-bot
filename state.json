@@ -1,11 +1,9 @@
 {
  "price_base": {
-  "WTI": 89.43,
+  "WTI": 87.64,
   "Brent": 93.68
  },
  "seen": [
-  "f9a25cf1595299d2",
-  "theoilmarketisbrimmingwithcrudedespitetankerattacks",
   "4a826f3526335e76",
   "iraqtransportsupto150000barrelsofoildailyviasyria",
   "ae8f53ce64e0eaa9",
@@ -603,7 +601,9 @@
   "e5ee84f8df5ad598",
   "currentpriceofoilasofnov162026",
   "cc001799f6cb9404",
-  "canadiannaturalin18billiondealtobuytorontolistedindependent"
+  "canadiannaturalin18billiondealtobuytorontolistedindependent",
+  "067b5712903c99a3",
+  "vietsovpetrostartsoilproductionatbachhofield"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-16",
   "count": 60
  },
- "last_run": "2026-11-16T14:55:16.070813+02:00",
+ "last_run": "2026-11-16T15:00:31.015776+02:00",
  "sent_stories": [
   {
    "d": "2026-11-13",
