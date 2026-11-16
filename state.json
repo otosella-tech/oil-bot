@@ -4,12 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "7562d8cf01735b10",
-  "norwaylosessupremecourtrulinginoilfieldlicensingcase",
-  "cd7aa78e84f58239",
-  "saudicapacityaudit2026137mbpdgapbeforeopecvote",
-  "7655d2babf419012",
-  "euannouncesnewsanctionsfollowinginterceptionofoiltankerlinke",
   "cb730345c3d442d3",
   "crudeoiljumpsasescalationrisksincreaseaftertrumpsaystheusdoe",
   "78d6ab0acc64a453",
@@ -603,7 +597,13 @@
   "4b0870aa8b213ece",
   "oilmarketsettorebalanceasmideasttensionsease",
   "8fa8989a97844b4d",
-  "stocksendloweraheadofnvidiaearningsandanthropicipooildrops"
+  "stocksendloweraheadofnvidiaearningsandanthropicipooildrops",
+  "ed8a65ed9104df6d",
+  "the130billionoilboomfueledbytheiranwar",
+  "7ba2610ee6236b2f",
+  "oilextendsfallonsignsofrevivedsuppliesandvanceoutlook",
+  "a013634efd12efea",
+  "chevronnears5bndealforblackstonebackedoilproducerinusgulf"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-17",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-11-17T01:20:31.568769+02:00",
+ "last_run": "2026-11-17T01:25:15.991848+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1176,6 +1176,10 @@
   {
    "d": "2026-11-17",
    "t": "Washington residents call on Gov. Ferguson, Director Sixkiller and state agencies to oppose Pacific Link Pipeline and supertankers - The Journal of the San Juan Islands"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "The $130 Billion Oil Boom Fueled by the Iran War - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
