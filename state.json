@@ -4,12 +4,6 @@
   "Brent": 94.54
  },
  "seen": [
-  "61f20d2e634e6a82",
-  "oilcoordinationgroupconfirmscontinuedsupplystabilityacrossth",
-  "b08028a394e50e16",
-  "iraqestablishesspecialsecurityforcetocombatoilsmugglingprote",
-  "aabb2418ef305e09",
-  "trumptoextendshippingwaiverforoilfertilizerfor90days",
   "44a652f26180fbdf",
   "demandforeuropeanfundsboostsglobalequityfundinflowstosevenwe",
   "1e4576d99c70dd09",
@@ -603,7 +597,13 @@
   "4546e8c71e6897ab",
   "naturalgasandoilforecastieaflagsfirstsurplussinceiranwarcanw",
   "96644f5b1910fe09",
-  "oecdoiloutputrises08inaugustwhiledeliveriesfall26ieasays"
+  "oecdoiloutputrises08inaugustwhiledeliveriesfall26ieasays",
+  "75db8c7e655bbdf7",
+  "3oilstocksretailinvestorsarewatchingforrussialinkedsupplyexp",
+  "d62cca44a4b5c2a0",
+  "iraqsoilproductionsoarsto2019highashormuzflowssurge",
+  "0c30b1e79079a762",
+  "goldmansachssees2millionbarreladayoilglutin2027brenttohit78b"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-16",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-11-16T08:30:23.391619+02:00",
+ "last_run": "2026-11-16T08:35:14.949673+02:00",
  "sent_stories": [
   {
    "d": "2026-11-13",
@@ -1180,6 +1180,14 @@
   {
    "d": "2026-11-16",
    "t": "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "3 Oil Stocks Retail Investors Are Watching For Russia Linked Supply Exposure - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Iraq's Oil Production Soars to 2019 High as Hormuz Flows Surge - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
