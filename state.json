@@ -4,12 +4,6 @@
   "Brent": 93.68
  },
  "seen": [
-  "4a826f3526335e76",
-  "iraqtransportsupto150000barrelsofoildailyviasyria",
-  "ae8f53ce64e0eaa9",
-  "drawingonadeepheritageyalescholarsexplorethehealthbenefitsof",
-  "cb57b5d26ff28a44",
-  "trumpsoilgrabinvenezuelaistestingthecountrysnationalidentity",
   "501cc8f0fe9fc08f",
   "crudeoilpricesdowninweekasrussianexportssurge",
   "e091af66c3d58959",
@@ -603,7 +597,13 @@
   "cc001799f6cb9404",
   "canadiannaturalin18billiondealtobuytorontolistedindependent",
   "067b5712903c99a3",
-  "vietsovpetrostartsoilproductionatbachhofield"
+  "vietsovpetrostartsoilproductionatbachhofield",
+  "1c45b986328742e5",
+  "iransproxyiniraqrakesinhundredsofmillionsthroughoilsmuggling",
+  "f9a25cf1595299d2",
+  "theoilmarketisbrimmingwithcrudedespitetankerattacks",
+  "47fd132b5620769e",
+  "diamondbackstrikes5bndealtoexpanddrillinginoilrichpermianbas"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-16",
   "count": 60
  },
- "last_run": "2026-11-16T15:00:31.015776+02:00",
+ "last_run": "2026-11-16T15:05:16.118537+02:00",
  "sent_stories": [
   {
    "d": "2026-11-13",
@@ -1260,6 +1260,18 @@
   {
    "d": "2026-11-16",
    "t": "Ukrainian defence forces strike Ilsky Oil Refinery in Russia - Українська правда"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Iran’s proxy in Iraq rakes in hundreds of millions through oil smuggling - Reuters"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "The Oil Market Is Brimming With Crude Despite Tanker Attacks - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Diamondback strikes $5bn deal to expand drilling in oil-rich Permian Basin - Financial Times"
   }
  ]
 }
