@@ -4,8 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "40751b088e08d835",
-  "hrtfinanciallpsells1205mbuys1661mofunitedstatesoilfund",
   "30dff0ce6a02a2c5",
   "iranclaimstwotankershitminesinhormuzreleasesunverifiedvideo",
   "eb094770abeb92e7",
@@ -603,7 +601,9 @@
   "dc6fedf485b5c41b",
   "natronacountygaspricesdrop17centsalongsidefallingnationalave",
   "d5d39160b636f67d",
-  "howanoutdatedoilbenchmarkerodesuspricingpower"
+  "howanoutdatedoilbenchmarkerodesuspricingpower",
+  "ef0f25cdda510123",
+  "ugandapushesfirstoiltomid"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-17",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-17T00:55:14.731936+02:00",
+ "last_run": "2026-11-17T01:00:30.328451+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1164,6 +1164,10 @@
   {
    "d": "2026-11-17",
    "t": "On Monday in Oil and Gas, Federal Hormuz Data Lands as Two Acquisitions Are Announced - Quantisnow"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Uganda Pushes First Oil to Mid-2027 as Iran War Holds Up Equipment"
   }
  ]
 }
