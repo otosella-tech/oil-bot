@@ -4,18 +4,6 @@
   "Brent": 93.68
  },
  "seen": [
-  "82480ad08b0ea125",
-  "saudiinterceptsmissilesashouthiswidenstrikesonkingdom",
-  "f0571c499bf41829",
-  "globaloilpricesplungeforsecondstraightweekvietnamretailprice",
-  "a18a3ffc9066196f",
-  "addressingexistingthreatsyemeniforceswithdrawfrombabelmandeb",
-  "483614ebc5e2f6e2",
-  "trumptoextendshippingwaiverforoilfertilizer",
-  "18eac48c1138a02e",
-  "trumpswarposesagenerationalthreattowildlifeinthepersiangulf",
-  "43f2e8aa5b0ad831",
-  "newsbycnbctv18ontradingview20261115cnbctv7bde0fc56094b0",
   "716c6a8736b11648",
   "opinionadisastrousiranwartheusisnowamoverandshakerofoilmarke",
   "430c4f98dc65a804",
@@ -603,7 +591,19 @@
   "4a66eec13ec69e78",
   "unitedstatesontrackforrecordcrudeoilproductionin2026",
   "9b1af86db2a00b14",
-  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout"
+  "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
+  "1a891ddc5ee5132a",
+  "turkmenistanracestocompletekeytapipipelinesectionbyyear",
+  "1d06ef9be750dc0f",
+  "northamericanoilandgasfirmsreporthigherthirdquarterearnings",
+  "2094f5511065b7ce",
+  "globaloilslidethreatensusplasticsmakerscostedge",
+  "56fa209c7a34ec96",
+  "qatarsuccintalkstoruntwoonshorevenezuelanoilfields",
+  "1bb1c063107e0e37",
+  "naturalgaswtioilbrentoilforecastsoildivesassupplyexceedsdema",
+  "dea97c3b956593b1",
+  "usdollarralliesasfedrateriskspressureglobalmarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-16",
   "count": 60
  },
- "last_run": "2026-11-16T20:55:17.269298+02:00",
+ "last_run": "2026-11-16T21:05:15.866438+02:00",
  "sent_stories": [
   {
    "d": "2026-11-13",
@@ -1356,6 +1356,10 @@
   {
    "d": "2026-11-16",
    "t": "Iraq cracks down on Iran-backed militia's oil smuggling network - The Jerusalem Post"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Turkmenistan Races to Complete Key TAPI Pipeline Section by Year-End"
   }
  ]
 }
