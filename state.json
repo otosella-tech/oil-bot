@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "861634d20d6c877f",
-  "oilpricesfalloneasingsupplyconcernsweakerdemandoutlook",
   "cc3978b4ad9adb1d",
   "yourfridaynov13guidefivethingstodointheoilcity",
   "6671e514ff94d2b6",
@@ -603,7 +601,9 @@
   "1ed7d830e93c18a8",
   "japanseconomycontractsslightlyinthelatestquarterasoilpricesr",
   "574712fe0c8f8e60",
-  "palmoilslipsascheaperrivalssetthetone"
+  "palmoilslipsascheaperrivalssetthetone",
+  "1f48d374bf6325ec",
+  "brentcrudecouldfalltous67byend2027asglobaloilmarketswingstos"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -615,7 +615,7 @@
   "date": "2026-11-16",
   "count": 25
  },
- "last_run": "2026-11-16T05:00:39.747799+02:00",
+ "last_run": "2026-11-16T05:05:16.333274+02:00",
  "sent_stories": [
   {
    "d": "2026-11-13",
