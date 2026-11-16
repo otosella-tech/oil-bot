@@ -4,8 +4,6 @@
   "Brent": 93.68
  },
  "seen": [
-  "61c8dc33c0669413",
-  "usoilrigcountunchangedforweekendingnov7",
   "84423020189e1ce2",
   "brentcrudesettlesflatat9584aboutaed352asirgcclaimsminehitson",
   "981bd59255045fba",
@@ -603,7 +601,9 @@
   "ec99204ed0a758a6",
   "eianowseesglobaloilglutinq4",
   "d9113ce46f1daa93",
-  "ukrainesdefenseforceshittheilskyoilrefinery"
+  "ukrainesdefenseforceshittheilskyoilrefinery",
+  "95386c199c080d3e",
+  "goldmanwarnsofsizable2027oilsurpluspricesmayfall"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-16",
   "count": 60
  },
- "last_run": "2026-11-16T14:20:20.488890+02:00",
+ "last_run": "2026-11-16T14:25:15.046386+02:00",
  "sent_stories": [
   {
    "d": "2026-11-13",
