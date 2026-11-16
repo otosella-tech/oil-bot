@@ -4,12 +4,6 @@
   "Brent": 93.68
  },
  "seen": [
-  "cedadad7def5c579",
-  "globaloilsuppliesaresuddenlyflowingwhyacrudeglutwontmeanchea",
-  "9d2f5d38d9449108",
-  "currentpriceofoilasofnov102026",
-  "a79cfb6be614a523",
-  "oilpriceceilingtrappedindevilframe",
   "75a7ceacd637e617",
   "crudefuturespostbacktobackweeklylosses",
   "91ef2c21534694a9",
@@ -603,7 +597,13 @@
   "1f634034426cb7f2",
   "oilpricesriseasfreshattacksrenewmiddleeastsupplyconcerns",
   "a9b917a22801c583",
-  "oilelevatedcostssustainhighpricesrabobank"
+  "oilelevatedcostssustainhighpricesrabobank",
+  "c25ba0586bc8b591",
+  "brentcrudeoilfacesheightenedregionalrisksxbrremainsrangeboun",
+  "369c50bf2a04dc50",
+  "ukrainehitscrimeanbridgeinrecorddronestrikeonrussia",
+  "b1e6665cd94f09e3",
+  "dangoterefineryeffectuksimportofrefinedproductsfromnigeriaju"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-16",
-  "count": 51
+  "count": 53
  },
- "last_run": "2026-11-16T11:25:21.286715+02:00",
+ "last_run": "2026-11-16T11:30:24.008352+02:00",
  "sent_stories": [
   {
    "d": "2026-11-13",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-11-16",
    "t": "Oil Prices Rise as Fresh Attacks Renew Middle East Supply Concerns - WSJ"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Ukraine Hits Crimean Bridge in Record Drone Strike on Russia - Bloomberg.com"
   }
  ]
 }
