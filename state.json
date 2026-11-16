@@ -4,8 +4,6 @@
   "Brent": 96.61
  },
  "seen": [
-  "8e253be762d01011",
-  "europeandieselpricesstayhighasglobaloilsupplyovertakesdemand",
   "bd5f6d0214e47230",
   "russiancrudeproductionreboundsaftertrumpdieseldealieasaysaso",
   "b51711502b5e34ec",
@@ -603,7 +601,9 @@
   "babff1162319f7fd",
   "asianstocksbraceforaipressuredatadumpmarketswrap",
   "f0f11363b3949988",
-  "crudeoilpricesfallastrumpextendsjonesactwaiverby90days"
+  "crudeoilpricesfallastrumpextendsjonesactwaiverby90days",
+  "ae18052ffbacaf98",
+  "assaudiarabiaandiraqmovetocaptureiransoilmarketinchinanigeri"
  ],
  "releases_done": {},
  "last_digest": "2026-11-15",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-16",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-11-16T02:10:20.044951+02:00",
+ "last_run": "2026-11-16T02:15:17.845486+02:00",
  "sent_stories": [
   {
    "d": "2026-11-13",
@@ -1140,6 +1140,10 @@
   {
    "d": "2026-11-16",
    "t": "Oil Steadies With Iranian Attack on Base in Bahrain in Focus - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "As Saudi Arabia and Iraq move to capture Iran’s oil market in China, Nigeria and Saudi Arabia face a blow in the U.S. economy - Business Insider Africa"
   }
  ]
 }
