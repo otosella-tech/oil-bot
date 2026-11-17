@@ -4,12 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "25eb4a578b22709f",
-  "oilindianomuramaintainsneutralkeepstargetpriceatrs500afterq2",
-  "a71e06dc8eee9132",
-  "chinasoctobercrudeoilprocessingfalls81yearonyearinventorybui",
-  "b7be101cfa5e4f10",
-  "crudeoilgainsaftertrumpsaystheusnolongerneedsanucleardealwit",
   "df502dd6291b5a82",
   "goldmansachspredictssizeablesurplusforoilmarketin2027",
   "cc3010054811b76b",
@@ -603,7 +597,13 @@
   "68c49694b4265847",
   "globalcrudesurpluswillreach2millionbdin2027goldmansachs",
   "fd49bf42ede890a4",
-  "indianrupeeclaimssevenmonthpeakoninflowsdollarandoilretreat"
+  "indianrupeeclaimssevenmonthpeakoninflowsdollarandoilretreat",
+  "0ed4ef54781b736f",
+  "oilfuturescrudeextendslossesassurplusnarrativedrivessentimen",
+  "be86544c06335d3e",
+  "exxonmobilsuarustartupliftsguyanaoilcapacityto11millionbpd",
+  "f0475f3e09eca22b",
+  "naturalgasandoilforecastsupplystoryovertakeshormuzriskcanbre"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 30
  },
- "last_run": "2026-11-17T08:45:27.567738+02:00",
+ "last_run": "2026-11-17T08:50:26.314277+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
