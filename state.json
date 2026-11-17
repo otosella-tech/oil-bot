@@ -4,8 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "babff1162319f7fd",
-  "asianstocksbraceforaipressuredatadumpmarketswrap",
   "f0f11363b3949988",
   "crudeoilpricesfallastrumpextendsjonesactwaiverby90days",
   "ae18052ffbacaf98",
@@ -603,7 +601,9 @@
   "fb2b66c67aae5a42",
   "prioexxonmobilwinlotsinbrazilsppsaspotoilauction",
   "37ddd3d9a351a069",
-  "oilfallsover3onnov16asmiddleeastexportsrecover"
+  "oilfallsover3onnov16asmiddleeastexportsrecover",
+  "2c9eb88d001013f0",
+  "oilsteadieswithiranianattackonbaseinbahraininfocus"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-17",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-11-17T02:45:18.639288+02:00",
+ "last_run": "2026-11-17T02:50:18.479695+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1184,6 +1184,10 @@
   {
    "d": "2026-11-17",
    "t": "Iran says fourth oil tanker catches fire in Hormuz after hitting naval mine - Mitrade"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Oil Steadies With Iranian Attack on Base in Bahrain in Focus - Bloomberg.com"
   }
  ]
 }
