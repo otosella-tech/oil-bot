@@ -4,8 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "cb739b14cdca3051",
-  "oiledgesupashormuztankerincidentshighlightshippingrisks",
   "e67afc634d6aec55",
   "shafaqnewsoilslidesonloomingsurplusandhormuzrecovery",
   "6f110980de3d69e5",
@@ -603,7 +601,9 @@
   "1b01b66e4fa05b71",
   "sevenuaebeachesdeclaredsafetovisitafterarabiangulfsworstoils",
   "b7f4add0a12981ac",
-  "indiagivesgreenlighttocommercialsustainablejetfuelproduction"
+  "indiagivesgreenlighttocommercialsustainablejetfuelproduction",
+  "983d984fb523a317",
+  "goldmansachswarnsofmassiveoilglutin2027"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-17",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-11-17T13:15:19.542845+02:00",
+ "last_run": "2026-11-17T13:20:19.456983+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1232,6 +1232,10 @@
   {
    "d": "2026-11-17",
    "t": "Iraq Resumes Crude Oil Pumping for Export Purposes via Pipeline to Türkiye, Oil Minister Says - ASHARQ AL-AWSAT English"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Goldman Sachs Warns of Massive Oil Glut in 2027 - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
