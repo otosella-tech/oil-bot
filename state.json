@@ -4,8 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "7044d20b4accb555",
-  "iranbracesforabudgetwithoutoilrevenue",
   "7a0f703ce112ec97",
   "wtioilhesitatesabove87amidrisinggeopoliticalfearsandoversupp",
   "f6fc6f4f098c84f6",
@@ -603,7 +601,9 @@
   "bafcd88409901892",
   "japanoffersaseanaccesstocrudeoilstoragetocounterenergycrises",
   "1b5c2a3b7ff46b2d",
-  "russiasaudiarabiaandaustralianamedasbiggestco2exportersinhis"
+  "russiasaudiarabiaandaustralianamedasbiggestco2exportersinhis",
+  "0b3a590b6e95ae7f",
+  "iranclaimstwomoreoiltankershitminesinstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-17",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-11-17T14:55:15.340456+02:00",
+ "last_run": "2026-11-17T15:00:31.656312+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-11-17",
    "t": "Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history - The Guardian"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
