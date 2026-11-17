@@ -4,10 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "900c1065a8cff9c7",
-  "beijingturnstosoftpoweraswashingtonexpandscentralasiaties",
-  "2b6632ac4572179a",
-  "oilpricetodaynovember16brentcrudehoversnear95despitehopesofm",
   "bc807414e9fbb832",
   "brentcrudeoilprice9628mondayafteriranstrikesausbaseinbahrain",
   "e2cbb1be31527c76",
@@ -603,7 +599,11 @@
   "d0c7f4a2523c340f",
   "japanurgescreationofanasianenergyframeworktocounteroilcrises",
   "e436228ba3cf8cdc",
-  "cnrleyesoilgasadvantageinmontneycharlielake"
+  "cnrleyesoilgasadvantageinmontneycharlielake",
+  "abeb72ea1bb11e90",
+  "usgaspumppricehitslowestsincemarchasoilsupplyrecovers",
+  "b53367246361c5b3",
+  "brentdeclinesassupplyshortageconcernsease"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 36
  },
- "last_run": "2026-11-17T12:15:18.431473+02:00",
+ "last_run": "2026-11-17T12:20:18.906979+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
