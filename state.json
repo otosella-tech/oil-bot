@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "968810798ddf02ee",
-  "searchoilgasjobs",
   "6ba3bfda895fbe04",
   "canadiannaturalgoesbigonalbertaoilandgaswithadvantageenergyd",
   "04428b83ca768e88",
@@ -603,7 +601,9 @@
   "736a91d0e1027aaf",
   "oilprivateinventorysurveyshowsaheadlinecrudeoilbuildvsdrawex",
   "ee7b51c5d54a201a",
-  "usenergytops11billionin2026oilandgasdeals"
+  "usenergytops11billionin2026oilandgasdeals",
+  "a052f9ff14214108",
+  "iraqandturkeyresumeoilflowsviapipelinedamagedbyisiswhattokno"
  ],
  "releases_done": {
   "2026-11-17|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-18",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-18T00:45:24.278298+02:00",
+ "last_run": "2026-11-18T00:50:18.871769+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
@@ -1263,6 +1263,10 @@
   {
    "d": "2026-11-18",
    "t": "Venezuela's Oil Comeback Faces a New Threat From Washington - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "Iraq and Turkey resume oil flows via pipeline damaged by ISIS: What to know - Al-Monitor"
   }
  ]
 }
