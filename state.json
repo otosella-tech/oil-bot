@@ -4,8 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "25be333693a1a180",
-  "oilpricesfallonexpectationsofcomingsupplysurplus",
   "0d861e5b9002e751",
   "oilpricesdipasmarketslooktorecoveringsuppliesmeasttensions",
   "7851807550f8525f",
@@ -603,7 +601,9 @@
   "1be2d1eb1fe93579",
   "canadiandollarweakensagainstusdollaramidfedratehikebetsfalli",
   "cc0aa69aecd01391",
-  "surplusstorytakesthewheelinoilfornownudgingbrentlower"
+  "surplusstorytakesthewheelinoilfornownudgingbrentlower",
+  "97ce5f1721e0ea3a",
+  "iraqiparliamentaryinquiryuncoversevidenceofoilsmugglinginjur"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 20
  },
- "last_run": "2026-11-17T06:00:30.498189+02:00",
+ "last_run": "2026-11-17T06:05:15.397411+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
