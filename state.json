@@ -4,8 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "7851807550f8525f",
-  "brandnewmorningpermiangrowthwillneedtobemorethoughtfulanddel",
   "e3c1fd722a3454e6",
   "currentpriceofoilasofnovember132026",
   "c1e6ba5c2afc3387",
@@ -603,7 +601,9 @@
   "97ce5f1721e0ea3a",
   "iraqiparliamentaryinquiryuncoversevidenceofoilsmugglinginjur",
   "13a70da488ce74bf",
-  "oilpricesfallonexpectationsofcomingsupplysurplus"
+  "oilpricesfallonexpectationsofcomingsupplysurplus",
+  "3d8462478bf6cc74",
+  "oilplungesbelowus92asglobalsupplysurplusthreatensfurtherpric"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 20
  },
- "last_run": "2026-11-17T06:15:19.531851+02:00",
+ "last_run": "2026-11-17T06:20:18.676899+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
