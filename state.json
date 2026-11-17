@@ -4,10 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "7f9a4de8129f1f00",
-  "newroundofoilpricecutssetthisweek",
-  "76e7983777c2f6ad",
-  "iraqiarmedgroupdeniesinvolvementinoilsmugglingcallsprobealie",
   "ef2a8add7619a087",
   "rupeegains6paiseto9413vsusdollaramidoilpricedrop",
   "6dd00a26227bd7f1",
@@ -603,7 +599,11 @@
   "db755c574e16104f",
   "althoughlettingalittleoiltrickledownyourdraincanseemprettyha",
   "97a27f3e7d128615",
-  "tappingoutortappinginsouthchinaseaoilandgasin2026"
+  "tappingoutortappinginsouthchinaseaoilandgasin2026",
+  "ec416b63c0d53df7",
+  "oilretreatsastradersweighsupplyglut",
+  "27b3a457cb3897c4",
+  "japanproposesasianieatomanageoilstockpiles"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 30
  },
- "last_run": "2026-11-17T09:15:22.646795+02:00",
+ "last_run": "2026-11-17T09:20:18.650658+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
