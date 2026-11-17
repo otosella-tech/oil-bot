@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "6ba3bfda895fbe04",
-  "canadiannaturalgoesbigonalbertaoilandgaswithadvantageenergyd",
   "04428b83ca768e88",
   "diamondbacktobuydoubleeaglesmidlandstakefor5billion",
   "5bfe0e2c8495f790",
@@ -603,7 +601,9 @@
   "ee7b51c5d54a201a",
   "usenergytops11billionin2026oilandgasdeals",
   "a052f9ff14214108",
-  "iraqandturkeyresumeoilflowsviapipelinedamagedbyisiswhattokno"
+  "iraqandturkeyresumeoilflowsviapipelinedamagedbyisiswhattokno",
+  "e175bca7a3385f87",
+  "oilshippingsoarsonrussiasnorthernsearoute"
  ],
  "releases_done": {
   "2026-11-17|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-18",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-11-18T00:50:18.871769+02:00",
+ "last_run": "2026-11-18T00:55:13.747220+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
@@ -1267,6 +1267,10 @@
   {
    "d": "2026-11-18",
    "t": "Iraq and Turkey resume oil flows via pipeline damaged by ISIS: What to know - Al-Monitor"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "Oil Shipping Soars on Russia's Northern Sea Route - The Maritime Executive"
   }
  ]
 }
