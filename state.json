@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "5bfe0e2c8495f790",
-  "iraqcracksdownoniranbackedmilitiasoilsmugglingnetwork",
   "33b81f64b5dc2170",
   "goldmansachsgetsbearishonoilpricesbutdoesntseehelpforconsume",
   "9ed30a00eec23cee",
@@ -603,7 +601,9 @@
   "e175bca7a3385f87",
   "oilshippingsoarsonrussiasnorthernsearoute",
   "7ca4801b86fdf12b",
-  "cubasenergycrisisturnsintoagoldmineforusfuelexporters"
+  "cubasenergycrisisturnsintoagoldmineforusfuelexporters",
+  "f1af1e73e8d7a342",
+  "thegulfsoileatingmicrobeslayinwaitbeforedeepwaterhorizonspil"
  ],
  "releases_done": {
   "2026-11-17|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-18",
   "count": 6
  },
- "last_run": "2026-11-18T01:00:35.087315+02:00",
+ "last_run": "2026-11-18T01:05:15.340562+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
