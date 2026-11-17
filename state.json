@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "2e62f223a2ecc90c",
-  "canadiandollarandbusinessoutlookloonieweakenscrudeoileasesof",
   "ce311ab7ce149437",
   "oilpricesnear95willbrentcrudecrashbelow90assupplyglutgrows",
   "0216bdd9b32d8db4",
@@ -603,7 +601,9 @@
   "a9ec27a1b4db9e9b",
   "lackofemptytankersputsgulfoilflowatrisk",
   "c6d4494e35d23404",
-  "decemberwticrudeoilcontractclosesup029or03settlesat8601perba"
+  "decemberwticrudeoilcontractclosesup029or03settlesat8601perba",
+  "b4b4d253aceb45d2",
+  "stocksfallwithnvidiainfocusoilticksupeuronextmarketsreal"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T21:50:25.187976+02:00",
+ "last_run": "2026-11-17T21:55:17.459697+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
