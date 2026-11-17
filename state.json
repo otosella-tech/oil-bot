@@ -4,8 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "f0f11363b3949988",
-  "crudeoilpricesfallastrumpextendsjonesactwaiverby90days",
   "ae18052ffbacaf98",
   "assaudiarabiaandiraqmovetocaptureiransoilmarketinchinanigeri",
   "f177253d77134d4f",
@@ -603,7 +601,9 @@
   "37ddd3d9a351a069",
   "oilfallsover3onnov16asmiddleeastexportsrecover",
   "2c9eb88d001013f0",
-  "oilsteadieswithiranianattackonbaseinbahraininfocus"
+  "oilsteadieswithiranianattackonbaseinbahraininfocus",
+  "a0cc7c2d6703308d",
+  "whyiraqjustfasttrackedchevronstakeoverofa14billion"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 12
  },
- "last_run": "2026-11-17T02:55:15.036980+02:00",
+ "last_run": "2026-11-17T03:00:29.046473+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
