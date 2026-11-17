@@ -4,8 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "204b01a318e4fda7",
-  "irgcclaimssupertankercarryingover2millionbarrelssankingulf",
   "25be333693a1a180",
   "oilpricesfallonexpectationsofcomingsupplysurplus",
   "0d861e5b9002e751",
@@ -603,7 +601,9 @@
   "6f36f950e07dae98",
   "washingtonstatesees1100recreationalboatoilspillsinfiveyearsf",
   "1be2d1eb1fe93579",
-  "canadiandollarweakensagainstusdollaramidfedratehikebetsfalli"
+  "canadiandollarweakensagainstusdollaramidfedratehikebetsfalli",
+  "cc0aa69aecd01391",
+  "surplusstorytakesthewheelinoilfornownudgingbrentlower"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 20
  },
- "last_run": "2026-11-17T05:15:18.310678+02:00",
+ "last_run": "2026-11-17T05:20:19.033377+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
