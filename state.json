@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "f3bdf7fd7491ef13",
-  "gregabelsberkshirehathawaystillholdsabout186billionofchevron",
   "e90a004319cdfa5a",
   "europeangasslumpsonmilderweatherandrecorduslngflows",
   "daf98ed1dcb91ec5",
@@ -603,7 +601,9 @@
   "246c1a9296be01d8",
   "iraqipmheadstolebanonamidpushtoexploreoilroutesbeyondhormuz",
   "a068fa92302e83e0",
-  "oilpricesstabilizeaftermondayssharpselloffasglobalsupplysurp"
+  "oilpricesstabilizeaftermondayssharpselloffasglobalsupplysurp",
+  "4bc7272d0c197d1a",
+  "oiledgeshigherontankerattacksexpecteduscrudedropeuronextmark"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T19:50:19.480193+02:00",
+ "last_run": "2026-11-17T19:55:14.676790+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1344,6 +1344,10 @@
   {
    "d": "2026-11-17",
    "t": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz - Al Jazeera"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Oil edges higher on tanker attacks, expected US crude drop - Euronext Markets: Real-time Stock Market Data | live"
   }
  ]
 }
