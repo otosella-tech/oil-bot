@@ -4,10 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "47fd132b5620769e",
-  "diamondbackstrikes5bndealtoexpanddrillinginoilrichpermianbas",
-  "cb57b5d26ff28a44",
-  "trumpsoilgrabinvenezuelaistestingthecountrysnationalidentity",
   "a63b109937d738d4",
   "albertaexpectsoilsandsinvestmentimmediatelyfollowingnewroyal",
   "c71f8bc44ae2d3e5",
@@ -603,7 +599,11 @@
   "85d8959f2e2d3ec2",
   "shoepricescantescapeinflationtariffspriceofoil",
   "1c45b986328742e5",
-  "iransproxyiniraqrakesinhundredsofmillionsthroughoilsmuggling"
+  "iransproxyiniraqrakesinhundredsofmillionsthroughoilsmuggling",
+  "2b8d38b7b39843ef",
+  "oilgains15",
+  "ca2543edc6d0667c",
+  "theoilmarketisbrimmingwithcrudedespitetankerattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T17:55:15.935233+02:00",
+ "last_run": "2026-11-17T18:00:32.602643+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1320,6 +1320,10 @@
   {
    "d": "2026-11-17",
    "t": "Iran’s proxy in Iraq rakes in hundreds of millions through oil smuggling - Reuters"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "The Oil Market Is Brimming With Crude Despite Tanker Attacks - gCaptain"
   }
  ]
 }
