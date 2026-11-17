@@ -4,10 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "991f1f28cd723cc7",
-  "uslngflowshitrecordhighasglobalgassupplycrisisdeepens",
-  "b687721cbeb3c5a9",
-  "ukrainiandefenceforcesstrikeilskyoilrefineryinrussia",
   "e5ee84f8df5ad598",
   "currentpriceofoilasofnov162026",
   "cc001799f6cb9404",
@@ -603,7 +599,11 @@
   "56505128aa57d57d",
   "eogvsconocophillipsthebetterbetasoilpricesstayelevated",
   "2f21511a84caa357",
-  "bettingonloweroilpricesconsidertheseinverseetfs"
+  "bettingonloweroilpricesconsidertheseinverseetfs",
+  "5f83e0a956c96370",
+  "gulfoilflowatriskfromlackofemptytankerstrackersays",
+  "23e088a9e6978538",
+  "saudioilproductexportsreachhighestlevelsincewarbeganreport"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T17:20:25.694049+02:00",
+ "last_run": "2026-11-17T17:25:24.088615+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1308,6 +1308,14 @@
   {
    "d": "2026-11-17",
    "t": "Iraq Resumes Oil Exports via Turkish Pipeline - Egypt Oil & Gas"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Gulf Oil Flow at Risk From Lack of Empty Tankers, Tracker Says - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Saudi Oil Product Exports Reach Highest Level Since War Began: Report - Egypt Oil & Gas"
   }
  ]
 }
