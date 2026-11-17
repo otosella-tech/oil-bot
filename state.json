@@ -4,14 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "313ae0f72ba1abfc",
-  "thisspanishoilstockisbeatingexxonandchevronwallstreetseesmor",
-  "3e5fae9fdb9ea313",
-  "canadiannaturalresourcestobuyadvantageenergyin177billiondeal",
-  "1dc2395fb6b79ff2",
-  "stockmarketsendhigheronforeignfundinflowslowercrudeoilsensex",
-  "cb20b2ea2f199e93",
-  "shelljoinssoutheastasianoilstockpilingpilot",
   "7e04b2193ae022ec",
   "bengalenergyannouncesfiscal2027secondquarterresults",
   "96901c71023430f2",
@@ -603,7 +595,15 @@
   "f3d5948de57bc0d8",
   "oilpricescaughtbetweentankerattacksandrisingmideastexports",
   "903398da7fd9d45c",
-  "oilwhyistheieasoversupplyoutlookweighingonpricescommerzbank"
+  "oilwhyistheieasoversupplyoutlookweighingonpricescommerzbank",
+  "ed30c89b09293e24",
+  "usopensnewfrontincampaigntocutoffiranssupplyroutes",
+  "c896e1b5dca30533",
+  "ttfgasbouncesbackto86eurosashormuzrisksresurface",
+  "e2671b833946b5b4",
+  "brentoildeclinesonmarketsurplusasfundamentalsdrivepriceslowe",
+  "0b8b0263b747eb87",
+  "oilpricesriseusstrikesiransqeshmislandusretailsalesbeatforec"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T16:25:16.840016+02:00",
+ "last_run": "2026-11-17T16:30:26.039897+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1296,6 +1296,14 @@
   {
    "d": "2026-11-17",
    "t": "Oil prices caught between tanker attacks and rising Mideast exports - Reuters"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "U.S. Opens New Front in Campaign to Cut Off Iran’s Supply Routes"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "TTF Gas Bounces Back to 86 Euros as Hormuz Risks Resurface"
   }
  ]
 }
