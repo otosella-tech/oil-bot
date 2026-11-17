@@ -4,8 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "0d861e5b9002e751",
-  "oilpricesdipasmarketslooktorecoveringsuppliesmeasttensions",
   "7851807550f8525f",
   "brandnewmorningpermiangrowthwillneedtobemorethoughtfulanddel",
   "e3c1fd722a3454e6",
@@ -603,7 +601,9 @@
   "cc0aa69aecd01391",
   "surplusstorytakesthewheelinoilfornownudgingbrentlower",
   "97ce5f1721e0ea3a",
-  "iraqiparliamentaryinquiryuncoversevidenceofoilsmugglinginjur"
+  "iraqiparliamentaryinquiryuncoversevidenceofoilsmugglinginjur",
+  "13a70da488ce74bf",
+  "oilpricesfallonexpectationsofcomingsupplysurplus"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 20
  },
- "last_run": "2026-11-17T06:05:15.397411+02:00",
+ "last_run": "2026-11-17T06:10:17.645785+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
