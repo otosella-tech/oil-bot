@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "7c819ed7a42ba5f8",
-  "supertankerratesplungemorethan60fromrecordhighs",
   "9203b92d70803685",
   "floridagaspricesarefallingwilltheykeepgoingdowndaytonabeachn",
   "cb1b90f99cde2e46",
@@ -603,7 +601,9 @@
   "b7012a8b1127049e",
   "chinatests250",
   "45a0020c04bbfdeb",
-  "iraqresumesshippingoilforexporttoturkeyviapipeline"
+  "iraqresumesshippingoilforexporttoturkeyviapipeline",
+  "295730456a6bbd00",
+  "bplaunchesoffertobuybackupto6billionofbonds"
  ],
  "releases_done": {
   "2026-11-17|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T23:05:18.417858+02:00",
+ "last_run": "2026-11-17T23:10:19.775772+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
