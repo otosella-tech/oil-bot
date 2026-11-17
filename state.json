@@ -4,10 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "2dd4f57e4cfe42c7",
-  "dollarstrengthandampleglobalsuppliesweighoncrudeoilprices",
-  "2bbcdf3cf7aad972",
-  "michigangaspricesfalltolowestlevelinmonthsaaasays",
   "a2f99222c63d0f52",
   "oiltankersfreightratesplungebyover60fromrecordhighs",
   "cd5a01f4d61c30aa",
@@ -603,7 +599,11 @@
   "69c700008f1f3a94",
   "ieahighdieselpriceseasedemandsupplyconstraintspersist",
   "98cbdb8e321882b7",
-  "diamondbacktoacquiredoubleeagleassetsinmidlandbasin"
+  "diamondbacktoacquiredoubleeagleassetsinmidlandbasin",
+  "0619bdc440c68140",
+  "rystadmarketcouldbeginnextyearwithprettylargesurplus",
+  "58865d2f6f2e3461",
+  "saudioilproductexportsreachhighestlevelsinceiranwarbeganrepo"
  ],
  "releases_done": {
   "2026-11-17|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T23:20:20.082566+02:00",
+ "last_run": "2026-11-17T23:25:15.043433+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1382,6 +1382,10 @@
   {
    "d": "2026-11-17",
    "t": "Iraq resumes shipping oil for export to Turkey via pipeline - Middle East Eye"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Saudi Oil Product Exports Reach Highest Level Since Iran War Began: Report - Egypt Oil & Gas"
   }
  ]
 }
