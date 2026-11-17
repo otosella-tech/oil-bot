@@ -4,10 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "b8e08d1c94941441",
-  "oilpricesreverseinitialgainsassupplyconcernsweigh",
-  "01e1026af629a321",
-  "middleeastwaroilremainsabove95bblasmorevesselsfacethreatsint",
   "2024eab75b316011",
   "goldmansachswarnstheoilmarketwillfaceamassivesupplysurplusin",
   "3e009ad2b0fa7dc8",
@@ -603,7 +599,11 @@
   "74d9b8d99aafc77d",
   "oilpricesswingasvesselattacksreportedaroundhormuz",
   "0bca704e5ead8b91",
-  "ukrainiandronestargettwooilrefineriesdeepinsiderussia"
+  "ukrainiandronestargettwooilrefineriesdeepinsiderussia",
+  "f0506cbd3d78e968",
+  "russiaexportsmostcrudesincejulyasdroneshammerrefineries",
+  "d5bbeac9f5591d31",
+  "russiasarcticoilshipmentshitrecordamidsanctionsmeltingice"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T15:45:18.741729+02:00",
+ "last_run": "2026-11-17T15:50:20.256004+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1280,6 +1280,14 @@
   {
    "d": "2026-11-17",
    "t": "Ukrainian Drones Target Two Oil Refineries Deep Inside Russia - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Russia Exports Most Crude Since July as Drones Hammer Refineries - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Russia's Arctic oil shipments hit record amid sanctions, melting ice - A News"
   }
  ]
 }
