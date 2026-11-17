@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "daf98ed1dcb91ec5",
-  "middleeastslargestoilproducerfindsalifelineinchinaegyptindia",
   "55f9e98be5e4473a",
   "heatingoilpricesareup59fromlastwinterthespikeiscrushingfolks",
   "c53b2628e4eb331f",
@@ -603,7 +601,9 @@
   "4bc7272d0c197d1a",
   "oiledgeshigherontankerattacksexpecteduscrudedropeuronextmark",
   "9ec0e369ed784cf8",
-  "gulftradewithcentralasiasurgesasenergytiesdeepen"
+  "gulftradewithcentralasiasurgesasenergytiesdeepen",
+  "05b8ca687e834723",
+  "balancessupplyswellsbutfutureremainshighlyuncertain"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T20:20:30.269439+02:00",
+ "last_run": "2026-11-17T20:25:15.313927+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
