@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "b3adb017f8dc477b",
-  "oilpricesfallasmiddleeastexportsrecoverandsupplysurpluslooms",
   "c7e0801cfe3d8cf1",
   "middleeastslargestarabeconomyfindsalifelineinchinaegyptandin",
   "2814f5b14f35893f",
@@ -603,7 +601,9 @@
   "707a80057308df22",
   "kazakhstantargets85millioninoilandgasmanufacturingtostrength",
   "3a1020b7f64bda43",
-  "opinioncaliforniansarepayingfortheoilindustrysriskyplanbbury"
+  "opinioncaliforniansarepayingfortheoilindustrysriskyplanbbury",
+  "0be1b3a4412ba9b5",
+  "areresourcelimitsfuelingtheworldsgrowingconflicts"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T20:55:15.418616+02:00",
+ "last_run": "2026-11-17T21:00:31.454046+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
