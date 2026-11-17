@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "d89b40c7f6cae523",
-  "cop31electrificationpledgestallsasdevelopingnationspushback",
   "bfbf131170fcbf9b",
   "crudeoiltestskeysupportasglutfearscollidewithmideastrisk",
   "3ebf980b72dea35a",
@@ -603,7 +601,9 @@
   "69a470809001a764",
   "opecplusoutputjumpsto8monthhighbutisitsustainable",
   "e9643db12cf8c46d",
-  "oiloffloadunderwayfromstrandedcarolinebezengitankeroffoman"
+  "oiloffloadunderwayfromstrandedcarolinebezengitankeroffoman",
+  "ee12ba8a2739d66e",
+  "iraqresumespumpingcrudeoilforexportthroughpipelinetoturkey"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T18:45:19.619903+02:00",
+ "last_run": "2026-11-17T18:50:18.783298+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1328,6 +1328,10 @@
   {
    "d": "2026-11-17",
    "t": "Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Iraq resumes pumping crude oil for export through pipeline to Turkey - www.thenationalnews.com"
   }
  ]
 }
