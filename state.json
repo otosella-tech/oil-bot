@@ -4,10 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "72ee2edeb93dd436",
-  "supertankercarrying2millionbarrelsofoilsinksafterhittingmine",
-  "6be82379df6010e3",
-  "mlpxqatarjustsignedupforamericangaswhythatoutlaststheoilprem",
   "f17be2a780e53bf1",
   "usoilrigcountholdsat463ascrudeoutputhitsanotherrecord",
   "e4f1868f9e81b249",
@@ -603,7 +599,11 @@
   "9ddf6b857db8e914",
   "oilfuturescrudeofflowsasescalationfearsoffsetsurplusnarrativ",
   "e2c42388d17272bd",
-  "gulfcrudedealswashedoutastraderssidestephormuzlegalbattles"
+  "gulfcrudedealswashedoutastraderssidestephormuzlegalbattles",
+  "f14e27bd40919b75",
+  "crudeoilpricesfallonglobalsupplysurplusoutlook",
+  "e28b6a8b69ff5364",
+  "oilpricescaughtbetweenrisingmideastexportsandtankerattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-17",
-  "count": 38
+  "count": 40
  },
- "last_run": "2026-11-17T12:30:36.504601+02:00",
+ "last_run": "2026-11-17T12:35:15.217745+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-11-17",
    "t": "Gulf crude deals 'washed out' as traders sidestep Hormuz legal battles - TradeWinds News"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Oil prices caught between rising Mideast exports and tanker attacks - The Globe and Mail"
   }
  ]
 }
