@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "33b81f64b5dc2170",
-  "goldmansachsgetsbearishonoilpricesbutdoesntseehelpforconsume",
   "9ed30a00eec23cee",
   "exxonmobilguyanastartsproductionatuaru",
   "aa85f74be282cc37",
@@ -603,7 +601,9 @@
   "7ca4801b86fdf12b",
   "cubasenergycrisisturnsintoagoldmineforusfuelexporters",
   "f1af1e73e8d7a342",
-  "thegulfsoileatingmicrobeslayinwaitbeforedeepwaterhorizonspil"
+  "thegulfsoileatingmicrobeslayinwaitbeforedeepwaterhorizonspil",
+  "44a32b23bd668f79",
+  "paoilgasindustrialfacilitiespermitnoticesopportunitiestocomm"
  ],
  "releases_done": {
   "2026-11-17|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-18",
   "count": 6
  },
- "last_run": "2026-11-18T01:15:18.889425+02:00",
+ "last_run": "2026-11-18T01:20:19.052604+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
