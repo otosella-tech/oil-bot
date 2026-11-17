@@ -4,8 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "ae18052ffbacaf98",
-  "assaudiarabiaandiraqmovetocaptureiransoilmarketinchinanigeri",
   "f177253d77134d4f",
   "uscommercialcrudeoilinventoriesrisebynearly5mbarrels",
   "fa072323cb927c7f",
@@ -603,7 +601,9 @@
   "2c9eb88d001013f0",
   "oilsteadieswithiranianattackonbaseinbahraininfocus",
   "a0cc7c2d6703308d",
-  "whyiraqjustfasttrackedchevronstakeoverofa14billion"
+  "whyiraqjustfasttrackedchevronstakeoverofa14billion",
+  "570208a9f7fb3141",
+  "whyiraqjustfasttrackedchevronstakeoverofa14billionbarrelsupe"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 12
  },
- "last_run": "2026-11-17T03:00:29.046473+02:00",
+ "last_run": "2026-11-17T03:04:58.894060+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
