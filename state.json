@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 85.88,
-  "Brent": 91.77
+  "Brent": 93.7
  },
  "seen": [
-  "58e89642bb8c3ef9",
-  "oversupplyexpectationsweighonmarketasbrentcrudefallsbelow95u",
   "14056aaac0998ba8",
   "oilfuturescrudesteadiesamidrisingmideasttensions",
   "d24bc3b2cc7988a9",
@@ -603,7 +601,9 @@
   "bfc9114f98f26331",
   "oilieaoversupplyoutlookweighspricescommerzbank",
   "d12d7df73c9f7abf",
-  "oilfallsasrecoveringmiddleeastexportsbolstersurplusoutlook"
+  "oilfallsasrecoveringmiddleeastexportsbolstersurplusoutlook",
+  "67287fe7acfc51e9",
+  "crudeoilweeklyoutlookgeopoliticsvsoversupplyrisks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 58
  },
- "last_run": "2026-11-17T15:35:16.008397+02:00",
+ "last_run": "2026-11-17T15:40:20.432153+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
