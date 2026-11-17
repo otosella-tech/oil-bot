@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "4713b2f3cf255cac",
-  "beyondtheoilfieldsdougaitkenexaminesthefragilefutureoftheame",
   "89315ba32c51eac7",
   "newnorthseagassupplycomesonlineamidgrowingpoliticalbacklash",
   "5f74987d2bc06afd",
@@ -603,7 +601,9 @@
   "2148e28f30a5fa8d",
   "oilnewscrudeoilreboundsastradersweightankerrisksandieasurplu",
   "98e3017ec5697655",
-  "thehollowingofthevenezuelanstate"
+  "thehollowingofthevenezuelanstate",
+  "dd979c2f5885afcb",
+  "democratsplanprobesoftrumps100billionvenezuelaoildeal"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T16:15:28.463741+02:00",
+ "last_run": "2026-11-17T16:20:18.596984+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1288,6 +1288,10 @@
   {
    "d": "2026-11-17",
    "t": "Russia's Arctic oil shipments hit record amid sanctions, melting ice - A News"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Democrats Plan Probes of Trump’s $100 Billion Venezuela Oil Deal - Bloomberg.com"
   }
  ]
 }
