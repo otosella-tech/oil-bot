@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "f4f83a5a4ae92bfd",
-  "nasdaq100forecastndxfallsaheadofnvidiasearningsanthropicsdeb",
   "3652efcc44e33368",
   "dieselpricesfallbelow6agallonforthefirsttimesinceseptember",
   "ea9e8629ed26e66c",
@@ -603,7 +601,9 @@
   "8091b4c389c4b769",
   "oilup1ontankerattacksexpecteduscrudedropeuronextmarketsreal",
   "926af6644f5eca72",
-  "russiancrudeexportshitfourmonthhigh"
+  "russiancrudeexportshitfourmonthhigh",
+  "48fd94b494ef44a6",
+  "shenzhenisalsoaniransummitbeijingalreadyholdstheclock"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T22:30:27.652772+02:00",
+ "last_run": "2026-11-17T22:35:15.028932+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
