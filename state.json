@@ -4,8 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "2efa8034962f55e5",
-  "ieaoilmarketsurplusisexpectedinq42026",
   "c7a9628eb55b85b0",
   "rupeerises6paiseto9413againstusdollarinearlytrade",
   "cf084a22ba415a1a",
@@ -603,7 +601,9 @@
   "d47259ea09eb8cf5",
   "comachopefulfurtherdeclineincrudeoilpricescouldtriggercontin",
   "29b4c2b8618dc980",
-  "japanoffersaseannationsaccesstoenergystorage"
+  "japanoffersaseannationsaccesstoenergystorage",
+  "eeb76b891890e656",
+  "thecommoditiesfeedmetalsunderpressurewhileoilsupplyimproves"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 32
  },
- "last_run": "2026-11-17T11:08:08.877672+02:00",
+ "last_run": "2026-11-17T11:10:20.221763+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
