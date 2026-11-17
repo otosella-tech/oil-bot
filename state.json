@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "a2f99222c63d0f52",
-  "oiltankersfreightratesplungebyover60fromrecordhighs",
   "cd5a01f4d61c30aa",
   "oilmarketoutlookshiftsasuscrudefallsto87onrecoveringmiddleea",
   "b1b47cd2ae5c352b",
@@ -603,7 +601,9 @@
   "0619bdc440c68140",
   "rystadmarketcouldbeginnextyearwithprettylargesurplus",
   "58865d2f6f2e3461",
-  "saudioilproductexportsreachhighestlevelsinceiranwarbeganrepo"
+  "saudioilproductexportsreachhighestlevelsinceiranwarbeganrepo",
+  "4ae9416aec5d1040",
+  "gasanddieselpricesfallinall50statesaheadofthanksgivingtravel"
  ],
  "releases_done": {
   "2026-11-17|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T23:30:25.772567+02:00",
+ "last_run": "2026-11-17T23:35:15.033532+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
