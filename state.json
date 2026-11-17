@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "a63b109937d738d4",
-  "albertaexpectsoilsandsinvestmentimmediatelyfollowingnewroyal",
   "c71f8bc44ae2d3e5",
   "workersloadcrudeoilintotankertrucksatthetubacrudedepotwherei",
   "3a1020b7f64bda43",
@@ -603,7 +601,9 @@
   "2b8d38b7b39843ef",
   "oilgains15",
   "ca2543edc6d0667c",
-  "theoilmarketisbrimmingwithcrudedespitetankerattacks"
+  "theoilmarketisbrimmingwithcrudedespitetankerattacks",
+  "30fcfab7420e4982",
+  "brentstucknear93ashormuztankerattacksoffsetgulfexportsurge"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T18:10:19.221660+02:00",
+ "last_run": "2026-11-17T18:15:19.390399+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1324,6 +1324,10 @@
   {
    "d": "2026-11-17",
    "t": "The Oil Market Is Brimming With Crude Despite Tanker Attacks - gCaptain"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge"
   }
  ]
 }
