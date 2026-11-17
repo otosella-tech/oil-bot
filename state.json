@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "8f6daacb73ff9392",
-  "chinascoalpowergenerationslumpsaswindandsolarsurge",
   "c9554ac0367c754b",
   "uscrudefuturesfall2onsignsofrecoveryinoilshipmentsthroughstr",
   "f3a3b53b79d0c47b",
@@ -603,7 +601,9 @@
   "18816c7387494d4e",
   "demsplanprobesoftrumps100bvenezuelaoildeal",
   "b37a3ff5c8af73d3",
-  "whyaregaspricesfallingacrossamerica"
+  "whyaregaspricesfallingacrossamerica",
+  "465445f9ca1acdce",
+  "oilup1ontankerattacksexpecteduscrudedrop"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T21:25:14.675524+02:00",
+ "last_run": "2026-11-17T21:30:28.711232+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1360,6 +1360,10 @@
   {
    "d": "2026-11-17",
    "t": "Crude Oil Price Rise: Tanker Attacks Lift Brent Above $93 Slug: crude-oil price rise - Construction Review"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Oil up 1% on tanker attacks, expected US crude drop - The Lufkin Daily News"
   }
  ]
 }
