@@ -4,10 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "c25ba0586bc8b591",
-  "brentcrudeoilfacesheightenedregionalrisksxbrremainsrangeboun",
-  "369c50bf2a04dc50",
-  "ukrainehitscrimeanbridgeinrecorddronestrikeonrussia",
   "b1e6665cd94f09e3",
   "dangoterefineryeffectuksimportofrefinedproductsfromnigeriaju",
   "fa71bc377cb1b6f3",
@@ -603,7 +599,11 @@
   "592d850d7efd8052",
   "ukpushesforgloballeviesonpollutingindustries",
   "cab1e5bc447d07f7",
-  "usgaspricesfalltolowestlevelsincemidmarch"
+  "usgaspricesfalltolowestlevelsincemidmarch",
+  "a10929108380830a",
+  "oilpricesdeclineassupplysurplusforecastoutweighsmiddleeastsh",
+  "466c99d7824e76cd",
+  "euroholdssteadyagainstcanadiandollaramidfallingoilpricesgerm"
  ],
  "releases_done": {},
  "last_digest": "2026-11-17",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 48
  },
- "last_run": "2026-11-17T14:30:25.960614+02:00",
+ "last_run": "2026-11-17T14:35:27.734037+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
