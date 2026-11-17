@@ -4,10 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "fa072323cb927c7f",
-  "crudeoilpricefallsaspeacehopesgrowoilseedshit",
-  "bd5f6d0214e47230",
-  "russiancrudeproductionreboundsaftertrumpdieseldealieasaysaso",
   "0fafbbb26d841e90",
   "oilholdsnearus96asgrowingsupplysurplusclasheswithmiddleeastt",
   "51b986ab02bf928a",
@@ -603,7 +599,11 @@
   "570208a9f7fb3141",
   "whyiraqjustfasttrackedchevronstakeoverofa14billionbarrelsupe",
   "30d357337298beec",
-  "oiltankerratestumbleasgulfcrudeshipmentsrebound"
+  "oiltankerratestumbleasgulfcrudeshipmentsrebound",
+  "c69022a84f5edeee",
+  "opeccapacityreviewcouldreshapeglobaloilproductionlimits",
+  "944d731cfdaece42",
+  "canadiannaturalstrengthensgasportfoliowithadvantageenergydea"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-17",
-  "count": 12
+  "count": 14
  },
- "last_run": "2026-11-17T03:30:24.162904+02:00",
+ "last_run": "2026-11-17T03:35:19.979892+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
@@ -1188,6 +1188,10 @@
   {
    "d": "2026-11-17",
    "t": "Oil Steadies With Iranian Attack on Base in Bahrain in Focus - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "OPEC+ capacity review could reshape global oil production limits - Oil & Gas 360"
   }
  ]
 }
