@@ -4,8 +4,6 @@
   "Brent": 91.77
  },
  "seen": [
-  "9cfb1aac39b2ff8a",
-  "venezuelancrudeoilimportstoussurgetohighestlevelsince2017ase",
   "586a38f0aee54746",
   "canadiandollarweakensagainstusdollaramidfedratehikebetsfalli",
   "f5d75278412dda12",
@@ -603,7 +601,9 @@
   "4c42254f32b6de3c",
   "asianstockstofallaheadofnvidiaanthropicmarketswrap",
   "d2234d7679c5a900",
-  "whynooilpricesurgedespitehormuztrafficplunge"
+  "whynooilpricesurgedespitehormuztrafficplunge",
+  "1dda6e46daf09f71",
+  "cctvscript171126"
  ],
  "releases_done": {},
  "last_digest": "2026-11-16",
@@ -615,7 +615,7 @@
   "date": "2026-11-17",
   "count": 20
  },
- "last_run": "2026-11-17T04:30:25.289659+02:00",
+ "last_run": "2026-11-17T04:35:15.639186+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
