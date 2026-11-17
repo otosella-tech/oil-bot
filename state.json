@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "9203b92d70803685",
-  "floridagaspricesarefallingwilltheykeepgoingdowndaytonabeachn",
   "cb1b90f99cde2e46",
   "europehasalreadydrained10ofitssummergasinjections",
   "2dd4f57e4cfe42c7",
@@ -603,7 +601,9 @@
   "45a0020c04bbfdeb",
   "iraqresumesshippingoilforexporttoturkeyviapipeline",
   "295730456a6bbd00",
-  "bplaunchesoffertobuybackupto6billionofbonds"
+  "bplaunchesoffertobuybackupto6billionofbonds",
+  "69c700008f1f3a94",
+  "ieahighdieselpriceseasedemandsupplyconstraintspersist"
  ],
  "releases_done": {
   "2026-11-17|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-11-17",
   "count": 60
  },
- "last_run": "2026-11-17T23:10:19.775772+02:00",
+ "last_run": "2026-11-17T23:15:30.559190+02:00",
  "sent_stories": [
   {
    "d": "2026-11-14",
