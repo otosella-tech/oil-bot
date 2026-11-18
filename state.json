@@ -4,8 +4,6 @@
   "Brent": 91.74
  },
  "seen": [
-  "54d8590509f2228c",
-  "stocksfallbeforenvidiaearningsanthropicipomarketswrap",
   "dc6fedf485b5c41b",
   "natronacountygaspricesdrop17centsalongsidefallingnationalave",
   "d5d39160b636f67d",
@@ -603,7 +601,9 @@
   "537d4029448f9f0c",
   "freshattacksacrossthegulffailtoliftoilprices",
   "22b15e7b4705a2ad",
-  "dukeofoilmunster"
+  "dukeofoilmunster",
+  "4a6a5d540af2e2c9",
+  "batteryelectricvehiclesdisplacing12millionbarrelsofoilperday"
  ],
  "releases_done": {},
  "last_digest": "2026-11-18",
@@ -615,7 +615,7 @@
   "date": "2026-11-18",
   "count": 27
  },
- "last_run": "2026-11-18T09:50:22.691572+02:00",
+ "last_run": "2026-11-18T09:55:15.010482+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
