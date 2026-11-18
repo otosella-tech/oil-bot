@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "cc0aa69aecd01391",
-  "surplusstorytakesthewheelinoilfornownudgingbrentlower",
   "97ce5f1721e0ea3a",
   "iraqiparliamentaryinquiryuncoversevidenceofoilsmugglinginjur",
   "13a70da488ce74bf",
@@ -603,7 +601,9 @@
   "516c4d6129daceb9",
   "oilpricesdeclineasrisingusinventoriesoffsetsupplyrisksfromir",
   "4cbb05542f134b03",
-  "currentpriceofoilasofnovember182026"
+  "currentpriceofoilasofnovember182026",
+  "a6e866927dad0a5d",
+  "donaldtrumpquestionsfallinggaspricesafterelectiondrubbing"
  ],
  "releases_done": {},
  "last_digest": "2026-11-18",
@@ -615,7 +615,7 @@
   "date": "2026-11-18",
   "count": 42
  },
- "last_run": "2026-11-18T14:15:17.773719+02:00",
+ "last_run": "2026-11-18T14:20:18.847726+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
