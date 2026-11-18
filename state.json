@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "b53367246361c5b3",
-  "brentdeclinesassupplyshortageconcernsease",
-  "9ddf6b857db8e914",
-  "oilfuturescrudeofflowsasescalationfearsoffsetsurplusnarrativ",
   "e2c42388d17272bd",
   "gulfcrudedealswashedoutastraderssidestephormuzlegalbattles",
   "f14e27bd40919b75",
@@ -603,7 +599,11 @@
   "8834edcc7e56ff9a",
   "uscrudeoilstockpilesriseforsecondstraightweek",
   "3fdfda48cc677a1f",
-  "ftseoilforecasttwotradestowatch181126"
+  "ftseoilforecasttwotradestowatch181126",
+  "324a97eead22ced8",
+  "iranattacksonkuwaitcomesecondtoglobalglutconcernsoilcontinue",
+  "1e0c99c0655ec2cf",
+  "conocophillipsstockcopmoveddownby311onnov18whatsignaldoesits"
  ],
  "releases_done": {
   "2026-11-18|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-18",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-11-18T20:15:19.474876+02:00",
+ "last_run": "2026-11-18T20:20:19.932793+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
@@ -1371,6 +1371,10 @@
   {
    "d": "2026-11-18",
    "t": "Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an “Acquisition”"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "Iran Attacks On Kuwait Come Second To Global Glut Concerns, Oil Continues Downward Slide - Ship & Bunker"
   }
  ]
 }
