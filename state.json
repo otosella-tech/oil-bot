@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "f4a355103cc2c2e4",
-  "oilsmugglinginiraqtriggerspoliticalcrisis",
-  "e78d2d04752ec170",
-  "iraqresumescrudeoilpumpingforexportpurposesviapipelinetoturk",
   "7694c7f8e2456e40",
   "guyanatoreach11mmbpdofoilproductionasuarustartsup",
   "c77842dc999536c0",
@@ -603,7 +599,11 @@
   "27b65a1bfc4afff4",
   "oilpricesinlimbobetweenhigheruscrudestocksandsupplyrisksbyre",
   "2adaa9a0078decee",
-  "crudeoildownover4targetearningstopviews"
+  "crudeoildownover4targetearningstopviews",
+  "7aebc2e33666db39",
+  "thieldoublesdownonvacamuertaastrumpcallsvenezuelaanacquisiti",
+  "6f2c150fb4592f9d",
+  "mozambiqueapprovesexxonsredesigned30billionrovumalngplan"
  ],
  "releases_done": {
   "2026-11-18|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-18",
-  "count": 56
+  "count": 58
  },
- "last_run": "2026-11-18T19:25:14.597875+02:00",
+ "last_run": "2026-11-18T19:30:28.101867+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
@@ -1367,6 +1367,10 @@
   {
    "d": "2026-11-18",
    "t": "Oil Prices Fall Despite Iran Attacks as US Crude Inventories Jump 5.28M Barrels - Coinpaper"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an “Acquisition”"
   }
  ]
 }
