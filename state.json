@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "18a36c4c201e1d92",
-  "oilpriceforecastbrentandwtislideonsupplysurplusoutlook",
   "4940596029c0f088",
   "thecaseforgoingnowhererangeboundoilcouldunlocktacticalrally",
   "2a139f65ca93776e",
@@ -603,7 +601,9 @@
   "31b0534ca8deb421",
   "ftseoilforecasttwotradestowatch",
   "428e75cdd8f260cf",
-  "usweeklycrudeoilinventories3380kvs58kexpected"
+  "usweeklycrudeoilinventories3380kvs58kexpected",
+  "af960d53b81bbd80",
+  "chevroncvxpositionedtobenefitfromsustainedhigheroilprices"
  ],
  "releases_done": {
   "2026-11-18|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-18",
   "count": 50
  },
- "last_run": "2026-11-18T17:55:16.267682+02:00",
+ "last_run": "2026-11-18T18:00:38.303185+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
