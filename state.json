@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "ec416b63c0d53df7",
-  "oilretreatsastradersweighsupplyglut",
   "27b3a457cb3897c4",
   "japanproposesasianieatomanageoilstockpiles",
   "b91a4a417e3805ed",
@@ -603,10 +601,13 @@
   "5496fd75516e3c87",
   "whatisiraqsjurfalsakharandwhatisbehindgovtpushtocontrolit",
   "2866e1595e0aea75",
-  "morningstardbrsforecastsoilandgasmarketstabilisationin2027"
+  "morningstardbrsforecastsoilandgasmarketstabilisationin2027",
+  "8786a012360e19e7",
+  "chinagasupsizeslong"
  ],
  "releases_done": {
-  "2026-11-18|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
+  "2026-11-18|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
+  "2026-11-18|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|post": 1
  },
  "last_digest": "2026-11-18",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-11-18",
   "count": 50
  },
- "last_run": "2026-11-18T17:25:16.010492+02:00",
+ "last_run": "2026-11-18T17:30:25.277444+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
