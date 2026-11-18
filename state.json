@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "709cc95580706282",
-  "crudeoiloutlookafterhormuzminestrikes",
   "d3a898dd193c9afa",
   "oilfallsasimprovingsupplyprospectsoffsetmideasttensions",
   "f52f43ea8a649657",
@@ -603,7 +601,9 @@
   "0a4c46ca3eae77a3",
   "wtioildriftsbelow8300ashigherusstockscalmconcernsaboutsupply",
   "94c696e7c4dda5c5",
-  "inutahahydrocarbonhighwaycouldrunrightthroughthispetroglyphf"
+  "inutahahydrocarbonhighwaycouldrunrightthroughthispetroglyphf",
+  "11c0f874be0f4677",
+  "airlinesfacefuelcrisisaspricehedgesexpire"
  ],
  "releases_done": {},
  "last_digest": "2026-11-18",
@@ -615,7 +615,7 @@
   "date": "2026-11-18",
   "count": 30
  },
- "last_run": "2026-11-18T11:25:14.810686+02:00",
+ "last_run": "2026-11-18T11:30:24.119510+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
