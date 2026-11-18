@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "35ba528508f642df",
-  "commentarymidtermmeltdownhowuselectionssparkedarethinkonener",
   "0917a8688d74e0fa",
   "japanproposesasiaoilsecuritytaskforceataseansummit",
   "974332daef19048a",
@@ -603,7 +601,9 @@
   "318def62977843f3",
   "howandwhywemappedpennsylvaniasforgottenoilandgaswells",
   "12debe7dd25d3e32",
-  "abscbnnewstrumpusnowtheleadingproducerofoilnaturalgas"
+  "abscbnnewstrumpusnowtheleadingproducerofoilnaturalgas",
+  "d5e78435a947959d",
+  "us"
  ],
  "releases_done": {},
  "last_digest": "2026-11-18",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-18",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-11-18T16:25:16.224393+02:00",
+ "last_run": "2026-11-18T16:30:26.062927+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
@@ -1340,6 +1340,10 @@
   {
    "d": "2026-11-18",
    "t": "Iraq reopens Turkey oil pipeline to bypass Hormuz disruption - Euronews.com"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "U.S.-Iran Conflict Flares Again as Gulf Nations Brace for Attacks"
   }
  ]
 }
