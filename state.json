@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "a3d2b78879cd0931",
-  "oilsensitivestocksrallyupto3ascrudepricesextenddeclineasianp",
   "117baafbd4c30a4f",
   "oilpricesdown161126",
   "7dd8e8b2633cd375",
@@ -603,7 +601,9 @@
   "90aee09744b210ba",
   "eurooilandusyieldsposedownsiderisksagainstdollarmufg",
   "780d5fbb796f3eb3",
-  "iraqreopensturkeyoilpipelinetobypasshormuzdisruption"
+  "iraqreopensturkeyoilpipelinetobypasshormuzdisruption",
+  "09561a286750c4d2",
+  "alaskasoilrenaissancedawnsafterdecadesofdecline"
  ],
  "releases_done": {},
  "last_digest": "2026-11-18",
@@ -615,7 +615,7 @@
   "date": "2026-11-18",
   "count": 46
  },
- "last_run": "2026-11-18T16:15:19.622362+02:00",
+ "last_run": "2026-11-18T16:20:30.219328+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
