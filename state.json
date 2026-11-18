@@ -4,28 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "1e002125640ada6d",
-  "stockmarketsrallyseconddayonforeignfundinflowsmoderatecrudeo",
-  "cea11116dbdb0230",
-  "malaysiasignsfirstcriticalmineralspactwithfrance",
-  "bfc9114f98f26331",
-  "oilieaoversupplyoutlookweighspricescommerzbank",
-  "d12d7df73c9f7abf",
-  "oilfallsasrecoveringmiddleeastexportsbolstersurplusoutlook",
-  "67287fe7acfc51e9",
-  "crudeoilweeklyoutlookgeopoliticsvsoversupplyrisks",
-  "74d9b8d99aafc77d",
-  "oilpricesswingasvesselattacksreportedaroundhormuz",
-  "0bca704e5ead8b91",
-  "ukrainiandronestargettwooilrefineriesdeepinsiderussia",
-  "f0506cbd3d78e968",
-  "russiaexportsmostcrudesincejulyasdroneshammerrefineries",
-  "d5bbeac9f5591d31",
-  "russiasarcticoilshipmentshitrecordamidsanctionsmeltingice",
-  "1306399f26c1a2d8",
-  "yourtuesdaynov17guidefivethingstodointheoilcity",
-  "2148e28f30a5fa8d",
-  "oilnewscrudeoilreboundsastradersweightankerrisksandieasurplu",
   "98e3017ec5697655",
   "thehollowingofthevenezuelanstate",
   "dd979c2f5885afcb",
@@ -603,7 +581,29 @@
   "f2a3058d71fed0ea",
   "cbotsoybeansendlowerasdollarstrengthenscrudeoileases",
   "cc400ed1cf6635eb",
-  "japanlogs4765billiontradedeficitinoctober"
+  "japanlogs4765billiontradedeficitinoctober",
+  "d7cac9f4e39eccda",
+  "chinaburnslessoilandcoalastheiranwarreshapesitsenergymix",
+  "e3c1fd722a3454e6",
+  "currentpriceofoilasofnovember132026",
+  "28b59c0e50a168ee",
+  "uscrudeoilstockpilespostunexpectedweeklybuild",
+  "db4cc7ef1b51d7c9",
+  "eiaforecastsalaskancrudeoilproductiontogrow13in2027",
+  "86ced19254f69607",
+  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
+  "19c221111491a7b8",
+  "oilpricestumblefortheweekasinvestorsweighiranconflictriskaft",
+  "41e86f13d27e5532",
+  "currentpriceofoilasofnovember92026",
+  "15aa741b12826153",
+  "oilpriceseasetotwomonthlowsasusdownplaysfurtheriranstrikes",
+  "42c5b9a2321363be",
+  "crudeoilpricesfallforseconddayasmarkethopesfordiplomaticreso",
+  "c1ed86b9113d9a28",
+  "currentpriceofoilasofnovember52026",
+  "9d2f5d38d9449108",
+  "currentpriceofoilasofnov102026"
  ],
  "releases_done": {
   "2026-11-18|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -615,143 +615,11 @@
   "Brent": 92.56
  },
  "llm": {
-  "date": "2026-11-18",
-  "count": 60
+  "date": "2026-11-19",
+  "count": 2
  },
- "last_run": "2026-11-18T23:55:15.984821+02:00",
+ "last_run": "2026-11-19T00:00:30.684837+02:00",
  "sent_stories": [
-  {
-   "d": "2026-11-15",
-   "t": "Iran reports three incidents of oil tankers hit by mines in Hormuz - Arab News"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold - Al Jazeera"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "US returns over $12 billion in oil proceeds to Venezuela since Maduro’s ouster, report says - AP News"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Drone Strike Sparks Fire at One of Russia’s Largest Petrochemical Plants 800 Miles From Ukraine - UNITED24 Media"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Iraq PM sacks nine in oil-smuggling probe targeting Iran-backed militia - The National"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Saudi intercepts missiles as Houthis widen strikes on kingdom - The Arab Weekly"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Houthis step up attacks on Riyadh, Saudi oil infrastructure - Middle East Online"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Iran Says Oil Super Tanker Carrying 2 Million Barrels Sinks in Strait of Hormuz - Kurdistan24"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Iran says supertanker with 2 million barrels of oil sank in Gulf - Gulf News"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Iran says 2 oil tankers hit mines near Strait of Hormuz, 1 sinks - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war - CNBC"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "'Unauthorised supertanker' carrying over 2M barrels of oil sinks in Hormuz: Iran - TRT World"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Iran's navy: Two more oil tankers hit mines in Strait of Hormuz - Yahoo"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Supertanker with 2 million barrels of oil sank in Gulf, Iran say - The New Arab"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Saudi, Iraqi Oil Replace Iranian Crude in China: Report - Egypt Oil & Gas"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Supertanker with 2 million barrels of oil sinks after hitting mine in Strait of Hormuz - The Times of India"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Iran says supertanker carrying oil sinks in Hormuz Strait - RTE.ie"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Iran says supertanker carrying 2 million barrels of oil sinks after hitting mine in Hormuz - Deccan Herald"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Iran says supertanker with 2 million barrels of oil sank in Gulf - Region - World - Ahram Online"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Saudi Arabia and Nigeria see oil sales to the world's largest economy plunge as Venezuela becomes a new US oil frontier, putting even Canada under pressure - Business Insider Africa"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "EU Sends Warning to Russia As It Boards ‘Shadow Fleet’ Tanker - Newsweek"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "A supertanker carrying over 2,000,000 barrels of crude oil sank in the Gulf, Iran’s Revolutionary Guards announce - Informat.ro"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Ukrainian Drone Attack Kills 4 Workers, Sparks Fire at Volgograd Oil Refinery - The Moscow Times"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Oil supertanker ‘sinks after hitting mine’ in Strait of Hormuz - The Telegraph"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Opec+ output rebounds in October as Saudi Arabia drives supply recovery - Indiatimes"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Iran claims two tankers hit mines in Hormuz, releases unverified video - Ynetnews"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Iran says supertanker carrying 2 million barrels of oil sinks after 2 ships hit mines in Strait of Hormuz - Deccan Herald"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "The $130 Billion Oil Boom Fueled by the Iran War"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Saudi Capacity Audit 2026: 1.37M Bpd Gap Before OPEC+ Vote - https://houseofsaud.com/"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "EU announces new sanctions following interception of oil tanker linked to Russia's ghost fleet in Mediterranean - European Interest"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too - New York Post"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "As the Middle East’s largest oil producer and Iraq jump in to capture Iran’s Chinese oil market, Nigeria and Saudi Arabia suffer a U.S. blow as Venezuelan oil surges - Business Insider Africa"
-  },
   {
    "d": "2026-11-16",
    "t": "Iraqi PM’s crackdown on oil smuggling raises tensions with Kataib Hezbollah - FDD's Long War Journal"
@@ -1387,6 +1255,22 @@
   {
    "d": "2026-11-18",
    "t": "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections - CNBC"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Oil prices ease to two-month lows as US downplays further Iran strikes - Reuters"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC"
   }
  ]
 }
