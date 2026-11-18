@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "3d0fc9d3b2048a57",
-  "iraqaccusesiranbackedkataibhezbollahofoilsmugglingandordersa",
   "bafcd88409901892",
   "japanoffersaseanaccesstocrudeoilstoragetocounterenergycrises",
   "1b5c2a3b7ff46b2d",
@@ -603,7 +601,9 @@
   "b75a6a88de032300",
   "oilpricereboundheldbackbysupplyrecoverying",
   "7736ecdb5b9c05ee",
-  "thameswatersrescuedealcomeswithadirtycatch"
+  "thameswatersrescuedealcomeswithadirtycatch",
+  "71e6c81f9b8e219b",
+  "cbotcornfallstomultimonthlowsonfirmdollarsaggingcrudeoil"
  ],
  "releases_done": {
   "2026-11-18|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-18",
   "count": 60
  },
- "last_run": "2026-11-18T23:05:15.886242+02:00",
+ "last_run": "2026-11-18T23:10:18.086807+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
