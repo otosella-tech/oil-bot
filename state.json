@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "7b4bb248a9c12f4e",
-  "canadiannaturalresourcesjoinsmontneybuyingspreewith177bdeal",
   "48a7e897be172b93",
   "ieagulfoilexportsrecoverdespitetankerattacksasfreightratesre",
   "fcce1be6c2abe0b1",
@@ -603,7 +601,9 @@
   "d886c1a9bf1833bc",
   "crudeoilpricesfallasusinventoriestempersupplyrisksbrentslips",
   "46be5ba1a14eb9b8",
-  "asiaoilsecuritytaskforcemooted"
+  "asiaoilsecuritytaskforcemooted",
+  "328f73ac7b84e560",
+  "uscrudeoildeclinesto85abarrelonrecoveringmiddleeastexports"
  ],
  "releases_done": {
   "2026-11-17|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-18",
   "count": 14
  },
- "last_run": "2026-11-18T06:20:19.392925+02:00",
+ "last_run": "2026-11-18T06:25:14.760798+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
