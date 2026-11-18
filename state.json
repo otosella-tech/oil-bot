@@ -4,8 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "4a66eec13ec69e78",
-  "unitedstatesontrackforrecordcrudeoilproductionin2026",
   "9b1af86db2a00b14",
   "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "1a891ddc5ee5132a",
@@ -603,7 +601,9 @@
   "193a02c09dfa3484",
   "europeslngscramblesendsshockwavesthroughasiangasmarkets",
   "1918abdd0d008e05",
-  "oilpricesreboundasmiddleeasttensionsoffsetrecoveringgulfexpo"
+  "oilpricesreboundasmiddleeasttensionsoffsetrecoveringgulfexpo",
+  "83082b6fe8fc8e22",
+  "duboisranchersbalkatoilandgasleasesintreasuredwildlifehabita"
  ],
  "releases_done": {
   "2026-11-17|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-18",
   "count": 6
  },
- "last_run": "2026-11-18T02:25:16.468638+02:00",
+ "last_run": "2026-11-18T02:30:25.426253+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
