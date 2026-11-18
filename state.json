@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "e2c42388d17272bd",
-  "gulfcrudedealswashedoutastraderssidestephormuzlegalbattles",
   "f14e27bd40919b75",
   "crudeoilpricesfallonglobalsupplysurplusoutlook",
   "e28b6a8b69ff5364",
@@ -603,7 +601,9 @@
   "324a97eead22ced8",
   "iranattacksonkuwaitcomesecondtoglobalglutconcernsoilcontinue",
   "1e0c99c0655ec2cf",
-  "conocophillipsstockcopmoveddownby311onnov18whatsignaldoesits"
+  "conocophillipsstockcopmoveddownby311onnov18whatsignaldoesits",
+  "71ac4deeade31208",
+  "oilpriceswithhormuztensionsandrisingsupply"
  ],
  "releases_done": {
   "2026-11-18|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-18",
   "count": 60
  },
- "last_run": "2026-11-18T20:45:24.946695+02:00",
+ "last_run": "2026-11-18T20:50:19.944561+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
@@ -1375,6 +1375,10 @@
   {
    "d": "2026-11-18",
    "t": "Iran Attacks On Kuwait Come Second To Global Glut Concerns, Oil Continues Downward Slide - Ship & Bunker"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "Oil Prices with Hormuz Tensions and Rising Supply - Inspenet"
   }
  ]
 }
