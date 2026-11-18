@@ -4,10 +4,6 @@
   "Brent": 93.7
  },
  "seen": [
-  "41db5e3c1782e17a",
-  "venezuelaoilproductiontargetsamajorriseto3millionbpd",
-  "bb5a5ad59733bb75",
-  "libyahasafricasbiggestoilreservesbutwesternmajorsarentbiting",
   "a6975892147964d5",
   "iransayssupertankerwith2millionbarrelsofoilsankingulf",
   "2515f3322c9556c3",
@@ -603,7 +599,11 @@
   "4c716e16f2e76212",
   "goldmansachsforecastsanoilsurplusof2millionbarrelsin2027",
   "03b96d011120ea4c",
-  "oiledgesupontankerattacksexpecteduscrudedropeuronextmarketsr"
+  "oiledgesupontankerattacksexpecteduscrudedropeuronextmarketsr",
+  "684a40943c5bc942",
+  "usplacesallpledgedsprcrudemightdelayrefill",
+  "58de30fc916a59b0",
+  "oilpricestodaycrudefallsasusinventoriesriseirantensionslimit"
  ],
  "releases_done": {
   "2026-11-17|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-18",
   "count": 8
  },
- "last_run": "2026-11-18T05:30:25.024758+02:00",
+ "last_run": "2026-11-18T05:35:15.490590+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
