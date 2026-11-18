@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "ed30c89b09293e24",
-  "usopensnewfrontincampaigntocutoffiranssupplyroutes",
-  "c896e1b5dca30533",
-  "ttfgasbouncesbackto86eurosashormuzrisksresurface",
   "e2671b833946b5b4",
   "brentoildeclinesonmarketsurplusasfundamentalsdrivepriceslowe",
   "0b8b0263b747eb87",
@@ -603,7 +599,11 @@
   "38cad6aa119a6de4",
   "americasnextenergyexportchallengegrowingvolumesinacrowdedmar",
   "78390588ff523232",
-  "uslawmakerschallengetrumps100billionvenezuelaoildealasnigeri"
+  "uslawmakerschallengetrumps100billionvenezuelaoildealasnigeri",
+  "0f858303b17ccfd5",
+  "sptsxcompositedownnearly750pointsoilandgoldalsotumble",
+  "5b3e05932c115204",
+  "octobersupplysurgebringsforwardanticipatedoilsurplus"
  ],
  "releases_done": {
   "2026-11-18|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-19",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-19T00:45:18.114676+02:00",
+ "last_run": "2026-11-19T00:50:19.515597+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1271,6 +1271,10 @@
   {
    "d": "2026-11-19",
    "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "October Supply Surge Brings Forward Anticipated Oil Surplus - Energy Intelligence"
   }
  ]
 }
