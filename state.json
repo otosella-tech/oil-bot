@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "0b8b0263b747eb87",
-  "oilpricesriseusstrikesiransqeshmislandusretailsalesbeatforec",
-  "487679f973940b98",
-  "oilpricesreboundasmiddleeastshippingriskspersist",
   "3e5fae9fdb9ea313",
   "canadiannaturalresourcestobuyadvantageenergyin177billiondeal",
   "42e482f8381e9d24",
@@ -603,7 +599,11 @@
   "5b3e05932c115204",
   "octobersupplysurgebringsforwardanticipatedoilsurplus",
   "497bd831054c06fe",
-  "didtheusalmostinvadesaudiarabiaoveroil"
+  "didtheusalmostinvadesaudiarabiaoveroil",
+  "9dd450df708edb07",
+  "equinorhackaddstowaveofcyberattacksonenergycompanies",
+  "3e75c09b3a9f2b55",
+  "mariacorinamachadoquestionstrumpoildealwhilecommittingtousti"
  ],
  "releases_done": {
   "2026-11-18|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-19",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-11-19T00:55:14.177052+02:00",
+ "last_run": "2026-11-19T01:00:29.252103+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1275,6 +1275,10 @@
   {
    "d": "2026-11-19",
    "t": "October Supply Surge Brings Forward Anticipated Oil Surplus - Energy Intelligence"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies"
   }
  ]
 }
