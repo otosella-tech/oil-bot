@@ -4,10 +4,6 @@
   "Brent": 91.74
  },
  "seen": [
-  "d5d39160b636f67d",
-  "howanoutdatedoilbenchmarkerodesuspricingpower",
-  "ef0f25cdda510123",
-  "ugandapushesfirstoiltomid",
   "937b97b4569d2740",
   "ugandapushesfirstoiltomid2027asiranwarholdsupequipment",
   "1e170dcf1c54f37d",
@@ -603,7 +599,11 @@
   "4a6a5d540af2e2c9",
   "batteryelectricvehiclesdisplacing12millionbarrelsofoilperday",
   "34b58357df3674d0",
-  "japanlogs3btradedeficitinoctoberashigheroilcostsoffsetexport"
+  "japanlogs3btradedeficitinoctoberashigheroilcostsoffsetexport",
+  "e17c6c9b35d8af14",
+  "oilpricesswingasgulfattackscontinue",
+  "78979512c99eea29",
+  "crudeoilpricesloweronconcernsoverexcesssupply"
  ],
  "releases_done": {},
  "last_digest": "2026-11-18",
@@ -615,7 +615,7 @@
   "date": "2026-11-18",
   "count": 27
  },
- "last_run": "2026-11-18T10:00:31.158683+02:00",
+ "last_run": "2026-11-18T10:05:25.839320+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
