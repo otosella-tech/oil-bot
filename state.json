@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "f52f43ea8a649657",
-  "japanseconomycontractsslightlyinlatestquarterasoilpricesrema",
   "c9dcdf4f60b2fbf9",
   "chinaresumescrudestockpilingleavingroomforfuelexportsat3time",
   "fb2b66c67aae5a42",
@@ -603,7 +601,9 @@
   "11c0f874be0f4677",
   "airlinesfacefuelcrisisaspricehedgesexpire",
   "53eef8c24c6a174b",
-  "chinaresumesstoringcrudeoilgivingitfuelexportoptionsrussell"
+  "chinaresumesstoringcrudeoilgivingitfuelexportoptionsrussell",
+  "d8050c76077f1e46",
+  "ubsmajorforecastgoldat5000crudeoilat80whatliesaheadforfxandc"
  ],
  "releases_done": {},
  "last_digest": "2026-11-18",
@@ -615,7 +615,7 @@
   "date": "2026-11-18",
   "count": 30
  },
- "last_run": "2026-11-18T11:35:15.252278+02:00",
+ "last_run": "2026-11-18T11:40:19.829338+02:00",
  "sent_stories": [
   {
    "d": "2026-11-15",
