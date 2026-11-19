@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "21846d87bc977ed2",
-  "petrocedeoscrudeoiltowerwillberenovatedbysulzer",
   "d7229842c541de33",
   "oilpricesretreatasmarketdigestsglobalsurplusexpectations",
   "82cf025d8c45b83a",
@@ -603,7 +601,9 @@
   "15a8f779960aead6",
   "explosionoftwosupertankerscarrying4millionbarrelsofoilinhorm",
   "07c46f8dfced0348",
-  "oilpricesriseasmiddleeastsupplyrisksoffsetusstockbuild"
+  "oilpricesriseasmiddleeastsupplyrisksoffsetusstockbuild",
+  "efd7a37557383fc9",
+  "environmentalhealthprojectreleases2026annualreportnewchallen"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T13:40:21.576984+02:00",
+ "last_run": "2026-11-19T13:45:19.320731+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
