@@ -4,12 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "5496fd75516e3c87",
-  "whatisiraqsjurfalsakharandwhatisbehindgovtpushtocontrolit",
-  "2866e1595e0aea75",
-  "morningstardbrsforecastsoilandgasmarketstabilisationin2027",
-  "8786a012360e19e7",
-  "chinagasupsizeslong",
   "3c9f33f4e044e6dd",
   "adnoconshoretoupgradeexistingoilfields",
   "8614ac2a9dd95725",
@@ -603,7 +597,13 @@
   "1888926355e9a185",
   "exclusivecanadasbmoreturningtousoilandgasinvestmentbankingso",
   "876644d392367c7e",
-  "energybriefsnoletupiniransattacks"
+  "energybriefsnoletupiniransattacks",
+  "bd15f794ab1e3b8b",
+  "eumovestooverhaulemergencyoilstockpiles",
+  "c79ee3cc10772e61",
+  "canadiandollarstrengthensasoilreboundshawkishfedlimitsgainst",
+  "5b220dfbeef51f1e",
+  "usequityindexesdropafteranthropicsnasdaqdebutcrudeoilclimbs"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T21:25:17.136038+02:00",
+ "last_run": "2026-11-19T21:30:31.236138+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
