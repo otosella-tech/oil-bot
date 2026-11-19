@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "09561a286750c4d2",
-  "alaskasoilrenaissancedawnsafterdecadesofdecline",
   "86a8d25b22e2461c",
   "crudeoilpriceforecastwtifaces80testaheadofeiareport",
   "318def62977843f3",
@@ -603,7 +601,9 @@
   "2598a11a8ce2ad56",
   "hanwhaphillyshipyardsaysitsreadytobuildoiltankersandnavyship",
   "576a554b027c5cf1",
-  "trafiguranotrushingtoalternativemarinefuels"
+  "trafiguranotrushingtoalternativemarinefuels",
+  "741ac45bea7efe4d",
+  "9wayswechallengedfossilfuelpowerin2026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T20:30:26.052046+02:00",
+ "last_run": "2026-11-19T20:35:15.066480+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
