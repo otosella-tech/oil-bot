@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "f1af1e73e8d7a342",
-  "thegulfsoileatingmicrobeslayinwaitbeforedeepwaterhorizonspil",
   "44a32b23bd668f79",
   "paoilgasindustrialfacilitiespermitnoticesopportunitiestocomm",
   "4428abbb80789263",
@@ -603,7 +601,9 @@
   "bfb2b3090279e13d",
   "brentcrudeoilpricepredictionconsolidationlikelywithsupplyris",
   "736a91d0e1027aaf",
-  "oilprivateinventorysurveyshowsaheadlinecrudeoilbuildvsdrawex"
+  "oilprivateinventorysurveyshowsaheadlinecrudeoilbuildvsdrawex",
+  "e062dbb4fbd82f40",
+  "polymarketuslistswticrudenaturalgasupdownmarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 50
  },
- "last_run": "2026-11-19T11:30:25.028075+02:00",
+ "last_run": "2026-11-19T11:35:16.321482+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
