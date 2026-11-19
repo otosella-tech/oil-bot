@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "4ae9416aec5d1040",
-  "gasanddieselpricesfallinall50statesaheadofthanksgivingtravel",
   "0bb66b9fbe44e770",
   "zerotransparencyinsidetrumpsplansforvenezuelasoilmoney",
   "c03c10a89bf47e4a",
@@ -603,7 +601,9 @@
   "192083495a9bf4f1",
   "strategicoilreservesrestoredtoeumandated90daylevels",
   "6b2a2177a5fcd524",
-  "deltasoilrefinerywhyanairlinemakesitsownjetfuel"
+  "deltasoilrefinerywhyanairlinemakesitsownjetfuel",
+  "ba024adc2aa31afc",
+  "developingusandchinahavemutualinterestingettingoilthroughstr"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-19",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-11-19T10:25:15.977736+02:00",
+ "last_run": "2026-11-19T10:30:25.695770+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1340,6 +1340,10 @@
   {
    "d": "2026-11-19",
    "t": "Oil edges up on tanker attacks, expected US crude drop - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Developing | US and China have mutual interest in getting oil through Strait of Hormuz: Trump - South China Morning Post"
   }
  ]
 }
