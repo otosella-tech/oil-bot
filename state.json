@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "8bf19c2b5fdf030a",
-  "howvenezuelahaschangedwithuspullingthestrings",
   "f538f2996e609770",
   "enquesttoselluknorthseabusinessforupto960million",
   "52af7814991d0d34",
@@ -603,7 +601,9 @@
   "1b7b3c03da330851",
   "guyanasfifthfpsohitsfirstoil",
   "6c388948fd82d3dc",
-  "newyorkstockmarketreversesgainsamidrisingoilpricesyields"
+  "newyorkstockmarketreversesgainsamidrisingoilpricesyields",
+  "cc7f4fbd5e68c990",
+  "oilmarketreportnovember2026iea"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T18:20:20.040345+02:00",
+ "last_run": "2026-11-19T18:25:17.567126+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
