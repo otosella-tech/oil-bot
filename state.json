@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "2e87c94eea3c91bd",
-  "oilpricesinlimbobetweenhigheruscrudestocksandsupplyrisks",
   "2a57e5226c367562",
   "extremeweatherposesgrowingriskstoglobaloilandnaturalgasshipp",
   "016febb431f5e76e",
@@ -603,7 +601,9 @@
   "c99a491696eb1b4f",
   "indiasoctobercrudeoilimportsriseover4monthonmonth",
   "b78ef07f973a5bf9",
-  "kenyatoswitchonturkanaoilrigas6bnsouthlokicharprojecttargets"
+  "kenyatoswitchonturkanaoilrigas6bnsouthlokicharprojecttargets",
+  "f0b4bb1112d522c1",
+  "ieaseespotentialforlooseroillngmarketsafterhormuzcrisis"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T19:45:21.072468+02:00",
+ "last_run": "2026-11-19T19:50:19.994481+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1464,6 +1464,10 @@
   {
    "d": "2026-11-19",
    "t": "Iran’s IRGC says tankers with 4M barrels of oil hit Hormuz mines: What to know - Al-Monitor"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "IEA sees potential for looser oil, LNG markets after Hormuz crisis - Oil & Gas Journal"
   }
  ]
 }
