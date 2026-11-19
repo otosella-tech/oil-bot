@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "646c9d67c8e64a40",
-  "oiledgeshigherontankerattacksexpecteduscrudedrop",
   "eb37b1f8f39be2c9",
   "inventoriesstocksriseoverallbutstillfallingamongkeyconsumers",
   "18146eb32981b3f2",
@@ -603,7 +601,9 @@
   "e811c713aef65826",
   "shafaqnewsoilpricesstabilizeassupplysurplusfearspersist",
   "b716ba21b4780fc8",
-  "oilpricesdown181126"
+  "oilpricesdown181126",
+  "d338c6b158f9d3cc",
+  "palmoilsrisewillputpackagedfoodproducersintheshade"
  ],
  "releases_done": {},
  "last_digest": "2026-11-18",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 22
  },
- "last_run": "2026-11-19T07:30:26.328668+02:00",
+ "last_run": "2026-11-19T07:35:24.414460+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
