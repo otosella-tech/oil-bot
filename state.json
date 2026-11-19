@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "6eb9e289fa0a94a4",
-  "gulfoilexportswhobuysthecrudefromsaudiarabiairaqtheuaeandkuw",
-  "bc6f2391701926a2",
-  "uscrudeoilinventoriesriseby53millionbarrels",
   "a3ad898957184421",
   "iraqoksrehabilitationofoilpipelinetotrkiyeasflowsresume",
   "6660265fc0aed7d9",
@@ -603,7 +599,11 @@
   "39cd2ac2d4965824",
   "canadaproducerpricesriseagaininoctoberbuoyedbyenergyproducts",
   "4d988fcc1bcd3359",
-  "investmentsinblock192willamounttous7"
+  "investmentsinblock192willamounttous7",
+  "e7db2285a82fdb84",
+  "crudeoilpricesedgehigheronfearsofescalationinusiranconflict",
+  "45a8e34b4eb48cb4",
+  "landmanaddsanotherbignameasscottspeedmansignsonfortheoildram"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T18:40:19.552448+02:00",
+ "last_run": "2026-11-19T18:45:20.562968+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
