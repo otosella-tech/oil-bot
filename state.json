@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "884fd2d594605579",
-  "oilpricessteadydespitespikesinattacksinpersiangulf",
   "676bbd59446d41b1",
   "peterthielboostshisstakeinargentineoildrillervistaenergy",
   "9deacbb8eed3d189",
@@ -603,7 +601,9 @@
   "bffd8d75136d6887",
   "oilpricesinchupastankerdisruptionsoffsetsurplussupplyoutlook",
   "32e5808fb0af3b2a",
-  "whitehousepadillaschiffcarbajalleadcolleaguesinbriefchalleng"
+  "whitehousepadillaschiffcarbajalleadcolleaguesinbriefchalleng",
+  "6c19d6035ab506d5",
+  "centralasiafacesaloomingwatercrisisasglaciersretreat"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T20:55:23.523163+02:00",
+ "last_run": "2026-11-19T21:00:31.137084+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
