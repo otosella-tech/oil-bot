@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "b0ad2ebee89666fb",
-  "oilpricesfallashigheruscrudestockstempersupplyrisks",
-  "4c716e16f2e76212",
-  "goldmansachsforecastsanoilsurplusof2millionbarrelsin2027",
   "03b96d011120ea4c",
   "oiledgesupontankerattacksexpecteduscrudedropeuronextmarketsr",
   "684a40943c5bc942",
@@ -603,7 +599,11 @@
   "d6b66ee15b5d1c94",
   "5oilandgasstocksthatcrushedthirdquarterearningsestimates",
   "c921bf776b484799",
-  "iransweakeningoilleveragecouldpushittowardescalation"
+  "iransweakeningoilleveragecouldpushittowardescalation",
+  "b47d252e736bdfa1",
+  "oilnewswtiandbrentsteadyassurplusoutlookmeetsshippingrisks",
+  "566b3bafdc4d4a12",
+  "oilpricesriseasmiddleeastshippingattackscountersupplysurplus"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 58
  },
- "last_run": "2026-11-19T12:15:20.191061+02:00",
+ "last_run": "2026-11-19T12:20:20.825265+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
