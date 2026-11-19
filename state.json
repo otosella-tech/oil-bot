@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "2a57e5226c367562",
-  "extremeweatherposesgrowingriskstoglobaloilandnaturalgasshipp",
   "016febb431f5e76e",
   "usfuturespointhigherledbyreboundfornvidia",
   "2d05dc5611569ca1",
@@ -603,7 +601,9 @@
   "b78ef07f973a5bf9",
   "kenyatoswitchonturkanaoilrigas6bnsouthlokicharprojecttargets",
   "f0b4bb1112d522c1",
-  "ieaseespotentialforlooseroillngmarketsafterhormuzcrisis"
+  "ieaseespotentialforlooseroillngmarketsafterhormuzcrisis",
+  "ee414007607cf455",
+  "euplansoilreserverevamptoavertdieseljetfuelshortage"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T19:50:19.994481+02:00",
+ "last_run": "2026-11-19T19:55:14.834568+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
