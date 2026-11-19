@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "7c649999b7725763",
-  "democratscouldslowvenezuelaspushtoward3millionbpd",
-  "da72de6b1321c940",
-  "oilpricesfalldespiteiranattacksasuscrudeinventoriesjump528mb",
   "8745d453914bb3dd",
   "ukrainesaysithit2russianoilrefineriesaszelenskyhailsweaponsp",
   "27b65a1bfc4afff4",
@@ -603,7 +599,11 @@
   "d7013d78a8c5c18d",
   "uscourtrulingjeopardizessentinelmidstreamslicensefordeepwate",
   "25d5d0bd18b9f85c",
-  "dosbocasmaintenancemethanedatajvrisksweekinoilgas"
+  "dosbocasmaintenancemethanedatajvrisksweekinoilgas",
+  "748a09e6b36317ad",
+  "crudeoilpricesslumponampleglobalsupplies",
+  "9e3a59d6132c745f",
+  "wtipriceforecast8150supportholdskeytooilsnextmove"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 4
  },
- "last_run": "2026-11-20T00:15:22.971836+02:00",
+ "last_run": "2026-11-20T00:20:20.352592+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
