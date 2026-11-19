@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "e0b07eb88557c0e9",
-  "westernaustraliawinsbattleoverfederalgasreservationscheme",
   "1dc5fc033a69c100",
   "commentaryhaveusenergyexportspeakedorcantheygrowmore",
   "4c58f6a7faf76ae7",
@@ -603,7 +601,9 @@
   "c886ff7b91d6502e",
   "1300kilometersfromukraineakeyrussianoilhubisburningagain",
   "8940dad6d5d3f708",
-  "chinacokingcoalhitsthree"
+  "chinacokingcoalhitsthree",
+  "17e084fa6512fa01",
+  "howthewariniranwillremaketheglobalenergyorder"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T14:30:36.072251+02:00",
+ "last_run": "2026-11-19T14:35:15.932124+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1420,6 +1420,10 @@
   {
    "d": "2026-11-19",
    "t": "Oil Prices Drop Despite Escalating U.S.-Iran Conflict - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "How the War in Iran Will Remake the Global Energy Order - The New York Times"
   }
  ]
 }
