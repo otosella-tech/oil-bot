@@ -4,12 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "03b96d011120ea4c",
-  "oiledgesupontankerattacksexpecteduscrudedropeuronextmarketsr",
-  "684a40943c5bc942",
-  "usplacesallpledgedsprcrudemightdelayrefill",
-  "58de30fc916a59b0",
-  "oilpricestodaycrudefallsasusinventoriesriseirantensionslimit",
   "e6829c90df97774d",
   "libyahasafricasbiggestoilreservesbutwesternmajorsarentbiting",
   "b9309dc6cf687a55",
@@ -603,7 +597,13 @@
   "b47d252e736bdfa1",
   "oilnewswtiandbrentsteadyassurplusoutlookmeetsshippingrisks",
   "566b3bafdc4d4a12",
-  "oilpricesriseasmiddleeastshippingattackscountersupplysurplus"
+  "oilpricesriseasmiddleeastshippingattackscountersupplysurplus",
+  "e7a7239cbab87d14",
+  "indiasoilimportshitrecordhighassaudishipmentssurge",
+  "15bb4554da058d0e",
+  "twosupertankerscarrying4millionoilbarrelshitbynavalminesinho",
+  "f4ded15b078852b0",
+  "droneattackreportedonkaleykinooilpumpingstationinrussiastata"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-19",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-11-19T12:25:15.563605+02:00",
+ "last_run": "2026-11-19T12:30:26.419091+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1380,6 +1380,18 @@
   {
    "d": "2026-11-19",
    "t": "Brent Crude Oil Price: $92.12 Thursday After EIA Build and Hormuz Mine Reports, Bull $96, Bear $88 - FinanceFeeds"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "India’s Oil Imports Hit Record High as Saudi Shipments Surge"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Two supertankers carrying 4 million oil barrels hit by naval mines in Hormuz Strait: IRGC - The New Region"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Drone attack reported on Kaleykino oil pumping station in Russia's Tatarstan - Ukrinform"
   }
  ]
 }
