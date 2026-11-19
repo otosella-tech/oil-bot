@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "58865d2f6f2e3461",
-  "saudioilproductexportsreachhighestlevelsinceiranwarbeganrepo",
   "4ae9416aec5d1040",
   "gasanddieselpricesfallinall50statesaheadofthanksgivingtravel",
   "0bb66b9fbe44e770",
@@ -603,7 +601,9 @@
   "6671e0adb99b91a3",
   "oilpricesriseonhormuzshippingrisksassurplusoutlookcapsgains",
   "192083495a9bf4f1",
-  "strategicoilreservesrestoredtoeumandated90daylevels"
+  "strategicoilreservesrestoredtoeumandated90daylevels",
+  "6b2a2177a5fcd524",
+  "deltasoilrefinerywhyanairlinemakesitsownjetfuel"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 42
  },
- "last_run": "2026-11-19T10:20:30.136260+02:00",
+ "last_run": "2026-11-19T10:25:15.977736+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
