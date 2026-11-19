@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "d4a3893eca7039da",
-  "usdieseldrops54centsagallonfromrecordhighasoilsupplyovertake",
-  "d9c7127d3d16f6d6",
-  "ustotalweeklyeiacrudeoilstocksriseby200000barrelsafterprior2",
   "31b0534ca8deb421",
   "ftseoilforecasttwotradestowatch",
   "428e75cdd8f260cf",
@@ -603,7 +599,11 @@
   "5ecc8ca0ea568ae2",
   "oilsettleslowerasrecoveringmiddleeastexportsbolstersurplusou",
   "4ec1c57670ed0c20",
-  "commentarychinaresumesstoringcrudeoilgivingitfuelexportoptio"
+  "commentarychinaresumesstoringcrudeoilgivingitfuelexportoptio",
+  "99985b303081085b",
+  "usoilinventoriesontherise",
+  "a9668abc5a2b0af4",
+  "irangrowsmoreaggressiveinstraitofhormuzdespitesurgeinoiltraf"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T21:40:21.747371+02:00",
+ "last_run": "2026-11-19T21:45:20.136704+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1488,6 +1488,10 @@
   {
    "d": "2026-11-19",
    "t": "Energy briefs–no letup in Iran’s attacks - Oklahoma Energy Today"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Iran grows more aggressive in Strait of Hormuz despite surge in oil traffic - The Jerusalem Post"
   }
  ]
 }
