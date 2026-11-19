@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "e04dffd77cc1d46a",
-  "gulfattacksliftcrudeoilbutmostofmondaysdropstays",
   "ca76c647d173b788",
   "brazilspresaltboommakesittheworldslargestoffshoreoilproducer",
   "18816c7387494d4e",
@@ -603,7 +601,9 @@
   "f549d9df3057852b",
   "oilsteadyassupplysurplussoftenssentimentthoughgulfwarsupport",
   "e1f54f7267fe61c3",
-  "oilpricessteadyashormuztankerthreatsoffsetsupplyglutfears"
+  "oilpricessteadyashormuztankerthreatsoffsetsupplyglutfears",
+  "b5672a8e42d345ea",
+  "smallertankersinhormuzshuttlingtradekeepcrudeoilflowing"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-19",
-  "count": 30
+  "count": 32
  },
- "last_run": "2026-11-19T08:25:27.476861+02:00",
+ "last_run": "2026-11-19T08:30:25.842732+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1312,6 +1312,10 @@
   {
    "d": "2026-11-19",
    "t": "Oil Prices Steady as Hormuz Tanker Threats Offset Supply Glut Fears"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Smaller tankers in Hormuz shuttling trade keep crude oil flowing - BusinessLine"
   }
  ]
 }
