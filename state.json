@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "4c58f6a7faf76ae7",
-  "extremeweatherriskstointernationaloilandnaturalgasshippingie",
   "a3e8dc7746b79206",
   "oilpricesfallonusinventoryrisesupplyglutconcerns",
   "b3f356af26975b31",
@@ -603,7 +601,9 @@
   "17e084fa6512fa01",
   "howthewariniranwillremaketheglobalenergyorder",
   "83e11ad6f4610ac2",
-  "damagefrommissileattackreportedinriyadhsfinancialdistrictand"
+  "damagefrommissileattackreportedinriyadhsfinancialdistrictand",
+  "325f78c4bca8918b",
+  "currentpriceofoilasofnovember192026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T14:40:20.344148+02:00",
+ "last_run": "2026-11-19T14:45:20.213455+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
