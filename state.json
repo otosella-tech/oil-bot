@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "a3e8dc7746b79206",
-  "oilpricesfallonusinventoryrisesupplyglutconcerns",
   "b3f356af26975b31",
   "palmoilpricescontinuetofallamidrecordmalaysianstocksanddecli",
   "537d4029448f9f0c",
@@ -603,7 +601,9 @@
   "83e11ad6f4610ac2",
   "damagefrommissileattackreportedinriyadhsfinancialdistrictand",
   "325f78c4bca8918b",
-  "currentpriceofoilasofnovember192026"
+  "currentpriceofoilasofnovember192026",
+  "4c58f6a7faf76ae7",
+  "extremeweatherriskstointernationaloilandnaturalgasshippingie"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T14:45:20.213455+02:00",
+ "last_run": "2026-11-19T14:50:20.813373+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
