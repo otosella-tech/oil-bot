@@ -4,12 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "3ada7087a6a1d006",
-  "oilpricesfallamidsupplysurplusexpectationsmiddleeasttensions",
-  "882271a82441e31f",
-  "oilpricesfallashigheruscrudestockseasesupplyfears",
-  "f6f3b63407cf7f75",
-  "whattheworldsfirstoilboomleftbehind",
   "0a4c46ca3eae77a3",
   "wtioildriftsbelow8300ashigherusstockscalmconcernsaboutsupply",
   "94c696e7c4dda5c5",
@@ -603,7 +597,13 @@
   "67c70227906265c8",
   "iranhasreportedexplosionsontwosupertankerscarryingover4milli",
   "9c470403ed3e669e",
-  "oiltankerloadsiraniancrudeingulftankertrackerscomsays"
+  "oiltankerloadsiraniancrudeingulftankertrackerscomsays",
+  "3f1b78c2578a09da",
+  "russiafacesalogisticsnightmareaftercrimeabridgecollapse",
+  "0370c43af11c454f",
+  "australiaexploresgasphase",
+  "5809dfab49f130c4",
+  "crudegivesbackgroundmidweekasinventoriesbuildandsurplustalkg"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T16:25:16.749804+02:00",
+ "last_run": "2026-11-19T16:30:26.334744+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1440,6 +1440,10 @@
   {
    "d": "2026-11-19",
    "t": "Oil tanker loads Iranian crude in Gulf, TankerTrackers.com says - Reuters"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Russia Faces a Logistics Nightmare After Crimea Bridge Collapse"
   }
  ]
 }
