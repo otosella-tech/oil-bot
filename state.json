@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "e175bca7a3385f87",
-  "oilshippingsoarsonrussiasnorthernsearoute",
   "7ca4801b86fdf12b",
   "cubasenergycrisisturnsintoagoldmineforusfuelexporters",
   "f1af1e73e8d7a342",
@@ -603,7 +601,9 @@
   "a139b1e720c3c696",
   "oilfacilityprovidingtransittodruzhbapipelinereportedlyattack",
   "ed5daf417fabae33",
-  "trumpreportedlyweighingnewmilitarystrikeoniranglobaloilprice"
+  "trumpreportedlyweighingnewmilitarystrikeoniranglobaloilprice",
+  "bfb2b3090279e13d",
+  "brentcrudeoilpricepredictionconsolidationlikelywithsupplyris"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 50
  },
- "last_run": "2026-11-19T11:20:21.378482+02:00",
+ "last_run": "2026-11-19T11:25:17.902549+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
