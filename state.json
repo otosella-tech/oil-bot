@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "4251d2c513f6c98e",
-  "useiacrudeoilinventories34mlnbarrelsinlatestweekfromprevious",
   "739eefb16b240c03",
   "ukrainesaysithit2russianoilrefineriesaszelenskyyhailsweapons",
   "c9920a9fe4e6e342",
@@ -603,7 +601,9 @@
   "ad058e6413041b20",
   "crudeoilerasesearlygainsonlesshawkishtrump",
   "1419a974c2ed69ba",
-  "oilmarketshockkeepscostshighforussmallbusinessesevenascrudep"
+  "oilmarketshockkeepscostshighforussmallbusinessesevenascrudep",
+  "2e05c7f4cfcf3d77",
+  "attackspickupaftertankerratesplungethesefleetstocksfellharde"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T22:30:26.575436+02:00",
+ "last_run": "2026-11-19T22:35:25.934013+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1492,6 +1492,10 @@
   {
    "d": "2026-11-19",
    "t": "Iran grows more aggressive in Strait of Hormuz despite surge in oil traffic - The Jerusalem Post"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Attacks Pick Up After Tanker Rates Plunge; These Fleet Stocks Fell Hardest - Investor's Business Daily"
   }
  ]
 }
