@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "12638c575a6cb20d",
-  "currentpriceofoilasofnovember172026",
-  "40a0af557acf9b9a",
-  "eiaseesusaoiloutputaveraging1399mmbpdinq4",
   "56505128aa57d57d",
   "eogvsconocophillipsthebetterbetasoilpricesstayelevated",
   "2f21511a84caa357",
@@ -603,7 +599,11 @@
   "0e88d4402afcaf27",
   "googlesignslandmarksuperhotgeothermaldeal",
   "1a4faad5890a47a9",
-  "yenstuckin159rangeashawkishfedminutesfallingoilpullinopposit"
+  "yenstuckin159rangeashawkishfedminutesfallingoilpullinopposit",
+  "693d203fb4acbc0f",
+  "oilfallsonnov18asuscrudestocksriseby34mbarrels",
+  "37fa781615e98f2d",
+  "ukrainiandronestrikescutoilrefininginrussiaby45intwoweeksreu"
  ],
  "releases_done": {
   "2026-11-18|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-19",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-11-19T02:25:14.962367+02:00",
+ "last_run": "2026-11-19T02:30:27.294417+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1279,6 +1279,10 @@
   {
    "d": "2026-11-19",
    "t": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Ukrainian drone strikes cut oil refining in Russia by 45% in two weeks — Reuters - Українські Національні Новини (УНН)"
   }
  ]
 }
