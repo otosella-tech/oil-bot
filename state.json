@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "ca76c647d173b788",
-  "brazilspresaltboommakesittheworldslargestoffshoreoilproducer",
-  "18816c7387494d4e",
-  "demsplanprobesoftrumps100bvenezuelaoildeal",
   "b37a3ff5c8af73d3",
   "whyaregaspricesfallingacrossamerica",
   "465445f9ca1acdce",
@@ -603,7 +599,11 @@
   "e1f54f7267fe61c3",
   "oilpricessteadyashormuztankerthreatsoffsetsupplyglutfears",
   "b5672a8e42d345ea",
-  "smallertankersinhormuzshuttlingtradekeepcrudeoilflowing"
+  "smallertankersinhormuzshuttlingtradekeepcrudeoilflowing",
+  "fe3e2bb73b1bda0a",
+  "saudiarabiaovertakesuaeasindiasno2oilsupplierrussiaretainsle",
+  "e04dffd77cc1d46a",
+  "gulfattacksliftcrudeoilbutmostofmondaysdropstays"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-19",
-  "count": 32
+  "count": 34
  },
- "last_run": "2026-11-19T08:30:25.842732+02:00",
+ "last_run": "2026-11-19T08:35:15.572471+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1316,6 +1316,10 @@
   {
    "d": "2026-11-19",
    "t": "Smaller tankers in Hormuz shuttling trade keep crude oil flowing - BusinessLine"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters"
   }
  ]
 }
