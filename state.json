@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "428e75cdd8f260cf",
-  "usweeklycrudeoilinventories3380kvs58kexpected",
   "af960d53b81bbd80",
   "chevroncvxpositionedtobenefitfromsustainedhigheroilprices",
   "eacfbbe854adb13e",
@@ -603,7 +601,9 @@
   "a9668abc5a2b0af4",
   "irangrowsmoreaggressiveinstraitofhormuzdespitesurgeinoiltraf",
   "bc3999da56d12383",
-  "oilcouldhelpfundcleanerenergysaysugandaenvironmentminister"
+  "oilcouldhelpfundcleanerenergysaysugandaenvironmentminister",
+  "a362d151936543f8",
+  "israelsaysitstruckathezbollahiraqcompromiseswithamilitiagrou"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T22:05:15.561188+02:00",
+ "last_run": "2026-11-19T22:10:21.535721+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
