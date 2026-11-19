@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "4a6a5d540af2e2c9",
-  "batteryelectricvehiclesdisplacing12millionbarrelsofoilperday",
-  "34b58357df3674d0",
-  "japanlogs3btradedeficitinoctoberashigheroilcostsoffsetexport",
   "e17c6c9b35d8af14",
   "oilpricesswingasgulfattackscontinue",
   "78979512c99eea29",
@@ -603,7 +599,11 @@
   "bd4c356c6a0eeabd",
   "saudicrudeoilexportsrisetosevenmonthhighinseptemberdatashows",
   "69b5a4a7f2f83047",
-  "wtioilattamptstoreturnabove8300asgeopoliticaltensionsgrow"
+  "wtioilattamptstoreturnabove8300asgeopoliticaltensionsgrow",
+  "c0748b81a813dfc5",
+  "oilfuturescrudeliftsoflowsusiranconflicteyed",
+  "93f0132a45d16417",
+  "neverpourgreasedownthedrainthismagichackletsyoudisposeofoilw"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T15:20:20.243857+02:00",
+ "last_run": "2026-11-19T15:25:15.845934+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
