@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "8091b4c389c4b769",
-  "oilup1ontankerattacksexpecteduscrudedropeuronextmarketsreal",
   "926af6644f5eca72",
   "russiancrudeexportshitfourmonthhigh",
   "48fd94b494ef44a6",
@@ -603,7 +601,9 @@
   "055ad2f674baee62",
   "iranwarsparkedlargestthreattoenergysecurityinhistorysaysener",
   "da5e0a90af532ba0",
-  "oiledgesupontankerattacksexpecteduscrudedrop"
+  "oiledgesupontankerattacksexpecteduscrudedrop",
+  "7c67450916477182",
+  "naturalgasandoilforecastoilsteadiesafterbigusstockbuildscanw"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 42
  },
- "last_run": "2026-11-19T09:20:20.346279+02:00",
+ "last_run": "2026-11-19T09:25:15.168286+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
