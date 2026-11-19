@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "8df0f49ddb9b7564",
-  "iraqresumesoilexportsthroughturkishpipelineafter12yearbreak",
   "e0b07eb88557c0e9",
   "westernaustraliawinsbattleoverfederalgasreservationscheme",
   "1dc5fc033a69c100",
@@ -603,7 +601,9 @@
   "3e785e3407816480",
   "currentpriceofoilasofnov192026",
   "c886ff7b91d6502e",
-  "1300kilometersfromukraineakeyrussianoilhubisburningagain"
+  "1300kilometersfromukraineakeyrussianoilhubisburningagain",
+  "8940dad6d5d3f708",
+  "chinacokingcoalhitsthree"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T14:25:15.878735+02:00",
+ "last_run": "2026-11-19T14:30:36.072251+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
