@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "e241f97035a3fa1a",
-  "eumovestofasttrackrenewablesasoilimportcostssoar",
   "64cc0f1251554e48",
   "ukinflationrisesto36afterpetrolanddieselpriceshitrecordhigh",
   "5ecc8ca0ea568ae2",
@@ -603,7 +601,9 @@
   "8496451605350880",
   "ashighoilpricescurbdemandfreshsignsofglutappear",
   "c8b379b1d77aa38d",
-  "forecastupdateforcrudeoil19112026"
+  "forecastupdateforcrudeoil19112026",
+  "6ac4b7eb112b1379",
+  "trumpxiandputinreachagreementsonoil"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T15:50:20.291485+02:00",
+ "last_run": "2026-11-19T15:55:24.363760+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
