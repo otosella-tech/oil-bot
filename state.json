@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "098f5e5c50c8e992",
-  "uspresidentdonaldtrumpcalledvenezuelathecountrysnewestacquis",
   "21846d87bc977ed2",
   "petrocedeoscrudeoiltowerwillberenovatedbysulzer",
   "d7229842c541de33",
@@ -603,7 +601,9 @@
   "3a57eaa92eb3204c",
   "smallertankersjoinhormuzshuttletradetokeepoilflowing",
   "15a8f779960aead6",
-  "explosionoftwosupertankerscarrying4millionbarrelsofoilinhorm"
+  "explosionoftwosupertankerscarrying4millionbarrelsofoilinhorm",
+  "07c46f8dfced0348",
+  "oilpricesriseasmiddleeastsupplyrisksoffsetusstockbuild"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T13:35:15.338755+02:00",
+ "last_run": "2026-11-19T13:40:21.576984+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
