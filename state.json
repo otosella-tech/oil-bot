@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "8745d453914bb3dd",
-  "ukrainesaysithit2russianoilrefineriesaszelenskyhailsweaponsp",
   "27b65a1bfc4afff4",
   "oilpricesinlimbobetweenhigheruscrudestocksandsupplyrisksbyre",
   "2adaa9a0078decee",
@@ -603,7 +601,9 @@
   "748a09e6b36317ad",
   "crudeoilpricesslumponampleglobalsupplies",
   "9e3a59d6132c745f",
-  "wtipriceforecast8150supportholdskeytooilsnextmove"
+  "wtipriceforecast8150supportholdskeytooilsnextmove",
+  "5c99fffb4312944c",
+  "trumpxiandputinpledgetoboostoilproduction"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 4
  },
- "last_run": "2026-11-20T00:25:15.497941+02:00",
+ "last_run": "2026-11-20T00:30:26.049851+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
