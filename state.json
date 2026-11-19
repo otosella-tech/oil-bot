@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "a136ff82e41869e4",
-  "inwesternpennsylvaniayoumightlivenexttoorontopofanunpluggedw",
-  "1983c5fb6109524a",
-  "crudeoilextendslossesdespitenochangesinthemiddleeastdemandco",
   "8bf19c2b5fdf030a",
   "howvenezuelahaschangedwithuspullingthestrings",
   "f538f2996e609770",
@@ -603,7 +599,11 @@
   "0d78b86c79c281c0",
   "ukrainiandronesdisrupthalt15of35russiasoilrefineries",
   "3fafd1b72afd1bd3",
-  "aijittershaventslowedthebetonuspowerdemand"
+  "aijittershaventslowedthebetonuspowerdemand",
+  "1b7b3c03da330851",
+  "guyanasfifthfpsohitsfirstoil",
+  "6c388948fd82d3dc",
+  "newyorkstockmarketreversesgainsamidrisingoilpricesyields"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T18:05:16.129860+02:00",
+ "last_run": "2026-11-19T18:10:29.131933+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
