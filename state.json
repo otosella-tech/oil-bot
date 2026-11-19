@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "e17c6c9b35d8af14",
-  "oilpricesswingasgulfattackscontinue",
   "78979512c99eea29",
   "crudeoilpricesloweronconcernsoverexcesssupply",
   "c80476bb029c66c5",
@@ -603,7 +601,9 @@
   "c0748b81a813dfc5",
   "oilfuturescrudeliftsoflowsusiranconflicteyed",
   "93f0132a45d16417",
-  "neverpourgreasedownthedrainthismagichackletsyoudisposeofoilw"
+  "neverpourgreasedownthedrainthismagichackletsyoudisposeofoilw",
+  "6303a63817ed311e",
+  "tradersseeklong"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T15:25:15.845934+02:00",
+ "last_run": "2026-11-19T15:30:27.132471+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
