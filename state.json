@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "589f403e29b64080",
-  "willsoybeanscontinuetofollowoilandoilproductprices",
   "8091b4c389c4b769",
   "oilup1ontankerattacksexpecteduscrudedropeuronextmarketsreal",
   "926af6644f5eca72",
@@ -603,7 +601,9 @@
   "0a718fbe6608cdfc",
   "ukrainewarday1729kyivstrikesputinskerchbridgeagain",
   "055ad2f674baee62",
-  "iranwarsparkedlargestthreattoenergysecurityinhistorysaysener"
+  "iranwarsparkedlargestthreattoenergysecurityinhistorysaysener",
+  "da5e0a90af532ba0",
+  "oiledgesupontankerattacksexpecteduscrudedrop"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-19",
-  "count": 40
+  "count": 42
  },
- "last_run": "2026-11-19T09:10:31.240870+02:00",
+ "last_run": "2026-11-19T09:15:26.246498+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1336,6 +1336,10 @@
   {
    "d": "2026-11-19",
    "t": "Iran war sparked ‘largest threat’ to energy security in history, says energy agency - The Times of Israel"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Oil edges up on tanker attacks, expected US crude drop - Yahoo Finance"
   }
  ]
 }
