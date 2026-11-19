@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "b97e73e52009dfaa",
-  "lawsuitchallengesthirdgulfoilleasesaleheldwithoutenvironment",
-  "a9ec27a1b4db9e9b",
-  "lackofemptytankersputsgulfoilflowatrisk",
   "c6d4494e35d23404",
   "decemberwticrudeoilcontractclosesup029or03settlesat8601perba",
   "b4b4d253aceb45d2",
@@ -603,7 +599,11 @@
   "d3f5af387c47ca40",
   "theiranwarcouldpermanentlyslashrelianceonhormuzieasays",
   "e9b5d85c85bcc114",
-  "oilandwaterdomixchemicallyspeaking"
+  "oilandwaterdomixchemicallyspeaking",
+  "1bf2bca8cc3835c6",
+  "crudeoilpricetodaybrentfuturesrisedespiteincreaseinusoilinve",
+  "f6a1ab7495b05c28",
+  "oildrops7asiransignalsopennesstopeacetalks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-19",
-  "count": 36
+  "count": 38
  },
- "last_run": "2026-11-19T08:50:20.490845+02:00",
+ "last_run": "2026-11-19T08:55:21.438596+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1324,6 +1324,10 @@
   {
    "d": "2026-11-19",
    "t": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says - WSJ"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Oil drops 7% as Iran signals openness to peace talks - Reuters"
   }
  ]
 }
