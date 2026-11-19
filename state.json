@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "b3f356af26975b31",
-  "palmoilpricescontinuetofallamidrecordmalaysianstocksanddecli",
   "537d4029448f9f0c",
   "freshattacksacrossthegulffailtoliftoilprices",
   "22b15e7b4705a2ad",
@@ -603,7 +601,9 @@
   "325f78c4bca8918b",
   "currentpriceofoilasofnovember192026",
   "4c58f6a7faf76ae7",
-  "extremeweatherriskstointernationaloilandnaturalgasshippingie"
+  "extremeweatherriskstointernationaloilandnaturalgasshippingie",
+  "d09c1f0408debf6e",
+  "iraqturnsnorthmajoroilpipelinetoturkeyreopensasstraitofhormu"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T14:55:17.657117+02:00",
+ "last_run": "2026-11-19T15:00:42.346034+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1428,6 +1428,10 @@
   {
    "d": "2026-11-19",
    "t": "Damage from missile attack reported in Riyadh’s financial district, and other Mideast news - Boston Herald"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Iraq Turns North: Major Oil Pipeline to Turkey Reopens as Strait of Hormuz Shipping Stalls - Pipeline Technology Journal"
   }
  ]
 }
