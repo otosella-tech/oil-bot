@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "5cd31bb03c9c6c36",
-  "oilpricesfall2asuscrudeinventoriesrise528millionbarrelsusira",
   "4f19a6cb92176ab6",
   "brentcrudetodayoilslides405onusstockpilebuild",
   "451052e734b9eae7",
@@ -603,7 +601,9 @@
   "05154aa9b103ec45",
   "mercosurstaxbreakisfuelingbrazilsoilpushintoeurope",
   "f91b98b84c09fd10",
-  "oilfuturesendvolatilesessionnearflat"
+  "oilfuturesendvolatilesessionnearflat",
+  "9eb4b299df38399e",
+  "fbiseekingpotentialvictimsinmidlothiancrudeoilfraudinvestiga"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T23:30:24.330492+02:00",
+ "last_run": "2026-11-19T23:35:33.723639+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
