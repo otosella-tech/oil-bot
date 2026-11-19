@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "537d4029448f9f0c",
-  "freshattacksacrossthegulffailtoliftoilprices",
-  "22b15e7b4705a2ad",
-  "dukeofoilmunster",
   "4a6a5d540af2e2c9",
   "batteryelectricvehiclesdisplacing12millionbarrelsofoilperday",
   "34b58357df3674d0",
@@ -603,7 +599,11 @@
   "4c58f6a7faf76ae7",
   "extremeweatherriskstointernationaloilandnaturalgasshippingie",
   "d09c1f0408debf6e",
-  "iraqturnsnorthmajoroilpipelinetoturkeyreopensasstraitofhormu"
+  "iraqturnsnorthmajoroilpipelinetoturkeyreopensasstraitofhormu",
+  "bd4c356c6a0eeabd",
+  "saudicrudeoilexportsrisetosevenmonthhighinseptemberdatashows",
+  "69b5a4a7f2f83047",
+  "wtioilattamptstoreturnabove8300asgeopoliticaltensionsgrow"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T15:15:19.331143+02:00",
+ "last_run": "2026-11-19T15:20:20.243857+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
