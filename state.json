@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "78979512c99eea29",
-  "crudeoilpricesloweronconcernsoverexcesssupply",
   "c80476bb029c66c5",
   "brentcrudeoilprice9261wednesdayusstockbuildbeforefedminutesb",
   "eb1624c38079dfc1",
@@ -603,7 +601,9 @@
   "93f0132a45d16417",
   "neverpourgreasedownthedrainthismagichackletsyoudisposeofoilw",
   "6303a63817ed311e",
-  "tradersseeklong"
+  "tradersseeklong",
+  "f8abee0c5716a561",
+  "tradersseeklongtermcrudesupplydealswithqatar"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 60
  },
- "last_run": "2026-11-19T15:30:27.132471+02:00",
+ "last_run": "2026-11-19T15:35:15.923563+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
