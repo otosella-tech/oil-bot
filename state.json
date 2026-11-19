@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "26e86f594e3cc321",
-  "naturalgaswtioilbrentoilforecastswtioilreboundsasiranattacks",
   "e04dffd77cc1d46a",
   "gulfattacksliftcrudeoilbutmostofmondaysdropstays",
   "ca76c647d173b788",
@@ -603,7 +601,9 @@
   "d8360edcac832c9b",
   "oilpricessteadyasmiddleeastshippingattackscountersupplysurpl",
   "f549d9df3057852b",
-  "oilsteadyassupplysurplussoftenssentimentthoughgulfwarsupport"
+  "oilsteadyassupplysurplussoftenssentimentthoughgulfwarsupport",
+  "e1f54f7267fe61c3",
+  "oilpricessteadyashormuztankerthreatsoffsetsupplyglutfears"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-19",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-11-19T08:00:30.337656+02:00",
+ "last_run": "2026-11-19T08:05:16.866804+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1308,6 +1308,10 @@
   {
    "d": "2026-11-19",
    "t": "Misbar Tracks Damage to Oil Tanker Dominica Prosperity After Attack off Ras Al Khaimah - موقع مسبار"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Oil Prices Steady as Hormuz Tanker Threats Offset Supply Glut Fears"
   }
  ]
 }
