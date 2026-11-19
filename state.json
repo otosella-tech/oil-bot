@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "193a02c09dfa3484",
-  "europeslngscramblesendsshockwavesthroughasiangasmarkets",
-  "1918abdd0d008e05",
-  "oilpricesreboundasmiddleeasttensionsoffsetrecoveringgulfexpo",
   "83082b6fe8fc8e22",
   "duboisranchersbalkatoilandgasleasesintreasuredwildlifehabita",
   "2bc32224dca89e41",
@@ -603,7 +599,11 @@
   "1146d827f2cde184",
   "dangoteinlamuhasthesecurityenvironmentchanged",
   "1f58833cf666d38b",
-  "ustightensiranblockadewithcurbsonoiltransfersatseaadvisorysh"
+  "ustightensiranblockadewithcurbsonoiltransfersatseaadvisorysh",
+  "537dcfcdddf3e060",
+  "iransoilleverageisweakeningthatcouldpushittowardescalation",
+  "895c27147ba878fd",
+  "saudiarabiaovertakesuaeasindiassecondlargestoilsupplierinoct"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-19",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-11-19T11:55:18.540169+02:00",
+ "last_run": "2026-11-19T12:00:31.201113+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
@@ -1372,6 +1372,10 @@
   {
    "d": "2026-11-19",
    "t": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows - Reuters"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Iran’s oil leverage is weakening. That could push it toward escalation - CNN"
   }
  ]
 }
