@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "98cbdb8e321882b7",
-  "diamondbacktoacquiredoubleeagleassetsinmidlandbasin",
   "0619bdc440c68140",
   "rystadmarketcouldbeginnextyearwithprettylargesurplus",
   "58865d2f6f2e3461",
@@ -603,7 +601,9 @@
   "d69ddbd3ea1a47a1",
   "methaneregulationeuagreestargetedamendmenttosafeguardsecurit",
   "ae15033f4b15f147",
-  "oilpricesupwithsurprisedeclineinuscrudestocks"
+  "oilpricesupwithsurprisedeclineinuscrudestocks",
+  "6671e0adb99b91a3",
+  "oilpricesriseonhormuzshippingrisksassurplusoutlookcapsgains"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-19",
   "count": 42
  },
- "last_run": "2026-11-19T10:10:19.577531+02:00",
+ "last_run": "2026-11-19T10:15:19.085785+02:00",
  "sent_stories": [
   {
    "d": "2026-11-16",
