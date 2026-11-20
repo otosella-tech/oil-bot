@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "ae37c6f77ef49dbd",
-  "withoutiranianoilchinassmallrefinersfacepainbutnotcollapse",
   "a24bd81463080db7",
   "oiltradersintalkswithqatarenergyforlongtermsupplies",
   "a139b1e720c3c696",
@@ -603,7 +601,9 @@
   "ca8bded61459143e",
   "sentinels21btexasgulflinkprojectfacesregulatorysetback",
   "35b59873129f9f75",
-  "apishowssubstantialcrudeoilgasolineinventorybuilds"
+  "apishowssubstantialcrudeoilgasolineinventorybuilds",
+  "d718991dea639356",
+  "iranreadiestankerstorunusblockadethreatenspersiangulfoiliffi"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T18:20:20.535808+02:00",
+ "last_run": "2026-11-20T18:25:16.634268+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1372,6 +1372,10 @@
   {
    "d": "2026-11-20",
    "t": "China’s Oil Imports from Persian Gulf Jump to Wartime High"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Iran readies tankers to run US blockade, threatens Persian Gulf oil if fired on - Iran International"
   }
  ]
 }
