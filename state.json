@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "de0466d1723c089a",
-  "chicagosoybeansriseonfirmercrudeoilwheatreboundscornfalls",
   "f4cef03ffd29e09e",
   "crudeoilerasesrecentgainsdespitenochangeintheusiransituation",
   "493abed0366f389a",
@@ -603,7 +601,9 @@
   "8b6f494813e0a225",
   "saudismakedealwithjapantoreplenishdepletedoilstockpiles",
   "595fef114c42fb88",
-  "thesevenchartsthatexplainthenewnormalforoilprices"
+  "thesevenchartsthatexplainthenewnormalforoilprices",
+  "4272405dc62287a1",
+  "ubscrudeoilselloffhaslikelygonetoofarcl1comcommodity"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 51
  },
- "last_run": "2026-11-20T13:10:20.667228+02:00",
+ "last_run": "2026-11-20T13:15:20.010617+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
