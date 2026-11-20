@@ -4,12 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "bfb2b3090279e13d",
-  "brentcrudeoilpricepredictionconsolidationlikelywithsupplyris",
-  "736a91d0e1027aaf",
-  "oilprivateinventorysurveyshowsaheadlinecrudeoilbuildvsdrawex",
-  "e062dbb4fbd82f40",
-  "polymarketuslistswticrudenaturalgasupdownmarkets",
   "822aa86b3c43055f",
   "exclusivedroneattacksnearlyhalverussiasnovemberoilrefiningso",
   "1146d827f2cde184",
@@ -603,7 +597,13 @@
   "ae37c6f77ef49dbd",
   "withoutiranianoilchinassmallrefinersfacepainbutnotcollapse",
   "c871fa289720bd38",
-  "valleygaspricescontinuedownwardtrendasthanksgivingarrives"
+  "valleygaspricescontinuedownwardtrendasthanksgivingarrives",
+  "b44d4060159e955b",
+  "dangoteawardscontractsadvancinglekkirefiningcomplexexpansion",
+  "dcba0973cbb8a87b",
+  "watchvenezuelasmachadourgesmoredrasticoverhaulofoilsector",
+  "7282514c051e0fb1",
+  "carbonnegativepanamatakesonoilpowersatunclimatesummit"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T18:35:16.114915+02:00",
+ "last_run": "2026-11-20T18:40:20.448729+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1384,6 +1384,10 @@
   {
    "d": "2026-11-20",
    "t": "Without Iranian oil, China's small refiners face pain but not collapse - Reuters"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Watch Venezuela’s Machado Urges More Drastic Overhaul of Oil Sector - Bloomberg.com"
   }
  ]
 }
