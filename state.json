@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "9e1ef7de2b68f3ca",
-  "oil100yearsagouptonsinclairwrotethegreatamericananticapitali",
   "881674f426441a94",
   "oilpricestumbleastradersweighsurplussupplyoutlook",
   "e84bfdad6daaa1b1",
@@ -603,7 +601,9 @@
   "068a3f61a40ee1c5",
   "canadabuildsanenergyexitfromtheus",
   "4eb07f087b65e9dd",
-  "usoilandgasdealboomluresbmobackintothemarket"
+  "usoilandgasdealboomluresbmobackintothemarket",
+  "ca5c4e9d8a0baed4",
+  "oilsetforthirdweeklydropasamplesupplyoutweighswarrisk"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-20",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-11-20T04:00:29.772395+02:00",
+ "last_run": "2026-11-20T04:05:15.051387+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1236,6 +1236,10 @@
   {
    "d": "2026-11-20",
    "t": "There is no going back ‘to the way it was before’ the Iran war’s energy shock, IEA says - WHEC.com"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Oil Set for Third Weekly Drop as Ample Supply Outweighs War Risk - Bloomberg.com"
   }
  ]
 }
