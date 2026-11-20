@@ -606,7 +606,8 @@
   "northdakotaoilproducersmovingcrudebytruckaspipelineoutagecon"
  ],
  "releases_done": {
-  "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1
+  "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
+  "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|post": 1
  },
  "last_digest": "2026-11-20",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T19:55:16.583040+02:00",
+ "last_run": "2026-11-20T20:00:31.928976+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
