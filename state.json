@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "9e173853cdfc52f6",
-  "usstyrenecopolymermarketcorrectsafteroctoberrallyasinventori",
   "3e785e3407816480",
   "currentpriceofoilasofnov192026",
   "c886ff7b91d6502e",
@@ -603,7 +601,9 @@
   "d189d686d0d3cd0b",
   "argentineenergyfirmsrushtosellbondsbeforethe2027election",
   "32f48ac4a8d3e2f8",
-  "oilfuturesfallforthirdstraightweekonsupplyoutlook"
+  "oilfuturesfallforthirdstraightweekonsupplyoutlook",
+  "eb1bfcfb8d13d832",
+  "tankermarketarabiangulfcrudeoilexportsdown276thisyear"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-21T00:00:30.878305+02:00",
+ "last_run": "2026-11-21T00:05:15.847024+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
