@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "144711cacaf15335",
-  "oilfallsweighedbylargerthanexpectedriseinusinventories",
-  "02e414a38fbd749f",
-  "insidethearmys75yearplantoescapechinasrareearthdominance",
   "eb37c4754eee0aa2",
   "gulfcoastcrudeoilexportshit14weeklowasvlccarrivalsfalltozero",
   "de0466d1723c089a",
@@ -603,7 +599,11 @@
   "54e4c2c5963e20ff",
   "reluctantgermansfinallyshelloutforwinterheatingoil",
   "b59c479a4b940cb9",
-  "oillosesgriponbondmarketsasinflationvirusspreads"
+  "oillosesgriponbondmarketsasinflationvirusspreads",
+  "c5416881c548c1ff",
+  "oilfuturescrudeparesearliergainstrumpsaysnorushoniran",
+  "8b6f494813e0a225",
+  "saudismakedealwithjapantoreplenishdepletedoilstockpiles"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-20",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-11-20T12:50:20.744033+02:00",
+ "last_run": "2026-11-20T12:55:17.012785+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1308,6 +1308,10 @@
   {
    "d": "2026-11-20",
    "t": "Oil loses grip on bond markets as inflation ‘virus’ spreads - Financial Times"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Saudis Make Deal With Japan to Replenish Depleted Oil Stockpiles - Bloomberg.com"
   }
  ]
 }
