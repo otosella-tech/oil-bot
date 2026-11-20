@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "15bb4554da058d0e",
-  "twosupertankerscarrying4millionoilbarrelshitbynavalminesinho",
   "f4ded15b078852b0",
   "droneattackreportedonkaleykinooilpumpingstationinrussiastata",
   "505c421b7838a079",
@@ -603,7 +601,9 @@
   "37b2204e90129d9c",
   "oilgeopoliticalrisktakesabackseattoswellingusinventories",
   "d1a3fcfc18d56a80",
-  "northdakotadrillerstaptrucksaspipeoutageroilsflows"
+  "northdakotadrillerstaptrucksaspipeoutageroilsflows",
+  "1d0cf183b2579203",
+  "chinasmiddleeastcrudeimportsreboundbutataprice"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T20:50:21.777268+02:00",
+ "last_run": "2026-11-20T20:55:16.620190+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
