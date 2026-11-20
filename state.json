@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "d338c6b158f9d3cc",
-  "palmoilsrisewillputpackagedfoodproducersintheshade",
   "ecfba23a30afb65a",
   "empoweringpeopleinoilandgas",
   "f7a981ae600d5bcb",
@@ -603,7 +601,9 @@
   "99e754778220c581",
   "senatepassessweepingenergypermittingreformbillin6233vote",
   "cd4a8ac88d6a0915",
-  "oilnewswtiandbrentfallasstrongexportsraisesurplusconcerns"
+  "oilnewswtiandbrentfallasstrongexportsraisesurplusconcerns",
+  "581af0b8992be2e3",
+  "commentaryweekendreadsmadewitheuroperussiaswarchestandusmeas"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-20",
-  "count": 59
+  "count": 60
  },
- "last_run": "2026-11-20T14:35:16.201514+02:00",
+ "last_run": "2026-11-20T14:40:20.115418+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1340,6 +1340,10 @@
   {
    "d": "2026-11-20",
    "t": "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "COMMENTARY: Weekend Reads: 'Made with Europe,' Russia's war chest and US measles crisis - Reuters"
   }
  ]
 }
