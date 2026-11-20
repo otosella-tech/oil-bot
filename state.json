@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "4fec149347c771a4",
-  "oilmarketanticipatescrudeoilsurplusin2027duetoincreasedsuppl",
-  "3a57eaa92eb3204c",
-  "smallertankersjoinhormuzshuttletradetokeepoilflowing",
   "15a8f779960aead6",
   "explosionoftwosupertankerscarrying4millionbarrelsofoilinhorm",
   "07c46f8dfced0348",
@@ -603,7 +599,11 @@
   "6e456198b707a379",
   "oilgainsoniranwarworriesandshortcoveringaheadofthanksgivingh",
   "e0b3223428015c40",
-  "canadacommoditiescrudeoilpricesfallevenasfightingcontinuesin"
+  "canadacommoditiescrudeoilpricesfallevenasfightingcontinuesin",
+  "2732c5e42add6c88",
+  "veryinterestingtrumpsuggestsrecentgaspricedropsarelinkedtoth",
+  "03bf9d27c58fafe9",
+  "texasupstreamoilandgasjobsdipinoctoberremainupyearoveryear"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T23:10:31.995151+02:00",
+ "last_run": "2026-11-20T23:15:19.964134+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
