@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "919572aec58d5e45",
-  "kazakhstanunveils85millionoilandgasmanufacturingpush",
-  "4ea9e6a6a8c6eb33",
-  "russianexportswartimehammersproductshipmentsfreesupcrude",
   "144711cacaf15335",
   "oilfallsweighedbylargerthanexpectedriseinusinventories",
   "02e414a38fbd749f",
@@ -603,7 +599,11 @@
   "58b771d72b04c7d5",
   "uscrudeoilinventoriesincreaseby34millionbarrels",
   "fce36e7fdfdc738a",
-  "iranreadiestankerconvoyatkhargislandtotestusoilblockade"
+  "iranreadiestankerconvoyatkhargislandtotestusoilblockade",
+  "54e4c2c5963e20ff",
+  "reluctantgermansfinallyshelloutforwinterheatingoil",
+  "b59c479a4b940cb9",
+  "oillosesgriponbondmarketsasinflationvirusspreads"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-20",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-11-20T12:45:20.330713+02:00",
+ "last_run": "2026-11-20T12:50:20.744033+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1304,6 +1304,10 @@
   {
    "d": "2026-11-20",
    "t": "Iran readies tanker convoy at Kharg Island to test US oil blockade - Euronews.com"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Oil loses grip on bond markets as inflation ‘virus’ spreads - Financial Times"
   }
  ]
 }
