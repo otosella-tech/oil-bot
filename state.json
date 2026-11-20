@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "c921bf776b484799",
-  "iransweakeningoilleveragecouldpushittowardescalation",
   "b47d252e736bdfa1",
   "oilnewswtiandbrentsteadyassurplusoutlookmeetsshippingrisks",
   "566b3bafdc4d4a12",
@@ -603,7 +601,9 @@
   "ca490811a23b397f",
   "usoildrillerspickupthepacejustasoilpricesfall",
   "925ec1b1296c5d39",
-  "reportsclaimiranispreparingoilconvoytotestusblockade"
+  "reportsclaimiranispreparingoilconvoytotestusblockade",
+  "5a57e799fe24e2c5",
+  "dep12michaelharjuconventionaloilgaswellsdeclaredabandonednot"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T20:15:22.591195+02:00",
+ "last_run": "2026-11-20T20:20:20.174764+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
