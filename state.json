@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "c21e261d63e3dbf4",
-  "wtianddowfallasnasdaqholdsitsbullishrebound",
   "82cf025d8c45b83a",
   "oilpricesdropdespiteescalatingusiranconflict",
   "dbfdc38ede7f9c03",
@@ -603,7 +601,9 @@
   "2d2c2b00580b456c",
   "protestsblamebossesgovtindeathofoilworkersiniran",
   "6690567c250e0246",
-  "cmewticrudeoilfuturesnear3monthlowasnaturalgasclimbs"
+  "cmewticrudeoilfuturesnear3monthlowasnaturalgasclimbs",
+  "abeb9a2fbe413dd4",
+  "presidioexpandsintopermianwith360millionacquisition"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T23:35:15.704825+02:00",
+ "last_run": "2026-11-20T23:40:26.419610+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
