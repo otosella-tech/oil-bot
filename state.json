@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "b55b2c5b3a936e82",
-  "ghgemissionsfromoilandgasproductionincanadaandothermajorprod",
   "97aa17f39575ebe2",
   "themiddleeastwarhaswiped28billionbarrelsoffglobaloilsupply",
   "b7a1c68ec8d9cd7a",
@@ -603,7 +601,9 @@
   "99e727c36efb54f4",
   "historicsuperpowersummitdeliversbigpromisesbutfewbreakthroug",
   "632e6dd17f936cfd",
-  "thesaudisarehelpingjapanrestockitsoilinsuranceamericasreserv"
+  "thesaudisarehelpingjapanrestockitsoilinsuranceamericasreserv",
+  "fb47286a13683533",
+  "indiaslpgconsumptionhits8monthhighassupplyrebounds"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T17:05:16.149573+02:00",
+ "last_run": "2026-11-20T17:10:19.786028+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
