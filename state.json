@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "03e0ffdfd5a90cf0",
-  "iraqsbordershutdownwithiranthreatensamuchbiggereconomiccrisi",
   "6b47c5e4dcde57e6",
   "oilpricessettlelowerastradersweighsurplussupplyoutlook",
   "0ad490b160aa1347",
@@ -603,7 +601,9 @@
   "912a33dc636b2381",
   "currentpriceofoilasofnov172026",
   "9e1ef7de2b68f3ca",
-  "oil100yearsagouptonsinclairwrotethegreatamericananticapitali"
+  "oil100yearsagouptonsinclairwrotethegreatamericananticapitali",
+  "7024e370d9684404",
+  "oiledgeshigherashouthiattackonriyadhrevivessupplyworriesbutc"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 16
  },
- "last_run": "2026-11-20T05:20:21.457177+02:00",
+ "last_run": "2026-11-20T05:25:21.266703+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
