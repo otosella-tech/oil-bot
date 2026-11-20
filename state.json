@@ -4,14 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "0f858303b17ccfd5",
-  "sptsxcompositedownnearly750pointsoilandgoldalsotumble",
-  "5b3e05932c115204",
-  "octobersupplysurgebringsforwardanticipatedoilsurplus",
-  "497bd831054c06fe",
-  "didtheusalmostinvadesaudiarabiaoveroil",
-  "9dd450df708edb07",
-  "equinorhackaddstowaveofcyberattacksonenergycompanies",
   "3e75c09b3a9f2b55",
   "mariacorinamachadoquestionstrumpoildealwhilecommittingtousti",
   "58b771d72b04c7d5",
@@ -603,7 +595,15 @@
   "95e32b6a12712e26",
   "chinaspersiangulfoilimportshithighsincestartofiranwarasprodu",
   "0c00ac0ed1b17b33",
-  "oilpricesedgehigherastradersassessmiddleeastshippingriskssup"
+  "oilpricesedgehigherastradersassessmiddleeastshippingriskssup",
+  "0306713b61b10294",
+  "chinaaxespalmoilpurchaseswithstoragespacerunningout",
+  "78390588ff523232",
+  "uslawmakerschallengetrumps100billionvenezuelaoildealasnigeri",
+  "86ced19254f69607",
+  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
+  "15aa741b12826153",
+  "oilpriceseasetotwomonthlowsasusdownplaysfurtheriranstrikes"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-20",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-11-20T10:35:15.754741+02:00",
+ "last_run": "2026-11-20T10:40:20.419263+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1276,6 +1276,10 @@
   {
    "d": "2026-11-20",
    "t": "China’s Persian Gulf oil imports hit high since start of Iran war as producers cut prices - South China Morning Post"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Oil prices ease to two-month lows as US downplays further Iran strikes - Reuters"
   }
  ]
 }
