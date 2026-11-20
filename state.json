@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "f6a1ab7495b05c28",
-  "oildrops7asiransignalsopennesstopeacetalks",
-  "b97e73e52009dfaa",
-  "lawsuitchallengesthirdgulfoilleasesaleheldwithoutenvironment",
   "b9907780debab0df",
   "eiareportsariseinuscrudeoilstocks",
   "0a718fbe6608cdfc",
@@ -603,7 +599,11 @@
   "1d3eb349c667d1f7",
   "oilpriceforecastuscrudestocksriseasglobalsupplyrebounds",
   "e08b3627ec9cb1cc",
-  "oilpricesjumponmiddleeasttensionsbrentrisesto9250"
+  "oilpricesjumponmiddleeasttensionsbrentrisesto9250",
+  "82ec9ca8e180b0f9",
+  "yourfridaynov20guidefivethingstodointheoilcity",
+  "ca49a60231657dc8",
+  "iraqafteralternativeoilroutesviasyriatrkiyeamidhormuzrisksda"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T15:40:20.214553+02:00",
+ "last_run": "2026-11-20T15:45:20.514099+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1348,6 +1348,10 @@
   {
    "d": "2026-11-20",
    "t": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Iraq after alternative oil routes via Syria, Türkiye amid Hormuz risks | Daily Sabah - Daily Sabah"
   }
  ]
 }
