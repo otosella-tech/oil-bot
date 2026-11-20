@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "e84bfdad6daaa1b1",
-  "digitaltransformationinoilandgaswheretheindustrystands",
   "7f0e0960b4098a67",
   "decemberwticrudeoilcontractclosesdown275or32at8326perbarrelj",
   "3852ed542dffc58b",
@@ -603,7 +601,9 @@
   "ca5c4e9d8a0baed4",
   "oilsetforthirdweeklydropasamplesupplyoutweighswarrisk",
   "c0b038e36a1712a1",
-  "oilpricesedgehigherashouthiattacksonriyadhraisesupplyconcern"
+  "oilpricesedgehigherashouthiattacksonriyadhraisesupplyconcern",
+  "51fa776a93e9e13d",
+  "oilpricesheadhigheronfearsofmorestrikesoniran"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-20",
-  "count": 14
+  "count": 16
  },
- "last_run": "2026-11-20T04:10:20.689331+02:00",
+ "last_run": "2026-11-20T04:15:29.753139+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1244,6 +1244,10 @@
   {
    "d": "2026-11-20",
    "t": "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns - Reuters"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Oil prices head higher on fears of more strikes on Iran - Transport Topics"
   }
  ]
 }
