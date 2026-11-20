@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "83e11ad6f4610ac2",
-  "damagefrommissileattackreportedinriyadhsfinancialdistrictand",
   "325f78c4bca8918b",
   "currentpriceofoilasofnovember192026",
   "4c58f6a7faf76ae7",
@@ -603,7 +601,9 @@
   "c94dc82b6c0b0456",
   "oilpricesfalldespitehostilitiesasflowsincrease",
   "b7a1c68ec8d9cd7a",
-  "crudeoilsteadiesasmideastrisksoffsetsurplusfears"
+  "crudeoilsteadiesasmideastrisksoffsetsurplusfears",
+  "0161b45d22aab304",
+  "canolatobenefitfromslumpingpalmoilexports"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-21T01:35:16.481821+02:00",
+ "last_run": "2026-11-21T01:40:25.189554+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
