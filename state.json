@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "7736ecdb5b9c05ee",
-  "thameswatersrescuedealcomeswithadirtycatch",
   "71e6c81f9b8e219b",
   "cbotcornfallstomultimonthlowsonfirmdollarsaggingcrudeoil",
   "4ade2d1e742dd968",
@@ -603,7 +601,9 @@
   "428e75cdd8f260cf",
   "usweeklycrudeoilinventories3380kvs58kexpected",
   "943248e168177803",
-  "iranianoiltransferredbetweentankersasuswidensblockade"
+  "iranianoiltransferredbetweentankersasuswidensblockade",
+  "3cd84c2b483650ae",
+  "crudeoilpricesriseonhouthiattacksonriyadh"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 22
  },
- "last_run": "2026-11-20T06:15:18.478286+02:00",
+ "last_run": "2026-11-20T06:20:20.873352+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
