@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "8940dad6d5d3f708",
-  "chinacokingcoalhitsthree",
   "17e084fa6512fa01",
   "howthewariniranwillremaketheglobalenergyorder",
   "83e11ad6f4610ac2",
@@ -603,7 +601,9 @@
   "dd133506348a2a24",
   "bearishsentimentinoilbenchmarksdeepensamidsurplusoutlook",
   "3e785e3407816480",
-  "currentpriceofoilasofnov192026"
+  "currentpriceofoilasofnov192026",
+  "c94dc82b6c0b0456",
+  "oilpricesfalldespitehostilitiesasflowsincrease"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-21T01:05:16.891139+02:00",
+ "last_run": "2026-11-21T01:10:27.092782+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
