@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "e37e66a7f9ca23d6",
-  "lowercrudepriceshigherdieselcracksrestoreprofitabilityofoilm",
-  "d2a1ca341913d765",
-  "crudeoilpricesfall265assupplyconcernsease",
   "2edf6037765e8628",
   "surplussignaldragoilpriceslowerbutglobalrisksremain",
   "f2ba1510570dacfd",
@@ -603,7 +599,11 @@
   "16eb8daf220a4edc",
   "opinionaheatingoilcrisisiscomingnhslowestincomehouseholdswil",
   "e41e756a820cc051",
-  "tankersarebeinghitdailysowhyisoilfalling"
+  "tankersarebeinghitdailysowhyisoilfalling",
+  "33aa6488b640538f",
+  "northdakotadrillerstaptrucksaspipeoutagedisruptsflows",
+  "9866b93187f45a6e",
+  "presidiotobuyrushmoreaffiliatedmidlandbasinoperatorswith358w"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T19:30:27.769328+02:00",
+ "last_run": "2026-11-20T19:35:17.424775+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1398,6 +1398,10 @@
   {
    "d": "2026-11-20",
    "t": "Tankers Are Being Hit Daily. So Why Is Oil Falling?"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "North Dakota Drillers Tap Trucks as Pipe Outage Disrupts Flows - Bloomberg.com"
   }
  ]
 }
