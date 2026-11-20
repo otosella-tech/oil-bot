@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "566b3bafdc4d4a12",
-  "oilpricesriseasmiddleeastshippingattackscountersupplysurplus",
   "e7a7239cbab87d14",
   "indiasoilimportshitrecordhighassaudishipmentssurge",
   "15bb4554da058d0e",
@@ -603,7 +601,9 @@
   "5a57e799fe24e2c5",
   "dep12michaelharjuconventionaloilgaswellsdeclaredabandonednot",
   "285bb0936d83241f",
-  "saudiarabiaexpandsoilstorageinjapanastokyorestocks"
+  "saudiarabiaexpandsoilstorageinjapanastokyorestocks",
+  "37b2204e90129d9c",
+  "oilgeopoliticalrisktakesabackseattoswellingusinventories"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T20:30:26.270395+02:00",
+ "last_run": "2026-11-20T20:35:26.858137+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
