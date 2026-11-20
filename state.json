@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "64bd3b9ee183899d",
-  "usoilpriceslidesasdatashowslargerthanexpectedincreasesincrud",
   "002dca7744f14fc9",
   "chinaoilimportsreboundasbeijingturnsbacktostockpiling",
   "919572aec58d5e45",
@@ -603,7 +601,9 @@
   "145f26d608ca8730",
   "venezuelasmachadourgesmoredrasticoverhaulofoilsector",
   "0bbb6ce2b02a3d2a",
-  "wtifacesupwardpressureamidmiddleeastattacksdespiterecordsupp"
+  "wtifacesupwardpressureamidmiddleeastattacksdespiterecordsupp",
+  "58b771d72b04c7d5",
+  "uscrudeoilinventoriesincreaseby34millionbarrels"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 45
  },
- "last_run": "2026-11-20T12:15:27.378500+02:00",
+ "last_run": "2026-11-20T12:20:21.186633+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
