@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "39b2c2635b826ef2",
-  "whyoilpricespikesnolongerguaranteearecession",
   "bffe646daa232a02",
   "crudeoilextendslossesamidgrowthconcernsbutriskofusstrikeskee",
   "579326d4df31c428",
@@ -603,7 +601,9 @@
   "f56ff1ac7132a4b5",
   "thegulfsoileatingmicrobeslayinwaitfrozensamplereveals",
   "44a3b899565292d5",
-  "expertsaipromptsinenvironmentallawsuitmustbedisclosedusjudge"
+  "expertsaipromptsinenvironmentallawsuitmustbedisclosedusjudge",
+  "d28f987263d7077a",
+  "decemberwticrudeoilcontractclosesup077or09settlesat8398perba"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T21:40:28.967326+02:00",
+ "last_run": "2026-11-20T21:45:19.420339+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
