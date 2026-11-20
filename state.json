@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "c1ed86b9113d9a28",
-  "currentpriceofoilasofnovember52026",
   "9d2f5d38d9449108",
   "currentpriceofoilasofnov102026",
   "29ecf3fe4286e3f5",
@@ -603,7 +601,9 @@
   "686fd70a41a47b59",
   "middleeastsupplyconcernsliftbrentcrudeprices",
   "18fc9a3cbfbfa811",
-  "crudeoiledgesupasmideastrisksrevivesupplyfears"
+  "crudeoiledgesupasmideastrisksrevivesupplyfears",
+  "073fb8f01d494be9",
+  "crudeoilfuturesfallamidprofittakingweakglobalcues"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 33
  },
- "last_run": "2026-11-20T10:00:31.388421+02:00",
+ "last_run": "2026-11-20T10:05:15.491866+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
