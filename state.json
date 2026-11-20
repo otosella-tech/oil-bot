@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "893935cf095cc25b",
-  "chinasecuresmajorgasdealasitsinfluencegrowsacrosscentralasia",
   "0783e6d1a508c4ea",
   "oilfallsasusinventoriespostlargerthanexpectedriseeiasays",
   "10a95ee31a17302b",
@@ -603,7 +601,9 @@
   "3bbce068bba13ab8",
   "guyanaoilboomrekindlesfrontierdrillingappetite",
   "ef32290229ed075d",
-  "oilrisesamidmiddleeasttensions"
+  "oilrisesamidmiddleeasttensions",
+  "6fc252bd5952ac7c",
+  "tohedgeornottohedgethatisthequestion"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 10
  },
- "last_run": "2026-11-20T02:35:16.181224+02:00",
+ "last_run": "2026-11-20T02:40:19.065164+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
