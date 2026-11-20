@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "b716ba21b4780fc8",
-  "oilpricesdown181126",
   "d338c6b158f9d3cc",
   "palmoilsrisewillputpackagedfoodproducersintheshade",
   "ecfba23a30afb65a",
@@ -603,7 +601,9 @@
   "647c1194c1820d6b",
   "chinabatteriesvsforeignoiltheusenergydilemmaandtheautoindust",
   "99e754778220c581",
-  "senatepassessweepingenergypermittingreformbillin6233vote"
+  "senatepassessweepingenergypermittingreformbillin6233vote",
+  "cd4a8ac88d6a0915",
+  "oilnewswtiandbrentfallasstrongexportsraisesurplusconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 59
  },
- "last_run": "2026-11-20T14:30:35.298908+02:00",
+ "last_run": "2026-11-20T14:35:16.201514+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
