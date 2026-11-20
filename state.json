@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "97aa17f39575ebe2",
-  "themiddleeastwarhaswiped28billionbarrelsoffglobaloilsupply",
   "b7a1c68ec8d9cd7a",
   "crudeoilsteadiesasmideastrisksoffsetsurplusfears",
   "0b5337a5bf0b0956",
@@ -603,7 +601,9 @@
   "632e6dd17f936cfd",
   "thesaudisarehelpingjapanrestockitsoilinsuranceamericasreserv",
   "fb47286a13683533",
-  "indiaslpgconsumptionhits8monthhighassupplyrebounds"
+  "indiaslpgconsumptionhits8monthhighassupplyrebounds",
+  "c5f98a62d79735b4",
+  "usacrudeoilstocksriseover3millionbarrelswow"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T17:15:20.836739+02:00",
+ "last_run": "2026-11-20T17:20:22.179195+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
