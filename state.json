@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "efb530f5fc7e5787",
-  "canadianfinancialcloselooniecrudeoilunderpressure",
-  "e808db1f6efa8d06",
-  "crudeoilpriceforecastwtiandbrentslideasusinventoriesrise",
   "3d31232f9c98b75d",
   "currentpriceofoilasofnovember162026",
   "ec95b43544372ec5",
@@ -603,7 +599,11 @@
   "9da7307b9535fb68",
   "oilpricessetforthirdstraightweeklydeclineonstrongmiddleeaste",
   "971f42db679c2909",
-  "ukrainestrikeskeydruzhbaoilpipelinestationinrussiastatarstan"
+  "ukrainestrikeskeydruzhbaoilpipelinestationinrussiastatarstan",
+  "1f6c20d97daf8eee",
+  "indianrefinersracetosecureoiltankersasfreightcostsrise",
+  "06f8106b267851d0",
+  "sanctionedtankertransfers200000barrelsofiranianoilamidusnava"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-20",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-11-20T14:10:22.031917+02:00",
+ "last_run": "2026-11-20T14:15:19.882081+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1320,6 +1320,14 @@
   {
    "d": "2026-11-20",
    "t": "Ukraine strikes key Druzhba oil pipeline station in Russia's Tatarstan, General Staff confirms - The Kyiv Independent"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Indian Refiners Race to Secure Oil Tankers as Freight Costs Rise - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Sanctioned Tanker Transfers 200,000 Barrels of Iranian Oil Amid U.S. Naval Blockade - IranWire"
   }
  ]
 }
