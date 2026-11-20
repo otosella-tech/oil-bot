@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "6b47c5e4dcde57e6",
-  "oilpricessettlelowerastradersweighsurplussupplyoutlook",
   "0ad490b160aa1347",
   "uscrudeandgasolineinventoriesrosefarmorethanexpectedsendingo",
   "42f319917a014768",
@@ -603,7 +601,9 @@
   "9e1ef7de2b68f3ca",
   "oil100yearsagouptonsinclairwrotethegreatamericananticapitali",
   "7024e370d9684404",
-  "oiledgeshigherashouthiattackonriyadhrevivessupplyworriesbutc"
+  "oiledgeshigherashouthiattackonriyadhrevivessupplyworriesbutc",
+  "0ae9093f1ddbeb6a",
+  "decemberwticrudeoilcontractclosesdown005or01at8321perbarrelj"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 16
  },
- "last_run": "2026-11-20T05:35:14.942461+02:00",
+ "last_run": "2026-11-20T05:40:18.702026+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
