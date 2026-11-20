@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "c886ff7b91d6502e",
-  "1300kilometersfromukraineakeyrussianoilhubisburningagain",
   "8940dad6d5d3f708",
   "chinacokingcoalhitsthree",
   "17e084fa6512fa01",
@@ -603,7 +601,9 @@
   "eb1bfcfb8d13d832",
   "tankermarketarabiangulfcrudeoilexportsdown276thisyear",
   "dd133506348a2a24",
-  "bearishsentimentinoilbenchmarksdeepensamidsurplusoutlook"
+  "bearishsentimentinoilbenchmarksdeepensamidsurplusoutlook",
+  "3e785e3407816480",
+  "currentpriceofoilasofnov192026"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-21T00:45:19.034863+02:00",
+ "last_run": "2026-11-21T00:50:21.006660+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
