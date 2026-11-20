@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "1146d827f2cde184",
-  "dangoteinlamuhasthesecurityenvironmentchanged",
-  "1f58833cf666d38b",
-  "ustightensiranblockadewithcurbsonoiltransfersatseaadvisorysh",
   "537dcfcdddf3e060",
   "iransoilleverageisweakeningthatcouldpushittowardescalation",
   "895c27147ba878fd",
@@ -603,7 +599,11 @@
   "7282514c051e0fb1",
   "carbonnegativepanamatakesonoilpowersatunclimatesummit",
   "bfb2b3090279e13d",
-  "brentcrudeoilpricepredictionconsolidationlikelywithsupplyris"
+  "brentcrudeoilpricepredictionconsolidationlikelywithsupplyris",
+  "0a31350a2484bf86",
+  "crudepricessliponampleglobaloilsupplies",
+  "54539f3d32a83d6a",
+  "oildeliveriestoserbiaresumeaftertwoweekpipelineoutage"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T18:45:24.458479+02:00",
+ "last_run": "2026-11-20T18:50:21.283394+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1388,6 +1388,10 @@
   {
    "d": "2026-11-20",
    "t": "Watch Venezuela’s Machado Urges More Drastic Overhaul of Oil Sector - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Oil deliveries to Serbia resume after two-week pipeline outage - Upstream Online"
   }
  ]
 }
