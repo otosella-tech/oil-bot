@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "6955580828e32cd4",
-  "iraqtoreplacesecurityforceinjurfalnasrafteroilsmugglingprobe",
   "ce735cbec491e851",
   "crudeoilinventoriesrisefallingshortofforecasts",
   "367b112656c6122b",
@@ -603,7 +601,9 @@
   "e7b9365f87b06d3e",
   "oilpricesup191126",
   "a801eedbb85fe076",
-  "saudicrudeexportshit538mbpd"
+  "saudicrudeexportshit538mbpd",
+  "c88f9f0a47287725",
+  "oilpricesgainashouthiattacksonriyadhraisesupplyconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-20",
-  "count": 22
+  "count": 24
  },
- "last_run": "2026-11-20T07:05:17.555065+02:00",
+ "last_run": "2026-11-20T07:10:19.935144+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1260,6 +1260,10 @@
   {
    "d": "2026-11-20",
    "t": "Iranian Oil Transferred Between Tankers as US Widens Blockade - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Oil prices gain as Houthi attacks on Riyadh raise supply concerns - CNBC"
   }
  ]
 }
