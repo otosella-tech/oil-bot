@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "38cad6aa119a6de4",
-  "americasnextenergyexportchallengegrowingvolumesinacrowdedmar",
   "78390588ff523232",
   "uslawmakerschallengetrumps100billionvenezuelaoildealasnigeri",
   "0f858303b17ccfd5",
@@ -603,7 +601,9 @@
   "9d9989b8a3573466",
   "opecoutputhikeandhormuzreopeningcrudeoilmarketimpactcmbnews",
   "1dd941f914f37619",
-  "asattentionspansmoveonfromiranandoiltheworldisforeverchanged"
+  "asattentionspansmoveonfromiranandoiltheworldisforeverchanged",
+  "95e32b6a12712e26",
+  "chinaspersiangulfoilimportshithighsincestartofiranwarasprodu"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-20",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-11-20T10:15:19.416313+02:00",
+ "last_run": "2026-11-20T10:20:20.841660+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1272,6 +1272,10 @@
   {
    "d": "2026-11-20",
    "t": "OPEC+ Output Hike and Hormuz Reopening: Crude Oil Market Impact — CMB News - CMB News"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "China’s Persian Gulf oil imports hit high since start of Iran war as producers cut prices - South China Morning Post"
   }
  ]
 }
