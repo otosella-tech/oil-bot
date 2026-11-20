@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "608ae9eddd4f88f8",
-  "globalcoolingdemandovertakesheatingforthefirsttime",
   "4fec149347c771a4",
   "oilmarketanticipatescrudeoilsurplusin2027duetoincreasedsuppl",
   "3a57eaa92eb3204c",
@@ -603,7 +601,9 @@
   "328f73ac7b84e560",
   "uscrudeoildeclinesto85abarrelonrecoveringmiddleeastexports",
   "6e456198b707a379",
-  "oilgainsoniranwarworriesandshortcoveringaheadofthanksgivingh"
+  "oilgainsoniranwarworriesandshortcoveringaheadofthanksgivingh",
+  "e0b3223428015c40",
+  "canadacommoditiescrudeoilpricesfallevenasfightingcontinuesin"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T23:05:16.009934+02:00",
+ "last_run": "2026-11-20T23:10:31.995151+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
