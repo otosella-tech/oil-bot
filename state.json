@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "84dc7e10f9224e02",
-  "wticrudeoilmarketweaknessintensifiesputtingfreshlowsinfocus",
   "e37e66a7f9ca23d6",
   "lowercrudepriceshigherdieselcracksrestoreprofitabilityofoilm",
   "d2a1ca341913d765",
@@ -603,7 +601,9 @@
   "ae69ba9e38cd7286",
   "the2026midtermshavechangedthebattleforamericanenergy",
   "16eb8daf220a4edc",
-  "opinionaheatingoilcrisisiscomingnhslowestincomehouseholdswil"
+  "opinionaheatingoilcrisisiscomingnhslowestincomehouseholdswil",
+  "e41e756a820cc051",
+  "tankersarebeinghitdailysowhyisoilfalling"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T19:10:20.906408+02:00",
+ "last_run": "2026-11-20T19:15:29.495249+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
@@ -1392,6 +1392,10 @@
   {
    "d": "2026-11-20",
    "t": "Oil deliveries to Serbia resume after two-week pipeline outage - Upstream Online"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "Tankers Are Being Hit Daily. So Why Is Oil Falling?"
   }
  ]
 }
