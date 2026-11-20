@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "537dcfcdddf3e060",
-  "iransoilleverageisweakeningthatcouldpushittowardescalation",
   "895c27147ba878fd",
   "saudiarabiaovertakesuaeasindiassecondlargestoilsupplierinoct",
   "5a85030b872d8df0",
@@ -603,7 +601,9 @@
   "0a31350a2484bf86",
   "crudepricessliponampleglobaloilsupplies",
   "54539f3d32a83d6a",
-  "oildeliveriestoserbiaresumeaftertwoweekpipelineoutage"
+  "oildeliveriestoserbiaresumeaftertwoweekpipelineoutage",
+  "1b33a51028d37bfa",
+  "russiaretainstopspotamongchinascrudeoilsuppliers"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T18:50:21.283394+02:00",
+ "last_run": "2026-11-20T18:55:16.113902+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
