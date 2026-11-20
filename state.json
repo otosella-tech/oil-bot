@@ -4,14 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "15a8f779960aead6",
-  "explosionoftwosupertankerscarrying4millionbarrelsofoilinhorm",
-  "07c46f8dfced0348",
-  "oilpricesriseasmiddleeastsupplyrisksoffsetusstockbuild",
-  "efd7a37557383fc9",
-  "environmentalhealthprojectreleases2026annualreportnewchallen",
-  "65cd1799843160c9",
-  "whyaregasolinepricesfallingthankthedieselshortage",
   "c21e261d63e3dbf4",
   "wtianddowfallasnasdaqholdsitsbullishrebound",
   "82cf025d8c45b83a",
@@ -603,7 +595,15 @@
   "2732c5e42add6c88",
   "veryinterestingtrumpsuggestsrecentgaspricedropsarelinkedtoth",
   "03bf9d27c58fafe9",
-  "texasupstreamoilandgasjobsdipinoctoberremainupyearoveryear"
+  "texasupstreamoilandgasjobsdipinoctoberremainupyearoveryear",
+  "528ad51a1e7db6bd",
+  "trumpsmisguidedclaimthattheywaitedtolowergaspricesuntilafter",
+  "feaddda4b77e4b8e",
+  "itchytriggerfingerssparkedfridaygaininoilprices",
+  "2d2c2b00580b456c",
+  "protestsblamebossesgovtindeathofoilworkersiniran",
+  "6690567c250e0246",
+  "cmewticrudeoilfuturesnear3monthlowasnaturalgasclimbs"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-20T23:25:16.514322+02:00",
+ "last_run": "2026-11-20T23:30:27.768964+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
