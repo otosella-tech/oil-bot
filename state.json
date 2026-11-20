@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "71e6c81f9b8e219b",
-  "cbotcornfallstomultimonthlowsonfirmdollarsaggingcrudeoil",
-  "4ade2d1e742dd968",
-  "oilfalls3despitemiddleeastattacks",
   "6955580828e32cd4",
   "iraqtoreplacesecurityforceinjurfalnasrafteroilsmugglingprobe",
   "ce735cbec491e851",
@@ -603,7 +599,11 @@
   "943248e168177803",
   "iranianoiltransferredbetweentankersasuswidensblockade",
   "3cd84c2b483650ae",
-  "crudeoilpricesriseonhouthiattacksonriyadh"
+  "crudeoilpricesriseonhouthiattacksonriyadh",
+  "e7b9365f87b06d3e",
+  "oilpricesup191126",
+  "a801eedbb85fe076",
+  "saudicrudeexportshit538mbpd"
  ],
  "releases_done": {},
  "last_digest": "2026-11-19",
@@ -615,7 +615,7 @@
   "date": "2026-11-20",
   "count": 22
  },
- "last_run": "2026-11-20T06:55:17.186982+02:00",
+ "last_run": "2026-11-20T07:00:29.979330+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
