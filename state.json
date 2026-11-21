@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "74dc022448e48b32",
-  "oilpricesriseastankerdisruptionsoffsetsurplussupplyoutlook",
   "b63d129f7799f793",
   "cushingsoilinventorydroppedwhiletheustotalunexpectedlygrew",
   "b6180de3974973a5",
@@ -603,7 +601,9 @@
   "4babc9a258027b02",
   "depinspectordrivinginforestcountyfoundcontaminatedwaterfromc",
   "f3ac97473f0efeba",
-  "twooiltankershitbyunidentifiedprojectilesnearstraitofhormuzu"
+  "twooiltankershitbyunidentifiedprojectilesnearstraitofhormuzu",
+  "f410684f8aaefeb1",
+  "hfsinclairendoftheoilcycletimetohold"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -615,7 +615,7 @@
   "date": "2026-11-21",
   "count": 37
  },
- "last_run": "2026-11-21T16:55:15.879566+02:00",
+ "last_run": "2026-11-21T17:00:32.397498+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
