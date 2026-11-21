@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "bd15f794ab1e3b8b",
-  "eumovestooverhaulemergencyoilstockpiles",
   "c79ee3cc10772e61",
   "canadiandollarstrengthensasoilreboundshawkishfedlimitsgainst",
   "5b220dfbeef51f1e",
@@ -603,7 +601,9 @@
   "feda6224ad6888f4",
   "globalcrudeexportshitrecordhighdespitehormuzclosure",
   "691aa98a37553941",
-  "oilpricesexpectedtomoderatebutfuelpricesstayhigh"
+  "oilpricesexpectedtomoderatebutfuelpricesstayhigh",
+  "36905971dca3ed87",
+  "ukracestorewritenuclearrulesby2027"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -615,7 +615,7 @@
   "date": "2026-11-21",
   "count": 43
  },
- "last_run": "2026-11-21T17:55:15.713435+02:00",
+ "last_run": "2026-11-21T18:00:30.705678+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
