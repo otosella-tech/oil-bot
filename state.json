@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "69b5a4a7f2f83047",
-  "wtioilattamptstoreturnabove8300asgeopoliticaltensionsgrow",
   "c0748b81a813dfc5",
   "oilfuturescrudeliftsoflowsusiranconflicteyed",
   "93f0132a45d16417",
@@ -603,7 +601,9 @@
   "06b907d1d1c31280",
   "fedhawkskeep10yearyieldelevateddespiteloweroilprices",
   "e3f0be0dbc1d365a",
-  "oilpricescaughtbetweenaloomingglutandmiddleeastturmoil"
+  "oilpricescaughtbetweenaloomingglutandmiddleeastturmoil",
+  "a1c10912bab7e3fa",
+  "naturalgaswtioilbrentoilforecastsoilmoveslowerastrumpsignals"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-20",
   "count": 60
  },
- "last_run": "2026-11-21T02:00:31.871664+02:00",
+ "last_run": "2026-11-21T02:05:16.982020+02:00",
  "sent_stories": [
   {
    "d": "2026-11-17",
