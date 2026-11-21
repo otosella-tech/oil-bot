@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "f8abee0c5716a561",
-  "tradersseeklongtermcrudesupplydealswithqatar",
   "a7d2ddac63077401",
   "crudeoilforecastwtistrugglesasusinventoriesrise",
   "b8699eb366c4e4a7",
@@ -603,7 +601,9 @@
   "64c968064069367d",
   "thedecarleyperspectivecopperiscrudeandsoisoil",
   "c787d08e3e7b1da3",
-  "saudicrudeexportsreachsevenmonthhighasmiddleeastoilflowsreco"
+  "saudicrudeexportsreachsevenmonthhighasmiddleeastoilflowsreco",
+  "dc88bec8b86c3794",
+  "oilpricesontrackforthirdweeklydeclineamidsignsofimprovingsup"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-21",
   "count": 1
  },
- "last_run": "2026-11-21T03:50:27.058259+02:00",
+ "last_run": "2026-11-21T03:55:15.909953+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
