@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "b63d129f7799f793",
-  "cushingsoilinventorydroppedwhiletheustotalunexpectedlygrew",
   "b6180de3974973a5",
   "paoilwellsmapshowshiddenrisksnearhomes",
   "1000e217bf71f45c",
@@ -603,7 +601,9 @@
   "f3ac97473f0efeba",
   "twooiltankershitbyunidentifiedprojectilesnearstraitofhormuzu",
   "f410684f8aaefeb1",
-  "hfsinclairendoftheoilcycletimetohold"
+  "hfsinclairendoftheoilcycletimetohold",
+  "38999a8c654a2565",
+  "seecheapestgasinscottsdale"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -615,7 +615,7 @@
   "date": "2026-11-21",
   "count": 37
  },
- "last_run": "2026-11-21T17:00:32.397498+02:00",
+ "last_run": "2026-11-21T17:05:15.788480+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
