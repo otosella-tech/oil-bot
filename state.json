@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "39cd2ac2d4965824",
-  "canadaproducerpricesriseagaininoctoberbuoyedbyenergyproducts",
   "4d988fcc1bcd3359",
   "investmentsinblock192willamounttous7",
   "e7db2285a82fdb84",
@@ -603,7 +601,9 @@
   "0123d6e2092df670",
   "kirkukareasclearedforiraqoillicensingroundsmpsays",
   "cc7f4fbd5e68c990",
-  "oilmarketreportnovember2026iea"
+  "oilmarketreportnovember2026iea",
+  "a0d50277701a20ab",
+  "japantoexpandsaudicrudeoilstorageasenergycooperationdeepens"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -615,7 +615,7 @@
   "date": "2026-11-21",
   "count": 21
  },
- "last_run": "2026-11-21T12:25:15.439595+02:00",
+ "last_run": "2026-11-21T12:30:27.584451+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
