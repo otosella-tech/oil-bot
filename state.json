@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "2e05c7f4cfcf3d77",
-  "attackspickupaftertankerratesplungethesefleetstocksfellharde",
   "914f31e2dd20e34a",
   "majorpowersvowtoincreaseoilsupplyamidglobalenergytransition",
   "8c3157694ead7003",
@@ -603,7 +601,9 @@
   "f94bd345655a173f",
   "britainsnetzerorevolutionhasachinaproblem",
   "ed6e9d7664053a5b",
-  "njayukcallsforboldenergyinvestmentsaheadofsouthsudanoilpower"
+  "njayukcallsforboldenergyinvestmentsaheadofsouthsudanoilpower",
+  "a1cbeaaef94a49d7",
+  "tankershitinstraitofhormuzasirantightensgriponshipping"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-21",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-11-21T20:00:31.601714+02:00",
+ "last_run": "2026-11-21T20:05:22.118424+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-11-21",
    "t": "UKMTO Reports 2 Tankers Hit by Projectiles Near Hormuz as Iran Claims Mines - https://houseofsaud.com/"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping - Al Jazeera"
   }
  ]
 }
