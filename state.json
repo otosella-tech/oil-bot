@@ -606,16 +606,16 @@
   "oilpoststhirdweeklylossamidsurplus"
  ],
  "releases_done": {},
- "last_digest": "2026-11-20",
+ "last_digest": "2026-11-21",
  "digest_prices": {
-  "WTI": 82.64,
-  "Brent": 89.63
+  "WTI": 83.41,
+  "Brent": 89.95
  },
  "llm": {
   "date": "2026-11-21",
-  "count": 9
+  "count": 15
  },
- "last_run": "2026-11-21T07:55:16.133519+02:00",
+ "last_run": "2026-11-21T08:00:30.873343+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
