@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "ba218939102d8986",
-  "energysecurityresponsetoiranwarcouldcutoildemandby4by2035iea",
   "2598a11a8ce2ad56",
   "hanwhaphillyshipyardsaysitsreadytobuildoiltankersandnavyship",
   "576a554b027c5cf1",
@@ -603,7 +601,9 @@
   "27059aeab2cd6b1b",
   "oilrecordsthirdweeklydeclineamidgrowingsupplyconcerns",
   "a770a5fe0491608b",
-  "ubsoilpricespoisedforrecoveryamiddecliningsuppliesandsustain"
+  "ubsoilpricespoisedforrecoveryamiddecliningsuppliesandsustain",
+  "47bce83db81603d9",
+  "globaloilmarketheadstowardssurpluscrudepricesmayfallto70by20"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -615,7 +615,7 @@
   "date": "2026-11-21",
   "count": 31
  },
- "last_run": "2026-11-21T15:50:21.105425+02:00",
+ "last_run": "2026-11-21T15:55:20.137392+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
