@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "ba19f457b8216a81",
-  "permapipeexpandsindiacoatingbusinessasmenaordersrise",
   "5c6c8cea33481fc3",
   "hormuzoilexportscoulddeclineamidinboundtankershortage",
   "5743d9aebc224f14",
@@ -603,7 +601,9 @@
   "4011da90ce3541a9",
   "windcouldcutthecostofroundthe",
   "fb3a15e9341b4db8",
-  "pennsylvaniaweeklyoilgascompliancesnapshotnov7to20"
+  "pennsylvaniaweeklyoilgascompliancesnapshotnov7to20",
+  "0ab17f72815d6380",
+  "libyaloses308millionasarmedgroupblocksoilpipelineforover20da"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -612,139 +612,11 @@
   "Brent": 89.95
  },
  "llm": {
-  "date": "2026-11-21",
-  "count": 60
+  "date": "2026-11-22",
+  "count": 1
  },
- "last_run": "2026-11-22T00:50:21.054910+02:00",
+ "last_run": "2026-11-22T00:55:15.370104+02:00",
  "sent_stories": [
-  {
-   "d": "2026-11-18",
-   "t": "Venezuela's Oil Comeback Faces a New Threat From Washington - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Iraq and Turkey resume oil flows via pipeline damaged by ISIS: What to know - Al-Monitor"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Oil Shipping Soars on Russia's Northern Sea Route - The Maritime Executive"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Oil edges up on tanker attacks, expected US crude drop - Euronext Markets: Real-time Stock Market Data | live"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Libya Has Africa's Biggest Oil Reserves, but Western Majors Aren't Biting - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "U.S.-Iran Exchange of Fire Keeps Oil Prices Afloat; Strait of Hormuz Risk Unresolved as API Inventory Surge of 5.3 Million Barrels Weighs on New York Crude - BigGo Finance"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war - CNBC"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Oil Prices Drop Despite Escalating U.S.-Iran Conflict - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Iraq resumes oil exports through Turkish pipeline after 12-year break - Arab News"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "EU Moves to Fast-Track Renewables as Oil Import Costs Soar"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Shafaq News..Oil dips on US crude build against Hormuz threats - شفق نيوز"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz - CBS News"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "ADNOC Ship Attacked in Hormuz as Maritime Security Risks Rise"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Dangote’s $16 Billion Refinery to Receive Kenyan Tax Waivers - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Iraqi PM due to visit Lebanon amid push to explore oil routes beyond Hormuz - Al Jazeera"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Small Vessel Trade Thrives in Hormuz as Iran Targets Supertankers"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Gulf oil exports: who buys the crude from Saudi Arabia, Iraq, the UAE and Kuwait - Oil & Gas Middle East"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Iraq OKs rehabilitation of oil pipeline to Türkiye as flows resume - Hürriyet Daily News"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Oil Prices Decline as Rising US Inventories Offset Supply Risks From Iran Conflict - Yahoo Finance"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Iraq pumps oil to Turkey again after 12 years to bypass Hormuz disruption - Euronews.com"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Iraq reopens Turkey oil pipeline to bypass Hormuz disruption - Euronews.com"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "U.S.-Iran Conflict Flares Again as Gulf Nations Brace for Attacks"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Oil prices steady despite spikes in attacks in Persian Gulf - Transport Topics"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Iran War Set to Hike 2027 UK Energy Bills to Four-Year High"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Oil Is Estimated to Ease in 2027 as Suppliers Adapt to Hormuz Disruption - Goldman Sachs"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Democrats Could Slow Venezuela’s Push Toward 3 Million Bpd"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Oil Prices Fall Despite Iran Attacks as US Crude Inventories Jump 5.28M Barrels - Coinpaper"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an “Acquisition”"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Iran Attacks On Kuwait Come Second To Global Glut Concerns, Oil Continues Downward Slide - Ship & Bunker"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Oil Prices with Hormuz Tensions and Rising Supply - Inspenet"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Ukraine strikes 'one of the largest oil refineries' in southern Russia ahead of Putin-Trump meeting in China - Fox News"
-  },
-  {
-   "d": "2026-11-18",
-   "t": "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis"
-  },
   {
    "d": "2026-11-19",
    "t": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix"
