@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "757fc30c81233568",
-  "oilandgasleasesinwesternwyomingmountainsthreatentreasuredwil",
   "c2d64d8d404b2faf",
   "xitrumpputinagreetoincreasesupplyofglobalfuels",
   "623c18f175b96abb",
@@ -603,7 +601,9 @@
   "e5a92e3a0aa27a57",
   "oilpoststhirdweeklylossamidsurplus",
   "0be55a0fe3f8cc8c",
-  "northdakotaoilnumbersupagainbutpricesexpectedtoleveloffinto2"
+  "northdakotaoilnumbersupagainbutpricesexpectedtoleveloffinto2",
+  "960d4c212550f5af",
+  "oilshippedthroughhormuzfallsasiranianstrikesincrease"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-21",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-11-21T08:45:18.506207+02:00",
+ "last_run": "2026-11-21T08:50:21.157723+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-11-21",
    "t": "IEA Says Iran War Has Changed Oil Markets for Good as Gulf Exports Lag - الحرة"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "Oil shipped through Hormuz falls as Iranian strikes increase - Financial Times"
   }
  ]
 }
