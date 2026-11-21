@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "c6ac2cbb24eea63a",
-  "aaatexasreportsgaspricestocontinuefallingasthanksgivingappro",
-  "325e446946561196",
-  "asiangasolinemarginplungestooverthreeyearlowsonamplesupplies",
   "bffd8d75136d6887",
   "oilpricesinchupastankerdisruptionsoffsetsurplussupplyoutlook",
   "32e5808fb0af3b2a",
@@ -603,7 +599,11 @@
   "a00c48feaa4ca6e9",
   "ustreasurysanctionsiranianoiltrusteesallegedlytaskedwithreco",
   "d9306f1cb1f05f26",
-  "doeflags45daytransithurdleinusalaskacrudeoiloffer"
+  "doeflags45daytransithurdleinusalaskacrudeoiloffer",
+  "878ab508b7fc677f",
+  "manaccusedofpouringtoxicoilintowomanswafflehousedrinkbeforec",
+  "d35fd131c4e5a744",
+  "iranwarwipesout28billionbarrelsofoilsupplywhyarecrudepricesf"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -615,7 +615,7 @@
   "date": "2026-11-21",
   "count": 33
  },
- "last_run": "2026-11-21T16:25:14.995811+02:00",
+ "last_run": "2026-11-21T16:30:26.252839+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
