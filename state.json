@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "1888926355e9a185",
-  "exclusivecanadasbmoreturningtousoilandgasinvestmentbankingso",
   "876644d392367c7e",
   "energybriefsnoletupiniransattacks",
   "bd15f794ab1e3b8b",
@@ -603,7 +601,9 @@
   "76f93467fddb7484",
   "britainsnewrussiasanctionsimperfectbutasignalukrainewontbetr",
   "722dcb37bd30c06b",
-  "liveusisraelweighstrikesbessentsaysiranmayneverbepaidforoila"
+  "liveusisraelweighstrikesbessentsaysiranmayneverbepaidforoila",
+  "feda6224ad6888f4",
+  "globalcrudeexportshitrecordhighdespitehormuzclosure"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-21",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-11-21T17:25:15.663600+02:00",
+ "last_run": "2026-11-21T17:30:26.771110+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
@@ -1268,6 +1268,10 @@
   {
    "d": "2026-11-21",
    "t": "Live - US, Israel weigh strikes, Bessent says Iran may never be paid for oil already sold - Iran International"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "Global crude exports hit record high despite Hormuz closure - Nikkei Asia"
   }
  ]
 }
