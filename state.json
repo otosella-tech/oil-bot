@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "0d78b86c79c281c0",
-  "ukrainiandronesdisrupthalt15of35russiasoilrefineries",
   "3fafd1b72afd1bd3",
   "aijittershaventslowedthebetonuspowerdemand",
   "1b7b3c03da330851",
@@ -603,7 +601,9 @@
   "bc73dab2c6b0b3be",
   "oilpricessurgepast50yetusshaleproducerswontexpandoutputq3sha",
   "9d2f5d38d9449108",
-  "currentpriceofoilasofnov102026"
+  "currentpriceofoilasofnov102026",
+  "ee96f2818334234c",
+  "usoilrigcountupby6forweekendingnov20"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -615,7 +615,7 @@
   "date": "2026-11-21",
   "count": 17
  },
- "last_run": "2026-11-21T11:30:32.408821+02:00",
+ "last_run": "2026-11-21T11:35:16.177912+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
