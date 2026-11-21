@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "f91b98b84c09fd10",
-  "oilfuturesendvolatilesessionnearflat",
   "9eb4b299df38399e",
   "fbiseekingpotentialvictimsinmidlothiancrudeoilfraudinvestiga",
   "f4791ed3d2f33ec2",
@@ -603,7 +601,9 @@
   "f091245fdc59af13",
   "chinaseconomicfootprintinlatinamericaisexpandingthroughtrade",
   "85eb24e484b02ed2",
-  "boliviaraisesemergencyfuelimportceilingto13basypfbfacesdeepe"
+  "boliviaraisesemergencyfuelimportceilingto13basypfbfacesdeepe",
+  "ebebd1bf8e56a98b",
+  "mercosurstaxbreakisfuelingbrazilsoilpushintoeurope"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -615,7 +615,7 @@
   "date": "2026-11-21",
   "count": 51
  },
- "last_run": "2026-11-21T21:00:29.421133+02:00",
+ "last_run": "2026-11-21T21:05:15.875893+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
