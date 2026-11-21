@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "dd6d4b7c5d4ad911",
-  "iranmountsabout14hormuzattacksinnovemberasbrentcrudefallsone",
   "bc62458f7b8b16a7",
   "oilisestimatedtoeasein2027assuppliersadapttohormuzdisruption",
   "d7013d78a8c5c18d",
@@ -603,7 +601,9 @@
   "4b8fd9dc8a89e621",
   "crudeoilchoppyasstraitofhormuzflowsfallandtraderspriceinrene",
   "a4f601121f572108",
-  "trumpscoalrevivaliscostingamericansmorethanexpected"
+  "trumpscoalrevivaliscostingamericansmorethanexpected",
+  "a046a07cabbe713a",
+  "libyalosesover30millionasarmedgroupblockshamadaoilpipeline"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-21",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-11-21T22:20:20.074206+02:00",
+ "last_run": "2026-11-21T22:25:15.929519+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
@@ -1292,6 +1292,10 @@
   {
    "d": "2026-11-21",
    "t": "Crude Oil Choppy as Strait of Hormuz Flows Fall and Traders Price In Renewed US-Iran Strikes - Benzinga"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "Libya loses over $30 million as armed group blocks Hamada oil pipeline - سانا"
   }
  ]
 }
