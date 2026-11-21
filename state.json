@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "407864a61efddc40",
-  "iranintensifieshormuztankerattacksjustasoilpricesslide",
   "0d78b86c79c281c0",
   "ukrainiandronesdisrupthalt15of35russiasoilrefineries",
   "3fafd1b72afd1bd3",
@@ -603,7 +601,9 @@
   "fac108f5bbd87d0d",
   "oilpricesdown201126",
   "bc73dab2c6b0b3be",
-  "oilpricessurgepast50yetusshaleproducerswontexpandoutputq3sha"
+  "oilpricessurgepast50yetusshaleproducerswontexpandoutputq3sha",
+  "9d2f5d38d9449108",
+  "currentpriceofoilasofnov102026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -615,7 +615,7 @@
   "date": "2026-11-21",
   "count": 17
  },
- "last_run": "2026-11-21T11:10:19.402250+02:00",
+ "last_run": "2026-11-21T11:15:21.438189+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
