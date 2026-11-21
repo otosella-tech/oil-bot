@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "5ecc8ca0ea568ae2",
-  "oilsettleslowerasrecoveringmiddleeastexportsbolstersurplusou",
   "4ec1c57670ed0c20",
   "commentarychinaresumesstoringcrudeoilgivingitfuelexportoptio",
   "99985b303081085b",
@@ -603,7 +601,9 @@
   "69c399a23354d0ca",
   "whatdogaspriceslooklikeinfountainhills",
   "ce6c9e8184ef7141",
-  "oilpricesdropforthirdweekstraight"
+  "oilpricesdropforthirdweekstraight",
+  "a35431591759c468",
+  "theuaeisshuttlingoilpastiraninriskyhormuzoperation"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-21",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-11-21T19:00:32.287578+02:00",
+ "last_run": "2026-11-21T19:05:21.165532+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
@@ -1272,6 +1272,10 @@
   {
    "d": "2026-11-21",
    "t": "Global crude exports hit record high despite Hormuz closure - Nikkei Asia"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ"
   }
  ]
 }
