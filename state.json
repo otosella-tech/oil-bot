@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "c8b379b1d77aa38d",
-  "forecastupdateforcrudeoil19112026",
   "6ac4b7eb112b1379",
   "trumpxiandputinreachagreementsonoil",
   "0ae4ecd27d0575f2",
@@ -603,7 +601,9 @@
   "5c52f55a8f31ac00",
   "yoursaturdaynov21guidefivethingstodointheoilcity",
   "ed0bdab0b491ba49",
-  "crudepricesedgehigheronmiddleeasttensions"
+  "crudepricesedgehigheronmiddleeasttensions",
+  "da90c9128adfd632",
+  "iranhardlinerspushtankerconvoytodefyusblockade"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-11-21",
-  "count": 1
+  "count": 3
  },
- "last_run": "2026-11-21T05:25:14.905641+02:00",
+ "last_run": "2026-11-21T05:30:23.434086+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
@@ -1205,6 +1205,10 @@
   {
    "d": "2026-11-20",
    "t": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday - Reuters"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "Iran hardliners push tanker convoy to defy US blockade - Iran International"
   }
  ]
 }
