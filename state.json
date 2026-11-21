@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "8496451605350880",
-  "ashighoilpricescurbdemandfreshsignsofglutappear",
   "c8b379b1d77aa38d",
   "forecastupdateforcrudeoil19112026",
   "6ac4b7eb112b1379",
@@ -603,7 +601,9 @@
   "a26b43e626c30ef3",
   "northslopeboroughsuesstatetostopplannedexpansionoftaxbreakfo",
   "5c52f55a8f31ac00",
-  "yoursaturdaynov21guidefivethingstodointheoilcity"
+  "yoursaturdaynov21guidefivethingstodointheoilcity",
+  "ed0bdab0b491ba49",
+  "crudepricesedgehigheronmiddleeasttensions"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-21",
   "count": 1
  },
- "last_run": "2026-11-21T05:00:31.203779+02:00",
+ "last_run": "2026-11-21T05:05:23.021315+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
