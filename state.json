@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "a8481ac5bb03ba16",
-  "venezuelaturnstoaitocutmethaneleaks",
   "f26fdd3f32756003",
   "oilfuturescrudeliftsoflowsusirantensionseyed",
   "407864a61efddc40",
@@ -603,7 +601,9 @@
   "52fb9c35a54f0116",
   "japanwantsanasianenergyagencywilltheregionbuyin",
   "ec392f2470680cf7",
-  "oilpricesriseonrenewedfearsofescalationinthemiddleeast"
+  "oilpricesriseonrenewedfearsofescalationinthemiddleeast",
+  "fac108f5bbd87d0d",
+  "oilpricesdown201126"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -615,7 +615,7 @@
   "date": "2026-11-21",
   "count": 17
  },
- "last_run": "2026-11-21T09:15:18.979353+02:00",
+ "last_run": "2026-11-21T09:20:26.397213+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
