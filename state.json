@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "6ac4b7eb112b1379",
-  "trumpxiandputinreachagreementsonoil",
   "0ae4ecd27d0575f2",
   "oilpricesretreatastradersweighsupplysurplusexpectationsmiddl",
   "67c70227906265c8",
@@ -603,7 +601,9 @@
   "ed0bdab0b491ba49",
   "crudepricesedgehigheronmiddleeasttensions",
   "da90c9128adfd632",
-  "iranhardlinerspushtankerconvoytodefyusblockade"
+  "iranhardlinerspushtankerconvoytodefyusblockade",
+  "a7d2ddac63077401",
+  "crudeoilforecastwtistrugglesasusinventoriesrise"
  ],
  "releases_done": {
   "2026-11-20|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-21",
   "count": 3
  },
- "last_run": "2026-11-21T05:30:23.434086+02:00",
+ "last_run": "2026-11-21T05:35:18.065582+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
