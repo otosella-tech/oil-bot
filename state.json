@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "1b7b3c03da330851",
-  "guyanasfifthfpsohitsfirstoil",
   "6c388948fd82d3dc",
   "newyorkstockmarketreversesgainsamidrisingoilpricesyields",
   "cc7f4fbd5e68c990",
@@ -603,7 +601,9 @@
   "ee96f2818334234c",
   "usoilrigcountupby6forweekendingnov20",
   "04c894be8f7b3d4e",
-  "sablestocktumblesafterkeycustomerpausesoilpurchases"
+  "sablestocktumblesafterkeycustomerpausesoilpurchases",
+  "82cd933e1774330e",
+  "hormuzoilflowsfallto10millionbdinnovember2026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-21",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-21",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-11-21T12:00:29.567875+02:00",
+ "last_run": "2026-11-21T12:05:15.793035+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-11-21",
    "t": "Oil shipped through Hormuz falls as Iranian strikes increase - Financial Times"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "Hormuz Oil Flows Fall to 10 Million b/d in November 2026 - houseofsaud.com"
   }
  ]
 }
