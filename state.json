@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "0370c43af11c454f",
-  "australiaexploresgasphase",
   "5809dfab49f130c4",
   "crudegivesbackgroundmidweekasinventoriesbuildandsurplustalkg",
   "3ada7087a6a1d006",
@@ -603,7 +601,9 @@
   "badfb1dcfd38147b",
   "nycrudereboundsafter3sessionsto83handleonbargainhuntingamidi",
   "9c470403ed3e669e",
-  "oiltankerloadsiraniancrudeingulftankertrackerscomsays"
+  "oiltankerloadsiraniancrudeingulftankertrackerscomsays",
+  "8496451605350880",
+  "ashighoilpricescurbdemandfreshsignsofglutappear"
  ],
  "releases_done": {},
  "last_digest": "2026-11-20",
@@ -615,7 +615,7 @@
   "date": "2026-11-21",
   "count": 5
  },
- "last_run": "2026-11-21T07:00:32.140659+02:00",
+ "last_run": "2026-11-21T07:05:16.649115+02:00",
  "sent_stories": [
   {
    "d": "2026-11-18",
