@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "1c998910613f637e",
-  "oilfuturescrudehigherasiransaysitwillchallengeusblockade",
   "496909c22a95cb57",
   "senatepassessweepingenergypermittingreformbillin62",
   "e3c1fd722a3454e6",
@@ -603,7 +601,9 @@
   "e2581c2b2dc69b3a",
   "oilpricesreboundashouthiattacksreignitemiddleeastsupplyfears",
   "380abb9263f39406",
-  "crudeoilfuturesvolatileaheadofopecoutputdecision"
+  "crudeoilfuturesvolatileaheadofopecoutputdecision",
+  "0ced42a8a81c7018",
+  "trackersaysiraniantankerreportedinstraitofhormuzisfake"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 21
+  "count": 23
  },
- "last_run": "2026-11-22T12:50:18.821853+02:00",
+ "last_run": "2026-11-22T12:55:24.684978+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1212,6 +1212,10 @@
   {
    "d": "2026-11-22",
    "t": "Crude Oil Futures Volatile Ahead of OPEC+ Output Decision - Rediff MoneyWiz"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "Tracker says Iranian tanker reported in Strait of Hormuz is fake - Euronews.com"
   }
  ]
 }
