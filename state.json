@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "cc5499ad0e44b888",
-  "wticrudesinksmorethan5asglobaloilglutfearsgrow",
   "971c9c48d00e1f33",
   "iranstepsuphormuztankerattacksasoilpricesslide",
   "cc316cf5570ebd1d",
@@ -603,7 +601,9 @@
   "13c28f033bb70a87",
   "howtocreateafutureforgeelongsrefinery",
   "77c7d4bae7863688",
-  "usenergyexportshitrecordsasglobalcompetitionintensifies"
+  "usenergyexportshitrecordsasglobalcompetitionintensifies",
+  "ea65fb35a0a01e32",
+  "usimposessanctionsoniranianoilsmugglingnetwork"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -612,259 +612,11 @@
   "Brent": 89.95
  },
  "llm": {
-  "date": "2026-11-22",
-  "count": 57
+  "date": "2026-11-23",
+  "count": 2
  },
- "last_run": "2026-11-23T00:45:20.168033+02:00",
+ "last_run": "2026-11-23T00:50:19.673980+02:00",
  "sent_stories": [
-  {
-   "d": "2026-11-19",
-   "t": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections - CNBC"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Oil prices ease to two-month lows as US downplays further Iran strikes - Reuters"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "October Supply Surge Brings Forward Anticipated Oil Surplus - Energy Intelligence"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Ukrainian drone strikes cut oil refining in Russia by 45% in two weeks — Reuters - Українські Національні Новини (УНН)"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Gulf Oil Flow at Risk From Lack of Empty Tankers, Tracker Says - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Ukrainian strikes cut Russian oil refinery processing by 45%, Reuters reports - The Kyiv Independent"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Permian Growth Turns Moderate Despite War"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Russian Exports: Wartime Hammers Product Shipments, Frees Up Crude - Energy Intelligence"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Oil prices steady as supply surplus softens sentiment though Gulf war supports - CNBC"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Democrats Target Trump's $100 Billion Venezuela Oil Deal - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Misbar Tracks Damage to Oil Tanker Dominica Prosperity After Attack off Ras Al Khaimah - موقع مسبار"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Oil Prices Steady as Hormuz Tanker Threats Offset Supply Glut Fears"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Smaller tankers in Hormuz shuttling trade keep crude oil flowing - BusinessLine"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says - WSJ"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Oil drops 7% as Iran signals openness to peace talks - Reuters"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Ukraine War, Day 1,729: Kyiv Strikes Putin’s Kerch Bridge Again - EA WorldView"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Iran war sparked ‘largest threat’ to energy security in history, says energy agency - The Times of Israel"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Oil edges up on tanker attacks, expected US crude drop - Yahoo Finance"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Developing | US and China have mutual interest in getting oil through Strait of Hormuz: Trump - South China Morning Post"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Saudi-led coalition says missile debris caused damage in Riyadh, and other Mideast news - News4JAX"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Without Iranian oil, China's small refiners face pain but not collapse - Reuters"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Oil facility providing transit to Druzhba pipeline reportedly attacked in Russia's Tatarstan - Українська правда"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Trump Reportedly Weighing New Military Strike on Iran; Global Oil Prices Halt Slide and Rebound - BigGo Finance"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say - Reuters"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows - Reuters"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Iran’s oil leverage is weakening. That could push it toward escalation - CNN"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Brent Crude Oil Price: $92.12 Thursday After EIA Build and Hormuz Mine Reports, Bull $96, Bear $88 - FinanceFeeds"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "India’s Oil Imports Hit Record High as Saudi Shipments Surge"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Two supertankers carrying 4 million oil barrels hit by naval mines in Hormuz Strait: IRGC - The New Region"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Drone attack reported on Kaleykino oil pumping station in Russia's Tatarstan - Ukrinform"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "IRGC Navy claims two supertankers carrying over 4mln barrels of crude oil struck a naval mine and exploded while attempting to transit a restricted route in the Strait of Hormuz - Newsquawk"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Iran's IRGC Navy says 2 oil supertankers strike naval mines in Strait of Hormuz - A News"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war - CNBC"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Russia oil output risks fresh decline as Ukraine steps up attacks - Yahoo Finance UK"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Smaller Tankers Join Hormuz Shuttle Trade to Keep Oil Flowing - Bloomberg"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Explosion of Two Supertankers Carrying 4 Million Barrels of Oil in Hormuz Strait - تسنیم"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Oil Prices Drop Despite Escalating U.S.-Iran Conflict - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "How the War in Iran Will Remake the Global Energy Order - The New York Times"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Damage from missile attack reported in Riyadh’s financial district, and other Mideast news - Boston Herald"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Iraq Turns North: Major Oil Pipeline to Turkey Reopens as Strait of Hormuz Shipping Stalls - Pipeline Technology Journal"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Iran has reported explosions on two supertankers carrying over 4 million barrels of oil in the Strait of Hormuz - UkrMedia News"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Oil tanker loads Iranian crude in Gulf, TankerTrackers.com says - Reuters"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Russia Faces a Logistics Nightmare After Crimea Bridge Collapse"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Venezuela Turns to AI to Cut Methane Leaks"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Ukrainian drones disrupt, halt 15 of 35 Russia’s oil refineries - Ґвара Медіа"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "US Sour Crude’s War Premium Vanishes as Supply Surges - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Iran’s IRGC says tankers with 4M barrels of oil hit Hormuz mines: What to know - Al-Monitor"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "IEA sees potential for looser oil, LNG markets after Hormuz crisis - Oil & Gas Journal"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition - The New York Times"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says - Reuters"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Asian gasoline margin plunges to over three-year lows on ample supplies - Reuters"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Oil Continues Downward Plummet As Iran War Reshapes World Energy Market For The Better - Ship & Bunker"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Energy briefs–no letup in Iran’s attacks - Oklahoma Energy Today"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Iran grows more aggressive in Strait of Hormuz despite surge in oil traffic - The Jerusalem Post"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Attacks Pick Up After Tanker Rates Plunge; These Fleet Stocks Fell Hardest - Investor's Business Daily"
-  },
-  {
-   "d": "2026-11-19",
-   "t": "Oil settles flat as Hormuz disruptions offset global surplus fears - Yahoo! Finance Canada"
-  },
   {
    "d": "2026-11-20",
    "t": "Iran Mounts About 14 Hormuz Attacks in November as Brent Crude Falls One-Fifth - https://houseofsaud.com/"
@@ -1288,6 +1040,10 @@
   {
    "d": "2026-11-22",
    "t": "Iran says 2 supertankers struck naval mines near Strait of Hormuz - Middle East Monitor"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "US Imposes Sanctions on Iranian Oil Smuggling Network - Global Arab Network"
   }
  ]
 }
