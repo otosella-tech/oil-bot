@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "9e1ef7de2b68f3ca",
-  "oil100yearsagouptonsinclairwrotethegreatamericananticapitali",
-  "7024e370d9684404",
-  "oiledgeshigherashouthiattackonriyadhrevivessupplyworriesbutc",
   "0ae9093f1ddbeb6a",
   "decemberwticrudeoilcontractclosesdown005or01at8321perbarrelj",
   "94dd91cb27341ea7",
@@ -603,7 +599,11 @@
   "6fc5321098832dca",
   "cop31newdraftdeclarationmakesnomentionofoilorgas",
   "2a8e2c8d427ebdf5",
-  "oilgasimportbillup60inoctasbrentsurgeslpgusedeclines"
+  "oilgasimportbillup60inoctasbrentsurgeslpgusedeclines",
+  "1f73ff6e275c317f",
+  "crudeoilpricesselloffmorethan7oniranpeacetalkhopesaheadofusm",
+  "256bbec5550a7c76",
+  "currentpriceofoilasofnovember42026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 11
+  "count": 13
  },
- "last_run": "2026-11-22T09:25:16.224631+02:00",
+ "last_run": "2026-11-22T09:30:29.643170+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1192,6 +1192,10 @@
   {
    "d": "2026-11-22",
    "t": "Oil pipeline blockade so far cost Libya nearly $31M: National Oil Corporation - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms - CNBC"
   }
  ]
 }
