@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "b59c479a4b940cb9",
-  "oillosesgriponbondmarketsasinflationvirusspreads",
   "c5416881c548c1ff",
   "oilfuturescrudeparesearliergainstrumpsaysnorushoniran",
   "8b6f494813e0a225",
@@ -603,7 +601,9 @@
   "176237cfb82adb4d",
   "saudicrudeoilexportsrisetosevenmonthhighinseptemberdatashows",
   "888767aab22c839d",
-  "iranianattacksinthestraitofhormuzreachhighestlevelssincethec"
+  "iranianattacksinthestraitofhormuzreachhighestlevelssincethec",
+  "3de227e15ddbe520",
+  "3oiltankerandlngshippingstocksinfocusafterstraitofhormuzdisr"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-11-22T20:45:19.206828+02:00",
+ "last_run": "2026-11-22T20:50:18.036791+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-11-22",
    "t": "Iranian attacks in the Strait of Hormuz reach highest levels since the conflict began - KOMU 8"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "3 Oil Tanker And LNG Shipping Stocks In Focus After Strait Of Hormuz Disruptions - Yahoo Finance"
   }
  ]
 }
