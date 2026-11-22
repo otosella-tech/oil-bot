@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "0c00ac0ed1b17b33",
-  "oilpricesedgehigherastradersassessmiddleeastshippingriskssup",
   "0306713b61b10294",
   "chinaaxespalmoilpurchaseswithstoragespacerunningout",
   "78390588ff523232",
@@ -603,7 +601,9 @@
   "18fc9a3cbfbfa811",
   "crudeoiledgesupasmideastrisksrevivesupplyfears",
   "87b4da12fff6f29b",
-  "exxonmobilledgroupapproves4billionangolaoilprojectasblock15m"
+  "exxonmobilledgroupapproves4billionangolaoilprojectasblock15m",
+  "a06b83c80460aa2e",
+  "libyasnocreports31mnlossduetohamadapipelineclosure"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 29
+  "count": 31
  },
- "last_run": "2026-11-22T16:45:19.014603+02:00",
+ "last_run": "2026-11-22T16:50:19.107251+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1228,6 +1228,10 @@
   {
    "d": "2026-11-22",
    "t": "Russian Cargo Ship Attacked By Drones in Gulf of Finland - Energy Connects"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "Libya’s NOC Reports $31 Mn Loss Due to Hamada Pipeline Closure - Egypt Oil & Gas"
   }
  ]
 }
