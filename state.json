@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "58edb214cc530f7b",
-  "crudeoilfuturesgainonreportsofhouthiattackinriyadh",
   "cd77cb30bb6ec0e7",
   "oilfuturescrudeedgeshigherasiransayswilltestusportblockade",
   "1c998910613f637e",
@@ -603,7 +601,9 @@
   "d0771eb25d417c33",
   "hugepollutionverdictagainstexxonmayopenthedoortonewlegalbatt",
   "8ac242d1fdc5280c",
-  "saudiledcoalitionsaysinterceptedhouthimissileinwesternregion"
+  "saudiledcoalitionsaysinterceptedhouthimissileinwesternregion",
+  "e2581c2b2dc69b3a",
+  "oilpricesreboundashouthiattacksreignitemiddleeastsupplyfears"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-11-22T12:35:14.902730+02:00",
+ "last_run": "2026-11-22T12:40:21.293363+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1204,6 +1204,10 @@
   {
    "d": "2026-11-22",
    "t": "Saudi-led coalition says intercepted Houthi missile in western region - Hürriyet Daily News"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
