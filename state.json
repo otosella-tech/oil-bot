@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "69a9d73e135204e7",
-  "oilpricesreboundashouthiattacksreignitemiddleeastsupplyfears",
   "58edb214cc530f7b",
   "crudeoilfuturesgainonreportsofhouthiattackinriyadh",
   "cd77cb30bb6ec0e7",
@@ -603,7 +601,9 @@
   "ec760ecf213943ae",
   "fromoildepotsinthecityofazovtothedruzhbaoilhubstrikingatthee",
   "d0771eb25d417c33",
-  "hugepollutionverdictagainstexxonmayopenthedoortonewlegalbatt"
+  "hugepollutionverdictagainstexxonmayopenthedoortonewlegalbatt",
+  "8ac242d1fdc5280c",
+  "saudiledcoalitionsaysinterceptedhouthimissileinwesternregion"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-11-22T12:30:33.632060+02:00",
+ "last_run": "2026-11-22T12:35:14.902730+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1200,6 +1200,10 @@
   {
    "d": "2026-11-22",
    "t": "War, latest news. ‘Iran ready to break the blockade of the Strait of Hormuz with over 14 oil tankers’ - Il Sole 24 ORE"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "Saudi-led coalition says intercepted Houthi missile in western region - Hürriyet Daily News"
   }
  ]
 }
