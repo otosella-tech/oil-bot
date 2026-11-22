@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "e808db1f6efa8d06",
-  "crudeoilpriceforecastwtiandbrentslideasusinventoriesrise",
   "6a668dd1634be50a",
   "trumpsukraineenergytruceunravelsasrussianmissileshitkyiv",
   "a57c99b721bdc428",
@@ -603,7 +601,9 @@
   "775d5e4095b8b881",
   "classnkgrantsinnovationendorsementtosamundrainstitute",
   "88341a83836afa43",
-  "iransays2supertankersstrucknavalminesnearstraitofhormuz"
+  "iransays2supertankersstrucknavalminesnearstraitofhormuz",
+  "66ae9c1de55c16f7",
+  "mlpilaggedtheoilrallyonpurposenowthegasbetpays"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -615,7 +615,7 @@
   "date": "2026-11-22",
   "count": 57
  },
- "last_run": "2026-11-22T23:50:20.857872+02:00",
+ "last_run": "2026-11-22T23:55:14.274490+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
