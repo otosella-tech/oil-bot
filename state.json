@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "cc316cf5570ebd1d",
-  "abudhabiindexdipsasoilslidesonamplesupply",
   "647c1194c1820d6b",
   "chinabatteriesvsforeignoiltheusenergydilemmaandtheautoindust",
   "99e754778220c581",
@@ -603,7 +601,9 @@
   "ea65fb35a0a01e32",
   "usimposessanctionsoniranianoilsmugglingnetwork",
   "55feec2f9849a750",
-  "wticrudesinksmorethan5asglobaloilglutfearsgrow"
+  "wticrudesinksmorethan5asglobaloilglutfearsgrow",
+  "2fafc0fff830fa1e",
+  "iranstepsuphormuztankerattacksasoilpricesslide"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-23",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-23T00:55:15.064555+02:00",
+ "last_run": "2026-11-23T01:00:31.838390+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1044,6 +1044,10 @@
   {
    "d": "2026-11-23",
    "t": "US Imposes Sanctions on Iranian Oil Smuggling Network - Global Arab Network"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
