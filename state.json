@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "c5416881c548c1ff",
-  "oilfuturescrudeparesearliergainstrumpsaysnorushoniran",
-  "8b6f494813e0a225",
-  "saudismakedealwithjapantoreplenishdepletedoilstockpiles",
   "595fef114c42fb88",
   "thesevenchartsthatexplainthenewnormalforoilprices",
   "4272405dc62287a1",
@@ -603,7 +599,11 @@
   "888767aab22c839d",
   "iranianattacksinthestraitofhormuzreachhighestlevelssincethec",
   "3de227e15ddbe520",
-  "3oiltankerandlngshippingstocksinfocusafterstraitofhormuzdisr"
+  "3oiltankerandlngshippingstocksinfocusafterstraitofhormuzdisr",
+  "ebfb9272ce85922f",
+  "oilpricesretractafterweakusemploymentdata",
+  "fce36e7fdfdc738a",
+  "iranreadiestankerconvoyatkhargislandtotestusoilblockade"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 49
+  "count": 51
  },
- "last_run": "2026-11-22T21:00:27.997595+02:00",
+ "last_run": "2026-11-22T21:05:15.440101+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1268,6 +1268,10 @@
   {
    "d": "2026-11-22",
    "t": "3 Oil Tanker And LNG Shipping Stocks In Focus After Strait Of Hormuz Disruptions - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "Iran readies tanker convoy at Kharg Island to test US oil blockade - Euronews.com"
   }
  ]
 }
