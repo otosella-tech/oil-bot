@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "86ced19254f69607",
-  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
   "15aa741b12826153",
   "oilpriceseasetotwomonthlowsasusdownplaysfurtheriranstrikes",
   "61788880dcbf90bb",
@@ -603,7 +601,9 @@
   "feac74692d0be9da",
   "crudeoilfuturesoverview",
   "83d3152e4e086fc7",
-  "libyasnationaloilcorporationcostsofalhamadapipelineshutdowne"
+  "libyasnationaloilcorporationcostsofalhamadapipelineshutdowne",
+  "eb98e98f30c21612",
+  "usportsfacecyberattackonslaughtashackerstargetvitaltraderout"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-11-22T17:35:16.176897+02:00",
+ "last_run": "2026-11-22T17:40:19.718840+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1236,6 +1236,10 @@
   {
    "d": "2026-11-22",
    "t": "Libya’s National Oil Corporation: Costs of Al-Hamada Pipeline Shutdown Exceed $30.8 Million - صحيفة مال"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "US ports face cyber attack onslaught as hackers target vital trade routes - Financial Times"
   }
  ]
 }
