@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "558799d1c3ac29f0",
-  "3canadianoilsandsstocksbackedbyalbertaroyaltychanges",
   "164607e59507918e",
   "middleeastwaroilsteadyashouthisattacksaudienergyinfrastructu",
   "573cc40cfc16476a",
@@ -603,7 +601,9 @@
   "a7927968555b2626",
   "nationaloilcorporationrevealslossescausedbyclosureofhamadaoi",
   "dbf01e596d583430",
-  "the25billionproblemfacingaustraliashydropowerrevolution"
+  "the25billionproblemfacingaustraliashydropowerrevolution",
+  "a5546e963a7eb970",
+  "iranmovestorestartoilexportsdespiteusnavalblockade"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-11-22T18:00:38.962891+02:00",
+ "last_run": "2026-11-22T18:05:15.965342+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1244,6 +1244,10 @@
   {
    "d": "2026-11-22",
    "t": "National Oil Corporation reveals losses caused by closure of Hamada oil pipeline - The Libya Observer"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
