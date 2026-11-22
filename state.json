@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "58b771d72b04c7d5",
-  "uscrudeoilinventoriesincreaseby34millionbarrels",
   "fce36e7fdfdc738a",
   "iranreadiestankerconvoyatkhargislandtotestusoilblockade",
   "54e4c2c5963e20ff",
@@ -603,7 +601,9 @@
   "8733d2794e9a0551",
   "googlebackssuperhotgeothermalin50mworegonpowerdeal",
   "073b9e99f1dc0cea",
-  "nationsoilandgasrigcountjumpedto607oklahomaunchanged"
+  "nationsoilandgasrigcountjumpedto607oklahomaunchanged",
+  "145f26d608ca8730",
+  "venezuelasmachadourgesmoredrasticoverhaulofoilsector"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-11-22T20:00:30.405569+02:00",
+ "last_run": "2026-11-22T20:05:15.604304+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-11-22",
    "t": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report - New York Post"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "Venezuela’s Machado Urges More Drastic Overhaul of Oil Sector - Bloomberg.com"
   }
  ]
 }
