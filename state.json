@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "912a33dc636b2381",
-  "currentpriceofoilasofnov172026",
   "9e1ef7de2b68f3ca",
   "oil100yearsagouptonsinclairwrotethegreatamericananticapitali",
   "7024e370d9684404",
@@ -603,7 +601,9 @@
   "9eb4b299df38399e",
   "fbiseekingpotentialvictimsinmidlothiancrudeoilfraudinvestiga",
   "6fc5321098832dca",
-  "cop31newdraftdeclarationmakesnomentionofoilorgas"
+  "cop31newdraftdeclarationmakesnomentionofoilorgas",
+  "2a8e2c8d427ebdf5",
+  "oilgasimportbillup60inoctasbrentsurgeslpgusedeclines"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -615,7 +615,7 @@
   "date": "2026-11-22",
   "count": 11
  },
- "last_run": "2026-11-22T09:15:20.483614+02:00",
+ "last_run": "2026-11-22T09:20:19.732955+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
