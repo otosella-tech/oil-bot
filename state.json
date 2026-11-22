@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "647c1194c1820d6b",
-  "chinabatteriesvsforeignoiltheusenergydilemmaandtheautoindust",
   "99e754778220c581",
   "senatepassessweepingenergypermittingreformbillin6233vote",
   "cd4a8ac88d6a0915",
@@ -603,7 +601,9 @@
   "55feec2f9849a750",
   "wticrudesinksmorethan5asglobaloilglutfearsgrow",
   "2fafc0fff830fa1e",
-  "iranstepsuphormuztankerattacksasoilpricesslide"
+  "iranstepsuphormuztankerattacksasoilpricesslide",
+  "e517434f51714f0f",
+  "wticrudeoilpricesmaytrendlower"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 4
  },
- "last_run": "2026-11-23T01:00:31.838390+02:00",
+ "last_run": "2026-11-23T01:05:15.328986+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
