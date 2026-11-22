@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "686fd70a41a47b59",
-  "middleeastsupplyconcernsliftbrentcrudeprices",
   "18fc9a3cbfbfa811",
   "crudeoiledgesupasmideastrisksrevivesupplyfears",
   "073fb8f01d494be9",
@@ -603,7 +601,9 @@
   "15a8f779960aead6",
   "explosionoftwosupertankerscarrying4millionbarrelsofoilinhorm",
   "ac50f53ba9f88b94",
-  "cyberattacksonusportsraiserisksforoilandfarmexports"
+  "cyberattacksonusportsraiserisksforoilandfarmexports",
+  "1f08337c23deca25",
+  "goldmanisoutwithits2027forecastforbrentoilprices"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -615,7 +615,7 @@
   "date": "2026-11-22",
   "count": 27
  },
- "last_run": "2026-11-22T16:00:37.108808+02:00",
+ "last_run": "2026-11-22T16:05:14.648496+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
