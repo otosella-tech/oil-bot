@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "18fc9a3cbfbfa811",
-  "crudeoiledgesupasmideastrisksrevivesupplyfears",
-  "073fb8f01d494be9",
-  "crudeoilfuturesfallamidprofittakingweakglobalcues",
   "5663fde4f4dacbe7",
   "oilpricestodaynovember202026brentcruderises03to922butstayson",
   "9d9989b8a3573466",
@@ -603,7 +599,11 @@
   "ac50f53ba9f88b94",
   "cyberattacksonusportsraiserisksforoilandfarmexports",
   "1f08337c23deca25",
-  "goldmanisoutwithits2027forecastforbrentoilprices"
+  "goldmanisoutwithits2027forecastforbrentoilprices",
+  "c8472e63a1ccacdb",
+  "oilshockresponsesetsemergingmarketbondwinnersandlosers",
+  "786fd640f29383a5",
+  "russiancargoshipattackedbydronesingulfoffinland"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 27
+  "count": 29
  },
- "last_run": "2026-11-22T16:10:19.456876+02:00",
+ "last_run": "2026-11-22T16:15:19.224851+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-11-22",
    "t": "Explosion of Two Supertankers Carrying 4 Million Barrels of Oil in Hormuz Strait - تسنیم"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "Russian Cargo Ship Attacked By Drones in Gulf of Finland - Energy Connects"
   }
  ]
 }
