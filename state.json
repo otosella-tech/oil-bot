@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "28a5b2259047e127",
-  "taxesandratessettofuelnewwaveoflitigationinbrazilsoilandgasa",
-  "4001da8f8fbebfaf",
-  "euputsmilitaryfuelneedsatheartofnewoilsecuritystrategy",
   "c1ed86b9113d9a28",
   "currentpriceofoilasofnovember52026",
   "9da7307b9535fb68",
@@ -603,7 +599,11 @@
   "6b5a4282bc2af47c",
   "goldpriceforecastselloffechoes2022asfedhikefearsgrow",
   "f779f5ac9cceb661",
-  "californiaswildfirecrisisisthreateningitsenergyfuture"
+  "californiaswildfirecrisisisthreateningitsenergyfuture",
+  "ebf8ad31fb2d239d",
+  "crudeoilfuturesbraceforopecoutputdecisionamidsupplyglutconce",
+  "d36c27182d06d415",
+  "irantransferscrudeoilbetweentankersasaragchiurgesbreaktousbl"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 53
+  "count": 55
  },
- "last_run": "2026-11-22T22:00:30.928772+02:00",
+ "last_run": "2026-11-22T22:05:16.305275+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1276,6 +1276,14 @@
   {
    "d": "2026-11-22",
    "t": "US ports face surge in cyberattack attempts, threatening vital trade routes: Report - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "Crude oil futures brace for OPEC+ output decision amid supply glut concerns: Analysts - The Economic Times"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "Iran transfers crude oil between tankers as Aragchi urges break to US blockade - Türkiye Today"
   }
  ]
 }
