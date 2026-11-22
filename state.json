@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "94dd91cb27341ea7",
-  "californiaoilcountryplotsitscomeback",
   "6b47c5e4dcde57e6",
   "oilpricessettlelowerastradersweighsurplussupplyoutlook",
   "46e5ca2658646983",
@@ -603,7 +601,9 @@
   "256bbec5550a7c76",
   "currentpriceofoilasofnovember42026",
   "361fbde4a9feb696",
-  "anyalaandusanleadnigeriascrudeoutputdeclinemom"
+  "anyalaandusanleadnigeriascrudeoutputdeclinemom",
+  "48e7192e1acdaba5",
+  "fivewindturbinesinanalaskanvillagepowerhomeheatingsystemssav"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -615,7 +615,7 @@
   "date": "2026-11-22",
   "count": 13
  },
- "last_run": "2026-11-22T09:59:25.058764+02:00",
+ "last_run": "2026-11-22T10:05:23.011806+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
