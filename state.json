@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "06f8106b267851d0",
-  "sanctionedtankertransfers200000barrelsofiranianoilamidusnava",
   "e808db1f6efa8d06",
   "crudeoilpriceforecastwtiandbrentslideasusinventoriesrise",
   "6a668dd1634be50a",
@@ -603,7 +601,9 @@
   "9b1af86db2a00b14",
   "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "775d5e4095b8b881",
-  "classnkgrantsinnovationendorsementtosamundrainstitute"
+  "classnkgrantsinnovationendorsementtosamundrainstitute",
+  "88341a83836afa43",
+  "iransays2supertankersstrucknavalminesnearstraitofhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-22",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-11-22T23:45:17.927821+02:00",
+ "last_run": "2026-11-22T23:50:20.857872+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
@@ -1284,6 +1284,10 @@
   {
    "d": "2026-11-22",
    "t": "Iran transfers crude oil between tankers as Aragchi urges break to US blockade - Türkiye Today"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "Iran says 2 supertankers struck naval mines near Strait of Hormuz - Middle East Monitor"
   }
  ]
 }
