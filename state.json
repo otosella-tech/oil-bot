@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "2252db3256a42b18",
-  "oilpricesretreatastradersassesssupplyoutlookmiddleeastrisks",
   "1b2b8866c96d4520",
   "gaspricesdrop18centsnationwideasthanksgivingtravelapproaches",
   "c206a1910513751f",
@@ -603,7 +601,9 @@
   "0c6105f2e130b772",
   "turkeybeginsoffshoreoilandgasexplorationinpakistanplansdrill",
   "41c61dd629d078a0",
-  "eiaoilflowsthroughmiddleeastchokepointsincreasedinthirdquart"
+  "eiaoilflowsthroughmiddleeastchokepointsincreasedinthirdquart",
+  "5c95ac3eb860814c",
+  "fuelpricesunchangedfor10thweek"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -615,7 +615,7 @@
   "date": "2026-11-22",
   "count": 41
  },
- "last_run": "2026-11-22T19:10:24.237180+02:00",
+ "last_run": "2026-11-22T19:15:18.483418+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
