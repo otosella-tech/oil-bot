@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "95e32b6a12712e26",
-  "chinaspersiangulfoilimportshithighsincestartofiranwarasprodu",
   "0c00ac0ed1b17b33",
   "oilpricesedgehigherastradersassessmiddleeastshippingriskssup",
   "0306713b61b10294",
@@ -603,7 +601,9 @@
   "db4cc7ef1b51d7c9",
   "eiaforecastsalaskancrudeoilproductiontogrow13in2027",
   "18fc9a3cbfbfa811",
-  "crudeoiledgesupasmideastrisksrevivesupplyfears"
+  "crudeoiledgesupasmideastrisksrevivesupplyfears",
+  "87b4da12fff6f29b",
+  "exxonmobilledgroupapproves4billionangolaoilprojectasblock15m"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -615,7 +615,7 @@
   "date": "2026-11-22",
   "count": 29
  },
- "last_run": "2026-11-22T16:25:15.601588+02:00",
+ "last_run": "2026-11-22T16:30:32.194044+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
