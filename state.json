@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "0ae9093f1ddbeb6a",
-  "decemberwticrudeoilcontractclosesdown005or01at8321perbarrelj",
   "94dd91cb27341ea7",
   "californiaoilcountryplotsitscomeback",
   "6b47c5e4dcde57e6",
@@ -603,7 +601,9 @@
   "1f73ff6e275c317f",
   "crudeoilpricesselloffmorethan7oniranpeacetalkhopesaheadofusm",
   "256bbec5550a7c76",
-  "currentpriceofoilasofnovember42026"
+  "currentpriceofoilasofnovember42026",
+  "361fbde4a9feb696",
+  "anyalaandusanleadnigeriascrudeoutputdeclinemom"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -615,7 +615,7 @@
   "date": "2026-11-22",
   "count": 13
  },
- "last_run": "2026-11-22T09:40:22.237343+02:00",
+ "last_run": "2026-11-22T09:45:19.416558+02:00",
  "sent_stories": [
   {
    "d": "2026-11-19",
