@@ -4,12 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "69c399a23354d0ca",
-  "whatdogaspriceslooklikeinfountainhills",
-  "ce6c9e8184ef7141",
-  "oilpricesdropforthirdweekstraight",
-  "a35431591759c468",
-  "theuaeisshuttlingoilpastiraninriskyhormuzoperation",
   "1f72e8c1580383ab",
   "ukmtoreports2tankershitbyprojectilesnearhormuzasiranclaimsmi",
   "b10943d3342f0b4c",
@@ -603,7 +597,13 @@
   "d11d25d682a4438c",
   "skyquarrynasdaqskyqsellsdieselatacrackspread25abovethenation",
   "40c11de1eb19b588",
-  "russiasnorthernsearoutebreaks40milliontonnebarrierforfirstti"
+  "russiasnorthernsearoutebreaks40milliontonnebarrierforfirstti",
+  "53d432cbd1deb396",
+  "technicalanalysiscrudeoilmondaynov23talkmarkets",
+  "6aaca4526b744e37",
+  "novoshakhtinskoilrefineryhitgeneralstaffconfirmstatarstanpum",
+  "3bd18e0f8cd93768",
+  "ukrainiandroneshitnovoshakhtinskrefineryignitingfirevisiblef"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T15:20:20.506538+02:00",
+ "last_run": "2026-11-23T15:25:16.002520+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1232,6 +1232,14 @@
   {
    "d": "2026-11-23",
    "t": "Sky Quarry (NASDAQ: SKYQ) Sells Diesel at a Crack Spread 25% Above the National Benchmark as Nevada’s Only Crude Oil Refinery Processes 2,000 Barrels in 36 Hours - The Daily Tribune News"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Novoshakhtinsk oil refinery hit, General Staff confirms, Tatarstan pumping station reportedly burning after Ukrainian drone attack - The Kyiv Independent"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Ukrainian drones hit Novoshakhtinsk refinery, igniting fire visible from space - The New Voice of Ukraine"
   }
  ]
 }
