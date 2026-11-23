@@ -4,16 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "4011da90ce3541a9",
-  "windcouldcutthecostofroundthe",
-  "fb3a15e9341b4db8",
-  "pennsylvaniaweeklyoilgascompliancesnapshotnov7to20",
-  "0ab17f72815d6380",
-  "libyaloses308millionasarmedgroupblocksoilpipelineforover20da",
-  "b0db88727915986b",
-  "aiboomforcesmassiveinvestmentinpowergridsworldwide",
-  "214de8cc4835a1d5",
-  "hormuzoilexportscoulddeclineamidinboundtankershortage",
   "b34dd6594e54c390",
   "shafaqnewsoilsmugglingdrains2bfromiraqannually",
   "5b009cbc3c6528a4",
@@ -603,7 +593,17 @@
   "123671b0a6e93a05",
   "oilpricesfallonincreasedflowsfrommiddleeastlibyanoilpipeline",
   "7623ead43b09e710",
-  "saudiarabiasinfluenceloomedlargeoverfailedcop31deal"
+  "saudiarabiasinfluenceloomedlargeoverfailedcop31deal",
+  "a05799fad26ef348",
+  "briskbiddinginalaskaoilleasesalesdominatedbyasinglecompany",
+  "5ecc8ca0ea568ae2",
+  "oilsettleslowerasrecoveringmiddleeastexportsbolstersurplusou",
+  "41e86f13d27e5532",
+  "currentpriceofoilasofnovember92026",
+  "8496451605350880",
+  "ashighoilpricescurbdemandfreshsignsofglutappear",
+  "42c5b9a2321363be",
+  "crudeoilpricesfallforseconddayasmarkethopesfordiplomaticreso"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T16:45:20.578821+02:00",
+ "last_run": "2026-11-23T16:50:21.500892+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-11-23",
    "t": "Saudi Arabia's influence loomed large over failed COP31 deal - Reuters"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC"
   }
  ]
 }
