@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "748a09e6b36317ad",
-  "crudeoilpricesslumponampleglobalsupplies",
   "9e3a59d6132c745f",
   "wtipriceforecast8150supportholdskeytooilsnextmove",
   "4002b074c6f17ddd",
@@ -603,7 +601,9 @@
   "a77145779d77db94",
   "opecmeetsnov29toset2027oilquotas",
   "18c84287dd1852eb",
-  "opecmeetsnov29toset2027quotaswithnoplanpastdecember"
+  "opecmeetsnov29toset2027quotaswithnoplanpastdecember",
+  "e137ee6044ba7bb4",
+  "brentdropsbelow90aswallstreetsplitson2027oiloutlook"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T16:25:16.462338+02:00",
+ "last_run": "2026-11-23T16:30:33.270669+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
