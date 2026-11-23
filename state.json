@@ -4,12 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "2d2c2b00580b456c",
-  "protestsblamebossesgovtindeathofoilworkersiniran",
-  "6690567c250e0246",
-  "cmewticrudeoilfuturesnear3monthlowasnaturalgasclimbs",
-  "abeb9a2fbe413dd4",
-  "presidioexpandsintopermianwith360millionacquisition",
   "d189d686d0d3cd0b",
   "argentineenergyfirmsrushtosellbondsbeforethe2027election",
   "32f48ac4a8d3e2f8",
@@ -603,7 +597,13 @@
   "de2729534c05a95a",
   "uaepetrolpricesfordecember2026willfuelcostsdropagain",
   "a9c5d8c86f38d77c",
-  "crudeoilpricesslipasgrowthconcernsclashwithmiddleeastsupplyr"
+  "crudeoilpricesslipasgrowthconcernsclashwithmiddleeastsupplyr",
+  "53c4d6cb9a314fe5",
+  "brentcrudenearlydoublesindiaspendsanextra6billiononoilandgas",
+  "5eb1b63ba86f3de4",
+  "oilpricesslipasmarketanxietygrowsoveriranwarthreatstogulfshi",
+  "e321ee58227decad",
+  "crudeoilfuturesrisemcxpricesupglobalbenchmarksmixed"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-23",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-11-23T09:00:30.467170+02:00",
+ "last_run": "2026-11-23T09:05:14.870843+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1128,6 +1128,10 @@
   {
    "d": "2026-11-23",
    "t": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday - Reuters"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Oil Prices Slip as Market Anxiety Grows Over Iran War, Threats to Gulf Shipping - Arise News"
   }
  ]
 }
