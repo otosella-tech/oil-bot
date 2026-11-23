@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "8ac242d1fdc5280c",
-  "saudiledcoalitionsaysinterceptedhouthimissileinwesternregion",
   "e2581c2b2dc69b3a",
   "oilpricesreboundashouthiattacksreignitemiddleeastsupplyfears",
   "380abb9263f39406",
@@ -603,7 +601,9 @@
   "3f2108d6f50ab753",
   "oildropsmorethan3onincreasedmiddleeastflowslibyanpipelineres",
   "181a05f2b0dbafda",
-  "nonlinearmodelshowsstabilityandpredictsmediumtermuscrudeoils"
+  "nonlinearmodelshowsstabilityandpredictsmediumtermuscrudeoils",
+  "5085583646119b18",
+  "theenergytransitionneedsmoremetalsbutlessextraction"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T19:55:15.693889+02:00",
+ "last_run": "2026-11-23T20:00:32.417655+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
