@@ -4,12 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "06b907d1d1c31280",
-  "fedhawkskeep10yearyieldelevateddespiteloweroilprices",
-  "e3f0be0dbc1d365a",
-  "oilpricescaughtbetweenaloomingglutandmiddleeastturmoil",
-  "a1c10912bab7e3fa",
-  "naturalgaswtioilbrentoilforecastsoilmoveslowerastrumpsignals",
   "b5050514d9d5d11c",
   "whoismohammadjavadbavandtheexirgcofficialsanctionedbyus",
   "64c968064069367d",
@@ -603,7 +597,13 @@
   "eff9655bf9138807",
   "vietnamsnghisonrefinerysecurescrudesuppliesuntiljanuary",
   "28e73a1573dbccdb",
-  ""
+  "",
+  "3c1d51dedc7258e8",
+  "conocophillipsannouncesagreementtosellnorwaybusinessandteess",
+  "b2ae676ed2b21014",
+  "oilrefineryablazeinrussiasnovoshakhtinskfollowingattackvideo",
+  "5c2b82796eed4495",
+  "whatsbehindiransescalationofattacksinthegulf"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-23",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-11-23T09:40:20.093168+02:00",
+ "last_run": "2026-11-23T09:45:19.186675+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1136,6 +1136,14 @@
   {
    "d": "2026-11-23",
    "t": "Oil pipeline closures in Libya hit production - Arabian Gulf Business Insight | AGBI"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Oil refinery ablaze in Russia's Novoshakhtinsk following attack – video - Українська правда"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "What’s behind Iran’s escalation of attacks in the Gulf? - Al Jazeera"
   }
  ]
 }
