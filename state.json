@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "18fc9a3cbfbfa811",
-  "crudeoiledgesupasmideastrisksrevivesupplyfears",
   "87b4da12fff6f29b",
   "exxonmobilledgroupapproves4billionangolaoilprojectasblock15m",
   "a06b83c80460aa2e",
@@ -603,7 +601,9 @@
   "f8bca8c81d85d2d9",
   "whyblockingthesunwontsolvetheclimatecrisis",
   "7e494571ed5d7e4a",
-  "oilpricesplungemorethan3asmiddleeastsupplyreboundsandlibyanp"
+  "oilpricesplungemorethan3asmiddleeastsupplyreboundsandlibyanp",
+  "c1c47ffcef512601",
+  "bill42repealingtheoilsandsemissionslimitactandestablishingac"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T21:15:30.169156+02:00",
+ "last_run": "2026-11-23T21:20:21.798956+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
