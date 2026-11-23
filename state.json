@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "3de227e15ddbe520",
-  "3oiltankerandlngshippingstocksinfocusafterstraitofhormuzdisr",
   "ebfb9272ce85922f",
   "oilpricesretractafterweakusemploymentdata",
   "fce36e7fdfdc738a",
@@ -603,7 +601,9 @@
   "2b29e4dd8544c1a2",
   "crudeoilsettlesat8017tradesatitslowestlevelsinceaugust26",
   "6aad0d010daa3b2f",
-  "californiavoicestatepayingforoilindustrysriskyplantoburycarb"
+  "californiavoicestatepayingforoilindustrysriskyplantoburycarb",
+  "6827892acc437ab1",
+  "iranianattacksonshipsnearstraitofhormuzhithighestlevelsincew"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T23:10:26.433287+02:00",
+ "last_run": "2026-11-23T23:15:19.910025+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-11-23",
    "t": "U.S. Targets Financial Networks Behind Iran’s Tanker Fleet and Oil Trade - gCaptain"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Iranian attacks on ships near Strait of Hormuz hit highest level since war began, data shows - The Jerusalem Post"
   }
  ]
 }
