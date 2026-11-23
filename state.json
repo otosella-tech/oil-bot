@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "c380eff759d65327",
-  "oilpricesremainunderpressureasfocusshiftsfromsupplydisruptio",
   "a60b2fa785557321",
   "oilsetforweeklydropassupplysurplusconcernsoutweighmiddleeast",
   "d1255859962ee708",
@@ -603,7 +601,9 @@
   "c71a0cb665573208",
   "oilslumpsaftermidtermelectionrebuketotrumpraisesbetsoniranwa",
   "edcb202bf5153500",
-  "eiauscrudeoilinventoriesdown900000bbl"
+  "eiauscrudeoilinventoriesdown900000bbl",
+  "94556fafaab2eed5",
+  "currentpriceofoilasofnovember202026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 6
  },
- "last_run": "2026-11-23T02:15:19.052293+02:00",
+ "last_run": "2026-11-23T02:20:19.609701+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
