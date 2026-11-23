@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "361fbde4a9feb696",
-  "anyalaandusanleadnigeriascrudeoutputdeclinemom",
-  "48e7192e1acdaba5",
-  "fivewindturbinesinanalaskanvillagepowerhomeheatingsystemssav",
   "94dd91cb27341ea7",
   "californiaoilcountryplotsitscomeback",
   "c27ae44c57d2d121",
@@ -603,7 +599,11 @@
   "8ba648243c704c84",
   "canolatobenefitfromslumpingpalmoilexports",
   "9b04d88113c09cca",
-  "whattheworldsfirstoilboomleftbehind"
+  "whattheworldsfirstoilboomleftbehind",
+  "67230d908f88580c",
+  "americasbiggestoilexportportfacesthousandsofcyberattackattem",
+  "e583b144d0ea70b9",
+  "ukrainestrikeslukoiloilrefineryinrussiaspermwithhelpofunderg"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T18:55:15.533747+02:00",
+ "last_run": "2026-11-23T19:00:35.017307+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1308,6 +1308,14 @@
   {
    "d": "2026-11-23",
    "t": "Storms and Drones Disrupt Russia’s Oil Exports"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "America’s Biggest Oil Export Port Faces Thousands of Cyberattack Attempts"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Ukraine strikes Lukoil oil refinery in Russia's Perm with help of underground resistance movement - Українська правда"
   }
  ]
 }
