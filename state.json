@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "8394457723a7af8f",
-  "moreworktobedoneinoilcountry",
   "9b1af86db2a00b14",
   "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughout",
   "775d5e4095b8b881",
@@ -603,7 +601,9 @@
   "f9767cb480611d76",
   "5energystocksthatcanshrugoffadecemberfedratehike",
   "7cdb2c317e9b046e",
-  "wherecouldcnqstockbein3years"
+  "wherecouldcnqstockbein3years",
+  "537ab0169837705c",
+  "apagoesallinonalaskaoilasleasebiddinghits12yearhigh"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-24T00:13:28.945447+02:00",
+ "last_run": "2026-11-24T00:15:20.250743+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
