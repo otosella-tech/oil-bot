@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "da90c9128adfd632",
-  "iranhardlinerspushtankerconvoytodefyusblockade",
-  "a7d2ddac63077401",
-  "crudeoilforecastwtistrugglesasusinventoriesrise",
   "bc8297994a57f805",
   "treasurysecretarybessentinsistsuswillcontinuesqueezingiranse",
   "1fb49e198a51477a",
@@ -603,7 +599,11 @@
   "2d016d6865f617e3",
   "attacksonshipsinthestraitofhormuzreachtheirhighestlevelsince",
   "bd7853b272d411d6",
-  "crudeoilmarketanalysisfrontendrallylongdatedweaknesscmbnews"
+  "crudeoilmarketanalysisfrontendrallylongdatedweaknesscmbnews",
+  "f7b370f2597559f4",
+  "europeannaturalgaspricessurge86ascoldsnaplooms",
+  "2cb32d9688c2816d",
+  "oilpricesreduceassupplyriskeasesbrentfallsbelow90"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-23",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-11-23T10:25:16.541297+02:00",
+ "last_run": "2026-11-23T10:30:26.195360+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1152,6 +1152,10 @@
   {
    "d": "2026-11-23",
    "t": "Attacks on ships in the Strait of Hormuz reach their highest level since the beginning of the war / Paradoxically, the price of oil is falling - Informat.ro"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "European Natural Gas Prices Surge 8.6% as Cold Snap Looms"
   }
  ]
 }
