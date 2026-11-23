@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "cc7f4fbd5e68c990",
-  "oilmarketreportnovember2026iea",
   "a0d50277701a20ab",
   "japantoexpandsaudicrudeoilstorageasenergycooperationdeepens",
   "bffe646daa232a02",
@@ -603,7 +601,9 @@
   "6a8e217ae97f9d8a",
   "44billionplayforconocophillipsnorwegianoilgasassetsandukinfr",
   "854a2faff46097b5",
-  "dronesattackoneofrussiaslargestoilrefineriesinpermvideo"
+  "dronesattackoneofrussiaslargestoilrefineriesinpermvideo",
+  "b0b7c65f56e75792",
+  "uncondemnsattacksonvesselsinbenghaziaslibyaloses365000barrel"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T12:25:15.215492+02:00",
+ "last_run": "2026-11-23T12:30:26.222421+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1188,6 +1188,10 @@
   {
    "d": "2026-11-23",
    "t": "Drones attack one of Russia’s largest oil refineries in Perm — video - The New Voice of Ukraine"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "UN Condemns Attacks on Vessels in Benghazi as Libya Loses 365,000 Barrels of Oil a Day - DNE Africa"
   }
  ]
 }
