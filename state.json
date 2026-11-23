@@ -606,16 +606,16 @@
   "fiisinflationcrudeoilandglobalcuestodrivemarkets"
  ],
  "releases_done": {},
- "last_digest": "2026-11-22",
+ "last_digest": "2026-11-23",
  "digest_prices": {
-  "WTI": 83.41,
-  "Brent": 89.95
+  "WTI": 83.7,
+  "Brent": 90.31
  },
  "llm": {
   "date": "2026-11-23",
-  "count": 32
+  "count": 38
  },
- "last_run": "2026-11-23T07:55:16.895707+02:00",
+ "last_run": "2026-11-23T08:00:29.348510+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
