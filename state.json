@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "bf068aacb3e7fc3b",
-  "iraqdismantlesoilsmugglingoperationneardhiqarbasraborder",
   "0c6105f2e130b772",
   "turkeybeginsoffshoreoilandgasexplorationinpakistanplansdrill",
   "41c61dd629d078a0",
@@ -603,7 +601,9 @@
   "3e12665dc9632fd2",
   "wtiandbrentpushupwardextendingyeartodategains",
   "86ced19254f69607",
-  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017"
+  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
+  "3396bb4bc9dd63f9",
+  "iranianattacksinthestraitofhormuzareatthehighestlevelssincet"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T22:10:23.570198+02:00",
+ "last_run": "2026-11-23T22:15:19.796941+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1360,6 +1360,10 @@
   {
    "d": "2026-11-23",
    "t": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began - Yahoo"
   }
  ]
 }
