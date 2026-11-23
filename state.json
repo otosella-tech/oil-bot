@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "8496451605350880",
-  "ashighoilpricescurbdemandfreshsignsofglutappear",
   "537dcfcdddf3e060",
   "iransoilleverageisweakeningthatcouldpushittowardescalation",
   "073b3f4f9f1c54c8",
@@ -603,7 +601,9 @@
   "9940b7b92b3ea85b",
   "wtipriceforecastseemsvulnerablebelow8300despitemideastjitter",
   "fd52ee2c6baba8fd",
-  "dronestargetrussianoilfacilitiesinthreeregionsfiresreporteda"
+  "dronestargetrussianoilfacilitiesinthreeregionsfiresreporteda",
+  "910861bb5db41e42",
+  "anotheroilpricerollbackeffectivetuesdaynovember242026oilcomp"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T11:05:16.529636+02:00",
+ "last_run": "2026-11-23T11:10:22.223488+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
