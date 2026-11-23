@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "ca49a60231657dc8",
-  "iraqafteralternativeoilroutesviasyriatrkiyeamidhormuzrisksda",
   "14af7cd4db3e9ad2",
   "trumpputinxipledgetoincreaseglobalpetrolsuppliesbuthow",
   "b339c4bb9a7e60c0",
@@ -603,7 +601,9 @@
   "1f58833cf666d38b",
   "ustightensiranblockadewithcurbsonoiltransfersatseaadvisorysh",
   "c2c8f8b09191c344",
-  "currentpriceofoilasofoctober292026"
+  "currentpriceofoilasofoctober292026",
+  "d780bdb5b52add20",
+  "novoshakhtinskoilrefineryreportedlyburningafterukrainiandron"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-23",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-11-23T03:20:18.883061+02:00",
+ "last_run": "2026-11-23T03:25:14.895945+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1060,6 +1060,10 @@
   {
    "d": "2026-11-23",
    "t": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows - Reuters"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Novoshakhtinsk oil refinery reportedly burning after Ukrainian drone attack - The Kyiv Independent"
   }
  ]
 }
