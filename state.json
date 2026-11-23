@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "ca490811a23b397f",
-  "usoildrillerspickupthepacejustasoilpricesfall",
-  "925ec1b1296c5d39",
-  "reportsclaimiranispreparingoilconvoytotestusblockade",
   "5a57e799fe24e2c5",
   "dep12michaelharjuconventionaloilgaswellsdeclaredabandonednot",
   "285bb0936d83241f",
@@ -603,7 +599,11 @@
   "c4cef014702de8f2",
   "ugandasignscrudeoilmarketingdealwithvitolaheadoffirstexports",
   "b8efa57f5f0b596b",
-  "2yearsagosaudiarabiaquietlycanceledthepetrodollardealwithame"
+  "2yearsagosaudiarabiaquietlycanceledthepetrodollardealwithame",
+  "2f9ef33f0d772fe5",
+  "oilholdsintightrangeasgulfattackssustainriskpremium",
+  "90f045375cc46461",
+  "naturalgasandoilforecastaiselloffdragsoillowercanwtibreak836"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-23",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-11-23T07:35:15.999822+02:00",
+ "last_run": "2026-11-23T07:40:20.176150+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1108,6 +1108,10 @@
   {
    "d": "2026-11-23",
    "t": "2 years ago, Saudi Arabia quietly canceled the ‘petrodollar’ deal with America that wired the world economy for 50 years. Then war broke out in Iran - Fortune"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Oil holds in tight range as Gulf attacks sustain risk premium - Reuters"
   }
  ]
 }
