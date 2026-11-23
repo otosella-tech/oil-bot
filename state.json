@@ -4,14 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "b44d4060159e955b",
-  "dangoteawardscontractsadvancinglekkirefiningcomplexexpansion",
-  "dcba0973cbb8a87b",
-  "watchvenezuelasmachadourgesmoredrasticoverhaulofoilsector",
-  "7282514c051e0fb1",
-  "carbonnegativepanamatakesonoilpowersatunclimatesummit",
-  "bfb2b3090279e13d",
-  "brentcrudeoilpricepredictionconsolidationlikelywithsupplyris",
   "0a31350a2484bf86",
   "crudepricessliponampleglobaloilsupplies",
   "54539f3d32a83d6a",
@@ -603,7 +595,15 @@
   "5723dc5a61a4d6bb",
   "petroldieselpricessteadyascrudeoilextendsdecline",
   "bd98bf473ed9ee3b",
-  "novoshakhtinskoilrefinerytatarstanpumpingstationburningafter"
+  "novoshakhtinskoilrefinerytatarstanpumpingstationburningafter",
+  "fbcc8373ae43a537",
+  "crudeoilfallsonstrongmiddleeastexportsdespitehouthiattackson",
+  "d37dacc63acd266a",
+  "ugandavitolsign10yearpearlsweetcrudeoilmarketingagreement",
+  "feae097222e698fb",
+  "iraqreopensthemediterraneancrudeoilroutethekirkukpipelinebyp",
+  "4c26f35a22d74c2c",
+  "petrovietnamtoinvestvnd133trillioninnghisoneconomiczone"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-23",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-11-23T06:50:19.691527+02:00",
+ "last_run": "2026-11-23T06:55:22.468047+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1084,6 +1084,14 @@
   {
    "d": "2026-11-23",
    "t": "Novoshakhtinsk oil refinery, Tatarstan pumping station burning after Ukrainian drone attack - The Kyiv Independent"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Crude Oil Falls on Strong Middle East Exports Despite Houthi Attacks on Riyadh By Kedia Advisory - Investing.com India"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Iraq reopens the Mediterranean crude oil route: the Kirkuk pipeline bypasses the Strait of Hormuz - Il Sole 24 ORE"
   }
  ]
 }
