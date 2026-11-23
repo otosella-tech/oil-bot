@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "b339c4bb9a7e60c0",
-  "recycleusedthanksgivingcookingoilatgobblegreasetoss",
   "8181e3f758f6374b",
   "iranianoilmovedbetweentankersasuswidensblockade",
   "4f95db622d634133",
@@ -603,7 +601,9 @@
   "d780bdb5b52add20",
   "novoshakhtinskoilrefineryreportedlyburningafterukrainiandron",
   "1afc954d66d76a7f",
-  "commoditycornercrudeoilslipsonsupplyconcernsgoldreboundsasfe"
+  "commoditycornercrudeoilslipsonsupplyconcernsgoldreboundsasfe",
+  "9365548b976e3d60",
+  "cyberattacksonusportsandshippingexposetradenetworkvulnerabil"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 12
  },
- "last_run": "2026-11-23T04:00:30.626294+02:00",
+ "last_run": "2026-11-23T04:05:15.630635+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
