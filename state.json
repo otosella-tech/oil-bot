@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "0ae690ad5fdc5350",
-  "courtkillsfourthlawsuitchallenginggulfoildrilling",
   "ca490811a23b397f",
   "usoildrillerspickupthepacejustasoilpricesfall",
   "925ec1b1296c5d39",
@@ -603,7 +601,9 @@
   "419091977ef1a51a",
   "crudeoilfallsasglobalselloffoffsetsmiddleeastrisks",
   "c4cef014702de8f2",
-  "ugandasignscrudeoilmarketingdealwithvitolaheadoffirstexports"
+  "ugandasignscrudeoilmarketingdealwithvitolaheadoffirstexports",
+  "b8efa57f5f0b596b",
+  "2yearsagosaudiarabiaquietlycanceledthepetrodollardealwithame"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-23",
-  "count": 26
+  "count": 28
  },
- "last_run": "2026-11-23T07:25:16.198852+02:00",
+ "last_run": "2026-11-23T07:30:24.272902+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1104,6 +1104,10 @@
   {
    "d": "2026-11-23",
    "t": "Tankers Are Being Hit Daily. So Why Is Oil Falling - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "2 years ago, Saudi Arabia quietly canceled the ‘petrodollar’ deal with America that wired the world economy for 50 years. Then war broke out in Iran - Fortune"
   }
  ]
 }
