@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "f6a1ab7495b05c28",
-  "oildrops7asiransignalsopennesstopeacetalks",
-  "4b6f6dc3d1b88c61",
-  "eiauscrudeoilinventoriesup47millionbbl",
   "bc62458f7b8b16a7",
   "oilisestimatedtoeasein2027assuppliersadapttohormuzdisruption",
   "748a09e6b36317ad",
@@ -603,7 +599,11 @@
   "a4f601121f572108",
   "trumpscoalrevivaliscostingamericansmorethanexpected",
   "3eb69975b15c8903",
-  "oilpriceforecastwtisupplygrowsasbrentfacesshippingrisks"
+  "oilpriceforecastwtisupplygrowsasbrentfacesshippingrisks",
+  "486735b622c23364",
+  "oilpricesedgelowerasmiddleeastsupplyrisksoffsetexpectationso",
+  "a77145779d77db94",
+  "opecmeetsnov29toset2027oilquotas"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T16:10:21.897832+02:00",
+ "last_run": "2026-11-23T16:15:21.947164+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1264,6 +1264,10 @@
   {
    "d": "2026-11-23",
    "t": "Iran prepares oil tanker convoy to break US naval blockade, threatens Gulf facilities - report - The Jerusalem Post"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "OPEC+ Meets Nov 29 to Set 2027 Oil Quotas - houseofsaud.com"
   }
  ]
 }
