@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "feaddda4b77e4b8e",
-  "itchytriggerfingerssparkedfridaygaininoilprices",
   "2d2c2b00580b456c",
   "protestsblamebossesgovtindeathofoilworkersiniran",
   "6690567c250e0246",
@@ -603,7 +601,9 @@
   "6e456198b707a379",
   "oilgainsoniranwarworriesandshortcoveringaheadofthanksgivingh",
   "de2729534c05a95a",
-  "uaepetrolpricesfordecember2026willfuelcostsdropagain"
+  "uaepetrolpricesfordecember2026willfuelcostsdropagain",
+  "a9c5d8c86f38d77c",
+  "crudeoilpricesslipasgrowthconcernsclashwithmiddleeastsupplyr"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 44
  },
- "last_run": "2026-11-23T08:55:16.848083+02:00",
+ "last_run": "2026-11-23T09:00:30.467170+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
