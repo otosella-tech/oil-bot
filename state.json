@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "a1cbeaaef94a49d7",
-  "tankershitinstraitofhormuzasirantightensgriponshipping",
   "e566ec88981606f7",
   "iranpreparesoiltankerconvoytobreakusnavalblockadethreatensgu",
   "f091245fdc59af13",
@@ -603,7 +601,9 @@
   "a35431591759c468",
   "theuaeisshuttlingoilpastiraninriskyhormuzoperation",
   "37144cfd0f5c04bf",
-  "deutschebankseesoilsurplusreturningbrentat70orbelowbyinvesti"
+  "deutschebankseesoilsurplusreturningbrentat70orbelowbyinvesti",
+  "50a32a8503b86054",
+  "oilpricesfallastradersweighsupplysurplusgulfattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T15:40:20.211561+02:00",
+ "last_run": "2026-11-23T15:45:18.883457+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1256,6 +1256,10 @@
   {
    "d": "2026-11-23",
    "t": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks - WSJ"
   }
  ]
 }
