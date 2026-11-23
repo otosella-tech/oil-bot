@@ -4,14 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "4272405dc62287a1",
-  "ubscrudeoilselloffhaslikelygonetoofarcl1comcommodity",
-  "6b5a4282bc2af47c",
-  "goldpriceforecastselloffechoes2022asfedhikefearsgrow",
-  "f779f5ac9cceb661",
-  "californiaswildfirecrisisisthreateningitsenergyfuture",
-  "ebf8ad31fb2d239d",
-  "crudeoilfuturesbraceforopecoutputdecisionamidsupplyglutconce",
   "d36c27182d06d415",
   "irantransferscrudeoilbetweentankersasaragchiurgesbreaktousbl",
   "b35b98637b0242b5",
@@ -603,7 +595,15 @@
   "39ef550e75726f22",
   "usdemocratssweepnarrowstrumpsiranoptionsoilmarketsmurky",
   "562cc419ddde9752",
-  "holidaytravelisgettingcheaperasnatronacountynationalgasprice"
+  "holidaytravelisgettingcheaperasnatronacountynationalgasprice",
+  "3eabbb5079cd9636",
+  "holidaytravelgetscheaperasnatronacountynationalgaspricesslid",
+  "303e08e71a5d302b",
+  "closureoftheshararapipelineaffectslibyanoilproduction",
+  "c4de02379f1c5461",
+  "cmewticrudeoilfuturesfellbelow80to3monthlows",
+  "61a6de7fd94d6cd5",
+  "lawyerupjdvancedemocratsinvestigatingvicepresident"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T23:50:21.316049+02:00",
+ "last_run": "2026-11-23T23:55:15.548337+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1384,6 +1384,10 @@
   {
    "d": "2026-11-23",
    "t": "Iranian attacks on ships near Strait of Hormuz hit highest level since war began, data shows - The Jerusalem Post"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Closure of the Sharara pipeline affects Libyan oil production - Inspenet"
   }
  ]
 }
