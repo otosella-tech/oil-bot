@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "278729ccd59a7789",
-  "fpiflowscrudeoilglobaltrendstodictatemarketmovementinholiday",
   "bc5788a43e0a6cab",
   "iranshighstakesgamblebreakingtheusnavalblockadetoforceaswift",
   "ec760ecf213943ae",
@@ -603,7 +601,9 @@
   "85e71ada0308c29c",
   "eusaysefficiencymeasuressaved120billioningasoilimportcostssi",
   "3e9204a9a6a649c5",
-  "northdakotaapproves178minoilandgasresearchgrantsincluding34m"
+  "northdakotaapproves178minoilandgasresearchgrantsincluding34m",
+  "f9daa05234d4d45c",
+  "mapshowswheregaspricesarehighestandlowestaheadofthanksgiving"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T19:40:21.352594+02:00",
+ "last_run": "2026-11-23T19:45:29.923600+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
