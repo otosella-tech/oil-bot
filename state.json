@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "15a8f779960aead6",
-  "explosionoftwosupertankerscarrying4millionbarrelsofoilinhorm",
   "ac50f53ba9f88b94",
   "cyberattacksonusportsraiserisksforoilandfarmexports",
   "1f08337c23deca25",
@@ -603,7 +601,9 @@
   "97a2b576de99aaed",
   "hugepollutionverdictagainstexxonmayopenthedoortonewlegalbatt",
   "e9da080e351f96aa",
-  "threeweekcrudepullbacktestsfragilepersiangulfsupplygains"
+  "threeweekcrudepullbacktestsfragilepersiangulfsupplygains",
+  "86fc410a6de97aef",
+  "pakistanandiranmovetoboostenergycooperation"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T20:25:22.951032+02:00",
+ "last_run": "2026-11-23T20:30:28.106949+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1332,6 +1332,10 @@
   {
    "d": "2026-11-23",
    "t": "Oil drops more than 3% on increased Middle East flows, Libyan pipeline restart - The Globe and Mail"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Pakistan and Iran Move to Boost Energy Cooperation"
   }
  ]
 }
