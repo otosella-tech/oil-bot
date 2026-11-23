@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "e417a3ebd1c33e49",
-  "oilpricesdropbelow100asmidtermsfuelhopeforanendtotheiranwar",
   "3a49494a88652a10",
   "middleeastwarthreattousoilsuppliessayswirthalookback",
   "1e1f78a48d693ed4",
@@ -603,7 +601,9 @@
   "64d4b1168ce9060f",
   "whatisdrivingwinchesterenergysoilproductionintexasamidlowerc",
   "fe76ca4d2f5f2bc6",
-  "straitofhormuzattackshaveincreasedtohighestlevelsinceiranwar"
+  "straitofhormuzattackshaveincreasedtohighestlevelsinceiranwar",
+  "96b95ee37eb576bb",
+  "kopcoliftsegyptsbarakafieldoutputby180toover600barrelsadayaf"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T12:45:21.151188+02:00",
+ "last_run": "2026-11-23T12:50:21.796465+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
