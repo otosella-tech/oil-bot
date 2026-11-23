@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "ac50f53ba9f88b94",
-  "cyberattacksonusportsraiserisksforoilandfarmexports",
-  "1f08337c23deca25",
-  "goldmanisoutwithits2027forecastforbrentoilprices",
   "c8472e63a1ccacdb",
   "oilshockresponsesetsemergingmarketbondwinnersandlosers",
   "786fd640f29383a5",
@@ -603,7 +599,11 @@
   "e9da080e351f96aa",
   "threeweekcrudepullbacktestsfragilepersiangulfsupplygains",
   "86fc410a6de97aef",
-  "pakistanandiranmovetoboostenergycooperation"
+  "pakistanandiranmovetoboostenergycooperation",
+  "0ca018c49b4a0c82",
+  "canadiandollarfallsfor10thstraightsessionasoilslides",
+  "adc83f18ce4e7718",
+  "ukrainiandronestrikeforcesmajorrussianoilrefinerytoshutdown"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T20:30:28.106949+02:00",
+ "last_run": "2026-11-23T20:35:16.009380+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1336,6 +1336,10 @@
   {
    "d": "2026-11-23",
    "t": "Pakistan and Iran Move to Boost Energy Cooperation"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Ukrainian drone strike forces major Russian oil refinery to shut down - TVP World"
   }
  ]
 }
