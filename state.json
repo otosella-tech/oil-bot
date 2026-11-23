@@ -4,12 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "2a7c5ac6a745d00b",
-  "saudiarabiaagreestotriplecrudeoilstoredinjapan",
-  "52fb9c35a54f0116",
-  "japanwantsanasianenergyagencywilltheregionbuyin",
-  "ec392f2470680cf7",
-  "oilpricesriseonrenewedfearsofescalationinthemiddleeast",
   "fac108f5bbd87d0d",
   "oilpricesdown201126",
   "bc73dab2c6b0b3be",
@@ -603,7 +597,13 @@
   "da8f1c53e6ddd7e4",
   "goldmansachsoilpricestoeasein2027asgulfsuppliersadaptnewsand",
   "0ff58f8983a4c6d2",
-  "libyasoiloutputplungesasarmedgroupsshutkeypipelines"
+  "libyasoiloutputplungesasarmedgroupsshutkeypipelines",
+  "3dbeb93b96706020",
+  "oilslipswithmideastflowsinfocus",
+  "d07489585f2567d6",
+  "oilcontinuestofallafterdecliningforthreeconsecutiveweeks",
+  "3cf859077a99464f",
+  "twomoretankershitoffomanhouthisthreatensaudiredseaports"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T11:55:16.823158+02:00",
+ "last_run": "2026-11-23T12:00:42.523821+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1172,6 +1172,10 @@
   {
    "d": "2026-11-23",
    "t": "Libya’s Oil Output Plunges as Armed Groups Shut Key Pipelines"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Two More Tankers Hit Off Oman, Houthis Threaten Saudi Red Sea Ports - The Maritime Executive"
   }
  ]
 }
