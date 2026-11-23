@@ -4,18 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "1f72e8c1580383ab",
-  "ukmtoreports2tankershitbyprojectilesnearhormuzasiranclaimsmi",
-  "b10943d3342f0b4c",
-  "ugandasignscrudeoilmarketingdealwithvitolaheadoffirstoilprod",
-  "5ecc8ca0ea568ae2",
-  "oilsettleslowerasrecoveringmiddleeastexportsbolstersurplusou",
-  "4ec1c57670ed0c20",
-  "commentarychinaresumesstoringcrudeoilgivingitfuelexportoptio",
-  "8585d522c120cded",
-  "komombopetroleumboostsoiloutputby180afterdevelopingbarakafie",
-  "f94bd345655a173f",
-  "britainsnetzerorevolutionhasachinaproblem",
   "ed6e9d7664053a5b",
   "njayukcallsforboldenergyinvestmentsaheadofsouthsudanoilpower",
   "a1cbeaaef94a49d7",
@@ -603,7 +591,19 @@
   "6aaca4526b744e37",
   "novoshakhtinskoilrefineryhitgeneralstaffconfirmstatarstanpum",
   "3bd18e0f8cd93768",
-  "ukrainiandroneshitnovoshakhtinskrefineryignitingfirevisiblef"
+  "ukrainiandroneshitnovoshakhtinskrefineryignitingfirevisiblef",
+  "ecf7cdf0eea47adc",
+  "southkoreaasksqatarforprioritylngoncehormuzreopens",
+  "e547f3580329bd3b",
+  "currentpriceofoilasofnovember232026",
+  "d5dc213ff50a79f5",
+  "isnorwaysoilfundablessingoracurse",
+  "3718f96bdf3b7607",
+  "oilpricesslipashormuztransitslowsandhouthiattackswiden",
+  "8860f91f3253b8c0",
+  "uaestepsupeffortstoshuttleoilthroughstraitofhormuz",
+  "a35431591759c468",
+  "theuaeisshuttlingoilpastiraninriskyhormuzoperation"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T15:25:16.002520+02:00",
+ "last_run": "2026-11-23T15:30:33.761759+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1240,6 +1240,22 @@
   {
    "d": "2026-11-23",
    "t": "Ukrainian drones hit Novoshakhtinsk refinery, igniting fire visible from space - The New Voice of Ukraine"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "South Korea Asks Qatar for Priority LNG Once Hormuz Reopens"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Oil prices slip as Hormuz transit slows and Houthi attacks widen - IranWire"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "UAE steps up efforts to shuttle oil through Strait of Hormuz - Washington Times"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ"
   }
  ]
 }
