@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "82ec9ca8e180b0f9",
-  "yourfridaynov20guidefivethingstodointheoilcity",
   "ca49a60231657dc8",
   "iraqafteralternativeoilroutesviasyriatrkiyeamidhormuzrisksda",
   "14af7cd4db3e9ad2",
@@ -603,7 +601,9 @@
   "29e89667f69bb6c0",
   "oilflowsthroughmiddleeastchokepointsincreasedinthethirdquart",
   "1f58833cf666d38b",
-  "ustightensiranblockadewithcurbsonoiltransfersatseaadvisorysh"
+  "ustightensiranblockadewithcurbsonoiltransfersatseaadvisorysh",
+  "c2c8f8b09191c344",
+  "currentpriceofoilasofoctober292026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-22",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 10
  },
- "last_run": "2026-11-23T03:05:15.578483+02:00",
+ "last_run": "2026-11-23T03:10:18.582823+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
