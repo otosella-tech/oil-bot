@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "d35fd131c4e5a744",
-  "iranwarwipesout28billionbarrelsofoilsupplywhyarecrudepricesf",
-  "325e446946561196",
-  "asiangasolinemarginplungestooverthreeyearlowsonamplesupplies",
   "4babc9a258027b02",
   "depinspectordrivinginforestcountyfoundcontaminatedwaterfromc",
   "f3ac97473f0efeba",
@@ -603,7 +599,11 @@
   "3ce9ec35d848f4bc",
   "japantotriplejointsaudicrudestorageandbuyupto8millionbbl",
   "e13bec33e4afe6b7",
-  "fireatnovoshakhtinskoilrefineryisvisibleevenfromspaceukraine"
+  "fireatnovoshakhtinskoilrefineryisvisibleevenfromspaceukraine",
+  "b083feb08e1f5e99",
+  "trumpsaysstrikesonirancouldresumeafternewyear",
+  "47197218e9cb665c",
+  "oildeclinesamidstockselloffattacksinthegulfregionlimitlosses"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T14:25:17.710693+02:00",
+ "last_run": "2026-11-23T14:30:27.976243+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-11-23",
    "t": "Russia’s Oil Exports Under Threat as Ukrainian Drones Hit Key Pumping Hub 1,300 Km From Border - UNITED24 Media"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Trump Says Strikes on Iran Could Resume After New Year"
   }
  ]
 }
