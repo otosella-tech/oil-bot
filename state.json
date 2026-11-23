@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "db4cc7ef1b51d7c9",
-  "eiaforecastsalaskancrudeoilproductiontogrow13in2027",
   "18fc9a3cbfbfa811",
   "crudeoiledgesupasmideastrisksrevivesupplyfears",
   "87b4da12fff6f29b",
@@ -603,7 +601,9 @@
   "235408031660d268",
   "oilsiranwarrecoverymasksastubborndieselshortagebousso",
   "f8bca8c81d85d2d9",
-  "whyblockingthesunwontsolvetheclimatecrisis"
+  "whyblockingthesunwontsolvetheclimatecrisis",
+  "7e494571ed5d7e4a",
+  "oilpricesplungemorethan3asmiddleeastsupplyreboundsandlibyanp"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T21:05:18.596427+02:00",
+ "last_run": "2026-11-23T21:10:22.581348+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1348,6 +1348,10 @@
   {
    "d": "2026-11-23",
    "t": "Oil’s Iran war recovery masks a stubborn diesel shortage: Bousso - BOE Report"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Oil prices plunge more than 3% as Middle East supply rebounds and Libyan pipeline restarts - Oil & Gas 360"
   }
  ]
 }
