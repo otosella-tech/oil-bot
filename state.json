@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "d25b1500a30e4013",
-  "currentpriceofoilasofoctober302026",
   "958fa0d54d958ebd",
   "currentpriceofoilasofnovember22026",
   "c5b6f87df620a0f0",
@@ -603,7 +601,9 @@
   "fa7c5cef578c941e",
   "oilgasolinepricestumblingdown",
   "5b507168b3444e0a",
-  "oiltheftsspanalliraqigovernorateslossesestimatedat150billion"
+  "oiltheftsspanalliraqigovernorateslossesestimatedat150billion",
+  "789a26b00d69dde7",
+  "oilnarrativehasturnedstrategistswarn"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T19:10:31.012159+02:00",
+ "last_run": "2026-11-23T19:15:20.230315+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
