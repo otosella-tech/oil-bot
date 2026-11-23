@@ -1,13 +1,9 @@
 {
  "price_base": {
-  "WTI": 84.04,
+  "WTI": 82.28,
   "Brent": 89.04
  },
  "seen": [
-  "23a3e35452097455",
-  "howtheoilmarketcouldmovefromfaminetoglut",
-  "4ff391cfb1f7ab87",
-  "ochsnerincreasesitsfootprintinoilcenterafterbuying2largebuil",
   "683a479fe724d859",
   "russiaoiloutputrisksfreshdeclineasukrainestepsupattacks",
   "df66ffa383fbff1a",
@@ -603,7 +599,11 @@
   "e3cfee720e77b8ea",
   "iransfereydunplantodefyusblockade14tankersreadyforshowdowngu",
   "c88782269b713afa",
-  "oilmarketpredictionsofsurplusamidstongoingvolatility"
+  "oilmarketpredictionsofsurplusamidstongoingvolatility",
+  "ccc213a0b193b51c",
+  "usiranwardelivers216billionwindfalltonineafricanfossilfuelex",
+  "17558e10747e73fd",
+  "whatbrentcrudeoilswideningpremiumoverwtimeansforshelllseshel"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T13:15:19.459257+02:00",
+ "last_run": "2026-11-23T13:20:31.738961+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1208,6 +1208,10 @@
   {
    "d": "2026-11-23",
    "t": "Iran's Fereydun Plan to defy US blockade: 14 tankers ready for showdown, Gulf oil facilities at stake - The Times of India"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "US-Iran war delivers $21.6 billion windfall to nine African fossil-fuel exporters as Washington's military spending hits $48.3 billion - Business Insider Africa"
   }
  ]
 }
