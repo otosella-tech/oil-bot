@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "fd9dec11b996d312",
-  "saudiarabiabeginsreplenishingjointcrudeoilstoragefacilitiesi",
-  "7c1262a2c3c82323",
-  "alaskanorthslopecrudeoilrecordsfifthhighestmonthlyaveragepri",
   "e417a3ebd1c33e49",
   "oilpricesdropbelow100asmidtermsfuelhopeforanendtotheiranwar",
   "3a49494a88652a10",
@@ -603,7 +599,11 @@
   "82f5532847ac1731",
   "japanplanstooffersaudiarabia16mlnbarrelsofadditionaloilstora",
   "5790c57d8fcff629",
-  "iransaysitwilluseallitstoolstoconfrontusnavalblockade"
+  "iransaysitwilluseallitstoolstoconfrontusnavalblockade",
+  "64d4b1168ce9060f",
+  "whatisdrivingwinchesterenergysoilproductionintexasamidlowerc",
+  "fe76ca4d2f5f2bc6",
+  "straitofhormuzattackshaveincreasedtohighestlevelsinceiranwar"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T12:40:20.970834+02:00",
+ "last_run": "2026-11-23T12:45:21.151188+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1196,6 +1196,10 @@
   {
    "d": "2026-11-23",
    "t": "Iran says it will use all its tools to confront US naval blockade - Reuters"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Strait of Hormuz attacks have increased to highest level since Iran war began - ABC News - Breaking News, Latest News and Videos"
   }
  ]
 }
