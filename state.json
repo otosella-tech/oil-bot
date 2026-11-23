@@ -4,12 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "bc73dab2c6b0b3be",
-  "oilpricessurgepast50yetusshaleproducerswontexpandoutputq3sha",
-  "9d2f5d38d9449108",
-  "currentpriceofoilasofnov102026",
-  "ee96f2818334234c",
-  "usoilrigcountupby6forweekendingnov20",
   "04c894be8f7b3d4e",
   "sablestocktumblesafterkeycustomerpausesoilpurchases",
   "82cd933e1774330e",
@@ -603,7 +597,13 @@
   "3cf859077a99464f",
   "twomoretankershitoffomanhouthisthreatensaudiredseaports",
   "2a7c5ac6a745d00b",
-  "saudiarabiaagreestotriplecrudeoilstoredinjapan"
+  "saudiarabiaagreestotriplecrudeoilstoredinjapan",
+  "b18cf2bb9ccb929e",
+  "factcheckismoreoilgoingthroughhormuzthanbeforetheiranwar",
+  "fc036956b95d851d",
+  "ukrainiandroneskill1strikeoilrefineryinpermregion",
+  "aacf6dfbc362d462",
+  "extremeweatheraddsweekstooilandgasshipmentsiea"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T12:05:16.765026+02:00",
+ "last_run": "2026-11-23T12:10:19.992673+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1176,6 +1176,14 @@
   {
    "d": "2026-11-23",
    "t": "Two More Tankers Hit Off Oman, Houthis Threaten Saudi Red Sea Ports - The Maritime Executive"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Fact check: Is more oil going through Hormuz than before the Iran war? - Houston Chronicle"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Ukrainian Drones Kill 1, Strike Oil Refinery in Perm Region - The Moscow Times"
   }
  ]
 }
