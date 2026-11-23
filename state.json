@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "c8472e63a1ccacdb",
-  "oilshockresponsesetsemergingmarketbondwinnersandlosers",
   "786fd640f29383a5",
   "russiancargoshipattackedbydronesingulfoffinland",
   "28b59c0e50a168ee",
@@ -603,7 +601,9 @@
   "0ca018c49b4a0c82",
   "canadiandollarfallsfor10thstraightsessionasoilslides",
   "adc83f18ce4e7718",
-  "ukrainiandronestrikeforcesmajorrussianoilrefinerytoshutdown"
+  "ukrainiandronestrikeforcesmajorrussianoilrefinerytoshutdown",
+  "29cd7eb28641d11a",
+  "ukrainestrikeslukoilrefineryinrussiaspermwithhelpofundergrou"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T20:35:16.009380+02:00",
+ "last_run": "2026-11-23T20:40:27.747122+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1340,6 +1340,10 @@
   {
    "d": "2026-11-23",
    "t": "Ukrainian drone strike forces major Russian oil refinery to shut down - TVP World"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Ukraine strikes Lukoil refinery in Russia's Perm with help of underground resistance movement - Українська правда"
   }
  ]
 }
