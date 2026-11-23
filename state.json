@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "936a971e4039966a",
-  "howthealbertagovernmentcouldfillanewpipelinewithroyaltiespai",
   "7ac6fe52777690a6",
   "indianmarkettrendsfpicrudeoilglobalcuestodictate",
   "638498cc1931df76",
@@ -603,7 +601,9 @@
   "f719b16b8cb9008d",
   "forexgoldoiloutlookusdstrengthaheadofcorepce",
   "0c4782dc9bdaa7c4",
-  "wtiandbrentcrudeoilpricesdeclineasbessentchallengesfedshawki"
+  "wtiandbrentcrudeoilpricesdeclineasbessentchallengesfedshawki",
+  "e7101833ace05f7e",
+  "japanselectricitypricessurgeto2022highascoldweatherarrives"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T19:25:15.887241+02:00",
+ "last_run": "2026-11-23T19:30:27.964297+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1316,6 +1316,10 @@
   {
    "d": "2026-11-23",
    "t": "Ukraine strikes Lukoil oil refinery in Russia's Perm with help of underground resistance movement - Українська правда"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Japan’s Electricity Prices Surge to 2022 High as Cold Weather Arrives"
   }
  ]
 }
