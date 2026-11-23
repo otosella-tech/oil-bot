@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "ea65fb35a0a01e32",
-  "usimposessanctionsoniranianoilsmugglingnetwork",
   "55feec2f9849a750",
   "wticrudesinksmorethan5asglobaloilglutfearsgrow",
   "2fafc0fff830fa1e",
@@ -603,7 +601,9 @@
   "4e66fbde1a8f29b3",
   "trumppedalsanotherliesuggestsdemocratskeptoilpriceshightowin",
   "5103fc509b8c5492",
-  "quantumcomputingcouldacceleratetheenergytransition"
+  "quantumcomputingcouldacceleratetheenergytransition",
+  "4551a6b187f798fe",
+  "oilholdsdeclineonsignsofcontinuingusirandiplomacy"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -612,219 +612,11 @@
   "Brent": 90.31
  },
  "llm": {
-  "date": "2026-11-23",
-  "count": 60
+  "date": "2026-11-24",
+  "count": 2
  },
- "last_run": "2026-11-24T01:15:28.917759+02:00",
+ "last_run": "2026-11-24T01:20:19.893390+02:00",
  "sent_stories": [
-  {
-   "d": "2026-11-20",
-   "t": "Iran Mounts About 14 Hormuz Attacks in November as Brent Crude Falls One-Fifth - https://houseofsaud.com/"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Oil Is Estimated to Ease in 2027 as Suppliers Adapt to Hormuz Disruption - Goldman Sachs"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Oil Set for Third Weekly Drop as Ample Supply Counters Iran Risk - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "There is no going back ‘to the way it was before’ the Iran war’s energy shock, IEA says - WHEC.com"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Oil Set for Third Weekly Drop as Ample Supply Outweighs War Risk - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns - Reuters"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Oil prices head higher on fears of more strikes on Iran - Transport Topics"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Oil Slips as Strait of Hormuz Supply Returns, U.S. Rate Hike Awaited - BigGo Finance"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Confidence in Hormuz has been 'crushed' by war on Iran, IEA says - Middle East Eye"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Iranian Oil Transferred Between Tankers as US Widens Blockade - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Oil prices gain as Houthi attacks on Riyadh raise supply concerns - CNBC"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "No way back for oil after Hormuz, says IEA’s Birol, but Goldman still sees Brent at $78 - investingLive"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "OPEC+ Output Hike and Hormuz Reopening: Crude Oil Market Impact — CMB News - CMB News"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "China’s Persian Gulf oil imports hit high since start of Iran war as producers cut prices - South China Morning Post"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Oil prices ease to two-month lows as US downplays further Iran strikes - Reuters"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Middle East war: Oil steady as Houthis attack Saudi energy infrastructure again - www.engine.online"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "China’s Solar Exports Surge 21% as U.S. Tariff Deadline Looms"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Venezuela’s Machado Urges More Drastic Overhaul of Oil Sector - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "WTI Faces Upward Pressure Amid Middle East Attacks Despite Record Supply Projections - TalkMarkets - Howl.Link"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Iran readies tanker convoy at Kharg Island to test US oil blockade - Euronews.com"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Oil loses grip on bond markets as inflation ‘virus’ spreads - Financial Times"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Saudis Make Deal With Japan to Replenish Depleted Oil Stockpiles - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Iran Refuses Nuclear Inspections as U.S. Military Threats Mount"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Ukraine strikes key Druzhba oil pipeline station in Russia's Tatarstan, General Staff confirms - The Kyiv Independent"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Indian Refiners Race to Secure Oil Tankers as Freight Costs Rise - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Sanctioned Tanker Transfers 200,000 Barrels of Iranian Oil Amid U.S. Naval Blockade - IranWire"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Trump’s Ukraine Energy Truce Unravels as Russian Missiles Hit Kyiv"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Iraq's Oil Crackdown Sparks New Showdown With Kurdistan"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "COMMENTARY: Weekend Reads: 'Made with Europe,' Russia's war chest and US measles crisis - Reuters"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Iraq after alternative oil routes via Syria, Türkiye amid Hormuz risks | Daily Sabah - Daily Sabah"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Iranian Oil Moved Between Tankers as US Widens Blockade - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Smugglers ‘hot tap’ Iraqi pipelines to steal oil - Arabian Gulf Business Insight | AGBI"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "China’s Persian Gulf oil imports hit highest level since start of Iran war - South China Morning Post"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Hormuz Tanker Attacks vs Sliding Crude Oil Prices – Market Impact — CMB News - CMB News"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "China’s Oil Imports from Persian Gulf Jump to Wartime High"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Iran readies tankers to run US blockade, threatens Persian Gulf oil if fired on - Iran International"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Norway’s Gas Sales Surge Nearly 20% as Europe Braces for Winter"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Without Iranian oil, China's small refiners face pain but not collapse - Reuters"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Watch Venezuela’s Machado Urges More Drastic Overhaul of Oil Sector - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Oil deliveries to Serbia resume after two-week pipeline outage - Upstream Online"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Tankers Are Being Hit Daily. So Why Is Oil Falling?"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "North Dakota Drillers Tap Trucks as Pipe Outage Disrupts Flows - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "North Dakota oil producers moving crude by truck as pipeline outage continues (ENB:NYSE) - Seeking Alpha"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "North Dakota Drillers Tap Trucks as Pipe Outage Roils Flows - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Iran War Oil Premium Evaporates as Global Crude Supplies Surge - gCaptain"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war - CNBC"
-  },
-  {
-   "d": "2026-11-20",
-   "t": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday - Reuters"
-  },
   {
    "d": "2026-11-21",
    "t": "Iran hardliners push tanker convoy to defy US blockade - Iran International"
@@ -1388,6 +1180,10 @@
   {
    "d": "2026-11-23",
    "t": "Closure of the Sharara pipeline affects Libyan oil production - Inspenet"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com"
   }
  ]
 }
