@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "683a479fe724d859",
-  "russiaoiloutputrisksfreshdeclineasukrainestepsupattacks",
   "df66ffa383fbff1a",
   "illinoisbasincrudeoilpricesdropnearly21perbarrelsinceendofoc",
   "b9907780debab0df",
@@ -603,7 +601,9 @@
   "ccc213a0b193b51c",
   "usiranwardelivers216billionwindfalltonineafricanfossilfuelex",
   "17558e10747e73fd",
-  "whatbrentcrudeoilswideningpremiumoverwtimeansforshelllseshel"
+  "whatbrentcrudeoilswideningpremiumoverwtimeansforshelllseshel",
+  "5428405e50a590e6",
+  "chinaeclipsesusastopbuyerofcanadaspacificboundoil"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T13:20:31.738961+02:00",
+ "last_run": "2026-11-23T13:25:15.515783+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
