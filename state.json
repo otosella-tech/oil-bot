@@ -4,12 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "537dcfcdddf3e060",
-  "iransoilleverageisweakeningthatcouldpushittowardescalation",
-  "073b3f4f9f1c54c8",
-  "paoilgasindustrialfacilitiespermitnoticesopportunitiestocomm",
-  "485e08a13016689c",
-  "ieasaysiranwarhaschangedoilmarketsforgoodasgulfexportslag",
   "e5a92e3a0aa27a57",
   "oilpoststhirdweeklylossamidsurplus",
   "0be55a0fe3f8cc8c",
@@ -603,7 +597,13 @@
   "fd52ee2c6baba8fd",
   "dronestargetrussianoilfacilitiesinthreeregionsfiresreporteda",
   "910861bb5db41e42",
-  "anotheroilpricerollbackeffectivetuesdaynovember242026oilcomp"
+  "anotheroilpricerollbackeffectivetuesdaynovember242026oilcomp",
+  "c78915b7f0e89722",
+  "branchedhydrophobicpolyacrylamidereducesturbulentcrudeoilpip",
+  "7031ee753356281c",
+  "shararapipelineclosuredeepenslibyasoilproductioncrisis",
+  "e49a8aa4d492d31b",
+  "willbrentcrudeoilpriceholdabove9066supportamidrisingsupplyan"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T11:20:21.441063+02:00",
+ "last_run": "2026-11-23T11:25:22.189004+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1164,6 +1164,10 @@
   {
    "d": "2026-11-23",
    "t": "Drones target Russian oil facilities in three regions, fires reported at refineries - Hromadske"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Sharara pipeline closure deepens Libya’s oil production crisis - The Arab Weekly"
   }
  ]
 }
