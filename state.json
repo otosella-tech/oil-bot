@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "145f26d608ca8730",
-  "venezuelasmachadourgesmoredrasticoverhaulofoilsector",
   "176237cfb82adb4d",
   "saudicrudeoilexportsrisetosevenmonthhighinseptemberdatashows",
   "888767aab22c839d",
@@ -603,7 +601,9 @@
   "a0d0acb038795fec",
   "iraqconsidersexporting10millionbarrelsofoiltoegypt",
   "6bd424e161d03e7b",
-  "ustargetsfinancialnetworksbehindiranstankerfleetandoiltrade"
+  "ustargetsfinancialnetworksbehindiranstankerfleetandoiltrade",
+  "6b9cd811aba25e5b",
+  "willbatterieskilloffgasturbinesatdatacenters"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T22:55:16.032606+02:00",
+ "last_run": "2026-11-23T23:00:32.305550+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
