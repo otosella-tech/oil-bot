@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "786fd640f29383a5",
-  "russiancargoshipattackedbydronesingulfoffinland",
   "28b59c0e50a168ee",
   "uscrudeoilstockpilespostunexpectedweeklybuild",
   "db4cc7ef1b51d7c9",
@@ -603,7 +601,9 @@
   "adc83f18ce4e7718",
   "ukrainiandronestrikeforcesmajorrussianoilrefinerytoshutdown",
   "29cd7eb28641d11a",
-  "ukrainestrikeslukoilrefineryinrussiaspermwithhelpofundergrou"
+  "ukrainestrikeslukoilrefineryinrussiaspermwithhelpofundergrou",
+  "235408031660d268",
+  "oilsiranwarrecoverymasksastubborndieselshortagebousso"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T20:50:21.267572+02:00",
+ "last_run": "2026-11-23T20:55:15.344919+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1344,6 +1344,10 @@
   {
    "d": "2026-11-23",
    "t": "Ukraine strikes Lukoil refinery in Russia's Perm with help of underground resistance movement - Українська правда"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Oil’s Iran war recovery masks a stubborn diesel shortage: Bousso - BOE Report"
   }
  ]
 }
