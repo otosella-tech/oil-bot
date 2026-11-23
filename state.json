@@ -4,12 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "7ac6fe52777690a6",
-  "indianmarkettrendsfpicrudeoilglobalcuestodictate",
-  "638498cc1931df76",
-  "warlatestnewsiranreadytobreaktheblockadeofthestraitofhormuzw",
-  "ea12feb363a75a97",
-  "fpicrudeoilglobaltrendstotosteermarketsinholidayshortenedwee",
   "278729ccd59a7789",
   "fpiflowscrudeoilglobaltrendstodictatemarketmovementinholiday",
   "bc5788a43e0a6cab",
@@ -603,7 +597,13 @@
   "0c4782dc9bdaa7c4",
   "wtiandbrentcrudeoilpricesdeclineasbessentchallengesfedshawki",
   "e7101833ace05f7e",
-  "japanselectricitypricessurgeto2022highascoldweatherarrives"
+  "japanselectricitypricessurgeto2022highascoldweatherarrives",
+  "0e5f30f248b99132",
+  "oilfallsonincreasedmiddleeastflowslibyanpipelinerestart",
+  "85e71ada0308c29c",
+  "eusaysefficiencymeasuressaved120billioningasoilimportcostssi",
+  "3e9204a9a6a649c5",
+  "northdakotaapproves178minoilandgasresearchgrantsincluding34m"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T19:30:27.964297+02:00",
+ "last_run": "2026-11-23T19:35:16.604921+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1320,6 +1320,10 @@
   {
    "d": "2026-11-23",
    "t": "Japan’s Electricity Prices Surge to 2022 High as Cold Weather Arrives"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Oil falls on increased Middle East flows, Libyan pipeline restart - Yahoo Finance"
   }
  ]
 }
