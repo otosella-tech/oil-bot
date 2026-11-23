@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "722dcb37bd30c06b",
-  "liveusisraelweighstrikesbessentsaysiranmayneverbepaidforoila",
-  "feda6224ad6888f4",
-  "globalcrudeexportshitrecordhighdespitehormuzclosure",
   "691aa98a37553941",
   "oilpricesexpectedtomoderatebutfuelpricesstayhigh",
   "36905971dca3ed87",
@@ -603,7 +599,11 @@
   "73c5890283bc1b05",
   "skyquarrynasdaqskyqsellsdieselatacrackspread",
   "207db2aa1d43d91e",
-  "agingsanctionedtankerlingersoffnorwaylinkedtodubaishippingfi"
+  "agingsanctionedtankerlingersoffnorwaylinkedtodubaishippingfi",
+  "343871833197560b",
+  "georgiagaspricesfall16centsaheadofthanksgiving",
+  "7fcd42eacb605416",
+  "skyquarryincannounces2000barrelprocessingmilestoneateaglespr"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T14:55:15.347584+02:00",
+ "last_run": "2026-11-23T15:00:32.390286+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1224,6 +1224,10 @@
   {
    "d": "2026-11-23",
    "t": "Aging Sanctioned Tanker Lingers Off Norway, Linked to Dubai Shipping Firm Cited Over Insurance - High North News"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Sky Quarry Inc. Announces 2,000-Barrel Processing Milestone at Eagle Springs Refinery as Diesel Margins Remain Elevated - Quiver Quantitative"
   }
  ]
 }
