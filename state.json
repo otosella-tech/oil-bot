@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "9e3a59d6132c745f",
-  "wtipriceforecast8150supportholdskeytooilsnextmove",
   "4002b074c6f17ddd",
   "oiltankershitnearstraitofhormuzasfarmenergyrisksrise",
   "4011da90ce3541a9",
@@ -603,7 +601,9 @@
   "18c84287dd1852eb",
   "opecmeetsnov29toset2027quotaswithnoplanpastdecember",
   "e137ee6044ba7bb4",
-  "brentdropsbelow90aswallstreetsplitson2027oiloutlook"
+  "brentdropsbelow90aswallstreetsplitson2027oiloutlook",
+  "123671b0a6e93a05",
+  "oilpricesfallonincreasedflowsfrommiddleeastlibyanoilpipeline"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T16:30:33.270669+02:00",
+ "last_run": "2026-11-23T16:35:18.404901+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1272,6 +1272,10 @@
   {
    "d": "2026-11-23",
    "t": "OPEC+ Meets Nov 29 to Set 2027 Quotas With No Plan Past December - https://houseofsaud.com/"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Oil prices fall on increased flows from Middle East, Libyan oil pipeline restart - Reuters"
   }
  ]
 }
