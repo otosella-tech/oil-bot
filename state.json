@@ -4,10 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "b7a1c68ec8d9cd7a",
-  "crudeoilsteadiesasmideastrisksoffsetsurplusfears",
-  "0161b45d22aab304",
-  "canolatobenefitfromslumpingpalmoilexports",
   "4341b0bddaffe690",
   "youcanseizeeverythingtheusisrevivingpiratelawplanetmoney",
   "f3d700b7d9465220",
@@ -603,7 +599,11 @@
   "e44df2d2416db4cb",
   "oilfuturescrudemovessidewaysasamplesupplyoffsetstensions",
   "f2aaeb50c43f0a0c",
-  "whyisdieselstillexpensivedespitefallingoilprices"
+  "whyisdieselstillexpensivedespitefallingoilprices",
+  "4600d8a4415999ca",
+  "eugreenenergygiantsslam40billionbudgetcut",
+  "8491070af8b579eb",
+  "oilpipelineclosuresinlibyahitproduction"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-23",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-11-23T09:25:16.717413+02:00",
+ "last_run": "2026-11-23T09:30:25.682013+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1132,6 +1132,10 @@
   {
    "d": "2026-11-23",
    "t": "Oil Prices Slip as Market Anxiety Grows Over Iran War, Threats to Gulf Shipping - Arise News"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Oil pipeline closures in Libya hit production - Arabian Gulf Business Insight | AGBI"
   }
  ]
 }
