@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "fe76ca4d2f5f2bc6",
-  "straitofhormuzattackshaveincreasedtohighestlevelsinceiranwar",
   "fd9dec11b996d312",
   "saudiarabiabeginsreplenishingjointcrudeoilstoragefacilitiesi",
   "7c1262a2c3c82323",
@@ -603,7 +601,9 @@
   "a5b114639f4f07e7",
   "musevenisblackgoldslipstomid2027",
   "82f5532847ac1731",
-  "japanplanstooffersaudiarabia16mlnbarrelsofadditionaloilstora"
+  "japanplanstooffersaudiarabia16mlnbarrelsofadditionaloilstora",
+  "5790c57d8fcff629",
+  "iransaysitwilluseallitstoolstoconfrontusnavalblockade"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T12:38:13.820255+02:00",
+ "last_run": "2026-11-23T12:40:20.970834+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1192,6 +1192,10 @@
   {
    "d": "2026-11-23",
    "t": "UN Condemns Attacks on Vessels in Benghazi as Libya Loses 365,000 Barrels of Oil a Day - DNE Africa"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Iran says it will use all its tools to confront US naval blockade - Reuters"
   }
  ]
 }
