@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "b71f42290e465504",
-  "usoilproductionandrignumbersincrease",
-  "bb38f789939d6ba5",
-  "iraqconsidersexporting10millionbarrelsofoiltoegypt",
   "c6d973d45a6134a2",
   "usportsfacewaveofcyberattacksaslosangelesblocks120millionatt",
   "8733d2794e9a0551",
@@ -603,7 +599,11 @@
   "28a81755095c324c",
   "gaspricesfallaheadofthanksgivingascrudeoilslides",
   "b934d273eec74594",
-  "bofasees80brentin2027despitegrowingoilsupply"
+  "bofasees80brentin2027despitegrowingoilsupply",
+  "1c9886ff9c3e4d9d",
+  "generalstaffconfirmsstrikeonlukoiloilrefineryinperm",
+  "a84be97292d490b0",
+  "iranamasses14oiltankersatkeyexporthubastehranweighschallenge"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T22:40:20.916908+02:00",
+ "last_run": "2026-11-23T22:45:25.627181+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
@@ -1368,6 +1368,14 @@
   {
    "d": "2026-11-23",
    "t": "Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "General Staff confirms strike on Lukoil oil refinery in Perm - Ukrinform"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report - New York Post"
   }
  ]
 }
