@@ -4,8 +4,6 @@
   "Brent": 89.04
  },
  "seen": [
-  "fac108f5bbd87d0d",
-  "oilpricesdown201126",
   "bc73dab2c6b0b3be",
   "oilpricessurgepast50yetusshaleproducerswontexpandoutputq3sha",
   "9d2f5d38d9449108",
@@ -603,7 +601,9 @@
   "d07489585f2567d6",
   "oilcontinuestofallafterdecliningforthreeconsecutiveweeks",
   "3cf859077a99464f",
-  "twomoretankershitoffomanhouthisthreatensaudiredseaports"
+  "twomoretankershitoffomanhouthisthreatensaudiredseaports",
+  "2a7c5ac6a745d00b",
+  "saudiarabiaagreestotriplecrudeoilstoredinjapan"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-23",
   "count": 60
  },
- "last_run": "2026-11-23T12:00:42.523821+02:00",
+ "last_run": "2026-11-23T12:05:16.765026+02:00",
  "sent_stories": [
   {
    "d": "2026-11-20",
