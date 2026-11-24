@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "2369b5aab6a19a64",
-  "whyoilpricesarefallingbrentsthirdweeklydropasgulfbarrelsretu",
   "bf35d3a6ad7eab06",
   "oilpricesextendlossesasequityselloffweighsoncrude",
   "2515f3322c9556c3",
@@ -603,7 +601,9 @@
   "f56f4772e8249114",
   "gulfnationseye40billioninpipelineprojectstobypassstraitofhor",
   "a945e5fca12cc056",
-  "oilpricesapproachedthreemonthlows"
+  "oilpricesapproachedthreemonthlows",
+  "f757b693158ef7c3",
+  "chinaindiasetforrecordrussianoilimportsin2026butdemandseenpe"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-24",
-  "count": 51
+  "count": 53
  },
- "last_run": "2026-11-24T11:10:20.547781+02:00",
+ "last_run": "2026-11-24T11:15:19.403565+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1280,6 +1280,10 @@
   {
    "d": "2026-11-24",
    "t": "Gulf Nations Eye $40 Billion in Pipeline Projects to Bypass Strait of Hormuz, IEA Says - Pipeline Technology Journal"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "China, India set for record Russian oil imports in 2026, but demand seen peaking - Reuters"
   }
  ]
 }
