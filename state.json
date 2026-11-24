@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "117252b06433df5e",
-  "crudeoildeclinesunderthepressureofitscurrentresistanceanalys",
   "97a2b576de99aaed",
   "hugepollutionverdictagainstexxonmayopenthedoortonewlegalbatt",
   "e9da080e351f96aa",
@@ -603,7 +601,9 @@
   "e6bb4d4cf659f73e",
   "washingtonisbuyingitswayoutofchinastungstengrip",
   "c9ce834eccdd130e",
-  "exclusiveiraqweighsarmyactiononkurdistanoilsmuggling"
+  "exclusiveiraqweighsarmyactiononkurdistanoilsmuggling",
+  "fb913ff98de3851e",
+  "persiangulfoilexportsnearprewarlevelsdespitehormuzattacks"
  ],
  "releases_done": {
   "2026-11-24|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-25",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-25T01:05:21.441048+02:00",
+ "last_run": "2026-11-25T01:10:20.147734+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1375,6 +1375,10 @@
   {
    "d": "2026-11-25",
    "t": "Four More Ships Attacked as Iran Widens Hormuz Crackdown to Tugboats - gCaptain"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Persian Gulf oil exports near prewar levels despite Hormuz attacks - Iran International"
   }
  ]
 }
