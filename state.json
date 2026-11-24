@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "7099c052dadbda7e",
-  "uscrudeoilstockpilesriseforsecondstraightweek",
   "30ce34e1712f3701",
   "revealedoilsandsallianceislobbyingmarkcarneysgovernmentalmos",
   "3830765f956fad27",
@@ -603,7 +601,9 @@
   "99b3654dcae536b2",
   "isthistinyoilgianttherealcrownjeweloftrumpsnewworldorder",
   "b5ca76a10236c1b9",
-  "oilcompaniesagreewiththestanceofenergysecretarysharongarinth"
+  "oilcompaniesagreewiththestanceofenergysecretarysharongarinth",
+  "28f440a445556bf4",
+  "oilslidesnearly4asreturningsupplyoutweighsgulfattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T22:05:17.915158+02:00",
+ "last_run": "2026-11-24T22:10:20.384859+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1464,6 +1464,10 @@
   {
    "d": "2026-11-24",
    "t": "Iraqi Kurds close ranks as Baghdad moves to seize oil, border control - Al-Monitor"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil Slides Nearly 4% as Returning Supply Outweighs Gulf Attacks - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
