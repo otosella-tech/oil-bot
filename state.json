@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "0ca018c49b4a0c82",
-  "canadiandollarfallsfor10thstraightsessionasoilslides",
   "adc83f18ce4e7718",
   "ukrainiandronestrikeforcesmajorrussianoilrefinerytoshutdown",
   "29cd7eb28641d11a",
@@ -603,7 +601,9 @@
   "6b7de6a1be3df1c8",
   "bankofcanadawarnsofpersistentinflationbondsdecline",
   "801ad1dc86ccc506",
-  "poweroutagesinoilrichiranareresultofregimesplunderingwealtha"
+  "poweroutagesinoilrichiranareresultofregimesplunderingwealtha",
+  "f0b8758d7834272e",
+  "whitmerhaltsstraitsofmackinacoilpipelinetunnelpermittingproc"
  ],
  "releases_done": {
   "2026-11-24|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-25",
-  "count": 8
+  "count": 10
  },
- "last_run": "2026-11-25T01:40:26.680762+02:00",
+ "last_run": "2026-11-25T01:45:19.535543+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1387,6 +1387,10 @@
   {
    "d": "2026-11-25",
    "t": "Power Outages In Oil-Rich Iran Are Result Of Regime’s Plundering Wealth And Destroying Infrastructure - OpEd - Eurasia Review"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Whitmer halts Straits of Mackinac oil pipeline tunnel permitting process - Detroit Free Press"
   }
  ]
 }
