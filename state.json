@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "e547f3580329bd3b",
-  "currentpriceofoilasofnovember232026",
   "d5dc213ff50a79f5",
   "isnorwaysoilfundablessingoracurse",
   "3718f96bdf3b7607",
@@ -603,7 +601,9 @@
   "eb0fbfe3b7144aea",
   "iraqipmordersfederalgovernmenttomanageoilfieldsundercontrolo",
   "e4ae8ed691410e26",
-  "porthoustonsharesshipchannelmonthlytrademarketreport"
+  "porthoustonsharesshipchannelmonthlytrademarketreport",
+  "84614d7433ae5684",
+  "bankofcanadachiefwarnsofoilpassthroughstickyinflation"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T19:34:21.711414+02:00",
+ "last_run": "2026-11-24T19:35:16.066593+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1412,6 +1412,10 @@
   {
    "d": "2026-11-24",
    "t": "Energy briefs–oil traffic in the Strait of Hormuz - Oklahoma Energy Today"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Bank of Canada Chief Warns of Oil Passthrough, Sticky Inflation - Bloomberg"
   }
  ]
 }
