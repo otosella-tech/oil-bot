@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "9940b7b92b3ea85b",
-  "wtipriceforecastseemsvulnerablebelow8300despitemideastjitter",
   "fd52ee2c6baba8fd",
   "dronestargetrussianoilfacilitiesinthreeregionsfiresreporteda",
   "910861bb5db41e42",
@@ -603,7 +601,9 @@
   "8247af6d68ced814",
   "oiltouchesthreemonthlowsbeforerecoveringonhormuzthreat",
   "5c234380fece9c91",
-  "dealingwithanenergymarketbothtightandloose"
+  "dealingwithanenergymarketbothtightandloose",
+  "01a86e9583e499cf",
+  "theoilmarketistalkingaboutasurplusagain"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T14:40:19.726254+02:00",
+ "last_run": "2026-11-24T14:45:19.511268+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
