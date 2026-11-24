@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "f48b1bcb84b398ad",
-  "oiljumps2settlesat6monthhighsonfearsofescalationiniran",
-  "6113e0ba46dd2512",
-  "currentpriceofoilasofoctober282026",
   "dbdfc56bb463202b",
   "rupeedeclines23paiseto9285againstusdollarinearlytrade",
   "a333818a049dba4e",
@@ -603,7 +599,11 @@
   "a64d9e5db9a14ff2",
   "exclusivejdvancestiestoprizedvenezuelanoilcontractunderinves",
   "bfb2b3090279e13d",
-  "brentcrudeoilpricepredictionconsolidationlikelywithsupplyris"
+  "brentcrudeoilpricepredictionconsolidationlikelywithsupplyris",
+  "18553a73b3f59e07",
+  "oilpricesholdnearthree",
+  "49cb2f1e05059c5b",
+  "theusblockadeofiranholds"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-24",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-11-24T09:00:33.910710+02:00",
+ "last_run": "2026-11-24T09:05:16.554436+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1244,6 +1244,10 @@
   {
    "d": "2026-11-24",
    "t": "EXCLUSIVE: JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel - Reuters"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims"
   }
  ]
 }
