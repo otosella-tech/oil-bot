@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "2e51f792f0ad3d12",
-  "opiniondieselshortagepersistsdespiteswiftoilmarketrecovery",
   "2bc5e99daa925e9f",
   "assetbackedfinancingintheoilpatchishelpingprivateequityexits",
   "3ce9ec35d848f4bc",
@@ -603,7 +601,9 @@
   "2dfa848f960eaabf",
   "indiasoctobercrudeoilimportsriseover4monthonmonth",
   "15196539d4d9bcc9",
-  "crudeoilremainsunderpressureasdemandconcernscontinuetoweighd"
+  "crudeoilremainsunderpressureasdemandconcernscontinuetoweighd",
+  "a23c0a70a948eeb5",
+  "brentcrudeprice890824monthlyslidebeforeopec"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T18:15:20.827850+02:00",
+ "last_run": "2026-11-24T18:20:26.180339+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1388,6 +1388,10 @@
   {
    "d": "2026-11-24",
    "t": "In risky move, Iraqi PM takes on Iran-backed militias and Kurdish leaders - The Arab Weekly"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Brent Crude Price $89.08: 24% Monthly Slide Before OPEC+ - FinanceFeeds"
   }
  ]
 }
