@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "125d0e4e3c576c3f",
-  "oilfluctuatesasamplesupplyvieswithmiddleeasttensions",
-  "41fd8e2d76f881a4",
-  "oilfuturescrudesteadiesasamplesupplyoffsetsmideasttensions",
   "77bd7f81691b7662",
   "onceinstalledtheresnogettingridofitwhatfalklandsoilplansmean",
   "a0d4e4e6f673f53d",
@@ -603,7 +599,11 @@
   "39222d1ca983e83d",
   "crudeoiloutlookturnsbearishasmarketspriceinthe2027supplyglut",
   "228fa714036f5851",
-  "oilpricesslideasaibubblefearsrattleglobalmarkets"
+  "oilpricesslideasaibubblefearsrattleglobalmarkets",
+  "4e63fad93850d0ff",
+  "treasuriesadvanceascheaperoilalleviatesinflationconcerns",
+  "337ae49a2b0bda22",
+  "iraqspmordersfederaltakeoverofkurdistanoilexportsbordercross"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 47
  },
- "last_run": "2026-11-24T10:20:18.989651+02:00",
+ "last_run": "2026-11-24T10:25:15.080863+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
