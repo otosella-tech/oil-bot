@@ -4,12 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "2a7c5ac6a745d00b",
-  "saudiarabiaagreestotriplecrudeoilstoredinjapan",
-  "b18cf2bb9ccb929e",
-  "factcheckismoreoilgoingthroughhormuzthanbeforetheiranwar",
-  "fc036956b95d851d",
-  "ukrainiandroneskill1strikeoilrefineryinpermregion",
   "aacf6dfbc362d462",
   "extremeweatheraddsweekstooilandgasshipmentsiea",
   "6eefcfb76e885364",
@@ -603,7 +597,13 @@
   "d8c220c08e03703e",
   "libyasoiloutputplungesasarmedgroupsshutkeypipelines",
   "aed526722a47a89a",
-  "midtermelectionsshiftenergypolicybutoilsupplystillrules"
+  "midtermelectionsshiftenergypolicybutoilsupplystillrules",
+  "11428f13ba67445e",
+  "oilsdownwardtrendispushinggasolinelower",
+  "78270b22bfbbc147",
+  "hormuzoiltrafficisdown40percentareiranstankerattacksworking",
+  "fbc8258102b43615",
+  "investingliveeuropeannewswrapusfuturesgivebacknvidialedgains"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T15:35:15.335949+02:00",
+ "last_run": "2026-11-24T15:40:19.324037+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1336,6 +1336,10 @@
   {
    "d": "2026-11-24",
    "t": "Libya's Oil Output Plunges as Armed Groups Shut Key Pipelines - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working? - Al Jazeera"
   }
  ]
 }
