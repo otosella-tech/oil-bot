@@ -4,12 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "5428405e50a590e6",
-  "chinaeclipsesusastopbuyerofcanadaspacificboundoil",
-  "85011579d761db96",
-  "ukmarketsbriefwhysupermarketstocksarerisingandwhereoilprices",
-  "986b1f98b6738a08",
-  "russiasoilexportsunderthreatasukrainiandroneshitkeypumpinghu",
   "baaf1cecb15eb5a8",
   "oilfuturescruderetreatsasamplesupplyoffsetsmideasttensions",
   "5879e4c4c7ad1486",
@@ -603,7 +597,13 @@
   "6b30633ba6197a6f",
   "oilreboundsfromthreemonthlowsonhormuzthreats",
   "18c4c75826a8b1dd",
-  "brazilstaxrevenueextendsrecordruninoctoberbuoyedbyhigheroilp"
+  "brazilstaxrevenueextendsrecordruninoctoberbuoyedbyhigheroilp",
+  "2e71ff7dd44604ef",
+  "libyaandiraqcouldbethenextbigheadacheforoilmarkets",
+  "e887ec10f3151eed",
+  "iraqorderstakeoverofoilfieldsinareasunderkurdishcontrol",
+  "8273c77d987063cb",
+  "libyaswesterngovernmentaskstripolicourttoannularkenuoildeal"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T17:20:21.703581+02:00",
+ "last_run": "2026-11-24T17:25:17.522742+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1380,6 +1380,10 @@
   {
    "d": "2026-11-24",
    "t": "Oil rebounds from three-month lows on Hormuz threats - CNBC"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Libya and Iraq Could Be the Next Big Headache for Oil Markets"
   }
  ]
 }
