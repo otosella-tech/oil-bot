@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "f2e9b56e68dbd15d",
-  "oiledgeslowerasamplesupplyoutweighsmiddleeasttensions",
   "29e89667f69bb6c0",
   "oilflowsthroughmiddleeastchokepointsincreasedinthethirdquart",
   "1f58833cf666d38b",
@@ -603,7 +601,9 @@
   "94556fafaab2eed5",
   "currentpriceofoilasofnovember202026",
   "3d31232f9c98b75d",
-  "currentpriceofoilasofnovember162026"
+  "currentpriceofoilasofnovember162026",
+  "bc5c73b39a783540",
+  "americasrefinersdrownedtheirowngasolinewindfall"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 7
  },
- "last_run": "2026-11-24T02:55:15.646271+02:00",
+ "last_run": "2026-11-24T03:00:30.282365+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
