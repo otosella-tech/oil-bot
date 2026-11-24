@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "e321ee58227decad",
-  "crudeoilfuturesrisemcxpricesupglobalbenchmarksmixed",
-  "044f560e832cb0c2",
-  "malaysiapalmoilindustrysayscpotaxwaiverwindowhaspassed",
   "f783398a2565490f",
   "ieaprojectsthreepercentannualgrowthinindiascrudeoildemandthr",
   "73cd34496c211992",
@@ -603,7 +599,11 @@
   "47d48dd68838c4b5",
   "iraqsoilministerdeniesousterrumorsasnajafsmugglingscandalwid",
   "d625a4de0abcd532",
-  "oiltheftacrossiraqleavesestimated150billioninlosses"
+  "oiltheftacrossiraqleavesestimated150billioninlosses",
+  "d58c81fb533107cc",
+  "whattheworldsfirstoilboomleftbehindinpennsylvaniapennsylvani",
+  "39355c68958c40a5",
+  "boeingstrikesdealwithoilrichnorthafricannationtobuildnewnati"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T12:15:22.141229+02:00",
+ "last_run": "2026-11-24T12:20:21.779517+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
