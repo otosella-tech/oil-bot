@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "b0a8302c19cb8e60",
-  "oilpricetodaynovember23brentcrudedipsbelow93despitefreshhout",
   "a547bb7940e27b5b",
   "wticrudeoilforecastcan85breakbeforethanksgiving",
   "e658a8d0c2f911db",
@@ -603,7 +601,9 @@
   "5c5662403e149289",
   "vegoilspalmextendslossesonweakerrivalscrudeoil",
   "4df25a5638705751",
-  "brentfalls346on23novaslibyasshararalinereopens"
+  "brentfalls346on23novaslibyasshararalinereopens",
+  "a11d9f6591ee440c",
+  "palmextendslossesonweakerrivalscrudeoil"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 13
  },
- "last_run": "2026-11-24T06:00:29.257941+02:00",
+ "last_run": "2026-11-24T06:05:20.591026+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
