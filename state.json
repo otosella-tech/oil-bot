@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "3bd18e0f8cd93768",
-  "ukrainiandroneshitnovoshakhtinskrefineryignitingfirevisiblef",
   "ecf7cdf0eea47adc",
   "southkoreaasksqatarforprioritylngoncehormuzreopens",
   "e547f3580329bd3b",
@@ -603,7 +601,9 @@
   "497541e0b7f1189c",
   "iraqrejectsopecassessmentofitsoilproductioncapacity",
   "c5864d73960edaae",
-  "energybriefsoiltrafficinthestraitofhormuz"
+  "energybriefsoiltrafficinthestraitofhormuz",
+  "eb0fbfe3b7144aea",
+  "iraqipmordersfederalgovernmenttomanageoilfieldsundercontrolo"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T19:25:17.105307+02:00",
+ "last_run": "2026-11-24T19:30:28.252607+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
