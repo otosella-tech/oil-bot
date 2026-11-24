@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "e3f0be0dbc1d365a",
-  "oilpricescaughtbetweenaloomingglutandmiddleeastturmoil",
   "de087aff36e62f2d",
   "wtiforecastvulnerablebelow8300amidsurplusoutlook",
   "a36e9a3e376df661",
@@ -603,7 +601,9 @@
   "e45756bf00c391f5",
   "njdemsweighfixestolowerdieselhomeoilpricesaswinterlooms",
   "fdf49139f94cbbbb",
-  "oklahomasuniqueeconomicmixofenergyagriculturepaidoffin2026"
+  "oklahomasuniqueeconomicmixofenergyagriculturepaidoffin2026",
+  "ad28fb2ec7ba6d84",
+  "oilpricetoday24novemberbrentfallsbelow90asusirantalksoffsets"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T13:05:21.609354+02:00",
+ "last_run": "2026-11-24T13:10:20.884899+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
