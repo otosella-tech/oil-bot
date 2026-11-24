@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "a80e8e165372d2b3",
-  "northseaoilsnewpredatorswillcostlabourbillions",
   "0606db995354a7e6",
   "oilstocksareagoodhedgethatisnolongercheap",
   "655675be96f39ed9",
@@ -603,7 +601,9 @@
   "d763e095a2395c0d",
   "iraqipmordersministrytomanageoilfieldsinareasunderkurdishcon",
   "e265a7e2765047b3",
-  "iraqipmorderstakeoverofkurdistanregionsbordercrossingsaftero"
+  "iraqipmorderstakeoverofkurdistanregionsbordercrossingsaftero",
+  "e1f6dc9ca889aae9",
+  "europeangaspricesclimbascoldsnapthreatensdepletedreserves"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T13:40:21.504627+02:00",
+ "last_run": "2026-11-24T13:45:26.885141+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
