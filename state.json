@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "5085583646119b18",
-  "theenergytransitionneedsmoremetalsbutlessextraction",
   "08f1906aa536e99d",
   "forecastupdateforcrudeoil23112026",
   "c3aadb75894552bb",
@@ -603,7 +601,9 @@
   "17db4d85cb4a010a",
   "1953ssjacobluckenbachshipwreckoffsanfranciscocoastlinkedtodo",
   "311d85f8d30f4d65",
-  "1953shipwreckoffsfcoastlinkedtodozensofoilcoveredbirdswildli"
+  "1953shipwreckoffsfcoastlinkedtodozensofoilcoveredbirdswildli",
+  "c69674d41f3a965b",
+  "fourmoreshipsattackedasiranwidenshormuzcrackdowntotugboats"
  ],
  "releases_done": {
   "2026-11-24|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -615,123 +615,11 @@
   "Brent": 86.33
  },
  "llm": {
-  "date": "2026-11-24",
-  "count": 60
+  "date": "2026-11-25",
+  "count": 2
  },
- "last_run": "2026-11-25T00:40:20.100747+02:00",
+ "last_run": "2026-11-25T00:45:18.709369+02:00",
  "sent_stories": [
-  {
-   "d": "2026-11-21",
-   "t": "Iran hardliners push tanker convoy to defy US blockade - Iran International"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Oil tanker loads Iranian crude in Gulf, TankerTrackers.com says - Reuters"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Iran’s oil leverage is weakening. That could push it toward escalation - CNN"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "IEA Says Iran War Has Changed Oil Markets for Good as Gulf Exports Lag - الحرة"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Oil shipped through Hormuz falls as Iranian strikes increase - Financial Times"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Hormuz Oil Flows Fall to 10 Million b/d in November 2026 - houseofsaud.com"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Hormuz Oil Flows Fall to 10 Million Barrels a Day as November Attacks Mount - https://houseofsaud.com/"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Strait of Hormuz attacks have increased to highest level since Iran war began - ABC News - Breaking News, Latest News and Videos"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Oil prices drop below $100 as midterms fuel hope for an end to the Iran war - NBC News"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Iran’s IRGC says tankers with 4M barrels of oil hit Hormuz mines: What to know - Al-Monitor"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Russia oil output risks fresh decline as Ukraine steps up attacks - Yahoo Finance UK"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "UK maritime agency reports two tanker attacks near Oman; Iran says vessel hit mine east of Hormuz - CNBC"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "US Treasury sanctions Iranian ‘oil trustees’ allegedly tasked with recouping billions - The New Region"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Asian gasoline margin plunges to over three-year lows on ample supplies - Reuters"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Two Oil Tankers Hit by Unidentified Projectiles Near Strait of Hormuz, U.K. Maritime Organization Says - Haaretz"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Britain’s New Russia Sanctions: Imperfect, but a Signal Ukraine Won’t Be Traded Away - Kyiv Post"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Live - US, Israel weigh strikes, Bessent says Iran may never be paid for oil already sold - Iran International"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Global crude exports hit record high despite Hormuz closure - Nikkei Asia"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "UKMTO Reports 2 Tankers Hit by Projectiles Near Hormuz as Iran Claims Mines - https://houseofsaud.com/"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping - Al Jazeera"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Iran prepares oil tanker convoy to break US naval blockade, threatens Gulf facilities - report - The Jerusalem Post"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Crude Oil Choppy as Strait of Hormuz Flows Fall and Traders Price In Renewed US-Iran Strikes - Benzinga"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Libya loses over $30 million as armed group blocks Hamada oil pipeline - سانا"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Oil drops 7% as Iran signals openness to peace talks - Reuters"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Oil Is Estimated to Ease in 2027 as Suppliers Adapt to Hormuz Disruption - Goldman Sachs"
-  },
-  {
-   "d": "2026-11-21",
-   "t": "Oil Tankers Hit Near Strait of Hormuz as Farm Energy Risks Rise - AgroLatam"
-  },
   {
    "d": "2026-11-22",
    "t": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage - Crude Oil Prices Today | OilPrice.com"
@@ -1483,6 +1371,10 @@
   {
    "d": "2026-11-24",
    "t": "Oil settles up $2 as traders weigh continued Hormuz ship attacks - Reuters"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Four More Ships Attacked as Iran Widens Hormuz Crackdown to Tugboats - gCaptain"
   }
  ]
 }
