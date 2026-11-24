@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "dbdfc56bb463202b",
-  "rupeedeclines23paiseto9285againstusdollarinearlytrade",
   "a333818a049dba4e",
   "afterjurfalsakharitistheturnofoilfieldsoutsidethegovernments",
   "6a625b73bbc8a50c",
@@ -603,7 +601,9 @@
   "18553a73b3f59e07",
   "oilpricesholdnearthree",
   "49cb2f1e05059c5b",
-  "theusblockadeofiranholds"
+  "theusblockadeofiranholds",
+  "1c4074d3a7931c5a",
+  "oilpricesholdnearthreemonthlowsdespitehormuzmineclaims"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-24",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-11-24T09:15:27.645021+02:00",
+ "last_run": "2026-11-24T09:20:19.978320+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1248,6 +1248,10 @@
   {
    "d": "2026-11-24",
    "t": "Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
