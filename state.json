@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "f2aaeb50c43f0a0c",
-  "whyisdieselstillexpensivedespitefallingoilprices",
   "4600d8a4415999ca",
   "eugreenenergygiantsslam40billionbudgetcut",
   "8491070af8b579eb",
@@ -603,7 +601,9 @@
   "fed683b38ccb0183",
   "thennowthevoyagethatlaunchedthelngtrade",
   "27a5dd15c05f6181",
-  "iraqipmordersministrytomanageoilfieldsunderkrgcontroldailysa"
+  "iraqipmordersministrytomanageoilfieldsunderkrgcontroldailysa",
+  "968fde16f4a0606d",
+  "crudeoilconsolidatesatkeysupportasiranurgestotightenhormuzma"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T12:40:21.174634+02:00",
+ "last_run": "2026-11-24T12:45:19.258326+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1304,6 +1304,10 @@
   {
    "d": "2026-11-24",
    "t": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Crude oil consolidates at key support as Iran urges to tighten Hormuz management until conditions met - investingLive"
   }
  ]
 }
