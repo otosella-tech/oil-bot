@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "6eefcfb76e885364",
-  "howtheeastafricancrudeoilpipelinesecuredfundingdespitebankbo",
-  "0dd5a49ea3917ea7",
-  "bernsteinwarnsoilmarkettofliptooversupplywithinthreeyearssee",
   "6a8e217ae97f9d8a",
   "44billionplayforconocophillipsnorwegianoilgasassetsandukinfr",
   "854a2faff46097b5",
@@ -603,7 +599,11 @@
   "fbc8258102b43615",
   "investingliveeuropeannewswrapusfuturesgivebacknvidialedgains",
   "dd36c2fff1c04f4a",
-  "pipelinecompanylimitsndshipmentsaftercrudeoilcontamination"
+  "pipelinecompanylimitsndshipmentsaftercrudeoilcontamination",
+  "c31a35a5d31e5730",
+  "oilpricesswingwithfocusoniranwardiplomacy",
+  "c824e7e2ef64a2ff",
+  "saudisseeeconomytakingsmallerhitfromwarasoilflowsrise"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T15:45:18.547384+02:00",
+ "last_run": "2026-11-24T15:50:21.548559+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1340,6 +1340,14 @@
   {
    "d": "2026-11-24",
    "t": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working? - Al Jazeera"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil prices swing with focus on Iran war diplomacy - Transport Topics"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Saudis See Economy Taking Smaller Hit From War as Oil Flows Rise - Bloomberg.com"
   }
  ]
 }
