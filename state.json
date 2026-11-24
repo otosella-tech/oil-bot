@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "3f2108d6f50ab753",
-  "oildropsmorethan3onincreasedmiddleeastflowslibyanpipelineres",
-  "181a05f2b0dbafda",
-  "nonlinearmodelshowsstabilityandpredictsmediumtermuscrudeoils",
   "5085583646119b18",
   "theenergytransitionneedsmoremetalsbutlessextraction",
   "08f1906aa536e99d",
@@ -603,7 +599,11 @@
   "566e3f23892a822f",
   "investingliveamericasfxnewswrap24novitsawrapchipstocksslidea",
   "80abbcd57c8789f6",
-  "1965shipwreckoffsfcoastlinkedtodozensofoilcoveredbirdswildli"
+  "1965shipwreckoffsfcoastlinkedtodozensofoilcoveredbirdswildli",
+  "17db4d85cb4a010a",
+  "1953ssjacobluckenbachshipwreckoffsanfranciscocoastlinkedtodo",
+  "311d85f8d30f4d65",
+  "1953shipwreckoffsfcoastlinkedtodozensofoilcoveredbirdswildli"
  ],
  "releases_done": {
   "2026-11-24|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-25T00:25:17.048431+02:00",
+ "last_run": "2026-11-25T00:30:25.783593+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
