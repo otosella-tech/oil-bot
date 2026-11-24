@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "de087aff36e62f2d",
-  "wtiforecastvulnerablebelow8300amidsurplusoutlook",
   "a36e9a3e376df661",
   "rupeefalls23paiseto9285againstusdollarinearlytrade",
   "446bf81ba64def50",
@@ -603,7 +601,9 @@
   "fdf49139f94cbbbb",
   "oklahomasuniqueeconomicmixofenergyagriculturepaidoffin2026",
   "ad28fb2ec7ba6d84",
-  "oilpricetoday24novemberbrentfallsbelow90asusirantalksoffsets"
+  "oilpricetoday24novemberbrentfallsbelow90asusirantalksoffsets",
+  "2a0b94cd8ea6bcd3",
+  "gbpusdoilforecasttwotradestowatch"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T13:15:27.373046+02:00",
+ "last_run": "2026-11-24T13:20:21.476733+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
