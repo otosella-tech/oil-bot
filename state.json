@@ -4,12 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "c88782269b713afa",
-  "oilmarketpredictionsofsurplusamidstongoingvolatility",
-  "ccc213a0b193b51c",
-  "usiranwardelivers216billionwindfalltonineafricanfossilfuelex",
-  "17558e10747e73fd",
-  "whatbrentcrudeoilswideningpremiumoverwtimeansforshelllseshel",
   "5428405e50a590e6",
   "chinaeclipsesusastopbuyerofcanadaspacificboundoil",
   "85011579d761db96",
@@ -603,7 +597,13 @@
   "db972ce057e08963",
   "libyapipelinerestoresoilflowasbrentcrudefallsbelow90tothreem",
   "29f01b45e7b56fbb",
-  "opecfacesitsmostconsequentialsupplydecisionoftheyear"
+  "opecfacesitsmostconsequentialsupplydecisionoftheyear",
+  "baf7ce252f4e0ed0",
+  "marinefuelpricesresponddifferentlyacrosseuropeanportsstudyfi",
+  "6b30633ba6197a6f",
+  "oilreboundsfromthreemonthlowsonhormuzthreats",
+  "18c4c75826a8b1dd",
+  "brazilstaxrevenueextendsrecordruninoctoberbuoyedbyhigheroilp"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T17:10:20.243190+02:00",
+ "last_run": "2026-11-24T17:15:20.529454+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1376,6 +1376,10 @@
   {
    "d": "2026-11-24",
    "t": "OPEC+ Faces Its Most Consequential Supply Decision of the Year - Bloomberg"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil rebounds from three-month lows on Hormuz threats - CNBC"
   }
  ]
 }
