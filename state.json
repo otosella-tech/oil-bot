@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "6aefaef702e417f4",
-  "withoilrevenuerunningoutiranteasesbreakingusblockade",
-  "72e3087d097f28c0",
-  "oilpriceforecastwhygoldmansees150dieselevenascrudegetscheape",
   "2deb20c649723516",
   "oilpricesfallasglobalmarketselloffweighsonsentimentgulfattac",
   "d11789971eb1cbd0",
@@ -603,7 +599,11 @@
   "f4a83bb33f1b3baa",
   "canadianoilstocksgainascrudepricesstayelevated",
   "a054983c3b89d7c2",
-  "oilfuturesat3monthlowaslibyaoutputboostandoversupplysignalsw"
+  "oilfuturesat3monthlowaslibyaoutputboostandoversupplysignalsw",
+  "2504e9455f55085b",
+  "brentfalls35tolowestsinceaugustasgulfsupplyreturnsandlibyass",
+  "ceab20441d295d25",
+  "opecsayspowergridexpansionneedsoilas75countriesbackelectrifi"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-24",
-  "count": 17
+  "count": 19
  },
- "last_run": "2026-11-24T07:00:32.362291+02:00",
+ "last_run": "2026-11-24T07:05:16.020485+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1216,6 +1216,10 @@
   {
    "d": "2026-11-24",
    "t": "Iran says three tankers hit mines, yet oil sits near a three-month low as supply wins - investingLive"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Brent falls 3.5% to lowest since August as Gulf supply returns and Libya’s Sharara pipeline restarts - Oil & Gas Middle East"
   }
  ]
 }
