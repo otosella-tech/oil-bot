@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "bf3012ba7171cbed",
-  "conocophillipsexitsnorwaywith44billionassetsaletovaarenergi",
-  "a4f601121f572108",
-  "trumpscoalrevivaliscostingamericansmorethanexpected",
   "3eb69975b15c8903",
   "oilpriceforecastwtisupplygrowsasbrentfacesshippingrisks",
   "486735b622c23364",
@@ -603,7 +599,11 @@
   "df29b08d1b6db5fa",
   "iraqrefusestoacceptopecassessmentofitsproductioncapacity",
   "5c417ee4b82f2803",
-  "thenewglobaloilmapbetweenoversupplyandthesearchforalternativ"
+  "thenewglobaloilmapbetweenoversupplyandthesearchforalternativ",
+  "6574a78152f857ee",
+  "oilrises1onhormuzshipattackssurplussupplyoutlookcurbsgains",
+  "9681e1598365d79e",
+  "iraqissaidtochallengeoilcapacityreviewaheadofopecquotatalksc"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T20:40:21.713729+02:00",
+ "last_run": "2026-11-24T20:45:19.606055+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1432,6 +1432,14 @@
   {
    "d": "2026-11-24",
    "t": "Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil Rises $1 on Hormuz Ship Attacks, Surplus Supply Outlook Curbs Gains - GV Wire"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Iraq is said to challenge oil capacity review ahead of OPEC+ quota talks (CL1:COM:Commodity) - Seeking Alpha"
   }
  ]
 }
