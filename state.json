@@ -4,14 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "8b237979500f4c65",
-  "conocophillipssellsnorwayandteessideassetsfor44billion",
-  "3c1a090163e6b0b5",
-  "yourmondaynov23guidefivethingstodointheoilcity",
-  "3b0b1a6594877e70",
-  "ifoilpricesstaynear90historysaysbuyingthisftsesharewouldbeas",
-  "e566ec88981606f7",
-  "iranpreparesoiltankerconvoytobreakusnavalblockadethreatensgu",
   "83e07a8bdbcb5c9f",
   "malaysianpalmoilpricesfalltoninemonthlow",
   "6251c50ce0b69a92",
@@ -603,7 +595,15 @@
   "d154a571eb26a702",
   "crudereboundsbutgrowingglobalsupplylimitsgains",
   "e8706e7c97564af8",
-  "oilanalystsseeweeklybuildinuscrudeoilstockpiles"
+  "oilanalystsseeweeklybuildinuscrudeoilstockpiles",
+  "1c5983a5ce3a859d",
+  "oilpricesrisewithfocusoniranwardiplomacy",
+  "9b64b6f8f67b8aa0",
+  "heatingoilcostshitbusinessesandhomeownersaswinterloomsinthen",
+  "50a32a8503b86054",
+  "oilpricesfallastradersweighsupplysurplusgulfattacks",
+  "134e323389b97548",
+  "silverandcopperretestlowsasoilnearsitsturn"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T20:00:33.654938+02:00",
+ "last_run": "2026-11-24T20:05:17.242341+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1420,6 +1420,14 @@
   {
    "d": "2026-11-24",
    "t": "What are the disputes between Iraq's federal government and Kurdistan region? - Reuters"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil prices rise with focus on Iran war diplomacy - Transport Topics"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks - WSJ"
   }
  ]
 }
