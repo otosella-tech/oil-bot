@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "fbcc8373ae43a537",
-  "crudeoilfallsonstrongmiddleeastexportsdespitehouthiattackson",
   "d37dacc63acd266a",
   "ugandavitolsign10yearpearlsweetcrudeoilmarketingagreement",
   "feae097222e698fb",
@@ -603,7 +601,9 @@
   "35595fb87504c8c8",
   "roimiddleeastcrudeoilexportstrendloweramidfakeiranstalemater",
   "6602fd7d91ed0768",
-  "scottbessentunleashesfreshiransanctionsastehranwarnstankersa"
+  "scottbessentunleashesfreshiransanctionsastehranwarnstankersa",
+  "556c0085ac9d8d21",
+  "crudeoilpricesnearthreemonthlowsasrisingsupplyoffsetshormuzt"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-24",
-  "count": 33
+  "count": 35
  },
- "last_run": "2026-11-24T08:05:58.024106+02:00",
+ "last_run": "2026-11-24T08:17:47.562157+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1236,6 +1236,10 @@
   {
    "d": "2026-11-24",
    "t": "Scott Bessent Unleashes Fresh Iran Sanctions as Tehran Warns Tankers Against Using Strait of Hormuz: Crud - Benzinga"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Crude oil prices near three-month lows as rising supply offsets Hormuz threat - BusinessLine"
   }
  ]
 }
