@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "7fcd42eacb605416",
-  "skyquarryincannounces2000barrelprocessingmilestoneateaglespr",
   "d11d25d682a4438c",
   "skyquarrynasdaqskyqsellsdieselatacrackspread25abovethenation",
   "40c11de1eb19b588",
@@ -603,7 +601,9 @@
   "4ee4ee655710267c",
   "europesgaspricesjumped163inayear",
   "84f38c3154daba10",
-  "iraqorderstakeoverofkurdishoilfieldstocurbsmuggling"
+  "iraqorderstakeoverofkurdishoilfieldstocurbsmuggling",
+  "23a3e35452097455",
+  "howtheoilmarketcouldmovefromfaminetoglut"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T19:00:32.660326+02:00",
+ "last_run": "2026-11-24T19:05:16.888152+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
