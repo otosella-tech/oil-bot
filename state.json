@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "fd52ee2c6baba8fd",
-  "dronestargetrussianoilfacilitiesinthreeregionsfiresreporteda",
   "910861bb5db41e42",
   "anotheroilpricerollbackeffectivetuesdaynovember242026oilcomp",
   "c78915b7f0e89722",
@@ -603,7 +601,9 @@
   "5c234380fece9c91",
   "dealingwithanenergymarketbothtightandloose",
   "01a86e9583e499cf",
-  "theoilmarketistalkingaboutasurplusagain"
+  "theoilmarketistalkingaboutasurplusagain",
+  "aa0caf94be07ccc7",
+  "oilmarketshiftstosurplusasexportsrisedemandfallsbloomberg"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T14:45:19.511268+02:00",
+ "last_run": "2026-11-24T14:50:19.723945+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
