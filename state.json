@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "e658a8d0c2f911db",
-  "japantotriplesaudicrudeoilreservesnhkworldjapannews",
   "9d697187237086d6",
   "oilpricesfallamidequityselloffthoughiranwarattackslimitlosse",
   "ba36c6a776f223e7",
@@ -603,7 +601,9 @@
   "a11d9f6591ee440c",
   "palmextendslossesonweakerrivalscrudeoil",
   "dc47bed89dbc7cfe",
-  "oilpriceslingernearthreemonthlowdespitestraitofhormuzrisks"
+  "oilpriceslingernearthreemonthlowdespitestraitofhormuzrisks",
+  "66f905da4a9d0ade",
+  "iransaysthreetankershitminesyetoilsitsnearathreemonthlowassu"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-24",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-11-24T06:10:19.961287+02:00",
+ "last_run": "2026-11-24T06:15:18.417117+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1212,6 +1212,10 @@
   {
    "d": "2026-11-24",
    "t": "Oil Prices Linger Near Three-Month Low Despite Strait Of Hormuz Risks - BusinessToday Malaysia"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Iran says three tankers hit mines, yet oil sits near a three-month low as supply wins - investingLive"
   }
  ]
 }
