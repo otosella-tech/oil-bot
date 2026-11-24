@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "2bc5e99daa925e9f",
-  "assetbackedfinancingintheoilpatchishelpingprivateequityexits",
-  "3ce9ec35d848f4bc",
-  "japantotriplejointsaudicrudestorageandbuyupto8millionbbl",
   "e13bec33e4afe6b7",
   "fireatnovoshakhtinskoilrefineryisvisibleevenfromspaceukraine",
   "b083feb08e1f5e99",
@@ -603,7 +599,11 @@
   "15196539d4d9bcc9",
   "crudeoilremainsunderpressureasdemandconcernscontinuetoweighd",
   "a23c0a70a948eeb5",
-  "brentcrudeprice890824monthlyslidebeforeopec"
+  "brentcrudeprice890824monthlyslidebeforeopec",
+  "5b4b5194ac200d01",
+  "oilbudgetsandterritorywhyiraqsfederalgovernmentremainsatodds",
+  "4912728d91126088",
+  "usedsupertankersnowcostmorethannewshipsashormuzwarupendsship"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T18:25:21.570160+02:00",
+ "last_run": "2026-11-24T18:30:26.043543+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1392,6 +1392,10 @@
   {
    "d": "2026-11-24",
    "t": "Brent Crude Price $89.08: 24% Monthly Slide Before OPEC+ - FinanceFeeds"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Used Supertankers Now Cost More Than New Ships as Hormuz War Upends Shipping Markets - gCaptain"
   }
  ]
 }
