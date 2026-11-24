@@ -4,12 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "7c1262a2c3c82323",
-  "alaskanorthslopecrudeoilrecordsfifthhighestmonthlyaveragepri",
-  "e417a3ebd1c33e49",
-  "oilpricesdropbelow100asmidtermsfuelhopeforanendtotheiranwar",
-  "0092dc34d14676ef",
-  "malaysiapalmindustrysayscpotaxwaiverwindowhaspassed",
   "e3cfee720e77b8ea",
   "iransfereydunplantodefyusblockade14tankersreadyforshowdowngu",
   "c88782269b713afa",
@@ -603,7 +597,13 @@
   "490509cafddded0a",
   "chrdvseogwhichoilstockisthebetterbetrightnow",
   "4d1274d02821599a",
-  "australiamullsclosingkeyrussianoilloopholebutwithnodeadlinei"
+  "australiamullsclosingkeyrussianoilloopholebutwithnodeadlinei",
+  "4db4b60dae619bf6",
+  "iranfacesadeepeningnaturalgascrisisaheadofwinter",
+  "a93545a9a983e0e3",
+  "oilnewscrudeoilreboundsastradersweighrisingsupplyandhormuzat",
+  "db972ce057e08963",
+  "libyapipelinerestoresoilflowasbrentcrudefallsbelow90tothreem"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T16:55:22.898184+02:00",
+ "last_run": "2026-11-24T17:00:35.081130+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1360,6 +1360,18 @@
   {
    "d": "2026-11-24",
    "t": "Oil Rebounds From Three-Month Lows on Hormuz Threat - GV Wire"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Iran Faces a Deepening Natural Gas Crisis Ahead of Winter"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil News: Crude Oil Rebounds as Traders Weigh Rising Supply and Hormuz Attacks - FXEmpire"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Libya Pipeline Restores Oil Flow as Brent Crude Falls Below $90 to Three-Month Low - BigGo Finance"
   }
  ]
 }
