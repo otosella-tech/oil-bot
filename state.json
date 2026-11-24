@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "207db2aa1d43d91e",
-  "agingsanctionedtankerlingersoffnorwaylinkedtodubaishippingfi",
-  "343871833197560b",
-  "georgiagaspricesfall16centsaheadofthanksgiving",
   "7fcd42eacb605416",
   "skyquarryincannounces2000barrelprocessingmilestoneateaglespr",
   "d11d25d682a4438c",
@@ -603,7 +599,11 @@
   "c23d1e7584c9b2c1",
   "ieaoilmarketreportdatamethodsaccess",
   "69e746b5ec284cc2",
-  "currentpriceofoilasofnovember242026"
+  "currentpriceofoilasofnovember242026",
+  "4ee4ee655710267c",
+  "europesgaspricesjumped163inayear",
+  "84f38c3154daba10",
+  "iraqorderstakeoverofkurdishoilfieldstocurbsmuggling"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T18:55:23.109046+02:00",
+ "last_run": "2026-11-24T19:00:32.660326+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
