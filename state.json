@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "ecf7cdf0eea47adc",
-  "southkoreaasksqatarforprioritylngoncehormuzreopens",
   "e547f3580329bd3b",
   "currentpriceofoilasofnovember232026",
   "d5dc213ff50a79f5",
@@ -603,7 +601,9 @@
   "c5864d73960edaae",
   "energybriefsoiltrafficinthestraitofhormuz",
   "eb0fbfe3b7144aea",
-  "iraqipmordersfederalgovernmenttomanageoilfieldsundercontrolo"
+  "iraqipmordersfederalgovernmenttomanageoilfieldsundercontrolo",
+  "e4ae8ed691410e26",
+  "porthoustonsharesshipchannelmonthlytrademarketreport"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T19:30:28.252607+02:00",
+ "last_run": "2026-11-24T19:34:21.711414+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
