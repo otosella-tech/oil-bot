@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "c1ed86b9113d9a28",
-  "currentpriceofoilasofnovember52026",
   "c71a0cb665573208",
   "oilslumpsaftermidtermelectionrebuketotrumpraisesbetsoniranwa",
   "edcb202bf5153500",
@@ -603,7 +601,9 @@
   "4d00c65f1004b399",
   "oilpricessteadyafterloggingdeeplossesonsupplyglutfears",
   "8453258e785ecf91",
-  "oilmarketsarebettingonasurplusthathasntarrivedyet"
+  "oilmarketsarebettingonasurplusthathasntarrivedyet",
+  "ae4bf1199119b73f",
+  "ussenateprobesvanceroleinvitolchoiceforvenezuelaoil"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-24",
-  "count": 4
+  "count": 5
  },
- "last_run": "2026-11-24T02:25:16.343769+02:00",
+ "last_run": "2026-11-24T02:30:24.467644+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
