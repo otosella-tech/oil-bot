@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "4280a9cd52710440",
-  "oilpricesextendlossesasequityselloffoffsetsgulfsupplyrisks",
   "93820ad8ac4866e4",
   "permianresourcespostsrecordfreecashflowevenasoilpricesslip",
   "757448f421a46ce1",
@@ -603,7 +601,9 @@
   "999cb610eea4c1b2",
   "oilslidesmorethan3assupplygrowthovershadowsattackrisksco1com",
   "4ce5e7b4cb5f2e6a",
-  "blackforddolphin1974rigsold"
+  "blackforddolphin1974rigsold",
+  "1c6da1b3a280b241",
+  "oilextendsdeclineonsignsofcontinuingusirandiplomacy"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-24",
-  "count": 19
+  "count": 21
  },
- "last_run": "2026-11-24T07:15:21.724279+02:00",
+ "last_run": "2026-11-24T07:20:25.117494+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1220,6 +1220,10 @@
   {
    "d": "2026-11-24",
    "t": "Brent falls 3.5% to lowest since August as Gulf supply returns and Libya’s Sharara pipeline restarts - Oil & Gas Middle East"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil Extends Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com"
   }
  ]
 }
