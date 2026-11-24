@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "2cb32d9688c2816d",
-  "oilpricesreduceassupplyriskeasesbrentfallsbelow90",
   "850f403f9a7c58a6",
   "dronesattackkaleykinooilpumpingstationinrussiastatarstansoci",
   "61f083a879759a33",
@@ -603,7 +601,9 @@
   "a03780357bcdaaa5",
   "tokyoyenlittlechangedinupper158rangeasoildrivenbuyingrunsits",
   "fcdb686f3e6be72a",
-  "globalcrudeoilpricesfalltothreemonthlowsamidrisingsupply"
+  "globalcrudeoilpricesfalltothreemonthlowsamidrisingsupply",
+  "9102246a4e62f077",
+  "oilsmugglinginiraqdismissalsorderstotightenbordercrossingsin"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T14:25:14.684878+02:00",
+ "last_run": "2026-11-24T14:30:29.490998+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
