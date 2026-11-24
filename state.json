@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "22bbb0ab2b6dff73",
-  "jacksonvillemanaccusedofpoisoningwomanssweetteawithtoxicesse",
-  "5723dc5a61a4d6bb",
-  "petroldieselpricessteadyascrudeoilextendsdecline",
   "bd98bf473ed9ee3b",
   "novoshakhtinskoilrefinerytatarstanpumpingstationburningafter",
   "fbcc8373ae43a537",
@@ -603,19 +599,23 @@
   "6c15e12e11355bc6",
   "koreascrudeoilsupplyremainsstabledespitemiddleeasttensions",
   "5255577a52883f16",
-  "koreanenergyinstituteurgesphasedexitfromoilpricecapasgovernm"
+  "koreanenergyinstituteurgesphasedexitfromoilpricecapasgovernm",
+  "6617fecfb676e185",
+  "naturalgasandoilforecastlibyarestartkeepsoilnearthreemonthlo",
+  "35595fb87504c8c8",
+  "roimiddleeastcrudeoilexportstrendloweramidfakeiranstalemater"
  ],
  "releases_done": {},
- "last_digest": "2026-11-23",
+ "last_digest": "2026-11-24",
  "digest_prices": {
-  "WTI": 83.7,
-  "Brent": 90.31
+  "WTI": 79.69,
+  "Brent": 86.33
  },
  "llm": {
   "date": "2026-11-24",
-  "count": 25
+  "count": 31
  },
- "last_run": "2026-11-24T07:55:15.871401+02:00",
+ "last_run": "2026-11-24T08:00:29.766163+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
