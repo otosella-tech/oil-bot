@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "975bb0a579756dfd",
-  "oilfallsonincreasedmiddleeasternsupplies",
   "2e51f792f0ad3d12",
   "opiniondieselshortagepersistsdespiteswiftoilmarketrecovery",
   "2bc5e99daa925e9f",
@@ -603,7 +601,9 @@
   "4cbb05542f134b03",
   "currentpriceofoilasofnovember182026",
   "2dfa848f960eaabf",
-  "indiasoctobercrudeoilimportsriseover4monthonmonth"
+  "indiasoctobercrudeoilimportsriseover4monthonmonth",
+  "15196539d4d9bcc9",
+  "crudeoilremainsunderpressureasdemandconcernscontinuetoweighd"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T18:10:27.048431+02:00",
+ "last_run": "2026-11-24T18:15:20.827850+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
