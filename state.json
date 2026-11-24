@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "b0b7c65f56e75792",
-  "uncondemnsattacksonvesselsinbenghaziaslibyaloses365000barrel",
   "a5b114639f4f07e7",
   "musevenisblackgoldslipstomid2027",
   "82f5532847ac1731",
@@ -603,7 +601,9 @@
   "0dca1c1c4028186d",
   "iraqseeksfederalcontroloverdisputedkurdistanoilfields",
   "8ab4398bebac07ce",
-  "vaalcobacksegyptsnationwidehsedriveasoilsectortightenssafety"
+  "vaalcobacksegyptsnationwidehsedriveasoilsectortightenssafety",
+  "eefb98262ddb5a06",
+  "barzanirejectsbaghdadsdecisionsonoilcrossings"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T16:05:25.405173+02:00",
+ "last_run": "2026-11-24T16:10:21.044386+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
