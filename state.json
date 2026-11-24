@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "381377f41c73081f",
-  "wticrudeoilfutureshit14sessionlowonsupplyrisks",
   "c16ec262c4ec3b4a",
   "oilpricesslideasaibubblefearsrattleglobalmarkets",
   "8fe527db811ec0f3",
@@ -603,7 +601,9 @@
   "b8efa57f5f0b596b",
   "2yearsagosaudiarabiaquietlycanceledthepetrodollardealwithame",
   "ee21d6e6f23a47a5",
-  "crudeoilpriceforecastsupplysurpluspressureswti"
+  "crudeoilpriceforecastsupplysurpluspressureswti",
+  "5fd3ac74bba67444",
+  "brentdropsto86asglobaloilglutconcernsmount"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 47
  },
- "last_run": "2026-11-24T10:00:33.875085+02:00",
+ "last_run": "2026-11-24T10:05:15.676874+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
