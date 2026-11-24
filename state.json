@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "67230d908f88580c",
-  "americasbiggestoilexportportfacesthousandsofcyberattackattem",
   "e583b144d0ea70b9",
   "ukrainestrikeslukoiloilrefineryinrussiaspermwithhelpofunderg",
   "fa7c5cef578c941e",
@@ -603,7 +601,9 @@
   "3966e3c5b7ad1f30",
   "bankofcanadawarnsofbroadeninginflationbondsdecline",
   "55bccfa93b0ebd7f",
-  "whitmerordersagencytohaltconsiderationofline5tunnelpermits"
+  "whitmerordersagencytohaltconsiderationofline5tunnelpermits",
+  "bc6c39bf1808b56b",
+  "poweroutagesinoilrichiranaretheresultoftheregimesplunderingw"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T22:35:15.821417+02:00",
+ "last_run": "2026-11-24T22:40:22.704969+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1472,6 +1472,10 @@
   {
    "d": "2026-11-24",
    "t": "Bank of Canada Warns of Broadening Inflation; Bonds Decline - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Power outages in oil-rich Iran are the result of the regime’s plundering wealth and destroying infrastructure - mojahedin.org"
   }
  ]
 }
