@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "f783398a2565490f",
-  "ieaprojectsthreepercentannualgrowthinindiascrudeoildemandthr",
   "73cd34496c211992",
   "somaliaalgeriassonatrachstrengthenenergycooperationamidgrowi",
   "d189d686d0d3cd0b",
@@ -603,7 +601,9 @@
   "d58c81fb533107cc",
   "whattheworldsfirstoilboomleftbehindinpennsylvaniapennsylvani",
   "39355c68958c40a5",
-  "boeingstrikesdealwithoilrichnorthafricannationtobuildnewnati"
+  "boeingstrikesdealwithoilrichnorthafricannationtobuildnewnati",
+  "98dcfb8fa09ebcfb",
+  "oiltouchesthreemonthlowsasrisingsupplyoffsetshormuzthreat"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T12:20:21.779517+02:00",
+ "last_run": "2026-11-24T12:25:14.861431+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1296,6 +1296,10 @@
   {
    "d": "2026-11-24",
    "t": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday - Reuters"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil touches three-month lows as rising supply offsets Hormuz threat - The Globe and Mail"
   }
  ]
 }
