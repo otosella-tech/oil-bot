@@ -4,12 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "e517434f51714f0f",
-  "wticrudeoilpricesmaytrendlower",
-  "d46e8ddcf26853d1",
-  "oilsteadiesasmiddleeasttensionsviewithamplesupply",
-  "65ec9b88070b35f1",
-  "crudeoilpricesslideasbessentchallengesfedshawkishrateexpecta",
   "9823ab942518e70a",
   "ieaextremeweatherriskstointernationaloilandnaturalgasshippin",
   "fb5d155d586268ee",
@@ -603,7 +597,13 @@
   "582386b6d06aa389",
   "oilfuturesedgehigheronlikelytechnicalrecovery",
   "0883492f6c0833e7",
-  "climatefinancedisputederailscop31negotiations"
+  "climatefinancedisputederailscop31negotiations",
+  "58ecaf6dbd8fcc38",
+  "oildropsonincreasedmiddleeastflowslibyanpipelinerestart",
+  "33823feca28308e0",
+  "iraqcompleteskirkukoilsmugglingprobeamidwideningcrackdownvoa",
+  "b990e461ba018cb3",
+  "usbackedfirmtoinkvenezueladredgingdealtoaidoilexports"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-24",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-24T02:00:32.070427+02:00",
+ "last_run": "2026-11-24T02:05:16.858329+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1184,6 +1184,14 @@
   {
    "d": "2026-11-24",
    "t": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil drops on increased Middle East flows, Libyan pipeline restart - CNBC"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "US-Backed Firm to Ink Venezuela Dredging Deal to Aid Oil Exports - Bloomberg.com"
   }
  ]
 }
