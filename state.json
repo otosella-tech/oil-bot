@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "c80f8d528f88ceea",
-  "oilmarketsarebettingonasurplusthathasntarrivedyet",
   "3d31232f9c98b75d",
   "currentpriceofoilasofnovember162026",
   "c1ed86b9113d9a28",
@@ -603,7 +601,9 @@
   "d46e8ddcf26853d1",
   "oilsteadiesasmiddleeasttensionsviewithamplesupply",
   "ea01618190ab3dee",
-  "gaspriceseaseforthanksgiving"
+  "gaspriceseaseforthanksgiving",
+  "4d00c65f1004b399",
+  "oilpricessteadyafterloggingdeeplossesonsupplyglutfears"
  ],
  "releases_done": {},
  "last_digest": "2026-11-23",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 4
  },
- "last_run": "2026-11-24T02:15:20.938256+02:00",
+ "last_run": "2026-11-24T02:20:20.265047+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
