@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "97a2b576de99aaed",
-  "hugepollutionverdictagainstexxonmayopenthedoortonewlegalbatt",
-  "e9da080e351f96aa",
-  "threeweekcrudepullbacktestsfragilepersiangulfsupplygains",
   "86fc410a6de97aef",
   "pakistanandiranmovetoboostenergycooperation",
   "0ca018c49b4a0c82",
@@ -603,7 +599,11 @@
   "c9ce834eccdd130e",
   "exclusiveiraqweighsarmyactiononkurdistanoilsmuggling",
   "fb913ff98de3851e",
-  "persiangulfoilexportsnearprewarlevelsdespitehormuzattacks"
+  "persiangulfoilexportsnearprewarlevelsdespitehormuzattacks",
+  "75a228458152ddd2",
+  "electrificationoffershedgeagainsthighfuelcostsmonadnockledge",
+  "6b7de6a1be3df1c8",
+  "bankofcanadawarnsofpersistentinflationbondsdecline"
  ],
  "releases_done": {
   "2026-11-24|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-25",
-  "count": 4
+  "count": 6
  },
- "last_run": "2026-11-25T01:30:26.585098+02:00",
+ "last_run": "2026-11-25T01:35:16.264090+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1379,6 +1379,10 @@
   {
    "d": "2026-11-25",
    "t": "Persian Gulf oil exports near prewar levels despite Hormuz attacks - Iran International"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Bank of Canada Warns of Persistent Inflation; Bonds Decline - Bloomberg.com"
   }
  ]
 }
