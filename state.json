@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "28e73a1573dbccdb",
-  "",
   "3c1d51dedc7258e8",
   "conocophillipsannouncesagreementtosellnorwaybusinessandteess",
   "b2ae676ed2b21014",
@@ -603,7 +601,9 @@
   "07280f29d7734588",
   "oilpriceshovernearthreemonthlowsonrisingsupplyconcerns",
   "39deeb2e03c1a7bf",
-  "dolphindrillingclosesblackforddolphinrigsaletospmnomineeands"
+  "dolphindrillingclosesblackforddolphinrigsaletospmnomineeands",
+  "7281d705ffea5ddf",
+  "oilpricesdiptonearthreemonthlowonrecoveringsupplies"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T12:55:16.111422+02:00",
+ "last_run": "2026-11-24T13:00:31.086356+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
