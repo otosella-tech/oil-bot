@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "910861bb5db41e42",
-  "anotheroilpricerollbackeffectivetuesdaynovember242026oilcomp",
   "c78915b7f0e89722",
   "branchedhydrophobicpolyacrylamidereducesturbulentcrudeoilpip",
   "7031ee753356281c",
@@ -603,7 +601,9 @@
   "01a86e9583e499cf",
   "theoilmarketistalkingaboutasurplusagain",
   "aa0caf94be07ccc7",
-  "oilmarketshiftstosurplusasexportsrisedemandfallsbloomberg"
+  "oilmarketshiftstosurplusasexportsrisedemandfallsbloomberg",
+  "ee1fdfd0af5dd56a",
+  "factcheckismoreoilgoingthroughthestraitofhormuzthanbeforethe"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-24",
   "count": 60
  },
- "last_run": "2026-11-24T14:50:19.723945+02:00",
+ "last_run": "2026-11-24T14:55:15.260047+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1324,6 +1324,10 @@
   {
    "d": "2026-11-24",
    "t": "Oil touches three-month lows before recovering on Hormuz threat - Reuters"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Fact-check: Is more oil going through the Strait of Hormuz than before the Iran war? - WRAL"
   }
  ]
 }
