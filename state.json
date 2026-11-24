@@ -4,12 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "a9c5d8c86f38d77c",
-  "crudeoilpricesslipasgrowthconcernsclashwithmiddleeastsupplyr",
-  "53c4d6cb9a314fe5",
-  "brentcrudenearlydoublesindiaspendsanextra6billiononoilandgas",
-  "5eb1b63ba86f3de4",
-  "oilpricesslipasmarketanxietygrowsoveriranwarthreatstogulfshi",
   "e321ee58227decad",
   "crudeoilfuturesrisemcxpricesupglobalbenchmarksmixed",
   "044f560e832cb0c2",
@@ -603,7 +597,13 @@
   "328f73ac7b84e560",
   "uscrudeoildeclinesto85abarrelonrecoveringmiddleeastexports",
   "79ef44e173989a8a",
-  "irgcclaims3oiltankershitminesinhormuzunderusescort"
+  "irgcclaims3oiltankershitminesinhormuzunderusescort",
+  "6e456198b707a379",
+  "oilgainsoniranwarworriesandshortcoveringaheadofthanksgivingh",
+  "47d48dd68838c4b5",
+  "iraqsoilministerdeniesousterrumorsasnajafsmugglingscandalwid",
+  "d625a4de0abcd532",
+  "oiltheftacrossiraqleavesestimated150billioninlosses"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-24",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-11-24T12:10:26.228446+02:00",
+ "last_run": "2026-11-24T12:15:22.141229+02:00",
  "sent_stories": [
   {
    "d": "2026-11-21",
@@ -1292,6 +1292,10 @@
   {
    "d": "2026-11-24",
    "t": "IRGC Claims 3 Oil Tankers Hit Mines in Hormuz Under US Escort - houseofsaud.com"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday - Reuters"
   }
  ]
 }
