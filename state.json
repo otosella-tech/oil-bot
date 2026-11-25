@@ -4,12 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "4ce5e7b4cb5f2e6a",
-  "blackforddolphin1974rigsold",
-  "1c6da1b3a280b241",
-  "oilextendsdeclineonsignsofcontinuingusirandiplomacy",
-  "478847a36848948f",
-  "oilpricesnearthreemonthlowsasrisingsupplyoffsetshormuzthreat",
   "ac23086771230722",
   "theworldisunderpricingtheriskofmorewariniran",
   "7aacb8b9e986686f",
@@ -603,7 +597,13 @@
   "7419ff85240999a3",
   "thefutureofoilinanetzeroworld",
   "64ac31c926047961",
-  "contaminantdiscoverytriggerspipelinetestingdelaysslowsndoilo"
+  "contaminantdiscoverytriggerspipelinetestingdelaysslowsndoilo",
+  "d42f0a6eda88583d",
+  "dangoterefinerysettobecomeafricasmostvaluablelistedcompany",
+  "f2a3ebbebf201f4d",
+  "iraqiintelligencecrudesmuggledfromkurdistanregiontoiranandbl",
+  "62f96a6be92c6448",
+  "americasrefinersdrownedtheirowngasolinewindfall"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T12:55:21.227654+02:00",
+ "last_run": "2026-11-25T13:00:33.122940+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1500,6 +1500,14 @@
   {
    "d": "2026-11-25",
    "t": "Oil Prices Extend Declines as Rising Supply Pressures Brent and WTI Despite Hormuz Tensions - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Dangote Refinery Set to Become Africa’s Most Valuable Listed Company"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Iraqi intelligence: Crude smuggled from Kurdistan region to Iran and blended before export to Afghanistan - www.thenationalnews.com"
   }
  ]
 }
