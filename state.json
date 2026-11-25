@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "66f905da4a9d0ade",
-  "iransaysthreetankershitminesyetoilsitsnearathreemonthlowassu",
   "f54854e4b3c813ef",
   "skoreascrudeoilsupplyremainsstableindustryministry",
   "46310af2651af632",
@@ -603,7 +601,9 @@
   "c0964ef3906f03cc",
   "equinortankertrappedinhormuzfor120days",
   "4c514c4bdbc327b5",
-  "ukrainetellsputintostopcomplainingoveroilrefineryattacksasru"
+  "ukrainetellsputintostopcomplainingoveroilrefineryattacksasru",
+  "485017e4358f4738",
+  "oilfuturescrudesteadiesastankerattacksoffsetglutforecasts"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T12:00:33.074510+02:00",
+ "last_run": "2026-11-25T12:05:16.333168+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
