@@ -4,12 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "6602fd7d91ed0768",
-  "scottbessentunleashesfreshiransanctionsastehranwarnstankersa",
-  "556c0085ac9d8d21",
-  "crudeoilpricesnearthreemonthlowsasrisingsupplyoffsetshormuzt",
-  "9713aee398b07779",
-  "brentcrudepricesslipbelow90abarrelpatrickdehaansaysoilrefine",
   "7456eaaca7934085",
   "momscleanairforcealleghenycountyresidentvanessalynchtellsepa",
   "eb4631c4ed3dec10",
@@ -603,7 +597,13 @@
   "5ce223fd74a4a3af",
   "oilfallsassupplyglutconcernsovershadowhormuzshippingrisks",
   "8ba046cc10ef9ac6",
-  "aramcocompletes7bpetrochemicalprojectinsouthkorea"
+  "aramcocompletes7bpetrochemicalprojectinsouthkorea",
+  "bc1e45552e551511",
+  "kazakhstanalsoseekshigheroiloutputcapacityestimateaheadof202",
+  "66d6b00aefc113e4",
+  "ieasayshormuzshockcouldreshapeoiltradeforyears",
+  "70b36c0fba1f16bf",
+  "oilfuturescrudeofflowsastankerattacksoffsetglutforecasts"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T13:40:20.870730+02:00",
+ "last_run": "2026-11-25T13:45:19.575375+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1520,6 +1520,10 @@
   {
    "d": "2026-11-25",
    "t": "Oil Falls as Supply Glut Concerns Overshadow Hormuz Shipping Risks - Marine News Magazine"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Kazakhstan also seeks higher oil output capacity estimate ahead of 2027 OPEC+ quota debate, sources say - Reuters"
   }
  ]
 }
