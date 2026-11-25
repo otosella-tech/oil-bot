@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "094ebed3c4407596",
-  "wticrudeoildropsbelow80asconcernsoversupplysurplusweighdownp",
   "bcf9a438aa6f1b3b",
   "brentcrudeposts3rdweeklylossfallsbelow89forfirsttimesinceaug",
   "8e335d030b693ea5",
@@ -603,7 +601,9 @@
   "94556fafaab2eed5",
   "currentpriceofoilasofnovember202026",
   "a2c35c50e0e9001c",
-  "iraqiprimeministertakesonpowerfuliranbackedgroupsandkurds"
+  "iraqiprimeministertakesonpowerfuliranbackedgroupsandkurds",
+  "071e37b5d9da1726",
+  "iraqpushesforhigheroilproductioncapacityaheadof2027opecquota"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-25",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-11-25T10:45:20.125050+02:00",
+ "last_run": "2026-11-25T10:50:19.876402+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1468,6 +1468,10 @@
   {
    "d": "2026-11-25",
    "t": "Iraqi Prime Minister Takes on Powerful Iran-Backed Groups and Kurds - https://globalpost.com/"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Iraq Pushes for Higher Oil Production Capacity Ahead of 2027 OPEC+ Quotas - Egypt Oil & Gas"
   }
  ]
 }
