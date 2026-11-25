@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "28a81755095c324c",
-  "gaspricesfallaheadofthanksgivingascrudeoilslides",
   "b934d273eec74594",
   "bofasees80brentin2027despitegrowingoilsupply",
   "1c9886ff9c3e4d9d",
@@ -603,7 +601,9 @@
   "e623d2fa1ace59d5",
   "tokyoyentradesinlower159rangeasaistockslumpandhighcrudeoilpr",
   "653c0b6edf30131f",
-  "oilpricesfallassupplyglutconcernsoffsetfearsofmiddleeastdisr"
+  "oilpricesfallassupplyglutconcernsoffsetfearsofmiddleeastdisr",
+  "4e5930123585991b",
+  "oilslumpsto3monthlowonincreasedmiddleeastflowslibyanpipeline"
  ],
  "releases_done": {
   "2026-11-24|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-25",
-  "count": 24
+  "count": 26
  },
- "last_run": "2026-11-25T04:50:19.122094+02:00",
+ "last_run": "2026-11-25T04:55:16.301293+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1419,6 +1419,10 @@
   {
    "d": "2026-11-25",
    "t": "3 Oil And Gas Stocks Screening For Price Upside As Hormuz Risks Rise - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart - Reuters"
   }
  ]
 }
