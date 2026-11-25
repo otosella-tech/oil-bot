@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "a74d41b610620ab5",
-  "oilfallsaround3onincreasedmiddleeastflowslibyanpipelineresta",
   "0d840583a9589f37",
   "japanlaunchesasianoiltaskforceamidgulfsupplydisruptions",
   "33ee40c8207a8684",
@@ -603,7 +601,9 @@
   "a33fd72ca83b7c9b",
   "thankfulturnatthepumpmobilegaspricesdropnearly16centsaheadof",
   "79d20fc8d88c2475",
-  "saudiarabiatriplesitsoilstorageinjapanastokyobuys8mbarrelsto"
+  "saudiarabiatriplesitsoilstorageinjapanastokyobuys8mbarrelsto",
+  "a6fd8a258fab0578",
+  "brentclosedus203higherontuesdayafterreportsofattacksonshippi"
  ],
  "releases_done": {
   "2026-11-24|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-25",
-  "count": 14
+  "count": 16
  },
- "last_run": "2026-11-25T02:50:20.221577+02:00",
+ "last_run": "2026-11-25T02:55:16.193205+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1399,6 +1399,10 @@
   {
    "d": "2026-11-25",
    "t": "Senate Investigates Vance’s Alleged Role in Venezuela Oil Deal"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Brent closed US$2.03 higher on Tuesday after reports of attacks on shipping around the Strait of Hormuz - Nation Thailand"
   }
  ]
 }
