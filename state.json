@@ -4,12 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "39deeb2e03c1a7bf",
-  "dolphindrillingclosesblackforddolphinrigsaletospmnomineeands",
-  "7281d705ffea5ddf",
-  "oilpricesdiptonearthreemonthlowonrecoveringsupplies",
-  "3469822a01625acd",
-  "asheatingoilpriceshitnewhighsricustomersarescaredforwinter",
   "e45756bf00c391f5",
   "njdemsweighfixestolowerdieselhomeoilpricesaswinterlooms",
   "fdf49139f94cbbbb",
@@ -603,7 +597,13 @@
   "eb42dd99af9732c2",
   "adnocplacesrestrictionsonoiltankersaftergulfattacks",
   "4d3c95a884045d3e",
-  "dozensofoilcoveredbirdsfoundalongcalifcoastanda70yearoldship"
+  "dozensofoilcoveredbirdsfoundalongcalifcoastanda70yearoldship",
+  "2c41e33d76829203",
+  "europeanstockstrademixedasoilpricesdeclineandinvestorsawaitu",
+  "bbd52cfe7a234553",
+  "oilpricesriseover1afterhouthissaytheyattackedsaudirefineryeu",
+  "d1ed228a7c235570",
+  "shouldyouchangeyourmoweroilbeforestoringitforthewinterheresw"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T17:10:21.471179+02:00",
+ "last_run": "2026-11-25T17:15:19.761530+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1602,6 +1602,10 @@
   {
    "d": "2026-11-25",
    "t": "Adnoc Places Restrictions on Oil Tankers After Gulf Attacks - Bloomberg"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Oil prices rise over 1% after Houthis say they attacked Saudi refinery - Euronext Markets: Real-time Stock Market Data | live"
   }
  ]
 }
