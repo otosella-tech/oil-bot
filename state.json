@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "15196539d4d9bcc9",
-  "crudeoilremainsunderpressureasdemandconcernscontinuetoweighd",
   "a23c0a70a948eeb5",
   "brentcrudeprice890824monthlyslidebeforeopec",
   "5b4b5194ac200d01",
@@ -603,7 +601,9 @@
   "52e5585f6b78fa8e",
   "oilpricesriseafterhouthisclaimattackonsaudirefinery",
   "1a78b23ec85a8420",
-  "howwerechemicaldispersantsusedduringthedeepwaterhorizonclean"
+  "howwerechemicaldispersantsusedduringthedeepwaterhorizonclean",
+  "138d15cbbf38a74f",
+  "smallmodularreactorsfinallyhaverealmomentumintheus"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T23:55:16.438840+02:00",
+ "last_run": "2026-11-26T00:00:31.493544+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
