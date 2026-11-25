@@ -4,10 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "5fd3ac74bba67444",
-  "brentdropsto86asglobaloilglutconcernsmount",
-  "501d8f4c8642c87c",
-  "howcaninvestorsaccesscrudeoilfuturesthroughthebetasharescrud",
   "39222d1ca983e83d",
   "crudeoiloutlookturnsbearishasmarketspriceinthe2027supplyglut",
   "228fa714036f5851",
@@ -603,7 +599,11 @@
   "76354b34e89df542",
   "oildownassupplyprospectsoutweighgulfrisks",
   "83cb7ca9b153ab42",
-  "iranwarispushingrecordnumbersoffueltankersintocrudetrade"
+  "iranwarispushingrecordnumbersoffueltankersintocrudetrade",
+  "42128baac4f72de6",
+  "oilpricesslipasglobalsupplysurplusconcernsoffsetmiddleeastsh",
+  "5be79794f26a72ca",
+  "libyastripoligovernmentaskscourttoannularkenuoildealscrutini"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T15:00:32.399886+02:00",
+ "last_run": "2026-11-25T15:05:16.399851+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1556,6 +1556,10 @@
   {
    "d": "2026-11-25",
    "t": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Libya's Tripoli government asks court to annul Arkenu oil deal scrutinised by UN - Reuters"
   }
  ]
 }
