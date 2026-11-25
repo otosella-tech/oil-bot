@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "6617fecfb676e185",
-  "naturalgasandoilforecastlibyarestartkeepsoilnearthreemonthlo",
   "35595fb87504c8c8",
   "roimiddleeastcrudeoilexportstrendloweramidfakeiranstalemater",
   "6602fd7d91ed0768",
@@ -603,7 +601,9 @@
   "820a643df6cf7fa4",
   "kurdishpartieshitbackatiraqsplanstotakecontrolofoilsector",
   "a979d4ba8282f3d5",
-  "oilnewssupplyglutfearsweighoncrudedespitesaudirefineryattack"
+  "oilnewssupplyglutfearsweighoncrudedespitesaudirefineryattack",
+  "5ce223fd74a4a3af",
+  "oilfallsassupplyglutconcernsovershadowhormuzshippingrisks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T13:20:22.252461+02:00",
+ "last_run": "2026-11-25T13:25:22.149581+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1516,6 +1516,10 @@
   {
    "d": "2026-11-25",
    "t": "Oil News: Supply Glut Fears Weigh on Crude Despite Saudi Refinery Attack - FXEmpire"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Oil Falls as Supply Glut Concerns Overshadow Hormuz Shipping Risks - Marine News Magazine"
   }
  ]
 }
