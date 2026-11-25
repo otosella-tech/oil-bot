@@ -4,8 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "aeeaff1b899ca9a5",
-  "crudeoilpriceoutlook24nov2026futuresslideonsupplycmbnews",
   "b8efa57f5f0b596b",
   "2yearsagosaudiarabiaquietlycanceledthepetrodollardealwithame",
   "ee21d6e6f23a47a5",
@@ -603,7 +601,9 @@
   "5c1d0bc0585aaabc",
   "aramcooutputfalls137aspipelineattacksmount",
   "1c4074d3a7931c5a",
-  "oilpricesholdnearthreemonthlowsdespitehormuzmineclaims"
+  "oilpricesholdnearthreemonthlowsdespitehormuzmineclaims",
+  "65835a437d2925d1",
+  "currentpriceofoilasofnov252026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T14:30:25.605127+02:00",
+ "last_run": "2026-11-25T14:35:15.524385+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
