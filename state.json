@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "537ab0169837705c",
-  "apagoesallinonalaskaoilasleasebiddinghits12yearhigh",
   "97f618d67ca9efb1",
   "markettalknaturalgasandcrudeoilpricessharplydeclinedtalkmark",
   "a96498a89859d53b",
@@ -603,7 +601,9 @@
   "7601711e09f2b2c5",
   "benincotonouandsingaporeanfirmrexnegotiateeconomicviabilityo",
   "002ef2adfd21c3c3",
-  "oilpricesslidedespitemountingthreatsinthestraitofhormuz"
+  "oilpricesslidedespitemountingthreatsinthestraitofhormuz",
+  "880c6d5561149bdf",
+  "oilpricesup241126"
  ],
  "releases_done": {},
  "last_digest": "2026-11-24",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 34
  },
- "last_run": "2026-11-25T07:50:26.265402+02:00",
+ "last_run": "2026-11-25T07:55:15.656668+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
