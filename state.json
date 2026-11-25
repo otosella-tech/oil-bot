@@ -4,10 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "f56f4772e8249114",
-  "gulfnationseye40billioninpipelineprojectstobypassstraitofhor",
-  "a945e5fca12cc056",
-  "oilpricesapproachedthreemonthlows",
   "f757b693158ef7c3",
   "chinaindiasetforrecordrussianoilimportsin2026butdemandseenpe",
   "730bb7e511e7b06e",
@@ -603,7 +599,11 @@
   "4a9953ceb8eeed0d",
   "ukrainedefendsattackonrussianshipsinoilrichnorthafricannatio",
   "bb0d8d696929b87b",
-  "indianrupeestrengthensasfallingoilpriceseasepressuremiddleea"
+  "indianrupeestrengthensasfallingoilpriceseasepressuremiddleea",
+  "e87864a2de1933e1",
+  "yourwednesdaynov25guidefivethingstodointheoilcity",
+  "8ec24f269c7c4363",
+  "ukrainianforcesstriketworussianoilrefineries"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T16:05:18.206181+02:00",
+ "last_run": "2026-11-25T16:10:23.103205+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1572,6 +1572,10 @@
   {
    "d": "2026-11-25",
    "t": "Ukraine defends attack on Russian ships in oil-rich North African nation as two Libyan military personnel die and forces vow retaliation - Business Insider Africa"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Ukrainian forces strike two Russian oil refineries - Ukrinform"
   }
  ]
 }
