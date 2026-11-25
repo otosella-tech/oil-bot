@@ -4,12 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "3a2cfc90284fe3df",
-  "goldsilvercopperandtinrallytogetherasnygoldreturnsto3600crud",
-  "62fba3954e414a5c",
-  "reportiransuspectedinwaveofcyberattacksondozensofoilandgasta",
-  "94556fafaab2eed5",
-  "currentpriceofoilasofnovember202026",
   "3d31232f9c98b75d",
   "currentpriceofoilasofnovember162026",
   "bc5c73b39a783540",
@@ -603,7 +597,13 @@
   "0947873fda08ee02",
   "crudeoilpriceswtibrent25nov2026reboundbutsoftbalancecmbnews",
   "6b8dddcb12abcfe0",
-  "aramcosoilinaugurate7bnshaheenprojectinsouthkorea"
+  "aramcosoilinaugurate7bnshaheenprojectinsouthkorea",
+  "ac5338090ff3abe2",
+  "oilclimbsdespitegrowingoversupplyfears",
+  "45d071e533660157",
+  "threequartersoflargeoiltankersnowtransportingcrudeamidhighea",
+  "97e4ff8a2222f9e9",
+  "ukrainiandronesstriketworussianoilrefinerieswithcombinedannu"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-25",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-11-25T10:20:19.008563+02:00",
+ "last_run": "2026-11-25T10:25:15.682787+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1456,6 +1456,10 @@
   {
    "d": "2026-11-25",
    "t": "Iraqi PM moves to seize Kurdish-controlled oilfields, further straining ties - The Japan Times"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Ukrainian Drones Strike Two Russian Oil Refineries With Combined Annual Capacity of Nearly 16 Million Tons - UNITED24 Media"
   }
  ]
 }
