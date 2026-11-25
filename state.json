@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "0883492f6c0833e7",
-  "climatefinancedisputederailscop31negotiations",
-  "58ecaf6dbd8fcc38",
-  "oildropsonincreasedmiddleeastflowslibyanpipelinerestart",
   "33823feca28308e0",
   "iraqcompleteskirkukoilsmugglingprobeamidwideningcrackdownvoa",
   "b990e461ba018cb3",
@@ -603,7 +599,11 @@
   "1ca8301a031bd2b6",
   "wtisteadiesabove81amidsupplygeopoliticalrisks",
   "205e5a2cf2115c02",
-  "soilcompletes69bilshaheenprojectshiftsgrowthenginetowardpetr"
+  "soilcompletes69bilshaheenprojectshiftsgrowthenginetowardpetr",
+  "4551a6b187f798fe",
+  "oilholdsdeclineonsignsofcontinuingusirandiplomacy",
+  "43812e9f09ee48bd",
+  "soilcompletesw9trshaheenpetrochemicalproject"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-25",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-11-25T09:00:28.465630+02:00",
+ "last_run": "2026-11-25T09:05:24.774817+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1440,6 +1440,10 @@
   {
    "d": "2026-11-25",
    "t": "Drones attack several oil refineries in Russia, sparking fire – photos, video - Українська правда"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com"
   }
  ]
 }
