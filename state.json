@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "f4a83bb33f1b3baa",
-  "canadianoilstocksgainascrudepricesstayelevated",
-  "a054983c3b89d7c2",
-  "oilfuturesat3monthlowaslibyaoutputboostandoversupplysignalsw",
   "2504e9455f55085b",
   "brentfalls35tolowestsinceaugustasgulfsupplyreturnsandlibyass",
   "ceab20441d295d25",
@@ -603,7 +599,11 @@
   "0c96951bb399abe8",
   "usgulfshrimpersfisherssueover2023oilspill",
   "af1625a74d2b1122",
-  "iraqcrackdowntargetsoilsmugglingroutestoiran"
+  "iraqcrackdowntargetsoilsmugglingroutestoiran",
+  "5c69c383892b9b85",
+  "oilpricesextenddeclinesasrisingsupplypressuresbrentandwtides",
+  "efd92d866a998197",
+  "dangotehiresveteranoiltraderjonathanzarembokfromequinor"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T12:30:27.960085+02:00",
+ "last_run": "2026-11-25T12:35:15.841793+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1496,6 +1496,10 @@
   {
    "d": "2026-11-25",
    "t": "Iraq crackdown targets oil smuggling routes to Iran - Arab News"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Oil Prices Extend Declines as Rising Supply Pressures Brent and WTI Despite Hormuz Tensions - Yahoo Finance"
   }
  ]
 }
