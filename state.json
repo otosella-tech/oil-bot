@@ -4,10 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "27a5dd15c05f6181",
-  "iraqipmordersministrytomanageoilfieldsunderkrgcontroldailysa",
-  "968fde16f4a0606d",
-  "crudeoilconsolidatesatkeysupportasiranurgestotightenhormuzma",
   "8fcfdc62fb1198c6",
   "lookinsideamapofpennsylvaniasforgottenoilandgaswells",
   "07280f29d7734588",
@@ -603,7 +599,11 @@
   "cbf7930ce70dc81c",
   "westasiaconflicttriggered64crudeoilpricesurgecomparedwith29d",
   "e988c3b9986e54c7",
-  "houthisclaimrastanurastrikeandiraqdisputesopeccapacitybrentr"
+  "houthisclaimrastanurastrikeandiraqdisputesopeccapacitybrentr",
+  "7e18743d6c1b8ba4",
+  "ukenergybillssettosoar26asiranwardrivesupgasprices",
+  "d48c13dd970f6f69",
+  "iraqsdrivetargetsoilsmugglingroutes"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T16:55:17.395639+02:00",
+ "last_run": "2026-11-25T17:00:36.051578+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1594,6 +1594,10 @@
   {
    "d": "2026-11-25",
    "t": "Houthis Claim Ras Tanura Strike and Iraq Disputes OPEC+ Capacity; Brent Recovers After a Dip to $90.96 - Energy News Beat"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "UK Energy Bills Set to Soar 26% as Iran War Drives Up Gas Prices"
   }
  ]
 }
