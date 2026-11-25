@@ -4,10 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "39eddfdef6ab874d",
-  "oilpricesfallastradersweighsupplyoutlookshippingrisks",
-  "bccaef6df6e1c30f",
-  "iraqipmordersministrytomanageoilfieldsinareasunderkurdishsec",
   "84020265549e6b1d",
   "poweroutagesinoilrichiranaretheresultoftheregiesplunderingwe",
   "f56f4772e8249114",
@@ -603,7 +599,11 @@
   "13f9ccf3cc13c59c",
   "russiasaysopectocompleteproductioncapacityreviewbyyearend",
   "ddb8706c8dada0b6",
-  "nasadatapointtofireatrussiassyzranrefineryafterdrones"
+  "nasadatapointtofireatrussiassyzranrefineryafterdrones",
+  "9babc0173e47da2f",
+  "bigoilandbigtechlobbyeuforfastergas",
+  "4a9953ceb8eeed0d",
+  "ukrainedefendsattackonrussianshipsinoilrichnorthafricannatio"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T15:55:15.938688+02:00",
+ "last_run": "2026-11-25T16:00:31.668458+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1568,6 +1568,10 @@
   {
    "d": "2026-11-25",
    "t": "NASA Data Point to Fire at Russia’s Syzran Refinery After Drones - Bloomberg"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Ukraine defends attack on Russian ships in oil-rich North African nation as two Libyan military personnel die and forces vow retaliation - Business Insider Africa"
   }
  ]
 }
