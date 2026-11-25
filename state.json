@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "5b4b5194ac200d01",
-  "oilbudgetsandterritorywhyiraqsfederalgovernmentremainsatodds",
-  "4912728d91126088",
-  "usedsupertankersnowcostmorethannewshipsashormuzwarupendsship",
   "243e60402f3c3e4d",
   "canelevatedoilpricesdriveequinorsupstreamprofitabilityhigher",
   "2bc5e99daa925e9f",
@@ -603,7 +599,11 @@
   "138d15cbbf38a74f",
   "smallmodularreactorsfinallyhaverealmomentumintheus",
   "0cf27337bd781a52",
-  "mideastwarfogsopecsfuture"
+  "mideastwarfogsopecsfuture",
+  "99dceabaf9ccb4ce",
+  "oiltankercyberattacksevidencerisksandfuelsupply",
+  "2ce9a96151a97c39",
+  "sauditradesurplusjumps745to11billioninseptember"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 2
+  "count": 4
  },
- "last_run": "2026-11-26T00:05:18.538814+02:00",
+ "last_run": "2026-11-26T00:10:21.032915+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1567,6 +1567,10 @@
   {
    "d": "2026-11-26",
    "t": "Mideast War Fogs Opec’s Future - Energy Intelligence"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Oil Tanker Cyberattacks: Evidence, Risks and Fuel Supply - Tank Transport"
   }
  ]
 }
