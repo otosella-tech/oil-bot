@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "dc47bed89dbc7cfe",
-  "oilpriceslingernearthreemonthlowdespitestraitofhormuzrisks",
   "66f905da4a9d0ade",
   "iransaysthreetankershitminesyetoilsitsnearathreemonthlowassu",
   "f54854e4b3c813ef",
@@ -603,7 +601,9 @@
   "803459d3489b6499",
   "aramcosoilinaugurate7billionpetrochemicalscomplexinsouthkore",
   "c0964ef3906f03cc",
-  "equinortankertrappedinhormuzfor120days"
+  "equinortankertrappedinhormuzfor120days",
+  "4c514c4bdbc327b5",
+  "ukrainetellsputintostopcomplainingoveroilrefineryattacksasru"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T11:55:17.525597+02:00",
+ "last_run": "2026-11-25T12:00:33.074510+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1488,6 +1488,10 @@
   {
    "d": "2026-11-25",
    "t": "Equinor tanker trapped in Hormuz for 120 days - EnergyWatch"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation - CNBC"
   }
  ]
 }
