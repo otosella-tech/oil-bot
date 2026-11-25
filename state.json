@@ -4,8 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "5cab4665ddc391d6",
-  "southkoreasaysitscrudesupplyisstablethroughthewinter",
   "83f6e74f877974e6",
   "currentpriceofoilasofnov242026",
   "b963ec7146ab1f07",
@@ -603,7 +601,9 @@
   "26696ee51d052c26",
   "uscrudeoilstockpilesriseforthirdstraightweek",
   "a94ff97a81c416fb",
-  "aramcoopens7billionpetrochemicalcomplexinsouthkorea"
+  "aramcoopens7billionpetrochemicalcomplexinsouthkorea",
+  "f76f9a7e1766f36c",
+  "soilinauguratesshaheenproject"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T18:50:21.212513+02:00",
+ "last_run": "2026-11-25T18:55:15.937186+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
