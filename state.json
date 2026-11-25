@@ -4,8 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "48673e1b1b616ac7",
-  "whocontrolsthehormuznarrativewashingtonortheoilmarket",
   "39eddfdef6ab874d",
   "oilpricesfallastradersweighsupplyoutlookshippingrisks",
   "bccaef6df6e1c30f",
@@ -603,7 +601,9 @@
   "f57dea855e092304",
   "crudeoildjiaoutlookoilrisksrebounddowholdsgains",
   "13f9ccf3cc13c59c",
-  "russiasaysopectocompleteproductioncapacityreviewbyyearend"
+  "russiasaysopectocompleteproductioncapacityreviewbyyearend",
+  "ddb8706c8dada0b6",
+  "nasadatapointtofireatrussiassyzranrefineryafterdrones"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T15:50:20.375365+02:00",
+ "last_run": "2026-11-25T15:55:15.938688+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1564,6 +1564,10 @@
   {
    "d": "2026-11-25",
    "t": "Russia says OPEC+ to complete production capacity review by year-end - Reuters"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "NASA Data Point to Fire at Russia’s Syzran Refinery After Drones - Bloomberg"
   }
  ]
 }
