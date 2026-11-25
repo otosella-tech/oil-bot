@@ -4,10 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "8fcfdc62fb1198c6",
-  "lookinsideamapofpennsylvaniasforgottenoilandgaswells",
-  "07280f29d7734588",
-  "oilpriceshovernearthreemonthlowsonrisingsupplyconcerns",
   "39deeb2e03c1a7bf",
   "dolphindrillingclosesblackforddolphinrigsaletospmnomineeands",
   "7281d705ffea5ddf",
@@ -603,7 +599,11 @@
   "7e18743d6c1b8ba4",
   "ukenergybillssettosoar26asiranwardrivesupgasprices",
   "d48c13dd970f6f69",
-  "iraqsdrivetargetsoilsmugglingroutes"
+  "iraqsdrivetargetsoilsmugglingroutes",
+  "eb42dd99af9732c2",
+  "adnocplacesrestrictionsonoiltankersaftergulfattacks",
+  "4d3c95a884045d3e",
+  "dozensofoilcoveredbirdsfoundalongcalifcoastanda70yearoldship"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1
@@ -617,7 +617,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T17:05:23.757482+02:00",
+ "last_run": "2026-11-25T17:10:21.471179+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1598,6 +1598,10 @@
   {
    "d": "2026-11-25",
    "t": "UK Energy Bills Set to Soar 26% as Iran War Drives Up Gas Prices"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Adnoc Places Restrictions on Oil Tankers After Gulf Attacks - Bloomberg"
   }
  ]
 }
