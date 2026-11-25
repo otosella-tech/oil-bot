@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "d46e8ddcf26853d1",
-  "oilsteadiesasmiddleeasttensionsviewithamplesupply",
   "ea01618190ab3dee",
   "gaspriceseaseforthanksgiving",
   "4d00c65f1004b399",
@@ -603,7 +601,9 @@
   "b1bdf41876e33a98",
   "mostlargefueltankersnowshipdirtycrudeupendingtrading",
   "194132d4f457c126",
-  "crudeoilfuturesfallamidprofittakingweakglobalcues"
+  "crudeoilfuturesfallamidprofittakingweakglobalcues",
+  "dc9bce87c7e246b0",
+  "oilpricesfallastradersweighsupplyoutlookrenewedmiddleeastten"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 46
  },
- "last_run": "2026-11-25T09:25:16.290142+02:00",
+ "last_run": "2026-11-25T09:30:25.290115+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
