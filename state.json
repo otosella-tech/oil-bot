@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "1801a4a69e0eb936",
-  "reportiransuspectedincyberattacksondozensofoilandgasshipsasb",
   "ab3737c8c758ac52",
   "palmoilslidesagainasrivaloilsandcrudeweaken",
   "5c5662403e149289",
@@ -603,7 +601,9 @@
   "acab4d73bcb250f9",
   "soilcompletesconstructionof68bnshaheencomplexinulsan",
   "051394bafb8e5b0d",
-  "iranjudiciarysaysdeathsentencesfortwoprotesterswerenotovertu"
+  "iranjudiciarysaysdeathsentencesfortwoprotesterswerenotovertu",
+  "ec26eb267433fcb5",
+  "oilfallsonsupplyglutconcernseyeson29novopecmeeting"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-25",
-  "count": 58
+  "count": 60
  },
- "last_run": "2026-11-25T11:25:21.403368+02:00",
+ "last_run": "2026-11-25T11:30:25.045054+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1476,6 +1476,10 @@
   {
    "d": "2026-11-25",
    "t": "Iraq Rebuffs OPEC Assessment of Output Capacity - Rigzone"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Oil falls on supply glut concerns; eyes on 29 Nov OPEC+ meeting - ICIS"
   }
  ]
 }
