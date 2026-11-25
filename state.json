@@ -4,8 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "337ae49a2b0bda22",
-  "iraqspmordersfederaltakeoverofkurdistanoilexportsbordercross",
   "48673e1b1b616ac7",
   "whocontrolsthehormuznarrativewashingtonortheoilmarket",
   "39eddfdef6ab874d",
@@ -603,7 +601,9 @@
   "55e2491a449f8cac",
   "globalvegetableoilpricesacceleratedeclineamidfallingcrudeoil",
   "f57dea855e092304",
-  "crudeoildjiaoutlookoilrisksrebounddowholdsgains"
+  "crudeoildjiaoutlookoilrisksrebounddowholdsgains",
+  "13f9ccf3cc13c59c",
+  "russiasaysopectocompleteproductioncapacityreviewbyyearend"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T15:35:16.468252+02:00",
+ "last_run": "2026-11-25T15:40:21.510069+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1560,6 +1560,10 @@
   {
    "d": "2026-11-25",
    "t": "Libya's Tripoli government asks court to annul Arkenu oil deal scrutinised by UN - Reuters"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Russia says OPEC+ to complete production capacity review by year-end - Reuters"
   }
  ]
 }
