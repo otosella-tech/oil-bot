@@ -4,10 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "ac23086771230722",
-  "theworldisunderpricingtheriskofmorewariniran",
-  "7aacb8b9e986686f",
-  "oilpricesdown231126",
   "6c15e12e11355bc6",
   "koreascrudeoilsupplyremainsstabledespitemiddleeasttensions",
   "5255577a52883f16",
@@ -603,7 +599,11 @@
   "f2a3ebbebf201f4d",
   "iraqiintelligencecrudesmuggledfromkurdistanregiontoiranandbl",
   "62f96a6be92c6448",
-  "americasrefinersdrownedtheirowngasolinewindfall"
+  "americasrefinersdrownedtheirowngasolinewindfall",
+  "c71bc148af527104",
+  "arkenudisputelaysbarelibyastangledoilpoliticalinterests",
+  "2304f61cc49b69d5",
+  "wtioilreturnsabove8100asattacksinthestraitofhormuzincrease"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T13:00:33.122940+02:00",
+ "last_run": "2026-11-25T13:05:16.106172+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1508,6 +1508,10 @@
   {
    "d": "2026-11-25",
    "t": "Iraqi intelligence: Crude smuggled from Kurdistan region to Iran and blended before export to Afghanistan - www.thenationalnews.com"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "WTI Oil returns above $81.00 as attacks in the Strait of Hormuz increase - FXStreet"
   }
  ]
 }
