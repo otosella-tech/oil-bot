@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "a23c0a70a948eeb5",
-  "brentcrudeprice890824monthlyslidebeforeopec",
   "5b4b5194ac200d01",
   "oilbudgetsandterritorywhyiraqsfederalgovernmentremainsatodds",
   "4912728d91126088",
@@ -603,7 +601,9 @@
   "1a78b23ec85a8420",
   "howwerechemicaldispersantsusedduringthedeepwaterhorizonclean",
   "138d15cbbf38a74f",
-  "smallmodularreactorsfinallyhaverealmomentumintheus"
+  "smallmodularreactorsfinallyhaverealmomentumintheus",
+  "0cf27337bd781a52",
+  "mideastwarfogsopecsfuture"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -615,115 +615,11 @@
   "Brent": 87.33
  },
  "llm": {
-  "date": "2026-11-25",
-  "count": 60
+  "date": "2026-11-26",
+  "count": 2
  },
- "last_run": "2026-11-26T00:00:31.493544+02:00",
+ "last_run": "2026-11-26T00:05:18.538814+02:00",
  "sent_stories": [
-  {
-   "d": "2026-11-22",
-   "t": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Oil pipeline blockade so far cost Libya nearly $31M: National Oil Corporation - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms - CNBC"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "War, latest news. ‘Iran ready to break the blockade of the Strait of Hormuz with over 14 oil tankers’ - Il Sole 24 ORE"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Saudi-led coalition says intercepted Houthi missile in western region - Hürriyet Daily News"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Crude Oil Futures Volatile Ahead of OPEC+ Output Decision - Rediff MoneyWiz"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Tracker says Iranian tanker reported in Strait of Hormuz is fake - Euronews.com"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "War, latest news. Eisenkot condemns the arson attacks in the West Bank: ‘Jewish terrorism’. Ben Gvir attacks him - Il Sole 24 ORE"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Explosion of Two Supertankers Carrying 4 Million Barrels of Oil in Hormuz Strait - تسنیم"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Russian Cargo Ship Attacked By Drones in Gulf of Finland - Energy Connects"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Libya’s NOC Reports $31 Mn Loss Due to Hamada Pipeline Closure - Egypt Oil & Gas"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Libya’s National Oil Corporation: Costs of Al-Hamada Pipeline Shutdown Exceed $30.8 Million - صحيفة مال"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "US ports face cyber attack onslaught as hackers target vital trade routes - Financial Times"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "National Oil Corporation reveals losses caused by closure of Hamada oil pipeline - The Libya Observer"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began - Yahoo News Singapore"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report - New York Post"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Venezuela’s Machado Urges More Drastic Overhaul of Oil Sector - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Iranian attacks in the Strait of Hormuz reach highest levels since the conflict began - KOMU 8"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "3 Oil Tanker And LNG Shipping Stocks In Focus After Strait Of Hormuz Disruptions - Yahoo Finance"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Iran readies tanker convoy at Kharg Island to test US oil blockade - Euronews.com"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "US ports face surge in cyberattack attempts, threatening vital trade routes: Report - Anadolu Ajansı"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Crude oil futures brace for OPEC+ output decision amid supply glut concerns: Analysts - The Economic Times"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Iran transfers crude oil between tankers as Aragchi urges break to US blockade - Türkiye Today"
-  },
-  {
-   "d": "2026-11-22",
-   "t": "Iran says 2 supertankers struck naval mines near Strait of Hormuz - Middle East Monitor"
-  },
   {
    "d": "2026-11-23",
    "t": "US Imposes Sanctions on Iranian Oil Smuggling Network - Global Arab Network"
@@ -1667,6 +1563,10 @@
   {
    "d": "2026-11-25",
    "t": "Oil prices rise after Houthis claim attack on Saudi refinery - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Mideast War Fogs Opec’s Future - Energy Intelligence"
   }
  ]
 }
