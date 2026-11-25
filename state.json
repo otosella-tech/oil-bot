@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "ae913ce7d342c014",
-  "barrelswithoutbordersalaskasoilrevivalandthejonesactfleet",
   "a0d0acb038795fec",
   "iraqconsidersexporting10millionbarrelsofoiltoegypt",
   "6bd424e161d03e7b",
@@ -603,7 +601,9 @@
   "27b70db5e6158c9e",
   "oilfuturesreverselowerasoversupplyviewoffsetsmiddleeastriskb",
   "e4c534d22a6920e2",
-  "asianstockstoslideasaitradedoubtsresurfacemarketswrap"
+  "asianstockstoslideasaitradedoubtsresurfacemarketswrap",
+  "43a5a4ad85a97cee",
+  "palmoilslipsassoyoilandcrudeoilweigh"
  ],
  "releases_done": {
   "2026-11-24|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-25",
   "count": 26
  },
- "last_run": "2026-11-25T05:05:16.216585+02:00",
+ "last_run": "2026-11-25T05:10:20.354147+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
