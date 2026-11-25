@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "39ef550e75726f22",
-  "usdemocratssweepnarrowstrumpsiranoptionsoilmarketsmurky",
   "562cc419ddde9752",
   "holidaytravelisgettingcheaperasnatronacountynationalgasprice",
   "3eabbb5079cd9636",
@@ -603,7 +601,9 @@
   "ded0b3f340195f2c",
   "oilslipsover1assupplyglutprospectoffsetsmiddleeastdisruption",
   "efcacd3cb842634f",
-  "venezuelaexpectstoincreaseoilproductionto29millionbdoverthen"
+  "venezuelaexpectstoincreaseoilproductionto29millionbdoverthen",
+  "834f4c37ce0e7199",
+  "crudeoilfuturesfalldespiteattacksonvesselsinstraitofhormuz"
  ],
  "releases_done": {
   "2026-11-24|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-25",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-11-25T06:35:16.100408+02:00",
+ "last_run": "2026-11-25T06:40:21.199302+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1427,6 +1427,10 @@
   {
    "d": "2026-11-25",
    "t": "Venezuela expects to increase oil production to 2.9 million b/d over the next decade - S&P Global"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Crude oil futures fall despite attacks on vessels in Strait of Hormuz - BusinessLine"
   }
  ]
 }
