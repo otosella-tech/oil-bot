@@ -4,12 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "ea01618190ab3dee",
-  "gaspriceseaseforthanksgiving",
-  "4d00c65f1004b399",
-  "oilpricessteadyafterloggingdeeplossesonsupplyglutfears",
-  "8453258e785ecf91",
-  "oilmarketsarebettingonasurplusthathasntarrivedyet",
   "ae4bf1199119b73f",
   "ussenateprobesvanceroleinvitolchoiceforvenezuelaoil",
   "569cad7d518db350",
@@ -603,7 +597,13 @@
   "194132d4f457c126",
   "crudeoilfuturesfallamidprofittakingweakglobalcues",
   "dc9bce87c7e246b0",
-  "oilpricesfallastradersweighsupplyoutlookrenewedmiddleeastten"
+  "oilpricesfallastradersweighsupplyoutlookrenewedmiddleeastten",
+  "6f6405b81e66b665",
+  "tworosneftoilrefineriesinrussiassamararegiononfirefollowingd",
+  "5a41a0886c7f5f6c",
+  "oilpricesfallover1asconcernsmountoverexcesssupply",
+  "bfb125820d7be794",
+  "iraqipmmovestoseizekurdishcontrolledoilfieldsfurtherstrainin"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-25",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-11-25T09:55:15.993240+02:00",
+ "last_run": "2026-11-25T10:00:29.408441+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1448,6 +1448,14 @@
   {
    "d": "2026-11-25",
    "t": "Most Large Fuel Tankers Now Ship ‘Dirty’ Crude, Upending Trading - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Two Rosneft oil refineries in Russia’s Samara region on fire following drone attack – media - Ukrinform"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Iraqi PM moves to seize Kurdish-controlled oilfields, further straining ties - The Japan Times"
   }
  ]
 }
