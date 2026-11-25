@@ -4,8 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "e279501ef39c8576",
-  "oilslicksinthestraitofhormuzareharmingtheenvironment",
   "3985142e4e936867",
   "crudeoilpriceforecastrisingsuppliesthreatenwtiandbrent",
   "22023e479b9a86c2",
@@ -603,7 +601,9 @@
   "2efc9257183f9114",
   "jpmorganoutlinesoiloutlookfor20272028",
   "ca244addb99e50ce",
-  "usdiplomaticpushreviveshopesfortranscaspiangaspipeline"
+  "usdiplomaticpushreviveshopesfortranscaspiangaspipeline",
+  "c9422efdc1f7917f",
+  "oilpricesreboundasshippingriskspersist"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T19:10:19.434177+02:00",
+ "last_run": "2026-11-25T19:15:21.071820+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
