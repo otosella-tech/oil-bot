@@ -4,8 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "5c556c7acdb65c85",
-  "iraqpmordersfederalcontrolofkurdishbordercrossingsoilfieldsa",
   "328f73ac7b84e560",
   "uscrudeoildeclinesto85abarrelonrecoveringmiddleeastexports",
   "79ef44e173989a8a",
@@ -603,7 +601,9 @@
   "5327c1c1babaffd3",
   "bigoilandbigtechlobbyeuforfastergasfireddatacenterpermits",
   "14f7649f6667f493",
-  "1953shipwreckoffsanfranciscocoastlinkedtodozensofoilcoveredb"
+  "1953shipwreckoffsanfranciscocoastlinkedtodozensofoilcoveredb",
+  "6633d167b69e8cd5",
+  "oilsupplyrecoveryoffsetsdisruptionrisksing"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T16:25:17.527991+02:00",
+ "last_run": "2026-11-25T16:30:28.947782+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
