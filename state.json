@@ -4,8 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "98dcfb8fa09ebcfb",
-  "oiltouchesthreemonthlowsasrisingsupplyoffsetshormuzthreat",
   "627e16fe3d8ecf57",
   "japanpoisedtorampuplngbuyingaspowerpricessurge",
   "fed683b38ccb0183",
@@ -603,7 +601,9 @@
   "12eec96139bf1914",
   "japexacquiresequinorsnorwayoilassetstargets10000boed",
   "38c29326498f39ff",
-  "opecslargestmembersheadforclashoveroilproductionestimates"
+  "opecslargestmembersheadforclashoveroilproductionestimates",
+  "15669c775ab0ce87",
+  "currentpriceofoilasofnovember252026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T16:45:19.340548+02:00",
+ "last_run": "2026-11-25T16:50:19.870330+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
