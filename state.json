@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "33823feca28308e0",
-  "iraqcompleteskirkukoilsmugglingprobeamidwideningcrackdownvoa",
   "b990e461ba018cb3",
   "usbackedfirmtoinkvenezueladredgingdealtoaidoilexports",
   "d46e8ddcf26853d1",
@@ -603,7 +601,9 @@
   "4551a6b187f798fe",
   "oilholdsdeclineonsignsofcontinuingusirandiplomacy",
   "43812e9f09ee48bd",
-  "soilcompletesw9trshaheenpetrochemicalproject"
+  "soilcompletesw9trshaheenpetrochemicalproject",
+  "b1bdf41876e33a98",
+  "mostlargefueltankersnowshipdirtycrudeupendingtrading"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-25",
-  "count": 44
+  "count": 46
  },
- "last_run": "2026-11-25T09:05:24.774817+02:00",
+ "last_run": "2026-11-25T09:10:20.079682+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1444,6 +1444,10 @@
   {
    "d": "2026-11-25",
    "t": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Most Large Fuel Tankers Now Ship ‘Dirty’ Crude, Upending Trading - Bloomberg.com"
   }
  ]
 }
