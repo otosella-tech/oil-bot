@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "5255577a52883f16",
-  "koreanenergyinstituteurgesphasedexitfromoilpricecapasgovernm",
   "6617fecfb676e185",
   "naturalgasandoilforecastlibyarestartkeepsoilnearthreemonthlo",
   "35595fb87504c8c8",
@@ -603,7 +601,9 @@
   "2304f61cc49b69d5",
   "wtioilreturnsabove8100asattacksinthestraitofhormuzincrease",
   "820a643df6cf7fa4",
-  "kurdishpartieshitbackatiraqsplanstotakecontrolofoilsector"
+  "kurdishpartieshitbackatiraqsplanstotakecontrolofoilsector",
+  "a979d4ba8282f3d5",
+  "oilnewssupplyglutfearsweighoncrudedespitesaudirefineryattack"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T13:15:18.874285+02:00",
+ "last_run": "2026-11-25T13:20:22.252461+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1512,6 +1512,10 @@
   {
    "d": "2026-11-25",
    "t": "WTI Oil returns above $81.00 as attacks in the Strait of Hormuz increase - FXStreet"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Oil News: Supply Glut Fears Weigh on Crude Despite Saudi Refinery Attack - FXEmpire"
   }
  ]
 }
