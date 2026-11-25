@@ -4,16 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "305535c9080602d5",
-  "oilpricetoday24november2026brentslipsbelow90asusirannegotiat",
-  "4765677f5fd3baa3",
-  "chineserefinerssnappingupcutpriceoiltorefillstockpiles",
-  "683e9ad391f91934",
-  "electricandhybridcarscapturethreequartersofeuropesautomarket",
-  "9eb604f5568f3200",
-  "oilpricesfallonsupplysurplusexpectationslibyapipelinereopeni",
-  "c1ed86b9113d9a28",
-  "currentpriceofoilasofnovember52026",
   "aeeaff1b899ca9a5",
   "crudeoilpriceoutlook24nov2026futuresslideonsupplycmbnews",
   "b8efa57f5f0b596b",
@@ -603,7 +593,17 @@
   "4d1f35156f436d87",
   "opecwillseeoneofmostcomplicatedmeetingsinyears",
   "5434d54ffd22c7ca",
-  "indonesiasdsitosetpalmoilexportfeeat05ofvalue"
+  "indonesiasdsitosetpalmoilexportfeeat05ofvalue",
+  "be67ab820bc3b3e0",
+  "commentarymiddleeastcrudeoilexportstrendloweramidfakeiransta",
+  "9b64ca45eed89766",
+  "favorablecrudeoiloutlookwhatliesaheadforcopeogfang",
+  "21ce26f21d2f43fe",
+  "crudeoilconsolidatesasbearishmomentumeaseswhilegeopoliticalr",
+  "5c1d0bc0585aaabc",
+  "aramcooutputfalls137aspipelineattacksmount",
+  "1c4074d3a7931c5a",
+  "oilpricesholdnearthreemonthlowsdespitehormuzmineclaims"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T14:20:19.444225+02:00",
+ "last_run": "2026-11-25T14:25:17.917827+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1540,6 +1540,18 @@
   {
    "d": "2026-11-25",
    "t": "OPEC+ Will See One of Most Complicated Meetings in Years - Rigzone"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate - Reuters"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Aramco Output Falls 13.7% as Pipeline Attacks Mount - houseofsaud.com"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
