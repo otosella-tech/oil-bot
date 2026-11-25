@@ -4,8 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "328f73ac7b84e560",
-  "uscrudeoildeclinesto85abarrelonrecoveringmiddleeastexports",
   "79ef44e173989a8a",
   "irgcclaims3oiltankershitminesinhormuzunderusescort",
   "6e456198b707a379",
@@ -603,7 +601,9 @@
   "14f7649f6667f493",
   "1953shipwreckoffsanfranciscocoastlinkedtodozensofoilcoveredb",
   "6633d167b69e8cd5",
-  "oilsupplyrecoveryoffsetsdisruptionrisksing"
+  "oilsupplyrecoveryoffsetsdisruptionrisksing",
+  "b70c9e89fe847b5c",
+  "russiaselevatedcrudeshipmentscontributingtoglobalsupplysurpl"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -615,7 +615,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T16:30:28.947782+02:00",
+ "last_run": "2026-11-25T16:35:16.523961+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
