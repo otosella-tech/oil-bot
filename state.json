@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "42005a24b0f2347d",
-  "oilslumpsto3monthlowonincreasedmiddleeastflowslibyanpipeline",
   "28a81755095c324c",
   "gaspricesfallaheadofthanksgivingascrudeoilslides",
   "b934d273eec74594",
@@ -603,7 +601,9 @@
   "86ced19254f69607",
   "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
   "e623d2fa1ace59d5",
-  "tokyoyentradesinlower159rangeasaistockslumpandhighcrudeoilpr"
+  "tokyoyentradesinlower159rangeasaistockslumpandhighcrudeoilpr",
+  "653c0b6edf30131f",
+  "oilpricesfallassupplyglutconcernsoffsetfearsofmiddleeastdisr"
  ],
  "releases_done": {
   "2026-11-24|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-25",
   "count": 24
  },
- "last_run": "2026-11-25T04:45:18.929898+02:00",
+ "last_run": "2026-11-25T04:50:19.122094+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
