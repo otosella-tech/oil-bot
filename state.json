@@ -4,8 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "aa0caf94be07ccc7",
-  "oilmarketshiftstosurplusasexportsrisedemandfallsbloomberg",
   "ee1fdfd0af5dd56a",
   "factcheckismoreoilgoingthroughthestraitofhormuzthanbeforethe",
   "5cab4665ddc391d6",
@@ -603,7 +601,9 @@
   "46efcbbfcc5031f2",
   "ustotalcrudeoilstocksfallinweekendednov20",
   "c8ffce40852539a5",
-  "aramcoinaugurates7bnshaheenpetrochemicalsprojectinsouthkorea"
+  "aramcoinaugurates7bnshaheenpetrochemicalsprojectinsouthkorea",
+  "26696ee51d052c26",
+  "uscrudeoilstockpilesriseforthirdstraightweek"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T18:25:16.953357+02:00",
+ "last_run": "2026-11-25T18:30:28.326871+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
