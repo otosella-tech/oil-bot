@@ -4,8 +4,6 @@
   "Brent": 88.99
  },
  "seen": [
-  "4d1274d02821599a",
-  "australiamullsclosingkeyrussianoilloopholebutwithnodeadlinei",
   "4db4b60dae619bf6",
   "iranfacesadeepeningnaturalgascrisisaheadofwinter",
   "a93545a9a983e0e3",
@@ -603,7 +601,9 @@
   "2b34bcebae3167f1",
   "crudeoilisatacrossroadsistherevalueinoilstocks",
   "d11a00b2db52fe5b",
-  "eiacushingcrudeoilstockschangenov200534mprev1209m"
+  "eiacushingcrudeoilstockschangenov200534mprev1209m",
+  "7b04909e7f0c906c",
+  "iraqioilsmuggledthroughkurdistantoiranandafghanistangovernme"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-25",
   "count": 60
  },
- "last_run": "2026-11-25T21:30:25.791519+02:00",
+ "last_run": "2026-11-25T21:35:18.098608+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
@@ -1655,6 +1655,10 @@
   {
    "d": "2026-11-25",
    "t": "Oil prices rise after Houthis say they attacked Saudi refinery - CNBC"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Iraqi oil smuggled through Kurdistan to Iran and Afghanistan, government report reveals - The National"
   }
  ]
 }
