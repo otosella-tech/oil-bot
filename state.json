@@ -4,8 +4,6 @@
   "Brent": 87.05
  },
  "seen": [
-  "2b29e4dd8544c1a2",
-  "crudeoilsettlesat8017tradesatitslowestlevelsinceaugust26",
   "6aad0d010daa3b2f",
   "californiavoicestatepayingforoilindustrysriskyplantoburycarb",
   "6827892acc437ab1",
@@ -603,7 +601,9 @@
   "231cc5738a7498f2",
   "saudiarabiaexpectssmallereconomiccontractionasoilexportsreco",
   "bb26c8c4a1c21791",
-  "wtiholdssteadyabove8100astradersweighmiddleeasttensions"
+  "wtiholdssteadyabove8100astradersweighmiddleeasttensions",
+  "be7f6fd9005216b5",
+  "crudepricessharplyhigheronconcernsoversupplydisruptions"
  ],
  "releases_done": {
   "2026-11-24|דוח מלאים של מכון הנפט האמריקאי (API)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-25",
   "count": 26
  },
- "last_run": "2026-11-25T06:05:17.085093+02:00",
+ "last_run": "2026-11-25T06:10:20.411307+02:00",
  "sent_stories": [
   {
    "d": "2026-11-22",
