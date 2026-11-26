@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "28f440a445556bf4",
-  "oilslidesnearly4asreturningsupplyoutweighsgulfattacks",
-  "5036767241f0302f",
-  "northdakotaindustrialcommissionapproves178millioninmatchingg",
   "7099c052dadbda7e",
   "uscrudeoilstockpilesriseforsecondstraightweek",
   "ffc195350cbaaef8",
@@ -603,7 +599,11 @@
   "863afd121a154704",
   "exclusiveeureportconfirmstrumpthrewrussianenergysectoranecon",
   "7a64f58b99eb6095",
-  "rupeefalls20paiseto9240againstusdollarinearlytrade"
+  "rupeefalls20paiseto9240againstusdollarinearlytrade",
+  "ed4e7c7c03d3990c",
+  "morningbriefingcrudeoilpricesbouncedbackonmiddleeasttensions",
+  "cb34cd9b41184642",
+  "crudeoilpricerisesonreportsofhouthiattackonsaudirefinery"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 24
+  "count": 25
  },
- "last_run": "2026-11-26T07:10:20.314815+02:00",
+ "last_run": "2026-11-26T07:15:19.159411+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
