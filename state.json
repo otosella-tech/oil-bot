@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "88225703f234e214",
-  "sugarpricessupportedbydollarweaknessandstrengthincrudeoil",
-  "8d01a87c219c0bae",
-  "iraqikurdscloseranksasbaghdadmovestoseizeoilbordercontrolal",
   "1c3f7b36e6402e3f",
   "morethan2yearsafterbecominglibyasfirstprivatecrudeexporteroi",
   "8332547029626974",
@@ -603,7 +599,11 @@
   "ecd8302f07087865",
   "opecfacesitsmostconsequentialsupplydecisionoftheyear",
   "5ecc8ca0ea568ae2",
-  "oilsettleslowerasrecoveringmiddleeastexportsbolstersurplusou"
+  "oilsettleslowerasrecoveringmiddleeastexportsbolstersurplusou",
+  "5956a53001f78b57",
+  "crudepostsbacktobackgainsonmiddleeasttension",
+  "c7c1981a279e0ec4",
+  "iraqseekshigheroiloutputcapacityestimateaheadof2027opecquota"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 19
+  "count": 21
  },
- "last_run": "2026-11-26T05:45:20.140760+02:00",
+ "last_run": "2026-11-26T05:50:18.374573+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1603,6 +1603,10 @@
   {
    "d": "2026-11-26",
    "t": "OPEC+ Faces Its Most Consequential Supply Decision of the Year - gCaptain"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Iraq seeks higher oil output capacity estimate ahead of 2027 OPEC+ quota debate, sources say - Reuters"
   }
  ]
 }
