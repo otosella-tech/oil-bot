@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "86ced19254f69607",
-  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
   "e623d2fa1ace59d5",
   "tokyoyentradesinlower159rangeasaistockslumpandhighcrudeoilpr",
   "653c0b6edf30131f",
@@ -603,7 +601,9 @@
   "5b63eadf0d786676",
   "oilpricesfallassupplyconcernslingerafteriranclaimsminestrike",
   "9ce48c6c475b7cfc",
-  "therippleeffectoilandgasemploymentimpactsacrosscanada"
+  "therippleeffectoilandgasemploymentimpactsacrosscanada",
+  "dcfe9f4bf0f44deb",
+  "oilupashormuzattackscounterrecoveryinsupply"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T12:40:21.509915+02:00",
+ "last_run": "2026-11-26T12:45:20.439362+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1692,6 +1692,10 @@
   {
    "d": "2026-11-26",
    "t": "Oil prices fall as supply concerns linger after Iran claims mine strikes on ships - The Globe and Mail"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Oil Up as Hormuz Attacks Counter Recovery in Supply - Rigzone"
   }
  ]
 }
