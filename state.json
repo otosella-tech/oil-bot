@@ -606,16 +606,16 @@
   "crudeoilbenchmarksbrentwtisweetvssourlightvsheavy"
  ],
  "releases_done": {},
- "last_digest": "2026-11-25",
+ "last_digest": "2026-11-26",
  "digest_prices": {
-  "WTI": 80.65,
-  "Brent": 87.33
+  "WTI": 84.57,
+  "Brent": 91.43
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 27
+  "count": 33
  },
- "last_run": "2026-11-26T07:55:21.691133+02:00",
+ "last_run": "2026-11-26T08:00:34.829015+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
