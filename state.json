@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "4d1f35156f436d87",
-  "opecwillseeoneofmostcomplicatedmeetingsinyears",
   "5434d54ffd22c7ca",
   "indonesiasdsitosetpalmoilexportfeeat05ofvalue",
   "be67ab820bc3b3e0",
@@ -603,7 +601,9 @@
   "b8b242c0fbe21008",
   "supplyshortageconcernsdominatecrudetradingfollowinghormuzsau",
   "20d9ea34b05adfc3",
-  "oilfuturescrudeat3wkhighonfreshroundofgulfattacks"
+  "oilfuturescrudeat3wkhighonfreshroundofgulfattacks",
+  "4f213060f1d3d082",
+  "albertaraisesprojectedsurplusto6billionasoilsurges"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T20:40:21.284713+02:00",
+ "last_run": "2026-11-26T20:45:20.778244+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1856,6 +1856,10 @@
   {
    "d": "2026-11-26",
    "t": "Supply Shortage Concerns Dominate Crude Trading Following Hormuz, Saudi Strikes - Ship & Bunker"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Alberta Raises Projected Surplus to $6 Billion as Oil Surges - Bloomberg.com"
   }
  ]
 }
