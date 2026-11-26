@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "3edaeaadd637226c",
-  "whyisgassuddenlycheaperfivefactorsdrivingthedropto364agallon",
   "5f2740d3d75fce04",
   "iraqipmcracksdownonkurdscontrolofoilfieldskurdsrejectriskymo",
   "b896c5aee00fe2f7",
@@ -603,7 +601,9 @@
   "602dd034330c2eac",
   "oilsettlesup2astradersweighcontinuedhormuzshipattacks",
   "88616d2039f3f894",
-  "shafaqnewsbasrahcrudepricesriseasglobaloilclimbs"
+  "shafaqnewsbasrahcrudepricesriseasglobaloilclimbs",
+  "acca0aa59020d327",
+  "enbridgeeyes1billionpipelinedealwithindigenouscommunities"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 39
+  "count": 41
  },
- "last_run": "2026-11-26T08:40:26.023520+02:00",
+ "last_run": "2026-11-26T08:45:19.861542+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1624,6 +1624,10 @@
   {
    "d": "2026-11-26",
    "t": "Oil settles up $2 as traders weigh continued Hormuz ship attacks - Reuters"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Enbridge Eyes $1 Billion Pipeline Deal With Indigenous Communities"
   }
  ]
 }
