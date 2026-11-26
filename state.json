@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "ac6791548574a344",
-  "dieselandgasolinepricesdeclineaheadofthanksgivingtravel",
   "33c24f0b9070e2d3",
   "vivakorposts3036mq3revenueoncrudeoiltradingsurge",
   "5327c1c1babaffd3",
@@ -603,7 +601,9 @@
   "e5170b5d7f195a8b",
   "wtipriceforecastbullishbreakoutopenspathtoward93",
   "8619044dca57af04",
-  "usportsfacesurgeinaidrivencyberattacksasdefensesstruggletoke"
+  "usportsfacesurgeinaidrivencyberattacksasdefensesstruggletoke",
+  "183e4b0dfb1e85b5",
+  "sptsxcompositeupmorethan200pointsaspriceofoilmoveshigher"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 2
  },
- "last_run": "2026-11-27T00:55:15.695357+02:00",
+ "last_run": "2026-11-27T01:00:31.930930+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
