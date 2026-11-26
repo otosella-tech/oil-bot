@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "6f6405b81e66b665",
-  "tworosneftoilrefineriesinrussiassamararegiononfirefollowingd",
   "5a41a0886c7f5f6c",
   "oilpricesfallover1asconcernsmountoverexcesssupply",
   "bfb125820d7be794",
@@ -603,7 +601,9 @@
   "646ce5b83376c05c",
   "ukrainianneptunemissilesstrikerussiansu34airbaseasseparateat",
   "f1bb0dae96109a22",
-  "irgcreportsexplosionoftwoviolatingoiltankerssouthofhormuzstr"
+  "irgcreportsexplosionoftwoviolatingoiltankerssouthofhormuzstr",
+  "87108b027e3ce91f",
+  "oilpricesedgeupafterminestrikesonshipsrevivesupplyconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T14:45:24.178008+02:00",
+ "last_run": "2026-11-26T14:50:19.524926+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1772,6 +1772,10 @@
   {
    "d": "2026-11-26",
    "t": "IRGC Reports Explosion of Two Violating Oil Tankers South of Hormuz Strait - تسنیم"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Oil prices edge up after mine strikes on ships revive supply concerns - Reuters"
   }
  ]
 }
