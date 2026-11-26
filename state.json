@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "281a1b00eea01f73",
-  "oilpricesfallassupplyglutconcernsoffsetmiddleeastdisruptionf",
-  "c19ba4e60a8315b3",
-  "zaiditargetskrgoilfieldsincentralizationpush",
   "fb6b33220c3a7e7b",
   "oilrises1onhormuzshipattackssurplussupplyoutlookcurbsgainseu",
   "2711ece79c6c97d2",
@@ -603,7 +599,11 @@
   "28c56b3754610807",
   "thedieselcrunchisntoveryet",
   "d61373d94014d271",
-  "oilpricesedgehigheramidgeopoliticaltensionsopecdecisioninfoc"
+  "oilpricesedgehigheramidgeopoliticaltensionsopecdecisioninfoc",
+  "c35142493c21739f",
+  "1953shipwrecksuspectedassourceofoilcontaminationaffectingbir",
+  "227340403928da0b",
+  "ukrainianattacksonrussianrefineriescauseoilprocessingvolumes"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T11:45:18.781705+02:00",
+ "last_run": "2026-11-26T11:50:21.737025+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1684,6 +1684,10 @@
   {
    "d": "2026-11-26",
    "t": "Oil prices edge higher amid geopolitical tensions, OPEC+ decision in focus - Anadolu Ajansı"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Ukrainian attacks on Russian refineries cause oil processing volumes to plummet to 20-year low - Українська правда"
   }
  ]
 }
