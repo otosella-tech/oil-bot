@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "d154a571eb26a702",
-  "crudereboundsbutgrowingglobalsupplylimitsgains",
   "e8706e7c97564af8",
   "oilanalystsseeweeklybuildinuscrudeoilstockpiles",
   "1c5983a5ce3a859d",
@@ -603,7 +601,9 @@
   "2bc5e99daa925e9f",
   "assetbackedfinancingintheoilpatchishelpingprivateequityexits",
   "b1717cce7e0b46da",
-  "irandismissesusblockadewarnsofbroaderconfrontation"
+  "irandismissesusblockadewarnsofbroaderconfrontation",
+  "9aa443e210dfd8d4",
+  "southkoreasaudiarabiaexpandjointcrudestockpiling"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-26",
   "count": 8
  },
- "last_run": "2026-11-26T02:50:19.062414+02:00",
+ "last_run": "2026-11-26T02:55:15.391953+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
