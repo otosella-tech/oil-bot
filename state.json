@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "5b5e5e23537e30a2",
-  "oversupplyexpectationsweighonmarketasinternationaloilpricesb",
   "0e17a11698e1e924",
   "pennsylvaniasforgottenoilwellsraiseoversightchallenges",
   "55ad4c4fd523096d",
@@ -603,7 +601,9 @@
   "30f2ff5814c80f6d",
   "oilpricesmixedastradersweighmiddleeastsupplyrisksopecmeeting",
   "db98ecbbba3704d7",
-  "bessentsaysirandoesnthaveadropofoilonwatertosellduetooperati"
+  "bessentsaysirandoesnthaveadropofoilonwatertosellduetooperati",
+  "ec5e58bfb4384d65",
+  "senateinvestigatesvancesallegedroleinvenezuelaoildeal"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 57
+  "count": 59
  },
- "last_run": "2026-11-26T10:40:29.561622+02:00",
+ "last_run": "2026-11-26T10:45:20.331446+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1664,6 +1664,10 @@
   {
    "d": "2026-11-26",
    "t": "Oil Prices Mixed as Traders Weigh Middle East Supply Risks, OPEC+ Meeting - WSJ"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Senate Investigates Vance's Alleged Role in Venezuela Oil Deal - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
