@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "cb003a5eb92826c8",
-  "ctedivoiretargets500000bdofoiloutputby2040",
   "ded0b3f340195f2c",
   "oilslipsover1assupplyglutprospectoffsetsmiddleeastdisruption",
   "efcacd3cb842634f",
@@ -603,7 +601,9 @@
   "8b7543bf56c39115",
   "oilpricesriseasrenewedmiddleeastattacksthreatenpersiangulfsu",
   "72feeabe339113dd",
-  "greendemandsrapidnoticeofoilspillsafteroutrageousdelays"
+  "greendemandsrapidnoticeofoilspillsafteroutrageousdelays",
+  "98bf9fa484b13907",
+  "iransrevolutionaryguardssaytwooiltankershitseaminesnearomans"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T13:10:20.346754+02:00",
+ "last_run": "2026-11-26T13:15:18.931757+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1716,6 +1716,10 @@
   {
    "d": "2026-11-26",
    "t": "Oil Prices Rise as Renewed Middle East Attacks Threaten Persian Gulf Supply Recovery - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Iran's Revolutionary Guards say two oil tankers hit sea mines near Oman’s Khasab - Arab News"
   }
  ]
 }
