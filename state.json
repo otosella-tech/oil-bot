@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "881268cef9748ebb",
-  "oilrisesafterallegedhouthiattackonsaudirefinery",
   "ac6791548574a344",
   "dieselandgasolinepricesdeclineaheadofthanksgivingtravel",
   "33c24f0b9070e2d3",
@@ -603,7 +601,9 @@
   "6c6829d56cdb2ee5",
   "asianstockfuturessignalgainsoilclimbsagainmarketswrap",
   "e5170b5d7f195a8b",
-  "wtipriceforecastbullishbreakoutopenspathtoward93"
+  "wtipriceforecastbullishbreakoutopenspathtoward93",
+  "8619044dca57af04",
+  "usportsfacesurgeinaidrivencyberattacksasdefensesstruggletoke"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -612,359 +612,11 @@
   "Brent": 91.43
  },
  "llm": {
-  "date": "2026-11-26",
-  "count": 60
+  "date": "2026-11-27",
+  "count": 2
  },
- "last_run": "2026-11-27T00:40:19.414939+02:00",
+ "last_run": "2026-11-27T00:45:19.427671+02:00",
  "sent_stories": [
-  {
-   "d": "2026-11-23",
-   "t": "US Imposes Sanctions on Iranian Oil Smuggling Network - Global Arab Network"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit - Reuters"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers - Fox News"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows - Reuters"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Novoshakhtinsk oil refinery reportedly burning after Ukrainian drone attack - The Kyiv Independent"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil prices fall amid equity selloff though Iran war attacks limit losses - The Star"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Crude Oil Futures Extend Losses as AI Selloff Spills Over; Ship Attacks Near Hormuz Provide Support - finance.biggo.com"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year - CNBC"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "China's Oil Imports from Persian Gulf Jump to Wartime High - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Novoshakhtinsk oil refinery, Tatarstan pumping station burning after Ukrainian drone attack - The Kyiv Independent"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Crude Oil Falls on Strong Middle East Exports Despite Houthi Attacks on Riyadh By Kedia Advisory - Investing.com India"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Iraq reopens the Mediterranean crude oil route: the Kirkuk pipeline bypasses the Strait of Hormuz - Il Sole 24 ORE"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Houthis claim strikes on Saudi oil facility and port - Arabian Gulf Business Insight | AGBI"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran - Reuters"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Tankers Are Being Hit Daily. So Why Is Oil Falling - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "2 years ago, Saudi Arabia quietly canceled the ‘petrodollar’ deal with America that wired the world economy for 50 years. Then war broke out in Iran - Fortune"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil holds in tight range as Gulf attacks sustain risk premium - Reuters"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks - Crude Oil Prices Today | OilPrice.com"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Why oil prices are falling: Brent’s third weekly drop as Gulf barrels return despite Hormuz attacks - Oil & Gas Middle East"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war - CNBC"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday - Reuters"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil Prices Slip as Market Anxiety Grows Over Iran War, Threats to Gulf Shipping - Arise News"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil pipeline closures in Libya hit production - Arabian Gulf Business Insight | AGBI"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil refinery ablaze in Russia's Novoshakhtinsk following attack – video - Українська правда"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "What’s behind Iran’s escalation of attacks in the Gulf? - Al Jazeera"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Two More Tankers Hit Off Oman as Houthis Threaten Saudi Red Sea Ports - The Maritime Executive"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Attacks on ships in the Strait of Hormuz reach their highest level since the beginning of the war / Paradoxically, the price of oil is falling - Informat.ro"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "European Natural Gas Prices Surge 8.6% as Cold Snap Looms"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Drones attack Kaleykino oil pumping station in Russia's Tatarstan – social media - Ukrinform"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Drones target Russian oil facilities in three regions, fires reported at refineries - Hromadske"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Sharara pipeline closure deepens Libya’s oil production crisis - The Arab Weekly"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Libya’s Oil Output Plunges as Armed Groups Shut Key Pipelines"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Two More Tankers Hit Off Oman, Houthis Threaten Saudi Red Sea Ports - The Maritime Executive"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Fact check: Is more oil going through Hormuz than before the Iran war? - Houston Chronicle"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Ukrainian Drones Kill 1, Strike Oil Refinery in Perm Region - The Moscow Times"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Drones attack one of Russia’s largest oil refineries in Perm — video - The New Voice of Ukraine"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "UN Condemns Attacks on Vessels in Benghazi as Libya Loses 365,000 Barrels of Oil a Day - DNE Africa"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Iran says it will use all its tools to confront US naval blockade - Reuters"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Strait of Hormuz attacks have increased to highest level since Iran war began - ABC News - Breaking News, Latest News and Videos"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil prices drop below $100 as midterms fuel hope for an end to the Iran war - NBC News"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Iran's Fereydun Plan to defy US blockade: 14 tankers ready for showdown, Gulf oil facilities at stake - The Times of India"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "US-Iran war delivers $21.6 billion windfall to nine African fossil-fuel exporters as Washington's military spending hits $48.3 billion - Business Insider Africa"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Russia’s Oil Exports Under Threat as Ukrainian Drones Hit Key Pumping Hub 1,300 Km From Border - UNITED24 Media"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Trump Says Strikes on Iran Could Resume After New Year"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Aging Sanctioned Tanker Lingers Off Norway, Linked to Dubai Shipping Firm Cited Over Insurance - High North News"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Sky Quarry Inc. Announces 2,000-Barrel Processing Milestone at Eagle Springs Refinery as Diesel Margins Remain Elevated - Quiver Quantitative"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Sky Quarry (NASDAQ: SKYQ) Sells Diesel at a Crack Spread 25% Above the National Benchmark as Nevada’s Only Crude Oil Refinery Processes 2,000 Barrels in 36 Hours - The Daily Tribune News"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Novoshakhtinsk oil refinery hit, General Staff confirms, Tatarstan pumping station reportedly burning after Ukrainian drone attack - The Kyiv Independent"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Ukrainian drones hit Novoshakhtinsk refinery, igniting fire visible from space - The New Voice of Ukraine"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "South Korea Asks Qatar for Priority LNG Once Hormuz Reopens"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil prices slip as Hormuz transit slows and Houthi attacks widen - IranWire"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "UAE steps up efforts to shuttle oil through Strait of Hormuz - Washington Times"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks - WSJ"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Iran prepares oil tanker convoy to break US naval blockade, threatens Gulf facilities - report - The Jerusalem Post"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "OPEC+ Meets Nov 29 to Set 2027 Oil Quotas - houseofsaud.com"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "OPEC+ Meets Nov 29 to Set 2027 Quotas With No Plan Past December - https://houseofsaud.com/"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil prices fall on increased flows from Middle East, Libyan oil pipeline restart - Reuters"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Saudi Arabia's influence loomed large over failed COP31 deal - Reuters"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "US Weighs NATO-Style Security Guarantees for Ukraine as Russia Pushes Back"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Canada Commodities: Crude Oil Prices Fall Despite Fighting, Tanker Attacks Continue in the Middle East - Moomoo"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Ukrainian Naval Drones Sink Russian Warship in Libya"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil Slides Nearly 4% as Returning Supply Outweighs Gulf Attacks"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "What Is Trump Up To Bombing Iran’s Qeshm Island?"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Storms and Drones Disrupt Russia’s Oil Exports"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "America’s Biggest Oil Export Port Faces Thousands of Cyberattack Attempts"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Ukraine strikes Lukoil oil refinery in Russia's Perm with help of underground resistance movement - Українська правда"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Japan’s Electricity Prices Surge to 2022 High as Cold Weather Arrives"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil falls on increased Middle East flows, Libyan pipeline restart - Yahoo Finance"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Small Refinery in Southern Russia Halts Operations After Attack - Bloomberg.com"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil drops more than 3% on increased Middle East flows, Libyan pipeline restart - The Globe and Mail"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Pakistan and Iran Move to Boost Energy Cooperation"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Ukrainian drone strike forces major Russian oil refinery to shut down - TVP World"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Ukraine strikes Lukoil refinery in Russia's Perm with help of underground resistance movement - Українська правда"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil’s Iran war recovery masks a stubborn diesel shortage: Bousso - BOE Report"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil prices plunge more than 3% as Middle East supply rebounds and Libyan pipeline restarts - Oil & Gas 360"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil falls around 3% on increased Middle East flows, Libyan pipeline restart - Yahoo Finance"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began - Yahoo"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart - Yahoo Finance"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "General Staff confirms strike on Lukoil oil refinery in Perm - Ukrinform"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report - New York Post"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "U.S. Targets Financial Networks Behind Iran’s Tanker Fleet and Oil Trade - gCaptain"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Iranian attacks on ships near Strait of Hormuz hit highest level since war began, data shows - The Jerusalem Post"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Closure of the Sharara pipeline affects Libyan oil production - Inspenet"
-  },
   {
    "d": "2026-11-24",
    "t": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com"
@@ -1888,6 +1540,10 @@
   {
    "d": "2026-11-26",
    "t": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations - Al Jazeera"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "U.S. Ports Face Surge in AI-Driven Cyberattacks as Defenses Struggle to Keep Pace - Latin Times"
   }
  ]
 }
