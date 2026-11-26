@@ -4,12 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "9ce54bfb1f85ab31",
-  "petrobrasraisesfiveyearcapextous122bnseewheretheinvestmentsa",
-  "fe8c9f660978caf1",
-  "whytrumpsflagshiplithiumprojectnowcosts31morethanplanned",
-  "d6548a9553cb6703",
-  "currentpriceofoilasofnovember112026",
   "3e03bbd495d7149b",
   "uscrudeoilinventoriesinchesupasgasolineholdssteady",
   "b736dbf40b80532f",
@@ -603,7 +597,13 @@
   "7b769dd4a6ec8d3c",
   "oilextendsgainsasmiddleeasttensionsfuelmarketjitters",
   "8711bccbccdbc5aa",
-  "iraqipmcracksdownonkurdscontrolofoilfieldskurdsrejectriskymo"
+  "iraqipmcracksdownonkurdscontrolofoilfieldskurdsrejectriskymo",
+  "cb007f65c97ce036",
+  "3oilstockswithdirectexposuretohighercrudeprices",
+  "87dfe8b944ab5738",
+  "oilfuturescrudeconsolidatesathigherlevelsonthreatstooilflows",
+  "d74ee1f29b75c100",
+  "oilsmugglingcrackdownsetsupcollisionbetweenbaghdadandkurdist"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 43
  },
- "last_run": "2026-11-26T08:55:15.932173+02:00",
+ "last_run": "2026-11-26T09:00:32.638914+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
