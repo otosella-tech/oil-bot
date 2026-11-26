@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "7419ff85240999a3",
-  "thefutureofoilinanetzeroworld",
   "64ac31c926047961",
   "contaminantdiscoverytriggerspipelinetestingdelaysslowsndoilo",
   "d42f0a6eda88583d",
@@ -603,7 +601,9 @@
   "53d0867bbe666076",
   "oilpricesriseafterminestrikesonshipsrevivesupplyconcernseuro",
   "05934394d9e48036",
-  "oilpricesriseafterminestrikesonshipsrevivesupplyconcerns"
+  "oilpricesriseafterminestrikesonshipsrevivesupplyconcerns",
+  "62b073fcd7723fcd",
+  "thursdaymajoroilgasissuesatdepmeetingsindecemberpaenvironmen"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T17:05:17.777358+02:00",
+ "last_run": "2026-11-26T17:10:27.871313+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
