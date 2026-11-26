@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "9babc0173e47da2f",
-  "bigoilandbigtechlobbyeuforfastergas",
   "4a9953ceb8eeed0d",
   "ukrainedefendsattackonrussianshipsinoilrichnorthafricannatio",
   "bb0d8d696929b87b",
@@ -603,7 +601,9 @@
   "e5bf5e592d8856d0",
   "pemexjvssatfuelauditsamigolngtheweekinoilgas",
   "8c932d83061f84b9",
-  "attackonsaudisjazanrefinerykillsonepersondisruptsoperations"
+  "attackonsaudisjazanrefinerykillsonepersondisruptsoperations",
+  "e9fc5bb8928ae2d6",
+  "ukrainehitsrussianrefineryinkrasnodarkraisettingfiretokeyfac"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T23:45:18.973202+02:00",
+ "last_run": "2026-11-26T23:50:20.720644+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
