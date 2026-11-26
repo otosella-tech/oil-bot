@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "803459d3489b6499",
-  "aramcosoilinaugurate7billionpetrochemicalscomplexinsouthkore",
-  "c0964ef3906f03cc",
-  "equinortankertrappedinhormuzfor120days",
   "4c514c4bdbc327b5",
   "ukrainetellsputintostopcomplainingoveroilrefineryattacksasru",
   "485017e4358f4738",
@@ -603,7 +599,11 @@
   "71b97eac0eb0f186",
   "oilsupplyconcernssupportpricesaheadofopecmeetinging",
   "8c148c0e4ae900c9",
-  "whystheoilmarkettalkingaboutasurplusagain"
+  "whystheoilmarkettalkingaboutasurplusagain",
+  "1ab0b80b1ae376ea",
+  "howanoilfeudisdeepeningriftbetweenbaghdadandiraqskurdishregi",
+  "4f84e86f721969de",
+  "oilwhyaresupplyconcernssupportingpricesaheadoftheopecmeeting"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T16:20:20.334639+02:00",
+ "last_run": "2026-11-26T16:25:23.675816+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1808,6 +1808,10 @@
   {
    "d": "2026-11-26",
    "t": "Oil: Supply concerns support prices ahead of OPEC+ meeting – ING - FXStreet"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Oil: Why are supply concerns supporting prices ahead of the OPEC+ meeting? – ING - www.tmgm.com"
   }
  ]
 }
