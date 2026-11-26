@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "7099c052dadbda7e",
-  "uscrudeoilstockpilesriseforsecondstraightweek",
   "ffc195350cbaaef8",
   "wticrudeoilsettlesat8205canbuyersgetabovethe100hourmovingave",
   "3966e3c5b7ad1f30",
@@ -603,7 +601,9 @@
   "ed4e7c7c03d3990c",
   "morningbriefingcrudeoilpricesbouncedbackonmiddleeasttensions",
   "cb34cd9b41184642",
-  "crudeoilpricerisesonreportsofhouthiattackonsaudirefinery"
+  "crudeoilpricerisesonreportsofhouthiattackonsaudirefinery",
+  "102c23152d6c21cd",
+  "oilralliesashormuzminestrikesrattleglobalmarkets"
  ],
  "releases_done": {},
  "last_digest": "2026-11-25",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 25
+  "count": 27
  },
- "last_run": "2026-11-26T07:15:19.159411+02:00",
+ "last_run": "2026-11-26T07:20:19.952552+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1608,6 +1608,10 @@
   {
    "d": "2026-11-26",
    "t": "Exclusive: EU report confirms Trump threw Russian energy sector an economic lifeline even as sanctions, Ukrainian drones, bite hard - The Kyiv Independent"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets"
   }
  ]
 }
