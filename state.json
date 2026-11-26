@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "e623d2fa1ace59d5",
-  "tokyoyentradesinlower159rangeasaistockslumpandhighcrudeoilpr",
   "653c0b6edf30131f",
   "oilpricesfallassupplyglutconcernsoffsetfearsofmiddleeastdisr",
   "4e5930123585991b",
@@ -603,7 +601,9 @@
   "9ce48c6c475b7cfc",
   "therippleeffectoilandgasemploymentimpactsacrosscanada",
   "dcfe9f4bf0f44deb",
-  "oilupashormuzattackscounterrecoveryinsupply"
+  "oilupashormuzattackscounterrecoveryinsupply",
+  "86ced19254f69607",
+  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T12:45:20.439362+02:00",
+ "last_run": "2026-11-26T12:50:21.326065+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
