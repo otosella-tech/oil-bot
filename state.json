@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "9b64b6f8f67b8aa0",
-  "heatingoilcostshitbusinessesandhomeownersaswinterloomsinthen",
-  "50a32a8503b86054",
-  "oilpricesfallastradersweighsupplysurplusgulfattacks",
   "134e323389b97548",
   "silverandcopperretestlowsasoilnearsitsturn",
   "df29b08d1b6db5fa",
@@ -603,7 +599,11 @@
   "1f8e6d2822507c09",
   "laborshortagescouldderailcanadasoilandgasgrowthmomentum",
   "6543c67c530804eb",
-  "brentup35on25novashouthisclaimsaudirefineryattack"
+  "brentup35on25novashouthisclaimsaudirefineryattack",
+  "50b7d82dda20d28b",
+  "internationaloilmajorschasediscountedwaxyuintacrudeasoutputs",
+  "d343c7ec18488361",
+  "russiascrudesurgemaytipoilintosurplus"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-11-26T03:00:29.040637+02:00",
+ "last_run": "2026-11-26T03:05:24.232800+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1583,6 +1583,10 @@
   {
    "d": "2026-11-26",
    "t": "Brent up 3.5% on 25 Nov as Houthis claim Saudi refinery attack - Nation Thailand"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Russia's Crude Surge May Tip Oil Into Surplus - Briefs Finance"
   }
  ]
 }
