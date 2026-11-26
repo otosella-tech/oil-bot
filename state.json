@@ -4,12 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "4551a6b187f798fe",
-  "oilholdsdeclineonsignsofcontinuingusirandiplomacy",
-  "43812e9f09ee48bd",
-  "soilcompletesw9trshaheenpetrochemicalproject",
-  "b1bdf41876e33a98",
-  "mostlargefueltankersnowshipdirtycrudeupendingtrading",
   "194132d4f457c126",
   "crudeoilfuturesfallamidprofittakingweakglobalcues",
   "dc9bce87c7e246b0",
@@ -603,7 +597,13 @@
   "71b68c5de1cd31eb",
   "oilpricesmixedasmiddleeastsupplyrisksclashwithgrowingusinven",
   "20efeb02d0806218",
-  "ninehurtinhugeexplosionatbangkokoilfacility"
+  "ninehurtinhugeexplosionatbangkokoilfacility",
+  "97405eea1cfdc99b",
+  "oilpricesreboundasmiddleeastsupplyfearsreturn",
+  "8bec32b41846a189",
+  "iransayslngcarrierexplodedafterhittingamineinhormuz",
+  "4da72d2ac65b54a0",
+  "opecconsidersstickingwithcurrentquotasdelegatessay"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T14:25:18.184285+02:00",
+ "last_run": "2026-11-26T14:30:26.587930+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1756,6 +1756,14 @@
   {
    "d": "2026-11-26",
    "t": "Oil Prices Mixed as Middle East Supply Risks Clash With Growing U.S. Inventories Ahead of OPEC+ Meeting - EnergyNow.com"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Iran Says LNG Carrier Exploded After Hitting a Mine in Hormuz"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "OPEC+ Considers Sticking With Current Quotas, Delegates Say - Bloomberg.com"
   }
  ]
 }
