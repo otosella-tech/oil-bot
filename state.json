@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "0947873fda08ee02",
-  "crudeoilpriceswtibrent25nov2026reboundbutsoftbalancecmbnews",
-  "6b8dddcb12abcfe0",
-  "aramcosoilinaugurate7bnshaheenprojectinsouthkorea",
   "ac5338090ff3abe2",
   "oilclimbsdespitegrowingoversupplyfears",
   "45d071e533660157",
@@ -603,7 +599,11 @@
   "2bd24bfd258588d0",
   "crudeoilclimbsashormuzriskscloudsupplyoutlook",
   "50ea7eb86b6746d7",
-  "oilpricesedgeupafterminestrikesonshipsrevivesupplyconcernseu"
+  "oilpricesedgeupafterminestrikesonshipsrevivesupplyconcernseu",
+  "d73f0ad05933defc",
+  "oilpricesriseastradersweighmiddleeastsupplyrisksopecmeeting",
+  "90fdca21f975305a",
+  "hormuzminestrikestieoilssurplustradetousnavalstayingpower"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T14:55:15.257949+02:00",
+ "last_run": "2026-11-26T15:00:32.104417+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1776,6 +1776,14 @@
   {
    "d": "2026-11-26",
    "t": "Oil prices edge up after mine strikes on ships revive supply concerns - Reuters"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Oil Prices Rise as Traders Weigh Middle East Supply Risks, OPEC+ Meeting - WSJ"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Hormuz Mine Strikes Tie Oil's Surplus Trade to US Naval Staying Power - Crux Investor"
   }
  ]
 }
