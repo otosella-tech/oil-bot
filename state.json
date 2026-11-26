@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "a1e88431e476420f",
-  "iraqrebuffsopecassessmentofoutputcapacity",
-  "108190c164e6bf58",
-  "oilslips1assupplyglutprospectoffsetsmiddleeastdisruptionfear",
   "acab4d73bcb250f9",
   "soilcompletesconstructionof68bnshaheencomplexinulsan",
   "051394bafb8e5b0d",
@@ -603,7 +599,11 @@
   "d04c10615a6173e8",
   "soybeansclimboilsurgesandgoldlosesitsshinewhatsnextforfarmer",
   "94556fafaab2eed5",
-  "currentpriceofoilasofnovember202026"
+  "currentpriceofoilasofnovember202026",
+  "6f50d070978af73f",
+  "atleast9injuredbylargeexplosionandfireatmajoroilfacilityinba",
+  "729e0514b045867a",
+  "bangkokrefineryexplosioninjures9bangchakhaltsproduction"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T15:40:24.979299+02:00",
+ "last_run": "2026-11-26T15:45:23.648799+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1796,6 +1796,10 @@
   {
    "d": "2026-11-26",
    "t": "OPEC+ oil capacity disputes persist ahead of Sunday meeting on 2027 quotas, sources say - Reuters"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Bangkok Refinery Explosion Injures 9, Bangchak Halts Production - ChemAnalyst"
   }
  ]
 }
