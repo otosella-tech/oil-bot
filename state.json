@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "1ca8301a031bd2b6",
-  "wtisteadiesabove81amidsupplygeopoliticalrisks",
-  "205e5a2cf2115c02",
-  "soilcompletes69bilshaheenprojectshiftsgrowthenginetowardpetr",
   "4551a6b187f798fe",
   "oilholdsdeclineonsignsofcontinuingusirandiplomacy",
   "43812e9f09ee48bd",
@@ -603,7 +599,11 @@
   "cf6345a829ea67e4",
   "crudeoilinventoriesriselessthanforecast",
   "daa0ba875cc7662f",
-  "tsxfuturesflatascoppersilverreboundoffsetoilslip"
+  "tsxfuturesflatascoppersilverreboundoffsetoilslip",
+  "71b68c5de1cd31eb",
+  "oilpricesmixedasmiddleeastsupplyrisksclashwithgrowingusinven",
+  "20efeb02d0806218",
+  "ninehurtinhugeexplosionatbangkokoilfacility"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T14:15:24.889447+02:00",
+ "last_run": "2026-11-26T14:20:19.612699+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1752,6 +1752,10 @@
   {
    "d": "2026-11-26",
    "t": "Crude Oil Prices Fall as Iran-Linked Attacks Raise Fresh Fears Over Global Crude Supply - APAC Media"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Oil Prices Mixed as Middle East Supply Risks Clash With Growing U.S. Inventories Ahead of OPEC+ Meeting - EnergyNow.com"
   }
  ]
 }
