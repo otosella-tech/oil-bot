@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "e126bcb5f0a83599",
-  "3oilandgasstocksscreeningforpriceupsideashormuzrisksrise",
   "86ced19254f69607",
   "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
   "e623d2fa1ace59d5",
@@ -603,7 +601,9 @@
   "d5a2fcb8da90d2db",
   "brentclimbsonmiddleeastsupplydisruptionconcerns",
   "5b63eadf0d786676",
-  "oilpricesfallassupplyconcernslingerafteriranclaimsminestrike"
+  "oilpricesfallassupplyconcernslingerafteriranclaimsminestrike",
+  "9ce48c6c475b7cfc",
+  "therippleeffectoilandgasemploymentimpactsacrosscanada"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T12:20:20.091113+02:00",
+ "last_run": "2026-11-26T12:25:16.566442+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
