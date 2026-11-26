@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "194132d4f457c126",
-  "crudeoilfuturesfallamidprofittakingweakglobalcues",
   "dc9bce87c7e246b0",
   "oilpricesfallastradersweighsupplyoutlookrenewedmiddleeastten",
   "6f6405b81e66b665",
@@ -603,7 +601,9 @@
   "8bec32b41846a189",
   "iransayslngcarrierexplodedafterhittingamineinhormuz",
   "4da72d2ac65b54a0",
-  "opecconsidersstickingwithcurrentquotasdelegatessay"
+  "opecconsidersstickingwithcurrentquotasdelegatessay",
+  "646ce5b83376c05c",
+  "ukrainianneptunemissilesstrikerussiansu34airbaseasseparateat"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T14:30:26.587930+02:00",
+ "last_run": "2026-11-26T14:35:15.075738+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1764,6 +1764,10 @@
   {
    "d": "2026-11-26",
    "t": "OPEC+ Considers Sticking With Current Quotas, Delegates Say - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Ukrainian Neptune Missiles Strike Russian Su-34 Airbase as Separate Attack Hits Oil Facility - UNITED24 Media"
   }
  ]
 }
