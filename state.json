@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "a3c1d1479f1a76f2",
-  "oiledgeslowerasexpandingsupplyvieswithhormuzattacks",
   "225833539c02c885",
   "senateinvestigatesvancesallegedroleinvenezuelaoildeal",
   "5b5e5e23537e30a2",
@@ -603,7 +601,9 @@
   "c46c2f816d66ee04",
   "oilsurgesasfreshmiddleeastattacksthreatengulfcrudeexports",
   "3f83025abd919158",
-  "libyaplansnewoilbiddingroundsdespitemountingsecurityrisks"
+  "libyaplansnewoilbiddingroundsdespitemountingsecurityrisks",
+  "30f2ff5814c80f6d",
+  "oilpricesmixedastradersweighmiddleeastsupplyrisksopecmeeting"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 55
+  "count": 57
  },
- "last_run": "2026-11-26T10:30:26.494912+02:00",
+ "last_run": "2026-11-26T10:35:15.763819+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1660,6 +1660,10 @@
   {
    "d": "2026-11-26",
    "t": "Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Oil Prices Mixed as Traders Weigh Middle East Supply Risks, OPEC+ Meeting - WSJ"
   }
  ]
 }
