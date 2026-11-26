@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "e6bb4d4cf659f73e",
-  "washingtonisbuyingitswayoutofchinastungstengrip",
   "c9ce834eccdd130e",
   "exclusiveiraqweighsarmyactiononkurdistanoilsmuggling",
   "fb913ff98de3851e",
@@ -603,7 +601,9 @@
   "17db4d85cb4a010a",
   "1953ssjacobluckenbachshipwreckoffsanfranciscocoastlinkedtodo",
   "25a3ea69d6f6e786",
-  "canadasarrowexplorationq3naturalgasandcrudeoilrevenueriseson"
+  "canadasarrowexplorationq3naturalgasandcrudeoilrevenueriseson",
+  "a1e3c512d64e9f52",
+  "crudeoilpricesglobal26nov2026backwardationandopecriskcmbnews"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 47
+  "count": 49
  },
- "last_run": "2026-11-26T09:50:20.399531+02:00",
+ "last_run": "2026-11-26T09:55:14.673249+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1640,6 +1640,10 @@
   {
    "d": "2026-11-26",
    "t": "Oil edges higher as Hormuz attacks threaten Persian Gulf supply recovery - Investing.com"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Crude Oil Prices Global, 26 Nov 2026: Backwardation and OPEC+ Risk — CMB News - CMB News"
   }
  ]
 }
