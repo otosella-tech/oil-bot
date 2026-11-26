@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "6574a78152f857ee",
-  "oilrises1onhormuzshipattackssurplussupplyoutlookcurbsgains",
   "9681e1598365d79e",
   "iraqissaidtochallengeoilcapacityreviewaheadofopecquotatalksc",
   "8a3e6317037c759b",
@@ -603,7 +601,9 @@
   "93bd129e7f94417c",
   "crudeoilpricesriseasmiddleeasttensionsthreatensupply",
   "bb836ab43aff71fe",
-  "eniandrepsolexpandinvestmentinvenezuelasenergyrecovery"
+  "eniandrepsolexpandinvestmentinvenezuelasenergyrecovery",
+  "b87ec9bc30c5805a",
+  "australiasasx200founditsfootingonaminerbounce"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-26",
   "count": 12
  },
- "last_run": "2026-11-26T04:05:14.850354+02:00",
+ "last_run": "2026-11-26T04:10:18.526757+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
