@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "5be79794f26a72ca",
-  "libyastripoligovernmentaskscourttoannularkenuoildealscrutini",
   "464cebe64db5d425",
   "oilfuturescrudereboundsastankerattacksoffsetglutforecasts",
   "55e2491a449f8cac",
@@ -603,7 +601,9 @@
   "5f5efa2f3921c260",
   "iranclaimstwotankershitminesinstraitofhormuzbutoiltradersare",
   "1687bd74087dd787",
-  "whymakingelectricityfromseawaterhasfailed"
+  "whymakingelectricityfromseawaterhasfailed",
+  "b12621c8a7abbfc4",
+  "attackonsaudiaramcosjazanrefinerykillsworkerhaltssomeoperati"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T23:00:33.085872+02:00",
+ "last_run": "2026-11-26T23:05:20.161787+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1872,6 +1872,10 @@
   {
    "d": "2026-11-26",
    "t": "Iran Claims Two Tankers Hit Mines In Strait Of Hormuz. But Oil Traders Are More Worried About Too Much Crude. - Yahoo Finance"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Attack on Saudi Aramco's Jazan refinery kills worker, halts some operations - Reuters"
   }
  ]
 }
