@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "79d20fc8d88c2475",
-  "saudiarabiatriplesitsoilstorageinjapanastokyobuys8mbarrelsto",
-  "a6fd8a258fab0578",
-  "brentclosedus203higherontuesdayafterreportsofattacksonshippi",
   "b8c4f4ec4b302638",
   "thedieselcrunchisntoveryet",
   "e04896720a08ce44",
@@ -603,7 +599,11 @@
   "eae82654c86d2245",
   "oilmixedamidmiddleeastattacksusinventorybuild",
   "a64ced9aac8079f2",
-  "wticrudeextendsrallyonmideastriskskeysupport"
+  "wticrudeextendsrallyonmideastriskskeysupport",
+  "5d7243aed76297a2",
+  "oillittlechangedassupplyconcernslingerafteriranclaimsminestr",
+  "f1707c056f30d648",
+  "opecblameseuforbreakdownofcop31climatetalks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T11:15:21.117056+02:00",
+ "last_run": "2026-11-26T11:20:19.958350+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1676,6 +1676,10 @@
   {
    "d": "2026-11-26",
    "t": "Oil Mixed Amid Middle East Attacks, U.S. Inventory Build - WSJ"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Oil little changed as supply concerns linger after Iran claims mine strikes on ships - Reuters"
   }
  ]
 }
