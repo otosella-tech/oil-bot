@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "225833539c02c885",
-  "senateinvestigatesvancesallegedroleinvenezuelaoildeal",
   "5b5e5e23537e30a2",
   "oversupplyexpectationsweighonmarketasinternationaloilpricesb",
   "0e17a11698e1e924",
@@ -603,7 +601,9 @@
   "3f83025abd919158",
   "libyaplansnewoilbiddingroundsdespitemountingsecurityrisks",
   "30f2ff5814c80f6d",
-  "oilpricesmixedastradersweighmiddleeastsupplyrisksopecmeeting"
+  "oilpricesmixedastradersweighmiddleeastsupplyrisksopecmeeting",
+  "db98ecbbba3704d7",
+  "bessentsaysirandoesnthaveadropofoilonwatertosellduetooperati"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 57
  },
- "last_run": "2026-11-26T10:35:15.763819+02:00",
+ "last_run": "2026-11-26T10:40:29.561622+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
