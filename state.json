@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "d028e4889db4ecfc",
-  "goldmansachsseesusnaturalgasdemandsurgingondatacenterboom",
   "a84f79fc03b1a16c",
   "caymanoilspillpreparednessstrengthenedwithus1billionsafetyne",
   "1ca8301a031bd2b6",
@@ -603,7 +601,9 @@
   "6f2fe6813f9de8b0",
   "oilpricesslidedespitemountingthreatsinthestraitofhormuz",
   "b3bcf3c28f027472",
-  "crudeoilpricesfallasiranlinkedattacksraisefreshfearsoverglob"
+  "crudeoilpricesfallasiranlinkedattacksraisefreshfearsoverglob",
+  "cf6345a829ea67e4",
+  "crudeoilinventoriesriselessthanforecast"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T14:00:32.789061+02:00",
+ "last_run": "2026-11-26T14:05:15.693298+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
