@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "ddb8706c8dada0b6",
-  "nasadatapointtofireatrussiassyzranrefineryafterdrones",
   "9babc0173e47da2f",
   "bigoilandbigtechlobbyeuforfastergas",
   "4a9953ceb8eeed0d",
@@ -603,7 +601,9 @@
   "7b8990253b0139de",
   "houthisstrikesaudioilinfrastructureasriyadhintensifiesattack",
   "e5bf5e592d8856d0",
-  "pemexjvssatfuelauditsamigolngtheweekinoilgas"
+  "pemexjvssatfuelauditsamigolngtheweekinoilgas",
+  "8c932d83061f84b9",
+  "attackonsaudisjazanrefinerykillsonepersondisruptsoperations"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T23:35:16.396339+02:00",
+ "last_run": "2026-11-26T23:40:18.816535+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1884,6 +1884,10 @@
   {
    "d": "2026-11-26",
    "t": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen - CNN"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations - Al Jazeera"
   }
  ]
 }
