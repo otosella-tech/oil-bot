@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "b896c5aee00fe2f7",
-  "crudeoildown4nvidiasharesspikehigher",
   "9ce54bfb1f85ab31",
   "petrobrasraisesfiveyearcapextous122bnseewheretheinvestmentsa",
   "fe8c9f660978caf1",
@@ -603,7 +601,9 @@
   "acca0aa59020d327",
   "enbridgeeyes1billionpipelinedealwithindigenouscommunities",
   "7b769dd4a6ec8d3c",
-  "oilextendsgainsasmiddleeasttensionsfuelmarketjitters"
+  "oilextendsgainsasmiddleeasttensionsfuelmarketjitters",
+  "8711bccbccdbc5aa",
+  "iraqipmcracksdownonkurdscontrolofoilfieldskurdsrejectriskymo"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-11-26T08:50:20.330375+02:00",
+ "last_run": "2026-11-26T08:55:15.932173+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1628,6 +1628,10 @@
   {
    "d": "2026-11-26",
    "t": "Enbridge Eyes $1 Billion Pipeline Deal With Indigenous Communities"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Iraqi PM cracks down on Kurds' control of oilfields, Kurds reject risky move - Reuters"
   }
  ]
 }
