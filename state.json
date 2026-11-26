@@ -4,12 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "bb4c90885660b3a6",
-  "brentdropsbelow90aswallstreetsplitson2027oiloutlook",
-  "fd0ab0acdc8f4b4d",
-  "centralasiapushesaheadwithregionalelectricitymarket",
-  "ca834ff93724c1e9",
-  "oilpricesriseonhormuzvesselattacks",
   "9f65185f63d4defe",
   "oilfuturescrudereboundsastankerattacksoffsetsurplusfears",
   "562083fcf6b6ce67",
@@ -603,7 +597,13 @@
   "cc7a8f304b0d956c",
   "commoditycornercrudeoilholdsgainsforseconddayonmiddleeastten",
   "50adc4f81041f10e",
-  "crudepricespushhigheronconcernsoverglobalsupplydisruptions"
+  "crudepricespushhigheronconcernsoverglobalsupplydisruptions",
+  "a5448567fe759f43",
+  "oilrisesonsupplyconcernsasiranclaimsminestrikesonships",
+  "8ee4df4497d3fbba",
+  "watchoilflowsinhormuzstraitforeveralteredsaystomkloza",
+  "2dc4637a45327129",
+  "equinorcuts2026productiongrowthforecastafteroffshoreoutages"
  ],
  "releases_done": {
   "2026-11-25|דוח מלאים רשמי של ממשל האנרגיה (EIA) — הפרסום הכי מזיז בשבוע|pre": 1,
@@ -616,9 +616,9 @@
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 14
+  "count": 16
  },
- "last_run": "2026-11-26T05:10:24.589426+02:00",
+ "last_run": "2026-11-26T05:15:18.001466+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1591,6 +1591,14 @@
   {
    "d": "2026-11-26",
    "t": "Iran’s efforts to offset US naval blockade fall short, economists warn - Iran International"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Oil rises on supply concerns as Iran claims mine strikes on ships - Reuters"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Watch Oil Flows in Hormuz Strait 'Forever Altered,' Says Tom Kloza - Bloomberg"
   }
  ]
 }
