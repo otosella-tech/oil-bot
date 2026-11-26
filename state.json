@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "602dd034330c2eac",
-  "oilsettlesup2astradersweighcontinuedhormuzshipattacks",
   "df0174d19bc1d55f",
   "wheredoestexasdatacenterboomgofromhere",
   "8ca9b396f6bbf50e",
@@ -603,7 +601,9 @@
   "ee373b94cffd1c9e",
   "wtipriceforecasteyesmovebeyond8400asbullsretaincontrolabove2",
   "9ca71ee80ef4932d",
-  "iraqusescapacityaudittopushhigheropecquotanov29"
+  "iraqusescapacityaudittopushhigheropecquotanov29",
+  "83473c901b9fef04",
+  "naturalgasandoilforecasthouthistrikesliftoilbeforeopeccanwti"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-26",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-11-26T08:15:19.565119+02:00",
+ "last_run": "2026-11-26T08:20:19.694275+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1616,6 +1616,10 @@
   {
    "d": "2026-11-26",
    "t": "Iraq Uses Capacity Audit to Push Higher OPEC+ Quota Nov 29 - houseofsaud.com"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Natural Gas and Oil Forecast: Houthi Strikes Lift Oil Before OPEC+, Can WTI Clear $84.97? - FXEmpire"
   }
  ]
 }
