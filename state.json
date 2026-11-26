@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "2711ece79c6c97d2",
-  "wticrudeoilreboundsfrom7988to80failstobreak83amidoversupplyc",
   "e126bcb5f0a83599",
   "3oilandgasstocksscreeningforpriceupsideashormuzrisksrise",
   "86ced19254f69607",
@@ -603,7 +601,9 @@
   "227340403928da0b",
   "ukrainianattacksonrussianrefineriescauseoilprocessingvolumes",
   "d5a2fcb8da90d2db",
-  "brentclimbsonmiddleeastsupplydisruptionconcerns"
+  "brentclimbsonmiddleeastsupplydisruptionconcerns",
+  "5b63eadf0d786676",
+  "oilpricesfallassupplyconcernslingerafteriranclaimsminestrike"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T12:10:20.167584+02:00",
+ "last_run": "2026-11-26T12:15:20.648692+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1688,6 +1688,10 @@
   {
    "d": "2026-11-26",
    "t": "Ukrainian attacks on Russian refineries cause oil processing volumes to plummet to 20-year low - Українська правда"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Oil prices fall as supply concerns linger after Iran claims mine strikes on ships - The Globe and Mail"
   }
  ]
 }
