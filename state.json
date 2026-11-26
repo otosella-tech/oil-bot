@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "13f9ccf3cc13c59c",
-  "russiasaysopectocompleteproductioncapacityreviewbyyearend",
   "ddb8706c8dada0b6",
   "nasadatapointtofireatrussiassyzranrefineryafterdrones",
   "9babc0173e47da2f",
@@ -603,7 +601,9 @@
   "7a74ebe5940b0628",
   "oilpriceforecastcanbrentcrudereclaim100aheadofopecmeeting",
   "7b8990253b0139de",
-  "houthisstrikesaudioilinfrastructureasriyadhintensifiesattack"
+  "houthisstrikesaudioilinfrastructureasriyadhintensifiesattack",
+  "e5bf5e592d8856d0",
+  "pemexjvssatfuelauditsamigolngtheweekinoilgas"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T23:30:25.398547+02:00",
+ "last_run": "2026-11-26T23:35:16.396339+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
