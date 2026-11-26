@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "b5c42506331c7c64",
-  "intermodalbrazilstrengthensitspositioninglobalcrudeoiltrade",
-  "850dc0063d6bb527",
-  "russiaselevatedcrudeshipmentsstokeglobalsupplysurplus",
   "6c72a6223ae0ba4c",
   "iraqioilfromkurdistansmuggledintoiranandafghanistangovernmen",
   "4d1f35156f436d87",
@@ -603,7 +599,11 @@
   "afebaec4d9b9730d",
   "iraqsoilrevenueshit88bnasitpreparestoaskforhigheropecquota",
   "e1db06fe63a079d4",
-  "whenthegridfailssolardoesnotwaitforthestate"
+  "whenthegridfailssolardoesnotwaitforthestate",
+  "ccfc176ab13449e1",
+  "brazilsvastcourtsoilproducerstoanchorus520mncrudestorageproj",
+  "b8b242c0fbe21008",
+  "supplyshortageconcernsdominatecrudetradingfollowinghormuzsau"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T20:00:39.201252+02:00",
+ "last_run": "2026-11-26T20:05:15.841387+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1852,6 +1852,10 @@
   {
    "d": "2026-11-26",
    "t": "Iraq's oil revenues hit $8.8bn as it prepares to ask for higher Opec quota - www.thenationalnews.com"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Supply Shortage Concerns Dominate Crude Trading Following Hormuz, Saudi Strikes - Ship & Bunker"
   }
  ]
 }
