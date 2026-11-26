@@ -4,12 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "bb26c8c4a1c21791",
-  "wtiholdssteadyabove8100astradersweighmiddleeasttensions",
-  "be7f6fd9005216b5",
-  "crudepricessharplyhigheronconcernsoversupplydisruptions",
-  "4ab10a4707fb8393",
-  "southsudantargets400000bpdoiloutputand50poweraccessby2035",
   "cb003a5eb92826c8",
   "ctedivoiretargets500000bdofoiloutputby2040",
   "ded0b3f340195f2c",
@@ -603,7 +597,13 @@
   "2a9fb5cabe6b815f",
   "seveninjuredfourcriticallyafterbangkokoilrefineryexplosion",
   "446fcfa0ad381602",
-  "thousandsprotestinirbilasbaghdadmovestoseizekurdishoilandbor"
+  "thousandsprotestinirbilasbaghdadmovestoseizekurdishoilandbor",
+  "11fa12ad452d760e",
+  "howthetexasrailroadcommissioninfluencedthecreationofopec",
+  "8b7543bf56c39115",
+  "oilpricesriseasrenewedmiddleeastattacksthreatenpersiangulfsu",
+  "72feeabe339113dd",
+  "greendemandsrapidnoticeofoilspillsafteroutrageousdelays"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T13:05:16.621309+02:00",
+ "last_run": "2026-11-26T13:10:20.346754+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
@@ -1712,6 +1712,10 @@
   {
    "d": "2026-11-26",
    "t": "Seven injured, four critically, after Bangkok oil refinery explosion - BBC"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Oil Prices Rise as Renewed Middle East Attacks Threaten Persian Gulf Supply Recovery - Yahoo Finance"
   }
  ]
 }
