@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "5a41a0886c7f5f6c",
-  "oilpricesfallover1asconcernsmountoverexcesssupply",
-  "bfb125820d7be794",
-  "iraqipmmovestoseizekurdishcontrolledoilfieldsfurtherstrainin",
   "0947873fda08ee02",
   "crudeoilpriceswtibrent25nov2026reboundbutsoftbalancecmbnews",
   "6b8dddcb12abcfe0",
@@ -603,7 +599,11 @@
   "f1bb0dae96109a22",
   "irgcreportsexplosionoftwoviolatingoiltankerssouthofhormuzstr",
   "87108b027e3ce91f",
-  "oilpricesedgeupafterminestrikesonshipsrevivesupplyconcerns"
+  "oilpricesedgeupafterminestrikesonshipsrevivesupplyconcerns",
+  "2bd24bfd258588d0",
+  "crudeoilclimbsashormuzriskscloudsupplyoutlook",
+  "50ea7eb86b6746d7",
+  "oilpricesedgeupafterminestrikesonshipsrevivesupplyconcernseu"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-26",
   "count": 60
  },
- "last_run": "2026-11-26T14:50:19.524926+02:00",
+ "last_run": "2026-11-26T14:55:15.257949+02:00",
  "sent_stories": [
   {
    "d": "2026-11-23",
