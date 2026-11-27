@@ -4,10 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "cf158c0b2eb8b24b",
-  "iraqdeniesreportsoftroopmovementstowardskurdishregion",
-  "f192f3dcd0bb25ad",
-  "crudelemongrassoiloutperformscommercialformulationsagainstae",
   "0f444e0979b38ab2",
   "iraqusescapacityaudittopushforhigheropecquotabeforenov29",
   "2bb202425436843f",
@@ -603,10 +599,15 @@
   "c5eda78413a47e5b",
   "iraqfoilsattempttosmuggle36000litersofcrudeoilinkirkukauthor",
   "2f8f3a719b088ef4",
-  "shafaqnewsiraqseizes36klitersofcrudeoilinkirkuk"
+  "shafaqnewsiraqseizes36klitersofcrudeoilinkirkuk",
+  "e0172791a9e56f09",
+  "crudeoilfindssomefootingasprolongedusirantensionskeepthedown",
+  "6cfef1889bfffa44",
+  "middleeasttensionsdrivecrudeoilpricesupward"
  ],
  "releases_done": {
-  "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1
+  "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
+  "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|post": 1
  },
  "last_digest": "2026-11-27",
  "digest_prices": {
@@ -617,7 +618,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T19:55:15.613073+02:00",
+ "last_run": "2026-11-27T20:00:32.068320+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
