@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "cbf7930ce70dc81c",
-  "westasiaconflicttriggered64crudeoilpricesurgecomparedwith29d",
   "e988c3b9986e54c7",
   "houthisclaimrastanurastrikeandiraqdisputesopeccapacitybrentr",
   "7e18743d6c1b8ba4",
@@ -603,7 +601,9 @@
   "328f73ac7b84e560",
   "uscrudeoildeclinesto85abarrelonrecoveringmiddleeastexports",
   "3a9b62134cee5f7e",
-  "runningtostandstillhigheroutputfailstoliftepearnings"
+  "runningtostandstillhigheroutputfailstoliftepearnings",
+  "15669c775ab0ce87",
+  "currentpriceofoilasofnovember252026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 8
  },
- "last_run": "2026-11-27T04:10:21.010786+02:00",
+ "last_run": "2026-11-27T04:15:18.664509+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
