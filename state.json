@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "eae82654c86d2245",
-  "oilmixedamidmiddleeastattacksusinventorybuild",
   "a64ced9aac8079f2",
   "wticrudeextendsrallyonmideastriskskeysupport",
   "5d7243aed76297a2",
@@ -603,7 +601,9 @@
   "fad9f2784d1456fb",
   "middleeastattackspushoilpriceshigheragain",
   "c8bdf6106948f508",
-  "trumpurgesputintoendaggressionaseuropebracesforusmilitarycut"
+  "trumpurgesputintoendaggressionaseuropebracesforusmilitarycut",
+  "94406485705b91fd",
+  "oilpricesremainhighboonforbpsenergyoperations"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T17:00:40.623449+02:00",
+ "last_run": "2026-11-27T17:05:17.116463+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
