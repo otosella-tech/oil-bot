@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "c35142493c21739f",
-  "1953shipwrecksuspectedassourceofoilcontaminationaffectingbir",
   "227340403928da0b",
   "ukrainianattacksonrussianrefineriescauseoilprocessingvolumes",
   "d5a2fcb8da90d2db",
@@ -603,7 +601,9 @@
   "2f160d8c23bedff4",
   "iraqresumesoperationsonoldiraqturkeyoilpipelinerouteafter12y",
   "eb06b728f5847be3",
-  "venezuelasoilproductionpush3energystockstowatchnow"
+  "venezuelasoilproductionpush3energystockstowatchnow",
+  "4cba9fec79f4a2c6",
+  "crudeoilpricesnear97aswestasiatensionsrevivesupplyfearsopecm"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T17:45:19.694727+02:00",
+ "last_run": "2026-11-27T17:50:20.998956+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1784,6 +1784,10 @@
   {
    "d": "2026-11-27",
    "t": "Iraq Resumes Operations on Old Iraq-Turkey Oil Pipeline Route After 12-year Hiatus - Egypt Oil & Gas"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Crude oil prices near $97 as West Asia tensions revive supply fears; OPEC+ meeting in focus - The Economic Times"
   }
  ]
 }
