@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "1e9f26c8dd609c73",
-  "iraqstopcourtrulesgovernmentcantakeoverkurdishbordersoilfiel",
   "e547f3580329bd3b",
   "currentpriceofoilasofnovember232026",
   "2bc5e99daa925e9f",
@@ -603,7 +601,9 @@
   "70bf76862ab20a48",
   "brazilcrudefueloilexportsjumpasdieselimportssurge",
   "11ccadc33b51c0b7",
-  "kazakhstans2027outlookimprovesasinflationforecastfallstenges"
+  "kazakhstans2027outlookimprovesasinflationforecastfallstenges",
+  "a3722212f1bf433e",
+  "usreportedlyurgedvenezuelairaqtoconsiderquittingopecearliert"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 52
+  "count": 54
  },
- "last_run": "2026-11-27T12:05:21.160474+02:00",
+ "last_run": "2026-11-27T12:10:26.252999+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1656,6 +1656,10 @@
   {
    "d": "2026-11-27",
    "t": "WTI crude oil prices have risen above $85 following attacks in Saudi Arabia - UkrMedia News"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "US reportedly urged Venezuela, Iraq to consider quitting OPEC earlier this year - investingLive"
   }
  ]
 }
