@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "d6ce9016114b9b03",
-  "oilholdstwodaygainasmideasttensionsfuelmarketjitters",
   "6e9b0b2d77473ac6",
   "oiltradersdownplaypersiangulfsupplyrisksdespiterisingattacks",
   "69e746b5ec284cc2",
@@ -603,7 +601,9 @@
   "657ed980ffe10c8f",
   "indianrupeeextendscorrectionasrevivedhormuzrisksboostoilpric",
   "4ee1180871aa2b27",
-  "oilrisesaswtijumpsnearly3gulfattacksthreatencrudesupplyrecov"
+  "oilrisesaswtijumpsnearly3gulfattacksthreatencrudesupplyrecov",
+  "9efebffc3d2a5902",
+  "oiltradersignoregrowingthreattopersiangulfsupply"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 48
  },
- "last_run": "2026-11-27T11:25:16.419430+02:00",
+ "last_run": "2026-11-27T11:30:26.034107+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
