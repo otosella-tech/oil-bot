@@ -4,10 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "93bd129e7f94417c",
-  "crudeoilpricesriseasmiddleeasttensionsthreatensupply",
-  "bb836ab43aff71fe",
-  "eniandrepsolexpandinvestmentinvenezuelasenergyrecovery",
   "b87ec9bc30c5805a",
   "australiasasx200founditsfootingonaminerbounce",
   "cf5204fcfa23fdcf",
@@ -603,7 +599,11 @@
   "0a07965b70ee72cc",
   "oilclimbsasyemenshouthirebelsstrikekeysaudirefinerythespokes",
   "db4cc7ef1b51d7c9",
-  "eiaforecastsalaskancrudeoilproductiontogrow13in2027"
+  "eiaforecastsalaskancrudeoilproductiontogrow13in2027",
+  "f5aa8abd3e0c1d89",
+  "goldreboundsoilholds85andcryptotestsafloorhownovemberendsand",
+  "de2f03974b99d01e",
+  "laborshortagescouldderailcanadasoilandgasgrowthmomentum"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 56
  },
- "last_run": "2026-11-27T13:20:21.923454+02:00",
+ "last_run": "2026-11-27T13:25:15.152011+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
