@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "83473c901b9fef04",
-  "naturalgasandoilforecasthouthistrikesliftoilbeforeopeccanwti",
   "602dd034330c2eac",
   "oilsettlesup2astradersweighcontinuedhormuzshipattacks",
   "88616d2039f3f894",
@@ -603,7 +601,9 @@
   "0100b7df7b101d57",
   "2027oilpriceforecastwherebofathinksbrentisheadednext",
   "94c9009abd7ec287",
-  "oilpostsweeklygainsasmiddleeasttensionsoutweighsignsofsupply"
+  "oilpostsweeklygainsasmiddleeasttensionsoutweighsignsofsupply",
+  "bc87c731d44f8e7a",
+  "shafaqnewsirancommandosretooktwotankersfromus"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T14:55:16.775615+02:00",
+ "last_run": "2026-11-27T15:00:30.929248+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1724,6 +1724,10 @@
   {
    "d": "2026-11-27",
    "t": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Shafaq News..Iran: Commandos retook two tankers from US - شفق نيوز"
   }
  ]
 }
