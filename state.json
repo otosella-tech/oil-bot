@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "646ce5b83376c05c",
-  "ukrainianneptunemissilesstrikerussiansu34airbaseasseparateat",
   "f1bb0dae96109a22",
   "irgcreportsexplosionoftwoviolatingoiltankerssouthofhormuzstr",
   "87108b027e3ce91f",
@@ -603,7 +601,9 @@
   "1eba6fcdda3667a2",
   "oilpricesreboundasmiddleeastsupplyfearsreturn",
   "3eefd01cbcbe4059",
-  "russiaplans494mntonnesofoiloutputin2026novaksays"
+  "russiaplans494mntonnesofoiloutputin2026novaksays",
+  "50d70fc1003cd4ad",
+  "oilswingswithrisingmeattacksinfocus"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T23:15:27.274725+02:00",
+ "last_run": "2026-11-27T23:20:28.578647+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
