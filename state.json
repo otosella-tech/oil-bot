@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "f481b81f35b65ff8",
-  "eniandrepsolcommit2billiontovenezuelaoilandgasexpansion",
   "e2193df6d9b69b39",
   "dozensofoilcoveredbirdsareshowinguponacaliforniacoasta1953sh",
   "a007fdc314468b2e",
@@ -603,7 +601,9 @@
   "30da44e21d6410bb",
   "middleeastoilsupplystabilizesrefineriesrunfulloutasdieseland",
   "6e456198b707a379",
-  "oilgainsoniranwarworriesandshortcoveringaheadofthanksgivingh"
+  "oilgainsoniranwarworriesandshortcoveringaheadofthanksgivingh",
+  "fd68e9d4e3c178c2",
+  "naturalgasandoilforecastopeccapacityfightloomscanbrentclear9"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 35
+  "count": 37
  },
- "last_run": "2026-11-27T08:50:21.782602+02:00",
+ "last_run": "2026-11-27T08:55:16.535653+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1604,6 +1604,10 @@
   {
    "d": "2026-11-27",
    "t": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday - Reuters"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Natural Gas and Oil Forecast: OPEC+ Capacity Fight Looms, Can Brent Clear $95.55? - FXEmpire"
   }
  ]
 }
