@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "f1bb0dae96109a22",
-  "irgcreportsexplosionoftwoviolatingoiltankerssouthofhormuzstr",
   "87108b027e3ce91f",
   "oilpricesedgeupafterminestrikesonshipsrevivesupplyconcerns",
   "2bd24bfd258588d0",
@@ -603,7 +601,9 @@
   "3eefd01cbcbe4059",
   "russiaplans494mntonnesofoiloutputin2026novaksays",
   "50d70fc1003cd4ad",
-  "oilswingswithrisingmeattacksinfocus"
+  "oilswingswithrisingmeattacksinfocus",
+  "aa2673160fb9c193",
+  "oilfuturessettleloweraheadofopecpolicymeeting"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T23:35:17.498949+02:00",
+ "last_run": "2026-11-27T23:40:20.244965+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1849,6 +1849,10 @@
   {
    "d": "2026-11-27",
    "t": "Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting -- 2nd Update - www.marketscreener.com"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting - WSJ"
   }
  ]
 }
