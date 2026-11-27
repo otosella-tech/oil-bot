@@ -4,10 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "50b7d82dda20d28b",
-  "internationaloilmajorschasediscountedwaxyuintacrudeasoutputs",
-  "d343c7ec18488361",
-  "russiascrudesurgemaytipoilintosurplus",
   "0b221fd47563bd25",
   "dozensofbirdsfoundcoatedwithoilresiduemovedbyrecentelniostor",
   "93bd129e7f94417c",
@@ -603,7 +599,11 @@
   "3452bfd7d5618d59",
   "brentclimbsamidintensifyingmiddleeasttensions",
   "2ad67d22a5993c7b",
-  "semiconductorexportsovertakeoilandgasinglobaltradeforthefirs"
+  "semiconductorexportsovertakeoilandgasinglobaltradeforthefirs",
+  "036293c1a23c2c56",
+  "crudeoilextendsthereboundasgrowthconcernseaseandusirantensio",
+  "0a07965b70ee72cc",
+  "oilclimbsasyemenshouthirebelsstrikekeysaudirefinerythespokes"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 54
+  "count": 56
  },
- "last_run": "2026-11-27T12:35:17.143489+02:00",
+ "last_run": "2026-11-27T12:40:19.573634+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1660,6 +1660,10 @@
   {
    "d": "2026-11-27",
    "t": "US reportedly urged Venezuela, Iraq to consider quitting OPEC earlier this year - investingLive"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil climbs as Yemen’s Houthi rebels strike key Saudi refinery - The Spokesman-Review"
   }
  ]
 }
