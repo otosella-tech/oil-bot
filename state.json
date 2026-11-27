@@ -4,12 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "17db4d85cb4a010a",
-  "1953ssjacobluckenbachshipwreckoffsanfranciscocoastlinkedtodo",
-  "25a3ea69d6f6e786",
-  "canadasarrowexplorationq3naturalgasandcrudeoilrevenueriseson",
-  "a1e3c512d64e9f52",
-  "crudeoilpricesglobal26nov2026backwardationandopecriskcmbnews",
   "b9b510d6bfb1446c",
   "libyaandiraqcouldbethenextbigheadacheforoilmarkets",
   "1c3f7b36e6402e3f",
@@ -603,7 +597,13 @@
   "aadcf35ecaade32f",
   "uscrudeoilinventoriesinchesupasgasolineholdssteady",
   "9b9c8685f4952aed",
-  "bofakeeps2027oilgasviewasgeopoliticsdominate"
+  "bofakeeps2027oilgasviewasgeopoliticsdominate",
+  "d31621845d8e71a9",
+  "iraqtalkingtoopecaboutitsproductionceilingministersays",
+  "a93193dd7c2d40f0",
+  "trumpbacksiraqileaderseffortstocurboilsmuggling",
+  "e73d806c65c22872",
+  "iranclaimsoiltankerexplodesafterhittingmineinhormuz"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T16:00:32.331203+02:00",
+ "last_run": "2026-11-27T16:05:16.643038+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1744,6 +1744,14 @@
   {
    "d": "2026-11-27",
    "t": "Trump seeks to pull Venezuela and Iraq out of OPEC - TodayPress.tv"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Iraq Talking to OPEC About Its Production Ceiling, Minister Says - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Iran Claims Oil Tanker Explodes After Hitting Mine in Hormuz - https://houseofsaud.com/"
   }
  ]
 }
