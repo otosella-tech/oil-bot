@@ -4,10 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "26696ee51d052c26",
-  "uscrudeoilstockpilesriseforthirdstraightweek",
-  "a94ff97a81c416fb",
-  "aramcoopens7billionpetrochemicalcomplexinsouthkorea",
   "f76f9a7e1766f36c",
   "soilinauguratesshaheenproject",
   "91eaef638c0efa34",
@@ -603,7 +599,11 @@
   "c2ca9f2682e82d66",
   "analysispipelinesingeopoliticshowshiftingalliancesarereshapi",
   "d0bfa0cba7a354e2",
-  "oilthemarkethasalreadywrittenofftheenergycrisis"
+  "oilthemarkethasalreadywrittenofftheenergycrisis",
+  "859bdf543fef6ea7",
+  "oilpricesup261126",
+  "1f93941116d03fdb",
+  "oilcrosses96aftersaudirefineryattacktrumpcallsgdpdatafakejob"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 15
+  "count": 17
  },
- "last_run": "2026-11-27T07:50:21.057696+02:00",
+ "last_run": "2026-11-27T07:55:16.160874+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1576,6 +1576,10 @@
   {
    "d": "2026-11-27",
    "t": "Brent crude briefly dips below $90 for first time since August on Iran hopes - CNBC"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil crosses $96 after Saudi refinery attack; Trump calls GDP data ‘fake’; job cuts at SAP and more - LinkedIn"
   }
  ]
 }
