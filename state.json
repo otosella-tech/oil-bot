@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "8f1f53a1ef31179d",
-  "brentcrudeoilpricegainsmorethan5afterreboundfollowingsupplyd",
   "2b96562405dc6f2f",
   "januarywticrudeoilcontractclosesup163or2settlesat8368perbarr",
   "f4a08048344671fc",
@@ -603,7 +601,9 @@
   "53f3c3a8ac5c763f",
   "bigwindthehungariantankthatfoughtkuwaitsoilfireswithtwomig21",
   "2b34bcebae3167f1",
-  "crudeoilisatacrossroadsistherevalueinoilstocks"
+  "crudeoilisatacrossroadsistherevalueinoilstocks",
+  "2bbb5ffc1957582c",
+  "wticrudeoilmacrowhatdorenewedgulfsupplyconcernsmeanforrefine"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 37
  },
- "last_run": "2026-11-27T09:40:21.072921+02:00",
+ "last_run": "2026-11-27T09:45:19.840531+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
