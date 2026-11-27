@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "13287e1ad176cd5e",
-  "seveninjuredinexplosionatoilfacilityinthailandsbangkok",
   "6f2fe6813f9de8b0",
   "oilpricesslidedespitemountingthreatsinthestraitofhormuz",
   "b3bcf3c28f027472",
@@ -603,7 +601,9 @@
   "0b54aee7cffe0858",
   "georgiavoterstodecidefateof17billiondatacentermegaproject",
   "78420391281fd9de",
-  "oilupfortheweekbutdownforthemonthasmiddleeastviolencechallen"
+  "oilupfortheweekbutdownforthemonthasmiddleeastviolencechallen",
+  "d62a388a47de9e7d",
+  "80ofcrudeoilexporteddependentonimports"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T21:25:15.351161+02:00",
+ "last_run": "2026-11-27T21:30:26.599171+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
