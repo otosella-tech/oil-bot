@@ -4,12 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "54c983cfe868b4a0",
-  "usrigcountholdssteadyasoilproductionhitsfifthstraightrecord",
-  "52e5585f6b78fa8e",
-  "oilpricesriseafterhouthisclaimattackonsaudirefinery",
-  "1a78b23ec85a8420",
-  "howwerechemicaldispersantsusedduringthedeepwaterhorizonclean",
   "138d15cbbf38a74f",
   "smallmodularreactorsfinallyhaverealmomentumintheus",
   "0cf27337bd781a52",
@@ -603,7 +597,13 @@
   "8c9b581aeb43e43d",
   "berkshirecutchevronbyaboutathirdthisyearandkeptoccidentalwha",
   "e15889d4863cb4f4",
-  "publicprosecutionordersdetentionofdirectorofcrudeoilnaturalg"
+  "publicprosecutionordersdetentionofdirectorofcrudeoilnaturalg",
+  "bfae8794bf7a5fa5",
+  "crudeoilprices27nov2026opecunderuspressurecmbnews",
+  "9882a47f7869e320",
+  "houthiattackonsaudirefinerysparksfreshrallyinglobalcrudeoilp",
+  "a53a73c7587a5aac",
+  "trumpadministrationurgedvenezuelaandiraqtoexitopecchevronnys"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 43
+  "count": 45
  },
- "last_run": "2026-11-27T10:45:20.186780+02:00",
+ "last_run": "2026-11-27T10:50:20.605891+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1624,6 +1624,14 @@
   {
    "d": "2026-11-27",
    "t": "Oil Prices Rise Ahead of OPEC+ Meeting as Middle East Supply Risks Persist - WSJ"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Houthi Attack on Saudi Refinery Sparks Fresh Rally in Global Crude Oil Prices - ChemAnalyst"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Trump Administration Urged Venezuela and Iraq to Exit OPEC - Chevron (NYSE:CVX) - Benzinga"
   }
  ]
 }
