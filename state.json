@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "fbf0e780193778a7",
-  "usoilproductiontops14mlnbarrelsascrudeexportsplunge",
   "13287e1ad176cd5e",
   "seveninjuredinexplosionatoilfacilityinthailandsbangkok",
   "6f2fe6813f9de8b0",
@@ -603,7 +601,9 @@
   "80061f6cd6cc33f7",
   "naturalgaswtioilbrentoilforecastswtioilpullsbackasiraqwantst",
   "0b54aee7cffe0858",
-  "georgiavoterstodecidefateof17billiondatacentermegaproject"
+  "georgiavoterstodecidefateof17billiondatacentermegaproject",
+  "78420391281fd9de",
+  "oilupfortheweekbutdownforthemonthasmiddleeastviolencechallen"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T21:10:19.417196+02:00",
+ "last_run": "2026-11-27T21:15:19.697114+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
