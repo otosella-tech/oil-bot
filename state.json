@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "a1487aa06405c761",
-  "oilandfuelpricestheoutlookafterthegulfcrisis",
   "4d33a19611d41e57",
   "oiltradersignoregrowingthreattopersiangulfsupply",
   "12c439752291725b",
@@ -603,7 +601,9 @@
   "7a90aaa2b3032dc3",
   "oilsetforfirstweeklygaininnovemberaswtijumps25brentsteadies",
   "c37fc0fee88c26c2",
-  "oilfuturescrudeextendsgainsonrisingmiddleeasttensions"
+  "oilfuturescrudeextendsgainsonrisingmiddleeasttensions",
+  "ab8e4f46d35b56e0",
+  "oilsettopostweeklygainasmiddleeastattacksstokesupplyconcerns"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 46
  },
- "last_run": "2026-11-27T11:15:20.146011+02:00",
+ "last_run": "2026-11-27T11:20:27.075679+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
