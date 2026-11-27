@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "fab757b2013750d2",
-  "thepentagonwantsdetroittobuildamericasnextdronearmy",
   "5f8ceacc5ee167ac",
   "1953shipwrecklinkedtodozensofoilcoveredbirdsalongcaliforniac",
   "1784d15edfda4934",
@@ -603,7 +601,9 @@
   "d386587f92708930",
   "oilpricesriseaheadofopecmeetingasmiddleeastsupplyriskspersis",
   "14ddd384c13ad315",
-  "indonesiapalmoiltendersstallonweakdemandandtightsupply"
+  "indonesiapalmoiltendersstallonweakdemandandtightsupply",
+  "01e97e7f17a117db",
+  "crudeoilwtibrentoutlook27nov2026backwardatedcurvecmbnews"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 43
  },
- "last_run": "2026-11-27T10:35:17.646145+02:00",
+ "last_run": "2026-11-27T10:40:20.668663+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
