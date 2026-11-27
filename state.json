@@ -1,11 +1,9 @@
 {
  "price_base": {
   "WTI": 85.76,
-  "Brent": 90.88
+  "Brent": 92.75
  },
  "seen": [
-  "46efcbbfcc5031f2",
-  "ustotalcrudeoilstocksfallinweekendednov20",
   "c8ffce40852539a5",
   "aramcoinaugurates7bnshaheenpetrochemicalsprojectinsouthkorea",
   "26696ee51d052c26",
@@ -603,7 +601,9 @@
   "ba57fdc2b9f00572",
   "oilpricesclimbasmiddleeastsupplyrisksovershadowglutfears",
   "c088b788f10d6e3f",
-  "venezuelanoilmagnatedefendscontentiousdealwithtrump"
+  "venezuelanoilmagnatedefendscontentiousdealwithtrump",
+  "c2ca9f2682e82d66",
+  "analysispipelinesingeopoliticshowshiftingalliancesarereshapi"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 15
  },
- "last_run": "2026-11-27T07:25:22.583407+02:00",
+ "last_run": "2026-11-27T07:30:25.961722+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
