@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "fc1905a55f647b51",
-  "lukoiltosellforeignassetsbutnottokushnerandwitkoffassociates",
   "9670335aea4873ee",
   "oillittlechangedashormuzattacksthreatenreboundingulfcrudeshi",
   "3d31232f9c98b75d",
@@ -603,7 +601,9 @@
   "9f9bae3965f3f4e9",
   "oilrisesonsupplyconcernsasiranclaimsminestrikesonships",
   "d3ee3f4eee2226fe",
-  "oilsettles3higheronattacksonsaudienergysitesstraitofhormuzdi"
+  "oilsettles3higheronattacksonsaudienergysitesstraitofhormuzdi",
+  "dad70bd602d678c6",
+  "europegasslidestowardweeklylossdivergingfromcrudeasattacksli"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T13:55:15.319563+02:00",
+ "last_run": "2026-11-27T14:00:32.549071+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1688,6 +1688,10 @@
   {
    "d": "2026-11-27",
    "t": "Oil settles $3 higher on attacks on Saudi energy sites, Strait of Hormuz disruptions - Reuters"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Europe gas slides toward weekly loss, diverging from crude as attacks lift oil - Investing.com"
   }
  ]
 }
