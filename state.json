@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "8bec32b41846a189",
-  "iransayslngcarrierexplodedafterhittingamineinhormuz",
   "4da72d2ac65b54a0",
   "opecconsidersstickingwithcurrentquotasdelegatessay",
   "646ce5b83376c05c",
@@ -603,7 +601,9 @@
   "b068fc117e53cd42",
   "oilfuturessettleloweraheadofopecpolicymeeting2ndupdate",
   "3a57997ca27a60ad",
-  "pennsylvaniaplugs500abandonedoilgaswellsinfouryears"
+  "pennsylvaniaplugs500abandonedoilgaswellsinfouryears",
+  "1eba6fcdda3667a2",
+  "oilpricesreboundasmiddleeastsupplyfearsreturn"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T22:40:26.413958+02:00",
+ "last_run": "2026-11-27T22:45:19.423019+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
