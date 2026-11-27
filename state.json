@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "acca0aa59020d327",
-  "enbridgeeyes1billionpipelinedealwithindigenouscommunities",
   "7b769dd4a6ec8d3c",
   "oilextendsgainsasmiddleeasttensionsfuelmarketjitters",
   "8711bccbccdbc5aa",
@@ -603,7 +601,9 @@
   "d8a8845f63508c91",
   "gulfneedsusd40billioninoilpipelinestobypasshormuzriskssaysie",
   "4aee6befea8e927c",
-  "oldpvcpipesbecameengineoilingredientinthreehoursresearchersr"
+  "oldpvcpipesbecameengineoilingredientinthreehoursresearchersr",
+  "602dd034330c2eac",
+  "oilsettlesup2astradersweighcontinuedhormuzshipattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T15:05:16.295936+02:00",
+ "last_run": "2026-11-27T15:10:20.287239+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1732,6 +1732,10 @@
   {
    "d": "2026-11-27",
    "t": "Gulf needs USD 40 billion in oil pipelines to bypass Hormuz risks, says IEA - https://internationalfinance.com/"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil settles up $2 as traders weigh continued Hormuz ship attacks - Reuters"
   }
  ]
 }
