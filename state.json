@@ -4,10 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "dcfe9f4bf0f44deb",
-  "oilupashormuzattackscounterrecoveryinsupply",
-  "86ced19254f69607",
-  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017",
   "da160b8587bb57ff",
   "ukrainianlongrangedronesattackoilrefineryinbashkorstan",
   "81d302d2e8900ade",
@@ -603,7 +599,11 @@
   "87f07a2266b3911c",
   "donaldtrumpbacksiraqileaderseffortstoassertmorestateauthorit",
   "be749fc673812b6a",
-  "molinvestedover540millioneurosinhungarianhydrocarbonoutput"
+  "molinvestedover540millioneurosinhungarianhydrocarbonoutput",
+  "c7002c0a4ba487bd",
+  "usacrudeoilstocksriseweekonweek",
+  "6893b2112e272034",
+  "bccrudeoilfuturestheregister"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T17:55:18.652891+02:00",
+ "last_run": "2026-11-27T18:00:35.289192+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
