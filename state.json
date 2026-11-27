@@ -4,16 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "7a64f58b99eb6095",
-  "rupeefalls20paiseto9240againstusdollarinearlytrade",
-  "ed4e7c7c03d3990c",
-  "morningbriefingcrudeoilpricesbouncedbackonmiddleeasttensions",
-  "cb34cd9b41184642",
-  "crudeoilpricerisesonreportsofhouthiattackonsaudirefinery",
-  "102c23152d6c21cd",
-  "oilralliesashormuzminestrikesrattleglobalmarkets",
-  "e52fd4858b75b2b3",
-  "southkoreasaudiarabiaexpandjointoilreserves",
   "cf55779381d4ba01",
   "crudeoilbenchmarksbrentwtisweetvssourlightvsheavy",
   "8653f1b585e66c31",
@@ -603,7 +593,17 @@
   "b20b085c63d0cf4c",
   "stockpilingwillsupportoilpricesin2027energyaspectssays",
   "5ecc8ca0ea568ae2",
-  "oilsettleslowerasrecoveringmiddleeastexportsbolstersurplusou"
+  "oilsettleslowerasrecoveringmiddleeastexportsbolstersurplusou",
+  "46492e08b5e83f4e",
+  "theresanewno1amongcoloradosoilproducers",
+  "0a3f2cca022ac0c7",
+  "opecsettokeepoilproductiontargetssteadysourcessay",
+  "e24e743a371af65d",
+  "forecastupdateforcrudeoil27112026",
+  "a8fcda2c54aa05d3",
+  "wticrudeoilforecast2711bullseye90",
+  "64f9483dc3b45747",
+  "oilextendsgainsonmiddleeastsupplyfearsaheadofopecmeeting"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T14:30:27.590104+02:00",
+ "last_run": "2026-11-27T14:35:16.393270+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1708,6 +1708,14 @@
   {
    "d": "2026-11-27",
    "t": "The Next Hormuz?"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "OPEC+ set to keep oil production targets steady, sources say - Reuters"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil extends gains on Middle East supply fears ahead of OPEC+ meeting - Economies.com"
   }
  ]
 }
