@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "f4a08048344671fc",
-  "cheapergasolinewontfixthedieselsqueezehittingfreightcosts",
   "5e31ae30df9de230",
   "lowercrudepricestestethanoleconomicsbutrfsfloorsupportscorng",
   "1f313c34371686fc",
@@ -603,7 +601,9 @@
   "2bbb5ffc1957582c",
   "wticrudeoilmacrowhatdorenewedgulfsupplyconcernsmeanforrefine",
   "0e351f3be02a696b",
-  "watchstockpilinginoilmarketsin2027energyaspects"
+  "watchstockpilinginoilmarketsin2027energyaspects",
+  "871c77f9e6be2ef6",
+  "theusispressuringvenezuelaandiraqtoleaveopecincreasingtheris"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 37
+  "count": 39
  },
- "last_run": "2026-11-27T09:55:15.588284+02:00",
+ "last_run": "2026-11-27T10:00:31.138839+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1608,6 +1608,10 @@
   {
    "d": "2026-11-27",
    "t": "Natural Gas and Oil Forecast: OPEC+ Capacity Fight Looms, Can Brent Clear $95.55? - FXEmpire"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "The US is pressuring Venezuela and Iraq to leave OPEC, increasing the risk of a split in the oil organization - Informat.ro"
   }
  ]
 }
