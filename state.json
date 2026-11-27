@@ -4,12 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "5c52a0cd8149a58e",
-  "oilrisesonsupplyconcernsasiranclaims9strikesonships",
-  "2a9fb5cabe6b815f",
-  "seveninjuredfourcriticallyafterbangkokoilrefineryexplosion",
-  "446fcfa0ad381602",
-  "thousandsprotestinirbilasbaghdadmovestoseizekurdishoilandbor",
   "11fa12ad452d760e",
   "howthetexasrailroadcommissioninfluencedthecreationofopec",
   "8b7543bf56c39115",
@@ -603,7 +597,13 @@
   "9ec4b27f40af08b7",
   "spikeinoilpricespartlyreversesrupeerallyforwardpremiumssurge",
   "559a3003177b9249",
-  "iraqintalkswithopecforhigheroilquotaministersaysbeforeopecme"
+  "iraqintalkswithopecforhigheroilquotaministersaysbeforeopecme",
+  "0d331c8b96dbbe49",
+  "soaringfuelpricesthreatentopushmoreairlinesintobankruptcy",
+  "9e0831c3fd96eaaa",
+  "opecexpectedtoholdq12027outputsteadyamiddisputesal",
+  "1bf4380ee1fb7af5",
+  "offlongbeacha700footoilplatformcalledeurekahostsrockfishinnu"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T18:55:16.952160+02:00",
+ "last_run": "2026-11-27T19:00:32.816729+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1804,6 +1804,14 @@
   {
    "d": "2026-11-27",
    "t": "Iraq in talks with OPEC for higher oil quota, minister says before OPEC+ meeting - Yahoo Finance Singapore"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Soaring Fuel Prices Threaten to Push More Airlines Into Bankruptcy"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "OPEC+ expected to hold Q1 2027 output steady amid disputes - Al-Monitor"
   }
  ]
 }
