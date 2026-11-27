@@ -4,10 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "e2e83070f4976f4b",
-  "andrewzimmernandiagreethis13oliveoilcrushesitsgrocerystoreco",
-  "5fc71b6a897fa041",
-  "us",
   "fab757b2013750d2",
   "thepentagonwantsdetroittobuildamericasnextdronearmy",
   "5f8ceacc5ee167ac",
@@ -603,7 +599,11 @@
   "1c4ebef721b5acba",
   "oilpricesriseaftertankershitminesinstraitofhormuz",
   "578681b2bdbfad33",
-  "watchwatchstockpilinginoilmarketsin2027energyaspects"
+  "watchwatchstockpilinginoilmarketsin2027energyaspects",
+  "d386587f92708930",
+  "oilpricesriseaheadofopecmeetingasmiddleeastsupplyriskspersis",
+  "14ddd384c13ad315",
+  "indonesiapalmoiltendersstallonweakdemandandtightsupply"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 41
+  "count": 43
  },
- "last_run": "2026-11-27T10:30:26.179847+02:00",
+ "last_run": "2026-11-27T10:35:17.646145+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1620,6 +1620,10 @@
   {
    "d": "2026-11-27",
    "t": "Oil prices rise after tankers hit mines in Strait of Hormuz - Middle East Monitor"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil Prices Rise Ahead of OPEC+ Meeting as Middle East Supply Risks Persist - WSJ"
   }
  ]
 }
