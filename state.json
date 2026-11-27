@@ -4,12 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "91eaef638c0efa34",
-  "usdiplomaticpushreviveshopesfortrans",
-  "2efc9257183f9114",
-  "jpmorganoutlinesoiloutlookfor20272028",
-  "ca244addb99e50ce",
-  "usdiplomaticpushreviveshopesfortranscaspiangaspipeline",
   "c9422efdc1f7917f",
   "oilpricesreboundasshippingriskspersist",
   "b1b531a2d5277660",
@@ -603,7 +597,13 @@
   "1f93941116d03fdb",
   "oilcrosses96aftersaudirefineryattacktrumpcallsgdpdatafakejob",
   "8afbf33e5d6a7cae",
-  "uscrudeoilstockpilesriseforthirdstraightweek"
+  "uscrudeoilstockpilesriseforthirdstraightweek",
+  "b5f61cf66cd50fb5",
+  "rupeerallystumblesalongsideequitiesontentativeaitradecomebac",
+  "bc53cfd397e606ee",
+  "crudeoilextendsitsgainsanalysis27112026",
+  "b864c46e937de862",
+  "brentcrudetops96onrastanurahormuztankerrisks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 23
+  "count": 25
  },
- "last_run": "2026-11-27T08:00:33.780465+02:00",
+ "last_run": "2026-11-27T08:05:15.017776+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1580,6 +1580,10 @@
   {
    "d": "2026-11-27",
    "t": "Oil crosses $96 after Saudi refinery attack; Trump calls GDP data ‘fake’; job cuts at SAP and more - LinkedIn"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Brent Crude Tops $96 on Ras Tanura, Hormuz Tanker Risks - FinanceFeeds"
   }
  ]
 }
