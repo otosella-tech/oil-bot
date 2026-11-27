@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "4da72d2ac65b54a0",
-  "opecconsidersstickingwithcurrentquotasdelegatessay",
   "646ce5b83376c05c",
   "ukrainianneptunemissilesstrikerussiansu34airbaseasseparateat",
   "f1bb0dae96109a22",
@@ -603,7 +601,9 @@
   "3a57997ca27a60ad",
   "pennsylvaniaplugs500abandonedoilgaswellsinfouryears",
   "1eba6fcdda3667a2",
-  "oilpricesreboundasmiddleeastsupplyfearsreturn"
+  "oilpricesreboundasmiddleeastsupplyfearsreturn",
+  "3eefd01cbcbe4059",
+  "russiaplans494mntonnesofoiloutputin2026novaksays"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T23:10:19.482529+02:00",
+ "last_run": "2026-11-27T23:15:27.274725+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
