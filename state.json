@@ -4,10 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "de4244ceb7f3aa72",
-  "pipelinecompanylimitsndshipmentsaftercrudeoilcontamination",
-  "d00ef68f5effcfb1",
-  "japexeyesmorethan10000boedinnorwaywithgoliatdeal",
   "3ea7141c71baa407",
   "cmewticrudeoilfuturestop83aseiareportsinventorybuild",
   "f481b81f35b65ff8",
@@ -603,7 +599,11 @@
   "b28080d5ccc5b329",
   "bigoillookstodiversifywithmoveintoelectricitygeneration",
   "a9feb1964784ae30",
-  "uscrudeoilinventoriesincreaseby11millionbarrels"
+  "uscrudeoilinventoriesincreaseby11millionbarrels",
+  "578b704cb548fd3b",
+  "oilisrisingagainbeforeopecmeetscansaudiattacksoverpowersurpl",
+  "30da44e21d6410bb",
+  "middleeastoilsupplystabilizesrefineriesrunfulloutasdieseland"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 31
+  "count": 33
  },
- "last_run": "2026-11-27T08:35:17.162356+02:00",
+ "last_run": "2026-11-27T08:40:29.254361+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1596,6 +1596,10 @@
   {
    "d": "2026-11-27",
    "t": "Indian Rupee corrects further as renewed Hormuz risk lifts oil prices - FXStreet"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil is rising again before OPEC+ meets — can Saudi attacks overpower surplus fears? - Mitrade"
   }
  ]
 }
