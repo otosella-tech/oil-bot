@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "db98ecbbba3704d7",
-  "bessentsaysirandoesnthaveadropofoilonwatertosellduetooperati",
   "ec5e58bfb4384d65",
   "senateinvestigatesvancesallegedroleinvenezuelaoildeal",
   "2515f3322c9556c3",
@@ -603,7 +601,9 @@
   "142f818b24ba2431",
   "uspushediraqandvenezuelatoconsiderquittingopecsourcessay",
   "85c3d39dd24e5552",
-  "oilisntbalanceditsreroutedchokepointscaliforniatheeastcoasta"
+  "oilisntbalanceditsreroutedchokepointscaliforniatheeastcoasta",
+  "eeea590aa5806939",
+  "usencouragediraqandvenezuelatoleaveopecsourcessay"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T16:35:17.020866+02:00",
+ "last_run": "2026-11-27T16:40:20.572557+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1772,6 +1772,10 @@
   {
    "d": "2026-11-27",
    "t": "U.S. Pushed Iraq and Venezuela to Consider Quitting OPEC, Sources Say"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "U.S. Encouraged Iraq and Venezuela to Leave OPEC, Sources Say"
   }
  ]
 }
