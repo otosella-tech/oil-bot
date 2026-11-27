@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "6bd4b684f8ad087f",
-  "oilfuturespickupasmiddleeasttensionspersist",
   "de4244ceb7f3aa72",
   "pipelinecompanylimitsndshipmentsaftercrudeoilcontamination",
   "d00ef68f5effcfb1",
@@ -603,7 +601,9 @@
   "1507c37f8f70d847",
   "oilontracktosnap3weeklosingstreakoversupplyfears",
   "b28080d5ccc5b329",
-  "bigoillookstodiversifywithmoveintoelectricitygeneration"
+  "bigoillookstodiversifywithmoveintoelectricitygeneration",
+  "a9feb1964784ae30",
+  "uscrudeoilinventoriesincreaseby11millionbarrels"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 31
  },
- "last_run": "2026-11-27T08:30:25.752854+02:00",
+ "last_run": "2026-11-27T08:35:17.162356+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
