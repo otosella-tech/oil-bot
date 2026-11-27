@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "943cba70fd25888d",
-  "crudeoilinventoriesfallshortofforecastindicatingstrongdemand",
-  "40a63805840798f7",
-  "uscrudeoilinventoriesriseby1109mbarrelsbelowforecast",
   "dbfd4ed0c71bfdb9",
   "oilfuturescrudereboundsassaudirastaurarefinerytargeted",
   "49bce9f1e0d2a742",
@@ -603,7 +599,11 @@
   "6968cec81801a55c",
   "1953shipwreckoffsanfranciscocoastlinkedtodozensofoilcoveredb",
   "22b91410e6c449c0",
-  "crudeoilpriceforecastrisingsuppliesthreatenasustainedrally"
+  "crudeoilpriceforecastrisingsuppliesthreatenasustainedrally",
+  "01c93250ed12654f",
+  "oiljumpsover2assaudiarabiadownsdronesoverrastanura",
+  "ce5c29cf45246bd7",
+  "brentcrudebrieflydipsbelow90forfirsttimesinceaugustoniranhop"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 12
+  "count": 14
  },
- "last_run": "2026-11-27T05:30:26.469477+02:00",
+ "last_run": "2026-11-27T05:35:14.956282+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1568,6 +1568,14 @@
   {
    "d": "2026-11-27",
    "t": "Opec+’s largest members head for clash over oil production estimates - Financial Times"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil Jumps Over 2% as Saudi Arabia Downs Drones Over Ras Tanura - Crude Oil Prices Today | OilPrice.com"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Brent crude briefly dips below $90 for first time since August on Iran hopes - CNBC"
   }
  ]
 }
