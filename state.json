@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "81d302d2e8900ade",
-  "spikeinoilpricespartlyreversesrupeerallyforwardpremiumssurge",
   "87bb4febbea167e0",
   "japansnuclearrevivalhitsasnagastepcodelaysreactorrestart",
   "d81785efd4f41a60",
@@ -603,7 +601,9 @@
   "6893b2112e272034",
   "bccrudeoilfuturestheregister",
   "54af1e49c9c46f90",
-  "trumpbacksiraqipmsoilsmugglingcrackdown"
+  "trumpbacksiraqipmsoilsmugglingcrackdown",
+  "d81524d190066a3a",
+  "oilsurgepushesindonesiatomullfirstsubsidizedfuelpricehikeiny"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T18:25:15.838450+02:00",
+ "last_run": "2026-11-27T18:30:26.345934+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1788,6 +1788,10 @@
   {
    "d": "2026-11-27",
    "t": "Crude oil prices near $97 as West Asia tensions revive supply fears; OPEC+ meeting in focus - The Economic Times"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil Surge Pushes Indonesia to Mull First Subsidized Fuel Price Hike in Years"
   }
  ]
 }
