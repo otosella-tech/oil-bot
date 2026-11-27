@@ -4,10 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "b1b531a2d5277660",
-  "oilslicksinthestraitofhormuzareharmingtheenvironment",
-  "22b699238478acfb",
-  "russianrefineryrunsplungetolowestindecadesrystadsays",
   "555b6cba3478bc7e",
   "qatarenergymoutostrengthenstrategicenergycooperationwithjapa",
   "a0506eb1f32f3511",
@@ -603,7 +599,11 @@
   "b864c46e937de862",
   "brentcrudetops96onrastanurahormuztankerrisks",
   "b5c42506331c7c64",
-  "intermodalbrazilstrengthensitspositioninglobalcrudeoiltrade"
+  "intermodalbrazilstrengthensitspositioninglobalcrudeoiltrade",
+  "3045494f3591652b",
+  "exclusiveuspushedvenezuelairaqtoconsiderleavingopecsourcessa",
+  "9b3f3bd72f302567",
+  "crudeoilfuturesriseonpositiveglobaltrends"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 25
+  "count": 27
  },
- "last_run": "2026-11-27T08:10:25.576184+02:00",
+ "last_run": "2026-11-27T08:15:20.690353+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1584,6 +1584,10 @@
   {
    "d": "2026-11-27",
    "t": "Brent Crude Tops $96 on Ras Tanura, Hormuz Tanker Risks - FinanceFeeds"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say - Reuters"
   }
  ]
 }
