@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "b70c9e89fe847b5c",
-  "russiaselevatedcrudeshipmentscontributingtoglobalsupplysurpl",
   "37fe294fe1bbb8da",
   "soilcompletes68billionshaheencomplextargets2027start",
   "19dc2023ac6cc6c2",
@@ -603,7 +601,9 @@
   "b10cb8b606c9664d",
   "nasawanteda100",
   "344ef4d2358b532f",
-  "australiashouldheedtheieaswarningonoildemand"
+  "australiashouldheedtheieaswarningonoildemand",
+  "fa26dc1f78b3a8f0",
+  "currentpriceofoilasofnov232026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 6
  },
- "last_run": "2026-11-27T02:20:20.765203+02:00",
+ "last_run": "2026-11-27T02:25:15.136887+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
