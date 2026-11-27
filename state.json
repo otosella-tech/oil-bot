@@ -4,12 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "5e16a470e7003fcd",
-  "chinasconspicuousabsenceinasianenergysecurityplans",
-  "5d46540dfb004ad8",
-  "oilpricesriseover1afterhouthissaytheyattackedsaudirefinery",
-  "22b91410e6c449c0",
-  "crudeoilpriceforecastrisingsuppliesthreatenasustainedrally",
   "99d45e9c92dbe6f1",
   "extremeweatherexposesweakpointsinglobaloilandnaturalgasshipp",
   "2665fa165990f141",
@@ -603,7 +597,13 @@
   "39c0e50d015d8d5a",
   "trumpsaysvictoryathandiniranurgestehrantoreachdeal",
   "6c40b2c7ae5b8663",
-  "houthiattacksonsaudirefineriespileupisoilswarpremiumback"
+  "houthiattacksonsaudirefineriespileupisoilswarpremiumback",
+  "73ca9c4390754adc",
+  "brentcruderisesabove96asmiddleeastconflictthreatensglobaloil",
+  "1435f5ad3ea3ec3c",
+  "oilpricetodaynovember27brentcrudeabove96ashouthistargetsaudi",
+  "38c29326498f39ff",
+  "opecslargestmembersheadforclashoveroilproductionestimates"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 10
+  "count": 12
  },
- "last_run": "2026-11-27T05:15:18.455064+02:00",
+ "last_run": "2026-11-27T05:20:19.752249+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1560,6 +1560,14 @@
   {
    "d": "2026-11-27",
    "t": "Houthi Attacks on Saudi Refineries Pile Up. Is Oil's War Premium Back? - BeInCrypto"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil Price Today (November 27): Brent crude above $96 as Houthis target Saudi refinery in fresh attack. Wha - The Economic Times"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Opec+’s largest members head for clash over oil production estimates - Financial Times"
   }
  ]
 }
