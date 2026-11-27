@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "3d31232f9c98b75d",
-  "currentpriceofoilasofnovember162026",
   "e6d40ae8a7011de6",
   "northdakotaoilcontaminationposeschallengesthatcouldcascadere",
   "ecd8302f07087865",
@@ -603,7 +601,9 @@
   "dad70bd602d678c6",
   "europegasslidestowardweeklylossdivergingfromcrudeasattacksli",
   "de02ae8d4bae399e",
-  "trumpbacksiraqileaderseffortstoassertmorestateauthority"
+  "trumpbacksiraqileaderseffortstoassertmorestateauthority",
+  "5608c7637f9d883a",
+  "heathrowandrosebankdisputesthreatenburnhamslabourunity"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T14:05:16.323134+02:00",
+ "last_run": "2026-11-27T14:10:30.318797+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
