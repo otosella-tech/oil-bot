@@ -4,10 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "99d45e9c92dbe6f1",
-  "extremeweatherexposesweakpointsinglobaloilandnaturalgasshipp",
-  "2665fa165990f141",
-  "oiljumpsover2assaudiarabiadownsdronesoverrastanura",
   "943cba70fd25888d",
   "crudeoilinventoriesfallshortofforecastindicatingstrongdemand",
   "40a63805840798f7",
@@ -603,7 +599,11 @@
   "1435f5ad3ea3ec3c",
   "oilpricetodaynovember27brentcrudeabove96ashouthistargetsaudi",
   "38c29326498f39ff",
-  "opecslargestmembersheadforclashoveroilproductionestimates"
+  "opecslargestmembersheadforclashoveroilproductionestimates",
+  "6968cec81801a55c",
+  "1953shipwreckoffsanfranciscocoastlinkedtodozensofoilcoveredb",
+  "22b91410e6c449c0",
+  "crudeoilpriceforecastrisingsuppliesthreatenasustainedrally"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 12
  },
- "last_run": "2026-11-27T05:25:15.342529+02:00",
+ "last_run": "2026-11-27T05:30:26.469477+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
