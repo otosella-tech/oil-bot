@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "3f83025abd919158",
-  "libyaplansnewoilbiddingroundsdespitemountingsecurityrisks",
   "30f2ff5814c80f6d",
   "oilpricesmixedastradersweighmiddleeastsupplyrisksopecmeeting",
   "db98ecbbba3704d7",
@@ -603,7 +601,9 @@
   "5ff5ae63e9df492c",
   "crudeoilpriceforecastwtiandbrentstallaheadofopecmeeting",
   "f19cd7ae0dda97c8",
-  "iransaysoiltankerexplodesafterhittingnavalmineinstraitofhorm"
+  "iransaysoiltankerexplodesafterhittingnavalmineinstraitofhorm",
+  "142f818b24ba2431",
+  "uspushediraqandvenezuelatoconsiderquittingopecsourcessay"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T16:25:15.592125+02:00",
+ "last_run": "2026-11-27T16:30:33.176472+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1768,6 +1768,10 @@
   {
    "d": "2026-11-27",
    "t": "Iran says oil tanker explodes after hitting naval mine in Strait of Hormuz - Middle East Monitor"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "U.S. Pushed Iraq and Venezuela to Consider Quitting OPEC, Sources Say"
   }
  ]
 }
