@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "d73f0ad05933defc",
-  "oilpricesriseastradersweighmiddleeastsupplyrisksopecmeeting",
   "90fdca21f975305a",
   "hormuzminestrikestieoilssurplustradetousnavalstayingpower",
   "b332f650a969acd0",
@@ -603,7 +601,9 @@
   "71c4542a881df6e4",
   "canadianfinancialcloselooniesteadycrudeoillower",
   "dae2987bcac06cfb",
-  "theriskofopecfractureisrising4countrieshavelefttheallianceca"
+  "theriskofopecfractureisrising4countrieshavelefttheallianceca",
+  "86ced19254f69607",
+  "uscrudeoilimportsfromvenezuelainjulywerehighestsince2017"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-28",
   "count": 2
  },
- "last_run": "2026-11-28T00:25:15.390834+02:00",
+ "last_run": "2026-11-28T00:30:26.439975+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
