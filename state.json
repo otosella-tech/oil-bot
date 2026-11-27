@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "6e9b0b2d77473ac6",
-  "oiltradersdownplaypersiangulfsupplyrisksdespiterisingattacks",
   "69e746b5ec284cc2",
   "currentpriceofoilasofnovember242026",
   "789e90ad82257285",
@@ -603,7 +601,9 @@
   "4ee1180871aa2b27",
   "oilrisesaswtijumpsnearly3gulfattacksthreatencrudesupplyrecov",
   "9efebffc3d2a5902",
-  "oiltradersignoregrowingthreattopersiangulfsupply"
+  "oiltradersignoregrowingthreattopersiangulfsupply",
+  "d0dfb40bf9d4e163",
+  "rupeefalls24paiseto9262againstusdollaramidcrudeoilpricesurge"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 48
  },
- "last_run": "2026-11-27T11:40:19.952322+02:00",
+ "last_run": "2026-11-27T11:45:20.806914+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
