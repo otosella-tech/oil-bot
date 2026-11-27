@@ -4,8 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "7b769dd4a6ec8d3c",
-  "oilextendsgainsasmiddleeasttensionsfuelmarketjitters",
   "8711bccbccdbc5aa",
   "iraqipmcracksdownonkurdscontrolofoilfieldskurdsrejectriskymo",
   "cb007f65c97ce036",
@@ -603,7 +601,9 @@
   "4aee6befea8e927c",
   "oldpvcpipesbecameengineoilingredientinthreehoursresearchersr",
   "602dd034330c2eac",
-  "oilsettlesup2astradersweighcontinuedhormuzshipattacks"
+  "oilsettlesup2astradersweighcontinuedhormuzshipattacks",
+  "1c101761f540ef54",
+  "oilpricesmixedaheadofopecmeetingasmiddleeastsupplyriskspersi"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T15:10:20.287239+02:00",
+ "last_run": "2026-11-27T15:15:22.034411+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1736,6 +1736,10 @@
   {
    "d": "2026-11-27",
    "t": "Oil settles up $2 as traders weigh continued Hormuz ship attacks - Reuters"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil Prices Mixed Ahead of OPEC+ Meeting as Middle East Supply Risks Persist - WSJ"
   }
  ]
 }
