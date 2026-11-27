@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "71b68c5de1cd31eb",
-  "oilpricesmixedasmiddleeastsupplyrisksclashwithgrowingusinven",
   "20efeb02d0806218",
   "ninehurtinhugeexplosionatbangkokoilfacility",
   "97405eea1cfdc99b",
@@ -603,7 +601,9 @@
   "0dda3cc265080e93",
   "oilgaspricesfallasbrenttrimsweeklygainsaheadofopecmeeting",
   "4850fdd622d484c8",
-  "wtioilflitswiththe8500astensionsinthemiddleeastthreatensuppl"
+  "wtioilflitswiththe8500astensionsinthemiddleeastthreatensuppl",
+  "7f72f6737cb608c9",
+  "crudepricesretreatonpossibleincreaseinopeccrudeoutput"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -619,7 +619,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T22:20:27.250934+02:00",
+ "last_run": "2026-11-27T22:25:15.069089+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
