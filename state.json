@@ -4,12 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "8ee4df4497d3fbba",
-  "watchoilflowsinhormuzstraitforeveralteredsaystomkloza",
-  "2dc4637a45327129",
-  "equinorcuts2026productiongrowthforecastafteroffshoreoutages",
-  "23a3e35452097455",
-  "howtheoilmarketcouldmovefromfaminetoglut",
   "fc1905a55f647b51",
   "lukoiltosellforeignassetsbutnottokushnerandwitkoffassociates",
   "9670335aea4873ee",
@@ -603,7 +597,13 @@
   "ba0ab84f67e1b400",
   "sensexplunges989pointsassurgeincrudeoilpricestriggersselloff",
   "3e8b36d3cc259870",
-  "indianrupeehitspauseafterarallyasrevivedhormuzrisksboostoilp"
+  "indianrupeehitspauseafterarallyasrevivedhormuzrisksboostoilp",
+  "0603cb3b70647776",
+  "wticrudeoilelliottwaveanalysisandforecastfor271126041226",
+  "9f9bae3965f3f4e9",
+  "oilrisesonsupplyconcernsasiranclaimsminestrikesonships",
+  "d3ee3f4eee2226fe",
+  "oilsettles3higheronattacksonsaudienergysitesstraitofhormuzdi"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T13:50:20.707178+02:00",
+ "last_run": "2026-11-27T13:55:15.319563+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1680,6 +1680,14 @@
   {
    "d": "2026-11-27",
    "t": "Indian Rupee hits pause after a rally as revived Hormuz risks boost oil prices - FXStreet"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil rises on supply concerns as Iran claims mine strikes on ships - CNBC"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Oil settles $3 higher on attacks on Saudi energy sites, Strait of Hormuz disruptions - Reuters"
   }
  ]
 }
