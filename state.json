@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "b3bcf3c28f027472",
-  "crudeoilpricesfallasiranlinkedattacksraisefreshfearsoverglob",
   "cf6345a829ea67e4",
   "crudeoilinventoriesriselessthanforecast",
   "daa0ba875cc7662f",
@@ -603,7 +601,9 @@
   "d62a388a47de9e7d",
   "80ofcrudeoilexporteddependentonimports",
   "87adbfdff95cc8ac",
-  "yourfridaynov27guidefivethingstodointheoilcity"
+  "yourfridaynov27guidefivethingstodointheoilcity",
+  "8e6eb98c996e8d1f",
+  "keepingtargetssteadyopecsettokeepoilproductiontargetssteadys"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,7 +618,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T21:45:18.764271+02:00",
+ "last_run": "2026-11-27T21:50:20.464785+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1835,6 +1835,10 @@
   {
    "d": "2026-11-27",
    "t": "US urges Venezuela and Iraq to quit OPEC, seeking greater influence over global oil supplies - The American Bazaar"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "KEEPING TARGETS STEADY: OPEC+ Set to Keep Oil Production Targets Steady, Sources - EnergyNow.com"
   }
  ]
 }
