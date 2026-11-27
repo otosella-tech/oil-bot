@@ -4,8 +4,6 @@
   "Brent": 90.88
  },
  "seen": [
-  "9f3254643a66b667",
-  "macklemwarnsofsecondroundoilshockasdecemberrateoddsrise",
   "46efcbbfcc5031f2",
   "ustotalcrudeoilstocksfallinweekendednov20",
   "c8ffce40852539a5",
@@ -603,7 +601,9 @@
   "b6b6597c27898631",
   "southsudanplansfiveblockoillicensingroundtoraisecrudeproduct",
   "ba57fdc2b9f00572",
-  "oilpricesclimbasmiddleeastsupplyrisksovershadowglutfears"
+  "oilpricesclimbasmiddleeastsupplyrisksovershadowglutfears",
+  "c088b788f10d6e3f",
+  "venezuelanoilmagnatedefendscontentiousdealwithtrump"
  ],
  "releases_done": {},
  "last_digest": "2026-11-26",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-27",
-  "count": 14
+  "count": 15
  },
- "last_run": "2026-11-27T07:20:20.809668+02:00",
+ "last_run": "2026-11-27T07:25:22.583407+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
