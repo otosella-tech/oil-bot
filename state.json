@@ -4,12 +4,6 @@
   "Brent": 92.75
  },
  "seen": [
-  "5956a53001f78b57",
-  "crudepostsbacktobackgainsonmiddleeasttension",
-  "c7c1981a279e0ec4",
-  "iraqseekshigheroiloutputcapacityestimateaheadof2027opecquota",
-  "88225703f234e214",
-  "sugarpricessupportedbydollarweaknessandstrengthincrudeoil",
   "44467b6232eb6ae8",
   "inventorybuildcantbeattheriskpremium",
   "12b0ba6983926824",
@@ -603,7 +597,13 @@
   "98b1354ee61f3e8e",
   "indiansharessnapblisteringrallyafterfourweeksasoilpricesclim",
   "a4bf02069bc07801",
-  "oilpricesclimbasmiddleeastsupplythreatsputbrentnear97andwtia"
+  "oilpricesclimbasmiddleeastsupplythreatsputbrentnear97andwtia",
+  "76cd69ac8eb2c47a",
+  "ethanolmarginsfacepressureasoilpricesfallnearly20",
+  "2639554fdc8ee99a",
+  "iranaccusedofdeadlydroneattackinkuwaitthatsparkseucalltostep",
+  "a5b4e6b7cd3d951f",
+  "indianrupeecorrectsasoilpricesrisestrongfiisinflowtolimitdow"
  ],
  "releases_done": {},
  "last_digest": "2026-11-27",
@@ -615,7 +615,7 @@
   "date": "2026-11-27",
   "count": 60
  },
- "last_run": "2026-11-27T14:20:21.589206+02:00",
+ "last_run": "2026-11-27T14:25:20.907058+02:00",
  "sent_stories": [
   {
    "d": "2026-11-24",
@@ -1696,6 +1696,10 @@
   {
    "d": "2026-11-27",
    "t": "Oil Prices Climb as Middle East Supply Threats Put Brent Near $97 and WTI Above $85 Ahead of OPEC+ Meeting - EnergyNow"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran - CBS News"
   }
  ]
 }
