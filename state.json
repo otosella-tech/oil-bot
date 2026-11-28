@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "53d0867bbe666076",
-  "oilpricesriseafterminestrikesonshipsrevivesupplyconcernseuro",
   "05934394d9e48036",
   "oilpricesriseafterminestrikesonshipsrevivesupplyconcerns",
   "62b073fcd7723fcd",
@@ -603,7 +601,9 @@
   "979b423b220141cc",
   "crudeoilpriceforecastgulftensionshelpoilpricesfindafloor",
   "491fdd159fc0ceff",
-  "sensexslips069niftyslips075overtheweekascrudeoilsurgeandrupe"
+  "sensexslips069niftyslips075overtheweekascrudeoilsurgeandrupe",
+  "245f191029a6860e",
+  "iranianhardlinerscallfortankerconvoytodefyusblockade"
  ],
  "releases_done": {},
  "last_digest": "2026-11-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-28",
-  "count": 20
+  "count": 22
  },
- "last_run": "2026-11-28T08:00:34.459358+02:00",
+ "last_run": "2026-11-28T08:05:21.450555+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
@@ -1584,6 +1584,10 @@
   {
    "d": "2026-11-28",
    "t": "Fire reported near oil refinery in Russia's Rostov Oblast amid Ukrainian drone attack - The Kyiv Independent"
+  },
+  {
+   "d": "2026-11-28",
+   "t": "Iranian Hardliners Call for Tanker Convoy to Defy U.S. Blockade - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
