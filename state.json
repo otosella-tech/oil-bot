@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "8c148c0e4ae900c9",
-  "whystheoilmarkettalkingaboutasurplusagain",
   "1ab0b80b1ae376ea",
   "howanoilfeudisdeepeningriftbetweenbaghdadandiraqskurdishregi",
   "4f84e86f721969de",
@@ -603,7 +601,9 @@
   "e3c657806186e26e",
   "semiconductorchipsarethenewoilhereswhy",
   "4700002afab7a755",
-  "thousandsprotestinirbilasbaghdadmovestoseizekurdishoilandbor"
+  "thousandsprotestinirbilasbaghdadmovestoseizekurdishoilandbor",
+  "367b12018c3e1206",
+  "firereportednearoilrefineryinrussiasrostovoblastamidukrainia"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-11-28",
-  "count": 12
+  "count": 14
  },
- "last_run": "2026-11-28T06:10:18.512414+02:00",
+ "last_run": "2026-11-28T06:15:18.603474+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
@@ -1585,6 +1585,10 @@
   {
    "d": "2026-11-28",
    "t": "Thousands protest in Irbil as Baghdad moves to seize Kurdish oil and border control - AP News"
+  },
+  {
+   "d": "2026-11-28",
+   "t": "Fire reported near oil refinery in Russia's Rostov Oblast amid Ukrainian drone attack - The Kyiv Independent"
   }
  ]
 }
