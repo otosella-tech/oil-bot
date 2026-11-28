@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "5034a443025ea94d",
-  "opinionplentytobethankfulforinnatronacounty",
   "708910b807618153",
   "whycoppersthanksgivingbouncemaynotbethestartofanything",
   "ec7d2d25bc9131fb",
@@ -603,7 +601,9 @@
   "ad5cf87a2109fd20",
   "blockingrosebankwouldmakeukpoorer",
   "181166bbd802e8fd",
-  "usmilitaryrejectsiranianclaimsofattackonaircraftcarrierabrah"
+  "usmilitaryrejectsiranianclaimsofattackonaircraftcarrierabrah",
+  "3b034136590d5701",
+  "indianoilstockanddividendyieldinfocusafterdangoterefineryipo"
  ],
  "releases_done": {},
  "last_digest": "2026-11-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-28",
-  "count": 28
+  "count": 30
  },
- "last_run": "2026-11-28T10:40:19.161369+02:00",
+ "last_run": "2026-11-28T10:45:24.787722+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
@@ -1600,6 +1600,10 @@
   {
    "d": "2026-11-28",
    "t": "US military rejects Iranian claims of attack on aircraft carrier Abraham Lincoln - Arab News"
+  },
+  {
+   "d": "2026-11-28",
+   "t": "Indian Oil Stock And Dividend Yield In Focus After Dangote Refinery IPO - Yahoo Finance"
   }
  ]
 }
