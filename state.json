@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "8eda92b4cece2134",
-  "azerbaijanspetroleumproductexportssurge525pctinjanuaryoctobe",
   "05b76c9f9326ddd7",
   "oilpricessetforsecondstraightweeklydroponsignsofgrowingsuppl",
   "21ce26f21d2f43fe",
@@ -603,7 +601,9 @@
   "d67e52749dd4dcf3",
   "hormuzoilthroughputfallsto54ofprewarasshiptoshiproutehitslim",
   "55a35b3ed62e0706",
-  "argentinafailsinbidtohaltukoilactivitynearfalklands"
+  "argentinafailsinbidtohaltukoilactivitynearfalklands",
+  "d430dc7719ef4b2b",
+  "oilpricesfallfridayasmarketsawaitopecdecisionbrentpostsfirst"
  ],
  "releases_done": {},
  "last_digest": "2026-11-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-28",
-  "count": 46
+  "count": 48
  },
- "last_run": "2026-11-28T14:35:24.680821+02:00",
+ "last_run": "2026-11-28T14:40:20.448220+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
@@ -1636,6 +1636,10 @@
   {
    "d": "2026-11-28",
    "t": "Hormuz Oil Throughput Falls to 54% of Prewar as Ship-to-Ship Route Hits Limits - https://houseofsaud.com/"
+  },
+  {
+   "d": "2026-11-28",
+   "t": "Oil Prices Fall Friday as Markets Await OPEC+ Decision – Brent Posts First Weekly Gain in November, WTI Extends Losing Streak - EnergyNow.com"
   }
  ]
 }
