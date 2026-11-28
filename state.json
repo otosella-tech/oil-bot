@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "99a4fd3591e51f52",
-  "enbridgeindiscussionstosellpartofitscrudeoilpipelinenetworkf",
   "71b97eac0eb0f186",
   "oilsupplyconcernssupportpricesaheadofopecmeetinging",
   "8c148c0e4ae900c9",
@@ -603,7 +601,9 @@
   "aaa9bb07943b77fe",
   "uspressuresvenezuelairaqtoexitopec",
   "3d531e944411d23c",
-  "stockssettlesharplyhigheraschipmakersandaistocksrebound"
+  "stockssettlesharplyhigheraschipmakersandaistocksrebound",
+  "e3c657806186e26e",
+  "semiconductorchipsarethenewoilhereswhy"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -620,7 +620,7 @@
   "date": "2026-11-28",
   "count": 10
  },
- "last_run": "2026-11-28T05:20:19.447190+02:00",
+ "last_run": "2026-11-28T05:25:16.261371+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
