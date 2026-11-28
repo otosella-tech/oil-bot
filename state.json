@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "1687bd74087dd787",
-  "whymakingelectricityfromseawaterhasfailed",
   "b12621c8a7abbfc4",
   "attackonsaudiaramcosjazanrefinerykillsworkerhaltssomeoperati",
   "a3d34753c2a6c37c",
@@ -603,7 +601,9 @@
   "05b76c9f9326ddd7",
   "oilpricessetforsecondstraightweeklydroponsignsofgrowingsuppl",
   "05ed0e75846adbf8",
-  "droneshitnovoshakhtinskoilrefineryinrussiasrostovregion"
+  "droneshitnovoshakhtinskoilrefineryinrussiasrostovregion",
+  "a2e64c3b4d4bf952",
+  "grainmarketsaregrowingboredofglobalconflicts"
  ],
  "releases_done": {},
  "last_digest": "2026-11-28",
@@ -615,7 +615,7 @@
   "date": "2026-11-28",
   "count": 50
  },
- "last_run": "2026-11-28T15:10:20.069080+02:00",
+ "last_run": "2026-11-28T15:15:21.371709+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
