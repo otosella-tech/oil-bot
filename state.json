@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "05b76c9f9326ddd7",
-  "oilpricessetforsecondstraightweeklydroponsignsofgrowingsuppl",
   "21ce26f21d2f43fe",
   "crudeoilconsolidatesasbearishmomentumeaseswhilegeopoliticalr",
   "5f5efa2f3921c260",
@@ -603,7 +601,9 @@
   "55a35b3ed62e0706",
   "argentinafailsinbidtohaltukoilactivitynearfalklands",
   "d430dc7719ef4b2b",
-  "oilpricesfallfridayasmarketsawaitopecdecisionbrentpostsfirst"
+  "oilpricesfallfridayasmarketsawaitopecdecisionbrentpostsfirst",
+  "ef520f24cfeefee7",
+  "argentinafailstoblockukledoildrillingofffalklandislands"
  ],
  "releases_done": {},
  "last_digest": "2026-11-28",
@@ -615,7 +615,7 @@
   "date": "2026-11-28",
   "count": 48
  },
- "last_run": "2026-11-28T14:40:20.448220+02:00",
+ "last_run": "2026-11-28T14:45:19.177878+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
