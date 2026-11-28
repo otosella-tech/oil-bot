@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "b12621c8a7abbfc4",
-  "attackonsaudiaramcosjazanrefinerykillsworkerhaltssomeoperati",
   "a3d34753c2a6c37c",
   "tsxclimbsonenergyminersboosttechreboundsafterselloff",
   "7a74ebe5940b0628",
@@ -603,7 +601,9 @@
   "05ed0e75846adbf8",
   "droneshitnovoshakhtinskoilrefineryinrussiasrostovregion",
   "a2e64c3b4d4bf952",
-  "grainmarketsaregrowingboredofglobalconflicts"
+  "grainmarketsaregrowingboredofglobalconflicts",
+  "0a8b7070d3b04be1",
+  "argentinasbidtostopfalklandsoildrillingrejected"
  ],
  "releases_done": {},
  "last_digest": "2026-11-28",
@@ -615,7 +615,7 @@
   "date": "2026-11-28",
   "count": 50
  },
- "last_run": "2026-11-28T15:15:21.371709+02:00",
+ "last_run": "2026-11-28T15:20:28.020819+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
