@@ -4,10 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "20d9ea34b05adfc3",
-  "oilfuturescrudeat3wkhighonfreshroundofgulfattacks",
-  "4f213060f1d3d082",
-  "albertaraisesprojectedsurplusto6billionasoilsurges",
   "4e980affc73dd971",
   "despitemarketdisruptionsisanoilglutontheway",
   "d022a618649de3f4",
@@ -603,7 +599,11 @@
   "dac50cf1c50a4642",
   "depday1185routineinspectionfindsm4energyllchasstillfailedtop",
   "15aa741b12826153",
-  "oilpriceseasetotwomonthlowsasusdownplaysfurtheriranstrikes"
+  "oilpriceseasetotwomonthlowsasusdownplaysfurtheriranstrikes",
+  "b7a38d46cece16be",
+  "howthestraitofhormuzcrisisprovedenergyindependenceisamyth",
+  "c27ae44c57d2d121",
+  "currentpriceofoilasofnovember32026"
  ],
  "releases_done": {},
  "last_digest": "2026-11-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-28",
-  "count": 42
+  "count": 44
  },
- "last_run": "2026-11-28T14:00:33.561470+02:00",
+ "last_run": "2026-11-28T14:05:16.705155+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
@@ -1628,6 +1628,10 @@
   {
    "d": "2026-11-28",
    "t": "Oil prices ease to two-month lows as US downplays further Iran strikes - Reuters"
+  },
+  {
+   "d": "2026-11-28",
+   "t": "How the Strait of Hormuz Crisis Proved Energy Independence Is a Myth - The National Interest"
   }
  ]
 }
