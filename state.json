@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "d65b84fe69e5e3eb",
-  "athanksgivingenergyroundupcheapergasolinecostlierheatandahor",
   "e3c657806186e26e",
   "semiconductorchipsarethenewoilhereswhy",
   "99a4fd3591e51f52",
@@ -603,7 +601,9 @@
   "94556fafaab2eed5",
   "currentpriceofoilasofnovember202026",
   "e16f4b24873ddeea",
-  "gasanddieselpricesfallingrandjunctionofferingdriversreliefat"
+  "gasanddieselpricesfallingrandjunctionofferingdriversreliefat",
+  "aaa9bb07943b77fe",
+  "uspressuresvenezuelairaqtoexitopec"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-11-28",
-  "count": 8
+  "count": 10
  },
- "last_run": "2026-11-28T04:45:24.897683+02:00",
+ "last_run": "2026-11-28T04:50:24.760220+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
@@ -1577,6 +1577,10 @@
   {
    "d": "2026-11-28",
    "t": "U.S. Pressures Venezuela, Iraq on OPEC Exit - 조선일보"
+  },
+  {
+   "d": "2026-11-28",
+   "t": "U.S. Pressures Venezuela, Iraq to Exit OPEC - 조선일보"
   }
  ]
 }
