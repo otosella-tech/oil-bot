@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "bdbf29a32f5d9f79",
-  "thebplinkedoilspillleavingangolanssickandhungry",
   "80159871aea71631",
   "saudicoalitionsayshouthisattackedaramcojazanrefinery",
   "967f1d35997e9850",
@@ -603,7 +601,9 @@
   "72a2bc8c658bcc25",
   "energymarketwrapcrudeoilpricessurgebrenttops96",
   "bf05144217002416",
-  "dronesstrikerussiasnovoshakhtinskrefineryandsamaraoilhub"
+  "dronesstrikerussiasnovoshakhtinskrefineryandsamaraoilhub",
+  "c24bcf0f242ba8bd",
+  "tankertrafficathormuzticksupdespiteintensifiedattacks"
  ],
  "releases_done": {},
  "last_digest": "2026-11-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-28",
-  "count": 34
+  "count": 36
  },
- "last_run": "2026-11-28T11:05:16.704183+02:00",
+ "last_run": "2026-11-28T11:10:21.173992+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
@@ -1612,6 +1612,10 @@
   {
    "d": "2026-11-28",
    "t": "Drones Strike Russia’s Novoshakhtinsk Refinery and Samara Oil Hub - Kyiv Post"
+  },
+  {
+   "d": "2026-11-28",
+   "t": "Tanker Traffic at Hormuz Ticks Up Despite Intensified Attacks - Crude Oil Prices Today | OilPrice.com"
   }
  ]
 }
