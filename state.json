@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "94556fafaab2eed5",
-  "currentpriceofoilasofnovember202026",
   "6f50d070978af73f",
   "atleast9injuredbylargeexplosionandfireatmajoroilfacilityinba",
   "729e0514b045867a",
@@ -603,7 +601,9 @@
   "5cd3a38b5ba19862",
   "januarywticrudeoilcontractclosesdown060or07settlesat8308perb",
   "ccdeafbc52c3aa28",
-  "transmountaintoshipfullyloadedtankersbysummerceosays"
+  "transmountaintoshipfullyloadedtankersbysummerceosays",
+  "59e205ec2feedc20",
+  "uspressuresvenezuelairaqonopecexit"
  ],
  "releases_done": {
   "2026-11-27|ספירת אסדות קידוח (Baker Hughes)|pre": 1,
@@ -618,9 +618,9 @@
  },
  "llm": {
   "date": "2026-11-28",
-  "count": 6
+  "count": 8
  },
- "last_run": "2026-11-28T03:15:18.633889+02:00",
+ "last_run": "2026-11-28T03:20:20.965182+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
@@ -1573,6 +1573,10 @@
   {
    "d": "2026-11-28",
    "t": "Trans Mountain to Ship Fully Loaded Tankers by Summer, CEO Says - Bloomberg.com"
+  },
+  {
+   "d": "2026-11-28",
+   "t": "U.S. Pressures Venezuela, Iraq on OPEC Exit - 조선일보"
   }
  ]
 }
