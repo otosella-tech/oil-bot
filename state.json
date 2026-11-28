@@ -4,8 +4,6 @@
   "Brent": 90.71
  },
  "seen": [
-  "5f5efa2f3921c260",
-  "iranclaimstwotankershitminesinstraitofhormuzbutoiltradersare",
   "1687bd74087dd787",
   "whymakingelectricityfromseawaterhasfailed",
   "b12621c8a7abbfc4",
@@ -603,7 +601,9 @@
   "ef520f24cfeefee7",
   "argentinafailstoblockukledoildrillingofffalklandislands",
   "05b76c9f9326ddd7",
-  "oilpricessetforsecondstraightweeklydroponsignsofgrowingsuppl"
+  "oilpricessetforsecondstraightweeklydroponsignsofgrowingsuppl",
+  "05ed0e75846adbf8",
+  "droneshitnovoshakhtinskoilrefineryinrussiasrostovregion"
  ],
  "releases_done": {},
  "last_digest": "2026-11-28",
@@ -613,9 +613,9 @@
  },
  "llm": {
   "date": "2026-11-28",
-  "count": 48
+  "count": 50
  },
- "last_run": "2026-11-28T14:55:22.717609+02:00",
+ "last_run": "2026-11-28T15:00:30.913222+02:00",
  "sent_stories": [
   {
    "d": "2026-11-25",
@@ -1640,6 +1640,10 @@
   {
    "d": "2026-11-28",
    "t": "Oil Prices Fall Friday as Markets Await OPEC+ Decision – Brent Posts First Weekly Gain in November, WTI Extends Losing Streak - EnergyNow.com"
+  },
+  {
+   "d": "2026-11-28",
+   "t": "Drones hit Novoshakhtinsk oil refinery in Russia’s Rostov region - Around Prague"
   }
  ]
 }
